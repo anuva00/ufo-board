@@ -1,0 +1,1239 @@
+{
+ "slug": "hessdalen-lights",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Hessdalen lights",
+   "description": "Unidentified lights observed in the Hessdalen valley in rural central Norway since at least the 1930s.",
+   "aliases": [
+    "Hessdalen Lights",
+    "HL"
+   ]
+  },
+  {
+   "key": "valley",
+   "type": "place",
+   "name": "Hessdalen, Norway",
+   "description": "Valley in rural central Norway where the lights are observed",
+   "aliases": [
+    "Hessdalen valley",
+    "Hessdalen"
+   ]
+  },
+  {
+   "key": "norway",
+   "type": "place",
+   "name": "Norway",
+   "description": "Country"
+  },
+  {
+   "key": "hesja",
+   "type": "place",
+   "name": "Hesja",
+   "description": "River in the Hessdalen valley",
+   "aliases": [
+    "river Hesja"
+   ]
+  },
+  {
+   "key": "lights",
+   "type": "craft",
+   "name": "Hessdalen lights (the lights)",
+   "description": "Lights that float, sway, move fast or hover in and above the valley"
+  },
+  {
+   "key": "pyramid",
+   "type": "craft",
+   "name": "lights in a pyramid shape recorded by The Triangle Project",
+   "description": "Lights in a pyramid shape that bounced up and down, recorded 1997–1998"
+  },
+  {
+   "key": "ball",
+   "type": "craft",
+   "name": "large light ball reported near radioactive rocks",
+   "description": "Large light ball reported near an area of higher radioactivity on rocks"
+  },
+  {
+   "key": "ph",
+   "type": "program",
+   "name": "Project Hessdalen",
+   "description": "Investigation of the lights initiated by UFO-Norge and UFO-Sverige in 1983"
+  },
+  {
+   "key": "tri",
+   "type": "program",
+   "name": "The Triangle Project",
+   "description": "1997–1998 collaboration of students, engineers and journalists"
+  },
+  {
+   "key": "ams",
+   "type": "program",
+   "name": "Hessdalen Automatic Measurement Station",
+   "description": "Station set up in the valley in 1998 to register and record the lights",
+   "aliases": [
+    "Hessdalen AMS"
+   ]
+  },
+  {
+   "key": "embla",
+   "type": "program",
+   "name": "EMBLA",
+   "description": "Programme bringing together scientists and students to research the lights"
+  },
+  {
+   "key": "ufonorge",
+   "type": "organization",
+   "name": "UFO-Norge",
+   "description": "Initiator of Project Hessdalen"
+  },
+  {
+   "key": "ufosverige",
+   "type": "organization",
+   "name": "UFO-Sverige",
+   "description": "Initiator of Project Hessdalen"
+  },
+  {
+   "key": "ostfold",
+   "type": "organization",
+   "name": "Østfold University College",
+   "description": "Leading research institution (Norway)"
+  },
+  {
+   "key": "cnr",
+   "type": "organization",
+   "name": "Italian National Research Council",
+   "description": "Leading research institution"
+  },
+  {
+   "key": "teodorani",
+   "type": "person",
+   "name": "Massimo Teodorani",
+   "description": "Physicist"
+  },
+  {
+   "key": "paiva",
+   "type": "person",
+   "name": "Gerson Paiva",
+   "description": "Co-author of 2011 paper on the dusty plasma theory",
+   "aliases": [
+    "Paiva"
+   ]
+  },
+  {
+   "key": "taft",
+   "type": "person",
+   "name": "Carlton Taft",
+   "description": "Co-author of 2011 paper on the dusty plasma theory",
+   "aliases": [
+    "Taft"
+   ]
+  },
+  {
+   "key": "monari",
+   "type": "person",
+   "name": "Jader Monari",
+   "description": "Published a 2014 geological-battery model of the lights"
+  },
+  {
+   "key": "dunning",
+   "type": "person",
+   "name": "Brian Dunning",
+   "description": "Author of Skeptoid #270",
+   "aliases": [
+    "Dunning, Brian"
+   ]
+  },
+  {
+   "key": "paper2011",
+   "type": "document",
+   "name": "2011 paper by Gerson Paiva and Carlton Taft",
+   "description": "Paper based on the dusty plasma theory of Hessdalen lights"
+  },
+  {
+   "key": "monarimodel",
+   "type": "document",
+   "name": "2014 Hessdalen Lights model by Jader Monari",
+   "description": "Model involving a geological-like battery"
+  },
+  {
+   "key": "bulletin",
+   "type": "document",
+   "name": "Project Hessdalen Bulletin, 1983–1985",
+   "description": "Bulletin of Project Hessdalen"
+  },
+  {
+   "key": "skeptoid",
+   "type": "work",
+   "name": "Skeptoid #270: The Hessdalen Lights",
+   "description": "Skeptoid episode of August 9, 2011",
+   "aliases": [
+    "Skeptoid"
+   ]
+  },
+  {
+   "key": "marfa",
+   "type": "case",
+   "name": "Marfa lights",
+   "description": "Light phenomenon listed under See also"
+  },
+  {
+   "key": "brown",
+   "type": "case",
+   "name": "Brown Mountain lights",
+   "description": "Light phenomenon listed under See also"
+  },
+  {
+   "key": "longdendale",
+   "type": "case",
+   "name": "Longdendale lights",
+   "description": "Light phenomenon listed under See also"
+  },
+  {
+   "key": "maco",
+   "type": "case",
+   "name": "Maco light",
+   "description": "Light phenomenon listed under See also"
+  },
+  {
+   "key": "minmin",
+   "type": "case",
+   "name": "Min Min light",
+   "description": "Light phenomenon listed under See also"
+  },
+  {
+   "key": "naga",
+   "type": "case",
+   "name": "Naga fireballs",
+   "description": "Light phenomenon listed under See also"
+  },
+  {
+   "key": "paulding",
+   "type": "case",
+   "name": "Paulding Light",
+   "description": "Light phenomenon listed under See also"
+  },
+  {
+   "key": "chir",
+   "type": "case",
+   "name": "Chir Batti",
+   "description": "Light phenomenon listed under See also"
+  },
+  {
+   "key": "aleya",
+   "type": "case",
+   "name": "Aleya (Ghost light)",
+   "description": "Light phenomenon listed under See also"
+  },
+  {
+   "key": "f_lights",
+   "type": "feature",
+   "name": "lights-only",
+   "description": "feature"
+  },
+  {
+   "key": "f_hover",
+   "type": "feature",
+   "name": "hovering",
+   "description": "feature"
+  },
+  {
+   "key": "f_speed",
+   "type": "feature",
+   "name": "high-speed-maneuvers",
+   "description": "feature"
+  },
+  {
+   "key": "f_video",
+   "type": "feature",
+   "name": "film-or-video",
+   "description": "feature"
+  },
+  {
+   "key": "f_rad",
+   "type": "feature",
+   "name": "radiation-reading",
+   "description": "feature"
+  },
+  {
+   "key": "f_sphere",
+   "type": "feature",
+   "name": "shape-sphere",
+   "description": "feature"
+  },
+  {
+   "key": "f_other",
+   "type": "feature",
+   "name": "shape-other",
+   "description": "feature"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "feature"
+  },
+  {
+   "key": "f_recur",
+   "type": "feature",
+   "name": "other:recurring-phenomenon",
+   "description": "feature"
+  },
+  {
+   "key": "x_misp",
+   "type": "explanation",
+   "name": "misperception",
+   "description": "Some sightings identified as misperceptions"
+  },
+  {
+   "key": "x_air",
+   "type": "explanation",
+   "name": "conventional-aircraft",
+   "description": "Some sightings identified as aircraft"
+  },
+  {
+   "key": "x_astro",
+   "type": "explanation",
+   "name": "other:astronomical-bodies",
+   "description": "Some sightings identified as astronomical bodies"
+  },
+  {
+   "key": "x_car",
+   "type": "explanation",
+   "name": "other:car-headlights",
+   "description": "Some sightings identified as car headlights"
+  },
+  {
+   "key": "x_mirage",
+   "type": "explanation",
+   "name": "other:mirage",
+   "description": "Some sightings identified as mirages"
+  },
+  {
+   "key": "x_dust",
+   "type": "explanation",
+   "name": "other:combustion-of-airborne-dust",
+   "description": "Combustion of airborne dust from mining"
+  },
+  {
+   "key": "x_plasma",
+   "type": "explanation",
+   "name": "ball-lightning-or-plasma",
+   "description": "Dusty plasma / Coulomb crystals from radon decay"
+  },
+  {
+   "key": "x_piezo",
+   "type": "explanation",
+   "name": "other:piezoelectricity",
+   "description": "Piezoelectricity generated under rock strains"
+  },
+  {
+   "key": "x_battery",
+   "type": "explanation",
+   "name": "other:geological-battery",
+   "description": "Valley acting as a geological-like battery"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1930s",
+   "quote": "The Hessdalen lights are unidentified lights which have been observed in a 12-kilometre-long (7.5 mi) stretch of the Hessdalen valley in rural central Norway periodically since at least the 1930s."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "Norway",
+   "quote": "The Hessdalen lights are unidentified lights which have been observed in a 12-kilometre-long (7.5 mi) stretch of the Hessdalen valley in rural central Norway periodically since at least the 1930s."
+  },
+  {
+   "s": "case",
+   "p": "area",
+   "v": "a 12-kilometre-long (7.5 mi) stretch of the Hessdalen valley",
+   "quote": "The Hessdalen lights are unidentified lights which have been observed in a 12-kilometre-long (7.5 mi) stretch of the Hessdalen valley in rural central Norway periodically since at least the 1930s."
+  },
+  {
+   "s": "case",
+   "p": "frequency",
+   "v": "periodically since at least the 1930s",
+   "quote": "The Hessdalen lights are unidentified lights which have been observed in a 12-kilometre-long (7.5 mi) stretch of the Hessdalen valley in rural central Norway periodically since at least the 1930s."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "both by day and by night",
+   "quote": "The Hessdalen lights appear both by day and by night, and seem to float through and above the valley."
+  },
+  {
+   "s": "case",
+   "p": "duration",
+   "v": "a few seconds to well over an hour",
+   "quote": "The duration of the phenomenon may be a few seconds to well over an hour."
+  },
+  {
+   "s": "case",
+   "p": "peak_activity_period",
+   "v": "December 1981 to mid-1984",
+   "quote": "Especially high activity occurred between December 1981 and mid-1984, during which the lights were observed 15–20 times per week, attracting many overnight tourists."
+  },
+  {
+   "s": "case",
+   "p": "peak_observation_rate",
+   "v": "15–20 times per week",
+   "quote": "Especially high activity occurred between December 1981 and mid-1984, during which the lights were observed 15–20 times per week, attracting many overnight tourists."
+  },
+  {
+   "s": "case",
+   "p": "tourism",
+   "v": "attracting many overnight tourists",
+   "quote": "Especially high activity occurred between December 1981 and mid-1984, during which the lights were observed 15–20 times per week, attracting many overnight tourists."
+  },
+  {
+   "s": "case",
+   "p": "observation_rate_2010",
+   "v": "10 to 20 sightings yearly",
+   "quote": "As of 2010, the number of observations had dwindled, with only 10 to 20 sightings yearly."
+  },
+  {
+   "s": "case",
+   "p": "status",
+   "v": "no consensus for an explanation of the phenomenon",
+   "quote": "Despite ongoing research, there is no consensus for an explanation of the phenomenon."
+  },
+  {
+   "s": "case",
+   "p": "theories",
+   "v": "A number of potentially plausible theories have been put forward",
+   "quote": "A number of potentially plausible theories have been put forward."
+  },
+  {
+   "s": "case",
+   "p": "press_claim",
+   "v": "Norwegian press proclaimed \"The Mystery in Hessdalen is Solved\"",
+   "quote": "The publication of this research led to the Norwegian press proclaiming that \"The Mystery in Hessdalen is Solved\"."
+  },
+  {
+   "s": "case",
+   "p": "estimated_temperature",
+   "v": "about 5,000 K (4,730 °C; 8,540 °F)",
+   "quote": "The estimated temperature of Hessdalen lights is about 5,000 K (4,730 °C; 8,540 °F)."
+  },
+  {
+   "s": "case",
+   "p": "spectrum",
+   "v": "nearly flat on the top with steep sides",
+   "quote": "The spectrum is nearly flat on the top with steep sides, due to the effect of optical thickness on the bremsstrahlung spectrum."
+  },
+  {
+   "s": "case",
+   "p": "spectrum_note",
+   "v": "typical of dense ionized gas",
+   "quote": "Such a spectrum is typical of dense ionized gas."
+  },
+  {
+   "s": "case",
+   "p": "spectrum_conditions",
+   "v": "typical spectrum when the atmosphere is clear, with no fog",
+   "quote": "This sequence of events forms the typical spectrum of Hessdalen lights phenomenon when the atmosphere is clear, with no fog."
+  },
+  {
+   "s": "case",
+   "p": "elements_identified",
+   "v": "hydrogen, oxygen and other elements including titanium",
+   "quote": "The analysis identified hydrogen, oxygen and other elements including titanium."
+  },
+  {
+   "s": "case",
+   "p": "local_geology",
+   "v": "large deposits of scandium",
+   "quote": "It was thought this occurs in Hessdalen because of the large deposits of scandium there."
+  },
+  {
+   "s": "case",
+   "p": "local_geology",
+   "v": "many crystal rocks in Hessdalen valley include quartz grains",
+   "quote": "Another hypothesis explains Hessdalen lights as a product of piezoelectricity generated under specific rock strains, because many crystal rocks in Hessdalen valley include quartz grains which produce an intense charge density."
+  },
+  {
+   "s": "case",
+   "p": "observed_properties",
+   "v": "oscillation, geometric structure, and light spectrum",
+   "quote": "Several physical properties including oscillation, geometric structure, and light spectrum, observed in the Hessdalen lights might be explained through a dust plasma model."
+  },
+  {
+   "s": "case",
+   "p": "peculiar_property",
+   "v": "the presence of geometrical structures in its center",
+   "quote": "In a 2011 paper, based on the dusty plasma theory of Hessdalen lights, Gerson Paiva and Carlton Taft suggested that piezoelectricity of quartz cannot explain a peculiar property assumed by the Hessdalen lights phenomenon – the presence of geometrical structures in its center."
+  },
+  {
+   "s": "case",
+   "p": "radioactivity_finding",
+   "v": "a higher level of radioactivity on rocks detected near the area where a large light ball was reported",
+   "quote": "In 2004, physicist Massimo Teodorani showed an occurrence where a higher level of radioactivity on rocks was detected near the area where a large light ball was reported."
+  },
+  {
+   "s": "valley",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Hessdalen lights are unidentified lights which have been observed in a 12-kilometre-long (7.5 mi) stretch of the Hessdalen valley in rural central Norway periodically since at least the 1930s."
+  },
+  {
+   "s": "valley",
+   "p": "located_in",
+   "o": "norway",
+   "quote": "The Hessdalen lights are unidentified lights which have been observed in a 12-kilometre-long (7.5 mi) stretch of the Hessdalen valley in rural central Norway periodically since at least the 1930s."
+  },
+  {
+   "s": "norway",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Hessdalen lights are unidentified lights which have been observed in a 12-kilometre-long (7.5 mi) stretch of the Hessdalen valley in rural central Norway periodically since at least the 1930s."
+  },
+  {
+   "s": "valley",
+   "p": "description",
+   "v": "rural central Norway",
+   "quote": "The Hessdalen lights are unidentified lights which have been observed in a 12-kilometre-long (7.5 mi) stretch of the Hessdalen valley in rural central Norway periodically since at least the 1930s."
+  },
+  {
+   "s": "valley",
+   "p": "first_reports",
+   "v": "since at least the 1930s",
+   "quote": "Unusual lights have been reported in the region since at least the 1930s."
+  },
+  {
+   "s": "hesja",
+   "p": "related_place",
+   "o": "case",
+   "quote": "involving a geological-like battery. Thus, two sides of the valley are the electrodes and the river Hesja can be acting as the electrolyte."
+  },
+  {
+   "s": "hesja",
+   "p": "located_in",
+   "o": "valley",
+   "quote": "involving a geological-like battery. Thus, two sides of the valley are the electrodes and the river Hesja can be acting as the electrolyte."
+  },
+  {
+   "s": "hesja",
+   "p": "role_in_model",
+   "v": "can be acting as the electrolyte",
+   "quote": "involving a geological-like battery. Thus, two sides of the valley are the electrodes and the river Hesja can be acting as the electrolyte."
+  },
+  {
+   "s": "lights",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "The Hessdalen lights are unidentified lights which have been observed in a 12-kilometre-long (7.5 mi) stretch of the Hessdalen valley in rural central Norway periodically since at least the 1930s."
+  },
+  {
+   "s": "lights",
+   "p": "color",
+   "v": "usually bright white, yellow or red",
+   "quote": "They are usually bright white, yellow or red and can appear above and below the horizon."
+  },
+  {
+   "s": "lights",
+   "p": "position",
+   "v": "can appear above and below the horizon",
+   "quote": "They are usually bright white, yellow or red and can appear above and below the horizon."
+  },
+  {
+   "s": "lights",
+   "p": "motion",
+   "v": "seem to float through and above the valley",
+   "quote": "The Hessdalen lights appear both by day and by night, and seem to float through and above the valley."
+  },
+  {
+   "s": "lights",
+   "p": "speed",
+   "v": "sometimes move with enormous speed",
+   "quote": "Sometimes the lights move with enormous speed; at other times they seem to sway slowly back and forth."
+  },
+  {
+   "s": "lights",
+   "p": "motion",
+   "v": "at other times seem to sway slowly back and forth",
+   "quote": "Sometimes the lights move with enormous speed; at other times they seem to sway slowly back and forth."
+  },
+  {
+   "s": "lights",
+   "p": "motion",
+   "v": "hover",
+   "quote": "On yet other occasions, they hover in"
+  },
+  {
+   "s": "lights",
+   "p": "color",
+   "v": "central ball is white; ejected balls are always green",
+   "quote": "The central ball is white, while the ejected balls that are observed are always green in colour."
+  },
+  {
+   "s": "lights",
+   "p": "speed",
+   "v": "ejected light balls observed at an estimated 20,000 m/s (66,000 ft/s)",
+   "quote": "The theoretical velocity of ejected light balls is about 10,000 m/s (33,000 ft/s), in good agreement with the observed velocity of some ejected light balls, estimated at 20,000 m/s (66,000 ft/s)."
+  },
+  {
+   "s": "lights",
+   "p": "theoretical_speed",
+   "v": "about 10,000 m/s (33,000 ft/s) for ejected light balls",
+   "quote": "The theoretical velocity of ejected light balls is about 10,000 m/s (33,000 ft/s), in good agreement with the observed velocity of some ejected light balls, estimated at 20,000 m/s (66,000 ft/s)."
+  },
+  {
+   "s": "lights",
+   "p": "temperature",
+   "v": "about 5,000 K (4,730 °C; 8,540 °F)",
+   "quote": "The estimated temperature of Hessdalen lights is about 5,000 K (4,730 °C; 8,540 °F)."
+  },
+  {
+   "s": "lights",
+   "p": "shape",
+   "v": "double helixes in some occurrences",
+   "quote": "Computer simulations show that dust immersed in ionized gas can organize itself into double helixes like some occurrences of the Hessdalen lights; dusty plasmas may also form in this structure."
+  },
+  {
+   "s": "lights",
+   "p": "structure",
+   "v": "geometrical structures in its center",
+   "quote": "In a 2011 paper, based on the dusty plasma theory of Hessdalen lights, Gerson Paiva and Carlton Taft suggested that piezoelectricity of quartz cannot explain a peculiar property assumed by the Hessdalen lights phenomenon – the presence of geometrical structures in its center."
+  },
+  {
+   "s": "lights",
+   "p": "composition",
+   "v": "oxygen ions will dominate in the ejected green light balls",
+   "quote": "Therefore, oxygen ions will dominate in the ejected green light balls in Hessdalen lights"
+  },
+  {
+   "s": "pyramid",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "A group of students, engineers, and journalists collaborated as \"The Triangle Project\" in 1997–1998 and recorded the lights in a pyramid shape that bounced up and down."
+  },
+  {
+   "s": "pyramid",
+   "p": "shape",
+   "v": "pyramid",
+   "quote": "A group of students, engineers, and journalists collaborated as \"The Triangle Project\" in 1997–1998 and recorded the lights in a pyramid shape that bounced up and down."
+  },
+  {
+   "s": "pyramid",
+   "p": "motion",
+   "v": "bounced up and down",
+   "quote": "A group of students, engineers, and journalists collaborated as \"The Triangle Project\" in 1997–1998 and recorded the lights in a pyramid shape that bounced up and down."
+  },
+  {
+   "s": "pyramid",
+   "p": "date",
+   "v": "1997–1998",
+   "quote": "A group of students, engineers, and journalists collaborated as \"The Triangle Project\" in 1997–1998 and recorded the lights in a pyramid shape that bounced up and down."
+  },
+  {
+   "s": "ball",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "In 2004, physicist Massimo Teodorani showed an occurrence where a higher level of radioactivity on rocks was detected near the area where a large light ball was reported."
+  },
+  {
+   "s": "ball",
+   "p": "shape",
+   "v": "large light ball",
+   "quote": "In 2004, physicist Massimo Teodorani showed an occurrence where a higher level of radioactivity on rocks was detected near the area where a large light ball was reported."
+  },
+  {
+   "s": "ball",
+   "p": "associated_finding",
+   "v": "higher level of radioactivity on rocks detected near the area",
+   "quote": "In 2004, physicist Massimo Teodorani showed an occurrence where a higher level of radioactivity on rocks was detected near the area where a large light ball was reported."
+  },
+  {
+   "s": "ph",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "Since 1983, \"Project Hessdalen\" initiated by UFO-Norge and UFO-Sverige have attempted to investigate the lights."
+  },
+  {
+   "s": "ufonorge",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Since 1983, \"Project Hessdalen\" initiated by UFO-Norge and UFO-Sverige have attempted to investigate the lights."
+  },
+  {
+   "s": "ufosverige",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Since 1983, \"Project Hessdalen\" initiated by UFO-Norge and UFO-Sverige have attempted to investigate the lights."
+  },
+  {
+   "s": "ph",
+   "p": "part_of",
+   "o": "ufonorge",
+   "quote": "Since 1983, \"Project Hessdalen\" initiated by UFO-Norge and UFO-Sverige have attempted to investigate the lights."
+  },
+  {
+   "s": "ph",
+   "p": "part_of",
+   "o": "ufosverige",
+   "quote": "Since 1983, \"Project Hessdalen\" initiated by UFO-Norge and UFO-Sverige have attempted to investigate the lights."
+  },
+  {
+   "s": "ph",
+   "p": "start_year",
+   "v": "1983",
+   "quote": "Since 1983, \"Project Hessdalen\" initiated by UFO-Norge and UFO-Sverige have attempted to investigate the lights."
+  },
+  {
+   "s": "ph",
+   "p": "field_investigations",
+   "v": "1983–1985",
+   "quote": "This project was active as field investigations during 1983–1985."
+  },
+  {
+   "s": "ufonorge",
+   "p": "role",
+   "v": "initiated Project Hessdalen",
+   "quote": "Since 1983, \"Project Hessdalen\" initiated by UFO-Norge and UFO-Sverige have attempted to investigate the lights."
+  },
+  {
+   "s": "ufosverige",
+   "p": "role",
+   "v": "initiated Project Hessdalen",
+   "quote": "Since 1983, \"Project Hessdalen\" initiated by UFO-Norge and UFO-Sverige have attempted to investigate the lights."
+  },
+  {
+   "s": "bulletin",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Project Hessdalen Bulletin, 1983–1985"
+  },
+  {
+   "s": "bulletin",
+   "p": "part_of",
+   "o": "ph",
+   "quote": "Project Hessdalen Bulletin, 1983–1985"
+  },
+  {
+   "s": "bulletin",
+   "p": "period",
+   "v": "1983–1985",
+   "quote": "Project Hessdalen Bulletin, 1983–1985"
+  },
+  {
+   "s": "ph",
+   "p": "homepage",
+   "v": "Homepage of Project Hessdalen",
+   "quote": "Homepage of Project Hessdalen"
+  },
+  {
+   "s": "tri",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "A group of students, engineers, and journalists collaborated as \"The Triangle Project\" in 1997–1998 and recorded the lights in a pyramid shape that bounced up and down."
+  },
+  {
+   "s": "tri",
+   "p": "period",
+   "v": "1997–1998",
+   "quote": "A group of students, engineers, and journalists collaborated as \"The Triangle Project\" in 1997–1998 and recorded the lights in a pyramid shape that bounced up and down."
+  },
+  {
+   "s": "tri",
+   "p": "members",
+   "v": "a group of students, engineers, and journalists",
+   "quote": "A group of students, engineers, and journalists collaborated as \"The Triangle Project\" in 1997–1998 and recorded the lights in a pyramid shape that bounced up and down."
+  },
+  {
+   "s": "tri",
+   "p": "result",
+   "v": "recorded the lights in a pyramid shape that bounced up and down",
+   "quote": "A group of students, engineers, and journalists collaborated as \"The Triangle Project\" in 1997–1998 and recorded the lights in a pyramid shape that bounced up and down."
+  },
+  {
+   "s": "ams",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "In 1998, the Hessdalen Automatic Measurement Station (Hessdalen AMS) was set up in the valley to register and record the appearance of lights."
+  },
+  {
+   "s": "ams",
+   "p": "located_in",
+   "o": "valley",
+   "quote": "In 1998, the Hessdalen Automatic Measurement Station (Hessdalen AMS) was set up in the valley to register and record the appearance of lights."
+  },
+  {
+   "s": "ams",
+   "p": "established",
+   "v": "1998",
+   "quote": "In 1998, the Hessdalen Automatic Measurement Station (Hessdalen AMS) was set up in the valley to register and record the appearance of lights."
+  },
+  {
+   "s": "ams",
+   "p": "purpose",
+   "v": "to register and record the appearance of lights",
+   "quote": "In 1998, the Hessdalen Automatic Measurement Station (Hessdalen AMS) was set up in the valley to register and record the appearance of lights."
+  },
+  {
+   "s": "embla",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "Later, a programme named EMBLA was initiated to bring together established scientists and students to researching the lights."
+  },
+  {
+   "s": "embla",
+   "p": "purpose",
+   "v": "bring together established scientists and students to researching the lights",
+   "quote": "Later, a programme named EMBLA was initiated to bring together established scientists and students to researching the lights."
+  },
+  {
+   "s": "ostfold",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Leading research institutions are Østfold University College (Norway) and the Italian National Research Council."
+  },
+  {
+   "s": "ostfold",
+   "p": "located_in",
+   "o": "norway",
+   "quote": "Leading research institutions are Østfold University College (Norway) and the Italian National Research Council."
+  },
+  {
+   "s": "cnr",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Leading research institutions are Østfold University College (Norway) and the Italian National Research Council."
+  },
+  {
+   "s": "ostfold",
+   "p": "role",
+   "v": "leading research institution",
+   "quote": "Leading research institutions are Østfold University College (Norway) and the Italian National Research Council."
+  },
+  {
+   "s": "cnr",
+   "p": "role",
+   "v": "leading research institution",
+   "quote": "Leading research institutions are Østfold University College (Norway) and the Italian National Research Council."
+  },
+  {
+   "s": "teodorani",
+   "p": "investigator",
+   "o": "case",
+   "quote": "In 2004, physicist Massimo Teodorani showed an occurrence where a higher level of radioactivity on rocks was detected near the area where a large light ball was reported."
+  },
+  {
+   "s": "teodorani",
+   "p": "occupation",
+   "v": "physicist",
+   "quote": "In 2004, physicist Massimo Teodorani showed an occurrence where a higher level of radioactivity on rocks was detected near the area where a large light ball was reported."
+  },
+  {
+   "s": "teodorani",
+   "p": "finding",
+   "v": "in 2004 showed an occurrence where a higher level of radioactivity on rocks was detected near the area where a large light ball was reported",
+   "quote": "In 2004, physicist Massimo Teodorani showed an occurrence where a higher level of radioactivity on rocks was detected near the area where a large light ball was reported."
+  },
+  {
+   "s": "paiva",
+   "p": "investigator",
+   "o": "case",
+   "quote": "In a 2011 paper, based on the dusty plasma theory of Hessdalen lights, Gerson Paiva and Carlton Taft suggested that piezoelectricity of quartz cannot explain a peculiar property assumed by the Hessdalen lights phenomenon – the presence of geometrical structures in its center."
+  },
+  {
+   "s": "taft",
+   "p": "investigator",
+   "o": "case",
+   "quote": "In a 2011 paper, based on the dusty plasma theory of Hessdalen lights, Gerson Paiva and Carlton Taft suggested that piezoelectricity of quartz cannot explain a peculiar property assumed by the Hessdalen lights phenomenon – the presence of geometrical structures in its center."
+  },
+  {
+   "s": "paiva",
+   "p": "colleague_of",
+   "o": "taft",
+   "quote": "In a 2011 paper, based on the dusty plasma theory of Hessdalen lights, Gerson Paiva and Carlton Taft suggested that piezoelectricity of quartz cannot explain a peculiar property assumed by the Hessdalen lights phenomenon – the presence of geometrical structures in its center."
+  },
+  {
+   "s": "paiva",
+   "p": "authored",
+   "o": "paper2011",
+   "quote": "In a 2011 paper, based on the dusty plasma theory of Hessdalen lights, Gerson Paiva and Carlton Taft suggested that piezoelectricity of quartz cannot explain a peculiar property assumed by the Hessdalen lights phenomenon – the presence of geometrical structures in its center."
+  },
+  {
+   "s": "taft",
+   "p": "authored",
+   "o": "paper2011",
+   "quote": "In a 2011 paper, based on the dusty plasma theory of Hessdalen lights, Gerson Paiva and Carlton Taft suggested that piezoelectricity of quartz cannot explain a peculiar property assumed by the Hessdalen lights phenomenon – the presence of geometrical structures in its center."
+  },
+  {
+   "s": "paper2011",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In a 2011 paper, based on the dusty plasma theory of Hessdalen lights, Gerson Paiva and Carlton Taft suggested that piezoelectricity of quartz cannot explain a peculiar property assumed by the Hessdalen lights phenomenon – the presence of geometrical structures in its center."
+  },
+  {
+   "s": "paper2011",
+   "p": "year",
+   "v": "2011",
+   "quote": "In a 2011 paper, based on the dusty plasma theory of Hessdalen lights, Gerson Paiva and Carlton Taft suggested that piezoelectricity of quartz cannot explain a peculiar property assumed by the Hessdalen lights phenomenon – the presence of geometrical structures in its center."
+  },
+  {
+   "s": "paper2011",
+   "p": "basis",
+   "v": "the dusty plasma theory of Hessdalen lights",
+   "quote": "In a 2011 paper, based on the dusty plasma theory of Hessdalen lights, Gerson Paiva and Carlton Taft suggested that piezoelectricity of quartz cannot explain a peculiar property assumed by the Hessdalen lights phenomenon – the presence of geometrical structures in its center."
+  },
+  {
+   "s": "paper2011",
+   "p": "argument",
+   "v": "piezoelectricity of quartz cannot explain the presence of geometrical structures in its center",
+   "quote": "In a 2011 paper, based on the dusty plasma theory of Hessdalen lights, Gerson Paiva and Carlton Taft suggested that piezoelectricity of quartz cannot explain a peculiar property assumed by the Hessdalen lights phenomenon – the presence of geometrical structures in its center."
+  },
+  {
+   "s": "paiva",
+   "p": "disputed",
+   "o": "x_piezo",
+   "quote": "In a 2011 paper, based on the dusty plasma theory of Hessdalen lights, Gerson Paiva and Carlton Taft suggested that piezoelectricity of quartz cannot explain a peculiar property assumed by the Hessdalen lights phenomenon – the presence of geometrical structures in its center."
+  },
+  {
+   "s": "taft",
+   "p": "disputed",
+   "o": "x_piezo",
+   "quote": "In a 2011 paper, based on the dusty plasma theory of Hessdalen lights, Gerson Paiva and Carlton Taft suggested that piezoelectricity of quartz cannot explain a peculiar property assumed by the Hessdalen lights phenomenon – the presence of geometrical structures in its center."
+  },
+  {
+   "s": "paiva",
+   "p": "proposed",
+   "o": "x_plasma",
+   "quote": "Paiva and Taft have shown a mechanism of light ball cluster formation in Hessdalen lights by nonlinear interaction of ion-acoustic and dusty-acoustic waves with low frequency geoelectromagnetic waves in dusty plasmas."
+  },
+  {
+   "s": "taft",
+   "p": "proposed",
+   "o": "x_plasma",
+   "quote": "Paiva and Taft have shown a mechanism of light ball cluster formation in Hessdalen lights by nonlinear interaction of ion-acoustic and dusty-acoustic waves with low frequency geoelectromagnetic waves in dusty plasmas."
+  },
+  {
+   "s": "paiva",
+   "p": "statement",
+   "v": "piezoelectricity of quartz cannot explain the presence of geometrical structures in the centre of the lights",
+   "quote": "In a 2011 paper, based on the dusty plasma theory of Hessdalen lights, Gerson Paiva and Carlton Taft suggested that piezoelectricity of quartz cannot explain a peculiar property assumed by the Hessdalen lights phenomenon – the presence of geometrical structures in its center."
+  },
+  {
+   "s": "paiva",
+   "p": "finding",
+   "v": "mechanism of light ball cluster formation by nonlinear interaction of ion-acoustic and dusty-acoustic waves with low frequency geoelectromagnetic waves in dusty plasmas",
+   "quote": "Paiva and Taft have shown a mechanism of light ball cluster formation in Hessdalen lights by nonlinear interaction of ion-acoustic and dusty-acoustic waves with low frequency geoelectromagnetic waves in dusty plasmas."
+  },
+  {
+   "s": "paiva",
+   "p": "finding",
+   "v": "presented a model for resolving the apparently contradictory spectrum observed in Hessdalen lights",
+   "quote": "Paiva and Taft presented a model for resolving the apparently contradictory spectrum observed in Hessdalen lights."
+  },
+  {
+   "s": "taft",
+   "p": "statement",
+   "v": "piezoelectricity of quartz cannot explain the presence of geometrical structures in the centre of the lights",
+   "quote": "In a 2011 paper, based on the dusty plasma theory of Hessdalen lights, Gerson Paiva and Carlton Taft suggested that piezoelectricity of quartz cannot explain a peculiar property assumed by the Hessdalen lights phenomenon – the presence of geometrical structures in its center."
+  },
+  {
+   "s": "taft",
+   "p": "finding",
+   "v": "mechanism of light ball cluster formation by nonlinear interaction of ion-acoustic and dusty-acoustic waves with low frequency geoelectromagnetic waves in dusty plasmas",
+   "quote": "Paiva and Taft have shown a mechanism of light ball cluster formation in Hessdalen lights by nonlinear interaction of ion-acoustic and dusty-acoustic waves with low frequency geoelectromagnetic waves in dusty plasmas."
+  },
+  {
+   "s": "taft",
+   "p": "finding",
+   "v": "presented a model for resolving the apparently contradictory spectrum observed in Hessdalen lights",
+   "quote": "Paiva and Taft presented a model for resolving the apparently contradictory spectrum observed in Hessdalen lights."
+  },
+  {
+   "s": "paper2011",
+   "p": "model",
+   "v": "spatial color distribution of luminous balls is produced by electrons accelerated by electric fields during rapid fracture of piezoelectric rocks under the ground",
+   "quote": "According to the model, the spatial color distribution of luminous balls commonly observed in Hessdalen lights phenomenon is produced by electrons accelerated by electric fields during rapid fracture of piezoelectric rocks under the ground."
+  },
+  {
+   "s": "paper2011",
+   "p": "color_explanation",
+   "v": "radiation pressure from interaction between very low frequency electromagnetic waves (VLF) and atmospheric ions through ion-acoustic waves",
+   "quote": "This is ascribed to radiation pressure produced by the interaction between very low frequency electromagnetic waves (VLF) and atmospheric ions (present in the central white-coloured ball) through ion-acoustic waves."
+  },
+  {
+   "s": "monari",
+   "p": "investigator",
+   "o": "case",
+   "quote": "In 2014, Jader Monari published a new Hessdalen Lights model"
+  },
+  {
+   "s": "monari",
+   "p": "authored",
+   "o": "monarimodel",
+   "quote": "In 2014, Jader Monari published a new Hessdalen Lights model"
+  },
+  {
+   "s": "monarimodel",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In 2014, Jader Monari published a new Hessdalen Lights model"
+  },
+  {
+   "s": "monari",
+   "p": "proposed",
+   "o": "x_battery",
+   "quote": "involving a geological-like battery. Thus, two sides of the valley are the electrodes and the river Hesja can be acting as the electrolyte."
+  },
+  {
+   "s": "monarimodel",
+   "p": "year",
+   "v": "2014",
+   "quote": "In 2014, Jader Monari published a new Hessdalen Lights model"
+  },
+  {
+   "s": "monarimodel",
+   "p": "mechanism",
+   "v": "two sides of the valley are the electrodes and the river Hesja can be acting as the electrolyte",
+   "quote": "involving a geological-like battery. Thus, two sides of the valley are the electrodes and the river Hesja can be acting as the electrolyte."
+  },
+  {
+   "s": "monarimodel",
+   "p": "mechanism",
+   "v": "gas bubbles rise into the air and can become electrically charged producing gas luminesce",
+   "quote": "Gas bubbles rise into the air and can become electrically charged producing gas luminesce and Hessdalen Lights phenomenon."
+  },
+  {
+   "s": "dunning",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Dunning, Brian (August 9, 2011). \"Skeptoid #270: The Hessdalen Lights\". Skeptoid."
+  },
+  {
+   "s": "dunning",
+   "p": "authored",
+   "o": "skeptoid",
+   "quote": "Dunning, Brian (August 9, 2011). \"Skeptoid #270: The Hessdalen Lights\". Skeptoid."
+  },
+  {
+   "s": "skeptoid",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Dunning, Brian (August 9, 2011). \"Skeptoid #270: The Hessdalen Lights\". Skeptoid."
+  },
+  {
+   "s": "skeptoid",
+   "p": "date",
+   "v": "2011-08-09",
+   "quote": "Dunning, Brian (August 9, 2011). \"Skeptoid #270: The Hessdalen Lights\". Skeptoid."
+  },
+  {
+   "s": "marfa",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Marfa lights"
+  },
+  {
+   "s": "brown",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Brown Mountain lights"
+  },
+  {
+   "s": "longdendale",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Longdendale lights"
+  },
+  {
+   "s": "maco",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Maco light"
+  },
+  {
+   "s": "minmin",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Min Min light"
+  },
+  {
+   "s": "naga",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Naga fireballs"
+  },
+  {
+   "s": "paulding",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Paulding Light"
+  },
+  {
+   "s": "chir",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Chir Batti"
+  },
+  {
+   "s": "aleya",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Aleya (Ghost light), Bengal"
+  },
+  {
+   "s": "aleya",
+   "p": "location",
+   "v": "Bengal",
+   "quote": "Aleya (Ghost light), Bengal"
+  },
+  {
+   "s": "x_misp",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "There have been some sightings positively identified as misperceptions of astronomical bodies, aircraft, car headlights and mirages."
+  },
+  {
+   "s": "x_air",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "There have been some sightings positively identified as misperceptions of astronomical bodies, aircraft, car headlights and mirages."
+  },
+  {
+   "s": "x_astro",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "There have been some sightings positively identified as misperceptions of astronomical bodies, aircraft, car headlights and mirages."
+  },
+  {
+   "s": "x_car",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "There have been some sightings positively identified as misperceptions of astronomical bodies, aircraft, car headlights and mirages."
+  },
+  {
+   "s": "x_mirage",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "There have been some sightings positively identified as misperceptions of astronomical bodies, aircraft, car headlights and mirages."
+  },
+  {
+   "s": "x_dust",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "One explanation attributes the phenomenon to an incompletely understood combustion of airborne dust from mining in the area."
+  },
+  {
+   "s": "x_dust",
+   "p": "detail",
+   "v": "incompletely understood combustion of airborne dust from mining in the area",
+   "quote": "One explanation attributes the phenomenon to an incompletely understood combustion of airborne dust from mining in the area."
+  },
+  {
+   "s": "x_dust",
+   "p": "detail",
+   "v": "thought to occur in Hessdalen because of the large deposits of scandium there",
+   "quote": "It was thought this occurs in Hessdalen because of the large deposits of scandium there."
+  },
+  {
+   "s": "x_plasma",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "One hypothesis put forward in 2010 suggests that the lights are formed by a cluster of macroscopic Coulomb crystals in a plasma produced by the ionization of air and dust by alpha particles during radon decay in the dusty atmosphere."
+  },
+  {
+   "s": "x_plasma",
+   "p": "year_proposed",
+   "v": "2010",
+   "quote": "One hypothesis put forward in 2010 suggests that the lights are formed by a cluster of macroscopic Coulomb crystals in a plasma produced by the ionization of air and dust by alpha particles during radon decay in the dusty atmosphere."
+  },
+  {
+   "s": "x_plasma",
+   "p": "detail",
+   "v": "cluster of macroscopic Coulomb crystals in a plasma produced by the ionization of air and dust by alpha particles during radon decay",
+   "quote": "One hypothesis put forward in 2010 suggests that the lights are formed by a cluster of macroscopic Coulomb crystals in a plasma produced by the ionization of air and dust by alpha particles during radon decay in the dusty atmosphere."
+  },
+  {
+   "s": "x_plasma",
+   "p": "detail",
+   "v": "Radon decay produces alpha particles and radioactive elements such as polonium",
+   "quote": "Radon decay produces alpha particles (responsible by helium emissions in HL spectrum) and radioactive elements such as polonium."
+  },
+  {
+   "s": "x_plasma",
+   "p": "detail",
+   "v": "computer simulations show dust immersed in ionized gas can organize itself into double helixes",
+   "quote": "Computer simulations show that dust immersed in ionized gas can organize itself into double helixes like some occurrences of the Hessdalen lights; dusty plasmas may also form in this structure."
+  },
+  {
+   "s": "x_piezo",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Another hypothesis explains Hessdalen lights as a product of piezoelectricity generated under specific rock strains, because many crystal rocks in Hessdalen valley include quartz grains which produce an intense charge density."
+  },
+  {
+   "s": "x_piezo",
+   "p": "detail",
+   "v": "piezoelectricity generated under specific rock strains; quartz grains produce an intense charge density",
+   "quote": "Another hypothesis explains Hessdalen lights as a product of piezoelectricity generated under specific rock strains, because many crystal rocks in Hessdalen valley include quartz grains which produce an intense charge density."
+  },
+  {
+   "s": "x_battery",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "involving a geological-like battery. Thus, two sides of the valley are the electrodes and the river Hesja can be acting as the electrolyte."
+  },
+  {
+   "s": "f_lights",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Hessdalen lights are unidentified lights which have been observed in a 12-kilometre-long (7.5 mi) stretch of the Hessdalen valley in rural central Norway periodically since at least the 1930s."
+  },
+  {
+   "s": "f_hover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "On yet other occasions, they hover in"
+  },
+  {
+   "s": "f_speed",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Sometimes the lights move with enormous speed; at other times they seem to sway slowly back and forth."
+  },
+  {
+   "s": "f_video",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "A group of students, engineers, and journalists collaborated as \"The Triangle Project\" in 1997–1998 and recorded the lights in a pyramid shape that bounced up and down."
+  },
+  {
+   "s": "f_rad",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In 2004, physicist Massimo Teodorani showed an occurrence where a higher level of radioactivity on rocks was detected near the area where a large light ball was reported."
+  },
+  {
+   "s": "f_sphere",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In 2004, physicist Massimo Teodorani showed an occurrence where a higher level of radioactivity on rocks was detected near the area where a large light ball was reported."
+  },
+  {
+   "s": "f_other",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "A group of students, engineers, and journalists collaborated as \"The Triangle Project\" in 1997–1998 and recorded the lights in a pyramid shape that bounced up and down."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Especially high activity occurred between December 1981 and mid-1984, during which the lights were observed 15–20 times per week, attracting many overnight tourists."
+  },
+  {
+   "s": "f_recur",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Hessdalen lights are unidentified lights which have been observed in a 12-kilometre-long (7.5 mi) stretch of the Hessdalen valley in rural central Norway periodically since at least the 1930s."
+  }
+ ]
+}
