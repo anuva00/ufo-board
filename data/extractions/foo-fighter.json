@@ -1,0 +1,2651 @@
+{
+ "slug": "foo-fighter",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Foo fighter",
+   "description": "Term used by Allied pilots in World War II for unidentified flying objects or mysterious aerial phenomena seen over the European and Pacific theaters.",
+   "aliases": [
+    "foo fighters",
+    "foo-fighter",
+    "Kraut fireballs",
+    "balls of fire"
+   ]
+  },
+  {
+   "key": "foo",
+   "type": "craft",
+   "name": "foo fighters (fast-moving round glowing objects following aircraft)",
+   "description": "Glowing red, white or orange lights reported following Allied aircraft at night",
+   "aliases": [
+    "balls of fire",
+    "Kraut fireballs"
+   ]
+  },
+  {
+   "key": "pacball",
+   "type": "craft",
+   "name": "Pacific theater \"ball of fire\"",
+   "description": "Large burning sphere reported from the Pacific Theater of Operations that hung in the sky",
+   "aliases": [
+    "balls of fire"
+   ]
+  },
+  {
+   "key": "415",
+   "type": "organization",
+   "name": "415th Night Fighter Squadron",
+   "description": "U.S. night fighter unit that reported and named the foo fighters",
+   "aliases": [
+    "U.S. 415th Night Fighter Squadron",
+    "415th Night-Fighter Squadron",
+    "the 415th"
+   ]
+  },
+  {
+   "key": "allied",
+   "type": "organization",
+   "name": "Allies of World War II",
+   "description": "Wartime alliance whose aircraft pilots used the term",
+   "aliases": [
+    "Allied"
+   ]
+  },
+  {
+   "key": "robertson",
+   "type": "program",
+   "name": "Robertson Panel",
+   "description": "Postwar panel that cited foo fighter reports and explored explanations"
+  },
+  {
+   "key": "holman",
+   "type": "person",
+   "name": "Bill Holman",
+   "description": "Cartoonist who first used the word \"foo\" in his Smokey Stover strips",
+   "aliases": [
+    "Holman"
+   ]
+  },
+  {
+   "key": "smokey",
+   "type": "work",
+   "name": "Smokey Stover",
+   "description": "Fireman cartoon strip by Bill Holman from which \"foo\" was borrowed"
+  },
+  {
+   "key": "meiers",
+   "type": "person",
+   "name": "Donald J. Meiers",
+   "description": "Radar operator in the 415th Night Fighter Squadron credited with naming the foo fighters",
+   "aliases": [
+    "Meiers"
+   ]
+  },
+  {
+   "key": "chicago",
+   "type": "place",
+   "name": "Chicago, Illinois",
+   "description": "Meiers's home city",
+   "aliases": [
+    "Chicago"
+   ]
+  },
+  {
+   "key": "tribune",
+   "type": "organization",
+   "name": "Chicago Tribune",
+   "description": "Newspaper that ran Holman's strip daily"
+  },
+  {
+   "key": "ringwald",
+   "type": "person",
+   "name": "Frederic \"Fritz\" Ringwald",
+   "description": "S-2 Intelligence Officer of the 415th Night Fighter Squadron",
+   "aliases": [
+    "Ringwald",
+    "Captain Ringwald",
+    "Fritz Ringwald",
+    "Frederic Ringwald"
+   ]
+  },
+  {
+   "key": "schleuter",
+   "type": "person",
+   "name": "Ed Schleuter",
+   "description": "Pilot in the 415th who with Meiers sighted a red ball of fire",
+   "aliases": [
+    "Lt. Ed Schleuter"
+   ]
+  },
+  {
+   "key": "i_1127",
+   "type": "case",
+   "name": "1944 415th Night Fighter Squadron sighting",
+   "description": "Sighting of a red ball of fire by Meiers and Schleuter reported at the 27 November 1944 debriefing"
+  },
+  {
+   "key": "redball",
+   "type": "craft",
+   "name": "red ball of fire seen by Meiers and Schleuter",
+   "description": "Red ball of fire that appeared to chase the aircraft through high-speed maneuvers"
+  },
+  {
+   "key": "ap",
+   "type": "organization",
+   "name": "Associated Press",
+   "description": "News agency whose Paris correspondent investigated the story"
+  },
+  {
+   "key": "wilson",
+   "type": "person",
+   "name": "Bob Wilson",
+   "description": "Associated Press correspondent in Paris sent to the 415th in December 1944"
+  },
+  {
+   "key": "paris",
+   "type": "place",
+   "name": "Paris, France",
+   "description": "Location of the Associated Press correspondent and of SHAEF",
+   "aliases": [
+    "Paris"
+   ]
+  },
+  {
+   "key": "dijon",
+   "type": "place",
+   "name": "Dijon, France",
+   "description": "City outside which the 415th was based"
+  },
+  {
+   "key": "france",
+   "type": "place",
+   "name": "France",
+   "description": "Country of the 415th's base; northern France overflown by Lumsden"
+  },
+  {
+   "key": "augsperger",
+   "type": "person",
+   "name": "Harold Augsperger",
+   "description": "Commander of the 415th Night Fighter Squadron",
+   "aliases": [
+    "Capt. Harold Augsperger"
+   ]
+  },
+  {
+   "key": "raf",
+   "type": "organization",
+   "name": "Royal Air Force",
+   "description": "British air force whose personnel reported lights following aircraft from March 1942",
+   "aliases": [
+    "RAF"
+   ]
+  },
+  {
+   "key": "balkans",
+   "type": "place",
+   "name": "Balkans",
+   "description": "Region over which RAF bomber crews had sightings from April 1944"
+  },
+  {
+   "key": "422",
+   "type": "organization",
+   "name": "422nd Night-Fighter Squadron",
+   "description": "Unit whose crews recorded the first American sightings"
+  },
+  {
+   "key": "i_422",
+   "type": "case",
+   "name": "1944 422nd Night-Fighter Squadron sightings",
+   "description": "First recorded American sightings, first week of October 1944"
+  },
+  {
+   "key": "belgium",
+   "type": "place",
+   "name": "Belgium",
+   "description": "Occupied country where the 422nd was stationed",
+   "aliases": [
+    "Occupied Belgium"
+   ]
+  },
+  {
+   "key": "me163",
+   "type": "vehicle",
+   "name": "Messerschmitt Me 163",
+   "description": "German rocket-powered interceptor erroneously believed to be the objects"
+  },
+  {
+   "key": "weurope",
+   "type": "place",
+   "name": "Western Europe",
+   "description": "Region over which the bulk of the sightings occurred"
+  },
+  {
+   "key": "shaef",
+   "type": "organization",
+   "name": "Supreme Headquarters Allied Expeditionary Force",
+   "description": "Allied headquarters in Paris that issued a press release and was asked for assistance",
+   "aliases": [
+    "SHAEF"
+   ]
+  },
+  {
+   "key": "pressrel",
+   "type": "document",
+   "name": "SHAEF press release of 13 December 1944",
+   "description": "Press release describing the phenomenon as a \"new German weapon\""
+  },
+  {
+   "key": "nyt",
+   "type": "organization",
+   "name": "The New York Times",
+   "description": "Newspaper that printed the SHAEF press release"
+  },
+  {
+   "key": "nyht",
+   "type": "organization",
+   "name": "New York Herald Tribune",
+   "description": "Newspaper that ran a follow-up story using the term"
+  },
+  {
+   "key": "telegraph",
+   "type": "organization",
+   "name": "Daily Telegraph",
+   "description": "British newspaper that ran a follow-up story",
+   "aliases": [
+    "British Daily Telegraph"
+   ]
+  },
+  {
+   "key": "time",
+   "type": "organization",
+   "name": "Time",
+   "description": "Magazine that ran a \"Foo-Fighter\" story on 15 January 1945",
+   "aliases": [
+    "Time magazine"
+   ]
+  },
+  {
+   "key": "timeart",
+   "type": "work",
+   "name": "Foo-Fighter",
+   "description": "Time magazine story of 15 January 1945"
+  },
+  {
+   "key": "usaaf",
+   "type": "organization",
+   "name": "United States Army Air Forces",
+   "description": "Air arm whose night fighters were followed by the balls of fire",
+   "aliases": [
+    "USAAF"
+   ]
+  },
+  {
+   "key": "pacific",
+   "type": "place",
+   "name": "Pacific Theater of Operations",
+   "description": "Theater from which \"balls of fire\" were reported",
+   "aliases": [
+    "Pacific theaters of operations"
+   ]
+  },
+  {
+   "key": "europe",
+   "type": "place",
+   "name": "Europe",
+   "description": "European theater where foo fighters were reported",
+   "aliases": [
+    "European Theater"
+   ]
+  },
+  {
+   "key": "fireballoon",
+   "type": "program",
+   "name": "Japanese fire balloon campaign",
+   "description": "Japanese campaign speculated to be related to the Pacific phenomena"
+  },
+  {
+   "key": "robrep",
+   "type": "document",
+   "name": "Robertson Panel report",
+   "description": "Report suggesting the objects would have been labelled flying saucers",
+   "aliases": [
+    "The Panel's report"
+   ]
+  },
+  {
+   "key": "i_pulaski",
+   "type": "case",
+   "name": "1941 S.S. Pułaski sighting",
+   "description": "Sailors' report of a glowing greenish globe over the Indian Ocean in September 1941"
+  },
+  {
+   "key": "pulaski",
+   "type": "vehicle",
+   "name": "S.S. Pułaski",
+   "description": "Polish merchant vessel transporting British troops"
+  },
+  {
+   "key": "globe",
+   "type": "craft",
+   "name": "strange globe glowing with greenish light",
+   "description": "Globe about half the size of the full moon seen from the S.S. Pułaski"
+  },
+  {
+   "key": "indian",
+   "type": "place",
+   "name": "Indian Ocean",
+   "description": "Ocean where the S.S. Pułaski sighting took place"
+  },
+  {
+   "key": "i_lumsden",
+   "type": "case",
+   "name": "1942 No.3 Squadron sighting",
+   "description": "Bryan Lumsden's encounter with two lights over northern France in December 1942"
+  },
+  {
+   "key": "lumsden",
+   "type": "person",
+   "name": "Bryan Lumsden",
+   "description": "New Zealander Pilot Officer flying with No.3 Squadron's Night Flight",
+   "aliases": [
+    "Pilot Officer Bryan Lumsden"
+   ]
+  },
+  {
+   "key": "no3",
+   "type": "organization",
+   "name": "No.3 Squadron",
+   "description": "RAF squadron with which Lumsden flew",
+   "aliases": [
+    "No.3 Squadron's Night Flight"
+   ]
+  },
+  {
+   "key": "lumlights",
+   "type": "craft",
+   "name": "two amber or orange-colored lights that followed Bryan Lumsden",
+   "description": "Two lights, one higher than the other"
+  },
+  {
+   "key": "channel",
+   "type": "place",
+   "name": "English Channel",
+   "description": "Where the lights stopped pursuing Lumsden"
+  },
+  {
+   "key": "starsun",
+   "type": "organization",
+   "name": "Christchurch Star-Sun",
+   "description": "Newspaper that published Lumsden's story on 4 November 1955"
+  },
+  {
+   "key": "i_178",
+   "type": "case",
+   "name": "1944 No.178 Squadron sighting",
+   "description": "RAF crew's report of lights following their aircraft over Hungary on 13 October 1944"
+  },
+  {
+   "key": "no178",
+   "type": "organization",
+   "name": "No.178 Squadron",
+   "description": "RAF squadron based in Italy"
+  },
+  {
+   "key": "italy",
+   "type": "place",
+   "name": "Italy",
+   "description": "Country where No.178 Squadron was based"
+  },
+  {
+   "key": "hungary",
+   "type": "place",
+   "name": "Hungary",
+   "description": "Country over which the 13 October 1944 sighting occurred"
+  },
+  {
+   "key": "szek",
+   "type": "place",
+   "name": "Székesfehérvár, Hungary",
+   "description": "Target of the night raid",
+   "aliases": [
+    "Székesfehérvár"
+   ]
+  },
+  {
+   "key": "kh103",
+   "type": "vehicle",
+   "name": "B-24 Liberator KH103",
+   "description": "Aircraft flown by Pilot Officer Taylor"
+  },
+  {
+   "key": "taylor",
+   "type": "person",
+   "name": "Taylor",
+   "description": "Pilot Officer who flew B-24 Liberator KH103",
+   "aliases": [
+    "Pilot Officer Taylor"
+   ]
+  },
+  {
+   "key": "redlight",
+   "type": "craft",
+   "name": "intermittent red light that followed B-24 Liberator KH103",
+   "description": "Red light that followed the aircraft for several minutes"
+  },
+  {
+   "key": "i_bastien",
+   "type": "case",
+   "name": "Charles R. Bastien foo fighter encounter",
+   "description": "One of the first encounters with foo fighters, over the Belgium/Netherlands area"
+  },
+  {
+   "key": "bastien",
+   "type": "person",
+   "name": "Charles R. Bastien",
+   "description": "US Eighth Air Force airman who reported an early encounter"
+  },
+  {
+   "key": "8af",
+   "type": "organization",
+   "name": "Eighth Air Force",
+   "description": "US air force in which Bastien served",
+   "aliases": [
+    "US Eighth Air Force"
+   ]
+  },
+  {
+   "key": "netherlands",
+   "type": "place",
+   "name": "Netherlands",
+   "description": "Part of the area of Bastien's encounter"
+  },
+  {
+   "key": "foglights",
+   "type": "craft",
+   "name": "two fog lights flying at high rates of speed",
+   "description": "Objects described by Bastien"
+  },
+  {
+   "key": "adams",
+   "type": "person",
+   "name": "Duane Adams",
+   "description": "Career U.S. Air Force pilot who related two sightings"
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "description": "Service of Duane Adams and Ted Stevens; its European intelligence section questioned German experts",
+   "aliases": [
+    "U.S. Air Force",
+    "US Air Force"
+   ]
+  },
+  {
+   "key": "i_adams1",
+   "type": "case",
+   "name": "Duane Adams B-25 sighting",
+   "description": "Bright light that paced Adams's B-25 over the South Pacific shortly after World War II"
+  },
+  {
+   "key": "i_adams2",
+   "type": "case",
+   "name": "Duane Adams KC-135 sighting",
+   "description": "Bright light that paced Adams's KC-135 over the South Pacific in the early 1960s"
+  },
+  {
+   "key": "b25",
+   "type": "vehicle",
+   "name": "B-25 bomber",
+   "description": "Aircraft piloted by Adams in the first sighting"
+  },
+  {
+   "key": "kc135",
+   "type": "vehicle",
+   "name": "KC-135 tanker",
+   "description": "Aircraft piloted by Adams in the second sighting"
+  },
+  {
+   "key": "spacific",
+   "type": "place",
+   "name": "South Pacific",
+   "description": "Region of both Adams sightings"
+  },
+  {
+   "key": "i_stevens",
+   "type": "case",
+   "name": "Ted Stevens World War II encounter",
+   "description": "Encounter with an object flying next to Stevens's aircraft, recounted by Harry Reid"
+  },
+  {
+   "key": "stevens",
+   "type": "person",
+   "name": "Ted Stevens",
+   "description": "Senator and former US Air Force fighter pilot",
+   "aliases": [
+    "Senator Ted Stevens"
+   ]
+  },
+  {
+   "key": "reid",
+   "type": "person",
+   "name": "Harry Reid",
+   "description": "Senator who recounted Stevens's encounter",
+   "aliases": [
+    "Senator Harry Reid"
+   ]
+  },
+  {
+   "key": "ringrep",
+   "type": "document",
+   "name": "Ringwald's report of 14 incidents",
+   "description": "Report listing 14 separate incidents in December 1944 and early January 1945"
+  },
+  {
+   "key": "xiitac",
+   "type": "organization",
+   "name": "XII Tactical Air Command",
+   "description": "Command to whose intelligence section Ringwald sent his report",
+   "aliases": [
+    "XII TAC"
+   ]
+  },
+  {
+   "key": "64fw",
+   "type": "organization",
+   "name": "64th Fighter Wing",
+   "description": "Immediate superiors of the 415th"
+  },
+  {
+   "key": "airmin",
+   "type": "organization",
+   "name": "Air Ministry",
+   "description": "British ministry in London that gave an explanation on 13 March 1945",
+   "aliases": [
+    "British Air Ministry"
+   ]
+  },
+  {
+   "key": "london",
+   "type": "place",
+   "name": "London, England",
+   "description": "Location of the British Air Ministry",
+   "aliases": [
+    "London"
+   ]
+  },
+  {
+   "key": "bomber",
+   "type": "organization",
+   "name": "Bomber Command",
+   "description": "RAF command whose crews reported similar phenomena"
+  },
+  {
+   "key": "me262",
+   "type": "vehicle",
+   "name": "Me 262",
+   "description": "German aircraft suggested for a few of the alleged aircraft"
+  },
+  {
+   "key": "luftwaffe",
+   "type": "organization",
+   "name": "Luftwaffe",
+   "description": "German air force whose former high-ranking officers were questioned"
+  },
+  {
+   "key": "usafe",
+   "type": "organization",
+   "name": "United States Air Force in Europe",
+   "description": "Command whose intelligence section questioned German experts in autumn 1945"
+  },
+  {
+   "key": "navy",
+   "type": "organization",
+   "name": "United States Navy",
+   "description": "Service that began experiments on visual illusions of nighttime aviators",
+   "aliases": [
+    "U.S. Navy"
+   ]
+  },
+  {
+   "key": "bumed",
+   "type": "organization",
+   "name": "Bureau of Medicine",
+   "description": "U.S. Navy bureau running project X-148-AV-4-3",
+   "aliases": [
+    "BUMED"
+   ]
+  },
+  {
+   "key": "x148",
+   "type": "program",
+   "name": "Project X-148-AV-4-3",
+   "description": "U.S. Navy Bureau of Medicine project pioneering the study of aviators' vertigo"
+  },
+  {
+   "key": "vinacke",
+   "type": "person",
+   "name": "Edgar Vinacke",
+   "description": "Prime flight psychologist on project X-148-AV-4-3"
+  },
+  {
+   "key": "ghost",
+   "type": "case",
+   "name": "Ghost rockets",
+   "description": "Related phenomenon listed in See also"
+  },
+  {
+   "key": "green",
+   "type": "case",
+   "name": "Green fireballs",
+   "description": "Related phenomenon listed in See also"
+  },
+  {
+   "key": "hessdalen",
+   "type": "case",
+   "name": "Hessdalen lights",
+   "description": "Related phenomenon listed in See also"
+  },
+  {
+   "key": "lindell",
+   "type": "person",
+   "name": "Jeff Lindell",
+   "description": "Folklorist and WW2 aviation historian who wrote on the foo fighters"
+  },
+  {
+   "key": "lindellwork",
+   "type": "work",
+   "name": "A Historical and Physiological Perspective of the Foo Fighters of World War Two",
+   "description": "Paper by Jeff Lindell"
+  },
+  {
+   "key": "rendall",
+   "type": "person",
+   "name": "Graeme Rendall",
+   "description": "Author of UFOs Before Roswell: European Foo Fighters 1940-1945"
+  },
+  {
+   "key": "rendallbook",
+   "type": "work",
+   "name": "UFOs Before Roswell: European Foo Fighters 1940-1945",
+   "description": "Book by Graeme Rendall"
+  },
+  {
+   "key": "clark",
+   "type": "person",
+   "name": "Jerome Clark",
+   "description": "Co-author of the essay Foo Fighters of WWII"
+  },
+  {
+   "key": "farish",
+   "type": "person",
+   "name": "Lucius Farish",
+   "description": "Co-author of the essay Foo Fighters of WWII"
+  },
+  {
+   "key": "clarkessay",
+   "type": "work",
+   "name": "Foo Fighters of WWII",
+   "description": "Widely reproduced essay by Jerome Clark and Lucius Farish"
+  },
+  {
+   "key": "hanks",
+   "type": "work",
+   "name": "The Micah Hanks Program",
+   "description": "Podcast on which Graeme Rendall discussed the European foo fighter phenomenon"
+  },
+  {
+   "key": "germany",
+   "type": "place",
+   "name": "Germany",
+   "description": "Enemy country whose secret weapons were suspected"
+  },
+  {
+   "key": "japan",
+   "type": "place",
+   "name": "Japan",
+   "description": "Country whose pilots also reported similar sightings"
+  },
+  {
+   "key": "f_sphere",
+   "type": "feature",
+   "name": "shape-sphere",
+   "description": "shape-sphere"
+  },
+  {
+   "key": "f_lights",
+   "type": "feature",
+   "name": "lights-only",
+   "description": "lights-only"
+  },
+  {
+   "key": "f_pursuit",
+   "type": "feature",
+   "name": "aircraft-pursuit",
+   "description": "aircraft-pursuit"
+  },
+  {
+   "key": "f_maneuver",
+   "type": "feature",
+   "name": "high-speed-maneuvers",
+   "description": "high-speed-maneuvers"
+  },
+  {
+   "key": "f_pilot",
+   "type": "feature",
+   "name": "pilot-witnesses",
+   "description": "pilot-witnesses"
+  },
+  {
+   "key": "f_mil",
+   "type": "feature",
+   "name": "military-witnesses",
+   "description": "military-witnesses"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "multiple-witnesses"
+  },
+  {
+   "key": "f_inv",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "official-investigation"
+  },
+  {
+   "key": "f_hover",
+   "type": "feature",
+   "name": "hovering",
+   "description": "hovering"
+  },
+  {
+   "key": "f_water",
+   "type": "feature",
+   "name": "water-related",
+   "description": "water-related"
+  },
+  {
+   "key": "x_secret",
+   "type": "explanation",
+   "name": "secret-aircraft",
+   "description": "Enemy secret weapons / German aircraft"
+  },
+  {
+   "key": "x_plasma",
+   "type": "explanation",
+   "name": "ball-lightning-or-plasma",
+   "description": "Electrostatic phenomena such as St. Elmo's fire, or ball lightning"
+  },
+  {
+   "key": "x_em",
+   "type": "explanation",
+   "name": "other:electromagnetic phenomena",
+   "description": "Electromagnetic phenomena"
+  },
+  {
+   "key": "x_ice",
+   "type": "explanation",
+   "name": "other:reflections of light from ice crystals",
+   "description": "Reflections of light from ice crystals"
+  },
+  {
+   "key": "x_flak",
+   "type": "explanation",
+   "name": "other:flak rockets",
+   "description": "Flak rockets, per Air Ministry"
+  },
+  {
+   "key": "x_balloon",
+   "type": "explanation",
+   "name": "balloon",
+   "description": "Japanese fire balloons"
+  },
+  {
+   "key": "x_misp",
+   "type": "explanation",
+   "name": "misperception",
+   "description": "Visual illusions / aviators' vertigo"
+  },
+  {
+   "key": "x_ac",
+   "type": "explanation",
+   "name": "conventional-aircraft",
+   "description": "Wing-tip navigation lights from an aircraft (ruled out)"
+  }
+ ],
+ "claims": [
+  {
+   "s": "allied",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The term foo fighters was used by Allied aircraft pilots during World War II to describe various unidentified flying objects (UFO) or mysterious aerial phenomena seen in the skies over both the European and Pacific theaters of operations."
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The term foo fighters was used by Allied aircraft pilots during World War II to describe various unidentified flying objects (UFO) or mysterious aerial phenomena seen in the skies over both the European and Pacific theaters of operations."
+  },
+  {
+   "s": "europe",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The term foo fighters was used by Allied aircraft pilots during World War II to describe various unidentified flying objects (UFO) or mysterious aerial phenomena seen in the skies over both the European and Pacific theaters of operations."
+  },
+  {
+   "s": "pacific",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The term foo fighters was used by Allied aircraft pilots during World War II to describe various unidentified flying objects (UFO) or mysterious aerial phenomena seen in the skies over both the European and Pacific theaters of operations."
+  },
+  {
+   "s": "foo",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "The term foo fighters was used by Allied aircraft pilots during World War II to describe various unidentified flying objects (UFO) or mysterious aerial phenomena seen in the skies over both the European and Pacific theaters of operations."
+  },
+  {
+   "s": "415",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Though foo fighters initially described a type of UFO reported and named by the U.S. 415th Night Fighter Squadron, the term was also commonly used to mean any UFO sighting from that period."
+  },
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1944-11",
+   "quote": "Formally reported from November 1944 onwards, foo fighters were presumed by witnesses to be secret weapons employed by the enemy."
+  },
+  {
+   "s": "x_secret",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Formally reported from November 1944 onwards, foo fighters were presumed by witnesses to be secret weapons employed by the enemy."
+  },
+  {
+   "s": "robertson",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The Robertson Panel explored possible explanations, for instance that they were electrostatic phenomena similar to St. Elmo's fire, electromagnetic phenomena, or simply reflections of light from ice crystals."
+  },
+  {
+   "s": "x_plasma",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The Robertson Panel explored possible explanations, for instance that they were electrostatic phenomena similar to St. Elmo's fire, electromagnetic phenomena, or simply reflections of light from ice crystals."
+  },
+  {
+   "s": "x_em",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The Robertson Panel explored possible explanations, for instance that they were electrostatic phenomena similar to St. Elmo's fire, electromagnetic phenomena, or simply reflections of light from ice crystals."
+  },
+  {
+   "s": "x_ice",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The Robertson Panel explored possible explanations, for instance that they were electrostatic phenomena similar to St. Elmo's fire, electromagnetic phenomena, or simply reflections of light from ice crystals."
+  },
+  {
+   "s": "robertson",
+   "p": "proposed",
+   "o": "x_plasma",
+   "quote": "The Robertson Panel explored possible explanations, for instance that they were electrostatic phenomena similar to St. Elmo's fire, electromagnetic phenomena, or simply reflections of light from ice crystals."
+  },
+  {
+   "s": "robertson",
+   "p": "proposed",
+   "o": "x_em",
+   "quote": "The Robertson Panel explored possible explanations, for instance that they were electrostatic phenomena similar to St. Elmo's fire, electromagnetic phenomena, or simply reflections of light from ice crystals."
+  },
+  {
+   "s": "robertson",
+   "p": "proposed",
+   "o": "x_ice",
+   "quote": "The Robertson Panel explored possible explanations, for instance that they were electrostatic phenomena similar to St. Elmo's fire, electromagnetic phenomena, or simply reflections of light from ice crystals."
+  },
+  {
+   "s": "f_inv",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Robertson Panel explored possible explanations, for instance that they were electrostatic phenomena similar to St. Elmo's fire, electromagnetic phenomena, or simply reflections of light from ice crystals."
+  },
+  {
+   "s": "holman",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "The nonsense word \"foo\" emerged in popular culture during the early 1930s, first being used by cartoonist Bill Holman, who peppered his Smokey Stover fireman cartoon strips with \"foo\" signs and puns."
+  },
+  {
+   "s": "holman",
+   "p": "authored",
+   "o": "smokey",
+   "quote": "The nonsense word \"foo\" emerged in popular culture during the early 1930s, first being used by cartoonist Bill Holman, who peppered his Smokey Stover fireman cartoon strips with \"foo\" signs and puns."
+  },
+  {
+   "s": "holman",
+   "p": "occupation",
+   "v": "cartoonist",
+   "quote": "The nonsense word \"foo\" emerged in popular culture during the early 1930s, first being used by cartoonist Bill Holman, who peppered his Smokey Stover fireman cartoon strips with \"foo\" signs and puns."
+  },
+  {
+   "s": "case",
+   "p": "etymology",
+   "v": "\"foo\" emerged in popular culture during the early 1930s, first used by Bill Holman in Smokey Stover",
+   "quote": "The nonsense word \"foo\" emerged in popular culture during the early 1930s, first being used by cartoonist Bill Holman, who peppered his Smokey Stover fireman cartoon strips with \"foo\" signs and puns."
+  },
+  {
+   "s": "smokey",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The term \"foo\" was borrowed from Smokey Stover by a radar operator in the 415th Night Fighter Squadron, Donald J. Meiers, who, according to most 415th members, gave the foo fighters their name."
+  },
+  {
+   "s": "meiers",
+   "p": "witness",
+   "o": "case",
+   "quote": "The term \"foo\" was borrowed from Smokey Stover by a radar operator in the 415th Night Fighter Squadron, Donald J. Meiers, who, according to most 415th members, gave the foo fighters their name."
+  },
+  {
+   "s": "meiers",
+   "p": "member_of",
+   "o": "415",
+   "quote": "The term \"foo\" was borrowed from Smokey Stover by a radar operator in the 415th Night Fighter Squadron, Donald J. Meiers, who, according to most 415th members, gave the foo fighters their name."
+  },
+  {
+   "s": "meiers",
+   "p": "occupation",
+   "v": "radar operator",
+   "quote": "The term \"foo\" was borrowed from Smokey Stover by a radar operator in the 415th Night Fighter Squadron, Donald J. Meiers, who, according to most 415th members, gave the foo fighters their name."
+  },
+  {
+   "s": "meiers",
+   "p": "role",
+   "v": "gave the foo fighters their name, according to most 415th members",
+   "quote": "The term \"foo\" was borrowed from Smokey Stover by a radar operator in the 415th Night Fighter Squadron, Donald J. Meiers, who, according to most 415th members, gave the foo fighters their name."
+  },
+  {
+   "s": "chicago",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Meiers was from Chicago and was an avid reader of Holman's strip, which was run daily in the Chicago Tribune."
+  },
+  {
+   "s": "meiers",
+   "p": "hometown",
+   "v": "Chicago",
+   "quote": "Meiers was from Chicago and was an avid reader of Holman's strip, which was run daily in the Chicago Tribune."
+  },
+  {
+   "s": "tribune",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Meiers was from Chicago and was an avid reader of Holman's strip, which was run daily in the Chicago Tribune."
+  },
+  {
+   "s": "tribune",
+   "p": "published",
+   "o": "smokey",
+   "quote": "Meiers was from Chicago and was an avid reader of Holman's strip, which was run daily in the Chicago Tribune."
+  },
+  {
+   "s": "smokey",
+   "p": "catch_phrase",
+   "v": "where there's foo, there's fire",
+   "quote": "Smokey Stover's catch-phrase was \"where there's foo, there's fire\"."
+  },
+  {
+   "s": "i_1127",
+   "p": "related_case",
+   "o": "case",
+   "quote": "In a mission debriefing on the evening of November 27, 1944, Frederic \"Fritz\" Ringwald, the unit's S-2 Intelligence Officer, stated that Meiers and Pilot Lt. Ed Schleuter had sighted a red ball of fire that appeared to chase them through a variety of high-speed maneuvers."
+  },
+  {
+   "s": "i_1127",
+   "p": "date_start",
+   "v": "1944-11-27",
+   "quote": "In a mission debriefing on the evening of November 27, 1944, Frederic \"Fritz\" Ringwald, the unit's S-2 Intelligence Officer, stated that Meiers and Pilot Lt. Ed Schleuter had sighted a red ball of fire that appeared to chase them through a variety of high-speed maneuvers."
+  },
+  {
+   "s": "i_1127",
+   "p": "time_of_day",
+   "v": "evening",
+   "quote": "In a mission debriefing on the evening of November 27, 1944, Frederic \"Fritz\" Ringwald, the unit's S-2 Intelligence Officer, stated that Meiers and Pilot Lt. Ed Schleuter had sighted a red ball of fire that appeared to chase them through a variety of high-speed maneuvers."
+  },
+  {
+   "s": "meiers",
+   "p": "witness",
+   "o": "i_1127",
+   "quote": "In a mission debriefing on the evening of November 27, 1944, Frederic \"Fritz\" Ringwald, the unit's S-2 Intelligence Officer, stated that Meiers and Pilot Lt. Ed Schleuter had sighted a red ball of fire that appeared to chase them through a variety of high-speed maneuvers."
+  },
+  {
+   "s": "schleuter",
+   "p": "witness",
+   "o": "i_1127",
+   "quote": "In a mission debriefing on the evening of November 27, 1944, Frederic \"Fritz\" Ringwald, the unit's S-2 Intelligence Officer, stated that Meiers and Pilot Lt. Ed Schleuter had sighted a red ball of fire that appeared to chase them through a variety of high-speed maneuvers."
+  },
+  {
+   "s": "schleuter",
+   "p": "witness",
+   "o": "case",
+   "quote": "In a mission debriefing on the evening of November 27, 1944, Frederic \"Fritz\" Ringwald, the unit's S-2 Intelligence Officer, stated that Meiers and Pilot Lt. Ed Schleuter had sighted a red ball of fire that appeared to chase them through a variety of high-speed maneuvers."
+  },
+  {
+   "s": "schleuter",
+   "p": "member_of",
+   "o": "415",
+   "quote": "In a mission debriefing on the evening of November 27, 1944, Frederic \"Fritz\" Ringwald, the unit's S-2 Intelligence Officer, stated that Meiers and Pilot Lt. Ed Schleuter had sighted a red ball of fire that appeared to chase them through a variety of high-speed maneuvers."
+  },
+  {
+   "s": "schleuter",
+   "p": "rank",
+   "v": "Lieutenant",
+   "quote": "In a mission debriefing on the evening of November 27, 1944, Frederic \"Fritz\" Ringwald, the unit's S-2 Intelligence Officer, stated that Meiers and Pilot Lt. Ed Schleuter had sighted a red ball of fire that appeared to chase them through a variety of high-speed maneuvers."
+  },
+  {
+   "s": "schleuter",
+   "p": "occupation",
+   "v": "pilot",
+   "quote": "In a mission debriefing on the evening of November 27, 1944, Frederic \"Fritz\" Ringwald, the unit's S-2 Intelligence Officer, stated that Meiers and Pilot Lt. Ed Schleuter had sighted a red ball of fire that appeared to chase them through a variety of high-speed maneuvers."
+  },
+  {
+   "s": "ringwald",
+   "p": "official_involved",
+   "o": "i_1127",
+   "quote": "In a mission debriefing on the evening of November 27, 1944, Frederic \"Fritz\" Ringwald, the unit's S-2 Intelligence Officer, stated that Meiers and Pilot Lt. Ed Schleuter had sighted a red ball of fire that appeared to chase them through a variety of high-speed maneuvers."
+  },
+  {
+   "s": "ringwald",
+   "p": "investigator",
+   "o": "case",
+   "quote": "In a mission debriefing on the evening of November 27, 1944, Frederic \"Fritz\" Ringwald, the unit's S-2 Intelligence Officer, stated that Meiers and Pilot Lt. Ed Schleuter had sighted a red ball of fire that appeared to chase them through a variety of high-speed maneuvers."
+  },
+  {
+   "s": "ringwald",
+   "p": "member_of",
+   "o": "415",
+   "quote": "In a mission debriefing on the evening of November 27, 1944, Frederic \"Fritz\" Ringwald, the unit's S-2 Intelligence Officer, stated that Meiers and Pilot Lt. Ed Schleuter had sighted a red ball of fire that appeared to chase them through a variety of high-speed maneuvers."
+  },
+  {
+   "s": "ringwald",
+   "p": "occupation",
+   "v": "S-2 Intelligence Officer",
+   "quote": "In a mission debriefing on the evening of November 27, 1944, Frederic \"Fritz\" Ringwald, the unit's S-2 Intelligence Officer, stated that Meiers and Pilot Lt. Ed Schleuter had sighted a red ball of fire that appeared to chase them through a variety of high-speed maneuvers."
+  },
+  {
+   "s": "redball",
+   "p": "reported_object",
+   "o": "i_1127",
+   "quote": "In a mission debriefing on the evening of November 27, 1944, Frederic \"Fritz\" Ringwald, the unit's S-2 Intelligence Officer, stated that Meiers and Pilot Lt. Ed Schleuter had sighted a red ball of fire that appeared to chase them through a variety of high-speed maneuvers."
+  },
+  {
+   "s": "redball",
+   "p": "color",
+   "v": "red",
+   "quote": "In a mission debriefing on the evening of November 27, 1944, Frederic \"Fritz\" Ringwald, the unit's S-2 Intelligence Officer, stated that Meiers and Pilot Lt. Ed Schleuter had sighted a red ball of fire that appeared to chase them through a variety of high-speed maneuvers."
+  },
+  {
+   "s": "redball",
+   "p": "shape",
+   "v": "ball of fire",
+   "quote": "In a mission debriefing on the evening of November 27, 1944, Frederic \"Fritz\" Ringwald, the unit's S-2 Intelligence Officer, stated that Meiers and Pilot Lt. Ed Schleuter had sighted a red ball of fire that appeared to chase them through a variety of high-speed maneuvers."
+  },
+  {
+   "s": "redball",
+   "p": "behavior",
+   "v": "appeared to chase them through a variety of high-speed maneuvers",
+   "quote": "In a mission debriefing on the evening of November 27, 1944, Frederic \"Fritz\" Ringwald, the unit's S-2 Intelligence Officer, stated that Meiers and Pilot Lt. Ed Schleuter had sighted a red ball of fire that appeared to chase them through a variety of high-speed maneuvers."
+  },
+  {
+   "s": "f_maneuver",
+   "p": "has_feature",
+   "o": "i_1127",
+   "quote": "In a mission debriefing on the evening of November 27, 1944, Frederic \"Fritz\" Ringwald, the unit's S-2 Intelligence Officer, stated that Meiers and Pilot Lt. Ed Schleuter had sighted a red ball of fire that appeared to chase them through a variety of high-speed maneuvers."
+  },
+  {
+   "s": "f_pursuit",
+   "p": "has_feature",
+   "o": "i_1127",
+   "quote": "In a mission debriefing on the evening of November 27, 1944, Frederic \"Fritz\" Ringwald, the unit's S-2 Intelligence Officer, stated that Meiers and Pilot Lt. Ed Schleuter had sighted a red ball of fire that appeared to chase them through a variety of high-speed maneuvers."
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "i_1127",
+   "quote": "In a mission debriefing on the evening of November 27, 1944, Frederic \"Fritz\" Ringwald, the unit's S-2 Intelligence Officer, stated that Meiers and Pilot Lt. Ed Schleuter had sighted a red ball of fire that appeared to chase them through a variety of high-speed maneuvers."
+  },
+  {
+   "s": "415",
+   "p": "involved_org",
+   "o": "i_1127",
+   "quote": "In a mission debriefing on the evening of November 27, 1944, Frederic \"Fritz\" Ringwald, the unit's S-2 Intelligence Officer, stated that Meiers and Pilot Lt. Ed Schleuter had sighted a red ball of fire that appeared to chase them through a variety of high-speed maneuvers."
+  },
+  {
+   "s": "ringwald",
+   "p": "statement",
+   "v": "Meiers was extremely agitated and had a copy of the comic strip tucked in his back pocket",
+   "quote": "Ringwald said that Meiers was extremely agitated and had a copy of the comic strip tucked in his back pocket."
+  },
+  {
+   "s": "meiers",
+   "p": "statement",
+   "v": "It was another one of those fuckin' foo fighters!",
+   "quote": "He pulled it out and slammed it down on Ringwald's desk and said, \"[I]t was another one of those fuckin' foo fighters!\" and stormed out of the debriefing room."
+  },
+  {
+   "s": "ringwald",
+   "p": "statement",
+   "v": "because of the lack of a better name, it stuck",
+   "quote": "According to Ringwald, because of the lack of a better name, it stuck."
+  },
+  {
+   "s": "415",
+   "p": "original_term",
+   "v": "fuckin' foo fighters",
+   "quote": "And this was originally what the men of the 415th started calling these incidents: \"fuckin' foo fighters\"."
+  },
+  {
+   "s": "wilson",
+   "p": "journalist",
+   "o": "case",
+   "quote": "In December 1944, a press correspondent from the Associated Press in Paris, Bob Wilson, was sent to the 415th at their base outside of Dijon, France, to investigate this story."
+  },
+  {
+   "s": "wilson",
+   "p": "employed_by",
+   "o": "ap",
+   "quote": "In December 1944, a press correspondent from the Associated Press in Paris, Bob Wilson, was sent to the 415th at their base outside of Dijon, France, to investigate this story."
+  },
+  {
+   "s": "ap",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In December 1944, a press correspondent from the Associated Press in Paris, Bob Wilson, was sent to the 415th at their base outside of Dijon, France, to investigate this story."
+  },
+  {
+   "s": "paris",
+   "p": "related_place",
+   "o": "case",
+   "quote": "In December 1944, a press correspondent from the Associated Press in Paris, Bob Wilson, was sent to the 415th at their base outside of Dijon, France, to investigate this story."
+  },
+  {
+   "s": "dijon",
+   "p": "related_place",
+   "o": "case",
+   "quote": "In December 1944, a press correspondent from the Associated Press in Paris, Bob Wilson, was sent to the 415th at their base outside of Dijon, France, to investigate this story."
+  },
+  {
+   "s": "dijon",
+   "p": "located_in",
+   "o": "france",
+   "quote": "In December 1944, a press correspondent from the Associated Press in Paris, Bob Wilson, was sent to the 415th at their base outside of Dijon, France, to investigate this story."
+  },
+  {
+   "s": "paris",
+   "p": "located_in",
+   "o": "france",
+   "quote": "In December 1944, a press correspondent from the Associated Press in Paris, Bob Wilson, was sent to the 415th at their base outside of Dijon, France, to investigate this story."
+  },
+  {
+   "s": "france",
+   "p": "related_place",
+   "o": "case",
+   "quote": "In December 1944, a press correspondent from the Associated Press in Paris, Bob Wilson, was sent to the 415th at their base outside of Dijon, France, to investigate this story."
+  },
+  {
+   "s": "415",
+   "p": "stationed_at",
+   "o": "dijon",
+   "quote": "In December 1944, a press correspondent from the Associated Press in Paris, Bob Wilson, was sent to the 415th at their base outside of Dijon, France, to investigate this story."
+  },
+  {
+   "s": "wilson",
+   "p": "visit_date",
+   "v": "1944-12",
+   "quote": "In December 1944, a press correspondent from the Associated Press in Paris, Bob Wilson, was sent to the 415th at their base outside of Dijon, France, to investigate this story."
+  },
+  {
+   "s": "augsperger",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "The squadron commander, Capt. Harold Augsperger, also decided to sanitize the term to \"foo fighters\" in the historical data of the squadron."
+  },
+  {
+   "s": "augsperger",
+   "p": "commanded",
+   "o": "415",
+   "quote": "The squadron commander, Capt. Harold Augsperger, also decided to sanitize the term to \"foo fighters\" in the historical data of the squadron."
+  },
+  {
+   "s": "augsperger",
+   "p": "rank",
+   "v": "Captain",
+   "quote": "The squadron commander, Capt. Harold Augsperger, also decided to sanitize the term to \"foo fighters\" in the historical data of the squadron."
+  },
+  {
+   "s": "case",
+   "p": "etymology",
+   "v": "other proposed origins: a corruption of the French feu for fire, and of the military acronym FUBAR",
+   "quote": "Other proposed origins of the term have been a corruption of the French feu for fire, and a corruption of the military acronym FUBAR (fucked up beyond all recognition)."
+  },
+  {
+   "s": "raf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Royal Air Force personnel had reported seeing lights following their aircraft from as early as March 1942, with similar sightings involving RAF bomber crews over the Balkans starting in April 1944."
+  },
+  {
+   "s": "balkans",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Royal Air Force personnel had reported seeing lights following their aircraft from as early as March 1942, with similar sightings involving RAF bomber crews over the Balkans starting in April 1944."
+  },
+  {
+   "s": "raf",
+   "p": "first_reports",
+   "v": "lights following aircraft from as early as March 1942; over the Balkans from April 1944",
+   "quote": "Royal Air Force personnel had reported seeing lights following their aircraft from as early as March 1942, with similar sightings involving RAF bomber crews over the Balkans starting in April 1944."
+  },
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1942-03",
+   "quote": "Royal Air Force personnel had reported seeing lights following their aircraft from as early as March 1942, with similar sightings involving RAF bomber crews over the Balkans starting in April 1944."
+  },
+  {
+   "s": "f_lights",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Royal Air Force personnel had reported seeing lights following their aircraft from as early as March 1942, with similar sightings involving RAF bomber crews over the Balkans starting in April 1944."
+  },
+  {
+   "s": "i_422",
+   "p": "related_case",
+   "o": "case",
+   "quote": "American sightings were first recorded by crews from the 422nd Night-Fighter Squadron stationed in Occupied Belgium during the first week of October 1944."
+  },
+  {
+   "s": "422",
+   "p": "involved_org",
+   "o": "i_422",
+   "quote": "American sightings were first recorded by crews from the 422nd Night-Fighter Squadron stationed in Occupied Belgium during the first week of October 1944."
+  },
+  {
+   "s": "422",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "American sightings were first recorded by crews from the 422nd Night-Fighter Squadron stationed in Occupied Belgium during the first week of October 1944."
+  },
+  {
+   "s": "422",
+   "p": "stationed_at",
+   "o": "belgium",
+   "quote": "American sightings were first recorded by crews from the 422nd Night-Fighter Squadron stationed in Occupied Belgium during the first week of October 1944."
+  },
+  {
+   "s": "belgium",
+   "p": "occurred_at",
+   "o": "i_422",
+   "quote": "American sightings were first recorded by crews from the 422nd Night-Fighter Squadron stationed in Occupied Belgium during the first week of October 1944."
+  },
+  {
+   "s": "belgium",
+   "p": "related_place",
+   "o": "case",
+   "quote": "American sightings were first recorded by crews from the 422nd Night-Fighter Squadron stationed in Occupied Belgium during the first week of October 1944."
+  },
+  {
+   "s": "i_422",
+   "p": "date_start",
+   "v": "1944-10",
+   "quote": "American sightings were first recorded by crews from the 422nd Night-Fighter Squadron stationed in Occupied Belgium during the first week of October 1944."
+  },
+  {
+   "s": "me163",
+   "p": "identified_as",
+   "o": "i_422",
+   "quote": "At the time, these were erroneously believed to be Messerschmitt Me 163 rocket-powered interceptors, which did not operate at night."
+  },
+  {
+   "s": "x_secret",
+   "p": "explained_as",
+   "o": "i_422",
+   "quote": "At the time, these were erroneously believed to be Messerschmitt Me 163 rocket-powered interceptors, which did not operate at night."
+  },
+  {
+   "s": "i_422",
+   "p": "initial_identification",
+   "v": "erroneously believed to be Messerschmitt Me 163 rocket-powered interceptors",
+   "quote": "At the time, these were erroneously believed to be Messerschmitt Me 163 rocket-powered interceptors, which did not operate at night."
+  },
+  {
+   "s": "me163",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "At the time, these were erroneously believed to be Messerschmitt Me 163 rocket-powered interceptors, which did not operate at night."
+  },
+  {
+   "s": "weurope",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "However, the bulk of the sightings started occurring in the last week of November 1944, when pilots flying over Western Europe by night reported seeing fast-moving round glowing objects following their aircraft."
+  },
+  {
+   "s": "foo",
+   "p": "shape",
+   "v": "round",
+   "quote": "However, the bulk of the sightings started occurring in the last week of November 1944, when pilots flying over Western Europe by night reported seeing fast-moving round glowing objects following their aircraft."
+  },
+  {
+   "s": "foo",
+   "p": "speed",
+   "v": "fast-moving",
+   "quote": "However, the bulk of the sightings started occurring in the last week of November 1944, when pilots flying over Western Europe by night reported seeing fast-moving round glowing objects following their aircraft."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "night",
+   "quote": "However, the bulk of the sightings started occurring in the last week of November 1944, when pilots flying over Western Europe by night reported seeing fast-moving round glowing objects following their aircraft."
+  },
+  {
+   "s": "f_sphere",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "However, the bulk of the sightings started occurring in the last week of November 1944, when pilots flying over Western Europe by night reported seeing fast-moving round glowing objects following their aircraft."
+  },
+  {
+   "s": "f_pursuit",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "However, the bulk of the sightings started occurring in the last week of November 1944, when pilots flying over Western Europe by night reported seeing fast-moving round glowing objects following their aircraft."
+  },
+  {
+   "s": "foo",
+   "p": "color",
+   "v": "fiery, glowing red, white, or orange",
+   "quote": "The objects were variously described as fiery, and glowing red, white, or orange."
+  },
+  {
+   "s": "foo",
+   "p": "appearance",
+   "v": "resembling Christmas-tree lights",
+   "quote": "Some pilots described them as resembling Christmas-tree lights and reported that they seemed to toy with the aircraft, making wild turns before simply vanishing."
+  },
+  {
+   "s": "foo",
+   "p": "behavior",
+   "v": "seemed to toy with the aircraft, making wild turns before simply vanishing",
+   "quote": "Some pilots described them as resembling Christmas-tree lights and reported that they seemed to toy with the aircraft, making wild turns before simply vanishing."
+  },
+  {
+   "s": "f_maneuver",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Some pilots described them as resembling Christmas-tree lights and reported that they seemed to toy with the aircraft, making wild turns before simply vanishing."
+  },
+  {
+   "s": "foo",
+   "p": "behavior",
+   "v": "flew in formation with aircraft, behaved as if under intelligent control, never displayed hostile behavior",
+   "quote": "Pilots and aircrew reported that the objects flew together in formation with their aircraft and behaved as if they were under intelligent control, but never displayed hostile behavior."
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Pilots and aircrew reported that the objects flew together in formation with their aircraft and behaved as if they were under intelligent control, but never displayed hostile behavior."
+  },
+  {
+   "s": "foo",
+   "p": "behavior",
+   "v": "could not be outmaneuvered or shot down",
+   "quote": "However, they could not be outmaneuvered or shot down."
+  },
+  {
+   "s": "case",
+   "p": "alternate_name",
+   "v": "Kraut fireballs",
+   "quote": "in the European Theater they were often called \"Kraut fireballs\", but for the most part called \"foo fighters\"."
+  },
+  {
+   "s": "germany",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The military took the sightings seriously, suspecting that the mysterious sightings might be secret German weapons, but further investigation revealed that German and Japanese pilots had reported similar sightings."
+  },
+  {
+   "s": "japan",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The military took the sightings seriously, suspecting that the mysterious sightings might be secret German weapons, but further investigation revealed that German and Japanese pilots had reported similar sightings."
+  },
+  {
+   "s": "case",
+   "p": "investigation_finding",
+   "v": "German and Japanese pilots had reported similar sightings",
+   "quote": "The military took the sightings seriously, suspecting that the mysterious sightings might be secret German weapons, but further investigation revealed that German and Japanese pilots had reported similar sightings."
+  },
+  {
+   "s": "shaef",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On 13 December 1944, the Supreme Headquarters Allied Expeditionary Force in Paris issued a press release, which was printed in The New York Times the next day, officially describing the phenomenon as a \"new German weapon\"."
+  },
+  {
+   "s": "shaef",
+   "p": "located_in",
+   "o": "paris",
+   "quote": "On 13 December 1944, the Supreme Headquarters Allied Expeditionary Force in Paris issued a press release, which was printed in The New York Times the next day, officially describing the phenomenon as a \"new German weapon\"."
+  },
+  {
+   "s": "pressrel",
+   "p": "key_document",
+   "o": "case",
+   "quote": "On 13 December 1944, the Supreme Headquarters Allied Expeditionary Force in Paris issued a press release, which was printed in The New York Times the next day, officially describing the phenomenon as a \"new German weapon\"."
+  },
+  {
+   "s": "shaef",
+   "p": "authored",
+   "o": "pressrel",
+   "quote": "On 13 December 1944, the Supreme Headquarters Allied Expeditionary Force in Paris issued a press release, which was printed in The New York Times the next day, officially describing the phenomenon as a \"new German weapon\"."
+  },
+  {
+   "s": "pressrel",
+   "p": "date",
+   "v": "1944-12-13",
+   "quote": "On 13 December 1944, the Supreme Headquarters Allied Expeditionary Force in Paris issued a press release, which was printed in The New York Times the next day, officially describing the phenomenon as a \"new German weapon\"."
+  },
+  {
+   "s": "pressrel",
+   "p": "content",
+   "v": "officially described the phenomenon as a \"new German weapon\"",
+   "quote": "On 13 December 1944, the Supreme Headquarters Allied Expeditionary Force in Paris issued a press release, which was printed in The New York Times the next day, officially describing the phenomenon as a \"new German weapon\"."
+  },
+  {
+   "s": "nyt",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On 13 December 1944, the Supreme Headquarters Allied Expeditionary Force in Paris issued a press release, which was printed in The New York Times the next day, officially describing the phenomenon as a \"new German weapon\"."
+  },
+  {
+   "s": "nyt",
+   "p": "published",
+   "o": "pressrel",
+   "quote": "On 13 December 1944, the Supreme Headquarters Allied Expeditionary Force in Paris issued a press release, which was printed in The New York Times the next day, officially describing the phenomenon as a \"new German weapon\"."
+  },
+  {
+   "s": "shaef",
+   "p": "proposed",
+   "o": "x_secret",
+   "quote": "On 13 December 1944, the Supreme Headquarters Allied Expeditionary Force in Paris issued a press release, which was printed in The New York Times the next day, officially describing the phenomenon as a \"new German weapon\"."
+  },
+  {
+   "s": "nyht",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Follow-up stories, using the term \"foo fighters\", appeared in the New York Herald Tribune and the British Daily Telegraph."
+  },
+  {
+   "s": "telegraph",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Follow-up stories, using the term \"foo fighters\", appeared in the New York Herald Tribune and the British Daily Telegraph."
+  },
+  {
+   "s": "time",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In its 15 January 1945 edition, Time magazine carried a story titled \"Foo-Fighter\", in which it reported that the \"balls of fire\" had been following USAAF night fighters for over a month, and that the pilots had named it the \"foo-fighter\"."
+  },
+  {
+   "s": "timeart",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In its 15 January 1945 edition, Time magazine carried a story titled \"Foo-Fighter\", in which it reported that the \"balls of fire\" had been following USAAF night fighters for over a month, and that the pilots had named it the \"foo-fighter\"."
+  },
+  {
+   "s": "time",
+   "p": "published",
+   "o": "timeart",
+   "quote": "In its 15 January 1945 edition, Time magazine carried a story titled \"Foo-Fighter\", in which it reported that the \"balls of fire\" had been following USAAF night fighters for over a month, and that the pilots had named it the \"foo-fighter\"."
+  },
+  {
+   "s": "timeart",
+   "p": "date",
+   "v": "1945-01-15",
+   "quote": "In its 15 January 1945 edition, Time magazine carried a story titled \"Foo-Fighter\", in which it reported that the \"balls of fire\" had been following USAAF night fighters for over a month, and that the pilots had named it the \"foo-fighter\"."
+  },
+  {
+   "s": "timeart",
+   "p": "content",
+   "v": "\"balls of fire\" had been following USAAF night fighters for over a month",
+   "quote": "In its 15 January 1945 edition, Time magazine carried a story titled \"Foo-Fighter\", in which it reported that the \"balls of fire\" had been following USAAF night fighters for over a month, and that the pilots had named it the \"foo-fighter\"."
+  },
+  {
+   "s": "usaaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In its 15 January 1945 edition, Time magazine carried a story titled \"Foo-Fighter\", in which it reported that the \"balls of fire\" had been following USAAF night fighters for over a month, and that the pilots had named it the \"foo-fighter\"."
+  },
+  {
+   "s": "timeart",
+   "p": "content",
+   "v": "descriptions varied, but pilots agreed that the mysterious lights followed their aircraft closely at high speed",
+   "quote": "According to Time, descriptions of the phenomena varied, but the pilots agreed that the mysterious lights followed their aircraft closely at high speed."
+  },
+  {
+   "s": "pacball",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "The \"balls of fire\" phenomenon reported from the Pacific Theater of Operations differed somewhat from the foo fighters reported from Europe; the \"ball of fire\" resembled a large burning sphere that \"just hung in the sky\", though it was reported to sometimes follow aircraft."
+  },
+  {
+   "s": "pacball",
+   "p": "shape",
+   "v": "large burning sphere",
+   "quote": "The \"balls of fire\" phenomenon reported from the Pacific Theater of Operations differed somewhat from the foo fighters reported from Europe; the \"ball of fire\" resembled a large burning sphere that \"just hung in the sky\", though it was reported to sometimes follow aircraft."
+  },
+  {
+   "s": "pacball",
+   "p": "behavior",
+   "v": "\"just hung in the sky\", sometimes reported to follow aircraft",
+   "quote": "The \"balls of fire\" phenomenon reported from the Pacific Theater of Operations differed somewhat from the foo fighters reported from Europe; the \"ball of fire\" resembled a large burning sphere that \"just hung in the sky\", though it was reported to sometimes follow aircraft."
+  },
+  {
+   "s": "f_hover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The \"balls of fire\" phenomenon reported from the Pacific Theater of Operations differed somewhat from the foo fighters reported from Europe; the \"ball of fire\" resembled a large burning sphere that \"just hung in the sky\", though it was reported to sometimes follow aircraft."
+  },
+  {
+   "s": "fireballoon",
+   "p": "identified_as",
+   "o": "pacball",
+   "quote": "There was speculation that the phenomena could be related to the Japanese fire balloon campaign."
+  },
+  {
+   "s": "x_balloon",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "There was speculation that the phenomena could be related to the Japanese fire balloon campaign."
+  },
+  {
+   "s": "pacball",
+   "p": "behavior",
+   "v": "no aircraft were reported as having been attacked",
+   "quote": "As in Europe, no aircraft were reported as having been attacked by a \"ball of fire\"."
+  },
+  {
+   "s": "robertson",
+   "p": "finding",
+   "v": "foo fighter behavior did not appear to be threatening",
+   "quote": "The postwar Robertson Panel cited foo fighter reports, noting that their behavior did not appear to be threatening, and mentioned possible explanations"
+  },
+  {
+   "s": "robrep",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The Panel's report suggested that \"If the term 'flying saucers' had been popular in 1943–1945, these objects would have been so labeled.\""
+  },
+  {
+   "s": "robertson",
+   "p": "authored",
+   "o": "robrep",
+   "quote": "The Panel's report suggested that \"If the term 'flying saucers' had been popular in 1943–1945, these objects would have been so labeled.\""
+  },
+  {
+   "s": "robrep",
+   "p": "statement",
+   "v": "If the term 'flying saucers' had been popular in 1943-1945, these objects would have been so labeled",
+   "quote": "The Panel's report suggested that \"If the term 'flying saucers' had been popular in 1943–1945, these objects would have been so labeled.\""
+  },
+  {
+   "s": "i_pulaski",
+   "p": "related_case",
+   "o": "case",
+   "quote": "In September 1941 two sailors on the S.S. Pułaski, a Polish merchant vessel transporting British troops over the Indian Ocean, reported a \"strange globe glowing with greenish light, about half the size of the full moon as it appears to us.\""
+  },
+  {
+   "s": "i_pulaski",
+   "p": "date_start",
+   "v": "1941-09",
+   "quote": "In September 1941 two sailors on the S.S. Pułaski, a Polish merchant vessel transporting British troops over the Indian Ocean, reported a \"strange globe glowing with greenish light, about half the size of the full moon as it appears to us.\""
+  },
+  {
+   "s": "pulaski",
+   "p": "involved_vehicle",
+   "o": "i_pulaski",
+   "quote": "In September 1941 two sailors on the S.S. Pułaski, a Polish merchant vessel transporting British troops over the Indian Ocean, reported a \"strange globe glowing with greenish light, about half the size of the full moon as it appears to us.\""
+  },
+  {
+   "s": "pulaski",
+   "p": "description",
+   "v": "Polish merchant vessel transporting British troops",
+   "quote": "In September 1941 two sailors on the S.S. Pułaski, a Polish merchant vessel transporting British troops over the Indian Ocean, reported a \"strange globe glowing with greenish light, about half the size of the full moon as it appears to us.\""
+  },
+  {
+   "s": "indian",
+   "p": "occurred_at",
+   "o": "i_pulaski",
+   "quote": "In September 1941 two sailors on the S.S. Pułaski, a Polish merchant vessel transporting British troops over the Indian Ocean, reported a \"strange globe glowing with greenish light, about half the size of the full moon as it appears to us.\""
+  },
+  {
+   "s": "globe",
+   "p": "reported_object",
+   "o": "i_pulaski",
+   "quote": "In September 1941 two sailors on the S.S. Pułaski, a Polish merchant vessel transporting British troops over the Indian Ocean, reported a \"strange globe glowing with greenish light, about half the size of the full moon as it appears to us.\""
+  },
+  {
+   "s": "globe",
+   "p": "shape",
+   "v": "globe",
+   "quote": "In September 1941 two sailors on the S.S. Pułaski, a Polish merchant vessel transporting British troops over the Indian Ocean, reported a \"strange globe glowing with greenish light, about half the size of the full moon as it appears to us.\""
+  },
+  {
+   "s": "globe",
+   "p": "color",
+   "v": "glowing with greenish light",
+   "quote": "In September 1941 two sailors on the S.S. Pułaski, a Polish merchant vessel transporting British troops over the Indian Ocean, reported a \"strange globe glowing with greenish light, about half the size of the full moon as it appears to us.\""
+  },
+  {
+   "s": "globe",
+   "p": "size",
+   "v": "about half the size of the full moon",
+   "quote": "In September 1941 two sailors on the S.S. Pułaski, a Polish merchant vessel transporting British troops over the Indian Ocean, reported a \"strange globe glowing with greenish light, about half the size of the full moon as it appears to us.\""
+  },
+  {
+   "s": "f_sphere",
+   "p": "has_feature",
+   "o": "i_pulaski",
+   "quote": "In September 1941 two sailors on the S.S. Pułaski, a Polish merchant vessel transporting British troops over the Indian Ocean, reported a \"strange globe glowing with greenish light, about half the size of the full moon as it appears to us.\""
+  },
+  {
+   "s": "f_water",
+   "p": "has_feature",
+   "o": "i_pulaski",
+   "quote": "In September 1941 two sailors on the S.S. Pułaski, a Polish merchant vessel transporting British troops over the Indian Ocean, reported a \"strange globe glowing with greenish light, about half the size of the full moon as it appears to us.\""
+  },
+  {
+   "s": "i_pulaski",
+   "p": "witnesses",
+   "v": "two sailors",
+   "quote": "In September 1941 two sailors on the S.S. Pułaski, a Polish merchant vessel transporting British troops over the Indian Ocean, reported a \"strange globe glowing with greenish light, about half the size of the full moon as it appears to us.\""
+  },
+  {
+   "s": "i_pulaski",
+   "p": "duration",
+   "v": "over an hour",
+   "quote": "They alerted a British officer, who watched the movements of the object with them for over an hour."
+  },
+  {
+   "s": "i_pulaski",
+   "p": "witness_count",
+   "v": "3",
+   "quote": "They alerted a British officer, who watched the movements of the object with them for over an hour."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "i_pulaski",
+   "quote": "They alerted a British officer, who watched the movements of the object with them for over an hour."
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "i_pulaski",
+   "quote": "They alerted a British officer, who watched the movements of the object with them for over an hour."
+  },
+  {
+   "s": "i_lumsden",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Pilot Officer Bryan Lumsden, a New Zealander flying with No.3 Squadron's Night Flight, encountered two amber or orange-colored lights that followed him on an intruder mission over northern France in December 1942."
+  },
+  {
+   "s": "lumsden",
+   "p": "witness",
+   "o": "i_lumsden",
+   "quote": "Pilot Officer Bryan Lumsden, a New Zealander flying with No.3 Squadron's Night Flight, encountered two amber or orange-colored lights that followed him on an intruder mission over northern France in December 1942."
+  },
+  {
+   "s": "lumsden",
+   "p": "witness",
+   "o": "case",
+   "quote": "Pilot Officer Bryan Lumsden, a New Zealander flying with No.3 Squadron's Night Flight, encountered two amber or orange-colored lights that followed him on an intruder mission over northern France in December 1942."
+  },
+  {
+   "s": "lumsden",
+   "p": "member_of",
+   "o": "no3",
+   "quote": "Pilot Officer Bryan Lumsden, a New Zealander flying with No.3 Squadron's Night Flight, encountered two amber or orange-colored lights that followed him on an intruder mission over northern France in December 1942."
+  },
+  {
+   "s": "no3",
+   "p": "involved_org",
+   "o": "i_lumsden",
+   "quote": "Pilot Officer Bryan Lumsden, a New Zealander flying with No.3 Squadron's Night Flight, encountered two amber or orange-colored lights that followed him on an intruder mission over northern France in December 1942."
+  },
+  {
+   "s": "lumsden",
+   "p": "rank",
+   "v": "Pilot Officer",
+   "quote": "Pilot Officer Bryan Lumsden, a New Zealander flying with No.3 Squadron's Night Flight, encountered two amber or orange-colored lights that followed him on an intruder mission over northern France in December 1942."
+  },
+  {
+   "s": "lumsden",
+   "p": "nationality",
+   "v": "New Zealander",
+   "quote": "Pilot Officer Bryan Lumsden, a New Zealander flying with No.3 Squadron's Night Flight, encountered two amber or orange-colored lights that followed him on an intruder mission over northern France in December 1942."
+  },
+  {
+   "s": "i_lumsden",
+   "p": "date_start",
+   "v": "1942-12",
+   "quote": "Pilot Officer Bryan Lumsden, a New Zealander flying with No.3 Squadron's Night Flight, encountered two amber or orange-colored lights that followed him on an intruder mission over northern France in December 1942."
+  },
+  {
+   "s": "france",
+   "p": "occurred_at",
+   "o": "i_lumsden",
+   "quote": "Pilot Officer Bryan Lumsden, a New Zealander flying with No.3 Squadron's Night Flight, encountered two amber or orange-colored lights that followed him on an intruder mission over northern France in December 1942."
+  },
+  {
+   "s": "lumlights",
+   "p": "reported_object",
+   "o": "i_lumsden",
+   "quote": "Pilot Officer Bryan Lumsden, a New Zealander flying with No.3 Squadron's Night Flight, encountered two amber or orange-colored lights that followed him on an intruder mission over northern France in December 1942."
+  },
+  {
+   "s": "lumlights",
+   "p": "color",
+   "v": "amber or orange",
+   "quote": "Pilot Officer Bryan Lumsden, a New Zealander flying with No.3 Squadron's Night Flight, encountered two amber or orange-colored lights that followed him on an intruder mission over northern France in December 1942."
+  },
+  {
+   "s": "lumlights",
+   "p": "count",
+   "v": "2",
+   "quote": "Pilot Officer Bryan Lumsden, a New Zealander flying with No.3 Squadron's Night Flight, encountered two amber or orange-colored lights that followed him on an intruder mission over northern France in December 1942."
+  },
+  {
+   "s": "f_lights",
+   "p": "has_feature",
+   "o": "i_lumsden",
+   "quote": "Pilot Officer Bryan Lumsden, a New Zealander flying with No.3 Squadron's Night Flight, encountered two amber or orange-colored lights that followed him on an intruder mission over northern France in December 1942."
+  },
+  {
+   "s": "f_pursuit",
+   "p": "has_feature",
+   "o": "i_lumsden",
+   "quote": "Pilot Officer Bryan Lumsden, a New Zealander flying with No.3 Squadron's Night Flight, encountered two amber or orange-colored lights that followed him on an intruder mission over northern France in December 1942."
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "i_lumsden",
+   "quote": "Pilot Officer Bryan Lumsden, a New Zealander flying with No.3 Squadron's Night Flight, encountered two amber or orange-colored lights that followed him on an intruder mission over northern France in December 1942."
+  },
+  {
+   "s": "lumlights",
+   "p": "arrangement",
+   "v": "one light higher than the other",
+   "quote": "One light was higher than the other, which appeared to rule out wing-tip navigation lights from an aircraft."
+  },
+  {
+   "s": "x_ac",
+   "p": "explained_as",
+   "o": "i_lumsden",
+   "quote": "One light was higher than the other, which appeared to rule out wing-tip navigation lights from an aircraft."
+  },
+  {
+   "s": "channel",
+   "p": "related_place",
+   "o": "i_lumsden",
+   "quote": "The lights pursued him until he reached the English Channel."
+  },
+  {
+   "s": "i_lumsden",
+   "p": "follow_up",
+   "v": "another pilot from his unit experienced a similar phenomenon the following evening, with a green light",
+   "quote": "Another pilot from his unit experienced a similar phenomenon the following evening, with a green light."
+  },
+  {
+   "s": "starsun",
+   "p": "involved_org",
+   "o": "i_lumsden",
+   "quote": "The story was eventually published in the Christchurch Star-Sun newspaper's 4 November 1955 edition."
+  },
+  {
+   "s": "starsun",
+   "p": "publication_date",
+   "v": "1955-11-04",
+   "quote": "The story was eventually published in the Christchurch Star-Sun newspaper's 4 November 1955 edition."
+  },
+  {
+   "s": "i_178",
+   "p": "related_case",
+   "o": "case",
+   "quote": "13 October 1944: An RAF crew from No.178 Squadron based in Italy reported seeing lights following their aircraft over Hungary during a night raid on Székesfehérvár."
+  },
+  {
+   "s": "i_178",
+   "p": "date_start",
+   "v": "1944-10-13",
+   "quote": "13 October 1944: An RAF crew from No.178 Squadron based in Italy reported seeing lights following their aircraft over Hungary during a night raid on Székesfehérvár."
+  },
+  {
+   "s": "i_178",
+   "p": "time_of_day",
+   "v": "night",
+   "quote": "13 October 1944: An RAF crew from No.178 Squadron based in Italy reported seeing lights following their aircraft over Hungary during a night raid on Székesfehérvár."
+  },
+  {
+   "s": "no178",
+   "p": "involved_org",
+   "o": "i_178",
+   "quote": "13 October 1944: An RAF crew from No.178 Squadron based in Italy reported seeing lights following their aircraft over Hungary during a night raid on Székesfehérvár."
+  },
+  {
+   "s": "no178",
+   "p": "part_of",
+   "o": "raf",
+   "quote": "13 October 1944: An RAF crew from No.178 Squadron based in Italy reported seeing lights following their aircraft over Hungary during a night raid on Székesfehérvár."
+  },
+  {
+   "s": "no178",
+   "p": "stationed_at",
+   "o": "italy",
+   "quote": "13 October 1944: An RAF crew from No.178 Squadron based in Italy reported seeing lights following their aircraft over Hungary during a night raid on Székesfehérvár."
+  },
+  {
+   "s": "italy",
+   "p": "related_place",
+   "o": "i_178",
+   "quote": "13 October 1944: An RAF crew from No.178 Squadron based in Italy reported seeing lights following their aircraft over Hungary during a night raid on Székesfehérvár."
+  },
+  {
+   "s": "hungary",
+   "p": "occurred_at",
+   "o": "i_178",
+   "quote": "13 October 1944: An RAF crew from No.178 Squadron based in Italy reported seeing lights following their aircraft over Hungary during a night raid on Székesfehérvár."
+  },
+  {
+   "s": "szek",
+   "p": "near",
+   "o": "i_178",
+   "quote": "13 October 1944: An RAF crew from No.178 Squadron based in Italy reported seeing lights following their aircraft over Hungary during a night raid on Székesfehérvár."
+  },
+  {
+   "s": "szek",
+   "p": "located_in",
+   "o": "hungary",
+   "quote": "13 October 1944: An RAF crew from No.178 Squadron based in Italy reported seeing lights following their aircraft over Hungary during a night raid on Székesfehérvár."
+  },
+  {
+   "s": "raf",
+   "p": "involved_org",
+   "o": "i_178",
+   "quote": "13 October 1944: An RAF crew from No.178 Squadron based in Italy reported seeing lights following their aircraft over Hungary during a night raid on Székesfehérvár."
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "i_178",
+   "quote": "13 October 1944: An RAF crew from No.178 Squadron based in Italy reported seeing lights following their aircraft over Hungary during a night raid on Székesfehérvár."
+  },
+  {
+   "s": "f_lights",
+   "p": "has_feature",
+   "o": "i_178",
+   "quote": "13 October 1944: An RAF crew from No.178 Squadron based in Italy reported seeing lights following their aircraft over Hungary during a night raid on Székesfehérvár."
+  },
+  {
+   "s": "kh103",
+   "p": "involved_vehicle",
+   "o": "i_178",
+   "quote": "A B-24 Liberator KH103 flown by Pilot Officer Taylor was followed by an intermittent red light for several minutes."
+  },
+  {
+   "s": "taylor",
+   "p": "witness",
+   "o": "i_178",
+   "quote": "A B-24 Liberator KH103 flown by Pilot Officer Taylor was followed by an intermittent red light for several minutes."
+  },
+  {
+   "s": "taylor",
+   "p": "piloted",
+   "o": "kh103",
+   "quote": "A B-24 Liberator KH103 flown by Pilot Officer Taylor was followed by an intermittent red light for several minutes."
+  },
+  {
+   "s": "taylor",
+   "p": "rank",
+   "v": "Pilot Officer",
+   "quote": "A B-24 Liberator KH103 flown by Pilot Officer Taylor was followed by an intermittent red light for several minutes."
+  },
+  {
+   "s": "redlight",
+   "p": "reported_object",
+   "o": "i_178",
+   "quote": "A B-24 Liberator KH103 flown by Pilot Officer Taylor was followed by an intermittent red light for several minutes."
+  },
+  {
+   "s": "redlight",
+   "p": "color",
+   "v": "red, intermittent",
+   "quote": "A B-24 Liberator KH103 flown by Pilot Officer Taylor was followed by an intermittent red light for several minutes."
+  },
+  {
+   "s": "i_178",
+   "p": "duration",
+   "v": "several minutes",
+   "quote": "A B-24 Liberator KH103 flown by Pilot Officer Taylor was followed by an intermittent red light for several minutes."
+  },
+  {
+   "s": "f_pursuit",
+   "p": "has_feature",
+   "o": "i_178",
+   "quote": "A B-24 Liberator KH103 flown by Pilot Officer Taylor was followed by an intermittent red light for several minutes."
+  },
+  {
+   "s": "no178",
+   "p": "reports",
+   "v": "numerous similar instances from as early as April 1944, throughout 1944 and into 1945",
+   "quote": "The squadron had started reporting numerous similar instances as early as April 1944 and would continue doing so throughout the remainder of 1944 and into 1945."
+  },
+  {
+   "s": "i_bastien",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Charles R. Bastien of the US Eighth Air Force reported one of the first encounters with foo fighters over the Belgium/Netherlands area; he described them as \"two fog lights flying at high rates of speed that could change direction rapidly\"."
+  },
+  {
+   "s": "bastien",
+   "p": "witness",
+   "o": "i_bastien",
+   "quote": "Charles R. Bastien of the US Eighth Air Force reported one of the first encounters with foo fighters over the Belgium/Netherlands area; he described them as \"two fog lights flying at high rates of speed that could change direction rapidly\"."
+  },
+  {
+   "s": "bastien",
+   "p": "witness",
+   "o": "case",
+   "quote": "Charles R. Bastien of the US Eighth Air Force reported one of the first encounters with foo fighters over the Belgium/Netherlands area; he described them as \"two fog lights flying at high rates of speed that could change direction rapidly\"."
+  },
+  {
+   "s": "bastien",
+   "p": "member_of",
+   "o": "8af",
+   "quote": "Charles R. Bastien of the US Eighth Air Force reported one of the first encounters with foo fighters over the Belgium/Netherlands area; he described them as \"two fog lights flying at high rates of speed that could change direction rapidly\"."
+  },
+  {
+   "s": "8af",
+   "p": "involved_org",
+   "o": "i_bastien",
+   "quote": "Charles R. Bastien of the US Eighth Air Force reported one of the first encounters with foo fighters over the Belgium/Netherlands area; he described them as \"two fog lights flying at high rates of speed that could change direction rapidly\"."
+  },
+  {
+   "s": "belgium",
+   "p": "occurred_at",
+   "o": "i_bastien",
+   "quote": "Charles R. Bastien of the US Eighth Air Force reported one of the first encounters with foo fighters over the Belgium/Netherlands area; he described them as \"two fog lights flying at high rates of speed that could change direction rapidly\"."
+  },
+  {
+   "s": "netherlands",
+   "p": "occurred_at",
+   "o": "i_bastien",
+   "quote": "Charles R. Bastien of the US Eighth Air Force reported one of the first encounters with foo fighters over the Belgium/Netherlands area; he described them as \"two fog lights flying at high rates of speed that could change direction rapidly\"."
+  },
+  {
+   "s": "foglights",
+   "p": "reported_object",
+   "o": "i_bastien",
+   "quote": "Charles R. Bastien of the US Eighth Air Force reported one of the first encounters with foo fighters over the Belgium/Netherlands area; he described them as \"two fog lights flying at high rates of speed that could change direction rapidly\"."
+  },
+  {
+   "s": "bastien",
+   "p": "described",
+   "o": "foglights",
+   "quote": "Charles R. Bastien of the US Eighth Air Force reported one of the first encounters with foo fighters over the Belgium/Netherlands area; he described them as \"two fog lights flying at high rates of speed that could change direction rapidly\"."
+  },
+  {
+   "s": "foglights",
+   "p": "count",
+   "v": "2",
+   "quote": "Charles R. Bastien of the US Eighth Air Force reported one of the first encounters with foo fighters over the Belgium/Netherlands area; he described them as \"two fog lights flying at high rates of speed that could change direction rapidly\"."
+  },
+  {
+   "s": "foglights",
+   "p": "speed",
+   "v": "high rates of speed, could change direction rapidly",
+   "quote": "Charles R. Bastien of the US Eighth Air Force reported one of the first encounters with foo fighters over the Belgium/Netherlands area; he described them as \"two fog lights flying at high rates of speed that could change direction rapidly\"."
+  },
+  {
+   "s": "f_maneuver",
+   "p": "has_feature",
+   "o": "i_bastien",
+   "quote": "Charles R. Bastien of the US Eighth Air Force reported one of the first encounters with foo fighters over the Belgium/Netherlands area; he described them as \"two fog lights flying at high rates of speed that could change direction rapidly\"."
+  },
+  {
+   "s": "f_lights",
+   "p": "has_feature",
+   "o": "i_bastien",
+   "quote": "Charles R. Bastien of the US Eighth Air Force reported one of the first encounters with foo fighters over the Belgium/Netherlands area; he described them as \"two fog lights flying at high rates of speed that could change direction rapidly\"."
+  },
+  {
+   "s": "i_bastien",
+   "p": "corroboration",
+   "v": "his intelligence officer told him two RAF nightfighters had reported the same thing; later reported in British newspapers",
+   "quote": "During debriefing, his intelligence officer told him that two RAF nightfighters had reported the same thing, and it was later reported in British newspapers."
+  },
+  {
+   "s": "raf",
+   "p": "involved_org",
+   "o": "i_bastien",
+   "quote": "During debriefing, his intelligence officer told him that two RAF nightfighters had reported the same thing, and it was later reported in British newspapers."
+  },
+  {
+   "s": "adams",
+   "p": "witness",
+   "o": "case",
+   "quote": "Career U.S. Air Force pilot Duane Adams often related that he had witnessed two occurrences of a bright light which paced his aircraft for about half an hour and then rapidly ascended into the sky."
+  },
+  {
+   "s": "adams",
+   "p": "witness",
+   "o": "i_adams1",
+   "quote": "Career U.S. Air Force pilot Duane Adams often related that he had witnessed two occurrences of a bright light which paced his aircraft for about half an hour and then rapidly ascended into the sky."
+  },
+  {
+   "s": "adams",
+   "p": "witness",
+   "o": "i_adams2",
+   "quote": "Career U.S. Air Force pilot Duane Adams often related that he had witnessed two occurrences of a bright light which paced his aircraft for about half an hour and then rapidly ascended into the sky."
+  },
+  {
+   "s": "adams",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "Career U.S. Air Force pilot Duane Adams often related that he had witnessed two occurrences of a bright light which paced his aircraft for about half an hour and then rapidly ascended into the sky."
+  },
+  {
+   "s": "adams",
+   "p": "occupation",
+   "v": "career U.S. Air Force pilot",
+   "quote": "Career U.S. Air Force pilot Duane Adams often related that he had witnessed two occurrences of a bright light which paced his aircraft for about half an hour and then rapidly ascended into the sky."
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Career U.S. Air Force pilot Duane Adams often related that he had witnessed two occurrences of a bright light which paced his aircraft for about half an hour and then rapidly ascended into the sky."
+  },
+  {
+   "s": "i_adams1",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Career U.S. Air Force pilot Duane Adams often related that he had witnessed two occurrences of a bright light which paced his aircraft for about half an hour and then rapidly ascended into the sky."
+  },
+  {
+   "s": "i_adams1",
+   "p": "duration",
+   "v": "about half an hour",
+   "quote": "Career U.S. Air Force pilot Duane Adams often related that he had witnessed two occurrences of a bright light which paced his aircraft for about half an hour and then rapidly ascended into the sky."
+  },
+  {
+   "s": "i_adams1",
+   "p": "object_description",
+   "v": "bright light which paced his aircraft and then rapidly ascended into the sky",
+   "quote": "Career U.S. Air Force pilot Duane Adams often related that he had witnessed two occurrences of a bright light which paced his aircraft for about half an hour and then rapidly ascended into the sky."
+  },
+  {
+   "s": "f_lights",
+   "p": "has_feature",
+   "o": "i_adams1",
+   "quote": "Career U.S. Air Force pilot Duane Adams often related that he had witnessed two occurrences of a bright light which paced his aircraft for about half an hour and then rapidly ascended into the sky."
+  },
+  {
+   "s": "f_pursuit",
+   "p": "has_feature",
+   "o": "i_adams1",
+   "quote": "Career U.S. Air Force pilot Duane Adams often related that he had witnessed two occurrences of a bright light which paced his aircraft for about half an hour and then rapidly ascended into the sky."
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "i_adams1",
+   "quote": "Career U.S. Air Force pilot Duane Adams often related that he had witnessed two occurrences of a bright light which paced his aircraft for about half an hour and then rapidly ascended into the sky."
+  },
+  {
+   "s": "i_adams1",
+   "p": "time_of_day",
+   "v": "night",
+   "quote": "Both incidents occurred at night, both over the South Pacific, and both were witnessed by the entire aircraft crew."
+  },
+  {
+   "s": "spacific",
+   "p": "occurred_at",
+   "o": "i_adams1",
+   "quote": "Both incidents occurred at night, both over the South Pacific, and both were witnessed by the entire aircraft crew."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "i_adams1",
+   "quote": "Both incidents occurred at night, both over the South Pacific, and both were witnessed by the entire aircraft crew."
+  },
+  {
+   "s": "i_adams1",
+   "p": "witnesses",
+   "v": "entire aircraft crew",
+   "quote": "Both incidents occurred at night, both over the South Pacific, and both were witnessed by the entire aircraft crew."
+  },
+  {
+   "s": "i_adams2",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Career U.S. Air Force pilot Duane Adams often related that he had witnessed two occurrences of a bright light which paced his aircraft for about half an hour and then rapidly ascended into the sky."
+  },
+  {
+   "s": "i_adams2",
+   "p": "duration",
+   "v": "about half an hour",
+   "quote": "Career U.S. Air Force pilot Duane Adams often related that he had witnessed two occurrences of a bright light which paced his aircraft for about half an hour and then rapidly ascended into the sky."
+  },
+  {
+   "s": "i_adams2",
+   "p": "object_description",
+   "v": "bright light which paced his aircraft and then rapidly ascended into the sky",
+   "quote": "Career U.S. Air Force pilot Duane Adams often related that he had witnessed two occurrences of a bright light which paced his aircraft for about half an hour and then rapidly ascended into the sky."
+  },
+  {
+   "s": "f_lights",
+   "p": "has_feature",
+   "o": "i_adams2",
+   "quote": "Career U.S. Air Force pilot Duane Adams often related that he had witnessed two occurrences of a bright light which paced his aircraft for about half an hour and then rapidly ascended into the sky."
+  },
+  {
+   "s": "f_pursuit",
+   "p": "has_feature",
+   "o": "i_adams2",
+   "quote": "Career U.S. Air Force pilot Duane Adams often related that he had witnessed two occurrences of a bright light which paced his aircraft for about half an hour and then rapidly ascended into the sky."
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "i_adams2",
+   "quote": "Career U.S. Air Force pilot Duane Adams often related that he had witnessed two occurrences of a bright light which paced his aircraft for about half an hour and then rapidly ascended into the sky."
+  },
+  {
+   "s": "i_adams2",
+   "p": "time_of_day",
+   "v": "night",
+   "quote": "Both incidents occurred at night, both over the South Pacific, and both were witnessed by the entire aircraft crew."
+  },
+  {
+   "s": "spacific",
+   "p": "occurred_at",
+   "o": "i_adams2",
+   "quote": "Both incidents occurred at night, both over the South Pacific, and both were witnessed by the entire aircraft crew."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "i_adams2",
+   "quote": "Both incidents occurred at night, both over the South Pacific, and both were witnessed by the entire aircraft crew."
+  },
+  {
+   "s": "i_adams2",
+   "p": "witnesses",
+   "v": "entire aircraft crew",
+   "quote": "Both incidents occurred at night, both over the South Pacific, and both were witnessed by the entire aircraft crew."
+  },
+  {
+   "s": "b25",
+   "p": "involved_vehicle",
+   "o": "i_adams1",
+   "quote": "The first sighting occurred shortly after the end of World War II while Adams piloted a B-25 bomber."
+  },
+  {
+   "s": "adams",
+   "p": "piloted",
+   "o": "b25",
+   "quote": "The first sighting occurred shortly after the end of World War II while Adams piloted a B-25 bomber."
+  },
+  {
+   "s": "i_adams1",
+   "p": "date",
+   "v": "shortly after the end of World War II",
+   "quote": "The first sighting occurred shortly after the end of World War II while Adams piloted a B-25 bomber."
+  },
+  {
+   "s": "kc135",
+   "p": "involved_vehicle",
+   "o": "i_adams2",
+   "quote": "The second sighting occurred in the early 1960s when Adams was piloting a KC-135 tanker."
+  },
+  {
+   "s": "adams",
+   "p": "piloted",
+   "o": "kc135",
+   "quote": "The second sighting occurred in the early 1960s when Adams was piloting a KC-135 tanker."
+  },
+  {
+   "s": "i_adams2",
+   "p": "date",
+   "v": "early 1960s",
+   "quote": "The second sighting occurred in the early 1960s when Adams was piloting a KC-135 tanker."
+  },
+  {
+   "s": "i_stevens",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Senator Ted Stevens described an encounter from the time he was a US Air Force fighter pilot during World War II, as recounted by Senator Harry Reid:"
+  },
+  {
+   "s": "stevens",
+   "p": "witness",
+   "o": "i_stevens",
+   "quote": "Senator Ted Stevens described an encounter from the time he was a US Air Force fighter pilot during World War II, as recounted by Senator Harry Reid:"
+  },
+  {
+   "s": "stevens",
+   "p": "witness",
+   "o": "case",
+   "quote": "Senator Ted Stevens described an encounter from the time he was a US Air Force fighter pilot during World War II, as recounted by Senator Harry Reid:"
+  },
+  {
+   "s": "stevens",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "Senator Ted Stevens described an encounter from the time he was a US Air Force fighter pilot during World War II, as recounted by Senator Harry Reid:"
+  },
+  {
+   "s": "stevens",
+   "p": "occupation",
+   "v": "Senator; US Air Force fighter pilot during World War II",
+   "quote": "Senator Ted Stevens described an encounter from the time he was a US Air Force fighter pilot during World War II, as recounted by Senator Harry Reid:"
+  },
+  {
+   "s": "reid",
+   "p": "commentator",
+   "o": "i_stevens",
+   "quote": "Senator Ted Stevens described an encounter from the time he was a US Air Force fighter pilot during World War II, as recounted by Senator Harry Reid:"
+  },
+  {
+   "s": "reid",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Senator Ted Stevens described an encounter from the time he was a US Air Force fighter pilot during World War II, as recounted by Senator Harry Reid:"
+  },
+  {
+   "s": "reid",
+   "p": "occupation",
+   "v": "Senator",
+   "quote": "Senator Ted Stevens described an encounter from the time he was a US Air Force fighter pilot during World War II, as recounted by Senator Harry Reid:"
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "i_stevens",
+   "quote": "Senator Ted Stevens described an encounter from the time he was a US Air Force fighter pilot during World War II, as recounted by Senator Harry Reid:"
+  },
+  {
+   "s": "stevens",
+   "p": "statement",
+   "v": "I was flying and there was an object next to me. I couldn't get rid of it; I slowed up, sped up, dived, it was there. I called. Nothing on radar.",
+   "quote": "I was flying and there was an object next to me. I couldn’t get rid of it, I slowed up, it was there. I sped up, it was there. I would dive, it would be there. I called. Nothing on radar."
+  },
+  {
+   "s": "i_stevens",
+   "p": "radar",
+   "v": "nothing on radar",
+   "quote": "I was flying and there was an object next to me. I couldn’t get rid of it, I slowed up, it was there. I sped up, it was there. I would dive, it would be there. I called. Nothing on radar."
+  },
+  {
+   "s": "f_pursuit",
+   "p": "has_feature",
+   "o": "i_stevens",
+   "quote": "I was flying and there was an object next to me. I couldn’t get rid of it, I slowed up, it was there. I sped up, it was there. I would dive, it would be there. I called. Nothing on radar."
+  },
+  {
+   "s": "ringwald",
+   "p": "authored",
+   "o": "ringrep",
+   "quote": "The 415th Night-Fighter Squadron's Intelligence Officer, Captain Ringwald, sent a report listing 14 separate incidents in December 1944 and early January 1945 to the intelligence section at XII Tactical Air Command, the unit's immediate superiors at 64th Fighter Wing being unable to offer any answers."
+  },
+  {
+   "s": "ringrep",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The 415th Night-Fighter Squadron's Intelligence Officer, Captain Ringwald, sent a report listing 14 separate incidents in December 1944 and early January 1945 to the intelligence section at XII Tactical Air Command, the unit's immediate superiors at 64th Fighter Wing being unable to offer any answers."
+  },
+  {
+   "s": "ringrep",
+   "p": "content",
+   "v": "14 separate incidents in December 1944 and early January 1945",
+   "quote": "The 415th Night-Fighter Squadron's Intelligence Officer, Captain Ringwald, sent a report listing 14 separate incidents in December 1944 and early January 1945 to the intelligence section at XII Tactical Air Command, the unit's immediate superiors at 64th Fighter Wing being unable to offer any answers."
+  },
+  {
+   "s": "ringwald",
+   "p": "rank",
+   "v": "Captain",
+   "quote": "The 415th Night-Fighter Squadron's Intelligence Officer, Captain Ringwald, sent a report listing 14 separate incidents in December 1944 and early January 1945 to the intelligence section at XII Tactical Air Command, the unit's immediate superiors at 64th Fighter Wing being unable to offer any answers."
+  },
+  {
+   "s": "xiitac",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The 415th Night-Fighter Squadron's Intelligence Officer, Captain Ringwald, sent a report listing 14 separate incidents in December 1944 and early January 1945 to the intelligence section at XII Tactical Air Command, the unit's immediate superiors at 64th Fighter Wing being unable to offer any answers."
+  },
+  {
+   "s": "64fw",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The 415th Night-Fighter Squadron's Intelligence Officer, Captain Ringwald, sent a report listing 14 separate incidents in December 1944 and early January 1945 to the intelligence section at XII Tactical Air Command, the unit's immediate superiors at 64th Fighter Wing being unable to offer any answers."
+  },
+  {
+   "s": "415",
+   "p": "part_of",
+   "o": "64fw",
+   "quote": "The 415th Night-Fighter Squadron's Intelligence Officer, Captain Ringwald, sent a report listing 14 separate incidents in December 1944 and early January 1945 to the intelligence section at XII Tactical Air Command, the unit's immediate superiors at 64th Fighter Wing being unable to offer any answers."
+  },
+  {
+   "s": "xiitac",
+   "p": "action",
+   "v": "requested assistance from SHAEF",
+   "quote": "Without answers of their own, XII TAC requested assistance from the topmost echelon: Supreme Headquarters Allied Expeditionary Force (SHAEF), in Paris."
+  },
+  {
+   "s": "airmin",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "SHAEF had no knowledge of the phenomenon and asked if the British Air Ministry in London had any information."
+  },
+  {
+   "s": "airmin",
+   "p": "located_in",
+   "o": "london",
+   "quote": "SHAEF had no knowledge of the phenomenon and asked if the British Air Ministry in London had any information."
+  },
+  {
+   "s": "london",
+   "p": "related_place",
+   "o": "case",
+   "quote": "SHAEF had no knowledge of the phenomenon and asked if the British Air Ministry in London had any information."
+  },
+  {
+   "s": "shaef",
+   "p": "response",
+   "v": "had no knowledge of the phenomenon; asked the British Air Ministry",
+   "quote": "SHAEF had no knowledge of the phenomenon and asked if the British Air Ministry in London had any information."
+  },
+  {
+   "s": "airmin",
+   "p": "explanation_received",
+   "v": "1945-03-13",
+   "quote": "The Air Ministry's explanation for the foo fighter phenomenon was received on 13 March 1945:"
+  },
+  {
+   "s": "bomber",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Bomber Command crews have for some time been reporting similar phenomena."
+  },
+  {
+   "s": "me262",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "A few of the alleged aircraft may have been Me 262 and for the rest, flak rockets are suggested as the most likely explanation."
+  },
+  {
+   "s": "x_flak",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "A few of the alleged aircraft may have been Me 262 and for the rest, flak rockets are suggested as the most likely explanation."
+  },
+  {
+   "s": "airmin",
+   "p": "proposed",
+   "o": "x_flak",
+   "quote": "A few of the alleged aircraft may have been Me 262 and for the rest, flak rockets are suggested as the most likely explanation."
+  },
+  {
+   "s": "airmin",
+   "p": "proposed",
+   "o": "x_secret",
+   "quote": "A few of the alleged aircraft may have been Me 262 and for the rest, flak rockets are suggested as the most likely explanation."
+  },
+  {
+   "s": "airmin",
+   "p": "statement",
+   "v": "The whole affair is still something of a mystery; no definite and satisfactory explanation can yet be given",
+   "quote": "The whole affair is still something of a mystery and the evidence is very sketchy and varied so that no definite and satisfactory explanation can yet be given."
+  },
+  {
+   "s": "luftwaffe",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "A group of scientists, engineers and former high-ranking Luftwaffe officers were questioned about wartime \"Balls of Fire\" reports by staff from United States Air Force in Europe's intelligence section in the early autumn of 1945."
+  },
+  {
+   "s": "usafe",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "A group of scientists, engineers and former high-ranking Luftwaffe officers were questioned about wartime \"Balls of Fire\" reports by staff from United States Air Force in Europe's intelligence section in the early autumn of 1945."
+  },
+  {
+   "s": "usafe",
+   "p": "action",
+   "v": "questioned scientists, engineers and former Luftwaffe officers in the early autumn of 1945",
+   "quote": "A group of scientists, engineers and former high-ranking Luftwaffe officers were questioned about wartime \"Balls of Fire\" reports by staff from United States Air Force in Europe's intelligence section in the early autumn of 1945."
+  },
+  {
+   "s": "case",
+   "p": "investigation_finding",
+   "v": "none of the thirteen interviewed claimed knowledge of a German secret weapons program that could explain the sightings",
+   "quote": "None of the thirteen interviewed claimed any knowledge of a German secret weapons program that could have explained the sightings."
+  },
+  {
+   "s": "x_plasma",
+   "p": "detail",
+   "v": "electrical discharge from the wings of airplanes (St. Elmo's Fire), known to appear at wingtips",
+   "quote": "Any type of electrical discharge from the wings of airplanes (see St. Elmo's Fire) has been suggested as an explanation, since it has been known to appear at the wingtips of aircraft."
+  },
+  {
+   "s": "x_plasma",
+   "p": "detail",
+   "v": "some descriptions of foo fighters closely resemble those of ball lightning",
+   "quote": "It has also been pointed out that some of the descriptions of foo fighters closely resemble those of ball lightning."
+  },
+  {
+   "s": "navy",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "During April 1945, the U.S. Navy began to experiment on visual illusions as experienced by nighttime aviators."
+  },
+  {
+   "s": "x_misp",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "During April 1945, the U.S. Navy began to experiment on visual illusions as experienced by nighttime aviators."
+  },
+  {
+   "s": "navy",
+   "p": "action",
+   "v": "began experiments on visual illusions experienced by nighttime aviators in April 1945",
+   "quote": "During April 1945, the U.S. Navy began to experiment on visual illusions as experienced by nighttime aviators."
+  },
+  {
+   "s": "bumed",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "This work began the U.S. Navy's Bureau of Medicine (BUMED) project X-148-AV-4-3."
+  },
+  {
+   "s": "bumed",
+   "p": "part_of",
+   "o": "navy",
+   "quote": "This work began the U.S. Navy's Bureau of Medicine (BUMED) project X-148-AV-4-3."
+  },
+  {
+   "s": "x148",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "This work began the U.S. Navy's Bureau of Medicine (BUMED) project X-148-AV-4-3."
+  },
+  {
+   "s": "x148",
+   "p": "part_of",
+   "o": "bumed",
+   "quote": "This work began the U.S. Navy's Bureau of Medicine (BUMED) project X-148-AV-4-3."
+  },
+  {
+   "s": "x148",
+   "p": "purpose",
+   "v": "pioneered the study of aviators' vertigo; initiated because of anomalous events reported by nighttime aviators",
+   "quote": "This project pioneered the study of aviators' vertigo and was initiated because a wide variety of anomalous events were being reported by nighttime aviators."
+  },
+  {
+   "s": "vinacke",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Edgar Vinacke, who was the prime flight psychologist on this project, summarized the need for a cohesive and systemic outline of the epidemiology of aviators' vertigo:"
+  },
+  {
+   "s": "vinacke",
+   "p": "member_of",
+   "o": "x148",
+   "quote": "Edgar Vinacke, who was the prime flight psychologist on this project, summarized the need for a cohesive and systemic outline of the epidemiology of aviators' vertigo:"
+  },
+  {
+   "s": "vinacke",
+   "p": "occupation",
+   "v": "prime flight psychologist",
+   "quote": "Edgar Vinacke, who was the prime flight psychologist on this project, summarized the need for a cohesive and systemic outline of the epidemiology of aviators' vertigo:"
+  },
+  {
+   "s": "vinacke",
+   "p": "statement",
+   "v": "Pilots do not have sufficient information about phenomena of disorientation and are given disorganized, incomplete, and inaccurate information",
+   "quote": "Pilots do not have sufficient information about phenomena of disorientation, and, as a corollary, are given considerable disorganized, incomplete, and inaccurate information."
+  },
+  {
+   "s": "vinacke",
+   "p": "statement",
+   "v": "aviators, like other naive persons, have simply adopted a term to cover a multitude of otherwise inexplicable events",
+   "quote": "Like other naive persons, therefore, they have simply adopted a term to cover a multitude of otherwise inexplicable events."
+  },
+  {
+   "s": "ghost",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Ghost rockets"
+  },
+  {
+   "s": "green",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Green fireballs"
+  },
+  {
+   "s": "hessdalen",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Hessdalen lights"
+  },
+  {
+   "s": "lindell",
+   "p": "commentator",
+   "o": "case",
+   "quote": "\"A Historical and Physiological Perspective of the Foo Fighters of World War Two.\" By Jeff Lindell, Folklorist & WW2 Aviation Historian."
+  },
+  {
+   "s": "lindell",
+   "p": "authored",
+   "o": "lindellwork",
+   "quote": "\"A Historical and Physiological Perspective of the Foo Fighters of World War Two.\" By Jeff Lindell, Folklorist & WW2 Aviation Historian."
+  },
+  {
+   "s": "lindellwork",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "\"A Historical and Physiological Perspective of the Foo Fighters of World War Two.\" By Jeff Lindell, Folklorist & WW2 Aviation Historian."
+  },
+  {
+   "s": "lindell",
+   "p": "occupation",
+   "v": "Folklorist and WW2 aviation historian",
+   "quote": "\"A Historical and Physiological Perspective of the Foo Fighters of World War Two.\" By Jeff Lindell, Folklorist & WW2 Aviation Historian."
+  },
+  {
+   "s": "lindellwork",
+   "p": "archive",
+   "v": "inventory of 68 90-minute tape recordings of interviews concerning sightings of Foo Fighters",
+   "quote": "An inventory of 68 (90-minute tape recordings) of interviews concerning sightings of Foo Fighters"
+  },
+  {
+   "s": "rendall",
+   "p": "commentator",
+   "o": "case",
+   "quote": "By Graeme Rendall, author of UFOs Before Roswell: European Foo Fighters 1940-1945"
+  },
+  {
+   "s": "rendall",
+   "p": "authored",
+   "o": "rendallbook",
+   "quote": "By Graeme Rendall, author of UFOs Before Roswell: European Foo Fighters 1940-1945"
+  },
+  {
+   "s": "rendallbook",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "By Graeme Rendall, author of UFOs Before Roswell: European Foo Fighters 1940-1945"
+  },
+  {
+   "s": "clark",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Foo Fighters of WWII by Jerome Clark and Lucius Farish: A widely reproduced essay describing many wartime sightings"
+  },
+  {
+   "s": "farish",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Foo Fighters of WWII by Jerome Clark and Lucius Farish: A widely reproduced essay describing many wartime sightings"
+  },
+  {
+   "s": "clark",
+   "p": "authored",
+   "o": "clarkessay",
+   "quote": "Foo Fighters of WWII by Jerome Clark and Lucius Farish: A widely reproduced essay describing many wartime sightings"
+  },
+  {
+   "s": "farish",
+   "p": "authored",
+   "o": "clarkessay",
+   "quote": "Foo Fighters of WWII by Jerome Clark and Lucius Farish: A widely reproduced essay describing many wartime sightings"
+  },
+  {
+   "s": "clarkessay",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Foo Fighters of WWII by Jerome Clark and Lucius Farish: A widely reproduced essay describing many wartime sightings"
+  },
+  {
+   "s": "hanks",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Graeme Rendall discusses the European Foo Fighter phenomenon of World War 2 on The Micah Hanks Program podcast"
+  },
+  {
+   "s": "hanks",
+   "p": "interviewed",
+   "o": "rendall",
+   "quote": "Graeme Rendall discusses the European Foo Fighter phenomenon of World War 2 on The Micah Hanks Program podcast"
+  }
+ ]
+}
