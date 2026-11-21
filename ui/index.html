@@ -377,7 +377,8 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
   $("timelegend").replaceChildren(...CLASS.map((c) => h("span", {}, h("i", { style: `--sw: var(${c.v})` }), c.name)), h("span", {}, "● case file"));
   const srcBtns = R.datasets.map((d, i) => {
     const b = h("button", { class: "src", "aria-pressed": "true", style: `--sw: var(${CLASS[dsCls[i]].v})`, title: d.who },
-      h("i"), h("span", { class: "nm" }, d.name), h("span", { class: "ct" }), h("small", {}, d.who));
+      h("i"), h("span", { class: "nm" }, d.name), h("span", { class: "ct" }),
+      h("small", {}, d.who + (d.mapped < d.n ? `. ${fmt(d.mapped)} of ${fmt(d.n)} placed on the map; the rest could not be located.` : "")));
     b.addEventListener("click", () => { S.ds.has(i) ? S.ds.delete(i) : S.ds.add(i); b.setAttribute("aria-pressed", String(S.ds.has(i))); applyFilters(true); });
     return b;
   });

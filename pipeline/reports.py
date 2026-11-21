@@ -73,37 +73,168 @@ def clean(text, n=260):
     return t if len(t) <= n else t[: n - 1].rsplit(" ", 1)[0] + "…"
 
 
+ABBR = {"ala": "al", "alas": "ak", "ariz": "az", "ark": "ar", "cal": "ca", "calif": "ca", "colo": "co", "col": "co", "conn": "ct", "del": "de",
+        "d c": "dc", "fla": "fl", "ida": "id", "ill": "il", "ills": "il", "ind": "in", "kan": "ks", "kans": "ks", "ken": "ky", "mass": "ma",
+        "mich": "mi", "minn": "mn", "miss": "ms", "mont": "mt", "neb": "ne", "nebr": "ne", "nev": "nv", "n h": "nh", "n j": "nj",
+        "n m": "nm", "n mex": "nm", "new mex": "nm", "n y": "ny", "n c": "nc", "n car": "nc", "n d": "nd", "n dak": "nd", "okla": "ok",
+        "ore": "or", "oreg": "or", "penn": "pa", "penna": "pa", "r i": "ri", "s c": "sc", "s car": "sc", "s d": "sd", "s dak": "sd",
+        "tenn": "tn", "tex": "tx", "wash": "wa", "w va": "wv", "wis": "wi", "wisc": "wi", "wyo": "wy", "t h": "hi"}
+STATE_OF = {**STATES, **ABBR, **{v: v for v in STATES.values()}}
+BASE_WORDS = re.compile(r"\b(afb|afs|air force base|air force station|air base|ab|aaf|nas|naas|mcas|rcaf station|raf station|raf|airport|municipal airport|"
+                        r"field|fld|airfield|army air field|station|sta|base|radar site|range|proving ground|test site|arsenal|depot)\b", re.I)
+LEAD = re.compile(r"^(?:(?:approx(?:imately)?|about|appx)\.?\s*)?(?:\d+(?:\.\d+)?\s*(?:mi(?:les?)?|nm|n\.m\.|km|naut(?:ical)? mi(?:les)?)\.?\s*)?"
+                  r"(?:(?:n|s|e|w|ne|nw|se|sw|nne|nnw|ene|ese|sse|ssw|wsw|wnw|north|south|east|west|northeast|northwest|southeast|southwest|"
+                  r"near|nr|vicinity|vic|off|over|between|outside|above|area)\.?\s+(?:of\s+)?)+", re.I)
+# "60.37N 11.02W", "16-32N 119-31 E" (degrees and minutes with a separator) or "1834N 14257E" (packed)
+COORD = re.compile(r"\b(?:(\d{1,2})[.\-\s](\d{1,2})|(\d{2})(\d{2}))\s*([NS])[\s,/-]+(?:(\d{1,3})[.\-\s](\d{1,2})|(\d{2,3})(\d{2}))\s*([EW])\b", re.I)
+
+# Military airfields named in Blue Book titles, by name without "AFB"/"Field". Hand-entered, to about 0.05 degrees.
+BASES = {k: v for v, ks in {
+    (30.41, -88.92): "keesler", (32.22, -101.52): "webb", (40.29, -88.14): "chanute", (32.85, -106.10): "holloman", (64.84, -147.61): "ladd",
+    (38.95, -95.66): "forbes", (42.19, -72.53): "westover", (32.77, -97.44): "carswell", (32.38, -86.36): "maxwell", (47.58, -52.69): "pepperrell",
+    (29.38, -98.58): "lackland|kelly", (61.25, -149.80): "elmendorf|elmendori", (35.41, -97.39): "tinker", (53.32, -60.42): "goose|goose bay",
+    (29.61, -95.16): "ellington", (33.54, -112.38): "luke", (37.08, -76.36): "langley", (30.07, -85.58): "tyndall|tyndal", (38.54, -89.85): "scott",
+    (42.61, -82.83): "selfridge", (38.73, -93.55): "whiteman", (42.72, -76.88): "sampson", (76.53, -68.70): "thule", (27.85, -82.52): "macdill",
+    (34.59, -117.38): "george", (47.62, -117.65): "fairchild", (37.91, -85.97): "godman", (38.84, -94.56): "richards gebaur", (13.58, 144.93): "andersen|anderson",
+    (32.64, -83.59): "robins", (39.67, -119.88): "stead", (41.50, -74.10): "stewart", (39.72, -104.89): "lowry", (33.92, -84.52): "dobbins",
+    (47.21, -119.32): "larson", (35.05, -106.55): "sandia|kirtland", (21.33, -157.94): "hickam", (38.83, -104.80): "ent", (31.33, -92.55): "england",
+    (32.36, -64.68): "kindley", (37.38, -120.57): "castle", (43.14, -89.34): "truax", (39.70, -104.75): "buckley", (39.83, -84.05): "wright patterson|wright|patterson",
+    (39.81, -82.93): "lockbourne", (34.91, -117.88): "edwards|muroc", (34.74, -120.57): "vandenberg", (36.24, -115.03): "nellis", (33.88, -117.26): "march",
+    (38.26, -121.93): "travis", (38.06, -122.51): "hamilton", (47.14, -122.48): "mcchord", (41.12, -95.91): "offutt", (38.81, -76.87): "andrews",
+    (38.84, -77.02): "bolling", (30.48, -86.52): "eglin", (28.24, -80.61): "patrick", (40.02, -74.59): "mcguire", (39.13, -75.47): "dover",
+    (43.23, -75.41): "griffiss", (46.95, -67.89): "loring", (43.08, -70.82): "pease", (41.66, -70.52): "otis", (42.47, -71.29): "hanscom",
+    (44.65, -73.47): "plattsburgh", (48.42, -101.36): "minot", (47.96, -97.40): "grand forks", (44.15, -103.10): "ellsworth", (47.50, -111.19): "malmstrom",
+    (43.04, -115.87): "mountain home", (41.12, -111.97): "hill", (32.17, -110.88): "davis monthan", (33.31, -111.66): "williams", (33.30, -104.53): "walker",
+    (34.38, -103.32): "cannon", (33.60, -102.04): "reese", (33.99, -98.49): "sheppard", (32.42, -99.85): "dyess", (29.53, -98.28): "randolph",
+    (30.19, -97.67): "bergstrom", (32.50, -93.66): "barksdale", (34.67, -99.27): "altus", (36.34, -97.92): "vance", (37.62, -97.27): "mcconnell",
+    (38.79, -97.65): "schilling|smoky hill", (46.35, -87.39): "k i sawyer|sawyer", (46.25, -84.47): "kincheloe|kinross", (44.45, -83.39): "wurtsmith",
+    (40.65, -86.15): "bunker hill|grissom", (35.17, -79.01): "pope", (35.34, -77.96): "seymour johnson", (30.97, -83.19): "moody", (32.01, -81.15): "hunter",
+    (31.60, -84.09): "turner", (25.49, -80.38): "homestead", (28.43, -81.31): "mccoy|pinecastle", (32.34, -86.99): "craig", (35.96, -89.94): "blytheville",
+    (39.14, -121.44): "beale", (38.55, -121.30): "mather", (38.67, -121.40): "mcclellan", (34.10, -117.23): "norton", (47.91, -122.28): "paine",
+    (47.62, -117.53): "geiger", (42.16, -121.73): "kingsley", (64.67, -147.10): "eielson", (52.71, 174.11): "shemya|shamya", (15.19, 120.56): "clark",
+    (26.36, 127.77): "kadena", (40.70, 141.37): "misawa", (35.75, 139.35): "yokota", (35.84, 139.41): "johnson", (33.59, 130.45): "itazuke",
+    (37.09, 127.03): "osan", (37.56, 126.79): "kimpo", (32.89, 13.28): "wheelus", (37.00, 35.43): "incirlik", (49.44, 7.60): "ramstein",
+    (50.03, 8.57): "rhein main", (49.95, 6.57): "bitburg", (52.41, 0.56): "lakenheath", (52.13, 1.43): "bentwaters", (63.99, -22.61): "keflavik",
+    (48.54, -58.55): "ernest harmon|harmon", (67.01, -50.71): "sondrestrom", (18.49, -67.13): "ramey", (8.97, -79.56): "albrook", (8.91, -79.60): "howard",
+}.items() for k in ks.split("|")}
+# Small islands and common spellings that name a spot precisely enough to map.
+PLACES = {"long island": (40.8, -73.1), "hawaiian islands": (21.45, -158.0), "oahu": (21.45, -158.0), "guam": (13.45, 144.78), "bermuda": (32.30, -64.78),
+          "okinawa": (26.5, 127.9), "wake island": (19.28, 166.65), "midway island": (28.21, -177.38), "st lawrence island": (63.4, -170.3),
+          "waikiki beach": (21.28, -157.83), "tuscon": (32.22, -110.97), "goose bay": (53.32, -60.42), "puerto rico": (18.2, -66.5),
+          "trinidad": (10.5, -61.3), "kwajalein": (8.72, 167.73), "johnston island": (16.73, -169.53), "iwo jima": (24.78, 141.32)}
+
+
 class Gazetteer:
+    """Town -> coordinates, from (in order of preference) the GeoNames towns in
+    the cities.json npm package, US post-office names, geonamescache, and the
+    medians of the NUFORC geocoded reports."""
+
     def __init__(self, nuforc_rows):
-        us, st = defaultdict(list), defaultdict(list)
+        import difflib, geonamescache, zipcodes
+        self.difflib = difflib
+        self.us, self.world = {}, defaultdict(list)
+        towns = json.loads((RAW / "npm/node_modules/cities.json/cities.json").read_text())
+        gc = geonamescache.GeonamesCache()
+        big = sorted(gc.get_cities().values(), key=lambda c: -c["population"])
+        for c in big:                                   # largest first, so an ambiguous name resolves to the biggest town
+            self.world[norm(c["name"])].append((c["countrycode"], c["latitude"], c["longitude"]))
+            if c["countrycode"] == "US" and c.get("admin1code"):
+                self.us.setdefault((norm(c["name"]), c["admin1code"].lower()), (c["latitude"], c["longitude"]))
+        for c in towns:
+            lat, lon = float(c["lat"]), float(c["lng"])
+            self.world[norm(c["name"])].append((c["country"], lat, lon))
+            if c["country"] == "US":
+                self.us.setdefault((norm(c["name"]), c["admin1"].lower()), (lat, lon))
+        zips = defaultdict(list)
+        for z in zipcodes.list_all():
+            if z.get("lat") and z.get("long"):
+                zips[(norm(z["city"]), z["state"].lower())].append((float(z["lat"]), float(z["long"])))
+        med = lambda pts: (statistics.median(p[0] for p in pts), statistics.median(p[1] for p in pts))
+        for k, v in zips.items():
+            self.us.setdefault(k, med(v))
+        nu = defaultdict(list)
         for r in nuforc_rows:
             if r["country"] == "us" and r["state"] and r["lat"] is not None:
-                us[(norm(re.sub(r"\(.*?\)", "", r["city"])), r["state"])].append((r["lat"], r["lon"]))
-                st[r["state"]].append((r["lat"], r["lon"]))
-        med = lambda pts: (statistics.median(p[0] for p in pts), statistics.median(p[1] for p in pts))
-        self.us = {k: med(v) for k, v in us.items()}
-        import geonamescache
-        gc = geonamescache.GeonamesCache()
-        self.world = defaultdict(list)
-        for c in gc.get_cities().values():
-            for name in {c["name"], *c.get("alternatenames", [])[:0]}:
-                self.world[norm(name)].append((c["population"], c["countrycode"], c["latitude"], c["longitude"], c.get("admin1code")))
+                nu[(norm(re.sub(r"\(.*?\)", "", r["city"])), r["state"])].append((r["lat"], r["lon"]))
+        for k, v in nu.items():
+            self.us.setdefault(k, med(v))
+        self.by_state = defaultdict(list)
+        for name, st in self.us:
+            self.by_state[st].append(name)
         self.countries = {norm(c["name"]): c["iso"] for c in gc.get_countries().values()}
-        self.countries.update({"england": "GB", "scotland": "GB", "wales": "GB", "northern ireland": "GB", "great britain": "GB",
+        self.countries.update({"england": "GB", "scotland": "GB", "wales": "GB", "northern ireland": "GB", "great britain": "GB", "uk": "GB",
                                "korea": "KR", "north korea": "KP", "south korea": "KR", "west germany": "DE", "germany": "DE",
                                "french morocco": "MA", "formosa": "TW", "soviet union": "RU", "ussr": "RU", "okinawa": "JP",
-                               "newfoundland": "CA", "labrador": "CA", "canal zone": "PA", "philippine islands": "PH", "persia": "IR"})
+                               "newfoundland": "CA", "labrador": "CA", "canal zone": "PA", "philippine islands": "PH", "persia": "IR",
+                               "azores": "PT", "holland": "NL", "french indochina": "VN", "indochina": "VN", "iran": "IR"})
 
-    def us_city(self, city, state):
-        hit = self.us.get((norm(city), state))
-        if hit:
-            return hit
-        cands = [c for c in self.world.get(norm(city), []) if c[1] == "US" and (c[4] or "").lower() == state]
-        return (max(cands)[2], max(cands)[3]) if cands else None
+    def us_city(self, city, state, fuzzy=False):
+        n = norm(city)
+        variants = [n, norm(BASE_WORDS.sub("", city)), n.replace("ft ", "fort ").replace("st ", "saint ").replace("mt ", "mount ")]
+        for v in variants:
+            if v and (v, state) in self.us:
+                return self.us[(v, state)]
+        if fuzzy and len(n) >= 5:
+            m = self.difflib.get_close_matches(n, self.by_state.get(state, []), n=1, cutoff=0.86)
+            if m:
+                return self.us[(m[0], state)]
+        return None
 
     def city(self, name, iso=None):
-        cands = [c for c in self.world.get(norm(name), []) if iso is None or c[1] == iso]
-        return (max(cands)[2], max(cands)[3]) if cands else None
+        for v in (norm(name), norm(BASE_WORDS.sub("", name))):
+            for c in self.world.get(v, []):
+                if iso is None or c[0] == iso:
+                    return c[1], c[2]
+        return None
+
+    def locate(self, loc):
+        """Best-effort position for a free-text place such as a Blue Book title.
+        Returns (lat, lon, country) with lat/lon None when only the country or state is known."""
+        m = COORD.search(loc)
+        if m:
+            la, lam, lo, lom = (m[1], m[2], m[6], m[7]) if m[1] else (m[3], m[4], m[8], m[9])
+            if not m[1] or not m[6]:                    # mixed forms are too ambiguous to trust
+                la, lam, lo, lom = (m[1] or m[3], m[2] or m[4], m[6] or m[8], m[7] or m[9])
+            lat, lon = int(la) + min(int(lam), 59) / 60, int(lo) + min(int(lom), 59) / 60
+            if lat <= 90 and lon <= 180:
+                return (lat if m[5].upper() == "N" else -lat, lon if m[10].upper() == "E" else -lon, "")
+        for t in loc.split(","):                        # a named air base or small island anywhere in the title
+            t = LEAD.sub("", re.sub(r"\(.*?\)|\[.*?\]", "", t)).strip(" .")
+            n = norm(BASE_WORDS.sub("", t))
+            if norm(t) in PLACES:
+                return (*PLACES[norm(t)], "")
+            if BASE_WORDS.search(t) and n in BASES:
+                return (*BASES[n], "")
+        toks = [LEAD.sub("", re.sub(r"\(.*?\)|\[.*?\]", "", t)).strip(" .") for t in loc.split(",")]
+        toks = [t for t in toks if t]
+        if not toks:
+            return None, None, ""
+        if len(toks) == 1:                              # "THE DALLES OREGON", "Lima Peru"
+            words = toks[0].split()
+            for n in (2, 1):
+                tail = norm(" ".join(words[-n:]))
+                if len(words) > n and (tail in STATE_OF or tail in self.countries):
+                    toks = [" ".join(words[:-n]), " ".join(words[-n:])]
+                    break
+        last = norm(toks[-1])
+        if last in STATE_OF and len(toks) >= 2:
+            st = STATE_OF[last]
+            for fuzzy in (False, True):
+                for t in toks[:-1]:
+                    pos = self.us_city(t, st, fuzzy)
+                    if pos:
+                        return pos[0], pos[1], "US"
+            return None, None, "US"
+        if last in self.countries and len(toks) >= 2:
+            iso = self.countries[last]
+            for t in toks[:-1]:
+                pos = self.city(t, iso)
+                if pos:
+                    return pos[0], pos[1], iso
+            return None, None, iso
+        if last in STATE_OF:
+            return None, None, "US"
+        return None, None, self.countries.get(last, "")
 
 
 def load_nuforc():
@@ -129,30 +260,34 @@ def load_nuforc():
 
 
 def load_bluebook(gaz):
+    """One row per case file in the National Archives series. The title gives
+    place and month ("Dayton, Ohio, November 1969"); early files add an
+    incident number, and a few hundred have an illegible or blank date, for
+    which the catalogue's own coverage date is used when it has one."""
     rows, stats = [], Counter()
     for line in open(RAW / "nara/597821.jsonl", encoding="utf8"):
         r = json.loads(line)
         title = r["title"] or ""
+        inc = re.search(r"\s*-\s*Incident Number:\s*(.*)$", title, re.I)
+        if inc:
+            title = title[: inc.start()]
         m = re.search(r",?\s*(?:(January|February|March|April|May|June|July|August|September|October|November|December)\s+)?((?:19)\d{2})\s*$", title)
-        if not m:
-            stats["no date"] += 1
-            continue
-        loc = title[: m.start()].strip(" ,")
-        toks = [t.strip() for t in loc.split(",") if t.strip()]
-        pos, country = None, ""
-        if len(toks) >= 2 and norm(toks[1]) in STATES:
-            pos, country = gaz.us_city(toks[0], STATES[norm(toks[1])]), "US"
-        elif len(toks) >= 2 and norm(toks[1]) in gaz.countries:
-            country = gaz.countries[norm(toks[1])]
-            pos = gaz.city(toks[0], country)
-        elif toks and norm(toks[0]) in STATES:
-            country = "US"
-        elif toks and norm(toks[0]) in gaz.countries:
-            country = gaz.countries[norm(toks[0])]
-        stats["mapped" if pos else "not mapped"] += 1
-        rows.append({"ds": "bluebook", "y": int(m[2]), "m": MONTHS.get((m[1] or "").lower(), 0), "d": 0,
-                     "lat": pos[0] if pos else None, "lon": pos[1] if pos else None, "place": loc, "country": country,
-                     "shape": "unknown", "sum": "", "ref": str(r["naId"])})
+        if m:
+            year, month, loc = int(m[2]), MONTHS.get((m[1] or "").lower(), 0), title[: m.start()]
+        else:
+            d = re.match(r"(\d{4})-(\d\d)", r.get("date_start") or "")
+            if not d:
+                stats["undated, left out"] += 1
+                continue
+            year, month = int(d[1]), int(d[2]) if (r.get("date_end") or "")[:7] == r["date_start"][:7] else 0
+            loc = re.sub(r",?\s*(?:January|February|March|April|May|June|July|August|September|October|November|December)?\s*(?:\[\w+\]\s*)+$", "", title)
+            stats["dated from the catalogue"] += 1
+        loc = loc.strip(" ,")
+        lat, lon, country = gaz.locate(loc)
+        stats["mapped" if lat is not None else "not mapped"] += 1
+        note = f"Incident number {inc[1].strip()}." if inc and re.match(r"\d", inc[1].strip()) else ""
+        rows.append({"ds": "bluebook", "y": year, "m": month, "d": 0, "lat": lat, "lon": lon, "place": loc.title() if loc.isupper() else loc,
+                     "country": country, "shape": "unknown", "sum": note, "ref": str(r["naId"])})
     print("  bluebook:", dict(stats))
     return rows
 
@@ -202,7 +337,7 @@ def load_moduk(gaz):
                         town, area = cells[2], cells[3]
                         pos = None
                         if town and town.lower() not in ("not given", "unknown", ""):
-                            pos = gaz.city(re.split(r"[/,(]| nr | near ", town, flags=re.I)[0].replace("Nr ", "").strip(), "GB")
+                            pos = gaz.city(LEAD.sub("", re.split(r"[/,(&]| nr | near | and ", town, flags=re.I)[0]).strip(), "GB")
                         stats["mapped" if pos else "not mapped"] += 1
                         occ = cells[4] if cells[4] and "where" not in cells[4].lower() else ""
                         rows.append({"ds": "moduk", "y": year, "m": mon, "d": day, "lat": pos[0] if pos else None, "lon": pos[1] if pos else None,

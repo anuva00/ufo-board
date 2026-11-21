@@ -45,9 +45,11 @@ the sum of the weights of everything they share, plus 1 if one names the other.
 
 ## Known limits
 
-- Coordinates are town-level at best. Reports whose place could not be matched
-  to a town are counted in the timeline but not mapped (about half of the Blue
-  Book files and half of the UK MoD reports).
+- Coordinates are town-level at best. A report whose place could not be
+  matched to a town, air base or stated coordinates is counted in the timeline
+  but not mapped: about 2,100 of the 10,276 Blue Book files (titles that give
+  only a country, a state or an illegible place) and a third of the UK MoD
+  reports. Another 346 Blue Book files have no legible date and are left out.
 - The NUFORC snapshot ends in 2014; there is no bulk civilian data after that.
 - Extraction is done by language-model agents. Quotes are machine-verified; the
   reading of each quote (who was a witness, who was a sceptic) is not.
