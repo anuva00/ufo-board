@@ -1,0 +1,1775 @@
+{
+ "slug": "disappearance-of-frederick-valentich",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Disappearance of Frederick Valentich",
+   "aliases": [
+    "Valentich disappearance"
+   ],
+   "description": "1978 disappearance of an Australian pilot over Bass Strait after he radioed that an unidentified aircraft was accompanying him."
+  },
+  {
+   "key": "valentich",
+   "type": "person",
+   "name": "Frederick Valentich",
+   "aliases": [
+    "Valentich"
+   ],
+   "description": "Australian pilot, aged twenty, who disappeared over Bass Strait on 21 October 1978"
+  },
+  {
+   "key": "guido",
+   "type": "person",
+   "name": "Guido Valentich",
+   "aliases": [
+    "Guido"
+   ],
+   "description": "Father of Frederick Valentich"
+  },
+  {
+   "key": "rushton",
+   "type": "person",
+   "name": "Rhonda Rushton",
+   "description": "Girlfriend of Frederick Valentich"
+  },
+  {
+   "key": "basterfield",
+   "type": "person",
+   "name": "Keith Basterfield",
+   "description": "Ufologist who said interviews virtually eliminated suicide"
+  },
+  {
+   "key": "dunning",
+   "type": "person",
+   "name": "Brian Dunning",
+   "aliases": [
+    "Dunning"
+   ],
+   "description": "Commentator who compared the radio conversation to a film scene"
+  },
+  {
+   "key": "mcgaha",
+   "type": "person",
+   "name": "James McGaha",
+   "aliases": [
+    "McGaha"
+   ],
+   "description": "Astronomer and retired United States Air Force pilot, co-author of a 2013 review"
+  },
+  {
+   "key": "nickell",
+   "type": "person",
+   "name": "Joe Nickell",
+   "aliases": [
+    "Nickell"
+   ],
+   "description": "Author, co-author of a 2013 review of the radio transcripts"
+  },
+  {
+   "key": "manifold",
+   "type": "person",
+   "name": "Roy Manifold",
+   "description": "Plumber who took photos on the day of the disappearance"
+  },
+  {
+   "key": "clark",
+   "type": "person",
+   "name": "Jerome Clark",
+   "description": "UFO writer who reported Ground Saucer Watch's argument"
+  },
+  {
+   "key": "liles",
+   "type": "person",
+   "name": "Jordan Liles",
+   "description": "Snopes editor who suggested the photographed object was a fly or bird"
+  },
+  {
+   "key": "moncla",
+   "type": "person",
+   "name": "Felix Moncla",
+   "description": "US Air Force pilot who disappeared in similar circumstances"
+  },
+  {
+   "key": "mfs",
+   "type": "organization",
+   "name": "Melbourne Flight Service",
+   "aliases": [
+    "Melbourne air traffic control"
+   ],
+   "description": "Air traffic service Valentich radioed"
+  },
+  {
+   "key": "dot",
+   "type": "organization",
+   "name": "Australian Department of Transport",
+   "aliases": [
+    "Department of Transport"
+   ],
+   "description": "Australian government department that investigated the disappearance"
+  },
+  {
+   "key": "wadot",
+   "type": "organization",
+   "name": "Western Australia Department of Transport",
+   "description": "Department whose officials speculated Valentich became disorientated"
+  },
+  {
+   "key": "raaf",
+   "type": "organization",
+   "name": "Royal Australian Air Force",
+   "aliases": [
+    "RAAF"
+   ],
+   "description": "Australian air force"
+  },
+  {
+   "key": "atc",
+   "type": "organization",
+   "name": "RAAF Air Training Corps",
+   "description": "Air training corps of which Valentich was a member"
+  },
+  {
+   "key": "basi",
+   "type": "organization",
+   "name": "Bureau of Air Safety Investigation",
+   "aliases": [
+    "the bureau"
+   ],
+   "description": "Bureau that examined the recovered cowl flap"
+  },
+  {
+   "key": "ranrl",
+   "type": "organization",
+   "name": "Royal Australian Navy Research Laboratory",
+   "aliases": [
+    "RANRL"
+   ],
+   "description": "Navy laboratory asked about the cowl flap's drift"
+  },
+  {
+   "key": "melbpolice",
+   "type": "organization",
+   "name": "Melbourne police",
+   "description": "Police who received reports of a light aircraft making a mysterious landing"
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "aliases": [
+    "US Air Force"
+   ],
+   "description": "US military air service"
+  },
+  {
+   "key": "stromlo",
+   "type": "organization",
+   "name": "Mount Stromlo Observatory",
+   "description": "Observatory that noted a meteorite stream that night"
+  },
+  {
+   "key": "gsw",
+   "type": "organization",
+   "name": "Ground Saucer Watch",
+   "description": "UFO group based in Phoenix, Arizona"
+  },
+  {
+   "key": "snopes",
+   "type": "organization",
+   "name": "Snopes",
+   "description": "Fact-checking outlet whose editor commented on the photos"
+  },
+  {
+   "key": "bass",
+   "type": "place",
+   "name": "Bass Strait",
+   "description": "Strait over which Valentich disappeared"
+  },
+  {
+   "key": "australia",
+   "type": "place",
+   "name": "Australia",
+   "description": "Country of the disappearance"
+  },
+  {
+   "key": "melbourne",
+   "type": "place",
+   "name": "Melbourne, Australia",
+   "aliases": [
+    "Melbourne"
+   ],
+   "description": "City whose air traffic control and police are mentioned"
+  },
+  {
+   "key": "sydney",
+   "type": "place",
+   "name": "Sydney, Australia",
+   "aliases": [
+    "Sydney"
+   ],
+   "description": "City where Valentich strayed into a controlled zone"
+  },
+  {
+   "key": "kingisland",
+   "type": "place",
+   "name": "King Island",
+   "description": "Destination of Valentich's final flight"
+  },
+  {
+   "key": "kia",
+   "type": "place",
+   "name": "King Island Airport",
+   "description": "Airport Valentich failed to inform of his intention to land"
+  },
+  {
+   "key": "flinders",
+   "type": "place",
+   "name": "Flinders Island",
+   "description": "Island where an engine cowl flap washed ashore"
+  },
+  {
+   "key": "otway",
+   "type": "place",
+   "name": "Cape Otway",
+   "description": "Cape on the flight route"
+  },
+  {
+   "key": "otwaylh",
+   "type": "place",
+   "name": "Cape Otway Lighthouse",
+   "description": "Lighthouse near which Manifold's photos were taken"
+  },
+  {
+   "key": "phoenix",
+   "type": "place",
+   "name": "Phoenix, Arizona",
+   "description": "Base of Ground Saucer Watch"
+  },
+  {
+   "key": "us",
+   "type": "place",
+   "name": "United States",
+   "description": "Country where Ground Saucer Watch is based"
+  },
+  {
+   "key": "cessna",
+   "type": "vehicle",
+   "name": "Cessna 182L VH-DSJ",
+   "aliases": [
+    "Cessna 182L",
+    "VH-DSJ",
+    "Cessna 182"
+   ],
+   "description": "Light aircraft flown by Valentich"
+  },
+  {
+   "key": "orion",
+   "type": "vehicle",
+   "name": "RAAF Lockheed P-3 Orion",
+   "aliases": [
+    "Lockheed P-3 Orion"
+   ],
+   "description": "RAAF aircraft used in the search"
+  },
+  {
+   "key": "obj",
+   "type": "craft",
+   "name": "Unidentified aircraft reported by Valentich",
+   "description": "Large unknown aircraft with four bright lights, shiny metal surface and a green light"
+  },
+  {
+   "key": "photoobj",
+   "type": "craft",
+   "name": "Object in Roy Manifold's photos",
+   "description": "Fast-moving object said to be exiting the water near Cape Otway Lighthouse"
+  },
+  {
+   "key": "radio",
+   "type": "document",
+   "name": "Valentich radio transmissions",
+   "aliases": [
+    "radio transcripts"
+   ],
+   "description": "Radio conversation between Valentich and Melbourne Flight Service"
+  },
+  {
+   "key": "photos",
+   "type": "document",
+   "name": "Roy Manifold photographs",
+   "description": "Photos taken by Roy Manifold on the day of the disappearance"
+  },
+  {
+   "key": "dotreport",
+   "type": "document",
+   "name": "Department of Transport Aircraft Investigation Summary Report",
+   "description": "Official investigation summary report"
+  },
+  {
+   "key": "ce3k",
+   "type": "work",
+   "name": "Close Encounters of the Third Kind",
+   "description": "Film whose dialogue Dunning compared to the radio conversation"
+  },
+  {
+   "key": "lastflight",
+   "type": "work",
+   "name": "Last Flight - The Valentich Disappearance",
+   "description": "ABC Listen episode featuring people who knew Valentich"
+  },
+  {
+   "key": "westall",
+   "type": "case",
+   "name": "Westall UFO",
+   "description": "Other UFO case listed under See also"
+  },
+  {
+   "key": "f_pilot",
+   "type": "feature",
+   "name": "pilot-witnesses"
+  },
+  {
+   "key": "f_death",
+   "type": "feature",
+   "name": "death-or-disappearance"
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation"
+  },
+  {
+   "key": "f_photo",
+   "type": "feature",
+   "name": "photograph"
+  },
+  {
+   "key": "f_water",
+   "type": "feature",
+   "name": "water-related"
+  },
+  {
+   "key": "f_speed",
+   "type": "feature",
+   "name": "high-speed-maneuvers"
+  },
+  {
+   "key": "f_sound",
+   "type": "feature",
+   "name": "sound-reported"
+  },
+  {
+   "key": "f_abd",
+   "type": "feature",
+   "name": "abduction-claim"
+  },
+  {
+   "key": "f_hoax",
+   "type": "feature",
+   "name": "hoax-alleged"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses"
+  },
+  {
+   "key": "f_engine",
+   "type": "feature",
+   "name": "other:engine trouble"
+  },
+  {
+   "key": "x_misp",
+   "type": "explanation",
+   "name": "misperception"
+  },
+  {
+   "key": "x_hoax",
+   "type": "explanation",
+   "name": "hoax"
+  },
+  {
+   "key": "x_suicide",
+   "type": "explanation",
+   "name": "other:suicide"
+  },
+  {
+   "key": "x_spiral",
+   "type": "explanation",
+   "name": "other:spatial disorientation (graveyard spiral)"
+  },
+  {
+   "key": "x_planet",
+   "type": "explanation",
+   "name": "venus-or-planet"
+  },
+  {
+   "key": "x_star",
+   "type": "explanation",
+   "name": "star"
+  },
+  {
+   "key": "x_meteor",
+   "type": "explanation",
+   "name": "meteor-or-fireball"
+  },
+  {
+   "key": "x_bird",
+   "type": "explanation",
+   "name": "bird-or-animal"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1978-10-21",
+   "quote": "On the evening of Saturday 21 October 1978, twenty-year-old Valentich informed Melbourne air traffic control that he was being accompanied by an aircraft about 1,000 feet (300 m) above him and that his engine had begun running roughly, before finally reporting: \"It's not an aircraft\"."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1978-10-21",
+   "quote": "Frederick Valentich (9 June 1958 – disappeared 21 October 1978) had about 150 total hours of flying time and held a class-four instrument rating, which authorised him to fly at night, but only \"in visual meteorological conditions\"."
+  },
+  {
+   "s": "case",
+   "p": "day_of_week",
+   "v": "Saturday",
+   "quote": "On the evening of Saturday 21 October 1978, twenty-year-old Valentich informed Melbourne air traffic control that he was being accompanied by an aircraft about 1,000 feet (300 m) above him and that his engine had begun running roughly, before finally reporting: \"It's not an aircraft\"."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "7:06 pm",
+   "quote": "Valentich radioed Melbourne Flight Service at 7:06 pm to report that an unidentified aircraft was following him at 4,500 feet (1,400 m)."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "Australia",
+   "quote": "There were belated reports of a UFO sighting in Australia on the night of the disappearance; however, the Department of Transport was sceptical that a UFO was behind Valentich's disappearance"
+  },
+  {
+   "s": "case",
+   "p": "flight_distance",
+   "v": "125 nautical miles (232 km)",
+   "quote": "Frederick Valentich (, VAL-ən-tich) was an Australian pilot who disappeared while on a 125-nautical-mile (232 km) flight in a Cessna 182L light aircraft, registered VH-DSJ, over Bass Strait."
+  },
+  {
+   "s": "case",
+   "p": "last_transmission",
+   "v": "It's not an aircraft",
+   "quote": "Asked to identify the aircraft, Valentich radioed: \"It's not an aircraft.\""
+  },
+  {
+   "s": "case",
+   "p": "final_report",
+   "v": "It's not an aircraft",
+   "quote": "On the evening of Saturday 21 October 1978, twenty-year-old Valentich informed Melbourne air traffic control that he was being accompanied by an aircraft about 1,000 feet (300 m) above him and that his engine had begun running roughly, before finally reporting: \"It's not an aircraft\"."
+  },
+  {
+   "s": "case",
+   "p": "controller_response",
+   "v": "no known traffic at that level",
+   "quote": "He was told that there was no known traffic at that level."
+  },
+  {
+   "s": "case",
+   "p": "sound",
+   "v": "metallic, scraping sounds",
+   "quote": "His transmission was then interrupted by unidentified noise described as \"metallic, scraping sounds\" before all contact was lost."
+  },
+  {
+   "s": "case",
+   "p": "contact_lost",
+   "v": "transmission interrupted by unidentified noise before all contact was lost",
+   "quote": "His transmission was then interrupted by unidentified noise described as \"metallic, scraping sounds\" before all contact was lost."
+  },
+  {
+   "s": "case",
+   "p": "engine_trouble",
+   "v": "engine had begun running roughly",
+   "quote": "On the evening of Saturday 21 October 1978, twenty-year-old Valentich informed Melbourne air traffic control that he was being accompanied by an aircraft about 1,000 feet (300 m) above him and that his engine had begun running roughly, before finally reporting: \"It's not an aircraft\"."
+  },
+  {
+   "s": "case",
+   "p": "engine_trouble",
+   "v": "experiencing engine problems",
+   "quote": "Valentich further reported that he was experiencing engine problems."
+  },
+  {
+   "s": "case",
+   "p": "flight_destination",
+   "v": "King Island",
+   "quote": "The destination of Valentich's final flight was King Island, but his motivation for the flight is unknown."
+  },
+  {
+   "s": "case",
+   "p": "flight_motivation",
+   "v": "unknown",
+   "quote": "The destination of Valentich's final flight was King Island, but his motivation for the flight is unknown."
+  },
+  {
+   "s": "case",
+   "p": "stated_reason_finding",
+   "v": "later investigations found both stated reasons to be untrue",
+   "quote": "Later investigations found both stated reasons to be untrue."
+  },
+  {
+   "s": "case",
+   "p": "search",
+   "v": "sea and air search including oceangoing ship traffic, an RAAF Lockheed P-3 Orion and eight civilian aircraft",
+   "quote": "A sea and air search was undertaken that included oceangoing ship traffic, an RAAF Lockheed P-3 Orion aircraft, plus eight civilian aircraft."
+  },
+  {
+   "s": "case",
+   "p": "search_civilian_aircraft_count",
+   "v": "8",
+   "quote": "A sea and air search was undertaken that included oceangoing ship traffic, an RAAF Lockheed P-3 Orion aircraft, plus eight civilian aircraft."
+  },
+  {
+   "s": "case",
+   "p": "search_area",
+   "v": "over 1,000 square miles (2,600 km2)",
+   "quote": "The search encompassed over 1,000 square miles (2,600 km2)."
+  },
+  {
+   "s": "case",
+   "p": "search_ended",
+   "v": "1978-10-25",
+   "quote": "Search efforts ceased on 25 October 1978 without result."
+  },
+  {
+   "s": "case",
+   "p": "search_result",
+   "v": "without result",
+   "quote": "Search efforts ceased on 25 October 1978 without result."
+  },
+  {
+   "s": "case",
+   "p": "investigation_finding",
+   "v": "unable to determine the cause",
+   "quote": "An investigation into Valentich's disappearance by the Australian Department of Transport was unable to determine the cause, but it was \"presumed fatal\" for Valentich."
+  },
+  {
+   "s": "case",
+   "p": "outcome",
+   "v": "presumed fatal",
+   "quote": "An investigation into Valentich's disappearance by the Australian Department of Transport was unable to determine the cause, but it was \"presumed fatal\" for Valentich."
+  },
+  {
+   "s": "case",
+   "p": "debris_found",
+   "v": "engine cowl flap washed ashore on Flinders Island five years later",
+   "quote": "Five years after Valentich's aircraft went missing, an engine cowl flap was found washed ashore on Flinders Island."
+  },
+  {
+   "s": "case",
+   "p": "debris_identification",
+   "v": "from a Cessna 182 aircraft between a certain range of serial numbers, which included Valentich's aircraft",
+   "quote": "The bureau noted that \"the part has been identified as having come from a Cessna 182 aircraft between a certain range of serial numbers\", which included Valentich's aircraft."
+  },
+  {
+   "s": "case",
+   "p": "debris_inquiry_date",
+   "v": "1983-07",
+   "quote": "In July 1983, the Bureau of Air Safety Investigation asked the Royal Australian Navy Research Laboratory (RANRL) about the likelihood that the cowl flap might have \"travelled\" to its ultimate position from the region where the aircraft had disappeared."
+  },
+  {
+   "s": "case",
+   "p": "other_sightings",
+   "v": "belated reports of a UFO sighting in Australia on the night of the disappearance",
+   "quote": "There were belated reports of a UFO sighting in Australia on the night of the disappearance; however, the Department of Transport was sceptical that a UFO was behind Valentich's disappearance"
+  },
+  {
+   "s": "case",
+   "p": "other_sightings",
+   "v": "some individuals reported seeing an erratically moving green light in the sky",
+   "quote": "Ufologists have claimed that a UFO either destroyed Valentich's aircraft or abducted him, saying that some individuals reported seeing \"an erratically moving green light in the sky\" and that he was \"in a steep dive at the time\"."
+  },
+  {
+   "s": "case",
+   "p": "ufologist_claim",
+   "v": "a UFO either destroyed Valentich's aircraft or abducted him",
+   "quote": "Ufologists have claimed that a UFO either destroyed Valentich's aircraft or abducted him, saying that some individuals reported seeing \"an erratically moving green light in the sky\" and that he was \"in a steep dive at the time\"."
+  },
+  {
+   "s": "case",
+   "p": "ufologist_claim",
+   "v": "he was in a steep dive at the time",
+   "quote": "Ufologists have claimed that a UFO either destroyed Valentich's aircraft or abducted him, saying that some individuals reported seeing \"an erratically moving green light in the sky\" and that he was \"in a steep dive at the time\"."
+  },
+  {
+   "s": "case",
+   "p": "ufologist_claim",
+   "v": "accounts significant because of the green light mentioned in the radio transmissions",
+   "quote": "Ufologists believe these accounts are significant because of the \"green light\" mentioned in Valentich's radio transmissions."
+  },
+  {
+   "s": "case",
+   "p": "meteor_activity",
+   "v": "meteorite stream that night, with ten to fifteen sightings per hour",
+   "quote": "However, the Mount Stromlo Observatory noted that there was a meteorite stream that night, with ten to fifteen sightings per hour."
+  },
+  {
+   "s": "case",
+   "p": "radar",
+   "v": "at no time was the aircraft plotted on radar",
+   "quote": "despite ideal conditions, at no time was the aircraft plotted on radar, casting doubts as to whether it was ever near Cape Otway"
+  },
+  {
+   "s": "case",
+   "p": "weather",
+   "v": "ideal conditions",
+   "quote": "despite ideal conditions, at no time was the aircraft plotted on radar, casting doubts as to whether it was ever near Cape Otway"
+  },
+  {
+   "s": "case",
+   "p": "fuel_range",
+   "v": "enough fuel to fly 800 km (500 mi)",
+   "quote": "even taking into account a trip of between 30 and 45 minutes to Cape Otway, the single-engine Cessna 182 still had enough fuel to fly 800 km (500 mi)"
+  },
+  {
+   "s": "case",
+   "p": "trip_time_to_cape_otway",
+   "v": "between 30 and 45 minutes",
+   "quote": "even taking into account a trip of between 30 and 45 minutes to Cape Otway, the single-engine Cessna 182 still had enough fuel to fly 800 km (500 mi)"
+  },
+  {
+   "s": "case",
+   "p": "rumor",
+   "v": "Melbourne police received reports of a light aircraft making a mysterious landing not far from Cape Otway at the same time",
+   "quote": "Melbourne police received reports of a light aircraft making a mysterious landing not far from Cape Otway at the same time as Valentich's disappearance"
+  },
+  {
+   "s": "case",
+   "p": "speculation",
+   "v": "Valentich committed suicide",
+   "quote": "There has also been speculation that Valentich committed suicide."
+  },
+  {
+   "s": "case",
+   "p": "speculation",
+   "v": "Valentich staged his own disappearance",
+   "quote": "It has also been proposed that Valentich staged his own disappearance"
+  },
+  {
+   "s": "valentich",
+   "p": "witness",
+   "o": "case",
+   "quote": "On the evening of Saturday 21 October 1978, twenty-year-old Valentich informed Melbourne air traffic control that he was being accompanied by an aircraft about 1,000 feet (300 m) above him and that his engine had begun running roughly, before finally reporting: \"It's not an aircraft\"."
+  },
+  {
+   "s": "valentich",
+   "p": "nationality",
+   "v": "Australian",
+   "quote": "Frederick Valentich (, VAL-ən-tich) was an Australian pilot who disappeared while on a 125-nautical-mile (232 km) flight in a Cessna 182L light aircraft, registered VH-DSJ, over Bass Strait."
+  },
+  {
+   "s": "valentich",
+   "p": "occupation",
+   "v": "pilot",
+   "quote": "Frederick Valentich (, VAL-ən-tich) was an Australian pilot who disappeared while on a 125-nautical-mile (232 km) flight in a Cessna 182L light aircraft, registered VH-DSJ, over Bass Strait."
+  },
+  {
+   "s": "valentich",
+   "p": "age",
+   "v": "20",
+   "quote": "On the evening of Saturday 21 October 1978, twenty-year-old Valentich informed Melbourne air traffic control that he was being accompanied by an aircraft about 1,000 feet (300 m) above him and that his engine had begun running roughly, before finally reporting: \"It's not an aircraft\"."
+  },
+  {
+   "s": "valentich",
+   "p": "birth_date",
+   "v": "1958-06-09",
+   "quote": "Frederick Valentich (9 June 1958 – disappeared 21 October 1978) had about 150 total hours of flying time and held a class-four instrument rating, which authorised him to fly at night, but only \"in visual meteorological conditions\"."
+  },
+  {
+   "s": "valentich",
+   "p": "disappeared_date",
+   "v": "1978-10-21",
+   "quote": "Frederick Valentich (9 June 1958 – disappeared 21 October 1978) had about 150 total hours of flying time and held a class-four instrument rating, which authorised him to fly at night, but only \"in visual meteorological conditions\"."
+  },
+  {
+   "s": "valentich",
+   "p": "flying_hours",
+   "v": "about 150 total hours",
+   "quote": "Frederick Valentich (9 June 1958 – disappeared 21 October 1978) had about 150 total hours of flying time and held a class-four instrument rating, which authorised him to fly at night, but only \"in visual meteorological conditions\"."
+  },
+  {
+   "s": "valentich",
+   "p": "pilot_rating",
+   "v": "class-four instrument rating, authorised to fly at night only in visual meteorological conditions",
+   "quote": "Frederick Valentich (9 June 1958 – disappeared 21 October 1978) had about 150 total hours of flying time and held a class-four instrument rating, which authorised him to fly at night, but only \"in visual meteorological conditions\"."
+  },
+  {
+   "s": "valentich",
+   "p": "raaf_applications",
+   "v": "twice applied to enlist, rejected because of inadequate educational qualifications",
+   "quote": "He had twice applied to enlist in the Royal Australian Air Force (RAAF), but had been rejected because of inadequate educational qualifications."
+  },
+  {
+   "s": "valentich",
+   "p": "member_of",
+   "o": "atc",
+   "quote": "He was a member of the RAAF Air Training Corps, determined to have a career in aviation."
+  },
+  {
+   "s": "valentich",
+   "p": "ambition",
+   "v": "determined to have a career in aviation",
+   "quote": "He was a member of the RAAF Air Training Corps, determined to have a career in aviation."
+  },
+  {
+   "s": "valentich",
+   "p": "studies",
+   "v": "studying part time to become a commercial pilot",
+   "quote": "Valentich was studying part time to become a commercial pilot but had a poor achievement record, having twice failed all five commercial licence examination subjects."
+  },
+  {
+   "s": "valentich",
+   "p": "exam_record",
+   "v": "twice failed all five commercial licence examination subjects",
+   "quote": "Valentich was studying part time to become a commercial pilot but had a poor achievement record, having twice failed all five commercial licence examination subjects."
+  },
+  {
+   "s": "valentich",
+   "p": "exam_record",
+   "v": "failed three more commercial licence subjects the month before his disappearance",
+   "quote": "As recently as the month before his disappearance, Valentich had failed three more commercial licence subjects."
+  },
+  {
+   "s": "valentich",
+   "p": "flying_incident",
+   "v": "strayed into a controlled zone in Sydney, for which he received a warning",
+   "quote": "He had been involved in flying incidents, for example, straying into a controlled zone in Sydney, for which he received a warning, and twice deliberately flying into a cloud, for which prosecution was being considered."
+  },
+  {
+   "s": "valentich",
+   "p": "flying_incident",
+   "v": "twice deliberately flew into a cloud, for which prosecution was being considered",
+   "quote": "He had been involved in flying incidents, for example, straying into a controlled zone in Sydney, for which he received a warning, and twice deliberately flying into a cloud, for which prosecution was being considered."
+  },
+  {
+   "s": "valentich",
+   "p": "belief",
+   "v": "ardent believer in UFOs, worried about being attacked by them",
+   "quote": "According to his father, Guido, Valentich was an ardent believer in UFOs and had been worried about being attacked by them."
+  },
+  {
+   "s": "valentich",
+   "p": "prior_discussion",
+   "v": "six days before, discussed the possibility of a UFO taking him away",
+   "quote": "Six days before his disappearance, Valentich discussed with his girlfriend Rhonda Rushton the possibility of a UFO taking him away, according to her."
+  },
+  {
+   "s": "valentich",
+   "p": "stated_reason",
+   "v": "told flight officials he was going to King Island to pick up some friends",
+   "quote": "He told flight officials that he was going to King Island to pick up some friends, while he told others that he was going to pick up crayfish."
+  },
+  {
+   "s": "valentich",
+   "p": "stated_reason",
+   "v": "told others he was going to pick up crayfish",
+   "quote": "He told flight officials that he was going to King Island to pick up some friends, while he told others that he was going to pick up crayfish."
+  },
+  {
+   "s": "valentich",
+   "p": "procedure_breach",
+   "v": "failed to inform King Island Airport of his intention to land there",
+   "quote": "Valentich had also failed to inform King Island Airport of his intention to land there, going against \"standard procedure\"."
+  },
+  {
+   "s": "valentich",
+   "p": "statement",
+   "v": "the other pilot might be purposely toying with him",
+   "quote": "Valentich then reported that the aircraft was approaching him from the east and said that the other pilot might be purposely toying with him."
+  },
+  {
+   "s": "valentich",
+   "p": "statement",
+   "v": "It's not an aircraft",
+   "quote": "Asked to identify the aircraft, Valentich radioed: \"It's not an aircraft.\""
+  },
+  {
+   "s": "valentich",
+   "p": "experience",
+   "v": "inexperienced",
+   "quote": "A 2013 review of the radio transcripts and other data by astronomer and retired United States Air Force pilot James McGaha and author Joe Nickell proposes that the inexperienced Valentich was deceived by the illusion of a tilted horizon"
+  },
+  {
+   "s": "valentich",
+   "p": "piloted",
+   "o": "cessna",
+   "quote": "Frederick Valentich (, VAL-ən-tich) was an Australian pilot who disappeared while on a 125-nautical-mile (232 km) flight in a Cessna 182L light aircraft, registered VH-DSJ, over Bass Strait."
+  },
+  {
+   "s": "valentich",
+   "p": "described",
+   "o": "obj",
+   "quote": "Valentich said that he could see a large unknown aircraft which appeared to be illuminated by four bright landing lights."
+  },
+  {
+   "s": "guido",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "According to his father, Guido, Valentich was an ardent believer in UFOs and had been worried about being attacked by them."
+  },
+  {
+   "s": "guido",
+   "p": "relative_of",
+   "o": "valentich",
+   "quote": "According to his father, Guido, Valentich was an ardent believer in UFOs and had been worried about being attacked by them."
+  },
+  {
+   "s": "guido",
+   "p": "relationship",
+   "v": "father of Frederick Valentich",
+   "quote": "According to his father, Guido, Valentich was an ardent believer in UFOs and had been worried about being attacked by them."
+  },
+  {
+   "s": "guido",
+   "p": "statement",
+   "v": "Valentich was an ardent believer in UFOs and had been worried about being attacked by them",
+   "quote": "According to his father, Guido, Valentich was an ardent believer in UFOs and had been worried about being attacked by them."
+  },
+  {
+   "s": "rushton",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Six days before his disappearance, Valentich discussed with his girlfriend Rhonda Rushton the possibility of a UFO taking him away, according to her."
+  },
+  {
+   "s": "rushton",
+   "p": "relationship",
+   "v": "girlfriend of Frederick Valentich",
+   "quote": "Six days before his disappearance, Valentich discussed with his girlfriend Rhonda Rushton the possibility of a UFO taking him away, according to her."
+  },
+  {
+   "s": "rushton",
+   "p": "statement",
+   "v": "six days before his disappearance Valentich discussed the possibility of a UFO taking him away",
+   "quote": "Six days before his disappearance, Valentich discussed with his girlfriend Rhonda Rushton the possibility of a UFO taking him away, according to her."
+  },
+  {
+   "s": "basterfield",
+   "p": "commentator",
+   "o": "case",
+   "quote": "According to ufologist Keith Basterfield, interviews with doctors and colleagues who knew him virtually eliminated this possibility."
+  },
+  {
+   "s": "basterfield",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "According to ufologist Keith Basterfield, interviews with doctors and colleagues who knew him virtually eliminated this possibility."
+  },
+  {
+   "s": "basterfield",
+   "p": "statement",
+   "v": "interviews with doctors and colleagues who knew him virtually eliminated the possibility of suicide",
+   "quote": "According to ufologist Keith Basterfield, interviews with doctors and colleagues who knew him virtually eliminated this possibility."
+  },
+  {
+   "s": "basterfield",
+   "p": "disputed",
+   "o": "x_suicide",
+   "quote": "According to ufologist Keith Basterfield, interviews with doctors and colleagues who knew him virtually eliminated this possibility."
+  },
+  {
+   "s": "dunning",
+   "p": "commentator",
+   "o": "case",
+   "quote": "According to Brian Dunning, Valentich's radio conversation was similar to the dialogue from a scene in the film Close Encounters of the Third Kind, which was released less than a year before the disappearance, and was popular among pilots, young people, and UFO fans."
+  },
+  {
+   "s": "dunning",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Dunning speculated that it is possible that Valentich was trying to imitate the scene for fun, and deliberately made his aircraft fly in a circular pattern in order to \"give the radar guys something to see\", but accidentally became disoriented and crashed into the water."
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "the radio conversation was similar to the dialogue from a scene in Close Encounters of the Third Kind",
+   "quote": "According to Brian Dunning, Valentich's radio conversation was similar to the dialogue from a scene in the film Close Encounters of the Third Kind, which was released less than a year before the disappearance, and was popular among pilots, young people, and UFO fans."
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "Valentich may have been imitating the scene for fun, flew in a circular pattern, became disoriented and crashed into the water",
+   "quote": "Dunning speculated that it is possible that Valentich was trying to imitate the scene for fun, and deliberately made his aircraft fly in a circular pattern in order to \"give the radar guys something to see\", but accidentally became disoriented and crashed into the water."
+  },
+  {
+   "s": "dunning",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "Dunning speculated that it is possible that Valentich was trying to imitate the scene for fun, and deliberately made his aircraft fly in a circular pattern in order to \"give the radar guys something to see\", but accidentally became disoriented and crashed into the water."
+  },
+  {
+   "s": "mcgaha",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "A 2013 review of the radio transcripts and other data by astronomer and retired United States Air Force pilot James McGaha and author Joe Nickell proposes that the inexperienced Valentich was deceived by the illusion of a tilted horizon"
+  },
+  {
+   "s": "mcgaha",
+   "p": "occupation",
+   "v": "astronomer and retired United States Air Force pilot",
+   "quote": "A 2013 review of the radio transcripts and other data by astronomer and retired United States Air Force pilot James McGaha and author Joe Nickell proposes that the inexperienced Valentich was deceived by the illusion of a tilted horizon"
+  },
+  {
+   "s": "mcgaha",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "A 2013 review of the radio transcripts and other data by astronomer and retired United States Air Force pilot James McGaha and author Joe Nickell proposes that the inexperienced Valentich was deceived by the illusion of a tilted horizon"
+  },
+  {
+   "s": "mcgaha",
+   "p": "colleague_of",
+   "o": "nickell",
+   "quote": "A 2013 review of the radio transcripts and other data by astronomer and retired United States Air Force pilot James McGaha and author Joe Nickell proposes that the inexperienced Valentich was deceived by the illusion of a tilted horizon"
+  },
+  {
+   "s": "mcgaha",
+   "p": "review_year",
+   "v": "2013",
+   "quote": "A 2013 review of the radio transcripts and other data by astronomer and retired United States Air Force pilot James McGaha and author Joe Nickell proposes that the inexperienced Valentich was deceived by the illusion of a tilted horizon"
+  },
+  {
+   "s": "mcgaha",
+   "p": "proposed",
+   "o": "x_spiral",
+   "quote": "inadvertently put his aircraft into a downward, so-called \"graveyard spiral\" which he initially mistook for simple orbiting of the aircraft"
+  },
+  {
+   "s": "mcgaha",
+   "p": "proposed",
+   "o": "x_planet",
+   "quote": "McGaha and Nickell also propose that the apparently stationary, overhead lights that Valentich reported were probably the planets Venus, Mars and Mercury, along with the bright star Antares, which would have behaved in a way consistent with Valentich's description."
+  },
+  {
+   "s": "mcgaha",
+   "p": "proposed",
+   "o": "x_star",
+   "quote": "McGaha and Nickell also propose that the apparently stationary, overhead lights that Valentich reported were probably the planets Venus, Mars and Mercury, along with the bright star Antares, which would have behaved in a way consistent with Valentich's description."
+  },
+  {
+   "s": "mcgaha",
+   "p": "statement",
+   "v": "G-forces of a tightening spiral would decrease fuel flow, resulting in the rough idling reported by Valentich",
+   "quote": "According to the authors, the G-forces of a tightening spiral would decrease fuel flow, resulting in the \"rough idling\" reported by Valentich."
+  },
+  {
+   "s": "nickell",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "A 2013 review of the radio transcripts and other data by astronomer and retired United States Air Force pilot James McGaha and author Joe Nickell proposes that the inexperienced Valentich was deceived by the illusion of a tilted horizon"
+  },
+  {
+   "s": "nickell",
+   "p": "occupation",
+   "v": "author",
+   "quote": "A 2013 review of the radio transcripts and other data by astronomer and retired United States Air Force pilot James McGaha and author Joe Nickell proposes that the inexperienced Valentich was deceived by the illusion of a tilted horizon"
+  },
+  {
+   "s": "nickell",
+   "p": "review_year",
+   "v": "2013",
+   "quote": "A 2013 review of the radio transcripts and other data by astronomer and retired United States Air Force pilot James McGaha and author Joe Nickell proposes that the inexperienced Valentich was deceived by the illusion of a tilted horizon"
+  },
+  {
+   "s": "nickell",
+   "p": "proposed",
+   "o": "x_spiral",
+   "quote": "inadvertently put his aircraft into a downward, so-called \"graveyard spiral\" which he initially mistook for simple orbiting of the aircraft"
+  },
+  {
+   "s": "nickell",
+   "p": "proposed",
+   "o": "x_planet",
+   "quote": "McGaha and Nickell also propose that the apparently stationary, overhead lights that Valentich reported were probably the planets Venus, Mars and Mercury, along with the bright star Antares, which would have behaved in a way consistent with Valentich's description."
+  },
+  {
+   "s": "nickell",
+   "p": "proposed",
+   "o": "x_star",
+   "quote": "McGaha and Nickell also propose that the apparently stationary, overhead lights that Valentich reported were probably the planets Venus, Mars and Mercury, along with the bright star Antares, which would have behaved in a way consistent with Valentich's description."
+  },
+  {
+   "s": "manifold",
+   "p": "witness",
+   "o": "case",
+   "quote": "The group Ground Saucer Watch, based in Phoenix, Arizona, United States, claims that photos taken by plumber Roy Manifold on the day of Valentich's disappearance show a fast-moving object exiting the water near Cape Otway Lighthouse."
+  },
+  {
+   "s": "manifold",
+   "p": "occupation",
+   "v": "plumber",
+   "quote": "The group Ground Saucer Watch, based in Phoenix, Arizona, United States, claims that photos taken by plumber Roy Manifold on the day of Valentich's disappearance show a fast-moving object exiting the water near Cape Otway Lighthouse."
+  },
+  {
+   "s": "manifold",
+   "p": "authored",
+   "o": "photos",
+   "quote": "The group Ground Saucer Watch, based in Phoenix, Arizona, United States, claims that photos taken by plumber Roy Manifold on the day of Valentich's disappearance show a fast-moving object exiting the water near Cape Otway Lighthouse."
+  },
+  {
+   "s": "clark",
+   "p": "commentator",
+   "o": "case",
+   "quote": "According to UFO writer Jerome Clark, Ground Saucer Watch argued that they showed \"a bona fide unknown flying object, of moderate dimensions, apparently surrounded by a cloud-like vapour/exhaust residue\", although the pictures were not clear enough to identify the object."
+  },
+  {
+   "s": "clark",
+   "p": "occupation",
+   "v": "UFO writer",
+   "quote": "According to UFO writer Jerome Clark, Ground Saucer Watch argued that they showed \"a bona fide unknown flying object, of moderate dimensions, apparently surrounded by a cloud-like vapour/exhaust residue\", although the pictures were not clear enough to identify the object."
+  },
+  {
+   "s": "liles",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Snopes editor Jordan Liles suggested that the object was most likely an “out-of-focus fly” or a \"bird passing by\"."
+  },
+  {
+   "s": "liles",
+   "p": "occupation",
+   "v": "Snopes editor",
+   "quote": "Snopes editor Jordan Liles suggested that the object was most likely an “out-of-focus fly” or a \"bird passing by\"."
+  },
+  {
+   "s": "liles",
+   "p": "employed_by",
+   "o": "snopes",
+   "quote": "Snopes editor Jordan Liles suggested that the object was most likely an “out-of-focus fly” or a \"bird passing by\"."
+  },
+  {
+   "s": "liles",
+   "p": "proposed",
+   "o": "x_bird",
+   "quote": "Snopes editor Jordan Liles suggested that the object was most likely an “out-of-focus fly” or a \"bird passing by\"."
+  },
+  {
+   "s": "liles",
+   "p": "statement",
+   "v": "the object was most likely an out-of-focus fly or a bird passing by",
+   "quote": "Snopes editor Jordan Liles suggested that the object was most likely an “out-of-focus fly” or a \"bird passing by\"."
+  },
+  {
+   "s": "moncla",
+   "p": "compared_to",
+   "o": "case",
+   "quote": "Felix Moncla –  a US Air Force pilot who disappeared in similar circumstances"
+  },
+  {
+   "s": "moncla",
+   "p": "occupation",
+   "v": "US Air Force pilot",
+   "quote": "Felix Moncla –  a US Air Force pilot who disappeared in similar circumstances"
+  },
+  {
+   "s": "moncla",
+   "p": "fate",
+   "v": "disappeared in similar circumstances",
+   "quote": "Felix Moncla –  a US Air Force pilot who disappeared in similar circumstances"
+  },
+  {
+   "s": "moncla",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "Felix Moncla –  a US Air Force pilot who disappeared in similar circumstances"
+  },
+  {
+   "s": "mfs",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Valentich radioed Melbourne Flight Service at 7:06 pm to report that an unidentified aircraft was following him at 4,500 feet (1,400 m)."
+  },
+  {
+   "s": "mfs",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On the evening of Saturday 21 October 1978, twenty-year-old Valentich informed Melbourne air traffic control that he was being accompanied by an aircraft about 1,000 feet (300 m) above him and that his engine had begun running roughly, before finally reporting: \"It's not an aircraft\"."
+  },
+  {
+   "s": "mfs",
+   "p": "located_in",
+   "o": "melbourne",
+   "quote": "Valentich radioed Melbourne Flight Service at 7:06 pm to report that an unidentified aircraft was following him at 4,500 feet (1,400 m)."
+  },
+  {
+   "s": "mfs",
+   "p": "statement",
+   "v": "no known traffic at that level",
+   "quote": "He was told that there was no known traffic at that level."
+  },
+  {
+   "s": "dot",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "An investigation into Valentich's disappearance by the Australian Department of Transport was unable to determine the cause, but it was \"presumed fatal\" for Valentich."
+  },
+  {
+   "s": "dot",
+   "p": "position",
+   "v": "sceptical that a UFO was behind Valentich's disappearance",
+   "quote": "There were belated reports of a UFO sighting in Australia on the night of the disappearance; however, the Department of Transport was sceptical that a UFO was behind Valentich's disappearance"
+  },
+  {
+   "s": "dot",
+   "p": "finding",
+   "v": "unable to determine the cause; presumed fatal",
+   "quote": "An investigation into Valentich's disappearance by the Australian Department of Transport was unable to determine the cause, but it was \"presumed fatal\" for Valentich."
+  },
+  {
+   "s": "dot",
+   "p": "proposed",
+   "o": "x_misp",
+   "quote": "some of their officials speculated that \"Valentich became disorientated and saw his own lights reflected in the water, or lights from a nearby island, while flying upside down\""
+  },
+  {
+   "s": "dot",
+   "p": "authored",
+   "o": "dotreport",
+   "quote": "Department of Transport Aircraft Investigation Summary Report p. 8"
+  },
+  {
+   "s": "wadot",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Some Western Australia Department of Transport officials speculated that \"Valentich became disorientated and saw his own lights reflected in the water, or lights from a nearby island, while flying upside down\"."
+  },
+  {
+   "s": "wadot",
+   "p": "proposed",
+   "o": "x_misp",
+   "quote": "Some Western Australia Department of Transport officials speculated that \"Valentich became disorientated and saw his own lights reflected in the water, or lights from a nearby island, while flying upside down\"."
+  },
+  {
+   "s": "raaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "A sea and air search was undertaken that included oceangoing ship traffic, an RAAF Lockheed P-3 Orion aircraft, plus eight civilian aircraft."
+  },
+  {
+   "s": "raaf",
+   "p": "role",
+   "v": "provided a Lockheed P-3 Orion aircraft for the search",
+   "quote": "A sea and air search was undertaken that included oceangoing ship traffic, an RAAF Lockheed P-3 Orion aircraft, plus eight civilian aircraft."
+  },
+  {
+   "s": "raaf",
+   "p": "role",
+   "v": "twice rejected Valentich's applications to enlist",
+   "quote": "He had twice applied to enlist in the Royal Australian Air Force (RAAF), but had been rejected because of inadequate educational qualifications."
+  },
+  {
+   "s": "atc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "He was a member of the RAAF Air Training Corps, determined to have a career in aviation."
+  },
+  {
+   "s": "atc",
+   "p": "part_of",
+   "o": "raaf",
+   "quote": "He was a member of the RAAF Air Training Corps, determined to have a career in aviation."
+  },
+  {
+   "s": "basi",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "In July 1983, the Bureau of Air Safety Investigation asked the Royal Australian Navy Research Laboratory (RANRL) about the likelihood that the cowl flap might have \"travelled\" to its ultimate position from the region where the aircraft had disappeared."
+  },
+  {
+   "s": "basi",
+   "p": "statement",
+   "v": "the part has been identified as having come from a Cessna 182 aircraft between a certain range of serial numbers",
+   "quote": "The bureau noted that \"the part has been identified as having come from a Cessna 182 aircraft between a certain range of serial numbers\", which included Valentich's aircraft."
+  },
+  {
+   "s": "ranrl",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In July 1983, the Bureau of Air Safety Investigation asked the Royal Australian Navy Research Laboratory (RANRL) about the likelihood that the cowl flap might have \"travelled\" to its ultimate position from the region where the aircraft had disappeared."
+  },
+  {
+   "s": "ranrl",
+   "p": "role",
+   "v": "asked about the likelihood that the cowl flap travelled from the region where the aircraft disappeared",
+   "quote": "In July 1983, the Bureau of Air Safety Investigation asked the Royal Australian Navy Research Laboratory (RANRL) about the likelihood that the cowl flap might have \"travelled\" to its ultimate position from the region where the aircraft had disappeared."
+  },
+  {
+   "s": "melbpolice",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Melbourne police received reports of a light aircraft making a mysterious landing not far from Cape Otway at the same time as Valentich's disappearance"
+  },
+  {
+   "s": "melbpolice",
+   "p": "located_in",
+   "o": "melbourne",
+   "quote": "Melbourne police received reports of a light aircraft making a mysterious landing not far from Cape Otway at the same time as Valentich's disappearance"
+  },
+  {
+   "s": "melbpolice",
+   "p": "reports_received",
+   "v": "a light aircraft making a mysterious landing not far from Cape Otway",
+   "quote": "Melbourne police received reports of a light aircraft making a mysterious landing not far from Cape Otway at the same time as Valentich's disappearance"
+  },
+  {
+   "s": "stromlo",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "However, the Mount Stromlo Observatory noted that there was a meteorite stream that night, with ten to fifteen sightings per hour."
+  },
+  {
+   "s": "stromlo",
+   "p": "proposed",
+   "o": "x_meteor",
+   "quote": "However, the Mount Stromlo Observatory noted that there was a meteorite stream that night, with ten to fifteen sightings per hour."
+  },
+  {
+   "s": "stromlo",
+   "p": "statement",
+   "v": "there was a meteorite stream that night, with ten to fifteen sightings per hour",
+   "quote": "However, the Mount Stromlo Observatory noted that there was a meteorite stream that night, with ten to fifteen sightings per hour."
+  },
+  {
+   "s": "gsw",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The group Ground Saucer Watch, based in Phoenix, Arizona, United States, claims that photos taken by plumber Roy Manifold on the day of Valentich's disappearance show a fast-moving object exiting the water near Cape Otway Lighthouse."
+  },
+  {
+   "s": "gsw",
+   "p": "located_in",
+   "o": "phoenix",
+   "quote": "The group Ground Saucer Watch, based in Phoenix, Arizona, United States, claims that photos taken by plumber Roy Manifold on the day of Valentich's disappearance show a fast-moving object exiting the water near Cape Otway Lighthouse."
+  },
+  {
+   "s": "gsw",
+   "p": "organization_type",
+   "v": "group",
+   "quote": "The group Ground Saucer Watch, based in Phoenix, Arizona, United States, claims that photos taken by plumber Roy Manifold on the day of Valentich's disappearance show a fast-moving object exiting the water near Cape Otway Lighthouse."
+  },
+  {
+   "s": "gsw",
+   "p": "statement",
+   "v": "a bona fide unknown flying object, of moderate dimensions, apparently surrounded by a cloud-like vapour/exhaust residue",
+   "quote": "According to UFO writer Jerome Clark, Ground Saucer Watch argued that they showed \"a bona fide unknown flying object, of moderate dimensions, apparently surrounded by a cloud-like vapour/exhaust residue\", although the pictures were not clear enough to identify the object."
+  },
+  {
+   "s": "gsw",
+   "p": "described",
+   "o": "photoobj",
+   "quote": "According to UFO writer Jerome Clark, Ground Saucer Watch argued that they showed \"a bona fide unknown flying object, of moderate dimensions, apparently surrounded by a cloud-like vapour/exhaust residue\", although the pictures were not clear enough to identify the object."
+  },
+  {
+   "s": "snopes",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Snopes editor Jordan Liles suggested that the object was most likely an “out-of-focus fly” or a \"bird passing by\"."
+  },
+  {
+   "s": "bass",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Frederick Valentich (, VAL-ən-tich) was an Australian pilot who disappeared while on a 125-nautical-mile (232 km) flight in a Cessna 182L light aircraft, registered VH-DSJ, over Bass Strait."
+  },
+  {
+   "s": "australia",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "There were belated reports of a UFO sighting in Australia on the night of the disappearance; however, the Department of Transport was sceptical that a UFO was behind Valentich's disappearance"
+  },
+  {
+   "s": "melbourne",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On the evening of Saturday 21 October 1978, twenty-year-old Valentich informed Melbourne air traffic control that he was being accompanied by an aircraft about 1,000 feet (300 m) above him and that his engine had begun running roughly, before finally reporting: \"It's not an aircraft\"."
+  },
+  {
+   "s": "sydney",
+   "p": "related_place",
+   "o": "case",
+   "quote": "He had been involved in flying incidents, for example, straying into a controlled zone in Sydney, for which he received a warning, and twice deliberately flying into a cloud, for which prosecution was being considered."
+  },
+  {
+   "s": "kingisland",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The destination of Valentich's final flight was King Island, but his motivation for the flight is unknown."
+  },
+  {
+   "s": "kingisland",
+   "p": "role",
+   "v": "destination of Valentich's final flight",
+   "quote": "The destination of Valentich's final flight was King Island, but his motivation for the flight is unknown."
+  },
+  {
+   "s": "kia",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Valentich had also failed to inform King Island Airport of his intention to land there, going against \"standard procedure\"."
+  },
+  {
+   "s": "kia",
+   "p": "located_in",
+   "o": "kingisland",
+   "quote": "Valentich had also failed to inform King Island Airport of his intention to land there, going against \"standard procedure\"."
+  },
+  {
+   "s": "flinders",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Five years after Valentich's aircraft went missing, an engine cowl flap was found washed ashore on Flinders Island."
+  },
+  {
+   "s": "flinders",
+   "p": "role",
+   "v": "engine cowl flap found washed ashore there five years later",
+   "quote": "Five years after Valentich's aircraft went missing, an engine cowl flap was found washed ashore on Flinders Island."
+  },
+  {
+   "s": "otway",
+   "p": "near",
+   "o": "case",
+   "quote": "despite ideal conditions, at no time was the aircraft plotted on radar, casting doubts as to whether it was ever near Cape Otway"
+  },
+  {
+   "s": "otwaylh",
+   "p": "near",
+   "o": "case",
+   "quote": "The group Ground Saucer Watch, based in Phoenix, Arizona, United States, claims that photos taken by plumber Roy Manifold on the day of Valentich's disappearance show a fast-moving object exiting the water near Cape Otway Lighthouse."
+  },
+  {
+   "s": "otwaylh",
+   "p": "located_in",
+   "o": "otway",
+   "quote": "The group Ground Saucer Watch, based in Phoenix, Arizona, United States, claims that photos taken by plumber Roy Manifold on the day of Valentich's disappearance show a fast-moving object exiting the water near Cape Otway Lighthouse."
+  },
+  {
+   "s": "phoenix",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The group Ground Saucer Watch, based in Phoenix, Arizona, United States, claims that photos taken by plumber Roy Manifold on the day of Valentich's disappearance show a fast-moving object exiting the water near Cape Otway Lighthouse."
+  },
+  {
+   "s": "phoenix",
+   "p": "located_in",
+   "o": "us",
+   "quote": "The group Ground Saucer Watch, based in Phoenix, Arizona, United States, claims that photos taken by plumber Roy Manifold on the day of Valentich's disappearance show a fast-moving object exiting the water near Cape Otway Lighthouse."
+  },
+  {
+   "s": "us",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The group Ground Saucer Watch, based in Phoenix, Arizona, United States, claims that photos taken by plumber Roy Manifold on the day of Valentich's disappearance show a fast-moving object exiting the water near Cape Otway Lighthouse."
+  },
+  {
+   "s": "cessna",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "Frederick Valentich (, VAL-ən-tich) was an Australian pilot who disappeared while on a 125-nautical-mile (232 km) flight in a Cessna 182L light aircraft, registered VH-DSJ, over Bass Strait."
+  },
+  {
+   "s": "cessna",
+   "p": "model",
+   "v": "Cessna 182L",
+   "quote": "Frederick Valentich (, VAL-ən-tich) was an Australian pilot who disappeared while on a 125-nautical-mile (232 km) flight in a Cessna 182L light aircraft, registered VH-DSJ, over Bass Strait."
+  },
+  {
+   "s": "cessna",
+   "p": "registration",
+   "v": "VH-DSJ",
+   "quote": "Frederick Valentich (, VAL-ən-tich) was an Australian pilot who disappeared while on a 125-nautical-mile (232 km) flight in a Cessna 182L light aircraft, registered VH-DSJ, over Bass Strait."
+  },
+  {
+   "s": "cessna",
+   "p": "vehicle_type",
+   "v": "light aircraft",
+   "quote": "Frederick Valentich (, VAL-ən-tich) was an Australian pilot who disappeared while on a 125-nautical-mile (232 km) flight in a Cessna 182L light aircraft, registered VH-DSJ, over Bass Strait."
+  },
+  {
+   "s": "cessna",
+   "p": "engine_count",
+   "v": "single-engine",
+   "quote": "even taking into account a trip of between 30 and 45 minutes to Cape Otway, the single-engine Cessna 182 still had enough fuel to fly 800 km (500 mi)"
+  },
+  {
+   "s": "cessna",
+   "p": "fuel_range",
+   "v": "800 km (500 mi)",
+   "quote": "even taking into account a trip of between 30 and 45 minutes to Cape Otway, the single-engine Cessna 182 still had enough fuel to fly 800 km (500 mi)"
+  },
+  {
+   "s": "orion",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "A sea and air search was undertaken that included oceangoing ship traffic, an RAAF Lockheed P-3 Orion aircraft, plus eight civilian aircraft."
+  },
+  {
+   "s": "raaf",
+   "p": "owned",
+   "o": "orion",
+   "quote": "A sea and air search was undertaken that included oceangoing ship traffic, an RAAF Lockheed P-3 Orion aircraft, plus eight civilian aircraft."
+  },
+  {
+   "s": "orion",
+   "p": "role",
+   "v": "search aircraft",
+   "quote": "A sea and air search was undertaken that included oceangoing ship traffic, an RAAF Lockheed P-3 Orion aircraft, plus eight civilian aircraft."
+  },
+  {
+   "s": "obj",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Valentich radioed Melbourne Flight Service at 7:06 pm to report that an unidentified aircraft was following him at 4,500 feet (1,400 m)."
+  },
+  {
+   "s": "obj",
+   "p": "altitude",
+   "v": "4,500 feet (1,400 m)",
+   "quote": "Valentich radioed Melbourne Flight Service at 7:06 pm to report that an unidentified aircraft was following him at 4,500 feet (1,400 m)."
+  },
+  {
+   "s": "obj",
+   "p": "distance",
+   "v": "about 1,000 feet (300 m) above him",
+   "quote": "On the evening of Saturday 21 October 1978, twenty-year-old Valentich informed Melbourne air traffic control that he was being accompanied by an aircraft about 1,000 feet (300 m) above him and that his engine had begun running roughly, before finally reporting: \"It's not an aircraft\"."
+  },
+  {
+   "s": "obj",
+   "p": "distance",
+   "v": "passed about 1,000 feet (300 m) overhead",
+   "quote": "He was unable to confirm its type, but said that it had passed about 1,000 feet (300 m) overhead and was moving at high speed."
+  },
+  {
+   "s": "obj",
+   "p": "behaviour",
+   "v": "following him",
+   "quote": "Valentich radioed Melbourne Flight Service at 7:06 pm to report that an unidentified aircraft was following him at 4,500 feet (1,400 m)."
+  },
+  {
+   "s": "obj",
+   "p": "size",
+   "v": "large",
+   "quote": "Valentich said that he could see a large unknown aircraft which appeared to be illuminated by four bright landing lights."
+  },
+  {
+   "s": "obj",
+   "p": "lights",
+   "v": "four bright landing lights",
+   "quote": "Valentich said that he could see a large unknown aircraft which appeared to be illuminated by four bright landing lights."
+  },
+  {
+   "s": "obj",
+   "p": "light_count",
+   "v": "4",
+   "quote": "Valentich said that he could see a large unknown aircraft which appeared to be illuminated by four bright landing lights."
+  },
+  {
+   "s": "obj",
+   "p": "speed",
+   "v": "high speed",
+   "quote": "He was unable to confirm its type, but said that it had passed about 1,000 feet (300 m) overhead and was moving at high speed."
+  },
+  {
+   "s": "obj",
+   "p": "type",
+   "v": "unable to confirm its type",
+   "quote": "He was unable to confirm its type, but said that it had passed about 1,000 feet (300 m) overhead and was moving at high speed."
+  },
+  {
+   "s": "obj",
+   "p": "direction",
+   "v": "approaching from the east",
+   "quote": "Valentich then reported that the aircraft was approaching him from the east and said that the other pilot might be purposely toying with him."
+  },
+  {
+   "s": "obj",
+   "p": "movement",
+   "v": "orbiting above him",
+   "quote": "Valentich said that the aircraft was \"orbiting\" above him and that it had a shiny metal surface and a green light on it."
+  },
+  {
+   "s": "obj",
+   "p": "surface",
+   "v": "shiny metal surface",
+   "quote": "Valentich said that the aircraft was \"orbiting\" above him and that it had a shiny metal surface and a green light on it."
+  },
+  {
+   "s": "obj",
+   "p": "color",
+   "v": "green light",
+   "quote": "Valentich said that the aircraft was \"orbiting\" above him and that it had a shiny metal surface and a green light on it."
+  },
+  {
+   "s": "obj",
+   "p": "statement",
+   "v": "It's not an aircraft",
+   "quote": "Asked to identify the aircraft, Valentich radioed: \"It's not an aircraft.\""
+  },
+  {
+   "s": "photoobj",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "The group Ground Saucer Watch, based in Phoenix, Arizona, United States, claims that photos taken by plumber Roy Manifold on the day of Valentich's disappearance show a fast-moving object exiting the water near Cape Otway Lighthouse."
+  },
+  {
+   "s": "photoobj",
+   "p": "description",
+   "v": "fast-moving object exiting the water",
+   "quote": "The group Ground Saucer Watch, based in Phoenix, Arizona, United States, claims that photos taken by plumber Roy Manifold on the day of Valentich's disappearance show a fast-moving object exiting the water near Cape Otway Lighthouse."
+  },
+  {
+   "s": "photoobj",
+   "p": "size",
+   "v": "moderate dimensions",
+   "quote": "According to UFO writer Jerome Clark, Ground Saucer Watch argued that they showed \"a bona fide unknown flying object, of moderate dimensions, apparently surrounded by a cloud-like vapour/exhaust residue\", although the pictures were not clear enough to identify the object."
+  },
+  {
+   "s": "photoobj",
+   "p": "description",
+   "v": "apparently surrounded by a cloud-like vapour/exhaust residue",
+   "quote": "According to UFO writer Jerome Clark, Ground Saucer Watch argued that they showed \"a bona fide unknown flying object, of moderate dimensions, apparently surrounded by a cloud-like vapour/exhaust residue\", although the pictures were not clear enough to identify the object."
+  },
+  {
+   "s": "radio",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Ufologists believe these accounts are significant because of the \"green light\" mentioned in Valentich's radio transmissions."
+  },
+  {
+   "s": "radio",
+   "p": "content",
+   "v": "mentions a green light",
+   "quote": "Ufologists believe these accounts are significant because of the \"green light\" mentioned in Valentich's radio transmissions."
+  },
+  {
+   "s": "radio",
+   "p": "reviewed",
+   "v": "reviewed in 2013 by James McGaha and Joe Nickell",
+   "quote": "A 2013 review of the radio transcripts and other data by astronomer and retired United States Air Force pilot James McGaha and author Joe Nickell proposes that the inexperienced Valentich was deceived by the illusion of a tilted horizon"
+  },
+  {
+   "s": "photos",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The group Ground Saucer Watch, based in Phoenix, Arizona, United States, claims that photos taken by plumber Roy Manifold on the day of Valentich's disappearance show a fast-moving object exiting the water near Cape Otway Lighthouse."
+  },
+  {
+   "s": "photos",
+   "p": "date_taken",
+   "v": "the day of Valentich's disappearance",
+   "quote": "The group Ground Saucer Watch, based in Phoenix, Arizona, United States, claims that photos taken by plumber Roy Manifold on the day of Valentich's disappearance show a fast-moving object exiting the water near Cape Otway Lighthouse."
+  },
+  {
+   "s": "photos",
+   "p": "quality",
+   "v": "not clear enough to identify the object",
+   "quote": "According to UFO writer Jerome Clark, Ground Saucer Watch argued that they showed \"a bona fide unknown flying object, of moderate dimensions, apparently surrounded by a cloud-like vapour/exhaust residue\", although the pictures were not clear enough to identify the object."
+  },
+  {
+   "s": "photos",
+   "p": "location",
+   "v": "near Cape Otway Lighthouse",
+   "quote": "The group Ground Saucer Watch, based in Phoenix, Arizona, United States, claims that photos taken by plumber Roy Manifold on the day of Valentich's disappearance show a fast-moving object exiting the water near Cape Otway Lighthouse."
+  },
+  {
+   "s": "dotreport",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Department of Transport Aircraft Investigation Summary Report p. 8"
+  },
+  {
+   "s": "ce3k",
+   "p": "compared_to",
+   "o": "case",
+   "quote": "According to Brian Dunning, Valentich's radio conversation was similar to the dialogue from a scene in the film Close Encounters of the Third Kind, which was released less than a year before the disappearance, and was popular among pilots, young people, and UFO fans."
+  },
+  {
+   "s": "ce3k",
+   "p": "work_type",
+   "v": "film",
+   "quote": "According to Brian Dunning, Valentich's radio conversation was similar to the dialogue from a scene in the film Close Encounters of the Third Kind, which was released less than a year before the disappearance, and was popular among pilots, young people, and UFO fans."
+  },
+  {
+   "s": "ce3k",
+   "p": "release",
+   "v": "released less than a year before the disappearance",
+   "quote": "According to Brian Dunning, Valentich's radio conversation was similar to the dialogue from a scene in the film Close Encounters of the Third Kind, which was released less than a year before the disappearance, and was popular among pilots, young people, and UFO fans."
+  },
+  {
+   "s": "ce3k",
+   "p": "popularity",
+   "v": "popular among pilots, young people, and UFO fans",
+   "quote": "According to Brian Dunning, Valentich's radio conversation was similar to the dialogue from a scene in the film Close Encounters of the Third Kind, which was released less than a year before the disappearance, and was popular among pilots, young people, and UFO fans."
+  },
+  {
+   "s": "ce3k",
+   "p": "mentioned_by",
+   "o": "dunning",
+   "quote": "According to Brian Dunning, Valentich's radio conversation was similar to the dialogue from a scene in the film Close Encounters of the Third Kind, which was released less than a year before the disappearance, and was popular among pilots, young people, and UFO fans."
+  },
+  {
+   "s": "lastflight",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Last Flight - The Valentich Disappearance, an ABC Listen episode featuring people who knew Frederick Valentich."
+  },
+  {
+   "s": "lastflight",
+   "p": "work_type",
+   "v": "ABC Listen episode",
+   "quote": "Last Flight - The Valentich Disappearance, an ABC Listen episode featuring people who knew Frederick Valentich."
+  },
+  {
+   "s": "lastflight",
+   "p": "content",
+   "v": "features people who knew Frederick Valentich",
+   "quote": "Last Flight - The Valentich Disappearance, an ABC Listen episode featuring people who knew Frederick Valentich."
+  },
+  {
+   "s": "westall",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Westall UFO"
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Frederick Valentich (, VAL-ən-tich) was an Australian pilot who disappeared while on a 125-nautical-mile (232 km) flight in a Cessna 182L light aircraft, registered VH-DSJ, over Bass Strait."
+  },
+  {
+   "s": "f_death",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Frederick Valentich (, VAL-ən-tich) was an Australian pilot who disappeared while on a 125-nautical-mile (232 km) flight in a Cessna 182L light aircraft, registered VH-DSJ, over Bass Strait."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "An investigation into Valentich's disappearance by the Australian Department of Transport was unable to determine the cause, but it was \"presumed fatal\" for Valentich."
+  },
+  {
+   "s": "f_photo",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The group Ground Saucer Watch, based in Phoenix, Arizona, United States, claims that photos taken by plumber Roy Manifold on the day of Valentich's disappearance show a fast-moving object exiting the water near Cape Otway Lighthouse."
+  },
+  {
+   "s": "f_water",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The group Ground Saucer Watch, based in Phoenix, Arizona, United States, claims that photos taken by plumber Roy Manifold on the day of Valentich's disappearance show a fast-moving object exiting the water near Cape Otway Lighthouse."
+  },
+  {
+   "s": "f_water",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Frederick Valentich (, VAL-ən-tich) was an Australian pilot who disappeared while on a 125-nautical-mile (232 km) flight in a Cessna 182L light aircraft, registered VH-DSJ, over Bass Strait."
+  },
+  {
+   "s": "f_speed",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "He was unable to confirm its type, but said that it had passed about 1,000 feet (300 m) overhead and was moving at high speed."
+  },
+  {
+   "s": "f_sound",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "His transmission was then interrupted by unidentified noise described as \"metallic, scraping sounds\" before all contact was lost."
+  },
+  {
+   "s": "f_abd",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Ufologists have claimed that a UFO either destroyed Valentich's aircraft or abducted him, saying that some individuals reported seeing \"an erratically moving green light in the sky\" and that he was \"in a steep dive at the time\"."
+  },
+  {
+   "s": "f_hoax",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "It has also been proposed that Valentich staged his own disappearance"
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Ufologists have claimed that a UFO either destroyed Valentich's aircraft or abducted him, saying that some individuals reported seeing \"an erratically moving green light in the sky\" and that he was \"in a steep dive at the time\"."
+  },
+  {
+   "s": "f_engine",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Valentich further reported that he was experiencing engine problems."
+  },
+  {
+   "s": "x_misp",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Some Western Australia Department of Transport officials speculated that \"Valentich became disorientated and saw his own lights reflected in the water, or lights from a nearby island, while flying upside down\"."
+  },
+  {
+   "s": "x_hoax",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "It has also been proposed that Valentich staged his own disappearance"
+  },
+  {
+   "s": "x_suicide",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "There has also been speculation that Valentich committed suicide."
+  },
+  {
+   "s": "x_spiral",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "inadvertently put his aircraft into a downward, so-called \"graveyard spiral\" which he initially mistook for simple orbiting of the aircraft"
+  },
+  {
+   "s": "x_planet",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "McGaha and Nickell also propose that the apparently stationary, overhead lights that Valentich reported were probably the planets Venus, Mars and Mercury, along with the bright star Antares, which would have behaved in a way consistent with Valentich's description."
+  },
+  {
+   "s": "x_planet",
+   "p": "planets",
+   "v": "Venus, Mars and Mercury",
+   "quote": "McGaha and Nickell also propose that the apparently stationary, overhead lights that Valentich reported were probably the planets Venus, Mars and Mercury, along with the bright star Antares, which would have behaved in a way consistent with Valentich's description."
+  },
+  {
+   "s": "x_star",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "McGaha and Nickell also propose that the apparently stationary, overhead lights that Valentich reported were probably the planets Venus, Mars and Mercury, along with the bright star Antares, which would have behaved in a way consistent with Valentich's description."
+  },
+  {
+   "s": "x_star",
+   "p": "star_name",
+   "v": "Antares",
+   "quote": "McGaha and Nickell also propose that the apparently stationary, overhead lights that Valentich reported were probably the planets Venus, Mars and Mercury, along with the bright star Antares, which would have behaved in a way consistent with Valentich's description."
+  },
+  {
+   "s": "x_meteor",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "However, the Mount Stromlo Observatory noted that there was a meteorite stream that night, with ten to fifteen sightings per hour."
+  },
+  {
+   "s": "x_bird",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Snopes editor Jordan Liles suggested that the object was most likely an “out-of-focus fly” or a \"bird passing by\"."
+  }
+ ]
+}

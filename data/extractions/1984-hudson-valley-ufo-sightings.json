@@ -1,0 +1,2020 @@
+{
+ "slug": "1984-hudson-valley-ufo-sightings",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "1984 Hudson Valley UFO Sightings",
+   "aliases": [
+    "The Westchester Boomerang",
+    "Hudson Valley UFO sightings",
+    "Hudson Valley UFO",
+    "Hudson Valley UFO phenomenon"
+   ],
+   "description": "Wave of UFO reports in 1983-1984 across the Hudson Valley of New York and western Connecticut, attributed by state police to light planes flying in formation."
+  },
+  {
+   "key": "ny",
+   "type": "place",
+   "name": "New York",
+   "description": "US state where most reports occurred"
+  },
+  {
+   "key": "ct",
+   "type": "place",
+   "name": "Connecticut",
+   "aliases": [
+    "Western Connecticut"
+   ],
+   "description": "US state; sightings extended into its western part"
+  },
+  {
+   "key": "hudson_valley",
+   "type": "place",
+   "name": "Hudson Valley",
+   "aliases": [
+    "Hudson Valley region"
+   ],
+   "description": "Region of the Northeastern United States where the reports occurred"
+  },
+  {
+   "key": "ne_us",
+   "type": "place",
+   "name": "Northeastern United States",
+   "description": "Region containing the Hudson Valley"
+  },
+  {
+   "key": "westchester",
+   "type": "place",
+   "name": "Westchester County, New York",
+   "aliases": [
+    "Westchester County",
+    "Westchester"
+   ],
+   "description": "County with reports"
+  },
+  {
+   "key": "dutchess",
+   "type": "place",
+   "name": "Dutchess County, New York",
+   "aliases": [
+    "Dutchess County"
+   ],
+   "description": "County with reports; location of Stormville Airport"
+  },
+  {
+   "key": "putnam",
+   "type": "place",
+   "name": "Putnam County, New York",
+   "aliases": [
+    "Putnam County"
+   ],
+   "description": "County with reports"
+  },
+  {
+   "key": "fairfield",
+   "type": "place",
+   "name": "Fairfield County, Connecticut",
+   "aliases": [
+    "Fairfield County"
+   ],
+   "description": "County with reports"
+  },
+  {
+   "key": "indian_point",
+   "type": "place",
+   "name": "Indian Point Nuclear Power Plant",
+   "aliases": [
+    "Indian Point",
+    "Indian Point power plant"
+   ],
+   "description": "Nuclear power plant whose guards reportedly saw a UFO hovering overhead in 1984"
+  },
+  {
+   "key": "camp_smith",
+   "type": "place",
+   "name": "Camp Smith",
+   "description": "Installation that Indian Point guards reportedly summoned, per Imbrogno"
+  },
+  {
+   "key": "stormville",
+   "type": "place",
+   "name": "Stormville Airport",
+   "description": "Small airport in Dutchess County from which the formation-flying light planes operated"
+  },
+  {
+   "key": "brewster",
+   "type": "place",
+   "name": "Brewster, New York",
+   "aliases": [
+    "Brewster"
+   ],
+   "description": "Town where a resident videotaped the lights and where ufologists held a conference"
+  },
+  {
+   "key": "i84",
+   "type": "place",
+   "name": "Interstate 84",
+   "description": "Highway on which William A. Pollard was driving when he saw a hovering object"
+  },
+  {
+   "key": "mahopac",
+   "type": "place",
+   "name": "Mahopac, New York",
+   "aliases": [
+    "Mahopac"
+   ],
+   "description": "Home town of witness Irene Lunn"
+  },
+  {
+   "key": "yorktown",
+   "type": "place",
+   "name": "Yorktown, New York",
+   "aliases": [
+    "Yorktown"
+   ],
+   "description": "Location of the CPI Photo Finish shop"
+  },
+  {
+   "key": "nysp",
+   "type": "organization",
+   "name": "New York State Police",
+   "aliases": [
+    "State police",
+    "state police"
+   ],
+   "description": "State police force that attributed the sightings to light planes"
+  },
+  {
+   "key": "troopk",
+   "type": "organization",
+   "name": "New York State Police Troop K",
+   "aliases": [
+    "Troop K"
+   ],
+   "description": "State police troop whose officer followed the lights to Stormville Airport"
+  },
+  {
+   "key": "nyt",
+   "type": "organization",
+   "name": "The New York Times",
+   "aliases": [
+    "New York Times"
+   ],
+   "description": "Newspaper that reported witness descriptions"
+  },
+  {
+   "key": "cufos",
+   "type": "organization",
+   "name": "Center for UFO Studies",
+   "description": "UFO research group with which Philip Imbrogno was affiliated"
+  },
+  {
+   "key": "journal_news",
+   "type": "organization",
+   "name": "The Journal News",
+   "description": "Newspaper to which Imbrogno described the Indian Point incident"
+  },
+  {
+   "key": "nypa",
+   "type": "organization",
+   "name": "New York Power Authority",
+   "aliases": [
+    "NYPA",
+    "power authority"
+   ],
+   "description": "Power authority whose spokesman attributed the sightings to Cessna 152s"
+  },
+  {
+   "key": "nrc",
+   "type": "organization",
+   "name": "Nuclear Regulatory Commission",
+   "aliases": [
+    "NRC"
+   ],
+   "description": "US nuclear regulator that received a FOIA request about the Indian Point incident"
+  },
+  {
+   "key": "faa",
+   "type": "organization",
+   "name": "Federal Aviation Administration",
+   "aliases": [
+    "FAA"
+   ],
+   "description": "US aviation regulator whose Eastern region deputy director commented on formation flying"
+  },
+  {
+   "key": "pough",
+   "type": "organization",
+   "name": "Poughkeepsie Journal",
+   "description": "Newspaper that interviewed one of the pilots in February 1984"
+  },
+  {
+   "key": "discover",
+   "type": "organization",
+   "name": "Discover Magazine",
+   "aliases": [
+    "Discover"
+   ],
+   "description": "Magazine that reported on the formation pilots in 1984"
+  },
+  {
+   "key": "caus",
+   "type": "organization",
+   "name": "Citizens Against UFO Secrecy",
+   "aliases": [
+    "CAUS"
+   ],
+   "description": "Peter Gersten's UFO organization, which collected reports and offered a reward"
+  },
+  {
+   "key": "cpi",
+   "type": "organization",
+   "name": "CPI Photo Finish",
+   "description": "Photo-finishing shop in Yorktown whose manager reported many UFO pictures"
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "aliases": [
+    "the Air Force",
+    "Air Force"
+   ],
+   "description": "US military branch that ran Project Blue Book"
+  },
+  {
+   "key": "bluebook",
+   "type": "program",
+   "name": "Project Blue Book",
+   "description": "Air Force UFO study for which J. Allen Hynek was scientific advisor"
+  },
+  {
+   "key": "ballantine",
+   "type": "organization",
+   "name": "Ballantine Books",
+   "description": "Publisher of Night Siege"
+  },
+  {
+   "key": "martians",
+   "type": "organization",
+   "name": "The Martians",
+   "aliases": [
+    "the Martians"
+   ],
+   "description": "Name the formation-flying pilots gave their own group"
+  },
+  {
+   "key": "imbrogno",
+   "type": "person",
+   "name": "Philip Imbrogno",
+   "aliases": [
+    "Phillip J. Imbrogno",
+    "Imbrogno"
+   ],
+   "description": "Center for UFO Studies ufologist and co-author of Night Siege"
+  },
+  {
+   "key": "branciforte",
+   "type": "person",
+   "name": "John Branciforte",
+   "aliases": [
+    "Branciforte"
+   ],
+   "description": "Power authority security coordinator who disputed Imbrogno's account"
+  },
+  {
+   "key": "spiro",
+   "type": "person",
+   "name": "Kenneth V. Spiro",
+   "aliases": [
+    "Sgt. Kenneth V. Spiro",
+    "Sergeant Spiro",
+    "Spiro"
+   ],
+   "description": "New York State Police Troop K sergeant who explained the lights as light planes"
+  },
+  {
+   "key": "patrick",
+   "type": "person",
+   "name": "Patrick",
+   "description": "Person identified only by this name who commented on aircraft using Indian Point as a landmark"
+  },
+  {
+   "key": "norris",
+   "type": "person",
+   "name": "Brian Norris",
+   "description": "Spokesman for the Nuclear Regulatory Commission"
+  },
+  {
+   "key": "pozzuoli",
+   "type": "person",
+   "name": "Bob Pozzuoli",
+   "aliases": [
+    "Pozzuoli"
+   ],
+   "description": "Brewster resident who videotaped a luminous phenomenon on July 24"
+  },
+  {
+   "key": "pollard",
+   "type": "person",
+   "name": "William A. Pollard",
+   "aliases": [
+    "Pollard"
+   ],
+   "description": "Driver on Interstate 84 who reported a hovering triangle with lights"
+  },
+  {
+   "key": "lunn",
+   "type": "person",
+   "name": "Irene Lunn",
+   "description": "Mahopac resident who reported a silent object over a pond on August 20, 1984"
+  },
+  {
+   "key": "hartnett",
+   "type": "person",
+   "name": "Timothy L. Hartnett",
+   "description": "Deputy director of the Eastern region of the FAA"
+  },
+  {
+   "key": "dunning",
+   "type": "person",
+   "name": "Brian Dunning",
+   "aliases": [
+    "Dunning"
+   ],
+   "description": "Skeptical writer who attributed the sightings to formation-flying pilots and perceptual error"
+  },
+  {
+   "key": "gersten",
+   "type": "person",
+   "name": "Peter Gersten",
+   "aliases": [
+    "Gersten"
+   ],
+   "description": "Ufologist heading Citizens Against UFO Secrecy"
+  },
+  {
+   "key": "hynek",
+   "type": "person",
+   "name": "J. Allen Hynek",
+   "aliases": [
+    "Hynek"
+   ],
+   "description": "Former scientific advisor to Project Blue Book and co-author of Night Siege"
+  },
+  {
+   "key": "pratt",
+   "type": "person",
+   "name": "Bob Pratt",
+   "aliases": [
+    "Pratt"
+   ],
+   "description": "Co-author of Night Siege"
+  },
+  {
+   "key": "miale",
+   "type": "person",
+   "name": "Joe Miale",
+   "description": "Film director of Revolt who recalled seeing triangular craft in the Hudson Valley as a child"
+  },
+  {
+   "key": "craft_main",
+   "type": "craft",
+   "name": "Hudson Valley UFO (V-shaped or boomerang-shaped lighted object)",
+   "aliases": [
+    "Hudson Valley object",
+    "Hudson Valley UFO"
+   ],
+   "description": "The large lighted object or objects reported by residents across the region"
+  },
+  {
+   "key": "craft_ip",
+   "type": "craft",
+   "name": "UFO reported over Indian Point Nuclear Power Plant, June 14 and July 24, 1984",
+   "description": "Object that plant guards reportedly saw hovering over Indian Point"
+  },
+  {
+   "key": "craft_pollard",
+   "type": "craft",
+   "name": "Gigantic triangle with lights seen by William A. Pollard",
+   "description": "Object Pollard reported hovering above a field beside Interstate 84"
+  },
+  {
+   "key": "craft_lunn",
+   "type": "craft",
+   "name": "Object over a pond reported by Irene Lunn, August 20, 1984",
+   "description": "Silent lighted object with an L-shaped structure underneath"
+  },
+  {
+   "key": "craft_pozz",
+   "type": "craft",
+   "name": "Luminous phenomenon videotaped by Bob Pozzuoli, July 24",
+   "description": "Lights that appeared to Pozzuoli to be a flying object"
+  },
+  {
+   "key": "cessnas",
+   "type": "vehicle",
+   "name": "Cessna 152",
+   "aliases": [
+    "Cessna 152s",
+    "light planes",
+    "light aircraft"
+   ],
+   "description": "Light planes flown in tight formation out of Stormville Airport, identified by police as the source of the sightings"
+  },
+  {
+   "key": "doc_video",
+   "type": "document",
+   "name": "Bob Pozzuoli videotape of July 24",
+   "description": "Videotape of a luminous phenomenon with rotating lights"
+  },
+  {
+   "key": "doc_foia",
+   "type": "document",
+   "name": "Imbrogno FOIA request to the Nuclear Regulatory Commission",
+   "description": "Freedom of Information request about the Indian Point incident"
+  },
+  {
+   "key": "doc_stills",
+   "type": "document",
+   "name": "Photographic stills of videotape evidence publicized by Hynek, Imbrogno and Pratt",
+   "description": "Stills the Night Siege authors believed depicted the UFO"
+  },
+  {
+   "key": "night_siege",
+   "type": "work",
+   "name": "Night Siege: The Hudson Valley UFO sightings",
+   "aliases": [
+    "Night Siege"
+   ],
+   "description": "1987 book by Hynek, Imbrogno and Pratt"
+  },
+  {
+   "key": "unsolved",
+   "type": "work",
+   "name": "Unsolved Mysteries",
+   "description": "TV programme that devoted a 1992 episode to the sightings"
+  },
+  {
+   "key": "revolt",
+   "type": "work",
+   "name": "Revolt",
+   "description": "Film directed by Joe Miale"
+  },
+  {
+   "key": "f_shape_boomerang",
+   "type": "feature",
+   "name": "shape-boomerang"
+  },
+  {
+   "key": "f_shape_triangle",
+   "type": "feature",
+   "name": "shape-triangle"
+  },
+  {
+   "key": "f_shape_other",
+   "type": "feature",
+   "name": "shape-other"
+  },
+  {
+   "key": "f_hovering",
+   "type": "feature",
+   "name": "hovering"
+  },
+  {
+   "key": "f_high_speed_maneuvers",
+   "type": "feature",
+   "name": "high-speed-maneuvers"
+  },
+  {
+   "key": "f_silent",
+   "type": "feature",
+   "name": "silent"
+  },
+  {
+   "key": "f_sound_reported",
+   "type": "feature",
+   "name": "sound-reported"
+  },
+  {
+   "key": "f_film_or_video",
+   "type": "feature",
+   "name": "film-or-video"
+  },
+  {
+   "key": "f_photograph",
+   "type": "feature",
+   "name": "photograph"
+  },
+  {
+   "key": "f_nuclear_site_proximity",
+   "type": "feature",
+   "name": "nuclear-site-proximity"
+  },
+  {
+   "key": "f_mass_sighting",
+   "type": "feature",
+   "name": "mass-sighting"
+  },
+  {
+   "key": "f_multiple_witnesses",
+   "type": "feature",
+   "name": "multiple-witnesses"
+  },
+  {
+   "key": "f_police_witnesses",
+   "type": "feature",
+   "name": "police-witnesses"
+  },
+  {
+   "key": "f_official_investigation",
+   "type": "feature",
+   "name": "official-investigation"
+  },
+  {
+   "key": "f_hoax_alleged",
+   "type": "feature",
+   "name": "hoax-alleged"
+  },
+  {
+   "key": "f_hoax_confessed",
+   "type": "feature",
+   "name": "hoax-confessed"
+  },
+  {
+   "key": "f_child_witnesses",
+   "type": "feature",
+   "name": "child-witnesses"
+  },
+  {
+   "key": "x_aircraft",
+   "type": "explanation",
+   "name": "conventional-aircraft"
+  },
+  {
+   "key": "x_hoax",
+   "type": "explanation",
+   "name": "hoax"
+  },
+  {
+   "key": "x_misp",
+   "type": "explanation",
+   "name": "misperception"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "also_called",
+   "v": "The Westchester Boomerang",
+   "quote": "The 1984 Hudson Valley UFO Sightings, also called \"The Westchester Boomerang\", were UFO sightings that stretched throughout 1983–1984 in New York and Western Connecticut."
+  },
+  {
+   "s": "case",
+   "p": "also_called",
+   "v": "Hudson Valley UFO phenomenon",
+   "quote": "Dunning speculated why despite these explanations, the \"Hudson Valley UFO phenomenon\" was popularized and books like Night Siege were written."
+  },
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1983-03",
+   "quote": "Reports primarily occurred from March 1983 through the summer of 1984, in the Hudson Valley region of the Northeastern United States, including Westchester County, Dutchess County, and Putnam County in New York and Fairfield County in Connecticut."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1984",
+   "quote": "Reports primarily occurred from March 1983 through the summer of 1984, in the Hudson Valley region of the Northeastern United States, including Westchester County, Dutchess County, and Putnam County in New York and Fairfield County in Connecticut."
+  },
+  {
+   "s": "case",
+   "p": "date_range",
+   "v": "1983-1984",
+   "quote": "The 1984 Hudson Valley UFO Sightings, also called \"The Westchester Boomerang\", were UFO sightings that stretched throughout 1983–1984 in New York and Western Connecticut."
+  },
+  {
+   "s": "case",
+   "p": "peak_period",
+   "v": "March 1983 through the summer of 1984",
+   "quote": "Reports primarily occurred from March 1983 through the summer of 1984, in the Hudson Valley region of the Northeastern United States, including Westchester County, Dutchess County, and Putnam County in New York and Fairfield County in Connecticut."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "Reports primarily occurred from March 1983 through the summer of 1984, in the Hudson Valley region of the Northeastern United States, including Westchester County, Dutchess County, and Putnam County in New York and Fairfield County in Connecticut."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "night",
+   "quote": "This alleged UFO only existed at a time and place where the [pilots] were doing their nighttime formation flying. The UFO looked the same, behaved the same, it flew in the same way and in the same place."
+  },
+  {
+   "s": "case",
+   "p": "report_count",
+   "v": "hundreds of reports received by Citizens Against UFO Secrecy in the summer of 1984",
+   "quote": "According to ufologist Peter Gersten, in the summer of 1984, his organization Citizens Against UFO Secrecy (CAUS) received hundreds of reports of a large boomerang-shaped object hovering over trees with lights and a \"slight buzz\"."
+  },
+  {
+   "s": "case",
+   "p": "significance",
+   "v": "news stories, books and other publicity made the sightings significant in local history and ufology lore",
+   "quote": "Subsequent news stories, books, and other publicity helped make the sightings significant in local history and ufology lore."
+  },
+  {
+   "s": "case",
+   "p": "conference",
+   "v": "ufologists convened a conference in Brewster, New York on 1984-08-28 to discuss the sightings",
+   "quote": "Some witnesses reportedly refused to believe that planes flying in formation were responsible for their sightings, and on August 28, 1984, ufologists convened a conference in Brewster, New York, to discuss the recent rash of UFO sightings."
+  },
+  {
+   "s": "case",
+   "p": "witness_reaction",
+   "v": "some witnesses reportedly refused to believe that planes flying in formation were responsible",
+   "quote": "Some witnesses reportedly refused to believe that planes flying in formation were responsible for their sightings, and on August 28, 1984, ufologists convened a conference in Brewster, New York, to discuss the recent rash of UFO sightings."
+  },
+  {
+   "s": "case",
+   "p": "media_coverage",
+   "v": "local newspapers printed stories and television stations ran tapes of the mysterious lights",
+   "quote": "when local newspapers began printing stories about strange sightings and experiences, and television stations ran tapes of the mysterious lights in the sky, the pilots were incredulous, then amused. The group began calling themselves the Martians."
+  },
+  {
+   "s": "case",
+   "p": "security_response",
+   "v": "a security guard said the Indian Point guards broke out the shotguns",
+   "quote": "The security guard said \"that the guards broke out the shotguns\"."
+  },
+  {
+   "s": "case",
+   "p": "security_response",
+   "v": "per Imbrogno, the commander ordered shotguns pulled out and Camp Smith was summoned, with no documentation",
+   "quote": "Imbrogno told The Journal News that \"the commander gave the order to pull out the shotguns, and they summoned Camp Smith, but we have no documentation\"."
+  },
+  {
+   "s": "case",
+   "p": "photo_lab_report",
+   "v": "manager of CPI Photo Finish said the shop was seeing quite a few U.F.O. pictures",
+   "quote": "According to the manager of CPI Photo Finish in Yorktown, \"We're seeing quite a few U.F.O. pictures. People come in and hand you the film and say: 'Be careful with these. We ran outside with our camera because something was flying over our house.\""
+  },
+  {
+   "s": "case",
+   "p": "pilot_statement",
+   "v": "in February 1984 a pilot told the Poughkeepsie Journal he and other pilots tested their skills flying in a V shape using a rotating beacon and navigation lights",
+   "quote": "In February 1984, a pilot interviewed by the Poughkeepsie Journal said he and other pilots \"[tested] their skills flying in a V shape using a rotating beacon and navigation lights. The formation might appear motionless because it is so wide and can be seen from long distances.\""
+  },
+  {
+   "s": "case",
+   "p": "pilot_reaction",
+   "v": "pilots were getting a big kick out of it; no violation of the law",
+   "quote": "Spiro said: \"The trooper spoke to a couple of the pilots, and they're getting a big kick out of it. There's no violation of the law here.\""
+  },
+  {
+   "s": "ny",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The 1984 Hudson Valley UFO Sightings, also called \"The Westchester Boomerang\", were UFO sightings that stretched throughout 1983–1984 in New York and Western Connecticut."
+  },
+  {
+   "s": "ct",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The 1984 Hudson Valley UFO Sightings, also called \"The Westchester Boomerang\", were UFO sightings that stretched throughout 1983–1984 in New York and Western Connecticut."
+  },
+  {
+   "s": "hudson_valley",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Reports primarily occurred from March 1983 through the summer of 1984, in the Hudson Valley region of the Northeastern United States, including Westchester County, Dutchess County, and Putnam County in New York and Fairfield County in Connecticut."
+  },
+  {
+   "s": "hudson_valley",
+   "p": "located_in",
+   "o": "ne_us",
+   "quote": "Reports primarily occurred from March 1983 through the summer of 1984, in the Hudson Valley region of the Northeastern United States, including Westchester County, Dutchess County, and Putnam County in New York and Fairfield County in Connecticut."
+  },
+  {
+   "s": "ne_us",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Reports primarily occurred from March 1983 through the summer of 1984, in the Hudson Valley region of the Northeastern United States, including Westchester County, Dutchess County, and Putnam County in New York and Fairfield County in Connecticut."
+  },
+  {
+   "s": "westchester",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Reports primarily occurred from March 1983 through the summer of 1984, in the Hudson Valley region of the Northeastern United States, including Westchester County, Dutchess County, and Putnam County in New York and Fairfield County in Connecticut."
+  },
+  {
+   "s": "westchester",
+   "p": "located_in",
+   "o": "ny",
+   "quote": "Reports primarily occurred from March 1983 through the summer of 1984, in the Hudson Valley region of the Northeastern United States, including Westchester County, Dutchess County, and Putnam County in New York and Fairfield County in Connecticut."
+  },
+  {
+   "s": "dutchess",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Reports primarily occurred from March 1983 through the summer of 1984, in the Hudson Valley region of the Northeastern United States, including Westchester County, Dutchess County, and Putnam County in New York and Fairfield County in Connecticut."
+  },
+  {
+   "s": "dutchess",
+   "p": "located_in",
+   "o": "ny",
+   "quote": "Reports primarily occurred from March 1983 through the summer of 1984, in the Hudson Valley region of the Northeastern United States, including Westchester County, Dutchess County, and Putnam County in New York and Fairfield County in Connecticut."
+  },
+  {
+   "s": "putnam",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Reports primarily occurred from March 1983 through the summer of 1984, in the Hudson Valley region of the Northeastern United States, including Westchester County, Dutchess County, and Putnam County in New York and Fairfield County in Connecticut."
+  },
+  {
+   "s": "putnam",
+   "p": "located_in",
+   "o": "ny",
+   "quote": "Reports primarily occurred from March 1983 through the summer of 1984, in the Hudson Valley region of the Northeastern United States, including Westchester County, Dutchess County, and Putnam County in New York and Fairfield County in Connecticut."
+  },
+  {
+   "s": "fairfield",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Reports primarily occurred from March 1983 through the summer of 1984, in the Hudson Valley region of the Northeastern United States, including Westchester County, Dutchess County, and Putnam County in New York and Fairfield County in Connecticut."
+  },
+  {
+   "s": "fairfield",
+   "p": "located_in",
+   "o": "ct",
+   "quote": "Reports primarily occurred from March 1983 through the summer of 1984, in the Hudson Valley region of the Northeastern United States, including Westchester County, Dutchess County, and Putnam County in New York and Fairfield County in Connecticut."
+  },
+  {
+   "s": "indian_point",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Center for UFO Studies ufologist Philip Imbrogno stated he was approached by several guards from the Indian Point Nuclear Power Plant."
+  },
+  {
+   "s": "indian_point",
+   "p": "sighting_dates",
+   "v": "June 14 and July 24, 1984",
+   "quote": "According to Imbrogno, on June 14 and July 24, 1984, the guards saw a 900-foot (270 m) UFO hovering over the plant for 15 minutes."
+  },
+  {
+   "s": "indian_point",
+   "p": "use_by_pilots",
+   "v": "pilots of private and commercial planes use the plant as a 'handy landmark'",
+   "quote": "Patrick stated that \"pilots of private and commercial planes use the plant as a 'handy landmark' when flying nearby. 'From the air it is easy to pick out... I don't know of any regulations that restrict the airspace around Indian Point'\"."
+  },
+  {
+   "s": "indian_point",
+   "p": "airspace",
+   "v": "no known regulations restricting the airspace around Indian Point, per Patrick",
+   "quote": "Patrick stated that \"pilots of private and commercial planes use the plant as a 'handy landmark' when flying nearby. 'From the air it is easy to pick out... I don't know of any regulations that restrict the airspace around Indian Point'\"."
+  },
+  {
+   "s": "camp_smith",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Imbrogno told The Journal News that \"the commander gave the order to pull out the shotguns, and they summoned Camp Smith, but we have no documentation\"."
+  },
+  {
+   "s": "stormville",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Spokesman for the New York Power Authority (NYPA) and Sergeant Spiro for Troop K of the New York State Police said \"they believed the sightings were Cessna 152s flown by pranksters out of Stormville Airport.\""
+  },
+  {
+   "s": "stormville",
+   "p": "located_in",
+   "o": "dutchess",
+   "quote": "A state police officer of Troop K stated that he had followed the lights to the small Stormville Airport in Dutchess County and reported back to Sgt. Kenneth V. Spiro, who explained to reporters:"
+  },
+  {
+   "s": "stormville",
+   "p": "size",
+   "v": "small",
+   "quote": "A state police officer of Troop K stated that he had followed the lights to the small Stormville Airport in Dutchess County and reported back to Sgt. Kenneth V. Spiro, who explained to reporters:"
+  },
+  {
+   "s": "brewster",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Some witnesses reportedly refused to believe that planes flying in formation were responsible for their sightings, and on August 28, 1984, ufologists convened a conference in Brewster, New York, to discuss the recent rash of UFO sightings."
+  },
+  {
+   "s": "brewster",
+   "p": "event",
+   "v": "ufologists' conference on August 28, 1984",
+   "quote": "Some witnesses reportedly refused to believe that planes flying in formation were responsible for their sightings, and on August 28, 1984, ufologists convened a conference in Brewster, New York, to discuss the recent rash of UFO sightings."
+  },
+  {
+   "s": "i84",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "William A. Pollard, driving on Interstate 84, recounted to the New York Times that he saw an object hovering about 30 feet (9.1 m) above the ground in a field, \"a gigantic triangle with lights\"."
+  },
+  {
+   "s": "mahopac",
+   "p": "related_place",
+   "o": "case",
+   "quote": "At about 9:00 p.m. on Monday, August 20, 1984, Mahopac resident Irene Lunn reported that an object was heading south over a pond,"
+  },
+  {
+   "s": "yorktown",
+   "p": "related_place",
+   "o": "case",
+   "quote": "According to the manager of CPI Photo Finish in Yorktown, \"We're seeing quite a few U.F.O. pictures. People come in and hand you the film and say: 'Be careful with these. We ran outside with our camera because something was flying over our house.\""
+  },
+  {
+   "s": "nysp",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "A state police officer of Troop K stated that he had followed the lights to the small Stormville Airport in Dutchess County and reported back to Sgt. Kenneth V. Spiro, who explained to reporters:"
+  },
+  {
+   "s": "nysp",
+   "p": "statement",
+   "v": "Cessna 152s had flown in tight formation with bright lights that could change colors",
+   "quote": "State police reported that Cessna 152s had flown in tight formation with bright lights that could change colors, the pilots of which expressed amusement at the confusion caused by their hoax."
+  },
+  {
+   "s": "troopk",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "A state police officer of Troop K stated that he had followed the lights to the small Stormville Airport in Dutchess County and reported back to Sgt. Kenneth V. Spiro, who explained to reporters:"
+  },
+  {
+   "s": "troopk",
+   "p": "part_of",
+   "o": "nysp",
+   "quote": "Spokesman for the New York Power Authority (NYPA) and Sergeant Spiro for Troop K of the New York State Police said \"they believed the sightings were Cessna 152s flown by pranksters out of Stormville Airport.\""
+  },
+  {
+   "s": "troopk",
+   "p": "trooper_action",
+   "v": "an officer followed the lights to Stormville Airport and spoke to a couple of the pilots",
+   "quote": "A state police officer of Troop K stated that he had followed the lights to the small Stormville Airport in Dutchess County and reported back to Sgt. Kenneth V. Spiro, who explained to reporters:"
+  },
+  {
+   "s": "nyt",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Residents reported seeing objects about the size of an American football field, \"usually in a V-shape or a circle\", according to The New York Times, \"absolutely noiseless and outlined in brilliant lights of white, red or green\"."
+  },
+  {
+   "s": "cufos",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Center for UFO Studies ufologist Philip Imbrogno stated he was approached by several guards from the Indian Point Nuclear Power Plant."
+  },
+  {
+   "s": "journal_news",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Imbrogno told The Journal News that \"the commander gave the order to pull out the shotguns, and they summoned Camp Smith, but we have no documentation\"."
+  },
+  {
+   "s": "nypa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Spokesman for the New York Power Authority (NYPA) and Sergeant Spiro for Troop K of the New York State Police said \"they believed the sightings were Cessna 152s flown by pranksters out of Stormville Airport.\""
+  },
+  {
+   "s": "nypa",
+   "p": "statement",
+   "v": "spokesman believed the sightings were Cessna 152s flown by pranksters out of Stormville Airport",
+   "quote": "Spokesman for the New York Power Authority (NYPA) and Sergeant Spiro for Troop K of the New York State Police said \"they believed the sightings were Cessna 152s flown by pranksters out of Stormville Airport.\""
+  },
+  {
+   "s": "nrc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Spokesman for the Nuclear Regulatory Commission (NRC) Brian Norris stated that they had received a FOIA request from Imbrogno for the Indian Point incident, but had \"no documentation of the sighting\"."
+  },
+  {
+   "s": "nrc",
+   "p": "statement",
+   "v": "had no documentation of the sighting",
+   "quote": "Spokesman for the Nuclear Regulatory Commission (NRC) Brian Norris stated that they had received a FOIA request from Imbrogno for the Indian Point incident, but had \"no documentation of the sighting\"."
+  },
+  {
+   "s": "faa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "According to Timothy L. Hartnett, the deputy director of the Eastern region of the FAA, planes \"can fly as close together as they feel safe...\" going on to say that their altitude can be as low as 500 feet (150 m) \"in areas of sparse population\"."
+  },
+  {
+   "s": "pough",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In February 1984, a pilot interviewed by the Poughkeepsie Journal said he and other pilots \"[tested] their skills flying in a V shape using a rotating beacon and navigation lights. The formation might appear motionless because it is so wide and can be seen from long distances.\""
+  },
+  {
+   "s": "pough",
+   "p": "interview_date",
+   "v": "1984-02",
+   "quote": "In February 1984, a pilot interviewed by the Poughkeepsie Journal said he and other pilots \"[tested] their skills flying in a V shape using a rotating beacon and navigation lights. The formation might appear motionless because it is so wide and can be seen from long distances.\""
+  },
+  {
+   "s": "discover",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Discover Magazine in 1984 reported that a group of pilots practicing their formation skills, first in the daytime, then when they became more confident, at night, \"became tight formations of aircraft\", further adding that at times their proximity respective to one another closed to within as little as 6 inches (15 cm) between wingtips."
+  },
+  {
+   "s": "discover",
+   "p": "report_year",
+   "v": "1984",
+   "quote": "Discover Magazine in 1984 reported that a group of pilots practicing their formation skills, first in the daytime, then when they became more confident, at night, \"became tight formations of aircraft\", further adding that at times their proximity respective to one another closed to within as little as 6 inches (15 cm) between wingtips."
+  },
+  {
+   "s": "caus",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "According to ufologist Peter Gersten, in the summer of 1984, his organization Citizens Against UFO Secrecy (CAUS) received hundreds of reports of a large boomerang-shaped object hovering over trees with lights and a \"slight buzz\"."
+  },
+  {
+   "s": "caus",
+   "p": "reports_received",
+   "v": "hundreds",
+   "quote": "According to ufologist Peter Gersten, in the summer of 1984, his organization Citizens Against UFO Secrecy (CAUS) received hundreds of reports of a large boomerang-shaped object hovering over trees with lights and a \"slight buzz\"."
+  },
+  {
+   "s": "caus",
+   "p": "reward_offered",
+   "v": "$1,000 for information on the identities of the pilots, as of September 1984",
+   "quote": "Gersten had at that time not interviewed the pilots who had claimed responsibility, and as of September 1984, his group was offering a $1,000 reward for information regarding the identities of the pilots flying the light aircraft out of Stormville Airport."
+  },
+  {
+   "s": "cpi",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "According to the manager of CPI Photo Finish in Yorktown, \"We're seeing quite a few U.F.O. pictures. People come in and hand you the film and say: 'Be careful with these. We ran outside with our camera because something was flying over our house.\""
+  },
+  {
+   "s": "cpi",
+   "p": "located_in",
+   "o": "yorktown",
+   "quote": "According to the manager of CPI Photo Finish in Yorktown, \"We're seeing quite a few U.F.O. pictures. People come in and hand you the film and say: 'Be careful with these. We ran outside with our camera because something was flying over our house.\""
+  },
+  {
+   "s": "bluebook",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "J. Allen Hynek, the former scientific advisor to the Air Force's Project Blue Book, who later in life favored the interdimensional hypothesis explanation of UFOs, described the incident as \"absolutely weird. There's no logical explanation for it.\""
+  },
+  {
+   "s": "martians",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The group began calling themselves the Martians."
+  },
+  {
+   "s": "martians",
+   "p": "reaction",
+   "v": "incredulous, then amused",
+   "quote": "when local newspapers began printing stories about strange sightings and experiences, and television stations ran tapes of the mysterious lights in the sky, the pilots were incredulous, then amused. The group began calling themselves the Martians."
+  },
+  {
+   "s": "martians",
+   "p": "intent",
+   "v": "no evidence the pilots ever intended a UFO hoax, according to Brian Dunning",
+   "quote": "According to skeptical writer Brian Dunning, \"there's no evidence that these pilots ever intended a UFO hoax\""
+  },
+  {
+   "s": "martians",
+   "p": "practice",
+   "v": "practiced formation skills first in the daytime, then at night",
+   "quote": "Discover Magazine in 1984 reported that a group of pilots practicing their formation skills, first in the daytime, then when they became more confident, at night, \"became tight formations of aircraft\", further adding that at times their proximity respective to one another closed to within as little as 6 inches (15 cm) between wingtips."
+  },
+  {
+   "s": "martians",
+   "p": "technique",
+   "v": "turned off exterior lights at the same time so the aircraft appeared to disappear",
+   "quote": "The pilots would turn off their exterior lights at the same time, which would make the aircraft appear to disappear from the sky."
+  },
+  {
+   "s": "martians",
+   "p": "formations",
+   "v": "crescents, circles and crosses that looked from the ground like diamonds or V's",
+   "quote": "\"They vary their formations, from crescents and circles to crosses that looked from the ground like diamonds or V's, giving rise to reports about different and sometimes startling UFO shapes.\""
+  },
+  {
+   "s": "martians",
+   "p": "stationed_at",
+   "o": "stormville",
+   "quote": "Gersten had at that time not interviewed the pilots who had claimed responsibility, and as of September 1984, his group was offering a $1,000 reward for information regarding the identities of the pilots flying the light aircraft out of Stormville Airport."
+  },
+  {
+   "s": "imbrogno",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Center for UFO Studies ufologist Philip Imbrogno stated he was approached by several guards from the Indian Point Nuclear Power Plant."
+  },
+  {
+   "s": "imbrogno",
+   "p": "witness",
+   "o": "case",
+   "quote": "Imbrogno reported having himself witnessed the Hudson Valley UFO for a period of five minutes."
+  },
+  {
+   "s": "imbrogno",
+   "p": "member_of",
+   "o": "cufos",
+   "quote": "Center for UFO Studies ufologist Philip Imbrogno stated he was approached by several guards from the Indian Point Nuclear Power Plant."
+  },
+  {
+   "s": "imbrogno",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "Center for UFO Studies ufologist Philip Imbrogno stated he was approached by several guards from the Indian Point Nuclear Power Plant."
+  },
+  {
+   "s": "imbrogno",
+   "p": "statement",
+   "v": "guards saw a 900-foot UFO hovering over the Indian Point plant for 15 minutes on June 14 and July 24, 1984",
+   "quote": "According to Imbrogno, on June 14 and July 24, 1984, the guards saw a 900-foot (270 m) UFO hovering over the plant for 15 minutes."
+  },
+  {
+   "s": "imbrogno",
+   "p": "statement",
+   "v": "the commander gave the order to pull out the shotguns, and they summoned Camp Smith, but we have no documentation",
+   "quote": "Imbrogno told The Journal News that \"the commander gave the order to pull out the shotguns, and they summoned Camp Smith, but we have no documentation\"."
+  },
+  {
+   "s": "imbrogno",
+   "p": "sighting_duration",
+   "v": "five minutes",
+   "quote": "Imbrogno reported having himself witnessed the Hudson Valley UFO for a period of five minutes."
+  },
+  {
+   "s": "imbrogno",
+   "p": "statement",
+   "v": "noted similarities between the Hudson Valley object and the recently declassified stealth bomber",
+   "quote": "Imbrogno noted similarities between the Hudson Valley object and the recently declassified stealth bomber."
+  },
+  {
+   "s": "branciforte",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "A power authority security coordinator, John Branciforte, said, \"I think people are going to publish stories on hysteria (and) misinformation. As far as I'm concerned, it's pure speculation.\""
+  },
+  {
+   "s": "branciforte",
+   "p": "employed_by",
+   "o": "nypa",
+   "quote": "A power authority security coordinator, John Branciforte, said, \"I think people are going to publish stories on hysteria (and) misinformation. As far as I'm concerned, it's pure speculation.\""
+  },
+  {
+   "s": "branciforte",
+   "p": "occupation",
+   "v": "power authority security coordinator",
+   "quote": "A power authority security coordinator, John Branciforte, said, \"I think people are going to publish stories on hysteria (and) misinformation. As far as I'm concerned, it's pure speculation.\""
+  },
+  {
+   "s": "branciforte",
+   "p": "statement",
+   "v": "I think people are going to publish stories on hysteria (and) misinformation. As far as I'm concerned, it's pure speculation.",
+   "quote": "A power authority security coordinator, John Branciforte, said, \"I think people are going to publish stories on hysteria (and) misinformation. As far as I'm concerned, it's pure speculation.\""
+  },
+  {
+   "s": "branciforte",
+   "p": "statement",
+   "v": "officers did not arm themselves with shotguns",
+   "quote": "Branciforte stated that officers did not arm themselves with shotguns, and that Imbrogno \"could possibly be making it up or he took what they (witnesses) gave him and stretched it out\"."
+  },
+  {
+   "s": "branciforte",
+   "p": "disputed",
+   "o": "imbrogno",
+   "quote": "Branciforte stated that officers did not arm themselves with shotguns, and that Imbrogno \"could possibly be making it up or he took what they (witnesses) gave him and stretched it out\"."
+  },
+  {
+   "s": "spiro",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "A state police officer of Troop K stated that he had followed the lights to the small Stormville Airport in Dutchess County and reported back to Sgt. Kenneth V. Spiro, who explained to reporters:"
+  },
+  {
+   "s": "spiro",
+   "p": "member_of",
+   "o": "troopk",
+   "quote": "Spokesman for the New York Power Authority (NYPA) and Sergeant Spiro for Troop K of the New York State Police said \"they believed the sightings were Cessna 152s flown by pranksters out of Stormville Airport.\""
+  },
+  {
+   "s": "spiro",
+   "p": "employed_by",
+   "o": "nysp",
+   "quote": "Spokesman for the New York Power Authority (NYPA) and Sergeant Spiro for Troop K of the New York State Police said \"they believed the sightings were Cessna 152s flown by pranksters out of Stormville Airport.\""
+  },
+  {
+   "s": "spiro",
+   "p": "rank",
+   "v": "Sergeant",
+   "quote": "Spokesman for the New York Power Authority (NYPA) and Sergeant Spiro for Troop K of the New York State Police said \"they believed the sightings were Cessna 152s flown by pranksters out of Stormville Airport.\""
+  },
+  {
+   "s": "spiro",
+   "p": "statement",
+   "v": "It was a group of light planes. They fly in formation... It's the lights that give the shape to the U.F.O.",
+   "quote": "\"It was a group of light planes. They fly in formation. The undersides and under the wings are painted black, so they can't be seen from the ground. The planes are rigged with bright lights that they can turn from one color to another. It's the lights that give the shape to the U.F.O.\""
+  },
+  {
+   "s": "spiro",
+   "p": "statement",
+   "v": "The trooper spoke to a couple of the pilots, and they're getting a big kick out of it. There's no violation of the law here.",
+   "quote": "Spiro said: \"The trooper spoke to a couple of the pilots, and they're getting a big kick out of it. There's no violation of the law here.\""
+  },
+  {
+   "s": "patrick",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Patrick stated that \"pilots of private and commercial planes use the plant as a 'handy landmark' when flying nearby. 'From the air it is easy to pick out... I don't know of any regulations that restrict the airspace around Indian Point'\"."
+  },
+  {
+   "s": "patrick",
+   "p": "statement",
+   "v": "pilots of private and commercial planes use the plant as a 'handy landmark' when flying nearby",
+   "quote": "Patrick stated that \"pilots of private and commercial planes use the plant as a 'handy landmark' when flying nearby. 'From the air it is easy to pick out... I don't know of any regulations that restrict the airspace around Indian Point'\"."
+  },
+  {
+   "s": "norris",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Spokesman for the Nuclear Regulatory Commission (NRC) Brian Norris stated that they had received a FOIA request from Imbrogno for the Indian Point incident, but had \"no documentation of the sighting\"."
+  },
+  {
+   "s": "norris",
+   "p": "employed_by",
+   "o": "nrc",
+   "quote": "Spokesman for the Nuclear Regulatory Commission (NRC) Brian Norris stated that they had received a FOIA request from Imbrogno for the Indian Point incident, but had \"no documentation of the sighting\"."
+  },
+  {
+   "s": "norris",
+   "p": "occupation",
+   "v": "spokesman for the Nuclear Regulatory Commission",
+   "quote": "Spokesman for the Nuclear Regulatory Commission (NRC) Brian Norris stated that they had received a FOIA request from Imbrogno for the Indian Point incident, but had \"no documentation of the sighting\"."
+  },
+  {
+   "s": "norris",
+   "p": "statement",
+   "v": "NRC received a FOIA request from Imbrogno but had no documentation of the sighting",
+   "quote": "Spokesman for the Nuclear Regulatory Commission (NRC) Brian Norris stated that they had received a FOIA request from Imbrogno for the Indian Point incident, but had \"no documentation of the sighting\"."
+  },
+  {
+   "s": "pozzuoli",
+   "p": "witness",
+   "o": "case",
+   "quote": "On July 24, Brewster resident Bob Pozzuoli videotaped a luminous phenomenon that, to Pozzuoli, appeared to be an object flying as its lights rotated counterclockwise."
+  },
+  {
+   "s": "pozzuoli",
+   "p": "resident_of",
+   "o": "brewster",
+   "quote": "On July 24, Brewster resident Bob Pozzuoli videotaped a luminous phenomenon that, to Pozzuoli, appeared to be an object flying as its lights rotated counterclockwise."
+  },
+  {
+   "s": "pollard",
+   "p": "witness",
+   "o": "case",
+   "quote": "William A. Pollard, driving on Interstate 84, recounted to the New York Times that he saw an object hovering about 30 feet (9.1 m) above the ground in a field, \"a gigantic triangle with lights\"."
+  },
+  {
+   "s": "pollard",
+   "p": "statement",
+   "v": "had seen the lights many times, but the first time was very different; it was \"rigid\"",
+   "quote": "Pollard said he had seen the lights many times, but the first time was very different from everything he saw later; it was \"rigid\"."
+  },
+  {
+   "s": "nyt",
+   "p": "interviewed",
+   "o": "pollard",
+   "quote": "William A. Pollard, driving on Interstate 84, recounted to the New York Times that he saw an object hovering about 30 feet (9.1 m) above the ground in a field, \"a gigantic triangle with lights\"."
+  },
+  {
+   "s": "lunn",
+   "p": "witness",
+   "o": "case",
+   "quote": "At about 9:00 p.m. on Monday, August 20, 1984, Mahopac resident Irene Lunn reported that an object was heading south over a pond,"
+  },
+  {
+   "s": "lunn",
+   "p": "resident_of",
+   "o": "mahopac",
+   "quote": "At about 9:00 p.m. on Monday, August 20, 1984, Mahopac resident Irene Lunn reported that an object was heading south over a pond,"
+  },
+  {
+   "s": "lunn",
+   "p": "statement",
+   "v": "I felt like it was letting us know it knew we were watching it. That was scary.",
+   "quote": "I felt like it was letting us know it knew we were watching it. That was scary. It went on for about 10 minutes."
+  },
+  {
+   "s": "hartnett",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "According to Timothy L. Hartnett, the deputy director of the Eastern region of the FAA, planes \"can fly as close together as they feel safe...\" going on to say that their altitude can be as low as 500 feet (150 m) \"in areas of sparse population\"."
+  },
+  {
+   "s": "hartnett",
+   "p": "employed_by",
+   "o": "faa",
+   "quote": "According to Timothy L. Hartnett, the deputy director of the Eastern region of the FAA, planes \"can fly as close together as they feel safe...\" going on to say that their altitude can be as low as 500 feet (150 m) \"in areas of sparse population\"."
+  },
+  {
+   "s": "hartnett",
+   "p": "occupation",
+   "v": "deputy director of the Eastern region of the FAA",
+   "quote": "According to Timothy L. Hartnett, the deputy director of the Eastern region of the FAA, planes \"can fly as close together as they feel safe...\" going on to say that their altitude can be as low as 500 feet (150 m) \"in areas of sparse population\"."
+  },
+  {
+   "s": "hartnett",
+   "p": "statement",
+   "v": "planes can fly as close together as they feel safe, and as low as 500 feet (150 m) in areas of sparse population",
+   "quote": "According to Timothy L. Hartnett, the deputy director of the Eastern region of the FAA, planes \"can fly as close together as they feel safe...\" going on to say that their altitude can be as low as 500 feet (150 m) \"in areas of sparse population\"."
+  },
+  {
+   "s": "dunning",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "According to skeptical writer Brian Dunning, \"there's no evidence that these pilots ever intended a UFO hoax\""
+  },
+  {
+   "s": "dunning",
+   "p": "occupation",
+   "v": "skeptical writer",
+   "quote": "According to skeptical writer Brian Dunning, \"there's no evidence that these pilots ever intended a UFO hoax\""
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "there's no evidence that these pilots ever intended a UFO hoax",
+   "quote": "According to skeptical writer Brian Dunning, \"there's no evidence that these pilots ever intended a UFO hoax\""
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "the Night Siege authors were not journalists or objective reporters; none had any serious academic credibility",
+   "quote": "According to Dunning, \"These were not journalists or objective reporters. They were all UFO authors who made their careers out of sensationalizing these little stories they found by keeping an eye on the newspapers. None had any serious academic credibility.\""
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "the alleged UFO only existed at a time and place where the pilots were doing their nighttime formation flying",
+   "quote": "This alleged UFO only existed at a time and place where the [pilots] were doing their nighttime formation flying. The UFO looked the same, behaved the same, it flew in the same way and in the same place."
+  },
+  {
+   "s": "gersten",
+   "p": "investigator",
+   "o": "case",
+   "quote": "According to ufologist Peter Gersten, in the summer of 1984, his organization Citizens Against UFO Secrecy (CAUS) received hundreds of reports of a large boomerang-shaped object hovering over trees with lights and a \"slight buzz\"."
+  },
+  {
+   "s": "gersten",
+   "p": "member_of",
+   "o": "caus",
+   "quote": "According to ufologist Peter Gersten, in the summer of 1984, his organization Citizens Against UFO Secrecy (CAUS) received hundreds of reports of a large boomerang-shaped object hovering over trees with lights and a \"slight buzz\"."
+  },
+  {
+   "s": "gersten",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "According to ufologist Peter Gersten, in the summer of 1984, his organization Citizens Against UFO Secrecy (CAUS) received hundreds of reports of a large boomerang-shaped object hovering over trees with lights and a \"slight buzz\"."
+  },
+  {
+   "s": "gersten",
+   "p": "statement",
+   "v": "It could be explained as extraterrestrial. We had someone try to photograph (the object). But it has avoided being filmed.",
+   "quote": "Gersten stated \"It could be explained as extraterrestrial. We had someone try to photograph (the object). But it has avoided being filmed.\""
+  },
+  {
+   "s": "gersten",
+   "p": "hypothesis",
+   "v": "some eyewitness accounts were explainable by pilots flying in a V formation, but some reports were not congruent with this explanation",
+   "quote": "Gersten intended to hire a private investigator to look into the timing of reported sightings possibly corresponding to the flights by the pilots, and put forward his hypothesis that while some of the eyewitness accounts were explainable by pilots flying in a V formation, some of the reports were, in his view, not congruent with this explanation."
+  },
+  {
+   "s": "gersten",
+   "p": "planned_action",
+   "v": "intended to hire a private investigator to compare the timing of sightings with the pilots' flights",
+   "quote": "Gersten intended to hire a private investigator to look into the timing of reported sightings possibly corresponding to the flights by the pilots, and put forward his hypothesis that while some of the eyewitness accounts were explainable by pilots flying in a V formation, some of the reports were, in his view, not congruent with this explanation."
+  },
+  {
+   "s": "gersten",
+   "p": "detail",
+   "v": "had not interviewed the pilots who had claimed responsibility",
+   "quote": "Gersten had at that time not interviewed the pilots who had claimed responsibility, and as of September 1984, his group was offering a $1,000 reward for information regarding the identities of the pilots flying the light aircraft out of Stormville Airport."
+  },
+  {
+   "s": "hynek",
+   "p": "proponent",
+   "o": "case",
+   "quote": "J. Allen Hynek, the former scientific advisor to the Air Force's Project Blue Book, who later in life favored the interdimensional hypothesis explanation of UFOs, described the incident as \"absolutely weird. There's no logical explanation for it.\""
+  },
+  {
+   "s": "hynek",
+   "p": "member_of",
+   "o": "bluebook",
+   "quote": "J. Allen Hynek, the former scientific advisor to the Air Force's Project Blue Book, who later in life favored the interdimensional hypothesis explanation of UFOs, described the incident as \"absolutely weird. There's no logical explanation for it.\""
+  },
+  {
+   "s": "hynek",
+   "p": "occupation",
+   "v": "former scientific advisor to the Air Force's Project Blue Book",
+   "quote": "J. Allen Hynek, the former scientific advisor to the Air Force's Project Blue Book, who later in life favored the interdimensional hypothesis explanation of UFOs, described the incident as \"absolutely weird. There's no logical explanation for it.\""
+  },
+  {
+   "s": "hynek",
+   "p": "belief",
+   "v": "later in life favored the interdimensional hypothesis explanation of UFOs",
+   "quote": "J. Allen Hynek, the former scientific advisor to the Air Force's Project Blue Book, who later in life favored the interdimensional hypothesis explanation of UFOs, described the incident as \"absolutely weird. There's no logical explanation for it.\""
+  },
+  {
+   "s": "hynek",
+   "p": "statement",
+   "v": "absolutely weird. There's no logical explanation for it.",
+   "quote": "J. Allen Hynek, the former scientific advisor to the Air Force's Project Blue Book, who later in life favored the interdimensional hypothesis explanation of UFOs, described the incident as \"absolutely weird. There's no logical explanation for it.\""
+  },
+  {
+   "s": "hynek",
+   "p": "status_in_1987",
+   "v": "deceased (\"the late J. Allen Hynek\")",
+   "quote": "In 1987,  Ballantine Books published Night Siege:  The Hudson Valley UFO sightings, by the late J. Allen Hynek, Phillip J. Imbrogno, and Bob Pratt."
+  },
+  {
+   "s": "pratt",
+   "p": "proponent",
+   "o": "case",
+   "quote": "In their book and interviews, ufologists Hynek, Imbrogno, and Pratt publicized photographic stills of videotape evidence they believed depicted the UFO."
+  },
+  {
+   "s": "miale",
+   "p": "witness",
+   "o": "case",
+   "quote": "In 2017,  Brian Dunning interviewed Revolt film director Joe Miale about how his childhood memory of \"triangular craft with colored lights moving slowly over our houses\" in the Hudson Valley cemented his lifelong fascination with science fiction."
+  },
+  {
+   "s": "miale",
+   "p": "occupation",
+   "v": "film director",
+   "quote": "In 2017,  Brian Dunning interviewed Revolt film director Joe Miale about how his childhood memory of \"triangular craft with colored lights moving slowly over our houses\" in the Hudson Valley cemented his lifelong fascination with science fiction."
+  },
+  {
+   "s": "miale",
+   "p": "statement",
+   "v": "childhood memory of triangular craft with colored lights moving slowly over our houses",
+   "quote": "In 2017,  Brian Dunning interviewed Revolt film director Joe Miale about how his childhood memory of \"triangular craft with colored lights moving slowly over our houses\" in the Hudson Valley cemented his lifelong fascination with science fiction."
+  },
+  {
+   "s": "dunning",
+   "p": "interviewed",
+   "o": "miale",
+   "quote": "In 2017,  Brian Dunning interviewed Revolt film director Joe Miale about how his childhood memory of \"triangular craft with colored lights moving slowly over our houses\" in the Hudson Valley cemented his lifelong fascination with science fiction."
+  },
+  {
+   "s": "dunning",
+   "p": "interview_year",
+   "v": "2017",
+   "quote": "In 2017,  Brian Dunning interviewed Revolt film director Joe Miale about how his childhood memory of \"triangular craft with colored lights moving slowly over our houses\" in the Hudson Valley cemented his lifelong fascination with science fiction."
+  },
+  {
+   "s": "craft_main",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Residents reported seeing objects about the size of an American football field, \"usually in a V-shape or a circle\", according to The New York Times, \"absolutely noiseless and outlined in brilliant lights of white, red or green\"."
+  },
+  {
+   "s": "craft_main",
+   "p": "size",
+   "v": "about the size of an American football field",
+   "quote": "Residents reported seeing objects about the size of an American football field, \"usually in a V-shape or a circle\", according to The New York Times, \"absolutely noiseless and outlined in brilliant lights of white, red or green\"."
+  },
+  {
+   "s": "craft_main",
+   "p": "shape",
+   "v": "usually in a V-shape or a circle",
+   "quote": "Residents reported seeing objects about the size of an American football field, \"usually in a V-shape or a circle\", according to The New York Times, \"absolutely noiseless and outlined in brilliant lights of white, red or green\"."
+  },
+  {
+   "s": "craft_main",
+   "p": "sound",
+   "v": "absolutely noiseless",
+   "quote": "Residents reported seeing objects about the size of an American football field, \"usually in a V-shape or a circle\", according to The New York Times, \"absolutely noiseless and outlined in brilliant lights of white, red or green\"."
+  },
+  {
+   "s": "craft_main",
+   "p": "color",
+   "v": "brilliant lights of white, red or green",
+   "quote": "Residents reported seeing objects about the size of an American football field, \"usually in a V-shape or a circle\", according to The New York Times, \"absolutely noiseless and outlined in brilliant lights of white, red or green\"."
+  },
+  {
+   "s": "craft_main",
+   "p": "behavior",
+   "v": "able to shoot straight up in the sky and hover for extended periods",
+   "quote": "The objects were also described as being able to shoot straight up in the sky and hover in the air for extended periods of time."
+  },
+  {
+   "s": "craft_main",
+   "p": "shape",
+   "v": "large boomerang-shaped object",
+   "quote": "According to ufologist Peter Gersten, in the summer of 1984, his organization Citizens Against UFO Secrecy (CAUS) received hundreds of reports of a large boomerang-shaped object hovering over trees with lights and a \"slight buzz\"."
+  },
+  {
+   "s": "craft_main",
+   "p": "sound",
+   "v": "slight buzz",
+   "quote": "According to ufologist Peter Gersten, in the summer of 1984, his organization Citizens Against UFO Secrecy (CAUS) received hundreds of reports of a large boomerang-shaped object hovering over trees with lights and a \"slight buzz\"."
+  },
+  {
+   "s": "craft_main",
+   "p": "behavior",
+   "v": "hovering over trees with lights",
+   "quote": "According to ufologist Peter Gersten, in the summer of 1984, his organization Citizens Against UFO Secrecy (CAUS) received hundreds of reports of a large boomerang-shaped object hovering over trees with lights and a \"slight buzz\"."
+  },
+  {
+   "s": "craft_main",
+   "p": "compared_to",
+   "v": "the recently declassified stealth bomber (similarities noted by Imbrogno)",
+   "quote": "Imbrogno noted similarities between the Hudson Valley object and the recently declassified stealth bomber."
+  },
+  {
+   "s": "craft_main",
+   "p": "shape",
+   "v": "triangular craft with colored lights moving slowly (Joe Miale's childhood memory)",
+   "quote": "In 2017,  Brian Dunning interviewed Revolt film director Joe Miale about how his childhood memory of \"triangular craft with colored lights moving slowly over our houses\" in the Hudson Valley cemented his lifelong fascination with science fiction."
+  },
+  {
+   "s": "imbrogno",
+   "p": "described",
+   "o": "craft_main",
+   "quote": "Imbrogno noted similarities between the Hudson Valley object and the recently declassified stealth bomber."
+  },
+  {
+   "s": "gersten",
+   "p": "described",
+   "o": "craft_main",
+   "quote": "According to ufologist Peter Gersten, in the summer of 1984, his organization Citizens Against UFO Secrecy (CAUS) received hundreds of reports of a large boomerang-shaped object hovering over trees with lights and a \"slight buzz\"."
+  },
+  {
+   "s": "craft_ip",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "According to Imbrogno, on June 14 and July 24, 1984, the guards saw a 900-foot (270 m) UFO hovering over the plant for 15 minutes."
+  },
+  {
+   "s": "craft_ip",
+   "p": "size",
+   "v": "900-foot (270 m)",
+   "quote": "According to Imbrogno, on June 14 and July 24, 1984, the guards saw a 900-foot (270 m) UFO hovering over the plant for 15 minutes."
+  },
+  {
+   "s": "craft_ip",
+   "p": "duration",
+   "v": "15 minutes",
+   "quote": "According to Imbrogno, on June 14 and July 24, 1984, the guards saw a 900-foot (270 m) UFO hovering over the plant for 15 minutes."
+  },
+  {
+   "s": "craft_ip",
+   "p": "date",
+   "v": "June 14 and July 24, 1984",
+   "quote": "According to Imbrogno, on June 14 and July 24, 1984, the guards saw a 900-foot (270 m) UFO hovering over the plant for 15 minutes."
+  },
+  {
+   "s": "craft_ip",
+   "p": "behavior",
+   "v": "hovering over the plant",
+   "quote": "According to Imbrogno, on June 14 and July 24, 1984, the guards saw a 900-foot (270 m) UFO hovering over the plant for 15 minutes."
+  },
+  {
+   "s": "craft_ip",
+   "p": "size",
+   "v": "100 feet (30 m) long, according to one security guard",
+   "quote": "One security guard said it was 100 feet (30 m) long and 300 yards (270 m) above the plant and looked like helicopters in a V formation."
+  },
+  {
+   "s": "craft_ip",
+   "p": "altitude",
+   "v": "300 yards (270 m) above the plant",
+   "quote": "One security guard said it was 100 feet (30 m) long and 300 yards (270 m) above the plant and looked like helicopters in a V formation."
+  },
+  {
+   "s": "craft_ip",
+   "p": "appearance",
+   "v": "looked like helicopters in a V formation",
+   "quote": "One security guard said it was 100 feet (30 m) long and 300 yards (270 m) above the plant and looked like helicopters in a V formation."
+  },
+  {
+   "s": "imbrogno",
+   "p": "described",
+   "o": "craft_ip",
+   "quote": "According to Imbrogno, on June 14 and July 24, 1984, the guards saw a 900-foot (270 m) UFO hovering over the plant for 15 minutes."
+  },
+  {
+   "s": "craft_pollard",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "William A. Pollard, driving on Interstate 84, recounted to the New York Times that he saw an object hovering about 30 feet (9.1 m) above the ground in a field, \"a gigantic triangle with lights\"."
+  },
+  {
+   "s": "craft_pollard",
+   "p": "shape",
+   "v": "a gigantic triangle with lights",
+   "quote": "William A. Pollard, driving on Interstate 84, recounted to the New York Times that he saw an object hovering about 30 feet (9.1 m) above the ground in a field, \"a gigantic triangle with lights\"."
+  },
+  {
+   "s": "craft_pollard",
+   "p": "altitude",
+   "v": "about 30 feet (9.1 m) above the ground in a field",
+   "quote": "William A. Pollard, driving on Interstate 84, recounted to the New York Times that he saw an object hovering about 30 feet (9.1 m) above the ground in a field, \"a gigantic triangle with lights\"."
+  },
+  {
+   "s": "craft_pollard",
+   "p": "behavior",
+   "v": "shot straight up upon its lights going dark",
+   "quote": "The alleged object shot straight up upon its lights going dark."
+  },
+  {
+   "s": "craft_pollard",
+   "p": "appearance",
+   "v": "rigid",
+   "quote": "Pollard said he had seen the lights many times, but the first time was very different from everything he saw later; it was \"rigid\"."
+  },
+  {
+   "s": "pollard",
+   "p": "described",
+   "o": "craft_pollard",
+   "quote": "William A. Pollard, driving on Interstate 84, recounted to the New York Times that he saw an object hovering about 30 feet (9.1 m) above the ground in a field, \"a gigantic triangle with lights\"."
+  },
+  {
+   "s": "craft_lunn",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "At about 9:00 p.m. on Monday, August 20, 1984, Mahopac resident Irene Lunn reported that an object was heading south over a pond,"
+  },
+  {
+   "s": "craft_lunn",
+   "p": "date",
+   "v": "1984-08-20 (Monday)",
+   "quote": "At about 9:00 p.m. on Monday, August 20, 1984, Mahopac resident Irene Lunn reported that an object was heading south over a pond,"
+  },
+  {
+   "s": "craft_lunn",
+   "p": "time",
+   "v": "about 9:00 p.m.",
+   "quote": "At about 9:00 p.m. on Monday, August 20, 1984, Mahopac resident Irene Lunn reported that an object was heading south over a pond,"
+  },
+  {
+   "s": "craft_lunn",
+   "p": "direction",
+   "v": "heading south over a pond",
+   "quote": "At about 9:00 p.m. on Monday, August 20, 1984, Mahopac resident Irene Lunn reported that an object was heading south over a pond,"
+  },
+  {
+   "s": "craft_lunn",
+   "p": "altitude",
+   "v": "just clearing the trees",
+   "quote": "\"just clearing the trees....There was no sound at all, you could hear the crickets... about three-quarters the size of my house, with an L-shaped structure suspended underneath it...."
+  },
+  {
+   "s": "craft_lunn",
+   "p": "sound",
+   "v": "no sound at all",
+   "quote": "\"just clearing the trees....There was no sound at all, you could hear the crickets... about three-quarters the size of my house, with an L-shaped structure suspended underneath it...."
+  },
+  {
+   "s": "craft_lunn",
+   "p": "size",
+   "v": "about three-quarters the size of my house",
+   "quote": "\"just clearing the trees....There was no sound at all, you could hear the crickets... about three-quarters the size of my house, with an L-shaped structure suspended underneath it...."
+  },
+  {
+   "s": "craft_lunn",
+   "p": "structure",
+   "v": "L-shaped structure suspended underneath it",
+   "quote": "\"just clearing the trees....There was no sound at all, you could hear the crickets... about three-quarters the size of my house, with an L-shaped structure suspended underneath it...."
+  },
+  {
+   "s": "craft_lunn",
+   "p": "color",
+   "v": "all the lights went green, then red, then back to a pattern of green and red and white",
+   "quote": "At one point, all the lights went green, then red, then they went back to a pattern of green and red and white."
+  },
+  {
+   "s": "craft_lunn",
+   "p": "duration",
+   "v": "about 10 minutes",
+   "quote": "I felt like it was letting us know it knew we were watching it. That was scary. It went on for about 10 minutes."
+  },
+  {
+   "s": "lunn",
+   "p": "described",
+   "o": "craft_lunn",
+   "quote": "At about 9:00 p.m. on Monday, August 20, 1984, Mahopac resident Irene Lunn reported that an object was heading south over a pond,"
+  },
+  {
+   "s": "craft_pozz",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "On July 24, Brewster resident Bob Pozzuoli videotaped a luminous phenomenon that, to Pozzuoli, appeared to be an object flying as its lights rotated counterclockwise."
+  },
+  {
+   "s": "craft_pozz",
+   "p": "date",
+   "v": "July 24",
+   "quote": "On July 24, Brewster resident Bob Pozzuoli videotaped a luminous phenomenon that, to Pozzuoli, appeared to be an object flying as its lights rotated counterclockwise."
+  },
+  {
+   "s": "craft_pozz",
+   "p": "behavior",
+   "v": "lights rotated counterclockwise",
+   "quote": "On July 24, Brewster resident Bob Pozzuoli videotaped a luminous phenomenon that, to Pozzuoli, appeared to be an object flying as its lights rotated counterclockwise."
+  },
+  {
+   "s": "craft_pozz",
+   "p": "sound",
+   "v": "no sound audible on the recording",
+   "quote": "No sound was audible on the audio portion of the recording."
+  },
+  {
+   "s": "pozzuoli",
+   "p": "described",
+   "o": "craft_pozz",
+   "quote": "On July 24, Brewster resident Bob Pozzuoli videotaped a luminous phenomenon that, to Pozzuoli, appeared to be an object flying as its lights rotated counterclockwise."
+  },
+  {
+   "s": "cessnas",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "State police reported that Cessna 152s had flown in tight formation with bright lights that could change colors, the pilots of which expressed amusement at the confusion caused by their hoax."
+  },
+  {
+   "s": "cessnas",
+   "p": "stationed_at",
+   "o": "stormville",
+   "quote": "Spokesman for the New York Power Authority (NYPA) and Sergeant Spiro for Troop K of the New York State Police said \"they believed the sightings were Cessna 152s flown by pranksters out of Stormville Airport.\""
+  },
+  {
+   "s": "cessnas",
+   "p": "count",
+   "v": "five or six",
+   "quote": "According to state police, there were five or six such planes."
+  },
+  {
+   "s": "cessnas",
+   "p": "formation",
+   "v": "tight formation",
+   "quote": "State police reported that Cessna 152s had flown in tight formation with bright lights that could change colors, the pilots of which expressed amusement at the confusion caused by their hoax."
+  },
+  {
+   "s": "cessnas",
+   "p": "lights",
+   "v": "bright lights that could change colors",
+   "quote": "State police reported that Cessna 152s had flown in tight formation with bright lights that could change colors, the pilots of which expressed amusement at the confusion caused by their hoax."
+  },
+  {
+   "s": "cessnas",
+   "p": "paint",
+   "v": "undersides and under the wings painted black so they can't be seen from the ground",
+   "quote": "\"It was a group of light planes. They fly in formation. The undersides and under the wings are painted black, so they can't be seen from the ground. The planes are rigged with bright lights that they can turn from one color to another. It's the lights that give the shape to the U.F.O.\""
+  },
+  {
+   "s": "cessnas",
+   "p": "lights",
+   "v": "rigged with bright lights that can turn from one color to another",
+   "quote": "\"It was a group of light planes. They fly in formation. The undersides and under the wings are painted black, so they can't be seen from the ground. The planes are rigged with bright lights that they can turn from one color to another. It's the lights that give the shape to the U.F.O.\""
+  },
+  {
+   "s": "cessnas",
+   "p": "lights",
+   "v": "rotating beacon and navigation lights",
+   "quote": "In February 1984, a pilot interviewed by the Poughkeepsie Journal said he and other pilots \"[tested] their skills flying in a V shape using a rotating beacon and navigation lights. The formation might appear motionless because it is so wide and can be seen from long distances.\""
+  },
+  {
+   "s": "cessnas",
+   "p": "formation",
+   "v": "V shape; might appear motionless because it is so wide",
+   "quote": "In February 1984, a pilot interviewed by the Poughkeepsie Journal said he and other pilots \"[tested] their skills flying in a V shape using a rotating beacon and navigation lights. The formation might appear motionless because it is so wide and can be seen from long distances.\""
+  },
+  {
+   "s": "cessnas",
+   "p": "separation",
+   "v": "as little as 6 inches (15 cm) between wingtips",
+   "quote": "Discover Magazine in 1984 reported that a group of pilots practicing their formation skills, first in the daytime, then when they became more confident, at night, \"became tight formations of aircraft\", further adding that at times their proximity respective to one another closed to within as little as 6 inches (15 cm) between wingtips."
+  },
+  {
+   "s": "cessnas",
+   "p": "minimum_altitude",
+   "v": "as low as 500 feet (150 m) in areas of sparse population",
+   "quote": "According to Timothy L. Hartnett, the deputy director of the Eastern region of the FAA, planes \"can fly as close together as they feel safe...\" going on to say that their altitude can be as low as 500 feet (150 m) \"in areas of sparse population\"."
+  },
+  {
+   "s": "doc_video",
+   "p": "key_document",
+   "o": "case",
+   "quote": "On July 24, Brewster resident Bob Pozzuoli videotaped a luminous phenomenon that, to Pozzuoli, appeared to be an object flying as its lights rotated counterclockwise."
+  },
+  {
+   "s": "pozzuoli",
+   "p": "authored",
+   "o": "doc_video",
+   "quote": "On July 24, Brewster resident Bob Pozzuoli videotaped a luminous phenomenon that, to Pozzuoli, appeared to be an object flying as its lights rotated counterclockwise."
+  },
+  {
+   "s": "doc_video",
+   "p": "audio",
+   "v": "no sound audible on the audio portion",
+   "quote": "No sound was audible on the audio portion of the recording."
+  },
+  {
+   "s": "doc_foia",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Spokesman for the Nuclear Regulatory Commission (NRC) Brian Norris stated that they had received a FOIA request from Imbrogno for the Indian Point incident, but had \"no documentation of the sighting\"."
+  },
+  {
+   "s": "imbrogno",
+   "p": "authored",
+   "o": "doc_foia",
+   "quote": "Spokesman for the Nuclear Regulatory Commission (NRC) Brian Norris stated that they had received a FOIA request from Imbrogno for the Indian Point incident, but had \"no documentation of the sighting\"."
+  },
+  {
+   "s": "doc_foia",
+   "p": "result",
+   "v": "NRC had no documentation of the sighting",
+   "quote": "Spokesman for the Nuclear Regulatory Commission (NRC) Brian Norris stated that they had received a FOIA request from Imbrogno for the Indian Point incident, but had \"no documentation of the sighting\"."
+  },
+  {
+   "s": "doc_stills",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In their book and interviews, ufologists Hynek, Imbrogno, and Pratt publicized photographic stills of videotape evidence they believed depicted the UFO."
+  },
+  {
+   "s": "night_siege",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 1987,  Ballantine Books published Night Siege:  The Hudson Valley UFO sightings, by the late J. Allen Hynek, Phillip J. Imbrogno, and Bob Pratt."
+  },
+  {
+   "s": "night_siege",
+   "p": "publication_year",
+   "v": "1987",
+   "quote": "In 1987,  Ballantine Books published Night Siege:  The Hudson Valley UFO sightings, by the late J. Allen Hynek, Phillip J. Imbrogno, and Bob Pratt."
+  },
+  {
+   "s": "hynek",
+   "p": "authored",
+   "o": "night_siege",
+   "quote": "In 1987,  Ballantine Books published Night Siege:  The Hudson Valley UFO sightings, by the late J. Allen Hynek, Phillip J. Imbrogno, and Bob Pratt."
+  },
+  {
+   "s": "imbrogno",
+   "p": "authored",
+   "o": "night_siege",
+   "quote": "In 1987,  Ballantine Books published Night Siege:  The Hudson Valley UFO sightings, by the late J. Allen Hynek, Phillip J. Imbrogno, and Bob Pratt."
+  },
+  {
+   "s": "pratt",
+   "p": "authored",
+   "o": "night_siege",
+   "quote": "In 1987,  Ballantine Books published Night Siege:  The Hudson Valley UFO sightings, by the late J. Allen Hynek, Phillip J. Imbrogno, and Bob Pratt."
+  },
+  {
+   "s": "ballantine",
+   "p": "published",
+   "o": "night_siege",
+   "quote": "In 1987,  Ballantine Books published Night Siege:  The Hudson Valley UFO sightings, by the late J. Allen Hynek, Phillip J. Imbrogno, and Bob Pratt."
+  },
+  {
+   "s": "dunning",
+   "p": "disputed",
+   "o": "night_siege",
+   "quote": "Dunning speculated why despite these explanations, the \"Hudson Valley UFO phenomenon\" was popularized and books like Night Siege were written."
+  },
+  {
+   "s": "unsolved",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 1992, the sightings were the subject of an episode of Unsolved Mysteries."
+  },
+  {
+   "s": "unsolved",
+   "p": "episode_year",
+   "v": "1992",
+   "quote": "In 1992, the sightings were the subject of an episode of Unsolved Mysteries."
+  },
+  {
+   "s": "miale",
+   "p": "directed",
+   "o": "revolt",
+   "quote": "In 2017,  Brian Dunning interviewed Revolt film director Joe Miale about how his childhood memory of \"triangular craft with colored lights moving slowly over our houses\" in the Hudson Valley cemented his lifelong fascination with science fiction."
+  },
+  {
+   "s": "f_shape_boomerang",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to ufologist Peter Gersten, in the summer of 1984, his organization Citizens Against UFO Secrecy (CAUS) received hundreds of reports of a large boomerang-shaped object hovering over trees with lights and a \"slight buzz\"."
+  },
+  {
+   "s": "f_shape_boomerang",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Residents reported seeing objects about the size of an American football field, \"usually in a V-shape or a circle\", according to The New York Times, \"absolutely noiseless and outlined in brilliant lights of white, red or green\"."
+  },
+  {
+   "s": "f_shape_triangle",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "William A. Pollard, driving on Interstate 84, recounted to the New York Times that he saw an object hovering about 30 feet (9.1 m) above the ground in a field, \"a gigantic triangle with lights\"."
+  },
+  {
+   "s": "f_shape_triangle",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In 2017,  Brian Dunning interviewed Revolt film director Joe Miale about how his childhood memory of \"triangular craft with colored lights moving slowly over our houses\" in the Hudson Valley cemented his lifelong fascination with science fiction."
+  },
+  {
+   "s": "f_shape_other",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Residents reported seeing objects about the size of an American football field, \"usually in a V-shape or a circle\", according to The New York Times, \"absolutely noiseless and outlined in brilliant lights of white, red or green\"."
+  },
+  {
+   "s": "f_hovering",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The objects were also described as being able to shoot straight up in the sky and hover in the air for extended periods of time."
+  },
+  {
+   "s": "f_hovering",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to Imbrogno, on June 14 and July 24, 1984, the guards saw a 900-foot (270 m) UFO hovering over the plant for 15 minutes."
+  },
+  {
+   "s": "f_high_speed_maneuvers",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The objects were also described as being able to shoot straight up in the sky and hover in the air for extended periods of time."
+  },
+  {
+   "s": "f_silent",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Residents reported seeing objects about the size of an American football field, \"usually in a V-shape or a circle\", according to The New York Times, \"absolutely noiseless and outlined in brilliant lights of white, red or green\"."
+  },
+  {
+   "s": "f_silent",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "\"just clearing the trees....There was no sound at all, you could hear the crickets... about three-quarters the size of my house, with an L-shaped structure suspended underneath it...."
+  },
+  {
+   "s": "f_sound_reported",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to ufologist Peter Gersten, in the summer of 1984, his organization Citizens Against UFO Secrecy (CAUS) received hundreds of reports of a large boomerang-shaped object hovering over trees with lights and a \"slight buzz\"."
+  },
+  {
+   "s": "f_film_or_video",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "On July 24, Brewster resident Bob Pozzuoli videotaped a luminous phenomenon that, to Pozzuoli, appeared to be an object flying as its lights rotated counterclockwise."
+  },
+  {
+   "s": "f_film_or_video",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In their book and interviews, ufologists Hynek, Imbrogno, and Pratt publicized photographic stills of videotape evidence they believed depicted the UFO."
+  },
+  {
+   "s": "f_photograph",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to the manager of CPI Photo Finish in Yorktown, \"We're seeing quite a few U.F.O. pictures. People come in and hand you the film and say: 'Be careful with these. We ran outside with our camera because something was flying over our house.\""
+  },
+  {
+   "s": "f_nuclear_site_proximity",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Center for UFO Studies ufologist Philip Imbrogno stated he was approached by several guards from the Indian Point Nuclear Power Plant."
+  },
+  {
+   "s": "f_nuclear_site_proximity",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to Imbrogno, on June 14 and July 24, 1984, the guards saw a 900-foot (270 m) UFO hovering over the plant for 15 minutes."
+  },
+  {
+   "s": "f_mass_sighting",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to ufologist Peter Gersten, in the summer of 1984, his organization Citizens Against UFO Secrecy (CAUS) received hundreds of reports of a large boomerang-shaped object hovering over trees with lights and a \"slight buzz\"."
+  },
+  {
+   "s": "f_multiple_witnesses",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Residents reported seeing objects about the size of an American football field, \"usually in a V-shape or a circle\", according to The New York Times, \"absolutely noiseless and outlined in brilliant lights of white, red or green\"."
+  },
+  {
+   "s": "f_police_witnesses",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "A state police officer of Troop K stated that he had followed the lights to the small Stormville Airport in Dutchess County and reported back to Sgt. Kenneth V. Spiro, who explained to reporters:"
+  },
+  {
+   "s": "f_official_investigation",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "A state police officer of Troop K stated that he had followed the lights to the small Stormville Airport in Dutchess County and reported back to Sgt. Kenneth V. Spiro, who explained to reporters:"
+  },
+  {
+   "s": "f_hoax_alleged",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Spokesman for the New York Power Authority (NYPA) and Sergeant Spiro for Troop K of the New York State Police said \"they believed the sightings were Cessna 152s flown by pranksters out of Stormville Airport.\""
+  },
+  {
+   "s": "f_hoax_confessed",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "State police reported that Cessna 152s had flown in tight formation with bright lights that could change colors, the pilots of which expressed amusement at the confusion caused by their hoax."
+  },
+  {
+   "s": "f_child_witnesses",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In 2017,  Brian Dunning interviewed Revolt film director Joe Miale about how his childhood memory of \"triangular craft with colored lights moving slowly over our houses\" in the Hudson Valley cemented his lifelong fascination with science fiction."
+  },
+  {
+   "s": "x_aircraft",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Spokesman for the New York Power Authority (NYPA) and Sergeant Spiro for Troop K of the New York State Police said \"they believed the sightings were Cessna 152s flown by pranksters out of Stormville Airport.\""
+  },
+  {
+   "s": "x_aircraft",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "\"It was a group of light planes. They fly in formation. The undersides and under the wings are painted black, so they can't be seen from the ground. The planes are rigged with bright lights that they can turn from one color to another. It's the lights that give the shape to the U.F.O.\""
+  },
+  {
+   "s": "spiro",
+   "p": "proposed",
+   "o": "x_aircraft",
+   "quote": "\"It was a group of light planes. They fly in formation. The undersides and under the wings are painted black, so they can't be seen from the ground. The planes are rigged with bright lights that they can turn from one color to another. It's the lights that give the shape to the U.F.O.\""
+  },
+  {
+   "s": "nysp",
+   "p": "proposed",
+   "o": "x_aircraft",
+   "quote": "State police reported that Cessna 152s had flown in tight formation with bright lights that could change colors, the pilots of which expressed amusement at the confusion caused by their hoax."
+  },
+  {
+   "s": "nypa",
+   "p": "proposed",
+   "o": "x_aircraft",
+   "quote": "Spokesman for the New York Power Authority (NYPA) and Sergeant Spiro for Troop K of the New York State Police said \"they believed the sightings were Cessna 152s flown by pranksters out of Stormville Airport.\""
+  },
+  {
+   "s": "dunning",
+   "p": "proposed",
+   "o": "x_aircraft",
+   "quote": "This alleged UFO only existed at a time and place where the [pilots] were doing their nighttime formation flying. The UFO looked the same, behaved the same, it flew in the same way and in the same place."
+  },
+  {
+   "s": "x_hoax",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "State police reported that Cessna 152s had flown in tight formation with bright lights that could change colors, the pilots of which expressed amusement at the confusion caused by their hoax."
+  },
+  {
+   "s": "spiro",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "Spokesman for the New York Power Authority (NYPA) and Sergeant Spiro for Troop K of the New York State Police said \"they believed the sightings were Cessna 152s flown by pranksters out of Stormville Airport.\""
+  },
+  {
+   "s": "dunning",
+   "p": "disputed",
+   "o": "x_hoax",
+   "quote": "According to skeptical writer Brian Dunning, \"there's no evidence that these pilots ever intended a UFO hoax\""
+  },
+  {
+   "s": "x_misp",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Isn't it more likely that our human perceptual errors and confirmation bias and selective memory and all the other cognitive phenomena that shape our perceptions played some role here? Personally, I think it is."
+  },
+  {
+   "s": "dunning",
+   "p": "proposed",
+   "o": "x_misp",
+   "quote": "Isn't it more likely that our human perceptual errors and confirmation bias and selective memory and all the other cognitive phenomena that shape our perceptions played some role here? Personally, I think it is."
+  }
+ ]
+}

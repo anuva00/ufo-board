@@ -1,0 +1,1096 @@
+{
+ "slug": "antonio-vilas-boas",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Antônio Vilas-Boas abduction claim",
+   "description": "1957 claim by Brazilian farmer Antônio Vilas-Boas that he was taken aboard a landed craft by humanoids near São Francisco de Sales.",
+   "aliases": [
+    "Antônio Vilas-Boas",
+    "Vilas-Boas case",
+    "Antonio Villas Boas"
+   ]
+  },
+  {
+   "key": "avb",
+   "type": "person",
+   "name": "Antônio Vilas-Boas",
+   "description": "Brazilian farmer, later a lawyer, who claimed to have been abducted by extraterrestrials in 1957.",
+   "aliases": [
+    "Vilas-Boas",
+    "Boas",
+    "AVB",
+    "Antonio Villas Boas",
+    "ANTONIO VILLAS BOAS"
+   ]
+  },
+  {
+   "key": "father",
+   "type": "person",
+   "name": "Jerônimo Pedro Vilas-Boas",
+   "description": "Father of Antônio Vilas-Boas."
+  },
+  {
+   "key": "mother",
+   "type": "person",
+   "name": "Enésia Cândida de Oliveira",
+   "description": "Mother of Antônio Vilas-Boas."
+  },
+  {
+   "key": "fontes",
+   "type": "person",
+   "name": "Olavo Fontes",
+   "description": "Doctor of the National School of Medicine in Brazil who interviewed and medically examined Vilas-Boas in 1958.",
+   "aliases": [
+    "Fontes"
+   ]
+  },
+  {
+   "key": "martins",
+   "type": "person",
+   "name": "João Martins",
+   "description": "Journalist whom Vilas-Boas contacted after a newspaper ad seeking UFO experiences.",
+   "aliases": [
+    "Martins"
+   ]
+  },
+  {
+   "key": "melanson",
+   "type": "person",
+   "name": "Terry Melanson",
+   "description": "Writer quoted on Vilas-Boas's symptoms."
+  },
+  {
+   "key": "rogerson",
+   "type": "person",
+   "name": "Peter Rogerson",
+   "description": "Researcher who doubts the veracity of Vilas-Boas's story.",
+   "aliases": [
+    "Rogerson"
+   ]
+  },
+  {
+   "key": "bullard",
+   "type": "person",
+   "name": "Eddie Bullard",
+   "description": "Person cited by Rogerson on the Vilas-Boas family's social standing."
+  },
+  {
+   "key": "adamski",
+   "type": "person",
+   "name": "George Adamski",
+   "description": "Contactee whose stories Rogerson suggests Vilas-Boas borrowed elements from."
+  },
+  {
+   "key": "cavalcanti",
+   "type": "person",
+   "name": "Flávio Cavalcanti",
+   "description": "Named in an external link as conducting interviews for TV Tupi about the case."
+  },
+  {
+   "key": "sfs",
+   "type": "place",
+   "name": "São Francisco de Sales, Brazil",
+   "description": "Town where Vilas-Boas was born and near which the alleged abduction occurred.",
+   "aliases": [
+    "São Francisco de Sales"
+   ]
+  },
+  {
+   "key": "brazil",
+   "type": "place",
+   "name": "Brazil",
+   "description": "Country of the case."
+  },
+  {
+   "key": "nsm",
+   "type": "organization",
+   "name": "National School of Medicine",
+   "description": "Brazilian medical school with which Olavo Fontes was affiliated.",
+   "aliases": [
+    "National School of Medicine in Brazil"
+   ]
+  },
+  {
+   "key": "apro",
+   "type": "organization",
+   "name": "Aerial Phenomena Research Organization",
+   "description": "American UFO research group that Fontes was in contact with.",
+   "aliases": [
+    "APRO"
+   ]
+  },
+  {
+   "key": "sbesdv",
+   "type": "organization",
+   "name": "SBESDV Bulletin",
+   "description": "Brazilian UFO periodical carrying the earliest definite print reference to the story."
+  },
+  {
+   "key": "cruzeiro",
+   "type": "organization",
+   "name": "O Cruzeiro",
+   "description": "Periodical that printed a similar story in November 1957."
+  },
+  {
+   "key": "tvtupi",
+   "type": "organization",
+   "name": "TV Tupi",
+   "description": "Broadcaster named with the Flávio Cavalcanti interviews."
+  },
+  {
+   "key": "craft",
+   "type": "craft",
+   "name": "egg-shaped craft seen by Vilas-Boas on 15 October 1957",
+   "description": "Roughly circular or egg-shaped aerial craft with a red front light, rotating cupola and three legs."
+  },
+  {
+   "key": "tractor",
+   "type": "vehicle",
+   "name": "Vilas-Boas's tractor",
+   "description": "Tractor Vilas-Boas was using to plough and on which he tried to flee."
+  },
+  {
+   "key": "hill",
+   "type": "case",
+   "name": "Barney and Betty Hill incident",
+   "description": "Later abduction case that made the concept of alien abductions famous.",
+   "aliases": [
+    "Hill incident"
+   ]
+  },
+  {
+   "key": "interview",
+   "type": "work",
+   "name": "ANTONIO VILLAS BOAS - um dos maiores casos de abdução da ufologia",
+   "description": "Audio-only Flávio Cavalcanti (TV Tupi) interviews about the case, in Portuguese."
+  },
+  {
+   "key": "f_abd",
+   "type": "feature",
+   "name": "abduction-claim",
+   "description": "Claimed abduction."
+  },
+  {
+   "key": "f_occ",
+   "type": "feature",
+   "name": "occupants-reported",
+   "description": "Humanoid occupants reported."
+  },
+  {
+   "key": "f_land",
+   "type": "feature",
+   "name": "landing-reported",
+   "description": "Craft reported landing."
+  },
+  {
+   "key": "f_egg",
+   "type": "feature",
+   "name": "shape-oval-egg",
+   "description": "Egg-shaped craft."
+  },
+  {
+   "key": "f_em",
+   "type": "feature",
+   "name": "electromagnetic-interference",
+   "description": "Tractor lights and engine died."
+  },
+  {
+   "key": "f_phys",
+   "type": "feature",
+   "name": "physiological-effects",
+   "description": "Nausea, headaches, skin lesions afterwards."
+  },
+  {
+   "key": "f_hoax",
+   "type": "feature",
+   "name": "hoax-alleged",
+   "description": "Skeptics have suggested a hoax."
+  },
+  {
+   "key": "f_sex",
+   "type": "feature",
+   "name": "other:sexual encounter with occupant",
+   "description": "Claimed sexual intercourse with a female humanoid."
+  },
+  {
+   "key": "f_med",
+   "type": "feature",
+   "name": "other:blood samples taken",
+   "description": "Beings reportedly took blood samples."
+  },
+  {
+   "key": "f_rad",
+   "type": "feature",
+   "name": "other:radiation sickness diagnosed",
+   "description": "Examining doctor concluded radiation exposure."
+  },
+  {
+   "key": "x_hoax",
+   "type": "explanation",
+   "name": "hoax",
+   "description": "Story suggested to be a hoax."
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1957-10-15",
+   "quote": "On 15 October 1957, he was ploughing fields near São Francisco de Sales when he saw what he described as a \"red star\" in the night sky."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "night",
+   "quote": "At the time of his alleged abduction, Antônio Vilas-Boas was a 23-year-old Brazilian farmer who was working at night to avoid the hot temperatures of the day."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "Brazil",
+   "quote": "One reason why the [Vilas-Boas] story gained credibility was the prejudiced assumption that any farmer in the Brazilian interior had to be an illiterate peasant who 'couldn't make this up'."
+  },
+  {
+   "s": "case",
+   "p": "duration",
+   "v": "four hours",
+   "quote": "When Boas returned home, he discovered that four hours had passed."
+  },
+  {
+   "s": "case",
+   "p": "year",
+   "v": "1957",
+   "quote": "Antônio Vilas-Boas (1934–1991) was a Brazilian farmer (later a lawyer) who claimed to have been abducted by extraterrestrials in 1957."
+  },
+  {
+   "s": "case",
+   "p": "significance",
+   "v": "among the first alien abduction stories to receive widespread attention",
+   "quote": "Vilas-Boas's claims were among the first alien abduction stories to receive widespread attention."
+  },
+  {
+   "s": "case",
+   "p": "occupant_height",
+   "v": "5 feet (150 cm)",
+   "quote": "he was seized by a 5-foot-tall (150 cm) humanoid wearing grey coveralls and a helmet, whose eyes were described as small and blue."
+  },
+  {
+   "s": "case",
+   "p": "occupant_clothing",
+   "v": "grey coveralls and a helmet",
+   "quote": "he was seized by a 5-foot-tall (150 cm) humanoid wearing grey coveralls and a helmet, whose eyes were described as small and blue."
+  },
+  {
+   "s": "case",
+   "p": "occupant_eyes",
+   "v": "small and blue",
+   "quote": "he was seized by a 5-foot-tall (150 cm) humanoid wearing grey coveralls and a helmet, whose eyes were described as small and blue."
+  },
+  {
+   "s": "case",
+   "p": "occupant_sound",
+   "v": "vocalizations like barks or yelps instead of recognizable speech",
+   "quote": "The being reportedly produced vocalizations like barks or yelps instead of recognizable speech."
+  },
+  {
+   "s": "case",
+   "p": "occupant_count",
+   "v": "four beings subdued him (one, joined by three similar beings)",
+   "quote": "Three similar beings then joined the first in subduing Boas, and they dragged him inside their craft."
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "dragged inside the craft by the beings",
+   "quote": "Three similar beings then joined the first in subduing Boas, and they dragged him inside their craft."
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "stripped of his clothes and covered from head to toe with a strange gel",
+   "quote": "Boas said that he was stripped of his clothes and covered from head to toe with a strange gel."
+  },
+  {
+   "s": "case",
+   "p": "symbols_color",
+   "v": "red",
+   "quote": "He was then led through a doorway that had strange red symbols written over it into a large semicircular room."
+  },
+  {
+   "s": "case",
+   "p": "room_shape",
+   "v": "large semicircular room",
+   "quote": "He was then led through a doorway that had strange red symbols written over it into a large semicircular room."
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "memorized the symbols and later reproduced them for investigators",
+   "quote": "Boas claimed that he was able to memorize these symbols and later reproduced them for investigators."
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "beings took samples of his blood from his chin",
+   "quote": "In this room, the beings took samples of Boas's blood from his chin."
+  },
+  {
+   "s": "case",
+   "p": "time_left_alone",
+   "v": "around half an hour in a third room",
+   "quote": "He was subsequently taken to a third room and left alone for around half an hour."
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "unknown gas pumped into the room made him violently ill",
+   "quote": "an unknown type of gas was reportedly pumped into the room, which caused Boas to become violently ill."
+  },
+  {
+   "s": "case",
+   "p": "female_occupant",
+   "v": "female humanoid, very attractive and naked",
+   "quote": "This one, however, was female, very attractive, and naked."
+  },
+  {
+   "s": "case",
+   "p": "female_occupant_height",
+   "v": "same height as the other beings",
+   "quote": "She was the same height as the other beings he had encountered, with a small, pointed chin and large, blue catlike eyes."
+  },
+  {
+   "s": "case",
+   "p": "female_occupant_eyes",
+   "v": "large, blue, catlike",
+   "quote": "She was the same height as the other beings he had encountered, with a small, pointed chin and large, blue catlike eyes."
+  },
+  {
+   "s": "case",
+   "p": "female_occupant_chin",
+   "v": "small, pointed",
+   "quote": "She was the same height as the other beings he had encountered, with a small, pointed chin and large, blue catlike eyes."
+  },
+  {
+   "s": "case",
+   "p": "female_occupant_hair",
+   "v": "long and white (similar to platinum blonde); underarm and pubic hair bright red",
+   "quote": "The hair on her head was long and white (somewhat similar to a platinum blonde color) but her underarm and pubic hair were bright red."
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "the two had sexual intercourse",
+   "quote": "Boas said he was strongly attracted to the woman, and the two had sexual intercourse."
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "the female did not kiss him but nipped him on the chin",
+   "quote": "Boas noted that the female did not kiss him but instead nipped him on the chin."
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "the female smiled, rubbed her abdomen and gestured upwards",
+   "quote": "the female smiled at Boas, rubbing her abdomen and gesturing upwards."
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "felt he had been little more than \"a good stallion\" for the humanoids",
+   "quote": "Boas himself said that he felt angered by the situation, perceiving that he had been little more than \"a good stallion\" for the humanoids."
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "clothing returned and taken on a tour of the ship",
+   "quote": "Boas stated that his clothing was returned to him and that he was taken on a tour of the ship by the beings."
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "tried to take a clocklike device as proof but was prevented",
+   "quote": "he said that he attempted to take a clocklike device as proof of the encounter, but was caught by the humanoids and prevented from doing so."
+  },
+  {
+   "s": "case",
+   "p": "hypnotic_regression",
+   "v": "not used; reportedly recalled every detail",
+   "quote": "Vilas-Boas was reportedly able to recall every detail of his purported experience, and hypnotic regression was not used."
+  },
+  {
+   "s": "case",
+   "p": "first_came_to_light",
+   "v": "1958-02",
+   "quote": "According to researcher Peter Rogerson, the story first came to light in February 1958, and the earliest definite print reference to Boas's story was from the April–June 1962 issue of the Brazilian UFO periodical SBESDV Bulletin."
+  },
+  {
+   "s": "case",
+   "p": "earliest_print_reference",
+   "v": "April–June 1962 issue of SBESDV Bulletin",
+   "quote": "According to researcher Peter Rogerson, the story first came to light in February 1958, and the earliest definite print reference to Boas's story was from the April–June 1962 issue of the Brazilian UFO periodical SBESDV Bulletin."
+  },
+  {
+   "s": "case",
+   "p": "circulation_period",
+   "v": "1958 to 1962",
+   "quote": "Rogerson asserts that the story had definitely circulated between 1958 and 1962, further noting that it was probably recorded in print, although details are uncertain."
+  },
+  {
+   "s": "case",
+   "p": "credibility_argument",
+   "v": "assumption that a farmer in the Brazilian interior had to be an illiterate peasant who 'couldn't make this up'",
+   "quote": "One reason why the [Vilas-Boas] story gained credibility was the prejudiced assumption that any farmer in the Brazilian interior had to be an illiterate peasant who 'couldn't make this up'."
+  },
+  {
+   "s": "case",
+   "p": "ufologists_argument",
+   "v": "later argued he was too respectable and bourgeois to have made the story up",
+   "quote": "the ufologists who had considered him too much the rural simpleton to have made the story up now argued that he was too respectable and bourgeois to have done so"
+  },
+  {
+   "s": "avb",
+   "p": "witness",
+   "o": "case",
+   "quote": "Antônio Vilas-Boas (1934–1991) was a Brazilian farmer (later a lawyer) who claimed to have been abducted by extraterrestrials in 1957."
+  },
+  {
+   "s": "avb",
+   "p": "birth_year",
+   "v": "1934",
+   "quote": "Antônio Vilas-Boas (1934–1991) was a Brazilian farmer (later a lawyer) who claimed to have been abducted by extraterrestrials in 1957."
+  },
+  {
+   "s": "avb",
+   "p": "death_year",
+   "v": "1991",
+   "quote": "Antônio Vilas-Boas (1934–1991) was a Brazilian farmer (later a lawyer) who claimed to have been abducted by extraterrestrials in 1957."
+  },
+  {
+   "s": "avb",
+   "p": "nationality",
+   "v": "Brazilian",
+   "quote": "Antônio Vilas-Boas (1934–1991) was a Brazilian farmer (later a lawyer) who claimed to have been abducted by extraterrestrials in 1957."
+  },
+  {
+   "s": "avb",
+   "p": "occupation",
+   "v": "farmer",
+   "quote": "Antônio Vilas-Boas (1934–1991) was a Brazilian farmer (later a lawyer) who claimed to have been abducted by extraterrestrials in 1957."
+  },
+  {
+   "s": "avb",
+   "p": "later_occupation",
+   "v": "lawyer",
+   "quote": "Boas later became a lawyer, married, and had four children."
+  },
+  {
+   "s": "avb",
+   "p": "age",
+   "v": "23",
+   "quote": "At the time of his alleged abduction, Antônio Vilas-Boas was a 23-year-old Brazilian farmer who was working at night to avoid the hot temperatures of the day."
+  },
+  {
+   "s": "avb",
+   "p": "activity",
+   "v": "ploughing fields at night to avoid the hot temperatures of the day",
+   "quote": "At the time of his alleged abduction, Antônio Vilas-Boas was a 23-year-old Brazilian farmer who was working at night to avoid the hot temperatures of the day."
+  },
+  {
+   "s": "avb",
+   "p": "birthplace",
+   "v": "São Francisco de Sales",
+   "quote": "Antônio Vilas-Boas was the son of Jerônimo Pedro Vilas-Boas (1887–1963) and Enésia Cândida de Oliveira (1897–1963), and was born in São Francisco de Sales."
+  },
+  {
+   "s": "avb",
+   "p": "marital_status",
+   "v": "married",
+   "quote": "Boas later became a lawyer, married, and had four children."
+  },
+  {
+   "s": "avb",
+   "p": "children_count",
+   "v": "4",
+   "quote": "Boas later became a lawyer, married, and had four children."
+  },
+  {
+   "s": "avb",
+   "p": "death_date",
+   "v": "1991-01-17",
+   "quote": "Although some sources say he died in 1992, he died on 17 January 1991."
+  },
+  {
+   "s": "avb",
+   "p": "disputed_death_year",
+   "v": "some sources say 1992",
+   "quote": "Although some sources say he died in 1992, he died on 17 January 1991."
+  },
+  {
+   "s": "avb",
+   "p": "statement",
+   "v": "maintained the story of his alleged abduction throughout his entire life",
+   "quote": "He maintained the story of his alleged abduction throughout his entire life."
+  },
+  {
+   "s": "avb",
+   "p": "statement",
+   "v": "maintained his account throughout his life",
+   "quote": "Some skeptics have suggested the abduction story is a hoax, although Boas reportedly maintained his account throughout his life."
+  },
+  {
+   "s": "avb",
+   "p": "statement",
+   "v": "decided to run from the scene when the craft began to land",
+   "quote": "At that point, Boas decided to run from the scene."
+  },
+  {
+   "s": "avb",
+   "p": "symptoms",
+   "v": "nausea, weakness, headaches, and skin lesions",
+   "quote": "Boas claimed to have suffered from nausea, weakness, headaches, and lesions on his skin that appeared without any kind of light bruising."
+  },
+  {
+   "s": "avb",
+   "p": "symptoms",
+   "v": "pains throughout the body, nausea, headaches, loss of appetite, burning sensations in the eyes, cutaneous lesions",
+   "quote": "Among [Vilas-Boas's] symptoms were 'pains throughout the body, nausea, headaches, loss of appetite, ceaselessly burning sensations in the eyes, cutaneous lesions at the slightest of light bruising"
+  },
+  {
+   "s": "avb",
+   "p": "lesion_description",
+   "v": "small reddish nodules, hard, protuberant, painful, each with a small central orifice yielding a yellowish thin waterish discharge",
+   "quote": "looking like small reddish nodules, harder than the skin around them and protuberant, painful when touched, each with a small central orifice yielding a yellowish thin waterish discharge."
+  },
+  {
+   "s": "avb",
+   "p": "lesion_duration",
+   "v": "went on appearing for months",
+   "quote": "which went on appearing for months"
+  },
+  {
+   "s": "avb",
+   "p": "lesion_color",
+   "v": "hyperchromatic violet-tinged area around the wounds",
+   "quote": "The skin surrounding the wounds presented 'a hyperchromatic violet-tinged area.'"
+  },
+  {
+   "s": "avb",
+   "p": "diagnosis",
+   "v": "exposed to a large dose of radiation; mild radiation sickness",
+   "quote": "Fontes examined the farmer and concluded that he had been exposed to a large dose of radiation and was now suffering from mild radiation sickness."
+  },
+  {
+   "s": "avb",
+   "p": "education",
+   "v": "studying a correspondence course",
+   "quote": "We now know that AVB was a determinedly upwardly mobile young man, studying a correspondence course and eventually becoming a lawyer"
+  },
+  {
+   "s": "avb",
+   "p": "character",
+   "v": "determinedly upwardly mobile young man",
+   "quote": "We now know that AVB was a determinedly upwardly mobile young man, studying a correspondence course and eventually becoming a lawyer"
+  },
+  {
+   "s": "avb",
+   "p": "described",
+   "o": "craft",
+   "quote": "this \"star\" approached his position, growing in size until it became recognizable as a roughly circular or egg-shaped aerial craft, with a red light at its front and a rotating cupola on top."
+  },
+  {
+   "s": "avb",
+   "p": "piloted",
+   "o": "tractor",
+   "quote": "he first attempted to leave the area on his tractor, but when its lights and engine died after traveling only a short distance, he decided to continue on foot."
+  },
+  {
+   "s": "avb",
+   "p": "owned",
+   "o": "tractor",
+   "quote": "As Eddie Bullard pointed out to me, the fact that the Vilas-Boas family possessed a tractor put them well above the peasant class"
+  },
+  {
+   "s": "father",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Antônio Vilas-Boas was the son of Jerônimo Pedro Vilas-Boas (1887–1963) and Enésia Cândida de Oliveira (1897–1963), and was born in São Francisco de Sales."
+  },
+  {
+   "s": "father",
+   "p": "relative_of",
+   "o": "avb",
+   "quote": "Antônio Vilas-Boas was the son of Jerônimo Pedro Vilas-Boas (1887–1963) and Enésia Cândida de Oliveira (1897–1963), and was born in São Francisco de Sales."
+  },
+  {
+   "s": "father",
+   "p": "relationship",
+   "v": "father of Antônio Vilas-Boas",
+   "quote": "Antônio Vilas-Boas was the son of Jerônimo Pedro Vilas-Boas (1887–1963) and Enésia Cândida de Oliveira (1897–1963), and was born in São Francisco de Sales."
+  },
+  {
+   "s": "father",
+   "p": "birth_year",
+   "v": "1887",
+   "quote": "Antônio Vilas-Boas was the son of Jerônimo Pedro Vilas-Boas (1887–1963) and Enésia Cândida de Oliveira (1897–1963), and was born in São Francisco de Sales."
+  },
+  {
+   "s": "father",
+   "p": "death_year",
+   "v": "1963",
+   "quote": "Antônio Vilas-Boas was the son of Jerônimo Pedro Vilas-Boas (1887–1963) and Enésia Cândida de Oliveira (1897–1963), and was born in São Francisco de Sales."
+  },
+  {
+   "s": "mother",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Antônio Vilas-Boas was the son of Jerônimo Pedro Vilas-Boas (1887–1963) and Enésia Cândida de Oliveira (1897–1963), and was born in São Francisco de Sales."
+  },
+  {
+   "s": "mother",
+   "p": "relative_of",
+   "o": "avb",
+   "quote": "Antônio Vilas-Boas was the son of Jerônimo Pedro Vilas-Boas (1887–1963) and Enésia Cândida de Oliveira (1897–1963), and was born in São Francisco de Sales."
+  },
+  {
+   "s": "mother",
+   "p": "relationship",
+   "v": "mother of Antônio Vilas-Boas",
+   "quote": "Antônio Vilas-Boas was the son of Jerônimo Pedro Vilas-Boas (1887–1963) and Enésia Cândida de Oliveira (1897–1963), and was born in São Francisco de Sales."
+  },
+  {
+   "s": "mother",
+   "p": "birth_year",
+   "v": "1897",
+   "quote": "Antônio Vilas-Boas was the son of Jerônimo Pedro Vilas-Boas (1887–1963) and Enésia Cândida de Oliveira (1897–1963), and was born in São Francisco de Sales."
+  },
+  {
+   "s": "mother",
+   "p": "death_year",
+   "v": "1963",
+   "quote": "Antônio Vilas-Boas was the son of Jerônimo Pedro Vilas-Boas (1887–1963) and Enésia Cândida de Oliveira (1897–1963), and was born in São Francisco de Sales."
+  },
+  {
+   "s": "fontes",
+   "p": "investigator",
+   "o": "case",
+   "quote": "The existence of Vilas-Boas's testimony was made possible by Olavo Fontes, a doctor who performed a detailed interview and medical review in 1958."
+  },
+  {
+   "s": "fontes",
+   "p": "interviewed",
+   "o": "avb",
+   "quote": "The existence of Vilas-Boas's testimony was made possible by Olavo Fontes, a doctor who performed a detailed interview and medical review in 1958."
+  },
+  {
+   "s": "fontes",
+   "p": "occupation",
+   "v": "doctor",
+   "quote": "The existence of Vilas-Boas's testimony was made possible by Olavo Fontes, a doctor who performed a detailed interview and medical review in 1958."
+  },
+  {
+   "s": "fontes",
+   "p": "interview_year",
+   "v": "1958",
+   "quote": "The existence of Vilas-Boas's testimony was made possible by Olavo Fontes, a doctor who performed a detailed interview and medical review in 1958."
+  },
+  {
+   "s": "fontes",
+   "p": "member_of",
+   "o": "nsm",
+   "quote": "Upon hearing Boas's story, Martins contacted Olavo Fontes of the National School of Medicine in Brazil; Fontes was also in contact with the American UFO research group APRO."
+  },
+  {
+   "s": "fontes",
+   "p": "affiliation",
+   "v": "in contact with the American UFO research group APRO",
+   "quote": "Upon hearing Boas's story, Martins contacted Olavo Fontes of the National School of Medicine in Brazil; Fontes was also in contact with the American UFO research group APRO."
+  },
+  {
+   "s": "fontes",
+   "p": "conclusion",
+   "v": "Vilas-Boas had been exposed to a large dose of radiation and was suffering from mild radiation sickness",
+   "quote": "Fontes examined the farmer and concluded that he had been exposed to a large dose of radiation and was now suffering from mild radiation sickness."
+  },
+  {
+   "s": "fontes",
+   "p": "statement",
+   "v": "posited that the female's gesture indicated she would raise their child in space",
+   "quote": "Boas initially was afraid this meant she was going to return and take him, but Fontes later posited that the gesture indicated she would raise their child in space."
+  },
+  {
+   "s": "martins",
+   "p": "journalist",
+   "o": "case",
+   "quote": "he contacted journalist João Martins, who had placed an ad in a newspaper looking for people claiming to have had experiences with UFOs."
+  },
+  {
+   "s": "martins",
+   "p": "occupation",
+   "v": "journalist",
+   "quote": "he contacted journalist João Martins, who had placed an ad in a newspaper looking for people claiming to have had experiences with UFOs."
+  },
+  {
+   "s": "martins",
+   "p": "action",
+   "v": "placed a newspaper ad looking for people claiming experiences with UFOs",
+   "quote": "he contacted journalist João Martins, who had placed an ad in a newspaper looking for people claiming to have had experiences with UFOs."
+  },
+  {
+   "s": "martins",
+   "p": "action",
+   "v": "contacted Olavo Fontes upon hearing the story",
+   "quote": "Upon hearing Boas's story, Martins contacted Olavo Fontes of the National School of Medicine in Brazil; Fontes was also in contact with the American UFO research group APRO."
+  },
+  {
+   "s": "melanson",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Writer Terry Melanson states:"
+  },
+  {
+   "s": "melanson",
+   "p": "occupation",
+   "v": "writer",
+   "quote": "Writer Terry Melanson states:"
+  },
+  {
+   "s": "rogerson",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Researcher Peter Rogerson, however, doubts the veracity of Vilas-Boas's story."
+  },
+  {
+   "s": "rogerson",
+   "p": "occupation",
+   "v": "researcher",
+   "quote": "Researcher Peter Rogerson, however, doubts the veracity of Vilas-Boas's story."
+  },
+  {
+   "s": "rogerson",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "He notes that several months before Vilas-Boas first related his claims, a similar story had been printed in the November 1957 issue of the periodical O Cruzeiro, and suggests that Vilas-Boas borrowed details of this earlier account, along with elements of the contactee stories of George Adamski."
+  },
+  {
+   "s": "rogerson",
+   "p": "statement",
+   "v": "story first came to light in February 1958",
+   "quote": "According to researcher Peter Rogerson, the story first came to light in February 1958, and the earliest definite print reference to Boas's story was from the April–June 1962 issue of the Brazilian UFO periodical SBESDV Bulletin."
+  },
+  {
+   "s": "rogerson",
+   "p": "statement",
+   "v": "story definitely circulated between 1958 and 1962 and was probably recorded in print",
+   "quote": "Rogerson asserts that the story had definitely circulated between 1958 and 1962, further noting that it was probably recorded in print, although details are uncertain."
+  },
+  {
+   "s": "rogerson",
+   "p": "statement",
+   "v": "Vilas-Boas borrowed details of an earlier O Cruzeiro account and elements of George Adamski's contactee stories",
+   "quote": "He notes that several months before Vilas-Boas first related his claims, a similar story had been printed in the November 1957 issue of the periodical O Cruzeiro, and suggests that Vilas-Boas borrowed details of this earlier account, along with elements of the contactee stories of George Adamski."
+  },
+  {
+   "s": "rogerson",
+   "p": "statement",
+   "v": "the story gained credibility from a prejudiced assumption about farmers in the Brazilian interior",
+   "quote": "One reason why the [Vilas-Boas] story gained credibility was the prejudiced assumption that any farmer in the Brazilian interior had to be an illiterate peasant who 'couldn't make this up'."
+  },
+  {
+   "s": "bullard",
+   "p": "commentator",
+   "o": "case",
+   "quote": "As Eddie Bullard pointed out to me, the fact that the Vilas-Boas family possessed a tractor put them well above the peasant class"
+  },
+  {
+   "s": "bullard",
+   "p": "statement",
+   "v": "the Vilas-Boas family possessing a tractor put them well above the peasant class",
+   "quote": "As Eddie Bullard pointed out to me, the fact that the Vilas-Boas family possessed a tractor put them well above the peasant class"
+  },
+  {
+   "s": "adamski",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "He notes that several months before Vilas-Boas first related his claims, a similar story had been printed in the November 1957 issue of the periodical O Cruzeiro, and suggests that Vilas-Boas borrowed details of this earlier account, along with elements of the contactee stories of George Adamski."
+  },
+  {
+   "s": "adamski",
+   "p": "role",
+   "v": "contactee whose stories were allegedly a source of elements",
+   "quote": "He notes that several months before Vilas-Boas first related his claims, a similar story had been printed in the November 1957 issue of the periodical O Cruzeiro, and suggests that Vilas-Boas borrowed details of this earlier account, along with elements of the contactee stories of George Adamski."
+  },
+  {
+   "s": "cavalcanti",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Flávio Cavalcanti (TV Tupi) interviews (audio only) \"ANTONIO VILLAS BOAS - um dos maiores casos de abdução da ufologia\"."
+  },
+  {
+   "s": "cavalcanti",
+   "p": "authored",
+   "o": "interview",
+   "quote": "Flávio Cavalcanti (TV Tupi) interviews (audio only) \"ANTONIO VILLAS BOAS - um dos maiores casos de abdução da ufologia\"."
+  },
+  {
+   "s": "sfs",
+   "p": "near",
+   "o": "case",
+   "quote": "On 15 October 1957, he was ploughing fields near São Francisco de Sales when he saw what he described as a \"red star\" in the night sky."
+  },
+  {
+   "s": "brazil",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "One reason why the [Vilas-Boas] story gained credibility was the prejudiced assumption that any farmer in the Brazilian interior had to be an illiterate peasant who 'couldn't make this up'."
+  },
+  {
+   "s": "nsm",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Upon hearing Boas's story, Martins contacted Olavo Fontes of the National School of Medicine in Brazil; Fontes was also in contact with the American UFO research group APRO."
+  },
+  {
+   "s": "nsm",
+   "p": "located_in",
+   "o": "brazil",
+   "quote": "Upon hearing Boas's story, Martins contacted Olavo Fontes of the National School of Medicine in Brazil; Fontes was also in contact with the American UFO research group APRO."
+  },
+  {
+   "s": "apro",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Upon hearing Boas's story, Martins contacted Olavo Fontes of the National School of Medicine in Brazil; Fontes was also in contact with the American UFO research group APRO."
+  },
+  {
+   "s": "apro",
+   "p": "description",
+   "v": "American UFO research group",
+   "quote": "Upon hearing Boas's story, Martins contacted Olavo Fontes of the National School of Medicine in Brazil; Fontes was also in contact with the American UFO research group APRO."
+  },
+  {
+   "s": "sbesdv",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "According to researcher Peter Rogerson, the story first came to light in February 1958, and the earliest definite print reference to Boas's story was from the April–June 1962 issue of the Brazilian UFO periodical SBESDV Bulletin."
+  },
+  {
+   "s": "sbesdv",
+   "p": "description",
+   "v": "Brazilian UFO periodical",
+   "quote": "According to researcher Peter Rogerson, the story first came to light in February 1958, and the earliest definite print reference to Boas's story was from the April–June 1962 issue of the Brazilian UFO periodical SBESDV Bulletin."
+  },
+  {
+   "s": "sbesdv",
+   "p": "issue",
+   "v": "April–June 1962",
+   "quote": "According to researcher Peter Rogerson, the story first came to light in February 1958, and the earliest definite print reference to Boas's story was from the April–June 1962 issue of the Brazilian UFO periodical SBESDV Bulletin."
+  },
+  {
+   "s": "cruzeiro",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "He notes that several months before Vilas-Boas first related his claims, a similar story had been printed in the November 1957 issue of the periodical O Cruzeiro, and suggests that Vilas-Boas borrowed details of this earlier account, along with elements of the contactee stories of George Adamski."
+  },
+  {
+   "s": "cruzeiro",
+   "p": "issue",
+   "v": "November 1957",
+   "quote": "He notes that several months before Vilas-Boas first related his claims, a similar story had been printed in the November 1957 issue of the periodical O Cruzeiro, and suggests that Vilas-Boas borrowed details of this earlier account, along with elements of the contactee stories of George Adamski."
+  },
+  {
+   "s": "cruzeiro",
+   "p": "content",
+   "v": "printed a similar story several months before Vilas-Boas first related his claims",
+   "quote": "He notes that several months before Vilas-Boas first related his claims, a similar story had been printed in the November 1957 issue of the periodical O Cruzeiro, and suggests that Vilas-Boas borrowed details of this earlier account, along with elements of the contactee stories of George Adamski."
+  },
+  {
+   "s": "tvtupi",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Flávio Cavalcanti (TV Tupi) interviews (audio only) \"ANTONIO VILLAS BOAS - um dos maiores casos de abdução da ufologia\"."
+  },
+  {
+   "s": "interview",
+   "p": "part_of",
+   "o": "tvtupi",
+   "quote": "Flávio Cavalcanti (TV Tupi) interviews (audio only) \"ANTONIO VILLAS BOAS - um dos maiores casos de abdução da ufologia\"."
+  },
+  {
+   "s": "craft",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "this \"star\" approached his position, growing in size until it became recognizable as a roughly circular or egg-shaped aerial craft, with a red light at its front and a rotating cupola on top."
+  },
+  {
+   "s": "craft",
+   "p": "shape",
+   "v": "roughly circular or egg-shaped",
+   "quote": "this \"star\" approached his position, growing in size until it became recognizable as a roughly circular or egg-shaped aerial craft, with a red light at its front and a rotating cupola on top."
+  },
+  {
+   "s": "craft",
+   "p": "light_color",
+   "v": "red light at its front",
+   "quote": "this \"star\" approached his position, growing in size until it became recognizable as a roughly circular or egg-shaped aerial craft, with a red light at its front and a rotating cupola on top."
+  },
+  {
+   "s": "craft",
+   "p": "structure",
+   "v": "rotating cupola on top",
+   "quote": "this \"star\" approached his position, growing in size until it became recognizable as a roughly circular or egg-shaped aerial craft, with a red light at its front and a rotating cupola on top."
+  },
+  {
+   "s": "craft",
+   "p": "initial_appearance",
+   "v": "\"red star\" in the night sky",
+   "quote": "On 15 October 1957, he was ploughing fields near São Francisco de Sales when he saw what he described as a \"red star\" in the night sky."
+  },
+  {
+   "s": "craft",
+   "p": "color",
+   "v": "red",
+   "quote": "On 15 October 1957, he was ploughing fields near São Francisco de Sales when he saw what he described as a \"red star\" in the night sky."
+  },
+  {
+   "s": "craft",
+   "p": "landing_gear",
+   "v": "three \"legs\"",
+   "quote": "The craft began descending to land in the field, extending three \"legs\" as it did so."
+  },
+  {
+   "s": "craft",
+   "p": "leg_count",
+   "v": "3",
+   "quote": "The craft began descending to land in the field, extending three \"legs\" as it did so."
+  },
+  {
+   "s": "craft",
+   "p": "departure",
+   "v": "glowing brightly as it left",
+   "quote": "He was then escorted outside and looked on as the ship departed, glowing brightly as it left."
+  },
+  {
+   "s": "craft",
+   "p": "interior",
+   "v": "doorway with strange red symbols leading into a large semicircular room",
+   "quote": "He was then led through a doorway that had strange red symbols written over it into a large semicircular room."
+  },
+  {
+   "s": "craft",
+   "p": "room_count",
+   "v": "at least three rooms (taken to a third room)",
+   "quote": "He was subsequently taken to a third room and left alone for around half an hour."
+  },
+  {
+   "s": "tractor",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "he first attempted to leave the area on his tractor, but when its lights and engine died after traveling only a short distance, he decided to continue on foot."
+  },
+  {
+   "s": "tractor",
+   "p": "effect",
+   "v": "lights and engine died after traveling only a short distance",
+   "quote": "he first attempted to leave the area on his tractor, but when its lights and engine died after traveling only a short distance, he decided to continue on foot."
+  },
+  {
+   "s": "hill",
+   "p": "related_case",
+   "o": "case",
+   "quote": "the encounter occurred in 1957, which was still several years before the Hill incident made the concept of alien abductions famous and helped spur the reporting of similar alleged experiences."
+  },
+  {
+   "s": "hill",
+   "p": "relation",
+   "v": "occurred several years after the Vilas-Boas encounter; made alien abductions famous",
+   "quote": "the encounter occurred in 1957, which was still several years before the Hill incident made the concept of alien abductions famous and helped spur the reporting of similar alleged experiences."
+  },
+  {
+   "s": "interview",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Flávio Cavalcanti (TV Tupi) interviews (audio only) \"ANTONIO VILLAS BOAS - um dos maiores casos de abdução da ufologia\"."
+  },
+  {
+   "s": "interview",
+   "p": "format",
+   "v": "audio only",
+   "quote": "Flávio Cavalcanti (TV Tupi) interviews (audio only) \"ANTONIO VILLAS BOAS - um dos maiores casos de abdução da ufologia\"."
+  },
+  {
+   "s": "interview",
+   "p": "language",
+   "v": "Portuguese",
+   "quote": "www.youtube.com (in Portuguese)."
+  },
+  {
+   "s": "f_abd",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Antônio Vilas-Boas (1934–1991) was a Brazilian farmer (later a lawyer) who claimed to have been abducted by extraterrestrials in 1957."
+  },
+  {
+   "s": "f_occ",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "he was seized by a 5-foot-tall (150 cm) humanoid wearing grey coveralls and a helmet, whose eyes were described as small and blue."
+  },
+  {
+   "s": "f_land",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The craft began descending to land in the field, extending three \"legs\" as it did so."
+  },
+  {
+   "s": "f_egg",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "this \"star\" approached his position, growing in size until it became recognizable as a roughly circular or egg-shaped aerial craft, with a red light at its front and a rotating cupola on top."
+  },
+  {
+   "s": "f_em",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "he first attempted to leave the area on his tractor, but when its lights and engine died after traveling only a short distance, he decided to continue on foot."
+  },
+  {
+   "s": "f_phys",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Boas claimed to have suffered from nausea, weakness, headaches, and lesions on his skin that appeared without any kind of light bruising."
+  },
+  {
+   "s": "f_hoax",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Some skeptics have suggested the abduction story is a hoax, although Boas reportedly maintained his account throughout his life."
+  },
+  {
+   "s": "f_sex",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Boas said he was strongly attracted to the woman, and the two had sexual intercourse."
+  },
+  {
+   "s": "f_med",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In this room, the beings took samples of Boas's blood from his chin."
+  },
+  {
+   "s": "f_rad",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Fontes examined the farmer and concluded that he had been exposed to a large dose of radiation and was now suffering from mild radiation sickness."
+  },
+  {
+   "s": "x_hoax",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Some skeptics have suggested the abduction story is a hoax, although Boas reportedly maintained his account throughout his life."
+  }
+ ]
+}

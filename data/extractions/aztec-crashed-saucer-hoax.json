@@ -1,0 +1,2199 @@
+{
+ "slug": "aztec-crashed-saucer-hoax",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Aztec crashed saucer hoax",
+   "aliases": [
+    "other Roswell",
+    "Aztec crash",
+    "Aztec hoax",
+    "Aztec UFO incident",
+    "Aztec crash story"
+   ],
+   "description": "Allegation that a flying saucer crashed near Aztec, New Mexico in 1948, exposed in 1952 as a hoax by two con men."
+  },
+  {
+   "key": "craft",
+   "type": "craft",
+   "name": "Flying saucer allegedly recovered in Hart Canyon near Aztec in March 1948",
+   "aliases": [
+    "Aztec saucer",
+    "crashed UFO"
+   ],
+   "description": "The craft of Scully's story, said to have made a controlled landing and been recovered by the military."
+  },
+  {
+   "key": "craft_memo",
+   "type": "craft",
+   "name": "Three circular craft described in the Hottel memo",
+   "description": "Objects said in the 1950 FBI memo to have been recovered in New Mexico."
+  },
+  {
+   "key": "scully",
+   "type": "person",
+   "name": "Frank Scully",
+   "aliases": [
+    "Scully"
+   ],
+   "description": "Journalist and author who first published the Aztec crash story."
+  },
+  {
+   "key": "newton",
+   "type": "person",
+   "name": "Silas M. Newton",
+   "aliases": [
+    "Silas Newton",
+    "Newton"
+   ],
+   "description": "Con man who fabricated the Aztec crash story to sell supposed alien-technology devices."
+  },
+  {
+   "key": "gebauer",
+   "type": "person",
+   "name": "Leo A. Gebauer",
+   "aliases": [
+    "Gebauer"
+   ],
+   "description": "Con man and partner of Silas Newton in the Aztec hoax."
+  },
+  {
+   "key": "hottel",
+   "type": "person",
+   "name": "Guy Hottel",
+   "aliases": [
+    "Hottel"
+   ],
+   "description": "FBI agent who wrote a 1950 memo relaying a crashed-saucer account."
+  },
+  {
+   "key": "gardner",
+   "type": "person",
+   "name": "Martin Gardner",
+   "description": "Science writer who criticised Scully's story."
+  },
+  {
+   "key": "clark",
+   "type": "person",
+   "name": "Jerome Clark",
+   "aliases": [
+    "Clark"
+   ],
+   "description": "American UFO writer who documented the lack of evidence for the Aztec crash."
+  },
+  {
+   "key": "keyhoe",
+   "type": "person",
+   "name": "Donald Keyhoe",
+   "description": "Pioneering ufologist who dismissed Scully's narrative."
+  },
+  {
+   "key": "cahn",
+   "type": "person",
+   "name": "J. P. Cahn",
+   "aliases": [
+    "Cahn"
+   ],
+   "description": "San Francisco Chronicle journalist who exposed the hoax in True magazine in 1952."
+  },
+  {
+   "key": "flader",
+   "type": "person",
+   "name": "Herman Flader",
+   "description": "Millionaire victim of Newton and Gebauer who pressed charges."
+  },
+  {
+   "key": "carr",
+   "type": "person",
+   "name": "Robert Spencer Carr",
+   "aliases": [
+    "Carr"
+   ],
+   "description": "Ufologist who in 1974 claimed Aztec alien bodies were stored at Hangar 18."
+  },
+  {
+   "key": "stringfield",
+   "type": "person",
+   "name": "Leonard Stringfield",
+   "description": "Author who in the late 1970s said the Aztec incident was real."
+  },
+  {
+   "key": "s_ramsey",
+   "type": "person",
+   "name": "Scott Ramsey",
+   "aliases": [
+    "Ramsey"
+   ],
+   "description": "Primary author of the 2012 book The Aztec UFO Incident."
+  },
+  {
+   "key": "su_ramsey",
+   "type": "person",
+   "name": "Suzanne Ramsey",
+   "description": "Co-author of The Aztec UFO Incident."
+  },
+  {
+   "key": "thayer",
+   "type": "person",
+   "name": "Frank Thayer",
+   "aliases": [
+    "Thayer"
+   ],
+   "description": "Co-author of The Aztec UFO Incident."
+  },
+  {
+   "key": "thomas",
+   "type": "person",
+   "name": "David E. Thomas",
+   "description": "Researcher with New Mexicans for Science and Reason who tied the Hottel memo to the Aztec story."
+  },
+  {
+   "key": "radford",
+   "type": "person",
+   "name": "Benjamin Radford",
+   "aliases": [
+    "Ben Radford",
+    "Radford"
+   ],
+   "description": "Writer with The Christian Science Monitor who commented on the Hottel memo."
+  },
+  {
+   "key": "howe",
+   "type": "person",
+   "name": "Karl Howe",
+   "aliases": [
+    "KARL HOWE",
+    "Howe"
+   ],
+   "description": "Informant named in the unredacted Hottel memo."
+  },
+  {
+   "key": "variety",
+   "type": "organization",
+   "name": "Variety",
+   "aliases": [
+    "Variety magazine"
+   ],
+   "description": "Magazine in which Scully's columns appeared."
+  },
+  {
+   "key": "fbi",
+   "type": "organization",
+   "name": "Federal Bureau of Investigation",
+   "aliases": [
+    "FBI",
+    "the bureau",
+    "the Bureau"
+   ],
+   "description": "US federal agency whose 1950 memo was linked to the Aztec story."
+  },
+  {
+   "key": "wfo",
+   "type": "organization",
+   "name": "FBI Washington Field Office",
+   "aliases": [
+    "Washington Field Office",
+    "FBI's Washington Field Office"
+   ],
+   "description": "FBI field office of which Guy Hottel was special agent in charge."
+  },
+  {
+   "key": "ibt",
+   "type": "organization",
+   "name": "International Business Times",
+   "description": "News outlet noting the absence of contemporary press accounts."
+  },
+  {
+   "key": "sfc",
+   "type": "organization",
+   "name": "San Francisco Chronicle",
+   "description": "Newspaper of journalist J. P. Cahn."
+  },
+  {
+   "key": "true",
+   "type": "organization",
+   "name": "True",
+   "aliases": [
+    "True magazine"
+   ],
+   "description": "Magazine in which Cahn exposed the hoax in 1952."
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "aliases": [
+    "the Air Force",
+    "Air Force"
+   ],
+   "description": "US military air service that denied Carr's Hangar 18 claims."
+  },
+  {
+   "key": "military",
+   "type": "organization",
+   "name": "United States Armed Forces",
+   "aliases": [
+    "the military",
+    "U.S. military"
+   ],
+   "description": "The military said in the story to have recovered the craft."
+  },
+  {
+   "key": "nmsr",
+   "type": "organization",
+   "name": "New Mexicans for Science and Reason",
+   "description": "Group with which researcher David E. Thomas is associated."
+  },
+  {
+   "key": "echo",
+   "type": "organization",
+   "name": "The Wyandotte Echo",
+   "aliases": [
+    "Wyandotte Echo"
+   ],
+   "description": "Newspaper that printed a January 1950 story traced thirdhand to Newton."
+  },
+  {
+   "key": "csm",
+   "type": "organization",
+   "name": "The Christian Science Monitor",
+   "aliases": [
+    "Christian Science Monitor"
+   ],
+   "description": "Newspaper with which Benjamin Radford wrote about the memo."
+  },
+  {
+   "key": "blackvault",
+   "type": "organization",
+   "name": "The Black Vault",
+   "description": "Organisation that obtained an unredacted copy of the Hottel memo in August 2022."
+  },
+  {
+   "key": "mpd",
+   "type": "organization",
+   "name": "Metropolitan Police Department of the District of Columbia",
+   "aliases": [
+    "Metropolitan Police Department"
+   ],
+   "description": "Police department presumed to be the employer of informant Karl Howe."
+  },
+  {
+   "key": "symposium",
+   "type": "organization",
+   "name": "Aztec UFO Symposium",
+   "description": "Annual fundraiser inspired by the incident."
+  },
+  {
+   "key": "aztec",
+   "type": "place",
+   "name": "Aztec, New Mexico",
+   "aliases": [
+    "Aztec",
+    "city of Aztec"
+   ],
+   "description": "City near which the saucer was alleged to have crashed."
+  },
+  {
+   "key": "nm",
+   "type": "place",
+   "name": "New Mexico",
+   "description": "US state of the alleged crash."
+  },
+  {
+   "key": "hart",
+   "type": "place",
+   "name": "Hart Canyon",
+   "description": "Canyon northeast of Aztec where the craft was said to have landed."
+  },
+  {
+   "key": "sahara",
+   "type": "place",
+   "name": "Sahara Desert",
+   "description": "Where Scully claimed a similar craft was found."
+  },
+  {
+   "key": "wpafb",
+   "type": "place",
+   "name": "Wright-Patterson Air Force Base",
+   "aliases": [
+    "Wright-Patterson"
+   ],
+   "description": "Base where alien bodies were rumoured to be stored."
+  },
+  {
+   "key": "hangar18",
+   "type": "place",
+   "name": "Hangar 18",
+   "aliases": [
+    "Hangar 18 (conspiracy theory)"
+   ],
+   "description": "Alleged building at Wright-Patterson where bodies and materials were stored."
+  },
+  {
+   "key": "dc",
+   "type": "place",
+   "name": "Washington, D.C.",
+   "aliases": [
+    "District of Columbia",
+    "Washington"
+   ],
+   "description": "US capital district of the FBI field office and presumed police department."
+  },
+  {
+   "key": "hottel_memo",
+   "type": "document",
+   "name": "Hottel memo",
+   "aliases": [
+    "Guy Hottel memo",
+    "FBI memo",
+    "1950 memo by FBI agent Guy Hottel"
+   ],
+   "description": "One-page FBI memorandum of March 22, 1950 relaying a third-party account of recovered saucers."
+  },
+  {
+   "key": "vault",
+   "type": "document",
+   "name": "The Vault",
+   "aliases": [
+    "the Vault",
+    "FBI Vault"
+   ],
+   "description": "FBI online repository of public records released under the Freedom of Information Act."
+  },
+  {
+   "key": "foia",
+   "type": "document",
+   "name": "Freedom of Information Act",
+   "description": "Law under which the FBI's Vault records were released."
+  },
+  {
+   "key": "columns",
+   "type": "work",
+   "name": "Frank Scully's 1949 Variety columns",
+   "description": "Series of columns that first published the crash story."
+  },
+  {
+   "key": "bfs",
+   "type": "work",
+   "name": "Behind the Flying Saucers",
+   "description": "Frank Scully's 1950 best-selling book expanding his columns on the crash story."
+  },
+  {
+   "key": "cahn_article",
+   "type": "work",
+   "name": "J. P. Cahn's 1952 True magazine article",
+   "description": "Article in which Cahn exposed the hoax."
+  },
+  {
+   "key": "exeter",
+   "type": "work",
+   "name": "Incident at Exeter",
+   "description": "1966 book that mentioned rumours of alien bodies at Wright-Patterson Air Force Base."
+  },
+  {
+   "key": "fortec",
+   "type": "work",
+   "name": "The Fortec Conspiracy",
+   "description": "1968 science fiction novel inspired by the Wright-Patterson rumours."
+  },
+  {
+   "key": "aui",
+   "type": "work",
+   "name": "The Aztec UFO Incident",
+   "description": "2012 book by Scott and Suzanne Ramsey and Frank Thayer alleging the crash was legitimate."
+  },
+  {
+   "key": "mnm",
+   "type": "work",
+   "name": "Mysterious New Mexico",
+   "description": "2014 book by Ben Radford with a chapter on the Aztec crash."
+  },
+  {
+   "key": "roswell",
+   "type": "case",
+   "name": "Roswell incident",
+   "aliases": [
+    "Roswell Incident",
+    "Roswell crash",
+    "Roswell"
+   ],
+   "description": "Better-known alleged 1947 saucer crash whose narratives absorbed Aztec elements."
+  },
+  {
+   "key": "twinfalls",
+   "type": "case",
+   "name": "Twin Falls Saucer Hoax",
+   "description": "Another saucer hoax listed as related."
+  },
+  {
+   "key": "f_disc",
+   "type": "feature",
+   "name": "shape-disc"
+  },
+  {
+   "key": "f_crash",
+   "type": "feature",
+   "name": "crash-retrieval-claim"
+  },
+  {
+   "key": "f_occ",
+   "type": "feature",
+   "name": "occupants-reported"
+  },
+  {
+   "key": "f_land",
+   "type": "feature",
+   "name": "landing-reported"
+  },
+  {
+   "key": "f_cover",
+   "type": "feature",
+   "name": "alleged-cover-up"
+  },
+  {
+   "key": "f_hoax",
+   "type": "feature",
+   "name": "hoax-alleged"
+  },
+  {
+   "key": "f_debris",
+   "type": "feature",
+   "name": "debris-or-material"
+  },
+  {
+   "key": "f_fraud",
+   "type": "feature",
+   "name": "other:fraud-conviction"
+  },
+  {
+   "key": "x_hoax",
+   "type": "explanation",
+   "name": "hoax"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1948-03",
+   "quote": "According to Scully, in March 1948, an unidentified aerial craft containing sixteen humanoid bodies was recovered by the military in New Mexico after making a controlled landing in Hart Canyon 12 mi (19 km) northeast of the city of Aztec."
+  },
+  {
+   "s": "case",
+   "p": "year",
+   "v": "1948",
+   "quote": "The Aztec crashed saucer hoax  (sometimes known as the \"other Roswell\") was the allegation that a flying saucer crashed in 1948 in Aztec, New Mexico."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "The Aztec crashed saucer hoax  (sometimes known as the \"other Roswell\") was the allegation that a flying saucer crashed in 1948 in Aztec, New Mexico."
+  },
+  {
+   "s": "case",
+   "p": "nickname",
+   "v": "other Roswell",
+   "quote": "The Aztec crashed saucer hoax  (sometimes known as the \"other Roswell\") was the allegation that a flying saucer crashed in 1948 in Aztec, New Mexico."
+  },
+  {
+   "s": "case",
+   "p": "description",
+   "v": "allegation that a flying saucer crashed in 1948 in Aztec, New Mexico",
+   "quote": "The Aztec crashed saucer hoax  (sometimes known as the \"other Roswell\") was the allegation that a flying saucer crashed in 1948 in Aztec, New Mexico."
+  },
+  {
+   "s": "case",
+   "p": "first_published_year",
+   "v": "1949",
+   "quote": "The story was first published in 1949 by journalist Frank Scully in his Variety magazine columns, and later in his 1950 book Behind the Flying Saucers."
+  },
+  {
+   "s": "case",
+   "p": "hoax_exposed_year",
+   "v": "1952",
+   "quote": "In 1952, the story was exposed as a hoax fabricated by two con men, Silas M. Newton and Leo A. Gebauer, as part of a fraudulent scheme to sell materials claimed to incorporate extraterrestrial technology; they were convicted of fraud for this enterprise in 1953."
+  },
+  {
+   "s": "case",
+   "p": "hoax_purpose",
+   "v": "fraudulent scheme to sell materials claimed to incorporate extraterrestrial technology",
+   "quote": "In 1952, the story was exposed as a hoax fabricated by two con men, Silas M. Newton and Leo A. Gebauer, as part of a fraudulent scheme to sell materials claimed to incorporate extraterrestrial technology; they were convicted of fraud for this enterprise in 1953."
+  },
+  {
+   "s": "case",
+   "p": "fraud_conviction_year",
+   "v": "1953",
+   "quote": "In 1952, the story was exposed as a hoax fabricated by two con men, Silas M. Newton and Leo A. Gebauer, as part of a fraudulent scheme to sell materials claimed to incorporate extraterrestrial technology; they were convicted of fraud for this enterprise in 1953."
+  },
+  {
+   "s": "case",
+   "p": "revival",
+   "v": "beginning in the 1970s some ufologists resurrected the story in books claiming the crash was real",
+   "quote": "Beginning in the 1970s, some ufologists resurrected the story in books claiming the purported crash was real."
+  },
+  {
+   "s": "case",
+   "p": "influence",
+   "v": "aspects such as recovery of alien bodies and a saucer-shaped craft of seemingly indestructible metal became intertwined with Roswell narratives",
+   "quote": "Aspects of the Aztec hoax, such as the recovery of alien bodies and a saucer-shaped craft incorporating seemingly indestructible metal, have become intertwined with narratives about the better-known Roswell incident."
+  },
+  {
+   "s": "case",
+   "p": "body_count",
+   "v": "16",
+   "quote": "According to Scully, in March 1948, an unidentified aerial craft containing sixteen humanoid bodies was recovered by the military in New Mexico after making a controlled landing in Hart Canyon 12 mi (19 km) northeast of the city of Aztec."
+  },
+  {
+   "s": "case",
+   "p": "location_detail",
+   "v": "Hart Canyon, 12 mi (19 km) northeast of the city of Aztec",
+   "quote": "According to Scully, in March 1948, an unidentified aerial craft containing sixteen humanoid bodies was recovered by the military in New Mexico after making a controlled landing in Hart Canyon 12 mi (19 km) northeast of the city of Aztec."
+  },
+  {
+   "s": "case",
+   "p": "cover_up_claim",
+   "v": "the incident had been covered up and the military had taken the craft for secret research",
+   "quote": "According to his sources, the incident had been covered up and \"the military had taken the craft for secret research\"."
+  },
+  {
+   "s": "case",
+   "p": "press_coverage",
+   "v": "no contemporary press accounts of the crash or recovery effort have been found",
+   "quote": "American UFO writer Jerome Clark and the International Business Times note that no contemporary press accounts of the crash or recovery effort have been found."
+  },
+  {
+   "s": "case",
+   "p": "local_denial",
+   "v": "Aztec residents with virtually one voice denied that anything like a UFO retrieval happened there on any date",
+   "quote": "Clark wrote that \"Aztec residents have with virtually one voice, denied that anything like a UFO retrieval happened there... on any date\", and that they only found out about the story as a result of the publicity garnered by Scully."
+  },
+  {
+   "s": "case",
+   "p": "local_denial",
+   "v": "residents only found out about the story as a result of the publicity garnered by Scully",
+   "quote": "Clark wrote that \"Aztec residents have with virtually one voice, denied that anything like a UFO retrieval happened there... on any date\", and that they only found out about the story as a result of the publicity garnered by Scully."
+  },
+  {
+   "s": "case",
+   "p": "local_denial",
+   "v": "denied by the local newspaper editor and the county sheriff in March 1948, the sheriff's son who succeeded him as sheriff, and the family who owned the property",
+   "quote": "Those who have denied the events include the local newspaper editor and the county sheriff in March 1948, the sheriff's son (who succeeded his father as sheriff), and the family who owned the property where the events are said to have taken place."
+  },
+  {
+   "s": "case",
+   "p": "ufologist_view",
+   "v": "from the mid-1950s to the early 1970s most ufologists considered the Aztec crash thoroughly discredited and avoided the topic",
+   "quote": "Through the mid-1950s to the early 1970s, most ufologists considered the Aztec crash thoroughly discredited and therefore avoided the topic."
+  },
+  {
+   "s": "case",
+   "p": "rumor",
+   "v": "dead alien bodies stored at Wright-Patterson Air Force Base",
+   "quote": "In 1966, the book Incident at Exeter mentioned rumors of dead alien bodies stored at Wright-Patterson Air Force Base, which inspired the 1968 science fiction novel The Fortec Conspiracy."
+  },
+  {
+   "s": "case",
+   "p": "body_height",
+   "v": "between 36 inches (91 cm) and 42 inches (110 cm)",
+   "quote": "The supposed humanoid bodies were said to measure between 36 inches (91 cm) and 42 inches (110 cm) in height, and weigh around 40 pounds (18 kg)."
+  },
+  {
+   "s": "case",
+   "p": "body_weight",
+   "v": "around 40 pounds (18 kg)",
+   "quote": "The supposed humanoid bodies were said to measure between 36 inches (91 cm) and 42 inches (110 cm) in height, and weigh around 40 pounds (18 kg)."
+  },
+  {
+   "s": "case",
+   "p": "later_claim",
+   "v": "shortly after the craft was downed the military cleared the area of evidence including the bodies and took recovered materials to Hangar 18 at Wright-Patterson",
+   "quote": "Ufologists claim that shortly after the craft was downed, the military cleared the area of evidence including the bodies, and subsequently took recovered materials to Hangar 18 at Wright-Patterson."
+  },
+  {
+   "s": "case",
+   "p": "later_claim",
+   "v": "alien bodies recovered near Aztec were stored at a building at Wright-Patterson called Hangar 18",
+   "quote": "In 1974, ufologist Robert Spencer Carr publicly claimed alien bodies recovered near Aztec were stored at a building at Wright-Patterson called Hangar 18, prompting official denials from the Air Force."
+  },
+  {
+   "s": "case",
+   "p": "follow_up_article",
+   "v": "a 1956 follow-up article presented other victims swindled by Newton and Gebauer",
+   "quote": "A follow-up article in 1956 presented other victims who had been swindled by  Newton and Gebauer."
+  },
+  {
+   "s": "case",
+   "p": "legacy",
+   "v": "inspired the founding of the Aztec UFO Symposium",
+   "quote": "The incident inspired the founding of the Aztec UFO Symposium."
+  },
+  {
+   "s": "craft",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "According to Scully, in March 1948, an unidentified aerial craft containing sixteen humanoid bodies was recovered by the military in New Mexico after making a controlled landing in Hart Canyon 12 mi (19 km) northeast of the city of Aztec."
+  },
+  {
+   "s": "craft",
+   "p": "shape",
+   "v": "flying saucer; saucer-shaped",
+   "quote": "Aspects of the Aztec hoax, such as the recovery of alien bodies and a saucer-shaped craft incorporating seemingly indestructible metal, have become intertwined with narratives about the better-known Roswell incident."
+  },
+  {
+   "s": "craft",
+   "p": "diameter",
+   "v": "99 feet (30 m)",
+   "quote": "The craft was said to be 99 feet (30 m) in diameter, the largest UFO to date."
+  },
+  {
+   "s": "craft",
+   "p": "size",
+   "v": "said to be the largest UFO to date",
+   "quote": "The craft was said to be 99 feet (30 m) in diameter, the largest UFO to date."
+  },
+  {
+   "s": "craft",
+   "p": "occupants",
+   "v": "sixteen humanoid bodies",
+   "quote": "According to Scully, in March 1948, an unidentified aerial craft containing sixteen humanoid bodies was recovered by the military in New Mexico after making a controlled landing in Hart Canyon 12 mi (19 km) northeast of the city of Aztec."
+  },
+  {
+   "s": "craft",
+   "p": "landing",
+   "v": "controlled landing in Hart Canyon",
+   "quote": "According to Scully, in March 1948, an unidentified aerial craft containing sixteen humanoid bodies was recovered by the military in New Mexico after making a controlled landing in Hart Canyon 12 mi (19 km) northeast of the city of Aztec."
+  },
+  {
+   "s": "craft",
+   "p": "material",
+   "v": "seemingly indestructible metal",
+   "quote": "Aspects of the Aztec hoax, such as the recovery of alien bodies and a saucer-shaped craft incorporating seemingly indestructible metal, have become intertwined with narratives about the better-known Roswell incident."
+  },
+  {
+   "s": "craft",
+   "p": "material",
+   "v": "some claimed a material impervious to all heat",
+   "quote": "In later years, many allegedly first-hand accounts of the Roswell crash contained elements of the Aztec crash story, with some claiming the craft was made of a material impervious to all heat, and others alleging the craft was damaged by the crash."
+  },
+  {
+   "s": "craft",
+   "p": "condition",
+   "v": "others alleged the craft was damaged by the crash",
+   "quote": "In later years, many allegedly first-hand accounts of the Roswell crash contained elements of the Aztec crash story, with some claiming the craft was made of a material impervious to all heat, and others alleging the craft was damaged by the crash."
+  },
+  {
+   "s": "craft",
+   "p": "claimed_origin",
+   "v": "Venus",
+   "quote": "Scully wrote that the crashed UFO, along with other flying saucers captured by the government, had come from Venus and worked on \"magnetic principles\"."
+  },
+  {
+   "s": "craft",
+   "p": "propulsion",
+   "v": "worked on \"magnetic principles\"",
+   "quote": "Scully wrote that the crashed UFO, along with other flying saucers captured by the government, had come from Venus and worked on \"magnetic principles\"."
+  },
+  {
+   "s": "craft",
+   "p": "contents",
+   "v": "concentrated food wafers and \"heavy water\" for drinking purposes",
+   "quote": "According to Scully, the inhabitants stocked concentrated food wafers and \"heavy water\" for drinking purposes, and every dimension of the craft was \"divisible by nine\"."
+  },
+  {
+   "s": "craft",
+   "p": "dimensions",
+   "v": "every dimension of the craft was \"divisible by nine\"",
+   "quote": "According to Scully, the inhabitants stocked concentrated food wafers and \"heavy water\" for drinking purposes, and every dimension of the craft was \"divisible by nine\"."
+  },
+  {
+   "s": "craft",
+   "p": "fate",
+   "v": "the military had taken the craft for secret research",
+   "quote": "According to his sources, the incident had been covered up and \"the military had taken the craft for secret research\"."
+  },
+  {
+   "s": "craft",
+   "p": "similar_craft",
+   "v": "Scully also claimed a similar craft was found in the Sahara Desert",
+   "quote": "Scully also claimed a similar craft was found in the Sahara Desert, but this is omitted in his later writings."
+  },
+  {
+   "s": "craft",
+   "p": "later_claim",
+   "v": "one of many craft captured and stored by the U.S. military",
+   "quote": "In the late 1970s, author Leonard Stringfield said that not only was the incident real, but that the craft involved was one of many captured and stored by the U.S. military."
+  },
+  {
+   "s": "hottel_memo",
+   "p": "described",
+   "o": "craft_memo",
+   "quote": "The Hottel memo relays a third-party account claiming that an Air Force investigator had reported three circular craft recovered in New Mexico."
+  },
+  {
+   "s": "craft_memo",
+   "p": "count",
+   "v": "3",
+   "quote": "The Hottel memo relays a third-party account claiming that an Air Force investigator had reported three circular craft recovered in New Mexico."
+  },
+  {
+   "s": "craft_memo",
+   "p": "shape",
+   "v": "circular",
+   "quote": "The Hottel memo relays a third-party account claiming that an Air Force investigator had reported three circular craft recovered in New Mexico."
+  },
+  {
+   "s": "craft_memo",
+   "p": "diameter",
+   "v": "approximately 50 feet",
+   "quote": "The memo describes the objects as \"approximately 50 feet in diameter\" and states that each contained three small humanoid bodies \"only three feet tall,\" wearing \"metallic cloth.\""
+  },
+  {
+   "s": "craft_memo",
+   "p": "occupants",
+   "v": "each contained three small humanoid bodies",
+   "quote": "The memo describes the objects as \"approximately 50 feet in diameter\" and states that each contained three small humanoid bodies \"only three feet tall,\" wearing \"metallic cloth.\""
+  },
+  {
+   "s": "craft_memo",
+   "p": "occupant_height",
+   "v": "only three feet tall",
+   "quote": "The memo describes the objects as \"approximately 50 feet in diameter\" and states that each contained three small humanoid bodies \"only three feet tall,\" wearing \"metallic cloth.\""
+  },
+  {
+   "s": "craft_memo",
+   "p": "occupant_clothing",
+   "v": "metallic cloth",
+   "quote": "The memo describes the objects as \"approximately 50 feet in diameter\" and states that each contained three small humanoid bodies \"only three feet tall,\" wearing \"metallic cloth.\""
+  },
+  {
+   "s": "craft_memo",
+   "p": "recovery_location",
+   "v": "New Mexico",
+   "quote": "The Hottel memo relays a third-party account claiming that an Air Force investigator had reported three circular craft recovered in New Mexico."
+  },
+  {
+   "s": "craft_memo",
+   "p": "alleged_cause",
+   "v": "interference from a \"high-powered radar\" installation in the area",
+   "quote": "It attributes the alleged recovery to interference from a \"high-powered radar\" installation in the area, and ends by noting that \"No further evaluation was attempted.\""
+  },
+  {
+   "s": "craft_memo",
+   "p": "located_in",
+   "o": "nm",
+   "quote": "The Hottel memo relays a third-party account claiming that an Air Force investigator had reported three circular craft recovered in New Mexico."
+  },
+  {
+   "s": "scully",
+   "p": "journalist",
+   "o": "case",
+   "quote": "The story was first published in 1949 by journalist Frank Scully in his Variety magazine columns, and later in his 1950 book Behind the Flying Saucers."
+  },
+  {
+   "s": "scully",
+   "p": "occupation",
+   "v": "journalist",
+   "quote": "The story was first published in 1949 by journalist Frank Scully in his Variety magazine columns, and later in his 1950 book Behind the Flying Saucers."
+  },
+  {
+   "s": "scully",
+   "p": "occupation",
+   "v": "author",
+   "quote": "In 1949, author Frank Scully published a series of columns in Variety magazine retelling the crash story told to him by two men identified as Silas Newton and Leo A. Gebauer."
+  },
+  {
+   "s": "scully",
+   "p": "employed_by",
+   "o": "variety",
+   "quote": "The story was first published in 1949 by journalist Frank Scully in his Variety magazine columns, and later in his 1950 book Behind the Flying Saucers."
+  },
+  {
+   "s": "scully",
+   "p": "authored",
+   "o": "bfs",
+   "quote": "The story was first published in 1949 by journalist Frank Scully in his Variety magazine columns, and later in his 1950 book Behind the Flying Saucers."
+  },
+  {
+   "s": "scully",
+   "p": "authored",
+   "o": "columns",
+   "quote": "In 1949, author Frank Scully published a series of columns in Variety magazine retelling the crash story told to him by two men identified as Silas Newton and Leo A. Gebauer."
+  },
+  {
+   "s": "scully",
+   "p": "interviewed",
+   "o": "newton",
+   "quote": "In 1949, author Frank Scully published a series of columns in Variety magazine retelling the crash story told to him by two men identified as Silas Newton and Leo A. Gebauer."
+  },
+  {
+   "s": "scully",
+   "p": "interviewed",
+   "o": "gebauer",
+   "quote": "In 1949, author Frank Scully published a series of columns in Variety magazine retelling the crash story told to him by two men identified as Silas Newton and Leo A. Gebauer."
+  },
+  {
+   "s": "scully",
+   "p": "described",
+   "o": "craft",
+   "quote": "According to Scully, in March 1948, an unidentified aerial craft containing sixteen humanoid bodies was recovered by the military in New Mexico after making a controlled landing in Hart Canyon 12 mi (19 km) northeast of the city of Aztec."
+  },
+  {
+   "s": "scully",
+   "p": "statement",
+   "v": "in March 1948 a craft containing sixteen humanoid bodies was recovered by the military in New Mexico after a controlled landing in Hart Canyon",
+   "quote": "According to Scully, in March 1948, an unidentified aerial craft containing sixteen humanoid bodies was recovered by the military in New Mexico after making a controlled landing in Hart Canyon 12 mi (19 km) northeast of the city of Aztec."
+  },
+  {
+   "s": "scully",
+   "p": "statement",
+   "v": "the crashed UFO and other flying saucers captured by the government had come from Venus and worked on \"magnetic principles\"",
+   "quote": "Scully wrote that the crashed UFO, along with other flying saucers captured by the government, had come from Venus and worked on \"magnetic principles\"."
+  },
+  {
+   "s": "scully",
+   "p": "statement",
+   "v": "the inhabitants stocked concentrated food wafers and \"heavy water\", and every dimension of the craft was \"divisible by nine\"",
+   "quote": "According to Scully, the inhabitants stocked concentrated food wafers and \"heavy water\" for drinking purposes, and every dimension of the craft was \"divisible by nine\"."
+  },
+  {
+   "s": "scully",
+   "p": "statement",
+   "v": "a similar craft was found in the Sahara Desert (omitted in his later writings)",
+   "quote": "Scully also claimed a similar craft was found in the Sahara Desert, but this is omitted in his later writings."
+  },
+  {
+   "s": "newton",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "In 1952, the story was exposed as a hoax fabricated by two con men, Silas M. Newton and Leo A. Gebauer, as part of a fraudulent scheme to sell materials claimed to incorporate extraterrestrial technology; they were convicted of fraud for this enterprise in 1953."
+  },
+  {
+   "s": "newton",
+   "p": "role",
+   "v": "con man who fabricated the hoax",
+   "quote": "In 1952, the story was exposed as a hoax fabricated by two con men, Silas M. Newton and Leo A. Gebauer, as part of a fraudulent scheme to sell materials claimed to incorporate extraterrestrial technology; they were convicted of fraud for this enterprise in 1953."
+  },
+  {
+   "s": "newton",
+   "p": "conviction",
+   "v": "convicted of fraud in 1953",
+   "quote": "In 1952, the story was exposed as a hoax fabricated by two con men, Silas M. Newton and Leo A. Gebauer, as part of a fraudulent scheme to sell materials claimed to incorporate extraterrestrial technology; they were convicted of fraud for this enterprise in 1953."
+  },
+  {
+   "s": "newton",
+   "p": "action",
+   "v": "told the crash story to Frank Scully",
+   "quote": "In 1949, author Frank Scully published a series of columns in Variety magazine retelling the crash story told to him by two men identified as Silas Newton and Leo A. Gebauer."
+  },
+  {
+   "s": "newton",
+   "p": "action",
+   "v": "traveled through Aztec attempting to sell devices known in the oil business as doodlebugs",
+   "quote": "During the late 1940s and early 1950s, Newton and Gebauer traveled through Aztec, attempting to sell devices known in the oil business as doodlebugs."
+  },
+  {
+   "s": "newton",
+   "p": "statement",
+   "v": "the devices could find oil, gas and gold because they were based on \"alien technology\" recovered from the supposed crash of a flying saucer",
+   "quote": "They claimed that these devices could find oil, gas and gold, and that they could do so because they were based on \"alien technology\" recovered from the supposed crash of a flying saucer."
+  },
+  {
+   "s": "newton",
+   "p": "action",
+   "v": "provided J. P. Cahn with a metal sample that turned out to be ordinary aluminum",
+   "quote": "When J. P. Cahn of the San Francisco Chronicle asked the con men for a piece of metal from the supposed alien devices, they provided him with a sample that turned out to be ordinary aluminum."
+  },
+  {
+   "s": "newton",
+   "p": "later_activity",
+   "v": "returned to swindling energy investors",
+   "quote": "Newton subsequently returned to swindling energy investors; when he died in 1972, he had 40 legal claims against him stemming from allegedly fraudulent oil and gas schemes, and he was facing theft charges."
+  },
+  {
+   "s": "newton",
+   "p": "death_year",
+   "v": "1972",
+   "quote": "Newton subsequently returned to swindling energy investors; when he died in 1972, he had 40 legal claims against him stemming from allegedly fraudulent oil and gas schemes, and he was facing theft charges."
+  },
+  {
+   "s": "newton",
+   "p": "legal_claims_at_death",
+   "v": "40 legal claims stemming from allegedly fraudulent oil and gas schemes; facing theft charges",
+   "quote": "Newton subsequently returned to swindling energy investors; when he died in 1972, he had 40 legal claims against him stemming from allegedly fraudulent oil and gas schemes, and he was facing theft charges."
+  },
+  {
+   "s": "newton",
+   "p": "description",
+   "v": "Scott Ramsey asserted Newton was a \"man of science\"",
+   "quote": "Clark criticizes Scott Ramsey, the primary author, for baselessly asserting that Newton was a \"man of science\" and for ignoring evidence that fails to back his hypothesis."
+  },
+  {
+   "s": "newton",
+   "p": "colleague_of",
+   "o": "gebauer",
+   "quote": "In 1952, the story was exposed as a hoax fabricated by two con men, Silas M. Newton and Leo A. Gebauer, as part of a fraudulent scheme to sell materials claimed to incorporate extraterrestrial technology; they were convicted of fraud for this enterprise in 1953."
+  },
+  {
+   "s": "gebauer",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "In 1952, the story was exposed as a hoax fabricated by two con men, Silas M. Newton and Leo A. Gebauer, as part of a fraudulent scheme to sell materials claimed to incorporate extraterrestrial technology; they were convicted of fraud for this enterprise in 1953."
+  },
+  {
+   "s": "gebauer",
+   "p": "role",
+   "v": "con man who fabricated the hoax",
+   "quote": "In 1952, the story was exposed as a hoax fabricated by two con men, Silas M. Newton and Leo A. Gebauer, as part of a fraudulent scheme to sell materials claimed to incorporate extraterrestrial technology; they were convicted of fraud for this enterprise in 1953."
+  },
+  {
+   "s": "gebauer",
+   "p": "conviction",
+   "v": "convicted of fraud in 1953",
+   "quote": "The two men were convicted of fraud in 1953."
+  },
+  {
+   "s": "gebauer",
+   "p": "action",
+   "v": "told the crash story to Frank Scully",
+   "quote": "In 1949, author Frank Scully published a series of columns in Variety magazine retelling the crash story told to him by two men identified as Silas Newton and Leo A. Gebauer."
+  },
+  {
+   "s": "gebauer",
+   "p": "action",
+   "v": "traveled through Aztec attempting to sell devices known in the oil business as doodlebugs",
+   "quote": "During the late 1940s and early 1950s, Newton and Gebauer traveled through Aztec, attempting to sell devices known in the oil business as doodlebugs."
+  },
+  {
+   "s": "gebauer",
+   "p": "statement",
+   "v": "the devices could find oil, gas and gold because they were based on \"alien technology\" recovered from the supposed crash of a flying saucer",
+   "quote": "They claimed that these devices could find oil, gas and gold, and that they could do so because they were based on \"alien technology\" recovered from the supposed crash of a flying saucer."
+  },
+  {
+   "s": "hottel",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "In 2013, the FBI released a large number of documents online, drawing attention to a 1950 memo by FBI agent Guy Hottel claimed by some ufologists to substantiate the Aztec crash"
+  },
+  {
+   "s": "hottel",
+   "p": "authored",
+   "o": "hottel_memo",
+   "quote": "After the Vault launched, a one-page March 22, 1950 memorandum by Guy Hottel (special agent in charge of the FBI's Washington Field Office) drew renewed attention online, and the FBI later described it as the Vault's most-viewed document."
+  },
+  {
+   "s": "hottel",
+   "p": "employed_by",
+   "o": "fbi",
+   "quote": "In 2013, the FBI released a large number of documents online, drawing attention to a 1950 memo by FBI agent Guy Hottel claimed by some ufologists to substantiate the Aztec crash"
+  },
+  {
+   "s": "hottel",
+   "p": "member_of",
+   "o": "wfo",
+   "quote": "After the Vault launched, a one-page March 22, 1950 memorandum by Guy Hottel (special agent in charge of the FBI's Washington Field Office) drew renewed attention online, and the FBI later described it as the Vault's most-viewed document."
+  },
+  {
+   "s": "hottel",
+   "p": "occupation",
+   "v": "FBI agent",
+   "quote": "In 2013, the FBI released a large number of documents online, drawing attention to a 1950 memo by FBI agent Guy Hottel claimed by some ufologists to substantiate the Aztec crash"
+  },
+  {
+   "s": "hottel",
+   "p": "position",
+   "v": "special agent in charge of the FBI's Washington Field Office",
+   "quote": "After the Vault launched, a one-page March 22, 1950 memorandum by Guy Hottel (special agent in charge of the FBI's Washington Field Office) drew renewed attention online, and the FBI later described it as the Vault's most-viewed document."
+  },
+  {
+   "s": "gardner",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Science writer Martin Gardner criticized Scully's story as full of \"wild imaginings\" and \"scientific howlers\"."
+  },
+  {
+   "s": "gardner",
+   "p": "occupation",
+   "v": "science writer",
+   "quote": "Science writer Martin Gardner criticized Scully's story as full of \"wild imaginings\" and \"scientific howlers\"."
+  },
+  {
+   "s": "gardner",
+   "p": "statement",
+   "v": "Scully's story is full of \"wild imaginings\" and \"scientific howlers\"",
+   "quote": "Science writer Martin Gardner criticized Scully's story as full of \"wild imaginings\" and \"scientific howlers\"."
+  },
+  {
+   "s": "gardner",
+   "p": "disputed",
+   "o": "scully",
+   "quote": "Science writer Martin Gardner criticized Scully's story as full of \"wild imaginings\" and \"scientific howlers\"."
+  },
+  {
+   "s": "clark",
+   "p": "commentator",
+   "o": "case",
+   "quote": "American UFO writer Jerome Clark and the International Business Times note that no contemporary press accounts of the crash or recovery effort have been found."
+  },
+  {
+   "s": "clark",
+   "p": "occupation",
+   "v": "American UFO writer",
+   "quote": "American UFO writer Jerome Clark and the International Business Times note that no contemporary press accounts of the crash or recovery effort have been found."
+  },
+  {
+   "s": "clark",
+   "p": "statement",
+   "v": "no contemporary press accounts of the crash or recovery effort have been found",
+   "quote": "American UFO writer Jerome Clark and the International Business Times note that no contemporary press accounts of the crash or recovery effort have been found."
+  },
+  {
+   "s": "clark",
+   "p": "statement",
+   "v": "\"Aztec residents have with virtually one voice, denied that anything like a UFO retrieval happened there... on any date\"",
+   "quote": "Clark wrote that \"Aztec residents have with virtually one voice, denied that anything like a UFO retrieval happened there... on any date\", and that they only found out about the story as a result of the publicity garnered by Scully."
+  },
+  {
+   "s": "clark",
+   "p": "statement",
+   "v": "Donald Keyhoe regarded Scully's narrative \"as absurd and fanciful\"",
+   "quote": "Clark further notes that the pioneering ufologist Donald Keyhoe, who was known for backing UFO claims, regarded Scully's narrative \"as absurd and fanciful.\""
+  },
+  {
+   "s": "clark",
+   "p": "disputed",
+   "o": "s_ramsey",
+   "quote": "Clark criticizes Scott Ramsey, the primary author, for baselessly asserting that Newton was a \"man of science\" and for ignoring evidence that fails to back his hypothesis."
+  },
+  {
+   "s": "clark",
+   "p": "criticism",
+   "v": "criticizes Scott Ramsey for baselessly asserting Newton was a \"man of science\" and for ignoring evidence that fails to back his hypothesis",
+   "quote": "Clark criticizes Scott Ramsey, the primary author, for baselessly asserting that Newton was a \"man of science\" and for ignoring evidence that fails to back his hypothesis."
+  },
+  {
+   "s": "keyhoe",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Clark further notes that the pioneering ufologist Donald Keyhoe, who was known for backing UFO claims, regarded Scully's narrative \"as absurd and fanciful.\""
+  },
+  {
+   "s": "keyhoe",
+   "p": "occupation",
+   "v": "pioneering ufologist",
+   "quote": "Clark further notes that the pioneering ufologist Donald Keyhoe, who was known for backing UFO claims, regarded Scully's narrative \"as absurd and fanciful.\""
+  },
+  {
+   "s": "keyhoe",
+   "p": "reputation",
+   "v": "known for backing UFO claims",
+   "quote": "Clark further notes that the pioneering ufologist Donald Keyhoe, who was known for backing UFO claims, regarded Scully's narrative \"as absurd and fanciful.\""
+  },
+  {
+   "s": "keyhoe",
+   "p": "statement",
+   "v": "regarded Scully's narrative \"as absurd and fanciful\"",
+   "quote": "Clark further notes that the pioneering ufologist Donald Keyhoe, who was known for backing UFO claims, regarded Scully's narrative \"as absurd and fanciful.\""
+  },
+  {
+   "s": "keyhoe",
+   "p": "disputed",
+   "o": "scully",
+   "quote": "Clark further notes that the pioneering ufologist Donald Keyhoe, who was known for backing UFO claims, regarded Scully's narrative \"as absurd and fanciful.\""
+  },
+  {
+   "s": "cahn",
+   "p": "journalist",
+   "o": "case",
+   "quote": "In 1952, Cahn exposed the hoax in True magazine."
+  },
+  {
+   "s": "cahn",
+   "p": "investigator",
+   "o": "case",
+   "quote": "When J. P. Cahn of the San Francisco Chronicle asked the con men for a piece of metal from the supposed alien devices, they provided him with a sample that turned out to be ordinary aluminum."
+  },
+  {
+   "s": "cahn",
+   "p": "employed_by",
+   "o": "sfc",
+   "quote": "When J. P. Cahn of the San Francisco Chronicle asked the con men for a piece of metal from the supposed alien devices, they provided him with a sample that turned out to be ordinary aluminum."
+  },
+  {
+   "s": "cahn",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "In 1952, Cahn exposed the hoax in True magazine."
+  },
+  {
+   "s": "cahn",
+   "p": "authored",
+   "o": "cahn_article",
+   "quote": "In 1952, Cahn exposed the hoax in True magazine."
+  },
+  {
+   "s": "cahn",
+   "p": "interviewed",
+   "o": "newton",
+   "quote": "When J. P. Cahn of the San Francisco Chronicle asked the con men for a piece of metal from the supposed alien devices, they provided him with a sample that turned out to be ordinary aluminum."
+  },
+  {
+   "s": "cahn",
+   "p": "interviewed",
+   "o": "gebauer",
+   "quote": "When J. P. Cahn of the San Francisco Chronicle asked the con men for a piece of metal from the supposed alien devices, they provided him with a sample that turned out to be ordinary aluminum."
+  },
+  {
+   "s": "cahn",
+   "p": "action",
+   "v": "asked the con men for a piece of metal from the supposed alien devices; the sample turned out to be ordinary aluminum",
+   "quote": "When J. P. Cahn of the San Francisco Chronicle asked the con men for a piece of metal from the supposed alien devices, they provided him with a sample that turned out to be ordinary aluminum."
+  },
+  {
+   "s": "cahn",
+   "p": "action",
+   "v": "exposed the hoax in True magazine in 1952",
+   "quote": "In 1952, Cahn exposed the hoax in True magazine."
+  },
+  {
+   "s": "flader",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "One of the victims was millionaire Herman Flader, who pressed charges."
+  },
+  {
+   "s": "flader",
+   "p": "role",
+   "v": "victim of the swindle who pressed charges",
+   "quote": "One of the victims was millionaire Herman Flader, who pressed charges."
+  },
+  {
+   "s": "flader",
+   "p": "description",
+   "v": "millionaire",
+   "quote": "One of the victims was millionaire Herman Flader, who pressed charges."
+  },
+  {
+   "s": "carr",
+   "p": "proponent",
+   "o": "case",
+   "quote": "In 1974, ufologist Robert Spencer Carr publicly claimed alien bodies recovered near Aztec were stored at a building at Wright-Patterson called Hangar 18, prompting official denials from the Air Force."
+  },
+  {
+   "s": "carr",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "In 1974, ufologist Robert Spencer Carr publicly claimed alien bodies recovered near Aztec were stored at a building at Wright-Patterson called Hangar 18, prompting official denials from the Air Force."
+  },
+  {
+   "s": "carr",
+   "p": "statement",
+   "v": "alien bodies recovered near Aztec were stored at a building at Wright-Patterson called Hangar 18",
+   "quote": "In 1974, ufologist Robert Spencer Carr publicly claimed alien bodies recovered near Aztec were stored at a building at Wright-Patterson called Hangar 18, prompting official denials from the Air Force."
+  },
+  {
+   "s": "carr",
+   "p": "statement_year",
+   "v": "1974",
+   "quote": "In 1974, ufologist Robert Spencer Carr publicly claimed alien bodies recovered near Aztec were stored at a building at Wright-Patterson called Hangar 18, prompting official denials from the Air Force."
+  },
+  {
+   "s": "carr",
+   "p": "criticism",
+   "v": "the Air Force noted Carr's claims mirrored the plot of the novel",
+   "quote": "The Air Force explained that there is no Hangar 18 at the base and noted Carr's claims mirrored the plot of the novel."
+  },
+  {
+   "s": "stringfield",
+   "p": "proponent",
+   "o": "case",
+   "quote": "In the late 1970s, author Leonard Stringfield said that not only was the incident real, but that the craft involved was one of many captured and stored by the U.S. military."
+  },
+  {
+   "s": "stringfield",
+   "p": "occupation",
+   "v": "author",
+   "quote": "In the late 1970s, author Leonard Stringfield said that not only was the incident real, but that the craft involved was one of many captured and stored by the U.S. military."
+  },
+  {
+   "s": "stringfield",
+   "p": "statement",
+   "v": "the incident was real and the craft was one of many captured and stored by the U.S. military",
+   "quote": "In the late 1970s, author Leonard Stringfield said that not only was the incident real, but that the craft involved was one of many captured and stored by the U.S. military."
+  },
+  {
+   "s": "stringfield",
+   "p": "statement_date",
+   "v": "late 1970s",
+   "quote": "In the late 1970s, author Leonard Stringfield said that not only was the incident real, but that the craft involved was one of many captured and stored by the U.S. military."
+  },
+  {
+   "s": "s_ramsey",
+   "p": "proponent",
+   "o": "case",
+   "quote": "The 2012 book The Aztec UFO Incident by Scott and Suzanne Ramsey and Frank Thayer alleges that the crash was legitimate, and that the Newton and Gebauer trial was \"engineered... to sink Aztec\" by discrediting the two men."
+  },
+  {
+   "s": "s_ramsey",
+   "p": "authored",
+   "o": "aui",
+   "quote": "The 2012 book The Aztec UFO Incident by Scott and Suzanne Ramsey and Frank Thayer alleges that the crash was legitimate, and that the Newton and Gebauer trial was \"engineered... to sink Aztec\" by discrediting the two men."
+  },
+  {
+   "s": "s_ramsey",
+   "p": "role",
+   "v": "primary author of The Aztec UFO Incident",
+   "quote": "Clark criticizes Scott Ramsey, the primary author, for baselessly asserting that Newton was a \"man of science\" and for ignoring evidence that fails to back his hypothesis."
+  },
+  {
+   "s": "s_ramsey",
+   "p": "statement",
+   "v": "Newton was a \"man of science\"",
+   "quote": "Clark criticizes Scott Ramsey, the primary author, for baselessly asserting that Newton was a \"man of science\" and for ignoring evidence that fails to back his hypothesis."
+  },
+  {
+   "s": "s_ramsey",
+   "p": "statement",
+   "v": "a common critique of the theories is that the memo is ambiguous about the crash location, never specifically mentioning Aztec",
+   "quote": "According to Scott Ramsey, a common critique of these theories is that the memo is ambiguous about the crash location, never specifically mentioning Aztec."
+  },
+  {
+   "s": "s_ramsey",
+   "p": "statement",
+   "v": "tied the Hottel memo to the Aztec crash because the narrative more closely resembles Newton's claims than contemporary Roswell accounts",
+   "quote": "The Ramseys and Thayer, the co-authors of The Aztec UFO Incident, and David E. Thomas, a researcher with the group New Mexicans for Science and Reason, tied the memo to the Aztec crash because the narrative more closely resembles Newton's claims than it resembles contemporary accounts of the Roswell incident."
+  },
+  {
+   "s": "s_ramsey",
+   "p": "colleague_of",
+   "o": "thayer",
+   "quote": "The Ramseys and Thayer, the co-authors of The Aztec UFO Incident, and David E. Thomas, a researcher with the group New Mexicans for Science and Reason, tied the memo to the Aztec crash because the narrative more closely resembles Newton's claims than it resembles contemporary accounts of the Roswell incident."
+  },
+  {
+   "s": "s_ramsey",
+   "p": "relative_of",
+   "o": "su_ramsey",
+   "quote": "The 2012 book The Aztec UFO Incident by Scott and Suzanne Ramsey and Frank Thayer alleges that the crash was legitimate, and that the Newton and Gebauer trial was \"engineered... to sink Aztec\" by discrediting the two men."
+  },
+  {
+   "s": "su_ramsey",
+   "p": "proponent",
+   "o": "case",
+   "quote": "The 2012 book The Aztec UFO Incident by Scott and Suzanne Ramsey and Frank Thayer alleges that the crash was legitimate, and that the Newton and Gebauer trial was \"engineered... to sink Aztec\" by discrediting the two men."
+  },
+  {
+   "s": "su_ramsey",
+   "p": "authored",
+   "o": "aui",
+   "quote": "The 2012 book The Aztec UFO Incident by Scott and Suzanne Ramsey and Frank Thayer alleges that the crash was legitimate, and that the Newton and Gebauer trial was \"engineered... to sink Aztec\" by discrediting the two men."
+  },
+  {
+   "s": "su_ramsey",
+   "p": "statement",
+   "v": "tied the Hottel memo to the Aztec crash",
+   "quote": "The Ramseys and Thayer, the co-authors of The Aztec UFO Incident, and David E. Thomas, a researcher with the group New Mexicans for Science and Reason, tied the memo to the Aztec crash because the narrative more closely resembles Newton's claims than it resembles contemporary accounts of the Roswell incident."
+  },
+  {
+   "s": "thayer",
+   "p": "proponent",
+   "o": "case",
+   "quote": "The 2012 book The Aztec UFO Incident by Scott and Suzanne Ramsey and Frank Thayer alleges that the crash was legitimate, and that the Newton and Gebauer trial was \"engineered... to sink Aztec\" by discrediting the two men."
+  },
+  {
+   "s": "thayer",
+   "p": "authored",
+   "o": "aui",
+   "quote": "The 2012 book The Aztec UFO Incident by Scott and Suzanne Ramsey and Frank Thayer alleges that the crash was legitimate, and that the Newton and Gebauer trial was \"engineered... to sink Aztec\" by discrediting the two men."
+  },
+  {
+   "s": "thayer",
+   "p": "statement",
+   "v": "tied the Hottel memo to the Aztec crash",
+   "quote": "The Ramseys and Thayer, the co-authors of The Aztec UFO Incident, and David E. Thomas, a researcher with the group New Mexicans for Science and Reason, tied the memo to the Aztec crash because the narrative more closely resembles Newton's claims than it resembles contemporary accounts of the Roswell incident."
+  },
+  {
+   "s": "thomas",
+   "p": "commentator",
+   "o": "case",
+   "quote": "The Ramseys and Thayer, the co-authors of The Aztec UFO Incident, and David E. Thomas, a researcher with the group New Mexicans for Science and Reason, tied the memo to the Aztec crash because the narrative more closely resembles Newton's claims than it resembles contemporary accounts of the Roswell incident."
+  },
+  {
+   "s": "thomas",
+   "p": "member_of",
+   "o": "nmsr",
+   "quote": "The Ramseys and Thayer, the co-authors of The Aztec UFO Incident, and David E. Thomas, a researcher with the group New Mexicans for Science and Reason, tied the memo to the Aztec crash because the narrative more closely resembles Newton's claims than it resembles contemporary accounts of the Roswell incident."
+  },
+  {
+   "s": "thomas",
+   "p": "occupation",
+   "v": "researcher",
+   "quote": "The Ramseys and Thayer, the co-authors of The Aztec UFO Incident, and David E. Thomas, a researcher with the group New Mexicans for Science and Reason, tied the memo to the Aztec crash because the narrative more closely resembles Newton's claims than it resembles contemporary accounts of the Roswell incident."
+  },
+  {
+   "s": "thomas",
+   "p": "statement",
+   "v": "tied the Hottel memo to the Aztec crash because the narrative more closely resembles Newton's claims than contemporary accounts of the Roswell incident",
+   "quote": "The Ramseys and Thayer, the co-authors of The Aztec UFO Incident, and David E. Thomas, a researcher with the group New Mexicans for Science and Reason, tied the memo to the Aztec crash because the narrative more closely resembles Newton's claims than it resembles contemporary accounts of the Roswell incident."
+  },
+  {
+   "s": "radford",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Benjamin Radford with The Christian Science Monitor noted that the memo was unclassified, suggesting that the FBI did not feel that the alleged crash merited secrecy, and that copies had been circulating among ufologists since the late 1990s."
+  },
+  {
+   "s": "radford",
+   "p": "employed_by",
+   "o": "csm",
+   "quote": "Benjamin Radford with The Christian Science Monitor noted that the memo was unclassified, suggesting that the FBI did not feel that the alleged crash merited secrecy, and that copies had been circulating among ufologists since the late 1990s."
+  },
+  {
+   "s": "radford",
+   "p": "authored",
+   "o": "mnm",
+   "quote": "Radford, Ben (2014). \"Chapter 4 The Great Aztec UFO Crash\". Mysterious New Mexico."
+  },
+  {
+   "s": "radford",
+   "p": "statement",
+   "v": "the memo was unclassified, suggesting the FBI did not feel the alleged crash merited secrecy",
+   "quote": "Benjamin Radford with The Christian Science Monitor noted that the memo was unclassified, suggesting that the FBI did not feel that the alleged crash merited secrecy, and that copies had been circulating among ufologists since the late 1990s."
+  },
+  {
+   "s": "radford",
+   "p": "statement",
+   "v": "copies of the memo had been circulating among ufologists since the late 1990s",
+   "quote": "Benjamin Radford with The Christian Science Monitor noted that the memo was unclassified, suggesting that the FBI did not feel that the alleged crash merited secrecy, and that copies had been circulating among ufologists since the late 1990s."
+  },
+  {
+   "s": "howe",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "In August 2022, The Black Vault obtained an unredacted copy of the memo from the FBI, which revealed that the informant was \"KARL HOWE, Special Investigator, Sex Squad, Metropolitan Police Department\""
+  },
+  {
+   "s": "howe",
+   "p": "role",
+   "v": "informant for the Hottel memo",
+   "quote": "In August 2022, The Black Vault obtained an unredacted copy of the memo from the FBI, which revealed that the informant was \"KARL HOWE, Special Investigator, Sex Squad, Metropolitan Police Department\""
+  },
+  {
+   "s": "howe",
+   "p": "position",
+   "v": "Special Investigator, Sex Squad, Metropolitan Police Department",
+   "quote": "In August 2022, The Black Vault obtained an unredacted copy of the memo from the FBI, which revealed that the informant was \"KARL HOWE, Special Investigator, Sex Squad, Metropolitan Police Department\""
+  },
+  {
+   "s": "howe",
+   "p": "employed_by",
+   "o": "mpd",
+   "quote": "In August 2022, The Black Vault obtained an unredacted copy of the memo from the FBI, which revealed that the informant was \"KARL HOWE, Special Investigator, Sex Squad, Metropolitan Police Department\""
+  },
+  {
+   "s": "howe",
+   "p": "source_of_information",
+   "v": "unknown; neither the unredacted memo nor supporting documents reveal where Howe obtained the information",
+   "quote": "Neither the unredacted memo nor supporting documents obtained by The Black Vault reveal where Howe obtained the information, so the source remains an enigma and the narrative cannot be conclusively tied to Newton."
+  },
+  {
+   "s": "variety",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The story was first published in 1949 by journalist Frank Scully in his Variety magazine columns, and later in his 1950 book Behind the Flying Saucers."
+  },
+  {
+   "s": "variety",
+   "p": "published",
+   "o": "columns",
+   "quote": "In 1949, author Frank Scully published a series of columns in Variety magazine retelling the crash story told to him by two men identified as Silas Newton and Leo A. Gebauer."
+  },
+  {
+   "s": "fbi",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 2013, the FBI released a large number of documents online, drawing attention to a 1950 memo by FBI agent Guy Hottel claimed by some ufologists to substantiate the Aztec crash"
+  },
+  {
+   "s": "fbi",
+   "p": "statement",
+   "v": "dismissed the events described in the memo as \"a second- or third-hand claim that we never investigated\"",
+   "quote": "the events described in the memo were dismissed by the bureau as \"a second- or third-hand claim that we never investigated\"."
+  },
+  {
+   "s": "fbi",
+   "p": "statement",
+   "v": "the memo \"does not prove the existence of UFOs\"",
+   "quote": "In 2013, the FBI stated that the memo \"does not prove the existence of UFOs\" and characterized it as an unconfirmed \"second- or third-hand claim\" the Bureau did not investigate."
+  },
+  {
+   "s": "fbi",
+   "p": "statement",
+   "v": "the memo had been released publicly decades earlier and posted online prior to the 2011 Vault launch",
+   "quote": "The FBI also stated that the memo had been released publicly decades earlier and had been posted online prior to the 2011 Vault launch."
+  },
+  {
+   "s": "fbi",
+   "p": "statement_year",
+   "v": "2013",
+   "quote": "In 2013, the FBI stated that the memo \"does not prove the existence of UFOs\" and characterized it as an unconfirmed \"second- or third-hand claim\" the Bureau did not investigate."
+  },
+  {
+   "s": "fbi",
+   "p": "action",
+   "v": "in 2013 released a large number of documents online",
+   "quote": "In 2013, the FBI released a large number of documents online, drawing attention to a 1950 memo by FBI agent Guy Hottel claimed by some ufologists to substantiate the Aztec crash"
+  },
+  {
+   "s": "fbi",
+   "p": "published",
+   "o": "vault",
+   "quote": "In April 2011, the FBI launched The Vault, an online repository of public records released under the Freedom of Information Act."
+  },
+  {
+   "s": "fbi",
+   "p": "disputed",
+   "o": "hottel_memo",
+   "quote": "In 2013, the FBI stated that the memo \"does not prove the existence of UFOs\" and characterized it as an unconfirmed \"second- or third-hand claim\" the Bureau did not investigate."
+  },
+  {
+   "s": "wfo",
+   "p": "part_of",
+   "o": "fbi",
+   "quote": "After the Vault launched, a one-page March 22, 1950 memorandum by Guy Hottel (special agent in charge of the FBI's Washington Field Office) drew renewed attention online, and the FBI later described it as the Vault's most-viewed document."
+  },
+  {
+   "s": "wfo",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "After the Vault launched, a one-page March 22, 1950 memorandum by Guy Hottel (special agent in charge of the FBI's Washington Field Office) drew renewed attention online, and the FBI later described it as the Vault's most-viewed document."
+  },
+  {
+   "s": "ibt",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "American UFO writer Jerome Clark and the International Business Times note that no contemporary press accounts of the crash or recovery effort have been found."
+  },
+  {
+   "s": "ibt",
+   "p": "statement",
+   "v": "no contemporary press accounts of the crash or recovery effort have been found",
+   "quote": "American UFO writer Jerome Clark and the International Business Times note that no contemporary press accounts of the crash or recovery effort have been found."
+  },
+  {
+   "s": "sfc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "When J. P. Cahn of the San Francisco Chronicle asked the con men for a piece of metal from the supposed alien devices, they provided him with a sample that turned out to be ordinary aluminum."
+  },
+  {
+   "s": "true",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 1952, Cahn exposed the hoax in True magazine."
+  },
+  {
+   "s": "true",
+   "p": "published",
+   "o": "cahn_article",
+   "quote": "In 1952, Cahn exposed the hoax in True magazine."
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 1974, ufologist Robert Spencer Carr publicly claimed alien bodies recovered near Aztec were stored at a building at Wright-Patterson called Hangar 18, prompting official denials from the Air Force."
+  },
+  {
+   "s": "usaf",
+   "p": "statement",
+   "v": "there is no Hangar 18 at the base",
+   "quote": "The Air Force explained that there is no Hangar 18 at the base and noted Carr's claims mirrored the plot of the novel."
+  },
+  {
+   "s": "usaf",
+   "p": "statement",
+   "v": "Carr's claims mirrored the plot of the novel",
+   "quote": "The Air Force explained that there is no Hangar 18 at the base and noted Carr's claims mirrored the plot of the novel."
+  },
+  {
+   "s": "usaf",
+   "p": "action",
+   "v": "issued official denials of Carr's 1974 claim",
+   "quote": "In 1974, ufologist Robert Spencer Carr publicly claimed alien bodies recovered near Aztec were stored at a building at Wright-Patterson called Hangar 18, prompting official denials from the Air Force."
+  },
+  {
+   "s": "usaf",
+   "p": "disputed",
+   "o": "carr",
+   "quote": "In 1974, ufologist Robert Spencer Carr publicly claimed alien bodies recovered near Aztec were stored at a building at Wright-Patterson called Hangar 18, prompting official denials from the Air Force."
+  },
+  {
+   "s": "military",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "According to Scully, in March 1948, an unidentified aerial craft containing sixteen humanoid bodies was recovered by the military in New Mexico after making a controlled landing in Hart Canyon 12 mi (19 km) northeast of the city of Aztec."
+  },
+  {
+   "s": "military",
+   "p": "alleged_action",
+   "v": "recovered the craft and sixteen humanoid bodies in New Mexico",
+   "quote": "According to Scully, in March 1948, an unidentified aerial craft containing sixteen humanoid bodies was recovered by the military in New Mexico after making a controlled landing in Hart Canyon 12 mi (19 km) northeast of the city of Aztec."
+  },
+  {
+   "s": "military",
+   "p": "alleged_action",
+   "v": "had taken the craft for secret research",
+   "quote": "According to his sources, the incident had been covered up and \"the military had taken the craft for secret research\"."
+  },
+  {
+   "s": "military",
+   "p": "alleged_action",
+   "v": "cleared the area of evidence including the bodies and took recovered materials to Hangar 18 at Wright-Patterson",
+   "quote": "Ufologists claim that shortly after the craft was downed, the military cleared the area of evidence including the bodies, and subsequently took recovered materials to Hangar 18 at Wright-Patterson."
+  },
+  {
+   "s": "military",
+   "p": "alleged_action",
+   "v": "captured and stored many craft",
+   "quote": "In the late 1970s, author Leonard Stringfield said that not only was the incident real, but that the craft involved was one of many captured and stored by the U.S. military."
+  },
+  {
+   "s": "nmsr",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Ramseys and Thayer, the co-authors of The Aztec UFO Incident, and David E. Thomas, a researcher with the group New Mexicans for Science and Reason, tied the memo to the Aztec crash because the narrative more closely resembles Newton's claims than it resembles contemporary accounts of the Roswell incident."
+  },
+  {
+   "s": "echo",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Another theory is that the informant read the narrative in a story printed in January 1950 by The Wyandotte Echo, which was traced thirdhand to Newton."
+  },
+  {
+   "s": "echo",
+   "p": "published_story",
+   "v": "story printed in January 1950, traced thirdhand to Newton, which the memo's informant may have read",
+   "quote": "Another theory is that the informant read the narrative in a story printed in January 1950 by The Wyandotte Echo, which was traced thirdhand to Newton."
+  },
+  {
+   "s": "csm",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Benjamin Radford with The Christian Science Monitor noted that the memo was unclassified, suggesting that the FBI did not feel that the alleged crash merited secrecy, and that copies had been circulating among ufologists since the late 1990s."
+  },
+  {
+   "s": "blackvault",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In August 2022, The Black Vault obtained an unredacted copy of the memo from the FBI, which revealed that the informant was \"KARL HOWE, Special Investigator, Sex Squad, Metropolitan Police Department\""
+  },
+  {
+   "s": "blackvault",
+   "p": "action",
+   "v": "obtained an unredacted copy of the memo from the FBI in August 2022",
+   "quote": "In August 2022, The Black Vault obtained an unredacted copy of the memo from the FBI, which revealed that the informant was \"KARL HOWE, Special Investigator, Sex Squad, Metropolitan Police Department\""
+  },
+  {
+   "s": "blackvault",
+   "p": "finding",
+   "v": "the informant was \"KARL HOWE, Special Investigator, Sex Squad, Metropolitan Police Department\"",
+   "quote": "In August 2022, The Black Vault obtained an unredacted copy of the memo from the FBI, which revealed that the informant was \"KARL HOWE, Special Investigator, Sex Squad, Metropolitan Police Department\""
+  },
+  {
+   "s": "blackvault",
+   "p": "finding",
+   "v": "neither the unredacted memo nor supporting documents reveal where Howe obtained the information",
+   "quote": "Neither the unredacted memo nor supporting documents obtained by The Black Vault reveal where Howe obtained the information, so the source remains an enigma and the narrative cannot be conclusively tied to Newton."
+  },
+  {
+   "s": "mpd",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "presumably a reference to the Metropolitan Police Department of the District of Columbia, although the memo never makes this clear."
+  },
+  {
+   "s": "mpd",
+   "p": "identification_status",
+   "v": "presumed; the memo never makes clear which Metropolitan Police Department is meant",
+   "quote": "presumably a reference to the Metropolitan Police Department of the District of Columbia, although the memo never makes this clear."
+  },
+  {
+   "s": "mpd",
+   "p": "unit",
+   "v": "Sex Squad",
+   "quote": "In August 2022, The Black Vault obtained an unredacted copy of the memo from the FBI, which revealed that the informant was \"KARL HOWE, Special Investigator, Sex Squad, Metropolitan Police Department\""
+  },
+  {
+   "s": "mpd",
+   "p": "located_in",
+   "o": "dc",
+   "quote": "presumably a reference to the Metropolitan Police Department of the District of Columbia, although the memo never makes this clear."
+  },
+  {
+   "s": "symposium",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The incident inspired the founding of the Aztec UFO Symposium."
+  },
+  {
+   "s": "symposium",
+   "p": "run_by",
+   "v": "the Aztec, New Mexico, library, as an annual fundraiser",
+   "quote": "This was run as an annual fundraiser by the Aztec, New Mexico, library from 1997 until 2011."
+  },
+  {
+   "s": "symposium",
+   "p": "years_active",
+   "v": "1997 until 2011",
+   "quote": "This was run as an annual fundraiser by the Aztec, New Mexico, library from 1997 until 2011."
+  },
+  {
+   "s": "symposium",
+   "p": "located_in",
+   "o": "aztec",
+   "quote": "This was run as an annual fundraiser by the Aztec, New Mexico, library from 1997 until 2011."
+  },
+  {
+   "s": "aztec",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Aztec crashed saucer hoax  (sometimes known as the \"other Roswell\") was the allegation that a flying saucer crashed in 1948 in Aztec, New Mexico."
+  },
+  {
+   "s": "aztec",
+   "p": "located_in",
+   "o": "nm",
+   "quote": "The Aztec crashed saucer hoax  (sometimes known as the \"other Roswell\") was the allegation that a flying saucer crashed in 1948 in Aztec, New Mexico."
+  },
+  {
+   "s": "nm",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "According to Scully, in March 1948, an unidentified aerial craft containing sixteen humanoid bodies was recovered by the military in New Mexico after making a controlled landing in Hart Canyon 12 mi (19 km) northeast of the city of Aztec."
+  },
+  {
+   "s": "hart",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "According to Scully, in March 1948, an unidentified aerial craft containing sixteen humanoid bodies was recovered by the military in New Mexico after making a controlled landing in Hart Canyon 12 mi (19 km) northeast of the city of Aztec."
+  },
+  {
+   "s": "hart",
+   "p": "located_in",
+   "o": "nm",
+   "quote": "According to Scully, in March 1948, an unidentified aerial craft containing sixteen humanoid bodies was recovered by the military in New Mexico after making a controlled landing in Hart Canyon 12 mi (19 km) northeast of the city of Aztec."
+  },
+  {
+   "s": "hart",
+   "p": "location",
+   "v": "12 mi (19 km) northeast of the city of Aztec",
+   "quote": "According to Scully, in March 1948, an unidentified aerial craft containing sixteen humanoid bodies was recovered by the military in New Mexico after making a controlled landing in Hart Canyon 12 mi (19 km) northeast of the city of Aztec."
+  },
+  {
+   "s": "hart",
+   "p": "near",
+   "o": "aztec",
+   "quote": "According to Scully, in March 1948, an unidentified aerial craft containing sixteen humanoid bodies was recovered by the military in New Mexico after making a controlled landing in Hart Canyon 12 mi (19 km) northeast of the city of Aztec."
+  },
+  {
+   "s": "sahara",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Scully also claimed a similar craft was found in the Sahara Desert, but this is omitted in his later writings."
+  },
+  {
+   "s": "wpafb",
+   "p": "related_place",
+   "o": "case",
+   "quote": "In 1974, ufologist Robert Spencer Carr publicly claimed alien bodies recovered near Aztec were stored at a building at Wright-Patterson called Hangar 18, prompting official denials from the Air Force."
+  },
+  {
+   "s": "wpafb",
+   "p": "rumor",
+   "v": "dead alien bodies stored at the base",
+   "quote": "In 1966, the book Incident at Exeter mentioned rumors of dead alien bodies stored at Wright-Patterson Air Force Base, which inspired the 1968 science fiction novel The Fortec Conspiracy."
+  },
+  {
+   "s": "hangar18",
+   "p": "related_place",
+   "o": "case",
+   "quote": "In 1974, ufologist Robert Spencer Carr publicly claimed alien bodies recovered near Aztec were stored at a building at Wright-Patterson called Hangar 18, prompting official denials from the Air Force."
+  },
+  {
+   "s": "hangar18",
+   "p": "located_in",
+   "o": "wpafb",
+   "quote": "In 1974, ufologist Robert Spencer Carr publicly claimed alien bodies recovered near Aztec were stored at a building at Wright-Patterson called Hangar 18, prompting official denials from the Air Force."
+  },
+  {
+   "s": "hangar18",
+   "p": "existence",
+   "v": "the Air Force explained that there is no Hangar 18 at the base",
+   "quote": "The Air Force explained that there is no Hangar 18 at the base and noted Carr's claims mirrored the plot of the novel."
+  },
+  {
+   "s": "hangar18",
+   "p": "alleged_contents",
+   "v": "alien bodies recovered near Aztec",
+   "quote": "In 1974, ufologist Robert Spencer Carr publicly claimed alien bodies recovered near Aztec were stored at a building at Wright-Patterson called Hangar 18, prompting official denials from the Air Force."
+  },
+  {
+   "s": "hangar18",
+   "p": "alleged_contents",
+   "v": "recovered materials taken there by the military",
+   "quote": "Ufologists claim that shortly after the craft was downed, the military cleared the area of evidence including the bodies, and subsequently took recovered materials to Hangar 18 at Wright-Patterson."
+  },
+  {
+   "s": "hangar18",
+   "p": "see_also",
+   "v": "Hangar 18 (conspiracy theory)",
+   "quote": "Hangar 18 (conspiracy theory)"
+  },
+  {
+   "s": "dc",
+   "p": "related_place",
+   "o": "case",
+   "quote": "presumably a reference to the Metropolitan Police Department of the District of Columbia, although the memo never makes this clear."
+  },
+  {
+   "s": "wfo",
+   "p": "located_in",
+   "o": "dc",
+   "quote": "After the Vault launched, a one-page March 22, 1950 memorandum by Guy Hottel (special agent in charge of the FBI's Washington Field Office) drew renewed attention online, and the FBI later described it as the Vault's most-viewed document."
+  },
+  {
+   "s": "hottel_memo",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In 2013, the FBI released a large number of documents online, drawing attention to a 1950 memo by FBI agent Guy Hottel claimed by some ufologists to substantiate the Aztec crash"
+  },
+  {
+   "s": "hottel_memo",
+   "p": "date",
+   "v": "1950-03-22",
+   "quote": "After the Vault launched, a one-page March 22, 1950 memorandum by Guy Hottel (special agent in charge of the FBI's Washington Field Office) drew renewed attention online, and the FBI later described it as the Vault's most-viewed document."
+  },
+  {
+   "s": "hottel_memo",
+   "p": "length",
+   "v": "one page",
+   "quote": "After the Vault launched, a one-page March 22, 1950 memorandum by Guy Hottel (special agent in charge of the FBI's Washington Field Office) drew renewed attention online, and the FBI later described it as the Vault's most-viewed document."
+  },
+  {
+   "s": "hottel_memo",
+   "p": "content",
+   "v": "relays a third-party account claiming an Air Force investigator had reported three circular craft recovered in New Mexico",
+   "quote": "The Hottel memo relays a third-party account claiming that an Air Force investigator had reported three circular craft recovered in New Mexico."
+  },
+  {
+   "s": "hottel_memo",
+   "p": "content",
+   "v": "objects \"approximately 50 feet in diameter\", each with three small humanoid bodies \"only three feet tall\" wearing \"metallic cloth\"",
+   "quote": "The memo describes the objects as \"approximately 50 feet in diameter\" and states that each contained three small humanoid bodies \"only three feet tall,\" wearing \"metallic cloth.\""
+  },
+  {
+   "s": "hottel_memo",
+   "p": "content",
+   "v": "attributes the alleged recovery to interference from a \"high-powered radar\" installation in the area",
+   "quote": "It attributes the alleged recovery to interference from a \"high-powered radar\" installation in the area, and ends by noting that \"No further evaluation was attempted.\""
+  },
+  {
+   "s": "hottel_memo",
+   "p": "closing_note",
+   "v": "No further evaluation was attempted.",
+   "quote": "It attributes the alleged recovery to interference from a \"high-powered radar\" installation in the area, and ends by noting that \"No further evaluation was attempted.\""
+  },
+  {
+   "s": "hottel_memo",
+   "p": "notability",
+   "v": "described by the FBI as the Vault's most-viewed document",
+   "quote": "After the Vault launched, a one-page March 22, 1950 memorandum by Guy Hottel (special agent in charge of the FBI's Washington Field Office) drew renewed attention online, and the FBI later described it as the Vault's most-viewed document."
+  },
+  {
+   "s": "hottel_memo",
+   "p": "redaction",
+   "v": "initially published on The Vault with the name of the informant redacted",
+   "quote": "The memo was initially published on The Vault with the name of the informant redacted, leading to speculation about their identity and the underlying source of the information."
+  },
+  {
+   "s": "hottel_memo",
+   "p": "classification",
+   "v": "unclassified",
+   "quote": "Benjamin Radford with The Christian Science Monitor noted that the memo was unclassified, suggesting that the FBI did not feel that the alleged crash merited secrecy, and that copies had been circulating among ufologists since the late 1990s."
+  },
+  {
+   "s": "hottel_memo",
+   "p": "circulation",
+   "v": "copies circulating among ufologists since the late 1990s",
+   "quote": "Benjamin Radford with The Christian Science Monitor noted that the memo was unclassified, suggesting that the FBI did not feel that the alleged crash merited secrecy, and that copies had been circulating among ufologists since the late 1990s."
+  },
+  {
+   "s": "hottel_memo",
+   "p": "release_history",
+   "v": "released publicly decades earlier and posted online prior to the 2011 Vault launch",
+   "quote": "The FBI also stated that the memo had been released publicly decades earlier and had been posted online prior to the 2011 Vault launch."
+  },
+  {
+   "s": "hottel_memo",
+   "p": "fbi_assessment",
+   "v": "an unconfirmed \"second- or third-hand claim\" the Bureau did not investigate",
+   "quote": "In 2013, the FBI stated that the memo \"does not prove the existence of UFOs\" and characterized it as an unconfirmed \"second- or third-hand claim\" the Bureau did not investigate."
+  },
+  {
+   "s": "hottel_memo",
+   "p": "proponent_claim",
+   "v": "claimed by some ufologists to substantiate the Aztec crash",
+   "quote": "In 2013, the FBI released a large number of documents online, drawing attention to a 1950 memo by FBI agent Guy Hottel claimed by some ufologists to substantiate the Aztec crash"
+  },
+  {
+   "s": "hottel_memo",
+   "p": "ambiguity",
+   "v": "ambiguous about the crash location, never specifically mentioning Aztec",
+   "quote": "According to Scott Ramsey, a common critique of these theories is that the memo is ambiguous about the crash location, never specifically mentioning Aztec."
+  },
+  {
+   "s": "hottel_memo",
+   "p": "informant",
+   "v": "KARL HOWE, Special Investigator, Sex Squad, Metropolitan Police Department",
+   "quote": "In August 2022, The Black Vault obtained an unredacted copy of the memo from the FBI, which revealed that the informant was \"KARL HOWE, Special Investigator, Sex Squad, Metropolitan Police Department\""
+  },
+  {
+   "s": "hottel_memo",
+   "p": "unredacted_copy_obtained",
+   "v": "2022-08",
+   "quote": "In August 2022, The Black Vault obtained an unredacted copy of the memo from the FBI, which revealed that the informant was \"KARL HOWE, Special Investigator, Sex Squad, Metropolitan Police Department\""
+  },
+  {
+   "s": "hottel_memo",
+   "p": "source_theory",
+   "v": "the informant read the narrative in a January 1950 story in The Wyandotte Echo traced thirdhand to Newton",
+   "quote": "Another theory is that the informant read the narrative in a story printed in January 1950 by The Wyandotte Echo, which was traced thirdhand to Newton."
+  },
+  {
+   "s": "hottel_memo",
+   "p": "source_status",
+   "v": "the source remains an enigma and the narrative cannot be conclusively tied to Newton",
+   "quote": "Neither the unredacted memo nor supporting documents obtained by The Black Vault reveal where Howe obtained the information, so the source remains an enigma and the narrative cannot be conclusively tied to Newton."
+  },
+  {
+   "s": "hottel_memo",
+   "p": "part_of",
+   "o": "vault",
+   "quote": "The memo was initially published on The Vault with the name of the informant redacted, leading to speculation about their identity and the underlying source of the information."
+  },
+  {
+   "s": "hottel_memo",
+   "p": "mentioned_by",
+   "o": "aui",
+   "quote": "The Ramseys and Thayer, the co-authors of The Aztec UFO Incident, and David E. Thomas, a researcher with the group New Mexicans for Science and Reason, tied the memo to the Aztec crash because the narrative more closely resembles Newton's claims than it resembles contemporary accounts of the Roswell incident."
+  },
+  {
+   "s": "howe",
+   "p": "mentioned_by",
+   "o": "hottel_memo",
+   "quote": "In August 2022, The Black Vault obtained an unredacted copy of the memo from the FBI, which revealed that the informant was \"KARL HOWE, Special Investigator, Sex Squad, Metropolitan Police Department\""
+  },
+  {
+   "s": "usaf",
+   "p": "mentioned_by",
+   "o": "hottel_memo",
+   "quote": "The Hottel memo relays a third-party account claiming that an Air Force investigator had reported three circular craft recovered in New Mexico."
+  },
+  {
+   "s": "vault",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The memo was initially published on The Vault with the name of the informant redacted, leading to speculation about their identity and the underlying source of the information."
+  },
+  {
+   "s": "vault",
+   "p": "launched",
+   "v": "2011-04",
+   "quote": "In April 2011, the FBI launched The Vault, an online repository of public records released under the Freedom of Information Act."
+  },
+  {
+   "s": "vault",
+   "p": "description",
+   "v": "online repository of public records released under the Freedom of Information Act",
+   "quote": "In April 2011, the FBI launched The Vault, an online repository of public records released under the Freedom of Information Act."
+  },
+  {
+   "s": "foia",
+   "p": "related_law",
+   "o": "case",
+   "quote": "In April 2011, the FBI launched The Vault, an online repository of public records released under the Freedom of Information Act."
+  },
+  {
+   "s": "foia",
+   "p": "role",
+   "v": "public records in the FBI's Vault were released under it",
+   "quote": "In April 2011, the FBI launched The Vault, an online repository of public records released under the Freedom of Information Act."
+  },
+  {
+   "s": "columns",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The story was first published in 1949 by journalist Frank Scully in his Variety magazine columns, and later in his 1950 book Behind the Flying Saucers."
+  },
+  {
+   "s": "columns",
+   "p": "year",
+   "v": "1949",
+   "quote": "In 1949, author Frank Scully published a series of columns in Variety magazine retelling the crash story told to him by two men identified as Silas Newton and Leo A. Gebauer."
+  },
+  {
+   "s": "columns",
+   "p": "content",
+   "v": "retold the crash story told to Scully by Silas Newton and Leo A. Gebauer",
+   "quote": "In 1949, author Frank Scully published a series of columns in Variety magazine retelling the crash story told to him by two men identified as Silas Newton and Leo A. Gebauer."
+  },
+  {
+   "s": "bfs",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The story was first published in 1949 by journalist Frank Scully in his Variety magazine columns, and later in his 1950 book Behind the Flying Saucers."
+  },
+  {
+   "s": "bfs",
+   "p": "year",
+   "v": "1950",
+   "quote": "He later expanded these columns to create Behind the Flying Saucers in 1950, a best-selling book that influenced public perceptions about UFOs."
+  },
+  {
+   "s": "bfs",
+   "p": "notability",
+   "v": "a best-selling book that influenced public perceptions about UFOs",
+   "quote": "He later expanded these columns to create Behind the Flying Saucers in 1950, a best-selling book that influenced public perceptions about UFOs."
+  },
+  {
+   "s": "bfs",
+   "p": "origin",
+   "v": "expanded from Scully's Variety columns",
+   "quote": "He later expanded these columns to create Behind the Flying Saucers in 1950, a best-selling book that influenced public perceptions about UFOs."
+  },
+  {
+   "s": "bfs",
+   "p": "publisher",
+   "v": "Henry Holt and Company, New York",
+   "quote": "Scully, Frank (1950). Behind the Flying Saucers. New York: Henry Holt and Company. OCLC 1467735."
+  },
+  {
+   "s": "bfs",
+   "p": "oclc",
+   "v": "1467735",
+   "quote": "Scully, Frank (1950). Behind the Flying Saucers. New York: Henry Holt and Company. OCLC 1467735."
+  },
+  {
+   "s": "cahn_article",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 1952, Cahn exposed the hoax in True magazine."
+  },
+  {
+   "s": "cahn_article",
+   "p": "year",
+   "v": "1952",
+   "quote": "In 1952, Cahn exposed the hoax in True magazine."
+  },
+  {
+   "s": "cahn_article",
+   "p": "follow_up",
+   "v": "a follow-up article in 1956 presented other victims swindled by Newton and Gebauer",
+   "quote": "A follow-up article in 1956 presented other victims who had been swindled by  Newton and Gebauer."
+  },
+  {
+   "s": "exeter",
+   "p": "related_work",
+   "o": "case",
+   "quote": "In 1966, the book Incident at Exeter mentioned rumors of dead alien bodies stored at Wright-Patterson Air Force Base, which inspired the 1968 science fiction novel The Fortec Conspiracy."
+  },
+  {
+   "s": "exeter",
+   "p": "year",
+   "v": "1966",
+   "quote": "In 1966, the book Incident at Exeter mentioned rumors of dead alien bodies stored at Wright-Patterson Air Force Base, which inspired the 1968 science fiction novel The Fortec Conspiracy."
+  },
+  {
+   "s": "exeter",
+   "p": "content",
+   "v": "mentioned rumors of dead alien bodies stored at Wright-Patterson Air Force Base",
+   "quote": "In 1966, the book Incident at Exeter mentioned rumors of dead alien bodies stored at Wright-Patterson Air Force Base, which inspired the 1968 science fiction novel The Fortec Conspiracy."
+  },
+  {
+   "s": "wpafb",
+   "p": "mentioned_by",
+   "o": "exeter",
+   "quote": "In 1966, the book Incident at Exeter mentioned rumors of dead alien bodies stored at Wright-Patterson Air Force Base, which inspired the 1968 science fiction novel The Fortec Conspiracy."
+  },
+  {
+   "s": "fortec",
+   "p": "related_work",
+   "o": "case",
+   "quote": "In 1966, the book Incident at Exeter mentioned rumors of dead alien bodies stored at Wright-Patterson Air Force Base, which inspired the 1968 science fiction novel The Fortec Conspiracy."
+  },
+  {
+   "s": "fortec",
+   "p": "year",
+   "v": "1968",
+   "quote": "In 1966, the book Incident at Exeter mentioned rumors of dead alien bodies stored at Wright-Patterson Air Force Base, which inspired the 1968 science fiction novel The Fortec Conspiracy."
+  },
+  {
+   "s": "fortec",
+   "p": "genre",
+   "v": "science fiction novel",
+   "quote": "In 1966, the book Incident at Exeter mentioned rumors of dead alien bodies stored at Wright-Patterson Air Force Base, which inspired the 1968 science fiction novel The Fortec Conspiracy."
+  },
+  {
+   "s": "fortec",
+   "p": "inspired_by",
+   "v": "rumors of dead alien bodies stored at Wright-Patterson mentioned in Incident at Exeter",
+   "quote": "In 1966, the book Incident at Exeter mentioned rumors of dead alien bodies stored at Wright-Patterson Air Force Base, which inspired the 1968 science fiction novel The Fortec Conspiracy."
+  },
+  {
+   "s": "fortec",
+   "p": "plot",
+   "v": "the Air Force noted Carr's claims mirrored the plot of the novel",
+   "quote": "The Air Force explained that there is no Hangar 18 at the base and noted Carr's claims mirrored the plot of the novel."
+  },
+  {
+   "s": "aui",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The 2012 book The Aztec UFO Incident by Scott and Suzanne Ramsey and Frank Thayer alleges that the crash was legitimate, and that the Newton and Gebauer trial was \"engineered... to sink Aztec\" by discrediting the two men."
+  },
+  {
+   "s": "aui",
+   "p": "year",
+   "v": "2012",
+   "quote": "The 2012 book The Aztec UFO Incident by Scott and Suzanne Ramsey and Frank Thayer alleges that the crash was legitimate, and that the Newton and Gebauer trial was \"engineered... to sink Aztec\" by discrediting the two men."
+  },
+  {
+   "s": "aui",
+   "p": "claim",
+   "v": "the crash was legitimate",
+   "quote": "The 2012 book The Aztec UFO Incident by Scott and Suzanne Ramsey and Frank Thayer alleges that the crash was legitimate, and that the Newton and Gebauer trial was \"engineered... to sink Aztec\" by discrediting the two men."
+  },
+  {
+   "s": "aui",
+   "p": "claim",
+   "v": "the Newton and Gebauer trial was \"engineered... to sink Aztec\" by discrediting the two men",
+   "quote": "The 2012 book The Aztec UFO Incident by Scott and Suzanne Ramsey and Frank Thayer alleges that the crash was legitimate, and that the Newton and Gebauer trial was \"engineered... to sink Aztec\" by discrediting the two men."
+  },
+  {
+   "s": "mnm",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Radford, Ben (2014). \"Chapter 4 The Great Aztec UFO Crash\". Mysterious New Mexico."
+  },
+  {
+   "s": "mnm",
+   "p": "year",
+   "v": "2014",
+   "quote": "Radford, Ben (2014). \"Chapter 4 The Great Aztec UFO Crash\". Mysterious New Mexico."
+  },
+  {
+   "s": "mnm",
+   "p": "chapter",
+   "v": "Chapter 4 The Great Aztec UFO Crash",
+   "quote": "Radford, Ben (2014). \"Chapter 4 The Great Aztec UFO Crash\". Mysterious New Mexico."
+  },
+  {
+   "s": "roswell",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Aspects of the Aztec hoax, such as the recovery of alien bodies and a saucer-shaped craft incorporating seemingly indestructible metal, have become intertwined with narratives about the better-known Roswell incident."
+  },
+  {
+   "s": "roswell",
+   "p": "relationship",
+   "v": "many allegedly first-hand accounts of the Roswell crash contained elements of the Aztec crash story",
+   "quote": "In later years, many allegedly first-hand accounts of the Roswell crash contained elements of the Aztec crash story, with some claiming the craft was made of a material impervious to all heat, and others alleging the craft was damaged by the crash."
+  },
+  {
+   "s": "roswell",
+   "p": "relationship",
+   "v": "the Hottel memo narrative more closely resembles Newton's claims than contemporary accounts of the Roswell incident",
+   "quote": "The Ramseys and Thayer, the co-authors of The Aztec UFO Incident, and David E. Thomas, a researcher with the group New Mexicans for Science and Reason, tied the memo to the Aztec crash because the narrative more closely resembles Newton's claims than it resembles contemporary accounts of the Roswell incident."
+  },
+  {
+   "s": "twinfalls",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Twin Falls Saucer Hoax"
+  },
+  {
+   "s": "f_disc",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Aspects of the Aztec hoax, such as the recovery of alien bodies and a saucer-shaped craft incorporating seemingly indestructible metal, have become intertwined with narratives about the better-known Roswell incident."
+  },
+  {
+   "s": "f_crash",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to Scully, in March 1948, an unidentified aerial craft containing sixteen humanoid bodies was recovered by the military in New Mexico after making a controlled landing in Hart Canyon 12 mi (19 km) northeast of the city of Aztec."
+  },
+  {
+   "s": "f_occ",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to Scully, in March 1948, an unidentified aerial craft containing sixteen humanoid bodies was recovered by the military in New Mexico after making a controlled landing in Hart Canyon 12 mi (19 km) northeast of the city of Aztec."
+  },
+  {
+   "s": "f_land",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to Scully, in March 1948, an unidentified aerial craft containing sixteen humanoid bodies was recovered by the military in New Mexico after making a controlled landing in Hart Canyon 12 mi (19 km) northeast of the city of Aztec."
+  },
+  {
+   "s": "f_cover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to his sources, the incident had been covered up and \"the military had taken the craft for secret research\"."
+  },
+  {
+   "s": "f_hoax",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In 1952, the story was exposed as a hoax fabricated by two con men, Silas M. Newton and Leo A. Gebauer, as part of a fraudulent scheme to sell materials claimed to incorporate extraterrestrial technology; they were convicted of fraud for this enterprise in 1953."
+  },
+  {
+   "s": "f_debris",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Ufologists claim that shortly after the craft was downed, the military cleared the area of evidence including the bodies, and subsequently took recovered materials to Hangar 18 at Wright-Patterson."
+  },
+  {
+   "s": "f_fraud",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The two men were convicted of fraud in 1953."
+  },
+  {
+   "s": "f_disc",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Aztec crashed saucer hoax  (sometimes known as the \"other Roswell\") was the allegation that a flying saucer crashed in 1948 in Aztec, New Mexico."
+  },
+  {
+   "s": "f_crash",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Aztec crashed saucer hoax  (sometimes known as the \"other Roswell\") was the allegation that a flying saucer crashed in 1948 in Aztec, New Mexico."
+  },
+  {
+   "s": "f_hoax",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In 1952, Cahn exposed the hoax in True magazine."
+  },
+  {
+   "s": "x_hoax",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "In 1952, the story was exposed as a hoax fabricated by two con men, Silas M. Newton and Leo A. Gebauer, as part of a fraudulent scheme to sell materials claimed to incorporate extraterrestrial technology; they were convicted of fraud for this enterprise in 1953."
+  }
+ ]
+}

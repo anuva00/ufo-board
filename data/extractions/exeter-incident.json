@@ -1,0 +1,2593 @@
+{
+ "slug": "exeter-incident",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Exeter incident",
+   "aliases": [
+    "Incident at Exeter",
+    "Exeter UFO sightings"
+   ],
+   "description": "UFO sighting on September 3, 1965 in Kensington near Exeter, New Hampshire, by a teenager and two police officers."
+  },
+  {
+   "key": "muscarello",
+   "type": "person",
+   "name": "Norman Muscarello",
+   "aliases": [
+    "Muscarello"
+   ],
+   "description": "18-year-old hitchhiker who first saw the object."
+  },
+  {
+   "key": "bertrand",
+   "type": "person",
+   "name": "Eugene Bertrand Jr.",
+   "aliases": [
+    "Eugene Bertrand",
+    "Bertrand"
+   ],
+   "description": "Exeter police officer who saw the object with Muscarello."
+  },
+  {
+   "key": "hunt",
+   "type": "person",
+   "name": "David Hunt",
+   "aliases": [
+    "Hunt",
+    "Patrolman Hunt"
+   ],
+   "description": "Exeter policeman who arrived as backup and also watched the object."
+  },
+  {
+   "key": "toland",
+   "type": "person",
+   "name": "Reginald Toland",
+   "aliases": [
+    "Toland"
+   ],
+   "description": "Exeter police officer on the night desk who took Muscarello's report."
+  },
+  {
+   "key": "fuller",
+   "type": "person",
+   "name": "John G. Fuller",
+   "aliases": [
+    "Fuller"
+   ],
+   "description": "Saturday Review columnist who investigated and wrote Incident at Exeter."
+  },
+  {
+   "key": "clark",
+   "type": "person",
+   "name": "Jerome Clark",
+   "description": "UFO historian quoted on the sighting."
+  },
+  {
+   "key": "smith",
+   "type": "person",
+   "name": "Ron Smith",
+   "aliases": [
+    "Smith"
+   ],
+   "description": "Exeter High School senior who told Fuller of a later sighting."
+  },
+  {
+   "key": "lindsay",
+   "type": "person",
+   "name": "Mrs. Ralph Lindsay",
+   "description": "Exeter-area resident who phoned police about an orange ball."
+  },
+  {
+   "key": "griffin",
+   "type": "person",
+   "name": "David Griffin",
+   "aliases": [
+    "Major David Griffin",
+    "Major Griffin",
+    "Griffin",
+    "Griffen"
+   ],
+   "description": "Air Force major sent to interview the witnesses."
+  },
+  {
+   "key": "brandt",
+   "type": "person",
+   "name": "Alan Brandt",
+   "aliases": [
+    "Lieutenant Alan Brandt",
+    "Brandt"
+   ],
+   "description": "Air Force lieutenant sent to interview the witnesses."
+  },
+  {
+   "key": "quintanilla",
+   "type": "person",
+   "name": "Hector Quintanilla",
+   "aliases": [
+    "Major Hector Quintanilla",
+    "Major Quintanilla",
+    "Quintanilla"
+   ],
+   "description": "USAF major, supervisor of Project Blue Book."
+  },
+  {
+   "key": "fowler",
+   "type": "person",
+   "name": "Raymond E. Fowler",
+   "aliases": [
+    "Raymond Fowler",
+    "Fowler"
+   ],
+   "description": "New England investigator for NICAP."
+  },
+  {
+   "key": "spaulding",
+   "type": "person",
+   "name": "John Spaulding",
+   "aliases": [
+    "Lieutenant Colonel John Spaulding",
+    "Spaulding"
+   ],
+   "description": "Lieutenant colonel from the Office of the Secretary of the Air Force who replied to the policemen."
+  },
+  {
+   "key": "nickell",
+   "type": "person",
+   "name": "Joe Nickell",
+   "aliases": [
+    "Nickell"
+   ],
+   "description": "Skeptic who co-proposed the KC-97 explanation in 2011."
+  },
+  {
+   "key": "mcgaha",
+   "type": "person",
+   "name": "James McGaha",
+   "aliases": [
+    "McGaha"
+   ],
+   "description": "Retired Air Force major and pilot who co-proposed the KC-97 explanation."
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "aliases": [
+    "Air Force",
+    "USAF",
+    "the Air Force"
+   ],
+   "description": "US military air service that investigated the sighting."
+  },
+  {
+   "key": "navy",
+   "type": "organization",
+   "name": "United States Navy",
+   "description": "Service Muscarello was about to enter."
+  },
+  {
+   "key": "exeterpd",
+   "type": "organization",
+   "name": "Exeter Police Department",
+   "aliases": [
+    "Exeter police",
+    "Exeter police station",
+    "Exeter's police station"
+   ],
+   "description": "Police force of Exeter, New Hampshire."
+  },
+  {
+   "key": "skepinq",
+   "type": "organization",
+   "name": "Skeptical Inquirer",
+   "description": "Publication that carried a 2011 explanation of the incident."
+  },
+  {
+   "key": "satreview",
+   "type": "organization",
+   "name": "Saturday Review",
+   "description": "Publication for which John G. Fuller was a regular columnist."
+  },
+  {
+   "key": "unionleader",
+   "type": "organization",
+   "name": "Manchester Union-Leader",
+   "description": "Newspaper whose reporter interviewed the witnesses."
+  },
+  {
+   "key": "pentagon",
+   "type": "organization",
+   "name": "The Pentagon",
+   "aliases": [
+    "Pentagon"
+   ],
+   "description": "US defense headquarters that released an evaluation to reporters."
+  },
+  {
+   "key": "nicap",
+   "type": "organization",
+   "name": "National Investigations Committee On Aerial Phenomena",
+   "aliases": [
+    "NICAP"
+   ],
+   "description": "Civilian UFO group whose New England investigator reported on Exeter."
+  },
+  {
+   "key": "sac",
+   "type": "organization",
+   "name": "Strategic Air Command",
+   "aliases": [
+    "SAC"
+   ],
+   "description": "Command named with NORAD as running Operation Big Blast."
+  },
+  {
+   "key": "norad",
+   "type": "organization",
+   "name": "NORAD",
+   "description": "Command named with SAC as running Operation Big Blast."
+  },
+  {
+   "key": "secaf",
+   "type": "organization",
+   "name": "Office of the Secretary of the Air Force",
+   "description": "Office from which Lt. Col. Spaulding replied to the policemen."
+  },
+  {
+   "key": "exeterhs",
+   "type": "organization",
+   "name": "Exeter High School",
+   "description": "School where Ron Smith was a senior."
+  },
+  {
+   "key": "kiwanis",
+   "type": "organization",
+   "name": "Exeter Kiwanis Club",
+   "description": "Club that started the Exeter UFO Festival in 2010."
+  },
+  {
+   "key": "nyt",
+   "type": "organization",
+   "name": "The New York Times",
+   "description": "Newspaper whose Best Seller list included Incident at Exeter."
+  },
+  {
+   "key": "bluebook",
+   "type": "program",
+   "name": "Project Blue Book",
+   "aliases": [
+    "Blue Book"
+   ],
+   "description": "Official Air Force research group assigned to investigate UFO reports."
+  },
+  {
+   "key": "bigblast",
+   "type": "program",
+   "name": "Operation Big Blast",
+   "aliases": [
+    "Big Blast"
+   ],
+   "description": "SAC/NORAD training mission offered as an explanation."
+  },
+  {
+   "key": "exeter",
+   "type": "place",
+   "name": "Exeter, New Hampshire",
+   "aliases": [
+    "Exeter"
+   ],
+   "description": "Town about 3 miles north of the sighting location."
+  },
+  {
+   "key": "kensington",
+   "type": "place",
+   "name": "Kensington, New Hampshire",
+   "aliases": [
+    "Kensington"
+   ],
+   "description": "Town neighbouring Exeter where the sighting occurred."
+  },
+  {
+   "key": "nh",
+   "type": "place",
+   "name": "New Hampshire",
+   "description": "US state of the sighting."
+  },
+  {
+   "key": "route150",
+   "type": "place",
+   "name": "New Hampshire Route 150",
+   "description": "Highway Muscarello was hitchhiking along."
+  },
+  {
+   "key": "route108",
+   "type": "place",
+   "name": "New Hampshire Route 108",
+   "description": "Highway where Bertrand met a frightened woman motorist."
+  },
+  {
+   "key": "amesbury",
+   "type": "place",
+   "name": "Amesbury, Massachusetts",
+   "aliases": [
+    "Amesbury"
+   ],
+   "description": "Town where Muscarello had visited his girlfriend."
+  },
+  {
+   "key": "mass",
+   "type": "place",
+   "name": "Massachusetts",
+   "description": "US state containing Amesbury."
+  },
+  {
+   "key": "epping",
+   "type": "place",
+   "name": "Epping, New Hampshire",
+   "aliases": [
+    "Epping"
+   ],
+   "description": "Town from which a woman said an object followed her car."
+  },
+  {
+   "key": "pease",
+   "type": "place",
+   "name": "Pease Air Force Base",
+   "aliases": [
+    "Pease AFB"
+   ],
+   "description": "Air Force base near Exeter."
+  },
+  {
+   "key": "wpafb",
+   "type": "place",
+   "name": "Wright-Patterson Air Force Base",
+   "aliases": [
+    "Wright-Patterson AFB",
+    "Wright-Patterson AFB, Ohio"
+   ],
+   "description": "Location of the Air Force UFO investigation officer."
+  },
+  {
+   "key": "ohio",
+   "type": "place",
+   "name": "Ohio",
+   "description": "US state of Wright-Patterson AFB."
+  },
+  {
+   "key": "newengland",
+   "type": "place",
+   "name": "New England",
+   "description": "Region covered by NICAP investigator Raymond E. Fowler."
+  },
+  {
+   "key": "diningfarm",
+   "type": "place",
+   "name": "Dining farm",
+   "aliases": [
+    "Dining farmhouse"
+   ],
+   "description": "Farm of the Dining family over whose farmhouse and field the lights hovered."
+  },
+  {
+   "key": "russellhouse",
+   "type": "place",
+   "name": "Russell house",
+   "aliases": [
+    "the Russell's house"
+   ],
+   "description": "House of a family named Russell, where Muscarello pounded on the door."
+  },
+  {
+   "key": "craft",
+   "type": "craft",
+   "name": "Object with flashing red lights seen September 3, 1965",
+   "description": "Huge, dark, silent object with five flashing red lights seen by Muscarello, Bertrand and Hunt."
+  },
+  {
+   "key": "craft_woman",
+   "type": "craft",
+   "name": "Huge object with flashing red lights reported on Route 108",
+   "description": "Object an unnamed woman said followed her car from Epping to Exeter."
+  },
+  {
+   "key": "craft_smith",
+   "type": "craft",
+   "name": "Object seen by Ron Smith",
+   "description": "Spinning object with a red light on top and glowing white bottom."
+  },
+  {
+   "key": "craft_lindsay",
+   "type": "craft",
+   "name": "Orange ball seen by Mrs. Ralph Lindsay",
+   "description": "Big orange ball outside a caller's window just before dawn."
+  },
+  {
+   "key": "craft_fuller",
+   "type": "craft",
+   "name": "Unusual object seen by John G. Fuller",
+   "description": "Object Fuller wrote he saw near Exeter being chased by an Air Force jet fighter."
+  },
+  {
+   "key": "b47",
+   "type": "vehicle",
+   "name": "B-47 bomber",
+   "aliases": [
+    "B-47",
+    "B-47 aircraft"
+   ],
+   "description": "Air Force bomber type flying in the area from Pease AFB."
+  },
+  {
+   "key": "kc97",
+   "type": "vehicle",
+   "name": "KC-97 tanker aircraft",
+   "aliases": [
+    "KC-97",
+    "KC-97 tankers"
+   ],
+   "description": "Refuelling tanker type stationed at Pease AFB in 1965."
+  },
+  {
+   "key": "patrolcar",
+   "type": "vehicle",
+   "name": "Bertrand's patrol car",
+   "description": "Police car Bertrand drove to the sighting area."
+  },
+  {
+   "key": "jetfighter",
+   "type": "vehicle",
+   "name": "Air Force jet fighter",
+   "description": "Jet Fuller wrote was chasing an unusual object near Exeter."
+  },
+  {
+   "key": "policereports",
+   "type": "document",
+   "name": "Exeter police reports of Muscarello, Bertrand and Hunt",
+   "description": "Separate reports filed by the three witnesses at the Exeter police station."
+  },
+  {
+   "key": "griffinreport",
+   "type": "document",
+   "name": "Griffin report to Project Blue Book",
+   "description": "Major Griffin's report of the incident to Major Quintanilla."
+  },
+  {
+   "key": "qletter",
+   "type": "document",
+   "name": "Quintanilla letter to Bertrand and Hunt",
+   "description": "Letter attributing the sighting to Operation Big Blast and B-47 aircraft."
+  },
+  {
+   "key": "letter1",
+   "type": "document",
+   "name": "First letter from Bertrand and Hunt to Project Blue Book",
+   "description": "Policemen's letter rejecting the Pentagon evaluation."
+  },
+  {
+   "key": "letter2",
+   "type": "document",
+   "name": "Second letter from Bertrand and Hunt to Project Blue Book (December 29, 1965)",
+   "description": "Follow-up letter describing the object as silent and wingless."
+  },
+  {
+   "key": "spauldingletter",
+   "type": "document",
+   "name": "Spaulding reply to Bertrand and Hunt (January 1966)",
+   "description": "Air Force reply stating the object could not be identified."
+  },
+  {
+   "key": "fowlerreport",
+   "type": "document",
+   "name": "Fowler report on the Exeter sightings",
+   "description": "Detailed report filed by NICAP investigator Raymond E. Fowler."
+  },
+  {
+   "key": "book",
+   "type": "work",
+   "name": "Incident at Exeter: The Story of Unidentified Flying Objects Over America Today",
+   "aliases": [
+    "Incident at Exeter"
+   ],
+   "description": "John G. Fuller's 1966 book on his investigation."
+  },
+  {
+   "key": "siarticle",
+   "type": "work",
+   "name": "Skeptical Inquirer article by Joe Nickell and James McGaha (2011)",
+   "description": "Article proposing a KC-97 refuelling tanker as the explanation."
+  },
+  {
+   "key": "muscarello_recalls",
+   "type": "work",
+   "name": "Norman Muscarello Recalls His UFO Incident at Exeter",
+   "description": "October 1980 piece re-published via SeacoastNH.com."
+  },
+  {
+   "key": "f_hover",
+   "type": "feature",
+   "name": "hovering",
+   "description": "Feature of the Exeter incident."
+  },
+  {
+   "key": "f_silent",
+   "type": "feature",
+   "name": "silent",
+   "description": "Feature of the Exeter incident."
+  },
+  {
+   "key": "f_animal",
+   "type": "feature",
+   "name": "animal-reaction",
+   "description": "Feature of the Exeter incident."
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "Feature of the Exeter incident."
+  },
+  {
+   "key": "f_police",
+   "type": "feature",
+   "name": "police-witnesses",
+   "description": "Feature of the Exeter incident."
+  },
+  {
+   "key": "f_base",
+   "type": "feature",
+   "name": "military-base-proximity",
+   "description": "Feature of the Exeter incident."
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Feature of the Exeter incident."
+  },
+  {
+   "key": "f_pursuit",
+   "type": "feature",
+   "name": "aircraft-pursuit",
+   "description": "Feature of the Exeter incident."
+  },
+  {
+   "key": "f_child",
+   "type": "feature",
+   "name": "child-witnesses",
+   "description": "Feature of the Exeter incident."
+  },
+  {
+   "key": "f_wave",
+   "type": "feature",
+   "name": "other:sighting-wave",
+   "description": "Feature of the Exeter incident."
+  },
+  {
+   "key": "x_star",
+   "type": "explanation",
+   "name": "star",
+   "description": "Pentagon statement: twinkling stars."
+  },
+  {
+   "key": "x_planet",
+   "type": "explanation",
+   "name": "venus-or-planet",
+   "description": "Pentagon statement: twinkling planets."
+  },
+  {
+   "key": "x_inversion",
+   "type": "explanation",
+   "name": "temperature-inversion",
+   "description": "Pentagon statement: temperature inversion."
+  },
+  {
+   "key": "x_exercise",
+   "type": "explanation",
+   "name": "military-test-or-exercise",
+   "description": "Project Blue Book: Operation Big Blast training mission."
+  },
+  {
+   "key": "x_aircraft",
+   "type": "explanation",
+   "name": "conventional-aircraft",
+   "description": "B-47 aircraft in the area; later a KC-97 refuelling tanker."
+  },
+  {
+   "key": "x_baselights",
+   "type": "explanation",
+   "name": "other:air-base-lights",
+   "description": "Air Force officer's claim that the UFOs were lights from Pease AFB."
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1965-09-03",
+   "quote": "The Exeter incident or Incident at Exeter was a highly publicized UFO sighting that occurred on September 3, 1965, approximately 3 miles (5 km) south of Exeter, New Hampshire, in the neighboring town of Kensington."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "approximately 2:00 a.m.",
+   "quote": "On September 3, 1965, at approximately 2:00 a.m., 18-year-old Norman Muscarello was hitchhiking to his home in Exeter along New Hampshire Route 150."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "The Exeter incident or Incident at Exeter was a highly publicized UFO sighting that occurred on September 3, 1965, approximately 3 miles (5 km) south of Exeter, New Hampshire, in the neighboring town of Kensington."
+  },
+  {
+   "s": "case",
+   "p": "witness_count",
+   "v": "3",
+   "quote": "Although several separate sightings had been reported in the Exeter area by numerous witnesses in the weeks leading up to the specific incident, it was the September 3 sighting, involving a local teenager and two police officers which became, by far, the most famous."
+  },
+  {
+   "s": "case",
+   "p": "distance_from_exeter",
+   "v": "approximately 3 miles (5 km) south",
+   "quote": "The Exeter incident or Incident at Exeter was a highly publicized UFO sighting that occurred on September 3, 1965, approximately 3 miles (5 km) south of Exeter, New Hampshire, in the neighboring town of Kensington."
+  },
+  {
+   "s": "case",
+   "p": "publicity",
+   "v": "highly publicized",
+   "quote": "The Exeter incident or Incident at Exeter was a highly publicized UFO sighting that occurred on September 3, 1965, approximately 3 miles (5 km) south of Exeter, New Hampshire, in the neighboring town of Kensington."
+  },
+  {
+   "s": "case",
+   "p": "publicity",
+   "v": "received national publicity",
+   "quote": "The sightings by Muscarello and the two policemen received national publicity."
+  },
+  {
+   "s": "case",
+   "p": "prior_sightings",
+   "v": "several separate sightings reported in the Exeter area by numerous witnesses in the preceding weeks",
+   "quote": "Although several separate sightings had been reported in the Exeter area by numerous witnesses in the weeks leading up to the specific incident, it was the September 3 sighting, involving a local teenager and two police officers which became, by far, the most famous."
+  },
+  {
+   "s": "case",
+   "p": "reputation",
+   "v": "among the best-documented and best-publicized in UFO history",
+   "quote": "The Exeter UFO sightings—and particularly the September 3 sightings involving Norman Muscarello and police officers Eugene Bertrand and David Hunt—remain among the best-documented and best-publicized in UFO history."
+  },
+  {
+   "s": "case",
+   "p": "official_conclusion",
+   "v": "Air Force unable to identify the object",
+   "quote": "Spaulding wrote that \"based on additional information submitted to our UFO investigation officer, Wright-Patterson AFB, Ohio, we have been unable to identify the object you observed on September 3, 1965.\""
+  },
+  {
+   "s": "case",
+   "p": "traffic",
+   "v": "little traffic on the highway at that hour of the morning",
+   "quote": "Since he had recently sold his car, Muscarello would hitchhike to and from Amesbury; however, at that hour of the morning there was little traffic on the highway, and Muscarello had walked a good part of the distance."
+  },
+  {
+   "s": "case",
+   "p": "weather",
+   "v": "weather clear, no wind, no chance of weather inversion (per the policemen)",
+   "quote": "and went to considerable trouble to confirm that the weather was clear, there was no wind, no chance of weather inversion, and that what we were seeing was in no way a military or civilian aircraft."
+  },
+  {
+   "s": "case",
+   "p": "unnamed_motorists",
+   "v": "a couple in an approaching car drove Muscarello to the Exeter police station",
+   "quote": "The couple in the car drove the frightened youth to the Exeter police station."
+  },
+  {
+   "s": "case",
+   "p": "earlier_report",
+   "v": "a frightened woman told Bertrand a huge object with flashing red lights had followed her car from Epping to Exeter and hovered over it",
+   "quote": "When Bertrand stopped to ask if she had a problem, the woman told him that a \"huge object with flashing red lights\" had followed her car from Epping to Exeter, a distance of about 12 miles (19 km) and hovered over the car before flying away."
+  },
+  {
+   "s": "case",
+   "p": "police_chief_action",
+   "v": "Exeter's police chief called Pease Air Force Base and reported a UFO sighting",
+   "quote": "After Exeter's police chief read the reports of Muscarello, Bertrand, Hunt, he called nearby Pease Air Force Base and reported a UFO sighting."
+  },
+  {
+   "s": "case",
+   "p": "press_request",
+   "v": "Air Force officers asked the three witnesses not to report their sighting to the press",
+   "quote": "The Air Force officers asked all three not to report their sighting to the press, but a reporter from the Manchester Union-Leader newspaper had already interviewed them."
+  },
+  {
+   "s": "case",
+   "p": "ridicule",
+   "v": "the policemen said they were the subject of considerable ridicule after the Pentagon evaluation",
+   "quote": "The two policemen sent a letter to Project Blue Book in which they stated, \"As you can imagine, we have been the subject of considerable ridicule since the Pentagon released its 'final evaluation' of our sighting of September 3, 1965"
+  },
+  {
+   "s": "case",
+   "p": "light_demonstration",
+   "v": "an Air Force officer had Pease AFB lights activated before a large crowd to prove the UFOs were base lights; nothing was seen",
+   "quote": "According to Fowler, \"he ordered personnel at the base to turn the lights on. Everybody looked and waited—and nothing happened. Frustrated, he yelled into the mic to turn on the lights. A voice replied that the lights were on."
+  },
+  {
+   "s": "case",
+   "p": "light_demonstration_outcome",
+   "v": "the embarrassed officer drove off amid the laughs and jeers of the crowd",
+   "quote": "The very embarrassed officer slunk back into the seat of the staff car and drove off amongst the laughs and jeers of the crowd."
+  },
+  {
+   "s": "case",
+   "p": "area_calls",
+   "v": "Toland received a number of calls from Exeter-area residents regarding UFO sightings",
+   "quote": "Toland told Fuller of a number of calls he had received from Exeter-area residents regarding UFO sightings."
+  },
+  {
+   "s": "case",
+   "p": "commemoration",
+   "v": "Exeter UFO Festival, started in 2010 as a fundraiser for children's charities",
+   "quote": "In 2010, the Exeter Kiwanis Club started the \"Exeter UFO Festival\" as a fundraiser to benefit children's charities in the Exeter area."
+  },
+  {
+   "s": "case",
+   "p": "air_operation_timing",
+   "v": "sighting took place nearly an hour after Operation Big Blast was said to have ended",
+   "quote": "Bertrand also noted that their UFO sighting took place nearly an hour after Operation Big Blast was said to have ended, which eliminated the operation as a possible cause of the sighting."
+  },
+  {
+   "s": "case",
+   "p": "aircraft_in_area",
+   "v": "five B-47 aircraft from Pease AFB flying in the area",
+   "quote": "I viewed the area of the sighting and found nothing in the area that could be the probable cause. Pease AFB had five B-47 aircraft flying in the area but I do not believe that they had any connection with this sighting."
+  },
+  {
+   "s": "muscarello",
+   "p": "witness",
+   "o": "case",
+   "quote": "On September 3, 1965, at approximately 2:00 a.m., 18-year-old Norman Muscarello was hitchhiking to his home in Exeter along New Hampshire Route 150."
+  },
+  {
+   "s": "muscarello",
+   "p": "age",
+   "v": "18",
+   "quote": "On September 3, 1965, at approximately 2:00 a.m., 18-year-old Norman Muscarello was hitchhiking to his home in Exeter along New Hampshire Route 150."
+  },
+  {
+   "s": "muscarello",
+   "p": "activity",
+   "v": "hitchhiking home to Exeter",
+   "quote": "On September 3, 1965, at approximately 2:00 a.m., 18-year-old Norman Muscarello was hitchhiking to his home in Exeter along New Hampshire Route 150."
+  },
+  {
+   "s": "muscarello",
+   "p": "resident_of",
+   "o": "exeter",
+   "quote": "On September 3, 1965, at approximately 2:00 a.m., 18-year-old Norman Muscarello was hitchhiking to his home in Exeter along New Hampshire Route 150."
+  },
+  {
+   "s": "muscarello",
+   "p": "education",
+   "v": "graduated from high school the previous June",
+   "quote": "Muscarello had graduated from high school the previous June and was three weeks away from leaving for service in the United States Navy."
+  },
+  {
+   "s": "muscarello",
+   "p": "entering_service_in",
+   "o": "navy",
+   "quote": "Muscarello had graduated from high school the previous June and was three weeks away from leaving for service in the United States Navy."
+  },
+  {
+   "s": "muscarello",
+   "p": "military_service",
+   "v": "three weeks away from leaving for service in the United States Navy",
+   "quote": "Muscarello had graduated from high school the previous June and was three weeks away from leaving for service in the United States Navy."
+  },
+  {
+   "s": "muscarello",
+   "p": "prior_activity",
+   "v": "visiting his girlfriend at her parents' home in Amesbury, Massachusetts",
+   "quote": "He had been visiting his girlfriend at her parents' home in nearby Amesbury, Massachusetts, around 10 miles (16 km) southeast of Exeter."
+  },
+  {
+   "s": "muscarello",
+   "p": "transport",
+   "v": "had recently sold his car; hitchhiked and walked a good part of the distance",
+   "quote": "Since he had recently sold his car, Muscarello would hitchhike to and from Amesbury; however, at that hour of the morning there was little traffic on the highway, and Muscarello had walked a good part of the distance."
+  },
+  {
+   "s": "muscarello",
+   "p": "initial_impression",
+   "v": "believed the lights to be those of a police car or fire engine",
+   "quote": "After reaching Kensington, a few miles outside Exeter, Muscarello noticed five flashing bright red lights in the distance, which he initially believed to be the lights of a police car or fire engine."
+  },
+  {
+   "s": "muscarello",
+   "p": "reaction",
+   "v": "terrified; dived into a ditch beside the road",
+   "quote": "Panicking, he dived into a ditch beside the road."
+  },
+  {
+   "s": "muscarello",
+   "p": "reaction",
+   "v": "ran to the Russell's house, pounded on the door and yelled for help",
+   "quote": "The lights then changed direction and hovered over the Dining farmhouse; Muscarello ran to the Russell's house, pounded on the door and yelled for help, but no one answered (the Russells later stated they heard Muscarello at the door, but were too frightened to open it)."
+  },
+  {
+   "s": "muscarello",
+   "p": "reaction",
+   "v": "ran into the road and forced an approaching car to stop",
+   "quote": "Seeing the headlights of an approaching car, Muscarello ran into the road and forced it to stop."
+  },
+  {
+   "s": "muscarello",
+   "p": "condition",
+   "v": "pale and visibly shaken",
+   "quote": "At the police station, Muscarello, pale and visibly shaken, told his story to officer Reginald Toland, who worked the night desk."
+  },
+  {
+   "s": "muscarello",
+   "p": "described",
+   "o": "craft",
+   "quote": "Muscarello estimated the object to be 80 to 90 feet (24 to 27 m) in diameter."
+  },
+  {
+   "s": "muscarello",
+   "p": "statement",
+   "v": "floating like a leaf",
+   "quote": "The refueling boom hung down at a 60-degree angle and would flutter in the air currents when not being controlled by the boom operator—hence, \"floating like a leaf\" per witness Muscarello."
+  },
+  {
+   "s": "muscarello",
+   "p": "later_claim",
+   "v": "insisted for the rest of his life that what he witnessed was real and not an ordinary object",
+   "quote": "For the rest of his life, Muscarello insisted that what he had witnessed that night was real and not an ordinary object."
+  },
+  {
+   "s": "muscarello",
+   "p": "death_date",
+   "v": "2003-04",
+   "quote": "Muscarello died in April, 2003, at age 55 following a brief illness."
+  },
+  {
+   "s": "muscarello",
+   "p": "age_at_death",
+   "v": "55",
+   "quote": "Muscarello died in April, 2003, at age 55 following a brief illness."
+  },
+  {
+   "s": "muscarello",
+   "p": "cause_of_death",
+   "v": "brief illness",
+   "quote": "Muscarello died in April, 2003, at age 55 following a brief illness."
+  },
+  {
+   "s": "muscarello",
+   "p": "disputed",
+   "o": "x_exercise",
+   "quote": "Muscarello, Bertrand, and Hunt all strongly disagreed with the Air Force explanation."
+  },
+  {
+   "s": "bertrand",
+   "p": "witness",
+   "o": "case",
+   "quote": "Bertrand and Muscarello then saw an object slowly rise from the trees beyond the corral."
+  },
+  {
+   "s": "bertrand",
+   "p": "occupation",
+   "v": "police officer",
+   "quote": "Toland radioed police officer Eugene Bertrand Jr., who earlier in the evening had passed a frightened woman sitting in her car on New Hampshire Route 108."
+  },
+  {
+   "s": "bertrand",
+   "p": "member_of",
+   "o": "exeterpd",
+   "quote": "Bertrand radioed another Exeter policeman, David Hunt, for assistance, and while the two waited in the car for Hunt to arrive they continued to observe the object."
+  },
+  {
+   "s": "bertrand",
+   "p": "described",
+   "o": "craft",
+   "quote": "Bertrand described the UFO as \"this huge, dark object as big as a barn over there, with red flashing lights on it.\""
+  },
+  {
+   "s": "bertrand",
+   "p": "statement",
+   "v": "this huge, dark object as big as a barn over there, with red flashing lights on it",
+   "quote": "Bertrand described the UFO as \"this huge, dark object as big as a barn over there, with red flashing lights on it.\""
+  },
+  {
+   "s": "bertrand",
+   "p": "reaction",
+   "v": "dropped to one knee, drew his revolver and pointed it at the object",
+   "quote": "Instinctively remembering his police training, Bertrand dropped to one knee, drew his revolver, and pointed it at the object."
+  },
+  {
+   "s": "bertrand",
+   "p": "reaction",
+   "v": "decided shooting would not be wise, reholstered the revolver, grabbed Muscarello and ran back to the patrol car",
+   "quote": "He then decided that shooting would not be wise, so he reholstered the revolver, grabbed Muscarello, and both ran back to the patrol car."
+  },
+  {
+   "s": "bertrand",
+   "p": "earlier_encounter",
+   "v": "passed a frightened woman sitting in her car on New Hampshire Route 108 earlier in the evening",
+   "quote": "Toland radioed police officer Eugene Bertrand Jr., who earlier in the evening had passed a frightened woman sitting in her car on New Hampshire Route 108."
+  },
+  {
+   "s": "bertrand",
+   "p": "opinion",
+   "v": "considered the woman a \"kook\" but stayed with her for several minutes",
+   "quote": "Bertrand considered her a \"kook\", but did stay with her for several minutes until she had calmed down and was ready to resume her drive."
+  },
+  {
+   "s": "bertrand",
+   "p": "action",
+   "v": "drove to the Dining farm with Muscarello to investigate the field",
+   "quote": "After arriving at the police station and hearing Muscarello's similar story, Bertrand decided to drive to the Dining farm with Muscarello to investigate the field where he had seen the lights."
+  },
+  {
+   "s": "bertrand",
+   "p": "action",
+   "v": "drove Muscarello home and told his mother about the incident",
+   "quote": "Bertrand then drove Muscarello home and told his mother about the incident."
+  },
+  {
+   "s": "bertrand",
+   "p": "authored",
+   "o": "policereports",
+   "quote": "The three men drove back to the Exeter police station and immediately filed separate reports on what they had seen."
+  },
+  {
+   "s": "bertrand",
+   "p": "authored",
+   "o": "letter1",
+   "quote": "The two policemen sent a letter to Project Blue Book in which they stated, \"As you can imagine, we have been the subject of considerable ridicule since the Pentagon released its 'final evaluation' of our sighting of September 3, 1965"
+  },
+  {
+   "s": "bertrand",
+   "p": "authored",
+   "o": "letter2",
+   "quote": "When Project Blue Book did not respond to their letter, on December 29, 1965—nearly four months after the sighting—the two men sent another letter to Blue Book"
+  },
+  {
+   "s": "bertrand",
+   "p": "statement",
+   "v": "saw this object at close range; it was not any type of conventional aircraft",
+   "quote": "both Patrolman Hunt and myself saw this object at close range, checked it out with each other, confirmed and reconfirmed that it was not any type of conventional aircraft"
+  },
+  {
+   "s": "bertrand",
+   "p": "disputed",
+   "o": "x_exercise",
+   "quote": "Bertrand also noted that their UFO sighting took place nearly an hour after Operation Big Blast was said to have ended, which eliminated the operation as a possible cause of the sighting."
+  },
+  {
+   "s": "bertrand",
+   "p": "disputed",
+   "o": "x_aircraft",
+   "quote": "both Patrolman Hunt and myself saw this object at close range, checked it out with each other, confirmed and reconfirmed that it was not any type of conventional aircraft"
+  },
+  {
+   "s": "bertrand",
+   "p": "disputed",
+   "o": "x_inversion",
+   "quote": "and went to considerable trouble to confirm that the weather was clear, there was no wind, no chance of weather inversion, and that what we were seeing was in no way a military or civilian aircraft."
+  },
+  {
+   "s": "bertrand",
+   "p": "death_date",
+   "v": "1998",
+   "quote": "Bertrand died in 1998, and Hunt in 2011."
+  },
+  {
+   "s": "bertrand",
+   "p": "piloted",
+   "o": "patrolcar",
+   "quote": "After Bertrand drove Muscarello back to the area of his sighting, they at first saw nothing unusual"
+  },
+  {
+   "s": "hunt",
+   "p": "witness",
+   "o": "case",
+   "quote": "The object was still there when Hunt arrived a few minutes later and he also watched it."
+  },
+  {
+   "s": "hunt",
+   "p": "occupation",
+   "v": "Exeter policeman",
+   "quote": "Bertrand radioed another Exeter policeman, David Hunt, for assistance, and while the two waited in the car for Hunt to arrive they continued to observe the object."
+  },
+  {
+   "s": "hunt",
+   "p": "member_of",
+   "o": "exeterpd",
+   "quote": "Bertrand radioed another Exeter policeman, David Hunt, for assistance, and while the two waited in the car for Hunt to arrive they continued to observe the object."
+  },
+  {
+   "s": "hunt",
+   "p": "colleague_of",
+   "o": "bertrand",
+   "quote": "Bertrand radioed another Exeter policeman, David Hunt, for assistance, and while the two waited in the car for Hunt to arrive they continued to observe the object."
+  },
+  {
+   "s": "hunt",
+   "p": "statement",
+   "v": "You could tell the difference between the UFO and the bomber; there was no comparison",
+   "quote": "Hunt soon heard the engines of a B-47 bomber as it flew overhead, and he later told journalist John G. Fuller that \"You could tell the difference\" between the UFO and the bomber, \"there was no comparison.\""
+  },
+  {
+   "s": "hunt",
+   "p": "observation",
+   "v": "heard the engines of a B-47 bomber as it flew overhead soon after the object disappeared",
+   "quote": "Hunt soon heard the engines of a B-47 bomber as it flew overhead, and he later told journalist John G. Fuller that \"You could tell the difference\" between the UFO and the bomber, \"there was no comparison.\""
+  },
+  {
+   "s": "hunt",
+   "p": "authored",
+   "o": "policereports",
+   "quote": "The three men drove back to the Exeter police station and immediately filed separate reports on what they had seen."
+  },
+  {
+   "s": "hunt",
+   "p": "authored",
+   "o": "letter1",
+   "quote": "both Patrolman Hunt and myself saw this object at close range, checked it out with each other, confirmed and reconfirmed that it was not any type of conventional aircraft"
+  },
+  {
+   "s": "hunt",
+   "p": "authored",
+   "o": "letter2",
+   "quote": "When Project Blue Book did not respond to their letter, on December 29, 1965—nearly four months after the sighting—the two men sent another letter to Blue Book"
+  },
+  {
+   "s": "hunt",
+   "p": "disputed",
+   "o": "x_exercise",
+   "quote": "Muscarello, Bertrand, and Hunt all strongly disagreed with the Air Force explanation."
+  },
+  {
+   "s": "hunt",
+   "p": "disputed",
+   "o": "x_aircraft",
+   "quote": "both Patrolman Hunt and myself saw this object at close range, checked it out with each other, confirmed and reconfirmed that it was not any type of conventional aircraft"
+  },
+  {
+   "s": "hunt",
+   "p": "death_date",
+   "v": "2011",
+   "quote": "Bertrand died in 1998, and Hunt in 2011."
+  },
+  {
+   "s": "toland",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "At the police station, Muscarello, pale and visibly shaken, told his story to officer Reginald Toland, who worked the night desk."
+  },
+  {
+   "s": "toland",
+   "p": "occupation",
+   "v": "police officer who worked the night desk",
+   "quote": "At the police station, Muscarello, pale and visibly shaken, told his story to officer Reginald Toland, who worked the night desk."
+  },
+  {
+   "s": "toland",
+   "p": "member_of",
+   "o": "exeterpd",
+   "quote": "Fuller also spoke to police officer Toland at Exeter's police station."
+  },
+  {
+   "s": "toland",
+   "p": "impression",
+   "v": "knew Muscarello and was impressed by his obvious fear and genuinely agitated state",
+   "quote": "Toland knew Muscarello, and was impressed by his obvious fear and genuinely agitated state."
+  },
+  {
+   "s": "toland",
+   "p": "colleague_of",
+   "o": "bertrand",
+   "quote": "Toland radioed police officer Eugene Bertrand Jr., who earlier in the evening had passed a frightened woman sitting in her car on New Hampshire Route 108."
+  },
+  {
+   "s": "toland",
+   "p": "statement",
+   "v": "Now why would people go to all this trouble, people all over the area, if they weren't seeing something real?",
+   "quote": "Now why would people go to all this trouble—people all over the area—if they weren't seeing something real?"
+  },
+  {
+   "s": "fuller",
+   "p": "journalist",
+   "o": "case",
+   "quote": "John G. Fuller, at that time a regular columnist for Saturday Review, was in Exeter investigating the sightings."
+  },
+  {
+   "s": "fuller",
+   "p": "occupation",
+   "v": "regular columnist for Saturday Review",
+   "quote": "John G. Fuller, at that time a regular columnist for Saturday Review, was in Exeter investigating the sightings."
+  },
+  {
+   "s": "fuller",
+   "p": "employed_by",
+   "o": "satreview",
+   "quote": "John G. Fuller, at that time a regular columnist for Saturday Review, was in Exeter investigating the sightings."
+  },
+  {
+   "s": "fuller",
+   "p": "interviewed",
+   "o": "hunt",
+   "quote": "Hunt soon heard the engines of a B-47 bomber as it flew overhead, and he later told journalist John G. Fuller that \"You could tell the difference\" between the UFO and the bomber, \"there was no comparison.\""
+  },
+  {
+   "s": "fuller",
+   "p": "interviewed",
+   "o": "smith",
+   "quote": "Among them was Ron Smith, a senior at Exeter High School, who told Fuller that about two or three weeks after Muscarello's sighting, he was with his mother and aunt in their car one evening at 11:30."
+  },
+  {
+   "s": "fuller",
+   "p": "interviewed",
+   "o": "toland",
+   "quote": "Fuller also spoke to police officer Toland at Exeter's police station."
+  },
+  {
+   "s": "fuller",
+   "p": "activity",
+   "v": "interviewed a number of people in the area who claimed to have witnessed strange lights and unusual objects",
+   "quote": "He interviewed a number of people in the area who also claimed to have witnessed strange lights and unusual objects."
+  },
+  {
+   "s": "fuller",
+   "p": "authored",
+   "o": "book",
+   "quote": "Entitled Incident at Exeter, it made The New York Times Best Seller list."
+  },
+  {
+   "s": "fuller",
+   "p": "stance",
+   "v": "ridiculed the Air Force explanation in print",
+   "quote": "In addition to Muscarello and the policemen, John G. Fuller also ridiculed the Air Force explanation in print."
+  },
+  {
+   "s": "fuller",
+   "p": "disputed",
+   "o": "x_exercise",
+   "quote": "In addition to Muscarello and the policemen, John G. Fuller also ridiculed the Air Force explanation in print."
+  },
+  {
+   "s": "fuller",
+   "p": "statement",
+   "v": "wrote that he had observed an unusual object himself near Exeter, being chased by an Air Force jet fighter",
+   "quote": "He wrote that he had observed an unusual object himself near Exeter and that it was being chased by an Air Force jet fighter."
+  },
+  {
+   "s": "fuller",
+   "p": "described",
+   "o": "craft_fuller",
+   "quote": "He wrote that he had observed an unusual object himself near Exeter and that it was being chased by an Air Force jet fighter."
+  },
+  {
+   "s": "clark",
+   "p": "commentator",
+   "o": "case",
+   "quote": "According to UFO historian Jerome Clark, Bertrand and Muscarello \"observed the object as it hovered 100 feet away and at 100 feet altitude. It rocked back and forth."
+  },
+  {
+   "s": "clark",
+   "p": "occupation",
+   "v": "UFO historian",
+   "quote": "According to UFO historian Jerome Clark, Bertrand and Muscarello \"observed the object as it hovered 100 feet away and at 100 feet altitude. It rocked back and forth."
+  },
+  {
+   "s": "smith",
+   "p": "witness",
+   "o": "case",
+   "quote": "Among them was Ron Smith, a senior at Exeter High School, who told Fuller that about two or three weeks after Muscarello's sighting, he was with his mother and aunt in their car one evening at 11:30."
+  },
+  {
+   "s": "smith",
+   "p": "occupation",
+   "v": "senior at Exeter High School",
+   "quote": "Among them was Ron Smith, a senior at Exeter High School, who told Fuller that about two or three weeks after Muscarello's sighting, he was with his mother and aunt in their car one evening at 11:30."
+  },
+  {
+   "s": "smith",
+   "p": "member_of",
+   "o": "exeterhs",
+   "quote": "Among them was Ron Smith, a senior at Exeter High School, who told Fuller that about two or three weeks after Muscarello's sighting, he was with his mother and aunt in their car one evening at 11:30."
+  },
+  {
+   "s": "smith",
+   "p": "described",
+   "o": "craft_smith",
+   "quote": "According to Smith, he, his mother and aunt all saw an object with \"a red light on top and the bottom was white and glowed. It appeared to be spinning."
+  },
+  {
+   "s": "smith",
+   "p": "companions",
+   "v": "his mother and aunt, in their car",
+   "quote": "Among them was Ron Smith, a senior at Exeter High School, who told Fuller that about two or three weeks after Muscarello's sighting, he was with his mother and aunt in their car one evening at 11:30."
+  },
+  {
+   "s": "lindsay",
+   "p": "witness",
+   "o": "case",
+   "quote": "A good example of the type of calls Toland had received came from Mrs. Ralph Lindsay."
+  },
+  {
+   "s": "lindsay",
+   "p": "described",
+   "o": "craft_lindsay",
+   "quote": "It was like a big orange ball, almost as big as the harvest Moon ... and it wasn't the Moon, either ... all the time she was talking to me, her kids were at the window watching it."
+  },
+  {
+   "s": "lindsay",
+   "p": "report_time",
+   "v": "early, just before dawn",
+   "quote": "According to Toland \"she called in here early, just before dawn. She said it was right out her window as she was calling."
+  },
+  {
+   "s": "lindsay",
+   "p": "companions",
+   "v": "her kids were at the window watching it",
+   "quote": "It was like a big orange ball, almost as big as the harvest Moon ... and it wasn't the Moon, either ... all the time she was talking to me, her kids were at the window watching it."
+  },
+  {
+   "s": "griffin",
+   "p": "investigator",
+   "o": "case",
+   "quote": "The Air Force sent Major David Griffin and Lieutenant Alan Brandt to interview the three men."
+  },
+  {
+   "s": "griffin",
+   "p": "rank",
+   "v": "Major",
+   "quote": "The Air Force sent Major David Griffin and Lieutenant Alan Brandt to interview the three men."
+  },
+  {
+   "s": "griffin",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "The Air Force sent Major David Griffin and Lieutenant Alan Brandt to interview the three men."
+  },
+  {
+   "s": "griffin",
+   "p": "authored",
+   "o": "griffinreport",
+   "quote": "Major Griffin sent a report of the incident to USAF Major Hector Quintanilla, supervisor of Project Blue Book, the official Air Force research group assigned to investigate UFO reports."
+  },
+  {
+   "s": "griffin",
+   "p": "interviewed",
+   "o": "muscarello",
+   "quote": "The Air Force sent Major David Griffin and Lieutenant Alan Brandt to interview the three men."
+  },
+  {
+   "s": "griffin",
+   "p": "interviewed",
+   "o": "bertrand",
+   "quote": "The Air Force sent Major David Griffin and Lieutenant Alan Brandt to interview the three men."
+  },
+  {
+   "s": "griffin",
+   "p": "interviewed",
+   "o": "hunt",
+   "quote": "The Air Force sent Major David Griffin and Lieutenant Alan Brandt to interview the three men."
+  },
+  {
+   "s": "griffin",
+   "p": "statement",
+   "v": "unable to arrive at a probable cause of this sighting; the three observers seem to be stable, reliable persons, especially the two patrolmen",
+   "quote": "Griffin wrote that \"At this time I have been unable to arrive at a probable cause of this sighting. The three observers seem to be stable, reliable persons, especially the two patrolmen."
+  },
+  {
+   "s": "griffin",
+   "p": "statement",
+   "v": "viewed the area and found nothing that could be the probable cause; did not believe the five B-47 aircraft had any connection with the sighting",
+   "quote": "I viewed the area of the sighting and found nothing in the area that could be the probable cause. Pease AFB had five B-47 aircraft flying in the area but I do not believe that they had any connection with this sighting."
+  },
+  {
+   "s": "griffin",
+   "p": "action",
+   "v": "with Brandt, issued an explanation to the press before Project Blue Book could send the evaluation to the Pentagon",
+   "quote": "Before Project Blue Book could send this evaluation to the Pentagon, however, Griffen and Brandt had already issued their explanation of Muscarello and the two policemen's sighting to the press."
+  },
+  {
+   "s": "griffin",
+   "p": "alternate_spelling",
+   "v": "Griffen",
+   "quote": "Before Project Blue Book could send this evaluation to the Pentagon, however, Griffen and Brandt had already issued their explanation of Muscarello and the two policemen's sighting to the press."
+  },
+  {
+   "s": "griffin",
+   "p": "colleague_of",
+   "o": "brandt",
+   "quote": "The Air Force sent Major David Griffin and Lieutenant Alan Brandt to interview the three men."
+  },
+  {
+   "s": "brandt",
+   "p": "investigator",
+   "o": "case",
+   "quote": "The Air Force sent Major David Griffin and Lieutenant Alan Brandt to interview the three men."
+  },
+  {
+   "s": "brandt",
+   "p": "rank",
+   "v": "Lieutenant",
+   "quote": "The Air Force sent Major David Griffin and Lieutenant Alan Brandt to interview the three men."
+  },
+  {
+   "s": "brandt",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "The Air Force sent Major David Griffin and Lieutenant Alan Brandt to interview the three men."
+  },
+  {
+   "s": "brandt",
+   "p": "action",
+   "v": "with Griffin, issued an explanation of the sighting to the press",
+   "quote": "Before Project Blue Book could send this evaluation to the Pentagon, however, Griffen and Brandt had already issued their explanation of Muscarello and the two policemen's sighting to the press."
+  },
+  {
+   "s": "quintanilla",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Major Griffin sent a report of the incident to USAF Major Hector Quintanilla, supervisor of Project Blue Book, the official Air Force research group assigned to investigate UFO reports."
+  },
+  {
+   "s": "quintanilla",
+   "p": "rank",
+   "v": "Major",
+   "quote": "Major Griffin sent a report of the incident to USAF Major Hector Quintanilla, supervisor of Project Blue Book, the official Air Force research group assigned to investigate UFO reports."
+  },
+  {
+   "s": "quintanilla",
+   "p": "role",
+   "v": "supervisor of Project Blue Book",
+   "quote": "Major Griffin sent a report of the incident to USAF Major Hector Quintanilla, supervisor of Project Blue Book, the official Air Force research group assigned to investigate UFO reports."
+  },
+  {
+   "s": "quintanilla",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "Major Griffin sent a report of the incident to USAF Major Hector Quintanilla, supervisor of Project Blue Book, the official Air Force research group assigned to investigate UFO reports."
+  },
+  {
+   "s": "quintanilla",
+   "p": "commanded",
+   "o": "bluebook",
+   "quote": "Major Griffin sent a report of the incident to USAF Major Hector Quintanilla, supervisor of Project Blue Book, the official Air Force research group assigned to investigate UFO reports."
+  },
+  {
+   "s": "quintanilla",
+   "p": "authored",
+   "o": "qletter",
+   "quote": "Major Quintanilla, in a letter to policemen Bertrand and Hunt, wrote \"in addition to aircraft from this operation [Big Blast], there were also five B-47 aircraft flying in your area during this period"
+  },
+  {
+   "s": "quintanilla",
+   "p": "proposed",
+   "o": "x_exercise",
+   "quote": "since there were many aircraft in the area, at the time, and there were no reports of unidentified objects from personnel engaged in this operation, we might then assume that the objects [you] observed between midnight and two a.m. might be associated with this military air operation."
+  },
+  {
+   "s": "quintanilla",
+   "p": "proposed",
+   "o": "x_aircraft",
+   "quote": "Major Quintanilla, in a letter to policemen Bertrand and Hunt, wrote \"in addition to aircraft from this operation [Big Blast], there were also five B-47 aircraft flying in your area during this period"
+  },
+  {
+   "s": "quintanilla",
+   "p": "statement",
+   "v": "If these aircraft were noted by either of you, this would tend to eliminate this air operation as a possible explanation",
+   "quote": "Quintanilla also added that \"If, however, these aircraft were noted by either of you, this would tend to eliminate this air operation as a possible explanation for the objects observed.\""
+  },
+  {
+   "s": "fowler",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Raymond E. Fowler, the New England investigator for the National Investigations Committee On Aerial Phenomena (NICAP), also filed a detailed report on the Exeter sightings."
+  },
+  {
+   "s": "fowler",
+   "p": "role",
+   "v": "New England investigator for NICAP",
+   "quote": "Raymond E. Fowler, the New England investigator for the National Investigations Committee On Aerial Phenomena (NICAP), also filed a detailed report on the Exeter sightings."
+  },
+  {
+   "s": "fowler",
+   "p": "member_of",
+   "o": "nicap",
+   "quote": "Raymond E. Fowler, the New England investigator for the National Investigations Committee On Aerial Phenomena (NICAP), also filed a detailed report on the Exeter sightings."
+  },
+  {
+   "s": "fowler",
+   "p": "authored",
+   "o": "fowlerreport",
+   "quote": "Raymond E. Fowler, the New England investigator for the National Investigations Committee On Aerial Phenomena (NICAP), also filed a detailed report on the Exeter sightings."
+  },
+  {
+   "s": "fowler",
+   "p": "stance",
+   "v": "in his view the Air Force explanation was incorrect",
+   "quote": "In his view the Air Force explanation was also incorrect."
+  },
+  {
+   "s": "fowler",
+   "p": "statement",
+   "v": "the officer ordered base personnel to turn the lights on; everybody looked and waited and nothing happened",
+   "quote": "According to Fowler, \"he ordered personnel at the base to turn the lights on. Everybody looked and waited—and nothing happened. Frustrated, he yelled into the mic to turn on the lights. A voice replied that the lights were on."
+  },
+  {
+   "s": "fowler",
+   "p": "disputed",
+   "o": "x_baselights",
+   "quote": "According to Fowler, \"he ordered personnel at the base to turn the lights on. Everybody looked and waited—and nothing happened. Frustrated, he yelled into the mic to turn on the lights. A voice replied that the lights were on."
+  },
+  {
+   "s": "spaulding",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "In January 1966, Lieutenant Colonel John Spaulding, from the Office of the Secretary of the Air Force, finally replied to the policemen's two letters."
+  },
+  {
+   "s": "spaulding",
+   "p": "rank",
+   "v": "Lieutenant Colonel",
+   "quote": "In January 1966, Lieutenant Colonel John Spaulding, from the Office of the Secretary of the Air Force, finally replied to the policemen's two letters."
+  },
+  {
+   "s": "spaulding",
+   "p": "member_of",
+   "o": "secaf",
+   "quote": "In January 1966, Lieutenant Colonel John Spaulding, from the Office of the Secretary of the Air Force, finally replied to the policemen's two letters."
+  },
+  {
+   "s": "spaulding",
+   "p": "authored",
+   "o": "spauldingletter",
+   "quote": "In January 1966, Lieutenant Colonel John Spaulding, from the Office of the Secretary of the Air Force, finally replied to the policemen's two letters."
+  },
+  {
+   "s": "spaulding",
+   "p": "statement",
+   "v": "we have been unable to identify the object you observed on September 3, 1965",
+   "quote": "Spaulding wrote that \"based on additional information submitted to our UFO investigation officer, Wright-Patterson AFB, Ohio, we have been unable to identify the object you observed on September 3, 1965.\""
+  },
+  {
+   "s": "nickell",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "In 2011, Joe Nickell, a prominent skeptic, and James McGaha, a retired Air Force major, proposed a possible explanation for the incident in Skeptical Inquirer."
+  },
+  {
+   "s": "nickell",
+   "p": "description",
+   "v": "prominent skeptic",
+   "quote": "In 2011, Joe Nickell, a prominent skeptic, and James McGaha, a retired Air Force major, proposed a possible explanation for the incident in Skeptical Inquirer."
+  },
+  {
+   "s": "nickell",
+   "p": "authored",
+   "o": "siarticle",
+   "quote": "In 2011, Joe Nickell, a prominent skeptic, and James McGaha, a retired Air Force major, proposed a possible explanation for the incident in Skeptical Inquirer."
+  },
+  {
+   "s": "nickell",
+   "p": "proposed",
+   "o": "x_aircraft",
+   "quote": "According to Nickell and McGaha, before refueling, the underbelly of the KC-97 tankers flashed five very bright red lights in that same pattern."
+  },
+  {
+   "s": "nickell",
+   "p": "colleague_of",
+   "o": "mcgaha",
+   "quote": "In 2011, Joe Nickell, a prominent skeptic, and James McGaha, a retired Air Force major, proposed a possible explanation for the incident in Skeptical Inquirer."
+  },
+  {
+   "s": "mcgaha",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "In 2011, Joe Nickell, a prominent skeptic, and James McGaha, a retired Air Force major, proposed a possible explanation for the incident in Skeptical Inquirer."
+  },
+  {
+   "s": "mcgaha",
+   "p": "rank",
+   "v": "retired Air Force major",
+   "quote": "In 2011, Joe Nickell, a prominent skeptic, and James McGaha, a retired Air Force major, proposed a possible explanation for the incident in Skeptical Inquirer."
+  },
+  {
+   "s": "mcgaha",
+   "p": "occupation",
+   "v": "pilot",
+   "quote": "As a pilot, McGaha had been refueled in flight by KC-97 tanker aircraft like the ones stationed at Pease AFB near Exeter in 1965."
+  },
+  {
+   "s": "mcgaha",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "In 2011, Joe Nickell, a prominent skeptic, and James McGaha, a retired Air Force major, proposed a possible explanation for the incident in Skeptical Inquirer."
+  },
+  {
+   "s": "mcgaha",
+   "p": "authored",
+   "o": "siarticle",
+   "quote": "In 2011, Joe Nickell, a prominent skeptic, and James McGaha, a retired Air Force major, proposed a possible explanation for the incident in Skeptical Inquirer."
+  },
+  {
+   "s": "mcgaha",
+   "p": "proposed",
+   "o": "x_aircraft",
+   "quote": "According to Nickell and McGaha, before refueling, the underbelly of the KC-97 tankers flashed five very bright red lights in that same pattern."
+  },
+  {
+   "s": "mcgaha",
+   "p": "experience",
+   "v": "had been refueled in flight by KC-97 tanker aircraft",
+   "quote": "As a pilot, McGaha had been refueled in flight by KC-97 tanker aircraft like the ones stationed at Pease AFB near Exeter in 1965."
+  },
+  {
+   "s": "mcgaha",
+   "p": "statement",
+   "v": "claimed to have recognized the flashing red light pattern: one, two, three, four, five, four, three, two, one",
+   "quote": "In the article, he claimed to have recognized the flashing red light pattern reported by the witnesses Bertrand and Muscarello: one, two, three, four, five, four, three, two, one."
+  },
+  {
+   "s": "usaf",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The Air Force sent Major David Griffin and Lieutenant Alan Brandt to interview the three men."
+  },
+  {
+   "s": "usaf",
+   "p": "retraction",
+   "v": "in January 1966 stated it had been unable to identify the object",
+   "quote": "Spaulding wrote that \"based on additional information submitted to our UFO investigation officer, Wright-Patterson AFB, Ohio, we have been unable to identify the object you observed on September 3, 1965.\""
+  },
+  {
+   "s": "exeterpd",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The three men drove back to the Exeter police station and immediately filed separate reports on what they had seen."
+  },
+  {
+   "s": "exeterpd",
+   "p": "located_in",
+   "o": "exeter",
+   "quote": "The couple in the car drove the frightened youth to the Exeter police station."
+  },
+  {
+   "s": "skepinq",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 2011, Skeptical Inquirer offered an explanation of the incident, based on details reported by the eyewitnesses."
+  },
+  {
+   "s": "skepinq",
+   "p": "published",
+   "o": "siarticle",
+   "quote": "In 2011, Joe Nickell, a prominent skeptic, and James McGaha, a retired Air Force major, proposed a possible explanation for the incident in Skeptical Inquirer."
+  },
+  {
+   "s": "unionleader",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Air Force officers asked all three not to report their sighting to the press, but a reporter from the Manchester Union-Leader newspaper had already interviewed them."
+  },
+  {
+   "s": "unionleader",
+   "p": "action",
+   "v": "a reporter had already interviewed the three witnesses before the Air Force asked them not to talk to the press",
+   "quote": "The Air Force officers asked all three not to report their sighting to the press, but a reporter from the Manchester Union-Leader newspaper had already interviewed them."
+  },
+  {
+   "s": "pentagon",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Pentagon informed reporters that the three men had seen \"nothing more than stars and planets twinkling ... owing to a temperature inversion.\""
+  },
+  {
+   "s": "pentagon",
+   "p": "proposed",
+   "o": "x_star",
+   "quote": "The Pentagon informed reporters that the three men had seen \"nothing more than stars and planets twinkling ... owing to a temperature inversion.\""
+  },
+  {
+   "s": "pentagon",
+   "p": "proposed",
+   "o": "x_planet",
+   "quote": "The Pentagon informed reporters that the three men had seen \"nothing more than stars and planets twinkling ... owing to a temperature inversion.\""
+  },
+  {
+   "s": "pentagon",
+   "p": "proposed",
+   "o": "x_inversion",
+   "quote": "The Pentagon informed reporters that the three men had seen \"nothing more than stars and planets twinkling ... owing to a temperature inversion.\""
+  },
+  {
+   "s": "pentagon",
+   "p": "statement",
+   "v": "nothing more than stars and planets twinkling ... owing to a temperature inversion",
+   "quote": "The Pentagon informed reporters that the three men had seen \"nothing more than stars and planets twinkling ... owing to a temperature inversion.\""
+  },
+  {
+   "s": "nicap",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "Raymond E. Fowler, the New England investigator for the National Investigations Committee On Aerial Phenomena (NICAP), also filed a detailed report on the Exeter sightings."
+  },
+  {
+   "s": "sac",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Project Blue Book then issued its own explanation, stating that \"Operation Big Blast ... a SAC/NORAD training mission\" had been active on the night of the sighting and that it could have accounted for the UFO."
+  },
+  {
+   "s": "norad",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Project Blue Book then issued its own explanation, stating that \"Operation Big Blast ... a SAC/NORAD training mission\" had been active on the night of the sighting and that it could have accounted for the UFO."
+  },
+  {
+   "s": "secaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In January 1966, Lieutenant Colonel John Spaulding, from the Office of the Secretary of the Air Force, finally replied to the policemen's two letters."
+  },
+  {
+   "s": "secaf",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "In January 1966, Lieutenant Colonel John Spaulding, from the Office of the Secretary of the Air Force, finally replied to the policemen's two letters."
+  },
+  {
+   "s": "kiwanis",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 2010, the Exeter Kiwanis Club started the \"Exeter UFO Festival\" as a fundraiser to benefit children's charities in the Exeter area."
+  },
+  {
+   "s": "kiwanis",
+   "p": "founded_event",
+   "v": "Exeter UFO Festival",
+   "quote": "In 2010, the Exeter Kiwanis Club started the \"Exeter UFO Festival\" as a fundraiser to benefit children's charities in the Exeter area."
+  },
+  {
+   "s": "kiwanis",
+   "p": "event_start_year",
+   "v": "2010",
+   "quote": "In 2010, the Exeter Kiwanis Club started the \"Exeter UFO Festival\" as a fundraiser to benefit children's charities in the Exeter area."
+  },
+  {
+   "s": "nyt",
+   "p": "mentioned_by",
+   "o": "book",
+   "quote": "Entitled Incident at Exeter, it made The New York Times Best Seller list."
+  },
+  {
+   "s": "bluebook",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "Major Griffin sent a report of the incident to USAF Major Hector Quintanilla, supervisor of Project Blue Book, the official Air Force research group assigned to investigate UFO reports."
+  },
+  {
+   "s": "bluebook",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "Major Griffin sent a report of the incident to USAF Major Hector Quintanilla, supervisor of Project Blue Book, the official Air Force research group assigned to investigate UFO reports."
+  },
+  {
+   "s": "bluebook",
+   "p": "proposed",
+   "o": "x_exercise",
+   "quote": "Project Blue Book then issued its own explanation, stating that \"Operation Big Blast ... a SAC/NORAD training mission\" had been active on the night of the sighting and that it could have accounted for the UFO."
+  },
+  {
+   "s": "bluebook",
+   "p": "description",
+   "v": "official Air Force research group assigned to investigate UFO reports",
+   "quote": "Major Griffin sent a report of the incident to USAF Major Hector Quintanilla, supervisor of Project Blue Book, the official Air Force research group assigned to investigate UFO reports."
+  },
+  {
+   "s": "bluebook",
+   "p": "response",
+   "v": "did not respond to the policemen's first letter",
+   "quote": "When Project Blue Book did not respond to their letter, on December 29, 1965—nearly four months after the sighting—the two men sent another letter to Blue Book"
+  },
+  {
+   "s": "bigblast",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Project Blue Book then issued its own explanation, stating that \"Operation Big Blast ... a SAC/NORAD training mission\" had been active on the night of the sighting and that it could have accounted for the UFO."
+  },
+  {
+   "s": "bigblast",
+   "p": "operated_by",
+   "o": "sac",
+   "quote": "Project Blue Book then issued its own explanation, stating that \"Operation Big Blast ... a SAC/NORAD training mission\" had been active on the night of the sighting and that it could have accounted for the UFO."
+  },
+  {
+   "s": "bigblast",
+   "p": "operated_by",
+   "o": "norad",
+   "quote": "Project Blue Book then issued its own explanation, stating that \"Operation Big Blast ... a SAC/NORAD training mission\" had been active on the night of the sighting and that it could have accounted for the UFO."
+  },
+  {
+   "s": "bigblast",
+   "p": "description",
+   "v": "a SAC/NORAD training mission active on the night of the sighting",
+   "quote": "Project Blue Book then issued its own explanation, stating that \"Operation Big Blast ... a SAC/NORAD training mission\" had been active on the night of the sighting and that it could have accounted for the UFO."
+  },
+  {
+   "s": "bigblast",
+   "p": "identified_as",
+   "o": "x_exercise",
+   "quote": "Project Blue Book then issued its own explanation, stating that \"Operation Big Blast ... a SAC/NORAD training mission\" had been active on the night of the sighting and that it could have accounted for the UFO."
+  },
+  {
+   "s": "kensington",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Exeter incident or Incident at Exeter was a highly publicized UFO sighting that occurred on September 3, 1965, approximately 3 miles (5 km) south of Exeter, New Hampshire, in the neighboring town of Kensington."
+  },
+  {
+   "s": "kensington",
+   "p": "located_in",
+   "o": "nh",
+   "quote": "The Exeter incident or Incident at Exeter was a highly publicized UFO sighting that occurred on September 3, 1965, approximately 3 miles (5 km) south of Exeter, New Hampshire, in the neighboring town of Kensington."
+  },
+  {
+   "s": "kensington",
+   "p": "location_detail",
+   "v": "a few miles outside Exeter",
+   "quote": "After reaching Kensington, a few miles outside Exeter, Muscarello noticed five flashing bright red lights in the distance, which he initially believed to be the lights of a police car or fire engine."
+  },
+  {
+   "s": "exeter",
+   "p": "near",
+   "o": "case",
+   "quote": "The Exeter incident or Incident at Exeter was a highly publicized UFO sighting that occurred on September 3, 1965, approximately 3 miles (5 km) south of Exeter, New Hampshire, in the neighboring town of Kensington."
+  },
+  {
+   "s": "exeter",
+   "p": "located_in",
+   "o": "nh",
+   "quote": "The Exeter incident or Incident at Exeter was a highly publicized UFO sighting that occurred on September 3, 1965, approximately 3 miles (5 km) south of Exeter, New Hampshire, in the neighboring town of Kensington."
+  },
+  {
+   "s": "nh",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Exeter incident or Incident at Exeter was a highly publicized UFO sighting that occurred on September 3, 1965, approximately 3 miles (5 km) south of Exeter, New Hampshire, in the neighboring town of Kensington."
+  },
+  {
+   "s": "route150",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On September 3, 1965, at approximately 2:00 a.m., 18-year-old Norman Muscarello was hitchhiking to his home in Exeter along New Hampshire Route 150."
+  },
+  {
+   "s": "route150",
+   "p": "located_in",
+   "o": "nh",
+   "quote": "On September 3, 1965, at approximately 2:00 a.m., 18-year-old Norman Muscarello was hitchhiking to his home in Exeter along New Hampshire Route 150."
+  },
+  {
+   "s": "route108",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Toland radioed police officer Eugene Bertrand Jr., who earlier in the evening had passed a frightened woman sitting in her car on New Hampshire Route 108."
+  },
+  {
+   "s": "route108",
+   "p": "located_in",
+   "o": "nh",
+   "quote": "Toland radioed police officer Eugene Bertrand Jr., who earlier in the evening had passed a frightened woman sitting in her car on New Hampshire Route 108."
+  },
+  {
+   "s": "amesbury",
+   "p": "related_place",
+   "o": "case",
+   "quote": "He had been visiting his girlfriend at her parents' home in nearby Amesbury, Massachusetts, around 10 miles (16 km) southeast of Exeter."
+  },
+  {
+   "s": "amesbury",
+   "p": "located_in",
+   "o": "mass",
+   "quote": "He had been visiting his girlfriend at her parents' home in nearby Amesbury, Massachusetts, around 10 miles (16 km) southeast of Exeter."
+  },
+  {
+   "s": "amesbury",
+   "p": "distance_from_exeter",
+   "v": "around 10 miles (16 km) southeast",
+   "quote": "He had been visiting his girlfriend at her parents' home in nearby Amesbury, Massachusetts, around 10 miles (16 km) southeast of Exeter."
+  },
+  {
+   "s": "epping",
+   "p": "related_place",
+   "o": "case",
+   "quote": "When Bertrand stopped to ask if she had a problem, the woman told him that a \"huge object with flashing red lights\" had followed her car from Epping to Exeter, a distance of about 12 miles (19 km) and hovered over the car before flying away."
+  },
+  {
+   "s": "epping",
+   "p": "distance_from_exeter",
+   "v": "about 12 miles (19 km)",
+   "quote": "When Bertrand stopped to ask if she had a problem, the woman told him that a \"huge object with flashing red lights\" had followed her car from Epping to Exeter, a distance of about 12 miles (19 km) and hovered over the car before flying away."
+  },
+  {
+   "s": "pease",
+   "p": "near",
+   "o": "case",
+   "quote": "After Exeter's police chief read the reports of Muscarello, Bertrand, Hunt, he called nearby Pease Air Force Base and reported a UFO sighting."
+  },
+  {
+   "s": "pease",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "After Exeter's police chief read the reports of Muscarello, Bertrand, Hunt, he called nearby Pease Air Force Base and reported a UFO sighting."
+  },
+  {
+   "s": "pease",
+   "p": "aircraft",
+   "v": "five B-47 aircraft flying in the area",
+   "quote": "I viewed the area of the sighting and found nothing in the area that could be the probable cause. Pease AFB had five B-47 aircraft flying in the area but I do not believe that they had any connection with this sighting."
+  },
+  {
+   "s": "wpafb",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Spaulding wrote that \"based on additional information submitted to our UFO investigation officer, Wright-Patterson AFB, Ohio, we have been unable to identify the object you observed on September 3, 1965.\""
+  },
+  {
+   "s": "wpafb",
+   "p": "located_in",
+   "o": "ohio",
+   "quote": "Spaulding wrote that \"based on additional information submitted to our UFO investigation officer, Wright-Patterson AFB, Ohio, we have been unable to identify the object you observed on September 3, 1965.\""
+  },
+  {
+   "s": "wpafb",
+   "p": "role",
+   "v": "location of the Air Force UFO investigation officer",
+   "quote": "Spaulding wrote that \"based on additional information submitted to our UFO investigation officer, Wright-Patterson AFB, Ohio, we have been unable to identify the object you observed on September 3, 1965.\""
+  },
+  {
+   "s": "newengland",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Raymond E. Fowler, the New England investigator for the National Investigations Committee On Aerial Phenomena (NICAP), also filed a detailed report on the Exeter sightings."
+  },
+  {
+   "s": "diningfarm",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "After arriving at the police station and hearing Muscarello's similar story, Bertrand decided to drive to the Dining farm with Muscarello to investigate the field where he had seen the lights."
+  },
+  {
+   "s": "diningfarm",
+   "p": "located_in",
+   "o": "kensington",
+   "quote": "After reaching Kensington, a few miles outside Exeter, Muscarello noticed five flashing bright red lights in the distance, which he initially believed to be the lights of a police car or fire engine."
+  },
+  {
+   "s": "diningfarm",
+   "p": "owner",
+   "v": "Dining family, who were not at home at the time",
+   "quote": "One house belonged to the Dining family, who were not at home at the time, the other to a family named Russell."
+  },
+  {
+   "s": "diningfarm",
+   "p": "event",
+   "v": "the lights hovered over the Dining farmhouse",
+   "quote": "The lights then changed direction and hovered over the Dining farmhouse; Muscarello ran to the Russell's house, pounded on the door and yelled for help, but no one answered (the Russells later stated they heard Muscarello at the door, but were too frightened to open it)."
+  },
+  {
+   "s": "russellhouse",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The lights then changed direction and hovered over the Dining farmhouse; Muscarello ran to the Russell's house, pounded on the door and yelled for help, but no one answered (the Russells later stated they heard Muscarello at the door, but were too frightened to open it)."
+  },
+  {
+   "s": "russellhouse",
+   "p": "owner",
+   "v": "a family named Russell",
+   "quote": "One house belonged to the Dining family, who were not at home at the time, the other to a family named Russell."
+  },
+  {
+   "s": "russellhouse",
+   "p": "occupants_statement",
+   "v": "the Russells later stated they heard Muscarello at the door but were too frightened to open it",
+   "quote": "The lights then changed direction and hovered over the Dining farmhouse; Muscarello ran to the Russell's house, pounded on the door and yelled for help, but no one answered (the Russells later stated they heard Muscarello at the door, but were too frightened to open it)."
+  },
+  {
+   "s": "craft",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "After reaching Kensington, a few miles outside Exeter, Muscarello noticed five flashing bright red lights in the distance, which he initially believed to be the lights of a police car or fire engine."
+  },
+  {
+   "s": "craft",
+   "p": "light_count",
+   "v": "5",
+   "quote": "After reaching Kensington, a few miles outside Exeter, Muscarello noticed five flashing bright red lights in the distance, which he initially believed to be the lights of a police car or fire engine."
+  },
+  {
+   "s": "craft",
+   "p": "color",
+   "v": "bright red",
+   "quote": "After reaching Kensington, a few miles outside Exeter, Muscarello noticed five flashing bright red lights in the distance, which he initially believed to be the lights of a police car or fire engine."
+  },
+  {
+   "s": "craft",
+   "p": "lights",
+   "v": "flashing",
+   "quote": "After reaching Kensington, a few miles outside Exeter, Muscarello noticed five flashing bright red lights in the distance, which he initially believed to be the lights of a police car or fire engine."
+  },
+  {
+   "s": "craft",
+   "p": "altitude",
+   "v": "just above the trees",
+   "quote": "As he drew nearer, he was startled to see the lights were hovering in the air just above the trees and illuminating a nearby field and two houses in brilliant red light."
+  },
+  {
+   "s": "craft",
+   "p": "illumination",
+   "v": "lit a nearby field and two houses in brilliant red light",
+   "quote": "As he drew nearer, he was startled to see the lights were hovering in the air just above the trees and illuminating a nearby field and two houses in brilliant red light."
+  },
+  {
+   "s": "craft",
+   "p": "size",
+   "v": "80 to 90 feet (24 to 27 m) in diameter",
+   "quote": "Muscarello estimated the object to be 80 to 90 feet (24 to 27 m) in diameter."
+  },
+  {
+   "s": "craft",
+   "p": "sound",
+   "v": "made absolutely no sound",
+   "quote": "He became terrified as the object, which made absolutely no sound, began to move steadily towards him."
+  },
+  {
+   "s": "craft",
+   "p": "motion",
+   "v": "moved steadily towards Muscarello",
+   "quote": "He became terrified as the object, which made absolutely no sound, began to move steadily towards him."
+  },
+  {
+   "s": "craft",
+   "p": "motion",
+   "v": "changed direction and hovered over the Dining farmhouse",
+   "quote": "The lights then changed direction and hovered over the Dining farmhouse; Muscarello ran to the Russell's house, pounded on the door and yelled for help, but no one answered (the Russells later stated they heard Muscarello at the door, but were too frightened to open it)."
+  },
+  {
+   "s": "craft",
+   "p": "departure",
+   "v": "moved away and disappeared over the trees of the nearby woods",
+   "quote": "The object then moved away and disappeared over the trees of the nearby woods."
+  },
+  {
+   "s": "craft",
+   "p": "motion",
+   "v": "slowly rose from the trees beyond the corral",
+   "quote": "Bertrand and Muscarello then saw an object slowly rise from the trees beyond the corral."
+  },
+  {
+   "s": "craft",
+   "p": "color",
+   "v": "dark",
+   "quote": "Bertrand described the UFO as \"this huge, dark object as big as a barn over there, with red flashing lights on it.\""
+  },
+  {
+   "s": "craft",
+   "p": "size",
+   "v": "huge; as big as a barn",
+   "quote": "Bertrand described the UFO as \"this huge, dark object as big as a barn over there, with red flashing lights on it.\""
+  },
+  {
+   "s": "craft",
+   "p": "motion",
+   "v": "moved silently towards them, swaying back and forth",
+   "quote": "The object moved silently towards them, swaying back and forth."
+  },
+  {
+   "s": "craft",
+   "p": "distance",
+   "v": "100 feet away",
+   "quote": "According to UFO historian Jerome Clark, Bertrand and Muscarello \"observed the object as it hovered 100 feet away and at 100 feet altitude. It rocked back and forth."
+  },
+  {
+   "s": "craft",
+   "p": "altitude",
+   "v": "100 feet",
+   "quote": "According to UFO historian Jerome Clark, Bertrand and Muscarello \"observed the object as it hovered 100 feet away and at 100 feet altitude. It rocked back and forth."
+  },
+  {
+   "s": "craft",
+   "p": "motion",
+   "v": "rocked back and forth",
+   "quote": "According to UFO historian Jerome Clark, Bertrand and Muscarello \"observed the object as it hovered 100 feet away and at 100 feet altitude. It rocked back and forth."
+  },
+  {
+   "s": "craft",
+   "p": "light_pattern",
+   "v": "pulsating red lights flashed in rapid sequence, right to left then left to right",
+   "quote": "The pulsating red lights flashed in rapid sequence, first from right to left, then left to right, each cycle consuming no more than two seconds; the [local] animals continued to act agitated."
+  },
+  {
+   "s": "craft",
+   "p": "light_cycle_duration",
+   "v": "no more than two seconds",
+   "quote": "The pulsating red lights flashed in rapid sequence, first from right to left, then left to right, each cycle consuming no more than two seconds; the [local] animals continued to act agitated."
+  },
+  {
+   "s": "craft",
+   "p": "departure",
+   "v": "rose over the trees and disappeared",
+   "quote": "Finally, the object rose over the trees and disappeared."
+  },
+  {
+   "s": "craft",
+   "p": "sound",
+   "v": "absolutely silent with no rush of air from jets or chopper blades",
+   "quote": "the object they observed \"was absolutely silent with no rush of air from jets or chopper blades whatsoever. And it did not have any wings or tail ... it lit up the entire field, and two nearby houses turned completely red.\""
+  },
+  {
+   "s": "craft",
+   "p": "shape",
+   "v": "did not have any wings or tail",
+   "quote": "the object they observed \"was absolutely silent with no rush of air from jets or chopper blades whatsoever. And it did not have any wings or tail ... it lit up the entire field, and two nearby houses turned completely red.\""
+  },
+  {
+   "s": "craft",
+   "p": "illumination",
+   "v": "lit up the entire field, and two nearby houses turned completely red",
+   "quote": "the object they observed \"was absolutely silent with no rush of air from jets or chopper blades whatsoever. And it did not have any wings or tail ... it lit up the entire field, and two nearby houses turned completely red.\""
+  },
+  {
+   "s": "craft",
+   "p": "light_pattern",
+   "v": "one, two, three, four, five, four, three, two, one",
+   "quote": "In the article, he claimed to have recognized the flashing red light pattern reported by the witnesses Bertrand and Muscarello: one, two, three, four, five, four, three, two, one."
+  },
+  {
+   "s": "craft",
+   "p": "motion",
+   "v": "floating like a leaf",
+   "quote": "The refueling boom hung down at a 60-degree angle and would flutter in the air currents when not being controlled by the boom operator—hence, \"floating like a leaf\" per witness Muscarello."
+  },
+  {
+   "s": "craft",
+   "p": "compared_to",
+   "o": "b47",
+   "quote": "Hunt soon heard the engines of a B-47 bomber as it flew overhead, and he later told journalist John G. Fuller that \"You could tell the difference\" between the UFO and the bomber, \"there was no comparison.\""
+  },
+  {
+   "s": "craft",
+   "p": "identified_as",
+   "o": "kc97",
+   "quote": "According to Nickell and McGaha, before refueling, the underbelly of the KC-97 tankers flashed five very bright red lights in that same pattern."
+  },
+  {
+   "s": "craft_woman",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "When Bertrand stopped to ask if she had a problem, the woman told him that a \"huge object with flashing red lights\" had followed her car from Epping to Exeter, a distance of about 12 miles (19 km) and hovered over the car before flying away."
+  },
+  {
+   "s": "craft_woman",
+   "p": "size",
+   "v": "huge",
+   "quote": "When Bertrand stopped to ask if she had a problem, the woman told him that a \"huge object with flashing red lights\" had followed her car from Epping to Exeter, a distance of about 12 miles (19 km) and hovered over the car before flying away."
+  },
+  {
+   "s": "craft_woman",
+   "p": "lights",
+   "v": "flashing red lights",
+   "quote": "When Bertrand stopped to ask if she had a problem, the woman told him that a \"huge object with flashing red lights\" had followed her car from Epping to Exeter, a distance of about 12 miles (19 km) and hovered over the car before flying away."
+  },
+  {
+   "s": "craft_woman",
+   "p": "motion",
+   "v": "followed her car from Epping to Exeter and hovered over the car before flying away",
+   "quote": "When Bertrand stopped to ask if she had a problem, the woman told him that a \"huge object with flashing red lights\" had followed her car from Epping to Exeter, a distance of about 12 miles (19 km) and hovered over the car before flying away."
+  },
+  {
+   "s": "craft_woman",
+   "p": "distance_followed",
+   "v": "about 12 miles (19 km)",
+   "quote": "When Bertrand stopped to ask if she had a problem, the woman told him that a \"huge object with flashing red lights\" had followed her car from Epping to Exeter, a distance of about 12 miles (19 km) and hovered over the car before flying away."
+  },
+  {
+   "s": "craft_smith",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "According to Smith, he, his mother and aunt all saw an object with \"a red light on top and the bottom was white and glowed. It appeared to be spinning."
+  },
+  {
+   "s": "craft_smith",
+   "p": "color",
+   "v": "red light on top; bottom white and glowed",
+   "quote": "According to Smith, he, his mother and aunt all saw an object with \"a red light on top and the bottom was white and glowed. It appeared to be spinning."
+  },
+  {
+   "s": "craft_smith",
+   "p": "motion",
+   "v": "appeared to be spinning",
+   "quote": "According to Smith, he, his mother and aunt all saw an object with \"a red light on top and the bottom was white and glowed. It appeared to be spinning."
+  },
+  {
+   "s": "craft_smith",
+   "p": "motion",
+   "v": "passed over the car, stopped in midair in front, then went back over the car again",
+   "quote": "It passed over the car once and when it passed over and got in front, it stopped in midair. Then it went back over the car again.\""
+  },
+  {
+   "s": "craft_smith",
+   "p": "sighting_date",
+   "v": "about two or three weeks after Muscarello's sighting",
+   "quote": "Among them was Ron Smith, a senior at Exeter High School, who told Fuller that about two or three weeks after Muscarello's sighting, he was with his mother and aunt in their car one evening at 11:30."
+  },
+  {
+   "s": "craft_smith",
+   "p": "time_of_day",
+   "v": "11:30 in the evening",
+   "quote": "Among them was Ron Smith, a senior at Exeter High School, who told Fuller that about two or three weeks after Muscarello's sighting, he was with his mother and aunt in their car one evening at 11:30."
+  },
+  {
+   "s": "craft_smith",
+   "p": "witness_count",
+   "v": "3",
+   "quote": "According to Smith, he, his mother and aunt all saw an object with \"a red light on top and the bottom was white and glowed. It appeared to be spinning."
+  },
+  {
+   "s": "craft_lindsay",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "It was like a big orange ball, almost as big as the harvest Moon ... and it wasn't the Moon, either ... all the time she was talking to me, her kids were at the window watching it."
+  },
+  {
+   "s": "craft_lindsay",
+   "p": "color",
+   "v": "orange",
+   "quote": "It was like a big orange ball, almost as big as the harvest Moon ... and it wasn't the Moon, either ... all the time she was talking to me, her kids were at the window watching it."
+  },
+  {
+   "s": "craft_lindsay",
+   "p": "shape",
+   "v": "ball",
+   "quote": "It was like a big orange ball, almost as big as the harvest Moon ... and it wasn't the Moon, either ... all the time she was talking to me, her kids were at the window watching it."
+  },
+  {
+   "s": "craft_lindsay",
+   "p": "size",
+   "v": "almost as big as the harvest Moon",
+   "quote": "It was like a big orange ball, almost as big as the harvest Moon ... and it wasn't the Moon, either ... all the time she was talking to me, her kids were at the window watching it."
+  },
+  {
+   "s": "craft_lindsay",
+   "p": "time_of_day",
+   "v": "early, just before dawn",
+   "quote": "According to Toland \"she called in here early, just before dawn. She said it was right out her window as she was calling."
+  },
+  {
+   "s": "craft_lindsay",
+   "p": "position",
+   "v": "right out her window",
+   "quote": "According to Toland \"she called in here early, just before dawn. She said it was right out her window as she was calling."
+  },
+  {
+   "s": "craft_fuller",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "He wrote that he had observed an unusual object himself near Exeter and that it was being chased by an Air Force jet fighter."
+  },
+  {
+   "s": "craft_fuller",
+   "p": "location",
+   "v": "near Exeter",
+   "quote": "He wrote that he had observed an unusual object himself near Exeter and that it was being chased by an Air Force jet fighter."
+  },
+  {
+   "s": "craft_fuller",
+   "p": "pursuit",
+   "v": "being chased by an Air Force jet fighter",
+   "quote": "He wrote that he had observed an unusual object himself near Exeter and that it was being chased by an Air Force jet fighter."
+  },
+  {
+   "s": "b47",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "Hunt soon heard the engines of a B-47 bomber as it flew overhead, and he later told journalist John G. Fuller that \"You could tell the difference\" between the UFO and the bomber, \"there was no comparison.\""
+  },
+  {
+   "s": "b47",
+   "p": "stationed_at",
+   "o": "pease",
+   "quote": "I viewed the area of the sighting and found nothing in the area that could be the probable cause. Pease AFB had five B-47 aircraft flying in the area but I do not believe that they had any connection with this sighting."
+  },
+  {
+   "s": "usaf",
+   "p": "owned",
+   "o": "b47",
+   "quote": "I viewed the area of the sighting and found nothing in the area that could be the probable cause. Pease AFB had five B-47 aircraft flying in the area but I do not believe that they had any connection with this sighting."
+  },
+  {
+   "s": "b47",
+   "p": "count",
+   "v": "5",
+   "quote": "I viewed the area of the sighting and found nothing in the area that could be the probable cause. Pease AFB had five B-47 aircraft flying in the area but I do not believe that they had any connection with this sighting."
+  },
+  {
+   "s": "b47",
+   "p": "count",
+   "v": "5",
+   "quote": "Major Quintanilla, in a letter to policemen Bertrand and Hunt, wrote \"in addition to aircraft from this operation [Big Blast], there were also five B-47 aircraft flying in your area during this period"
+  },
+  {
+   "s": "kc97",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "According to Nickell and McGaha, before refueling, the underbelly of the KC-97 tankers flashed five very bright red lights in that same pattern."
+  },
+  {
+   "s": "kc97",
+   "p": "stationed_at",
+   "o": "pease",
+   "quote": "As a pilot, McGaha had been refueled in flight by KC-97 tanker aircraft like the ones stationed at Pease AFB near Exeter in 1965."
+  },
+  {
+   "s": "kc97",
+   "p": "lights",
+   "v": "underbelly flashed five very bright red lights before refueling",
+   "quote": "According to Nickell and McGaha, before refueling, the underbelly of the KC-97 tankers flashed five very bright red lights in that same pattern."
+  },
+  {
+   "s": "kc97",
+   "p": "refueling_boom",
+   "v": "hung down at a 60-degree angle and would flutter in the air currents when not controlled by the boom operator",
+   "quote": "The refueling boom hung down at a 60-degree angle and would flutter in the air currents when not being controlled by the boom operator—hence, \"floating like a leaf\" per witness Muscarello."
+  },
+  {
+   "s": "patrolcar",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "He then decided that shooting would not be wise, so he reholstered the revolver, grabbed Muscarello, and both ran back to the patrol car."
+  },
+  {
+   "s": "patrolcar",
+   "p": "use",
+   "v": "Bertrand and Muscarello waited in the car for Hunt while observing the object",
+   "quote": "Bertrand radioed another Exeter policeman, David Hunt, for assistance, and while the two waited in the car for Hunt to arrive they continued to observe the object."
+  },
+  {
+   "s": "jetfighter",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "He wrote that he had observed an unusual object himself near Exeter and that it was being chased by an Air Force jet fighter."
+  },
+  {
+   "s": "usaf",
+   "p": "owned",
+   "o": "jetfighter",
+   "quote": "He wrote that he had observed an unusual object himself near Exeter and that it was being chased by an Air Force jet fighter."
+  },
+  {
+   "s": "jetfighter",
+   "p": "action",
+   "v": "chasing an unusual object near Exeter, according to Fuller",
+   "quote": "He wrote that he had observed an unusual object himself near Exeter and that it was being chased by an Air Force jet fighter."
+  },
+  {
+   "s": "policereports",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The three men drove back to the Exeter police station and immediately filed separate reports on what they had seen."
+  },
+  {
+   "s": "muscarello",
+   "p": "authored",
+   "o": "policereports",
+   "quote": "The three men drove back to the Exeter police station and immediately filed separate reports on what they had seen."
+  },
+  {
+   "s": "policereports",
+   "p": "filed",
+   "v": "immediately, as separate reports by the three men",
+   "quote": "The three men drove back to the Exeter police station and immediately filed separate reports on what they had seen."
+  },
+  {
+   "s": "policereports",
+   "p": "read_by",
+   "v": "Exeter's police chief",
+   "quote": "After Exeter's police chief read the reports of Muscarello, Bertrand, Hunt, he called nearby Pease Air Force Base and reported a UFO sighting."
+  },
+  {
+   "s": "griffinreport",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Major Griffin sent a report of the incident to USAF Major Hector Quintanilla, supervisor of Project Blue Book, the official Air Force research group assigned to investigate UFO reports."
+  },
+  {
+   "s": "griffinreport",
+   "p": "recipient",
+   "v": "Major Hector Quintanilla, Project Blue Book",
+   "quote": "Major Griffin sent a report of the incident to USAF Major Hector Quintanilla, supervisor of Project Blue Book, the official Air Force research group assigned to investigate UFO reports."
+  },
+  {
+   "s": "griffinreport",
+   "p": "content",
+   "v": "unable to arrive at a probable cause of this sighting",
+   "quote": "Griffin wrote that \"At this time I have been unable to arrive at a probable cause of this sighting. The three observers seem to be stable, reliable persons, especially the two patrolmen."
+  },
+  {
+   "s": "qletter",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Major Quintanilla, in a letter to policemen Bertrand and Hunt, wrote \"in addition to aircraft from this operation [Big Blast], there were also five B-47 aircraft flying in your area during this period"
+  },
+  {
+   "s": "qletter",
+   "p": "recipient",
+   "v": "policemen Bertrand and Hunt",
+   "quote": "Major Quintanilla, in a letter to policemen Bertrand and Hunt, wrote \"in addition to aircraft from this operation [Big Blast], there were also five B-47 aircraft flying in your area during this period"
+  },
+  {
+   "s": "qletter",
+   "p": "content",
+   "v": "objects observed between midnight and two a.m. might be associated with this military air operation",
+   "quote": "since there were many aircraft in the area, at the time, and there were no reports of unidentified objects from personnel engaged in this operation, we might then assume that the objects [you] observed between midnight and two a.m. might be associated with this military air operation."
+  },
+  {
+   "s": "letter1",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The two policemen sent a letter to Project Blue Book in which they stated, \"As you can imagine, we have been the subject of considerable ridicule since the Pentagon released its 'final evaluation' of our sighting of September 3, 1965"
+  },
+  {
+   "s": "letter1",
+   "p": "recipient",
+   "v": "Project Blue Book",
+   "quote": "The two policemen sent a letter to Project Blue Book in which they stated, \"As you can imagine, we have been the subject of considerable ridicule since the Pentagon released its 'final evaluation' of our sighting of September 3, 1965"
+  },
+  {
+   "s": "letter1",
+   "p": "content",
+   "v": "what we were seeing was in no way a military or civilian aircraft",
+   "quote": "and went to considerable trouble to confirm that the weather was clear, there was no wind, no chance of weather inversion, and that what we were seeing was in no way a military or civilian aircraft."
+  },
+  {
+   "s": "letter2",
+   "p": "key_document",
+   "o": "case",
+   "quote": "When Project Blue Book did not respond to their letter, on December 29, 1965—nearly four months after the sighting—the two men sent another letter to Blue Book"
+  },
+  {
+   "s": "letter2",
+   "p": "date",
+   "v": "1965-12-29",
+   "quote": "When Project Blue Book did not respond to their letter, on December 29, 1965—nearly four months after the sighting—the two men sent another letter to Blue Book"
+  },
+  {
+   "s": "letter2",
+   "p": "recipient",
+   "v": "Project Blue Book",
+   "quote": "When Project Blue Book did not respond to their letter, on December 29, 1965—nearly four months after the sighting—the two men sent another letter to Blue Book"
+  },
+  {
+   "s": "letter2",
+   "p": "content",
+   "v": "object was absolutely silent, had no wings or tail, lit up the entire field",
+   "quote": "the object they observed \"was absolutely silent with no rush of air from jets or chopper blades whatsoever. And it did not have any wings or tail ... it lit up the entire field, and two nearby houses turned completely red.\""
+  },
+  {
+   "s": "spauldingletter",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In January 1966, Lieutenant Colonel John Spaulding, from the Office of the Secretary of the Air Force, finally replied to the policemen's two letters."
+  },
+  {
+   "s": "spauldingletter",
+   "p": "date",
+   "v": "1966-01",
+   "quote": "In January 1966, Lieutenant Colonel John Spaulding, from the Office of the Secretary of the Air Force, finally replied to the policemen's two letters."
+  },
+  {
+   "s": "spauldingletter",
+   "p": "content",
+   "v": "we have been unable to identify the object you observed on September 3, 1965",
+   "quote": "Spaulding wrote that \"based on additional information submitted to our UFO investigation officer, Wright-Patterson AFB, Ohio, we have been unable to identify the object you observed on September 3, 1965.\""
+  },
+  {
+   "s": "fowlerreport",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Raymond E. Fowler, the New England investigator for the National Investigations Committee On Aerial Phenomena (NICAP), also filed a detailed report on the Exeter sightings."
+  },
+  {
+   "s": "fowlerreport",
+   "p": "description",
+   "v": "detailed report on the Exeter sightings",
+   "quote": "Raymond E. Fowler, the New England investigator for the National Investigations Committee On Aerial Phenomena (NICAP), also filed a detailed report on the Exeter sightings."
+  },
+  {
+   "s": "book",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 1966, Fuller published an account of his investigation into the case."
+  },
+  {
+   "s": "book",
+   "p": "year",
+   "v": "1966",
+   "quote": "In 1966, Fuller published an account of his investigation into the case."
+  },
+  {
+   "s": "book",
+   "p": "reception",
+   "v": "made The New York Times Best Seller list",
+   "quote": "Entitled Incident at Exeter, it made The New York Times Best Seller list."
+  },
+  {
+   "s": "book",
+   "p": "full_title",
+   "v": "Incident at Exeter: The Story of Unidentified Flying Objects Over America Today",
+   "quote": "Fuller, John G. Incident at Exeter: The Story of Unidentified Flying Objects Over America Today. G. T. Putnam's Sons, 1966."
+  },
+  {
+   "s": "siarticle",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2011, Joe Nickell, a prominent skeptic, and James McGaha, a retired Air Force major, proposed a possible explanation for the incident in Skeptical Inquirer."
+  },
+  {
+   "s": "siarticle",
+   "p": "year",
+   "v": "2011",
+   "quote": "In 2011, Joe Nickell, a prominent skeptic, and James McGaha, a retired Air Force major, proposed a possible explanation for the incident in Skeptical Inquirer."
+  },
+  {
+   "s": "siarticle",
+   "p": "basis",
+   "v": "based on details reported by the eyewitnesses",
+   "quote": "In 2011, Skeptical Inquirer offered an explanation of the incident, based on details reported by the eyewitnesses."
+  },
+  {
+   "s": "muscarello_recalls",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Norman Muscarello Recalls His UFO Incident at Exeter from October 1980 as re-published via SeacoastNH.com"
+  },
+  {
+   "s": "muscarello_recalls",
+   "p": "date",
+   "v": "1980-10",
+   "quote": "Norman Muscarello Recalls His UFO Incident at Exeter from October 1980 as re-published via SeacoastNH.com"
+  },
+  {
+   "s": "muscarello_recalls",
+   "p": "republished_via",
+   "v": "SeacoastNH.com",
+   "quote": "Norman Muscarello Recalls His UFO Incident at Exeter from October 1980 as re-published via SeacoastNH.com"
+  },
+  {
+   "s": "f_hover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "As he drew nearer, he was startled to see the lights were hovering in the air just above the trees and illuminating a nearby field and two houses in brilliant red light."
+  },
+  {
+   "s": "f_silent",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "He became terrified as the object, which made absolutely no sound, began to move steadily towards him."
+  },
+  {
+   "s": "f_animal",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "some horses in a nearby corral became frightened and began neighing loudly, kicking the fence and sides of a barn; dogs in the area also began barking and howling."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Although several separate sightings had been reported in the Exeter area by numerous witnesses in the weeks leading up to the specific incident, it was the September 3 sighting, involving a local teenager and two police officers which became, by far, the most famous."
+  },
+  {
+   "s": "f_police",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Although several separate sightings had been reported in the Exeter area by numerous witnesses in the weeks leading up to the specific incident, it was the September 3 sighting, involving a local teenager and two police officers which became, by far, the most famous."
+  },
+  {
+   "s": "f_base",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "After Exeter's police chief read the reports of Muscarello, Bertrand, Hunt, he called nearby Pease Air Force Base and reported a UFO sighting."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Major Griffin sent a report of the incident to USAF Major Hector Quintanilla, supervisor of Project Blue Book, the official Air Force research group assigned to investigate UFO reports."
+  },
+  {
+   "s": "f_pursuit",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "He wrote that he had observed an unusual object himself near Exeter and that it was being chased by an Air Force jet fighter."
+  },
+  {
+   "s": "f_child",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "It was like a big orange ball, almost as big as the harvest Moon ... and it wasn't the Moon, either ... all the time she was talking to me, her kids were at the window watching it."
+  },
+  {
+   "s": "f_wave",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Although several separate sightings had been reported in the Exeter area by numerous witnesses in the weeks leading up to the specific incident, it was the September 3 sighting, involving a local teenager and two police officers which became, by far, the most famous."
+  },
+  {
+   "s": "x_star",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The Pentagon informed reporters that the three men had seen \"nothing more than stars and planets twinkling ... owing to a temperature inversion.\""
+  },
+  {
+   "s": "x_planet",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The Pentagon informed reporters that the three men had seen \"nothing more than stars and planets twinkling ... owing to a temperature inversion.\""
+  },
+  {
+   "s": "x_inversion",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The Pentagon informed reporters that the three men had seen \"nothing more than stars and planets twinkling ... owing to a temperature inversion.\""
+  },
+  {
+   "s": "x_exercise",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Project Blue Book then issued its own explanation, stating that \"Operation Big Blast ... a SAC/NORAD training mission\" had been active on the night of the sighting and that it could have accounted for the UFO."
+  },
+  {
+   "s": "x_aircraft",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "According to Nickell and McGaha, before refueling, the underbelly of the KC-97 tankers flashed five very bright red lights in that same pattern."
+  },
+  {
+   "s": "x_aircraft",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Major Quintanilla, in a letter to policemen Bertrand and Hunt, wrote \"in addition to aircraft from this operation [Big Blast], there were also five B-47 aircraft flying in your area during this period"
+  },
+  {
+   "s": "x_baselights",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "At one point, an Air Force officer claimed that the UFOs people had been observing were merely lights from nearby Pease AFB."
+  },
+  {
+   "s": "x_baselights",
+   "p": "proposed_by",
+   "v": "an Air Force officer",
+   "quote": "At one point, an Air Force officer claimed that the UFOs people had been observing were merely lights from nearby Pease AFB."
+  },
+  {
+   "s": "x_baselights",
+   "p": "test",
+   "v": "the officer had the lights activated before a large crowd gathered some distance away",
+   "quote": "To prove it, he had the lights activated before a large crowd who were gathered some distance away."
+  },
+  {
+   "s": "x_exercise",
+   "p": "status",
+   "v": "Air Force later said it had been unable to identify the object",
+   "quote": "Spaulding wrote that \"based on additional information submitted to our UFO investigation officer, Wright-Patterson AFB, Ohio, we have been unable to identify the object you observed on September 3, 1965.\""
+  }
+ ]
+}

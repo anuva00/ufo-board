@@ -1,0 +1,2595 @@
+{
+ "slug": "falcon-lake-incident",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Falcon Lake Incident",
+   "aliases": [
+    "Falcon Lake UFO Incident",
+    "Falcon Lake sighting",
+    "Falcon Lake UFO Encounter"
+   ],
+   "description": "Alleged UFO encounter on 20 May 1967 at Falcon Lake, Manitoba, in which lone witness Steve Michalak claimed he was burned by a landed craft's exhaust."
+  },
+  {
+   "key": "michalak",
+   "type": "person",
+   "name": "Steve Michalak",
+   "aliases": [
+    "Michalak"
+   ],
+   "description": "Lone witness; 50-year-old mechanic who said he was burned by a landed craft."
+  },
+  {
+   "key": "stan",
+   "type": "person",
+   "name": "Stan Michalak",
+   "aliases": [
+    "Michalak's son"
+   ],
+   "description": "Son of Steve Michalak; co-author of a book on the case."
+  },
+  {
+   "key": "solotki",
+   "type": "person",
+   "name": "G. A. Solotki",
+   "aliases": [
+    "Constable G. A. Solotki",
+    "G.A. Solotki",
+    "Solotki",
+    "Constable Solotki"
+   ],
+   "description": "Falcon Beach Highway Patrol constable flagged down by Michalak on 20 May 1967."
+  },
+  {
+   "key": "chisvin",
+   "type": "person",
+   "name": "Heather Chisvin",
+   "description": "Winnipeg Tribune reporter who interviewed Michalak at his home."
+  },
+  {
+   "key": "thompson",
+   "type": "person",
+   "name": "J. B. Thompson",
+   "aliases": [
+    "Thompson"
+   ],
+   "description": "APRO member who visited Michalak and photographed his burns on 23 May."
+  },
+  {
+   "key": "hart",
+   "type": "person",
+   "name": "Gerald Hart",
+   "description": "Michalak's partner with whom he said he located the landing site."
+  },
+  {
+   "key": "craig",
+   "type": "person",
+   "name": "Ray Craig",
+   "aliases": [
+    "Professor Ray Craig"
+   ],
+   "description": "Professor with the Condon Committee at the University of Colorado who interviewed Michalak."
+  },
+  {
+   "key": "cadieux",
+   "type": "person",
+   "name": "Léo Cadieux",
+   "aliases": [
+    "Minister of National Defence Léo Cadieux"
+   ],
+   "description": "Canadian Minister of National Defence in 1967."
+  },
+  {
+   "key": "pihichyn",
+   "type": "person",
+   "name": "Paul Pihichyn",
+   "description": "Retold Michalak's pamphlet and translated the account into English."
+  },
+  {
+   "key": "millman",
+   "type": "person",
+   "name": "Peter Millman",
+   "aliases": [
+    "Millman"
+   ],
+   "description": "Professional astronomer and UFO researcher who analyzed the metal Michalak said he found."
+  },
+  {
+   "key": "alexander",
+   "type": "person",
+   "name": "John B. Alexander",
+   "aliases": [
+    "Alexander"
+   ],
+   "description": "Writer in the Journal for Scientific Exploration who attributed Michalak's lesions to an allergic reaction."
+  },
+  {
+   "key": "sakulich",
+   "type": "person",
+   "name": "Aaron Sakulich",
+   "description": "Writer for the Iron Skeptic who agrees with the alcohol-use explanation."
+  },
+  {
+   "key": "bryson",
+   "type": "person",
+   "name": "Jim Bryson",
+   "description": "Singer-songwriter who released the album The Falcon Lake Incident with The Weakerthans."
+  },
+  {
+   "key": "samson",
+   "type": "person",
+   "name": "John K. Samson",
+   "description": "Spoke with the National Post about the album and belief in encounters."
+  },
+  {
+   "key": "rutkowski",
+   "type": "person",
+   "name": "Chris Rutkowski",
+   "description": "Ufologist; co-author of When They Appeared."
+  },
+  {
+   "key": "dudding",
+   "type": "person",
+   "name": "George Dudding",
+   "description": "Author of The Falcon Lake UFO Encounter."
+  },
+  {
+   "key": "kimmel",
+   "type": "person",
+   "name": "Joel Kimmel",
+   "description": "Illustrator of the Royal Canadian Mint commemorative coin."
+  },
+  {
+   "key": "elizabeth",
+   "type": "person",
+   "name": "Elizabeth II",
+   "aliases": [
+    "Queen Elizabeth II"
+   ],
+   "description": "Queen depicted on the front of the commemorative coin."
+  },
+  {
+   "key": "devin",
+   "type": "person",
+   "name": "Devin Imrie",
+   "description": "Co-owner of Falcon Beach Ranch, which contains the alleged landing site."
+  },
+  {
+   "key": "kendra",
+   "type": "person",
+   "name": "Kendra Imrie",
+   "description": "Co-owner of Falcon Beach Ranch, which contains the alleged landing site."
+  },
+  {
+   "key": "cbc",
+   "type": "organization",
+   "name": "CBC News",
+   "description": "Canadian news outlet that called it Canada's best-documented UFO case."
+  },
+  {
+   "key": "fbhp",
+   "type": "organization",
+   "name": "Falcon Beach Highway Patrol",
+   "aliases": [
+    "highway patrol"
+   ],
+   "description": "Highway patrol unit of Constable Solotki."
+  },
+  {
+   "key": "rcmp",
+   "type": "organization",
+   "name": "Royal Canadian Mounted Police",
+   "aliases": [
+    "RCMP"
+   ],
+   "description": "Canadian federal police; interviewed Michalak and searched for the site."
+  },
+  {
+   "key": "rcaf",
+   "type": "organization",
+   "name": "Royal Canadian Air Force",
+   "aliases": [
+    "RCAF"
+   ],
+   "description": "Canadian air force; took part in the search and received Michalak's report of returning to the site."
+  },
+  {
+   "key": "health",
+   "type": "organization",
+   "name": "Department of Health",
+   "description": "Canadian authority that investigated the incident."
+  },
+  {
+   "key": "dnd",
+   "type": "organization",
+   "name": "Department of National Defence",
+   "aliases": [
+    "defence authorities"
+   ],
+   "description": "Canadian defence department that investigated the incident."
+  },
+  {
+   "key": "apro",
+   "type": "organization",
+   "name": "Aerial Phenomena Research Organization",
+   "aliases": [
+    "APRO"
+   ],
+   "description": "American UFO group that investigated the incident."
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "aliases": [
+    "USAF"
+   ],
+   "description": "Investigated as part of the Condon Committee."
+  },
+  {
+   "key": "ucolorado",
+   "type": "organization",
+   "name": "University of Colorado",
+   "description": "University where the Condon Committee was based."
+  },
+  {
+   "key": "mayo",
+   "type": "organization",
+   "name": "Mayo Clinic",
+   "description": "Clinic in Minnesota where a psychiatrist examined Michalak in 1968."
+  },
+  {
+   "key": "misericordia",
+   "type": "organization",
+   "name": "Misericordia Health Centre",
+   "description": "Where Michalak was treated as an outpatient for first-degree burns."
+  },
+  {
+   "key": "greyhound",
+   "type": "organization",
+   "name": "Greyhound",
+   "aliases": [
+    "Greyhound bus"
+   ],
+   "description": "Bus line on which Michalak returned home to Winnipeg."
+  },
+  {
+   "key": "tribune",
+   "type": "organization",
+   "name": "The Winnipeg Tribune",
+   "aliases": [
+    "Winnipeg Tribune"
+   ],
+   "description": "Newspaper that first published Michalak's account."
+  },
+  {
+   "key": "nicap",
+   "type": "organization",
+   "name": "National Investigations Committee on Aerial Phenomena",
+   "aliases": [
+    "NICAP"
+   ],
+   "description": "UFO group whose May/June bulletin featured the incident."
+  },
+  {
+   "key": "osnova",
+   "type": "organization",
+   "name": "Osnova Publications",
+   "description": "Publisher of Michalak's 1967 pamphlet."
+  },
+  {
+   "key": "jse",
+   "type": "organization",
+   "name": "Journal for Scientific Exploration",
+   "description": "Journal in which John B. Alexander wrote about the case."
+  },
+  {
+   "key": "ironskeptic",
+   "type": "organization",
+   "name": "Iron Skeptic",
+   "aliases": [
+    "the Iron Skeptic"
+   ],
+   "description": "Outlet for which Aaron Sakulich wrote about the case."
+  },
+  {
+   "key": "weakerthans",
+   "type": "organization",
+   "name": "The Weakerthans",
+   "description": "Band that released the album The Falcon Lake Incident with Jim Bryson."
+  },
+  {
+   "key": "natpost",
+   "type": "organization",
+   "name": "National Post",
+   "description": "Newspaper that John K. Samson spoke with."
+  },
+  {
+   "key": "mint",
+   "type": "organization",
+   "name": "Royal Canadian Mint",
+   "description": "Issued a commemorative $20 silver coin in 2018."
+  },
+  {
+   "key": "umarchives",
+   "type": "organization",
+   "name": "University of Manitoba Archives",
+   "description": "Received documents and burned clothing from the incident in 2019."
+  },
+  {
+   "key": "gov_canada",
+   "type": "organization",
+   "name": "Government of Canada",
+   "aliases": [
+    "Canadian government",
+    "the government"
+   ],
+   "description": "Accused of covering up the incident; declined to release the official report."
+  },
+  {
+   "key": "gov_us",
+   "type": "organization",
+   "name": "United States government",
+   "aliases": [
+    "American government"
+   ],
+   "description": "Accused by conspiracy theorists of covering up the incident."
+  },
+  {
+   "key": "condon",
+   "type": "program",
+   "name": "Condon Committee",
+   "description": "University of Colorado UFO study through which the USAF investigated the case."
+  },
+  {
+   "key": "falconlake",
+   "type": "place",
+   "name": "Falcon Lake, Manitoba",
+   "aliases": [
+    "Falcon Lake"
+   ],
+   "description": "Lake in Whiteshell Provincial Park where the encounter allegedly occurred."
+  },
+  {
+   "key": "whiteshell",
+   "type": "place",
+   "name": "Whiteshell Provincial Park",
+   "description": "Provincial park in Manitoba containing Falcon Lake."
+  },
+  {
+   "key": "manitoba",
+   "type": "place",
+   "name": "Manitoba",
+   "description": "Canadian province."
+  },
+  {
+   "key": "canada",
+   "type": "place",
+   "name": "Canada",
+   "description": "Country of the incident."
+  },
+  {
+   "key": "usa",
+   "type": "place",
+   "name": "United States",
+   "description": "Country whose authorities also investigated."
+  },
+  {
+   "key": "tch1",
+   "type": "place",
+   "name": "Trans-Canada Highway 1",
+   "description": "Highway where Michalak flagged down Constable Solotki."
+  },
+  {
+   "key": "falconbeach",
+   "type": "place",
+   "name": "Falcon Beach, Manitoba",
+   "aliases": [
+    "Falcon Beach"
+   ],
+   "description": "Community to which Solotki offered to return Michalak."
+  },
+  {
+   "key": "winnipeg",
+   "type": "place",
+   "name": "Winnipeg, Canada",
+   "aliases": [
+    "Winnipeg"
+   ],
+   "description": "Michalak's home city."
+  },
+  {
+   "key": "falconhotel",
+   "type": "place",
+   "name": "Falcon Hotel",
+   "description": "Hotel whose employees said Michalak drank several beers the night before."
+  },
+  {
+   "key": "minnesota",
+   "type": "place",
+   "name": "Minnesota",
+   "description": "Location of the Mayo Clinic."
+  },
+  {
+   "key": "ranch",
+   "type": "place",
+   "name": "Falcon Beach Ranch",
+   "description": "Ranch on land containing the alleged landing site; offers a UFO Tour."
+  },
+  {
+   "key": "craft",
+   "type": "craft",
+   "name": "Object Michalak said landed at Falcon Lake",
+   "aliases": [
+    "spaceship",
+    "the craft"
+   ],
+   "description": "One of two red-glowing rotating objects; described as disc-shaped, metallic, 35 feet long, with a door emitting violet light."
+  },
+  {
+   "key": "solotki_report",
+   "type": "document",
+   "name": "Solotki's RCMP police report",
+   "aliases": [
+    "Solotki's report"
+   ],
+   "description": "Constable Solotki's report of his encounter with Michalak."
+  },
+  {
+   "key": "thompson_photo",
+   "type": "document",
+   "name": "Thompson photo of Michalak's burns",
+   "aliases": [
+    "the Thompson photo"
+   ],
+   "description": "Photograph of Michalak's torso taken 23 May 1967 by J. B. Thompson."
+  },
+  {
+   "key": "drawing",
+   "type": "document",
+   "name": "Michalak's drawing of the object",
+   "description": "Drawing of a disc-shaped craft with which Michalak posed for the Winnipeg Tribune."
+  },
+  {
+   "key": "medrecords",
+   "type": "document",
+   "name": "Michalak's medical records",
+   "description": "Medical records describing the original burns."
+  },
+  {
+   "key": "grid_photos",
+   "type": "document",
+   "name": "1968 photographs of grid marks on Michalak's abdomen",
+   "description": "Press photographs of uniform, evenly spaced marks Michalak said were returned burns."
+  },
+  {
+   "key": "mayo_report",
+   "type": "document",
+   "name": "Mayo Clinic psychiatric report on Michalak",
+   "description": "Report following the 6 August 1968 examination."
+  },
+  {
+   "key": "official_report",
+   "type": "document",
+   "name": "Official investigation report",
+   "description": "Government investigation report that was not publicly released."
+  },
+  {
+   "key": "nicap_bulletin",
+   "type": "document",
+   "name": "NICAP May/June bulletin",
+   "description": "Bulletin of NICAP that featured the incident."
+  },
+  {
+   "key": "trib_article",
+   "type": "work",
+   "name": "I was burned by UFO",
+   "description": "Winnipeg Tribune article presenting Michalak's account."
+  },
+  {
+   "key": "pamphlet",
+   "type": "work",
+   "name": "My encounter with the UFO",
+   "description": "40-page pamphlet by Michalak published in 1967."
+  },
+  {
+   "key": "unsolved",
+   "type": "work",
+   "name": "Unsolved Mysteries",
+   "description": "TV programme that featured the incident (Season 5, Episode 8)."
+  },
+  {
+   "key": "album",
+   "type": "work",
+   "name": "The Falcon Lake Incident (album)",
+   "aliases": [
+    "The Falcon Lake Incident"
+   ],
+   "description": "2010 album by Jim Bryson and The Weakerthans named after the event."
+  },
+  {
+   "key": "film",
+   "type": "work",
+   "name": "Rulers of Darkness",
+   "description": "2013 film inspired by the events."
+  },
+  {
+   "key": "book_wta",
+   "type": "work",
+   "name": "When They Appeared—Falcon Lake 1967: The Inside Story of a Close Encounter",
+   "aliases": [
+    "When They Appeared"
+   ],
+   "description": "Book by Stan Michalak and Chris Rutkowski."
+  },
+  {
+   "key": "book_dudding",
+   "type": "work",
+   "name": "The Falcon Lake UFO Encounter",
+   "description": "Book by George Dudding."
+  },
+  {
+   "key": "coin",
+   "type": "work",
+   "name": "Royal Canadian Mint Falcon Lake $20 silver coin",
+   "description": "2018 non-circulating glow-in-the-dark commemorative coin."
+  },
+  {
+   "key": "coin_series",
+   "type": "work",
+   "name": "Canada's Unexplained Phenomena",
+   "aliases": [
+    "Canada's Unexplained Phenomena series"
+   ],
+   "description": "Royal Canadian Mint coin series."
+  },
+  {
+   "key": "zamora",
+   "type": "case",
+   "name": "Lonnie Zamora incident",
+   "description": "Case in which a police officer reported two humans operating an egg-shaped craft."
+  },
+  {
+   "key": "cashlandrum",
+   "type": "case",
+   "name": "Cash–Landrum incident",
+   "aliases": [
+    "Cash-Landrum incident"
+   ],
+   "description": "Case in which a family alleged a USAF craft caused adverse health effects."
+  },
+  {
+   "key": "f_disc",
+   "type": "feature",
+   "name": "shape-disc"
+  },
+  {
+   "key": "f_physio",
+   "type": "feature",
+   "name": "physiological-effects"
+  },
+  {
+   "key": "f_landing",
+   "type": "feature",
+   "name": "landing-reported"
+  },
+  {
+   "key": "f_traces",
+   "type": "feature",
+   "name": "physical-traces"
+  },
+  {
+   "key": "f_rad",
+   "type": "feature",
+   "name": "radiation-reading"
+  },
+  {
+   "key": "f_debris",
+   "type": "feature",
+   "name": "debris-or-material"
+  },
+  {
+   "key": "f_sound",
+   "type": "feature",
+   "name": "sound-reported"
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation"
+  },
+  {
+   "key": "f_cover",
+   "type": "feature",
+   "name": "alleged-cover-up"
+  },
+  {
+   "key": "f_hoax",
+   "type": "feature",
+   "name": "hoax-alleged"
+  },
+  {
+   "key": "f_voices",
+   "type": "feature",
+   "name": "other:human voices heard from craft"
+  },
+  {
+   "key": "f_manmade",
+   "type": "feature",
+   "name": "other:witness said craft was man-made"
+  },
+  {
+   "key": "x_hoax",
+   "type": "explanation",
+   "name": "hoax"
+  },
+  {
+   "key": "x_alcohol",
+   "type": "explanation",
+   "name": "other:accident stemming from alcohol use"
+  },
+  {
+   "key": "x_allergy",
+   "type": "explanation",
+   "name": "other:allergic reaction"
+  },
+  {
+   "key": "x_radium",
+   "type": "explanation",
+   "name": "other:radium paint contamination"
+  },
+  {
+   "key": "x_selfinflicted",
+   "type": "explanation",
+   "name": "other:self-inflicted wounds"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1967-05-20",
+   "quote": "The Falcon Lake Incident was an alleged UFO encounter on 20 May 1967, at Falcon Lake, within Whiteshell Provincial Park in the Canadian province of Manitoba."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1967-05-20",
+   "quote": "The Falcon Lake Incident was an alleged UFO encounter on 20 May 1967, at Falcon Lake, within Whiteshell Provincial Park in the Canadian province of Manitoba."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "approximately 3 p.m.",
+   "quote": "On Saturday, 20 May 1967, at approximately 3 p.m., Constable G. A. Solotki of the Falcon Beach Highway Patrol was driving on Trans-Canada Highway 1 when he was flagged down by Steve Michalak."
+  },
+  {
+   "s": "case",
+   "p": "day_of_week",
+   "v": "Saturday",
+   "quote": "On Saturday, 20 May 1967, at approximately 3 p.m., Constable G. A. Solotki of the Falcon Beach Highway Patrol was driving on Trans-Canada Highway 1 when he was flagged down by Steve Michalak."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "Canada",
+   "quote": "The Falcon Lake Incident was an alleged UFO encounter on 20 May 1967, at Falcon Lake, within Whiteshell Provincial Park in the Canadian province of Manitoba."
+  },
+  {
+   "s": "case",
+   "p": "witness_count",
+   "v": "1",
+   "quote": "Unlike typical UFO reports, the lone witness, Steve Michalak, claimed to hear human voices, said the craft was man-made, and claimed burns on his abdomen were caused by its exhaust."
+  },
+  {
+   "s": "case",
+   "p": "reputation",
+   "v": "Canada's best-documented UFO case",
+   "quote": "CBC News has called it \"Canada's best-documented UFO case\"."
+  },
+  {
+   "s": "case",
+   "p": "summary",
+   "v": "alleged UFO encounter",
+   "quote": "The Falcon Lake Incident was an alleged UFO encounter on 20 May 1967, at Falcon Lake, within Whiteshell Provincial Park in the Canadian province of Manitoba."
+  },
+  {
+   "s": "case",
+   "p": "investigation_trigger",
+   "v": "media coverage triggered multiple civilian and official investigations in Canada and the United States",
+   "quote": "Two days later, Michalak contacted the press, and the resulting media coverage triggered multiple civilian and official investigations in both Canada and the United States."
+  },
+  {
+   "s": "case",
+   "p": "search",
+   "v": "25 May: RCMP and RCAF aerial search followed by ground search",
+   "quote": "On 25 May, the RCMP and the RCAF conducted an aerial search followed by a ground search."
+  },
+  {
+   "s": "case",
+   "p": "search_result",
+   "v": "found a shopping bag and an old saw Michalak mentioned discarding; failed to find the supposed landing site",
+   "quote": "They found objects Michalak had mentioned discarding, such as a shopping bag and an old saw he had found along a trail, but failed to find the supposed landing site."
+  },
+  {
+   "s": "case",
+   "p": "hotel_staff_statement",
+   "v": "Falcon Hotel employees recalled Michalak had consumed several beers the night before the incident",
+   "quote": "On 26 May, police interviewed employees of the Falcon Hotel, who recalled that Michalak had consumed several beers the night before the incident, despite his denials of any alcohol use."
+  },
+  {
+   "s": "case",
+   "p": "family_doctor",
+   "v": "press quoted Michalak's family doctor as having examined the burns",
+   "quote": "He was reportedly burned in a \"checkerboard pattern\" when the craft took off; the press quoted his family doctor as having examined the burns."
+  },
+  {
+   "s": "case",
+   "p": "burn_photograph_date",
+   "v": "23 May",
+   "quote": "On 23 May, a civilian UFO investigator photographed Michalak's torso, showing typical burns that were irregularly shaped and unevenly spaced."
+  },
+  {
+   "s": "case",
+   "p": "rcmp_interview",
+   "v": "23 May: two members of the RCMP interviewed Michalak at his home",
+   "quote": "That same day, two members of the RCMP interviewed Michalak at his home."
+  },
+  {
+   "s": "case",
+   "p": "rcmp_observation",
+   "v": "burns on abdomen likened to an exceptionally severe sunburn localized to one spot",
+   "quote": "The officers witnessed the burns on his abdomen, likening their appearance to \"an exceptionally severe sunburn\" localized to one spot."
+  },
+  {
+   "s": "case",
+   "p": "items_shown_to_police",
+   "v": "burnt cap, melted grinder goggles, burnt undershirt",
+   "quote": "Michalak showed the officers his burnt cap, melted grinder goggles, and burnt undershirt."
+  },
+  {
+   "s": "case",
+   "p": "undershirt_test",
+   "v": "shirt lab-tested for radioactivity; none found",
+   "quote": "The shirt was sent to a lab to be tested for radioactivity, but none was found."
+  },
+  {
+   "s": "case",
+   "p": "undershirt_marks",
+   "v": "burnt undershirt showed grid-like pattern of marks differing from the irregularly shaped burns",
+   "quote": "A burnt undershirt was photographed, showing a grid-like pattern of marks that differed from his irregularly shaped burns."
+  },
+  {
+   "s": "case",
+   "p": "glove",
+   "v": "partially melted glove given to J. B. Thompson",
+   "quote": "A partially melted glove was given to J. B. Thompson."
+  },
+  {
+   "s": "case",
+   "p": "site_return_report_date",
+   "v": "26 June",
+   "quote": "On 26 June, Michalak contacted the RCAF to report that he and a partner, Gerald Hart, had located the landing site over the weekend."
+  },
+  {
+   "s": "case",
+   "p": "artifacts_collected",
+   "v": "burnt shirt, steel tape, soil sample",
+   "quote": "on 26 June Michalak unexpectedly reported to authorities that he had returned to the supposed landing site to collect artifacts, including a burnt shirt, steel tape, and a soil sample."
+  },
+  {
+   "s": "case",
+   "p": "soil_sample_result",
+   "v": "highly radioactive",
+   "quote": "The sample provided by Michalak was tested and found to be \"highly radioactive.\""
+  },
+  {
+   "s": "case",
+   "p": "home_sweep",
+   "v": "officials swept Michalak's home for radioactive materials and took possession of the remaining soil",
+   "quote": "Consequently, officials swept Michalak's home for signs of radioactive materials and took possession of the remaining soil."
+  },
+  {
+   "s": "case",
+   "p": "site_observation",
+   "v": "semicircle where moss had been removed",
+   "quote": "Upon arrival, investigators noted a semicircle where moss had been removed."
+  },
+  {
+   "s": "case",
+   "p": "site_radiation",
+   "v": "trace amounts in a rock crevice; no danger to life",
+   "quote": "While trace amounts of radiation were detected in a rock crevice, the levels posed no danger to life."
+  },
+  {
+   "s": "case",
+   "p": "site_radiation_interpretation",
+   "v": "suggestive of a natural radium vein or contamination by luminescent radium paint; nothing dangerous detected",
+   "quote": "While trace amounts of radiation were found, suggestive of a natural radium vein or perhaps contamination by a luminescent radium paint, nothing dangerous was detected."
+  },
+  {
+   "s": "case",
+   "p": "site_vegetation",
+   "v": "RCMP confirmed burnt vegetation at the reported landing site",
+   "quote": "In October, the press reported that Michalak had been interviewed by Professor Ray Craig of the Condon Committee at the University of Colorado, and that Michalak had led the RCMP to the reported landing site, where they confirmed the presence of burnt vegetation."
+  },
+  {
+   "s": "case",
+   "p": "press_report",
+   "v": "30 June: case being investigated by defence authorities amid a surge of UFO reports in the area",
+   "quote": "On 30 June, the press reported that Michalak's case was being investigated by defence authorities amid a surge of UFO reports in the area."
+  },
+  {
+   "s": "case",
+   "p": "press_report",
+   "v": "23 May: papers throughout the region reported Michalak's claim",
+   "quote": "On 23 May, papers throughout the region reported Michalak's claim of having seen strange objects at Falcon Lake the prior Saturday."
+  },
+  {
+   "s": "case",
+   "p": "comic_strips",
+   "v": "series of dramatic comic strips ran in newspapers in November 1967",
+   "quote": "A series of dramatic comic strips about the incident ran in newspapers in November 1967."
+  },
+  {
+   "s": "case",
+   "p": "burns_return_report_date",
+   "v": "1968-01-17",
+   "quote": "On 17 January 1968, The Winnipeg Tribune reported Michalak's claim that the burns had returned, noting he claimed they had previously returned once before."
+  },
+  {
+   "s": "case",
+   "p": "misattribution",
+   "v": "many sources mistook the 1968 grid marks for the original first-degree burns of May 1967",
+   "quote": "Many sources mistook the 1968 grid marks for being the originally reported first-degree burns from May 1967."
+  },
+  {
+   "s": "case",
+   "p": "psychiatric_exam_date",
+   "v": "1968-08-06",
+   "quote": "On 6 August 1968, a psychiatrist at the Mayo Clinic in Minnesota examined Michalak."
+  },
+  {
+   "s": "case",
+   "p": "psychiatrist_conclusion",
+   "v": "new wounds likely self-inflicted",
+   "quote": "A psychiatrist concluded the new wounds were likely self-inflicted."
+  },
+  {
+   "s": "case",
+   "p": "coverup_accusation",
+   "v": "by October (1968) American UFO conspiracy theorists accused the Canadian and American governments of covering up the incident",
+   "quote": "By October, American UFO conspiracy theorists had accused the Canadian and American governments of covering up the incident."
+  },
+  {
+   "s": "case",
+   "p": "editorials",
+   "v": "called on the government to release documents about the sighting",
+   "quote": "Editorials called on the government to release documents about the Falcon Lake sighting."
+  },
+  {
+   "s": "case",
+   "p": "metal_fragment",
+   "v": "piece of metal Michalak said he found near the supposed landing site, reported by November 1968",
+   "quote": "By November 1968, newspapers reported on a piece of metal that Michalak said he had found near the supposed landing site."
+  },
+  {
+   "s": "case",
+   "p": "metal_composition",
+   "v": "95% silver, very slightly radioactive (likened to a glow-in-the-dark wristwatch)",
+   "quote": "The material was analyzed by professional astronomer and UFO researcher Peter Millman, who found it to be 95% silver but very slightly radioactive, on a level likened to a glow-in-the-dark wristwatch."
+  },
+  {
+   "s": "case",
+   "p": "skeptic_view",
+   "v": "burns resulted from an accident stemming from alcohol use; claim made to hide their true cause",
+   "quote": "Skeptics of the Falcon Lake UFO Incident state that Michalak's burns were a result of an accident stemming from alcohol use, and that his claim was made to hide their true cause."
+  },
+  {
+   "s": "case",
+   "p": "skeptic_view",
+   "v": "Michalak likely intended to dissuade competitors from prospecting at his site",
+   "quote": "In reporting the incident, Michalak likely intended to dissuade any competitors from prospecting at his site."
+  },
+  {
+   "s": "case",
+   "p": "skeptic_view",
+   "v": "melted radioactive metal planted after the incident to solidify the hoax",
+   "quote": "The pieces of melted, radioactive metal were purported by skeptics of the case to have been planted after the incident to solidify the hoax."
+  },
+  {
+   "s": "case",
+   "p": "aftermath",
+   "v": "public and media frenzy brought numerous individuals to the site",
+   "quote": "The subsequent frenzy by the public and media caused the reverse effect, however, with numerous individuals descending upon the site."
+  },
+  {
+   "s": "case",
+   "p": "anniversary_commemoration",
+   "v": "2018 Royal Canadian Mint $20 silver coin for the 50th anniversary",
+   "quote": "In 2018, the Royal Canadian Mint commemorated the 50th anniversary by issuing a $20 non-circulating silver coin as part of its Canada's Unexplained Phenomena series."
+  },
+  {
+   "s": "case",
+   "p": "archive_donation",
+   "v": "documents and burned clothing donated to the University of Manitoba Archives in 2019",
+   "quote": "Documents and burned articles of clothing pertaining to the incident were donated to the University of Manitoba Archives in 2019."
+  },
+  {
+   "s": "case",
+   "p": "site_tourism",
+   "v": "Falcon Beach Ranch offers a UFO Tour",
+   "quote": "Falcon Beach Ranch, owned by Devin and Kendra Imrie, who inherited the land containing the alleged landing site, offers a \"UFO Tour\" for visitors wishing to explore the area."
+  },
+  {
+   "s": "falconlake",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Falcon Lake Incident was an alleged UFO encounter on 20 May 1967, at Falcon Lake, within Whiteshell Provincial Park in the Canadian province of Manitoba."
+  },
+  {
+   "s": "whiteshell",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Falcon Lake Incident was an alleged UFO encounter on 20 May 1967, at Falcon Lake, within Whiteshell Provincial Park in the Canadian province of Manitoba."
+  },
+  {
+   "s": "falconlake",
+   "p": "located_in",
+   "o": "whiteshell",
+   "quote": "The Falcon Lake Incident was an alleged UFO encounter on 20 May 1967, at Falcon Lake, within Whiteshell Provincial Park in the Canadian province of Manitoba."
+  },
+  {
+   "s": "whiteshell",
+   "p": "located_in",
+   "o": "manitoba",
+   "quote": "The Falcon Lake Incident was an alleged UFO encounter on 20 May 1967, at Falcon Lake, within Whiteshell Provincial Park in the Canadian province of Manitoba."
+  },
+  {
+   "s": "manitoba",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Falcon Lake Incident was an alleged UFO encounter on 20 May 1967, at Falcon Lake, within Whiteshell Provincial Park in the Canadian province of Manitoba."
+  },
+  {
+   "s": "manitoba",
+   "p": "located_in",
+   "o": "canada",
+   "quote": "The Falcon Lake Incident was an alleged UFO encounter on 20 May 1967, at Falcon Lake, within Whiteshell Provincial Park in the Canadian province of Manitoba."
+  },
+  {
+   "s": "canada",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Two days later, Michalak contacted the press, and the resulting media coverage triggered multiple civilian and official investigations in both Canada and the United States."
+  },
+  {
+   "s": "usa",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Two days later, Michalak contacted the press, and the resulting media coverage triggered multiple civilian and official investigations in both Canada and the United States."
+  },
+  {
+   "s": "tch1",
+   "p": "near",
+   "o": "case",
+   "quote": "On Saturday, 20 May 1967, at approximately 3 p.m., Constable G. A. Solotki of the Falcon Beach Highway Patrol was driving on Trans-Canada Highway 1 when he was flagged down by Steve Michalak."
+  },
+  {
+   "s": "tch1",
+   "p": "event",
+   "v": "Michalak flagged down Constable Solotki here at approximately 3 p.m.",
+   "quote": "On Saturday, 20 May 1967, at approximately 3 p.m., Constable G. A. Solotki of the Falcon Beach Highway Patrol was driving on Trans-Canada Highway 1 when he was flagged down by Steve Michalak."
+  },
+  {
+   "s": "falconbeach",
+   "p": "near",
+   "o": "case",
+   "quote": "Solotki's report notes he did not smell alcohol on Michalak and that he offered to help him return to Falcon Beach and seek treatment, but the offer was declined."
+  },
+  {
+   "s": "winnipeg",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Returning home to Winnipeg on a Greyhound bus, Michalak was treated that night for first-degree burns as an outpatient at the Misericordia Health Centre."
+  },
+  {
+   "s": "winnipeg",
+   "p": "role",
+   "v": "Michalak's home",
+   "quote": "Returning home to Winnipeg on a Greyhound bus, Michalak was treated that night for first-degree burns as an outpatient at the Misericordia Health Centre."
+  },
+  {
+   "s": "falconhotel",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On 26 May, police interviewed employees of the Falcon Hotel, who recalled that Michalak had consumed several beers the night before the incident, despite his denials of any alcohol use."
+  },
+  {
+   "s": "falconhotel",
+   "p": "employee_statement",
+   "v": "Michalak consumed several beers the night before the incident",
+   "quote": "On 26 May, police interviewed employees of the Falcon Hotel, who recalled that Michalak had consumed several beers the night before the incident, despite his denials of any alcohol use."
+  },
+  {
+   "s": "minnesota",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On 6 August 1968, a psychiatrist at the Mayo Clinic in Minnesota examined Michalak."
+  },
+  {
+   "s": "mayo",
+   "p": "located_in",
+   "o": "minnesota",
+   "quote": "On 6 August 1968, a psychiatrist at the Mayo Clinic in Minnesota examined Michalak."
+  },
+  {
+   "s": "ranch",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Falcon Beach Ranch, owned by Devin and Kendra Imrie, who inherited the land containing the alleged landing site, offers a \"UFO Tour\" for visitors wishing to explore the area."
+  },
+  {
+   "s": "ranch",
+   "p": "offers",
+   "v": "UFO Tour",
+   "quote": "Falcon Beach Ranch, owned by Devin and Kendra Imrie, who inherited the land containing the alleged landing site, offers a \"UFO Tour\" for visitors wishing to explore the area."
+  },
+  {
+   "s": "ranch",
+   "p": "contains",
+   "v": "land containing the alleged landing site",
+   "quote": "Falcon Beach Ranch, owned by Devin and Kendra Imrie, who inherited the land containing the alleged landing site, offers a \"UFO Tour\" for visitors wishing to explore the area."
+  },
+  {
+   "s": "devin",
+   "p": "owned",
+   "o": "ranch",
+   "quote": "Falcon Beach Ranch, owned by Devin and Kendra Imrie, who inherited the land containing the alleged landing site, offers a \"UFO Tour\" for visitors wishing to explore the area."
+  },
+  {
+   "s": "kendra",
+   "p": "owned",
+   "o": "ranch",
+   "quote": "Falcon Beach Ranch, owned by Devin and Kendra Imrie, who inherited the land containing the alleged landing site, offers a \"UFO Tour\" for visitors wishing to explore the area."
+  },
+  {
+   "s": "devin",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Falcon Beach Ranch, owned by Devin and Kendra Imrie, who inherited the land containing the alleged landing site, offers a \"UFO Tour\" for visitors wishing to explore the area."
+  },
+  {
+   "s": "kendra",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Falcon Beach Ranch, owned by Devin and Kendra Imrie, who inherited the land containing the alleged landing site, offers a \"UFO Tour\" for visitors wishing to explore the area."
+  },
+  {
+   "s": "devin",
+   "p": "relative_of",
+   "o": "kendra",
+   "quote": "Falcon Beach Ranch, owned by Devin and Kendra Imrie, who inherited the land containing the alleged landing site, offers a \"UFO Tour\" for visitors wishing to explore the area."
+  },
+  {
+   "s": "michalak",
+   "p": "witness",
+   "o": "case",
+   "quote": "Unlike typical UFO reports, the lone witness, Steve Michalak, claimed to hear human voices, said the craft was man-made, and claimed burns on his abdomen were caused by its exhaust."
+  },
+  {
+   "s": "michalak",
+   "p": "age",
+   "v": "50",
+   "quote": "According to a police report from just days later, Michalak, a 50-year-old mechanic, reported seeing \"two spaceships\" that glowed red and rotated."
+  },
+  {
+   "s": "michalak",
+   "p": "occupation",
+   "v": "mechanic",
+   "quote": "According to a police report from just days later, Michalak, a 50-year-old mechanic, reported seeing \"two spaceships\" that glowed red and rotated."
+  },
+  {
+   "s": "michalak",
+   "p": "occupation",
+   "v": "blue-collar industrial mechanic",
+   "quote": "In 2017, CBC News quoted Michalak's son as saying: \"If Dad hoaxed this – remember we're talking about a blue-collar, industrial mechanic – if he hoaxed it then he was a freakin' genius.\""
+  },
+  {
+   "s": "michalak",
+   "p": "activity",
+   "v": "claimed he had been prospecting",
+   "quote": "While Michalak claimed he had been prospecting, Solotki noticed he had no camping or prospecting equipment, nor a vehicle."
+  },
+  {
+   "s": "michalak",
+   "p": "statement",
+   "v": "claimed to hear human voices; said the craft was man-made; claimed burns on his abdomen were caused by its exhaust",
+   "quote": "Unlike typical UFO reports, the lone witness, Steve Michalak, claimed to hear human voices, said the craft was man-made, and claimed burns on his abdomen were caused by its exhaust."
+  },
+  {
+   "s": "michalak",
+   "p": "statement",
+   "v": "told police he was burned by a spaceship",
+   "quote": "Initially telling police he was burned by a spaceship, Michalak later told the press it was a man-made aircraft, prompting investigations by law enforcement and the military."
+  },
+  {
+   "s": "michalak",
+   "p": "later_claim",
+   "v": "told the press it was a man-made aircraft",
+   "quote": "Initially telling police he was burned by a spaceship, Michalak later told the press it was a man-made aircraft, prompting investigations by law enforcement and the military."
+  },
+  {
+   "s": "michalak",
+   "p": "statement",
+   "v": "reported seeing two spaceships that glowed red and rotated",
+   "quote": "According to a police report from just days later, Michalak, a 50-year-old mechanic, reported seeing \"two spaceships\" that glowed red and rotated."
+  },
+  {
+   "s": "michalak",
+   "p": "statement",
+   "v": "touched the craft; hat and shirt were burned",
+   "quote": "He claimed he had touched the craft and that his hat and shirt had been burned; however, he refused to show the officer the burned shirt, claiming it was in the briefcase he was carrying."
+  },
+  {
+   "s": "michalak",
+   "p": "statement",
+   "v": "warned the constable not to approach, fearing spreading a skin disease or radiation",
+   "quote": "Michalak warned the constable not to approach too closely, citing fears of spreading a skin disease or radiation."
+  },
+  {
+   "s": "michalak",
+   "p": "statement",
+   "v": "spoke to the craft in multiple languages but received no response",
+   "quote": "Michalak reported speaking to the craft in multiple languages but received no response."
+  },
+  {
+   "s": "michalak",
+   "p": "statement",
+   "v": "burned in a checkerboard pattern when the craft took off",
+   "quote": "He was reportedly burned in a \"checkerboard pattern\" when the craft took off; the press quoted his family doctor as having examined the burns."
+  },
+  {
+   "s": "michalak",
+   "p": "statement",
+   "v": "burns formed a grid caused by exhaust from evenly spaced holes in the craft",
+   "quote": "While Michalak claimed the burns formed a grid caused by exhaust from evenly spaced holes in the craft, Thompson's photo shows irregularly shaped, blotchy burns."
+  },
+  {
+   "s": "michalak",
+   "p": "statement",
+   "v": "feared radiation exposure and did not want to contaminate anyone",
+   "quote": "Michalak recalled his encounter with Constable Solotki and explained his unwillingness to show the officer his shirt by saying he feared he had been exposed to radiation and did not want to contaminate anyone."
+  },
+  {
+   "s": "michalak",
+   "p": "statement",
+   "v": "had discovered a high-quality nickel strike nearby and wanted to protect the site",
+   "quote": "He further explained his previous reluctance to provide a specific location by claiming he had discovered a high-quality nickel strike nearby and wanted to protect the site."
+  },
+  {
+   "s": "michalak",
+   "p": "statement",
+   "v": "offered to escort officers to the site once physically able",
+   "quote": "However, he offered to escort officers there once he was physically able."
+  },
+  {
+   "s": "michalak",
+   "p": "symptoms",
+   "v": "headaches, vomiting, rapid weight loss, emitting a foul smell",
+   "quote": "Michalak also reported headaches, vomiting, rapid weight loss, and emitting a \"foul smell\" after his encounter."
+  },
+  {
+   "s": "michalak",
+   "p": "weight_loss",
+   "v": "13 pounds in three days",
+   "quote": "He reported having lost 13 pounds in the three days since the incident due to nausea, vomiting, headaches, and a strange taste and smell."
+  },
+  {
+   "s": "michalak",
+   "p": "symptoms",
+   "v": "nausea, vomiting, headaches, strange taste and smell",
+   "quote": "He reported having lost 13 pounds in the three days since the incident due to nausea, vomiting, headaches, and a strange taste and smell."
+  },
+  {
+   "s": "michalak",
+   "p": "injury",
+   "v": "first-degree burns",
+   "quote": "Later that night, Michalak sought medical treatment for first-degree burns."
+  },
+  {
+   "s": "michalak",
+   "p": "injury",
+   "v": "several round and irregular shaped burns the size of a silver dollar",
+   "quote": "Thompson photographed Michalak's burns, which medical records described as \"several round and irregular shaped burns the size of a silver dollar.\""
+  },
+  {
+   "s": "michalak",
+   "p": "treatment",
+   "v": "treated as an outpatient at the Misericordia Health Centre on the night of 20 May",
+   "quote": "Returning home to Winnipeg on a Greyhound bus, Michalak was treated that night for first-degree burns as an outpatient at the Misericordia Health Centre."
+  },
+  {
+   "s": "michalak",
+   "p": "travel",
+   "v": "returned home to Winnipeg on a Greyhound bus",
+   "quote": "Returning home to Winnipeg on a Greyhound bus, Michalak was treated that night for first-degree burns as an outpatient at the Misericordia Health Centre."
+  },
+  {
+   "s": "michalak",
+   "p": "alcohol",
+   "v": "denied any alcohol use; hotel employees said he had several beers the night before",
+   "quote": "On 26 May, police interviewed employees of the Falcon Hotel, who recalled that Michalak had consumed several beers the night before the incident, despite his denials of any alcohol use."
+  },
+  {
+   "s": "michalak",
+   "p": "action",
+   "v": "contacted the press two days later",
+   "quote": "Two days later, Michalak contacted the press, and the resulting media coverage triggered multiple civilian and official investigations in both Canada and the United States."
+  },
+  {
+   "s": "michalak",
+   "p": "action",
+   "v": "visited the site with another person despite agreeing not to disturb it and gave authorities objects he said he collected there",
+   "quote": "Despite agreeing not to disturb the site, Michalak unexpectedly visited it with another person and gave authorities objects he claimed he had collected from the site."
+  },
+  {
+   "s": "michalak",
+   "p": "action",
+   "v": "refused to cooperate, citing concerns about his mineral claim",
+   "quote": "Although he had promised to guide investigators to the location, he now refused to cooperate, citing concerns about his mineral claim."
+  },
+  {
+   "s": "michalak",
+   "p": "action",
+   "v": "collected burnt outer shirt and soil samples despite instructions not to remove items",
+   "quote": "Despite previous instructions from authorities not to remove items from the site, Michalak reported that he had already collected several items, including his burnt outer shirt and soil samples."
+  },
+  {
+   "s": "michalak",
+   "p": "action",
+   "v": "became fully cooperative and agreed to lead authorities to the site after the lab report",
+   "quote": "In light of the lab report showing potentially dangerous radioactivity, Michalak reportedly became fully cooperative and agreed to lead authorities to the site."
+  },
+  {
+   "s": "michalak",
+   "p": "action",
+   "v": "led authorities to the landing site",
+   "quote": "After a soil sample provided by Michalak tested positive for potentially dangerous levels of radioactivity, he led authorities to the landing site."
+  },
+  {
+   "s": "michalak",
+   "p": "later_claim",
+   "v": "burns had returned (January 1968), having previously returned once before",
+   "quote": "On 17 January 1968, The Winnipeg Tribune reported Michalak's claim that the burns had returned, noting he claimed they had previously returned once before."
+  },
+  {
+   "s": "michalak",
+   "p": "later_claim",
+   "v": "found a piece of metal near the supposed landing site",
+   "quote": "By November 1968, newspapers reported on a piece of metal that Michalak said he had found near the supposed landing site."
+  },
+  {
+   "s": "michalak",
+   "p": "later_claim",
+   "v": "by 14 November 1968 accused the government of a coverup to avoid a national panic",
+   "quote": "By 14 November 1968, Michalak was himself accusing the government of a coverup to avoid a national panic."
+  },
+  {
+   "s": "michalak",
+   "p": "later_marks",
+   "v": "grid of uniform, evenly spaced marks on abdomen",
+   "quote": "The following January, he again contacted the press, which ran photographs of Michalak with a grid of uniform, evenly spaced marks on his abdomen that he described as burns that had come back."
+  },
+  {
+   "s": "michalak",
+   "p": "diagnosis",
+   "v": "lesions diagnosed as obviously factitial; no overt evidence of significant mental or emotional illness",
+   "quote": "In the resulting report, the physician observed, \"Despite the fact that his lesions have been diagnosed as obviously factitial, I can find no overt evidence of significant mental or emotional illness.\""
+  },
+  {
+   "s": "michalak",
+   "p": "home",
+   "v": "Winnipeg",
+   "quote": "Returning home to Winnipeg on a Greyhound bus, Michalak was treated that night for first-degree burns as an outpatient at the Misericordia Health Centre."
+  },
+  {
+   "s": "michalak",
+   "p": "described",
+   "o": "craft",
+   "quote": "According to Michalak, one of the objects landed; he described it as 35 feet (11 m) long and metallic."
+  },
+  {
+   "s": "michalak",
+   "p": "authored",
+   "o": "pamphlet",
+   "quote": "Late in the year, Michalak published his account in a 40-page pamphlet titled My encounter with the UFO, published in 1967 by Osnova Publications in Polish and retold by Paul Pihichyn, who had translated the account into English."
+  },
+  {
+   "s": "michalak",
+   "p": "authored",
+   "o": "drawing",
+   "quote": "The paper subsequently published his account under the title \"I was burned by UFO,\" along with a photo of Michalak posing with his drawing of the object he reportedly witnessed: a disc-shaped craft consistent with the classic \"flying saucer\"."
+  },
+  {
+   "s": "stan",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Fifty years after the incident, Michalak's son, Stan Michalak, and ufologist Chris Rutkowski published When They Appeared—Falcon Lake 1967: The Inside Story of a Close Encounter, which compiled the case according to eyewitness testimony."
+  },
+  {
+   "s": "stan",
+   "p": "relative_of",
+   "o": "michalak",
+   "quote": "Fifty years after the incident, Michalak's son, Stan Michalak, and ufologist Chris Rutkowski published When They Appeared—Falcon Lake 1967: The Inside Story of a Close Encounter, which compiled the case according to eyewitness testimony."
+  },
+  {
+   "s": "stan",
+   "p": "relationship",
+   "v": "son of Steve Michalak",
+   "quote": "Fifty years after the incident, Michalak's son, Stan Michalak, and ufologist Chris Rutkowski published When They Appeared—Falcon Lake 1967: The Inside Story of a Close Encounter, which compiled the case according to eyewitness testimony."
+  },
+  {
+   "s": "stan",
+   "p": "authored",
+   "o": "book_wta",
+   "quote": "Fifty years after the incident, Michalak's son, Stan Michalak, and ufologist Chris Rutkowski published When They Appeared—Falcon Lake 1967: The Inside Story of a Close Encounter, which compiled the case according to eyewitness testimony."
+  },
+  {
+   "s": "stan",
+   "p": "statement",
+   "v": "If Dad hoaxed this ... then he was a freakin' genius (quoted by CBC News, 2017)",
+   "quote": "In 2017, CBC News quoted Michalak's son as saying: \"If Dad hoaxed this – remember we're talking about a blue-collar, industrial mechanic – if he hoaxed it then he was a freakin' genius.\""
+  },
+  {
+   "s": "cbc",
+   "p": "interviewed",
+   "o": "stan",
+   "quote": "In 2017, CBC News quoted Michalak's son as saying: \"If Dad hoaxed this – remember we're talking about a blue-collar, industrial mechanic – if he hoaxed it then he was a freakin' genius.\""
+  },
+  {
+   "s": "solotki",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "On Saturday, 20 May 1967, at approximately 3 p.m., Constable G. A. Solotki of the Falcon Beach Highway Patrol was driving on Trans-Canada Highway 1 when he was flagged down by Steve Michalak."
+  },
+  {
+   "s": "solotki",
+   "p": "rank",
+   "v": "Constable",
+   "quote": "On Saturday, 20 May 1967, at approximately 3 p.m., Constable G. A. Solotki of the Falcon Beach Highway Patrol was driving on Trans-Canada Highway 1 when he was flagged down by Steve Michalak."
+  },
+  {
+   "s": "solotki",
+   "p": "member_of",
+   "o": "fbhp",
+   "quote": "On Saturday, 20 May 1967, at approximately 3 p.m., Constable G. A. Solotki of the Falcon Beach Highway Patrol was driving on Trans-Canada Highway 1 when he was flagged down by Steve Michalak."
+  },
+  {
+   "s": "solotki",
+   "p": "authored",
+   "o": "solotki_report",
+   "quote": "Solotki's report notes he did not smell alcohol on Michalak and that he offered to help him return to Falcon Beach and seek treatment, but the offer was declined."
+  },
+  {
+   "s": "solotki",
+   "p": "interviewed",
+   "o": "michalak",
+   "quote": "On Saturday, 20 May 1967, at approximately 3 p.m., Constable G. A. Solotki of the Falcon Beach Highway Patrol was driving on Trans-Canada Highway 1 when he was flagged down by Steve Michalak."
+  },
+  {
+   "s": "solotki",
+   "p": "observation",
+   "v": "saw a burn on the hat but not on Michalak's head",
+   "quote": "Solotki witnessed a burn on the hat but not on Michalak's head."
+  },
+  {
+   "s": "solotki",
+   "p": "observation",
+   "v": "marks appeared consistent with rubbing ash on the skin",
+   "quote": "Michalak showed marks that Solotki said appeared consistent with rubbing ash on the skin."
+  },
+  {
+   "s": "solotki",
+   "p": "observation",
+   "v": "Michalak had no camping or prospecting equipment, nor a vehicle",
+   "quote": "While Michalak claimed he had been prospecting, Solotki noticed he had no camping or prospecting equipment, nor a vehicle."
+  },
+  {
+   "s": "solotki",
+   "p": "statement",
+   "v": "felt Michalak had been on a drunk and was suffering from a hangover",
+   "quote": "Solotki reported that he felt Michalak \"had been on a drunk and was suffering from a hangover\"."
+  },
+  {
+   "s": "solotki",
+   "p": "observation",
+   "v": "did not smell alcohol on Michalak",
+   "quote": "Solotki's report notes he did not smell alcohol on Michalak and that he offered to help him return to Falcon Beach and seek treatment, but the offer was declined."
+  },
+  {
+   "s": "solotki",
+   "p": "action",
+   "v": "offered to help Michalak return to Falcon Beach and seek treatment; declined",
+   "quote": "Solotki's report notes he did not smell alcohol on Michalak and that he offered to help him return to Falcon Beach and seek treatment, but the offer was declined."
+  },
+  {
+   "s": "solotki",
+   "p": "vehicle_activity",
+   "v": "driving on Trans-Canada Highway 1",
+   "quote": "On Saturday, 20 May 1967, at approximately 3 p.m., Constable G. A. Solotki of the Falcon Beach Highway Patrol was driving on Trans-Canada Highway 1 when he was flagged down by Steve Michalak."
+  },
+  {
+   "s": "fbhp",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On Saturday, 20 May 1967, at approximately 3 p.m., Constable G. A. Solotki of the Falcon Beach Highway Patrol was driving on Trans-Canada Highway 1 when he was flagged down by Steve Michalak."
+  },
+  {
+   "s": "solotki_report",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Solotki's report notes he did not smell alcohol on Michalak and that he offered to help him return to Falcon Beach and seek treatment, but the offer was declined."
+  },
+  {
+   "s": "solotki_report",
+   "p": "content",
+   "v": "Michalak, a 50-year-old mechanic, reported seeing two spaceships that glowed red and rotated",
+   "quote": "According to a police report from just days later, Michalak, a 50-year-old mechanic, reported seeing \"two spaceships\" that glowed red and rotated."
+  },
+  {
+   "s": "solotki_report",
+   "p": "content",
+   "v": "Michalak was reluctant to answer questions despite visible burns and possibly inebriated state",
+   "quote": "Michalak's claims about his interactions with G. A. Solotki are directly disputed by Solotki's own report for the RCMP the night of the incident, which stated Michalak was reluctant to answer questions despite his visible burns and possibly inebriated state."
+  },
+  {
+   "s": "solotki_report",
+   "p": "prepared_for",
+   "v": "RCMP",
+   "quote": "Michalak's claims about his interactions with G. A. Solotki are directly disputed by Solotki's own report for the RCMP the night of the incident, which stated Michalak was reluctant to answer questions despite his visible burns and possibly inebriated state."
+  },
+  {
+   "s": "solotki_report",
+   "p": "disputed",
+   "o": "michalak",
+   "quote": "Michalak's claims about his interactions with G. A. Solotki are directly disputed by Solotki's own report for the RCMP the night of the incident, which stated Michalak was reluctant to answer questions despite his visible burns and possibly inebriated state."
+  },
+  {
+   "s": "chisvin",
+   "p": "journalist",
+   "o": "case",
+   "quote": "Michalak contacted The Winnipeg Tribune and was interviewed at his home by reporter Heather Chisvin."
+  },
+  {
+   "s": "chisvin",
+   "p": "occupation",
+   "v": "reporter",
+   "quote": "Michalak contacted The Winnipeg Tribune and was interviewed at his home by reporter Heather Chisvin."
+  },
+  {
+   "s": "chisvin",
+   "p": "employed_by",
+   "o": "tribune",
+   "quote": "Michalak contacted The Winnipeg Tribune and was interviewed at his home by reporter Heather Chisvin."
+  },
+  {
+   "s": "chisvin",
+   "p": "interviewed",
+   "o": "michalak",
+   "quote": "Michalak contacted The Winnipeg Tribune and was interviewed at his home by reporter Heather Chisvin."
+  },
+  {
+   "s": "tribune",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Michalak contacted The Winnipeg Tribune and was interviewed at his home by reporter Heather Chisvin."
+  },
+  {
+   "s": "tribune",
+   "p": "published",
+   "o": "trib_article",
+   "quote": "The paper subsequently published his account under the title \"I was burned by UFO,\" along with a photo of Michalak posing with his drawing of the object he reportedly witnessed: a disc-shaped craft consistent with the classic \"flying saucer\"."
+  },
+  {
+   "s": "tribune",
+   "p": "report",
+   "v": "17 January 1968: reported Michalak's claim that the burns had returned",
+   "quote": "On 17 January 1968, The Winnipeg Tribune reported Michalak's claim that the burns had returned, noting he claimed they had previously returned once before."
+  },
+  {
+   "s": "trib_article",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The paper subsequently published his account under the title \"I was burned by UFO,\" along with a photo of Michalak posing with his drawing of the object he reportedly witnessed: a disc-shaped craft consistent with the classic \"flying saucer\"."
+  },
+  {
+   "s": "trib_article",
+   "p": "illustration",
+   "v": "photo of Michalak posing with his drawing of the object",
+   "quote": "The paper subsequently published his account under the title \"I was burned by UFO,\" along with a photo of Michalak posing with his drawing of the object he reportedly witnessed: a disc-shaped craft consistent with the classic \"flying saucer\"."
+  },
+  {
+   "s": "drawing",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The paper subsequently published his account under the title \"I was burned by UFO,\" along with a photo of Michalak posing with his drawing of the object he reportedly witnessed: a disc-shaped craft consistent with the classic \"flying saucer\"."
+  },
+  {
+   "s": "drawing",
+   "p": "depicts",
+   "v": "disc-shaped craft consistent with the classic flying saucer",
+   "quote": "The paper subsequently published his account under the title \"I was burned by UFO,\" along with a photo of Michalak posing with his drawing of the object he reportedly witnessed: a disc-shaped craft consistent with the classic \"flying saucer\"."
+  },
+  {
+   "s": "thompson",
+   "p": "investigator",
+   "o": "case",
+   "quote": "On 23 May, Michalak was visited by J. B. Thompson, a member of the UFO group APRO."
+  },
+  {
+   "s": "thompson",
+   "p": "member_of",
+   "o": "apro",
+   "quote": "On 23 May, Michalak was visited by J. B. Thompson, a member of the UFO group APRO."
+  },
+  {
+   "s": "thompson",
+   "p": "interviewed",
+   "o": "michalak",
+   "quote": "On 23 May, Michalak was visited by J. B. Thompson, a member of the UFO group APRO."
+  },
+  {
+   "s": "thompson",
+   "p": "authored",
+   "o": "thompson_photo",
+   "quote": "Thompson photographed Michalak's burns, which medical records described as \"several round and irregular shaped burns the size of a silver dollar.\""
+  },
+  {
+   "s": "thompson",
+   "p": "visit_date",
+   "v": "23 May",
+   "quote": "On 23 May, Michalak was visited by J. B. Thompson, a member of the UFO group APRO."
+  },
+  {
+   "s": "thompson",
+   "p": "received",
+   "v": "partially melted glove",
+   "quote": "A partially melted glove was given to J. B. Thompson."
+  },
+  {
+   "s": "thompson_photo",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Thompson photographed Michalak's burns, which medical records described as \"several round and irregular shaped burns the size of a silver dollar.\""
+  },
+  {
+   "s": "thompson_photo",
+   "p": "shows",
+   "v": "irregularly shaped, blotchy burns",
+   "quote": "While Michalak claimed the burns formed a grid caused by exhaust from evenly spaced holes in the craft, Thompson's photo shows irregularly shaped, blotchy burns."
+  },
+  {
+   "s": "thompson_photo",
+   "p": "date",
+   "v": "23 May 1967",
+   "quote": "On 23 May, a civilian UFO investigator photographed Michalak's torso, showing typical burns that were irregularly shaped and unevenly spaced."
+  },
+  {
+   "s": "apro",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The incident was investigated by various Canadian authorities, including the Royal Canadian Mounted Police (RCMP), the Royal Canadian Air Force (RCAF), the Department of Health, and the Department of National Defence, as well as American authorities such as the Aerial Phenomena Research Organization (APRO) and the United States Air Force (as a part of the Condon Committee)."
+  },
+  {
+   "s": "apro",
+   "p": "description",
+   "v": "UFO group",
+   "quote": "On 23 May, Michalak was visited by J. B. Thompson, a member of the UFO group APRO."
+  },
+  {
+   "s": "medrecords",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Thompson photographed Michalak's burns, which medical records described as \"several round and irregular shaped burns the size of a silver dollar.\""
+  },
+  {
+   "s": "medrecords",
+   "p": "content",
+   "v": "several round and irregular shaped burns the size of a silver dollar",
+   "quote": "Thompson photographed Michalak's burns, which medical records described as \"several round and irregular shaped burns the size of a silver dollar.\""
+  },
+  {
+   "s": "hart",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "On 26 June, Michalak contacted the RCAF to report that he and a partner, Gerald Hart, had located the landing site over the weekend."
+  },
+  {
+   "s": "hart",
+   "p": "colleague_of",
+   "o": "michalak",
+   "quote": "On 26 June, Michalak contacted the RCAF to report that he and a partner, Gerald Hart, had located the landing site over the weekend."
+  },
+  {
+   "s": "hart",
+   "p": "role",
+   "v": "partner with whom Michalak said he located the landing site",
+   "quote": "On 26 June, Michalak contacted the RCAF to report that he and a partner, Gerald Hart, had located the landing site over the weekend."
+  },
+  {
+   "s": "rcmp",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The incident was investigated by various Canadian authorities, including the Royal Canadian Mounted Police (RCMP), the Royal Canadian Air Force (RCAF), the Department of Health, and the Department of National Defence, as well as American authorities such as the Aerial Phenomena Research Organization (APRO) and the United States Air Force (as a part of the Condon Committee)."
+  },
+  {
+   "s": "rcaf",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The incident was investigated by various Canadian authorities, including the Royal Canadian Mounted Police (RCMP), the Royal Canadian Air Force (RCAF), the Department of Health, and the Department of National Defence, as well as American authorities such as the Aerial Phenomena Research Organization (APRO) and the United States Air Force (as a part of the Condon Committee)."
+  },
+  {
+   "s": "health",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The incident was investigated by various Canadian authorities, including the Royal Canadian Mounted Police (RCMP), the Royal Canadian Air Force (RCAF), the Department of Health, and the Department of National Defence, as well as American authorities such as the Aerial Phenomena Research Organization (APRO) and the United States Air Force (as a part of the Condon Committee)."
+  },
+  {
+   "s": "dnd",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The incident was investigated by various Canadian authorities, including the Royal Canadian Mounted Police (RCMP), the Royal Canadian Air Force (RCAF), the Department of Health, and the Department of National Defence, as well as American authorities such as the Aerial Phenomena Research Organization (APRO) and the United States Air Force (as a part of the Condon Committee)."
+  },
+  {
+   "s": "usaf",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The incident was investigated by various Canadian authorities, including the Royal Canadian Mounted Police (RCMP), the Royal Canadian Air Force (RCAF), the Department of Health, and the Department of National Defence, as well as American authorities such as the Aerial Phenomena Research Organization (APRO) and the United States Air Force (as a part of the Condon Committee)."
+  },
+  {
+   "s": "condon",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The incident was investigated by various Canadian authorities, including the Royal Canadian Mounted Police (RCMP), the Royal Canadian Air Force (RCAF), the Department of Health, and the Department of National Defence, as well as American authorities such as the Aerial Phenomena Research Organization (APRO) and the United States Air Force (as a part of the Condon Committee)."
+  },
+  {
+   "s": "usaf",
+   "p": "part_of",
+   "o": "condon",
+   "quote": "The incident was investigated by various Canadian authorities, including the Royal Canadian Mounted Police (RCMP), the Royal Canadian Air Force (RCAF), the Department of Health, and the Department of National Defence, as well as American authorities such as the Aerial Phenomena Research Organization (APRO) and the United States Air Force (as a part of the Condon Committee)."
+  },
+  {
+   "s": "rcmp",
+   "p": "interviewed",
+   "o": "michalak",
+   "quote": "That same day, two members of the RCMP interviewed Michalak at his home."
+  },
+  {
+   "s": "rcmp",
+   "p": "action",
+   "v": "25 May aerial and ground search with the RCAF",
+   "quote": "On 25 May, the RCMP and the RCAF conducted an aerial search followed by a ground search."
+  },
+  {
+   "s": "rcaf",
+   "p": "action",
+   "v": "25 May aerial and ground search with the RCMP",
+   "quote": "On 25 May, the RCMP and the RCAF conducted an aerial search followed by a ground search."
+  },
+  {
+   "s": "rcaf",
+   "p": "contact",
+   "v": "26 June: Michalak reported he and Gerald Hart had located the landing site",
+   "quote": "On 26 June, Michalak contacted the RCAF to report that he and a partner, Gerald Hart, had located the landing site over the weekend."
+  },
+  {
+   "s": "rcmp",
+   "p": "action",
+   "v": "interviewed employees of the Falcon Hotel on 26 May",
+   "quote": "On 26 May, police interviewed employees of the Falcon Hotel, who recalled that Michalak had consumed several beers the night before the incident, despite his denials of any alcohol use."
+  },
+  {
+   "s": "rcmp",
+   "p": "finding",
+   "v": "confirmed burnt vegetation at the reported landing site",
+   "quote": "In October, the press reported that Michalak had been interviewed by Professor Ray Craig of the Condon Committee at the University of Colorado, and that Michalak had led the RCMP to the reported landing site, where they confirmed the presence of burnt vegetation."
+  },
+  {
+   "s": "dnd",
+   "p": "press_report",
+   "v": "30 June: case being investigated by defence authorities",
+   "quote": "On 30 June, the press reported that Michalak's case was being investigated by defence authorities amid a surge of UFO reports in the area."
+  },
+  {
+   "s": "craig",
+   "p": "investigator",
+   "o": "case",
+   "quote": "In October, the press reported that Michalak had been interviewed by Professor Ray Craig of the Condon Committee at the University of Colorado, and that Michalak had led the RCMP to the reported landing site, where they confirmed the presence of burnt vegetation."
+  },
+  {
+   "s": "craig",
+   "p": "title",
+   "v": "Professor",
+   "quote": "In October, the press reported that Michalak had been interviewed by Professor Ray Craig of the Condon Committee at the University of Colorado, and that Michalak had led the RCMP to the reported landing site, where they confirmed the presence of burnt vegetation."
+  },
+  {
+   "s": "craig",
+   "p": "member_of",
+   "o": "condon",
+   "quote": "In October, the press reported that Michalak had been interviewed by Professor Ray Craig of the Condon Committee at the University of Colorado, and that Michalak had led the RCMP to the reported landing site, where they confirmed the presence of burnt vegetation."
+  },
+  {
+   "s": "craig",
+   "p": "interviewed",
+   "o": "michalak",
+   "quote": "In October, the press reported that Michalak had been interviewed by Professor Ray Craig of the Condon Committee at the University of Colorado, and that Michalak had led the RCMP to the reported landing site, where they confirmed the presence of burnt vegetation."
+  },
+  {
+   "s": "condon",
+   "p": "part_of",
+   "o": "ucolorado",
+   "quote": "In October, the press reported that Michalak had been interviewed by Professor Ray Craig of the Condon Committee at the University of Colorado, and that Michalak had led the RCMP to the reported landing site, where they confirmed the presence of burnt vegetation."
+  },
+  {
+   "s": "ucolorado",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In October, the press reported that Michalak had been interviewed by Professor Ray Craig of the Condon Committee at the University of Colorado, and that Michalak had led the RCMP to the reported landing site, where they confirmed the presence of burnt vegetation."
+  },
+  {
+   "s": "cadieux",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "On 6 November, Minister of National Defence Léo Cadieux stated that the government would not publicly release the official investigation report."
+  },
+  {
+   "s": "cadieux",
+   "p": "title",
+   "v": "Minister of National Defence",
+   "quote": "On 6 November, Minister of National Defence Léo Cadieux stated that the government would not publicly release the official investigation report."
+  },
+  {
+   "s": "cadieux",
+   "p": "statement",
+   "v": "6 November: the government would not publicly release the official investigation report",
+   "quote": "On 6 November, Minister of National Defence Léo Cadieux stated that the government would not publicly release the official investigation report."
+  },
+  {
+   "s": "official_report",
+   "p": "key_document",
+   "o": "case",
+   "quote": "On 6 November, Minister of National Defence Léo Cadieux stated that the government would not publicly release the official investigation report."
+  },
+  {
+   "s": "official_report",
+   "p": "status",
+   "v": "not publicly released",
+   "quote": "On 6 November, Minister of National Defence Léo Cadieux stated that the government would not publicly release the official investigation report."
+  },
+  {
+   "s": "cadieux",
+   "p": "member_of",
+   "o": "gov_canada",
+   "quote": "On 6 November, Minister of National Defence Léo Cadieux stated that the government would not publicly release the official investigation report."
+  },
+  {
+   "s": "gov_canada",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "By October, American UFO conspiracy theorists had accused the Canadian and American governments of covering up the incident."
+  },
+  {
+   "s": "gov_us",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "By October, American UFO conspiracy theorists had accused the Canadian and American governments of covering up the incident."
+  },
+  {
+   "s": "gov_canada",
+   "p": "accusation",
+   "v": "accused of covering up the incident",
+   "quote": "By October, American UFO conspiracy theorists had accused the Canadian and American governments of covering up the incident."
+  },
+  {
+   "s": "gov_us",
+   "p": "accusation",
+   "v": "accused of covering up the incident",
+   "quote": "By October, American UFO conspiracy theorists had accused the Canadian and American governments of covering up the incident."
+  },
+  {
+   "s": "nicap",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The incident was featured in the May/June bulletin of the National Investigations Committee on Aerial Phenomena (NICAP)."
+  },
+  {
+   "s": "nicap",
+   "p": "published",
+   "o": "nicap_bulletin",
+   "quote": "The incident was featured in the May/June bulletin of the National Investigations Committee on Aerial Phenomena (NICAP)."
+  },
+  {
+   "s": "nicap_bulletin",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The incident was featured in the May/June bulletin of the National Investigations Committee on Aerial Phenomena (NICAP)."
+  },
+  {
+   "s": "nicap_bulletin",
+   "p": "issue",
+   "v": "May/June",
+   "quote": "The incident was featured in the May/June bulletin of the National Investigations Committee on Aerial Phenomena (NICAP)."
+  },
+  {
+   "s": "pamphlet",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Late in the year, Michalak published his account in a 40-page pamphlet titled My encounter with the UFO, published in 1967 by Osnova Publications in Polish and retold by Paul Pihichyn, who had translated the account into English."
+  },
+  {
+   "s": "pamphlet",
+   "p": "length",
+   "v": "40 pages",
+   "quote": "Late in the year, Michalak published his account in a 40-page pamphlet titled My encounter with the UFO, published in 1967 by Osnova Publications in Polish and retold by Paul Pihichyn, who had translated the account into English."
+  },
+  {
+   "s": "pamphlet",
+   "p": "year",
+   "v": "1967",
+   "quote": "Late in the year, Michalak published his account in a 40-page pamphlet titled My encounter with the UFO, published in 1967 by Osnova Publications in Polish and retold by Paul Pihichyn, who had translated the account into English."
+  },
+  {
+   "s": "pamphlet",
+   "p": "language",
+   "v": "Polish; translated into English",
+   "quote": "Late in the year, Michalak published his account in a 40-page pamphlet titled My encounter with the UFO, published in 1967 by Osnova Publications in Polish and retold by Paul Pihichyn, who had translated the account into English."
+  },
+  {
+   "s": "pamphlet",
+   "p": "format",
+   "v": "booklet",
+   "quote": "Near the end of 1967, Michalak published his story in a booklet."
+  },
+  {
+   "s": "osnova",
+   "p": "published",
+   "o": "pamphlet",
+   "quote": "Late in the year, Michalak published his account in a 40-page pamphlet titled My encounter with the UFO, published in 1967 by Osnova Publications in Polish and retold by Paul Pihichyn, who had translated the account into English."
+  },
+  {
+   "s": "osnova",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Late in the year, Michalak published his account in a 40-page pamphlet titled My encounter with the UFO, published in 1967 by Osnova Publications in Polish and retold by Paul Pihichyn, who had translated the account into English."
+  },
+  {
+   "s": "pihichyn",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Late in the year, Michalak published his account in a 40-page pamphlet titled My encounter with the UFO, published in 1967 by Osnova Publications in Polish and retold by Paul Pihichyn, who had translated the account into English."
+  },
+  {
+   "s": "pihichyn",
+   "p": "authored",
+   "o": "pamphlet",
+   "quote": "Late in the year, Michalak published his account in a 40-page pamphlet titled My encounter with the UFO, published in 1967 by Osnova Publications in Polish and retold by Paul Pihichyn, who had translated the account into English."
+  },
+  {
+   "s": "pihichyn",
+   "p": "role",
+   "v": "retold the account and translated it into English",
+   "quote": "Late in the year, Michalak published his account in a 40-page pamphlet titled My encounter with the UFO, published in 1967 by Osnova Publications in Polish and retold by Paul Pihichyn, who had translated the account into English."
+  },
+  {
+   "s": "grid_photos",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Michalak was photographed showing a grid of uniform, evenly spaced marks, which were significantly different from the unevenly shaped burns described in medical records and depicted in the Thompson photo eight months prior."
+  },
+  {
+   "s": "grid_photos",
+   "p": "shows",
+   "v": "grid of uniform, evenly spaced marks, significantly different from the earlier unevenly shaped burns",
+   "quote": "Michalak was photographed showing a grid of uniform, evenly spaced marks, which were significantly different from the unevenly shaped burns described in medical records and depicted in the Thompson photo eight months prior."
+  },
+  {
+   "s": "grid_photos",
+   "p": "interval",
+   "v": "eight months after the Thompson photo",
+   "quote": "Michalak was photographed showing a grid of uniform, evenly spaced marks, which were significantly different from the unevenly shaped burns described in medical records and depicted in the Thompson photo eight months prior."
+  },
+  {
+   "s": "grid_photos",
+   "p": "description",
+   "v": "grid-like pattern bore little resemblance to the earlier burns",
+   "quote": "In 1968, Michalak told press his burns had returned and they photographed a grid-like pattern of marks on his abdomen that bore little resemblance to his earlier burns."
+  },
+  {
+   "s": "mayo",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On 6 August 1968, a psychiatrist at the Mayo Clinic in Minnesota examined Michalak."
+  },
+  {
+   "s": "mayo",
+   "p": "examination",
+   "v": "psychiatrist examined Michalak on 6 August 1968",
+   "quote": "On 6 August 1968, a psychiatrist at the Mayo Clinic in Minnesota examined Michalak."
+  },
+  {
+   "s": "mayo_report",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In the resulting report, the physician observed, \"Despite the fact that his lesions have been diagnosed as obviously factitial, I can find no overt evidence of significant mental or emotional illness.\""
+  },
+  {
+   "s": "mayo_report",
+   "p": "content",
+   "v": "lesions diagnosed as obviously factitial; no overt evidence of significant mental or emotional illness",
+   "quote": "In the resulting report, the physician observed, \"Despite the fact that his lesions have been diagnosed as obviously factitial, I can find no overt evidence of significant mental or emotional illness.\""
+  },
+  {
+   "s": "mayo",
+   "p": "authored",
+   "o": "mayo_report",
+   "quote": "A Mayo Clinic psychiatrist who examined Michalak reported that his lesions were diagnosed as \"obviously factitial,\" though they did not find overt evidence of significant mental illness."
+  },
+  {
+   "s": "misericordia",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Returning home to Winnipeg on a Greyhound bus, Michalak was treated that night for first-degree burns as an outpatient at the Misericordia Health Centre."
+  },
+  {
+   "s": "misericordia",
+   "p": "treatment",
+   "v": "treated Michalak as an outpatient for first-degree burns",
+   "quote": "Returning home to Winnipeg on a Greyhound bus, Michalak was treated that night for first-degree burns as an outpatient at the Misericordia Health Centre."
+  },
+  {
+   "s": "greyhound",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Returning home to Winnipeg on a Greyhound bus, Michalak was treated that night for first-degree burns as an outpatient at the Misericordia Health Centre."
+  },
+  {
+   "s": "cbc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "CBC News has called it \"Canada's best-documented UFO case\"."
+  },
+  {
+   "s": "cbc",
+   "p": "statement",
+   "v": "Canada's best-documented UFO case",
+   "quote": "CBC News has called it \"Canada's best-documented UFO case\"."
+  },
+  {
+   "s": "millman",
+   "p": "investigator",
+   "o": "case",
+   "quote": "The material was analyzed by professional astronomer and UFO researcher Peter Millman, who found it to be 95% silver but very slightly radioactive, on a level likened to a glow-in-the-dark wristwatch."
+  },
+  {
+   "s": "millman",
+   "p": "occupation",
+   "v": "professional astronomer and UFO researcher",
+   "quote": "The material was analyzed by professional astronomer and UFO researcher Peter Millman, who found it to be 95% silver but very slightly radioactive, on a level likened to a glow-in-the-dark wristwatch."
+  },
+  {
+   "s": "millman",
+   "p": "finding",
+   "v": "metal was 95% silver but very slightly radioactive",
+   "quote": "The material was analyzed by professional astronomer and UFO researcher Peter Millman, who found it to be 95% silver but very slightly radioactive, on a level likened to a glow-in-the-dark wristwatch."
+  },
+  {
+   "s": "millman",
+   "p": "statement",
+   "v": "metal had been dipped in pitchblende to create a hoaxed artifact",
+   "quote": "Millman suggested the metal had been dipped in pitchblende to create a hoaxed artifact."
+  },
+  {
+   "s": "millman",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "Millman suggested the metal had been dipped in pitchblende to create a hoaxed artifact."
+  },
+  {
+   "s": "millman",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Millman suggested the metal had been dipped in pitchblende to create a hoaxed artifact."
+  },
+  {
+   "s": "alexander",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "John B. Alexander, writing in the Journal for Scientific Exploration, states that some of Michalak's long-lasting effects, including the skin lesions, which he claimed were due to exposure to the exhaust blast, were a result of an allergic reaction."
+  },
+  {
+   "s": "alexander",
+   "p": "proposed",
+   "o": "x_allergy",
+   "quote": "John B. Alexander, writing in the Journal for Scientific Exploration, states that some of Michalak's long-lasting effects, including the skin lesions, which he claimed were due to exposure to the exhaust blast, were a result of an allergic reaction."
+  },
+  {
+   "s": "alexander",
+   "p": "statement",
+   "v": "highlighted inconsistencies in Michalak's testimony",
+   "quote": "Alexander highlighted the inconsistencies within Michalak's testimony regarding the event."
+  },
+  {
+   "s": "jse",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "John B. Alexander, writing in the Journal for Scientific Exploration, states that some of Michalak's long-lasting effects, including the skin lesions, which he claimed were due to exposure to the exhaust blast, were a result of an allergic reaction."
+  },
+  {
+   "s": "alexander",
+   "p": "published_in",
+   "v": "Journal for Scientific Exploration",
+   "quote": "John B. Alexander, writing in the Journal for Scientific Exploration, states that some of Michalak's long-lasting effects, including the skin lesions, which he claimed were due to exposure to the exhaust blast, were a result of an allergic reaction."
+  },
+  {
+   "s": "sakulich",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Aaron Sakulich, writing for the Iron Skeptic, agrees with the alcohol-use explanation."
+  },
+  {
+   "s": "sakulich",
+   "p": "proposed",
+   "o": "x_alcohol",
+   "quote": "Aaron Sakulich, writing for the Iron Skeptic, agrees with the alcohol-use explanation."
+  },
+  {
+   "s": "sakulich",
+   "p": "statement",
+   "v": "inconsistencies in Michalak's testimony about Solotki and the drinks he had before the incident were of note",
+   "quote": "Michalak's inconsistencies in his testimony when discussing his interactions with highway patrol officer G. A. Solotki, as well as the nature of the drinks Michalak had prior to the incident, were of note."
+  },
+  {
+   "s": "sakulich",
+   "p": "statement",
+   "v": "by claiming a UFO attack Michalak could deflect attention from prospecting competition on his staked claim",
+   "quote": "By claiming he was the victim of a UFO-related attack, Michalak could deflect attention away from prospecting competition on a site where he had already staked a claim."
+  },
+  {
+   "s": "ironskeptic",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Aaron Sakulich, writing for the Iron Skeptic, agrees with the alcohol-use explanation."
+  },
+  {
+   "s": "sakulich",
+   "p": "published_in",
+   "v": "Iron Skeptic",
+   "quote": "Aaron Sakulich, writing for the Iron Skeptic, agrees with the alcohol-use explanation."
+  },
+  {
+   "s": "unsolved",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The incident was featured in Unsolved Mysteries (Season 5, Episode 8), where Michalak was interviewed about his account of the events alongside dramatic reenactments."
+  },
+  {
+   "s": "unsolved",
+   "p": "episode",
+   "v": "Season 5, Episode 8",
+   "quote": "The incident was featured in Unsolved Mysteries (Season 5, Episode 8), where Michalak was interviewed about his account of the events alongside dramatic reenactments."
+  },
+  {
+   "s": "unsolved",
+   "p": "content",
+   "v": "Michalak interviewed alongside dramatic reenactments",
+   "quote": "The incident was featured in Unsolved Mysteries (Season 5, Episode 8), where Michalak was interviewed about his account of the events alongside dramatic reenactments."
+  },
+  {
+   "s": "unsolved",
+   "p": "interviewed",
+   "o": "michalak",
+   "quote": "The incident was featured in Unsolved Mysteries (Season 5, Episode 8), where Michalak was interviewed about his account of the events alongside dramatic reenactments."
+  },
+  {
+   "s": "album",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2010, singer-songwriter Jim Bryson and The Weakerthans released the album The Falcon Lake Incident, which was named after the event and recorded in a cottage at Falcon Lake."
+  },
+  {
+   "s": "album",
+   "p": "year",
+   "v": "2010",
+   "quote": "In 2010, singer-songwriter Jim Bryson and The Weakerthans released the album The Falcon Lake Incident, which was named after the event and recorded in a cottage at Falcon Lake."
+  },
+  {
+   "s": "album",
+   "p": "recorded_at",
+   "v": "a cottage at Falcon Lake",
+   "quote": "In 2010, singer-songwriter Jim Bryson and The Weakerthans released the album The Falcon Lake Incident, which was named after the event and recorded in a cottage at Falcon Lake."
+  },
+  {
+   "s": "bryson",
+   "p": "authored",
+   "o": "album",
+   "quote": "In 2010, singer-songwriter Jim Bryson and The Weakerthans released the album The Falcon Lake Incident, which was named after the event and recorded in a cottage at Falcon Lake."
+  },
+  {
+   "s": "weakerthans",
+   "p": "authored",
+   "o": "album",
+   "quote": "In 2010, singer-songwriter Jim Bryson and The Weakerthans released the album The Falcon Lake Incident, which was named after the event and recorded in a cottage at Falcon Lake."
+  },
+  {
+   "s": "bryson",
+   "p": "commentator",
+   "o": "case",
+   "quote": "In 2010, singer-songwriter Jim Bryson and The Weakerthans released the album The Falcon Lake Incident, which was named after the event and recorded in a cottage at Falcon Lake."
+  },
+  {
+   "s": "bryson",
+   "p": "occupation",
+   "v": "singer-songwriter",
+   "quote": "In 2010, singer-songwriter Jim Bryson and The Weakerthans released the album The Falcon Lake Incident, which was named after the event and recorded in a cottage at Falcon Lake."
+  },
+  {
+   "s": "weakerthans",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 2010, singer-songwriter Jim Bryson and The Weakerthans released the album The Falcon Lake Incident, which was named after the event and recorded in a cottage at Falcon Lake."
+  },
+  {
+   "s": "samson",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Speaking with the National Post, John K. Samson stated that he \"[did not] believe in extraterrestrials\" but \"certainly believes in people's encounters.\""
+  },
+  {
+   "s": "samson",
+   "p": "statement",
+   "v": "did not believe in extraterrestrials but certainly believes in people's encounters",
+   "quote": "Speaking with the National Post, John K. Samson stated that he \"[did not] believe in extraterrestrials\" but \"certainly believes in people's encounters.\""
+  },
+  {
+   "s": "natpost",
+   "p": "interviewed",
+   "o": "samson",
+   "quote": "Speaking with the National Post, John K. Samson stated that he \"[did not] believe in extraterrestrials\" but \"certainly believes in people's encounters.\""
+  },
+  {
+   "s": "natpost",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Speaking with the National Post, John K. Samson stated that he \"[did not] believe in extraterrestrials\" but \"certainly believes in people's encounters.\""
+  },
+  {
+   "s": "film",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The 2013 film Rulers of Darkness was inspired by the events."
+  },
+  {
+   "s": "film",
+   "p": "year",
+   "v": "2013",
+   "quote": "The 2013 film Rulers of Darkness was inspired by the events."
+  },
+  {
+   "s": "film",
+   "p": "plot",
+   "v": "protagonist's mother is killed by burns from a UFO at Falcon Lake",
+   "quote": "In the film, the protagonist's mother is killed by burns from a UFO at Falcon Lake, mirroring Michalak's claims."
+  },
+  {
+   "s": "book_wta",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Fifty years after the incident, Michalak's son, Stan Michalak, and ufologist Chris Rutkowski published When They Appeared—Falcon Lake 1967: The Inside Story of a Close Encounter, which compiled the case according to eyewitness testimony."
+  },
+  {
+   "s": "book_wta",
+   "p": "published",
+   "v": "fifty years after the incident",
+   "quote": "Fifty years after the incident, Michalak's son, Stan Michalak, and ufologist Chris Rutkowski published When They Appeared—Falcon Lake 1967: The Inside Story of a Close Encounter, which compiled the case according to eyewitness testimony."
+  },
+  {
+   "s": "rutkowski",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Fifty years after the incident, Michalak's son, Stan Michalak, and ufologist Chris Rutkowski published When They Appeared—Falcon Lake 1967: The Inside Story of a Close Encounter, which compiled the case according to eyewitness testimony."
+  },
+  {
+   "s": "rutkowski",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "Fifty years after the incident, Michalak's son, Stan Michalak, and ufologist Chris Rutkowski published When They Appeared—Falcon Lake 1967: The Inside Story of a Close Encounter, which compiled the case according to eyewitness testimony."
+  },
+  {
+   "s": "rutkowski",
+   "p": "authored",
+   "o": "book_wta",
+   "quote": "Fifty years after the incident, Michalak's son, Stan Michalak, and ufologist Chris Rutkowski published When They Appeared—Falcon Lake 1967: The Inside Story of a Close Encounter, which compiled the case according to eyewitness testimony."
+  },
+  {
+   "s": "rutkowski",
+   "p": "colleague_of",
+   "o": "stan",
+   "quote": "Fifty years after the incident, Michalak's son, Stan Michalak, and ufologist Chris Rutkowski published When They Appeared—Falcon Lake 1967: The Inside Story of a Close Encounter, which compiled the case according to eyewitness testimony."
+  },
+  {
+   "s": "dudding",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Other books on the subject include George Dudding's The Falcon Lake UFO Encounter."
+  },
+  {
+   "s": "dudding",
+   "p": "authored",
+   "o": "book_dudding",
+   "quote": "Other books on the subject include George Dudding's The Falcon Lake UFO Encounter."
+  },
+  {
+   "s": "book_dudding",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Other books on the subject include George Dudding's The Falcon Lake UFO Encounter."
+  },
+  {
+   "s": "coin",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2018, the Royal Canadian Mint commemorated the 50th anniversary by issuing a $20 non-circulating silver coin as part of its Canada's Unexplained Phenomena series."
+  },
+  {
+   "s": "mint",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 2018, the Royal Canadian Mint commemorated the 50th anniversary by issuing a $20 non-circulating silver coin as part of its Canada's Unexplained Phenomena series."
+  },
+  {
+   "s": "mint",
+   "p": "published",
+   "o": "coin",
+   "quote": "In 2018, the Royal Canadian Mint commemorated the 50th anniversary by issuing a $20 non-circulating silver coin as part of its Canada's Unexplained Phenomena series."
+  },
+  {
+   "s": "coin",
+   "p": "part_of",
+   "o": "coin_series",
+   "quote": "In 2018, the Royal Canadian Mint commemorated the 50th anniversary by issuing a $20 non-circulating silver coin as part of its Canada's Unexplained Phenomena series."
+  },
+  {
+   "s": "coin_series",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2018, the Royal Canadian Mint commemorated the 50th anniversary by issuing a $20 non-circulating silver coin as part of its Canada's Unexplained Phenomena series."
+  },
+  {
+   "s": "mint",
+   "p": "published",
+   "o": "coin_series",
+   "quote": "In 2018, the Royal Canadian Mint commemorated the 50th anniversary by issuing a $20 non-circulating silver coin as part of its Canada's Unexplained Phenomena series."
+  },
+  {
+   "s": "coin",
+   "p": "year",
+   "v": "2018",
+   "quote": "In 2018, the Royal Canadian Mint commemorated the 50th anniversary by issuing a $20 non-circulating silver coin as part of its Canada's Unexplained Phenomena series."
+  },
+  {
+   "s": "coin",
+   "p": "denomination",
+   "v": "$20",
+   "quote": "In 2018, the Royal Canadian Mint commemorated the 50th anniversary by issuing a $20 non-circulating silver coin as part of its Canada's Unexplained Phenomena series."
+  },
+  {
+   "s": "coin",
+   "p": "material",
+   "v": "silver, non-circulating",
+   "quote": "In 2018, the Royal Canadian Mint commemorated the 50th anniversary by issuing a $20 non-circulating silver coin as part of its Canada's Unexplained Phenomena series."
+  },
+  {
+   "s": "coin",
+   "p": "feature",
+   "v": "glow-in-the-dark elements; the first coin to have this trait",
+   "quote": "Illustrated by Joel Kimmel, the coin features glow-in-the-dark elements, the first coin to have this trait, with beams emanating from the craft's underside."
+  },
+  {
+   "s": "coin",
+   "p": "design",
+   "v": "back shows Michalak falling from an exhaust blast while a UFO hovers above him",
+   "quote": "The front side depicts Queen Elizabeth II, while the back shows Michalak falling from an exhaust blast in the Manitoba wilderness while a UFO hovers above him."
+  },
+  {
+   "s": "coin",
+   "p": "mintage",
+   "v": "4,000",
+   "quote": "Only 4,000 coins were made, initially retailing for $129.95."
+  },
+  {
+   "s": "coin",
+   "p": "retail_price",
+   "v": "$129.95",
+   "quote": "Only 4,000 coins were made, initially retailing for $129.95."
+  },
+  {
+   "s": "kimmel",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Illustrated by Joel Kimmel, the coin features glow-in-the-dark elements, the first coin to have this trait, with beams emanating from the craft's underside."
+  },
+  {
+   "s": "kimmel",
+   "p": "authored",
+   "o": "coin",
+   "quote": "Illustrated by Joel Kimmel, the coin features glow-in-the-dark elements, the first coin to have this trait, with beams emanating from the craft's underside."
+  },
+  {
+   "s": "kimmel",
+   "p": "role",
+   "v": "illustrated the coin",
+   "quote": "Illustrated by Joel Kimmel, the coin features glow-in-the-dark elements, the first coin to have this trait, with beams emanating from the craft's underside."
+  },
+  {
+   "s": "elizabeth",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "The front side depicts Queen Elizabeth II, while the back shows Michalak falling from an exhaust blast in the Manitoba wilderness while a UFO hovers above him."
+  },
+  {
+   "s": "elizabeth",
+   "p": "title",
+   "v": "Queen",
+   "quote": "The front side depicts Queen Elizabeth II, while the back shows Michalak falling from an exhaust blast in the Manitoba wilderness while a UFO hovers above him."
+  },
+  {
+   "s": "elizabeth",
+   "p": "role",
+   "v": "depicted on the front side of the commemorative coin",
+   "quote": "The front side depicts Queen Elizabeth II, while the back shows Michalak falling from an exhaust blast in the Manitoba wilderness while a UFO hovers above him."
+  },
+  {
+   "s": "umarchives",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Documents and burned articles of clothing pertaining to the incident were donated to the University of Manitoba Archives in 2019."
+  },
+  {
+   "s": "umarchives",
+   "p": "holdings",
+   "v": "documents and burned articles of clothing donated in 2019",
+   "quote": "Documents and burned articles of clothing pertaining to the incident were donated to the University of Manitoba Archives in 2019."
+  },
+  {
+   "s": "craft",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "According to Michalak, one of the objects landed; he described it as 35 feet (11 m) long and metallic."
+  },
+  {
+   "s": "craft",
+   "p": "count",
+   "v": "two",
+   "quote": "According to a police report from just days later, Michalak, a 50-year-old mechanic, reported seeing \"two spaceships\" that glowed red and rotated."
+  },
+  {
+   "s": "craft",
+   "p": "color",
+   "v": "glowed red",
+   "quote": "According to a police report from just days later, Michalak, a 50-year-old mechanic, reported seeing \"two spaceships\" that glowed red and rotated."
+  },
+  {
+   "s": "craft",
+   "p": "motion",
+   "v": "rotated",
+   "quote": "According to a police report from just days later, Michalak, a 50-year-old mechanic, reported seeing \"two spaceships\" that glowed red and rotated."
+  },
+  {
+   "s": "craft",
+   "p": "shape",
+   "v": "disc-shaped (classic flying saucer)",
+   "quote": "The paper subsequently published his account under the title \"I was burned by UFO,\" along with a photo of Michalak posing with his drawing of the object he reportedly witnessed: a disc-shaped craft consistent with the classic \"flying saucer\"."
+  },
+  {
+   "s": "craft",
+   "p": "size",
+   "v": "35 feet (11 m) long",
+   "quote": "According to Michalak, one of the objects landed; he described it as 35 feet (11 m) long and metallic."
+  },
+  {
+   "s": "craft",
+   "p": "surface",
+   "v": "metallic",
+   "quote": "According to Michalak, one of the objects landed; he described it as 35 feet (11 m) long and metallic."
+  },
+  {
+   "s": "craft",
+   "p": "behavior",
+   "v": "one of the objects landed",
+   "quote": "According to Michalak, one of the objects landed; he described it as 35 feet (11 m) long and metallic."
+  },
+  {
+   "s": "craft",
+   "p": "door",
+   "v": "a door opened, emitting bright violet light",
+   "quote": "He stated that a door had opened, emitting bright violet light, air-hissing sounds, and voices that were \"definitely human.\""
+  },
+  {
+   "s": "craft",
+   "p": "light_color",
+   "v": "bright violet",
+   "quote": "He stated that a door had opened, emitting bright violet light, air-hissing sounds, and voices that were \"definitely human.\""
+  },
+  {
+   "s": "craft",
+   "p": "sound",
+   "v": "air-hissing sounds and voices that were definitely human",
+   "quote": "He stated that a door had opened, emitting bright violet light, air-hissing sounds, and voices that were \"definitely human.\""
+  },
+  {
+   "s": "craft",
+   "p": "exhaust",
+   "v": "evenly spaced holes said to have burned a grid on Michalak",
+   "quote": "While Michalak claimed the burns formed a grid caused by exhaust from evenly spaced holes in the craft, Thompson's photo shows irregularly shaped, blotchy burns."
+  },
+  {
+   "s": "craft",
+   "p": "trace",
+   "v": "circular indentation where grass and leaves had been removed, presumed caused by heat",
+   "quote": "He claimed the craft had left behind a circular indentation where grass and leaves had been removed, which he presumed was caused by the craft's heat."
+  },
+  {
+   "s": "craft",
+   "p": "origin_claim",
+   "v": "man-made",
+   "quote": "Unlike typical UFO reports, the lone witness, Steve Michalak, claimed to hear human voices, said the craft was man-made, and claimed burns on his abdomen were caused by its exhaust."
+  },
+  {
+   "s": "craft",
+   "p": "departure",
+   "v": "took off, reportedly burning Michalak",
+   "quote": "He was reportedly burned in a \"checkerboard pattern\" when the craft took off; the press quoted his family doctor as having examined the burns."
+  },
+  {
+   "s": "zamora",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Lonnie Zamora incident: a police officer reported two humans operating an egg-shaped craft."
+  },
+  {
+   "s": "zamora",
+   "p": "summary",
+   "v": "a police officer reported two humans operating an egg-shaped craft",
+   "quote": "Lonnie Zamora incident: a police officer reported two humans operating an egg-shaped craft."
+  },
+  {
+   "s": "cashlandrum",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Cash–Landrum incident: a family alleged they saw a USAF craft that caused adverse health effects."
+  },
+  {
+   "s": "cashlandrum",
+   "p": "summary",
+   "v": "a family alleged they saw a USAF craft that caused adverse health effects",
+   "quote": "Cash–Landrum incident: a family alleged they saw a USAF craft that caused adverse health effects."
+  },
+  {
+   "s": "f_disc",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The paper subsequently published his account under the title \"I was burned by UFO,\" along with a photo of Michalak posing with his drawing of the object he reportedly witnessed: a disc-shaped craft consistent with the classic \"flying saucer\"."
+  },
+  {
+   "s": "f_physio",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Michalak also reported headaches, vomiting, rapid weight loss, and emitting a \"foul smell\" after his encounter."
+  },
+  {
+   "s": "f_landing",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to Michalak, one of the objects landed; he described it as 35 feet (11 m) long and metallic."
+  },
+  {
+   "s": "f_traces",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "He claimed the craft had left behind a circular indentation where grass and leaves had been removed, which he presumed was caused by the craft's heat."
+  },
+  {
+   "s": "f_rad",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The sample provided by Michalak was tested and found to be \"highly radioactive.\""
+  },
+  {
+   "s": "f_debris",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "By November 1968, newspapers reported on a piece of metal that Michalak said he had found near the supposed landing site."
+  },
+  {
+   "s": "f_sound",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "He stated that a door had opened, emitting bright violet light, air-hissing sounds, and voices that were \"definitely human.\""
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The incident was investigated by various Canadian authorities, including the Royal Canadian Mounted Police (RCMP), the Royal Canadian Air Force (RCAF), the Department of Health, and the Department of National Defence, as well as American authorities such as the Aerial Phenomena Research Organization (APRO) and the United States Air Force (as a part of the Condon Committee)."
+  },
+  {
+   "s": "f_cover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "By 14 November 1968, Michalak was himself accusing the government of a coverup to avoid a national panic."
+  },
+  {
+   "s": "f_hoax",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The pieces of melted, radioactive metal were purported by skeptics of the case to have been planted after the incident to solidify the hoax."
+  },
+  {
+   "s": "f_voices",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "He stated that a door had opened, emitting bright violet light, air-hissing sounds, and voices that were \"definitely human.\""
+  },
+  {
+   "s": "f_manmade",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Initially telling police he was burned by a spaceship, Michalak later told the press it was a man-made aircraft, prompting investigations by law enforcement and the military."
+  },
+  {
+   "s": "x_hoax",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Millman suggested the metal had been dipped in pitchblende to create a hoaxed artifact."
+  },
+  {
+   "s": "x_alcohol",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Skeptics of the Falcon Lake UFO Incident state that Michalak's burns were a result of an accident stemming from alcohol use, and that his claim was made to hide their true cause."
+  },
+  {
+   "s": "x_allergy",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "John B. Alexander, writing in the Journal for Scientific Exploration, states that some of Michalak's long-lasting effects, including the skin lesions, which he claimed were due to exposure to the exhaust blast, were a result of an allergic reaction."
+  },
+  {
+   "s": "x_radium",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Chemists suggested the radiation may have resulted from contamination by commercially available radium-based luminescent paint."
+  },
+  {
+   "s": "x_radium",
+   "p": "proposed_by",
+   "v": "chemists",
+   "quote": "When some of those objects tested positive for low-level radioactivity, chemists suggested the objects might have been contaminated with substances like radium-based paint, which was accessible at the time."
+  },
+  {
+   "s": "x_selfinflicted",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "A psychiatrist concluded the new wounds were likely self-inflicted."
+  },
+  {
+   "s": "x_selfinflicted",
+   "p": "proposed_by",
+   "v": "a Mayo Clinic psychiatrist",
+   "quote": "A Mayo Clinic psychiatrist who examined Michalak reported that his lesions were diagnosed as \"obviously factitial,\" though they did not find overt evidence of significant mental illness."
+  }
+ ]
+}

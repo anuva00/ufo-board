@@ -1,0 +1,2414 @@
+{
+ "slug": "1976-tehran-ufo-incident",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "1976 Tehran UFO incident",
+   "aliases": [
+    "Tehran UFO incident",
+    "Tehran 1976 UFO case",
+    "The Tehran 1976 UFO",
+    "Iran UFO incident",
+    "Iran F-4 Incident"
+   ],
+   "description": "19 September 1976 radar and visual sighting of an unidentified object over Tehran, Iran, during which two Imperial Iranian Air Force F-4 interceptors reported instrument and communications failures."
+  },
+  {
+   "key": "pirouzi",
+   "type": "person",
+   "name": "Hossein Pirouzi",
+   "aliases": [
+    "Pirouzi"
+   ],
+   "description": "Air traffic controller at the Mehrabad Airport Control Tower who received the civilian reports and saw the object"
+  },
+  {
+   "key": "youssefi",
+   "type": "person",
+   "name": "Youssefi",
+   "aliases": [
+    "General Youssefi"
+   ],
+   "description": "Imperial Iranian Air Force general (surname only in the source) who observed the object from his balcony and authorized the interception"
+  },
+  {
+   "key": "nazeri",
+   "type": "person",
+   "name": "Yaddi Nazeri",
+   "aliases": [
+    "Yadollah Nazeri",
+    "Lieutenant Yaddi Nazeri",
+    "Nazeri"
+   ],
+   "description": "Lieutenant who flew the first F-4 Phantom II sent to investigate"
+  },
+  {
+   "key": "jafari",
+   "type": "person",
+   "name": "Parviz Jafari",
+   "aliases": [
+    "Major Parviz Jafari",
+    "Retired General Parviz Jafari",
+    "Jafari"
+   ],
+   "description": "IIAF squadron commander, pilot of the second F-4 Phantom II; later a retired general"
+  },
+  {
+   "key": "damirian",
+   "type": "person",
+   "name": "Jalal Damirian",
+   "aliases": [
+    "First Lieutenant Jalal Damirian",
+    "Damirian"
+   ],
+   "description": "Weapons officer in the second F-4 Phantom II"
+  },
+  {
+   "key": "azarbarzin",
+   "type": "person",
+   "name": "Shapour Azarbarzin",
+   "aliases": [
+    "Lt. Gen. Shapour Azarbarzin",
+    "Azarbarzin"
+   ],
+   "description": "Former Iranian Air Force commander who interviewed the crew"
+  },
+  {
+   "key": "bridgstock",
+   "type": "person",
+   "name": "Martin Bridgstock",
+   "aliases": [
+    "Bridgstock"
+   ],
+   "description": "Griffith University commentator who summarised the incident and Klass's conclusions"
+  },
+  {
+   "key": "klass",
+   "type": "person",
+   "name": "Philip J. Klass",
+   "aliases": [
+    "Klass"
+   ],
+   "description": "U.S. journalist who offered conventional explanations for the incident"
+  },
+  {
+   "key": "oberg",
+   "type": "person",
+   "name": "James Oberg",
+   "description": "Aerospace researcher who also cited the Jupiter explanation"
+  },
+  {
+   "key": "dunning",
+   "type": "person",
+   "name": "Brian Dunning",
+   "aliases": [
+    "Dunning"
+   ],
+   "description": "American sceptic author who analysed the incident"
+  },
+  {
+   "key": "mooy",
+   "type": "person",
+   "name": "Mooy",
+   "aliases": [
+    "Col. Mooy"
+   ],
+   "description": "Investigating colonel (surname only in the source) who wrote a memo on the incident"
+  },
+  {
+   "key": "haines",
+   "type": "person",
+   "name": "Richard Haines",
+   "description": "Retired NASA scientist and ufologist heading the National Aviation Reporting Center on Anomalous Phenomena"
+  },
+  {
+   "key": "iiaf",
+   "type": "organization",
+   "name": "Imperial Iranian Air Force",
+   "aliases": [
+    "IIAF",
+    "Iranian Air Force",
+    "Iranian airforce"
+   ],
+   "description": "Air force of Iran whose F-4 interceptors pursued the object"
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "aliases": [
+    "US Air Force",
+    "the Air Force (CSAF)",
+    "CSAF"
+   ],
+   "description": "Received a report of the incident"
+  },
+  {
+   "key": "jcs",
+   "type": "organization",
+   "name": "U.S. Joint Chiefs of Staff",
+   "aliases": [
+    "Joint Chiefs of Staff"
+   ],
+   "description": "Received the initial report on the day of the incident"
+  },
+  {
+   "key": "state",
+   "type": "organization",
+   "name": "United States Secretary of State",
+   "aliases": [
+    "Secretary of State"
+   ],
+   "description": "Office listed as a recipient of the report"
+  },
+  {
+   "key": "cia",
+   "type": "organization",
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "description": "Agency listed as a recipient of the report"
+  },
+  {
+   "key": "whitehouse",
+   "type": "organization",
+   "name": "White House",
+   "description": "Listed as a recipient of the report"
+  },
+  {
+   "key": "army",
+   "type": "organization",
+   "name": "United States Army",
+   "aliases": [
+    "Army Chiefs of Staff",
+    "CSA"
+   ],
+   "description": "Its Chiefs of Staff were listed as a recipient of the report"
+  },
+  {
+   "key": "cno",
+   "type": "organization",
+   "name": "Chief of Naval Operations",
+   "aliases": [
+    "CNO"
+   ],
+   "description": "Office listed as a recipient of the report"
+  },
+  {
+   "key": "dia",
+   "type": "organization",
+   "name": "Defense Intelligence Agency",
+   "aliases": [
+    "DIA",
+    "Defence Intelligence Agency"
+   ],
+   "description": "Agency that received the report and produced a document describing the incident as outstanding"
+  },
+  {
+   "key": "navme",
+   "type": "organization",
+   "name": "Commander in Chief of U.S. Naval Forces in the Middle East",
+   "aliases": [
+    "U.S. Naval Forces in the Middle East"
+   ],
+   "description": "Command listed as a recipient of the report"
+  },
+  {
+   "key": "usafe",
+   "type": "organization",
+   "name": "Commander in Chief of the U.S. Air Force in Europe",
+   "aliases": [
+    "U.S. Air Force in Europe"
+   ],
+   "description": "Command listed as a recipient of the report"
+  },
+  {
+   "key": "edac",
+   "type": "organization",
+   "name": "European Defense Air Command",
+   "description": "Command listed as a recipient of the report"
+  },
+  {
+   "key": "cincfe",
+   "type": "organization",
+   "name": "Commander in Chief of Forces in Europe",
+   "description": "Command listed as a recipient of the report"
+  },
+  {
+   "key": "griffith",
+   "type": "organization",
+   "name": "Griffith University",
+   "description": "University with which Martin Bridgstock is affiliated"
+  },
+  {
+   "key": "westinghouse",
+   "type": "organization",
+   "name": "Westinghouse",
+   "description": "Company whose technician at Shahrokhi Airbase commented on the first F-4's equipment failures"
+  },
+  {
+   "key": "mcdonnell",
+   "type": "organization",
+   "name": "McDonnell Douglas",
+   "description": "Company whose repair supervisor gave an opinion on the F-4's radar"
+  },
+  {
+   "key": "narcap",
+   "type": "organization",
+   "name": "National Aviation Reporting Center on Anomalous Phenomena",
+   "description": "Organisation headed by Richard Haines that produced a report on the incident"
+  },
+  {
+   "key": "nasa",
+   "type": "organization",
+   "name": "NASA",
+   "description": "Former employer of Richard Haines"
+  },
+  {
+   "key": "telegraph",
+   "type": "organization",
+   "name": "The Daily Telegraph",
+   "description": "Newspaper that listed the incident in its top 10 UFO sightings"
+  },
+  {
+   "key": "guardian",
+   "type": "organization",
+   "name": "The Guardian",
+   "description": "Newspaper that listed the incident in its top 10 UFO sightings"
+  },
+  {
+   "key": "usafss",
+   "type": "organization",
+   "name": "United States Air Force Security Services",
+   "description": "Service whose quarterly MIJI newsletter published an editorial on the incident"
+  },
+  {
+   "key": "npc",
+   "type": "organization",
+   "name": "National Press Club",
+   "description": "Venue of the 2007 conference at which Jafari testified"
+  },
+  {
+   "key": "pahlavi",
+   "type": "organization",
+   "name": "Pahlavi dynasty",
+   "description": "Dynasty ruling Iran at the time of the incident"
+  },
+  {
+   "key": "tehran",
+   "type": "place",
+   "name": "Tehran, Iran",
+   "aliases": [
+    "Tehran"
+   ],
+   "description": "Capital of Iran, over which the object was seen"
+  },
+  {
+   "key": "iran",
+   "type": "place",
+   "name": "Iran",
+   "description": "Country where the incident occurred"
+  },
+  {
+   "key": "shemiran",
+   "type": "place",
+   "name": "Shemirān",
+   "aliases": [
+    "Shemiran",
+    "Shemirān neighbourhood of Tehran"
+   ],
+   "description": "Neighbourhood of Tehran above which the shining object was reported"
+  },
+  {
+   "key": "mehrabad",
+   "type": "place",
+   "name": "Mehrabad Airport",
+   "aliases": [
+    "Mehrabad Airport Control Tower"
+   ],
+   "description": "Tehran airport whose control tower received the reports"
+  },
+  {
+   "key": "shahrokhi",
+   "type": "place",
+   "name": "Shahrokhi Airbase",
+   "description": "Airbase where a Westinghouse technician commented on the first F-4"
+  },
+  {
+   "key": "us",
+   "type": "place",
+   "name": "United States",
+   "description": "Country whose offices and agencies received the report"
+  },
+  {
+   "key": "mideast",
+   "type": "place",
+   "name": "Middle East",
+   "aliases": [
+    "the sensitive Middle East area"
+   ],
+   "description": "Region described as sensitive, for which relaying such incidents was routine"
+  },
+  {
+   "key": "dc",
+   "type": "place",
+   "name": "Washington, D.C.",
+   "description": "City of the 2007 National Press Club conference"
+  },
+  {
+   "key": "craft1",
+   "type": "craft",
+   "name": "primary object seen over Tehran on 19 September 1976",
+   "aliases": [
+    "the primary object"
+   ],
+   "description": "Shining object described as rectangular or diamond-shaped with brilliant flashing coloured lights"
+  },
+  {
+   "key": "craft2",
+   "type": "craft",
+   "name": "round object that came out of the primary object toward Jafari's F-4",
+   "aliases": [
+    "the second object"
+   ],
+   "description": "Second object that approached the F-4, turned away and rejoined the primary object"
+  },
+  {
+   "key": "craft3",
+   "type": "craft",
+   "name": "bright object that came out of the primary object and descended to the ground",
+   "description": "Another bright object that Jafari said headed toward the ground and seemed to land gently"
+  },
+  {
+   "key": "f4_1",
+   "type": "vehicle",
+   "name": "F-4 Phantom II (first interceptor, flown by Nazeri)",
+   "aliases": [
+    "F-4 Phantom II",
+    "the first F-4",
+    "F4"
+   ],
+   "description": "First IIAF jet interceptor dispatched at 1:30 a.m."
+  },
+  {
+   "key": "f4_2",
+   "type": "vehicle",
+   "name": "F-4 Phantom II (second interceptor, flown by Jafari)",
+   "aliases": [
+    "F-4 Phantom II",
+    "the second F-4",
+    "F4"
+   ],
+   "description": "Second IIAF jet interceptor, dispatched ten minutes after the first"
+  },
+  {
+   "key": "airliner",
+   "type": "vehicle",
+   "name": "nearby airliner that reported radio failure",
+   "aliases": [
+    "jet airliner"
+   ],
+   "description": "Unnamed airliner near the incident that reported radio failure"
+  },
+  {
+   "key": "heli",
+   "type": "vehicle",
+   "name": "helicopter used to search the landing location",
+   "description": "Helicopter flown by Jafari and Damirian to the supposed landing location the next day"
+  },
+  {
+   "key": "c141",
+   "type": "vehicle",
+   "name": "C-141",
+   "aliases": [
+    "C-141 aircraft"
+   ],
+   "description": "Military transport aircraft type identified by Col. Mooy as the source of the beeping transponder"
+  },
+  {
+   "key": "doc_initial",
+   "type": "document",
+   "name": "Initial report of the incident relayed to the U.S. Joint Chiefs of Staff",
+   "description": "Report relayed on the day of the incident and received by numerous U.S. offices and agencies"
+  },
+  {
+   "key": "doc_usaf",
+   "type": "document",
+   "name": "Report of the incident passed on to the US Air Force",
+   "description": "Report passed to the US Air Force as the stated procedure for a UFO sighting"
+  },
+  {
+   "key": "doc_dia",
+   "type": "document",
+   "name": "Defense Intelligence Agency document on the Tehran incident",
+   "aliases": [
+    "Defense Intelligence Agency Report"
+   ],
+   "description": "DIA document that described the reported incident as outstanding"
+  },
+  {
+   "key": "doc_mooy",
+   "type": "document",
+   "name": "Col. Mooy's memo",
+   "description": "Memo by Col. Mooy whose information was retold in the MIJI editorial"
+  },
+  {
+   "key": "w_narcap",
+   "type": "work",
+   "name": "National Aviation Reporting Center on Anomalous Phenomena report",
+   "description": "Report that noted the DIA document's assessment of the incident"
+  },
+  {
+   "key": "w_sightings",
+   "type": "work",
+   "name": "Sightings",
+   "aliases": [
+    "Sightings television program"
+   ],
+   "description": "UFO-themed television program that covered the incident in 1994"
+  },
+  {
+   "key": "w_telegraph",
+   "type": "work",
+   "name": "The Daily Telegraph's top 10 UFO sightings",
+   "description": "Newspaper list ranking the incident #7"
+  },
+  {
+   "key": "w_guardian",
+   "type": "work",
+   "name": "The Guardian's top 10 UFO sightings",
+   "description": "Newspaper list ranking the incident #10"
+  },
+  {
+   "key": "w_miji",
+   "type": "work",
+   "name": "MIJI (Meaconing, Intrusion, Jamming, and Interference) newsletter editorial",
+   "aliases": [
+    "MIJI newsletter",
+    "MIJI"
+   ],
+   "description": "Editorial on the incident in the quarterly MIJI newsletter"
+  },
+  {
+   "key": "w_skeptoid",
+   "type": "work",
+   "name": "Skeptoid #315: The Tehran 1976 UFO",
+   "aliases": [
+    "Skeptoid"
+   ],
+   "description": "Podcast episode by Brian Dunning citing problems with the incident"
+  },
+  {
+   "key": "f_radar",
+   "type": "feature",
+   "name": "radar-contact",
+   "description": "Feature: radar-contact"
+  },
+  {
+   "key": "f_emi",
+   "type": "feature",
+   "name": "electromagnetic-interference",
+   "description": "Feature: electromagnetic-interference"
+  },
+  {
+   "key": "f_pursuit",
+   "type": "feature",
+   "name": "aircraft-pursuit",
+   "description": "Feature: aircraft-pursuit"
+  },
+  {
+   "key": "f_mil",
+   "type": "feature",
+   "name": "military-witnesses",
+   "description": "Feature: military-witnesses"
+  },
+  {
+   "key": "f_pilot",
+   "type": "feature",
+   "name": "pilot-witnesses",
+   "description": "Feature: pilot-witnesses"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "Feature: multiple-witnesses"
+  },
+  {
+   "key": "f_speed",
+   "type": "feature",
+   "name": "high-speed-maneuvers",
+   "description": "Feature: high-speed-maneuvers"
+  },
+  {
+   "key": "f_landing",
+   "type": "feature",
+   "name": "landing-reported",
+   "description": "Feature: landing-reported"
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Feature: official-investigation"
+  },
+  {
+   "key": "f_shape",
+   "type": "feature",
+   "name": "shape-other",
+   "description": "Feature: shape-other"
+  },
+  {
+   "key": "f_sound",
+   "type": "feature",
+   "name": "sound-reported",
+   "description": "Feature: sound-reported"
+  },
+  {
+   "key": "f_lights",
+   "type": "feature",
+   "name": "lights-only",
+   "description": "Feature: lights-only"
+  },
+  {
+   "key": "x_planet",
+   "type": "explanation",
+   "name": "venus-or-planet",
+   "description": "Explanation: venus-or-planet"
+  },
+  {
+   "key": "x_star",
+   "type": "explanation",
+   "name": "star",
+   "description": "Explanation: star"
+  },
+  {
+   "key": "x_meteor",
+   "type": "explanation",
+   "name": "meteor-or-fireball",
+   "description": "Explanation: meteor-or-fireball"
+  },
+  {
+   "key": "x_mis",
+   "type": "explanation",
+   "name": "misperception",
+   "description": "Explanation: misperception"
+  },
+  {
+   "key": "x_equip",
+   "type": "explanation",
+   "name": "other:equipment malfunction",
+   "description": "Explanation: other:equipment malfunction"
+  },
+  {
+   "key": "x_pilot",
+   "type": "explanation",
+   "name": "other:pilot incompetence",
+   "description": "Explanation: other:pilot incompetence"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1976-09-19",
+   "quote": "On 19 September 1976, a radar and visual sighting of an unidentified flying object (UFO) occurred over Tehran, the capital of Iran, by civilians and military personnel."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1976-09-19",
+   "quote": "In the early hours of 19 September 1976"
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "early hours",
+   "quote": "In the early hours of 19 September 1976"
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "Iran",
+   "quote": "On 19 September 1976, a radar and visual sighting of an unidentified flying object (UFO) occurred over Tehran, the capital of Iran, by civilians and military personnel."
+  },
+  {
+   "s": "case",
+   "p": "sighting_type",
+   "v": "radar and visual",
+   "quote": "On 19 September 1976, a radar and visual sighting of an unidentified flying object (UFO) occurred over Tehran, the capital of Iran, by civilians and military personnel."
+  },
+  {
+   "s": "case",
+   "p": "witness_types",
+   "v": "civilians and military personnel",
+   "quote": "On 19 September 1976, a radar and visual sighting of an unidentified flying object (UFO) occurred over Tehran, the capital of Iran, by civilians and military personnel."
+  },
+  {
+   "s": "case",
+   "p": "civilian_witness_count",
+   "v": "at least 4",
+   "quote": "Hossein Pirouzi, an air traffic controller at the Mehrabad Airport Control Tower, received reports of a shining object in the sky above the Shemirān neighbourhood of Tehran by at least four civilians."
+  },
+  {
+   "s": "case",
+   "p": "initial_report",
+   "v": "shining object in the sky above the Shemirān neighbourhood, reported to the Mehrabad control tower by at least four civilians",
+   "quote": "Hossein Pirouzi, an air traffic controller at the Mehrabad Airport Control Tower, received reports of a shining object in the sky above the Shemirān neighbourhood of Tehran by at least four civilians."
+  },
+  {
+   "s": "case",
+   "p": "interceptor_count",
+   "v": "2",
+   "quote": "In separate incidents, two Imperial Iranian Air Force F-4 Phantom II jet interceptors reported losing instrumentation and communications as they approached the object."
+  },
+  {
+   "s": "case",
+   "p": "first_interceptor_dispatch_time",
+   "v": "01:30",
+   "quote": "At 1:30 a.m., Lieutenant Yaddi Nazeri (Yadollah Nazeri), plus a backseat weapons officer, were dispatched in an F-4 Phantom II jet interceptor to investigate."
+  },
+  {
+   "s": "case",
+   "p": "second_interceptor_dispatch_time",
+   "v": "ten minutes after the first",
+   "quote": "Ten minutes later, Major Parviz Jafari, an IIAF squadron commander, along with First Lieutenant Jalal Damirian as weapons officer, were dispatched in a second F-4 Phantom II to intercept the object."
+  },
+  {
+   "s": "case",
+   "p": "equipment_effects",
+   "v": "both interceptors reported losing instrumentation and communications when approaching the object; restored upon withdrawal",
+   "quote": "reported losing instrumentation and communications as they approached the object. These were restored upon withdrawal."
+  },
+  {
+   "s": "case",
+   "p": "weapons_failure",
+   "v": "one aircraft reported a temporary weapons systems failure while the crew was preparing to open fire",
+   "quote": "One of the aircraft also reported a temporary weapons systems failure while the crew was preparing to open fire."
+  },
+  {
+   "s": "case",
+   "p": "airliner_radio_failure",
+   "v": "an airliner also reported radio failure",
+   "quote": "An airliner also reported radio failure."
+  },
+  {
+   "s": "case",
+   "p": "historical_context",
+   "v": "occurred during the Cold War",
+   "quote": "The incident occurred during the Cold War, when Unidentified Anomalous Phenomena were a serious concern."
+  },
+  {
+   "s": "case",
+   "p": "historical_context",
+   "v": "Iran was under the rule of the Pahlavi dynasty",
+   "quote": "Tehran is the capital of Iran, which was under the rule of the Pahlavi dynasty."
+  },
+  {
+   "s": "case",
+   "p": "landing_site_search",
+   "v": "the next day Jafari and Damirian flew by helicopter to the location of the object's \"landing\" and found nothing",
+   "quote": "The next day, Jafari and Damirian flew by helicopter to the location of the object's \"landing\", finding nothing."
+  },
+  {
+   "s": "case",
+   "p": "transponder_found",
+   "v": "beeping transponder that appeared to have come from a military transport aircraft, detected as the helicopter circled to the west",
+   "quote": "As the helicopter circled to the west, a beeping transponder that appeared to have come from a military transport aircraft was detected in the area."
+  },
+  {
+   "s": "case",
+   "p": "transponder_source",
+   "v": "from a C-141 aircraft according to Col. Mooy; beepers had been ejected by turbulence over the mountains just north of Tehran",
+   "quote": "The beeping transponder found at the supposed touchdown site was from a C-141 aircraft, according to investigating Col. Mooy, but \"they'd been having problems with the beepers being ejected simply by turbulence over the mountains just north of Tehran\"."
+  },
+  {
+   "s": "case",
+   "p": "ground_witness_report",
+   "v": "occupants of the nearby house reported hearing a loud noise and a bright flash of light during the previous night",
+   "quote": "Occupants of the nearby house reported hearing a loud noise and a bright flash of light during the previous night."
+  },
+  {
+   "s": "case",
+   "p": "site_tests",
+   "v": "various tests including radiation checks were arranged for the area; results were not reported",
+   "quote": "Arrangements were made to do various tests, including radiation checks, on that area; the results were not reported."
+  },
+  {
+   "s": "case",
+   "p": "crew_interview",
+   "v": "the crew were interviewed by former Iranian Air Force commander Lt. Gen. Shapour Azarbarzin",
+   "quote": "The crew were interviewed by the former Iranian Air Force commander Lt. Gen. Shapour Azarbarzin."
+  },
+  {
+   "s": "case",
+   "p": "later_interviews",
+   "v": "other involved people were interviewed in 1994",
+   "quote": "Other involved people were interviewed in 1994."
+  },
+  {
+   "s": "case",
+   "p": "report_distribution",
+   "v": "initial report relayed to the U.S. Joint Chiefs of Staff on the day of the incident",
+   "quote": "An initial report of the incident was relayed to the U.S. Joint Chiefs of Staff on the day of the incident."
+  },
+  {
+   "s": "case",
+   "p": "report_distribution_note",
+   "v": "relaying such incidents in \"the sensitive Middle East area\" to these offices was reportedly routine procedure",
+   "quote": "However, it was reportedly a routine procedure to relay such incidents in \"the sensitive Middle East area\" to these offices."
+  },
+  {
+   "s": "case",
+   "p": "reporting_procedure",
+   "v": "passing a report to the US Air Force was the procedure in case of a UFO sighting, according to the Iranian general",
+   "quote": "A report of the incident was passed on to the US Air Force which, according to the Iranian general, was the procedure in case of a UFO sighting."
+  },
+  {
+   "s": "case",
+   "p": "ufologist_assessment",
+   "v": "regarded as one of the most \"credible\" incidents in ufology due to the level of documentation and professional status of people involved",
+   "quote": "UFOlogists regard the incident as one of the most \"credible\" in ufology due to the level of documentation and the professional status of people involved."
+  },
+  {
+   "s": "case",
+   "p": "dia_assessment",
+   "v": "\"outstanding\", and a classic that meets all the criteria for a ufological study",
+   "quote": "A report by the National Aviation Reporting Center on Anomalous Phenomena headed by retired NASA scientist and ufologist Richard Haines noted a section of a document by the Defense Intelligence Agency (DIA), which described the reported incident as \"outstanding\", and a classic that meets all the criteria for a ufological study."
+  },
+  {
+   "s": "case",
+   "p": "depicted_in_unnamed_work",
+   "v": "subject of an Iranian movie",
+   "quote": "The event was also the subject of an Iranian movie"
+  },
+  {
+   "s": "case",
+   "p": "summary_by_bridgstock",
+   "v": "a couple of F4 jets from the Iranian airforce were scrambled to investigate sightings of lights in the sky",
+   "quote": "Stripped of details, a couple of F4 jets from the Iranian airforce were scrambled to investigate some sightings of lights in the sky."
+  },
+  {
+   "s": "case",
+   "p": "summary_by_bridgstock",
+   "v": "at least one jet suffered grave electrical failures, tried to fire a missile at something and had something fired at it; a nearby jet airliner also suffered radio failure",
+   "quote": "Reports vary, but at least one jet suffered grave electrical failures, tried to fire a missile at something and had something fired at it. A nearby jet airliner also suffered radio failure."
+  },
+  {
+   "s": "case",
+   "p": "post_flight_report",
+   "v": "further technical issues were reported by the jet upon returning to base and landing",
+   "quote": "Upon returning to the base and landing, further technical issues were reported by the jet."
+  },
+  {
+   "s": "pirouzi",
+   "p": "witness",
+   "o": "case",
+   "quote": "Pirouzi himself saw the object, which he described as rectangular in shape with two large lights, one at either end, and a small red light circling its midsection."
+  },
+  {
+   "s": "pirouzi",
+   "p": "stationed_at",
+   "o": "mehrabad",
+   "quote": "Hossein Pirouzi, an air traffic controller at the Mehrabad Airport Control Tower, received reports of a shining object in the sky above the Shemirān neighbourhood of Tehran by at least four civilians."
+  },
+  {
+   "s": "pirouzi",
+   "p": "occupation",
+   "v": "air traffic controller",
+   "quote": "Hossein Pirouzi, an air traffic controller at the Mehrabad Airport Control Tower, received reports of a shining object in the sky above the Shemirān neighbourhood of Tehran by at least four civilians."
+  },
+  {
+   "s": "pirouzi",
+   "p": "described",
+   "o": "craft1",
+   "quote": "Pirouzi himself saw the object, which he described as rectangular in shape with two large lights, one at either end, and a small red light circling its midsection."
+  },
+  {
+   "s": "pirouzi",
+   "p": "action",
+   "v": "received reports of a shining object from at least four civilians",
+   "quote": "Hossein Pirouzi, an air traffic controller at the Mehrabad Airport Control Tower, received reports of a shining object in the sky above the Shemirān neighbourhood of Tehran by at least four civilians."
+  },
+  {
+   "s": "pirouzi",
+   "p": "action",
+   "v": "reported the object to General Youssefi and provided directions for the interception",
+   "quote": "He reported this to General Youssefi of the Imperial Iranian Air Force (IIAF), who also observed the object from his balcony and subsequently authorized an interception with directions provided by Pirouzi."
+  },
+  {
+   "s": "youssefi",
+   "p": "witness",
+   "o": "case",
+   "quote": "He reported this to General Youssefi of the Imperial Iranian Air Force (IIAF), who also observed the object from his balcony and subsequently authorized an interception with directions provided by Pirouzi."
+  },
+  {
+   "s": "youssefi",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "He reported this to General Youssefi of the Imperial Iranian Air Force (IIAF), who also observed the object from his balcony and subsequently authorized an interception with directions provided by Pirouzi."
+  },
+  {
+   "s": "youssefi",
+   "p": "member_of",
+   "o": "iiaf",
+   "quote": "He reported this to General Youssefi of the Imperial Iranian Air Force (IIAF), who also observed the object from his balcony and subsequently authorized an interception with directions provided by Pirouzi."
+  },
+  {
+   "s": "youssefi",
+   "p": "rank",
+   "v": "General",
+   "quote": "He reported this to General Youssefi of the Imperial Iranian Air Force (IIAF), who also observed the object from his balcony and subsequently authorized an interception with directions provided by Pirouzi."
+  },
+  {
+   "s": "youssefi",
+   "p": "observation_location",
+   "v": "his balcony",
+   "quote": "He reported this to General Youssefi of the Imperial Iranian Air Force (IIAF), who also observed the object from his balcony and subsequently authorized an interception with directions provided by Pirouzi."
+  },
+  {
+   "s": "youssefi",
+   "p": "action",
+   "v": "authorized an interception",
+   "quote": "He reported this to General Youssefi of the Imperial Iranian Air Force (IIAF), who also observed the object from his balcony and subsequently authorized an interception with directions provided by Pirouzi."
+  },
+  {
+   "s": "youssefi",
+   "p": "action",
+   "v": "ordered the dispatch of the second F-4",
+   "quote": "This was ordered by General Youssefi, who advised the pilot that the object was comparable in size to a Boeing 707."
+  },
+  {
+   "s": "youssefi",
+   "p": "described",
+   "o": "craft1",
+   "quote": "This was ordered by General Youssefi, who advised the pilot that the object was comparable in size to a Boeing 707."
+  },
+  {
+   "s": "youssefi",
+   "p": "statement",
+   "v": "advised the pilot that the object was comparable in size to a Boeing 707",
+   "quote": "This was ordered by General Youssefi, who advised the pilot that the object was comparable in size to a Boeing 707."
+  },
+  {
+   "s": "youssefi",
+   "p": "statement",
+   "v": "the second F-4 made another attempt at Mach 2 speed to intercept the object but failed to catch up with it",
+   "quote": "According to General Youssefi, the second F-4 made another attempt at Mach 2 speed to intercept the object but failed to catch up with it."
+  },
+  {
+   "s": "nazeri",
+   "p": "witness",
+   "o": "case",
+   "quote": "At 1:30 a.m., Lieutenant Yaddi Nazeri (Yadollah Nazeri), plus a backseat weapons officer, were dispatched in an F-4 Phantom II jet interceptor to investigate."
+  },
+  {
+   "s": "nazeri",
+   "p": "rank",
+   "v": "Lieutenant",
+   "quote": "At 1:30 a.m., Lieutenant Yaddi Nazeri (Yadollah Nazeri), plus a backseat weapons officer, were dispatched in an F-4 Phantom II jet interceptor to investigate."
+  },
+  {
+   "s": "nazeri",
+   "p": "piloted",
+   "o": "f4_1",
+   "quote": "At 1:30 a.m., Lieutenant Yaddi Nazeri (Yadollah Nazeri), plus a backseat weapons officer, were dispatched in an F-4 Phantom II jet interceptor to investigate."
+  },
+  {
+   "s": "nazeri",
+   "p": "later_claim",
+   "v": "said in a 1994 interview that the object outpaced him even at Mach 2, when he started to believe he was dealing with an extraterrestrial UFO",
+   "quote": "Nazeri later said in an interview in 1994 that the object outpaced him even at Mach 2, which was the time that he started to believe he was dealing with an extraterrestrial UFO."
+  },
+  {
+   "s": "nazeri",
+   "p": "interview_year",
+   "v": "1994",
+   "quote": "Nazeri later said in an interview in 1994 that the object outpaced him even at Mach 2, which was the time that he started to believe he was dealing with an extraterrestrial UFO."
+  },
+  {
+   "s": "nazeri",
+   "p": "described",
+   "o": "craft1",
+   "quote": "Nazeri later said in an interview in 1994 that the object outpaced him even at Mach 2, which was the time that he started to believe he was dealing with an extraterrestrial UFO."
+  },
+  {
+   "s": "nazeri",
+   "p": "experience",
+   "v": "lost all instrumentation and UHF/Intercom communications at 25 nautical miles and returned to base",
+   "quote": "When 25 nautical miles (29 mi; 46 km) distant, he lost all instrumentation and UHF/Intercom communications, so they returned to base, reporting that the instruments came back online upon doing so."
+  },
+  {
+   "s": "jafari",
+   "p": "witness",
+   "o": "case",
+   "quote": "Ten minutes later, Major Parviz Jafari, an IIAF squadron commander, along with First Lieutenant Jalal Damirian as weapons officer, were dispatched in a second F-4 Phantom II to intercept the object."
+  },
+  {
+   "s": "jafari",
+   "p": "rank",
+   "v": "Major",
+   "quote": "Ten minutes later, Major Parviz Jafari, an IIAF squadron commander, along with First Lieutenant Jalal Damirian as weapons officer, were dispatched in a second F-4 Phantom II to intercept the object."
+  },
+  {
+   "s": "jafari",
+   "p": "later_rank",
+   "v": "General (retired)",
+   "quote": "Retired General Parviz Jafari later testified about the incident publicly at the 2007 National Press Club conference in Washington, D.C."
+  },
+  {
+   "s": "jafari",
+   "p": "occupation",
+   "v": "IIAF squadron commander",
+   "quote": "Ten minutes later, Major Parviz Jafari, an IIAF squadron commander, along with First Lieutenant Jalal Damirian as weapons officer, were dispatched in a second F-4 Phantom II to intercept the object."
+  },
+  {
+   "s": "jafari",
+   "p": "member_of",
+   "o": "iiaf",
+   "quote": "Ten minutes later, Major Parviz Jafari, an IIAF squadron commander, along with First Lieutenant Jalal Damirian as weapons officer, were dispatched in a second F-4 Phantom II to intercept the object."
+  },
+  {
+   "s": "jafari",
+   "p": "piloted",
+   "o": "f4_2",
+   "quote": "Ten minutes later, Major Parviz Jafari, an IIAF squadron commander, along with First Lieutenant Jalal Damirian as weapons officer, were dispatched in a second F-4 Phantom II to intercept the object."
+  },
+  {
+   "s": "jafari",
+   "p": "described",
+   "o": "craft1",
+   "quote": "As he approached the object, which Jafari described as \"flashing with intense red, green, orange and blue lights so bright that I was not able to see its body\", his plane's communications system shut off."
+  },
+  {
+   "s": "jafari",
+   "p": "described",
+   "o": "craft2",
+   "quote": "Jafari later said he was \"startled by a round object which came out of the primary object and started coming straight toward me at a high rate of speed, almost as if it were a missile\""
+  },
+  {
+   "s": "jafari",
+   "p": "described",
+   "o": "craft3",
+   "quote": "Jafari looked to his left and saw \"the primary, diamond-shaped thing up there, and another bright object came out of it and headed directly toward the ground\""
+  },
+  {
+   "s": "jafari",
+   "p": "statement",
+   "v": "reported acquiring a radar lock on the object at 27 nautical miles, 12 o'clock high, with a rate of closure of 150 knots",
+   "quote": "Jafari reported acquiring a radar lock on the object at a range of 27 nautical miles (50 km; 31 mi) at 12 o'clock high position, and a rate of closure of 150 knots (280 km/h; 170 mph)."
+  },
+  {
+   "s": "jafari",
+   "p": "statement",
+   "v": "\"flashing with intense red, green, orange and blue lights so bright that I was not able to see its body\"",
+   "quote": "As he approached the object, which Jafari described as \"flashing with intense red, green, orange and blue lights so bright that I was not able to see its body\", his plane's communications system shut off."
+  },
+  {
+   "s": "jafari",
+   "p": "later_claim",
+   "v": "\"startled by a round object which came out of the primary object and started coming straight toward me at a high rate of speed, almost as if it were a missile\"",
+   "quote": "Jafari later said he was \"startled by a round object which came out of the primary object and started coming straight toward me at a high rate of speed, almost as if it were a missile\""
+  },
+  {
+   "s": "jafari",
+   "p": "statement",
+   "v": "saw \"the primary, diamond-shaped thing up there, and another bright object came out of it and headed directly toward the ground\"",
+   "quote": "Jafari looked to his left and saw \"the primary, diamond-shaped thing up there, and another bright object came out of it and headed directly toward the ground\""
+  },
+  {
+   "s": "jafari",
+   "p": "statement",
+   "v": "claimed the object \"seemed to slow down and land gently on the ground, radiating a high bright light\"",
+   "quote": "Expecting an explosion that did not happen, he claimed that it \"seemed to slow down and land gently on the ground, radiating a high bright light\"."
+  },
+  {
+   "s": "jafari",
+   "p": "action",
+   "v": "attempted to fire an AIM-9 Sidewinder infrared guided missile",
+   "quote": "as he attempted to fire an AIM-9 Sidewinder infrared guided missile, the pilot experienced a sudden power loss in the weapons control panel, as well as UHF and internal communications."
+  },
+  {
+   "s": "jafari",
+   "p": "action",
+   "v": "was instructed to return when he was able to report to air traffic control",
+   "quote": "When he was able to report to air traffic control, Jafari was instructed to return."
+  },
+  {
+   "s": "jafari",
+   "p": "action",
+   "v": "flew by helicopter the next day to the location of the object's \"landing\", finding nothing",
+   "quote": "The next day, Jafari and Damirian flew by helicopter to the location of the object's \"landing\", finding nothing."
+  },
+  {
+   "s": "jafari",
+   "p": "later_testimony",
+   "v": "testified publicly about the incident at the 2007 National Press Club conference in Washington, D.C.",
+   "quote": "Retired General Parviz Jafari later testified about the incident publicly at the 2007 National Press Club conference in Washington, D.C."
+  },
+  {
+   "s": "jafari",
+   "p": "testified_at",
+   "o": "npc",
+   "quote": "Retired General Parviz Jafari later testified about the incident publicly at the 2007 National Press Club conference in Washington, D.C."
+  },
+  {
+   "s": "damirian",
+   "p": "witness",
+   "o": "case",
+   "quote": "Ten minutes later, Major Parviz Jafari, an IIAF squadron commander, along with First Lieutenant Jalal Damirian as weapons officer, were dispatched in a second F-4 Phantom II to intercept the object."
+  },
+  {
+   "s": "damirian",
+   "p": "rank",
+   "v": "First Lieutenant",
+   "quote": "Ten minutes later, Major Parviz Jafari, an IIAF squadron commander, along with First Lieutenant Jalal Damirian as weapons officer, were dispatched in a second F-4 Phantom II to intercept the object."
+  },
+  {
+   "s": "damirian",
+   "p": "occupation",
+   "v": "weapons officer",
+   "quote": "Ten minutes later, Major Parviz Jafari, an IIAF squadron commander, along with First Lieutenant Jalal Damirian as weapons officer, were dispatched in a second F-4 Phantom II to intercept the object."
+  },
+  {
+   "s": "damirian",
+   "p": "crew_of",
+   "o": "f4_2",
+   "quote": "Ten minutes later, Major Parviz Jafari, an IIAF squadron commander, along with First Lieutenant Jalal Damirian as weapons officer, were dispatched in a second F-4 Phantom II to intercept the object."
+  },
+  {
+   "s": "damirian",
+   "p": "colleague_of",
+   "o": "jafari",
+   "quote": "The next day, Jafari and Damirian flew by helicopter to the location of the object's \"landing\", finding nothing."
+  },
+  {
+   "s": "damirian",
+   "p": "action",
+   "v": "flew by helicopter the next day to the location of the object's \"landing\", finding nothing",
+   "quote": "The next day, Jafari and Damirian flew by helicopter to the location of the object's \"landing\", finding nothing."
+  },
+  {
+   "s": "azarbarzin",
+   "p": "investigator",
+   "o": "case",
+   "quote": "The crew were interviewed by the former Iranian Air Force commander Lt. Gen. Shapour Azarbarzin."
+  },
+  {
+   "s": "azarbarzin",
+   "p": "rank",
+   "v": "Lieutenant General",
+   "quote": "The crew were interviewed by the former Iranian Air Force commander Lt. Gen. Shapour Azarbarzin."
+  },
+  {
+   "s": "azarbarzin",
+   "p": "occupation",
+   "v": "former Iranian Air Force commander",
+   "quote": "The crew were interviewed by the former Iranian Air Force commander Lt. Gen. Shapour Azarbarzin."
+  },
+  {
+   "s": "azarbarzin",
+   "p": "member_of",
+   "o": "iiaf",
+   "quote": "The crew were interviewed by the former Iranian Air Force commander Lt. Gen. Shapour Azarbarzin."
+  },
+  {
+   "s": "azarbarzin",
+   "p": "interviewed",
+   "o": "jafari",
+   "quote": "The crew were interviewed by the former Iranian Air Force commander Lt. Gen. Shapour Azarbarzin."
+  },
+  {
+   "s": "azarbarzin",
+   "p": "interview_date",
+   "v": "1977-01-04",
+   "quote": "Azarbarzin revealed further details in an interview on 4 January 1977."
+  },
+  {
+   "s": "azarbarzin",
+   "p": "statement",
+   "v": "the speed of the object was estimated to be Mach 3",
+   "quote": "Azarbarzin revealed further details in an interview on 4 January 1977. He said the speed of the object was estimated to be Mach 3."
+  },
+  {
+   "s": "azarbarzin",
+   "p": "described",
+   "o": "craft1",
+   "quote": "Azarbarzin revealed further details in an interview on 4 January 1977. He said the speed of the object was estimated to be Mach 3."
+  },
+  {
+   "s": "bridgstock",
+   "p": "commentator",
+   "o": "case",
+   "quote": "According to Martin Bridgstock of Griffith University:"
+  },
+  {
+   "s": "bridgstock",
+   "p": "member_of",
+   "o": "griffith",
+   "quote": "According to Martin Bridgstock of Griffith University:"
+  },
+  {
+   "s": "bridgstock",
+   "p": "statement",
+   "v": "criticized ufologists' reports as \"not a reliable account of the Iran UFO incident\"",
+   "quote": "Bridgstock criticized ufologists' reports as \"not a reliable account of the Iran UFO incident\" and summed up Klass' conclusions:"
+  },
+  {
+   "s": "bridgstock",
+   "p": "statement",
+   "v": "in this context, a temporary electrical malfunction can hardly be characterised as mysterious",
+   "quote": "In this context, a temporary electrical malfunction can hardly be characterised as mysterious."
+  },
+  {
+   "s": "klass",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "According to U.S. journalist Philip J. Klass, it was likely the pilots initially saw an astronomical body, probably Jupiter, an explanation also cited by aerospace researcher James Oberg."
+  },
+  {
+   "s": "klass",
+   "p": "occupation",
+   "v": "U.S. journalist",
+   "quote": "According to U.S. journalist Philip J. Klass, it was likely the pilots initially saw an astronomical body, probably Jupiter, an explanation also cited by aerospace researcher James Oberg."
+  },
+  {
+   "s": "klass",
+   "p": "proposed",
+   "o": "x_planet",
+   "quote": "According to U.S. journalist Philip J. Klass, it was likely the pilots initially saw an astronomical body, probably Jupiter, an explanation also cited by aerospace researcher James Oberg."
+  },
+  {
+   "s": "klass",
+   "p": "proposed",
+   "o": "x_star",
+   "quote": "He also points out that the aircrews at the time were tired and rattled, and could have mistaken stars or meteors for UFOs and \"missiles\"."
+  },
+  {
+   "s": "klass",
+   "p": "proposed",
+   "o": "x_meteor",
+   "quote": "He also points out that the aircrews at the time were tired and rattled, and could have mistaken stars or meteors for UFOs and \"missiles\"."
+  },
+  {
+   "s": "klass",
+   "p": "proposed",
+   "o": "x_mis",
+   "quote": "He also points out that the aircrews at the time were tired and rattled, and could have mistaken stars or meteors for UFOs and \"missiles\"."
+  },
+  {
+   "s": "klass",
+   "p": "proposed",
+   "o": "x_equip",
+   "quote": "Klass wrote that pilot incompetence and equipment malfunction likely accounted for the reported equipment failures."
+  },
+  {
+   "s": "klass",
+   "p": "proposed",
+   "o": "x_pilot",
+   "quote": "Klass wrote that pilot incompetence and equipment malfunction likely accounted for the reported equipment failures."
+  },
+  {
+   "s": "klass",
+   "p": "statement",
+   "v": "only one aircraft had suffered electrical malfunctions, not two",
+   "quote": "Klass found that only one aircraft had suffered electrical malfunctions, not two."
+  },
+  {
+   "s": "klass",
+   "p": "statement",
+   "v": "the plane had a history of unexplained electrical faults, and the electrical workshop responsible for it was notorious for poor performance",
+   "quote": "What is more, that plane had had a history of unexplained electrical faults, and the electrical workshop responsible for it was notorious for poor performance."
+  },
+  {
+   "s": "klass",
+   "p": "statement",
+   "v": "the aircrews were tired and rattled and could have mistaken stars or meteors for UFOs and \"missiles\"",
+   "quote": "He also points out that the aircrews at the time were tired and rattled, and could have mistaken stars or meteors for UFOs and \"missiles\"."
+  },
+  {
+   "s": "klass",
+   "p": "statement",
+   "v": "radio faults on airliners are not unknown, which is why they carry backup radio sets",
+   "quote": "In addition, Klass points out that radio faults on airliners are not unknown, and that is why they carry backup radio sets."
+  },
+  {
+   "s": "klass",
+   "p": "statement",
+   "v": "cites a McDonnell Douglas repair supervisor's opinion that the F-4's radar could have been in \"manual track\" mode, causing a wrong interpretation of the radar lock",
+   "quote": "Klass cites a McDonnell Douglas repair supervisor's opinion that the F-4's radar could have been in \"manual track\" mode, causing a wrong interpretation of the radar lock."
+  },
+  {
+   "s": "oberg",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "According to U.S. journalist Philip J. Klass, it was likely the pilots initially saw an astronomical body, probably Jupiter, an explanation also cited by aerospace researcher James Oberg."
+  },
+  {
+   "s": "oberg",
+   "p": "occupation",
+   "v": "aerospace researcher",
+   "quote": "According to U.S. journalist Philip J. Klass, it was likely the pilots initially saw an astronomical body, probably Jupiter, an explanation also cited by aerospace researcher James Oberg."
+  },
+  {
+   "s": "oberg",
+   "p": "proposed",
+   "o": "x_planet",
+   "quote": "According to U.S. journalist Philip J. Klass, it was likely the pilots initially saw an astronomical body, probably Jupiter, an explanation also cited by aerospace researcher James Oberg."
+  },
+  {
+   "s": "dunning",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "American sceptic author Brian Dunning observes that 19 September, the day of the incident, was the height of two annual meteorite showers, the Gamma Piscids and the Southern Piscids and the tail of the Eta Draconids shower, so observation of falling objects or odd lights would not have been unusual."
+  },
+  {
+   "s": "dunning",
+   "p": "occupation",
+   "v": "American sceptic author",
+   "quote": "American sceptic author Brian Dunning observes that 19 September, the day of the incident, was the height of two annual meteorite showers, the Gamma Piscids and the Southern Piscids and the tail of the Eta Draconids shower, so observation of falling objects or odd lights would not have been unusual."
+  },
+  {
+   "s": "dunning",
+   "p": "proposed",
+   "o": "x_meteor",
+   "quote": "American sceptic author Brian Dunning observes that 19 September, the day of the incident, was the height of two annual meteorite showers, the Gamma Piscids and the Southern Piscids and the tail of the Eta Draconids shower, so observation of falling objects or odd lights would not have been unusual."
+  },
+  {
+   "s": "dunning",
+   "p": "proposed",
+   "o": "x_mis",
+   "quote": "There have been many cases where planes had equipment failures, and there have been many cases where planes misidentified celestial objects. Once in a while, both will happen on the same flight."
+  },
+  {
+   "s": "dunning",
+   "p": "proposed",
+   "o": "x_equip",
+   "quote": "Once we look at all the story's elements without the presumption of an alien spaceship, the only thing unusual about the Tehran 1976 UFO case is that planes were chasing celestial objects and had equipment failures."
+  },
+  {
+   "s": "dunning",
+   "p": "authored",
+   "o": "w_skeptoid",
+   "quote": "Dunning, Brian (19 June 2012). \"Skeptoid #315: The Tehran 1976 UFO\". Skeptoid."
+  },
+  {
+   "s": "dunning",
+   "p": "disputed",
+   "o": "w_sightings",
+   "quote": "Dunning criticized ufologists and UFO-themed television programs such as Sightings for describing all the events related to the incident \"from the context of a presumption that the light was a hostile and intelligently guided alien spacecraft\"."
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "the only thing unusual about the case is that planes were chasing celestial objects and had equipment failures",
+   "quote": "Once we look at all the story's elements without the presumption of an alien spaceship, the only thing unusual about the Tehran 1976 UFO case is that planes were chasing celestial objects and had equipment failures."
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "criticized ufologists and UFO-themed television programs for describing events \"from the context of a presumption that the light was a hostile and intelligently guided alien spacecraft\"",
+   "quote": "Dunning criticized ufologists and UFO-themed television programs such as Sightings for describing all the events related to the incident \"from the context of a presumption that the light was a hostile and intelligently guided alien spacecraft\"."
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "the MIJI article is just a dramatized retelling of the information in Col. Mooy's memo",
+   "quote": "There is nothing especially interesting about the actual article; it's just a dramatized retelling of the same information in Col. Mooy's memo, offered in the newsletter as a curious editorial on the subject of jamming and interference.\""
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "19 September was the height of the Gamma Piscids and Southern Piscids meteor showers and the tail of the Eta Draconids",
+   "quote": "American sceptic author Brian Dunning observes that 19 September, the day of the incident, was the height of two annual meteorite showers, the Gamma Piscids and the Southern Piscids and the tail of the Eta Draconids shower, so observation of falling objects or odd lights would not have been unusual."
+  },
+  {
+   "s": "mooy",
+   "p": "investigator",
+   "o": "case",
+   "quote": "The beeping transponder found at the supposed touchdown site was from a C-141 aircraft, according to investigating Col. Mooy, but \"they'd been having problems with the beepers being ejected simply by turbulence over the mountains just north of Tehran\"."
+  },
+  {
+   "s": "mooy",
+   "p": "rank",
+   "v": "Colonel",
+   "quote": "The beeping transponder found at the supposed touchdown site was from a C-141 aircraft, according to investigating Col. Mooy, but \"they'd been having problems with the beepers being ejected simply by turbulence over the mountains just north of Tehran\"."
+  },
+  {
+   "s": "mooy",
+   "p": "authored",
+   "o": "doc_mooy",
+   "quote": "There is nothing especially interesting about the actual article; it's just a dramatized retelling of the same information in Col. Mooy's memo, offered in the newsletter as a curious editorial on the subject of jamming and interference.\""
+  },
+  {
+   "s": "mooy",
+   "p": "statement",
+   "v": "the beeping transponder was from a C-141 aircraft; \"they'd been having problems with the beepers being ejected simply by turbulence over the mountains just north of Tehran\"",
+   "quote": "The beeping transponder found at the supposed touchdown site was from a C-141 aircraft, according to investigating Col. Mooy, but \"they'd been having problems with the beepers being ejected simply by turbulence over the mountains just north of Tehran\"."
+  },
+  {
+   "s": "haines",
+   "p": "commentator",
+   "o": "case",
+   "quote": "A report by the National Aviation Reporting Center on Anomalous Phenomena headed by retired NASA scientist and ufologist Richard Haines noted a section of a document by the Defense Intelligence Agency (DIA), which described the reported incident as \"outstanding\", and a classic that meets all the criteria for a ufological study."
+  },
+  {
+   "s": "haines",
+   "p": "occupation",
+   "v": "retired NASA scientist and ufologist",
+   "quote": "A report by the National Aviation Reporting Center on Anomalous Phenomena headed by retired NASA scientist and ufologist Richard Haines noted a section of a document by the Defense Intelligence Agency (DIA), which described the reported incident as \"outstanding\", and a classic that meets all the criteria for a ufological study."
+  },
+  {
+   "s": "haines",
+   "p": "member_of",
+   "o": "narcap",
+   "quote": "A report by the National Aviation Reporting Center on Anomalous Phenomena headed by retired NASA scientist and ufologist Richard Haines noted a section of a document by the Defense Intelligence Agency (DIA), which described the reported incident as \"outstanding\", and a classic that meets all the criteria for a ufological study."
+  },
+  {
+   "s": "haines",
+   "p": "role",
+   "v": "head of the National Aviation Reporting Center on Anomalous Phenomena",
+   "quote": "A report by the National Aviation Reporting Center on Anomalous Phenomena headed by retired NASA scientist and ufologist Richard Haines noted a section of a document by the Defense Intelligence Agency (DIA), which described the reported incident as \"outstanding\", and a classic that meets all the criteria for a ufological study."
+  },
+  {
+   "s": "haines",
+   "p": "employed_by",
+   "o": "nasa",
+   "quote": "A report by the National Aviation Reporting Center on Anomalous Phenomena headed by retired NASA scientist and ufologist Richard Haines noted a section of a document by the Defense Intelligence Agency (DIA), which described the reported incident as \"outstanding\", and a classic that meets all the criteria for a ufological study."
+  },
+  {
+   "s": "iiaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In separate incidents, two Imperial Iranian Air Force F-4 Phantom II jet interceptors reported losing instrumentation and communications as they approached the object."
+  },
+  {
+   "s": "iiaf",
+   "p": "owned",
+   "o": "f4_1",
+   "quote": "In separate incidents, two Imperial Iranian Air Force F-4 Phantom II jet interceptors reported losing instrumentation and communications as they approached the object."
+  },
+  {
+   "s": "iiaf",
+   "p": "owned",
+   "o": "f4_2",
+   "quote": "In separate incidents, two Imperial Iranian Air Force F-4 Phantom II jet interceptors reported losing instrumentation and communications as they approached the object."
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "A report of the incident was passed on to the US Air Force which, according to the Iranian general, was the procedure in case of a UFO sighting."
+  },
+  {
+   "s": "usaf",
+   "p": "role",
+   "v": "listed as \"the Air Force (CSAF)\" among the offices that received the report",
+   "quote": "Other offices and agencies in the United States that received the report included the Secretary of State, the Central Intelligence Agency (CIA), the White House, the Air Force (CSAF), the Army Chiefs of Staff (CSA), the Chief of Naval Operations (CNO), the Defense Intelligence Agency (DIA)"
+  },
+  {
+   "s": "jcs",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "An initial report of the incident was relayed to the U.S. Joint Chiefs of Staff on the day of the incident."
+  },
+  {
+   "s": "state",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Other offices and agencies in the United States that received the report included the Secretary of State, the Central Intelligence Agency (CIA), the White House, the Air Force (CSAF), the Army Chiefs of Staff (CSA), the Chief of Naval Operations (CNO), the Defense Intelligence Agency (DIA)"
+  },
+  {
+   "s": "state",
+   "p": "role",
+   "v": "received the report of the incident",
+   "quote": "Other offices and agencies in the United States that received the report included the Secretary of State, the Central Intelligence Agency (CIA), the White House, the Air Force (CSAF), the Army Chiefs of Staff (CSA), the Chief of Naval Operations (CNO), the Defense Intelligence Agency (DIA)"
+  },
+  {
+   "s": "cia",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Other offices and agencies in the United States that received the report included the Secretary of State, the Central Intelligence Agency (CIA), the White House, the Air Force (CSAF), the Army Chiefs of Staff (CSA), the Chief of Naval Operations (CNO), the Defense Intelligence Agency (DIA)"
+  },
+  {
+   "s": "cia",
+   "p": "role",
+   "v": "received the report of the incident",
+   "quote": "Other offices and agencies in the United States that received the report included the Secretary of State, the Central Intelligence Agency (CIA), the White House, the Air Force (CSAF), the Army Chiefs of Staff (CSA), the Chief of Naval Operations (CNO), the Defense Intelligence Agency (DIA)"
+  },
+  {
+   "s": "whitehouse",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Other offices and agencies in the United States that received the report included the Secretary of State, the Central Intelligence Agency (CIA), the White House, the Air Force (CSAF), the Army Chiefs of Staff (CSA), the Chief of Naval Operations (CNO), the Defense Intelligence Agency (DIA)"
+  },
+  {
+   "s": "whitehouse",
+   "p": "role",
+   "v": "received the report of the incident",
+   "quote": "Other offices and agencies in the United States that received the report included the Secretary of State, the Central Intelligence Agency (CIA), the White House, the Air Force (CSAF), the Army Chiefs of Staff (CSA), the Chief of Naval Operations (CNO), the Defense Intelligence Agency (DIA)"
+  },
+  {
+   "s": "army",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Other offices and agencies in the United States that received the report included the Secretary of State, the Central Intelligence Agency (CIA), the White House, the Air Force (CSAF), the Army Chiefs of Staff (CSA), the Chief of Naval Operations (CNO), the Defense Intelligence Agency (DIA)"
+  },
+  {
+   "s": "army",
+   "p": "role",
+   "v": "received the report of the incident",
+   "quote": "Other offices and agencies in the United States that received the report included the Secretary of State, the Central Intelligence Agency (CIA), the White House, the Air Force (CSAF), the Army Chiefs of Staff (CSA), the Chief of Naval Operations (CNO), the Defense Intelligence Agency (DIA)"
+  },
+  {
+   "s": "cno",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Other offices and agencies in the United States that received the report included the Secretary of State, the Central Intelligence Agency (CIA), the White House, the Air Force (CSAF), the Army Chiefs of Staff (CSA), the Chief of Naval Operations (CNO), the Defense Intelligence Agency (DIA)"
+  },
+  {
+   "s": "cno",
+   "p": "role",
+   "v": "received the report of the incident",
+   "quote": "Other offices and agencies in the United States that received the report included the Secretary of State, the Central Intelligence Agency (CIA), the White House, the Air Force (CSAF), the Army Chiefs of Staff (CSA), the Chief of Naval Operations (CNO), the Defense Intelligence Agency (DIA)"
+  },
+  {
+   "s": "dia",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Other offices and agencies in the United States that received the report included the Secretary of State, the Central Intelligence Agency (CIA), the White House, the Air Force (CSAF), the Army Chiefs of Staff (CSA), the Chief of Naval Operations (CNO), the Defense Intelligence Agency (DIA)"
+  },
+  {
+   "s": "dia",
+   "p": "role",
+   "v": "received the report of the incident",
+   "quote": "Other offices and agencies in the United States that received the report included the Secretary of State, the Central Intelligence Agency (CIA), the White House, the Air Force (CSAF), the Army Chiefs of Staff (CSA), the Chief of Naval Operations (CNO), the Defense Intelligence Agency (DIA)"
+  },
+  {
+   "s": "navme",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the Defense Intelligence Agency (DIA), the Commander in Chief of U.S. Naval Forces in the Middle East, the Commander in Chief of the U.S. Air Force in Europe, the European Defense Air Command, and the Commander in Chief of Forces in Europe."
+  },
+  {
+   "s": "navme",
+   "p": "role",
+   "v": "listed among the offices that received the report of the incident",
+   "quote": "the Defense Intelligence Agency (DIA), the Commander in Chief of U.S. Naval Forces in the Middle East, the Commander in Chief of the U.S. Air Force in Europe, the European Defense Air Command, and the Commander in Chief of Forces in Europe."
+  },
+  {
+   "s": "usafe",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the Defense Intelligence Agency (DIA), the Commander in Chief of U.S. Naval Forces in the Middle East, the Commander in Chief of the U.S. Air Force in Europe, the European Defense Air Command, and the Commander in Chief of Forces in Europe."
+  },
+  {
+   "s": "usafe",
+   "p": "role",
+   "v": "listed among the offices that received the report of the incident",
+   "quote": "the Defense Intelligence Agency (DIA), the Commander in Chief of U.S. Naval Forces in the Middle East, the Commander in Chief of the U.S. Air Force in Europe, the European Defense Air Command, and the Commander in Chief of Forces in Europe."
+  },
+  {
+   "s": "edac",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the Defense Intelligence Agency (DIA), the Commander in Chief of U.S. Naval Forces in the Middle East, the Commander in Chief of the U.S. Air Force in Europe, the European Defense Air Command, and the Commander in Chief of Forces in Europe."
+  },
+  {
+   "s": "edac",
+   "p": "role",
+   "v": "listed among the offices that received the report of the incident",
+   "quote": "the Defense Intelligence Agency (DIA), the Commander in Chief of U.S. Naval Forces in the Middle East, the Commander in Chief of the U.S. Air Force in Europe, the European Defense Air Command, and the Commander in Chief of Forces in Europe."
+  },
+  {
+   "s": "cincfe",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the Defense Intelligence Agency (DIA), the Commander in Chief of U.S. Naval Forces in the Middle East, the Commander in Chief of the U.S. Air Force in Europe, the European Defense Air Command, and the Commander in Chief of Forces in Europe."
+  },
+  {
+   "s": "cincfe",
+   "p": "role",
+   "v": "listed among the offices that received the report of the incident",
+   "quote": "the Defense Intelligence Agency (DIA), the Commander in Chief of U.S. Naval Forces in the Middle East, the Commander in Chief of the U.S. Air Force in Europe, the European Defense Air Command, and the Commander in Chief of Forces in Europe."
+  },
+  {
+   "s": "state",
+   "p": "located_in",
+   "o": "us",
+   "quote": "Other offices and agencies in the United States that received the report included the Secretary of State, the Central Intelligence Agency (CIA), the White House, the Air Force (CSAF), the Army Chiefs of Staff (CSA), the Chief of Naval Operations (CNO), the Defense Intelligence Agency (DIA)"
+  },
+  {
+   "s": "cia",
+   "p": "located_in",
+   "o": "us",
+   "quote": "Other offices and agencies in the United States that received the report included the Secretary of State, the Central Intelligence Agency (CIA), the White House, the Air Force (CSAF), the Army Chiefs of Staff (CSA), the Chief of Naval Operations (CNO), the Defense Intelligence Agency (DIA)"
+  },
+  {
+   "s": "whitehouse",
+   "p": "located_in",
+   "o": "us",
+   "quote": "Other offices and agencies in the United States that received the report included the Secretary of State, the Central Intelligence Agency (CIA), the White House, the Air Force (CSAF), the Army Chiefs of Staff (CSA), the Chief of Naval Operations (CNO), the Defense Intelligence Agency (DIA)"
+  },
+  {
+   "s": "army",
+   "p": "located_in",
+   "o": "us",
+   "quote": "Other offices and agencies in the United States that received the report included the Secretary of State, the Central Intelligence Agency (CIA), the White House, the Air Force (CSAF), the Army Chiefs of Staff (CSA), the Chief of Naval Operations (CNO), the Defense Intelligence Agency (DIA)"
+  },
+  {
+   "s": "cno",
+   "p": "located_in",
+   "o": "us",
+   "quote": "Other offices and agencies in the United States that received the report included the Secretary of State, the Central Intelligence Agency (CIA), the White House, the Air Force (CSAF), the Army Chiefs of Staff (CSA), the Chief of Naval Operations (CNO), the Defense Intelligence Agency (DIA)"
+  },
+  {
+   "s": "dia",
+   "p": "located_in",
+   "o": "us",
+   "quote": "Other offices and agencies in the United States that received the report included the Secretary of State, the Central Intelligence Agency (CIA), the White House, the Air Force (CSAF), the Army Chiefs of Staff (CSA), the Chief of Naval Operations (CNO), the Defense Intelligence Agency (DIA)"
+  },
+  {
+   "s": "dia",
+   "p": "authored",
+   "o": "doc_dia",
+   "quote": "A report by the National Aviation Reporting Center on Anomalous Phenomena headed by retired NASA scientist and ufologist Richard Haines noted a section of a document by the Defense Intelligence Agency (DIA), which described the reported incident as \"outstanding\", and a classic that meets all the criteria for a ufological study."
+  },
+  {
+   "s": "westinghouse",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "According to Klass, the Westinghouse technician at Shahrokhi Airbase stated that only the first F-4 reported failing equipment, and that this F-4 was known for equipment failures with a long history of electrical outages, having been repaired only a month before the incident."
+  },
+  {
+   "s": "westinghouse",
+   "p": "technician_statement",
+   "v": "only the first F-4 reported failing equipment; that F-4 was known for equipment failures with a long history of electrical outages and had been repaired only a month before the incident",
+   "quote": "According to Klass, the Westinghouse technician at Shahrokhi Airbase stated that only the first F-4 reported failing equipment, and that this F-4 was known for equipment failures with a long history of electrical outages, having been repaired only a month before the incident."
+  },
+  {
+   "s": "mcdonnell",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Klass cites a McDonnell Douglas repair supervisor's opinion that the F-4's radar could have been in \"manual track\" mode, causing a wrong interpretation of the radar lock."
+  },
+  {
+   "s": "mcdonnell",
+   "p": "repair_supervisor_opinion",
+   "v": "the F-4's radar could have been in \"manual track\" mode, causing a wrong interpretation of the radar lock",
+   "quote": "Klass cites a McDonnell Douglas repair supervisor's opinion that the F-4's radar could have been in \"manual track\" mode, causing a wrong interpretation of the radar lock."
+  },
+  {
+   "s": "narcap",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "A report by the National Aviation Reporting Center on Anomalous Phenomena headed by retired NASA scientist and ufologist Richard Haines noted a section of a document by the Defense Intelligence Agency (DIA), which described the reported incident as \"outstanding\", and a classic that meets all the criteria for a ufological study."
+  },
+  {
+   "s": "narcap",
+   "p": "authored",
+   "o": "w_narcap",
+   "quote": "A report by the National Aviation Reporting Center on Anomalous Phenomena headed by retired NASA scientist and ufologist Richard Haines noted a section of a document by the Defense Intelligence Agency (DIA), which described the reported incident as \"outstanding\", and a classic that meets all the criteria for a ufological study."
+  },
+  {
+   "s": "telegraph",
+   "p": "published",
+   "o": "w_telegraph",
+   "quote": "The Daily Telegraph's top 10 UFO sightings (#7)."
+  },
+  {
+   "s": "guardian",
+   "p": "published",
+   "o": "w_guardian",
+   "quote": "The Guardian's top 10 UFO sightings (#10)."
+  },
+  {
+   "s": "usafss",
+   "p": "published",
+   "o": "w_miji",
+   "quote": "An editorial (see below) was published in the United States Air Force Security Services quarterly MIJI (Meaconing, Intrusion, Jamming, and Interference) newsletter that is \"often waved by the UFOlogists as compelling evidence\"."
+  },
+  {
+   "s": "usafss",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "An editorial (see below) was published in the United States Air Force Security Services quarterly MIJI (Meaconing, Intrusion, Jamming, and Interference) newsletter that is \"often waved by the UFOlogists as compelling evidence\"."
+  },
+  {
+   "s": "usafss",
+   "p": "note",
+   "v": "the service requires a security clearance, so its newsletter is protected as well",
+   "quote": "According to Dunning, \"because this service requires a security clearance, their newsletter is protected as well."
+  },
+  {
+   "s": "npc",
+   "p": "located_in",
+   "o": "dc",
+   "quote": "Retired General Parviz Jafari later testified about the incident publicly at the 2007 National Press Club conference in Washington, D.C."
+  },
+  {
+   "s": "npc",
+   "p": "event",
+   "v": "2007 conference at which Jafari testified publicly about the incident",
+   "quote": "Retired General Parviz Jafari later testified about the incident publicly at the 2007 National Press Club conference in Washington, D.C."
+  },
+  {
+   "s": "pahlavi",
+   "p": "ruled",
+   "o": "iran",
+   "quote": "Tehran is the capital of Iran, which was under the rule of the Pahlavi dynasty."
+  },
+  {
+   "s": "tehran",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "On 19 September 1976, a radar and visual sighting of an unidentified flying object (UFO) occurred over Tehran, the capital of Iran, by civilians and military personnel."
+  },
+  {
+   "s": "tehran",
+   "p": "located_in",
+   "o": "iran",
+   "quote": "Tehran is the capital of Iran, which was under the rule of the Pahlavi dynasty."
+  },
+  {
+   "s": "tehran",
+   "p": "status",
+   "v": "capital of Iran",
+   "quote": "Tehran is the capital of Iran, which was under the rule of the Pahlavi dynasty."
+  },
+  {
+   "s": "iran",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "On 19 September 1976, a radar and visual sighting of an unidentified flying object (UFO) occurred over Tehran, the capital of Iran, by civilians and military personnel."
+  },
+  {
+   "s": "shemiran",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Hossein Pirouzi, an air traffic controller at the Mehrabad Airport Control Tower, received reports of a shining object in the sky above the Shemirān neighbourhood of Tehran by at least four civilians."
+  },
+  {
+   "s": "shemiran",
+   "p": "located_in",
+   "o": "tehran",
+   "quote": "Hossein Pirouzi, an air traffic controller at the Mehrabad Airport Control Tower, received reports of a shining object in the sky above the Shemirān neighbourhood of Tehran by at least four civilians."
+  },
+  {
+   "s": "mehrabad",
+   "p": "near",
+   "o": "case",
+   "quote": "Hossein Pirouzi, an air traffic controller at the Mehrabad Airport Control Tower, received reports of a shining object in the sky above the Shemirān neighbourhood of Tehran by at least four civilians."
+  },
+  {
+   "s": "shahrokhi",
+   "p": "related_place",
+   "o": "case",
+   "quote": "According to Klass, the Westinghouse technician at Shahrokhi Airbase stated that only the first F-4 reported failing equipment, and that this F-4 was known for equipment failures with a long history of electrical outages, having been repaired only a month before the incident."
+  },
+  {
+   "s": "us",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Other offices and agencies in the United States that received the report included the Secretary of State, the Central Intelligence Agency (CIA), the White House, the Air Force (CSAF), the Army Chiefs of Staff (CSA), the Chief of Naval Operations (CNO), the Defense Intelligence Agency (DIA)"
+  },
+  {
+   "s": "mideast",
+   "p": "related_place",
+   "o": "case",
+   "quote": "However, it was reportedly a routine procedure to relay such incidents in \"the sensitive Middle East area\" to these offices."
+  },
+  {
+   "s": "dc",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Retired General Parviz Jafari later testified about the incident publicly at the 2007 National Press Club conference in Washington, D.C."
+  },
+  {
+   "s": "craft1",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Pirouzi himself saw the object, which he described as rectangular in shape with two large lights, one at either end, and a small red light circling its midsection."
+  },
+  {
+   "s": "craft1",
+   "p": "appearance",
+   "v": "shining object in the sky",
+   "quote": "Hossein Pirouzi, an air traffic controller at the Mehrabad Airport Control Tower, received reports of a shining object in the sky above the Shemirān neighbourhood of Tehran by at least four civilians."
+  },
+  {
+   "s": "craft1",
+   "p": "shape",
+   "v": "rectangular",
+   "quote": "Pirouzi himself saw the object, which he described as rectangular in shape with two large lights, one at either end, and a small red light circling its midsection."
+  },
+  {
+   "s": "craft1",
+   "p": "lights",
+   "v": "two large lights, one at either end, and a small red light circling its midsection",
+   "quote": "Pirouzi himself saw the object, which he described as rectangular in shape with two large lights, one at either end, and a small red light circling its midsection."
+  },
+  {
+   "s": "craft1",
+   "p": "color",
+   "v": "small red light circling its midsection",
+   "quote": "Pirouzi himself saw the object, which he described as rectangular in shape with two large lights, one at either end, and a small red light circling its midsection."
+  },
+  {
+   "s": "craft1",
+   "p": "visible_from_distance",
+   "v": "70 miles (110 km)",
+   "quote": "They could see the object from 70 miles (110 km) away."
+  },
+  {
+   "s": "craft1",
+   "p": "size",
+   "v": "comparable to a Boeing 707",
+   "quote": "This was ordered by General Youssefi, who advised the pilot that the object was comparable in size to a Boeing 707."
+  },
+  {
+   "s": "craft1",
+   "p": "radar_return_size",
+   "v": "similar to a Boeing KC-135 Stratotanker",
+   "quote": "Its size of radar return was similar to a Boeing KC-135 Stratotanker."
+  },
+  {
+   "s": "craft1",
+   "p": "radar_lock_range",
+   "v": "27 nautical miles (50 km; 31 mi)",
+   "quote": "Jafari reported acquiring a radar lock on the object at a range of 27 nautical miles (50 km; 31 mi) at 12 o'clock high position, and a rate of closure of 150 knots (280 km/h; 170 mph)."
+  },
+  {
+   "s": "craft1",
+   "p": "radar_position",
+   "v": "12 o'clock high",
+   "quote": "Jafari reported acquiring a radar lock on the object at a range of 27 nautical miles (50 km; 31 mi) at 12 o'clock high position, and a rate of closure of 150 knots (280 km/h; 170 mph)."
+  },
+  {
+   "s": "craft1",
+   "p": "closure_rate",
+   "v": "150 knots (280 km/h; 170 mph)",
+   "quote": "Jafari reported acquiring a radar lock on the object at a range of 27 nautical miles (50 km; 31 mi) at 12 o'clock high position, and a rate of closure of 150 knots (280 km/h; 170 mph)."
+  },
+  {
+   "s": "craft1",
+   "p": "behavior",
+   "v": "appeared to move away at 25 nautical miles (46 km; 29 mi), as if to keep a distance",
+   "quote": "At 25 nautical miles (46 km; 29 mi) distant, the object appeared to move away, as if to keep a distance."
+  },
+  {
+   "s": "craft1",
+   "p": "color",
+   "v": "flashing intense red, green, orange and blue lights",
+   "quote": "As he approached the object, which Jafari described as \"flashing with intense red, green, orange and blue lights so bright that I was not able to see its body\", his plane's communications system shut off."
+  },
+  {
+   "s": "craft1",
+   "p": "brightness",
+   "v": "lights so bright that its body could not be seen",
+   "quote": "As he approached the object, which Jafari described as \"flashing with intense red, green, orange and blue lights so bright that I was not able to see its body\", his plane's communications system shut off."
+  },
+  {
+   "s": "craft1",
+   "p": "shape",
+   "v": "diamond-shaped",
+   "quote": "Jafari looked to his left and saw \"the primary, diamond-shaped thing up there, and another bright object came out of it and headed directly toward the ground\""
+  },
+  {
+   "s": "craft1",
+   "p": "speed",
+   "v": "outpaced an F-4 at Mach 2",
+   "quote": "Nazeri later said in an interview in 1994 that the object outpaced him even at Mach 2, which was the time that he started to believe he was dealing with an extraterrestrial UFO."
+  },
+  {
+   "s": "craft1",
+   "p": "speed",
+   "v": "estimated Mach 3",
+   "quote": "Azarbarzin revealed further details in an interview on 4 January 1977. He said the speed of the object was estimated to be Mach 3."
+  },
+  {
+   "s": "craft1",
+   "p": "behavior",
+   "v": "second F-4 at Mach 2 failed to catch up with it",
+   "quote": "According to General Youssefi, the second F-4 made another attempt at Mach 2 speed to intercept the object but failed to catch up with it."
+  },
+  {
+   "s": "craft2",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Jafari later said he was \"startled by a round object which came out of the primary object and started coming straight toward me at a high rate of speed, almost as if it were a missile\""
+  },
+  {
+   "s": "craft2",
+   "p": "emerged_from",
+   "o": "craft1",
+   "quote": "Jafari later said he was \"startled by a round object which came out of the primary object and started coming straight toward me at a high rate of speed, almost as if it were a missile\""
+  },
+  {
+   "s": "craft2",
+   "p": "shape",
+   "v": "round",
+   "quote": "Jafari later said he was \"startled by a round object which came out of the primary object and started coming straight toward me at a high rate of speed, almost as if it were a missile\""
+  },
+  {
+   "s": "craft2",
+   "p": "speed",
+   "v": "high rate of speed",
+   "quote": "Jafari later said he was \"startled by a round object which came out of the primary object and started coming straight toward me at a high rate of speed, almost as if it were a missile\""
+  },
+  {
+   "s": "craft2",
+   "p": "behavior",
+   "v": "came straight toward the F-4, almost as if it were a missile",
+   "quote": "Jafari later said he was \"startled by a round object which came out of the primary object and started coming straight toward me at a high rate of speed, almost as if it were a missile\""
+  },
+  {
+   "s": "craft2",
+   "p": "behavior",
+   "v": "took a position behind the F-4 at a distance of 3–4 nautical miles (3.5–4.6 mi; 5.6–7.4 km)",
+   "quote": "The pilot promptly performed a turn and negative-G dive in an evasive manoeuvre, but the object took a position behind the F-4 at a distance of 3–4 nautical miles (3.5–4.6 mi; 5.6–7.4 km)."
+  },
+  {
+   "s": "craft2",
+   "p": "behavior",
+   "v": "turned inside of the pilot and then away, then returned and reunited with the primary object",
+   "quote": "The pilot then observed the second object \"turn inside of him and then away\", subsequently returning and reuniting with the primary object."
+  },
+  {
+   "s": "craft3",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Jafari looked to his left and saw \"the primary, diamond-shaped thing up there, and another bright object came out of it and headed directly toward the ground\""
+  },
+  {
+   "s": "craft3",
+   "p": "emerged_from",
+   "o": "craft1",
+   "quote": "Jafari looked to his left and saw \"the primary, diamond-shaped thing up there, and another bright object came out of it and headed directly toward the ground\""
+  },
+  {
+   "s": "craft3",
+   "p": "appearance",
+   "v": "another bright object",
+   "quote": "Jafari looked to his left and saw \"the primary, diamond-shaped thing up there, and another bright object came out of it and headed directly toward the ground\""
+  },
+  {
+   "s": "craft3",
+   "p": "behavior",
+   "v": "headed directly toward the ground",
+   "quote": "Jafari looked to his left and saw \"the primary, diamond-shaped thing up there, and another bright object came out of it and headed directly toward the ground\""
+  },
+  {
+   "s": "craft3",
+   "p": "behavior",
+   "v": "seemed to slow down and land gently on the ground, with no explosion",
+   "quote": "Expecting an explosion that did not happen, he claimed that it \"seemed to slow down and land gently on the ground, radiating a high bright light\"."
+  },
+  {
+   "s": "craft3",
+   "p": "brightness",
+   "v": "radiating a high bright light",
+   "quote": "Expecting an explosion that did not happen, he claimed that it \"seemed to slow down and land gently on the ground, radiating a high bright light\"."
+  },
+  {
+   "s": "craft3",
+   "p": "skeptic_description",
+   "v": "pilot's report of \"bright objects\" that \"came at him, and that shot straight down into the ground\"",
+   "quote": "Regarding one pilot's report of \"bright objects\" that \"came at him, and that shot straight down into the ground\""
+  },
+  {
+   "s": "f4_1",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "At 1:30 a.m., Lieutenant Yaddi Nazeri (Yadollah Nazeri), plus a backseat weapons officer, were dispatched in an F-4 Phantom II jet interceptor to investigate."
+  },
+  {
+   "s": "f4_1",
+   "p": "aircraft_type",
+   "v": "F-4 Phantom II jet interceptor",
+   "quote": "At 1:30 a.m., Lieutenant Yaddi Nazeri (Yadollah Nazeri), plus a backseat weapons officer, were dispatched in an F-4 Phantom II jet interceptor to investigate."
+  },
+  {
+   "s": "f4_1",
+   "p": "crew",
+   "v": "pilot Lieutenant Yaddi Nazeri plus a backseat weapons officer",
+   "quote": "At 1:30 a.m., Lieutenant Yaddi Nazeri (Yadollah Nazeri), plus a backseat weapons officer, were dispatched in an F-4 Phantom II jet interceptor to investigate."
+  },
+  {
+   "s": "f4_1",
+   "p": "dispatch_time",
+   "v": "01:30",
+   "quote": "At 1:30 a.m., Lieutenant Yaddi Nazeri (Yadollah Nazeri), plus a backseat weapons officer, were dispatched in an F-4 Phantom II jet interceptor to investigate."
+  },
+  {
+   "s": "f4_1",
+   "p": "equipment_failure",
+   "v": "lost all instrumentation and UHF/Intercom communications at 25 nautical miles (29 mi; 46 km); instruments came back online on returning to base",
+   "quote": "When 25 nautical miles (29 mi; 46 km) distant, he lost all instrumentation and UHF/Intercom communications, so they returned to base, reporting that the instruments came back online upon doing so."
+  },
+  {
+   "s": "f4_1",
+   "p": "failure_distance",
+   "v": "25 nautical miles (29 mi; 46 km)",
+   "quote": "When 25 nautical miles (29 mi; 46 km) distant, he lost all instrumentation and UHF/Intercom communications, so they returned to base, reporting that the instruments came back online upon doing so."
+  },
+  {
+   "s": "f4_1",
+   "p": "maintenance_history",
+   "v": "known for equipment failures with a long history of electrical outages; repaired only a month before the incident (per Westinghouse technician, according to Klass)",
+   "quote": "According to Klass, the Westinghouse technician at Shahrokhi Airbase stated that only the first F-4 reported failing equipment, and that this F-4 was known for equipment failures with a long history of electrical outages, having been repaired only a month before the incident."
+  },
+  {
+   "s": "f4_1",
+   "p": "maintenance_history",
+   "v": "history of unexplained electrical faults; the electrical workshop responsible for it was notorious for poor performance (Klass, per Bridgstock)",
+   "quote": "What is more, that plane had had a history of unexplained electrical faults, and the electrical workshop responsible for it was notorious for poor performance."
+  },
+  {
+   "s": "f4_2",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "Ten minutes later, Major Parviz Jafari, an IIAF squadron commander, along with First Lieutenant Jalal Damirian as weapons officer, were dispatched in a second F-4 Phantom II to intercept the object."
+  },
+  {
+   "s": "f4_2",
+   "p": "aircraft_type",
+   "v": "F-4 Phantom II",
+   "quote": "Ten minutes later, Major Parviz Jafari, an IIAF squadron commander, along with First Lieutenant Jalal Damirian as weapons officer, were dispatched in a second F-4 Phantom II to intercept the object."
+  },
+  {
+   "s": "f4_2",
+   "p": "crew",
+   "v": "pilot Major Parviz Jafari with First Lieutenant Jalal Damirian as weapons officer",
+   "quote": "Ten minutes later, Major Parviz Jafari, an IIAF squadron commander, along with First Lieutenant Jalal Damirian as weapons officer, were dispatched in a second F-4 Phantom II to intercept the object."
+  },
+  {
+   "s": "f4_2",
+   "p": "dispatch_time",
+   "v": "ten minutes after the first F-4",
+   "quote": "Ten minutes later, Major Parviz Jafari, an IIAF squadron commander, along with First Lieutenant Jalal Damirian as weapons officer, were dispatched in a second F-4 Phantom II to intercept the object."
+  },
+  {
+   "s": "f4_2",
+   "p": "equipment_failure",
+   "v": "communications system shut off as it approached the object",
+   "quote": "As he approached the object, which Jafari described as \"flashing with intense red, green, orange and blue lights so bright that I was not able to see its body\", his plane's communications system shut off."
+  },
+  {
+   "s": "f4_2",
+   "p": "equipment_failure",
+   "v": "sudden power loss in the weapons control panel, as well as UHF and internal communications",
+   "quote": "as he attempted to fire an AIM-9 Sidewinder infrared guided missile, the pilot experienced a sudden power loss in the weapons control panel, as well as UHF and internal communications."
+  },
+  {
+   "s": "f4_2",
+   "p": "equipment_failure",
+   "v": "ejection seat, a mechanical mechanism, also failed",
+   "quote": "In addition to the powered equipment and communication shut down, the ejection seat, which was a mechanical mechanism, had also failed."
+  },
+  {
+   "s": "f4_2",
+   "p": "weapon",
+   "v": "AIM-9 Sidewinder infrared guided missile",
+   "quote": "as he attempted to fire an AIM-9 Sidewinder infrared guided missile, the pilot experienced a sudden power loss in the weapons control panel, as well as UHF and internal communications."
+  },
+  {
+   "s": "f4_2",
+   "p": "maneuver",
+   "v": "turn and negative-G dive as an evasive manoeuvre",
+   "quote": "The pilot promptly performed a turn and negative-G dive in an evasive manoeuvre, but the object took a position behind the F-4 at a distance of 3–4 nautical miles (3.5–4.6 mi; 5.6–7.4 km)."
+  },
+  {
+   "s": "f4_2",
+   "p": "speed",
+   "v": "Mach 2 during a further interception attempt",
+   "quote": "According to General Youssefi, the second F-4 made another attempt at Mach 2 speed to intercept the object but failed to catch up with it."
+  },
+  {
+   "s": "f4_2",
+   "p": "altitude",
+   "v": "descended from 25,000 feet (7,600 m) to 15,000 feet (4,600 m)",
+   "quote": "The pilot then descended from an altitude of 25,000 feet (7,600 m) to 15,000 feet (4,600 m), marking the object's location."
+  },
+  {
+   "s": "f4_2",
+   "p": "radar_note",
+   "v": "radar could have been in \"manual track\" mode, causing a wrong interpretation of the radar lock (McDonnell Douglas repair supervisor's opinion)",
+   "quote": "Klass cites a McDonnell Douglas repair supervisor's opinion that the F-4's radar could have been in \"manual track\" mode, causing a wrong interpretation of the radar lock."
+  },
+  {
+   "s": "airliner",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "A nearby airliner also reported radio failure."
+  },
+  {
+   "s": "airliner",
+   "p": "equipment_failure",
+   "v": "radio failure",
+   "quote": "A nearby airliner also reported radio failure."
+  },
+  {
+   "s": "heli",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "The next day, Jafari and Damirian flew by helicopter to the location of the object's \"landing\", finding nothing."
+  },
+  {
+   "s": "heli",
+   "p": "use",
+   "v": "flown the next day by Jafari and Damirian to the location of the object's \"landing\"; circled to the west",
+   "quote": "As the helicopter circled to the west, a beeping transponder that appeared to have come from a military transport aircraft was detected in the area."
+  },
+  {
+   "s": "c141",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "The beeping transponder found at the supposed touchdown site was from a C-141 aircraft, according to investigating Col. Mooy, but \"they'd been having problems with the beepers being ejected simply by turbulence over the mountains just north of Tehran\"."
+  },
+  {
+   "s": "c141",
+   "p": "role",
+   "v": "aircraft type from which the beeping transponder found at the supposed touchdown site came, according to Col. Mooy",
+   "quote": "The beeping transponder found at the supposed touchdown site was from a C-141 aircraft, according to investigating Col. Mooy, but \"they'd been having problems with the beepers being ejected simply by turbulence over the mountains just north of Tehran\"."
+  },
+  {
+   "s": "doc_initial",
+   "p": "key_document",
+   "o": "case",
+   "quote": "An initial report of the incident was relayed to the U.S. Joint Chiefs of Staff on the day of the incident."
+  },
+  {
+   "s": "doc_initial",
+   "p": "date",
+   "v": "day of the incident",
+   "quote": "An initial report of the incident was relayed to the U.S. Joint Chiefs of Staff on the day of the incident."
+  },
+  {
+   "s": "doc_initial",
+   "p": "recipients",
+   "v": "U.S. Joint Chiefs of Staff",
+   "quote": "An initial report of the incident was relayed to the U.S. Joint Chiefs of Staff on the day of the incident."
+  },
+  {
+   "s": "doc_initial",
+   "p": "recipients",
+   "v": "Secretary of State, CIA, White House, Air Force (CSAF), Army Chiefs of Staff (CSA), Chief of Naval Operations (CNO), DIA",
+   "quote": "Other offices and agencies in the United States that received the report included the Secretary of State, the Central Intelligence Agency (CIA), the White House, the Air Force (CSAF), the Army Chiefs of Staff (CSA), the Chief of Naval Operations (CNO), the Defense Intelligence Agency (DIA)"
+  },
+  {
+   "s": "doc_initial",
+   "p": "recipients",
+   "v": "Commander in Chief of U.S. Naval Forces in the Middle East, Commander in Chief of the U.S. Air Force in Europe, European Defense Air Command, Commander in Chief of Forces in Europe",
+   "quote": "the Defense Intelligence Agency (DIA), the Commander in Chief of U.S. Naval Forces in the Middle East, the Commander in Chief of the U.S. Air Force in Europe, the European Defense Air Command, and the Commander in Chief of Forces in Europe."
+  },
+  {
+   "s": "doc_usaf",
+   "p": "key_document",
+   "o": "case",
+   "quote": "A report of the incident was passed on to the US Air Force which, according to the Iranian general, was the procedure in case of a UFO sighting."
+  },
+  {
+   "s": "doc_usaf",
+   "p": "recipient",
+   "v": "US Air Force",
+   "quote": "A report of the incident was passed on to the US Air Force which, according to the Iranian general, was the procedure in case of a UFO sighting."
+  },
+  {
+   "s": "doc_dia",
+   "p": "key_document",
+   "o": "case",
+   "quote": "A report by the National Aviation Reporting Center on Anomalous Phenomena headed by retired NASA scientist and ufologist Richard Haines noted a section of a document by the Defense Intelligence Agency (DIA), which described the reported incident as \"outstanding\", and a classic that meets all the criteria for a ufological study."
+  },
+  {
+   "s": "doc_dia",
+   "p": "assessment",
+   "v": "described the reported incident as \"outstanding\", and a classic that meets all the criteria for a ufological study",
+   "quote": "A report by the National Aviation Reporting Center on Anomalous Phenomena headed by retired NASA scientist and ufologist Richard Haines noted a section of a document by the Defense Intelligence Agency (DIA), which described the reported incident as \"outstanding\", and a classic that meets all the criteria for a ufological study."
+  },
+  {
+   "s": "doc_dia",
+   "p": "listed_as",
+   "v": "Defense Intelligence Agency Report (external link)",
+   "quote": "Defense Intelligence Agency Report"
+  },
+  {
+   "s": "doc_mooy",
+   "p": "key_document",
+   "o": "case",
+   "quote": "There is nothing especially interesting about the actual article; it's just a dramatized retelling of the same information in Col. Mooy's memo, offered in the newsletter as a curious editorial on the subject of jamming and interference.\""
+  },
+  {
+   "s": "w_narcap",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "A report by the National Aviation Reporting Center on Anomalous Phenomena headed by retired NASA scientist and ufologist Richard Haines noted a section of a document by the Defense Intelligence Agency (DIA), which described the reported incident as \"outstanding\", and a classic that meets all the criteria for a ufological study."
+  },
+  {
+   "s": "w_narcap",
+   "p": "content",
+   "v": "noted a section of a DIA document describing the incident as \"outstanding\"",
+   "quote": "A report by the National Aviation Reporting Center on Anomalous Phenomena headed by retired NASA scientist and ufologist Richard Haines noted a section of a document by the Defense Intelligence Agency (DIA), which described the reported incident as \"outstanding\", and a classic that meets all the criteria for a ufological study."
+  },
+  {
+   "s": "w_sightings",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The Sightings television program covered the incident in 1994, interviewing many of the participants."
+  },
+  {
+   "s": "w_sightings",
+   "p": "year",
+   "v": "1994",
+   "quote": "The Sightings television program covered the incident in 1994, interviewing many of the participants."
+  },
+  {
+   "s": "w_sightings",
+   "p": "format",
+   "v": "television program",
+   "quote": "The Sightings television program covered the incident in 1994, interviewing many of the participants."
+  },
+  {
+   "s": "w_sightings",
+   "p": "content",
+   "v": "interviewed many of the participants",
+   "quote": "The Sightings television program covered the incident in 1994, interviewing many of the participants."
+  },
+  {
+   "s": "w_telegraph",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The Daily Telegraph's top 10 UFO sightings (#7)."
+  },
+  {
+   "s": "w_telegraph",
+   "p": "ranking",
+   "v": "#7",
+   "quote": "The Daily Telegraph's top 10 UFO sightings (#7)."
+  },
+  {
+   "s": "w_guardian",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The Guardian's top 10 UFO sightings (#10)."
+  },
+  {
+   "s": "w_guardian",
+   "p": "ranking",
+   "v": "#10",
+   "quote": "The Guardian's top 10 UFO sightings (#10)."
+  },
+  {
+   "s": "w_miji",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "An editorial (see below) was published in the United States Air Force Security Services quarterly MIJI (Meaconing, Intrusion, Jamming, and Interference) newsletter that is \"often waved by the UFOlogists as compelling evidence\"."
+  },
+  {
+   "s": "w_miji",
+   "p": "frequency",
+   "v": "quarterly",
+   "quote": "An editorial (see below) was published in the United States Air Force Security Services quarterly MIJI (Meaconing, Intrusion, Jamming, and Interference) newsletter that is \"often waved by the UFOlogists as compelling evidence\"."
+  },
+  {
+   "s": "w_miji",
+   "p": "reception",
+   "v": "\"often waved by the UFOlogists as compelling evidence\"",
+   "quote": "An editorial (see below) was published in the United States Air Force Security Services quarterly MIJI (Meaconing, Intrusion, Jamming, and Interference) newsletter that is \"often waved by the UFOlogists as compelling evidence\"."
+  },
+  {
+   "s": "w_miji",
+   "p": "content",
+   "v": "dramatized retelling of the information in Col. Mooy's memo, offered as a curious editorial on the subject of jamming and interference",
+   "quote": "There is nothing especially interesting about the actual article; it's just a dramatized retelling of the same information in Col. Mooy's memo, offered in the newsletter as a curious editorial on the subject of jamming and interference.\""
+  },
+  {
+   "s": "w_skeptoid",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "\"Skeptoid #315: The Tehran 1976 UFO\". Skeptoid. Retrieved 22 June 2017. Podcast citing the various problems with the incident."
+  },
+  {
+   "s": "w_skeptoid",
+   "p": "date",
+   "v": "2012-06-19",
+   "quote": "Dunning, Brian (19 June 2012). \"Skeptoid #315: The Tehran 1976 UFO\". Skeptoid."
+  },
+  {
+   "s": "w_skeptoid",
+   "p": "format",
+   "v": "podcast",
+   "quote": "\"Skeptoid #315: The Tehran 1976 UFO\". Skeptoid. Retrieved 22 June 2017. Podcast citing the various problems with the incident."
+  },
+  {
+   "s": "f_radar",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "On 19 September 1976, a radar and visual sighting of an unidentified flying object (UFO) occurred over Tehran, the capital of Iran, by civilians and military personnel."
+  },
+  {
+   "s": "f_radar",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Jafari reported acquiring a radar lock on the object at a range of 27 nautical miles (50 km; 31 mi) at 12 o'clock high position, and a rate of closure of 150 knots (280 km/h; 170 mph)."
+  },
+  {
+   "s": "f_emi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In separate incidents, two Imperial Iranian Air Force F-4 Phantom II jet interceptors reported losing instrumentation and communications as they approached the object."
+  },
+  {
+   "s": "f_emi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "as he attempted to fire an AIM-9 Sidewinder infrared guided missile, the pilot experienced a sudden power loss in the weapons control panel, as well as UHF and internal communications."
+  },
+  {
+   "s": "f_pursuit",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Ten minutes later, Major Parviz Jafari, an IIAF squadron commander, along with First Lieutenant Jalal Damirian as weapons officer, were dispatched in a second F-4 Phantom II to intercept the object."
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "On 19 September 1976, a radar and visual sighting of an unidentified flying object (UFO) occurred over Tehran, the capital of Iran, by civilians and military personnel."
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "He reported this to General Youssefi of the Imperial Iranian Air Force (IIAF), who also observed the object from his balcony and subsequently authorized an interception with directions provided by Pirouzi."
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "They could see the object from 70 miles (110 km) away."
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "As he approached the object, which Jafari described as \"flashing with intense red, green, orange and blue lights so bright that I was not able to see its body\", his plane's communications system shut off."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Hossein Pirouzi, an air traffic controller at the Mehrabad Airport Control Tower, received reports of a shining object in the sky above the Shemirān neighbourhood of Tehran by at least four civilians."
+  },
+  {
+   "s": "f_speed",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Nazeri later said in an interview in 1994 that the object outpaced him even at Mach 2, which was the time that he started to believe he was dealing with an extraterrestrial UFO."
+  },
+  {
+   "s": "f_speed",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Jafari later said he was \"startled by a round object which came out of the primary object and started coming straight toward me at a high rate of speed, almost as if it were a missile\""
+  },
+  {
+   "s": "f_landing",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Expecting an explosion that did not happen, he claimed that it \"seemed to slow down and land gently on the ground, radiating a high bright light\"."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The crew were interviewed by the former Iranian Air Force commander Lt. Gen. Shapour Azarbarzin."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The beeping transponder found at the supposed touchdown site was from a C-141 aircraft, according to investigating Col. Mooy, but \"they'd been having problems with the beepers being ejected simply by turbulence over the mountains just north of Tehran\"."
+  },
+  {
+   "s": "f_shape",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Pirouzi himself saw the object, which he described as rectangular in shape with two large lights, one at either end, and a small red light circling its midsection."
+  },
+  {
+   "s": "f_shape",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Jafari looked to his left and saw \"the primary, diamond-shaped thing up there, and another bright object came out of it and headed directly toward the ground\""
+  },
+  {
+   "s": "f_sound",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Occupants of the nearby house reported hearing a loud noise and a bright flash of light during the previous night."
+  },
+  {
+   "s": "f_lights",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "As he approached the object, which Jafari described as \"flashing with intense red, green, orange and blue lights so bright that I was not able to see its body\", his plane's communications system shut off."
+  },
+  {
+   "s": "x_planet",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "According to U.S. journalist Philip J. Klass, it was likely the pilots initially saw an astronomical body, probably Jupiter, an explanation also cited by aerospace researcher James Oberg."
+  },
+  {
+   "s": "x_planet",
+   "p": "body",
+   "v": "Jupiter",
+   "quote": "According to U.S. journalist Philip J. Klass, it was likely the pilots initially saw an astronomical body, probably Jupiter, an explanation also cited by aerospace researcher James Oberg."
+  },
+  {
+   "s": "x_star",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "He also points out that the aircrews at the time were tired and rattled, and could have mistaken stars or meteors for UFOs and \"missiles\"."
+  },
+  {
+   "s": "x_meteor",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "He also points out that the aircrews at the time were tired and rattled, and could have mistaken stars or meteors for UFOs and \"missiles\"."
+  },
+  {
+   "s": "x_meteor",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "American sceptic author Brian Dunning observes that 19 September, the day of the incident, was the height of two annual meteorite showers, the Gamma Piscids and the Southern Piscids and the tail of the Eta Draconids shower, so observation of falling objects or odd lights would not have been unusual."
+  },
+  {
+   "s": "x_meteor",
+   "p": "meteor_showers",
+   "v": "Gamma Piscids, Southern Piscids (at their height) and the tail of the Eta Draconids",
+   "quote": "American sceptic author Brian Dunning observes that 19 September, the day of the incident, was the height of two annual meteorite showers, the Gamma Piscids and the Southern Piscids and the tail of the Eta Draconids shower, so observation of falling objects or odd lights would not have been unusual."
+  },
+  {
+   "s": "x_mis",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "There have been many cases where planes had equipment failures, and there have been many cases where planes misidentified celestial objects. Once in a while, both will happen on the same flight."
+  },
+  {
+   "s": "x_equip",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Klass wrote that pilot incompetence and equipment malfunction likely accounted for the reported equipment failures."
+  },
+  {
+   "s": "x_pilot",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Klass wrote that pilot incompetence and equipment malfunction likely accounted for the reported equipment failures."
+  }
+ ]
+}

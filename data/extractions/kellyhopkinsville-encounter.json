@@ -1,0 +1,1667 @@
+{
+ "slug": "kellyhopkinsville-encounter",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Kelly–Hopkinsville encounter",
+   "description": "Claimed 1955 close encounter in which a Kentucky farm family said small creatures from a spaceship besieged their farmhouse.",
+   "aliases": [
+    "Hopkinsville Goblins Case",
+    "Kelly Green Men Case",
+    "Kelly-Hopkinsville encounter"
+   ]
+  },
+  {
+   "key": "kelly",
+   "type": "place",
+   "name": "Kelly, Kentucky",
+   "description": "Community in Christian County near which the encounter was claimed",
+   "aliases": [
+    "Kelly",
+    "the town of Kelly"
+   ]
+  },
+  {
+   "key": "hopkinsville",
+   "type": "place",
+   "name": "Hopkinsville, Kentucky",
+   "description": "Community in Christian County near which the encounter was claimed",
+   "aliases": [
+    "Hopkinsville"
+   ]
+  },
+  {
+   "key": "christian",
+   "type": "place",
+   "name": "Christian County, Kentucky",
+   "description": "County where the claimed encounter took place",
+   "aliases": [
+    "Christian County"
+   ]
+  },
+  {
+   "key": "kentucky",
+   "type": "place",
+   "name": "Kentucky",
+   "description": "US state where the claimed encounter took place"
+  },
+  {
+   "key": "usa",
+   "type": "place",
+   "name": "United States",
+   "description": "Country where the claimed encounter took place"
+  },
+  {
+   "key": "farmhouse",
+   "type": "place",
+   "name": "Sutton farmhouse",
+   "description": "Farmhouse near Kelly where the family said the creatures attacked",
+   "aliases": [
+    "the farmhouse"
+   ]
+  },
+  {
+   "key": "station",
+   "type": "place",
+   "name": "Hopkinsville police station",
+   "description": "Police station where the family arrived to report the attack"
+  },
+  {
+   "key": "campbell",
+   "type": "place",
+   "name": "Fort Campbell",
+   "description": "Nearby United States Army base that sent military police",
+   "aliases": [
+    "United States Army Fort Campbell"
+   ]
+  },
+  {
+   "key": "chicago",
+   "type": "place",
+   "name": "Chicago, Illinois",
+   "description": "City where the musical It Came From Kentucky was staged",
+   "aliases": [
+    "Chicago"
+   ]
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "description": "Service whose Project Blue Book files classified the case as a hoax",
+   "aliases": [
+    "Air Force"
+   ]
+  },
+  {
+   "key": "army",
+   "type": "organization",
+   "name": "United States Army",
+   "description": "Service operating Fort Campbell, source of the four military police",
+   "aliases": [
+    "Army"
+   ]
+  },
+  {
+   "key": "bluebook",
+   "type": "program",
+   "name": "Project Blue Book",
+   "description": "Official study whose files listed the case as a hoax"
+  },
+  {
+   "key": "kne",
+   "type": "organization",
+   "name": "Kentucky New Era",
+   "description": "First newspaper to report the incident"
+  },
+  {
+   "key": "csi",
+   "type": "organization",
+   "name": "Committee for Skeptical Inquiry",
+   "description": "Skeptical organisation of which Joe Nickell is a member"
+  },
+  {
+   "key": "annoyance",
+   "type": "organization",
+   "name": "Annoyance Theater",
+   "description": "Theater whose musical It Came From Kentucky was based on the event"
+  },
+  {
+   "key": "lucky",
+   "type": "person",
+   "name": "Elmer Sutton",
+   "description": "Adult resident who claimed to have shot at the figures; son of Glennie Lankford",
+   "aliases": [
+    "Elmer \"Lucky\" Sutton",
+    "Lucky Sutton",
+    "Lucky"
+   ]
+  },
+  {
+   "key": "taylor",
+   "type": "person",
+   "name": "Billy Ray Taylor",
+   "description": "Adult at the farmhouse who claimed to have shot at the figures and to have seen a bright light streak across the sky",
+   "aliases": [
+    "Billy Ray"
+   ]
+  },
+  {
+   "key": "glennie",
+   "type": "person",
+   "name": "Glennie Lankford",
+   "description": "Resident of the farmhouse and mother of the Sutton brothers and three minor children",
+   "aliases": [
+    "Mrs. Lankford"
+   ]
+  },
+  {
+   "key": "lonnie",
+   "type": "person",
+   "name": "Lonnie Lankford",
+   "description": "Minor child of Glennie Lankford living at the farmhouse",
+   "aliases": [
+    "Lonnie"
+   ]
+  },
+  {
+   "key": "charlton",
+   "type": "person",
+   "name": "Charlton Lankford",
+   "description": "Minor child of Glennie Lankford living at the farmhouse",
+   "aliases": [
+    "Charlton"
+   ]
+  },
+  {
+   "key": "mary",
+   "type": "person",
+   "name": "Mary Lankford",
+   "description": "Minor child of Glennie Lankford living at the farmhouse",
+   "aliases": [
+    "Mary"
+   ]
+  },
+  {
+   "key": "jc",
+   "type": "person",
+   "name": "John Charley Sutton",
+   "description": "Grown son of Glennie Lankford living at the farmhouse",
+   "aliases": [
+    "John Charley \"J.C.\" Sutton",
+    "J.C. Sutton",
+    "J.C."
+   ]
+  },
+  {
+   "key": "vera",
+   "type": "person",
+   "name": "Vera Sutton",
+   "description": "Wife of Elmer \"Lucky\" Sutton",
+   "aliases": [
+    "Vera"
+   ]
+  },
+  {
+   "key": "alene",
+   "type": "person",
+   "name": "Alene Sutton",
+   "description": "Wife of J.C. Sutton",
+   "aliases": [
+    "Alene"
+   ]
+  },
+  {
+   "key": "baker",
+   "type": "person",
+   "name": "O. P. Baker",
+   "description": "Brother of Alene, resident of the farmhouse"
+  },
+  {
+   "key": "june",
+   "type": "person",
+   "name": "June Taylor",
+   "description": "Wife of Billy Ray Taylor",
+   "aliases": [
+    "June"
+   ]
+  },
+  {
+   "key": "schmaltz",
+   "type": "person",
+   "name": "Rodney Schmaltz",
+   "description": "Psychologist who cites the incident as an example of pseudoscience",
+   "aliases": [
+    "Schmaltz"
+   ]
+  },
+  {
+   "key": "lilienfeld",
+   "type": "person",
+   "name": "Scott Lilienfeld",
+   "description": "Psychologist who cites the incident as an example of pseudoscience",
+   "aliases": [
+    "Lilienfeld"
+   ]
+  },
+  {
+   "key": "nickell",
+   "type": "person",
+   "name": "Joe Nickell",
+   "description": "Skeptic and Committee for Skeptical Inquiry member who proposed owls and meteors",
+   "aliases": [
+    "Nickell",
+    "Joe Nickel"
+   ]
+  },
+  {
+   "key": "dunning",
+   "type": "person",
+   "name": "Brian Dunning",
+   "description": "Author who compared the creatures to great horned owls and questioned claims of Air Force investigators",
+   "aliases": [
+    "Dunning"
+   ]
+  },
+  {
+   "key": "leclet",
+   "type": "person",
+   "name": "Renaud Leclet",
+   "description": "French ufologist who argued the residents saw great horned owls"
+  },
+  {
+   "key": "clark",
+   "type": "person",
+   "name": "Jerome Clark",
+   "description": "Ufologist who wrote about the case and said no evidence of a hoax was found",
+   "aliases": [
+    "Clark"
+   ]
+  },
+  {
+   "key": "hendry",
+   "type": "person",
+   "name": "Allan Hendry",
+   "description": "Ufologist who wrote about the case"
+  },
+  {
+   "key": "spielberg",
+   "type": "person",
+   "name": "Steven Spielberg",
+   "description": "Used the event as the basis for the unproduced film Night Skies"
+  },
+  {
+   "key": "creatures",
+   "type": "craft",
+   "name": "small alien creatures reported at the Sutton farmhouse",
+   "description": "The short, dark figures the family said attacked the farmhouse",
+   "aliases": [
+    "Hopkinsville Goblins",
+    "little green men",
+    "Kelly–Hopkinsville creatures"
+   ]
+  },
+  {
+   "key": "spaceship",
+   "type": "craft",
+   "name": "spaceship reported by the Sutton farmhouse residents",
+   "description": "Spaceship from which the family said the creatures came"
+  },
+  {
+   "key": "nightskies",
+   "type": "work",
+   "name": "Night Skies",
+   "description": "Unproduced science fiction horror film based on the event"
+  },
+  {
+   "key": "critters",
+   "type": "work",
+   "name": "Critters",
+   "description": "1986 comedy-horror film loosely based on the event"
+  },
+  {
+   "key": "pokemon",
+   "type": "work",
+   "name": "Pokémon",
+   "description": "Franchise whose Generation 3 creature Sableye was inspired by the Hopkinsville Goblins",
+   "aliases": [
+    "Pokemon"
+   ]
+  },
+  {
+   "key": "pathfinder",
+   "type": "work",
+   "name": "Pathfinder Roleplaying Game",
+   "description": "Roleplaying game whose \"hobkins\" gremlin is based on the goblins of the event"
+  },
+  {
+   "key": "bestiary5",
+   "type": "work",
+   "name": "Bestiary 5",
+   "description": "Pathfinder Roleplaying Game book containing the \"hobkins\""
+  },
+  {
+   "key": "ickentucky",
+   "type": "work",
+   "name": "It Came From Kentucky",
+   "description": "Annoyance Theater musical based on the event"
+  },
+  {
+   "key": "bbtv",
+   "type": "work",
+   "name": "Project Blue Book (TV series)",
+   "description": "American television series with a February 2020 episode on the event",
+   "aliases": [
+    "Project Blue Book"
+   ]
+  },
+  {
+   "key": "monstertalk",
+   "type": "work",
+   "name": "Monster Talk",
+   "description": "Podcast with a Joe Nickell interview about the event",
+   "aliases": [
+    "Episode 137: American Goblins – Part 2"
+   ]
+  },
+  {
+   "key": "f_occ",
+   "type": "feature",
+   "name": "occupants-reported",
+   "description": "Small alien creatures reported"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "Five adults and seven children reported the attack"
+  },
+  {
+   "key": "f_child",
+   "type": "feature",
+   "name": "child-witnesses",
+   "description": "Seven children among those reporting"
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Police search and Project Blue Book classification"
+  },
+  {
+   "key": "f_hoax",
+   "type": "feature",
+   "name": "hoax-alleged",
+   "description": "Classified as a hoax by Project Blue Book"
+  },
+  {
+   "key": "f_base",
+   "type": "feature",
+   "name": "military-base-proximity",
+   "description": "Nearby Fort Campbell"
+  },
+  {
+   "key": "f_sound",
+   "type": "feature",
+   "name": "sound-reported",
+   "description": "Bullets striking the creatures sounded like striking a metal bucket"
+  },
+  {
+   "key": "f_gun",
+   "type": "feature",
+   "name": "other:witnesses fired guns at entities",
+   "description": "Family said they held the creatures off with gunfire"
+  },
+  {
+   "key": "x_hoax",
+   "type": "explanation",
+   "name": "hoax",
+   "description": "Official Project Blue Book classification"
+  },
+  {
+   "key": "x_owl",
+   "type": "explanation",
+   "name": "bird-or-animal",
+   "description": "Misidentified great horned owls"
+  },
+  {
+   "key": "x_meteor",
+   "type": "explanation",
+   "name": "meteor-or-fireball",
+   "description": "Meteor sightings at the time"
+  },
+  {
+   "key": "x_misp",
+   "type": "explanation",
+   "name": "misperception",
+   "description": "Misidentification of natural phenomena"
+  },
+  {
+   "key": "x_psych",
+   "type": "explanation",
+   "name": "psychological",
+   "description": "\"The effects of excitement\""
+  },
+  {
+   "key": "x_intox",
+   "type": "explanation",
+   "name": "other:intoxication",
+   "description": "Suggested by Schmaltz and Lilienfeld"
+  },
+  {
+   "key": "x_fox",
+   "type": "explanation",
+   "name": "other:foxfire",
+   "description": "Bioluminescent fungus on decaying wood, consistent with the luminous patch and green light"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1955-08-21",
+   "quote": "is a claimed close encounter with extraterrestrial beings that occurred near the communities of Kelly and Hopkinsville in Christian County, Kentucky, United States during the night and early morning of August 21–22, 1955"
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1955-08-22",
+   "quote": "is a claimed close encounter with extraterrestrial beings that occurred near the communities of Kelly and Hopkinsville in Christian County, Kentucky, United States during the night and early morning of August 21–22, 1955"
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "evening",
+   "quote": "On the evening of August 21, 1955, five adults and seven children arrived at the Hopkinsville police station claiming that small alien creatures from a spaceship had been attacking their farmhouse and that they had been holding them off with gunfire \"for nearly four hours\"."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "night and early morning",
+   "quote": "is a claimed close encounter with extraterrestrial beings that occurred near the communities of Kelly and Hopkinsville in Christian County, Kentucky, United States during the night and early morning of August 21–22, 1955"
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "is a claimed close encounter with extraterrestrial beings that occurred near the communities of Kelly and Hopkinsville in Christian County, Kentucky, United States during the night and early morning of August 21–22, 1955"
+  },
+  {
+   "s": "case",
+   "p": "witness_count",
+   "v": "12",
+   "quote": "On the evening of August 21, 1955, five adults and seven children arrived at the Hopkinsville police station claiming that small alien creatures from a spaceship had been attacking their farmhouse and that they had been holding them off with gunfire \"for nearly four hours\"."
+  },
+  {
+   "s": "case",
+   "p": "witness_composition",
+   "v": "five adults and seven children",
+   "quote": "On the evening of August 21, 1955, five adults and seven children arrived at the Hopkinsville police station claiming that small alien creatures from a spaceship had been attacking their farmhouse and that they had been holding them off with gunfire \"for nearly four hours\"."
+  },
+  {
+   "s": "case",
+   "p": "duration",
+   "v": "nearly four hours",
+   "quote": "On the evening of August 21, 1955, five adults and seven children arrived at the Hopkinsville police station claiming that small alien creatures from a spaceship had been attacking their farmhouse and that they had been holding them off with gunfire \"for nearly four hours\"."
+  },
+  {
+   "s": "case",
+   "p": "also_known_as",
+   "v": "Hopkinsville Goblins Case",
+   "quote": "The Kelly–Hopkinsville encounter (also known as the Hopkinsville Goblins Case or Kelly Green Men Case)"
+  },
+  {
+   "s": "case",
+   "p": "also_known_as",
+   "v": "Kelly Green Men Case",
+   "quote": "The Kelly–Hopkinsville encounter (also known as the Hopkinsville Goblins Case or Kelly Green Men Case)"
+  },
+  {
+   "s": "case",
+   "p": "case_type",
+   "v": "claimed close encounter with extraterrestrial beings",
+   "quote": "is a claimed close encounter with extraterrestrial beings that occurred near the communities of Kelly and Hopkinsville in Christian County, Kentucky, United States during the night and early morning of August 21–22, 1955"
+  },
+  {
+   "s": "case",
+   "p": "official_classification",
+   "v": "hoax",
+   "quote": "The alleged encounter was officially classified as a hoax in the Project Blue Book files by the United States Air Force."
+  },
+  {
+   "s": "case",
+   "p": "official_classification",
+   "v": "listed as a hoax with no further comment",
+   "quote": "Project Blue Book listed the case as a hoax with no further comment."
+  },
+  {
+   "s": "case",
+   "p": "ufologist_assessment",
+   "v": "one of the most significant and well-documented cases in the history of UFO incidents",
+   "quote": "Ufologists regard it as one of the most significant and well-documented cases in the history of UFO incidents"
+  },
+  {
+   "s": "case",
+   "p": "skeptic_assessment",
+   "v": "no actual physical evidence that the encounter ever took place; reports due to \"the effects of excitement\" and misidentification of natural phenomena such as meteors and owls",
+   "quote": "skeptics maintain there was no actual physical evidence that the encounter ever took place and the reports were due to \"the effects of excitement\" and misidentification of natural phenomena such as meteors and owls"
+  },
+  {
+   "s": "case",
+   "p": "academic_use",
+   "v": "used by psychologists as an academic example of pseudoscience to help students distinguish truth from fiction",
+   "quote": "Psychologists have used the alleged incident as an academic example of pseudoscience to help students distinguish truth from fiction."
+  },
+  {
+   "s": "case",
+   "p": "claim",
+   "v": "small alien creatures from a spaceship had been attacking the farmhouse and were held off with gunfire",
+   "quote": "On the evening of August 21, 1955, five adults and seven children arrived at the Hopkinsville police station claiming that small alien creatures from a spaceship had been attacking their farmhouse and that they had been holding them off with gunfire \"for nearly four hours\"."
+  },
+  {
+   "s": "case",
+   "p": "responders",
+   "v": "four city police officers, five state troopers, three deputy sheriffs, and four military police officers",
+   "quote": "Concerned about a possible gun battle between local citizens, four city police officers, five state troopers, three deputy sheriffs, and four military police officers from the nearby United States Army Fort Campbell drove to the Sutton farmhouse located near the town of Kelly in Christian County."
+  },
+  {
+   "s": "case",
+   "p": "city_police_officer_count",
+   "v": "4",
+   "quote": "Concerned about a possible gun battle between local citizens, four city police officers, five state troopers, three deputy sheriffs, and four military police officers from the nearby United States Army Fort Campbell drove to the Sutton farmhouse located near the town of Kelly in Christian County."
+  },
+  {
+   "s": "case",
+   "p": "state_trooper_count",
+   "v": "5",
+   "quote": "Concerned about a possible gun battle between local citizens, four city police officers, five state troopers, three deputy sheriffs, and four military police officers from the nearby United States Army Fort Campbell drove to the Sutton farmhouse located near the town of Kelly in Christian County."
+  },
+  {
+   "s": "case",
+   "p": "deputy_sheriff_count",
+   "v": "3",
+   "quote": "Concerned about a possible gun battle between local citizens, four city police officers, five state troopers, three deputy sheriffs, and four military police officers from the nearby United States Army Fort Campbell drove to the Sutton farmhouse located near the town of Kelly in Christian County."
+  },
+  {
+   "s": "case",
+   "p": "military_police_count",
+   "v": "4",
+   "quote": "Concerned about a possible gun battle between local citizens, four city police officers, five state troopers, three deputy sheriffs, and four military police officers from the nearby United States Army Fort Campbell drove to the Sutton farmhouse located near the town of Kelly in Christian County."
+  },
+  {
+   "s": "case",
+   "p": "response_reason",
+   "v": "concern about a possible gun battle between local citizens",
+   "quote": "Concerned about a possible gun battle between local citizens, four city police officers, five state troopers, three deputy sheriffs, and four military police officers from the nearby United States Army Fort Campbell drove to the Sutton farmhouse located near the town of Kelly in Christian County."
+  },
+  {
+   "s": "case",
+   "p": "search_result",
+   "v": "no evidence apart from broken windows and holes in screens, possibly the result of gunfire",
+   "quote": "Their search yielded no evidence apart from broken windows and holes in screens, possibly the result of gunfire."
+  },
+  {
+   "s": "case",
+   "p": "aftermath",
+   "v": "officers returned the next day and found the house empty",
+   "quote": "When officers returned the next day, they found the house empty."
+  },
+  {
+   "s": "case",
+   "p": "aftermath",
+   "v": "neighbors said the families had \"packed up and left\"",
+   "quote": "Neighbors informed them that the families had \"packed up and left\" after claiming \"the creatures had returned about 3:30 in the morning.\""
+  },
+  {
+   "s": "case",
+   "p": "later_claim",
+   "v": "the creatures had returned about 3:30 in the morning",
+   "quote": "Neighbors informed them that the families had \"packed up and left\" after claiming \"the creatures had returned about 3:30 in the morning.\""
+  },
+  {
+   "s": "case",
+   "p": "press_coverage",
+   "v": "widespread coverage in local and national press",
+   "quote": "The family's claims received widespread coverage in local and national press."
+  },
+  {
+   "s": "case",
+   "p": "press_report",
+   "v": "all officials appeared to agree that there was no drinking involved",
+   "quote": "Although contemporary newspaper stories reported that \"all officials appeared to agree that there was no drinking involved\", Schmaltz and Lilienfeld suggest that intoxication may have played a part in the sighting."
+  },
+  {
+   "s": "case",
+   "p": "commemoration",
+   "v": "Little Green Men Days Festival, celebrated annually by the Kelly community",
+   "quote": "The Kelly community celebrates the event annually with the Little Green Men Days Festival."
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "Air Force investigators showing up the next day at Mrs. Lankford's house has been published by later authors; Dunning could find no corroborating evidence",
+   "quote": "Brian Dunning reported: \"The claim that Air Force investigators showed up the next day at Mrs. Lankford's house has been published a number of times by later authors, but I could find no corroborating evidence of this.\""
+  },
+  {
+   "s": "kelly",
+   "p": "near",
+   "o": "case",
+   "quote": "is a claimed close encounter with extraterrestrial beings that occurred near the communities of Kelly and Hopkinsville in Christian County, Kentucky, United States during the night and early morning of August 21–22, 1955"
+  },
+  {
+   "s": "hopkinsville",
+   "p": "near",
+   "o": "case",
+   "quote": "is a claimed close encounter with extraterrestrial beings that occurred near the communities of Kelly and Hopkinsville in Christian County, Kentucky, United States during the night and early morning of August 21–22, 1955"
+  },
+  {
+   "s": "christian",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "is a claimed close encounter with extraterrestrial beings that occurred near the communities of Kelly and Hopkinsville in Christian County, Kentucky, United States during the night and early morning of August 21–22, 1955"
+  },
+  {
+   "s": "kentucky",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "is a claimed close encounter with extraterrestrial beings that occurred near the communities of Kelly and Hopkinsville in Christian County, Kentucky, United States during the night and early morning of August 21–22, 1955"
+  },
+  {
+   "s": "usa",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "is a claimed close encounter with extraterrestrial beings that occurred near the communities of Kelly and Hopkinsville in Christian County, Kentucky, United States during the night and early morning of August 21–22, 1955"
+  },
+  {
+   "s": "kelly",
+   "p": "located_in",
+   "o": "christian",
+   "quote": "four military police officers from the nearby United States Army Fort Campbell drove to the Sutton farmhouse located near the town of Kelly in Christian County"
+  },
+  {
+   "s": "hopkinsville",
+   "p": "located_in",
+   "o": "christian",
+   "quote": "is a claimed close encounter with extraterrestrial beings that occurred near the communities of Kelly and Hopkinsville in Christian County, Kentucky, United States during the night and early morning of August 21–22, 1955"
+  },
+  {
+   "s": "christian",
+   "p": "located_in",
+   "o": "kentucky",
+   "quote": "is a claimed close encounter with extraterrestrial beings that occurred near the communities of Kelly and Hopkinsville in Christian County, Kentucky, United States during the night and early morning of August 21–22, 1955"
+  },
+  {
+   "s": "kentucky",
+   "p": "located_in",
+   "o": "usa",
+   "quote": "is a claimed close encounter with extraterrestrial beings that occurred near the communities of Kelly and Hopkinsville in Christian County, Kentucky, United States during the night and early morning of August 21–22, 1955"
+  },
+  {
+   "s": "farmhouse",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "On the evening of August 21, 1955, five adults and seven children arrived at the Hopkinsville police station claiming that small alien creatures from a spaceship had been attacking their farmhouse and that they had been holding them off with gunfire \"for nearly four hours\"."
+  },
+  {
+   "s": "farmhouse",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "four military police officers from the nearby United States Army Fort Campbell drove to the Sutton farmhouse located near the town of Kelly in Christian County"
+  },
+  {
+   "s": "farmhouse",
+   "p": "near",
+   "o": "kelly",
+   "quote": "four military police officers from the nearby United States Army Fort Campbell drove to the Sutton farmhouse located near the town of Kelly in Christian County"
+  },
+  {
+   "s": "farmhouse",
+   "p": "located_in",
+   "o": "christian",
+   "quote": "four military police officers from the nearby United States Army Fort Campbell drove to the Sutton farmhouse located near the town of Kelly in Christian County"
+  },
+  {
+   "s": "farmhouse",
+   "p": "damage",
+   "v": "broken windows and holes in screens, possibly the result of gunfire",
+   "quote": "Their search yielded no evidence apart from broken windows and holes in screens, possibly the result of gunfire."
+  },
+  {
+   "s": "farmhouse",
+   "p": "status_next_day",
+   "v": "found empty",
+   "quote": "When officers returned the next day, they found the house empty."
+  },
+  {
+   "s": "station",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On the evening of August 21, 1955, five adults and seven children arrived at the Hopkinsville police station claiming that small alien creatures from a spaceship had been attacking their farmhouse and that they had been holding them off with gunfire \"for nearly four hours\"."
+  },
+  {
+   "s": "station",
+   "p": "located_in",
+   "o": "hopkinsville",
+   "quote": "On the evening of August 21, 1955, five adults and seven children arrived at the Hopkinsville police station claiming that small alien creatures from a spaceship had been attacking their farmhouse and that they had been holding them off with gunfire \"for nearly four hours\"."
+  },
+  {
+   "s": "campbell",
+   "p": "near",
+   "o": "case",
+   "quote": "four military police officers from the nearby United States Army Fort Campbell drove to the Sutton farmhouse located near the town of Kelly in Christian County"
+  },
+  {
+   "s": "campbell",
+   "p": "part_of",
+   "o": "army",
+   "quote": "four military police officers from the nearby United States Army Fort Campbell drove to the Sutton farmhouse located near the town of Kelly in Christian County"
+  },
+  {
+   "s": "campbell",
+   "p": "statement",
+   "v": "described by Clark as the nearby source of Air Force officers; Dunning said the military police were from an Army base, not an Air Force base",
+   "quote": "Dunning also observed: \"The four military police who accompanied the police officers on the night of the event were from an Army base, not an Air Force base.\""
+  },
+  {
+   "s": "chicago",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The event was the basis for the Annoyance Theater's musical It Came From Kentucky in Chicago."
+  },
+  {
+   "s": "kelly",
+   "p": "annual_event",
+   "v": "Little Green Men Days Festival",
+   "quote": "The Kelly community celebrates the event annually with the Little Green Men Days Festival."
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The alleged encounter was officially classified as a hoax in the Project Blue Book files by the United States Air Force."
+  },
+  {
+   "s": "bluebook",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The alleged encounter was officially classified as a hoax in the Project Blue Book files by the United States Air Force."
+  },
+  {
+   "s": "bluebook",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "The alleged encounter was officially classified as a hoax in the Project Blue Book files by the United States Air Force."
+  },
+  {
+   "s": "bluebook",
+   "p": "conclusion",
+   "v": "hoax, with no further comment",
+   "quote": "Project Blue Book listed the case as a hoax with no further comment."
+  },
+  {
+   "s": "army",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "four military police officers from the nearby United States Army Fort Campbell drove to the Sutton farmhouse located near the town of Kelly in Christian County"
+  },
+  {
+   "s": "army",
+   "p": "personnel_sent",
+   "v": "four military police officers",
+   "quote": "four military police officers from the nearby United States Army Fort Campbell drove to the Sutton farmhouse located near the town of Kelly in Christian County"
+  },
+  {
+   "s": "kne",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Kentucky New Era, the first paper to report the incident, increased the number of creatures to \"12 to 15,\" and this continues to be the number most often reported."
+  },
+  {
+   "s": "kne",
+   "p": "role",
+   "v": "first paper to report the incident",
+   "quote": "The Kentucky New Era, the first paper to report the incident, increased the number of creatures to \"12 to 15,\" and this continues to be the number most often reported."
+  },
+  {
+   "s": "kne",
+   "p": "reported_creature_count",
+   "v": "12 to 15",
+   "quote": "The Kentucky New Era, the first paper to report the incident, increased the number of creatures to \"12 to 15,\" and this continues to be the number most often reported."
+  },
+  {
+   "s": "nickell",
+   "p": "member_of",
+   "o": "csi",
+   "quote": "Committee for Skeptical Inquiry member and skeptic Joe Nickell notes that the family could have misidentified \"eagle owls\" or great horned owls, which are nocturnal, fly silently, have yellow eyes, and aggressively defend their nests."
+  },
+  {
+   "s": "annoyance",
+   "p": "published",
+   "o": "ickentucky",
+   "quote": "The event was the basis for the Annoyance Theater's musical It Came From Kentucky in Chicago."
+  },
+  {
+   "s": "annoyance",
+   "p": "located_in",
+   "o": "chicago",
+   "quote": "The event was the basis for the Annoyance Theater's musical It Came From Kentucky in Chicago."
+  },
+  {
+   "s": "lucky",
+   "p": "witness",
+   "o": "case",
+   "quote": "Two of the adults, Elmer Sutton and Billy Ray Taylor, claimed they had been shooting at a few short, dark figures who repeatedly popped up at the doorway or peered into windows."
+  },
+  {
+   "s": "lucky",
+   "p": "statement",
+   "v": "had been shooting at a few short, dark figures who repeatedly popped up at the doorway or peered into windows",
+   "quote": "Two of the adults, Elmer Sutton and Billy Ray Taylor, claimed they had been shooting at a few short, dark figures who repeatedly popped up at the doorway or peered into windows."
+  },
+  {
+   "s": "lucky",
+   "p": "nickname",
+   "v": "Lucky",
+   "quote": "two grown sons from a previous marriage, Elmer \"Lucky\" Sutton and John Charley \"J.C.\" Sutton"
+  },
+  {
+   "s": "lucky",
+   "p": "relative_of",
+   "o": "glennie",
+   "quote": "two grown sons from a previous marriage, Elmer \"Lucky\" Sutton and John Charley \"J.C.\" Sutton"
+  },
+  {
+   "s": "lucky",
+   "p": "relative_of",
+   "o": "jc",
+   "quote": "two grown sons from a previous marriage, Elmer \"Lucky\" Sutton and John Charley \"J.C.\" Sutton"
+  },
+  {
+   "s": "lucky",
+   "p": "relative_of",
+   "o": "vera",
+   "quote": "Lucky and J.C.'s respective wives, Vera and Alene"
+  },
+  {
+   "s": "lucky",
+   "p": "occupation",
+   "v": "itinerant carnival worker (reportedly)",
+   "quote": "Both the Taylors, Lucky, and Vera were reportedly itinerant carnival workers who were visiting the farmhouse."
+  },
+  {
+   "s": "lucky",
+   "p": "residence_status",
+   "v": "visiting the farmhouse",
+   "quote": "Both the Taylors, Lucky, and Vera were reportedly itinerant carnival workers who were visiting the farmhouse."
+  },
+  {
+   "s": "taylor",
+   "p": "witness",
+   "o": "case",
+   "quote": "Two of the adults, Elmer Sutton and Billy Ray Taylor, claimed they had been shooting at a few short, dark figures who repeatedly popped up at the doorway or peered into windows."
+  },
+  {
+   "s": "taylor",
+   "p": "statement",
+   "v": "had been shooting at a few short, dark figures who repeatedly popped up at the doorway or peered into windows",
+   "quote": "Two of the adults, Elmer Sutton and Billy Ray Taylor, claimed they had been shooting at a few short, dark figures who repeatedly popped up at the doorway or peered into windows."
+  },
+  {
+   "s": "taylor",
+   "p": "statement",
+   "v": "saw \"a bright light streak across the sky and disappear beyond a tree line some distance from the house\"",
+   "quote": "According to Nickell, meteor sightings also occurred at the time that could explain Billy Ray Taylor's claim that he saw \"a bright light streak across the sky and disappear beyond a tree line some distance from the house\"."
+  },
+  {
+   "s": "taylor",
+   "p": "relative_of",
+   "o": "june",
+   "quote": "Billy Ray Taylor; and Billy Ray's wife, June"
+  },
+  {
+   "s": "taylor",
+   "p": "occupation",
+   "v": "itinerant carnival worker (reportedly)",
+   "quote": "Both the Taylors, Lucky, and Vera were reportedly itinerant carnival workers who were visiting the farmhouse."
+  },
+  {
+   "s": "taylor",
+   "p": "residence_status",
+   "v": "visiting the farmhouse",
+   "quote": "Both the Taylors, Lucky, and Vera were reportedly itinerant carnival workers who were visiting the farmhouse."
+  },
+  {
+   "s": "glennie",
+   "p": "witness",
+   "o": "case",
+   "quote": "Residents of the farmhouse included Glennie Lankford; her minor children, Lonnie, Charlton, and Mary; two grown sons from a previous marriage, Elmer \"Lucky\" Sutton and John Charley \"J.C.\" Sutton; Lucky and J.C.'s respective wives, Vera and Alene; Alene's brother, O. P. Baker; Billy Ray Taylor; and Billy Ray's wife, June."
+  },
+  {
+   "s": "glennie",
+   "p": "household",
+   "v": "minor children Lonnie, Charlton and Mary; two grown sons from a previous marriage",
+   "quote": "Residents of the farmhouse included Glennie Lankford; her minor children, Lonnie, Charlton, and Mary; two grown sons from a previous marriage, Elmer \"Lucky\" Sutton and John Charley \"J.C.\" Sutton; Lucky and J.C.'s respective wives, Vera and Alene; Alene's brother, O. P. Baker; Billy Ray Taylor; and Billy Ray's wife, June."
+  },
+  {
+   "s": "glennie",
+   "p": "relative_of",
+   "o": "jc",
+   "quote": "two grown sons from a previous marriage, Elmer \"Lucky\" Sutton and John Charley \"J.C.\" Sutton"
+  },
+  {
+   "s": "lonnie",
+   "p": "witness",
+   "o": "case",
+   "quote": "Residents of the farmhouse included Glennie Lankford; her minor children, Lonnie, Charlton, and Mary; two grown sons from a previous marriage, Elmer \"Lucky\" Sutton and John Charley \"J.C.\" Sutton; Lucky and J.C.'s respective wives, Vera and Alene; Alene's brother, O. P. Baker; Billy Ray Taylor; and Billy Ray's wife, June."
+  },
+  {
+   "s": "lonnie",
+   "p": "relative_of",
+   "o": "glennie",
+   "quote": "Glennie Lankford; her minor children, Lonnie, Charlton, and Mary"
+  },
+  {
+   "s": "lonnie",
+   "p": "age",
+   "v": "minor",
+   "quote": "Glennie Lankford; her minor children, Lonnie, Charlton, and Mary"
+  },
+  {
+   "s": "charlton",
+   "p": "witness",
+   "o": "case",
+   "quote": "Residents of the farmhouse included Glennie Lankford; her minor children, Lonnie, Charlton, and Mary; two grown sons from a previous marriage, Elmer \"Lucky\" Sutton and John Charley \"J.C.\" Sutton; Lucky and J.C.'s respective wives, Vera and Alene; Alene's brother, O. P. Baker; Billy Ray Taylor; and Billy Ray's wife, June."
+  },
+  {
+   "s": "charlton",
+   "p": "relative_of",
+   "o": "glennie",
+   "quote": "Glennie Lankford; her minor children, Lonnie, Charlton, and Mary"
+  },
+  {
+   "s": "charlton",
+   "p": "age",
+   "v": "minor",
+   "quote": "Glennie Lankford; her minor children, Lonnie, Charlton, and Mary"
+  },
+  {
+   "s": "mary",
+   "p": "witness",
+   "o": "case",
+   "quote": "Residents of the farmhouse included Glennie Lankford; her minor children, Lonnie, Charlton, and Mary; two grown sons from a previous marriage, Elmer \"Lucky\" Sutton and John Charley \"J.C.\" Sutton; Lucky and J.C.'s respective wives, Vera and Alene; Alene's brother, O. P. Baker; Billy Ray Taylor; and Billy Ray's wife, June."
+  },
+  {
+   "s": "mary",
+   "p": "relative_of",
+   "o": "glennie",
+   "quote": "Glennie Lankford; her minor children, Lonnie, Charlton, and Mary"
+  },
+  {
+   "s": "mary",
+   "p": "age",
+   "v": "minor",
+   "quote": "Glennie Lankford; her minor children, Lonnie, Charlton, and Mary"
+  },
+  {
+   "s": "jc",
+   "p": "witness",
+   "o": "case",
+   "quote": "Residents of the farmhouse included Glennie Lankford; her minor children, Lonnie, Charlton, and Mary; two grown sons from a previous marriage, Elmer \"Lucky\" Sutton and John Charley \"J.C.\" Sutton; Lucky and J.C.'s respective wives, Vera and Alene; Alene's brother, O. P. Baker; Billy Ray Taylor; and Billy Ray's wife, June."
+  },
+  {
+   "s": "jc",
+   "p": "nickname",
+   "v": "J.C.",
+   "quote": "two grown sons from a previous marriage, Elmer \"Lucky\" Sutton and John Charley \"J.C.\" Sutton"
+  },
+  {
+   "s": "jc",
+   "p": "relative_of",
+   "o": "alene",
+   "quote": "Lucky and J.C.'s respective wives, Vera and Alene"
+  },
+  {
+   "s": "vera",
+   "p": "witness",
+   "o": "case",
+   "quote": "Residents of the farmhouse included Glennie Lankford; her minor children, Lonnie, Charlton, and Mary; two grown sons from a previous marriage, Elmer \"Lucky\" Sutton and John Charley \"J.C.\" Sutton; Lucky and J.C.'s respective wives, Vera and Alene; Alene's brother, O. P. Baker; Billy Ray Taylor; and Billy Ray's wife, June."
+  },
+  {
+   "s": "vera",
+   "p": "occupation",
+   "v": "itinerant carnival worker (reportedly)",
+   "quote": "Both the Taylors, Lucky, and Vera were reportedly itinerant carnival workers who were visiting the farmhouse."
+  },
+  {
+   "s": "vera",
+   "p": "residence_status",
+   "v": "visiting the farmhouse",
+   "quote": "Both the Taylors, Lucky, and Vera were reportedly itinerant carnival workers who were visiting the farmhouse."
+  },
+  {
+   "s": "alene",
+   "p": "witness",
+   "o": "case",
+   "quote": "Residents of the farmhouse included Glennie Lankford; her minor children, Lonnie, Charlton, and Mary; two grown sons from a previous marriage, Elmer \"Lucky\" Sutton and John Charley \"J.C.\" Sutton; Lucky and J.C.'s respective wives, Vera and Alene; Alene's brother, O. P. Baker; Billy Ray Taylor; and Billy Ray's wife, June."
+  },
+  {
+   "s": "baker",
+   "p": "witness",
+   "o": "case",
+   "quote": "Residents of the farmhouse included Glennie Lankford; her minor children, Lonnie, Charlton, and Mary; two grown sons from a previous marriage, Elmer \"Lucky\" Sutton and John Charley \"J.C.\" Sutton; Lucky and J.C.'s respective wives, Vera and Alene; Alene's brother, O. P. Baker; Billy Ray Taylor; and Billy Ray's wife, June."
+  },
+  {
+   "s": "baker",
+   "p": "relative_of",
+   "o": "alene",
+   "quote": "Alene's brother, O. P. Baker"
+  },
+  {
+   "s": "june",
+   "p": "witness",
+   "o": "case",
+   "quote": "Residents of the farmhouse included Glennie Lankford; her minor children, Lonnie, Charlton, and Mary; two grown sons from a previous marriage, Elmer \"Lucky\" Sutton and John Charley \"J.C.\" Sutton; Lucky and J.C.'s respective wives, Vera and Alene; Alene's brother, O. P. Baker; Billy Ray Taylor; and Billy Ray's wife, June."
+  },
+  {
+   "s": "june",
+   "p": "occupation",
+   "v": "itinerant carnival worker (reportedly)",
+   "quote": "Both the Taylors, Lucky, and Vera were reportedly itinerant carnival workers who were visiting the farmhouse."
+  },
+  {
+   "s": "june",
+   "p": "residence_status",
+   "v": "visiting the farmhouse",
+   "quote": "Both the Taylors, Lucky, and Vera were reportedly itinerant carnival workers who were visiting the farmhouse."
+  },
+  {
+   "s": "schmaltz",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Psychologists Rodney Schmaltz and Scott Lilienfeld cite the alleged incident as an example of pseudoscience and an \"extraordinary claim\" to help students develop critical thinking skills."
+  },
+  {
+   "s": "schmaltz",
+   "p": "occupation",
+   "v": "psychologist",
+   "quote": "Psychologists Rodney Schmaltz and Scott Lilienfeld cite the alleged incident as an example of pseudoscience and an \"extraordinary claim\" to help students develop critical thinking skills."
+  },
+  {
+   "s": "schmaltz",
+   "p": "statement",
+   "v": "cites the alleged incident as an example of pseudoscience and an \"extraordinary claim\" to help students develop critical thinking skills",
+   "quote": "Psychologists Rodney Schmaltz and Scott Lilienfeld cite the alleged incident as an example of pseudoscience and an \"extraordinary claim\" to help students develop critical thinking skills."
+  },
+  {
+   "s": "schmaltz",
+   "p": "proposed",
+   "o": "x_intox",
+   "quote": "Although contemporary newspaper stories reported that \"all officials appeared to agree that there was no drinking involved\", Schmaltz and Lilienfeld suggest that intoxication may have played a part in the sighting."
+  },
+  {
+   "s": "lilienfeld",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Psychologists Rodney Schmaltz and Scott Lilienfeld cite the alleged incident as an example of pseudoscience and an \"extraordinary claim\" to help students develop critical thinking skills."
+  },
+  {
+   "s": "lilienfeld",
+   "p": "occupation",
+   "v": "psychologist",
+   "quote": "Psychologists Rodney Schmaltz and Scott Lilienfeld cite the alleged incident as an example of pseudoscience and an \"extraordinary claim\" to help students develop critical thinking skills."
+  },
+  {
+   "s": "lilienfeld",
+   "p": "statement",
+   "v": "cites the alleged incident as an example of pseudoscience and an \"extraordinary claim\" to help students develop critical thinking skills",
+   "quote": "Psychologists Rodney Schmaltz and Scott Lilienfeld cite the alleged incident as an example of pseudoscience and an \"extraordinary claim\" to help students develop critical thinking skills."
+  },
+  {
+   "s": "lilienfeld",
+   "p": "proposed",
+   "o": "x_intox",
+   "quote": "Although contemporary newspaper stories reported that \"all officials appeared to agree that there was no drinking involved\", Schmaltz and Lilienfeld suggest that intoxication may have played a part in the sighting."
+  },
+  {
+   "s": "schmaltz",
+   "p": "colleague_of",
+   "o": "lilienfeld",
+   "quote": "Psychologists Rodney Schmaltz and Scott Lilienfeld cite the alleged incident as an example of pseudoscience and an \"extraordinary claim\" to help students develop critical thinking skills."
+  },
+  {
+   "s": "nickell",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Committee for Skeptical Inquiry member and skeptic Joe Nickell notes that the family could have misidentified \"eagle owls\" or great horned owls, which are nocturnal, fly silently, have yellow eyes, and aggressively defend their nests."
+  },
+  {
+   "s": "nickell",
+   "p": "occupation",
+   "v": "skeptic",
+   "quote": "Committee for Skeptical Inquiry member and skeptic Joe Nickell notes that the family could have misidentified \"eagle owls\" or great horned owls, which are nocturnal, fly silently, have yellow eyes, and aggressively defend their nests."
+  },
+  {
+   "s": "nickell",
+   "p": "proposed",
+   "o": "x_owl",
+   "quote": "Committee for Skeptical Inquiry member and skeptic Joe Nickell notes that the family could have misidentified \"eagle owls\" or great horned owls, which are nocturnal, fly silently, have yellow eyes, and aggressively defend their nests."
+  },
+  {
+   "s": "nickell",
+   "p": "proposed",
+   "o": "x_meteor",
+   "quote": "According to Nickell, meteor sightings also occurred at the time that could explain Billy Ray Taylor's claim that he saw \"a bright light streak across the sky and disappear beyond a tree line some distance from the house\"."
+  },
+  {
+   "s": "nickell",
+   "p": "statement",
+   "v": "the family could have misidentified \"eagle owls\" or great horned owls, which are nocturnal, fly silently, have yellow eyes, and aggressively defend their nests",
+   "quote": "Committee for Skeptical Inquiry member and skeptic Joe Nickell notes that the family could have misidentified \"eagle owls\" or great horned owls, which are nocturnal, fly silently, have yellow eyes, and aggressively defend their nests."
+  },
+  {
+   "s": "nickell",
+   "p": "statement",
+   "v": "meteor sightings also occurred at the time that could explain Billy Ray Taylor's claim of a bright light",
+   "quote": "According to Nickell, meteor sightings also occurred at the time that could explain Billy Ray Taylor's claim that he saw \"a bright light streak across the sky and disappear beyond a tree line some distance from the house\"."
+  },
+  {
+   "s": "monstertalk",
+   "p": "interviewed",
+   "o": "nickell",
+   "quote": "Episode 137: American Goblins – Part 2 Archived May 15, 2021, at the Wayback Machine: Joe Nickel interview about the event on the podcast Monster Talk"
+  },
+  {
+   "s": "dunning",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "\"There are simply too many similarities between the creatures reported by the families and an aggressive pair of the local Great Horned Owls, which do stand about two-thirds of a meter tall.\""
+  },
+  {
+   "s": "dunning",
+   "p": "occupation",
+   "v": "author",
+   "quote": "Author Brian Dunning noted that the height of the owls would be comparable to at least the lower end of the reported range of around 2 feet (24 in; 61 cm)"
+  },
+  {
+   "s": "dunning",
+   "p": "proposed",
+   "o": "x_owl",
+   "quote": "\"There are simply too many similarities between the creatures reported by the families and an aggressive pair of the local Great Horned Owls, which do stand about two-thirds of a meter tall.\""
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "the height of the owls would be comparable to at least the lower end of the reported range of around 2 feet (24 in; 61 cm)",
+   "quote": "Author Brian Dunning noted that the height of the owls would be comparable to at least the lower end of the reported range of around 2 feet (24 in; 61 cm)"
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "There are simply too many similarities between the creatures reported by the families and an aggressive pair of the local Great Horned Owls, which do stand about two-thirds of a meter tall.",
+   "quote": "\"There are simply too many similarities between the creatures reported by the families and an aggressive pair of the local Great Horned Owls, which do stand about two-thirds of a meter tall.\""
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "The claim that Air Force investigators showed up the next day at Mrs. Lankford's house has been published a number of times by later authors, but I could find no corroborating evidence of this.",
+   "quote": "Brian Dunning reported: \"The claim that Air Force investigators showed up the next day at Mrs. Lankford's house has been published a number of times by later authors, but I could find no corroborating evidence of this.\""
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "The four military police who accompanied the police officers on the night of the event were from an Army base, not an Air Force base.",
+   "quote": "Dunning also observed: \"The four military police who accompanied the police officers on the night of the event were from an Army base, not an Air Force base.\""
+  },
+  {
+   "s": "dunning",
+   "p": "disputed",
+   "o": "clark",
+   "quote": "Brian Dunning reported: \"The claim that Air Force investigators showed up the next day at Mrs. Lankford's house has been published a number of times by later authors, but I could find no corroborating evidence of this.\""
+  },
+  {
+   "s": "leclet",
+   "p": "commentator",
+   "o": "case",
+   "quote": "French ufologist Renaud Leclet argued in a publication that the best explanation of the case is that the residents had simply seen great horned owls."
+  },
+  {
+   "s": "leclet",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "French ufologist Renaud Leclet argued in a publication that the best explanation of the case is that the residents had simply seen great horned owls."
+  },
+  {
+   "s": "leclet",
+   "p": "nationality",
+   "v": "French",
+   "quote": "French ufologist Renaud Leclet argued in a publication that the best explanation of the case is that the residents had simply seen great horned owls."
+  },
+  {
+   "s": "leclet",
+   "p": "proposed",
+   "o": "x_owl",
+   "quote": "French ufologist Renaud Leclet argued in a publication that the best explanation of the case is that the residents had simply seen great horned owls."
+  },
+  {
+   "s": "leclet",
+   "p": "statement",
+   "v": "the best explanation of the case is that the residents had simply seen great horned owls",
+   "quote": "French ufologist Renaud Leclet argued in a publication that the best explanation of the case is that the residents had simply seen great horned owls."
+  },
+  {
+   "s": "clark",
+   "p": "proponent",
+   "o": "case",
+   "quote": "Clark also wrote that investigations by \"police, Air Force officers from nearby Fort Campbell, and civilian ufologists found no evidence of a hoax\""
+  },
+  {
+   "s": "clark",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "Ufologist Jerome Clark writes that the supposed creatures \"floated\" through the trees and the sound of bullets striking them \"resembled bullets striking a metal bucket\"."
+  },
+  {
+   "s": "clark",
+   "p": "described",
+   "o": "creatures",
+   "quote": "Ufologist Jerome Clark writes that the supposed creatures \"floated\" through the trees and the sound of bullets striking them \"resembled bullets striking a metal bucket\"."
+  },
+  {
+   "s": "clark",
+   "p": "statement",
+   "v": "the supposed creatures \"floated\" through the trees and the sound of bullets striking them \"resembled bullets striking a metal bucket\"",
+   "quote": "Ufologist Jerome Clark writes that the supposed creatures \"floated\" through the trees and the sound of bullets striking them \"resembled bullets striking a metal bucket\"."
+  },
+  {
+   "s": "clark",
+   "p": "statement",
+   "v": "an odd luminous patch along a fence where one of the beings had been shot, and, in the woods beyond, a green light whose source could not be determined",
+   "quote": "Clark describes \"an odd luminous patch along a fence where one of the beings had been shot, and, in the woods beyond, a green light whose source could not be determined\""
+  },
+  {
+   "s": "clark",
+   "p": "statement",
+   "v": "investigations by \"police, Air Force officers from nearby Fort Campbell, and civilian ufologists found no evidence of a hoax\"",
+   "quote": "Clark also wrote that investigations by \"police, Air Force officers from nearby Fort Campbell, and civilian ufologists found no evidence of a hoax\""
+  },
+  {
+   "s": "clark",
+   "p": "disputed",
+   "o": "x_hoax",
+   "quote": "Clark also wrote that investigations by \"police, Air Force officers from nearby Fort Campbell, and civilian ufologists found no evidence of a hoax\""
+  },
+  {
+   "s": "hendry",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Ufologist Allan Hendry wrote: \"This case is distinguished by its duration and also by the number of witnesses involved.\""
+  },
+  {
+   "s": "hendry",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "Ufologist Allan Hendry wrote: \"This case is distinguished by its duration and also by the number of witnesses involved.\""
+  },
+  {
+   "s": "hendry",
+   "p": "statement",
+   "v": "This case is distinguished by its duration and also by the number of witnesses involved.",
+   "quote": "Ufologist Allan Hendry wrote: \"This case is distinguished by its duration and also by the number of witnesses involved.\""
+  },
+  {
+   "s": "spielberg",
+   "p": "commentator",
+   "o": "case",
+   "quote": "In the late 1970s, Steven Spielberg used the event as the basis for Night Skies, an unproduced science fiction horror film."
+  },
+  {
+   "s": "spielberg",
+   "p": "authored",
+   "o": "nightskies",
+   "quote": "In the late 1970s, Steven Spielberg used the event as the basis for Night Skies, an unproduced science fiction horror film."
+  },
+  {
+   "s": "creatures",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "On the evening of August 21, 1955, five adults and seven children arrived at the Hopkinsville police station claiming that small alien creatures from a spaceship had been attacking their farmhouse and that they had been holding them off with gunfire \"for nearly four hours\"."
+  },
+  {
+   "s": "creatures",
+   "p": "description",
+   "v": "small alien creatures from a spaceship",
+   "quote": "On the evening of August 21, 1955, five adults and seven children arrived at the Hopkinsville police station claiming that small alien creatures from a spaceship had been attacking their farmhouse and that they had been holding them off with gunfire \"for nearly four hours\"."
+  },
+  {
+   "s": "creatures",
+   "p": "description",
+   "v": "a few short, dark figures who repeatedly popped up at the doorway or peered into windows",
+   "quote": "Two of the adults, Elmer Sutton and Billy Ray Taylor, claimed they had been shooting at a few short, dark figures who repeatedly popped up at the doorway or peered into windows."
+  },
+  {
+   "s": "creatures",
+   "p": "count",
+   "v": "a few (per Elmer Sutton and Billy Ray Taylor)",
+   "quote": "Two of the adults, Elmer Sutton and Billy Ray Taylor, claimed they had been shooting at a few short, dark figures who repeatedly popped up at the doorway or peered into windows."
+  },
+  {
+   "s": "creatures",
+   "p": "count",
+   "v": "12 to 15 (per the Kentucky New Era; the number most often reported)",
+   "quote": "The Kentucky New Era, the first paper to report the incident, increased the number of creatures to \"12 to 15,\" and this continues to be the number most often reported."
+  },
+  {
+   "s": "creatures",
+   "p": "size",
+   "v": "estimates varied from 2 to 4 feet (61 to 122 cm)",
+   "quote": "Estimates of the size of the alleged creatures varied from 2 to 4 feet (61 to 122 cm), and details such as \"large pointed ears, clawlike hands, eyes that glowed yellow and spindly legs\" later appeared in various media."
+  },
+  {
+   "s": "creatures",
+   "p": "color",
+   "v": "dark",
+   "quote": "Two of the adults, Elmer Sutton and Billy Ray Taylor, claimed they had been shooting at a few short, dark figures who repeatedly popped up at the doorway or peered into windows."
+  },
+  {
+   "s": "creatures",
+   "p": "color",
+   "v": "green (not in early articles; later added to some newspaper stories)",
+   "quote": "Early articles did not refer to \"little green men\"; the color was later added to some newspaper stories."
+  },
+  {
+   "s": "creatures",
+   "p": "description",
+   "v": "large pointed ears, clawlike hands, eyes that glowed yellow and spindly legs (details that later appeared in various media)",
+   "quote": "Estimates of the size of the alleged creatures varied from 2 to 4 feet (61 to 122 cm), and details such as \"large pointed ears, clawlike hands, eyes that glowed yellow and spindly legs\" later appeared in various media."
+  },
+  {
+   "s": "creatures",
+   "p": "eye_color",
+   "v": "glowed yellow",
+   "quote": "Estimates of the size of the alleged creatures varied from 2 to 4 feet (61 to 122 cm), and details such as \"large pointed ears, clawlike hands, eyes that glowed yellow and spindly legs\" later appeared in various media."
+  },
+  {
+   "s": "creatures",
+   "p": "movement",
+   "v": "\"floated\" through the trees (per Jerome Clark)",
+   "quote": "Ufologist Jerome Clark writes that the supposed creatures \"floated\" through the trees and the sound of bullets striking them \"resembled bullets striking a metal bucket\"."
+  },
+  {
+   "s": "creatures",
+   "p": "sound",
+   "v": "bullets striking them \"resembled bullets striking a metal bucket\" (per Jerome Clark)",
+   "quote": "Ufologist Jerome Clark writes that the supposed creatures \"floated\" through the trees and the sound of bullets striking them \"resembled bullets striking a metal bucket\"."
+  },
+  {
+   "s": "creatures",
+   "p": "time_of_return",
+   "v": "about 3:30 in the morning",
+   "quote": "Neighbors informed them that the families had \"packed up and left\" after claiming \"the creatures had returned about 3:30 in the morning.\""
+  },
+  {
+   "s": "creatures",
+   "p": "nickname",
+   "v": "Hopkinsville Goblins",
+   "quote": "Some ufologists compared the alleged creatures to gremlins; consequently, the alleged Kelly–Hopkinsville creatures have since often been referred to as the \"Hopkinsville Goblins\" in popular culture."
+  },
+  {
+   "s": "creatures",
+   "p": "comparison",
+   "v": "compared by some ufologists to gremlins",
+   "quote": "Some ufologists compared the alleged creatures to gremlins; consequently, the alleged Kelly–Hopkinsville creatures have since often been referred to as the \"Hopkinsville Goblins\" in popular culture."
+  },
+  {
+   "s": "creatures",
+   "p": "associated_light",
+   "v": "an odd luminous patch along a fence where one of the beings had been shot, and a green light in the woods beyond whose source could not be determined",
+   "quote": "Clark describes \"an odd luminous patch along a fence where one of the beings had been shot, and, in the woods beyond, a green light whose source could not be determined\""
+  },
+  {
+   "s": "spaceship",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "On the evening of August 21, 1955, five adults and seven children arrived at the Hopkinsville police station claiming that small alien creatures from a spaceship had been attacking their farmhouse and that they had been holding them off with gunfire \"for nearly four hours\"."
+  },
+  {
+   "s": "spaceship",
+   "p": "description",
+   "v": "spaceship from which the small alien creatures were said to have come",
+   "quote": "On the evening of August 21, 1955, five adults and seven children arrived at the Hopkinsville police station claiming that small alien creatures from a spaceship had been attacking their farmhouse and that they had been holding them off with gunfire \"for nearly four hours\"."
+  },
+  {
+   "s": "nightskies",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In the late 1970s, Steven Spielberg used the event as the basis for Night Skies, an unproduced science fiction horror film."
+  },
+  {
+   "s": "nightskies",
+   "p": "genre",
+   "v": "unproduced science fiction horror film",
+   "quote": "In the late 1970s, Steven Spielberg used the event as the basis for Night Skies, an unproduced science fiction horror film."
+  },
+  {
+   "s": "nightskies",
+   "p": "date",
+   "v": "late 1970s",
+   "quote": "In the late 1970s, Steven Spielberg used the event as the basis for Night Skies, an unproduced science fiction horror film."
+  },
+  {
+   "s": "critters",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The 1986 comedy-horror film Critters is loosely based on the event."
+  },
+  {
+   "s": "critters",
+   "p": "genre",
+   "v": "comedy-horror film",
+   "quote": "The 1986 comedy-horror film Critters is loosely based on the event."
+  },
+  {
+   "s": "critters",
+   "p": "release_year",
+   "v": "1986",
+   "quote": "The 1986 comedy-horror film Critters is loosely based on the event."
+  },
+  {
+   "s": "pokemon",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The design of Generation 3 Pokémon Sableye is inspired by the description of the Hopkinsville Goblins."
+  },
+  {
+   "s": "pokemon",
+   "p": "inspired_design",
+   "v": "Generation 3 Pokémon Sableye",
+   "quote": "The design of Generation 3 Pokémon Sableye is inspired by the description of the Hopkinsville Goblins."
+  },
+  {
+   "s": "pathfinder",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In the Pathfinder Roleplaying Game, the \"hobkins\", a type of gremlin from the Bestiary 5 book, is based upon the goblins described in the event."
+  },
+  {
+   "s": "pathfinder",
+   "p": "inspired_creature",
+   "v": "the \"hobkins\", a type of gremlin",
+   "quote": "In the Pathfinder Roleplaying Game, the \"hobkins\", a type of gremlin from the Bestiary 5 book, is based upon the goblins described in the event."
+  },
+  {
+   "s": "bestiary5",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In the Pathfinder Roleplaying Game, the \"hobkins\", a type of gremlin from the Bestiary 5 book, is based upon the goblins described in the event."
+  },
+  {
+   "s": "bestiary5",
+   "p": "part_of",
+   "o": "pathfinder",
+   "quote": "In the Pathfinder Roleplaying Game, the \"hobkins\", a type of gremlin from the Bestiary 5 book, is based upon the goblins described in the event."
+  },
+  {
+   "s": "ickentucky",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The event was the basis for the Annoyance Theater's musical It Came From Kentucky in Chicago."
+  },
+  {
+   "s": "ickentucky",
+   "p": "genre",
+   "v": "musical",
+   "quote": "The event was the basis for the Annoyance Theater's musical It Came From Kentucky in Chicago."
+  },
+  {
+   "s": "ickentucky",
+   "p": "staged_in",
+   "v": "Chicago",
+   "quote": "The event was the basis for the Annoyance Theater's musical It Came From Kentucky in Chicago."
+  },
+  {
+   "s": "bbtv",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "A February 2020 episode of the American television series Project Blue Book"
+  },
+  {
+   "s": "bbtv",
+   "p": "episode_date",
+   "v": "February 2020",
+   "quote": "A February 2020 episode of the American television series Project Blue Book"
+  },
+  {
+   "s": "bbtv",
+   "p": "genre",
+   "v": "American television series",
+   "quote": "A February 2020 episode of the American television series Project Blue Book"
+  },
+  {
+   "s": "monstertalk",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Episode 137: American Goblins – Part 2 Archived May 15, 2021, at the Wayback Machine: Joe Nickel interview about the event on the podcast Monster Talk"
+  },
+  {
+   "s": "monstertalk",
+   "p": "episode",
+   "v": "Episode 137: American Goblins – Part 2",
+   "quote": "Episode 137: American Goblins – Part 2 Archived May 15, 2021, at the Wayback Machine: Joe Nickel interview about the event on the podcast Monster Talk"
+  },
+  {
+   "s": "monstertalk",
+   "p": "genre",
+   "v": "podcast",
+   "quote": "Episode 137: American Goblins – Part 2 Archived May 15, 2021, at the Wayback Machine: Joe Nickel interview about the event on the podcast Monster Talk"
+  },
+  {
+   "s": "f_occ",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "On the evening of August 21, 1955, five adults and seven children arrived at the Hopkinsville police station claiming that small alien creatures from a spaceship had been attacking their farmhouse and that they had been holding them off with gunfire \"for nearly four hours\"."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "On the evening of August 21, 1955, five adults and seven children arrived at the Hopkinsville police station claiming that small alien creatures from a spaceship had been attacking their farmhouse and that they had been holding them off with gunfire \"for nearly four hours\"."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Ufologist Allan Hendry wrote: \"This case is distinguished by its duration and also by the number of witnesses involved.\""
+  },
+  {
+   "s": "f_child",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "On the evening of August 21, 1955, five adults and seven children arrived at the Hopkinsville police station claiming that small alien creatures from a spaceship had been attacking their farmhouse and that they had been holding them off with gunfire \"for nearly four hours\"."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The alleged encounter was officially classified as a hoax in the Project Blue Book files by the United States Air Force."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Their search yielded no evidence apart from broken windows and holes in screens, possibly the result of gunfire."
+  },
+  {
+   "s": "f_hoax",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The alleged encounter was officially classified as a hoax in the Project Blue Book files by the United States Air Force."
+  },
+  {
+   "s": "f_base",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "four military police officers from the nearby United States Army Fort Campbell drove to the Sutton farmhouse located near the town of Kelly in Christian County"
+  },
+  {
+   "s": "f_sound",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Ufologist Jerome Clark writes that the supposed creatures \"floated\" through the trees and the sound of bullets striking them \"resembled bullets striking a metal bucket\"."
+  },
+  {
+   "s": "f_gun",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "On the evening of August 21, 1955, five adults and seven children arrived at the Hopkinsville police station claiming that small alien creatures from a spaceship had been attacking their farmhouse and that they had been holding them off with gunfire \"for nearly four hours\"."
+  },
+  {
+   "s": "x_hoax",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The alleged encounter was officially classified as a hoax in the Project Blue Book files by the United States Air Force."
+  },
+  {
+   "s": "bluebook",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "Project Blue Book listed the case as a hoax with no further comment."
+  },
+  {
+   "s": "x_owl",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Committee for Skeptical Inquiry member and skeptic Joe Nickell notes that the family could have misidentified \"eagle owls\" or great horned owls, which are nocturnal, fly silently, have yellow eyes, and aggressively defend their nests."
+  },
+  {
+   "s": "x_meteor",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "According to Nickell, meteor sightings also occurred at the time that could explain Billy Ray Taylor's claim that he saw \"a bright light streak across the sky and disappear beyond a tree line some distance from the house\"."
+  },
+  {
+   "s": "x_misp",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "skeptics maintain there was no actual physical evidence that the encounter ever took place and the reports were due to \"the effects of excitement\" and misidentification of natural phenomena such as meteors and owls"
+  },
+  {
+   "s": "x_psych",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "skeptics maintain there was no actual physical evidence that the encounter ever took place and the reports were due to \"the effects of excitement\" and misidentification of natural phenomena such as meteors and owls"
+  },
+  {
+   "s": "x_intox",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Although contemporary newspaper stories reported that \"all officials appeared to agree that there was no drinking involved\", Schmaltz and Lilienfeld suggest that intoxication may have played a part in the sighting."
+  },
+  {
+   "s": "x_fox",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "however, this description was consistent with foxfire, a bioluminescent fungus on decaying wood."
+  }
+ ]
+}

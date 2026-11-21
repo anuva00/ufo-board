@@ -1,0 +1,2759 @@
+{
+ "slug": "kecksburg-ufo-incident",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Kecksburg UFO incident",
+   "aliases": [
+    "Kecksburg incident",
+    "Pennsylvania's Roswell",
+    "Kecksburg case"
+   ],
+   "description": "9 December 1965 fireball seen over six U.S. states and Canada, with claims that an object crashed in woods at Kecksburg, Pennsylvania."
+  },
+  {
+   "key": "fireball",
+   "type": "craft",
+   "name": "fireball of December 9, 1965",
+   "aliases": [
+    "Great Lakes Fireball of December 9, 1965"
+   ],
+   "description": "Large, brilliant fireball seen over the Detroit-Windsor area and several states."
+  },
+  {
+   "key": "acorn",
+   "type": "craft",
+   "name": "acorn-shaped object reported in the woods at Kecksburg",
+   "description": "Object local residents said they found in the woods, later allegedly removed by the military."
+  },
+  {
+   "key": "truck",
+   "type": "vehicle",
+   "name": "flat-bed truck",
+   "description": "Truck John Hays said he saw emerging from the site carrying something the size of a VW."
+  },
+  {
+   "key": "kosmos96",
+   "type": "vehicle",
+   "name": "Kosmos 96",
+   "aliases": [
+    "Cosmos 96",
+    "Cosmos 96/Venera-type spacecraft"
+   ],
+   "description": "Soviet space probe whose debris was speculated to be the Kecksburg object."
+  },
+  {
+   "key": "kecksburg",
+   "type": "place",
+   "name": "Kecksburg, Pennsylvania",
+   "aliases": [
+    "Kecksburg"
+   ],
+   "description": "Village where something was reported to have crashed in the woods."
+  },
+  {
+   "key": "pennsylvania",
+   "type": "place",
+   "name": "Pennsylvania",
+   "description": "U.S. state containing Kecksburg; fireball seen there."
+  },
+  {
+   "key": "usa",
+   "type": "place",
+   "name": "United States",
+   "aliases": [
+    "U.S."
+   ],
+   "description": "Country of the incident."
+  },
+  {
+   "key": "canada",
+   "type": "place",
+   "name": "Canada",
+   "description": "Fireball was also reported from Canada."
+  },
+  {
+   "key": "detroit",
+   "type": "place",
+   "name": "Detroit, Michigan",
+   "aliases": [
+    "Detroit"
+   ],
+   "description": "City over which the fireball streaked."
+  },
+  {
+   "key": "windsor",
+   "type": "place",
+   "name": "Windsor, Canada",
+   "aliases": [
+    "Windsor, Ontario"
+   ],
+   "description": "Ontario city over which the fireball was reported."
+  },
+  {
+   "key": "ontario",
+   "type": "place",
+   "name": "Ontario",
+   "aliases": [
+    "southwestern Ontario"
+   ],
+   "description": "Canadian province; fireball seen over southwestern Ontario."
+  },
+  {
+   "key": "michigan",
+   "type": "place",
+   "name": "Michigan",
+   "description": "State where hot metal debris was reported."
+  },
+  {
+   "key": "ohio",
+   "type": "place",
+   "name": "Ohio",
+   "aliases": [
+    "northern Ohio"
+   ],
+   "description": "State where the fireball was seen; debris reported over northern Ohio."
+  },
+  {
+   "key": "idaho",
+   "type": "place",
+   "name": "Idaho",
+   "description": "State where the fireball was seen."
+  },
+  {
+   "key": "indiana",
+   "type": "place",
+   "name": "Indiana",
+   "description": "State where the fireball was seen."
+  },
+  {
+   "key": "westvirginia",
+   "type": "place",
+   "name": "West Virginia",
+   "description": "State where the fireball was seen."
+  },
+  {
+   "key": "newyork",
+   "type": "place",
+   "name": "New York",
+   "description": "State where the fireball was seen."
+  },
+  {
+   "key": "pittsburgh",
+   "type": "place",
+   "name": "Pittsburgh, Pennsylvania",
+   "aliases": [
+    "Pittsburgh",
+    "Pittsburgh metropolitan area"
+   ],
+   "description": "City about 30 miles northwest of Kecksburg; sonic booms reported in its metropolitan area."
+  },
+  {
+   "key": "lakeerie",
+   "type": "place",
+   "name": "Lake Erie",
+   "aliases": [
+    "western Lake Erie"
+   ],
+   "description": "Lake where scientific analyses placed the end of the fireball's path."
+  },
+  {
+   "key": "washington",
+   "type": "place",
+   "name": "Washington, D.C.",
+   "aliases": [
+    "Washington"
+   ],
+   "description": "Location of the Department of Defense spokesman."
+  },
+  {
+   "key": "shafton",
+   "type": "place",
+   "name": "Shafton",
+   "description": "Home place of Owen Eichler."
+  },
+  {
+   "key": "ussr",
+   "type": "place",
+   "name": "Soviet Union",
+   "aliases": [
+    "Soviet"
+   ],
+   "description": "State whose satellite or space probe was proposed as the source of the object."
+  },
+  {
+   "key": "asteroidbelt",
+   "type": "place",
+   "name": "asteroid belt",
+   "description": "Region NASA said the meteor probably came from."
+  },
+  {
+   "key": "nasa",
+   "type": "organization",
+   "name": "NASA",
+   "description": "U.S. space agency that issued statements on fragments and was sued for its records."
+  },
+  {
+   "key": "tribune",
+   "type": "organization",
+   "name": "Greensburg Tribune-Review",
+   "aliases": [
+    "Tribune-Review"
+   ],
+   "description": "Newspaper that carried early articles on the incident."
+  },
+  {
+   "key": "army",
+   "type": "organization",
+   "name": "United States Army",
+   "aliases": [
+    "U.S. Army"
+   ],
+   "description": "Army officials ordered the area sealed off; Army engineers were expected."
+  },
+  {
+   "key": "statepolice",
+   "type": "organization",
+   "name": "Pennsylvania State Police",
+   "aliases": [
+    "State Police",
+    "state troopers"
+   ],
+   "description": "State Police officials ordered the area sealed and troopers searched the woods."
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "aliases": [
+    "Air Force",
+    "U.S. Air Force"
+   ],
+   "description": "Air Force personnel searched the woods; its tracking data on Cosmos 96 was cited."
+  },
+  {
+   "key": "dod",
+   "type": "organization",
+   "name": "United States Department of Defense",
+   "aliases": [
+    "Department of Defense"
+   ],
+   "description": "A spokesman said first reports indicated a natural phenomenon."
+  },
+  {
+   "key": "skytel",
+   "type": "organization",
+   "name": "Sky & Telescope",
+   "description": "Magazine whose February 1966 issue reported on the fireball."
+  },
+  {
+   "key": "faa",
+   "type": "organization",
+   "name": "Federal Aviation Administration",
+   "description": "Received 23 reports from aircraft pilots."
+  },
+  {
+   "key": "jrasc",
+   "type": "organization",
+   "name": "Journal of the Royal Astronomical Society of Canada",
+   "aliases": [
+    "JRASC"
+   ],
+   "description": "Journal that published a 1967 article on the fireball."
+  },
+  {
+   "key": "scifi",
+   "type": "organization",
+   "name": "Sci-Fi Channel",
+   "aliases": [
+    "Sci Fi Channel"
+   ],
+   "description": "TV channel that backed Leslie Kean and aired a 2003 documentary."
+  },
+  {
+   "key": "mufon",
+   "type": "organization",
+   "name": "MUFON",
+   "description": "UFO group of which John Ventre is a member."
+  },
+  {
+   "key": "nbc",
+   "type": "organization",
+   "name": "NBC",
+   "description": "Network of the television show Unsolved Mysteries."
+  },
+  {
+   "key": "discovery",
+   "type": "organization",
+   "name": "Discovery Channel",
+   "description": "Channel of the series Nazi UFO Conspiracy."
+  },
+  {
+   "key": "history",
+   "type": "organization",
+   "name": "History Channel",
+   "description": "Channel of UFO Hunters, Ancient Aliens and In Search of Aliens."
+  },
+  {
+   "key": "whjb",
+   "type": "organization",
+   "name": "WHJB",
+   "description": "Local radio station that employed reporter John Murphy."
+  },
+  {
+   "key": "bbc4",
+   "type": "organization",
+   "name": "BBC Radio 4",
+   "description": "Broadcaster of the 2024 drama series Limelight: The Skies Are Watching."
+  },
+  {
+   "key": "ge",
+   "type": "organization",
+   "name": "General Electric",
+   "description": "Company named as maker of the Mark 2 Re-entry Vehicle in Ventre and Eichler's speculation."
+  },
+  {
+   "key": "ppg",
+   "type": "organization",
+   "name": "Pittsburgh Post-Gazette",
+   "description": "Newspaper that ran an article on the case by David Templeton."
+  },
+  {
+   "key": "iur",
+   "type": "organization",
+   "name": "International UFO Reporter",
+   "description": "Publication that carried a 2005 article by Leslie Kean."
+  },
+  {
+   "key": "foia",
+   "type": "program",
+   "name": "Freedom of Information Act",
+   "description": "U.S. law under which NASA was sued for the lost records."
+  },
+  {
+   "key": "apollo11",
+   "type": "program",
+   "name": "Apollo 11",
+   "aliases": [
+    "Apollo 11 Moon landing"
+   ],
+   "description": "Moon landing mission whose original tapes NASA misplaced or reused, cited as another loss of records."
+  },
+  {
+   "key": "balafoutas",
+   "type": "person",
+   "name": "John Balafoutas",
+   "description": "Astronomer who said it was likely a meteor bolide."
+  },
+  {
+   "key": "annear",
+   "type": "person",
+   "name": "Paul Annear",
+   "description": "Astronomer who said the fireball was likely a meteor."
+  },
+  {
+   "key": "wetherill",
+   "type": "person",
+   "name": "George Wetherill",
+   "description": "Geophysicist who discounted satellite debris and favoured a meteor."
+  },
+  {
+   "key": "bidelman",
+   "type": "person",
+   "name": "William P. Bidelman",
+   "description": "Astronomer who said it undoubtedly was a meteor bolide."
+  },
+  {
+   "key": "hess",
+   "type": "person",
+   "name": "Fred Hess",
+   "description": "Astronomer who said it undoubtedly was a meteor bolide."
+  },
+  {
+   "key": "kean",
+   "type": "person",
+   "name": "Leslie Kean",
+   "description": "Investigative reporter who sued NASA for the lost records."
+  },
+  {
+   "key": "mcconnell",
+   "type": "person",
+   "name": "Steve McConnell",
+   "description": "NASA public liaison officer who testified that two boxes of papers were missing."
+  },
+  {
+   "key": "oberg",
+   "type": "person",
+   "name": "James Oberg",
+   "description": "Space writer who doubted NASA held the records and called Kean's suit a publicity stunt."
+  },
+  {
+   "key": "ventre",
+   "type": "person",
+   "name": "John Ventre",
+   "description": "MUFON investigator who speculated the object was a General Electric Mark 2 Re-entry Vehicle."
+  },
+  {
+   "key": "eichler",
+   "type": "person",
+   "name": "Owen Eichler",
+   "description": "Shafton native who investigated with John Ventre."
+  },
+  {
+   "key": "stack",
+   "type": "person",
+   "name": "Robert Stack",
+   "description": "Host of Unsolved Mysteries who covered the incident."
+  },
+  {
+   "key": "gumbel",
+   "type": "person",
+   "name": "Bryant Gumbel",
+   "description": "Host of the documentary The New Roswell: Kecksburg Exposed."
+  },
+  {
+   "key": "hays",
+   "type": "person",
+   "name": "John Hays",
+   "description": "Kecksburg resident who says he saw a flat-bed truck leaving the site as a boy."
+  },
+  {
+   "key": "tsoukalos",
+   "type": "person",
+   "name": "Giorgio A. Tsoukalos",
+   "description": "Visited the supposed crash site in 2014 for In Search of Aliens."
+  },
+  {
+   "key": "gordon",
+   "type": "person",
+   "name": "Stan Gordon",
+   "description": "Local UFO researcher who led Tsoukalos to the supposed crash site."
+  },
+  {
+   "key": "knotts",
+   "type": "person",
+   "name": "Cody Knotts",
+   "description": "Producer-director of the 2019 film Kecksburg."
+  },
+  {
+   "key": "murphy",
+   "type": "person",
+   "name": "John Murphy",
+   "description": "Reporter for radio station WHJB who claimed to be the victim of a government conspiracy."
+  },
+  {
+   "key": "patterson",
+   "type": "person",
+   "name": "Andrew Patterson",
+   "description": "Filmmaker whose film The Vast of Night was partially based on the incident."
+  },
+  {
+   "key": "spielberg",
+   "type": "person",
+   "name": "Steven Spielberg",
+   "description": "Director of the 2026 film Disclosure Day, which features the incident."
+  },
+  {
+   "key": "templeton",
+   "type": "person",
+   "name": "David Templeton",
+   "description": "Author of a Pittsburgh Post-Gazette article on the case."
+  },
+  {
+   "key": "sheaffer",
+   "type": "person",
+   "name": "Robert Sheaffer",
+   "description": "Skeptic who commented on the Kecksburg case."
+  },
+  {
+   "key": "dunning",
+   "type": "person",
+   "name": "Brian Dunning",
+   "description": "Author of the Skeptoid episode on Kecksburg."
+  },
+  {
+   "key": "young",
+   "type": "person",
+   "name": "Robert R. Young",
+   "description": "Author of a chapter on claimed witness accounts of the 9 December 1965 fireball."
+  },
+  {
+   "key": "d_tribart",
+   "type": "document",
+   "name": "early Greensburg Tribune-Review article",
+   "description": "Early newspaper article stating the area was sealed off by Army and State Police officials."
+  },
+  {
+   "key": "d_searchers",
+   "type": "document",
+   "name": "Searchers Fail to Find Object",
+   "description": "Headline of a subsequent Tribune-Review edition."
+  },
+  {
+   "key": "d_nasa05",
+   "type": "document",
+   "name": "NASA statement of December 2005",
+   "description": "NASA statement that fragments from the area were from a Soviet satellite and that the records were lost."
+  },
+  {
+   "key": "d_nasarec",
+   "type": "document",
+   "name": "lost NASA records of the Kecksburg fragments",
+   "aliases": [
+    "two boxes of papers"
+   ],
+   "description": "Original NASA records of the fragment examination, reported lost; subject of an FOIA suit."
+  },
+  {
+   "key": "d_photos",
+   "type": "document",
+   "name": "photographs of the fireball trail",
+   "description": "Photographs of the trail taken north of Detroit at two locations, used to triangulate the trajectory."
+  },
+  {
+   "key": "d_seis",
+   "type": "document",
+   "name": "seismograph record of the fireball's shock waves",
+   "description": "Seismographic record from 25 miles southwest of Detroit."
+  },
+  {
+   "key": "w_skyart",
+   "type": "work",
+   "name": "Sky & Telescope article, February 1966",
+   "description": "Magazine article reporting on the fireball's time and path."
+  },
+  {
+   "key": "w_jrasc",
+   "type": "work",
+   "name": "1967 Journal of the Royal Astronomical Society of Canada article",
+   "description": "Article by two astronomers using seismographic and photographic records to determine the fireball's trajectory."
+  },
+  {
+   "key": "w_um",
+   "type": "work",
+   "name": "Unsolved Mysteries",
+   "description": "NBC television show that aired a 1990 episode partially devoted to the incident."
+  },
+  {
+   "key": "w_newroswell",
+   "type": "work",
+   "name": "The New Roswell: Kecksburg Exposed",
+   "description": "Two-hour 2003 Sci Fi Channel documentary hosted by Bryant Gumbel."
+  },
+  {
+   "key": "w_nazi",
+   "type": "work",
+   "name": "Nazi UFO Conspiracy",
+   "description": "Discovery Channel series whose 2008 episode linked the incident to Die Glocke."
+  },
+  {
+   "key": "w_hunters",
+   "type": "work",
+   "name": "UFO Hunters",
+   "description": "History Channel series that suggested a military conspiracy and cover-up."
+  },
+  {
+   "key": "w_ancient",
+   "type": "work",
+   "name": "Ancient Aliens",
+   "description": "History Channel series that suggested Die Glocke was recovered at Kecksburg."
+  },
+  {
+   "key": "w_insearch",
+   "type": "work",
+   "name": "In Search of Aliens",
+   "description": "History Channel series for which Giorgio A. Tsoukalos visited the supposed crash site in 2014."
+  },
+  {
+   "key": "w_kecksburg",
+   "type": "work",
+   "name": "Kecksburg",
+   "aliases": [
+    "Kecksburg (film)"
+   ],
+   "description": "2019 film by Cody Knotts dramatizing the story of reporter John Murphy."
+  },
+  {
+   "key": "w_vast",
+   "type": "work",
+   "name": "The Vast of Night",
+   "description": "2019 film by Andrew Patterson, plot partially based on the incident."
+  },
+  {
+   "key": "w_limelight",
+   "type": "work",
+   "name": "Limelight: The Skies Are Watching",
+   "description": "2024 BBC Radio 4 drama series inspired by the incident."
+  },
+  {
+   "key": "w_disclosure",
+   "type": "work",
+   "name": "Disclosure Day",
+   "description": "2026 Steven Spielberg film featuring the incident among released government footage."
+  },
+  {
+   "key": "w_iur",
+   "type": "work",
+   "name": "International UFO Reporter 2005 article by Leslie Kean",
+   "description": "2005 article on the case by Leslie Kean."
+  },
+  {
+   "key": "w_skeptoid",
+   "type": "work",
+   "name": "Skeptoid #681: Alien Visitation and Kecksburg",
+   "description": "2019 Skeptoid episode by Brian Dunning."
+  },
+  {
+   "key": "w_young",
+   "type": "work",
+   "name": "Metamorphosis: Claimed Witness Accounts of the Great Lakes Fireball of December 9, 1965",
+   "description": "Chapter by Robert R. Young in The Reliability of UFO Witness Testimony."
+  },
+  {
+   "key": "w_ppg",
+   "type": "work",
+   "name": "Pittsburgh Post-Gazette article by David Templeton",
+   "description": "Newspaper article on the case."
+  },
+  {
+   "key": "roswell",
+   "type": "case",
+   "name": "Roswell incident",
+   "aliases": [
+    "Roswell"
+   ],
+   "description": "UFO case to which Kecksburg is compared as \"Pennsylvania's Roswell\"."
+  },
+  {
+   "key": "glocke",
+   "type": "case",
+   "name": "Die Glocke",
+   "aliases": [
+    "The Bell",
+    "Die Glocke (conspiracy theory)"
+   ],
+   "description": "Alleged Nazi UFO / secret weapon (conspiracy theory) that TV programmes suggested was recovered at Kecksburg."
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "Feature: multiple-witnesses"
+  },
+  {
+   "key": "f_mass",
+   "type": "feature",
+   "name": "mass-sighting",
+   "description": "Feature: mass-sighting"
+  },
+  {
+   "key": "f_pilot",
+   "type": "feature",
+   "name": "pilot-witnesses",
+   "description": "Feature: pilot-witnesses"
+  },
+  {
+   "key": "f_child",
+   "type": "feature",
+   "name": "child-witnesses",
+   "description": "Feature: child-witnesses"
+  },
+  {
+   "key": "f_sound",
+   "type": "feature",
+   "name": "sound-reported",
+   "description": "Feature: sound-reported"
+  },
+  {
+   "key": "f_debris",
+   "type": "feature",
+   "name": "debris-or-material",
+   "description": "Feature: debris-or-material"
+  },
+  {
+   "key": "f_traces",
+   "type": "feature",
+   "name": "physical-traces",
+   "description": "Feature: physical-traces"
+  },
+  {
+   "key": "f_photo",
+   "type": "feature",
+   "name": "photograph",
+   "description": "Feature: photograph"
+  },
+  {
+   "key": "f_crash",
+   "type": "feature",
+   "name": "crash-retrieval-claim",
+   "description": "Feature: crash-retrieval-claim"
+  },
+  {
+   "key": "f_cover",
+   "type": "feature",
+   "name": "alleged-cover-up",
+   "description": "Feature: alleged-cover-up"
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Feature: official-investigation"
+  },
+  {
+   "key": "f_shape",
+   "type": "feature",
+   "name": "shape-other",
+   "description": "Feature: shape-other"
+  },
+  {
+   "key": "f_markings",
+   "type": "feature",
+   "name": "other:hieroglyph-like markings",
+   "description": "Feature: other:hieroglyph-like markings"
+  },
+  {
+   "key": "f_smoke",
+   "type": "feature",
+   "name": "other:smoke",
+   "description": "Feature: other:smoke"
+  },
+  {
+   "key": "f_seismic",
+   "type": "feature",
+   "name": "other:seismograph record",
+   "description": "Feature: other:seismograph record"
+  },
+  {
+   "key": "x_meteor",
+   "type": "explanation",
+   "name": "meteor-or-fireball",
+   "description": "Explanation: meteor-or-fireball"
+  },
+  {
+   "key": "x_sat",
+   "type": "explanation",
+   "name": "satellite-or-rocket",
+   "description": "Explanation: satellite-or-rocket"
+  },
+  {
+   "key": "x_plane",
+   "type": "explanation",
+   "name": "conventional-aircraft",
+   "description": "Explanation: conventional-aircraft"
+  },
+  {
+   "key": "x_missile",
+   "type": "explanation",
+   "name": "military-test-or-exercise",
+   "description": "Explanation: military-test-or-exercise"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1965-12-09",
+   "quote": "The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball was reported by citizens of six U.S. states and Canada over Detroit, Michigan, and Windsor, Ontario."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1965-12-09",
+   "quote": "The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball was reported by citizens of six U.S. states and Canada over Detroit, Michigan, and Windsor, Ontario."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball was reported by citizens of six U.S. states and Canada over Detroit, Michigan, and Windsor, Ontario."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "4:44 p.m. EST",
+   "quote": "The February 1966 issue of Sky & Telescope reported that the fireball was seen over the Detroit-Windsor area at about 4:44 p.m. EST."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "evening",
+   "quote": "On the evening of December 9, 1965, a large, brilliant fireball was seen in Idaho, Indiana, Ohio, Pennsylvania, West Virginia, and New York as it streaked over the Detroit, Michigan–Windsor, Ontario area."
+  },
+  {
+   "s": "case",
+   "p": "nickname",
+   "v": "Pennsylvania's Roswell",
+   "quote": "The incident gained wide notoriety in popular culture and ufology, with speculation ranging from extraterrestrial craft to debris from the Soviet space probe Kosmos 96, and is often called \"Pennsylvania's Roswell\"."
+  },
+  {
+   "s": "case",
+   "p": "sighting_extent",
+   "v": "citizens of six U.S. states and Canada",
+   "quote": "The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball was reported by citizens of six U.S. states and Canada over Detroit, Michigan, and Windsor, Ontario."
+  },
+  {
+   "s": "case",
+   "p": "sighting_extent",
+   "v": "southwestern Ontario, Canada and at least eight states from Michigan to New York",
+   "quote": "There is some speculation that the reentry of the Cosmos 96/Venera-type spacecraft was responsible for a fireball which was seen over southwestern Ontario, Canada and at least eight states from Michigan to New York at 4:43 p.m. EST (21:43 UT) on 9 December 1965."
+  },
+  {
+   "s": "case",
+   "p": "pilot_report_count",
+   "v": "23 reports from aircraft pilots received by the FAA",
+   "quote": "The Federal Aviation Administration received 23 reports from aircraft pilots, starting at 4:44 p.m."
+  },
+  {
+   "s": "case",
+   "p": "reported_effects",
+   "v": "hot metal debris over Michigan and northern Ohio, grass fires, and sonic booms in the Pittsburgh metropolitan area",
+   "quote": "Reports of hot metal debris over Michigan and northern Ohio, grass fires, and sonic booms in the Pittsburgh metropolitan area were attributed to the fireball."
+  },
+  {
+   "s": "case",
+   "p": "resident_reports",
+   "v": "wisps of blue smoke, vibrations, a \"thump\", and something from the sky crashing in the woods",
+   "quote": "Some people in the village of Kecksburg, about 30 miles (48 km) southeast of Pittsburgh, reported wisps of blue smoke, vibrations, and a \"thump\", and also that something from the sky had crashed in the woods."
+  },
+  {
+   "s": "case",
+   "p": "smoke_color",
+   "v": "blue",
+   "quote": "Some people in the village of Kecksburg, about 30 miles (48 km) southeast of Pittsburgh, reported wisps of blue smoke, vibrations, and a \"thump\", and also that something from the sky had crashed in the woods."
+  },
+  {
+   "s": "case",
+   "p": "area_sealed",
+   "v": "area sealed off on the order of U.S. Army and State Police officials for a \"close inspection\"",
+   "quote": "An early article in the Greensburg Tribune-Review stated the following: The area where the object landed was immediately sealed off on the order of U.S. Army and State Police officials, in anticipation of a \"close inspection\" of whatever may have fallen"
+  },
+  {
+   "s": "case",
+   "p": "area_sealed",
+   "v": "State Police ordered the area roped off to await U.S. Army engineers and possibly civilian scientists",
+   "quote": "State Police officials there ordered the area roped off to await the expected arrival of both U.S. Army engineers and possibly, civilian scientists."
+  },
+  {
+   "s": "case",
+   "p": "search_result",
+   "v": "state troopers and Air Force personnel searched the woods and found \"absolutely nothing\"",
+   "quote": "When state troopers and Air Force personnel searched the woods, they found \"absolutely nothing\"."
+  },
+  {
+   "s": "case",
+   "p": "official_assessment",
+   "v": "authorities discounted plane crash, errant missile test and reentering satellite debris and generally assumed a meteor",
+   "quote": "Authorities discounted proposed explanations such as a plane crash, errant missile test, or reentering satellite debris and generally assumed it to be a meteor."
+  },
+  {
+   "s": "case",
+   "p": "seismograph_record",
+   "v": "a seismograph 25 miles (40 km) southwest of Detroit recorded shock waves created by the fireball",
+   "quote": "A seismograph 25 miles (40 km) southwest of Detroit recorded shock waves created by the fireball as it passed through the atmosphere."
+  },
+  {
+   "s": "case",
+   "p": "speculation",
+   "v": "ranging from extraterrestrial craft to debris from the Soviet space probe Kosmos 96",
+   "quote": "The incident gained wide notoriety in popular culture and ufology, with speculation ranging from extraterrestrial craft to debris from the Soviet space probe Kosmos 96, and is often called \"Pennsylvania's Roswell\"."
+  },
+  {
+   "s": "case",
+   "p": "records_lost",
+   "v": "original NASA records were lost in 1987",
+   "quote": "NASA released a statement in 2005 reporting that experts had examined fragments from the area and determined they were from a Soviet satellite, but those original records were lost in 1987."
+  },
+  {
+   "s": "case",
+   "p": "records_lost",
+   "v": "records of the findings were lost in the 1980s",
+   "quote": "In December 2005, just before the 40th anniversary of the Kecksburg incident, NASA released a statement reporting that experts had examined metallic fragments from the area and determined they were from a Soviet satellite that re-entered the atmosphere and broke up, but records of their findings were lost in the 1980s."
+  },
+  {
+   "s": "case",
+   "p": "court_action",
+   "v": "On October 26, 2007, NASA agreed to search for the records after being ordered by a court",
+   "quote": "On October 26, 2007, NASA agreed to search for those records after being ordered by a court."
+  },
+  {
+   "s": "case",
+   "p": "missing_records",
+   "v": "two boxes of papers from the time of the incident were missing",
+   "quote": "During the hearing, Steve McConnell, NASA's public liaison officer, testified that two boxes of papers from the time of the Kecksburg incident were missing."
+  },
+  {
+   "s": "case",
+   "p": "anniversary",
+   "v": "NASA statement came in December 2005, just before the 40th anniversary",
+   "quote": "In December 2005, just before the 40th anniversary of the Kecksburg incident, NASA released a statement reporting that experts had examined metallic fragments from the area and determined they were from a Soviet satellite that re-entered the atmosphere and broke up, but records of their findings were lost in the 1980s."
+  },
+  {
+   "s": "case",
+   "p": "reported_landing_time",
+   "v": "4:46 p.m. EST",
+   "quote": "Some unconfirmed reports state the fireball subsequently landed in Pennsylvania southeast of Pittsburgh near the town of Kecksburg (40.2 N, 79.5 W) at 4:46 p.m. EST"
+  },
+  {
+   "s": "case",
+   "p": "coordinates",
+   "v": "40.2 N, 79.5 W",
+   "quote": "Some unconfirmed reports state the fireball subsequently landed in Pennsylvania southeast of Pittsburgh near the town of Kecksburg (40.2 N, 79.5 W) at 4:46 p.m. EST"
+  },
+  {
+   "s": "case",
+   "p": "rumor",
+   "v": "unconfirmed reports state the fireball subsequently landed near Kecksburg at 4:46 p.m. EST",
+   "quote": "Some unconfirmed reports state the fireball subsequently landed in Pennsylvania southeast of Pittsburgh near the town of Kecksburg (40.2 N, 79.5 W) at 4:46 p.m. EST"
+  },
+  {
+   "s": "case",
+   "p": "rumor",
+   "v": "object in the woods was removed in a secret military operation",
+   "quote": "It quoted local residents at the time who said they had found an object in the woods shaped like an acorn and about as large as a Volkswagen Beetle bearing writing resembling Egyptian hieroglyphs which was subsequently removed in a secret military operation."
+  },
+  {
+   "s": "case",
+   "p": "rumor",
+   "v": "the incident was the recovery of an alleged Nazi UFO called Die Glocke",
+   "quote": "In 2008, an episode of the Discovery Channel series Nazi UFO Conspiracy suggested the incident was the recovery of an alleged Nazi UFO called Die Glocke (\"The Bell\")."
+  },
+  {
+   "s": "case",
+   "p": "display",
+   "v": "a prop from the Unsolved Mysteries show remains on display in the village",
+   "quote": "A prop from that show remains on display in the village."
+  },
+  {
+   "s": "case",
+   "p": "scientific_coverage",
+   "v": "several articles were written about the fireball in science journals",
+   "quote": "Several articles were written about the fireball in science journals."
+  },
+  {
+   "s": "fireball",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "On the evening of December 9, 1965, a large, brilliant fireball was seen in Idaho, Indiana, Ohio, Pennsylvania, West Virginia, and New York as it streaked over the Detroit, Michigan–Windsor, Ontario area."
+  },
+  {
+   "s": "fireball",
+   "p": "appearance",
+   "v": "large, brilliant fireball",
+   "quote": "On the evening of December 9, 1965, a large, brilliant fireball was seen in Idaho, Indiana, Ohio, Pennsylvania, West Virginia, and New York as it streaked over the Detroit, Michigan–Windsor, Ontario area."
+  },
+  {
+   "s": "fireball",
+   "p": "time_seen",
+   "v": "about 4:44 p.m. EST over the Detroit-Windsor area",
+   "quote": "The February 1966 issue of Sky & Telescope reported that the fireball was seen over the Detroit-Windsor area at about 4:44 p.m. EST."
+  },
+  {
+   "s": "fireball",
+   "p": "time_seen",
+   "v": "4:43 p.m. over the Detroit area (from seismographic record)",
+   "quote": "A 1967 article by two astronomers in the Journal of the Royal Astronomical Society of Canada (JRASC) used the seismographic record to pinpoint the time of passage over the Detroit area to 4:43 p.m."
+  },
+  {
+   "s": "fireball",
+   "p": "time_seen",
+   "v": "4:43 p.m. EST (21:43 UT)",
+   "quote": "There is some speculation that the reentry of the Cosmos 96/Venera-type spacecraft was responsible for a fireball which was seen over southwestern Ontario, Canada and at least eight states from Michigan to New York at 4:43 p.m. EST (21:43 UT) on 9 December 1965."
+  },
+  {
+   "s": "fireball",
+   "p": "path",
+   "v": "roughly from northwest to southeast, ending in or near the western part of Lake Erie",
+   "quote": "The Sky & Telescope article concluded that \"the path of the fireball extended roughly from northwest to southeast\" and ended \"in or near the western part of Lake Erie\"."
+  },
+  {
+   "s": "fireball",
+   "p": "path",
+   "v": "descending at a steep angle, moving from the southwest to the northeast, likely impacting on the northwestern shore of Lake Erie near Windsor, Ontario",
+   "quote": "They concluded that the fireball was descending at a steep angle, moving from the southwest to the northeast, and likely impacted on the northwestern shore of Lake Erie near Windsor, Ontario."
+  },
+  {
+   "s": "fireball",
+   "p": "path",
+   "v": "probably too steep to be consistent with a spacecraft re-entering from Earth orbit; probably ended its flight over western Lake Erie",
+   "quote": "Investigations of photographs and sightings of the fireball indicated its path through the atmosphere was probably too steep to be consistent with a spacecraft re-entering from Earth orbit and was more likely a meteor in a prograde orbit from the vicinity of the asteroid belt, and probably ended its flight over western Lake Erie."
+  },
+  {
+   "s": "fireball",
+   "p": "descent_angle",
+   "v": "steep",
+   "quote": "Astronomer John Balafoutas said it was likely to have been a meteor bolide burning up in the atmosphere and descending at a steep angle."
+  },
+  {
+   "s": "fireball",
+   "p": "probable_origin",
+   "v": "meteor in a prograde orbit from the vicinity of the asteroid belt",
+   "quote": "Investigations of photographs and sightings of the fireball indicated its path through the atmosphere was probably too steep to be consistent with a spacecraft re-entering from Earth orbit and was more likely a meteor in a prograde orbit from the vicinity of the asteroid belt, and probably ended its flight over western Lake Erie."
+  },
+  {
+   "s": "fireball",
+   "p": "sound",
+   "v": "sonic booms in the Pittsburgh metropolitan area",
+   "quote": "Reports of hot metal debris over Michigan and northern Ohio, grass fires, and sonic booms in the Pittsburgh metropolitan area were attributed to the fireball."
+  },
+  {
+   "s": "fireball",
+   "p": "shock_waves",
+   "v": "recorded by a seismograph 25 miles (40 km) southwest of Detroit",
+   "quote": "A seismograph 25 miles (40 km) southwest of Detroit recorded shock waves created by the fireball as it passed through the atmosphere."
+  },
+  {
+   "s": "fireball",
+   "p": "trail_photographed",
+   "v": "photographs of the trail taken north of Detroit at two different locations",
+   "quote": "In addition, they used photographs of the trail taken north of Detroit at two different locations to triangulate the trajectory of the object."
+  },
+  {
+   "s": "acorn",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "It quoted local residents at the time who said they had found an object in the woods shaped like an acorn and about as large as a Volkswagen Beetle bearing writing resembling Egyptian hieroglyphs which was subsequently removed in a secret military operation."
+  },
+  {
+   "s": "acorn",
+   "p": "shape",
+   "v": "like an acorn",
+   "quote": "It quoted local residents at the time who said they had found an object in the woods shaped like an acorn and about as large as a Volkswagen Beetle bearing writing resembling Egyptian hieroglyphs which was subsequently removed in a secret military operation."
+  },
+  {
+   "s": "acorn",
+   "p": "size",
+   "v": "about as large as a Volkswagen Beetle",
+   "quote": "It quoted local residents at the time who said they had found an object in the woods shaped like an acorn and about as large as a Volkswagen Beetle bearing writing resembling Egyptian hieroglyphs which was subsequently removed in a secret military operation."
+  },
+  {
+   "s": "acorn",
+   "p": "size",
+   "v": "\"the size of a VW\"",
+   "quote": "In it, Kecksburg resident John Hays says that as a 10-year-old boy, he saw a flat-bed truck emerging from the site near his house, carrying something \"the size of a VW\", an exact repetition of the claims he made in the first episode of Unsolved Mysteries, season 3, in 1990."
+  },
+  {
+   "s": "acorn",
+   "p": "markings",
+   "v": "writing resembling Egyptian hieroglyphs",
+   "quote": "It quoted local residents at the time who said they had found an object in the woods shaped like an acorn and about as large as a Volkswagen Beetle bearing writing resembling Egyptian hieroglyphs which was subsequently removed in a secret military operation."
+  },
+  {
+   "s": "acorn",
+   "p": "removal",
+   "v": "subsequently removed in a secret military operation",
+   "quote": "It quoted local residents at the time who said they had found an object in the woods shaped like an acorn and about as large as a Volkswagen Beetle bearing writing resembling Egyptian hieroglyphs which was subsequently removed in a secret military operation."
+  },
+  {
+   "s": "acorn",
+   "p": "speculated_identity",
+   "v": "a General Electric Mark 2 Re-entry Vehicle launched by the Air Force as a spy satellite that fell out of orbit",
+   "quote": "According to John Ventre of MUFON and Shafton native Owen Eichler, their recent investigations have led them to speculate the object that reportedly landed in Kecksburg was \"a General Electric Mark 2 Re-entry Vehicle that had been launched by the Air Force as a spy satellite, but fell out of orbit\"; however, \"we need confirmation from NASA or the Air Force\"."
+  },
+  {
+   "s": "truck",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "In it, Kecksburg resident John Hays says that as a 10-year-old boy, he saw a flat-bed truck emerging from the site near his house, carrying something \"the size of a VW\", an exact repetition of the claims he made in the first episode of Unsolved Mysteries, season 3, in 1990."
+  },
+  {
+   "s": "truck",
+   "p": "cargo",
+   "v": "something \"the size of a VW\"",
+   "quote": "In it, Kecksburg resident John Hays says that as a 10-year-old boy, he saw a flat-bed truck emerging from the site near his house, carrying something \"the size of a VW\", an exact repetition of the claims he made in the first episode of Unsolved Mysteries, season 3, in 1990."
+  },
+  {
+   "s": "kosmos96",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "The incident gained wide notoriety in popular culture and ufology, with speculation ranging from extraterrestrial craft to debris from the Soviet space probe Kosmos 96, and is often called \"Pennsylvania's Roswell\"."
+  },
+  {
+   "s": "kosmos96",
+   "p": "description",
+   "v": "Soviet space probe",
+   "quote": "The incident gained wide notoriety in popular culture and ufology, with speculation ranging from extraterrestrial craft to debris from the Soviet space probe Kosmos 96, and is often called \"Pennsylvania's Roswell\"."
+  },
+  {
+   "s": "kosmos96",
+   "p": "spacecraft_type",
+   "v": "Venera-type spacecraft",
+   "quote": "There is some speculation that the reentry of the Cosmos 96/Venera-type spacecraft was responsible for a fireball which was seen over southwestern Ontario, Canada and at least eight states from Michigan to New York at 4:43 p.m. EST (21:43 UT) on 9 December 1965."
+  },
+  {
+   "s": "kosmos96",
+   "p": "orbit_decay",
+   "v": "orbit decayed earlier than 21:43 UT on 9 December, per U.S. Air Force tracking data",
+   "quote": "U.S. Air Force tracking data on Cosmos 96 also indicate the spacecraft orbit decayed earlier than 21:43 UT on 9 December."
+  },
+  {
+   "s": "kosmos96",
+   "p": "ruled_out",
+   "v": "other analyses of the orbit definitively indicate the fireball could not have been Cosmos 96",
+   "quote": "Other analyses of the spacecraft orbit definitively indicate it could not have been the Cosmos 96 spacecraft."
+  },
+  {
+   "s": "kosmos96",
+   "p": "identified_as",
+   "o": "x_sat",
+   "quote": "There is some speculation that the reentry of the Cosmos 96/Venera-type spacecraft was responsible for a fireball which was seen over southwestern Ontario, Canada and at least eight states from Michigan to New York at 4:43 p.m. EST (21:43 UT) on 9 December 1965."
+  },
+  {
+   "s": "kecksburg",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball was reported by citizens of six U.S. states and Canada over Detroit, Michigan, and Windsor, Ontario."
+  },
+  {
+   "s": "kecksburg",
+   "p": "distance",
+   "v": "about 30 miles (48 km) southeast of Pittsburgh",
+   "quote": "Some people in the village of Kecksburg, about 30 miles (48 km) southeast of Pittsburgh, reported wisps of blue smoke, vibrations, and a \"thump\", and also that something from the sky had crashed in the woods."
+  },
+  {
+   "s": "kecksburg",
+   "p": "settlement_type",
+   "v": "village",
+   "quote": "Some people in the village of Kecksburg, about 30 miles (48 km) southeast of Pittsburgh, reported wisps of blue smoke, vibrations, and a \"thump\", and also that something from the sky had crashed in the woods."
+  },
+  {
+   "s": "kecksburg",
+   "p": "coordinates",
+   "v": "40.2 N, 79.5 W",
+   "quote": "Some unconfirmed reports state the fireball subsequently landed in Pennsylvania southeast of Pittsburgh near the town of Kecksburg (40.2 N, 79.5 W) at 4:46 p.m. EST"
+  },
+  {
+   "s": "pennsylvania",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "On the evening of December 9, 1965, a large, brilliant fireball was seen in Idaho, Indiana, Ohio, Pennsylvania, West Virginia, and New York as it streaked over the Detroit, Michigan–Windsor, Ontario area."
+  },
+  {
+   "s": "kecksburg",
+   "p": "located_in",
+   "o": "pennsylvania",
+   "quote": "The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball was reported by citizens of six U.S. states and Canada over Detroit, Michigan, and Windsor, Ontario."
+  },
+  {
+   "s": "usa",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball was reported by citizens of six U.S. states and Canada over Detroit, Michigan, and Windsor, Ontario."
+  },
+  {
+   "s": "pennsylvania",
+   "p": "located_in",
+   "o": "usa",
+   "quote": "The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball was reported by citizens of six U.S. states and Canada over Detroit, Michigan, and Windsor, Ontario."
+  },
+  {
+   "s": "canada",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball was reported by citizens of six U.S. states and Canada over Detroit, Michigan, and Windsor, Ontario."
+  },
+  {
+   "s": "detroit",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball was reported by citizens of six U.S. states and Canada over Detroit, Michigan, and Windsor, Ontario."
+  },
+  {
+   "s": "windsor",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball was reported by citizens of six U.S. states and Canada over Detroit, Michigan, and Windsor, Ontario."
+  },
+  {
+   "s": "ontario",
+   "p": "related_place",
+   "o": "case",
+   "quote": "There is some speculation that the reentry of the Cosmos 96/Venera-type spacecraft was responsible for a fireball which was seen over southwestern Ontario, Canada and at least eight states from Michigan to New York at 4:43 p.m. EST (21:43 UT) on 9 December 1965."
+  },
+  {
+   "s": "windsor",
+   "p": "located_in",
+   "o": "ontario",
+   "quote": "The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball was reported by citizens of six U.S. states and Canada over Detroit, Michigan, and Windsor, Ontario."
+  },
+  {
+   "s": "ontario",
+   "p": "located_in",
+   "o": "canada",
+   "quote": "There is some speculation that the reentry of the Cosmos 96/Venera-type spacecraft was responsible for a fireball which was seen over southwestern Ontario, Canada and at least eight states from Michigan to New York at 4:43 p.m. EST (21:43 UT) on 9 December 1965."
+  },
+  {
+   "s": "michigan",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Reports of hot metal debris over Michigan and northern Ohio, grass fires, and sonic booms in the Pittsburgh metropolitan area were attributed to the fireball."
+  },
+  {
+   "s": "detroit",
+   "p": "located_in",
+   "o": "michigan",
+   "quote": "The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball was reported by citizens of six U.S. states and Canada over Detroit, Michigan, and Windsor, Ontario."
+  },
+  {
+   "s": "ohio",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On the evening of December 9, 1965, a large, brilliant fireball was seen in Idaho, Indiana, Ohio, Pennsylvania, West Virginia, and New York as it streaked over the Detroit, Michigan–Windsor, Ontario area."
+  },
+  {
+   "s": "ohio",
+   "p": "reported_effect",
+   "v": "hot metal debris over northern Ohio",
+   "quote": "Reports of hot metal debris over Michigan and northern Ohio, grass fires, and sonic booms in the Pittsburgh metropolitan area were attributed to the fireball."
+  },
+  {
+   "s": "idaho",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On the evening of December 9, 1965, a large, brilliant fireball was seen in Idaho, Indiana, Ohio, Pennsylvania, West Virginia, and New York as it streaked over the Detroit, Michigan–Windsor, Ontario area."
+  },
+  {
+   "s": "indiana",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On the evening of December 9, 1965, a large, brilliant fireball was seen in Idaho, Indiana, Ohio, Pennsylvania, West Virginia, and New York as it streaked over the Detroit, Michigan–Windsor, Ontario area."
+  },
+  {
+   "s": "westvirginia",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On the evening of December 9, 1965, a large, brilliant fireball was seen in Idaho, Indiana, Ohio, Pennsylvania, West Virginia, and New York as it streaked over the Detroit, Michigan–Windsor, Ontario area."
+  },
+  {
+   "s": "newyork",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On the evening of December 9, 1965, a large, brilliant fireball was seen in Idaho, Indiana, Ohio, Pennsylvania, West Virginia, and New York as it streaked over the Detroit, Michigan–Windsor, Ontario area."
+  },
+  {
+   "s": "pittsburgh",
+   "p": "near",
+   "o": "case",
+   "quote": "Some people in the village of Kecksburg, about 30 miles (48 km) southeast of Pittsburgh, reported wisps of blue smoke, vibrations, and a \"thump\", and also that something from the sky had crashed in the woods."
+  },
+  {
+   "s": "pittsburgh",
+   "p": "reported_effect",
+   "v": "sonic booms in the Pittsburgh metropolitan area",
+   "quote": "Reports of hot metal debris over Michigan and northern Ohio, grass fires, and sonic booms in the Pittsburgh metropolitan area were attributed to the fireball."
+  },
+  {
+   "s": "lakeerie",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Sky & Telescope article concluded that \"the path of the fireball extended roughly from northwest to southeast\" and ended \"in or near the western part of Lake Erie\"."
+  },
+  {
+   "s": "lakeerie",
+   "p": "impact_location",
+   "v": "likely impacted on the northwestern shore of Lake Erie near Windsor, Ontario",
+   "quote": "They concluded that the fireball was descending at a steep angle, moving from the southwest to the northeast, and likely impacted on the northwestern shore of Lake Erie near Windsor, Ontario."
+  },
+  {
+   "s": "washington",
+   "p": "related_place",
+   "o": "case",
+   "quote": "A spokesman for the Department of Defense in Washington said first reports indicated the reported fireball was a natural phenomenon."
+  },
+  {
+   "s": "shafton",
+   "p": "related_place",
+   "o": "case",
+   "quote": "According to John Ventre of MUFON and Shafton native Owen Eichler, their recent investigations have led them to speculate the object that reportedly landed in Kecksburg was \"a General Electric Mark 2 Re-entry Vehicle that had been launched by the Air Force as a spy satellite, but fell out of orbit\"; however, \"we need confirmation from NASA or the Air Force\"."
+  },
+  {
+   "s": "ussr",
+   "p": "related_place",
+   "o": "case",
+   "quote": "NASA released a statement in 2005 reporting that experts had examined fragments from the area and determined they were from a Soviet satellite, but those original records were lost in 1987."
+  },
+  {
+   "s": "asteroidbelt",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Investigations of photographs and sightings of the fireball indicated its path through the atmosphere was probably too steep to be consistent with a spacecraft re-entering from Earth orbit and was more likely a meteor in a prograde orbit from the vicinity of the asteroid belt, and probably ended its flight over western Lake Erie."
+  },
+  {
+   "s": "nasa",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "NASA released a statement in 2005 reporting that experts had examined fragments from the area and determined they were from a Soviet satellite, but those original records were lost in 1987."
+  },
+  {
+   "s": "nasa",
+   "p": "statement",
+   "v": "experts examined fragments from the area and determined they were from a Soviet satellite",
+   "quote": "NASA released a statement in 2005 reporting that experts had examined fragments from the area and determined they were from a Soviet satellite, but those original records were lost in 1987."
+  },
+  {
+   "s": "nasa",
+   "p": "statement",
+   "v": "experts examined metallic fragments and determined they were from a Soviet satellite that re-entered the atmosphere and broke up",
+   "quote": "In December 2005, just before the 40th anniversary of the Kecksburg incident, NASA released a statement reporting that experts had examined metallic fragments from the area and determined they were from a Soviet satellite that re-entered the atmosphere and broke up, but records of their findings were lost in the 1980s."
+  },
+  {
+   "s": "nasa",
+   "p": "later_statement",
+   "v": "fireball path probably too steep for a spacecraft re-entry and more likely a meteor",
+   "quote": "Investigations of photographs and sightings of the fireball indicated its path through the atmosphere was probably too steep to be consistent with a spacecraft re-entering from Earth orbit and was more likely a meteor in a prograde orbit from the vicinity of the asteroid belt, and probably ended its flight over western Lake Erie."
+  },
+  {
+   "s": "nasa",
+   "p": "later_statement",
+   "v": "more recent comments are less supportive of a link to a Soviet satellite",
+   "quote": "More recent comments by NASA are less supportive of a link to a Soviet satellite:"
+  },
+  {
+   "s": "nasa",
+   "p": "legal_action",
+   "v": "responded to court orders and Freedom of Information Act requests to search for the records",
+   "quote": "NASA responded to court orders and Freedom of Information Act requests to search for the records."
+  },
+  {
+   "s": "nasa",
+   "p": "legal_action",
+   "v": "agreed on October 26, 2007 to search for the records after being ordered by a court",
+   "quote": "On October 26, 2007, NASA agreed to search for those records after being ordered by a court."
+  },
+  {
+   "s": "nasa",
+   "p": "other_record_loss",
+   "v": "original tapes of the televised Apollo 11 Moon landing were misplaced or reused",
+   "quote": "Loss of records is not a unique case for NASA; for example, the original tapes recorded during the televised Apollo 11 Moon landing were misplaced or reused."
+  },
+  {
+   "s": "tribune",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "An early article in the Greensburg Tribune-Review stated the following: The area where the object landed was immediately sealed off on the order of U.S. Army and State Police officials, in anticipation of a \"close inspection\" of whatever may have fallen"
+  },
+  {
+   "s": "army",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "An early article in the Greensburg Tribune-Review stated the following: The area where the object landed was immediately sealed off on the order of U.S. Army and State Police officials, in anticipation of a \"close inspection\" of whatever may have fallen"
+  },
+  {
+   "s": "army",
+   "p": "expected_personnel",
+   "v": "U.S. Army engineers",
+   "quote": "State Police officials there ordered the area roped off to await the expected arrival of both U.S. Army engineers and possibly, civilian scientists."
+  },
+  {
+   "s": "statepolice",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "When state troopers and Air Force personnel searched the woods, they found \"absolutely nothing\"."
+  },
+  {
+   "s": "statepolice",
+   "p": "action",
+   "v": "ordered the area roped off",
+   "quote": "State Police officials there ordered the area roped off to await the expected arrival of both U.S. Army engineers and possibly, civilian scientists."
+  },
+  {
+   "s": "statepolice",
+   "p": "action",
+   "v": "ordered the area sealed off together with U.S. Army officials",
+   "quote": "An early article in the Greensburg Tribune-Review stated the following: The area where the object landed was immediately sealed off on the order of U.S. Army and State Police officials, in anticipation of a \"close inspection\" of whatever may have fallen"
+  },
+  {
+   "s": "usaf",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "When state troopers and Air Force personnel searched the woods, they found \"absolutely nothing\"."
+  },
+  {
+   "s": "usaf",
+   "p": "tracking_data",
+   "v": "Cosmos 96 orbit decayed earlier than 21:43 UT on 9 December",
+   "quote": "U.S. Air Force tracking data on Cosmos 96 also indicate the spacecraft orbit decayed earlier than 21:43 UT on 9 December."
+  },
+  {
+   "s": "usaf",
+   "p": "alleged_role",
+   "v": "personnel allegedly identified themselves as NASA personnel when investigating the site",
+   "quote": "In 2008, space writer James Oberg suggested that NASA was unlikely to possess any such documents since, in his view, it was highly likely that the supposed NASA team that investigated the site were in fact Air Force personnel who identified themselves as NASA personnel, something regularly done by military personnel in civilian clothes during the 1960s."
+  },
+  {
+   "s": "usaf",
+   "p": "alleged_role",
+   "v": "speculated to have launched a General Electric Mark 2 Re-entry Vehicle as a spy satellite",
+   "quote": "According to John Ventre of MUFON and Shafton native Owen Eichler, their recent investigations have led them to speculate the object that reportedly landed in Kecksburg was \"a General Electric Mark 2 Re-entry Vehicle that had been launched by the Air Force as a spy satellite, but fell out of orbit\"; however, \"we need confirmation from NASA or the Air Force\"."
+  },
+  {
+   "s": "dod",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "A spokesman for the Department of Defense in Washington said first reports indicated the reported fireball was a natural phenomenon."
+  },
+  {
+   "s": "dod",
+   "p": "statement",
+   "v": "first reports indicated the reported fireball was a natural phenomenon",
+   "quote": "A spokesman for the Department of Defense in Washington said first reports indicated the reported fireball was a natural phenomenon."
+  },
+  {
+   "s": "dod",
+   "p": "located_in",
+   "o": "washington",
+   "quote": "A spokesman for the Department of Defense in Washington said first reports indicated the reported fireball was a natural phenomenon."
+  },
+  {
+   "s": "skytel",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The February 1966 issue of Sky & Telescope reported that the fireball was seen over the Detroit-Windsor area at about 4:44 p.m. EST."
+  },
+  {
+   "s": "faa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Federal Aviation Administration received 23 reports from aircraft pilots, starting at 4:44 p.m."
+  },
+  {
+   "s": "faa",
+   "p": "reports_received",
+   "v": "23 reports from aircraft pilots, starting at 4:44 p.m.",
+   "quote": "The Federal Aviation Administration received 23 reports from aircraft pilots, starting at 4:44 p.m."
+  },
+  {
+   "s": "jrasc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "A 1967 article by two astronomers in the Journal of the Royal Astronomical Society of Canada (JRASC) used the seismographic record to pinpoint the time of passage over the Detroit area to 4:43 p.m."
+  },
+  {
+   "s": "scifi",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Leslie Kean, described as \"an investigative reporter backed by the Sci-Fi Channel\", reportedly \"sued NASA under the Freedom of Information Act\" for the lost NASA records."
+  },
+  {
+   "s": "mufon",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "According to John Ventre of MUFON and Shafton native Owen Eichler, their recent investigations have led them to speculate the object that reportedly landed in Kecksburg was \"a General Electric Mark 2 Re-entry Vehicle that had been launched by the Air Force as a spy satellite, but fell out of orbit\"; however, \"we need confirmation from NASA or the Air Force\"."
+  },
+  {
+   "s": "nbc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 1990, the NBC television show Unsolved Mysteries aired an episode partially devoted to the incident."
+  },
+  {
+   "s": "discovery",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 2008, an episode of the Discovery Channel series Nazi UFO Conspiracy suggested the incident was the recovery of an alleged Nazi UFO called Die Glocke (\"The Bell\")."
+  },
+  {
+   "s": "history",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In February 2009, the History Channel's UFO Hunters suggested a military conspiracy and cover-up related to the incident."
+  },
+  {
+   "s": "whjb",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "It dramatizes the story of John Murphy, a reporter for local radio station WHJB who claimed to be the victim of a government conspiracy."
+  },
+  {
+   "s": "whjb",
+   "p": "organization_type",
+   "v": "local radio station",
+   "quote": "It dramatizes the story of John Murphy, a reporter for local radio station WHJB who claimed to be the victim of a government conspiracy."
+  },
+  {
+   "s": "bbc4",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "BBC Radio 4's 2024 drama series, Limelight: The Skies Are Watching, uses the Kecksburg incident as its inspiration."
+  },
+  {
+   "s": "ge",
+   "p": "mentioned_by",
+   "o": "ventre",
+   "quote": "According to John Ventre of MUFON and Shafton native Owen Eichler, their recent investigations have led them to speculate the object that reportedly landed in Kecksburg was \"a General Electric Mark 2 Re-entry Vehicle that had been launched by the Air Force as a spy satellite, but fell out of orbit\"; however, \"we need confirmation from NASA or the Air Force\"."
+  },
+  {
+   "s": "ge",
+   "p": "product_named",
+   "v": "Mark 2 Re-entry Vehicle",
+   "quote": "According to John Ventre of MUFON and Shafton native Owen Eichler, their recent investigations have led them to speculate the object that reportedly landed in Kecksburg was \"a General Electric Mark 2 Re-entry Vehicle that had been launched by the Air Force as a spy satellite, but fell out of orbit\"; however, \"we need confirmation from NASA or the Air Force\"."
+  },
+  {
+   "s": "ppg",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Pittsburgh Post-Gazette article by David Templeton"
+  },
+  {
+   "s": "iur",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "International UFO Reporter, 2005 article by Leslie Kean"
+  },
+  {
+   "s": "foia",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "NASA responded to court orders and Freedom of Information Act requests to search for the records."
+  },
+  {
+   "s": "apollo11",
+   "p": "record_loss",
+   "v": "original tapes recorded during the televised Moon landing were misplaced or reused",
+   "quote": "Loss of records is not a unique case for NASA; for example, the original tapes recorded during the televised Apollo 11 Moon landing were misplaced or reused."
+  },
+  {
+   "s": "apollo11",
+   "p": "part_of",
+   "o": "nasa",
+   "quote": "Loss of records is not a unique case for NASA; for example, the original tapes recorded during the televised Apollo 11 Moon landing were misplaced or reused."
+  },
+  {
+   "s": "balafoutas",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Astronomer John Balafoutas said it was likely to have been a meteor bolide burning up in the atmosphere and descending at a steep angle."
+  },
+  {
+   "s": "balafoutas",
+   "p": "occupation",
+   "v": "astronomer",
+   "quote": "Astronomer John Balafoutas said it was likely to have been a meteor bolide burning up in the atmosphere and descending at a steep angle."
+  },
+  {
+   "s": "balafoutas",
+   "p": "statement",
+   "v": "likely a meteor bolide burning up in the atmosphere and descending at a steep angle",
+   "quote": "Astronomer John Balafoutas said it was likely to have been a meteor bolide burning up in the atmosphere and descending at a steep angle."
+  },
+  {
+   "s": "balafoutas",
+   "p": "proposed",
+   "o": "x_meteor",
+   "quote": "Astronomer John Balafoutas said it was likely to have been a meteor bolide burning up in the atmosphere and descending at a steep angle."
+  },
+  {
+   "s": "annear",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Astronomer Paul Annear said the fireball was likely to have been a meteor entering the Earth's atmosphere."
+  },
+  {
+   "s": "annear",
+   "p": "occupation",
+   "v": "astronomer",
+   "quote": "Astronomer Paul Annear said the fireball was likely to have been a meteor entering the Earth's atmosphere."
+  },
+  {
+   "s": "annear",
+   "p": "statement",
+   "v": "the fireball was likely a meteor entering the Earth's atmosphere",
+   "quote": "Astronomer Paul Annear said the fireball was likely to have been a meteor entering the Earth's atmosphere."
+  },
+  {
+   "s": "annear",
+   "p": "proposed",
+   "o": "x_meteor",
+   "quote": "Astronomer Paul Annear said the fireball was likely to have been a meteor entering the Earth's atmosphere."
+  },
+  {
+   "s": "wetherill",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Geophysicist George Wetherill discounted speculations that it was debris from a satellite and agreed that the reports were probably due to a meteor."
+  },
+  {
+   "s": "wetherill",
+   "p": "occupation",
+   "v": "geophysicist",
+   "quote": "Geophysicist George Wetherill discounted speculations that it was debris from a satellite and agreed that the reports were probably due to a meteor."
+  },
+  {
+   "s": "wetherill",
+   "p": "statement",
+   "v": "discounted speculations of satellite debris; reports probably due to a meteor",
+   "quote": "Geophysicist George Wetherill discounted speculations that it was debris from a satellite and agreed that the reports were probably due to a meteor."
+  },
+  {
+   "s": "wetherill",
+   "p": "proposed",
+   "o": "x_meteor",
+   "quote": "Geophysicist George Wetherill discounted speculations that it was debris from a satellite and agreed that the reports were probably due to a meteor."
+  },
+  {
+   "s": "wetherill",
+   "p": "disputed",
+   "o": "x_sat",
+   "quote": "Geophysicist George Wetherill discounted speculations that it was debris from a satellite and agreed that the reports were probably due to a meteor."
+  },
+  {
+   "s": "bidelman",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Astronomers William P. Bidelman and Fred Hess said it undoubtedly was a meteor bolide."
+  },
+  {
+   "s": "bidelman",
+   "p": "occupation",
+   "v": "astronomer",
+   "quote": "Astronomers William P. Bidelman and Fred Hess said it undoubtedly was a meteor bolide."
+  },
+  {
+   "s": "bidelman",
+   "p": "proposed",
+   "o": "x_meteor",
+   "quote": "Astronomers William P. Bidelman and Fred Hess said it undoubtedly was a meteor bolide."
+  },
+  {
+   "s": "hess",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Astronomers William P. Bidelman and Fred Hess said it undoubtedly was a meteor bolide."
+  },
+  {
+   "s": "hess",
+   "p": "occupation",
+   "v": "astronomer",
+   "quote": "Astronomers William P. Bidelman and Fred Hess said it undoubtedly was a meteor bolide."
+  },
+  {
+   "s": "hess",
+   "p": "proposed",
+   "o": "x_meteor",
+   "quote": "Astronomers William P. Bidelman and Fred Hess said it undoubtedly was a meteor bolide."
+  },
+  {
+   "s": "bidelman",
+   "p": "colleague_of",
+   "o": "hess",
+   "quote": "Astronomers William P. Bidelman and Fred Hess said it undoubtedly was a meteor bolide."
+  },
+  {
+   "s": "kean",
+   "p": "journalist",
+   "o": "case",
+   "quote": "Leslie Kean, described as \"an investigative reporter backed by the Sci-Fi Channel\", reportedly \"sued NASA under the Freedom of Information Act\" for the lost NASA records."
+  },
+  {
+   "s": "kean",
+   "p": "occupation",
+   "v": "investigative reporter",
+   "quote": "Leslie Kean, described as \"an investigative reporter backed by the Sci-Fi Channel\", reportedly \"sued NASA under the Freedom of Information Act\" for the lost NASA records."
+  },
+  {
+   "s": "kean",
+   "p": "action",
+   "v": "reportedly sued NASA under the Freedom of Information Act for the lost NASA records",
+   "quote": "Leslie Kean, described as \"an investigative reporter backed by the Sci-Fi Channel\", reportedly \"sued NASA under the Freedom of Information Act\" for the lost NASA records."
+  },
+  {
+   "s": "kean",
+   "p": "employed_by",
+   "o": "scifi",
+   "quote": "Leslie Kean, described as \"an investigative reporter backed by the Sci-Fi Channel\", reportedly \"sued NASA under the Freedom of Information Act\" for the lost NASA records."
+  },
+  {
+   "s": "kean",
+   "p": "sued",
+   "o": "nasa",
+   "quote": "Leslie Kean, described as \"an investigative reporter backed by the Sci-Fi Channel\", reportedly \"sued NASA under the Freedom of Information Act\" for the lost NASA records."
+  },
+  {
+   "s": "mcconnell",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "During the hearing, Steve McConnell, NASA's public liaison officer, testified that two boxes of papers from the time of the Kecksburg incident were missing."
+  },
+  {
+   "s": "mcconnell",
+   "p": "occupation",
+   "v": "NASA's public liaison officer",
+   "quote": "During the hearing, Steve McConnell, NASA's public liaison officer, testified that two boxes of papers from the time of the Kecksburg incident were missing."
+  },
+  {
+   "s": "mcconnell",
+   "p": "statement",
+   "v": "two boxes of papers from the time of the Kecksburg incident were missing",
+   "quote": "During the hearing, Steve McConnell, NASA's public liaison officer, testified that two boxes of papers from the time of the Kecksburg incident were missing."
+  },
+  {
+   "s": "mcconnell",
+   "p": "employed_by",
+   "o": "nasa",
+   "quote": "During the hearing, Steve McConnell, NASA's public liaison officer, testified that two boxes of papers from the time of the Kecksburg incident were missing."
+  },
+  {
+   "s": "oberg",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "In 2008, space writer James Oberg suggested that NASA was unlikely to possess any such documents since, in his view, it was highly likely that the supposed NASA team that investigated the site were in fact Air Force personnel who identified themselves as NASA personnel, something regularly done by military personnel in civilian clothes during the 1960s."
+  },
+  {
+   "s": "oberg",
+   "p": "occupation",
+   "v": "space writer",
+   "quote": "In 2008, space writer James Oberg suggested that NASA was unlikely to possess any such documents since, in his view, it was highly likely that the supposed NASA team that investigated the site were in fact Air Force personnel who identified themselves as NASA personnel, something regularly done by military personnel in civilian clothes during the 1960s."
+  },
+  {
+   "s": "oberg",
+   "p": "statement",
+   "v": "the supposed NASA team that investigated the site were highly likely Air Force personnel who identified themselves as NASA personnel",
+   "quote": "In 2008, space writer James Oberg suggested that NASA was unlikely to possess any such documents since, in his view, it was highly likely that the supposed NASA team that investigated the site were in fact Air Force personnel who identified themselves as NASA personnel, something regularly done by military personnel in civilian clothes during the 1960s."
+  },
+  {
+   "s": "oberg",
+   "p": "statement",
+   "v": "Kean's action was no more than a \"publicity stunt\" for the benefit of Kean's employers",
+   "quote": "He further suggested that Kean's action was no more than a \"publicity stunt\" for the benefit of Kean's employers."
+  },
+  {
+   "s": "oberg",
+   "p": "statement_year",
+   "v": "2008",
+   "quote": "In 2008, space writer James Oberg suggested that NASA was unlikely to possess any such documents since, in his view, it was highly likely that the supposed NASA team that investigated the site were in fact Air Force personnel who identified themselves as NASA personnel, something regularly done by military personnel in civilian clothes during the 1960s."
+  },
+  {
+   "s": "oberg",
+   "p": "disputed",
+   "o": "kean",
+   "quote": "He further suggested that Kean's action was no more than a \"publicity stunt\" for the benefit of Kean's employers."
+  },
+  {
+   "s": "ventre",
+   "p": "investigator",
+   "o": "case",
+   "quote": "According to John Ventre of MUFON and Shafton native Owen Eichler, their recent investigations have led them to speculate the object that reportedly landed in Kecksburg was \"a General Electric Mark 2 Re-entry Vehicle that had been launched by the Air Force as a spy satellite, but fell out of orbit\"; however, \"we need confirmation from NASA or the Air Force\"."
+  },
+  {
+   "s": "ventre",
+   "p": "member_of",
+   "o": "mufon",
+   "quote": "According to John Ventre of MUFON and Shafton native Owen Eichler, their recent investigations have led them to speculate the object that reportedly landed in Kecksburg was \"a General Electric Mark 2 Re-entry Vehicle that had been launched by the Air Force as a spy satellite, but fell out of orbit\"; however, \"we need confirmation from NASA or the Air Force\"."
+  },
+  {
+   "s": "ventre",
+   "p": "statement",
+   "v": "the object was \"a General Electric Mark 2 Re-entry Vehicle that had been launched by the Air Force as a spy satellite, but fell out of orbit\"",
+   "quote": "According to John Ventre of MUFON and Shafton native Owen Eichler, their recent investigations have led them to speculate the object that reportedly landed in Kecksburg was \"a General Electric Mark 2 Re-entry Vehicle that had been launched by the Air Force as a spy satellite, but fell out of orbit\"; however, \"we need confirmation from NASA or the Air Force\"."
+  },
+  {
+   "s": "ventre",
+   "p": "statement",
+   "v": "\"we need confirmation from NASA or the Air Force\"",
+   "quote": "According to John Ventre of MUFON and Shafton native Owen Eichler, their recent investigations have led them to speculate the object that reportedly landed in Kecksburg was \"a General Electric Mark 2 Re-entry Vehicle that had been launched by the Air Force as a spy satellite, but fell out of orbit\"; however, \"we need confirmation from NASA or the Air Force\"."
+  },
+  {
+   "s": "ventre",
+   "p": "proposed",
+   "o": "x_sat",
+   "quote": "According to John Ventre of MUFON and Shafton native Owen Eichler, their recent investigations have led them to speculate the object that reportedly landed in Kecksburg was \"a General Electric Mark 2 Re-entry Vehicle that had been launched by the Air Force as a spy satellite, but fell out of orbit\"; however, \"we need confirmation from NASA or the Air Force\"."
+  },
+  {
+   "s": "eichler",
+   "p": "investigator",
+   "o": "case",
+   "quote": "According to John Ventre of MUFON and Shafton native Owen Eichler, their recent investigations have led them to speculate the object that reportedly landed in Kecksburg was \"a General Electric Mark 2 Re-entry Vehicle that had been launched by the Air Force as a spy satellite, but fell out of orbit\"; however, \"we need confirmation from NASA or the Air Force\"."
+  },
+  {
+   "s": "eichler",
+   "p": "origin",
+   "v": "Shafton native",
+   "quote": "According to John Ventre of MUFON and Shafton native Owen Eichler, their recent investigations have led them to speculate the object that reportedly landed in Kecksburg was \"a General Electric Mark 2 Re-entry Vehicle that had been launched by the Air Force as a spy satellite, but fell out of orbit\"; however, \"we need confirmation from NASA or the Air Force\"."
+  },
+  {
+   "s": "eichler",
+   "p": "colleague_of",
+   "o": "ventre",
+   "quote": "According to John Ventre of MUFON and Shafton native Owen Eichler, their recent investigations have led them to speculate the object that reportedly landed in Kecksburg was \"a General Electric Mark 2 Re-entry Vehicle that had been launched by the Air Force as a spy satellite, but fell out of orbit\"; however, \"we need confirmation from NASA or the Air Force\"."
+  },
+  {
+   "s": "eichler",
+   "p": "proposed",
+   "o": "x_sat",
+   "quote": "According to John Ventre of MUFON and Shafton native Owen Eichler, their recent investigations have led them to speculate the object that reportedly landed in Kecksburg was \"a General Electric Mark 2 Re-entry Vehicle that had been launched by the Air Force as a spy satellite, but fell out of orbit\"; however, \"we need confirmation from NASA or the Air Force\"."
+  },
+  {
+   "s": "eichler",
+   "p": "located_in",
+   "o": "shafton",
+   "quote": "According to John Ventre of MUFON and Shafton native Owen Eichler, their recent investigations have led them to speculate the object that reportedly landed in Kecksburg was \"a General Electric Mark 2 Re-entry Vehicle that had been launched by the Air Force as a spy satellite, but fell out of orbit\"; however, \"we need confirmation from NASA or the Air Force\"."
+  },
+  {
+   "s": "stack",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Host Robert Stack was featured covering the incident and its aftermath."
+  },
+  {
+   "s": "stack",
+   "p": "occupation",
+   "v": "host of Unsolved Mysteries",
+   "quote": "Host Robert Stack was featured covering the incident and its aftermath."
+  },
+  {
+   "s": "gumbel",
+   "p": "commentator",
+   "o": "case",
+   "quote": "In 2003, the Sci Fi Channel aired a two-hour documentary, The New Roswell: Kecksburg Exposed, hosted by Bryant Gumbel."
+  },
+  {
+   "s": "gumbel",
+   "p": "occupation",
+   "v": "host of The New Roswell: Kecksburg Exposed",
+   "quote": "In 2003, the Sci Fi Channel aired a two-hour documentary, The New Roswell: Kecksburg Exposed, hosted by Bryant Gumbel."
+  },
+  {
+   "s": "hays",
+   "p": "witness",
+   "o": "case",
+   "quote": "In it, Kecksburg resident John Hays says that as a 10-year-old boy, he saw a flat-bed truck emerging from the site near his house, carrying something \"the size of a VW\", an exact repetition of the claims he made in the first episode of Unsolved Mysteries, season 3, in 1990."
+  },
+  {
+   "s": "hays",
+   "p": "age",
+   "v": "10 at the time",
+   "quote": "In it, Kecksburg resident John Hays says that as a 10-year-old boy, he saw a flat-bed truck emerging from the site near his house, carrying something \"the size of a VW\", an exact repetition of the claims he made in the first episode of Unsolved Mysteries, season 3, in 1990."
+  },
+  {
+   "s": "hays",
+   "p": "residence",
+   "v": "Kecksburg resident; the site was near his house",
+   "quote": "In it, Kecksburg resident John Hays says that as a 10-year-old boy, he saw a flat-bed truck emerging from the site near his house, carrying something \"the size of a VW\", an exact repetition of the claims he made in the first episode of Unsolved Mysteries, season 3, in 1990."
+  },
+  {
+   "s": "hays",
+   "p": "statement",
+   "v": "saw a flat-bed truck emerging from the site near his house, carrying something \"the size of a VW\"",
+   "quote": "In it, Kecksburg resident John Hays says that as a 10-year-old boy, he saw a flat-bed truck emerging from the site near his house, carrying something \"the size of a VW\", an exact repetition of the claims he made in the first episode of Unsolved Mysteries, season 3, in 1990."
+  },
+  {
+   "s": "hays",
+   "p": "earlier_statement",
+   "v": "made the same claims in the first episode of Unsolved Mysteries, season 3, in 1990",
+   "quote": "In it, Kecksburg resident John Hays says that as a 10-year-old boy, he saw a flat-bed truck emerging from the site near his house, carrying something \"the size of a VW\", an exact repetition of the claims he made in the first episode of Unsolved Mysteries, season 3, in 1990."
+  },
+  {
+   "s": "hays",
+   "p": "described",
+   "o": "truck",
+   "quote": "In it, Kecksburg resident John Hays says that as a 10-year-old boy, he saw a flat-bed truck emerging from the site near his house, carrying something \"the size of a VW\", an exact repetition of the claims he made in the first episode of Unsolved Mysteries, season 3, in 1990."
+  },
+  {
+   "s": "hays",
+   "p": "described",
+   "o": "acorn",
+   "quote": "In it, Kecksburg resident John Hays says that as a 10-year-old boy, he saw a flat-bed truck emerging from the site near his house, carrying something \"the size of a VW\", an exact repetition of the claims he made in the first episode of Unsolved Mysteries, season 3, in 1990."
+  },
+  {
+   "s": "hays",
+   "p": "located_in",
+   "o": "kecksburg",
+   "quote": "In it, Kecksburg resident John Hays says that as a 10-year-old boy, he saw a flat-bed truck emerging from the site near his house, carrying something \"the size of a VW\", an exact repetition of the claims he made in the first episode of Unsolved Mysteries, season 3, in 1990."
+  },
+  {
+   "s": "tsoukalos",
+   "p": "commentator",
+   "o": "case",
+   "quote": "In 2014, Giorgio A. Tsoukalos with the History Channel's In Search of Aliens visited the supposed crash site, led by local UFO researcher Stan Gordon."
+  },
+  {
+   "s": "tsoukalos",
+   "p": "action",
+   "v": "visited the supposed crash site in 2014",
+   "quote": "In 2014, Giorgio A. Tsoukalos with the History Channel's In Search of Aliens visited the supposed crash site, led by local UFO researcher Stan Gordon."
+  },
+  {
+   "s": "gordon",
+   "p": "investigator",
+   "o": "case",
+   "quote": "In 2014, Giorgio A. Tsoukalos with the History Channel's In Search of Aliens visited the supposed crash site, led by local UFO researcher Stan Gordon."
+  },
+  {
+   "s": "gordon",
+   "p": "occupation",
+   "v": "local UFO researcher",
+   "quote": "In 2014, Giorgio A. Tsoukalos with the History Channel's In Search of Aliens visited the supposed crash site, led by local UFO researcher Stan Gordon."
+  },
+  {
+   "s": "gordon",
+   "p": "colleague_of",
+   "o": "tsoukalos",
+   "quote": "In 2014, Giorgio A. Tsoukalos with the History Channel's In Search of Aliens visited the supposed crash site, led by local UFO researcher Stan Gordon."
+  },
+  {
+   "s": "knotts",
+   "p": "commentator",
+   "o": "case",
+   "quote": "On September 12, 2019, producer-director Cody Knotts premiered his film Kecksburg."
+  },
+  {
+   "s": "knotts",
+   "p": "occupation",
+   "v": "producer-director",
+   "quote": "On September 12, 2019, producer-director Cody Knotts premiered his film Kecksburg."
+  },
+  {
+   "s": "murphy",
+   "p": "journalist",
+   "o": "case",
+   "quote": "It dramatizes the story of John Murphy, a reporter for local radio station WHJB who claimed to be the victim of a government conspiracy."
+  },
+  {
+   "s": "murphy",
+   "p": "occupation",
+   "v": "reporter for local radio station WHJB",
+   "quote": "It dramatizes the story of John Murphy, a reporter for local radio station WHJB who claimed to be the victim of a government conspiracy."
+  },
+  {
+   "s": "murphy",
+   "p": "later_claim",
+   "v": "claimed to be the victim of a government conspiracy",
+   "quote": "It dramatizes the story of John Murphy, a reporter for local radio station WHJB who claimed to be the victim of a government conspiracy."
+  },
+  {
+   "s": "murphy",
+   "p": "employed_by",
+   "o": "whjb",
+   "quote": "It dramatizes the story of John Murphy, a reporter for local radio station WHJB who claimed to be the victim of a government conspiracy."
+  },
+  {
+   "s": "patterson",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Filmmaker Andrew Patterson has said that the plot of his 2019 film The Vast of Night was partially based on the Kecksburg incident."
+  },
+  {
+   "s": "patterson",
+   "p": "occupation",
+   "v": "filmmaker",
+   "quote": "Filmmaker Andrew Patterson has said that the plot of his 2019 film The Vast of Night was partially based on the Kecksburg incident."
+  },
+  {
+   "s": "patterson",
+   "p": "statement",
+   "v": "the plot of The Vast of Night was partially based on the Kecksburg incident",
+   "quote": "Filmmaker Andrew Patterson has said that the plot of his 2019 film The Vast of Night was partially based on the Kecksburg incident."
+  },
+  {
+   "s": "spielberg",
+   "p": "commentator",
+   "o": "case",
+   "quote": "In the 2026 Steven Spielberg film Disclosure Day, the Kecksburg UFO incident is featured as part of a series of released government footage."
+  },
+  {
+   "s": "templeton",
+   "p": "journalist",
+   "o": "case",
+   "quote": "Pittsburgh Post-Gazette article by David Templeton"
+  },
+  {
+   "s": "templeton",
+   "p": "employed_by",
+   "o": "ppg",
+   "quote": "Pittsburgh Post-Gazette article by David Templeton"
+  },
+  {
+   "s": "sheaffer",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Skeptic Robert Sheaffer comments on the Kecksburg case"
+  },
+  {
+   "s": "dunning",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Dunning, Brian (June 25, 2019). \"Skeptoid #681: Alien Visitation and Kecksburg\". Skeptoid."
+  },
+  {
+   "s": "young",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Young, Robert R. \"Metamorphosis: Claimed Witness Accounts of the Great Lakes Fireball of December 9, 1965\" in Ballester-Olmos, V.J. and Heiden, Richard W. (eds.), The Reliability of UFO Witness Testimony."
+  },
+  {
+   "s": "d_tribart",
+   "p": "key_document",
+   "o": "case",
+   "quote": "An early article in the Greensburg Tribune-Review stated the following: The area where the object landed was immediately sealed off on the order of U.S. Army and State Police officials, in anticipation of a \"close inspection\" of whatever may have fallen"
+  },
+  {
+   "s": "tribune",
+   "p": "published",
+   "o": "d_tribart",
+   "quote": "An early article in the Greensburg Tribune-Review stated the following: The area where the object landed was immediately sealed off on the order of U.S. Army and State Police officials, in anticipation of a \"close inspection\" of whatever may have fallen"
+  },
+  {
+   "s": "d_tribart",
+   "p": "content",
+   "v": "area where the object landed was immediately sealed off on the order of U.S. Army and State Police officials",
+   "quote": "An early article in the Greensburg Tribune-Review stated the following: The area where the object landed was immediately sealed off on the order of U.S. Army and State Police officials, in anticipation of a \"close inspection\" of whatever may have fallen"
+  },
+  {
+   "s": "d_searchers",
+   "p": "key_document",
+   "o": "case",
+   "quote": "A subsequent edition in the Tribune-Review bore the headline \"Searchers Fail to Find Object\"."
+  },
+  {
+   "s": "tribune",
+   "p": "published",
+   "o": "d_searchers",
+   "quote": "A subsequent edition in the Tribune-Review bore the headline \"Searchers Fail to Find Object\"."
+  },
+  {
+   "s": "d_nasa05",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In December 2005, just before the 40th anniversary of the Kecksburg incident, NASA released a statement reporting that experts had examined metallic fragments from the area and determined they were from a Soviet satellite that re-entered the atmosphere and broke up, but records of their findings were lost in the 1980s."
+  },
+  {
+   "s": "nasa",
+   "p": "authored",
+   "o": "d_nasa05",
+   "quote": "In December 2005, just before the 40th anniversary of the Kecksburg incident, NASA released a statement reporting that experts had examined metallic fragments from the area and determined they were from a Soviet satellite that re-entered the atmosphere and broke up, but records of their findings were lost in the 1980s."
+  },
+  {
+   "s": "d_nasa05",
+   "p": "date",
+   "v": "2005-12",
+   "quote": "In December 2005, just before the 40th anniversary of the Kecksburg incident, NASA released a statement reporting that experts had examined metallic fragments from the area and determined they were from a Soviet satellite that re-entered the atmosphere and broke up, but records of their findings were lost in the 1980s."
+  },
+  {
+   "s": "d_nasa05",
+   "p": "content",
+   "v": "experts examined metallic fragments and determined they were from a Soviet satellite that re-entered the atmosphere and broke up",
+   "quote": "In December 2005, just before the 40th anniversary of the Kecksburg incident, NASA released a statement reporting that experts had examined metallic fragments from the area and determined they were from a Soviet satellite that re-entered the atmosphere and broke up, but records of their findings were lost in the 1980s."
+  },
+  {
+   "s": "d_nasarec",
+   "p": "key_document",
+   "o": "case",
+   "quote": "NASA released a statement in 2005 reporting that experts had examined fragments from the area and determined they were from a Soviet satellite, but those original records were lost in 1987."
+  },
+  {
+   "s": "d_nasarec",
+   "p": "status",
+   "v": "lost in 1987",
+   "quote": "NASA released a statement in 2005 reporting that experts had examined fragments from the area and determined they were from a Soviet satellite, but those original records were lost in 1987."
+  },
+  {
+   "s": "d_nasarec",
+   "p": "status",
+   "v": "two boxes of papers from the time of the incident were missing",
+   "quote": "During the hearing, Steve McConnell, NASA's public liaison officer, testified that two boxes of papers from the time of the Kecksburg incident were missing."
+  },
+  {
+   "s": "nasa",
+   "p": "owned",
+   "o": "d_nasarec",
+   "quote": "Leslie Kean, described as \"an investigative reporter backed by the Sci-Fi Channel\", reportedly \"sued NASA under the Freedom of Information Act\" for the lost NASA records."
+  },
+  {
+   "s": "d_photos",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In addition, they used photographs of the trail taken north of Detroit at two different locations to triangulate the trajectory of the object."
+  },
+  {
+   "s": "d_photos",
+   "p": "location_taken",
+   "v": "north of Detroit at two different locations",
+   "quote": "In addition, they used photographs of the trail taken north of Detroit at two different locations to triangulate the trajectory of the object."
+  },
+  {
+   "s": "d_seis",
+   "p": "key_document",
+   "o": "case",
+   "quote": "A seismograph 25 miles (40 km) southwest of Detroit recorded shock waves created by the fireball as it passed through the atmosphere."
+  },
+  {
+   "s": "d_seis",
+   "p": "location",
+   "v": "25 miles (40 km) southwest of Detroit",
+   "quote": "A seismograph 25 miles (40 km) southwest of Detroit recorded shock waves created by the fireball as it passed through the atmosphere."
+  },
+  {
+   "s": "d_seis",
+   "p": "use",
+   "v": "used to pinpoint the time of passage over the Detroit area to 4:43 p.m.",
+   "quote": "A 1967 article by two astronomers in the Journal of the Royal Astronomical Society of Canada (JRASC) used the seismographic record to pinpoint the time of passage over the Detroit area to 4:43 p.m."
+  },
+  {
+   "s": "w_skyart",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The February 1966 issue of Sky & Telescope reported that the fireball was seen over the Detroit-Windsor area at about 4:44 p.m. EST."
+  },
+  {
+   "s": "skytel",
+   "p": "published",
+   "o": "w_skyart",
+   "quote": "The February 1966 issue of Sky & Telescope reported that the fireball was seen over the Detroit-Windsor area at about 4:44 p.m. EST."
+  },
+  {
+   "s": "w_skyart",
+   "p": "date",
+   "v": "1966-02",
+   "quote": "The February 1966 issue of Sky & Telescope reported that the fireball was seen over the Detroit-Windsor area at about 4:44 p.m. EST."
+  },
+  {
+   "s": "w_skyart",
+   "p": "conclusion",
+   "v": "path extended roughly from northwest to southeast and ended in or near the western part of Lake Erie",
+   "quote": "The Sky & Telescope article concluded that \"the path of the fireball extended roughly from northwest to southeast\" and ended \"in or near the western part of Lake Erie\"."
+  },
+  {
+   "s": "w_jrasc",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "A 1967 article by two astronomers in the Journal of the Royal Astronomical Society of Canada (JRASC) used the seismographic record to pinpoint the time of passage over the Detroit area to 4:43 p.m."
+  },
+  {
+   "s": "jrasc",
+   "p": "published",
+   "o": "w_jrasc",
+   "quote": "A 1967 article by two astronomers in the Journal of the Royal Astronomical Society of Canada (JRASC) used the seismographic record to pinpoint the time of passage over the Detroit area to 4:43 p.m."
+  },
+  {
+   "s": "w_jrasc",
+   "p": "year",
+   "v": "1967",
+   "quote": "A 1967 article by two astronomers in the Journal of the Royal Astronomical Society of Canada (JRASC) used the seismographic record to pinpoint the time of passage over the Detroit area to 4:43 p.m."
+  },
+  {
+   "s": "w_jrasc",
+   "p": "authors",
+   "v": "two astronomers",
+   "quote": "A 1967 article by two astronomers in the Journal of the Royal Astronomical Society of Canada (JRASC) used the seismographic record to pinpoint the time of passage over the Detroit area to 4:43 p.m."
+  },
+  {
+   "s": "w_jrasc",
+   "p": "conclusion",
+   "v": "fireball descending at a steep angle from southwest to northeast, likely impacting on the northwestern shore of Lake Erie near Windsor, Ontario",
+   "quote": "They concluded that the fireball was descending at a steep angle, moving from the southwest to the northeast, and likely impacted on the northwestern shore of Lake Erie near Windsor, Ontario."
+  },
+  {
+   "s": "w_um",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 1990, the NBC television show Unsolved Mysteries aired an episode partially devoted to the incident."
+  },
+  {
+   "s": "nbc",
+   "p": "published",
+   "o": "w_um",
+   "quote": "In 1990, the NBC television show Unsolved Mysteries aired an episode partially devoted to the incident."
+  },
+  {
+   "s": "stack",
+   "p": "part_of",
+   "o": "w_um",
+   "quote": "Host Robert Stack was featured covering the incident and its aftermath."
+  },
+  {
+   "s": "w_um",
+   "p": "year",
+   "v": "1990",
+   "quote": "In 1990, the NBC television show Unsolved Mysteries aired an episode partially devoted to the incident."
+  },
+  {
+   "s": "w_um",
+   "p": "episode",
+   "v": "first episode of season 3, in 1990",
+   "quote": "In it, Kecksburg resident John Hays says that as a 10-year-old boy, he saw a flat-bed truck emerging from the site near his house, carrying something \"the size of a VW\", an exact repetition of the claims he made in the first episode of Unsolved Mysteries, season 3, in 1990."
+  },
+  {
+   "s": "w_um",
+   "p": "suggestion",
+   "v": "an extraterrestrial craft had crashed",
+   "quote": "The episode suggested an extraterrestrial craft had crashed."
+  },
+  {
+   "s": "w_um",
+   "p": "content",
+   "v": "quoted local residents who said they found an acorn-shaped object in the woods bearing writing resembling Egyptian hieroglyphs",
+   "quote": "It quoted local residents at the time who said they had found an object in the woods shaped like an acorn and about as large as a Volkswagen Beetle bearing writing resembling Egyptian hieroglyphs which was subsequently removed in a secret military operation."
+  },
+  {
+   "s": "w_um",
+   "p": "prop",
+   "v": "a prop from the show remains on display in the village",
+   "quote": "A prop from that show remains on display in the village."
+  },
+  {
+   "s": "w_newroswell",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2003, the Sci Fi Channel aired a two-hour documentary, The New Roswell: Kecksburg Exposed, hosted by Bryant Gumbel."
+  },
+  {
+   "s": "scifi",
+   "p": "published",
+   "o": "w_newroswell",
+   "quote": "In 2003, the Sci Fi Channel aired a two-hour documentary, The New Roswell: Kecksburg Exposed, hosted by Bryant Gumbel."
+  },
+  {
+   "s": "gumbel",
+   "p": "part_of",
+   "o": "w_newroswell",
+   "quote": "In 2003, the Sci Fi Channel aired a two-hour documentary, The New Roswell: Kecksburg Exposed, hosted by Bryant Gumbel."
+  },
+  {
+   "s": "hays",
+   "p": "part_of",
+   "o": "w_newroswell",
+   "quote": "In it, Kecksburg resident John Hays says that as a 10-year-old boy, he saw a flat-bed truck emerging from the site near his house, carrying something \"the size of a VW\", an exact repetition of the claims he made in the first episode of Unsolved Mysteries, season 3, in 1990."
+  },
+  {
+   "s": "w_newroswell",
+   "p": "year",
+   "v": "2003",
+   "quote": "In 2003, the Sci Fi Channel aired a two-hour documentary, The New Roswell: Kecksburg Exposed, hosted by Bryant Gumbel."
+  },
+  {
+   "s": "w_newroswell",
+   "p": "length",
+   "v": "two-hour",
+   "quote": "In 2003, the Sci Fi Channel aired a two-hour documentary, The New Roswell: Kecksburg Exposed, hosted by Bryant Gumbel."
+  },
+  {
+   "s": "w_nazi",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2008, an episode of the Discovery Channel series Nazi UFO Conspiracy suggested the incident was the recovery of an alleged Nazi UFO called Die Glocke (\"The Bell\")."
+  },
+  {
+   "s": "discovery",
+   "p": "published",
+   "o": "w_nazi",
+   "quote": "In 2008, an episode of the Discovery Channel series Nazi UFO Conspiracy suggested the incident was the recovery of an alleged Nazi UFO called Die Glocke (\"The Bell\")."
+  },
+  {
+   "s": "w_nazi",
+   "p": "year",
+   "v": "2008",
+   "quote": "In 2008, an episode of the Discovery Channel series Nazi UFO Conspiracy suggested the incident was the recovery of an alleged Nazi UFO called Die Glocke (\"The Bell\")."
+  },
+  {
+   "s": "w_nazi",
+   "p": "suggestion",
+   "v": "the incident was the recovery of an alleged Nazi UFO called Die Glocke",
+   "quote": "In 2008, an episode of the Discovery Channel series Nazi UFO Conspiracy suggested the incident was the recovery of an alleged Nazi UFO called Die Glocke (\"The Bell\")."
+  },
+  {
+   "s": "w_hunters",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In February 2009, the History Channel's UFO Hunters suggested a military conspiracy and cover-up related to the incident."
+  },
+  {
+   "s": "history",
+   "p": "published",
+   "o": "w_hunters",
+   "quote": "In February 2009, the History Channel's UFO Hunters suggested a military conspiracy and cover-up related to the incident."
+  },
+  {
+   "s": "w_hunters",
+   "p": "date",
+   "v": "2009-02",
+   "quote": "In February 2009, the History Channel's UFO Hunters suggested a military conspiracy and cover-up related to the incident."
+  },
+  {
+   "s": "w_hunters",
+   "p": "suggestion",
+   "v": "a military conspiracy and cover-up related to the incident",
+   "quote": "In February 2009, the History Channel's UFO Hunters suggested a military conspiracy and cover-up related to the incident."
+  },
+  {
+   "s": "w_ancient",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2011, the History Channel's Ancient Aliens suggested the alleged Nazi secret weapon Die Glocke was recovered at Kecksburg, prompting a government conspiracy and cover-up."
+  },
+  {
+   "s": "history",
+   "p": "published",
+   "o": "w_ancient",
+   "quote": "In 2011, the History Channel's Ancient Aliens suggested the alleged Nazi secret weapon Die Glocke was recovered at Kecksburg, prompting a government conspiracy and cover-up."
+  },
+  {
+   "s": "w_ancient",
+   "p": "year",
+   "v": "2011",
+   "quote": "In 2011, the History Channel's Ancient Aliens suggested the alleged Nazi secret weapon Die Glocke was recovered at Kecksburg, prompting a government conspiracy and cover-up."
+  },
+  {
+   "s": "w_ancient",
+   "p": "suggestion",
+   "v": "the alleged Nazi secret weapon Die Glocke was recovered at Kecksburg, prompting a government conspiracy and cover-up",
+   "quote": "In 2011, the History Channel's Ancient Aliens suggested the alleged Nazi secret weapon Die Glocke was recovered at Kecksburg, prompting a government conspiracy and cover-up."
+  },
+  {
+   "s": "w_insearch",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2014, Giorgio A. Tsoukalos with the History Channel's In Search of Aliens visited the supposed crash site, led by local UFO researcher Stan Gordon."
+  },
+  {
+   "s": "history",
+   "p": "published",
+   "o": "w_insearch",
+   "quote": "In 2014, Giorgio A. Tsoukalos with the History Channel's In Search of Aliens visited the supposed crash site, led by local UFO researcher Stan Gordon."
+  },
+  {
+   "s": "tsoukalos",
+   "p": "part_of",
+   "o": "w_insearch",
+   "quote": "In 2014, Giorgio A. Tsoukalos with the History Channel's In Search of Aliens visited the supposed crash site, led by local UFO researcher Stan Gordon."
+  },
+  {
+   "s": "w_insearch",
+   "p": "year",
+   "v": "2014",
+   "quote": "In 2014, Giorgio A. Tsoukalos with the History Channel's In Search of Aliens visited the supposed crash site, led by local UFO researcher Stan Gordon."
+  },
+  {
+   "s": "w_kecksburg",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "On September 12, 2019, producer-director Cody Knotts premiered his film Kecksburg."
+  },
+  {
+   "s": "knotts",
+   "p": "authored",
+   "o": "w_kecksburg",
+   "quote": "On September 12, 2019, producer-director Cody Knotts premiered his film Kecksburg."
+  },
+  {
+   "s": "w_kecksburg",
+   "p": "premiere_date",
+   "v": "2019-09-12",
+   "quote": "On September 12, 2019, producer-director Cody Knotts premiered his film Kecksburg."
+  },
+  {
+   "s": "w_kecksburg",
+   "p": "subject",
+   "v": "dramatizes the story of John Murphy",
+   "quote": "It dramatizes the story of John Murphy, a reporter for local radio station WHJB who claimed to be the victim of a government conspiracy."
+  },
+  {
+   "s": "murphy",
+   "p": "part_of",
+   "o": "w_kecksburg",
+   "quote": "It dramatizes the story of John Murphy, a reporter for local radio station WHJB who claimed to be the victim of a government conspiracy."
+  },
+  {
+   "s": "w_vast",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Filmmaker Andrew Patterson has said that the plot of his 2019 film The Vast of Night was partially based on the Kecksburg incident."
+  },
+  {
+   "s": "patterson",
+   "p": "authored",
+   "o": "w_vast",
+   "quote": "Filmmaker Andrew Patterson has said that the plot of his 2019 film The Vast of Night was partially based on the Kecksburg incident."
+  },
+  {
+   "s": "w_vast",
+   "p": "year",
+   "v": "2019",
+   "quote": "Filmmaker Andrew Patterson has said that the plot of his 2019 film The Vast of Night was partially based on the Kecksburg incident."
+  },
+  {
+   "s": "w_limelight",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "BBC Radio 4's 2024 drama series, Limelight: The Skies Are Watching, uses the Kecksburg incident as its inspiration."
+  },
+  {
+   "s": "bbc4",
+   "p": "published",
+   "o": "w_limelight",
+   "quote": "BBC Radio 4's 2024 drama series, Limelight: The Skies Are Watching, uses the Kecksburg incident as its inspiration."
+  },
+  {
+   "s": "w_limelight",
+   "p": "year",
+   "v": "2024",
+   "quote": "BBC Radio 4's 2024 drama series, Limelight: The Skies Are Watching, uses the Kecksburg incident as its inspiration."
+  },
+  {
+   "s": "w_disclosure",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In the 2026 Steven Spielberg film Disclosure Day, the Kecksburg UFO incident is featured as part of a series of released government footage."
+  },
+  {
+   "s": "spielberg",
+   "p": "authored",
+   "o": "w_disclosure",
+   "quote": "In the 2026 Steven Spielberg film Disclosure Day, the Kecksburg UFO incident is featured as part of a series of released government footage."
+  },
+  {
+   "s": "w_disclosure",
+   "p": "year",
+   "v": "2026",
+   "quote": "In the 2026 Steven Spielberg film Disclosure Day, the Kecksburg UFO incident is featured as part of a series of released government footage."
+  },
+  {
+   "s": "w_disclosure",
+   "p": "content",
+   "v": "the incident is featured as part of a series of released government footage",
+   "quote": "In the 2026 Steven Spielberg film Disclosure Day, the Kecksburg UFO incident is featured as part of a series of released government footage."
+  },
+  {
+   "s": "w_iur",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "International UFO Reporter, 2005 article by Leslie Kean"
+  },
+  {
+   "s": "kean",
+   "p": "authored",
+   "o": "w_iur",
+   "quote": "International UFO Reporter, 2005 article by Leslie Kean"
+  },
+  {
+   "s": "iur",
+   "p": "published",
+   "o": "w_iur",
+   "quote": "International UFO Reporter, 2005 article by Leslie Kean"
+  },
+  {
+   "s": "w_iur",
+   "p": "year",
+   "v": "2005",
+   "quote": "International UFO Reporter, 2005 article by Leslie Kean"
+  },
+  {
+   "s": "w_skeptoid",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Dunning, Brian (June 25, 2019). \"Skeptoid #681: Alien Visitation and Kecksburg\". Skeptoid."
+  },
+  {
+   "s": "dunning",
+   "p": "authored",
+   "o": "w_skeptoid",
+   "quote": "Dunning, Brian (June 25, 2019). \"Skeptoid #681: Alien Visitation and Kecksburg\". Skeptoid."
+  },
+  {
+   "s": "w_skeptoid",
+   "p": "date",
+   "v": "2019-06-25",
+   "quote": "Dunning, Brian (June 25, 2019). \"Skeptoid #681: Alien Visitation and Kecksburg\". Skeptoid."
+  },
+  {
+   "s": "w_young",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Young, Robert R. \"Metamorphosis: Claimed Witness Accounts of the Great Lakes Fireball of December 9, 1965\" in Ballester-Olmos, V.J. and Heiden, Richard W. (eds.), The Reliability of UFO Witness Testimony."
+  },
+  {
+   "s": "young",
+   "p": "authored",
+   "o": "w_young",
+   "quote": "Young, Robert R. \"Metamorphosis: Claimed Witness Accounts of the Great Lakes Fireball of December 9, 1965\" in Ballester-Olmos, V.J. and Heiden, Richard W. (eds.), The Reliability of UFO Witness Testimony."
+  },
+  {
+   "s": "w_young",
+   "p": "published_in",
+   "v": "The Reliability of UFO Witness Testimony",
+   "quote": "Young, Robert R. \"Metamorphosis: Claimed Witness Accounts of the Great Lakes Fireball of December 9, 1965\" in Ballester-Olmos, V.J. and Heiden, Richard W. (eds.), The Reliability of UFO Witness Testimony."
+  },
+  {
+   "s": "w_ppg",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Pittsburgh Post-Gazette article by David Templeton"
+  },
+  {
+   "s": "templeton",
+   "p": "authored",
+   "o": "w_ppg",
+   "quote": "Pittsburgh Post-Gazette article by David Templeton"
+  },
+  {
+   "s": "ppg",
+   "p": "published",
+   "o": "w_ppg",
+   "quote": "Pittsburgh Post-Gazette article by David Templeton"
+  },
+  {
+   "s": "roswell",
+   "p": "related_case",
+   "o": "case",
+   "quote": "The incident gained wide notoriety in popular culture and ufology, with speculation ranging from extraterrestrial craft to debris from the Soviet space probe Kosmos 96, and is often called \"Pennsylvania's Roswell\"."
+  },
+  {
+   "s": "glocke",
+   "p": "related_case",
+   "o": "case",
+   "quote": "In 2008, an episode of the Discovery Channel series Nazi UFO Conspiracy suggested the incident was the recovery of an alleged Nazi UFO called Die Glocke (\"The Bell\")."
+  },
+  {
+   "s": "glocke",
+   "p": "description",
+   "v": "alleged Nazi UFO called Die Glocke (\"The Bell\")",
+   "quote": "In 2008, an episode of the Discovery Channel series Nazi UFO Conspiracy suggested the incident was the recovery of an alleged Nazi UFO called Die Glocke (\"The Bell\")."
+  },
+  {
+   "s": "glocke",
+   "p": "description",
+   "v": "alleged Nazi secret weapon",
+   "quote": "In 2011, the History Channel's Ancient Aliens suggested the alleged Nazi secret weapon Die Glocke was recovered at Kecksburg, prompting a government conspiracy and cover-up."
+  },
+  {
+   "s": "glocke",
+   "p": "description",
+   "v": "conspiracy theory",
+   "quote": "Die Glocke (conspiracy theory)"
+  },
+  {
+   "s": "glocke",
+   "p": "mentioned_by",
+   "o": "w_nazi",
+   "quote": "In 2008, an episode of the Discovery Channel series Nazi UFO Conspiracy suggested the incident was the recovery of an alleged Nazi UFO called Die Glocke (\"The Bell\")."
+  },
+  {
+   "s": "glocke",
+   "p": "mentioned_by",
+   "o": "w_ancient",
+   "quote": "In 2011, the History Channel's Ancient Aliens suggested the alleged Nazi secret weapon Die Glocke was recovered at Kecksburg, prompting a government conspiracy and cover-up."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Some people in the village of Kecksburg, about 30 miles (48 km) southeast of Pittsburgh, reported wisps of blue smoke, vibrations, and a \"thump\", and also that something from the sky had crashed in the woods."
+  },
+  {
+   "s": "f_mass",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball was reported by citizens of six U.S. states and Canada over Detroit, Michigan, and Windsor, Ontario."
+  },
+  {
+   "s": "f_mass",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "There is some speculation that the reentry of the Cosmos 96/Venera-type spacecraft was responsible for a fireball which was seen over southwestern Ontario, Canada and at least eight states from Michigan to New York at 4:43 p.m. EST (21:43 UT) on 9 December 1965."
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Federal Aviation Administration received 23 reports from aircraft pilots, starting at 4:44 p.m."
+  },
+  {
+   "s": "f_child",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In it, Kecksburg resident John Hays says that as a 10-year-old boy, he saw a flat-bed truck emerging from the site near his house, carrying something \"the size of a VW\", an exact repetition of the claims he made in the first episode of Unsolved Mysteries, season 3, in 1990."
+  },
+  {
+   "s": "f_sound",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Reports of hot metal debris over Michigan and northern Ohio, grass fires, and sonic booms in the Pittsburgh metropolitan area were attributed to the fireball."
+  },
+  {
+   "s": "f_sound",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Some people in the village of Kecksburg, about 30 miles (48 km) southeast of Pittsburgh, reported wisps of blue smoke, vibrations, and a \"thump\", and also that something from the sky had crashed in the woods."
+  },
+  {
+   "s": "f_debris",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Reports of hot metal debris over Michigan and northern Ohio, grass fires, and sonic booms in the Pittsburgh metropolitan area were attributed to the fireball."
+  },
+  {
+   "s": "f_debris",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In December 2005, just before the 40th anniversary of the Kecksburg incident, NASA released a statement reporting that experts had examined metallic fragments from the area and determined they were from a Soviet satellite that re-entered the atmosphere and broke up, but records of their findings were lost in the 1980s."
+  },
+  {
+   "s": "f_traces",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Reports of hot metal debris over Michigan and northern Ohio, grass fires, and sonic booms in the Pittsburgh metropolitan area were attributed to the fireball."
+  },
+  {
+   "s": "f_photo",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In addition, they used photographs of the trail taken north of Detroit at two different locations to triangulate the trajectory of the object."
+  },
+  {
+   "s": "f_crash",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "It quoted local residents at the time who said they had found an object in the woods shaped like an acorn and about as large as a Volkswagen Beetle bearing writing resembling Egyptian hieroglyphs which was subsequently removed in a secret military operation."
+  },
+  {
+   "s": "f_crash",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Some people in the village of Kecksburg, about 30 miles (48 km) southeast of Pittsburgh, reported wisps of blue smoke, vibrations, and a \"thump\", and also that something from the sky had crashed in the woods."
+  },
+  {
+   "s": "f_crash",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In it, Kecksburg resident John Hays says that as a 10-year-old boy, he saw a flat-bed truck emerging from the site near his house, carrying something \"the size of a VW\", an exact repetition of the claims he made in the first episode of Unsolved Mysteries, season 3, in 1990."
+  },
+  {
+   "s": "f_cover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In February 2009, the History Channel's UFO Hunters suggested a military conspiracy and cover-up related to the incident."
+  },
+  {
+   "s": "f_cover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In 2011, the History Channel's Ancient Aliens suggested the alleged Nazi secret weapon Die Glocke was recovered at Kecksburg, prompting a government conspiracy and cover-up."
+  },
+  {
+   "s": "f_cover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "It dramatizes the story of John Murphy, a reporter for local radio station WHJB who claimed to be the victim of a government conspiracy."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "When state troopers and Air Force personnel searched the woods, they found \"absolutely nothing\"."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In December 2005, just before the 40th anniversary of the Kecksburg incident, NASA released a statement reporting that experts had examined metallic fragments from the area and determined they were from a Soviet satellite that re-entered the atmosphere and broke up, but records of their findings were lost in the 1980s."
+  },
+  {
+   "s": "f_shape",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "It quoted local residents at the time who said they had found an object in the woods shaped like an acorn and about as large as a Volkswagen Beetle bearing writing resembling Egyptian hieroglyphs which was subsequently removed in a secret military operation."
+  },
+  {
+   "s": "f_markings",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "It quoted local residents at the time who said they had found an object in the woods shaped like an acorn and about as large as a Volkswagen Beetle bearing writing resembling Egyptian hieroglyphs which was subsequently removed in a secret military operation."
+  },
+  {
+   "s": "f_smoke",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Some people in the village of Kecksburg, about 30 miles (48 km) southeast of Pittsburgh, reported wisps of blue smoke, vibrations, and a \"thump\", and also that something from the sky had crashed in the woods."
+  },
+  {
+   "s": "f_seismic",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "A seismograph 25 miles (40 km) southwest of Detroit recorded shock waves created by the fireball as it passed through the atmosphere."
+  },
+  {
+   "s": "x_meteor",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Authorities discounted proposed explanations such as a plane crash, errant missile test, or reentering satellite debris and generally assumed it to be a meteor."
+  },
+  {
+   "s": "x_meteor",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Astronomer John Balafoutas said it was likely to have been a meteor bolide burning up in the atmosphere and descending at a steep angle."
+  },
+  {
+   "s": "x_meteor",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Astronomers William P. Bidelman and Fred Hess said it undoubtedly was a meteor bolide."
+  },
+  {
+   "s": "x_meteor",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Investigations of photographs and sightings of the fireball indicated its path through the atmosphere was probably too steep to be consistent with a spacecraft re-entering from Earth orbit and was more likely a meteor in a prograde orbit from the vicinity of the asteroid belt, and probably ended its flight over western Lake Erie."
+  },
+  {
+   "s": "x_sat",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "NASA released a statement in 2005 reporting that experts had examined fragments from the area and determined they were from a Soviet satellite, but those original records were lost in 1987."
+  },
+  {
+   "s": "x_sat",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The incident gained wide notoriety in popular culture and ufology, with speculation ranging from extraterrestrial craft to debris from the Soviet space probe Kosmos 96, and is often called \"Pennsylvania's Roswell\"."
+  },
+  {
+   "s": "x_sat",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "According to John Ventre of MUFON and Shafton native Owen Eichler, their recent investigations have led them to speculate the object that reportedly landed in Kecksburg was \"a General Electric Mark 2 Re-entry Vehicle that had been launched by the Air Force as a spy satellite, but fell out of orbit\"; however, \"we need confirmation from NASA or the Air Force\"."
+  },
+  {
+   "s": "x_plane",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Authorities discounted proposed explanations such as a plane crash, errant missile test, or reentering satellite debris and generally assumed it to be a meteor."
+  },
+  {
+   "s": "x_missile",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Authorities discounted proposed explanations such as a plane crash, errant missile test, or reentering satellite debris and generally assumed it to be a meteor."
+  },
+  {
+   "s": "x_plane",
+   "p": "status",
+   "v": "plane crash discounted by authorities",
+   "quote": "Authorities discounted proposed explanations such as a plane crash, errant missile test, or reentering satellite debris and generally assumed it to be a meteor."
+  },
+  {
+   "s": "x_missile",
+   "p": "status",
+   "v": "errant missile test discounted by authorities",
+   "quote": "Authorities discounted proposed explanations such as a plane crash, errant missile test, or reentering satellite debris and generally assumed it to be a meteor."
+  },
+  {
+   "s": "x_sat",
+   "p": "status",
+   "v": "reentering satellite debris discounted by authorities",
+   "quote": "Authorities discounted proposed explanations such as a plane crash, errant missile test, or reentering satellite debris and generally assumed it to be a meteor."
+  },
+  {
+   "s": "nasa",
+   "p": "proposed",
+   "o": "x_sat",
+   "quote": "NASA released a statement in 2005 reporting that experts had examined fragments from the area and determined they were from a Soviet satellite, but those original records were lost in 1987."
+  },
+  {
+   "s": "nasa",
+   "p": "proposed",
+   "o": "x_meteor",
+   "quote": "Investigations of photographs and sightings of the fireball indicated its path through the atmosphere was probably too steep to be consistent with a spacecraft re-entering from Earth orbit and was more likely a meteor in a prograde orbit from the vicinity of the asteroid belt, and probably ended its flight over western Lake Erie."
+  }
+ ]
+}

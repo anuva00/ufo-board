@@ -1,0 +1,2630 @@
+{
+ "slug": "kaikoura-lights",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Kaikōura lights",
+   "description": "Series of UFO sightings in December 1978 above the Kaikōura mountain ranges, New Zealand, including lights filmed from a Safe Air cargo plane.",
+   "aliases": [
+    "Kaikoura lights",
+    "Kaikoura UFOs",
+    "Kaikoura UFO sightings"
+   ]
+  },
+  {
+   "key": "powell",
+   "type": "person",
+   "name": "Vern Powell",
+   "description": "Safe Air pilot who saw strange lights around his Argosy on 21 December 1978"
+  },
+  {
+   "key": "pirie",
+   "type": "person",
+   "name": "Ian Pirie",
+   "description": "Safe Air pilot who saw strange lights around his Argosy on 21 December 1978"
+  },
+  {
+   "key": "fogarty",
+   "type": "person",
+   "name": "Quentin Fogarty",
+   "description": "Melbourne-based television reporter aboard the 30–31 December 1978 flights"
+  },
+  {
+   "key": "dcrockett",
+   "type": "person",
+   "name": "David Crockett",
+   "description": "Freelance cameraman from Wellington who filmed the lights on 16 mm film",
+   "aliases": [
+    "Crockett"
+   ]
+  },
+  {
+   "key": "ncrockett",
+   "type": "person",
+   "name": "Ngaire Crockett",
+   "description": "David Crockett's wife, who operated a tape recorder on the first flight",
+   "aliases": [
+    "Ngaire"
+   ]
+  },
+  {
+   "key": "startup",
+   "type": "person",
+   "name": "Bill Startup",
+   "description": "Safe Air pilot on the 30–31 December 1978 flights",
+   "aliases": [
+    "Captain Startup",
+    "Startup"
+   ]
+  },
+  {
+   "key": "guard",
+   "type": "person",
+   "name": "Bob Guard",
+   "description": "Safe Air pilot on the 30–31 December 1978 flights",
+   "aliases": [
+    "Guard"
+   ]
+  },
+  {
+   "key": "grant",
+   "type": "person",
+   "name": "Dennis Grant",
+   "description": "Christchurch-based TV1 journalist who took Ngaire Crockett's place on the return flight",
+   "aliases": [
+    "Grant"
+   ]
+  },
+  {
+   "key": "moore",
+   "type": "person",
+   "name": "Patrick Moore",
+   "description": "British astronomer who thought the lights were of terrestrial origin"
+  },
+  {
+   "key": "lee",
+   "type": "person",
+   "name": "Leonard Lee",
+   "description": "Channel 0 producer who took the footage to Bruce Maccabee"
+  },
+  {
+   "key": "maccabee",
+   "type": "person",
+   "name": "Bruce Maccabee",
+   "description": "Optical physicist at the US Naval Surface Weapons Center who analysed the footage",
+   "aliases": [
+    "Maccabee"
+   ]
+  },
+  {
+   "key": "ireland",
+   "type": "person",
+   "name": "William Ireland",
+   "description": "Former DSIR scientist who argued the filmed lights were squid fishing boats",
+   "aliases": [
+    "BIll Ireland",
+    "Bill Ireland",
+    "Ireland"
+   ]
+  },
+  {
+   "key": "davidson",
+   "type": "person",
+   "name": "Paul Davidson",
+   "description": "Blenheim filmmaker who bought the Safe Air Argosy and made a 2008 documentary"
+  },
+  {
+   "key": "wood",
+   "type": "person",
+   "name": "Rocky Wood",
+   "description": "Editor of The Kaikoura UFO controversy (1979)"
+  },
+  {
+   "key": "illingworth",
+   "type": "person",
+   "name": "Neill Illingworth",
+   "description": "Co-author with Bill Startup of The Kaikoura UFOs (1980)"
+  },
+  {
+   "key": "safeair",
+   "type": "organization",
+   "name": "Safe Air Ltd",
+   "description": "Operator of the cargo aircraft from which the lights were seen",
+   "aliases": [
+    "Safe Air"
+   ]
+  },
+  {
+   "key": "channel0",
+   "type": "organization",
+   "name": "Channel 0",
+   "description": "Melbourne television channel that organised the film crew",
+   "aliases": [
+    "Melbourne's Channel 0"
+   ]
+  },
+  {
+   "key": "tv1",
+   "type": "organization",
+   "name": "TV1",
+   "description": "Television broadcaster whose journalist Dennis Grant was aboard and whose crew filmed a UFO on 3 January 1979"
+  },
+  {
+   "key": "nswc",
+   "type": "organization",
+   "name": "US Naval Surface Weapons Center",
+   "description": "Bruce Maccabee's employer in Maryland",
+   "aliases": [
+    "Naval Surface Weapons Center"
+   ]
+  },
+  {
+   "key": "dsir",
+   "type": "organization",
+   "name": "Department of Scientific and Industrial Research",
+   "description": "New Zealand scientific agency that disputed Maccabee's calculations and briefed the United Nations",
+   "aliases": [
+    "DSIR"
+   ]
+  },
+  {
+   "key": "un",
+   "type": "organization",
+   "name": "United Nations",
+   "description": "Recipient of a DSIR briefing in January 1979"
+  },
+  {
+   "key": "rnzaf",
+   "type": "organization",
+   "name": "Royal New Zealand Air Force",
+   "description": "Air force that cooperated in the investigation and put a Skyhawk on stand-by",
+   "aliases": [
+    "RNZAF",
+    "Air Force"
+   ]
+  },
+  {
+   "key": "police",
+   "type": "organization",
+   "name": "New Zealand Police",
+   "description": "Police, who cooperated in the investigation",
+   "aliases": [
+    "the police"
+   ]
+  },
+  {
+   "key": "carter",
+   "type": "organization",
+   "name": "Carter Observatory",
+   "description": "Observatory in Wellington that cooperated in the investigation"
+  },
+  {
+   "key": "natarch",
+   "type": "organization",
+   "name": "National Archives of New Zealand",
+   "description": "Archive in Wellington where the investigation results were lodged",
+   "aliases": [
+    "National Archives in Wellington",
+    "National Archives"
+   ]
+  },
+  {
+   "key": "mod",
+   "type": "organization",
+   "name": "New Zealand Ministry of Defence",
+   "description": "Ministry that attributed the sightings to squid boats, meteors, Venus, or trains and cars",
+   "aliases": [
+    "Ministry of Defence"
+   ]
+  },
+  {
+   "key": "jse",
+   "type": "organization",
+   "name": "Journal of Scientific Exploration",
+   "description": "Journal that published a 1987 article on the sightings"
+  },
+  {
+   "key": "nzskeptics",
+   "type": "organization",
+   "name": "New Zealand Skeptics",
+   "description": "Group whose journal published William Ireland's 2000 analysis"
+  },
+  {
+   "key": "bbc",
+   "type": "organization",
+   "name": "BBC",
+   "description": "Broadcaster of the 1982 Horizon documentary The Case of the UFOs"
+  },
+  {
+   "key": "nzufo",
+   "type": "organization",
+   "name": "New Zealand UFO Studies Centre",
+   "description": "UFO group that published The Kaikoura UFO controversy and reported on the sightings",
+   "aliases": [
+    "NZ UFO Studies Centre"
+   ]
+  },
+  {
+   "key": "kaikoura",
+   "type": "place",
+   "name": "Kaikōura mountain ranges",
+   "description": "Mountain ranges in the northeast of New Zealand's South Island above which the lights were seen",
+   "aliases": [
+    "Kaikōura",
+    "Kaikoura",
+    "Kaikoura mountain ranges"
+   ]
+  },
+  {
+   "key": "southisland",
+   "type": "place",
+   "name": "South Island",
+   "description": "New Zealand's South Island"
+  },
+  {
+   "key": "nz",
+   "type": "place",
+   "name": "New Zealand",
+   "description": "Country where the sightings occurred"
+  },
+  {
+   "key": "blenheim",
+   "type": "place",
+   "name": "Blenheim, New Zealand",
+   "description": "Town at one end of the Safe Air flights",
+   "aliases": [
+    "Blenheim"
+   ]
+  },
+  {
+   "key": "christchurch",
+   "type": "place",
+   "name": "Christchurch, New Zealand",
+   "description": "City at one end of the Safe Air flights",
+   "aliases": [
+    "Christchurch"
+   ]
+  },
+  {
+   "key": "wellington",
+   "type": "place",
+   "name": "Wellington, New Zealand",
+   "description": "City from which the 30 December flight departed",
+   "aliases": [
+    "Wellington"
+   ]
+  },
+  {
+   "key": "wellingtonairport",
+   "type": "place",
+   "name": "Wellington Airport",
+   "description": "Airport whose air traffic control tracked the 21 December objects on radar"
+  },
+  {
+   "key": "clarencebridge",
+   "type": "place",
+   "name": "Clarence Bridge, New Zealand",
+   "description": "Area whose residents described seeing strange lights",
+   "aliases": [
+    "Clarence Bridge"
+   ]
+  },
+  {
+   "key": "kekerungu",
+   "type": "place",
+   "name": "Kekerungu, New Zealand",
+   "description": "Area whose residents described seeing strange lights",
+   "aliases": [
+    "Kekerungu"
+   ]
+  },
+  {
+   "key": "melbourne",
+   "type": "place",
+   "name": "Melbourne, Australia",
+   "description": "City of Channel 0, where the footage first aired",
+   "aliases": [
+    "Melbourne"
+   ]
+  },
+  {
+   "key": "woodbourne",
+   "type": "place",
+   "name": "Woodbourne Airport",
+   "description": "Airport at Blenheim where the return flight landed"
+  },
+  {
+   "key": "usa",
+   "type": "place",
+   "name": "United States",
+   "description": "Country where Bruce Maccabee analysed the footage"
+  },
+  {
+   "key": "maryland",
+   "type": "place",
+   "name": "Maryland",
+   "description": "Location of the US Naval Surface Weapons Center"
+  },
+  {
+   "key": "clarenceriver",
+   "type": "place",
+   "name": "Waiau Toa / Clarence River",
+   "description": "River near which a TV1 crew filmed a UFO on 3 January 1979",
+   "aliases": [
+    "Clarence River",
+    "Waiau Toa"
+   ]
+  },
+  {
+   "key": "argosy21",
+   "type": "vehicle",
+   "name": "Safe Air Armstrong Whitworth AW.660 Argosy (21 December 1978 flight)",
+   "description": "Cargo aircraft flown by Powell and Pirie from Blenheim to Christchurch",
+   "aliases": [
+    "Armstrong Whitworth AW.660 Argosy"
+   ]
+  },
+  {
+   "key": "argosy30",
+   "type": "vehicle",
+   "name": "Safe Air Argosy (30–31 December 1978 flights)",
+   "description": "Safe Air cargo plane on a newspaper run from which the lights were filmed",
+   "aliases": [
+    "Safe Air Argosy",
+    "the Argosy"
+   ]
+  },
+  {
+   "key": "skyhawk",
+   "type": "vehicle",
+   "name": "Skyhawk",
+   "description": "Air Force aircraft put on stand-by to investigate sightings",
+   "aliases": [
+    "Air Force Skyhawk"
+   ]
+  },
+  {
+   "key": "lights21",
+   "type": "craft",
+   "name": "strange lights seen around the Argosy on 21 December 1978",
+   "description": "Series of strange lights seen by Powell and Pirie and tracked on Wellington radar"
+  },
+  {
+   "key": "light30",
+   "type": "craft",
+   "name": "huge bright white light with a red tinge seen 30 December 1978",
+   "description": "Light that seemed to track the Safe Air plane on the flight to Christchurch"
+  },
+  {
+   "key": "orb31",
+   "type": "craft",
+   "name": "large lighted orb with five small bright lights seen 31 December 1978",
+   "description": "Lights that tracked the aircraft off the wing tip on the flight to Blenheim"
+  },
+  {
+   "key": "ufo_jan3",
+   "type": "craft",
+   "name": "UFO filmed near Waiau Toa / Clarence River on 3 January 1979",
+   "description": "Object whose image was captured by a TV1 film crew"
+  },
+  {
+   "key": "film",
+   "type": "document",
+   "name": "16 mm colour film shot by David Crockett",
+   "description": "Film of the lights shot from the Safe Air Argosy by the Channel 0 crew",
+   "aliases": [
+    "Channel 0 footage",
+    "Crockett's film",
+    "31 December footage"
+   ]
+  },
+  {
+   "key": "tape",
+   "type": "document",
+   "name": "Tape recordings made during the flights",
+   "description": "Audio recordings made by the TV film crew describing the lights",
+   "aliases": [
+    "tape recording"
+   ]
+  },
+  {
+   "key": "tv1film",
+   "type": "document",
+   "name": "TV1's film",
+   "description": "Film by TV1 discussed in the DSIR briefing",
+   "aliases": [
+    "TV1 film"
+   ]
+  },
+  {
+   "key": "dsirbrief",
+   "type": "document",
+   "name": "DSIR briefing to the United Nations, January 1979",
+   "description": "Briefing in which DSIR assessed Crockett's and TV1's films"
+  },
+  {
+   "key": "investresults",
+   "type": "document",
+   "name": "Results of the Royal New Zealand Air Force, police and Carter Observatory investigation",
+   "description": "Investigation results lodged in the National Archives in Wellington"
+  },
+  {
+   "key": "fogartybook",
+   "type": "work",
+   "name": "Let's Hope They're Friendly",
+   "description": "1982 book by Quentin Fogarty about the incident"
+  },
+  {
+   "key": "startupbook",
+   "type": "work",
+   "name": "The Kaikoura UFOs",
+   "description": "1980 book by Bill Startup and Neill Illingworth"
+  },
+  {
+   "key": "woodbook",
+   "type": "work",
+   "name": "The Kaikoura UFO controversy",
+   "description": "1979 special issue edited by Rocky Wood, published by the New Zealand UFO Studies Centre"
+  },
+  {
+   "key": "horizon_ep",
+   "type": "work",
+   "name": "The Case of the UFOs",
+   "description": "1982 BBC Horizon documentary containing the Kaikōura footage",
+   "aliases": [
+    "BBC Horizon documentary The Case of the UFOs"
+   ]
+  },
+  {
+   "key": "horizon",
+   "type": "work",
+   "name": "Horizon",
+   "description": "BBC documentary series",
+   "aliases": [
+    "BBC Horizon"
+   ]
+  },
+  {
+   "key": "crockettdoc",
+   "type": "work",
+   "name": "David Crockett's documentary about the sighting",
+   "description": "Documentary made by David Crockett"
+  },
+  {
+   "key": "davidsondoc",
+   "type": "work",
+   "name": "Paul Davidson's 2008 documentary",
+   "description": "Documentary focussing on the stories of those on board the Argosy"
+  },
+  {
+   "key": "jsearticle",
+   "type": "work",
+   "name": "1987 article in the Journal of Scientific Exploration",
+   "description": "Article describing the sightings as unique among civilian UFO reports"
+  },
+  {
+   "key": "irelandarticle",
+   "type": "work",
+   "name": "William Ireland's 2000 retrospective analysis of the Kaikōura lights",
+   "description": "Analysis published in the journal of the New Zealand Skeptics",
+   "aliases": [
+    "Ireland's article"
+   ]
+  },
+  {
+   "key": "f_lights",
+   "type": "feature",
+   "name": "lights-only",
+   "description": "Witnesses reported lights"
+  },
+  {
+   "key": "f_radar",
+   "type": "feature",
+   "name": "radar-contact",
+   "description": "Objects tracked on ground and airborne radar"
+  },
+  {
+   "key": "f_film",
+   "type": "feature",
+   "name": "film-or-video",
+   "description": "Lights filmed on 16 mm colour film"
+  },
+  {
+   "key": "f_pilot",
+   "type": "feature",
+   "name": "pilot-witnesses",
+   "description": "Safe Air pilots saw the lights"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "Five people on the flight deck observed the lights"
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "RNZAF, police and Carter Observatory investigated"
+  },
+  {
+   "key": "f_sphere",
+   "type": "feature",
+   "name": "shape-sphere",
+   "description": "A large lighted orb was reported"
+  },
+  {
+   "key": "f_tracking",
+   "type": "feature",
+   "name": "other:object-paced-aircraft",
+   "description": "Lights seemed to track the aircraft"
+  },
+  {
+   "key": "f_audio",
+   "type": "feature",
+   "name": "other:audio-recording",
+   "description": "Sighting described live on tape recordings"
+  },
+  {
+   "key": "x_planet",
+   "type": "explanation",
+   "name": "venus-or-planet",
+   "description": "Jupiter, Mars or Venus"
+  },
+  {
+   "key": "x_ball",
+   "type": "explanation",
+   "name": "ball-lightning-or-plasma",
+   "description": "Ball lightning suggested by astronomers"
+  },
+  {
+   "key": "x_meteor",
+   "type": "explanation",
+   "name": "meteor-or-fireball",
+   "description": "Meteorites or unburnt meteors"
+  },
+  {
+   "key": "x_balloon",
+   "type": "explanation",
+   "name": "balloon",
+   "description": "Balloon suggested by Patrick Moore"
+  },
+  {
+   "key": "x_aircraft",
+   "type": "explanation",
+   "name": "conventional-aircraft",
+   "description": "Aircraft suggested by Patrick Moore"
+  },
+  {
+   "key": "x_reflection",
+   "type": "explanation",
+   "name": "other:reflection",
+   "description": "Reflection suggested by Patrick Moore"
+  },
+  {
+   "key": "x_refraction",
+   "type": "explanation",
+   "name": "other:atmospheric-refraction",
+   "description": "Weather conditions bending radar signals and distorting ground lights"
+  },
+  {
+   "key": "x_camera",
+   "type": "explanation",
+   "name": "camera-artifact",
+   "description": "Faulty focusing ring or distortion from filming through a window"
+  },
+  {
+   "key": "x_squid",
+   "type": "explanation",
+   "name": "other:squid-boat-lights",
+   "description": "Lights from squid fishing boats"
+  },
+  {
+   "key": "x_traffic",
+   "type": "explanation",
+   "name": "other:train-and-car-lights",
+   "description": "Lights from trains and cars"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1978-12-21",
+   "quote": "The first sightings were made on 21 December when Vern Powell and Ian Pirie, pilots of a Safe Air Ltd cargo aircraft, observed a series of strange lights around their Armstrong Whitworth AW.660 Argosy while flying from Blenheim to Christchurch."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1978-12-31",
+   "quote": "Fogarty and Startup later wrote books about the incident of 30–31 December 1978."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "New Zealand",
+   "quote": "The Kaikōura lights is a name given by the New Zealand media to a series of UFO sightings that occurred in December 1978 in the skies above the Kaikōura mountain ranges in the northeast of New Zealand's South Island."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "night",
+   "quote": "The night was very dark with low and scattered cloud."
+  },
+  {
+   "s": "case",
+   "p": "witness_count",
+   "v": "7",
+   "quote": "documentary evidence which includes the recollections of seven witnesses, two tape recordings made during the sightings, the detection of some unusual ground and airplane radar targets, and a 16mm color movie made with a professional camera\"."
+  },
+  {
+   "s": "case",
+   "p": "duration",
+   "v": "almost a quarter of an hour",
+   "quote": "When the aircraft reached about 2,000 ft (610 m), it encountered a line of five small bright lights and what appeared to be a large lighted orb, which fell into station off the wing tip and tracked along with the aircraft for almost a quarter of an hour while being filmed, watched, and described on a tape recording made by the TV film crew."
+  },
+  {
+   "s": "case",
+   "p": "name_origin",
+   "v": "name given by the New Zealand media",
+   "quote": "The Kaikōura lights is a name given by the New Zealand media to a series of UFO sightings that occurred in December 1978 in the skies above the Kaikōura mountain ranges in the northeast of New Zealand's South Island."
+  },
+  {
+   "s": "case",
+   "p": "month_of_sightings",
+   "v": "December 1978",
+   "quote": "The Kaikōura lights is a name given by the New Zealand media to a series of UFO sightings that occurred in December 1978 in the skies above the Kaikōura mountain ranges in the northeast of New Zealand's South Island."
+  },
+  {
+   "s": "case",
+   "p": "location_description",
+   "v": "skies above the Kaikōura mountain ranges in the northeast of New Zealand's South Island",
+   "quote": "The Kaikōura lights is a name given by the New Zealand media to a series of UFO sightings that occurred in December 1978 in the skies above the Kaikōura mountain ranges in the northeast of New Zealand's South Island."
+  },
+  {
+   "s": "case",
+   "p": "sighting_date",
+   "v": "21 December 1978",
+   "quote": "The first sightings were made on 21 December when Vern Powell and Ian Pirie, pilots of a Safe Air Ltd cargo aircraft, observed a series of strange lights around their Armstrong Whitworth AW.660 Argosy while flying from Blenheim to Christchurch."
+  },
+  {
+   "s": "case",
+   "p": "sighting_date",
+   "v": "30–31 December 1978",
+   "quote": "Fogarty and Startup later wrote books about the incident of 30–31 December 1978."
+  },
+  {
+   "s": "case",
+   "p": "weather",
+   "v": "very dark night with low and scattered cloud",
+   "quote": "The night was very dark with low and scattered cloud."
+  },
+  {
+   "s": "case",
+   "p": "flight_deck_witness_count",
+   "v": "5",
+   "quote": "For many minutes at a time on the flight to Christchurch, unidentified lights were observed by the five people on the flight deck."
+  },
+  {
+   "s": "case",
+   "p": "observation_duration",
+   "v": "many minutes at a time on the flight to Christchurch",
+   "quote": "For many minutes at a time on the flight to Christchurch, unidentified lights were observed by the five people on the flight deck."
+  },
+  {
+   "s": "case",
+   "p": "ground_witnesses",
+   "v": "Residents of the Clarence Bridge and Kekerungu areas described seeing strange lights around the same time but did not think much about them",
+   "quote": "Residents of the Clarence Bridge and Kekerungu areas described seeing strange lights around the same time but reportedly did not think much about them."
+  },
+  {
+   "s": "case",
+   "p": "radar_detail",
+   "v": "21 December objects were tracked on radar by air traffic control at Wellington Airport",
+   "quote": "These objects were also tracked on radar by air traffic control at Wellington Airport."
+  },
+  {
+   "s": "case",
+   "p": "radar_detail",
+   "v": "lights were not perceived by Christchurch radar",
+   "quote": "The lights were not perceived by Christchurch radar, but air traffic control at Wellington had picked up \"scores\" of unidentified objects on radar a few hours before the flight on Saturday night."
+  },
+  {
+   "s": "case",
+   "p": "radar_detail",
+   "v": "air traffic control at Wellington picked up \"scores\" of unidentified objects on radar a few hours before the flight on Saturday night",
+   "quote": "The lights were not perceived by Christchurch radar, but air traffic control at Wellington had picked up \"scores\" of unidentified objects on radar a few hours before the flight on Saturday night."
+  },
+  {
+   "s": "case",
+   "p": "radar_detail",
+   "v": "flight radar in ground-mapping mode seemed to show a large object that matched the position of the light",
+   "quote": "The flight radar, operating in ground-mapping mode, could only detect objects below the aircraft, and seemed to show a large object that matched the position of the light."
+  },
+  {
+   "s": "case",
+   "p": "criticism",
+   "v": "Critics questioned the quality of the on-board radar",
+   "quote": "Critics questioned the quality of the on-board radar, and ground-based crew said radar echoes were relatively common."
+  },
+  {
+   "s": "case",
+   "p": "criticism",
+   "v": "ground-based crew said radar echoes were relatively common",
+   "quote": "Critics questioned the quality of the on-board radar, and ground-based crew said radar echoes were relatively common."
+  },
+  {
+   "s": "case",
+   "p": "explanation_caveat",
+   "v": "astronomers admitted that the planets would not show up on radar",
+   "quote": "Astronomers suggested that the lights recorded on the film looked like Jupiter or Mars, though they admitted that the planets would not show up on radar."
+  },
+  {
+   "s": "case",
+   "p": "media_coverage",
+   "v": "footage aired on prime-time news in Melbourne on the night of 31 December and was later shown on news networks around the world",
+   "quote": "After landing at Woodbourne Airport at Blenheim around 3:00 am on 31 December, Fogarty interviewed the pilots then returned to Melbourne where the footage aired on prime-time news that night and was later shown on news networks around the world."
+  },
+  {
+   "s": "case",
+   "p": "documentary_evidence",
+   "v": "recollections of seven witnesses, two tape recordings, unusual ground and airplane radar targets, and a 16mm color movie",
+   "quote": "documentary evidence which includes the recollections of seven witnesses, two tape recordings made during the sightings, the detection of some unusual ground and airplane radar targets, and a 16mm color movie made with a professional camera\"."
+  },
+  {
+   "s": "case",
+   "p": "tape_recording_count",
+   "v": "2",
+   "quote": "documentary evidence which includes the recollections of seven witnesses, two tape recordings made during the sightings, the detection of some unusual ground and airplane radar targets, and a 16mm color movie made with a professional camera\"."
+  },
+  {
+   "s": "case",
+   "p": "disputed_point",
+   "v": "Maccabee claimed there was no evidence that squid boats were in the area, although other sources contradict this",
+   "quote": "Maccabee disagreed with the DSIR, claiming there was no evidence that squid boats were in the area (although other sources contradict this), and concluded that the event involved \"unknown objects or phenomena fitting the definition of UFOs\"."
+  },
+  {
+   "s": "case",
+   "p": "later_sightings",
+   "v": "A spate of sightings followed the initial reports",
+   "quote": "A spate of sightings followed the initial reports, and an Air Force Skyhawk was put on stand-by to investigate any positive sightings."
+  },
+  {
+   "s": "case",
+   "p": "later_sightings",
+   "v": "A TV1 film crew captured an image of a UFO near Waiau Toa / Clarence River on 3 January 1979",
+   "quote": "A TV1 film crew captured an image of a UFO near Waiau Toa / Clarence River on 3 January 1979."
+  },
+  {
+   "s": "case",
+   "p": "later_sightings",
+   "v": "Lights have appeared intermittently since the initial December 1978 sightings",
+   "quote": "Lights have appeared intermittently since the initial December 1978 sightings, with the most recent sighting being reported in 2015."
+  },
+  {
+   "s": "case",
+   "p": "most_recent_sighting",
+   "v": "2015",
+   "quote": "Lights have appeared intermittently since the initial December 1978 sightings, with the most recent sighting being reported in 2015."
+  },
+  {
+   "s": "case",
+   "p": "military_response",
+   "v": "an Air Force Skyhawk was put on stand-by to investigate any positive sightings",
+   "quote": "A spate of sightings followed the initial reports, and an Air Force Skyhawk was put on stand-by to investigate any positive sightings."
+  },
+  {
+   "s": "case",
+   "p": "investigation_outcome",
+   "v": "results of the joint investigation were lodged in the National Archives in Wellington",
+   "quote": "After the sightings, the Royal New Zealand Air Force, the police, and the Carter Observatory in Wellington cooperated in an investigation, the results of which were lodged in the National Archives in Wellington."
+  },
+  {
+   "s": "powell",
+   "p": "witness",
+   "o": "case",
+   "quote": "The first sightings were made on 21 December when Vern Powell and Ian Pirie, pilots of a Safe Air Ltd cargo aircraft, observed a series of strange lights around their Armstrong Whitworth AW.660 Argosy while flying from Blenheim to Christchurch."
+  },
+  {
+   "s": "powell",
+   "p": "occupation",
+   "v": "pilot",
+   "quote": "The first sightings were made on 21 December when Vern Powell and Ian Pirie, pilots of a Safe Air Ltd cargo aircraft, observed a series of strange lights around their Armstrong Whitworth AW.660 Argosy while flying from Blenheim to Christchurch."
+  },
+  {
+   "s": "powell",
+   "p": "employed_by",
+   "o": "safeair",
+   "quote": "The first sightings were made on 21 December when Vern Powell and Ian Pirie, pilots of a Safe Air Ltd cargo aircraft, observed a series of strange lights around their Armstrong Whitworth AW.660 Argosy while flying from Blenheim to Christchurch."
+  },
+  {
+   "s": "powell",
+   "p": "piloted",
+   "o": "argosy21",
+   "quote": "The first sightings were made on 21 December when Vern Powell and Ian Pirie, pilots of a Safe Air Ltd cargo aircraft, observed a series of strange lights around their Armstrong Whitworth AW.660 Argosy while flying from Blenheim to Christchurch."
+  },
+  {
+   "s": "powell",
+   "p": "described",
+   "o": "lights21",
+   "quote": "The first sightings were made on 21 December when Vern Powell and Ian Pirie, pilots of a Safe Air Ltd cargo aircraft, observed a series of strange lights around their Armstrong Whitworth AW.660 Argosy while flying from Blenheim to Christchurch."
+  },
+  {
+   "s": "powell",
+   "p": "colleague_of",
+   "o": "pirie",
+   "quote": "The first sightings were made on 21 December when Vern Powell and Ian Pirie, pilots of a Safe Air Ltd cargo aircraft, observed a series of strange lights around their Armstrong Whitworth AW.660 Argosy while flying from Blenheim to Christchurch."
+  },
+  {
+   "s": "pirie",
+   "p": "witness",
+   "o": "case",
+   "quote": "The first sightings were made on 21 December when Vern Powell and Ian Pirie, pilots of a Safe Air Ltd cargo aircraft, observed a series of strange lights around their Armstrong Whitworth AW.660 Argosy while flying from Blenheim to Christchurch."
+  },
+  {
+   "s": "pirie",
+   "p": "occupation",
+   "v": "pilot",
+   "quote": "The first sightings were made on 21 December when Vern Powell and Ian Pirie, pilots of a Safe Air Ltd cargo aircraft, observed a series of strange lights around their Armstrong Whitworth AW.660 Argosy while flying from Blenheim to Christchurch."
+  },
+  {
+   "s": "pirie",
+   "p": "employed_by",
+   "o": "safeair",
+   "quote": "The first sightings were made on 21 December when Vern Powell and Ian Pirie, pilots of a Safe Air Ltd cargo aircraft, observed a series of strange lights around their Armstrong Whitworth AW.660 Argosy while flying from Blenheim to Christchurch."
+  },
+  {
+   "s": "pirie",
+   "p": "piloted",
+   "o": "argosy21",
+   "quote": "The first sightings were made on 21 December when Vern Powell and Ian Pirie, pilots of a Safe Air Ltd cargo aircraft, observed a series of strange lights around their Armstrong Whitworth AW.660 Argosy while flying from Blenheim to Christchurch."
+  },
+  {
+   "s": "pirie",
+   "p": "described",
+   "o": "lights21",
+   "quote": "The first sightings were made on 21 December when Vern Powell and Ian Pirie, pilots of a Safe Air Ltd cargo aircraft, observed a series of strange lights around their Armstrong Whitworth AW.660 Argosy while flying from Blenheim to Christchurch."
+  },
+  {
+   "s": "fogarty",
+   "p": "witness",
+   "o": "case",
+   "quote": "The group consisted of Melbourne-based television reporter Quentin Fogarty (who had been holidaying in New Zealand), freelance cameraman David Crockett from Wellington, Crockett's wife Ngaire who operated a tape recorder, and the two Safe Air pilots, Bill Startup and Bob Guard."
+  },
+  {
+   "s": "fogarty",
+   "p": "journalist",
+   "o": "case",
+   "quote": "The group consisted of Melbourne-based television reporter Quentin Fogarty (who had been holidaying in New Zealand), freelance cameraman David Crockett from Wellington, Crockett's wife Ngaire who operated a tape recorder, and the two Safe Air pilots, Bill Startup and Bob Guard."
+  },
+  {
+   "s": "fogarty",
+   "p": "occupation",
+   "v": "television reporter",
+   "quote": "The group consisted of Melbourne-based television reporter Quentin Fogarty (who had been holidaying in New Zealand), freelance cameraman David Crockett from Wellington, Crockett's wife Ngaire who operated a tape recorder, and the two Safe Air pilots, Bill Startup and Bob Guard."
+  },
+  {
+   "s": "fogarty",
+   "p": "based_in",
+   "v": "Melbourne",
+   "quote": "The group consisted of Melbourne-based television reporter Quentin Fogarty (who had been holidaying in New Zealand), freelance cameraman David Crockett from Wellington, Crockett's wife Ngaire who operated a tape recorder, and the two Safe Air pilots, Bill Startup and Bob Guard."
+  },
+  {
+   "s": "fogarty",
+   "p": "circumstance",
+   "v": "had been holidaying in New Zealand",
+   "quote": "The group consisted of Melbourne-based television reporter Quentin Fogarty (who had been holidaying in New Zealand), freelance cameraman David Crockett from Wellington, Crockett's wife Ngaire who operated a tape recorder, and the two Safe Air pilots, Bill Startup and Bob Guard."
+  },
+  {
+   "s": "fogarty",
+   "p": "activity",
+   "v": "was filming a piece to camera with the Crocketts when Startup called them to the flight deck",
+   "quote": "While the Crocketts and Fogarty were filming a piece to camera, Startup shouted at them to come up to the flight deck as the pilots had seen strange lights."
+  },
+  {
+   "s": "fogarty",
+   "p": "statement",
+   "v": "let's hope they're friendly",
+   "quote": "Fogarty can be heard on the recording saying \"let's hope they're friendly\"."
+  },
+  {
+   "s": "fogarty",
+   "p": "on_board_second_flight",
+   "v": "still on board when the plane took off again for Blenheim",
+   "quote": "After delivering its load of newspapers to Christchurch, the cargo plane then took off again for Blenheim at 2:16 am with Fogarty and David Crockett still on board."
+  },
+  {
+   "s": "fogarty",
+   "p": "interviewed",
+   "o": "startup",
+   "quote": "After landing at Woodbourne Airport at Blenheim around 3:00 am on 31 December, Fogarty interviewed the pilots then returned to Melbourne where the footage aired on prime-time news that night and was later shown on news networks around the world."
+  },
+  {
+   "s": "fogarty",
+   "p": "interviewed",
+   "o": "guard",
+   "quote": "After landing at Woodbourne Airport at Blenheim around 3:00 am on 31 December, Fogarty interviewed the pilots then returned to Melbourne where the footage aired on prime-time news that night and was later shown on news networks around the world."
+  },
+  {
+   "s": "fogarty",
+   "p": "action",
+   "v": "interviewed the pilots after landing, then returned to Melbourne",
+   "quote": "After landing at Woodbourne Airport at Blenheim around 3:00 am on 31 December, Fogarty interviewed the pilots then returned to Melbourne where the footage aired on prime-time news that night and was later shown on news networks around the world."
+  },
+  {
+   "s": "fogarty",
+   "p": "authored",
+   "o": "fogartybook",
+   "quote": "Fogarty and Startup later wrote books about the incident of 30–31 December 1978."
+  },
+  {
+   "s": "fogarty",
+   "p": "authored",
+   "o": "fogartybook",
+   "quote": "Fogarty, Quentin (1982). \"Let's Hope They're Friendly\". Sydney, Australia: Angus & Robertson."
+  },
+  {
+   "s": "fogarty",
+   "p": "relationship",
+   "v": "had been staying with Dennis Grant while on holiday",
+   "quote": "Grant was a Christchurch-based TV1 journalist that Fogarty had been staying with while on holiday."
+  },
+  {
+   "s": "dcrockett",
+   "p": "witness",
+   "o": "case",
+   "quote": "The group consisted of Melbourne-based television reporter Quentin Fogarty (who had been holidaying in New Zealand), freelance cameraman David Crockett from Wellington, Crockett's wife Ngaire who operated a tape recorder, and the two Safe Air pilots, Bill Startup and Bob Guard."
+  },
+  {
+   "s": "dcrockett",
+   "p": "occupation",
+   "v": "freelance cameraman",
+   "quote": "The group consisted of Melbourne-based television reporter Quentin Fogarty (who had been holidaying in New Zealand), freelance cameraman David Crockett from Wellington, Crockett's wife Ngaire who operated a tape recorder, and the two Safe Air pilots, Bill Startup and Bob Guard."
+  },
+  {
+   "s": "dcrockett",
+   "p": "from",
+   "v": "Wellington",
+   "quote": "The group consisted of Melbourne-based television reporter Quentin Fogarty (who had been holidaying in New Zealand), freelance cameraman David Crockett from Wellington, Crockett's wife Ngaire who operated a tape recorder, and the two Safe Air pilots, Bill Startup and Bob Guard."
+  },
+  {
+   "s": "dcrockett",
+   "p": "relative_of",
+   "o": "ncrockett",
+   "quote": "The group consisted of Melbourne-based television reporter Quentin Fogarty (who had been holidaying in New Zealand), freelance cameraman David Crockett from Wellington, Crockett's wife Ngaire who operated a tape recorder, and the two Safe Air pilots, Bill Startup and Bob Guard."
+  },
+  {
+   "s": "dcrockett",
+   "p": "authored",
+   "o": "film",
+   "quote": "David Crockett shot film showing objects apparently tracking the plane."
+  },
+  {
+   "s": "dcrockett",
+   "p": "authored",
+   "o": "film",
+   "quote": "Ireland re-examined frames from the 16 mm film recorded by David Crockett (as published by the BBC ), noting that the footage had been captured using two zoom lenses (16–100 mm and 80–240 mm)."
+  },
+  {
+   "s": "dcrockett",
+   "p": "on_board_second_flight",
+   "v": "still on board when the plane took off again for Blenheim",
+   "quote": "After delivering its load of newspapers to Christchurch, the cargo plane then took off again for Blenheim at 2:16 am with Fogarty and David Crockett still on board."
+  },
+  {
+   "s": "dcrockett",
+   "p": "authored",
+   "o": "crockettdoc",
+   "quote": "David Crockett made a documentary and gave lectures about the sighting."
+  },
+  {
+   "s": "dcrockett",
+   "p": "later_activity",
+   "v": "made a documentary and gave lectures about the sighting",
+   "quote": "David Crockett made a documentary and gave lectures about the sighting."
+  },
+  {
+   "s": "ncrockett",
+   "p": "witness",
+   "o": "case",
+   "quote": "The group consisted of Melbourne-based television reporter Quentin Fogarty (who had been holidaying in New Zealand), freelance cameraman David Crockett from Wellington, Crockett's wife Ngaire who operated a tape recorder, and the two Safe Air pilots, Bill Startup and Bob Guard."
+  },
+  {
+   "s": "ncrockett",
+   "p": "relative_of",
+   "o": "dcrockett",
+   "quote": "The group consisted of Melbourne-based television reporter Quentin Fogarty (who had been holidaying in New Zealand), freelance cameraman David Crockett from Wellington, Crockett's wife Ngaire who operated a tape recorder, and the two Safe Air pilots, Bill Startup and Bob Guard."
+  },
+  {
+   "s": "ncrockett",
+   "p": "relationship",
+   "v": "wife of David Crockett",
+   "quote": "The group consisted of Melbourne-based television reporter Quentin Fogarty (who had been holidaying in New Zealand), freelance cameraman David Crockett from Wellington, Crockett's wife Ngaire who operated a tape recorder, and the two Safe Air pilots, Bill Startup and Bob Guard."
+  },
+  {
+   "s": "ncrockett",
+   "p": "role",
+   "v": "operated a tape recorder",
+   "quote": "The group consisted of Melbourne-based television reporter Quentin Fogarty (who had been holidaying in New Zealand), freelance cameraman David Crockett from Wellington, Crockett's wife Ngaire who operated a tape recorder, and the two Safe Air pilots, Bill Startup and Bob Guard."
+  },
+  {
+   "s": "ncrockett",
+   "p": "action",
+   "v": "opted to stay in Christchurch because she was frightened",
+   "quote": "Ngaire Crockett opted to stay in Christchurch because she was frightened, so her place was taken by Dennis Grant."
+  },
+  {
+   "s": "ncrockett",
+   "p": "authored",
+   "o": "tape",
+   "quote": "The group consisted of Melbourne-based television reporter Quentin Fogarty (who had been holidaying in New Zealand), freelance cameraman David Crockett from Wellington, Crockett's wife Ngaire who operated a tape recorder, and the two Safe Air pilots, Bill Startup and Bob Guard."
+  },
+  {
+   "s": "startup",
+   "p": "witness",
+   "o": "case",
+   "quote": "The group consisted of Melbourne-based television reporter Quentin Fogarty (who had been holidaying in New Zealand), freelance cameraman David Crockett from Wellington, Crockett's wife Ngaire who operated a tape recorder, and the two Safe Air pilots, Bill Startup and Bob Guard."
+  },
+  {
+   "s": "startup",
+   "p": "occupation",
+   "v": "pilot",
+   "quote": "The group consisted of Melbourne-based television reporter Quentin Fogarty (who had been holidaying in New Zealand), freelance cameraman David Crockett from Wellington, Crockett's wife Ngaire who operated a tape recorder, and the two Safe Air pilots, Bill Startup and Bob Guard."
+  },
+  {
+   "s": "startup",
+   "p": "rank",
+   "v": "Captain",
+   "quote": "For some years, he ran UFO-themed experiences where visitors could sit in Captain Startup's seat and learn about the incident."
+  },
+  {
+   "s": "startup",
+   "p": "employed_by",
+   "o": "safeair",
+   "quote": "The group consisted of Melbourne-based television reporter Quentin Fogarty (who had been holidaying in New Zealand), freelance cameraman David Crockett from Wellington, Crockett's wife Ngaire who operated a tape recorder, and the two Safe Air pilots, Bill Startup and Bob Guard."
+  },
+  {
+   "s": "startup",
+   "p": "piloted",
+   "o": "argosy30",
+   "quote": "The Safe Air pilot, Bill Startup, reported that what was described as \"a huge, bright white light with a red tinge to it\" seemed to track his plane, moving above, below, and in front of it."
+  },
+  {
+   "s": "startup",
+   "p": "colleague_of",
+   "o": "guard",
+   "quote": "The group consisted of Melbourne-based television reporter Quentin Fogarty (who had been holidaying in New Zealand), freelance cameraman David Crockett from Wellington, Crockett's wife Ngaire who operated a tape recorder, and the two Safe Air pilots, Bill Startup and Bob Guard."
+  },
+  {
+   "s": "startup",
+   "p": "described",
+   "o": "light30",
+   "quote": "The Safe Air pilot, Bill Startup, reported that what was described as \"a huge, bright white light with a red tinge to it\" seemed to track his plane, moving above, below, and in front of it."
+  },
+  {
+   "s": "startup",
+   "p": "statement",
+   "v": "a huge, bright white light with a red tinge to it seemed to track his plane, moving above, below, and in front of it",
+   "quote": "The Safe Air pilot, Bill Startup, reported that what was described as \"a huge, bright white light with a red tinge to it\" seemed to track his plane, moving above, below, and in front of it."
+  },
+  {
+   "s": "startup",
+   "p": "action",
+   "v": "shouted at the film crew to come up to the flight deck as the pilots had seen strange lights",
+   "quote": "While the Crocketts and Fogarty were filming a piece to camera, Startup shouted at them to come up to the flight deck as the pilots had seen strange lights."
+  },
+  {
+   "s": "startup",
+   "p": "authored",
+   "o": "startupbook",
+   "quote": "Fogarty and Startup later wrote books about the incident of 30–31 December 1978."
+  },
+  {
+   "s": "startup",
+   "p": "authored",
+   "o": "startupbook",
+   "quote": "Startup, Bill & Illingworth, Neill (1980). The Kaikoura UFOs. Auckland, New Zealand: Hodder and Stoughton."
+  },
+  {
+   "s": "guard",
+   "p": "witness",
+   "o": "case",
+   "quote": "The group consisted of Melbourne-based television reporter Quentin Fogarty (who had been holidaying in New Zealand), freelance cameraman David Crockett from Wellington, Crockett's wife Ngaire who operated a tape recorder, and the two Safe Air pilots, Bill Startup and Bob Guard."
+  },
+  {
+   "s": "guard",
+   "p": "occupation",
+   "v": "pilot",
+   "quote": "The group consisted of Melbourne-based television reporter Quentin Fogarty (who had been holidaying in New Zealand), freelance cameraman David Crockett from Wellington, Crockett's wife Ngaire who operated a tape recorder, and the two Safe Air pilots, Bill Startup and Bob Guard."
+  },
+  {
+   "s": "guard",
+   "p": "employed_by",
+   "o": "safeair",
+   "quote": "The group consisted of Melbourne-based television reporter Quentin Fogarty (who had been holidaying in New Zealand), freelance cameraman David Crockett from Wellington, Crockett's wife Ngaire who operated a tape recorder, and the two Safe Air pilots, Bill Startup and Bob Guard."
+  },
+  {
+   "s": "guard",
+   "p": "piloted",
+   "o": "argosy30",
+   "quote": "The group consisted of Melbourne-based television reporter Quentin Fogarty (who had been holidaying in New Zealand), freelance cameraman David Crockett from Wellington, Crockett's wife Ngaire who operated a tape recorder, and the two Safe Air pilots, Bill Startup and Bob Guard."
+  },
+  {
+   "s": "guard",
+   "p": "later_claim",
+   "v": "didn't know what the objects were, but he didn't believe in UFOs",
+   "quote": "Guard later stated that he didn't know what the objects were, but he didn't believe in UFOs."
+  },
+  {
+   "s": "guard",
+   "p": "later_claim",
+   "v": "pilots see a lot of unidentified things, but he wouldn't report such an incident in the future because \"it's not worth the hassle\"",
+   "quote": "He said that pilots see a lot of unidentified things, but he wouldn't report such an incident in the future because \"it's not worth the hassle\"."
+  },
+  {
+   "s": "grant",
+   "p": "witness",
+   "o": "case",
+   "quote": "Ngaire Crockett opted to stay in Christchurch because she was frightened, so her place was taken by Dennis Grant."
+  },
+  {
+   "s": "grant",
+   "p": "journalist",
+   "o": "case",
+   "quote": "Grant was a Christchurch-based TV1 journalist that Fogarty had been staying with while on holiday."
+  },
+  {
+   "s": "grant",
+   "p": "occupation",
+   "v": "journalist",
+   "quote": "Grant was a Christchurch-based TV1 journalist that Fogarty had been staying with while on holiday."
+  },
+  {
+   "s": "grant",
+   "p": "based_in",
+   "v": "Christchurch",
+   "quote": "Grant was a Christchurch-based TV1 journalist that Fogarty had been staying with while on holiday."
+  },
+  {
+   "s": "grant",
+   "p": "employed_by",
+   "o": "tv1",
+   "quote": "Grant was a Christchurch-based TV1 journalist that Fogarty had been staying with while on holiday."
+  },
+  {
+   "s": "grant",
+   "p": "role",
+   "v": "took Ngaire Crockett's place on the flight from Christchurch to Blenheim",
+   "quote": "Ngaire Crockett opted to stay in Christchurch because she was frightened, so her place was taken by Dennis Grant."
+  },
+  {
+   "s": "grant",
+   "p": "relationship",
+   "v": "Fogarty had been staying with him while on holiday",
+   "quote": "Grant was a Christchurch-based TV1 journalist that Fogarty had been staying with while on holiday."
+  },
+  {
+   "s": "moore",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "British astronomer Patrick Moore thought the lights were of terrestrial origin, perhaps a reflection, a balloon, or an aircraft."
+  },
+  {
+   "s": "moore",
+   "p": "occupation",
+   "v": "astronomer",
+   "quote": "British astronomer Patrick Moore thought the lights were of terrestrial origin, perhaps a reflection, a balloon, or an aircraft."
+  },
+  {
+   "s": "moore",
+   "p": "nationality",
+   "v": "British",
+   "quote": "British astronomer Patrick Moore thought the lights were of terrestrial origin, perhaps a reflection, a balloon, or an aircraft."
+  },
+  {
+   "s": "moore",
+   "p": "statement",
+   "v": "thought the lights were of terrestrial origin, perhaps a reflection, a balloon, or an aircraft",
+   "quote": "British astronomer Patrick Moore thought the lights were of terrestrial origin, perhaps a reflection, a balloon, or an aircraft."
+  },
+  {
+   "s": "moore",
+   "p": "proposed",
+   "o": "x_reflection",
+   "quote": "British astronomer Patrick Moore thought the lights were of terrestrial origin, perhaps a reflection, a balloon, or an aircraft."
+  },
+  {
+   "s": "moore",
+   "p": "proposed",
+   "o": "x_balloon",
+   "quote": "British astronomer Patrick Moore thought the lights were of terrestrial origin, perhaps a reflection, a balloon, or an aircraft."
+  },
+  {
+   "s": "moore",
+   "p": "proposed",
+   "o": "x_aircraft",
+   "quote": "British astronomer Patrick Moore thought the lights were of terrestrial origin, perhaps a reflection, a balloon, or an aircraft."
+  },
+  {
+   "s": "lee",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Channel 0 producer Leonard Lee took the 31 December footage of the lights to optical physicist Bruce Maccabee in the United States."
+  },
+  {
+   "s": "lee",
+   "p": "occupation",
+   "v": "producer",
+   "quote": "Channel 0 producer Leonard Lee took the 31 December footage of the lights to optical physicist Bruce Maccabee in the United States."
+  },
+  {
+   "s": "lee",
+   "p": "employed_by",
+   "o": "channel0",
+   "quote": "Channel 0 producer Leonard Lee took the 31 December footage of the lights to optical physicist Bruce Maccabee in the United States."
+  },
+  {
+   "s": "lee",
+   "p": "action",
+   "v": "took the 31 December footage of the lights to Bruce Maccabee in the United States",
+   "quote": "Channel 0 producer Leonard Lee took the 31 December footage of the lights to optical physicist Bruce Maccabee in the United States."
+  },
+  {
+   "s": "maccabee",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Channel 0 producer Leonard Lee took the 31 December footage of the lights to optical physicist Bruce Maccabee in the United States."
+  },
+  {
+   "s": "maccabee",
+   "p": "proponent",
+   "o": "case",
+   "quote": "Maccabee disagreed with the DSIR, claiming there was no evidence that squid boats were in the area (although other sources contradict this), and concluded that the event involved \"unknown objects or phenomena fitting the definition of UFOs\"."
+  },
+  {
+   "s": "maccabee",
+   "p": "occupation",
+   "v": "optical physicist",
+   "quote": "Channel 0 producer Leonard Lee took the 31 December footage of the lights to optical physicist Bruce Maccabee in the United States."
+  },
+  {
+   "s": "maccabee",
+   "p": "employed_by",
+   "o": "nswc",
+   "quote": "Maccabee worked for the US Naval Surface Weapons Center in Maryland and specialised in laser technology."
+  },
+  {
+   "s": "maccabee",
+   "p": "specialty",
+   "v": "laser technology",
+   "quote": "Maccabee worked for the US Naval Surface Weapons Center in Maryland and specialised in laser technology."
+  },
+  {
+   "s": "maccabee",
+   "p": "action",
+   "v": "flew to New Zealand and Melbourne to interview witnesses",
+   "quote": "Maccabee also flew to New Zealand and Melbourne to interview witnesses."
+  },
+  {
+   "s": "maccabee",
+   "p": "calculation",
+   "v": "object was extremely bright and about 20 metres (66 ft) or more in diameter",
+   "quote": "He calculated that the object was extremely bright and about 20 metres (66 ft) or more in diameter, making it unlikely to be plasma or ball lightning."
+  },
+  {
+   "s": "maccabee",
+   "p": "disputed",
+   "o": "x_ball",
+   "quote": "He calculated that the object was extremely bright and about 20 metres (66 ft) or more in diameter, making it unlikely to be plasma or ball lightning."
+  },
+  {
+   "s": "maccabee",
+   "p": "disputed",
+   "o": "x_squid",
+   "quote": "Maccabee disagreed with the DSIR, claiming there was no evidence that squid boats were in the area (although other sources contradict this), and concluded that the event involved \"unknown objects or phenomena fitting the definition of UFOs\"."
+  },
+  {
+   "s": "maccabee",
+   "p": "disputed",
+   "o": "dsir",
+   "quote": "Maccabee disagreed with the DSIR, claiming there was no evidence that squid boats were in the area (although other sources contradict this), and concluded that the event involved \"unknown objects or phenomena fitting the definition of UFOs\"."
+  },
+  {
+   "s": "maccabee",
+   "p": "statement",
+   "v": "claimed there was no evidence that squid boats were in the area",
+   "quote": "Maccabee disagreed with the DSIR, claiming there was no evidence that squid boats were in the area (although other sources contradict this), and concluded that the event involved \"unknown objects or phenomena fitting the definition of UFOs\"."
+  },
+  {
+   "s": "maccabee",
+   "p": "conclusion",
+   "v": "the event involved \"unknown objects or phenomena fitting the definition of UFOs\"",
+   "quote": "Maccabee disagreed with the DSIR, claiming there was no evidence that squid boats were in the area (although other sources contradict this), and concluded that the event involved \"unknown objects or phenomena fitting the definition of UFOs\"."
+  },
+  {
+   "s": "maccabee",
+   "p": "access",
+   "v": "had access to the Channel 0 footage",
+   "quote": "Although Maccabee had access to the Channel 0 footage, DSIR scientist BIll Ireland has claimed it was not made available to DSIR scientists to study."
+  },
+  {
+   "s": "maccabee",
+   "p": "criticism_received",
+   "v": "Ireland argued his calculations had assumed an incorrect focal length, leading to overestimates of the apparent size and brightness of the filmed object",
+   "quote": "He argued that earlier calculations by physicist Bruce Maccabee had assumed an incorrect focal length, which led to overestimates of the apparent size and brightness of the filmed object."
+  },
+  {
+   "s": "ireland",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Drawing on footage that appeared in the 1982 BBC documentary The Case of the UFOs, Ireland argued that the images filmed from the Safe Air Argosy were consistent with lights from squid fishing vessels operating at sea rather than unidentified aerial objects."
+  },
+  {
+   "s": "ireland",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Ireland re-examined frames from the 16 mm film recorded by David Crockett (as published by the BBC ), noting that the footage had been captured using two zoom lenses (16–100 mm and 80–240 mm)."
+  },
+  {
+   "s": "ireland",
+   "p": "occupation",
+   "v": "scientist",
+   "quote": "In 2000, former Department of Scientific and Industrial Research (DSIR) scientist William Ireland published a retrospective analysis of the Kaikōura lights in the journal of the New Zealand Skeptics."
+  },
+  {
+   "s": "ireland",
+   "p": "employed_by",
+   "o": "dsir",
+   "quote": "In 2000, former Department of Scientific and Industrial Research (DSIR) scientist William Ireland published a retrospective analysis of the Kaikōura lights in the journal of the New Zealand Skeptics."
+  },
+  {
+   "s": "ireland",
+   "p": "employed_by",
+   "o": "dsir",
+   "quote": "Although Maccabee had access to the Channel 0 footage, DSIR scientist BIll Ireland has claimed it was not made available to DSIR scientists to study."
+  },
+  {
+   "s": "ireland",
+   "p": "later_claim",
+   "v": "the Channel 0 footage was not made available to DSIR scientists to study",
+   "quote": "Although Maccabee had access to the Channel 0 footage, DSIR scientist BIll Ireland has claimed it was not made available to DSIR scientists to study."
+  },
+  {
+   "s": "ireland",
+   "p": "authored",
+   "o": "irelandarticle",
+   "quote": "In 2000, former Department of Scientific and Industrial Research (DSIR) scientist William Ireland published a retrospective analysis of the Kaikōura lights in the journal of the New Zealand Skeptics."
+  },
+  {
+   "s": "ireland",
+   "p": "proposed",
+   "o": "x_squid",
+   "quote": "Drawing on footage that appeared in the 1982 BBC documentary The Case of the UFOs, Ireland argued that the images filmed from the Safe Air Argosy were consistent with lights from squid fishing vessels operating at sea rather than unidentified aerial objects."
+  },
+  {
+   "s": "ireland",
+   "p": "disputed",
+   "o": "maccabee",
+   "quote": "He argued that earlier calculations by physicist Bruce Maccabee had assumed an incorrect focal length, which led to overestimates of the apparent size and brightness of the filmed object."
+  },
+  {
+   "s": "ireland",
+   "p": "statement",
+   "v": "some frames show multiple parallel rows of discrete lights rather than a single luminous source",
+   "quote": "According to Ireland, some frames show multiple parallel rows of discrete lights rather than a single luminous source."
+  },
+  {
+   "s": "ireland",
+   "p": "estimate",
+   "v": "lights were about 6 kilometres (3.7 mi) from the aircraft",
+   "quote": "From measurements of the images and assumptions about viewing geometry, Ireland estimated the lights were about 6 kilometres (3.7 mi) from the aircraft and arranged in rows roughly matching the lighting rigs used on squid fishing boats."
+  },
+  {
+   "s": "ireland",
+   "p": "estimate",
+   "v": "consistent with vessels about 20–25 metres (66–82 ft) long with rows of lamps spaced roughly 2–3 metres apart",
+   "quote": "The spacing, number of lights, and estimated dimensions derived from the film were, in his view, closely consistent with vessels about 20–25 metres (66–82 ft) long equipped with rows of lamps spaced roughly 2–3 metres (6 ft 7 in – 9 ft 10 in) apart."
+  },
+  {
+   "s": "ireland",
+   "p": "conclusion",
+   "v": "the filmed lights were most likely a small group of squid boats operating on the sea surface, viewed from the aircraft under clear night conditions",
+   "quote": "Ireland concluded that the filmed lights were most likely a small group of squid boats operating on the sea surface and viewed from the aircraft under clear night conditions."
+  },
+  {
+   "s": "ireland",
+   "p": "statement",
+   "v": "apparent motion and brightness of the lights were the result of perspective, zoom lens effects, and the aircraft's movement relative to the boats",
+   "quote": "On this interpretation, the apparent motion and brightness of the lights were the result of perspective, zoom lens effects, and the aircraft's movement relative to the boats."
+  },
+  {
+   "s": "ireland",
+   "p": "statement",
+   "v": "several frames in the telephoto sequence show multiple parallel rows of individual lights, consistent with the lighting rigs used on squid fishing vessels",
+   "quote": "Ireland noted that several frames in this telephoto sequence show multiple parallel rows of individual lights, consistent with the lighting rigs used on squid fishing vessels."
+  },
+  {
+   "s": "davidson",
+   "p": "commentator",
+   "o": "case",
+   "quote": "He made a documentary in 2008, focussing on the stories of those on board the Argosy rather than the debate about UFOs."
+  },
+  {
+   "s": "davidson",
+   "p": "occupation",
+   "v": "filmmaker",
+   "quote": "Blenheim filmmaker Paul Davidson bought the Safe Air Argosy in 1990 when it was about to be scrapped."
+  },
+  {
+   "s": "davidson",
+   "p": "based_in",
+   "v": "Blenheim",
+   "quote": "Blenheim filmmaker Paul Davidson bought the Safe Air Argosy in 1990 when it was about to be scrapped."
+  },
+  {
+   "s": "davidson",
+   "p": "owned",
+   "o": "argosy30",
+   "quote": "Blenheim filmmaker Paul Davidson bought the Safe Air Argosy in 1990 when it was about to be scrapped."
+  },
+  {
+   "s": "davidson",
+   "p": "purchase_year",
+   "v": "1990",
+   "quote": "Blenheim filmmaker Paul Davidson bought the Safe Air Argosy in 1990 when it was about to be scrapped."
+  },
+  {
+   "s": "davidson",
+   "p": "authored",
+   "o": "davidsondoc",
+   "quote": "He made a documentary in 2008, focussing on the stories of those on board the Argosy rather than the debate about UFOs."
+  },
+  {
+   "s": "davidson",
+   "p": "later_activity",
+   "v": "ran UFO-themed experiences where visitors could sit in Captain Startup's seat and learn about the incident",
+   "quote": "For some years, he ran UFO-themed experiences where visitors could sit in Captain Startup's seat and learn about the incident."
+  },
+  {
+   "s": "wood",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Wood, Rocky (ed). (1979, September). The Kaikoura UFO controversy. Wellington, New Zealand: New Zealand UFO Studies Centre (Special issue no. 4)"
+  },
+  {
+   "s": "wood",
+   "p": "authored",
+   "o": "woodbook",
+   "quote": "Wood, Rocky (ed). (1979, September). The Kaikoura UFO controversy. Wellington, New Zealand: New Zealand UFO Studies Centre (Special issue no. 4)"
+  },
+  {
+   "s": "wood",
+   "p": "role",
+   "v": "editor",
+   "quote": "Wood, Rocky (ed). (1979, September). The Kaikoura UFO controversy. Wellington, New Zealand: New Zealand UFO Studies Centre (Special issue no. 4)"
+  },
+  {
+   "s": "illingworth",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Startup, Bill & Illingworth, Neill (1980). The Kaikoura UFOs. Auckland, New Zealand: Hodder and Stoughton."
+  },
+  {
+   "s": "illingworth",
+   "p": "authored",
+   "o": "startupbook",
+   "quote": "Startup, Bill & Illingworth, Neill (1980). The Kaikoura UFOs. Auckland, New Zealand: Hodder and Stoughton."
+  },
+  {
+   "s": "safeair",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The first sightings were made on 21 December when Vern Powell and Ian Pirie, pilots of a Safe Air Ltd cargo aircraft, observed a series of strange lights around their Armstrong Whitworth AW.660 Argosy while flying from Blenheim to Christchurch."
+  },
+  {
+   "s": "safeair",
+   "p": "owned",
+   "o": "argosy21",
+   "quote": "The first sightings were made on 21 December when Vern Powell and Ian Pirie, pilots of a Safe Air Ltd cargo aircraft, observed a series of strange lights around their Armstrong Whitworth AW.660 Argosy while flying from Blenheim to Christchurch."
+  },
+  {
+   "s": "safeair",
+   "p": "owned",
+   "o": "argosy30",
+   "quote": "Late on 30 December 1978, a television crew organised by Melbourne's Channel 0 boarded a Safe Air plane that was making a newspaper run between midnight and 1:00 am from Wellington to Christchurch, with the intention of recording background film for a network show about the sightings of 21 December."
+  },
+  {
+   "s": "channel0",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Late on 30 December 1978, a television crew organised by Melbourne's Channel 0 boarded a Safe Air plane that was making a newspaper run between midnight and 1:00 am from Wellington to Christchurch, with the intention of recording background film for a network show about the sightings of 21 December."
+  },
+  {
+   "s": "channel0",
+   "p": "located_in",
+   "o": "melbourne",
+   "quote": "Late on 30 December 1978, a television crew organised by Melbourne's Channel 0 boarded a Safe Air plane that was making a newspaper run between midnight and 1:00 am from Wellington to Christchurch, with the intention of recording background film for a network show about the sightings of 21 December."
+  },
+  {
+   "s": "channel0",
+   "p": "role",
+   "v": "organised the television crew that boarded the Safe Air plane",
+   "quote": "Late on 30 December 1978, a television crew organised by Melbourne's Channel 0 boarded a Safe Air plane that was making a newspaper run between midnight and 1:00 am from Wellington to Christchurch, with the intention of recording background film for a network show about the sightings of 21 December."
+  },
+  {
+   "s": "channel0",
+   "p": "purpose",
+   "v": "recording background film for a network show about the sightings of 21 December",
+   "quote": "Late on 30 December 1978, a television crew organised by Melbourne's Channel 0 boarded a Safe Air plane that was making a newspaper run between midnight and 1:00 am from Wellington to Christchurch, with the intention of recording background film for a network show about the sightings of 21 December."
+  },
+  {
+   "s": "channel0",
+   "p": "owned",
+   "o": "film",
+   "quote": "Although Maccabee had access to the Channel 0 footage, DSIR scientist BIll Ireland has claimed it was not made available to DSIR scientists to study."
+  },
+  {
+   "s": "tv1",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Grant was a Christchurch-based TV1 journalist that Fogarty had been staying with while on holiday."
+  },
+  {
+   "s": "tv1",
+   "p": "authored",
+   "o": "tv1film",
+   "quote": "\"TV1's film proving more interesting as it was a straight shot free of any distortion produced by filming through glass and plastic\""
+  },
+  {
+   "s": "tv1",
+   "p": "action",
+   "v": "a TV1 film crew captured an image of a UFO near Waiau Toa / Clarence River on 3 January 1979",
+   "quote": "A TV1 film crew captured an image of a UFO near Waiau Toa / Clarence River on 3 January 1979."
+  },
+  {
+   "s": "tv1",
+   "p": "described",
+   "o": "ufo_jan3",
+   "quote": "A TV1 film crew captured an image of a UFO near Waiau Toa / Clarence River on 3 January 1979."
+  },
+  {
+   "s": "nswc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Maccabee worked for the US Naval Surface Weapons Center in Maryland and specialised in laser technology."
+  },
+  {
+   "s": "nswc",
+   "p": "located_in",
+   "o": "maryland",
+   "quote": "Maccabee worked for the US Naval Surface Weapons Center in Maryland and specialised in laser technology."
+  },
+  {
+   "s": "dsir",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The DSIR disputed his calculations, stating that the lights were most likely to be from a fleet of stationary squid fishing boats in the sea below the aircraft."
+  },
+  {
+   "s": "dsir",
+   "p": "disputed",
+   "o": "maccabee",
+   "quote": "The DSIR disputed his calculations, stating that the lights were most likely to be from a fleet of stationary squid fishing boats in the sea below the aircraft."
+  },
+  {
+   "s": "dsir",
+   "p": "proposed",
+   "o": "x_squid",
+   "quote": "The DSIR disputed his calculations, stating that the lights were most likely to be from a fleet of stationary squid fishing boats in the sea below the aircraft."
+  },
+  {
+   "s": "dsir",
+   "p": "proposed",
+   "o": "x_camera",
+   "quote": "\"Crockett's film now considered unmeritous because of visual discrepancies produced by filming through an argosy window. DSIR have actually duplicated Crockett's results by shining a torch light onto the plane's window\""
+  },
+  {
+   "s": "dsir",
+   "p": "authored",
+   "o": "dsirbrief",
+   "quote": "This contradicts a report of a DSIR briefing to the United Nations in January 1979, where the DSIR stated (presumably after study of the film) that:"
+  },
+  {
+   "s": "dsir",
+   "p": "statement",
+   "v": "the lights were most likely to be from a fleet of stationary squid fishing boats in the sea below the aircraft",
+   "quote": "The DSIR disputed his calculations, stating that the lights were most likely to be from a fleet of stationary squid fishing boats in the sea below the aircraft."
+  },
+  {
+   "s": "dsir",
+   "p": "statement",
+   "v": "Both Crockett's and TV1's films are highly distorted",
+   "quote": "\"Both Crockett's and TV1's films are highly distorted\""
+  },
+  {
+   "s": "dsir",
+   "p": "experiment",
+   "v": "duplicated Crockett's results by shining a torch light onto the plane's window",
+   "quote": "\"Crockett's film now considered unmeritous because of visual discrepancies produced by filming through an argosy window. DSIR have actually duplicated Crockett's results by shining a torch light onto the plane's window\""
+  },
+  {
+   "s": "dsir",
+   "p": "action",
+   "v": "converting the film to computer readout, hopeful that distortions can be erased",
+   "quote": "\"However, aberrations are apparent in the film which is making it difficult to analyse. DSIR are now converting the film to computer readout and are hopeful that distortions can be erased.\""
+  },
+  {
+   "s": "un",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "This contradicts a report of a DSIR briefing to the United Nations in January 1979, where the DSIR stated (presumably after study of the film) that:"
+  },
+  {
+   "s": "un",
+   "p": "role",
+   "v": "received a DSIR briefing in January 1979",
+   "quote": "This contradicts a report of a DSIR briefing to the United Nations in January 1979, where the DSIR stated (presumably after study of the film) that:"
+  },
+  {
+   "s": "rnzaf",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "After the sightings, the Royal New Zealand Air Force, the police, and the Carter Observatory in Wellington cooperated in an investigation, the results of which were lodged in the National Archives in Wellington."
+  },
+  {
+   "s": "rnzaf",
+   "p": "owned",
+   "o": "skyhawk",
+   "quote": "A spate of sightings followed the initial reports, and an Air Force Skyhawk was put on stand-by to investigate any positive sightings."
+  },
+  {
+   "s": "police",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "After the sightings, the Royal New Zealand Air Force, the police, and the Carter Observatory in Wellington cooperated in an investigation, the results of which were lodged in the National Archives in Wellington."
+  },
+  {
+   "s": "carter",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "After the sightings, the Royal New Zealand Air Force, the police, and the Carter Observatory in Wellington cooperated in an investigation, the results of which were lodged in the National Archives in Wellington."
+  },
+  {
+   "s": "carter",
+   "p": "located_in",
+   "o": "wellington",
+   "quote": "After the sightings, the Royal New Zealand Air Force, the police, and the Carter Observatory in Wellington cooperated in an investigation, the results of which were lodged in the National Archives in Wellington."
+  },
+  {
+   "s": "natarch",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "After the sightings, the Royal New Zealand Air Force, the police, and the Carter Observatory in Wellington cooperated in an investigation, the results of which were lodged in the National Archives in Wellington."
+  },
+  {
+   "s": "natarch",
+   "p": "located_in",
+   "o": "wellington",
+   "quote": "After the sightings, the Royal New Zealand Air Force, the police, and the Carter Observatory in Wellington cooperated in an investigation, the results of which were lodged in the National Archives in Wellington."
+  },
+  {
+   "s": "mod",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The New Zealand Ministry of Defence attributed the sightings to lights from squid boats reflected off clouds, unburnt meteors, or lights from the planet Venus or trains and cars."
+  },
+  {
+   "s": "mod",
+   "p": "proposed",
+   "o": "x_squid",
+   "quote": "The New Zealand Ministry of Defence attributed the sightings to lights from squid boats reflected off clouds, unburnt meteors, or lights from the planet Venus or trains and cars."
+  },
+  {
+   "s": "mod",
+   "p": "proposed",
+   "o": "x_meteor",
+   "quote": "The New Zealand Ministry of Defence attributed the sightings to lights from squid boats reflected off clouds, unburnt meteors, or lights from the planet Venus or trains and cars."
+  },
+  {
+   "s": "mod",
+   "p": "proposed",
+   "o": "x_planet",
+   "quote": "The New Zealand Ministry of Defence attributed the sightings to lights from squid boats reflected off clouds, unburnt meteors, or lights from the planet Venus or trains and cars."
+  },
+  {
+   "s": "mod",
+   "p": "proposed",
+   "o": "x_traffic",
+   "quote": "The New Zealand Ministry of Defence attributed the sightings to lights from squid boats reflected off clouds, unburnt meteors, or lights from the planet Venus or trains and cars."
+  },
+  {
+   "s": "mod",
+   "p": "statement",
+   "v": "attributed the sightings to lights from squid boats reflected off clouds, unburnt meteors, or lights from the planet Venus or trains and cars",
+   "quote": "The New Zealand Ministry of Defence attributed the sightings to lights from squid boats reflected off clouds, unburnt meteors, or lights from the planet Venus or trains and cars."
+  },
+  {
+   "s": "jse",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "A 1987 article in the Journal of Scientific Exploration ( a parapsychology publication) found that the sightings were \"unique among civilian UFO reports because there is a large amount of documentary evidence"
+  },
+  {
+   "s": "jse",
+   "p": "published",
+   "o": "jsearticle",
+   "quote": "A 1987 article in the Journal of Scientific Exploration ( a parapsychology publication) found that the sightings were \"unique among civilian UFO reports because there is a large amount of documentary evidence"
+  },
+  {
+   "s": "jse",
+   "p": "characterisation",
+   "v": "a parapsychology publication",
+   "quote": "A 1987 article in the Journal of Scientific Exploration ( a parapsychology publication) found that the sightings were \"unique among civilian UFO reports because there is a large amount of documentary evidence"
+  },
+  {
+   "s": "nzskeptics",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 2000, former Department of Scientific and Industrial Research (DSIR) scientist William Ireland published a retrospective analysis of the Kaikōura lights in the journal of the New Zealand Skeptics."
+  },
+  {
+   "s": "nzskeptics",
+   "p": "published",
+   "o": "irelandarticle",
+   "quote": "In 2000, former Department of Scientific and Industrial Research (DSIR) scientist William Ireland published a retrospective analysis of the Kaikōura lights in the journal of the New Zealand Skeptics."
+  },
+  {
+   "s": "bbc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Drawing on footage that appeared in the 1982 BBC documentary The Case of the UFOs, Ireland argued that the images filmed from the Safe Air Argosy were consistent with lights from squid fishing vessels operating at sea rather than unidentified aerial objects."
+  },
+  {
+   "s": "bbc",
+   "p": "published",
+   "o": "horizon_ep",
+   "quote": "Drawing on footage that appeared in the 1982 BBC documentary The Case of the UFOs, Ireland argued that the images filmed from the Safe Air Argosy were consistent with lights from squid fishing vessels operating at sea rather than unidentified aerial objects."
+  },
+  {
+   "s": "bbc",
+   "p": "published",
+   "o": "horizon",
+   "quote": "The footage analysed by Ireland is publicly available in the 1982 BBC Horizon documentary The Case of the UFOs."
+  },
+  {
+   "s": "nzufo",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "including interviews & technical reports from DSIR & report from NZ UFO Studies Centre re Kaikoura UFO's"
+  },
+  {
+   "s": "nzufo",
+   "p": "published",
+   "o": "woodbook",
+   "quote": "Wood, Rocky (ed). (1979, September). The Kaikoura UFO controversy. Wellington, New Zealand: New Zealand UFO Studies Centre (Special issue no. 4)"
+  },
+  {
+   "s": "kaikoura",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Kaikōura lights is a name given by the New Zealand media to a series of UFO sightings that occurred in December 1978 in the skies above the Kaikōura mountain ranges in the northeast of New Zealand's South Island."
+  },
+  {
+   "s": "kaikoura",
+   "p": "located_in",
+   "o": "southisland",
+   "quote": "The Kaikōura lights is a name given by the New Zealand media to a series of UFO sightings that occurred in December 1978 in the skies above the Kaikōura mountain ranges in the northeast of New Zealand's South Island."
+  },
+  {
+   "s": "southisland",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Kaikōura lights is a name given by the New Zealand media to a series of UFO sightings that occurred in December 1978 in the skies above the Kaikōura mountain ranges in the northeast of New Zealand's South Island."
+  },
+  {
+   "s": "southisland",
+   "p": "located_in",
+   "o": "nz",
+   "quote": "The Kaikōura lights is a name given by the New Zealand media to a series of UFO sightings that occurred in December 1978 in the skies above the Kaikōura mountain ranges in the northeast of New Zealand's South Island."
+  },
+  {
+   "s": "nz",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Kaikōura lights is a name given by the New Zealand media to a series of UFO sightings that occurred in December 1978 in the skies above the Kaikōura mountain ranges in the northeast of New Zealand's South Island."
+  },
+  {
+   "s": "blenheim",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The first sightings were made on 21 December when Vern Powell and Ian Pirie, pilots of a Safe Air Ltd cargo aircraft, observed a series of strange lights around their Armstrong Whitworth AW.660 Argosy while flying from Blenheim to Christchurch."
+  },
+  {
+   "s": "blenheim",
+   "p": "role",
+   "v": "departure point of the 21 December flight to Christchurch",
+   "quote": "The first sightings were made on 21 December when Vern Powell and Ian Pirie, pilots of a Safe Air Ltd cargo aircraft, observed a series of strange lights around their Armstrong Whitworth AW.660 Argosy while flying from Blenheim to Christchurch."
+  },
+  {
+   "s": "blenheim",
+   "p": "role",
+   "v": "destination of the return flight that took off from Christchurch at 2:16 am",
+   "quote": "After delivering its load of newspapers to Christchurch, the cargo plane then took off again for Blenheim at 2:16 am with Fogarty and David Crockett still on board."
+  },
+  {
+   "s": "christchurch",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The first sightings were made on 21 December when Vern Powell and Ian Pirie, pilots of a Safe Air Ltd cargo aircraft, observed a series of strange lights around their Armstrong Whitworth AW.660 Argosy while flying from Blenheim to Christchurch."
+  },
+  {
+   "s": "christchurch",
+   "p": "role",
+   "v": "destination of the 21 December flight and of the 30 December newspaper run",
+   "quote": "Late on 30 December 1978, a television crew organised by Melbourne's Channel 0 boarded a Safe Air plane that was making a newspaper run between midnight and 1:00 am from Wellington to Christchurch, with the intention of recording background film for a network show about the sightings of 21 December."
+  },
+  {
+   "s": "christchurch",
+   "p": "radar_detail",
+   "v": "The lights were not perceived by Christchurch radar",
+   "quote": "The lights were not perceived by Christchurch radar, but air traffic control at Wellington had picked up \"scores\" of unidentified objects on radar a few hours before the flight on Saturday night."
+  },
+  {
+   "s": "wellington",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Late on 30 December 1978, a television crew organised by Melbourne's Channel 0 boarded a Safe Air plane that was making a newspaper run between midnight and 1:00 am from Wellington to Christchurch, with the intention of recording background film for a network show about the sightings of 21 December."
+  },
+  {
+   "s": "wellington",
+   "p": "role",
+   "v": "departure point of the 30 December newspaper run to Christchurch",
+   "quote": "Late on 30 December 1978, a television crew organised by Melbourne's Channel 0 boarded a Safe Air plane that was making a newspaper run between midnight and 1:00 am from Wellington to Christchurch, with the intention of recording background film for a network show about the sightings of 21 December."
+  },
+  {
+   "s": "wellington",
+   "p": "radar_detail",
+   "v": "air traffic control at Wellington had picked up \"scores\" of unidentified objects on radar",
+   "quote": "The lights were not perceived by Christchurch radar, but air traffic control at Wellington had picked up \"scores\" of unidentified objects on radar a few hours before the flight on Saturday night."
+  },
+  {
+   "s": "wellingtonairport",
+   "p": "related_place",
+   "o": "case",
+   "quote": "These objects were also tracked on radar by air traffic control at Wellington Airport."
+  },
+  {
+   "s": "wellingtonairport",
+   "p": "role",
+   "v": "air traffic control tracked the objects on radar",
+   "quote": "These objects were also tracked on radar by air traffic control at Wellington Airport."
+  },
+  {
+   "s": "clarencebridge",
+   "p": "near",
+   "o": "case",
+   "quote": "Residents of the Clarence Bridge and Kekerungu areas described seeing strange lights around the same time but reportedly did not think much about them."
+  },
+  {
+   "s": "kekerungu",
+   "p": "near",
+   "o": "case",
+   "quote": "Residents of the Clarence Bridge and Kekerungu areas described seeing strange lights around the same time but reportedly did not think much about them."
+  },
+  {
+   "s": "melbourne",
+   "p": "related_place",
+   "o": "case",
+   "quote": "After landing at Woodbourne Airport at Blenheim around 3:00 am on 31 December, Fogarty interviewed the pilots then returned to Melbourne where the footage aired on prime-time news that night and was later shown on news networks around the world."
+  },
+  {
+   "s": "melbourne",
+   "p": "role",
+   "v": "footage aired on prime-time news there on the night of 31 December",
+   "quote": "After landing at Woodbourne Airport at Blenheim around 3:00 am on 31 December, Fogarty interviewed the pilots then returned to Melbourne where the footage aired on prime-time news that night and was later shown on news networks around the world."
+  },
+  {
+   "s": "woodbourne",
+   "p": "related_place",
+   "o": "case",
+   "quote": "After landing at Woodbourne Airport at Blenheim around 3:00 am on 31 December, Fogarty interviewed the pilots then returned to Melbourne where the footage aired on prime-time news that night and was later shown on news networks around the world."
+  },
+  {
+   "s": "woodbourne",
+   "p": "located_in",
+   "o": "blenheim",
+   "quote": "After landing at Woodbourne Airport at Blenheim around 3:00 am on 31 December, Fogarty interviewed the pilots then returned to Melbourne where the footage aired on prime-time news that night and was later shown on news networks around the world."
+  },
+  {
+   "s": "woodbourne",
+   "p": "landing_time",
+   "v": "around 3:00 am on 31 December",
+   "quote": "After landing at Woodbourne Airport at Blenheim around 3:00 am on 31 December, Fogarty interviewed the pilots then returned to Melbourne where the footage aired on prime-time news that night and was later shown on news networks around the world."
+  },
+  {
+   "s": "usa",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Channel 0 producer Leonard Lee took the 31 December footage of the lights to optical physicist Bruce Maccabee in the United States."
+  },
+  {
+   "s": "maryland",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Maccabee worked for the US Naval Surface Weapons Center in Maryland and specialised in laser technology."
+  },
+  {
+   "s": "clarenceriver",
+   "p": "near",
+   "o": "case",
+   "quote": "A TV1 film crew captured an image of a UFO near Waiau Toa / Clarence River on 3 January 1979."
+  },
+  {
+   "s": "argosy21",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "The first sightings were made on 21 December when Vern Powell and Ian Pirie, pilots of a Safe Air Ltd cargo aircraft, observed a series of strange lights around their Armstrong Whitworth AW.660 Argosy while flying from Blenheim to Christchurch."
+  },
+  {
+   "s": "argosy21",
+   "p": "aircraft_type",
+   "v": "Armstrong Whitworth AW.660 Argosy",
+   "quote": "The first sightings were made on 21 December when Vern Powell and Ian Pirie, pilots of a Safe Air Ltd cargo aircraft, observed a series of strange lights around their Armstrong Whitworth AW.660 Argosy while flying from Blenheim to Christchurch."
+  },
+  {
+   "s": "argosy21",
+   "p": "role",
+   "v": "cargo aircraft",
+   "quote": "The first sightings were made on 21 December when Vern Powell and Ian Pirie, pilots of a Safe Air Ltd cargo aircraft, observed a series of strange lights around their Armstrong Whitworth AW.660 Argosy while flying from Blenheim to Christchurch."
+  },
+  {
+   "s": "argosy21",
+   "p": "route",
+   "v": "Blenheim to Christchurch",
+   "quote": "The first sightings were made on 21 December when Vern Powell and Ian Pirie, pilots of a Safe Air Ltd cargo aircraft, observed a series of strange lights around their Armstrong Whitworth AW.660 Argosy while flying from Blenheim to Christchurch."
+  },
+  {
+   "s": "argosy30",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "Late on 30 December 1978, a television crew organised by Melbourne's Channel 0 boarded a Safe Air plane that was making a newspaper run between midnight and 1:00 am from Wellington to Christchurch, with the intention of recording background film for a network show about the sightings of 21 December."
+  },
+  {
+   "s": "argosy30",
+   "p": "aircraft_type",
+   "v": "Argosy",
+   "quote": "Drawing on footage that appeared in the 1982 BBC documentary The Case of the UFOs, Ireland argued that the images filmed from the Safe Air Argosy were consistent with lights from squid fishing vessels operating at sea rather than unidentified aerial objects."
+  },
+  {
+   "s": "argosy30",
+   "p": "purpose",
+   "v": "newspaper run",
+   "quote": "Late on 30 December 1978, a television crew organised by Melbourne's Channel 0 boarded a Safe Air plane that was making a newspaper run between midnight and 1:00 am from Wellington to Christchurch, with the intention of recording background film for a network show about the sightings of 21 December."
+  },
+  {
+   "s": "argosy30",
+   "p": "route",
+   "v": "Wellington to Christchurch",
+   "quote": "Late on 30 December 1978, a television crew organised by Melbourne's Channel 0 boarded a Safe Air plane that was making a newspaper run between midnight and 1:00 am from Wellington to Christchurch, with the intention of recording background film for a network show about the sightings of 21 December."
+  },
+  {
+   "s": "argosy30",
+   "p": "flight_time",
+   "v": "between midnight and 1:00 am",
+   "quote": "Late on 30 December 1978, a television crew organised by Melbourne's Channel 0 boarded a Safe Air plane that was making a newspaper run between midnight and 1:00 am from Wellington to Christchurch, with the intention of recording background film for a network show about the sightings of 21 December."
+  },
+  {
+   "s": "argosy30",
+   "p": "second_departure_time",
+   "v": "2:16 am",
+   "quote": "After delivering its load of newspapers to Christchurch, the cargo plane then took off again for Blenheim at 2:16 am with Fogarty and David Crockett still on board."
+  },
+  {
+   "s": "argosy30",
+   "p": "route",
+   "v": "Christchurch to Blenheim",
+   "quote": "After delivering its load of newspapers to Christchurch, the cargo plane then took off again for Blenheim at 2:16 am with Fogarty and David Crockett still on board."
+  },
+  {
+   "s": "argosy30",
+   "p": "altitude",
+   "v": "about 2,000 ft (610 m)",
+   "quote": "When the aircraft reached about 2,000 ft (610 m), it encountered a line of five small bright lights and what appeared to be a large lighted orb, which fell into station off the wing tip and tracked along with the aircraft for almost a quarter of an hour while being filmed, watched, and described on a tape recording made by the TV film crew."
+  },
+  {
+   "s": "argosy30",
+   "p": "radar",
+   "v": "flight radar operating in ground-mapping mode could only detect objects below the aircraft",
+   "quote": "The flight radar, operating in ground-mapping mode, could only detect objects below the aircraft, and seemed to show a large object that matched the position of the light."
+  },
+  {
+   "s": "argosy30",
+   "p": "landing",
+   "v": "landed at Woodbourne Airport at Blenheim around 3:00 am on 31 December",
+   "quote": "After landing at Woodbourne Airport at Blenheim around 3:00 am on 31 December, Fogarty interviewed the pilots then returned to Melbourne where the footage aired on prime-time news that night and was later shown on news networks around the world."
+  },
+  {
+   "s": "argosy30",
+   "p": "later_history",
+   "v": "bought by Paul Davidson in 1990 when it was about to be scrapped",
+   "quote": "Blenheim filmmaker Paul Davidson bought the Safe Air Argosy in 1990 when it was about to be scrapped."
+  },
+  {
+   "s": "skyhawk",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "A spate of sightings followed the initial reports, and an Air Force Skyhawk was put on stand-by to investigate any positive sightings."
+  },
+  {
+   "s": "skyhawk",
+   "p": "status",
+   "v": "put on stand-by to investigate any positive sightings",
+   "quote": "A spate of sightings followed the initial reports, and an Air Force Skyhawk was put on stand-by to investigate any positive sightings."
+  },
+  {
+   "s": "lights21",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "The first sightings were made on 21 December when Vern Powell and Ian Pirie, pilots of a Safe Air Ltd cargo aircraft, observed a series of strange lights around their Armstrong Whitworth AW.660 Argosy while flying from Blenheim to Christchurch."
+  },
+  {
+   "s": "lights21",
+   "p": "description",
+   "v": "a series of strange lights around the aircraft",
+   "quote": "The first sightings were made on 21 December when Vern Powell and Ian Pirie, pilots of a Safe Air Ltd cargo aircraft, observed a series of strange lights around their Armstrong Whitworth AW.660 Argosy while flying from Blenheim to Christchurch."
+  },
+  {
+   "s": "lights21",
+   "p": "radar",
+   "v": "tracked on radar by air traffic control at Wellington Airport",
+   "quote": "These objects were also tracked on radar by air traffic control at Wellington Airport."
+  },
+  {
+   "s": "light30",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "The Safe Air pilot, Bill Startup, reported that what was described as \"a huge, bright white light with a red tinge to it\" seemed to track his plane, moving above, below, and in front of it."
+  },
+  {
+   "s": "light30",
+   "p": "color",
+   "v": "bright white with a red tinge",
+   "quote": "The Safe Air pilot, Bill Startup, reported that what was described as \"a huge, bright white light with a red tinge to it\" seemed to track his plane, moving above, below, and in front of it."
+  },
+  {
+   "s": "light30",
+   "p": "size",
+   "v": "huge",
+   "quote": "The Safe Air pilot, Bill Startup, reported that what was described as \"a huge, bright white light with a red tinge to it\" seemed to track his plane, moving above, below, and in front of it."
+  },
+  {
+   "s": "light30",
+   "p": "behaviour",
+   "v": "seemed to track the plane, moving above, below, and in front of it",
+   "quote": "The Safe Air pilot, Bill Startup, reported that what was described as \"a huge, bright white light with a red tinge to it\" seemed to track his plane, moving above, below, and in front of it."
+  },
+  {
+   "s": "light30",
+   "p": "filmed",
+   "v": "film showing objects apparently tracking the plane",
+   "quote": "David Crockett shot film showing objects apparently tracking the plane."
+  },
+  {
+   "s": "orb31",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "When the aircraft reached about 2,000 ft (610 m), it encountered a line of five small bright lights and what appeared to be a large lighted orb, which fell into station off the wing tip and tracked along with the aircraft for almost a quarter of an hour while being filmed, watched, and described on a tape recording made by the TV film crew."
+  },
+  {
+   "s": "orb31",
+   "p": "shape",
+   "v": "large lighted orb",
+   "quote": "When the aircraft reached about 2,000 ft (610 m), it encountered a line of five small bright lights and what appeared to be a large lighted orb, which fell into station off the wing tip and tracked along with the aircraft for almost a quarter of an hour while being filmed, watched, and described on a tape recording made by the TV film crew."
+  },
+  {
+   "s": "orb31",
+   "p": "count",
+   "v": "a line of five small bright lights and a large lighted orb",
+   "quote": "When the aircraft reached about 2,000 ft (610 m), it encountered a line of five small bright lights and what appeared to be a large lighted orb, which fell into station off the wing tip and tracked along with the aircraft for almost a quarter of an hour while being filmed, watched, and described on a tape recording made by the TV film crew."
+  },
+  {
+   "s": "orb31",
+   "p": "altitude",
+   "v": "about 2,000 ft (610 m)",
+   "quote": "When the aircraft reached about 2,000 ft (610 m), it encountered a line of five small bright lights and what appeared to be a large lighted orb, which fell into station off the wing tip and tracked along with the aircraft for almost a quarter of an hour while being filmed, watched, and described on a tape recording made by the TV film crew."
+  },
+  {
+   "s": "orb31",
+   "p": "position",
+   "v": "fell into station off the wing tip",
+   "quote": "When the aircraft reached about 2,000 ft (610 m), it encountered a line of five small bright lights and what appeared to be a large lighted orb, which fell into station off the wing tip and tracked along with the aircraft for almost a quarter of an hour while being filmed, watched, and described on a tape recording made by the TV film crew."
+  },
+  {
+   "s": "orb31",
+   "p": "duration",
+   "v": "almost a quarter of an hour",
+   "quote": "When the aircraft reached about 2,000 ft (610 m), it encountered a line of five small bright lights and what appeared to be a large lighted orb, which fell into station off the wing tip and tracked along with the aircraft for almost a quarter of an hour while being filmed, watched, and described on a tape recording made by the TV film crew."
+  },
+  {
+   "s": "orb31",
+   "p": "radar",
+   "v": "flight radar seemed to show a large object that matched the position of the light",
+   "quote": "The flight radar, operating in ground-mapping mode, could only detect objects below the aircraft, and seemed to show a large object that matched the position of the light."
+  },
+  {
+   "s": "orb31",
+   "p": "size",
+   "v": "about 20 metres (66 ft) or more in diameter (Maccabee's calculation)",
+   "quote": "He calculated that the object was extremely bright and about 20 metres (66 ft) or more in diameter, making it unlikely to be plasma or ball lightning."
+  },
+  {
+   "s": "orb31",
+   "p": "brightness",
+   "v": "extremely bright",
+   "quote": "He calculated that the object was extremely bright and about 20 metres (66 ft) or more in diameter, making it unlikely to be plasma or ball lightning."
+  },
+  {
+   "s": "ufo_jan3",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "A TV1 film crew captured an image of a UFO near Waiau Toa / Clarence River on 3 January 1979."
+  },
+  {
+   "s": "ufo_jan3",
+   "p": "date",
+   "v": "1979-01-03",
+   "quote": "A TV1 film crew captured an image of a UFO near Waiau Toa / Clarence River on 3 January 1979."
+  },
+  {
+   "s": "ufo_jan3",
+   "p": "location",
+   "v": "near Waiau Toa / Clarence River",
+   "quote": "A TV1 film crew captured an image of a UFO near Waiau Toa / Clarence River on 3 January 1979."
+  },
+  {
+   "s": "film",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The lights were filmed in colour on 16 mm film by the television crew."
+  },
+  {
+   "s": "film",
+   "p": "format",
+   "v": "colour 16 mm film",
+   "quote": "The lights were filmed in colour on 16 mm film by the television crew."
+  },
+  {
+   "s": "film",
+   "p": "content",
+   "v": "objects apparently tracking the plane",
+   "quote": "David Crockett shot film showing objects apparently tracking the plane."
+  },
+  {
+   "s": "film",
+   "p": "broadcast",
+   "v": "aired on prime-time news in Melbourne on the night of 31 December and later on news networks around the world",
+   "quote": "After landing at Woodbourne Airport at Blenheim around 3:00 am on 31 December, Fogarty interviewed the pilots then returned to Melbourne where the footage aired on prime-time news that night and was later shown on news networks around the world."
+  },
+  {
+   "s": "film",
+   "p": "lenses",
+   "v": "two zoom lenses (16–100 mm and 80–240 mm)",
+   "quote": "Ireland re-examined frames from the 16 mm film recorded by David Crockett (as published by the BBC ), noting that the footage had been captured using two zoom lenses (16–100 mm and 80–240 mm)."
+  },
+  {
+   "s": "film",
+   "p": "assessment",
+   "v": "considered unmeritous by DSIR because of visual discrepancies produced by filming through an argosy window",
+   "quote": "\"Crockett's film now considered unmeritous because of visual discrepancies produced by filming through an argosy window. DSIR have actually duplicated Crockett's results by shining a torch light onto the plane's window\""
+  },
+  {
+   "s": "film",
+   "p": "assessment",
+   "v": "highly distorted",
+   "quote": "\"Both Crockett's and TV1's films are highly distorted\""
+  },
+  {
+   "s": "film",
+   "p": "suggested_fault",
+   "v": "focusing ring of the 16 mm camera was faulty, turning a point of light into a blob",
+   "quote": "There was a suggestion that the focusing ring of the 16 mm camera was faulty, turning a point of light into a blob that appeared to hover and distorting size and distance."
+  },
+  {
+   "s": "film",
+   "p": "analysis",
+   "v": "some frames show multiple parallel rows of discrete lights rather than a single luminous source",
+   "quote": "According to Ireland, some frames show multiple parallel rows of discrete lights rather than a single luminous source."
+  },
+  {
+   "s": "film",
+   "p": "appears_in",
+   "o": "horizon_ep",
+   "quote": "Drawing on footage that appeared in the 1982 BBC documentary The Case of the UFOs, Ireland argued that the images filmed from the Safe Air Argosy were consistent with lights from squid fishing vessels operating at sea rather than unidentified aerial objects."
+  },
+  {
+   "s": "film",
+   "p": "frame_reference",
+   "v": "sequence beginning at frame number 133,786, approximately 37 minutes and 12 seconds into the BBC film",
+   "quote": "The programme has been archived online, and frames corresponding to those reproduced in Ireland's article—such as the image similar to his Figure 2—can be seen in the sequence beginning at frame number 133,786, approximately 37 minutes and 12 seconds into the BBC film."
+  },
+  {
+   "s": "film",
+   "p": "described_as",
+   "v": "a 16mm color movie made with a professional camera",
+   "quote": "documentary evidence which includes the recollections of seven witnesses, two tape recordings made during the sightings, the detection of some unusual ground and airplane radar targets, and a 16mm color movie made with a professional camera\"."
+  },
+  {
+   "s": "tape",
+   "p": "key_document",
+   "o": "case",
+   "quote": "When the aircraft reached about 2,000 ft (610 m), it encountered a line of five small bright lights and what appeared to be a large lighted orb, which fell into station off the wing tip and tracked along with the aircraft for almost a quarter of an hour while being filmed, watched, and described on a tape recording made by the TV film crew."
+  },
+  {
+   "s": "tape",
+   "p": "content",
+   "v": "lights described on a tape recording made by the TV film crew",
+   "quote": "When the aircraft reached about 2,000 ft (610 m), it encountered a line of five small bright lights and what appeared to be a large lighted orb, which fell into station off the wing tip and tracked along with the aircraft for almost a quarter of an hour while being filmed, watched, and described on a tape recording made by the TV film crew."
+  },
+  {
+   "s": "tape",
+   "p": "content",
+   "v": "Fogarty can be heard saying \"let's hope they're friendly\"",
+   "quote": "Fogarty can be heard on the recording saying \"let's hope they're friendly\"."
+  },
+  {
+   "s": "tape",
+   "p": "count",
+   "v": "two tape recordings made during the sightings",
+   "quote": "documentary evidence which includes the recollections of seven witnesses, two tape recordings made during the sightings, the detection of some unusual ground and airplane radar targets, and a 16mm color movie made with a professional camera\"."
+  },
+  {
+   "s": "tv1film",
+   "p": "key_document",
+   "o": "case",
+   "quote": "\"TV1's film proving more interesting as it was a straight shot free of any distortion produced by filming through glass and plastic\""
+  },
+  {
+   "s": "tv1film",
+   "p": "assessment",
+   "v": "proving more interesting as it was a straight shot free of any distortion produced by filming through glass and plastic",
+   "quote": "\"TV1's film proving more interesting as it was a straight shot free of any distortion produced by filming through glass and plastic\""
+  },
+  {
+   "s": "tv1film",
+   "p": "assessment",
+   "v": "highly distorted",
+   "quote": "\"Both Crockett's and TV1's films are highly distorted\""
+  },
+  {
+   "s": "tv1film",
+   "p": "assessment",
+   "v": "aberrations are apparent in the film which is making it difficult to analyse",
+   "quote": "\"However, aberrations are apparent in the film which is making it difficult to analyse. DSIR are now converting the film to computer readout and are hopeful that distortions can be erased.\""
+  },
+  {
+   "s": "dsirbrief",
+   "p": "key_document",
+   "o": "case",
+   "quote": "This contradicts a report of a DSIR briefing to the United Nations in January 1979, where the DSIR stated (presumably after study of the film) that:"
+  },
+  {
+   "s": "dsirbrief",
+   "p": "date",
+   "v": "1979-01",
+   "quote": "This contradicts a report of a DSIR briefing to the United Nations in January 1979, where the DSIR stated (presumably after study of the film) that:"
+  },
+  {
+   "s": "dsirbrief",
+   "p": "recipient",
+   "v": "United Nations",
+   "quote": "This contradicts a report of a DSIR briefing to the United Nations in January 1979, where the DSIR stated (presumably after study of the film) that:"
+  },
+  {
+   "s": "dsirbrief",
+   "p": "statement",
+   "v": "Both Crockett's and TV1's films are highly distorted",
+   "quote": "\"Both Crockett's and TV1's films are highly distorted\""
+  },
+  {
+   "s": "dsirbrief",
+   "p": "statement",
+   "v": "Crockett's film now considered unmeritous because of visual discrepancies produced by filming through an argosy window",
+   "quote": "\"Crockett's film now considered unmeritous because of visual discrepancies produced by filming through an argosy window. DSIR have actually duplicated Crockett's results by shining a torch light onto the plane's window\""
+  },
+  {
+   "s": "investresults",
+   "p": "key_document",
+   "o": "case",
+   "quote": "After the sightings, the Royal New Zealand Air Force, the police, and the Carter Observatory in Wellington cooperated in an investigation, the results of which were lodged in the National Archives in Wellington."
+  },
+  {
+   "s": "investresults",
+   "p": "located_in",
+   "o": "natarch",
+   "quote": "After the sightings, the Royal New Zealand Air Force, the police, and the Carter Observatory in Wellington cooperated in an investigation, the results of which were lodged in the National Archives in Wellington."
+  },
+  {
+   "s": "rnzaf",
+   "p": "authored",
+   "o": "investresults",
+   "quote": "After the sightings, the Royal New Zealand Air Force, the police, and the Carter Observatory in Wellington cooperated in an investigation, the results of which were lodged in the National Archives in Wellington."
+  },
+  {
+   "s": "fogartybook",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Fogarty, Quentin (1982). \"Let's Hope They're Friendly\". Sydney, Australia: Angus & Robertson."
+  },
+  {
+   "s": "fogartybook",
+   "p": "year",
+   "v": "1982",
+   "quote": "Fogarty, Quentin (1982). \"Let's Hope They're Friendly\". Sydney, Australia: Angus & Robertson."
+  },
+  {
+   "s": "startupbook",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Startup, Bill & Illingworth, Neill (1980). The Kaikoura UFOs. Auckland, New Zealand: Hodder and Stoughton."
+  },
+  {
+   "s": "startupbook",
+   "p": "year",
+   "v": "1980",
+   "quote": "Startup, Bill & Illingworth, Neill (1980). The Kaikoura UFOs. Auckland, New Zealand: Hodder and Stoughton."
+  },
+  {
+   "s": "woodbook",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Wood, Rocky (ed). (1979, September). The Kaikoura UFO controversy. Wellington, New Zealand: New Zealand UFO Studies Centre (Special issue no. 4)"
+  },
+  {
+   "s": "woodbook",
+   "p": "date",
+   "v": "1979-09",
+   "quote": "Wood, Rocky (ed). (1979, September). The Kaikoura UFO controversy. Wellington, New Zealand: New Zealand UFO Studies Centre (Special issue no. 4)"
+  },
+  {
+   "s": "woodbook",
+   "p": "issue",
+   "v": "Special issue no. 4",
+   "quote": "Wood, Rocky (ed). (1979, September). The Kaikoura UFO controversy. Wellington, New Zealand: New Zealand UFO Studies Centre (Special issue no. 4)"
+  },
+  {
+   "s": "horizon_ep",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Drawing on footage that appeared in the 1982 BBC documentary The Case of the UFOs, Ireland argued that the images filmed from the Safe Air Argosy were consistent with lights from squid fishing vessels operating at sea rather than unidentified aerial objects."
+  },
+  {
+   "s": "horizon_ep",
+   "p": "year",
+   "v": "1982",
+   "quote": "Drawing on footage that appeared in the 1982 BBC documentary The Case of the UFOs, Ireland argued that the images filmed from the Safe Air Argosy were consistent with lights from squid fishing vessels operating at sea rather than unidentified aerial objects."
+  },
+  {
+   "s": "horizon_ep",
+   "p": "part_of",
+   "o": "horizon",
+   "quote": "The footage analysed by Ireland is publicly available in the 1982 BBC Horizon documentary The Case of the UFOs."
+  },
+  {
+   "s": "horizon_ep",
+   "p": "availability",
+   "v": "archived online",
+   "quote": "The programme has been archived online, and frames corresponding to those reproduced in Ireland's article—such as the image similar to his Figure 2—can be seen in the sequence beginning at frame number 133,786, approximately 37 minutes and 12 seconds into the BBC film."
+  },
+  {
+   "s": "horizon",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The footage analysed by Ireland is publicly available in the 1982 BBC Horizon documentary The Case of the UFOs."
+  },
+  {
+   "s": "crockettdoc",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "David Crockett made a documentary and gave lectures about the sighting."
+  },
+  {
+   "s": "davidsondoc",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "He made a documentary in 2008, focussing on the stories of those on board the Argosy rather than the debate about UFOs."
+  },
+  {
+   "s": "davidsondoc",
+   "p": "year",
+   "v": "2008",
+   "quote": "He made a documentary in 2008, focussing on the stories of those on board the Argosy rather than the debate about UFOs."
+  },
+  {
+   "s": "davidsondoc",
+   "p": "focus",
+   "v": "the stories of those on board the Argosy rather than the debate about UFOs",
+   "quote": "He made a documentary in 2008, focussing on the stories of those on board the Argosy rather than the debate about UFOs."
+  },
+  {
+   "s": "jsearticle",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "A 1987 article in the Journal of Scientific Exploration ( a parapsychology publication) found that the sightings were \"unique among civilian UFO reports because there is a large amount of documentary evidence"
+  },
+  {
+   "s": "jsearticle",
+   "p": "year",
+   "v": "1987",
+   "quote": "A 1987 article in the Journal of Scientific Exploration ( a parapsychology publication) found that the sightings were \"unique among civilian UFO reports because there is a large amount of documentary evidence"
+  },
+  {
+   "s": "jsearticle",
+   "p": "finding",
+   "v": "the sightings were unique among civilian UFO reports because there is a large amount of documentary evidence",
+   "quote": "A 1987 article in the Journal of Scientific Exploration ( a parapsychology publication) found that the sightings were \"unique among civilian UFO reports because there is a large amount of documentary evidence"
+  },
+  {
+   "s": "irelandarticle",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2000, former Department of Scientific and Industrial Research (DSIR) scientist William Ireland published a retrospective analysis of the Kaikōura lights in the journal of the New Zealand Skeptics."
+  },
+  {
+   "s": "irelandarticle",
+   "p": "year",
+   "v": "2000",
+   "quote": "In 2000, former Department of Scientific and Industrial Research (DSIR) scientist William Ireland published a retrospective analysis of the Kaikōura lights in the journal of the New Zealand Skeptics."
+  },
+  {
+   "s": "irelandarticle",
+   "p": "conclusion",
+   "v": "images filmed from the Safe Air Argosy were consistent with lights from squid fishing vessels operating at sea",
+   "quote": "Drawing on footage that appeared in the 1982 BBC documentary The Case of the UFOs, Ireland argued that the images filmed from the Safe Air Argosy were consistent with lights from squid fishing vessels operating at sea rather than unidentified aerial objects."
+  },
+  {
+   "s": "f_lights",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "For many minutes at a time on the flight to Christchurch, unidentified lights were observed by the five people on the flight deck."
+  },
+  {
+   "s": "f_radar",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "These objects were also tracked on radar by air traffic control at Wellington Airport."
+  },
+  {
+   "s": "f_film",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The lights were filmed in colour on 16 mm film by the television crew."
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The first sightings were made on 21 December when Vern Powell and Ian Pirie, pilots of a Safe Air Ltd cargo aircraft, observed a series of strange lights around their Armstrong Whitworth AW.660 Argosy while flying from Blenheim to Christchurch."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "For many minutes at a time on the flight to Christchurch, unidentified lights were observed by the five people on the flight deck."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "After the sightings, the Royal New Zealand Air Force, the police, and the Carter Observatory in Wellington cooperated in an investigation, the results of which were lodged in the National Archives in Wellington."
+  },
+  {
+   "s": "f_sphere",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "When the aircraft reached about 2,000 ft (610 m), it encountered a line of five small bright lights and what appeared to be a large lighted orb, which fell into station off the wing tip and tracked along with the aircraft for almost a quarter of an hour while being filmed, watched, and described on a tape recording made by the TV film crew."
+  },
+  {
+   "s": "f_tracking",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Safe Air pilot, Bill Startup, reported that what was described as \"a huge, bright white light with a red tinge to it\" seemed to track his plane, moving above, below, and in front of it."
+  },
+  {
+   "s": "f_audio",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "When the aircraft reached about 2,000 ft (610 m), it encountered a line of five small bright lights and what appeared to be a large lighted orb, which fell into station off the wing tip and tracked along with the aircraft for almost a quarter of an hour while being filmed, watched, and described on a tape recording made by the TV film crew."
+  },
+  {
+   "s": "x_planet",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Astronomers suggested that the lights recorded on the film looked like Jupiter or Mars, though they admitted that the planets would not show up on radar."
+  },
+  {
+   "s": "x_planet",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The New Zealand Ministry of Defence attributed the sightings to lights from squid boats reflected off clouds, unburnt meteors, or lights from the planet Venus or trains and cars."
+  },
+  {
+   "s": "x_planet",
+   "p": "detail",
+   "v": "astronomers suggested the lights looked like Jupiter or Mars",
+   "quote": "Astronomers suggested that the lights recorded on the film looked like Jupiter or Mars, though they admitted that the planets would not show up on radar."
+  },
+  {
+   "s": "x_ball",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Another suggestion astronomers made was that the lights could be ball lightning or meteorites."
+  },
+  {
+   "s": "x_meteor",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Another suggestion astronomers made was that the lights could be ball lightning or meteorites."
+  },
+  {
+   "s": "x_meteor",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The New Zealand Ministry of Defence attributed the sightings to lights from squid boats reflected off clouds, unburnt meteors, or lights from the planet Venus or trains and cars."
+  },
+  {
+   "s": "x_balloon",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "British astronomer Patrick Moore thought the lights were of terrestrial origin, perhaps a reflection, a balloon, or an aircraft."
+  },
+  {
+   "s": "x_aircraft",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "British astronomer Patrick Moore thought the lights were of terrestrial origin, perhaps a reflection, a balloon, or an aircraft."
+  },
+  {
+   "s": "x_reflection",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "British astronomer Patrick Moore thought the lights were of terrestrial origin, perhaps a reflection, a balloon, or an aircraft."
+  },
+  {
+   "s": "x_refraction",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Meteorologists suggested the weather conditions were conducive to bending a radar signal, and to distorting light from the ground."
+  },
+  {
+   "s": "x_camera",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "There was a suggestion that the focusing ring of the 16 mm camera was faulty, turning a point of light into a blob that appeared to hover and distorting size and distance."
+  },
+  {
+   "s": "x_squid",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The DSIR disputed his calculations, stating that the lights were most likely to be from a fleet of stationary squid fishing boats in the sea below the aircraft."
+  },
+  {
+   "s": "x_squid",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Ireland concluded that the filmed lights were most likely a small group of squid boats operating on the sea surface and viewed from the aircraft under clear night conditions."
+  },
+  {
+   "s": "x_squid",
+   "p": "detail",
+   "v": "squid vessels typically carried two rows of high-powered lamps suspended above the deck to attract squid at night",
+   "quote": "Such vessels typically carried two rows of high-powered lamps suspended above the deck to attract squid at night."
+  },
+  {
+   "s": "x_traffic",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The New Zealand Ministry of Defence attributed the sightings to lights from squid boats reflected off clouds, unburnt meteors, or lights from the planet Venus or trains and cars."
+  }
+ ]
+}

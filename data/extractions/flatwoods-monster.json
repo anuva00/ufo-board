@@ -1,0 +1,1798 @@
+{
+ "slug": "flatwoods-monster",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Flatwoods monster",
+   "aliases": [
+    "Braxton County monster",
+    "Braxie",
+    "Phantom of Flatwoods",
+    "Flatwoods incident",
+    "Green Monster"
+   ],
+   "description": "Alleged humanoid reported by a group of local residents in Flatwoods, West Virginia, on September 12, 1952 after a bright light crossed the night sky."
+  },
+  {
+   "key": "flatwoods",
+   "type": "place",
+   "name": "Flatwoods, West Virginia",
+   "aliases": [
+    "Flatwoods"
+   ],
+   "description": "Town where the sighting was reported"
+  },
+  {
+   "key": "wv",
+   "type": "place",
+   "name": "West Virginia",
+   "description": "US state of the sighting"
+  },
+  {
+   "key": "braxton",
+   "type": "place",
+   "name": "Braxton County",
+   "description": "County that gives the monster one of its names"
+  },
+  {
+   "key": "fisher_farm",
+   "type": "place",
+   "name": "Fisher farm",
+   "aliases": [
+    "property of farmer G. Bailey Fisher"
+   ],
+   "description": "Property of farmer G. Bailey Fisher where the object reportedly landed and the figure was seen"
+  },
+  {
+   "key": "sutton",
+   "type": "place",
+   "name": "Sutton, West Virginia",
+   "aliases": [
+    "Sutton"
+   ],
+   "description": "Town housing the Flatwoods Monster Museum"
+  },
+  {
+   "key": "museum",
+   "type": "place",
+   "name": "Flatwoods Monster Museum",
+   "description": "Museum in Sutton dedicated to the legend"
+  },
+  {
+   "key": "maryland",
+   "type": "place",
+   "name": "Maryland",
+   "description": "One of three states over which a meteor was observed"
+  },
+  {
+   "key": "pennsylvania",
+   "type": "place",
+   "name": "Pennsylvania",
+   "description": "One of three states over which a meteor was observed"
+  },
+  {
+   "key": "pittsburgh",
+   "type": "place",
+   "name": "Pittsburgh, Pennsylvania",
+   "aliases": [
+    "Pittsburgh"
+   ],
+   "description": "City whose newspaper sent a special reporter"
+  },
+  {
+   "key": "nickell",
+   "type": "person",
+   "name": "Joe Nickell",
+   "aliases": [
+    "Nickell"
+   ],
+   "description": "Paranormal investigator of the Committee for Skeptical Inquiry who investigated the case in 2000"
+  },
+  {
+   "key": "edward_may",
+   "type": "person",
+   "name": "Edward May",
+   "description": "One of the May brothers who first reported the bright object"
+  },
+  {
+   "key": "fred_may",
+   "type": "person",
+   "name": "Fred May",
+   "description": "One of the May brothers who first reported the bright object"
+  },
+  {
+   "key": "hyer",
+   "type": "person",
+   "name": "Tommy Hyer",
+   "description": "Friend of the May brothers who reported the bright object"
+  },
+  {
+   "key": "fisher",
+   "type": "person",
+   "name": "G. Bailey Fisher",
+   "description": "Farmer on whose property the object reportedly landed"
+  },
+  {
+   "key": "kathleen_may",
+   "type": "person",
+   "name": "Kathleen May",
+   "aliases": [
+    "Kathleen"
+   ],
+   "description": "Mother of Edward and Fred May who went to the Fisher farm with the group"
+  },
+  {
+   "key": "nunley",
+   "type": "person",
+   "name": "Neil Nunley",
+   "aliases": [
+    "Nunley"
+   ],
+   "description": "Local child in the group; said they saw a red, pulsating light"
+  },
+  {
+   "key": "shaver",
+   "type": "person",
+   "name": "Ronnie Shaver",
+   "description": "Local child in the group"
+  },
+  {
+   "key": "lemon",
+   "type": "person",
+   "name": "Eugene Lemon",
+   "aliases": [
+    "Lemon"
+   ],
+   "description": "West Virginia National Guardsman, Kathleen May's cousin, who shone a flashlight on the figure"
+  },
+  {
+   "key": "barker",
+   "type": "person",
+   "name": "Gray Barker",
+   "aliases": [
+    "Barker"
+   ],
+   "description": "UFO writer who described the figure in a Fate Magazine article and visited Flatwoods"
+  },
+  {
+   "key": "stewart",
+   "type": "person",
+   "name": "A. Lee Stewart Jr.",
+   "description": "Of the Braxton Democrat; claimed to have found skid marks and a gummy deposit"
+  },
+  {
+   "key": "byrne",
+   "type": "person",
+   "name": "Holt Byrne",
+   "description": "Former news editor who described the press attention"
+  },
+  {
+   "key": "sanderson",
+   "type": "person",
+   "name": "Ivan T. Sanderson",
+   "description": "UFO and Fortean writer who visited Flatwoods to investigate"
+  },
+  {
+   "key": "haupt",
+   "type": "person",
+   "name": "Ryan Haupt",
+   "aliases": [
+    "Haupt"
+   ],
+   "description": "Skeptic who commented on the tracks and the nausea"
+  },
+  {
+   "key": "lockard",
+   "type": "person",
+   "name": "Max Lockard",
+   "description": "Local boy who admitted driving his Chevy truck around the site"
+  },
+  {
+   "key": "wvng",
+   "type": "organization",
+   "name": "West Virginia National Guard",
+   "description": "Guard of which Eugene Lemon was a member"
+  },
+  {
+   "key": "fate",
+   "type": "organization",
+   "name": "Fate Magazine",
+   "aliases": [
+    "Fate"
+   ],
+   "description": "Magazine that carried Gray Barker's article"
+  },
+  {
+   "key": "democrat",
+   "type": "organization",
+   "name": "Braxton Democrat",
+   "description": "Organisation A. Lee Stewart Jr. belonged to"
+  },
+  {
+   "key": "csi",
+   "type": "organization",
+   "name": "Committee for Skeptical Inquiry",
+   "description": "Joe Nickell's organisation"
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "aliases": [
+    "the Air Force",
+    "Air Force"
+   ],
+   "description": "Its investigators shared Nickell's conclusions"
+  },
+  {
+   "key": "bureau",
+   "type": "organization",
+   "name": "Braxton County Convention and Visitor's Bureau",
+   "aliases": [
+    "the Bureau"
+   ],
+   "description": "Built five monster-shaped chairs as visitor attractions"
+  },
+  {
+   "key": "history",
+   "type": "organization",
+   "name": "History Channel",
+   "description": "Broadcaster of the 2019 series Project Blue Book"
+  },
+  {
+   "key": "convention",
+   "type": "organization",
+   "name": "Flatwoods Monster Convention",
+   "description": "Event hosted in Flatwoods since 2019"
+  },
+  {
+   "key": "object",
+   "type": "craft",
+   "name": "bright object seen crossing the sky on September 12, 1952",
+   "aliases": [
+    "bright light moving across the night sky"
+   ],
+   "description": "Bright light/object reported crossing the night sky and landing on the Fisher property"
+  },
+  {
+   "key": "redlight",
+   "type": "craft",
+   "name": "red, pulsating light seen on the hilltop",
+   "aliases": [
+    "pulsating red light"
+   ],
+   "description": "Red pulsating light the group reported from the top of the hill"
+  },
+  {
+   "key": "truck",
+   "type": "vehicle",
+   "name": "Max Lockard's Chevy truck",
+   "aliases": [
+    "Chevy truck"
+   ],
+   "description": "Truck Lockard admitted driving around the site"
+  },
+  {
+   "key": "article",
+   "type": "work",
+   "name": "Gray Barker's Fate Magazine article",
+   "description": "Article describing the figure from tape-recorded witness interviews"
+  },
+  {
+   "key": "tapes",
+   "type": "document",
+   "name": "Tape-recorded interviews with the witnesses",
+   "description": "Recordings on which Barker's description was based"
+  },
+  {
+   "key": "fallout",
+   "type": "work",
+   "name": "Fallout 76",
+   "description": "Video game containing references to the legend"
+  },
+  {
+   "key": "golf",
+   "type": "work",
+   "name": "Everybody's Golf 4",
+   "description": "Video game containing references to the legend"
+  },
+  {
+   "key": "zelda",
+   "type": "work",
+   "name": "Legend of Zelda (2000)",
+   "description": "Video game containing references to the legend"
+  },
+  {
+   "key": "pbb_series",
+   "type": "work",
+   "name": "Project Blue Book (2019 History Channel series)",
+   "aliases": [
+    "Project Blue Book"
+   ],
+   "description": "Television series whose second episode is based on the incident"
+  },
+  {
+   "key": "pbb_episode",
+   "type": "work",
+   "name": "The Flatwoods Monster (Project Blue Book episode)",
+   "aliases": [
+    "The Flatwoods Monster"
+   ],
+   "description": "Second episode of the 2019 series, based on the Flatwoods incident"
+  },
+  {
+   "key": "dover",
+   "type": "case",
+   "name": "Dover Demon",
+   "description": "Another alleged humanoid sighting, proposed to be a misidentified snowy owl"
+  },
+  {
+   "key": "kelly",
+   "type": "case",
+   "name": "Kelly–Hopkinsville encounter",
+   "description": "Another alleged humanoid sighting, proposed to be misidentified great horned owls"
+  },
+  {
+   "key": "mothman",
+   "type": "case",
+   "name": "Mothman",
+   "description": "Another alleged humanoid sighting in West Virginia, proposed to be a misidentified barred owl"
+  },
+  {
+   "key": "owlman",
+   "type": "case",
+   "name": "Owlman",
+   "description": "Listed under See also"
+  },
+  {
+   "key": "grafton",
+   "type": "case",
+   "name": "Grafton monster",
+   "description": "Listed under See also"
+  },
+  {
+   "key": "f_occ",
+   "type": "feature",
+   "name": "occupants-reported"
+  },
+  {
+   "key": "f_land",
+   "type": "feature",
+   "name": "landing-reported"
+  },
+  {
+   "key": "f_traces",
+   "type": "feature",
+   "name": "physical-traces"
+  },
+  {
+   "key": "f_debris",
+   "type": "feature",
+   "name": "debris-or-material"
+  },
+  {
+   "key": "f_physio",
+   "type": "feature",
+   "name": "physiological-effects"
+  },
+  {
+   "key": "f_sound",
+   "type": "feature",
+   "name": "sound-reported"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses"
+  },
+  {
+   "key": "f_child",
+   "type": "feature",
+   "name": "child-witnesses"
+  },
+  {
+   "key": "f_mil",
+   "type": "feature",
+   "name": "military-witnesses"
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation"
+  },
+  {
+   "key": "f_odor",
+   "type": "feature",
+   "name": "other:odor-reported"
+  },
+  {
+   "key": "x_meteor",
+   "type": "explanation",
+   "name": "meteor-or-fireball"
+  },
+  {
+   "key": "x_owl",
+   "type": "explanation",
+   "name": "bird-or-animal"
+  },
+  {
+   "key": "x_misp",
+   "type": "explanation",
+   "name": "misperception"
+  },
+  {
+   "key": "x_psych",
+   "type": "explanation",
+   "name": "psychological"
+  },
+  {
+   "key": "x_beacon",
+   "type": "explanation",
+   "name": "other:aircraft navigation or hazard beacon"
+  },
+  {
+   "key": "x_truck",
+   "type": "explanation",
+   "name": "other:tracks left by a local truck"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1952-09-12",
+   "quote": "The Flatwoods monster, also known as the Braxton County monster, Braxie, or the Phantom of Flatwoods, is an alleged humanoid claimed to have been seen by a group of local residents in Flatwoods, West Virginia, on September 12, 1952 following the reported appearance of a bright light moving across the night sky."
+  },
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1952-09-12",
+   "quote": "At 7:15 p.m. on September 12, 1952, in Flatwoods, brothers Edward and Fred May, accompanied by their friend Tommy Hyer, reported seeing a bright object cross the sky before landing on the property of farmer G. Bailey Fisher."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "7:15 p.m.",
+   "quote": "At 7:15 p.m. on September 12, 1952, in Flatwoods, brothers Edward and Fred May, accompanied by their friend Tommy Hyer, reported seeing a bright object cross the sky before landing on the property of farmer G. Bailey Fisher."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "The Flatwoods monster, also known as the Braxton County monster, Braxie, or the Phantom of Flatwoods, is an alleged humanoid claimed to have been seen by a group of local residents in Flatwoods, West Virginia, on September 12, 1952 following the reported appearance of a bright light moving across the night sky."
+  },
+  {
+   "s": "case",
+   "p": "also_known_as",
+   "v": "Braxton County monster",
+   "quote": "The Flatwoods monster, also known as the Braxton County monster, Braxie, or the Phantom of Flatwoods, is an alleged humanoid claimed to have been seen by a group of local residents in Flatwoods, West Virginia, on September 12, 1952 following the reported appearance of a bright light moving across the night sky."
+  },
+  {
+   "s": "case",
+   "p": "also_known_as",
+   "v": "Braxie",
+   "quote": "The Flatwoods monster, also known as the Braxton County monster, Braxie, or the Phantom of Flatwoods, is an alleged humanoid claimed to have been seen by a group of local residents in Flatwoods, West Virginia, on September 12, 1952 following the reported appearance of a bright light moving across the night sky."
+  },
+  {
+   "s": "case",
+   "p": "also_known_as",
+   "v": "Phantom of Flatwoods",
+   "quote": "The Flatwoods monster, also known as the Braxton County monster, Braxie, or the Phantom of Flatwoods, is an alleged humanoid claimed to have been seen by a group of local residents in Flatwoods, West Virginia, on September 12, 1952 following the reported appearance of a bright light moving across the night sky."
+  },
+  {
+   "s": "case",
+   "p": "description",
+   "v": "alleged humanoid claimed to have been seen by a group of local residents",
+   "quote": "The Flatwoods monster, also known as the Braxton County monster, Braxie, or the Phantom of Flatwoods, is an alleged humanoid claimed to have been seen by a group of local residents in Flatwoods, West Virginia, on September 12, 1952 following the reported appearance of a bright light moving across the night sky."
+  },
+  {
+   "s": "case",
+   "p": "date_discrepancy",
+   "v": "The Explanations section gives the sighting date as July 12, 1952",
+   "quote": "On the night of the sighting on July 12, 1952, a meteor had been observed across three states—Maryland, Pennsylvania, and West Virginia."
+  },
+  {
+   "s": "case",
+   "p": "date_discrepancy",
+   "v": "Nickell passage dates the witnesses' bright light to July 12",
+   "quote": "After investigating the case in 2000, Joe Nickell of the Committee for Skeptical Inquiry concluded that the bright light in the sky reported by the witnesses on July 12 was most likely a meteor"
+  },
+  {
+   "s": "case",
+   "p": "sequence_of_events",
+   "v": "the boys returned home and told their mother, then the group travelled to the Fisher farm to investigate",
+   "quote": "The group then travelled to the Fisher farm to investigate, accompanied by local children Neil Nunley and Ronnie Shaver, as well as Kathleen's cousin, West Virginia National Guardsman Eugene Lemon."
+  },
+  {
+   "s": "case",
+   "p": "sighting_location",
+   "v": "top of a hill on the Fisher farm",
+   "quote": "The group reached the top of a hill, where Nunley said they saw a red, pulsating light."
+  },
+  {
+   "s": "case",
+   "p": "descriptions_varied",
+   "v": "Descriptions of the being varied",
+   "quote": "Descriptions of the being varied."
+  },
+  {
+   "s": "case",
+   "p": "being_description",
+   "v": "tall man-like figure with a round, red face surrounded by a pointed, hood-like shape",
+   "quote": "Lemon said he aimed a flashlight in that direction and momentarily saw a tall \"man-like figure with a round, red face surrounded by a pointed, hood-like shape\"."
+  },
+  {
+   "s": "case",
+   "p": "being_height",
+   "v": "about 10 feet (3 m)",
+   "quote": "The alleged humanoid was said to have stood at a height of about 10 feet (3 m)."
+  },
+  {
+   "s": "case",
+   "p": "being_face_color",
+   "v": "blood-red",
+   "quote": "A large pointed \"Spade-like shape\" surrounded a round, blood-red face, and eyelike features emitted a greenish-orange light."
+  },
+  {
+   "s": "case",
+   "p": "being_face_shape",
+   "v": "round",
+   "quote": "A large pointed \"Spade-like shape\" surrounded a round, blood-red face, and eyelike features emitted a greenish-orange light."
+  },
+  {
+   "s": "case",
+   "p": "being_head_shape",
+   "v": "large pointed spade-like shape surrounding the face",
+   "quote": "A large pointed \"Spade-like shape\" surrounded a round, blood-red face, and eyelike features emitted a greenish-orange light."
+  },
+  {
+   "s": "case",
+   "p": "being_eyes",
+   "v": "eyelike features emitted a greenish-orange light",
+   "quote": "A large pointed \"Spade-like shape\" surrounded a round, blood-red face, and eyelike features emitted a greenish-orange light."
+  },
+  {
+   "s": "case",
+   "p": "being_body_color",
+   "v": "either dark black or green",
+   "quote": "The body was purportedly either dark black or green."
+  },
+  {
+   "s": "case",
+   "p": "being_hands",
+   "v": "small, claw-like hands",
+   "quote": "The witnesses further claimed that the figure possessed \"small, claw-like hands\", clothing-like folds, and \"a head that resembled the ace of spades\"."
+  },
+  {
+   "s": "case",
+   "p": "being_clothing",
+   "v": "clothing-like folds",
+   "quote": "The witnesses further claimed that the figure possessed \"small, claw-like hands\", clothing-like folds, and \"a head that resembled the ace of spades\"."
+  },
+  {
+   "s": "case",
+   "p": "being_head_shape",
+   "v": "a head that resembled the ace of spades",
+   "quote": "The witnesses further claimed that the figure possessed \"small, claw-like hands\", clothing-like folds, and \"a head that resembled the ace of spades\"."
+  },
+  {
+   "s": "case",
+   "p": "being_clothing",
+   "v": "pleated green skirt",
+   "quote": "leading researchers to conclude that foliage beneath the owl may have created the illusion of the pleated green skirt described by the onlookers present."
+  },
+  {
+   "s": "case",
+   "p": "being_hands",
+   "v": "May reported small, claw-like hands which extended in front of it",
+   "quote": "Researchers also concluded that the witnesses' inability to agree on whether there were arms, combined with May's report of it having \"small, claw-like hands\" which \"extended in front of it\", also correlated with the description of a barn owl with its talons gripping a tree branch."
+  },
+  {
+   "s": "case",
+   "p": "witness_disagreement",
+   "v": "witnesses could not agree on whether there were arms",
+   "quote": "Researchers also concluded that the witnesses' inability to agree on whether there were arms, combined with May's report of it having \"small, claw-like hands\" which \"extended in front of it\", also correlated with the description of a barn owl with its talons gripping a tree branch."
+  },
+  {
+   "s": "case",
+   "p": "sound",
+   "v": "hissing sound",
+   "quote": "According to the story, when the alleged entity made a hissing sound and \"glided toward the group\", Lemon screamed in fright and dropped his flashlight, causing all the witnesses to run away."
+  },
+  {
+   "s": "case",
+   "p": "being_movement",
+   "v": "glided toward the group",
+   "quote": "According to the story, when the alleged entity made a hissing sound and \"glided toward the group\", Lemon screamed in fright and dropped his flashlight, causing all the witnesses to run away."
+  },
+  {
+   "s": "case",
+   "p": "witness_reaction",
+   "v": "Lemon screamed in fright and dropped his flashlight, and all the witnesses ran away",
+   "quote": "According to the story, when the alleged entity made a hissing sound and \"glided toward the group\", Lemon screamed in fright and dropped his flashlight, causing all the witnesses to run away."
+  },
+  {
+   "s": "case",
+   "p": "odor",
+   "v": "pungent mist",
+   "quote": "The group said they had smelled a \"pungent mist\", and some later reported nausea."
+  },
+  {
+   "s": "case",
+   "p": "physiological_effect",
+   "v": "some later reported nausea",
+   "quote": "The group said they had smelled a \"pungent mist\", and some later reported nausea."
+  },
+  {
+   "s": "case",
+   "p": "prior_report",
+   "v": "local sheriff and a deputy had been investigating reports of a crashed aircraft in the area",
+   "quote": "The local sheriff and a deputy had been investigating reports of a crashed aircraft in the area."
+  },
+  {
+   "s": "case",
+   "p": "sheriff_search",
+   "v": "sheriff and deputy searched the site but saw, heard and smelled nothing",
+   "quote": "They searched the site where the being was purportedly seen, but \"saw, heard and smelled nothing\"."
+  },
+  {
+   "s": "case",
+   "p": "trace_evidence",
+   "v": "skid marks in the field",
+   "quote": "According to Barker's account, A. Lee Stewart Jr. of the Braxton Democrat claimed to have discovered \"skid marks\" in the field and an \"odd, gummy deposit\" the following day."
+  },
+  {
+   "s": "case",
+   "p": "trace_evidence",
+   "v": "odd, gummy deposit",
+   "quote": "According to Barker's account, A. Lee Stewart Jr. of the Braxton Democrat claimed to have discovered \"skid marks\" in the field and an \"odd, gummy deposit\" the following day."
+  },
+  {
+   "s": "case",
+   "p": "trace_found_when",
+   "v": "the following day",
+   "quote": "According to Barker's account, A. Lee Stewart Jr. of the Braxton Democrat claimed to have discovered \"skid marks\" in the field and an \"odd, gummy deposit\" the following day."
+  },
+  {
+   "s": "case",
+   "p": "trace_evidence",
+   "v": "tracks, oily residue, and bits of a rubbery substance",
+   "quote": "\"paranormal investigators concluded that the tracks, oily residue, and bits of a rubbery substance must have been left by the creature and not the truck\"."
+  },
+  {
+   "s": "case",
+   "p": "trace_interpretation",
+   "v": "cited by UFO enthusiast groups as evidence of a \"saucer\" landing",
+   "quote": "These discoveries were subsequently cited by UFO enthusiast groups as evidence of a \"saucer\" landing."
+  },
+  {
+   "s": "case",
+   "p": "trace_interpretation",
+   "v": "paranormal investigators concluded the tracks and residue were left by the creature and not the truck",
+   "quote": "\"paranormal investigators concluded that the tracks, oily residue, and bits of a rubbery substance must have been left by the creature and not the truck\"."
+  },
+  {
+   "s": "case",
+   "p": "public_attention",
+   "v": "received significant public attention",
+   "quote": "The reported sighting received significant public attention."
+  },
+  {
+   "s": "case",
+   "p": "media_coverage",
+   "v": "newspaper stories carried throughout the country, radio broadcasts on large networks, hundreds of phone calls from all parts of the country",
+   "quote": "According to former news editor Holt Byrne, \"newspaper stories were carried throughout the country, radio broadcasts were carried on large networks, and hundreds of phone calls were received from all parts of the country\"."
+  },
+  {
+   "s": "case",
+   "p": "press_ranking",
+   "v": "national press services rated the story No. 11 for the year",
+   "quote": "The national press services rated the story \"No. 11 for the year\", while a Pittsburgh newspaper sent a special reporter to cover the sighting."
+  },
+  {
+   "s": "case",
+   "p": "media_coverage",
+   "v": "a Pittsburgh newspaper sent a special reporter to cover the sighting",
+   "quote": "The national press services rated the story \"No. 11 for the year\", while a Pittsburgh newspaper sent a special reporter to cover the sighting."
+  },
+  {
+   "s": "case",
+   "p": "meteor_observation",
+   "v": "a meteor was observed across three states: Maryland, Pennsylvania, and West Virginia",
+   "quote": "On the night of the sighting on July 12, 1952, a meteor had been observed across three states—Maryland, Pennsylvania, and West Virginia."
+  },
+  {
+   "s": "case",
+   "p": "aircraft_beacons",
+   "v": "three flashing red aircraft beacons were visible from the area of the sightings",
+   "quote": "According to Nickell, three flashing red aircraft beacons were also visible from the area of the sightings, which could account for descriptions of a pulsating red light and accompanying red tint on the face of the supposed being."
+  },
+  {
+   "s": "case",
+   "p": "explanation_detail",
+   "v": "barn owl perched in a tree whose shadows made it appear as a large humanoid figure",
+   "quote": "In 2000, paranormal investigator Joe Nickell suggested that the light was a meteor, while the creature may have been a barn owl perched in a tree whose shadows made it appear as a large humanoid figure."
+  },
+  {
+   "s": "case",
+   "p": "explanation_detail",
+   "v": "shape, movement and sounds consistent with the silhouette, flight pattern and call of a startled barn owl perched on a tree limb",
+   "quote": "Nickell concluded that the shape, movement, and sounds reported by witnesses were also consistent with the silhouette, flight pattern, and call of a startled barn owl perched on a tree limb"
+  },
+  {
+   "s": "case",
+   "p": "explanation_detail",
+   "v": "foliage beneath the owl may have created the illusion of the pleated green skirt",
+   "quote": "leading researchers to conclude that foliage beneath the owl may have created the illusion of the pleated green skirt described by the onlookers present."
+  },
+  {
+   "s": "case",
+   "p": "explanation_detail",
+   "v": "claw-like hands correlated with a barn owl with its talons gripping a tree branch",
+   "quote": "Researchers also concluded that the witnesses' inability to agree on whether there were arms, combined with May's report of it having \"small, claw-like hands\" which \"extended in front of it\", also correlated with the description of a barn owl with its talons gripping a tree branch."
+  },
+  {
+   "s": "case",
+   "p": "explanation_detail",
+   "v": "beacons could account for the pulsating red light and the red tint on the face of the supposed being",
+   "quote": "According to Nickell, three flashing red aircraft beacons were also visible from the area of the sightings, which could account for descriptions of a pulsating red light and accompanying red tint on the face of the supposed being."
+  },
+  {
+   "s": "case",
+   "p": "explanation_detail",
+   "v": "nausea a symptom consistent with hysteria and over-exertion",
+   "quote": "Haupt explains the nausea reported by some of the witnesses as a symptom \"consistent with hysteria and over-exertion\"."
+  },
+  {
+   "s": "case",
+   "p": "investigation_year",
+   "v": "2000",
+   "quote": "After investigating the case in 2000, Joe Nickell of the Committee for Skeptical Inquiry concluded that the bright light in the sky reported by the witnesses on July 12 was most likely a meteor"
+  },
+  {
+   "s": "case",
+   "p": "legacy",
+   "v": "Officials in Flatwoods erected a welcome sign designating the town \"Home of the Green Monster\"",
+   "quote": "Officials in Flatwoods erected a welcome sign which designated the town as \"Home of the Green Monster\"."
+  },
+  {
+   "s": "case",
+   "p": "legacy",
+   "v": "a series of five tall chairs in the shape of the monster built as landmarks and visitor attractions",
+   "quote": "The Braxton County Convention and Visitor's Bureau also built a series of five tall chairs in the shape of the monster to serve as landmarks and visitor attractions."
+  },
+  {
+   "s": "case",
+   "p": "legacy",
+   "v": "legend inspired media beyond West Virginia",
+   "quote": "The legend of the Flatwoods monster has also inspired media beyond West Virginia."
+  },
+  {
+   "s": "case",
+   "p": "legacy",
+   "v": "In 2026, Braxie was featured on a new West Virginia state license plate",
+   "quote": "In 2026, Braxie was featured on a new West Virginia state license plate."
+  },
+  {
+   "s": "case",
+   "p": "legacy",
+   "v": "Flatwoods has hosted the Flatwoods Monster Convention since 2019",
+   "quote": "Since 2019, Flatwoods has hosted the Flatwoods Monster Convention."
+  },
+  {
+   "s": "flatwoods",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Flatwoods monster, also known as the Braxton County monster, Braxie, or the Phantom of Flatwoods, is an alleged humanoid claimed to have been seen by a group of local residents in Flatwoods, West Virginia, on September 12, 1952 following the reported appearance of a bright light moving across the night sky."
+  },
+  {
+   "s": "flatwoods",
+   "p": "located_in",
+   "o": "wv",
+   "quote": "The Flatwoods monster, also known as the Braxton County monster, Braxie, or the Phantom of Flatwoods, is an alleged humanoid claimed to have been seen by a group of local residents in Flatwoods, West Virginia, on September 12, 1952 following the reported appearance of a bright light moving across the night sky."
+  },
+  {
+   "s": "wv",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Flatwoods monster, also known as the Braxton County monster, Braxie, or the Phantom of Flatwoods, is an alleged humanoid claimed to have been seen by a group of local residents in Flatwoods, West Virginia, on September 12, 1952 following the reported appearance of a bright light moving across the night sky."
+  },
+  {
+   "s": "wv",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On the night of the sighting on July 12, 1952, a meteor had been observed across three states—Maryland, Pennsylvania, and West Virginia."
+  },
+  {
+   "s": "braxton",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Flatwoods monster, also known as the Braxton County monster, Braxie, or the Phantom of Flatwoods, is an alleged humanoid claimed to have been seen by a group of local residents in Flatwoods, West Virginia, on September 12, 1952 following the reported appearance of a bright light moving across the night sky."
+  },
+  {
+   "s": "fisher_farm",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The group then travelled to the Fisher farm to investigate, accompanied by local children Neil Nunley and Ronnie Shaver, as well as Kathleen's cousin, West Virginia National Guardsman Eugene Lemon."
+  },
+  {
+   "s": "fisher_farm",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "At 7:15 p.m. on September 12, 1952, in Flatwoods, brothers Edward and Fred May, accompanied by their friend Tommy Hyer, reported seeing a bright object cross the sky before landing on the property of farmer G. Bailey Fisher."
+  },
+  {
+   "s": "fisher_farm",
+   "p": "located_in",
+   "o": "flatwoods",
+   "quote": "At 7:15 p.m. on September 12, 1952, in Flatwoods, brothers Edward and Fred May, accompanied by their friend Tommy Hyer, reported seeing a bright object cross the sky before landing on the property of farmer G. Bailey Fisher."
+  },
+  {
+   "s": "fisher",
+   "p": "owned",
+   "o": "fisher_farm",
+   "quote": "At 7:15 p.m. on September 12, 1952, in Flatwoods, brothers Edward and Fred May, accompanied by their friend Tommy Hyer, reported seeing a bright object cross the sky before landing on the property of farmer G. Bailey Fisher."
+  },
+  {
+   "s": "museum",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Flatwoods Monster Museum in Sutton, West Virginia, is dedicated to the legend."
+  },
+  {
+   "s": "museum",
+   "p": "located_in",
+   "o": "sutton",
+   "quote": "The Flatwoods Monster Museum in Sutton, West Virginia, is dedicated to the legend."
+  },
+  {
+   "s": "museum",
+   "p": "opening_hours",
+   "v": "9:00 a.m. to 5:00 p.m. Tuesday through Friday; 10:00 a.m. to 4:00 p.m. on weekends",
+   "quote": "The Flatwoods Monster Museum is open from 9:00 a.m. to 5:00 p.m. Tuesday through Friday, and 10:00 a.m. to 4:00 p.m. on weekends."
+  },
+  {
+   "s": "museum",
+   "p": "admission",
+   "v": "free",
+   "quote": "The museum also offers free admission to its visitors."
+  },
+  {
+   "s": "sutton",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Flatwoods Monster Museum in Sutton, West Virginia, is dedicated to the legend."
+  },
+  {
+   "s": "sutton",
+   "p": "located_in",
+   "o": "wv",
+   "quote": "The Flatwoods Monster Museum in Sutton, West Virginia, is dedicated to the legend."
+  },
+  {
+   "s": "maryland",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On the night of the sighting on July 12, 1952, a meteor had been observed across three states—Maryland, Pennsylvania, and West Virginia."
+  },
+  {
+   "s": "pennsylvania",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On the night of the sighting on July 12, 1952, a meteor had been observed across three states—Maryland, Pennsylvania, and West Virginia."
+  },
+  {
+   "s": "pittsburgh",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The national press services rated the story \"No. 11 for the year\", while a Pittsburgh newspaper sent a special reporter to cover the sighting."
+  },
+  {
+   "s": "nickell",
+   "p": "investigator",
+   "o": "case",
+   "quote": "After investigating the case in 2000, Joe Nickell of the Committee for Skeptical Inquiry concluded that the bright light in the sky reported by the witnesses on July 12 was most likely a meteor"
+  },
+  {
+   "s": "nickell",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "In 2000, paranormal investigator Joe Nickell suggested that the light was a meteor, while the creature may have been a barn owl perched in a tree whose shadows made it appear as a large humanoid figure."
+  },
+  {
+   "s": "nickell",
+   "p": "occupation",
+   "v": "paranormal investigator",
+   "quote": "In 2000, paranormal investigator Joe Nickell suggested that the light was a meteor, while the creature may have been a barn owl perched in a tree whose shadows made it appear as a large humanoid figure."
+  },
+  {
+   "s": "nickell",
+   "p": "member_of",
+   "o": "csi",
+   "quote": "After investigating the case in 2000, Joe Nickell of the Committee for Skeptical Inquiry concluded that the bright light in the sky reported by the witnesses on July 12 was most likely a meteor"
+  },
+  {
+   "s": "nickell",
+   "p": "investigation_year",
+   "v": "2000",
+   "quote": "After investigating the case in 2000, Joe Nickell of the Committee for Skeptical Inquiry concluded that the bright light in the sky reported by the witnesses on July 12 was most likely a meteor"
+  },
+  {
+   "s": "nickell",
+   "p": "proposed",
+   "o": "x_meteor",
+   "quote": "In 2000, paranormal investigator Joe Nickell suggested that the light was a meteor, while the creature may have been a barn owl perched in a tree whose shadows made it appear as a large humanoid figure."
+  },
+  {
+   "s": "nickell",
+   "p": "proposed",
+   "o": "x_meteor",
+   "quote": "After investigating the case in 2000, Joe Nickell of the Committee for Skeptical Inquiry concluded that the bright light in the sky reported by the witnesses on July 12 was most likely a meteor"
+  },
+  {
+   "s": "nickell",
+   "p": "proposed",
+   "o": "x_owl",
+   "quote": "In 2000, paranormal investigator Joe Nickell suggested that the light was a meteor, while the creature may have been a barn owl perched in a tree whose shadows made it appear as a large humanoid figure."
+  },
+  {
+   "s": "nickell",
+   "p": "proposed",
+   "o": "x_owl",
+   "quote": "Nickell concluded that the shape, movement, and sounds reported by witnesses were also consistent with the silhouette, flight pattern, and call of a startled barn owl perched on a tree limb"
+  },
+  {
+   "s": "nickell",
+   "p": "proposed",
+   "o": "x_beacon",
+   "quote": "that the pulsating red light was likely an aircraft navigation or hazard beacon, and that various aspects of the being described by witnesses resembled the anatomical features of an owl."
+  },
+  {
+   "s": "nickell",
+   "p": "proposed",
+   "o": "x_misp",
+   "quote": "Nickell suggested that the witnesses' perceptions were distorted by their heightened state of anxiety."
+  },
+  {
+   "s": "nickell",
+   "p": "proposed",
+   "o": "x_psych",
+   "quote": "Nickell suggested that the witnesses' perceptions were distorted by their heightened state of anxiety."
+  },
+  {
+   "s": "nickell",
+   "p": "statement",
+   "v": "the witnesses' perceptions were distorted by their heightened state of anxiety",
+   "quote": "Nickell suggested that the witnesses' perceptions were distorted by their heightened state of anxiety."
+  },
+  {
+   "s": "nickell",
+   "p": "statement",
+   "v": "three flashing red aircraft beacons were visible from the area of the sightings",
+   "quote": "According to Nickell, three flashing red aircraft beacons were also visible from the area of the sightings, which could account for descriptions of a pulsating red light and accompanying red tint on the face of the supposed being."
+  },
+  {
+   "s": "edward_may",
+   "p": "witness",
+   "o": "case",
+   "quote": "At 7:15 p.m. on September 12, 1952, in Flatwoods, brothers Edward and Fred May, accompanied by their friend Tommy Hyer, reported seeing a bright object cross the sky before landing on the property of farmer G. Bailey Fisher."
+  },
+  {
+   "s": "fred_may",
+   "p": "witness",
+   "o": "case",
+   "quote": "At 7:15 p.m. on September 12, 1952, in Flatwoods, brothers Edward and Fred May, accompanied by their friend Tommy Hyer, reported seeing a bright object cross the sky before landing on the property of farmer G. Bailey Fisher."
+  },
+  {
+   "s": "hyer",
+   "p": "witness",
+   "o": "case",
+   "quote": "At 7:15 p.m. on September 12, 1952, in Flatwoods, brothers Edward and Fred May, accompanied by their friend Tommy Hyer, reported seeing a bright object cross the sky before landing on the property of farmer G. Bailey Fisher."
+  },
+  {
+   "s": "edward_may",
+   "p": "relative_of",
+   "o": "fred_may",
+   "quote": "At 7:15 p.m. on September 12, 1952, in Flatwoods, brothers Edward and Fred May, accompanied by their friend Tommy Hyer, reported seeing a bright object cross the sky before landing on the property of farmer G. Bailey Fisher."
+  },
+  {
+   "s": "edward_may",
+   "p": "relationship",
+   "v": "brother of Fred May",
+   "quote": "At 7:15 p.m. on September 12, 1952, in Flatwoods, brothers Edward and Fred May, accompanied by their friend Tommy Hyer, reported seeing a bright object cross the sky before landing on the property of farmer G. Bailey Fisher."
+  },
+  {
+   "s": "fred_may",
+   "p": "relationship",
+   "v": "brother of Edward May",
+   "quote": "At 7:15 p.m. on September 12, 1952, in Flatwoods, brothers Edward and Fred May, accompanied by their friend Tommy Hyer, reported seeing a bright object cross the sky before landing on the property of farmer G. Bailey Fisher."
+  },
+  {
+   "s": "hyer",
+   "p": "friend_of",
+   "o": "edward_may",
+   "quote": "At 7:15 p.m. on September 12, 1952, in Flatwoods, brothers Edward and Fred May, accompanied by their friend Tommy Hyer, reported seeing a bright object cross the sky before landing on the property of farmer G. Bailey Fisher."
+  },
+  {
+   "s": "hyer",
+   "p": "friend_of",
+   "o": "fred_may",
+   "quote": "At 7:15 p.m. on September 12, 1952, in Flatwoods, brothers Edward and Fred May, accompanied by their friend Tommy Hyer, reported seeing a bright object cross the sky before landing on the property of farmer G. Bailey Fisher."
+  },
+  {
+   "s": "hyer",
+   "p": "relationship",
+   "v": "friend of the May brothers",
+   "quote": "At 7:15 p.m. on September 12, 1952, in Flatwoods, brothers Edward and Fred May, accompanied by their friend Tommy Hyer, reported seeing a bright object cross the sky before landing on the property of farmer G. Bailey Fisher."
+  },
+  {
+   "s": "edward_may",
+   "p": "described",
+   "o": "object",
+   "quote": "At 7:15 p.m. on September 12, 1952, in Flatwoods, brothers Edward and Fred May, accompanied by their friend Tommy Hyer, reported seeing a bright object cross the sky before landing on the property of farmer G. Bailey Fisher."
+  },
+  {
+   "s": "fred_may",
+   "p": "described",
+   "o": "object",
+   "quote": "At 7:15 p.m. on September 12, 1952, in Flatwoods, brothers Edward and Fred May, accompanied by their friend Tommy Hyer, reported seeing a bright object cross the sky before landing on the property of farmer G. Bailey Fisher."
+  },
+  {
+   "s": "hyer",
+   "p": "described",
+   "o": "object",
+   "quote": "At 7:15 p.m. on September 12, 1952, in Flatwoods, brothers Edward and Fred May, accompanied by their friend Tommy Hyer, reported seeing a bright object cross the sky before landing on the property of farmer G. Bailey Fisher."
+  },
+  {
+   "s": "kathleen_may",
+   "p": "relative_of",
+   "o": "edward_may",
+   "quote": "The boys returned home and told their mother, Kathleen May."
+  },
+  {
+   "s": "kathleen_may",
+   "p": "relative_of",
+   "o": "fred_may",
+   "quote": "The boys returned home and told their mother, Kathleen May."
+  },
+  {
+   "s": "kathleen_may",
+   "p": "relationship",
+   "v": "mother of the boys",
+   "quote": "The boys returned home and told their mother, Kathleen May."
+  },
+  {
+   "s": "kathleen_may",
+   "p": "witness",
+   "o": "case",
+   "quote": "The group then travelled to the Fisher farm to investigate, accompanied by local children Neil Nunley and Ronnie Shaver, as well as Kathleen's cousin, West Virginia National Guardsman Eugene Lemon."
+  },
+  {
+   "s": "kathleen_may",
+   "p": "relative_of",
+   "o": "lemon",
+   "quote": "The group then travelled to the Fisher farm to investigate, accompanied by local children Neil Nunley and Ronnie Shaver, as well as Kathleen's cousin, West Virginia National Guardsman Eugene Lemon."
+  },
+  {
+   "s": "fisher",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "At 7:15 p.m. on September 12, 1952, in Flatwoods, brothers Edward and Fred May, accompanied by their friend Tommy Hyer, reported seeing a bright object cross the sky before landing on the property of farmer G. Bailey Fisher."
+  },
+  {
+   "s": "fisher",
+   "p": "occupation",
+   "v": "farmer",
+   "quote": "At 7:15 p.m. on September 12, 1952, in Flatwoods, brothers Edward and Fred May, accompanied by their friend Tommy Hyer, reported seeing a bright object cross the sky before landing on the property of farmer G. Bailey Fisher."
+  },
+  {
+   "s": "nunley",
+   "p": "witness",
+   "o": "case",
+   "quote": "The group then travelled to the Fisher farm to investigate, accompanied by local children Neil Nunley and Ronnie Shaver, as well as Kathleen's cousin, West Virginia National Guardsman Eugene Lemon."
+  },
+  {
+   "s": "nunley",
+   "p": "description",
+   "v": "local child",
+   "quote": "The group then travelled to the Fisher farm to investigate, accompanied by local children Neil Nunley and Ronnie Shaver, as well as Kathleen's cousin, West Virginia National Guardsman Eugene Lemon."
+  },
+  {
+   "s": "nunley",
+   "p": "described",
+   "o": "redlight",
+   "quote": "The group reached the top of a hill, where Nunley said they saw a red, pulsating light."
+  },
+  {
+   "s": "nunley",
+   "p": "statement",
+   "v": "said they saw a red, pulsating light from the top of a hill",
+   "quote": "The group reached the top of a hill, where Nunley said they saw a red, pulsating light."
+  },
+  {
+   "s": "shaver",
+   "p": "witness",
+   "o": "case",
+   "quote": "The group then travelled to the Fisher farm to investigate, accompanied by local children Neil Nunley and Ronnie Shaver, as well as Kathleen's cousin, West Virginia National Guardsman Eugene Lemon."
+  },
+  {
+   "s": "shaver",
+   "p": "description",
+   "v": "local child",
+   "quote": "The group then travelled to the Fisher farm to investigate, accompanied by local children Neil Nunley and Ronnie Shaver, as well as Kathleen's cousin, West Virginia National Guardsman Eugene Lemon."
+  },
+  {
+   "s": "lemon",
+   "p": "witness",
+   "o": "case",
+   "quote": "The group then travelled to the Fisher farm to investigate, accompanied by local children Neil Nunley and Ronnie Shaver, as well as Kathleen's cousin, West Virginia National Guardsman Eugene Lemon."
+  },
+  {
+   "s": "lemon",
+   "p": "witness",
+   "o": "case",
+   "quote": "Lemon said he aimed a flashlight in that direction and momentarily saw a tall \"man-like figure with a round, red face surrounded by a pointed, hood-like shape\"."
+  },
+  {
+   "s": "lemon",
+   "p": "member_of",
+   "o": "wvng",
+   "quote": "The group then travelled to the Fisher farm to investigate, accompanied by local children Neil Nunley and Ronnie Shaver, as well as Kathleen's cousin, West Virginia National Guardsman Eugene Lemon."
+  },
+  {
+   "s": "lemon",
+   "p": "occupation",
+   "v": "West Virginia National Guardsman",
+   "quote": "The group then travelled to the Fisher farm to investigate, accompanied by local children Neil Nunley and Ronnie Shaver, as well as Kathleen's cousin, West Virginia National Guardsman Eugene Lemon."
+  },
+  {
+   "s": "lemon",
+   "p": "relationship",
+   "v": "cousin of Kathleen May",
+   "quote": "The group then travelled to the Fisher farm to investigate, accompanied by local children Neil Nunley and Ronnie Shaver, as well as Kathleen's cousin, West Virginia National Guardsman Eugene Lemon."
+  },
+  {
+   "s": "lemon",
+   "p": "statement",
+   "v": "aimed a flashlight and momentarily saw a tall \"man-like figure with a round, red face surrounded by a pointed, hood-like shape\"",
+   "quote": "Lemon said he aimed a flashlight in that direction and momentarily saw a tall \"man-like figure with a round, red face surrounded by a pointed, hood-like shape\"."
+  },
+  {
+   "s": "lemon",
+   "p": "reaction",
+   "v": "screamed in fright and dropped his flashlight",
+   "quote": "According to the story, when the alleged entity made a hissing sound and \"glided toward the group\", Lemon screamed in fright and dropped his flashlight, causing all the witnesses to run away."
+  },
+  {
+   "s": "barker",
+   "p": "investigator",
+   "o": "case",
+   "quote": "UFO and Fortean writers like Gray Barker and Ivan T. Sanderson also visited Flatwoods to investigate."
+  },
+  {
+   "s": "barker",
+   "p": "commentator",
+   "o": "case",
+   "quote": "In an article for Fate Magazine, UFO writer Gray Barker described the figure based on tape-recorded interviews with the witnesses."
+  },
+  {
+   "s": "barker",
+   "p": "occupation",
+   "v": "UFO writer",
+   "quote": "In an article for Fate Magazine, UFO writer Gray Barker described the figure based on tape-recorded interviews with the witnesses."
+  },
+  {
+   "s": "barker",
+   "p": "occupation",
+   "v": "UFO and Fortean writer",
+   "quote": "UFO and Fortean writers like Gray Barker and Ivan T. Sanderson also visited Flatwoods to investigate."
+  },
+  {
+   "s": "barker",
+   "p": "authored",
+   "o": "article",
+   "quote": "In an article for Fate Magazine, UFO writer Gray Barker described the figure based on tape-recorded interviews with the witnesses."
+  },
+  {
+   "s": "barker",
+   "p": "visited",
+   "v": "Flatwoods",
+   "quote": "UFO and Fortean writers like Gray Barker and Ivan T. Sanderson also visited Flatwoods to investigate."
+  },
+  {
+   "s": "sanderson",
+   "p": "investigator",
+   "o": "case",
+   "quote": "UFO and Fortean writers like Gray Barker and Ivan T. Sanderson also visited Flatwoods to investigate."
+  },
+  {
+   "s": "sanderson",
+   "p": "occupation",
+   "v": "UFO and Fortean writer",
+   "quote": "UFO and Fortean writers like Gray Barker and Ivan T. Sanderson also visited Flatwoods to investigate."
+  },
+  {
+   "s": "sanderson",
+   "p": "visited",
+   "v": "Flatwoods",
+   "quote": "UFO and Fortean writers like Gray Barker and Ivan T. Sanderson also visited Flatwoods to investigate."
+  },
+  {
+   "s": "stewart",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "According to Barker's account, A. Lee Stewart Jr. of the Braxton Democrat claimed to have discovered \"skid marks\" in the field and an \"odd, gummy deposit\" the following day."
+  },
+  {
+   "s": "stewart",
+   "p": "employed_by",
+   "o": "democrat",
+   "quote": "According to Barker's account, A. Lee Stewart Jr. of the Braxton Democrat claimed to have discovered \"skid marks\" in the field and an \"odd, gummy deposit\" the following day."
+  },
+  {
+   "s": "stewart",
+   "p": "statement",
+   "v": "claimed to have discovered \"skid marks\" in the field and an \"odd, gummy deposit\" the following day (according to Barker's account)",
+   "quote": "According to Barker's account, A. Lee Stewart Jr. of the Braxton Democrat claimed to have discovered \"skid marks\" in the field and an \"odd, gummy deposit\" the following day."
+  },
+  {
+   "s": "stewart",
+   "p": "mentioned_by",
+   "o": "barker",
+   "quote": "According to Barker's account, A. Lee Stewart Jr. of the Braxton Democrat claimed to have discovered \"skid marks\" in the field and an \"odd, gummy deposit\" the following day."
+  },
+  {
+   "s": "byrne",
+   "p": "commentator",
+   "o": "case",
+   "quote": "According to former news editor Holt Byrne, \"newspaper stories were carried throughout the country, radio broadcasts were carried on large networks, and hundreds of phone calls were received from all parts of the country\"."
+  },
+  {
+   "s": "byrne",
+   "p": "occupation",
+   "v": "former news editor",
+   "quote": "According to former news editor Holt Byrne, \"newspaper stories were carried throughout the country, radio broadcasts were carried on large networks, and hundreds of phone calls were received from all parts of the country\"."
+  },
+  {
+   "s": "byrne",
+   "p": "statement",
+   "v": "newspaper stories were carried throughout the country, radio broadcasts were carried on large networks, and hundreds of phone calls were received from all parts of the country",
+   "quote": "According to former news editor Holt Byrne, \"newspaper stories were carried throughout the country, radio broadcasts were carried on large networks, and hundreds of phone calls were received from all parts of the country\"."
+  },
+  {
+   "s": "haupt",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "According to skeptic Ryan Haupt, even though local boy Max Lockard admitted he had driven his Chevy truck around the site \"hoping to see something\""
+  },
+  {
+   "s": "haupt",
+   "p": "occupation",
+   "v": "skeptic",
+   "quote": "According to skeptic Ryan Haupt, even though local boy Max Lockard admitted he had driven his Chevy truck around the site \"hoping to see something\""
+  },
+  {
+   "s": "haupt",
+   "p": "proposed",
+   "o": "x_psych",
+   "quote": "Haupt explains the nausea reported by some of the witnesses as a symptom \"consistent with hysteria and over-exertion\"."
+  },
+  {
+   "s": "haupt",
+   "p": "proposed",
+   "o": "x_truck",
+   "quote": "According to skeptic Ryan Haupt, even though local boy Max Lockard admitted he had driven his Chevy truck around the site \"hoping to see something\""
+  },
+  {
+   "s": "haupt",
+   "p": "statement",
+   "v": "nausea reported by some witnesses was a symptom \"consistent with hysteria and over-exertion\"",
+   "quote": "Haupt explains the nausea reported by some of the witnesses as a symptom \"consistent with hysteria and over-exertion\"."
+  },
+  {
+   "s": "haupt",
+   "p": "statement",
+   "v": "paranormal investigators concluded that the tracks, oily residue, and bits of a rubbery substance must have been left by the creature and not the truck",
+   "quote": "\"paranormal investigators concluded that the tracks, oily residue, and bits of a rubbery substance must have been left by the creature and not the truck\"."
+  },
+  {
+   "s": "lockard",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "According to skeptic Ryan Haupt, even though local boy Max Lockard admitted he had driven his Chevy truck around the site \"hoping to see something\""
+  },
+  {
+   "s": "lockard",
+   "p": "description",
+   "v": "local boy",
+   "quote": "According to skeptic Ryan Haupt, even though local boy Max Lockard admitted he had driven his Chevy truck around the site \"hoping to see something\""
+  },
+  {
+   "s": "lockard",
+   "p": "statement",
+   "v": "admitted he had driven his Chevy truck around the site \"hoping to see something\"",
+   "quote": "According to skeptic Ryan Haupt, even though local boy Max Lockard admitted he had driven his Chevy truck around the site \"hoping to see something\""
+  },
+  {
+   "s": "lockard",
+   "p": "piloted",
+   "o": "truck",
+   "quote": "According to skeptic Ryan Haupt, even though local boy Max Lockard admitted he had driven his Chevy truck around the site \"hoping to see something\""
+  },
+  {
+   "s": "lockard",
+   "p": "owned",
+   "o": "truck",
+   "quote": "According to skeptic Ryan Haupt, even though local boy Max Lockard admitted he had driven his Chevy truck around the site \"hoping to see something\""
+  },
+  {
+   "s": "wvng",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The group then travelled to the Fisher farm to investigate, accompanied by local children Neil Nunley and Ronnie Shaver, as well as Kathleen's cousin, West Virginia National Guardsman Eugene Lemon."
+  },
+  {
+   "s": "fate",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In an article for Fate Magazine, UFO writer Gray Barker described the figure based on tape-recorded interviews with the witnesses."
+  },
+  {
+   "s": "fate",
+   "p": "published",
+   "o": "article",
+   "quote": "In an article for Fate Magazine, UFO writer Gray Barker described the figure based on tape-recorded interviews with the witnesses."
+  },
+  {
+   "s": "democrat",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "According to Barker's account, A. Lee Stewart Jr. of the Braxton Democrat claimed to have discovered \"skid marks\" in the field and an \"odd, gummy deposit\" the following day."
+  },
+  {
+   "s": "csi",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "After investigating the case in 2000, Joe Nickell of the Committee for Skeptical Inquiry concluded that the bright light in the sky reported by the witnesses on July 12 was most likely a meteor"
+  },
+  {
+   "s": "usaf",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "Nickell's conclusions are shared by a number of other investigators, including those of the Air Force."
+  },
+  {
+   "s": "usaf",
+   "p": "conclusion",
+   "v": "Air Force investigators share Nickell's conclusions",
+   "quote": "Nickell's conclusions are shared by a number of other investigators, including those of the Air Force."
+  },
+  {
+   "s": "bureau",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Braxton County Convention and Visitor's Bureau also built a series of five tall chairs in the shape of the monster to serve as landmarks and visitor attractions."
+  },
+  {
+   "s": "bureau",
+   "p": "built",
+   "v": "a series of five tall chairs in the shape of the monster",
+   "quote": "The Braxton County Convention and Visitor's Bureau also built a series of five tall chairs in the shape of the monster to serve as landmarks and visitor attractions."
+  },
+  {
+   "s": "bureau",
+   "p": "chair_count",
+   "v": "5",
+   "quote": "The Braxton County Convention and Visitor's Bureau also built a series of five tall chairs in the shape of the monster to serve as landmarks and visitor attractions."
+  },
+  {
+   "s": "bureau",
+   "p": "reward",
+   "v": "\"Free Braxie\" stickers for visitors who photograph all five chairs",
+   "quote": "The Bureau rewards visitors who photograph all five chairs with \"Free Braxie\" stickers."
+  },
+  {
+   "s": "history",
+   "p": "published",
+   "o": "pbb_series",
+   "quote": "In television, the second episode of the 2019 History Channel series Project Blue Book, titled \"The Flatwoods Monster\", is based on the Flatwoods incident."
+  },
+  {
+   "s": "convention",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Since 2019, Flatwoods has hosted the Flatwoods Monster Convention."
+  },
+  {
+   "s": "convention",
+   "p": "located_in",
+   "o": "flatwoods",
+   "quote": "Since 2019, Flatwoods has hosted the Flatwoods Monster Convention."
+  },
+  {
+   "s": "convention",
+   "p": "start_year",
+   "v": "2019",
+   "quote": "Since 2019, Flatwoods has hosted the Flatwoods Monster Convention."
+  },
+  {
+   "s": "object",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "At 7:15 p.m. on September 12, 1952, in Flatwoods, brothers Edward and Fred May, accompanied by their friend Tommy Hyer, reported seeing a bright object cross the sky before landing on the property of farmer G. Bailey Fisher."
+  },
+  {
+   "s": "object",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "The Flatwoods monster, also known as the Braxton County monster, Braxie, or the Phantom of Flatwoods, is an alleged humanoid claimed to have been seen by a group of local residents in Flatwoods, West Virginia, on September 12, 1952 following the reported appearance of a bright light moving across the night sky."
+  },
+  {
+   "s": "object",
+   "p": "description",
+   "v": "bright object that crossed the sky before landing on the Fisher property",
+   "quote": "At 7:15 p.m. on September 12, 1952, in Flatwoods, brothers Edward and Fred May, accompanied by their friend Tommy Hyer, reported seeing a bright object cross the sky before landing on the property of farmer G. Bailey Fisher."
+  },
+  {
+   "s": "object",
+   "p": "brightness",
+   "v": "bright light moving across the night sky",
+   "quote": "The Flatwoods monster, also known as the Braxton County monster, Braxie, or the Phantom of Flatwoods, is an alleged humanoid claimed to have been seen by a group of local residents in Flatwoods, West Virginia, on September 12, 1952 following the reported appearance of a bright light moving across the night sky."
+  },
+  {
+   "s": "object",
+   "p": "landing_site",
+   "v": "property of farmer G. Bailey Fisher",
+   "quote": "At 7:15 p.m. on September 12, 1952, in Flatwoods, brothers Edward and Fred May, accompanied by their friend Tommy Hyer, reported seeing a bright object cross the sky before landing on the property of farmer G. Bailey Fisher."
+  },
+  {
+   "s": "object",
+   "p": "identified_as",
+   "o": "x_meteor",
+   "quote": "After investigating the case in 2000, Joe Nickell of the Committee for Skeptical Inquiry concluded that the bright light in the sky reported by the witnesses on July 12 was most likely a meteor"
+  },
+  {
+   "s": "redlight",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "The group reached the top of a hill, where Nunley said they saw a red, pulsating light."
+  },
+  {
+   "s": "redlight",
+   "p": "color",
+   "v": "red",
+   "quote": "The group reached the top of a hill, where Nunley said they saw a red, pulsating light."
+  },
+  {
+   "s": "redlight",
+   "p": "behavior",
+   "v": "pulsating",
+   "quote": "The group reached the top of a hill, where Nunley said they saw a red, pulsating light."
+  },
+  {
+   "s": "redlight",
+   "p": "identified_as",
+   "o": "x_beacon",
+   "quote": "that the pulsating red light was likely an aircraft navigation or hazard beacon, and that various aspects of the being described by witnesses resembled the anatomical features of an owl."
+  },
+  {
+   "s": "truck",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "According to skeptic Ryan Haupt, even though local boy Max Lockard admitted he had driven his Chevy truck around the site \"hoping to see something\""
+  },
+  {
+   "s": "truck",
+   "p": "make",
+   "v": "Chevy",
+   "quote": "According to skeptic Ryan Haupt, even though local boy Max Lockard admitted he had driven his Chevy truck around the site \"hoping to see something\""
+  },
+  {
+   "s": "article",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In an article for Fate Magazine, UFO writer Gray Barker described the figure based on tape-recorded interviews with the witnesses."
+  },
+  {
+   "s": "article",
+   "p": "basis",
+   "v": "tape-recorded interviews with the witnesses",
+   "quote": "In an article for Fate Magazine, UFO writer Gray Barker described the figure based on tape-recorded interviews with the witnesses."
+  },
+  {
+   "s": "tapes",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In an article for Fate Magazine, UFO writer Gray Barker described the figure based on tape-recorded interviews with the witnesses."
+  },
+  {
+   "s": "fallout",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The video games Fallout 76, Everybody's Golf 4, and Legend of Zelda (2000) contain references to the legend."
+  },
+  {
+   "s": "golf",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The video games Fallout 76, Everybody's Golf 4, and Legend of Zelda (2000) contain references to the legend."
+  },
+  {
+   "s": "zelda",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The video games Fallout 76, Everybody's Golf 4, and Legend of Zelda (2000) contain references to the legend."
+  },
+  {
+   "s": "fallout",
+   "p": "medium",
+   "v": "video game",
+   "quote": "The video games Fallout 76, Everybody's Golf 4, and Legend of Zelda (2000) contain references to the legend."
+  },
+  {
+   "s": "golf",
+   "p": "medium",
+   "v": "video game",
+   "quote": "The video games Fallout 76, Everybody's Golf 4, and Legend of Zelda (2000) contain references to the legend."
+  },
+  {
+   "s": "zelda",
+   "p": "medium",
+   "v": "video game",
+   "quote": "The video games Fallout 76, Everybody's Golf 4, and Legend of Zelda (2000) contain references to the legend."
+  },
+  {
+   "s": "zelda",
+   "p": "year",
+   "v": "2000",
+   "quote": "The video games Fallout 76, Everybody's Golf 4, and Legend of Zelda (2000) contain references to the legend."
+  },
+  {
+   "s": "pbb_series",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In television, the second episode of the 2019 History Channel series Project Blue Book, titled \"The Flatwoods Monster\", is based on the Flatwoods incident."
+  },
+  {
+   "s": "pbb_series",
+   "p": "year",
+   "v": "2019",
+   "quote": "In television, the second episode of the 2019 History Channel series Project Blue Book, titled \"The Flatwoods Monster\", is based on the Flatwoods incident."
+  },
+  {
+   "s": "pbb_series",
+   "p": "medium",
+   "v": "television series",
+   "quote": "In television, the second episode of the 2019 History Channel series Project Blue Book, titled \"The Flatwoods Monster\", is based on the Flatwoods incident."
+  },
+  {
+   "s": "pbb_episode",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In television, the second episode of the 2019 History Channel series Project Blue Book, titled \"The Flatwoods Monster\", is based on the Flatwoods incident."
+  },
+  {
+   "s": "pbb_episode",
+   "p": "part_of",
+   "o": "pbb_series",
+   "quote": "In television, the second episode of the 2019 History Channel series Project Blue Book, titled \"The Flatwoods Monster\", is based on the Flatwoods incident."
+  },
+  {
+   "s": "pbb_episode",
+   "p": "episode_number",
+   "v": "second episode",
+   "quote": "In television, the second episode of the 2019 History Channel series Project Blue Book, titled \"The Flatwoods Monster\", is based on the Flatwoods incident."
+  },
+  {
+   "s": "dover",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Dover Demon (another sighting of an alleged humanoid proposed to have been a misidentified snowy owl)"
+  },
+  {
+   "s": "dover",
+   "p": "proposed_explanation",
+   "v": "misidentified snowy owl",
+   "quote": "Dover Demon (another sighting of an alleged humanoid proposed to have been a misidentified snowy owl)"
+  },
+  {
+   "s": "kelly",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Kelly–Hopkinsville encounter (another sighting of alleged humanoids proposed to have been misidentified great horned owls)"
+  },
+  {
+   "s": "kelly",
+   "p": "proposed_explanation",
+   "v": "misidentified great horned owls",
+   "quote": "Kelly–Hopkinsville encounter (another sighting of alleged humanoids proposed to have been misidentified great horned owls)"
+  },
+  {
+   "s": "mothman",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Mothman (another sighting of an alleged humanoid in West Virginia, proposed to have been a misidentified barred owl)"
+  },
+  {
+   "s": "mothman",
+   "p": "proposed_explanation",
+   "v": "misidentified barred owl",
+   "quote": "Mothman (another sighting of an alleged humanoid in West Virginia, proposed to have been a misidentified barred owl)"
+  },
+  {
+   "s": "mothman",
+   "p": "location",
+   "v": "West Virginia",
+   "quote": "Mothman (another sighting of an alleged humanoid in West Virginia, proposed to have been a misidentified barred owl)"
+  },
+  {
+   "s": "owlman",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Owlman\nGrafton monster"
+  },
+  {
+   "s": "grafton",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Grafton monster"
+  },
+  {
+   "s": "f_occ",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Lemon said he aimed a flashlight in that direction and momentarily saw a tall \"man-like figure with a round, red face surrounded by a pointed, hood-like shape\"."
+  },
+  {
+   "s": "f_occ",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Flatwoods monster, also known as the Braxton County monster, Braxie, or the Phantom of Flatwoods, is an alleged humanoid claimed to have been seen by a group of local residents in Flatwoods, West Virginia, on September 12, 1952 following the reported appearance of a bright light moving across the night sky."
+  },
+  {
+   "s": "f_land",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "At 7:15 p.m. on September 12, 1952, in Flatwoods, brothers Edward and Fred May, accompanied by their friend Tommy Hyer, reported seeing a bright object cross the sky before landing on the property of farmer G. Bailey Fisher."
+  },
+  {
+   "s": "f_traces",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to Barker's account, A. Lee Stewart Jr. of the Braxton Democrat claimed to have discovered \"skid marks\" in the field and an \"odd, gummy deposit\" the following day."
+  },
+  {
+   "s": "f_debris",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to Barker's account, A. Lee Stewart Jr. of the Braxton Democrat claimed to have discovered \"skid marks\" in the field and an \"odd, gummy deposit\" the following day."
+  },
+  {
+   "s": "f_debris",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "\"paranormal investigators concluded that the tracks, oily residue, and bits of a rubbery substance must have been left by the creature and not the truck\"."
+  },
+  {
+   "s": "f_physio",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The group said they had smelled a \"pungent mist\", and some later reported nausea."
+  },
+  {
+   "s": "f_sound",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to the story, when the alleged entity made a hissing sound and \"glided toward the group\", Lemon screamed in fright and dropped his flashlight, causing all the witnesses to run away."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Flatwoods monster, also known as the Braxton County monster, Braxie, or the Phantom of Flatwoods, is an alleged humanoid claimed to have been seen by a group of local residents in Flatwoods, West Virginia, on September 12, 1952 following the reported appearance of a bright light moving across the night sky."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The group then travelled to the Fisher farm to investigate, accompanied by local children Neil Nunley and Ronnie Shaver, as well as Kathleen's cousin, West Virginia National Guardsman Eugene Lemon."
+  },
+  {
+   "s": "f_child",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The group then travelled to the Fisher farm to investigate, accompanied by local children Neil Nunley and Ronnie Shaver, as well as Kathleen's cousin, West Virginia National Guardsman Eugene Lemon."
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The group then travelled to the Fisher farm to investigate, accompanied by local children Neil Nunley and Ronnie Shaver, as well as Kathleen's cousin, West Virginia National Guardsman Eugene Lemon."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "They searched the site where the being was purportedly seen, but \"saw, heard and smelled nothing\"."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Nickell's conclusions are shared by a number of other investigators, including those of the Air Force."
+  },
+  {
+   "s": "f_odor",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The group said they had smelled a \"pungent mist\", and some later reported nausea."
+  },
+  {
+   "s": "x_meteor",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "In 2000, paranormal investigator Joe Nickell suggested that the light was a meteor, while the creature may have been a barn owl perched in a tree whose shadows made it appear as a large humanoid figure."
+  },
+  {
+   "s": "x_meteor",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "After investigating the case in 2000, Joe Nickell of the Committee for Skeptical Inquiry concluded that the bright light in the sky reported by the witnesses on July 12 was most likely a meteor"
+  },
+  {
+   "s": "x_owl",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "In 2000, paranormal investigator Joe Nickell suggested that the light was a meteor, while the creature may have been a barn owl perched in a tree whose shadows made it appear as a large humanoid figure."
+  },
+  {
+   "s": "x_owl",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Nickell concluded that the shape, movement, and sounds reported by witnesses were also consistent with the silhouette, flight pattern, and call of a startled barn owl perched on a tree limb"
+  },
+  {
+   "s": "x_misp",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Nickell suggested that the witnesses' perceptions were distorted by their heightened state of anxiety."
+  },
+  {
+   "s": "x_misp",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "In 2000, paranormal investigator Joe Nickell suggested that the light was a meteor, while the creature may have been a barn owl perched in a tree whose shadows made it appear as a large humanoid figure."
+  },
+  {
+   "s": "x_psych",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Haupt explains the nausea reported by some of the witnesses as a symptom \"consistent with hysteria and over-exertion\"."
+  },
+  {
+   "s": "x_psych",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Nickell suggested that the witnesses' perceptions were distorted by their heightened state of anxiety."
+  },
+  {
+   "s": "x_beacon",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "that the pulsating red light was likely an aircraft navigation or hazard beacon, and that various aspects of the being described by witnesses resembled the anatomical features of an owl."
+  },
+  {
+   "s": "x_beacon",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "According to Nickell, three flashing red aircraft beacons were also visible from the area of the sightings, which could account for descriptions of a pulsating red light and accompanying red tint on the face of the supposed being."
+  },
+  {
+   "s": "x_truck",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "According to skeptic Ryan Haupt, even though local boy Max Lockard admitted he had driven his Chevy truck around the site \"hoping to see something\""
+  }
+ ]
+}

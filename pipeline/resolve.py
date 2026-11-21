@@ -20,15 +20,15 @@ TITLES = set("""mr mrs ms miss dr prof professor sir lord rev father capt captai
 lt col ltcol maj major gen general brig brigadier sgt sergeant ssgt tsgt msgt cpl corporal pvt private airman a1c
 cmdr commander cdr adm admiral ens ensign officer chief sheriff deputy detective constable senator sen rep
 representative congressman congresswoman president governor gov mayor judge first second 1st 2nd staff master
-technical flight wing squadron group air marshal vice rear pilot astronaut usaf retired ret jr sr ii iii phd md""".split())
+technical flight wing squadron group air marshal vice rear pilot astronaut usaf retired ret phd md""".split())
 
 # Things extraction agents name inconsistently. Key: normalised form, value: canonical normalised form.
 SYNONYMS = {
-    "usaf": "united states air force", "us air force": "united states air force", "air force": "united states air force",
+    "usaf": "united states air force", "us air force": "united states air force",
     "u s air force": "united states air force",
     "usaaf": "united states army air forces", "us army air forces": "united states army air forces",
     "army air forces": "united states army air forces", "united states army air force": "united states army air forces",
-    "us navy": "united states navy", "u s navy": "united states navy", "usn": "united states navy", "navy": "united states navy",
+    "us navy": "united states navy", "u s navy": "united states navy", "usn": "united states navy",
     "us army": "united states army", "u s army": "united states army",
     "cia": "central intelligence agency", "fbi": "federal bureau of investigation",
     "nasa": "national aeronautics and space administration",
@@ -49,27 +49,34 @@ SYNONYMS = {
 }
 CASE_NOISE = set("the ufo ufos incident incidents case encounter sighting sightings affair event events of in at alleged reported".split())
 GROUP = {"organization": "named", "program": "named", "place": "named", "document": "doc", "work": "doc"}
+SUFFIXES = {"jr", "sr", "ii", "iii"}
 GENERIC = {"united states", "united kingdom", "soviet union", "new mexico", "new york", "air force", "new zealand"}
 NO_MERGE = {"craft", "vehicle"}  # specific to one case by nature
 
 
-def norm(s):
+def base_norm(s):
     s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()
     s = s.replace("&", " and ")
     s = re.sub(r"['’.]", "", s)
     s = re.sub(r"[^a-z0-9]+", " ", s).strip()
-    s = re.sub(r"^the ", "", s)
+    return re.sub(r"^the ", "", s)
+
+
+def norm(s):
+    s = base_norm(s)
     return SYNONYMS.get(s, s)
 
 
 def person_keys(name):
     toks = [t for t in norm(name).split() if t not in TITLES]
+    suffix = [t for t in toks if t in SUFFIXES]          # Jr. and Sr. are different people
+    toks = [t for t in toks if t not in SUFFIXES]
     core = [t for t in toks if len(t) > 1]
     keys = set()
     if len(toks) >= 2:
-        keys.add(" ".join(toks))
+        keys.add(" ".join(toks + suffix))
     if len(core) >= 2:
-        keys.add(core[0] + " " + core[-1])
+        keys.add(" ".join([core[0], core[-1]] + suffix))
     return keys, (core[-1] if core else None), (core[0] if len(core) >= 2 else None)
 
 
@@ -83,6 +90,17 @@ def keys_for(etype, name):
         core = " ".join(t for t in n.split() if t not in CASE_NOISE and not re.fullmatch(r"\d{4}", t))
         return {core or n}
     return {n}
+
+
+def usable_alias(etype, alias):
+    """A one-word alias ("Bureau", "Army", "Franklin") is too generic to merge
+    on, unless it is an acronym (NICAP) or a known synonym (USAF)."""
+    if etype == "person":
+        return True                      # person_keys already needs two name tokens
+    n = base_norm(alias)
+    if len(n.split()) >= 2 or n in SYNONYMS:
+        return True
+    return alias.isupper() and len(alias) >= 3
 
 
 def main():
@@ -104,14 +122,27 @@ def main():
         return x
 
     distinct = {frozenset(norm(n) for n in pair) for pair in manual.get("distinct", [])}
-    by_key = defaultdict(list)
+    by_key, by_alias, cands = defaultdict(list), defaultdict(list), []
+    name_of = {e["id"]: e["name"] for e in ents}
     for e in ents:
         if e["type"] in NO_MERGE:
             continue
         g = GROUP.get(e["type"], e["type"])
-        for n in [e["name"]] + aliases[e["id"]]:
-            for k in keys_for(e["type"], n):
-                by_key[(g, k)].append(e["id"])
+        for k in keys_for(e["type"], e["name"]):
+            by_key[(g, k)].append(e["id"])
+        for a in aliases[e["id"]]:
+            if usable_alias(e["type"], a):
+                for k in keys_for(e["type"], a):
+                    by_alias[(g, k)].append(e["id"])
+    # An alias merges an entity into something that carries that alias as its
+    # primary name. Two entities that merely share an alias ("State Police")
+    # are only flagged for review.
+    for key, ids in by_alias.items():
+        if key in by_key:
+            by_key[key].extend(ids)
+        else:
+            names = sorted({name_of[i] for i in ids})
+            cands.extend(f"shared-alias\t{a}\t{b}" for i, a in enumerate(names) for b in names[i + 1:])
     for pair in manual.get("merge", []):
         ks = {norm(n) for n in pair}
         ids = [e["id"] for e in ents if norm(e["name"]) in ks or any(norm(a) in ks for a in aliases[e["id"]])]
@@ -140,7 +171,6 @@ def main():
 
     # Weak candidates for human/agent review: people sharing a surname whose
     # first names are compatible, and named things where one name contains the other.
-    cands = []
     people = defaultdict(list)
     for cid, etype, name, n, members in canon_rows:
         if etype == "person":
@@ -155,7 +185,7 @@ def main():
                     continue
                 if f1 is None or f2 is None or f1.startswith(f2) or f2.startswith(f1) or f1[0] == f2[0]:
                     cands.append(f"person\t{n1}\t{n2}")
-    named = [(norm(name), name) for cid, etype, name, n, _ in canon_rows if GROUP.get(etype) == "named"]
+    named = [(norm(name), name) for cid, etype, name, n, _ in canon_rows if etype in ("organization", "program") and "," not in name]
     toks = [(set(a.split()), a, name) for a, name in named]
     for i in range(len(toks)):
         for j in range(i + 1, len(toks)):
@@ -163,7 +193,7 @@ def main():
             small, big = (a, b) if len(a[0]) <= len(b[0]) else (b, a)
             if len(small[0]) >= 2 and small[1] not in GENERIC and small[0] < big[0] and frozenset((a[1], b[1])) not in distinct:
                 cands.append(f"named\t{a[2]}\t{b[2]}")
-    (ROOT / "data/merge_candidates.txt").write_text("\n".join(sorted(cands)) + "\n")
+    (ROOT / "data/merge_candidates.txt").write_text("\n".join(sorted(set(cands))) + "\n")
 
     multi = sorted((r for r in canon_rows if r[3] > 1 and r[1] not in ("feature", "explanation")), key=lambda r: -r[3])
     print(f"{len(ents)} raw entities -> {len(canon_rows)} canonical; {len(multi)} named things appear in 2+ cases; "
