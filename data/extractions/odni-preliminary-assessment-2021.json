@@ -1,0 +1,2393 @@
+{
+ "slug": "odni-preliminary-assessment-2021",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Preliminary Assessment: Unidentified Aerial Phenomena",
+   "aliases": [
+    "ODNI Preliminary Assessment: Unidentified Aerial Phenomena",
+    "preliminary report"
+   ],
+   "description": "Unclassified 25 June 2021 ODNI preliminary report to Congress on unidentified aerial phenomena and the work of the UAP Task Force."
+  },
+  {
+   "key": "dataset",
+   "type": "case",
+   "name": "2004–2021 U.S. Government UAP reports reviewed by the UAP Task Force",
+   "aliases": [
+    "UAPTF dataset",
+    "144 reports"
+   ],
+   "description": "The set of 144 U.S. Government UAP reports (incidents from November 2004 to March 2021) that the UAPTF reviewed."
+  },
+  {
+   "key": "unusual18",
+   "type": "case",
+   "name": "2004–2021 UAP incidents with unusual flight characteristics reported to the UAP Task Force",
+   "aliases": [
+    "18 incidents, described in 21 reports"
+   ],
+   "description": "The 18 incidents (21 reports) in the UAPTF dataset in which observers reported unusual UAP movement patterns or flight characteristics."
+  },
+  {
+   "key": "nearmiss",
+   "type": "case",
+   "name": "2004–2021 near misses with UAP reported by pilots to the UAP Task Force",
+   "aliases": [
+    "11 reports of documented instances in which pilots reported near misses with a UAP"
+   ],
+   "description": "The 11 UAPTF reports of documented instances in which pilots reported near misses with a UAP."
+  },
+  {
+   "key": "balloonincident",
+   "type": "case",
+   "name": "UAP Task Force deflating balloon incident",
+   "aliases": [
+    "one reported UAP",
+    "the one instance"
+   ],
+   "description": "The one reported UAP in the dataset that the UAPTF identified with high confidence, as a large, deflating balloon."
+  },
+  {
+   "key": "balloon_obj",
+   "type": "craft",
+   "name": "object identified as a large, deflating balloon",
+   "description": "The object in the one UAP report the UAPTF resolved."
+  },
+  {
+   "key": "odni",
+   "type": "organization",
+   "name": "Office of the Director of National Intelligence",
+   "aliases": [
+    "ODNI"
+   ],
+   "description": "U.S. intelligence office that prepared and provided the report."
+  },
+  {
+   "key": "dni",
+   "type": "organization",
+   "name": "Director of National Intelligence",
+   "aliases": [
+    "DNI"
+   ],
+   "description": "Official directed by Senate Report 116-233 to submit the intelligence assessment."
+  },
+  {
+   "key": "secdef",
+   "type": "organization",
+   "name": "United States Secretary of Defense",
+   "aliases": [
+    "Secretary of Defense",
+    "SECDEF"
+   ],
+   "description": "Official the DNI was to consult in preparing the assessment."
+  },
+  {
+   "key": "dod",
+   "type": "organization",
+   "name": "United States Department of Defense",
+   "aliases": [
+    "Department of Defense",
+    "DoD"
+   ],
+   "description": "Parent department of the UAP Task Force."
+  },
+  {
+   "key": "uaptf",
+   "type": "program",
+   "name": "Unidentified Aerial Phenomena Task Force",
+   "aliases": [
+    "UAPTF",
+    "Department of Defense Unidentified Aerial Phenomena Task Force",
+    "UAP Task Force"
+   ],
+   "description": "Department of Defense task force that collected and analysed UAP reports and co-drafted the report."
+  },
+  {
+   "key": "usg",
+   "type": "organization",
+   "name": "United States government",
+   "aliases": [
+    "U.S. Government",
+    "USG",
+    "Federal Government",
+    "federal government"
+   ],
+   "description": "Source of the UAP reporting in the dataset."
+  },
+  {
+   "key": "ic",
+   "type": "organization",
+   "name": "United States Intelligence Community",
+   "aliases": [
+    "Intelligence Community",
+    "IC"
+   ],
+   "description": "U.S. intelligence agencies whose reporting and analysts contributed."
+  },
+  {
+   "key": "military",
+   "type": "organization",
+   "name": "United States Armed Forces",
+   "aliases": [
+    "U.S. military",
+    "U.S. military services",
+    "U.S. forces"
+   ],
+   "description": "U.S. military, whose aviators and platforms produced most reports."
+  },
+  {
+   "key": "congress",
+   "type": "organization",
+   "name": "United States Congress",
+   "aliases": [
+    "Congressional"
+   ],
+   "description": "Legislature whose committees received the report."
+  },
+  {
+   "key": "committees",
+   "type": "organization",
+   "name": "Congressional Intelligence and Armed Services Committees",
+   "description": "Congressional committees for which ODNI prepared the report."
+  },
+  {
+   "key": "senate",
+   "type": "organization",
+   "name": "United States Senate",
+   "aliases": [
+    "Senate"
+   ],
+   "description": "Chamber whose Report 116-233 required the assessment."
+  },
+  {
+   "key": "nim_aviation",
+   "type": "organization",
+   "name": "ODNI National Intelligence Manager for Aviation",
+   "aliases": [
+    "National Intelligence Manager for Aviation"
+   ],
+   "description": "ODNI office that co-drafted the report with the UAPTF."
+  },
+  {
+   "key": "usdis",
+   "type": "organization",
+   "name": "Under Secretary of Defense for Intelligence and Security",
+   "aliases": [
+    "USD(I&S)"
+   ],
+   "description": "Provided input to the report."
+  },
+  {
+   "key": "dia",
+   "type": "organization",
+   "name": "Defense Intelligence Agency",
+   "aliases": [
+    "DIA"
+   ],
+   "description": "Provided input to the report."
+  },
+  {
+   "key": "fbi",
+   "type": "organization",
+   "name": "Federal Bureau of Investigation",
+   "aliases": [
+    "FBI"
+   ],
+   "description": "Provided input to the report."
+  },
+  {
+   "key": "nro",
+   "type": "organization",
+   "name": "National Reconnaissance Office",
+   "aliases": [
+    "NRO"
+   ],
+   "description": "Provided input to the report."
+  },
+  {
+   "key": "nga",
+   "type": "organization",
+   "name": "National Geospatial-Intelligence Agency",
+   "aliases": [
+    "NGA"
+   ],
+   "description": "Provided input to the report."
+  },
+  {
+   "key": "nsa",
+   "type": "organization",
+   "name": "National Security Agency",
+   "aliases": [
+    "NSA"
+   ],
+   "description": "Provided input to the report."
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "aliases": [
+    "Air Force",
+    "U.S. Air Force",
+    "USAF"
+   ],
+   "description": "Provided input to the report."
+  },
+  {
+   "key": "army",
+   "type": "organization",
+   "name": "United States Army",
+   "aliases": [
+    "Army"
+   ],
+   "description": "Provided input to the report."
+  },
+  {
+   "key": "navy",
+   "type": "organization",
+   "name": "United States Navy",
+   "aliases": [
+    "Navy",
+    "U.S. Navy"
+   ],
+   "description": "Provided input to the report."
+  },
+  {
+   "key": "oni",
+   "type": "organization",
+   "name": "Office of Naval Intelligence",
+   "aliases": [
+    "ONI",
+    "Navy/ONI"
+   ],
+   "description": "Provided input to the report."
+  },
+  {
+   "key": "darpa",
+   "type": "organization",
+   "name": "Defense Advanced Research Projects Agency",
+   "aliases": [
+    "DARPA"
+   ],
+   "description": "Provided input to the report."
+  },
+  {
+   "key": "faa",
+   "type": "organization",
+   "name": "Federal Aviation Administration",
+   "aliases": [
+    "FAA"
+   ],
+   "description": "Provided input to the report."
+  },
+  {
+   "key": "noaa",
+   "type": "organization",
+   "name": "National Oceanic and Atmospheric Administration",
+   "aliases": [
+    "NOAA"
+   ],
+   "description": "Provided input to the report."
+  },
+  {
+   "key": "nim_edt",
+   "type": "organization",
+   "name": "ODNI National Intelligence Manager for Emerging and Disruptive Technology",
+   "aliases": [
+    "ODNI/NIM-Emerging and Disruptive Technology"
+   ],
+   "description": "Provided input to the report."
+  },
+  {
+   "key": "ncsc",
+   "type": "organization",
+   "name": "National Counterintelligence and Security Center",
+   "aliases": [
+    "ODNI/National Counterintelligence and Security Center"
+   ],
+   "description": "Provided input to the report."
+  },
+  {
+   "key": "nic",
+   "type": "organization",
+   "name": "National Intelligence Council",
+   "aliases": [
+    "ODNI/National Intelligence Council"
+   ],
+   "description": "Provided input to the report."
+  },
+  {
+   "key": "ato",
+   "type": "organization",
+   "name": "Air Traffic Organization",
+   "aliases": [
+    "FAA's Air Traffic Organization",
+    "FAA Air Traffic Organization"
+   ],
+   "description": "FAA organisation to which pilots and airspace users report unusual events."
+  },
+  {
+   "key": "us",
+   "type": "place",
+   "name": "United States",
+   "aliases": [
+    "U.S."
+   ],
+   "description": "Country whose government produced the reports."
+  },
+  {
+   "key": "china",
+   "type": "place",
+   "name": "China",
+   "description": "Named as a possible source of foreign adversary systems."
+  },
+  {
+   "key": "russia",
+   "type": "place",
+   "name": "Russia",
+   "description": "Named as a possible source of foreign adversary systems."
+  },
+  {
+   "key": "senrep",
+   "type": "document",
+   "name": "Senate Report 116-233",
+   "aliases": [
+    "Senate Report",
+    "Senate Report Accompanying the Intelligence Authorization Act for Fiscal Year 2021"
+   ],
+   "description": "Senate report accompanying the FY2021 Intelligence Authorization Act that required the UAP assessment."
+  },
+  {
+   "key": "iaa",
+   "type": "document",
+   "name": "Intelligence Authorization Act for Fiscal Year 2021",
+   "aliases": [
+    "IAA",
+    "IAA for FY 2021",
+    "Intelligence Authorization Act (IAA) for Fiscal Year 2021"
+   ],
+   "description": "Act that Senate Report 116-233 accompanied."
+  },
+  {
+   "key": "rangefouler",
+   "type": "document",
+   "name": "Range Fouler reports",
+   "aliases": [
+    "range fouler"
+   ],
+   "description": "U.S. Navy aviator reports of activity or objects interrupting training in military airspace, included among UAP reports."
+  },
+  {
+   "key": "collstrategy",
+   "type": "document",
+   "name": "UAP Collection Strategy",
+   "aliases": [
+    "interagency UAP collection strategy"
+   ],
+   "description": "Interagency UAP collection strategy the UAPTF plans to update and that should guide investment."
+  },
+  {
+   "key": "rdroadmap",
+   "type": "document",
+   "name": "UAP R&D Technical Roadmap",
+   "description": "Planning document that should guide UAP research investment."
+  },
+  {
+   "key": "progplan",
+   "type": "document",
+   "name": "UAP Program Plan",
+   "description": "Planning document that should guide UAP research investment."
+  },
+  {
+   "key": "navy_mech",
+   "type": "program",
+   "name": "United States Navy standardized UAP reporting mechanism",
+   "aliases": [
+    "standardized reporting mechanism",
+    "new reporting mechanism",
+    "new tailored process"
+   ],
+   "description": "Standardized UAP reporting mechanism the Navy established in March 2019 and the Air Force adopted in November 2020."
+  },
+  {
+   "key": "usaf_pilot",
+   "type": "program",
+   "name": "United States Air Force six-month UAP collection pilot program",
+   "aliases": [
+    "six-month pilot program"
+   ],
+   "description": "Six-month USAF pilot program begun November 2020 to collect in the most likely areas to encounter UAP."
+  },
+  {
+   "key": "f_radar",
+   "type": "feature",
+   "name": "radar-contact"
+  },
+  {
+   "key": "f_milwit",
+   "type": "feature",
+   "name": "military-witnesses"
+  },
+  {
+   "key": "f_pilot",
+   "type": "feature",
+   "name": "pilot-witnesses"
+  },
+  {
+   "key": "f_base",
+   "type": "feature",
+   "name": "military-base-proximity"
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation"
+  },
+  {
+   "key": "f_hover",
+   "type": "feature",
+   "name": "hovering"
+  },
+  {
+   "key": "f_speed",
+   "type": "feature",
+   "name": "high-speed-maneuvers"
+  },
+  {
+   "key": "f_noprop",
+   "type": "feature",
+   "name": "other:no discernable means of propulsion"
+  },
+  {
+   "key": "f_wind",
+   "type": "feature",
+   "name": "other:moving against the wind"
+  },
+  {
+   "key": "f_sigman",
+   "type": "feature",
+   "name": "other:signature management"
+  },
+  {
+   "key": "f_accel",
+   "type": "feature",
+   "name": "other:acceleration"
+  },
+  {
+   "key": "f_rf",
+   "type": "feature",
+   "name": "other:radio frequency energy detected"
+  },
+  {
+   "key": "f_multisensor",
+   "type": "feature",
+   "name": "other:multiple-sensor observation"
+  },
+  {
+   "key": "f_infrared",
+   "type": "feature",
+   "name": "other:infrared detection"
+  },
+  {
+   "key": "f_eo",
+   "type": "feature",
+   "name": "other:electro-optical detection"
+  },
+  {
+   "key": "f_seeker",
+   "type": "feature",
+   "name": "other:weapon seeker detection"
+  },
+  {
+   "key": "f_visual",
+   "type": "feature",
+   "name": "other:visual observation"
+  },
+  {
+   "key": "f_nearmiss",
+   "type": "feature",
+   "name": "other:near miss with aircraft"
+  },
+  {
+   "key": "f_rangefouler",
+   "type": "feature",
+   "name": "other:interrupted military training"
+  },
+  {
+   "key": "x_balloon",
+   "type": "explanation",
+   "name": "balloon"
+  },
+  {
+   "key": "x_clutter",
+   "type": "explanation",
+   "name": "other:airborne clutter"
+  },
+  {
+   "key": "x_bird",
+   "type": "explanation",
+   "name": "bird-or-animal"
+  },
+  {
+   "key": "x_uav",
+   "type": "explanation",
+   "name": "other:recreational unmanned aerial vehicle"
+  },
+  {
+   "key": "x_debris",
+   "type": "explanation",
+   "name": "other:airborne debris"
+  },
+  {
+   "key": "x_natural",
+   "type": "explanation",
+   "name": "other:natural atmospheric phenomena"
+  },
+  {
+   "key": "x_secret",
+   "type": "explanation",
+   "name": "secret-aircraft"
+  },
+  {
+   "key": "x_foreign",
+   "type": "explanation",
+   "name": "other:foreign adversary systems"
+  },
+  {
+   "key": "x_otherbin",
+   "type": "explanation",
+   "name": "other:unidentified pending scientific advances"
+  },
+  {
+   "key": "x_sensor",
+   "type": "explanation",
+   "name": "other:sensor errors"
+  },
+  {
+   "key": "x_spoof",
+   "type": "explanation",
+   "name": "other:spoofing"
+  },
+  {
+   "key": "x_mispercep",
+   "type": "explanation",
+   "name": "misperception"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "2021-06-25",
+   "quote": "Preliminary Assessment: Unidentified Aerial Phenomena 25 June 2021"
+  },
+  {
+   "s": "case",
+   "p": "publication_date",
+   "v": "25 June 2021",
+   "quote": "Preliminary Assessment: Unidentified Aerial Phenomena 25 June 2021"
+  },
+  {
+   "s": "case",
+   "p": "classification",
+   "v": "UNCLASSIFIED",
+   "quote": "25 June 2021 UNCLASSIFIED"
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "The dataset described in this report is currently limited primarily to U.S. Government reporting of incidents occurring from November 2004 to March 2021."
+  },
+  {
+   "s": "case",
+   "p": "document_type",
+   "v": "preliminary report",
+   "quote": "This preliminary report is provided by the Office of the Director of National Intelligence (ODNI) in response to the provision in Senate Report 116-233, accompanying the Intelligence Authorization Act (IAA) for Fiscal Year 2021"
+  },
+  {
+   "s": "case",
+   "p": "document_type",
+   "v": "intelligence assessment of the threat posed by unidentified aerial phenomena",
+   "quote": "that the DNI, in consultation with the Secretary of Defense (SECDEF), is to submit an intelligence assessment of the threat posed by unidentified aerial phenomena (UAP)"
+  },
+  {
+   "s": "case",
+   "p": "purpose",
+   "v": "overview for policymakers of the challenges of characterizing the potential threat posed by UAP",
+   "quote": "This report provides an overview for policymakers of the challenges associated with characterizing the potential threat posed by UAP"
+  },
+  {
+   "s": "case",
+   "p": "purpose",
+   "v": "means to develop processes, policies, technologies and training for U.S. military and other U.S. Government personnel who encounter UAP",
+   "quote": "while also providing a means to develop relevant processes, policies, technologies, and training for the U.S. military and other U.S. Government (USG) personnel if and when they encounter UAP"
+  },
+  {
+   "s": "case",
+   "p": "prepared_for",
+   "v": "Congressional Intelligence and Armed Services Committees",
+   "quote": "ODNI prepared this report for the Congressional Intelligence and Armed Services Committees."
+  },
+  {
+   "s": "case",
+   "p": "dataset_period",
+   "v": "November 2004 to March 2021",
+   "quote": "The dataset described in this report is currently limited primarily to U.S. Government reporting of incidents occurring from November 2004 to March 2021."
+  },
+  {
+   "s": "case",
+   "p": "data_status",
+   "v": "Data continues to be collected and analyzed",
+   "quote": "Data continues to be collected and analyzed."
+  },
+  {
+   "s": "case",
+   "p": "assumption",
+   "v": "sensors that register UAP generally operate correctly, but some UAP may be attributable to sensor anomalies",
+   "quote": "Various forms of sensors that register UAP generally operate correctly and capture enough real data to allow initial assessments, but some UAP may be attributable to sensor anomalies."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "limited amount of high-quality reporting hampers firm conclusions about the nature or intent of UAP",
+   "quote": "The limited amount of high-quality reporting on unidentified aerial phenomena (UAP) hampers our ability to draw firm conclusions about the nature or intent of UAP."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "most UAP reported probably represent physical objects, as a majority were registered across multiple sensors",
+   "quote": "Most of the UAP reported probably do represent physical objects given that a majority of UAP were registered across multiple sensors, to include radar, infrared, electro-optical, weapon seekers, and visual observation."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "in a limited number of incidents UAP reportedly appeared to exhibit unusual flight characteristics",
+   "quote": "In a limited number of incidents, UAP reportedly appeared to exhibit unusual flight characteristics."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "unusual flight observations could be the result of sensor errors, spoofing, or observer misperception",
+   "quote": "These observations could be the result of sensor errors, spoofing, or observer misperception and require additional rigorous analysis."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "there are probably multiple types of UAP requiring different explanations",
+   "quote": "There are probably multiple types of UAP requiring different explanations based on the range of appearances and behaviors described in the available reporting."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "resolved incidents will fall into one of five potential explanatory categories: airborne clutter, natural atmospheric phenomena, USG or U.S. industry developmental programs, foreign adversary systems, and a catchall 'other' bin",
+   "quote": "they will fall into one of five potential explanatory categories: airborne clutter, natural atmospheric phenomena, USG or U.S. industry developmental programs, foreign adversary systems, and a catchall \"other\" bin"
+  },
+  {
+   "s": "case",
+   "p": "explanatory_category_count",
+   "v": "5",
+   "quote": "they will fall into one of five potential explanatory categories: airborne clutter, natural atmospheric phenomena, USG or industry developmental programs, foreign adversary systems, and a catchall \"other\" bin"
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "UAP clearly pose a safety of flight issue and may pose a challenge to U.S. national security",
+   "quote": "UAP clearly pose a safety of flight issue and may pose a challenge to U.S. national security."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "safety concerns center on aviators contending with an increasingly cluttered air domain",
+   "quote": "Safety concerns primarily center on aviators contending with an increasingly cluttered air domain."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "UAP would be a national security challenge if they are foreign adversary collection platforms or evidence of breakthrough or disruptive technology",
+   "quote": "UAP would also represent a national security challenge if they are foreign adversary collection platforms or provide evidence a potential adversary has developed either a breakthrough or disruptive technology."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "UAP could pose a broader danger if some represent sophisticated collection against U.S. military activities by a foreign government",
+   "quote": "UAP pose a hazard to safety of flight and could pose a broader danger if some instances represent sophisticated collection against U.S. military activities by a foreign government or demonstrate a breakthrough aerospace technology by a potential adversary."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "limited data and inconsistency in reporting are key challenges to evaluating UAP",
+   "quote": "Limited data and inconsistency in reporting are key challenges to evaluating UAP."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "sociocultural stigmas and sensor limitations remain obstacles to collecting data on UAP",
+   "quote": "Sociocultural stigmas and sensor limitations remain obstacles to collecting data on UAP."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "aviators and analysts describe disparagement associated with observing, reporting, or discussing UAP",
+   "quote": "Narratives from aviators in the operational community and analysts from the military and IC describe disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "reputational risk may keep many observers silent",
+   "quote": "reputational risk may keep many observers silent, complicating scientific pursuit of the topic"
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "effects of stigmas have lessened as senior scientific, policy, military, and intelligence figures engage on the topic seriously in public",
+   "quote": "Although the effects of these stigmas have lessened as senior members of the scientific, policy, military, and intelligence communities engage on the topic seriously in public"
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "sensors mounted on U.S. military platforms are not generally suited for identifying UAP",
+   "quote": "The sensors mounted on U.S. military platforms are typically designed to fulfill specific missions. As a result, those sensors are not generally suited for identifying UAP."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "sensor vantage points and number of sensors observing an object play substantial roles in distinguishing UAP from known objects",
+   "quote": "Sensor vantage points and the numbers of sensors concurrently observing an object play substantial roles in distinguishing UAP from known objects and determining whether a UAP demonstrates breakthrough aerospace capabilities."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "optical sensors provide insight into relative size, shape, and structure",
+   "quote": "Optical sensors have the benefit of providing some insight into relative size, shape, and structure."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "radiofrequency sensors provide more accurate velocity and range information",
+   "quote": "Radiofrequency sensors provide more accurate velocity and range information."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "filtering out radar clutter to ensure safety of flight is a longstanding technical challenge in the aviation community",
+   "quote": "how to appropriately filter out radar clutter to ensure safety of flight for military and civilian aircraft"
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "currently lack sufficient information in the dataset to attribute incidents to specific explanations",
+   "quote": "With the exception of the one instance where we determined with high confidence that the reported UAP was airborne clutter, specifically a deflating balloon, we currently lack sufficient information in our dataset to attribute incidents to specific explanations."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "unable to confirm that U.S. developmental or classified programs accounted for any of the UAP reports collected",
+   "quote": "We were unable to confirm, however, that these systems accounted for any of the UAP reports we collected."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "currently lack data to indicate any UAP are part of a foreign collection program or a major technological advancement by a potential adversary",
+   "quote": "We currently lack data to indicate any UAP are part of a foreign collection program or indicative of a major technological advancement by a potential adversary."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "some UAP may require additional scientific knowledge to collect on, analyze and characterize",
+   "quote": "Other: Although most of the UAP described in our dataset probably remain unidentified due to limited data or challenges to collection processing or analysis, we may require additional scientific knowledge to successfully collect on, analyze and characterize some of them."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "aviators are required to report safety hazards; ceasing tests or training and landing has a deterrent effect on reporting",
+   "quote": "Depending on the location, volume, and behavior of hazards during incursions on ranges, pilots may cease their tests and/or training and land their aircraft, which has a deterrent effect on reporting."
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "We are conducting further analysis to determine if breakthrough technologies were demonstrated",
+   "quote": "We are conducting further analysis to determine if breakthrough technologies were demonstrated."
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "additional rigorous analysis by multiple teams or groups of technical experts is necessary to determine the nature and validity of the data",
+   "quote": "Additional rigorous analysis are necessary by multiple teams or groups of technical experts to determine the nature and validity of these data."
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "continue to monitor for evidence of foreign collection programs given the counter intelligence challenge they would pose",
+   "quote": "We continue to monitor for evidence of such programs given the counter intelligence challenge they would pose, particularly as some UAP have been detected near military facilities or by aircraft carrying the USG's most advanced sensor systems."
+  },
+  {
+   "s": "case",
+   "p": "recommendation",
+   "v": "consistent consolidation of reports from across the federal government, standardized reporting, increased collection and analysis, and a streamlined screening process",
+   "quote": "Consistent consolidation of reports from across the federal government, standardized reporting, increased collection and analysis, and a streamlined process for screening all such reports against a broad range of relevant USG data will allow for a more sophisticated analysis of UAP that is likely to deepen our understanding."
+  },
+  {
+   "s": "case",
+   "p": "recommendation",
+   "v": "some steps are resource-intensive and would require additional investment",
+   "quote": "Some of these steps are resource-intensive and would require additional investment."
+  },
+  {
+   "s": "case",
+   "p": "recommendation",
+   "v": "standardize the reporting, consolidate the data, and deepen the analysis",
+   "quote": "Standardize the Reporting, Consolidate the Data, and Deepen the Analysis"
+  },
+  {
+   "s": "case",
+   "p": "recommendation",
+   "v": "expand collection",
+   "quote": "The UAPTF is looking for novel ways to increase collection of UAP cluster areas when U.S. forces are not present as a way to baseline \"standard\" UAP activity and mitigate the collection bias in the dataset."
+  },
+  {
+   "s": "case",
+   "p": "recommendation",
+   "v": "increase investment in research and development",
+   "quote": "Increase Investment in Research and Development"
+  },
+  {
+   "s": "case",
+   "p": "definition_uap",
+   "v": "Airborne objects not immediately identifiable",
+   "quote": "Unidentified Aerial Phenomena (UAP): Airborne objects not immediately identifiable."
+  },
+  {
+   "s": "case",
+   "p": "definition_uap",
+   "v": "the broadest category of airborne objects reviewed for analysis",
+   "quote": "The acronym UAP represents the broadest category of airborne objects reviewed for analysis."
+  },
+  {
+   "s": "case",
+   "p": "definition_uap_event",
+   "v": "A holistic description of an occurrence during which a pilot or aircrew witnessed (or detected) a UAP",
+   "quote": "UAP Event: A holistic description of an occurrence during which a pilot or aircrew witnessed (or detected) a UAP."
+  },
+  {
+   "s": "case",
+   "p": "definition_uap_incident",
+   "v": "A specific part of the event",
+   "quote": "UAP Incident: A specific part of the event."
+  },
+  {
+   "s": "case",
+   "p": "definition_uap_report",
+   "v": "Documentation of a UAP event, to include verified chains of custody and basic information such as the time, date, location, and description of the UAP",
+   "quote": "UAP Report: Documentation of a UAP event, to include verified chains of custody and basic information such as the time, date, location, and description of the UAP."
+  },
+  {
+   "s": "dataset",
+   "p": "related_case",
+   "o": "case",
+   "quote": "The dataset described in this report is currently limited primarily to U.S. Government reporting of incidents occurring from November 2004 to March 2021."
+  },
+  {
+   "s": "dataset",
+   "p": "date_start",
+   "v": "2004-11",
+   "quote": "The dataset described in this report is currently limited primarily to U.S. Government reporting of incidents occurring from November 2004 to March 2021."
+  },
+  {
+   "s": "dataset",
+   "p": "date_end",
+   "v": "2021-03",
+   "quote": "The dataset described in this report is currently limited primarily to U.S. Government reporting of incidents occurring from November 2004 to March 2021."
+  },
+  {
+   "s": "dataset",
+   "p": "country",
+   "v": "United States",
+   "quote": "The dataset described in this report is currently limited primarily to U.S. Government reporting of incidents occurring from November 2004 to March 2021."
+  },
+  {
+   "s": "dataset",
+   "p": "report_count",
+   "v": "144",
+   "quote": "144 reports originated from USG sources."
+  },
+  {
+   "s": "dataset",
+   "p": "report_origin",
+   "v": "USG sources",
+   "quote": "144 reports originated from USG sources."
+  },
+  {
+   "s": "dataset",
+   "p": "multiple_sensor_report_count",
+   "v": "80",
+   "quote": "Of these, 80 reports involved observation with multiple sensors."
+  },
+  {
+   "s": "dataset",
+   "p": "identified_count",
+   "v": "1",
+   "quote": "We were able to identify one reported UAP with high confidence."
+  },
+  {
+   "s": "dataset",
+   "p": "status",
+   "v": "all but one remain unexplained",
+   "quote": "The others remain unexplained."
+  },
+  {
+   "s": "dataset",
+   "p": "period",
+   "v": "between 2004 and 2021",
+   "quote": "the UAPTF concentrated its review on reports that occurred between 2004 and 2021, the majority of which are a result of this new tailored process to better capture UAP events through formalized reporting"
+  },
+  {
+   "s": "dataset",
+   "p": "timing",
+   "v": "majority of incidents in the last two years as the new reporting mechanism became better known",
+   "quote": "These reports describe incidents that occurred between 2004 and 2021, with the majority coming in the last two years as the new reporting mechanism became better known to the military aviation community."
+  },
+  {
+   "s": "dataset",
+   "p": "witnesses",
+   "v": "largely witnessed firsthand by military aviators",
+   "quote": "the UAPTF focused on reports that involved UAP largely witnessed firsthand by military aviators and that were collected from systems we considered to be reliable"
+  },
+  {
+   "s": "dataset",
+   "p": "data_quality",
+   "v": "collected from systems considered to be reliable",
+   "quote": "the UAPTF focused on reports that involved UAP largely witnessed firsthand by military aviators and that were collected from systems we considered to be reliable"
+  },
+  {
+   "s": "dataset",
+   "p": "sensors",
+   "v": "radar, infrared, electro-optical, weapon seekers, and visual observation",
+   "quote": "Most of the UAP reported probably do represent physical objects given that a majority of UAP were registered across multiple sensors, to include radar, infrared, electro-optical, weapon seekers, and visual observation."
+  },
+  {
+   "s": "dataset",
+   "p": "assessment",
+   "v": "most UAP reported probably represent physical objects",
+   "quote": "Most of the UAP reported probably do represent physical objects given that a majority of UAP were registered across multiple sensors, to include radar, infrared, electro-optical, weapon seekers, and visual observation."
+  },
+  {
+   "s": "dataset",
+   "p": "description",
+   "v": "objects that interrupted pre-planned training or other military activity",
+   "quote": "Most reports described UAP as objects that interrupted pre-planned training or other military activity."
+  },
+  {
+   "s": "dataset",
+   "p": "data_source",
+   "v": "majority of UAP data is from U.S. Navy reporting",
+   "quote": "The majority of UAP data is from U.S. Navy reporting, but efforts are underway to standardize incident reporting across U.S. military services and other government agencies"
+  },
+  {
+   "s": "dataset",
+   "p": "report_source",
+   "v": "U.S. military and Intelligence Community reporting",
+   "quote": "The Unidentified Aerial Phenomena Task Force (UAPTF) considered a range of information on UAP described in U.S. military and IC (Intelligence Community) reporting"
+  },
+  {
+   "s": "dataset",
+   "p": "report_source",
+   "v": "majority result from the new tailored formalized reporting process",
+   "quote": "the UAPTF concentrated its review on reports that occurred between 2004 and 2021, the majority of which are a result of this new tailored process to better capture UAP events through formalized reporting"
+  },
+  {
+   "s": "dataset",
+   "p": "pattern",
+   "v": "some clustering of UAP observations regarding shape, size, and, particularly, propulsion",
+   "quote": "there was some clustering of UAP observations regarding shape, size, and, particularly, propulsion"
+  },
+  {
+   "s": "dataset",
+   "p": "pattern",
+   "v": "wide variability in the reports; dataset too limited for detailed trend or pattern analysis",
+   "quote": "Although there was wide variability in the reports and the dataset is currently too limited to allow for detailed trend or pattern analysis"
+  },
+  {
+   "s": "dataset",
+   "p": "location_pattern",
+   "v": "sightings tended to cluster around U.S. training and testing grounds",
+   "quote": "UAP sightings also tended to cluster around U.S. training and testing grounds"
+  },
+  {
+   "s": "dataset",
+   "p": "location_pattern",
+   "v": "some UAP detected near military facilities or by aircraft carrying the USG's most advanced sensor systems",
+   "quote": "We continue to monitor for evidence of such programs given the counter intelligence challenge they would pose, particularly as some UAP have been detected near military facilities or by aircraft carrying the USG's most advanced sensor systems."
+  },
+  {
+   "s": "dataset",
+   "p": "caveat",
+   "v": "clustering may result from a collection bias: focused attention, more latest-generation sensors, unit expectations, and guidance to report anomalies",
+   "quote": "we assess that this may result from a collection bias as a result of focused attention, greater numbers of latest-generation sensors operating in those areas, unit expectations, and guidance to report anomalies"
+  },
+  {
+   "s": "dataset",
+   "p": "behavior",
+   "v": "an array of aerial behaviors",
+   "quote": "The UAP documented in this limited dataset demonstrate an array of aerial behaviors, reinforcing the possibility there are multiple types of UAP requiring different explanations."
+  },
+  {
+   "s": "dataset",
+   "p": "radio_frequency_energy",
+   "v": "in a small number of cases, military aircraft systems processed RF energy associated with UAP sightings",
+   "quote": "In a small number of cases, military aircraft systems processed radio frequency (RF) energy associated with UAP sightings."
+  },
+  {
+   "s": "dataset",
+   "p": "unreported_observations",
+   "v": "UAPTF heard anecdotally of other observations never captured in formal or informal reporting",
+   "quote": "The UAPTF regularly heard anecdotally during its research about other observations that occurred but which were never captured in formal or informal reporting by those observers."
+  },
+  {
+   "s": "dataset",
+   "p": "status",
+   "v": "most UAP in the dataset probably remain unidentified due to limited data or challenges to collection processing or analysis",
+   "quote": "Other: Although most of the UAP described in our dataset probably remain unidentified due to limited data or challenges to collection processing or analysis, we may require additional scientific knowledge to successfully collect on, analyze and characterize some of them."
+  },
+  {
+   "s": "unusual18",
+   "p": "related_case",
+   "o": "case",
+   "quote": "In 18 incidents, described in 21 reports, observers reported unusual UAP movement patterns or flight characteristics."
+  },
+  {
+   "s": "unusual18",
+   "p": "part_of",
+   "o": "dataset",
+   "quote": "In 18 incidents, described in 21 reports, observers reported unusual UAP movement patterns or flight characteristics."
+  },
+  {
+   "s": "unusual18",
+   "p": "incident_count",
+   "v": "18",
+   "quote": "In 18 incidents, described in 21 reports, observers reported unusual UAP movement patterns or flight characteristics."
+  },
+  {
+   "s": "unusual18",
+   "p": "report_count",
+   "v": "21",
+   "quote": "In 18 incidents, described in 21 reports, observers reported unusual UAP movement patterns or flight characteristics."
+  },
+  {
+   "s": "unusual18",
+   "p": "description",
+   "v": "observers reported unusual UAP movement patterns or flight characteristics",
+   "quote": "In 18 incidents, described in 21 reports, observers reported unusual UAP movement patterns or flight characteristics."
+  },
+  {
+   "s": "unusual18",
+   "p": "movement",
+   "v": "appeared to remain stationary in winds aloft",
+   "quote": "Some UAP appeared to remain stationary in winds aloft, move against the wind, maneuver abruptly, or move at considerable speed, without discernable means of propulsion."
+  },
+  {
+   "s": "unusual18",
+   "p": "movement",
+   "v": "move against the wind",
+   "quote": "Some UAP appeared to remain stationary in winds aloft, move against the wind, maneuver abruptly, or move at considerable speed, without discernable means of propulsion."
+  },
+  {
+   "s": "unusual18",
+   "p": "movement",
+   "v": "maneuver abruptly",
+   "quote": "Some UAP appeared to remain stationary in winds aloft, move against the wind, maneuver abruptly, or move at considerable speed, without discernable means of propulsion."
+  },
+  {
+   "s": "unusual18",
+   "p": "speed",
+   "v": "considerable speed",
+   "quote": "Some UAP appeared to remain stationary in winds aloft, move against the wind, maneuver abruptly, or move at considerable speed, without discernable means of propulsion."
+  },
+  {
+   "s": "unusual18",
+   "p": "propulsion",
+   "v": "without discernable means of propulsion",
+   "quote": "Some UAP appeared to remain stationary in winds aloft, move against the wind, maneuver abruptly, or move at considerable speed, without discernable means of propulsion."
+  },
+  {
+   "s": "unusual18",
+   "p": "apparent_capability",
+   "v": "acceleration or a degree of signature management",
+   "quote": "The UAPTF holds a small amount of data that appear to show UAP demonstrating acceleration or a degree of signature management."
+  },
+  {
+   "s": "unusual18",
+   "p": "frequency",
+   "v": "a limited number of incidents",
+   "quote": "In a limited number of incidents, UAP reportedly appeared to exhibit unusual flight characteristics."
+  },
+  {
+   "s": "unusual18",
+   "p": "caveat",
+   "v": "could be the result of sensor errors, spoofing, or observer misperception; requires additional rigorous analysis",
+   "quote": "These observations could be the result of sensor errors, spoofing, or observer misperception and require additional rigorous analysis."
+  },
+  {
+   "s": "unusual18",
+   "p": "follow_up",
+   "v": "UAPTF intends to focus additional analysis on these cases",
+   "quote": "The UAPTF intends to focus additional analysis on the small number of cases where a UAP appeared to display unusual flight characteristics or signature management."
+  },
+  {
+   "s": "unusual18",
+   "p": "heading",
+   "v": "a handful of UAP appear to demonstrate advanced technology",
+   "quote": "And a Handful of UAP Appear to Demonstrate Advanced Technology"
+  },
+  {
+   "s": "nearmiss",
+   "p": "related_case",
+   "o": "case",
+   "quote": "The UAPTF has 11 reports of documented instances in which pilots reported near misses with a UAP."
+  },
+  {
+   "s": "nearmiss",
+   "p": "part_of",
+   "o": "dataset",
+   "quote": "The UAPTF has 11 reports of documented instances in which pilots reported near misses with a UAP."
+  },
+  {
+   "s": "nearmiss",
+   "p": "report_count",
+   "v": "11",
+   "quote": "The UAPTF has 11 reports of documented instances in which pilots reported near misses with a UAP."
+  },
+  {
+   "s": "nearmiss",
+   "p": "description",
+   "v": "documented instances in which pilots reported near misses with a UAP",
+   "quote": "The UAPTF has 11 reports of documented instances in which pilots reported near misses with a UAP."
+  },
+  {
+   "s": "nearmiss",
+   "p": "hazard",
+   "v": "UAP pose a hazard to safety of flight",
+   "quote": "UAP pose a hazard to safety of flight and could pose a broader danger if some instances represent sophisticated collection against U.S. military activities by a foreign government or demonstrate a breakthrough aerospace technology by a potential adversary."
+  },
+  {
+   "s": "balloonincident",
+   "p": "related_case",
+   "o": "case",
+   "quote": "In that case, we identified the object as a large, deflating balloon."
+  },
+  {
+   "s": "balloonincident",
+   "p": "part_of",
+   "o": "dataset",
+   "quote": "We were able to identify one reported UAP with high confidence."
+  },
+  {
+   "s": "balloonincident",
+   "p": "identification_confidence",
+   "v": "high confidence",
+   "quote": "We were able to identify one reported UAP with high confidence."
+  },
+  {
+   "s": "balloonincident",
+   "p": "resolution",
+   "v": "identified as a large, deflating balloon",
+   "quote": "In that case, we identified the object as a large, deflating balloon."
+  },
+  {
+   "s": "balloonincident",
+   "p": "resolution",
+   "v": "airborne clutter, specifically a deflating balloon",
+   "quote": "With the exception of the one instance where we determined with high confidence that the reported UAP was airborne clutter, specifically a deflating balloon, we currently lack sufficient information in our dataset to attribute incidents to specific explanations."
+  },
+  {
+   "s": "balloonincident",
+   "p": "status",
+   "v": "the only reported UAP identified; the others remain unexplained",
+   "quote": "The others remain unexplained."
+  },
+  {
+   "s": "balloon_obj",
+   "p": "reported_object",
+   "o": "balloonincident",
+   "quote": "In that case, we identified the object as a large, deflating balloon."
+  },
+  {
+   "s": "balloon_obj",
+   "p": "size",
+   "v": "large",
+   "quote": "In that case, we identified the object as a large, deflating balloon."
+  },
+  {
+   "s": "balloon_obj",
+   "p": "condition",
+   "v": "deflating",
+   "quote": "In that case, we identified the object as a large, deflating balloon."
+  },
+  {
+   "s": "odni",
+   "p": "authored",
+   "o": "case",
+   "quote": "ODNI prepared this report for the Congressional Intelligence and Armed Services Committees."
+  },
+  {
+   "s": "odni",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "This preliminary report is provided by the Office of the Director of National Intelligence (ODNI) in response to the provision in Senate Report 116-233, accompanying the Intelligence Authorization Act (IAA) for Fiscal Year 2021"
+  },
+  {
+   "s": "odni",
+   "p": "published",
+   "o": "case",
+   "quote": "OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE Preliminary Assessment: Unidentified Aerial Phenomena"
+  },
+  {
+   "s": "dni",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "that the DNI, in consultation with the Secretary of Defense (SECDEF), is to submit an intelligence assessment of the threat posed by unidentified aerial phenomena (UAP)"
+  },
+  {
+   "s": "dni",
+   "p": "tasking",
+   "v": "to submit an intelligence assessment of the threat posed by UAP, in consultation with the Secretary of Defense",
+   "quote": "that the DNI, in consultation with the Secretary of Defense (SECDEF), is to submit an intelligence assessment of the threat posed by unidentified aerial phenomena (UAP)"
+  },
+  {
+   "s": "dni",
+   "p": "tasking",
+   "v": "to submit the assessment in consultation with the SECDEF and other relevant heads of USG Agencies",
+   "quote": "Senate Report 116-233, accompanying the Intelligence Authorization Act for Fiscal Year 2021, provides that the DNI, in consultation with the SECDEF and other relevant heads of USG Agencies, is to submit an intelligence assessment of the threat posed by UAP and the progress the UAPTF has made to understand this threat."
+  },
+  {
+   "s": "secdef",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "that the DNI, in consultation with the Secretary of Defense (SECDEF), is to submit an intelligence assessment of the threat posed by unidentified aerial phenomena (UAP)"
+  },
+  {
+   "s": "secdef",
+   "p": "role",
+   "v": "consulted by the DNI on the intelligence assessment",
+   "quote": "Senate Report 116-233, accompanying the Intelligence Authorization Act for Fiscal Year 2021, provides that the DNI, in consultation with the SECDEF and other relevant heads of USG Agencies, is to submit an intelligence assessment of the threat posed by UAP and the progress the UAPTF has made to understand this threat."
+  },
+  {
+   "s": "dod",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the progress the Department of Defense Unidentified Aerial Phenomena Task Force (UAPTF) has made in understanding this threat"
+  },
+  {
+   "s": "dod",
+   "p": "role",
+   "v": "source of collection platforms and methods for the interagency UAP collection strategy",
+   "quote": "The UAPTF also plans to update its current interagency UAP collection strategy in order bring to bear relevant collection platforms and methods from the DoD and the IC."
+  },
+  {
+   "s": "uaptf",
+   "p": "authored",
+   "o": "case",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "uaptf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the progress the Department of Defense Unidentified Aerial Phenomena Task Force (UAPTF) has made in understanding this threat"
+  },
+  {
+   "s": "uaptf",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "the progress the Department of Defense Unidentified Aerial Phenomena Task Force (UAPTF) has made in understanding this threat"
+  },
+  {
+   "s": "uaptf",
+   "p": "investigated_by",
+   "o": "dataset",
+   "quote": "the UAPTF concentrated its review on reports that occurred between 2004 and 2021, the majority of which are a result of this new tailored process to better capture UAP events through formalized reporting"
+  },
+  {
+   "s": "uaptf",
+   "p": "investigated_by",
+   "o": "unusual18",
+   "quote": "The UAPTF intends to focus additional analysis on the small number of cases where a UAP appeared to display unusual flight characteristics or signature management."
+  },
+  {
+   "s": "uaptf",
+   "p": "investigated_by",
+   "o": "nearmiss",
+   "quote": "The UAPTF has 11 reports of documented instances in which pilots reported near misses with a UAP."
+  },
+  {
+   "s": "uaptf",
+   "p": "investigated_by",
+   "o": "balloonincident",
+   "quote": "We were able to identify one reported UAP with high confidence."
+  },
+  {
+   "s": "uaptf",
+   "p": "director_role",
+   "v": "Director, UAPTF, is the accountable official for ensuring the timely collection and consolidation of data on UAP",
+   "quote": "The Director, UAPTF, is the accountable official for ensuring the timely collection and consolidation of data on UAP."
+  },
+  {
+   "s": "uaptf",
+   "p": "activity",
+   "v": "considered a range of information on UAP described in U.S. military and IC reporting",
+   "quote": "The Unidentified Aerial Phenomena Task Force (UAPTF) considered a range of information on UAP described in U.S. military and IC (Intelligence Community) reporting"
+  },
+  {
+   "s": "uaptf",
+   "p": "conclusion",
+   "v": "a unique, tailored reporting process was required to provide sufficient data for analysis of UAP events",
+   "quote": "ultimately recognized that a unique, tailored reporting process was required to provide sufficient data for analysis of UAP events"
+  },
+  {
+   "s": "uaptf",
+   "p": "review_scope",
+   "v": "concentrated its review on reports that occurred between 2004 and 2021",
+   "quote": "the UAPTF concentrated its review on reports that occurred between 2004 and 2021, the majority of which are a result of this new tailored process to better capture UAP events through formalized reporting"
+  },
+  {
+   "s": "uaptf",
+   "p": "review_scope",
+   "v": "focused on reports largely witnessed firsthand by military aviators and collected from systems considered reliable",
+   "quote": "the UAPTF focused on reports that involved UAP largely witnessed firsthand by military aviators and that were collected from systems we considered to be reliable"
+  },
+  {
+   "s": "uaptf",
+   "p": "statement",
+   "v": "regularly heard anecdotally about other observations never captured in formal or informal reporting",
+   "quote": "The UAPTF regularly heard anecdotally during its research about other observations that occurred but which were never captured in formal or informal reporting by those observers."
+  },
+  {
+   "s": "uaptf",
+   "p": "holdings",
+   "v": "a small amount of data that appear to show UAP demonstrating acceleration or a degree of signature management",
+   "quote": "The UAPTF holds a small amount of data that appear to show UAP demonstrating acceleration or a degree of signature management."
+  },
+  {
+   "s": "uaptf",
+   "p": "holdings",
+   "v": "11 reports of documented instances in which pilots reported near misses with a UAP",
+   "quote": "The UAPTF has 11 reports of documented instances in which pilots reported near misses with a UAP."
+  },
+  {
+   "s": "uaptf",
+   "p": "holdings",
+   "v": "UAPTF databases",
+   "quote": "This report and UAPTF databases use the following defining terms:"
+  },
+  {
+   "s": "uaptf",
+   "p": "plan",
+   "v": "focus additional analysis on the small number of cases where a UAP appeared to display unusual flight characteristics or signature management",
+   "quote": "The UAPTF intends to focus additional analysis on the small number of cases where a UAP appeared to display unusual flight characteristics or signature management."
+  },
+  {
+   "s": "uaptf",
+   "p": "long_term_goal",
+   "v": "widen the scope of its work to include additional UAP events documented by a broader swath of USG personnel and technical systems",
+   "quote": "In line with the provisions of Senate Report 116-233, accompanying the IAA for FY 2021, the UAPTF's long-term goal is to widen the scope of its work to include additional UAP events documented by a broader swath of USG personnel and technical systems in its analysis."
+  },
+  {
+   "s": "uaptf",
+   "p": "plan",
+   "v": "employ data analytics to detect trends as the dataset increases",
+   "quote": "As the dataset increases, the UAPTF's ability to employ data analytics to detect trends will also improve."
+  },
+  {
+   "s": "uaptf",
+   "p": "plan",
+   "v": "employ artificial intelligence/machine learning algorithms to cluster and recognize similarities and patterns",
+   "quote": "The initial focus will be to employ artificial intelligence/machine learning algorithms to cluster and recognize similarities and patterns in features of the data points."
+  },
+  {
+   "s": "uaptf",
+   "p": "plan",
+   "v": "machine learning pre-assessment of UAP reports against known aerial objects such as weather balloons, high-altitude or super-pressure balloons, and wildlife",
+   "quote": "As the database accumulates information from known aerial objects such as weather balloons, high-altitude or super-pressure balloons, and wildlife, machine learning can add efficiency by pre-assessing UAP reports to see if those records match similar events already in the database."
+  },
+  {
+   "s": "uaptf",
+   "p": "activity",
+   "v": "has begun to develop interagency analytical and processing workflows",
+   "quote": "The UAPTF has begun to develop interagency analytical and processing workflows to ensure both collection and analysis will be well informed and coordinated."
+  },
+  {
+   "s": "uaptf",
+   "p": "activity",
+   "v": "working to acquire additional reporting, including from the U.S. Air Force, and has begun receiving data from the FAA",
+   "quote": "The UAPTF is currently working to acquire additional reporting, including from the U.S. Air Force (USAF), and has begun receiving data from the Federal Aviation Administration (FAA)."
+  },
+  {
+   "s": "uaptf",
+   "p": "plan",
+   "v": "looking for novel ways to increase collection of UAP cluster areas when U.S. forces are not present",
+   "quote": "The UAPTF is looking for novel ways to increase collection of UAP cluster areas when U.S. forces are not present as a way to baseline \"standard\" UAP activity and mitigate the collection bias in the dataset."
+  },
+  {
+   "s": "uaptf",
+   "p": "proposal",
+   "v": "use advanced algorithms to search historical data captured and stored by radars",
+   "quote": "One proposal is to use advanced algorithms to search historical data captured and stored by radars."
+  },
+  {
+   "s": "uaptf",
+   "p": "plan",
+   "v": "update its current interagency UAP collection strategy",
+   "quote": "The UAPTF also plans to update its current interagency UAP collection strategy in order bring to bear relevant collection platforms and methods from the DoD and the IC."
+  },
+  {
+   "s": "uaptf",
+   "p": "statement",
+   "v": "additional funding for research and development could further the future study of the topics in the report",
+   "quote": "The UAPTF has indicated that additional funding for research and development could further the future study of the topics laid out in this report."
+  },
+  {
+   "s": "usg",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "relevant processes, policies, technologies, and training for the U.S. military and other U.S. Government (USG) personnel"
+  },
+  {
+   "s": "usg",
+   "p": "involved_org",
+   "o": "dataset",
+   "quote": "144 reports originated from USG sources."
+  },
+  {
+   "s": "ic",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "so as to enhance the Intelligence Community's (IC) ability to understand the threat"
+  },
+  {
+   "s": "ic",
+   "p": "involved_org",
+   "o": "dataset",
+   "quote": "The Unidentified Aerial Phenomena Task Force (UAPTF) considered a range of information on UAP described in U.S. military and IC (Intelligence Community) reporting"
+  },
+  {
+   "s": "ic",
+   "p": "role",
+   "v": "source of collection platforms and methods for the interagency UAP collection strategy",
+   "quote": "The UAPTF also plans to update its current interagency UAP collection strategy in order bring to bear relevant collection platforms and methods from the DoD and the IC."
+  },
+  {
+   "s": "military",
+   "p": "involved_org",
+   "o": "dataset",
+   "quote": "The Unidentified Aerial Phenomena Task Force (UAPTF) considered a range of information on UAP described in U.S. military and IC (Intelligence Community) reporting"
+  },
+  {
+   "s": "military",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "relevant processes, policies, technologies, and training for the U.S. military and other U.S. Government (USG) personnel"
+  },
+  {
+   "s": "military",
+   "p": "sensor_limitation",
+   "v": "sensors mounted on U.S. military platforms are typically designed to fulfill specific missions and are not generally suited for identifying UAP",
+   "quote": "The sensors mounted on U.S. military platforms are typically designed to fulfill specific missions. As a result, those sensors are not generally suited for identifying UAP."
+  },
+  {
+   "s": "military",
+   "p": "reporting_standardization",
+   "v": "efforts are underway to standardize incident reporting across U.S. military services and other government agencies",
+   "quote": "The majority of UAP data is from U.S. Navy reporting, but efforts are underway to standardize incident reporting across U.S. military services and other government agencies"
+  },
+  {
+   "s": "congress",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "ODNI prepared this report for the Congressional Intelligence and Armed Services Committees."
+  },
+  {
+   "s": "committees",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "ODNI prepared this report for the Congressional Intelligence and Armed Services Committees."
+  },
+  {
+   "s": "committees",
+   "p": "part_of",
+   "o": "congress",
+   "quote": "ODNI prepared this report for the Congressional Intelligence and Armed Services Committees."
+  },
+  {
+   "s": "senate",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "This preliminary report is provided by the Office of the Director of National Intelligence (ODNI) in response to the provision in Senate Report 116-233, accompanying the Intelligence Authorization Act (IAA) for Fiscal Year 2021"
+  },
+  {
+   "s": "senate",
+   "p": "published",
+   "o": "senrep",
+   "quote": "The Senate Report specifically requested that the report include:"
+  },
+  {
+   "s": "nim_aviation",
+   "p": "authored",
+   "o": "case",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "nim_aviation",
+   "p": "part_of",
+   "o": "odni",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "usdis",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "usdis",
+   "p": "role",
+   "v": "provided input to the report",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "dia",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "dia",
+   "p": "role",
+   "v": "provided input to the report",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "fbi",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "fbi",
+   "p": "role",
+   "v": "provided input to the report",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "nro",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "nro",
+   "p": "role",
+   "v": "provided input to the report",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "nga",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "nga",
+   "p": "role",
+   "v": "provided input to the report",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "nsa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "nsa",
+   "p": "role",
+   "v": "provided input to the report",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "usaf",
+   "p": "role",
+   "v": "provided input to the report",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "army",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "army",
+   "p": "role",
+   "v": "provided input to the report",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "navy",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "navy",
+   "p": "role",
+   "v": "provided input to the report",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "oni",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "oni",
+   "p": "role",
+   "v": "provided input to the report",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "darpa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "darpa",
+   "p": "role",
+   "v": "provided input to the report",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "faa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "faa",
+   "p": "role",
+   "v": "provided input to the report",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "noaa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "noaa",
+   "p": "role",
+   "v": "provided input to the report",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "nim_edt",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "nim_edt",
+   "p": "role",
+   "v": "provided input to the report",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "ncsc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "ncsc",
+   "p": "role",
+   "v": "provided input to the report",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "nic",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "nic",
+   "p": "role",
+   "v": "provided input to the report",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "nim_edt",
+   "p": "part_of",
+   "o": "odni",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "ncsc",
+   "p": "part_of",
+   "o": "odni",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "nic",
+   "p": "part_of",
+   "o": "odni",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "oni",
+   "p": "part_of",
+   "o": "navy",
+   "quote": "UAPTF and the ODNI National Intelligence Manager for Aviation drafted this report, with input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Navy/ONI, DARPA, FAA, NOAA, NGA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/National Counterintelligence and Security Center, and ODNI/National Intelligence Council."
+  },
+  {
+   "s": "navy",
+   "p": "involved_org",
+   "o": "dataset",
+   "quote": "The majority of UAP data is from U.S. Navy reporting, but efforts are underway to standardize incident reporting across U.S. military services and other government agencies"
+  },
+  {
+   "s": "navy",
+   "p": "reporting_mechanism_established",
+   "v": "March 2019",
+   "quote": "No standardized reporting mechanism existed until the Navy established one in March 2019."
+  },
+  {
+   "s": "navy",
+   "p": "data_share",
+   "v": "majority of UAP data is from U.S. Navy reporting",
+   "quote": "The majority of UAP data is from U.S. Navy reporting, but efforts are underway to standardize incident reporting across U.S. military services and other government agencies"
+  },
+  {
+   "s": "navy",
+   "p": "aviator_term",
+   "v": "range fouler: an activity or object that interrupts pre-planned training or other military activity in a military operating area or restricted airspace",
+   "quote": "U.S. Navy aviators define a \"range fouler\" as an activity or object that interrupts pre-planned training or other military activity in a military operating area or restricted airspace."
+  },
+  {
+   "s": "usaf",
+   "p": "reporting_mechanism_adopted",
+   "v": "November 2020",
+   "quote": "The Air Force subsequently adopted that mechanism in November 2020, but it remains limited to USG reporting."
+  },
+  {
+   "s": "usaf",
+   "p": "data_collection",
+   "v": "limited historically",
+   "quote": "Although USAF data collection has been limited historically the USAF began a six- month pilot program in November 2020 to collect in the most likely areas to encounter UAP"
+  },
+  {
+   "s": "usaf",
+   "p": "pilot_program_start",
+   "v": "November 2020",
+   "quote": "Although USAF data collection has been limited historically the USAF began a six- month pilot program in November 2020 to collect in the most likely areas to encounter UAP"
+  },
+  {
+   "s": "usaf",
+   "p": "plan",
+   "v": "evaluating how to normalize future collection, reporting, and analysis across the entire Air Force",
+   "quote": "is evaluating how to normalize future collection, reporting, and analysis across the entire Air Force"
+  },
+  {
+   "s": "faa",
+   "p": "involved_org",
+   "o": "dataset",
+   "quote": "The UAPTF is currently working to acquire additional reporting, including from the U.S. Air Force (USAF), and has begun receiving data from the Federal Aviation Administration (FAA)."
+  },
+  {
+   "s": "faa",
+   "p": "role",
+   "v": "UAPTF has begun receiving data from the FAA",
+   "quote": "The UAPTF is currently working to acquire additional reporting, including from the U.S. Air Force (USAF), and has begun receiving data from the Federal Aviation Administration (FAA)."
+  },
+  {
+   "s": "faa",
+   "p": "data_capture",
+   "v": "captures data related to UAP during the normal course of managing air traffic operations",
+   "quote": "The FAA captures data related to UAP during the normal course of managing air traffic operations."
+  },
+  {
+   "s": "faa",
+   "p": "data_capture",
+   "v": "ingests data when pilots and other airspace users report unusual or unexpected events to its Air Traffic Organization",
+   "quote": "The FAA generally ingests this data when pilots and other airspace users report unusual or unexpected events to the FAA's Air Traffic Organization."
+  },
+  {
+   "s": "faa",
+   "p": "monitoring",
+   "v": "continuously monitors its systems for anomalies",
+   "quote": "In addition, the FAA continuously monitors its systems for anomalies, generating additional information that may be of use to the UAPTF."
+  },
+  {
+   "s": "faa",
+   "p": "capability",
+   "v": "able to isolate data of interest to the UAPTF and make it available",
+   "quote": "The FAA is able to isolate data of interest to the UAPTF and make it available."
+  },
+  {
+   "s": "faa",
+   "p": "outreach",
+   "v": "robust and effective outreach program that can help the UAPTF reach members of the aviation community",
+   "quote": "The FAA has a robust and effective outreach program that can help the UAPTF reach members of the aviation community to highlight the importance of reporting UAP."
+  },
+  {
+   "s": "ato",
+   "p": "part_of",
+   "o": "faa",
+   "quote": "The FAA generally ingests this data when pilots and other airspace users report unusual or unexpected events to the FAA's Air Traffic Organization."
+  },
+  {
+   "s": "ato",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The FAA generally ingests this data when pilots and other airspace users report unusual or unexpected events to the FAA's Air Traffic Organization."
+  },
+  {
+   "s": "ato",
+   "p": "role",
+   "v": "receives reports of unusual or unexpected events from pilots and other airspace users",
+   "quote": "The FAA generally ingests this data when pilots and other airspace users report unusual or unexpected events to the FAA's Air Traffic Organization."
+  },
+  {
+   "s": "fbi",
+   "p": "data_requested",
+   "v": "data derived from investigations of intrusions of UAP data over restricted U.S. airspace",
+   "quote": "A detailed analysis of data of the Federal Bureau of Investigation, which was derived from investigations of intrusions of UAP data over restricted U.S. airspace;"
+  },
+  {
+   "s": "oni",
+   "p": "data_requested",
+   "v": "UAP data and intelligence reporting collected or held by the Office of Naval Intelligence",
+   "quote": "A detailed analysis of UAP data and intelligence reporting collected or held by the Office of Naval Intelligence, including data and intelligence reporting held by the UAPTF;"
+  },
+  {
+   "s": "us",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The dataset described in this report is currently limited primarily to U.S. Government reporting of incidents occurring from November 2004 to March 2021."
+  },
+  {
+   "s": "us",
+   "p": "near",
+   "o": "dataset",
+   "quote": "UAP sightings also tended to cluster around U.S. training and testing grounds"
+  },
+  {
+   "s": "us",
+   "p": "airspace",
+   "v": "restricted U.S. airspace",
+   "quote": "A detailed analysis of data of the Federal Bureau of Investigation, which was derived from investigations of intrusions of UAP data over restricted U.S. airspace;"
+  },
+  {
+   "s": "china",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Foreign Adversary Systems: Some UAP may be technologies deployed by China, Russia, another nation, or a non-governmental entity."
+  },
+  {
+   "s": "china",
+   "p": "mentioned_as",
+   "v": "possible deployer of technologies behind some UAP",
+   "quote": "Foreign Adversary Systems: Some UAP may be technologies deployed by China, Russia, another nation, or a non-governmental entity."
+  },
+  {
+   "s": "russia",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Foreign Adversary Systems: Some UAP may be technologies deployed by China, Russia, another nation, or a non-governmental entity."
+  },
+  {
+   "s": "russia",
+   "p": "mentioned_as",
+   "v": "possible deployer of technologies behind some UAP",
+   "quote": "Foreign Adversary Systems: Some UAP may be technologies deployed by China, Russia, another nation, or a non-governmental entity."
+  },
+  {
+   "s": "senrep",
+   "p": "key_document",
+   "o": "case",
+   "quote": "This preliminary report is provided by the Office of the Director of National Intelligence (ODNI) in response to the provision in Senate Report 116-233, accompanying the Intelligence Authorization Act (IAA) for Fiscal Year 2021"
+  },
+  {
+   "s": "senrep",
+   "p": "accompanies",
+   "o": "iaa",
+   "quote": "Senate Report 116-233, accompanying the Intelligence Authorization Act for Fiscal Year 2021, provides that the DNI, in consultation with the SECDEF and other relevant heads of USG Agencies, is to submit an intelligence assessment of the threat posed by UAP and the progress the UAPTF has made to understand this threat."
+  },
+  {
+   "s": "senrep",
+   "p": "provision",
+   "v": "DNI, in consultation with the SECDEF and other relevant heads of USG Agencies, is to submit an intelligence assessment of the threat posed by UAP and the UAPTF's progress",
+   "quote": "Senate Report 116-233, accompanying the Intelligence Authorization Act for Fiscal Year 2021, provides that the DNI, in consultation with the SECDEF and other relevant heads of USG Agencies, is to submit an intelligence assessment of the threat posed by UAP and the progress the UAPTF has made to understand this threat."
+  },
+  {
+   "s": "senrep",
+   "p": "requested_content",
+   "v": "1. detailed analysis of UAP data and intelligence reporting collected or held by the Office of Naval Intelligence, including that held by the UAPTF",
+   "quote": "A detailed analysis of UAP data and intelligence reporting collected or held by the Office of Naval Intelligence, including data and intelligence reporting held by the UAPTF;"
+  },
+  {
+   "s": "senrep",
+   "p": "requested_content",
+   "v": "2. detailed analysis of unidentified phenomena data collected by Geospatial Intelligence, Signals Intelligence, Human Intelligence, and Measurement and Signatures Intelligence",
+   "quote": "A detailed analysis of unidentified phenomena data collected by: a. Geospatial Intelligence; b. Signals Intelligence; c. Human Intelligence; and d. Measurement and Signatures Intelligence"
+  },
+  {
+   "s": "senrep",
+   "p": "requested_content",
+   "v": "3. detailed analysis of FBI data derived from investigations of intrusions of UAP data over restricted U.S. airspace",
+   "quote": "A detailed analysis of data of the Federal Bureau of Investigation, which was derived from investigations of intrusions of UAP data over restricted U.S. airspace;"
+  },
+  {
+   "s": "senrep",
+   "p": "requested_content",
+   "v": "4. detailed description of an interagency process for timely data collection and centralized analysis of all UAP reporting for the Federal Government",
+   "quote": "A detailed description of an interagency process for ensuring timely data collection and centralized analysis of all UAP reporting for the Federal Government, regardless of which service or agency acquired the information;"
+  },
+  {
+   "s": "senrep",
+   "p": "requested_content",
+   "v": "5. identification of an official accountable for that process",
+   "quote": "Identification of an official accountable for the process described in paragraph 4;"
+  },
+  {
+   "s": "senrep",
+   "p": "requested_content",
+   "v": "6. identification of potential aerospace or other threats posed by UAP to national security, and whether UAP activity may be attributed to foreign adversaries",
+   "quote": "Identification of potential aerospace or other threats posed by the UAP to national security, and an assessment of whether this UAP activity may be attributed to one or more foreign adversaries;"
+  },
+  {
+   "s": "senrep",
+   "p": "requested_content",
+   "v": "7. identification of incidents or patterns indicating a potential adversary has achieved breakthrough aerospace capabilities",
+   "quote": "Identification of any incidents or patterns that indicate a potential adversary, have achieved breakthrough aerospace capabilities that could put U.S. strategic or conventional forces at risk; and"
+  },
+  {
+   "s": "senrep",
+   "p": "requested_content",
+   "v": "8. recommendations regarding increased collection of data, enhanced research and development, additional funding, and other resources",
+   "quote": "Recommendations regarding increased collection of data, enhanced research and development, additional funding, and other resources."
+  },
+  {
+   "s": "senrep",
+   "p": "appendix",
+   "v": "Appendix B",
+   "quote": "APPENDIX B - Senate Report Accompanying the Intelligence Authorization Act for Fiscal Year 2021"
+  },
+  {
+   "s": "iaa",
+   "p": "key_document",
+   "o": "case",
+   "quote": "This preliminary report is provided by the Office of the Director of National Intelligence (ODNI) in response to the provision in Senate Report 116-233, accompanying the Intelligence Authorization Act (IAA) for Fiscal Year 2021"
+  },
+  {
+   "s": "iaa",
+   "p": "fiscal_year",
+   "v": "2021",
+   "quote": "This preliminary report is provided by the Office of the Director of National Intelligence (ODNI) in response to the provision in Senate Report 116-233, accompanying the Intelligence Authorization Act (IAA) for Fiscal Year 2021"
+  },
+  {
+   "s": "rangefouler",
+   "p": "key_document",
+   "o": "dataset",
+   "quote": "UAP reports include Range Fouler"
+  },
+  {
+   "s": "rangefouler",
+   "p": "key_document",
+   "o": "case",
+   "quote": "U.S. Navy aviators define a \"range fouler\" as an activity or object that interrupts pre-planned training or other military activity in a military operating area or restricted airspace."
+  },
+  {
+   "s": "rangefouler",
+   "p": "definition",
+   "v": "an activity or object that interrupts pre-planned training or other military activity in a military operating area or restricted airspace",
+   "quote": "U.S. Navy aviators define a \"range fouler\" as an activity or object that interrupts pre-planned training or other military activity in a military operating area or restricted airspace."
+  },
+  {
+   "s": "collstrategy",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Such investments should be guided by a UAP Collection Strategy, UAP R&D Technical Roadmap, and a UAP Program Plan."
+  },
+  {
+   "s": "collstrategy",
+   "p": "status",
+   "v": "current interagency strategy to be updated by the UAPTF",
+   "quote": "The UAPTF also plans to update its current interagency UAP collection strategy in order bring to bear relevant collection platforms and methods from the DoD and the IC."
+  },
+  {
+   "s": "rdroadmap",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Such investments should be guided by a UAP Collection Strategy, UAP R&D Technical Roadmap, and a UAP Program Plan."
+  },
+  {
+   "s": "progplan",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Such investments should be guided by a UAP Collection Strategy, UAP R&D Technical Roadmap, and a UAP Program Plan."
+  },
+  {
+   "s": "navy_mech",
+   "p": "involved_org",
+   "o": "dataset",
+   "quote": "These reports describe incidents that occurred between 2004 and 2021, with the majority coming in the last two years as the new reporting mechanism became better known to the military aviation community."
+  },
+  {
+   "s": "navy_mech",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "No standardized reporting mechanism existed until the Navy established one in March 2019."
+  },
+  {
+   "s": "navy_mech",
+   "p": "part_of",
+   "o": "navy",
+   "quote": "No standardized reporting mechanism existed until the Navy established one in March 2019."
+  },
+  {
+   "s": "navy_mech",
+   "p": "date_established",
+   "v": "2019-03",
+   "quote": "No standardized reporting mechanism existed until the Navy established one in March 2019."
+  },
+  {
+   "s": "navy_mech",
+   "p": "adopted_by_air_force",
+   "v": "November 2020",
+   "quote": "The Air Force subsequently adopted that mechanism in November 2020, but it remains limited to USG reporting."
+  },
+  {
+   "s": "navy_mech",
+   "p": "limitation",
+   "v": "remains limited to USG reporting",
+   "quote": "The Air Force subsequently adopted that mechanism in November 2020, but it remains limited to USG reporting."
+  },
+  {
+   "s": "navy_mech",
+   "p": "prior_state",
+   "v": "no standardized reporting mechanism existed before",
+   "quote": "No standardized reporting mechanism existed until the Navy established one in March 2019."
+  },
+  {
+   "s": "usaf_pilot",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Although USAF data collection has been limited historically the USAF began a six- month pilot program in November 2020 to collect in the most likely areas to encounter UAP"
+  },
+  {
+   "s": "usaf_pilot",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "Although USAF data collection has been limited historically the USAF began a six- month pilot program in November 2020 to collect in the most likely areas to encounter UAP"
+  },
+  {
+   "s": "usaf_pilot",
+   "p": "date_start",
+   "v": "2020-11",
+   "quote": "Although USAF data collection has been limited historically the USAF began a six- month pilot program in November 2020 to collect in the most likely areas to encounter UAP"
+  },
+  {
+   "s": "usaf_pilot",
+   "p": "duration",
+   "v": "six months",
+   "quote": "Although USAF data collection has been limited historically the USAF began a six- month pilot program in November 2020 to collect in the most likely areas to encounter UAP"
+  },
+  {
+   "s": "usaf_pilot",
+   "p": "purpose",
+   "v": "collect in the most likely areas to encounter UAP",
+   "quote": "Although USAF data collection has been limited historically the USAF began a six- month pilot program in November 2020 to collect in the most likely areas to encounter UAP"
+  },
+  {
+   "s": "f_radar",
+   "p": "has_feature",
+   "o": "dataset",
+   "quote": "Most of the UAP reported probably do represent physical objects given that a majority of UAP were registered across multiple sensors, to include radar, infrared, electro-optical, weapon seekers, and visual observation."
+  },
+  {
+   "s": "f_milwit",
+   "p": "has_feature",
+   "o": "dataset",
+   "quote": "the UAPTF focused on reports that involved UAP largely witnessed firsthand by military aviators and that were collected from systems we considered to be reliable"
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "dataset",
+   "quote": "the UAPTF focused on reports that involved UAP largely witnessed firsthand by military aviators and that were collected from systems we considered to be reliable"
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "nearmiss",
+   "quote": "The UAPTF has 11 reports of documented instances in which pilots reported near misses with a UAP."
+  },
+  {
+   "s": "f_base",
+   "p": "has_feature",
+   "o": "dataset",
+   "quote": "UAP sightings also tended to cluster around U.S. training and testing grounds"
+  },
+  {
+   "s": "f_base",
+   "p": "has_feature",
+   "o": "dataset",
+   "quote": "We continue to monitor for evidence of such programs given the counter intelligence challenge they would pose, particularly as some UAP have been detected near military facilities or by aircraft carrying the USG's most advanced sensor systems."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "dataset",
+   "quote": "the UAPTF concentrated its review on reports that occurred between 2004 and 2021, the majority of which are a result of this new tailored process to better capture UAP events through formalized reporting"
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "balloonincident",
+   "quote": "We were able to identify one reported UAP with high confidence."
+  },
+  {
+   "s": "f_hover",
+   "p": "has_feature",
+   "o": "unusual18",
+   "quote": "Some UAP appeared to remain stationary in winds aloft, move against the wind, maneuver abruptly, or move at considerable speed, without discernable means of propulsion."
+  },
+  {
+   "s": "f_speed",
+   "p": "has_feature",
+   "o": "unusual18",
+   "quote": "Some UAP appeared to remain stationary in winds aloft, move against the wind, maneuver abruptly, or move at considerable speed, without discernable means of propulsion."
+  },
+  {
+   "s": "f_noprop",
+   "p": "has_feature",
+   "o": "unusual18",
+   "quote": "Some UAP appeared to remain stationary in winds aloft, move against the wind, maneuver abruptly, or move at considerable speed, without discernable means of propulsion."
+  },
+  {
+   "s": "f_wind",
+   "p": "has_feature",
+   "o": "unusual18",
+   "quote": "Some UAP appeared to remain stationary in winds aloft, move against the wind, maneuver abruptly, or move at considerable speed, without discernable means of propulsion."
+  },
+  {
+   "s": "f_sigman",
+   "p": "has_feature",
+   "o": "unusual18",
+   "quote": "The UAPTF intends to focus additional analysis on the small number of cases where a UAP appeared to display unusual flight characteristics or signature management."
+  },
+  {
+   "s": "f_accel",
+   "p": "has_feature",
+   "o": "unusual18",
+   "quote": "The UAPTF holds a small amount of data that appear to show UAP demonstrating acceleration or a degree of signature management."
+  },
+  {
+   "s": "f_rf",
+   "p": "has_feature",
+   "o": "dataset",
+   "quote": "In a small number of cases, military aircraft systems processed radio frequency (RF) energy associated with UAP sightings."
+  },
+  {
+   "s": "f_multisensor",
+   "p": "has_feature",
+   "o": "dataset",
+   "quote": "Of these, 80 reports involved observation with multiple sensors."
+  },
+  {
+   "s": "f_infrared",
+   "p": "has_feature",
+   "o": "dataset",
+   "quote": "Most of the UAP reported probably do represent physical objects given that a majority of UAP were registered across multiple sensors, to include radar, infrared, electro-optical, weapon seekers, and visual observation."
+  },
+  {
+   "s": "f_eo",
+   "p": "has_feature",
+   "o": "dataset",
+   "quote": "Most of the UAP reported probably do represent physical objects given that a majority of UAP were registered across multiple sensors, to include radar, infrared, electro-optical, weapon seekers, and visual observation."
+  },
+  {
+   "s": "f_seeker",
+   "p": "has_feature",
+   "o": "dataset",
+   "quote": "Most of the UAP reported probably do represent physical objects given that a majority of UAP were registered across multiple sensors, to include radar, infrared, electro-optical, weapon seekers, and visual observation."
+  },
+  {
+   "s": "f_visual",
+   "p": "has_feature",
+   "o": "dataset",
+   "quote": "Most of the UAP reported probably do represent physical objects given that a majority of UAP were registered across multiple sensors, to include radar, infrared, electro-optical, weapon seekers, and visual observation."
+  },
+  {
+   "s": "f_nearmiss",
+   "p": "has_feature",
+   "o": "nearmiss",
+   "quote": "The UAPTF has 11 reports of documented instances in which pilots reported near misses with a UAP."
+  },
+  {
+   "s": "f_rangefouler",
+   "p": "has_feature",
+   "o": "dataset",
+   "quote": "Most reports described UAP as objects that interrupted pre-planned training or other military activity."
+  },
+  {
+   "s": "x_balloon",
+   "p": "explained_as",
+   "o": "balloonincident",
+   "quote": "In that case, we identified the object as a large, deflating balloon."
+  },
+  {
+   "s": "x_balloon",
+   "p": "explained_as",
+   "o": "dataset",
+   "quote": "Airborne Clutter: These objects include birds, balloons, recreational unmanned aerial vehicles (UAV), or airborne debris like plastic bags that muddle a scene and affect an operator's ability to identify true targets, such as enemy aircraft."
+  },
+  {
+   "s": "balloon_obj",
+   "p": "identified_as",
+   "o": "x_balloon",
+   "quote": "In that case, we identified the object as a large, deflating balloon."
+  },
+  {
+   "s": "x_clutter",
+   "p": "explained_as",
+   "o": "balloonincident",
+   "quote": "With the exception of the one instance where we determined with high confidence that the reported UAP was airborne clutter, specifically a deflating balloon, we currently lack sufficient information in our dataset to attribute incidents to specific explanations."
+  },
+  {
+   "s": "x_clutter",
+   "p": "explained_as",
+   "o": "dataset",
+   "quote": "they will fall into one of five potential explanatory categories: airborne clutter, natural atmospheric phenomena, USG or industry developmental programs, foreign adversary systems, and a catchall \"other\" bin"
+  },
+  {
+   "s": "x_clutter",
+   "p": "includes",
+   "v": "birds, balloons, recreational unmanned aerial vehicles (UAV), or airborne debris like plastic bags",
+   "quote": "Airborne Clutter: These objects include birds, balloons, recreational unmanned aerial vehicles (UAV), or airborne debris like plastic bags that muddle a scene and affect an operator's ability to identify true targets, such as enemy aircraft."
+  },
+  {
+   "s": "x_bird",
+   "p": "explained_as",
+   "o": "dataset",
+   "quote": "Airborne Clutter: These objects include birds, balloons, recreational unmanned aerial vehicles (UAV), or airborne debris like plastic bags that muddle a scene and affect an operator's ability to identify true targets, such as enemy aircraft."
+  },
+  {
+   "s": "x_uav",
+   "p": "explained_as",
+   "o": "dataset",
+   "quote": "Airborne Clutter: These objects include birds, balloons, recreational unmanned aerial vehicles (UAV), or airborne debris like plastic bags that muddle a scene and affect an operator's ability to identify true targets, such as enemy aircraft."
+  },
+  {
+   "s": "x_debris",
+   "p": "explained_as",
+   "o": "dataset",
+   "quote": "Airborne Clutter: These objects include birds, balloons, recreational unmanned aerial vehicles (UAV), or airborne debris like plastic bags that muddle a scene and affect an operator's ability to identify true targets, such as enemy aircraft."
+  },
+  {
+   "s": "x_debris",
+   "p": "example",
+   "v": "plastic bags",
+   "quote": "Airborne Clutter: These objects include birds, balloons, recreational unmanned aerial vehicles (UAV), or airborne debris like plastic bags that muddle a scene and affect an operator's ability to identify true targets, such as enemy aircraft."
+  },
+  {
+   "s": "x_natural",
+   "p": "explained_as",
+   "o": "dataset",
+   "quote": "Natural Atmospheric Phenomena: Natural atmospheric phenomena includes ice crystals, moisture, and thermal fluctuations that may register on some infrared and radar systems."
+  },
+  {
+   "s": "x_natural",
+   "p": "includes",
+   "v": "ice crystals, moisture, and thermal fluctuations that may register on some infrared and radar systems",
+   "quote": "Natural Atmospheric Phenomena: Natural atmospheric phenomena includes ice crystals, moisture, and thermal fluctuations that may register on some infrared and radar systems."
+  },
+  {
+   "s": "x_secret",
+   "p": "explained_as",
+   "o": "dataset",
+   "quote": "USG or Industry Developmental Programs: Some UAP observations could be attributable to developments and classified programs by U.S. entities."
+  },
+  {
+   "s": "x_secret",
+   "p": "category_name",
+   "v": "USG or Industry Developmental Programs",
+   "quote": "USG or Industry Developmental Programs: Some UAP observations could be attributable to developments and classified programs by U.S. entities."
+  },
+  {
+   "s": "x_secret",
+   "p": "caveat",
+   "v": "unable to confirm that these systems accounted for any of the UAP reports collected",
+   "quote": "We were unable to confirm, however, that these systems accounted for any of the UAP reports we collected."
+  },
+  {
+   "s": "x_foreign",
+   "p": "explained_as",
+   "o": "dataset",
+   "quote": "Foreign Adversary Systems: Some UAP may be technologies deployed by China, Russia, another nation, or a non-governmental entity."
+  },
+  {
+   "s": "x_foreign",
+   "p": "possible_origin",
+   "v": "China, Russia, another nation, or a non-governmental entity",
+   "quote": "Foreign Adversary Systems: Some UAP may be technologies deployed by China, Russia, another nation, or a non-governmental entity."
+  },
+  {
+   "s": "x_foreign",
+   "p": "caveat",
+   "v": "currently lack data to indicate any UAP are part of a foreign collection program",
+   "quote": "We currently lack data to indicate any UAP are part of a foreign collection program or indicative of a major technological advancement by a potential adversary."
+  },
+  {
+   "s": "x_otherbin",
+   "p": "explained_as",
+   "o": "dataset",
+   "quote": "We would group such objects in this category pending scientific advances that allowed us to better understand them."
+  },
+  {
+   "s": "x_sensor",
+   "p": "explained_as",
+   "o": "unusual18",
+   "quote": "These observations could be the result of sensor errors, spoofing, or observer misperception and require additional rigorous analysis."
+  },
+  {
+   "s": "x_sensor",
+   "p": "explained_as",
+   "o": "dataset",
+   "quote": "Various forms of sensors that register UAP generally operate correctly and capture enough real data to allow initial assessments, but some UAP may be attributable to sensor anomalies."
+  },
+  {
+   "s": "x_spoof",
+   "p": "explained_as",
+   "o": "unusual18",
+   "quote": "These observations could be the result of sensor errors, spoofing, or observer misperception and require additional rigorous analysis."
+  },
+  {
+   "s": "x_mispercep",
+   "p": "explained_as",
+   "o": "unusual18",
+   "quote": "These observations could be the result of sensor errors, spoofing, or observer misperception and require additional rigorous analysis."
+  }
+ ]
+}

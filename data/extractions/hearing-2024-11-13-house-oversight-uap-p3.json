@@ -1,0 +1,3016 @@
+{
+ "slug": "hearing-2024-11-13-house-oversight-uap-p3",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "House Oversight joint hearing: Unidentified Anomalous Phenomena: Exposing the Truth",
+   "description": "Joint House Oversight subcommittee hearing on UAP; this part covers the closing rounds of member questioning of Gallaudet, Elizondo, Shellenberger and Gold."
+  },
+  {
+   "key": "luna",
+   "type": "person",
+   "name": "Luna",
+   "description": "Member of Congress questioning the witnesses",
+   "aliases": [
+    "Mrs. Luna"
+   ]
+  },
+  {
+   "key": "mace",
+   "type": "person",
+   "name": "Mace",
+   "description": "Chairwoman presiding over the hearing",
+   "aliases": [
+    "Ms. Mace",
+    "Chairwoman Mace"
+   ]
+  },
+  {
+   "key": "garcia",
+   "type": "person",
+   "name": "Garcia",
+   "description": "Member of Congress questioning the witnesses and giving closing remarks",
+   "aliases": [
+    "Mr. Garcia"
+   ]
+  },
+  {
+   "key": "biggs",
+   "type": "person",
+   "name": "Biggs",
+   "description": "Member of Congress questioning the witnesses",
+   "aliases": [
+    "Mr. Biggs"
+   ]
+  },
+  {
+   "key": "burlison",
+   "type": "person",
+   "name": "Burlison",
+   "description": "Member of Congress questioning the witnesses",
+   "aliases": [
+    "Mr. Burlison"
+   ]
+  },
+  {
+   "key": "timmons",
+   "type": "person",
+   "name": "Timmons",
+   "description": "Member of Congress questioning the witnesses; says he is still in the Air Force",
+   "aliases": [
+    "Mr. Timmons"
+   ]
+  },
+  {
+   "key": "boebert",
+   "type": "person",
+   "name": "Boebert",
+   "description": "Member of Congress questioning the witnesses",
+   "aliases": [
+    "Ms. Boebert"
+   ]
+  },
+  {
+   "key": "ogles",
+   "type": "person",
+   "name": "Ogles",
+   "description": "Member of Congress questioning the witnesses",
+   "aliases": [
+    "Mr. Ogles"
+   ]
+  },
+  {
+   "key": "gallaudet",
+   "type": "person",
+   "name": "Gallaudet",
+   "description": "Hearing witness addressed as Admiral and Dr.; received a later-deleted email during a 2015 Navy exercise",
+   "aliases": [
+    "Dr. Gallaudet",
+    "Mr. Gallaudet"
+   ]
+  },
+  {
+   "key": "elizondo",
+   "type": "person",
+   "name": "Elizondo",
+   "description": "Hearing witness who belonged to AATIP and worked at the Pentagon",
+   "aliases": [
+    "Mr. Elizondo",
+    "Lue Elizondo"
+   ]
+  },
+  {
+   "key": "shellenberger",
+   "type": "person",
+   "name": "Shellenberger",
+   "description": "Hearing witness who gave Congress the Immaculate Constellation report",
+   "aliases": [
+    "Mr. Shellenberger"
+   ]
+  },
+  {
+   "key": "gold",
+   "type": "person",
+   "name": "Gold",
+   "description": "Hearing witness, a self-described recovering attorney, questioned about NASA reporting systems",
+   "aliases": [
+    "Mr. Gold"
+   ]
+  },
+  {
+   "key": "grusch",
+   "type": "person",
+   "name": "Grusch",
+   "description": "Earlier panel witness who testified that some of these were interdimensional beings"
+  },
+  {
+   "key": "ryan_graves",
+   "type": "person",
+   "name": "Ryan Graves",
+   "description": "Retired Navy pilot who testified to the Subcommittee the previous year; present in the audience",
+   "aliases": [
+    "Lieutenant Ryan Graves"
+   ]
+  },
+  {
+   "key": "fravor",
+   "type": "person",
+   "name": "David Fravor",
+   "description": "Retired Navy pilot who testified to the Subcommittee the previous year",
+   "aliases": [
+    "Commander David Fravor"
+   ]
+  },
+  {
+   "key": "chair_graves",
+   "type": "person",
+   "name": "Graves",
+   "description": "Chairman involved in the Safe Airspace for Americans Act",
+   "aliases": [
+    "Chairman Graves"
+   ]
+  },
+  {
+   "key": "rounds",
+   "type": "person",
+   "name": "Rounds",
+   "description": "Senator whose amendment for the UAP Disclosure Act the Senate included",
+   "aliases": [
+    "Senator Rounds"
+   ]
+  },
+  {
+   "key": "schumer",
+   "type": "person",
+   "name": "Schumer",
+   "description": "Senator whose amendment for the UAP Disclosure Act the Senate included",
+   "aliases": [
+    "Senator Schumer"
+   ]
+  },
+  {
+   "key": "sharp",
+   "type": "person",
+   "name": "Christopher Sharp",
+   "description": "Journalist who said a Lockheed Martin-Bigelow Aerospace transfer was allegedly blocked by the CIA"
+  },
+  {
+   "key": "mattis",
+   "type": "person",
+   "name": "Mattis",
+   "description": "Secretary of Defense from whom Elizondo sought a memo to transfer material",
+   "aliases": [
+    "Secretary Mattis"
+   ]
+  },
+  {
+   "key": "mellon",
+   "type": "person",
+   "name": "Chris Mellon",
+   "description": "Colleague of Gallaudet who wrote an extensive article about drone incursions over Langley"
+  },
+  {
+   "key": "stratton",
+   "type": "person",
+   "name": "Jay Stratton",
+   "description": "Led the DoD UAP task force from 2020 to 2022"
+  },
+  {
+   "key": "trump",
+   "type": "person",
+   "name": "Trump",
+   "description": "President-elect said to have committed to greater transparency on UAP",
+   "aliases": [
+    "President-elect Trump"
+   ]
+  },
+  {
+   "key": "biden",
+   "type": "person",
+   "name": "Joe Biden",
+   "description": "Named in passing by Boebert in a sarcastic aside"
+  },
+  {
+   "key": "kuhn",
+   "type": "person",
+   "name": "Kuhn",
+   "description": "Thinker whose model of scientific advancement Biggs invokes"
+  },
+  {
+   "key": "lakatos",
+   "type": "person",
+   "name": "Lakatos",
+   "description": "Thinker whose model of scientific advancement Biggs invokes"
+  },
+  {
+   "key": "arrow",
+   "type": "person",
+   "name": "Kenneth Arrow",
+   "description": "Named by Biggs for path dependence and increasing returns"
+  },
+  {
+   "key": "usg",
+   "type": "organization",
+   "name": "United States government",
+   "description": "The federal government, accused by witnesses of concealing UAP evidence",
+   "aliases": [
+    "Federal Government",
+    "U.S. Government",
+    "USG"
+   ]
+  },
+  {
+   "key": "dod",
+   "type": "organization",
+   "name": "United States Department of Defense",
+   "description": "Department of Defense / the Pentagon",
+   "aliases": [
+    "Department of Defense",
+    "DoD",
+    "Pentagon",
+    "U.S. Pentagon"
+   ]
+  },
+  {
+   "key": "dopsr",
+   "type": "organization",
+   "name": "Department of Defense Office of Prepublication and Security Review",
+   "description": "DoD office that approved documentation for release"
+  },
+  {
+   "key": "ic",
+   "type": "organization",
+   "name": "United States Intelligence Community",
+   "description": "The intelligence community",
+   "aliases": [
+    "intelligence community"
+   ]
+  },
+  {
+   "key": "navy",
+   "type": "organization",
+   "name": "United States Navy",
+   "description": "US Navy, whose officers, pilots and ships are described encountering UAP",
+   "aliases": [
+    "Navy"
+   ]
+  },
+  {
+   "key": "fleet_forces",
+   "type": "organization",
+   "name": "United States Fleet Forces Command",
+   "description": "Navy command whose Commander and operations officer never discussed the incident again",
+   "aliases": [
+    "Fleet Forces"
+   ]
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "description": "US Air Force; a memo from its Secretary was required for the material transfer",
+   "aliases": [
+    "Air Force"
+   ]
+  },
+  {
+   "key": "cia",
+   "type": "organization",
+   "name": "Central Intelligence Agency",
+   "description": "Agency said to have allegedly blocked a material transfer",
+   "aliases": [
+    "CIA"
+   ]
+  },
+  {
+   "key": "nasa",
+   "type": "organization",
+   "name": "NASA",
+   "description": "US space agency operating the Aviation Safety Reporting System"
+  },
+  {
+   "key": "nasa_tf",
+   "type": "organization",
+   "name": "NASA task force",
+   "description": "NASA task force that recommended use of the Aviation Safety Reporting System"
+  },
+  {
+   "key": "gd",
+   "type": "organization",
+   "name": "General Dynamics",
+   "description": "Maker of the F-16, cited as an example contractor for undersea propulsion"
+  },
+  {
+   "key": "lockheed",
+   "type": "organization",
+   "name": "Lockheed Martin",
+   "description": "Aerospace contractor named in the alleged material transfer",
+   "aliases": [
+    "Lockheed"
+   ]
+  },
+  {
+   "key": "bigelow",
+   "type": "organization",
+   "name": "Bigelow Aerospace",
+   "description": "Aerospace company named in the alleged material transfer"
+  },
+  {
+   "key": "asa",
+   "type": "organization",
+   "name": "Americans for Safe Aerospace",
+   "description": "Ryan Graves's organisation; Gallaudet is on its advisory board"
+  },
+  {
+   "key": "uapdf",
+   "type": "organization",
+   "name": "UAP Discloser Fund",
+   "description": "Group of which Gallaudet is a member as an advisor"
+  },
+  {
+   "key": "sol",
+   "type": "organization",
+   "name": "Sol Foundation",
+   "description": "Group of which Gallaudet is a senior strategic advisor"
+  },
+  {
+   "key": "congress",
+   "type": "organization",
+   "name": "United States Congress",
+   "description": "The US Congress",
+   "aliases": [
+    "Congress"
+   ]
+  },
+  {
+   "key": "senate",
+   "type": "organization",
+   "name": "United States Senate",
+   "description": "The US Senate, which included the UAP Disclosure Act amendment",
+   "aliases": [
+    "Senate"
+   ]
+  },
+  {
+   "key": "rrb",
+   "type": "organization",
+   "name": "UAP Records Review Board",
+   "description": "Review board the UAP Disclosure Act would create"
+  },
+  {
+   "key": "aaro",
+   "type": "organization",
+   "name": "All-domain Anomaly Resolution Office",
+   "description": "Office Elizondo says was established to obtain UAP information",
+   "aliases": [
+    "AARO"
+   ]
+  },
+  {
+   "key": "uaptf",
+   "type": "organization",
+   "name": "Unidentified Aerial Phenomena Task Force",
+   "description": "DoD UAP task force, 2020 to 2022, led by Jay Stratton",
+   "aliases": [
+    "UAP task force"
+   ]
+  },
+  {
+   "key": "doe",
+   "type": "organization",
+   "name": "United States Department of Energy",
+   "description": "Department whose role Ogles questions",
+   "aliases": [
+    "Department of Energy"
+   ]
+  },
+  {
+   "key": "eads",
+   "type": "organization",
+   "name": "Eastern Air Defense Sector",
+   "description": "Air defence sector in which an F-22 reportedly met metallic orbs"
+  },
+  {
+   "key": "wsj",
+   "type": "organization",
+   "name": "The Wall Street Journal",
+   "description": "Newspaper that reported the Langley incursions",
+   "aliases": [
+    "Wall Street Journal"
+   ]
+  },
+  {
+   "key": "aatip",
+   "type": "program",
+   "name": "Advanced Aerospace Threat Identification Program",
+   "description": "Program Elizondo belonged to",
+   "aliases": [
+    "AATIP"
+   ]
+  },
+  {
+   "key": "aawsap",
+   "type": "program",
+   "name": "AAWSAP",
+   "description": "Elizondo's predecessor program, which tried to collect material of unknown origin"
+  },
+  {
+   "key": "asrs",
+   "type": "program",
+   "name": "Aviation Safety Reporting System",
+   "description": "NASA's confidential, nonpunitive reporting mechanism",
+   "aliases": [
+    "NASA's Aviation Safety Reporting System"
+   ]
+  },
+  {
+   "key": "artemis",
+   "type": "program",
+   "name": "Artemis",
+   "description": "Program whose funding Gold mentions"
+  },
+  {
+   "key": "immaculate",
+   "type": "program",
+   "name": "Immaculate Constellation",
+   "description": "Alleged Pentagon program described in a report given to Congress",
+   "aliases": [
+    "Immaculate Constellation program"
+   ]
+  },
+  {
+   "key": "saaa",
+   "type": "document",
+   "name": "Safe Airspace for Americans Act",
+   "description": "Legislation for UAP reporting by civilian aviation personnel"
+  },
+  {
+   "key": "uapda",
+   "type": "document",
+   "name": "UAP Disclosure Act",
+   "description": "Legislation that would create a UAP Records Review Board"
+  },
+  {
+   "key": "jfk_act",
+   "type": "document",
+   "name": "JFK Assassination Records Collection Act",
+   "description": "Act on which the UAP Disclosure Act was modeled"
+  },
+  {
+   "key": "ndaa",
+   "type": "document",
+   "name": "National Defense Authorization Act",
+   "description": "House defense authorization bill to which Garcia filed an amendment",
+   "aliases": [
+    "NDAA",
+    "House defense authorization bill"
+   ]
+  },
+  {
+   "key": "ic_report",
+   "type": "document",
+   "name": "Immaculate Constellation report",
+   "description": "Report Shellenberger gave to the Committee, describing UAP cases"
+  },
+  {
+   "key": "gofast_video",
+   "type": "document",
+   "name": "Go Fast video",
+   "description": "Released UAP video that debunkers called a balloon",
+   "aliases": [
+    "``Go Fast'' video"
+   ]
+  },
+  {
+   "key": "deleted_email",
+   "type": "document",
+   "name": "Deleted Navy email about the Go Fast video",
+   "description": "Email asking about classified technology demonstrations, later deleted"
+  },
+  {
+   "key": "stalked_email",
+   "type": "document",
+   "name": "Navy officers' email using the word \"stalked\"",
+   "description": "Very secure email between Navy officers about their ships being pursued by a UAP"
+  },
+  {
+   "key": "aawsap_doc",
+   "type": "document",
+   "name": "AAWSAP documentation approved for release by the Department of Defense",
+   "description": "Documentation Elizondo believes was submitted for the record"
+  },
+  {
+   "key": "pacific_footage",
+   "type": "document",
+   "name": "Infrared footage of triangle UAP over vessels in the Pacific Ocean",
+   "description": "Footage and imagery said to exist on USG networks"
+  },
+  {
+   "key": "orb_footage",
+   "type": "document",
+   "name": "Footage of an orb coming out of the ocean",
+   "description": "Footage described to Shellenberger by a source"
+  },
+  {
+   "key": "wsj_article",
+   "type": "work",
+   "name": "Wall Street Journal article on the Langley Air Force Base incident",
+   "description": "Article that made the Langley incident widely known"
+  },
+  {
+   "key": "mellon_article",
+   "type": "work",
+   "name": "Chris Mellon article on drone incursions over Langley",
+   "description": "Extensive article on drone incursions over Langley and other installations"
+  },
+  {
+   "key": "north_america",
+   "type": "place",
+   "name": "North America",
+   "description": "Continent off whose shores hotspots were asked about"
+  },
+  {
+   "key": "pacific",
+   "type": "place",
+   "name": "Pacific Ocean",
+   "description": "Ocean where the triangle UAP footage was reportedly taken"
+  },
+  {
+   "key": "usa",
+   "type": "place",
+   "name": "United States",
+   "description": "Country whose controlled airspace UAP are observed over",
+   "aliases": [
+    "U.S."
+   ]
+  },
+  {
+   "key": "soviet",
+   "type": "place",
+   "name": "Soviet Union",
+   "description": "Cold war adversary",
+   "aliases": [
+    "then-Soviet Union"
+   ]
+  },
+  {
+   "key": "russia",
+   "type": "place",
+   "name": "Russia",
+   "description": "Country overflown by the U-2; named as an adversary",
+   "aliases": [
+    "then-Russia"
+   ]
+  },
+  {
+   "key": "china",
+   "type": "place",
+   "name": "China",
+   "description": "Country named as possible source and adversary"
+  },
+  {
+   "key": "langley",
+   "type": "place",
+   "name": "Langley Air Force Base",
+   "description": "Base over which a UAP frenzy lasted over two weeks",
+   "aliases": [
+    "Langley"
+   ]
+  },
+  {
+   "key": "oak_ridge",
+   "type": "place",
+   "name": "Oak Ridge, Tennessee",
+   "description": "Sensitive nuclear site in Tennessee",
+   "aliases": [
+    "Oak Ridge"
+   ]
+  },
+  {
+   "key": "tennessee",
+   "type": "place",
+   "name": "Tennessee",
+   "description": "US state containing Oak Ridge"
+  },
+  {
+   "key": "srs",
+   "type": "place",
+   "name": "Savannah River Site",
+   "description": "Sensitive R&D location said to be under surveillance",
+   "aliases": [
+    "SRS"
+   ]
+  },
+  {
+   "key": "los_alamos",
+   "type": "place",
+   "name": "Los Alamos",
+   "description": "Sensitive R&D location said to be under surveillance"
+  },
+  {
+   "key": "langley_inc",
+   "type": "case",
+   "name": "2023 Langley Air Force Base incident",
+   "description": "Over-two-week UAP/drone activity over Langley Air Force Base a year before the hearing",
+   "aliases": [
+    "Langley Air Force Base incident"
+   ]
+  },
+  {
+   "key": "eads_inc",
+   "type": "case",
+   "name": "Eastern Air Defense Sector F-22 incident",
+   "description": "F-22 reportedly intercepted and boxed in by metallic orbs, as described in the Immaculate Constellation report"
+  },
+  {
+   "key": "pacific_inc",
+   "type": "case",
+   "name": "Pacific Ocean triangle UAP incident",
+   "description": "Large equilateral-triangle UAP reportedly filmed over vessels collecting SIGINT and MASINT, as described in the Immaculate Constellation report"
+  },
+  {
+   "key": "pentagon_videos",
+   "type": "case",
+   "name": "Pentagon UFO videos",
+   "description": "Released Navy UAP videos, of which the Go Fast video is one",
+   "aliases": [
+    "Go Fast video"
+   ]
+  },
+  {
+   "key": "exercise_2015",
+   "type": "case",
+   "name": "2015 United States Navy exercise incident",
+   "description": "UAP encounters by Navy pilots during a 2015 exercise, and the deleted email about them"
+  },
+  {
+   "key": "orb_inc",
+   "type": "case",
+   "name": "Ocean orbs footage incident",
+   "description": "Footage of an orb coming out of the ocean and being met by another orb, described by a Shellenberger source"
+  },
+  {
+   "key": "grusch_claims",
+   "type": "case",
+   "name": "David Grusch UFO whistleblower claims",
+   "description": "Grusch's earlier testimony, referred to by Luna",
+   "aliases": [
+    "Grusch testimony"
+   ]
+  },
+  {
+   "key": "hearing_2023",
+   "type": "case",
+   "name": "2023 House Oversight Subcommittee UAP hearing",
+   "description": "The previous year's Subcommittee hearing with Ryan Graves and David Fravor"
+  },
+  {
+   "key": "tri_craft",
+   "type": "craft",
+   "name": "large equilateral-triangle UAP over ships in the Pacific Ocean",
+   "description": "Triangle with three bright points at its bottom corners"
+  },
+  {
+   "key": "orbs_craft",
+   "type": "craft",
+   "name": "metallic orbs encountered by F-22",
+   "description": "Multiple metallic orbs slightly smaller than a sedan"
+  },
+  {
+   "key": "ocean_orbs",
+   "type": "craft",
+   "name": "orb coming out of the ocean met by another orb",
+   "description": "Orbs in footage described to Shellenberger"
+  },
+  {
+   "key": "f22",
+   "type": "vehicle",
+   "name": "F-22 fighter",
+   "description": "Fighter that moved to intercept UAP contacts",
+   "aliases": [
+    "F-22"
+   ]
+  },
+  {
+   "key": "vessels",
+   "type": "vehicle",
+   "name": "vessels engaged in SIGINT and MASINT collection",
+   "description": "Grouping of ships over which the triangle UAP appeared"
+  },
+  {
+   "key": "f_triangle",
+   "type": "feature",
+   "name": "shape-triangle",
+   "description": "Triangular object"
+  },
+  {
+   "key": "f_sphere",
+   "type": "feature",
+   "name": "shape-sphere",
+   "description": "Spherical / orb object"
+  },
+  {
+   "key": "f_video",
+   "type": "feature",
+   "name": "film-or-video",
+   "description": "Footage or video exists"
+  },
+  {
+   "key": "f_water",
+   "type": "feature",
+   "name": "water-related",
+   "description": "Over or emerging from water"
+  },
+  {
+   "key": "f_hover",
+   "type": "feature",
+   "name": "hovering",
+   "description": "Object hovered"
+  },
+  {
+   "key": "f_speed",
+   "type": "feature",
+   "name": "high-speed-maneuvers",
+   "description": "Rapid acceleration"
+  },
+  {
+   "key": "f_pursuit",
+   "type": "feature",
+   "name": "aircraft-pursuit",
+   "description": "Aircraft moved to intercept"
+  },
+  {
+   "key": "f_pilot",
+   "type": "feature",
+   "name": "pilot-witnesses",
+   "description": "Pilots witnessed"
+  },
+  {
+   "key": "f_mil",
+   "type": "feature",
+   "name": "military-witnesses",
+   "description": "Military personnel witnessed"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "More than one witness"
+  },
+  {
+   "key": "f_base",
+   "type": "feature",
+   "name": "military-base-proximity",
+   "description": "Near a military base"
+  },
+  {
+   "key": "f_cover",
+   "type": "feature",
+   "name": "alleged-cover-up",
+   "description": "Information allegedly withheld"
+  },
+  {
+   "key": "x_balloon",
+   "type": "explanation",
+   "name": "balloon",
+   "description": "Balloon"
+  },
+  {
+   "key": "x_test",
+   "type": "explanation",
+   "name": "military-test-or-exercise",
+   "description": "Classified technology demonstration"
+  }
+ ],
+ "claims": [
+  {
+   "s": "luna",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Mrs. Luna. Are you aware of any hotspots that currently exist off our shores in North America?"
+  },
+  {
+   "s": "north_america",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Mrs. Luna. Are you aware of any hotspots that currently exist off our shores in North America?"
+  },
+  {
+   "s": "gallaudet",
+   "p": "witness",
+   "o": "case",
+   "quote": "Dr. Gallaudet. Not with sufficiently credible data, ma'am."
+  },
+  {
+   "s": "gallaudet",
+   "p": "statement",
+   "v": "Not aware, with sufficiently credible data, of hotspots off North American shores",
+   "quote": "exist off our shores in North America? Dr. Gallaudet. Not with sufficiently credible data, ma'am."
+  },
+  {
+   "s": "luna",
+   "p": "statement",
+   "v": "Has heard reports of potential hotspots, maybe entry and exit points",
+   "quote": "We have heard reports of there potentially being hotspots, maybe entry and exit points."
+  },
+  {
+   "s": "gallaudet",
+   "p": "statement",
+   "v": "Elizondo discusses USO activity he has observed in certain DoD databases",
+   "quote": "my colleague here, Mr. Elizondo, does discuss some USO activity that he has observed in certain DoD data bases."
+  },
+  {
+   "s": "gallaudet",
+   "p": "colleague_of",
+   "o": "elizondo",
+   "quote": "my colleague here, Mr. Elizondo, does discuss some USO activity that he has observed in certain DoD data bases."
+  },
+  {
+   "s": "dod",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "my colleague here, Mr. Elizondo, does discuss some USO activity that he has observed in certain DoD data bases."
+  },
+  {
+   "s": "luna",
+   "p": "statement",
+   "v": "Asked whether the craft are likely piloted through some mind-body connection",
+   "quote": "would you agree that it is likely that they are being piloted by some mind-body connection?"
+  },
+  {
+   "s": "elizondo",
+   "p": "witness",
+   "o": "case",
+   "quote": "Mr. Elizondo. Ma'am, I think it is safe to presume here that they are being intelligently controlled"
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "UAP are intelligently controlled; in some cases they seem to anticipate our maneuvers",
+   "quote": "I think it is safe to presume here that they are being intelligently controlled, because they in some cases seem to anticipate our maneuvers"
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Came across a very secure email between Navy officers, using the word 'stalked', about their ships being pursued by a UAP",
+   "quote": "I came across an email where the word ``stalked'' was used, in a--it was a very secure email between Navy officers discussing their ships being pursued by a UAP."
+  },
+  {
+   "s": "stalked_email",
+   "p": "key_document",
+   "o": "case",
+   "quote": "I came across an email where the word ``stalked'' was used, in a--it was a very secure email between Navy officers discussing their ships being pursued by a UAP."
+  },
+  {
+   "s": "stalked_email",
+   "p": "content",
+   "v": "Navy officers discussing their ships being pursued by a UAP; the word 'stalked' was used",
+   "quote": "I came across an email where the word ``stalked'' was used, in a--it was a very secure email between Navy officers discussing their ships being pursued by a UAP."
+  },
+  {
+   "s": "stalked_email",
+   "p": "classification",
+   "v": "very secure email",
+   "quote": "I came across an email where the word ``stalked'' was used, in a--it was a very secure email between Navy officers discussing their ships being pursued by a UAP."
+  },
+  {
+   "s": "navy",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "I came across an email where the word ``stalked'' was used, in a--it was a very secure email between Navy officers discussing their ships being pursued by a UAP."
+  },
+  {
+   "s": "grusch",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "In our previous panel, we had Grusch, and he had testified to say that some of these were interdimensional beings."
+  },
+  {
+   "s": "grusch",
+   "p": "statement",
+   "v": "Testified that some of these were interdimensional beings",
+   "quote": "In our previous panel, we had Grusch, and he had testified to say that some of these were interdimensional beings."
+  },
+  {
+   "s": "grusch",
+   "p": "proponent",
+   "o": "grusch_claims",
+   "quote": "In our previous panel, we had Grusch, and he had testified to say that some of these were interdimensional beings."
+  },
+  {
+   "s": "grusch_claims",
+   "p": "related_case",
+   "o": "case",
+   "quote": "In our previous panel, we had Grusch, and he had testified to say that some of these were interdimensional beings."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Not qualified to speculate on points of origin",
+   "quote": "I am not qualified, certainly as a scientist or otherwise, to speculate points of origin."
+  },
+  {
+   "s": "elizondo",
+   "p": "member_of",
+   "o": "aatip",
+   "quote": "instantaneous acceleration, which was one of the observables of the program that I belonged to, AATIP"
+  },
+  {
+   "s": "aatip",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "instantaneous acceleration, which was one of the observables of the program that I belonged to, AATIP"
+  },
+  {
+   "s": "aatip",
+   "p": "observable",
+   "v": "instantaneous acceleration",
+   "quote": "instantaneous acceleration, which was one of the observables of the program that I belonged to, AATIP"
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "The human body can withstand about 9 g-forces for a short period",
+   "quote": "the human body can withstand about 9 g-forces for a short period of time before you suffer negative biological consequences"
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "The F-16 can perform at about 17 or 18 g-forces before structural failure",
+   "quote": "can perform at about 17 or 18 g-forces before you start having structural failure"
+  },
+  {
+   "s": "gd",
+   "p": "manufacturer_of",
+   "v": "F-16",
+   "quote": "the F-16, which is one of--it is an older platform but one of our most highly maneuverable aircraft, manned aircraft, made by General Dynamics"
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "The vehicles are performing in excess of 1,000, 2,000, 3,000 Gs",
+   "quote": "The vehicles we are talking about are performing in excess of 1,000, 2,000, 3,000 Gs."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Not prepared to state for the record whether something is alive or not",
+   "quote": "I am not prepared at this point to state for the record is something alive or not"
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "At AATIP he focused on performance characteristics, less on potential occupants",
+   "quote": "When I was at AATIP, I was focusing more on the performance characteristics and less on the potential occupants."
+  },
+  {
+   "s": "luna",
+   "p": "statement",
+   "v": "People have said there are good and bad of whatever these things are",
+   "quote": "we have had people that say that there are good and bad of whatever these things are."
+  },
+  {
+   "s": "luna",
+   "p": "statement",
+   "v": "Some of these aircraft seem to operate off energy we do not currently have",
+   "quote": "some of these aircraft, it seems that they are operating off of energy that we do not currently have."
+  },
+  {
+   "s": "gold",
+   "p": "witness",
+   "o": "case",
+   "quote": "Mr. Gold. It would certainly save us some money on funding on Artemis."
+  },
+  {
+   "s": "artemis",
+   "p": "mentioned_by",
+   "o": "gold",
+   "quote": "Mr. Gold. It would certainly save us some money on funding on Artemis."
+  },
+  {
+   "s": "gold",
+   "p": "statement",
+   "v": "A national security issue: if such technology exists, we are not the only country that might have access to it",
+   "quote": "This is a national security issue, that if there is such technology out there, we are not the only country that might have access to it."
+  },
+  {
+   "s": "gold",
+   "p": "statement",
+   "v": "We do not want to be on the wrong end of technological surprise",
+   "quote": "We do not want to be on the wrong end of technological surprise."
+  },
+  {
+   "s": "garcia",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "I want to thank Mr. Garcia and folks on both sides of the aisle for being here today"
+  },
+  {
+   "s": "mace",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "I want to thank Chairwoman Mace, especially, for holding this important bipartisan hearing."
+  },
+  {
+   "s": "mace",
+   "p": "role",
+   "v": "Chairwoman",
+   "quote": "I want to thank Chairwoman Mace, especially, for holding this important bipartisan hearing."
+  },
+  {
+   "s": "usg",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "do you believe, just for the record, that the Federal Government, any part of the Federal Government, is knowingly concealing evidence about UAPs from the public?"
+  },
+  {
+   "s": "gallaudet",
+   "p": "statement",
+   "v": "Yes, the Federal Government is knowingly concealing evidence about UAPs from the public",
+   "quote": "is knowingly concealing evidence about UAPs from the public? Dr. Gallaudet. Yes, sir. Mr. Elizondo. One hundred percent. Mr. Shellenberger. Yes. Mr. Gold. Yes."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "One hundred percent: the Federal Government is knowingly concealing evidence about UAPs from the public",
+   "quote": "is knowingly concealing evidence about UAPs from the public? Dr. Gallaudet. Yes, sir. Mr. Elizondo. One hundred percent. Mr. Shellenberger. Yes. Mr. Gold. Yes."
+  },
+  {
+   "s": "shellenberger",
+   "p": "statement",
+   "v": "Yes, the Federal Government is knowingly concealing evidence about UAPs from the public",
+   "quote": "is knowingly concealing evidence about UAPs from the public? Dr. Gallaudet. Yes, sir. Mr. Elizondo. One hundred percent. Mr. Shellenberger. Yes. Mr. Gold. Yes."
+  },
+  {
+   "s": "gold",
+   "p": "statement",
+   "v": "Yes, the Federal Government is knowingly concealing evidence about UAPs from the public",
+   "quote": "is knowingly concealing evidence about UAPs from the public? Dr. Gallaudet. Yes, sir. Mr. Elizondo. One hundred percent. Mr. Shellenberger. Yes. Mr. Gold. Yes."
+  },
+  {
+   "s": "gallaudet",
+   "p": "statement",
+   "v": "Strong evidence that UAPs are nonhuman higher intelligence",
+   "quote": "What do you believe UAPs could be or are? Dr. Gallaudet. Strong evidence that they are nonhuman higher intelligence. Mr. Elizondo. I echo my colleague's comment, sir. Mr. Shellenberger. Genuinely do not know. Mr. Gold. Do not know, but we must find out."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Echoes Gallaudet: strong evidence that UAPs are nonhuman higher intelligence",
+   "quote": "What do you believe UAPs could be or are? Dr. Gallaudet. Strong evidence that they are nonhuman higher intelligence. Mr. Elizondo. I echo my colleague's comment, sir. Mr. Shellenberger. Genuinely do not know. Mr. Gold. Do not know, but we must find out."
+  },
+  {
+   "s": "shellenberger",
+   "p": "statement",
+   "v": "Genuinely does not know what UAPs are",
+   "quote": "What do you believe UAPs could be or are? Dr. Gallaudet. Strong evidence that they are nonhuman higher intelligence. Mr. Elizondo. I echo my colleague's comment, sir. Mr. Shellenberger. Genuinely do not know. Mr. Gold. Do not know, but we must find out."
+  },
+  {
+   "s": "gold",
+   "p": "statement",
+   "v": "Does not know what UAPs are, but we must find out",
+   "quote": "What do you believe UAPs could be or are? Dr. Gallaudet. Strong evidence that they are nonhuman higher intelligence. Mr. Elizondo. I echo my colleague's comment, sir. Mr. Shellenberger. Genuinely do not know. Mr. Gold. Do not know, but we must find out."
+  },
+  {
+   "s": "hearing_2023",
+   "p": "related_case",
+   "o": "case",
+   "quote": "last year, our Subcommittee heard from two retired Navy pilots, Lieutenant Ryan Graves and Commander David Fravor, regarding UAPs."
+  },
+  {
+   "s": "ryan_graves",
+   "p": "witness",
+   "o": "hearing_2023",
+   "quote": "last year, our Subcommittee heard from two retired Navy pilots, Lieutenant Ryan Graves and Commander David Fravor, regarding UAPs."
+  },
+  {
+   "s": "fravor",
+   "p": "witness",
+   "o": "hearing_2023",
+   "quote": "last year, our Subcommittee heard from two retired Navy pilots, Lieutenant Ryan Graves and Commander David Fravor, regarding UAPs."
+  },
+  {
+   "s": "ryan_graves",
+   "p": "rank",
+   "v": "Lieutenant",
+   "quote": "last year, our Subcommittee heard from two retired Navy pilots, Lieutenant Ryan Graves and Commander David Fravor, regarding UAPs."
+  },
+  {
+   "s": "fravor",
+   "p": "rank",
+   "v": "Commander",
+   "quote": "last year, our Subcommittee heard from two retired Navy pilots, Lieutenant Ryan Graves and Commander David Fravor, regarding UAPs."
+  },
+  {
+   "s": "ryan_graves",
+   "p": "occupation",
+   "v": "retired Navy pilot",
+   "quote": "last year, our Subcommittee heard from two retired Navy pilots, Lieutenant Ryan Graves and Commander David Fravor, regarding UAPs."
+  },
+  {
+   "s": "fravor",
+   "p": "occupation",
+   "v": "retired Navy pilot",
+   "quote": "last year, our Subcommittee heard from two retired Navy pilots, Lieutenant Ryan Graves and Commander David Fravor, regarding UAPs."
+  },
+  {
+   "s": "ryan_graves",
+   "p": "member_of",
+   "o": "navy",
+   "quote": "last year, our Subcommittee heard from two retired Navy pilots, Lieutenant Ryan Graves and Commander David Fravor, regarding UAPs."
+  },
+  {
+   "s": "fravor",
+   "p": "member_of",
+   "o": "navy",
+   "quote": "last year, our Subcommittee heard from two retired Navy pilots, Lieutenant Ryan Graves and Commander David Fravor, regarding UAPs."
+  },
+  {
+   "s": "hearing_2023",
+   "p": "date_text",
+   "v": "last year",
+   "quote": "last year, our Subcommittee heard from two retired Navy pilots, Lieutenant Ryan Graves and Commander David Fravor, regarding UAPs."
+  },
+  {
+   "s": "mace",
+   "p": "statement",
+   "v": "At the first hearing on this she had never been briefed on UAPs, biologics or nonhuman",
+   "quote": "The first hearing we had on this, I had never been briefed on UAPs or what they were--biologics, nonhuman, et cetera."
+  },
+  {
+   "s": "ryan_graves",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Actually, I think Ryan is here in the audience"
+  },
+  {
+   "s": "saaa",
+   "p": "key_document",
+   "o": "case",
+   "quote": "He, of course, has been involved in the Safe Airspace for Americans Act, with Chairman Graves, with Chairwoman Mace, for UAP reporting by civilian aviation personnel."
+  },
+  {
+   "s": "chair_graves",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "He, of course, has been involved in the Safe Airspace for Americans Act, with Chairman Graves, with Chairwoman Mace, for UAP reporting by civilian aviation personnel."
+  },
+  {
+   "s": "chair_graves",
+   "p": "role",
+   "v": "Chairman",
+   "quote": "He, of course, has been involved in the Safe Airspace for Americans Act, with Chairman Graves, with Chairwoman Mace, for UAP reporting by civilian aviation personnel."
+  },
+  {
+   "s": "ryan_graves",
+   "p": "involvement",
+   "v": "Involved in the Safe Airspace for Americans Act",
+   "quote": "He, of course, has been involved in the Safe Airspace for Americans Act, with Chairman Graves, with Chairwoman Mace, for UAP reporting by civilian aviation personnel."
+  },
+  {
+   "s": "saaa",
+   "p": "purpose",
+   "v": "UAP reporting by civilian aviation personnel",
+   "quote": "He, of course, has been involved in the Safe Airspace for Americans Act, with Chairman Graves, with Chairwoman Mace, for UAP reporting by civilian aviation personnel."
+  },
+  {
+   "s": "saaa",
+   "p": "provision",
+   "v": "Explicitly allows for civilian reporting of UAPs",
+   "quote": "In the Safe Airspace for Americans Act, we explicitly allow for civilian reporting, of course, of UAPs."
+  },
+  {
+   "s": "gallaudet",
+   "p": "member_of",
+   "o": "asa",
+   "quote": "I did invite Ryan Graves as my guest, as I am on his advisory board for the Americans for Safe Aerospace."
+  },
+  {
+   "s": "ryan_graves",
+   "p": "member_of",
+   "o": "asa",
+   "quote": "I did invite Ryan Graves as my guest, as I am on his advisory board for the Americans for Safe Aerospace."
+  },
+  {
+   "s": "asa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "I did invite Ryan Graves as my guest, as I am on his advisory board for the Americans for Safe Aerospace."
+  },
+  {
+   "s": "gallaudet",
+   "p": "role",
+   "v": "On the advisory board of Americans for Safe Aerospace",
+   "quote": "I did invite Ryan Graves as my guest, as I am on his advisory board for the Americans for Safe Aerospace."
+  },
+  {
+   "s": "gallaudet",
+   "p": "statement",
+   "v": "Invited Ryan Graves as his guest",
+   "quote": "I did invite Ryan Graves as my guest, as I am on his advisory board for the Americans for Safe Aerospace."
+  },
+  {
+   "s": "gallaudet",
+   "p": "rank",
+   "v": "Admiral",
+   "quote": "Admiral, I just want to go back to one thing."
+  },
+  {
+   "s": "gallaudet",
+   "p": "statement",
+   "v": "More civilian and commercial pilots should report, to aid research and remove the stigma",
+   "quote": "I think it is important that more civilian pilots, commercial pilots report so we can better understand and learn and do research on UAP, as well as remove the stigma so more citizens report on what they observe."
+  },
+  {
+   "s": "garcia",
+   "p": "statement",
+   "v": "There is still enormous stigma and no system where people feel free to report what they are seeing",
+   "quote": "there is still enormous stigma, and essentially we do not have a system where folks are feeling free to be able to report what they are seeing."
+  },
+  {
+   "s": "asrs",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "you discuss NASA's Aviation Safety Reporting System, a confidential, nonpunitive reporting mechanism."
+  },
+  {
+   "s": "asrs",
+   "p": "part_of",
+   "o": "nasa",
+   "quote": "you discuss NASA's Aviation Safety Reporting System, a confidential, nonpunitive reporting mechanism."
+  },
+  {
+   "s": "asrs",
+   "p": "nature",
+   "v": "confidential, nonpunitive reporting mechanism",
+   "quote": "you discuss NASA's Aviation Safety Reporting System, a confidential, nonpunitive reporting mechanism."
+  },
+  {
+   "s": "nasa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "you discuss NASA's Aviation Safety Reporting System, a confidential, nonpunitive reporting mechanism."
+  },
+  {
+   "s": "nasa_tf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Can you explain why the NASA task force recommended the use of the Aviation Safety Reporting System?"
+  },
+  {
+   "s": "nasa_tf",
+   "p": "part_of",
+   "o": "nasa",
+   "quote": "Can you explain why the NASA task force recommended the use of the Aviation Safety Reporting System?"
+  },
+  {
+   "s": "nasa_tf",
+   "p": "recommendation",
+   "v": "Use of the Aviation Safety Reporting System",
+   "quote": "Can you explain why the NASA task force recommended the use of the Aviation Safety Reporting System?"
+  },
+  {
+   "s": "gold",
+   "p": "statement",
+   "v": "The Aviation Safety Reporting System is an existing, trusted system that has taken millions of cases",
+   "quote": "The Aviation Safety Reporting System is an existing system that is trusted, that has taken hundreds of thousands, now millions, of cases."
+  },
+  {
+   "s": "asrs",
+   "p": "case_volume",
+   "v": "hundreds of thousands, now millions, of cases",
+   "quote": "that has taken hundreds of thousands, now millions, of cases"
+  },
+  {
+   "s": "gold",
+   "p": "statement",
+   "v": "ASRS is a way to get data and overcome the stigma without much additional money",
+   "quote": "it is a great way to get data, to overcome the stigma, without spending really that much more additional money since the system exists."
+  },
+  {
+   "s": "ndaa",
+   "p": "key_document",
+   "o": "case",
+   "quote": "as part of the House defense authorization bill, the NDAA, I had filed an amendment to include the UAP Disclosure Act, which would create a UAP Records Review Board with exercise of eminent domain over UAP-related material, modeled actually on the JFK Assassination Records Collection Act"
+  },
+  {
+   "s": "uapda",
+   "p": "key_document",
+   "o": "case",
+   "quote": "as part of the House defense authorization bill, the NDAA, I had filed an amendment to include the UAP Disclosure Act, which would create a UAP Records Review Board with exercise of eminent domain over UAP-related material, modeled actually on the JFK Assassination Records Collection Act"
+  },
+  {
+   "s": "rrb",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "as part of the House defense authorization bill, the NDAA, I had filed an amendment to include the UAP Disclosure Act, which would create a UAP Records Review Board with exercise of eminent domain over UAP-related material, modeled actually on the JFK Assassination Records Collection Act"
+  },
+  {
+   "s": "uapda",
+   "p": "compared_to",
+   "o": "jfk_act",
+   "quote": "as part of the House defense authorization bill, the NDAA, I had filed an amendment to include the UAP Disclosure Act, which would create a UAP Records Review Board with exercise of eminent domain over UAP-related material, modeled actually on the JFK Assassination Records Collection Act"
+  },
+  {
+   "s": "jfk_act",
+   "p": "key_document",
+   "o": "case",
+   "quote": "as part of the House defense authorization bill, the NDAA, I had filed an amendment to include the UAP Disclosure Act, which would create a UAP Records Review Board with exercise of eminent domain over UAP-related material, modeled actually on the JFK Assassination Records Collection Act"
+  },
+  {
+   "s": "uapda",
+   "p": "provision",
+   "v": "Would create a UAP Records Review Board with exercise of eminent domain over UAP-related material",
+   "quote": "as part of the House defense authorization bill, the NDAA, I had filed an amendment to include the UAP Disclosure Act, which would create a UAP Records Review Board with exercise of eminent domain over UAP-related material, modeled actually on the JFK Assassination Records Collection Act"
+  },
+  {
+   "s": "rrb",
+   "p": "power",
+   "v": "exercise of eminent domain over UAP-related material",
+   "quote": "as part of the House defense authorization bill, the NDAA, I had filed an amendment to include the UAP Disclosure Act, which would create a UAP Records Review Board with exercise of eminent domain over UAP-related material, modeled actually on the JFK Assassination Records Collection Act"
+  },
+  {
+   "s": "garcia",
+   "p": "statement",
+   "v": "Filed an NDAA amendment to include the UAP Disclosure Act",
+   "quote": "as part of the House defense authorization bill, the NDAA, I had filed an amendment to include the UAP Disclosure Act, which would create a UAP Records Review Board with exercise of eminent domain over UAP-related material, modeled actually on the JFK Assassination Records Collection Act"
+  },
+  {
+   "s": "rounds",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Now, the amendment was blocked, but thankfully the Senate included the amendment by Senators Rounds and Schumer for the UAP Disclosure Act."
+  },
+  {
+   "s": "schumer",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Now, the amendment was blocked, but thankfully the Senate included the amendment by Senators Rounds and Schumer for the UAP Disclosure Act."
+  },
+  {
+   "s": "rounds",
+   "p": "member_of",
+   "o": "senate",
+   "quote": "Now, the amendment was blocked, but thankfully the Senate included the amendment by Senators Rounds and Schumer for the UAP Disclosure Act."
+  },
+  {
+   "s": "schumer",
+   "p": "member_of",
+   "o": "senate",
+   "quote": "Now, the amendment was blocked, but thankfully the Senate included the amendment by Senators Rounds and Schumer for the UAP Disclosure Act."
+  },
+  {
+   "s": "rounds",
+   "p": "authored",
+   "o": "uapda",
+   "quote": "Now, the amendment was blocked, but thankfully the Senate included the amendment by Senators Rounds and Schumer for the UAP Disclosure Act."
+  },
+  {
+   "s": "schumer",
+   "p": "authored",
+   "o": "uapda",
+   "quote": "Now, the amendment was blocked, but thankfully the Senate included the amendment by Senators Rounds and Schumer for the UAP Disclosure Act."
+  },
+  {
+   "s": "senate",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Now, the amendment was blocked, but thankfully the Senate included the amendment by Senators Rounds and Schumer for the UAP Disclosure Act."
+  },
+  {
+   "s": "garcia",
+   "p": "statement",
+   "v": "His amendment was blocked, but the Senate included the Rounds-Schumer amendment",
+   "quote": "Now, the amendment was blocked, but thankfully the Senate included the amendment by Senators Rounds and Schumer for the UAP Disclosure Act."
+  },
+  {
+   "s": "uapda",
+   "p": "support",
+   "v": "bipartisan",
+   "quote": "ensuring the UAP Disclosure Act, which is bipartisan in its support, should move forward."
+  },
+  {
+   "s": "gallaudet",
+   "p": "statement",
+   "v": "The UAP Disclosure Act is important for national security, socioeconomic benefits from UAP research, and public safety",
+   "quote": "I believe the UAP Disclosure Act is important for national security; as well as advancing potential socioeconomic benefits resulting from UAP research; as well as public safety"
+  },
+  {
+   "s": "gallaudet",
+   "p": "member_of",
+   "o": "uapdf",
+   "quote": "I am also a member of the UAP Discloser Fund as an advisor and the Sol Foundation as a senior strategic advisor"
+  },
+  {
+   "s": "gallaudet",
+   "p": "member_of",
+   "o": "sol",
+   "quote": "I am also a member of the UAP Discloser Fund as an advisor and the Sol Foundation as a senior strategic advisor"
+  },
+  {
+   "s": "uapdf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "I am also a member of the UAP Discloser Fund as an advisor and the Sol Foundation as a senior strategic advisor"
+  },
+  {
+   "s": "sol",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "I am also a member of the UAP Discloser Fund as an advisor and the Sol Foundation as a senior strategic advisor"
+  },
+  {
+   "s": "gallaudet",
+   "p": "role",
+   "v": "Advisor to the UAP Discloser Fund; senior strategic advisor to the Sol Foundation",
+   "quote": "I am also a member of the UAP Discloser Fund as an advisor and the Sol Foundation as a senior strategic advisor"
+  },
+  {
+   "s": "biggs",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "I would like to recognize Mr. Biggs for 5 minutes of questioning."
+  },
+  {
+   "s": "pentagon_videos",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Admiral, the video that is called the ``Go Fast'' video, the email that you have talked about being deleted"
+  },
+  {
+   "s": "gofast_video",
+   "p": "key_document",
+   "o": "pentagon_videos",
+   "quote": "Admiral, the video that is called the ``Go Fast'' video, the email that you have talked about being deleted"
+  },
+  {
+   "s": "f_video",
+   "p": "has_feature",
+   "o": "pentagon_videos",
+   "quote": "Admiral, the video that is called the ``Go Fast'' video, the email that you have talked about being deleted"
+  },
+  {
+   "s": "deleted_email",
+   "p": "key_document",
+   "o": "exercise_2015",
+   "quote": "Admiral, the video that is called the ``Go Fast'' video, the email that you have talked about being deleted"
+  },
+  {
+   "s": "deleted_email",
+   "p": "fate",
+   "v": "deleted",
+   "quote": "Admiral, the video that is called the ``Go Fast'' video, the email that you have talked about being deleted"
+  },
+  {
+   "s": "deleted_email",
+   "p": "content",
+   "v": "Author asked whether any recipients were aware of classified technology demonstrations that could explain the objects observed",
+   "quote": "the author was asking whether any of the recipients were aware of the classified technology demonstrations that could explain the objects that were observed."
+  },
+  {
+   "s": "x_test",
+   "p": "explained_as",
+   "o": "exercise_2015",
+   "quote": "the author was asking whether any of the recipients were aware of the classified technology demonstrations that could explain the objects that were observed."
+  },
+  {
+   "s": "deleted_email",
+   "p": "fate",
+   "v": "The email disappears",
+   "quote": "And then you said the email disappears; then you guys have a series of meetings; the Commander of Fleet Forces and his operations officer never discussed the incident again."
+  },
+  {
+   "s": "fleet_forces",
+   "p": "involved_org",
+   "o": "exercise_2015",
+   "quote": "And then you said the email disappears; then you guys have a series of meetings; the Commander of Fleet Forces and his operations officer never discussed the incident again."
+  },
+  {
+   "s": "exercise_2015",
+   "p": "aftermath",
+   "v": "The Commander of Fleet Forces and his operations officer never discussed the incident again",
+   "quote": "And then you said the email disappears; then you guys have a series of meetings; the Commander of Fleet Forces and his operations officer never discussed the incident again."
+  },
+  {
+   "s": "gallaudet",
+   "p": "statement",
+   "v": "Confirms the email disappeared and the Commander of Fleet Forces and his operations officer never discussed the incident again",
+   "quote": "his operations officer never discussed the incident again. Is that accurate? Dr. Gallaudet. That is accurate, sir."
+  },
+  {
+   "s": "exercise_2015",
+   "p": "aftermath",
+   "v": "Never discussed again even during weekly meetings",
+   "quote": "And even during weekly meetings, it was never discussed again."
+  },
+  {
+   "s": "gallaudet",
+   "p": "statement",
+   "v": "Was in those meetings",
+   "quote": "Dr. Gallaudet. Yes, sir, I was in those meetings."
+  },
+  {
+   "s": "gallaudet",
+   "p": "statement",
+   "v": "Did not inquire; inferred the UAP video was part of a special access program he was not read in to and that an intelligence agency pulled the email back",
+   "quote": "I inferred, since I had been read in to other special access programs, that this UAP video was part of one that I was not read in to, or any of the recipients or the author of the email, and that an intelligence agency basically pulled it back"
+  },
+  {
+   "s": "gallaudet",
+   "p": "clearance",
+   "v": "Had been read in to other special access programs",
+   "quote": "I inferred, since I had been read in to other special access programs, that this UAP video was part of one that I was not read in to, or any of the recipients or the author of the email, and that an intelligence agency basically pulled it back"
+  },
+  {
+   "s": "f_cover",
+   "p": "has_feature",
+   "o": "exercise_2015",
+   "quote": "I inferred, since I had been read in to other special access programs, that this UAP video was part of one that I was not read in to, or any of the recipients or the author of the email, and that an intelligence agency basically pulled it back"
+  },
+  {
+   "s": "gallaudet",
+   "p": "statement",
+   "v": "The email's author was told he had conducted 'spillage' into a lower classification level",
+   "quote": "instructed the author of the email, ``Hey, this is--you just conducted what they call 'spillage' into a lower classification level.''"
+  },
+  {
+   "s": "gallaudet",
+   "p": "statement",
+   "v": "When spillage occurs, the procedures are to remove any of the communications",
+   "quote": "And when that is done, the procedures are basically to remove any of the communications."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Excessive secrecy has led to grave misdeeds, all to hide the fact that we are not alone in the cosmos",
+   "quote": "Excessive secrecy has led to grave misdeeds against loyal civil servants, military personnel, and the public--all to hide the fact that we are not alone in the cosmos."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Government work on UAP subjects still remains classified",
+   "quote": "``Government work on UAP subjects still remains classified."
+  },
+  {
+   "s": "shellenberger",
+   "p": "occupation",
+   "v": "Author of several books",
+   "quote": "I have read several of your books, Mr. Shellenberger."
+  },
+  {
+   "s": "shellenberger",
+   "p": "statement",
+   "v": "Comfortable with the veracity of the author of the report",
+   "quote": "You were asked about the veracity of the author of this report. Are you comfortable with the veracity? Mr. Shellenberger. Yes."
+  },
+  {
+   "s": "kuhn",
+   "p": "mentioned_by",
+   "o": "biggs",
+   "quote": "We will talk about Kuhnian and Lakatosian scientific advancement"
+  },
+  {
+   "s": "lakatos",
+   "p": "mentioned_by",
+   "o": "biggs",
+   "quote": "along with Lakatos and Kuhn, you also have a problem with Kenneth Arrow's path dependence and increasing returns."
+  },
+  {
+   "s": "arrow",
+   "p": "mentioned_by",
+   "o": "biggs",
+   "quote": "along with Lakatos and Kuhn, you also have a problem with Kenneth Arrow's path dependence and increasing returns."
+  },
+  {
+   "s": "arrow",
+   "p": "concept",
+   "v": "path dependence and increasing returns",
+   "quote": "along with Lakatos and Kuhn, you also have a problem with Kenneth Arrow's path dependence and increasing returns."
+  },
+  {
+   "s": "biggs",
+   "p": "statement",
+   "v": "The Federal Government is overclassifying and forbidding the public from getting access",
+   "quote": "For what purpose is the Federal Government overclassifying--because that is what they are doing; they are overclassifying--and forbidding the public from getting access to this?"
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "When this reality became evident the US was in a cold war with the Soviet Union and did not want to tip its hand",
+   "quote": "we were in the middle of a cold war with then-Soviet Union, and we did not want to tip our hands to what our knowledge base was on this topic."
+  },
+  {
+   "s": "soviet",
+   "p": "related_place",
+   "o": "case",
+   "quote": "we were in the middle of a cold war with then-Soviet Union, and we did not want to tip our hands to what our knowledge base was on this topic."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "DoD and the intelligence community are solution-oriented; lacking answers is a tough spot",
+   "quote": "the Department of Defense and the intelligence community is solution-oriented, and when you do not have answers, it is a really tough spot to be in."
+  },
+  {
+   "s": "ic",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the Department of Defense and the intelligence community is solution-oriented, and when you do not have answers, it is a really tough spot to be in."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Cites the U-2 spy plane flown over then-Russia: thought not tracked, but every flight was tracked",
+   "quote": "when we built the U-2 spy plane and flew it over then-Russia and were taking reconnaissance."
+  },
+  {
+   "s": "russia",
+   "p": "related_place",
+   "o": "case",
+   "quote": "when we built the U-2 spy plane and flew it over then-Russia and were taking reconnaissance."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "The Russians developed the SA-2 surface-to-air missile and shot U-2s down",
+   "quote": "It wasn't until the Russians could develop the SA-2 surface-to-air missile and successfully shoot them down"
+  },
+  {
+   "s": "biggs",
+   "p": "statement",
+   "v": "One reason they will not disclose it is that it is too painful to admit",
+   "quote": "That is one reason why they will not disclose it, is it is too painful to admit."
+  },
+  {
+   "s": "ic_report",
+   "p": "key_document",
+   "o": "case",
+   "quote": "I just want to read a couple things from Mr. Shellenberger's--what he gave to us today"
+  },
+  {
+   "s": "shellenberger",
+   "p": "submitted",
+   "o": "ic_report",
+   "quote": "I just want to read a couple things from Mr. Shellenberger's--what he gave to us today"
+  },
+  {
+   "s": "ic_report",
+   "p": "key_document",
+   "o": "pacific_inc",
+   "quote": "I just want to read a couple things from Mr. Shellenberger's--what he gave to us today"
+  },
+  {
+   "s": "ic_report",
+   "p": "key_document",
+   "o": "eads_inc",
+   "quote": "I just want to read a couple things from Mr. Shellenberger's--what he gave to us today"
+  },
+  {
+   "s": "pacific_inc",
+   "p": "related_case",
+   "o": "case",
+   "quote": "On USG networks, there exists infrared footage of and imagery of a grouping of vessels engaged in SIGINT and MASINT collection at night in a specific area of the Pacific Ocean."
+  },
+  {
+   "s": "pacific",
+   "p": "occurred_at",
+   "o": "pacific_inc",
+   "quote": "On USG networks, there exists infrared footage of and imagery of a grouping of vessels engaged in SIGINT and MASINT collection at night in a specific area of the Pacific Ocean."
+  },
+  {
+   "s": "vessels",
+   "p": "involved_vehicle",
+   "o": "pacific_inc",
+   "quote": "On USG networks, there exists infrared footage of and imagery of a grouping of vessels engaged in SIGINT and MASINT collection at night in a specific area of the Pacific Ocean."
+  },
+  {
+   "s": "vessels",
+   "p": "activity",
+   "v": "SIGINT and MASINT collection",
+   "quote": "On USG networks, there exists infrared footage of and imagery of a grouping of vessels engaged in SIGINT and MASINT collection at night in a specific area of the Pacific Ocean."
+  },
+  {
+   "s": "pacific_footage",
+   "p": "key_document",
+   "o": "pacific_inc",
+   "quote": "On USG networks, there exists infrared footage of and imagery of a grouping of vessels engaged in SIGINT and MASINT collection at night in a specific area of the Pacific Ocean."
+  },
+  {
+   "s": "pacific_footage",
+   "p": "medium",
+   "v": "infrared footage and imagery",
+   "quote": "On USG networks, there exists infrared footage of and imagery of a grouping of vessels engaged in SIGINT and MASINT collection at night in a specific area of the Pacific Ocean."
+  },
+  {
+   "s": "pacific_footage",
+   "p": "location",
+   "v": "On USG networks",
+   "quote": "On USG networks, there exists infrared footage of and imagery of a grouping of vessels engaged in SIGINT and MASINT collection at night in a specific area of the Pacific Ocean."
+  },
+  {
+   "s": "usg",
+   "p": "involved_org",
+   "o": "pacific_inc",
+   "quote": "On USG networks, there exists infrared footage of and imagery of a grouping of vessels engaged in SIGINT and MASINT collection at night in a specific area of the Pacific Ocean."
+  },
+  {
+   "s": "f_video",
+   "p": "has_feature",
+   "o": "pacific_inc",
+   "quote": "On USG networks, there exists infrared footage of and imagery of a grouping of vessels engaged in SIGINT and MASINT collection at night in a specific area of the Pacific Ocean."
+  },
+  {
+   "s": "pacific_inc",
+   "p": "time_of_day",
+   "v": "night",
+   "quote": "On USG networks, there exists infrared footage of and imagery of a grouping of vessels engaged in SIGINT and MASINT collection at night in a specific area of the Pacific Ocean."
+  },
+  {
+   "s": "pacific_inc",
+   "p": "mentioned_by",
+   "o": "biggs",
+   "quote": "On USG networks, there exists infrared footage of and imagery of a grouping of vessels engaged in SIGINT and MASINT collection at night in a specific area of the Pacific Ocean."
+  },
+  {
+   "s": "tri_craft",
+   "p": "reported_object",
+   "o": "pacific_inc",
+   "quote": "In this footage, which was in close proximity to the vessels, a large equilateral-triangle UAP suddenly appears directly over the ships."
+  },
+  {
+   "s": "tri_craft",
+   "p": "shape",
+   "v": "equilateral triangle",
+   "quote": "In this footage, which was in close proximity to the vessels, a large equilateral-triangle UAP suddenly appears directly over the ships."
+  },
+  {
+   "s": "tri_craft",
+   "p": "size",
+   "v": "large",
+   "quote": "In this footage, which was in close proximity to the vessels, a large equilateral-triangle UAP suddenly appears directly over the ships."
+  },
+  {
+   "s": "tri_craft",
+   "p": "behavior",
+   "v": "Suddenly appears directly over the ships",
+   "quote": "In this footage, which was in close proximity to the vessels, a large equilateral-triangle UAP suddenly appears directly over the ships."
+  },
+  {
+   "s": "f_triangle",
+   "p": "has_feature",
+   "o": "pacific_inc",
+   "quote": "In this footage, which was in close proximity to the vessels, a large equilateral-triangle UAP suddenly appears directly over the ships."
+  },
+  {
+   "s": "f_water",
+   "p": "has_feature",
+   "o": "pacific_inc",
+   "quote": "In this footage, which was in close proximity to the vessels, a large equilateral-triangle UAP suddenly appears directly over the ships."
+  },
+  {
+   "s": "pacific_footage",
+   "p": "proximity",
+   "v": "in close proximity to the vessels",
+   "quote": "In this footage, which was in close proximity to the vessels, a large equilateral-triangle UAP suddenly appears directly over the ships."
+  },
+  {
+   "s": "tri_craft",
+   "p": "lights",
+   "v": "Three bright points at each bottom corner",
+   "quote": "Three bright points are seen at each bottom corner of the UAP, which is observed to slowly rotate on its horizontal access."
+  },
+  {
+   "s": "tri_craft",
+   "p": "motion",
+   "v": "Slowly rotates on its horizontal access [sic]",
+   "quote": "Three bright points are seen at each bottom corner of the UAP, which is observed to slowly rotate on its horizontal access."
+  },
+  {
+   "s": "eads_inc",
+   "p": "related_case",
+   "o": "case",
+   "quote": "While performing a routine Airspace Surveillance and Control Mission in the Eastern Air Defense Sector, an F-22 fighter observed multiple UAP contacts at mission altitude."
+  },
+  {
+   "s": "eads",
+   "p": "involved_org",
+   "o": "eads_inc",
+   "quote": "While performing a routine Airspace Surveillance and Control Mission in the Eastern Air Defense Sector, an F-22 fighter observed multiple UAP contacts at mission altitude."
+  },
+  {
+   "s": "f22",
+   "p": "involved_vehicle",
+   "o": "eads_inc",
+   "quote": "While performing a routine Airspace Surveillance and Control Mission in the Eastern Air Defense Sector, an F-22 fighter observed multiple UAP contacts at mission altitude."
+  },
+  {
+   "s": "f22",
+   "p": "mission",
+   "v": "routine Airspace Surveillance and Control Mission",
+   "quote": "While performing a routine Airspace Surveillance and Control Mission in the Eastern Air Defense Sector, an F-22 fighter observed multiple UAP contacts at mission altitude."
+  },
+  {
+   "s": "eads_inc",
+   "p": "altitude",
+   "v": "mission altitude",
+   "quote": "While performing a routine Airspace Surveillance and Control Mission in the Eastern Air Defense Sector, an F-22 fighter observed multiple UAP contacts at mission altitude."
+  },
+  {
+   "s": "eads_inc",
+   "p": "object_count",
+   "v": "multiple UAP contacts",
+   "quote": "While performing a routine Airspace Surveillance and Control Mission in the Eastern Air Defense Sector, an F-22 fighter observed multiple UAP contacts at mission altitude."
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "eads_inc",
+   "quote": "While performing a routine Airspace Surveillance and Control Mission in the Eastern Air Defense Sector, an F-22 fighter observed multiple UAP contacts at mission altitude."
+  },
+  {
+   "s": "eads_inc",
+   "p": "mentioned_by",
+   "o": "biggs",
+   "quote": "While performing a routine Airspace Surveillance and Control Mission in the Eastern Air Defense Sector, an F-22 fighter observed multiple UAP contacts at mission altitude."
+  },
+  {
+   "s": "orbs_craft",
+   "p": "reported_object",
+   "o": "eads_inc",
+   "quote": "Moving to intercept, the F-22 pilot noted multiple metallic orbs, slightly smaller than a sedan, hovering in place."
+  },
+  {
+   "s": "orbs_craft",
+   "p": "shape",
+   "v": "orb",
+   "quote": "Moving to intercept, the F-22 pilot noted multiple metallic orbs, slightly smaller than a sedan, hovering in place."
+  },
+  {
+   "s": "orbs_craft",
+   "p": "appearance",
+   "v": "metallic",
+   "quote": "Moving to intercept, the F-22 pilot noted multiple metallic orbs, slightly smaller than a sedan, hovering in place."
+  },
+  {
+   "s": "orbs_craft",
+   "p": "size",
+   "v": "slightly smaller than a sedan",
+   "quote": "Moving to intercept, the F-22 pilot noted multiple metallic orbs, slightly smaller than a sedan, hovering in place."
+  },
+  {
+   "s": "orbs_craft",
+   "p": "count",
+   "v": "multiple",
+   "quote": "Moving to intercept, the F-22 pilot noted multiple metallic orbs, slightly smaller than a sedan, hovering in place."
+  },
+  {
+   "s": "orbs_craft",
+   "p": "behavior",
+   "v": "hovering in place",
+   "quote": "Moving to intercept, the F-22 pilot noted multiple metallic orbs, slightly smaller than a sedan, hovering in place."
+  },
+  {
+   "s": "f_sphere",
+   "p": "has_feature",
+   "o": "eads_inc",
+   "quote": "Moving to intercept, the F-22 pilot noted multiple metallic orbs, slightly smaller than a sedan, hovering in place."
+  },
+  {
+   "s": "f_hover",
+   "p": "has_feature",
+   "o": "eads_inc",
+   "quote": "Moving to intercept, the F-22 pilot noted multiple metallic orbs, slightly smaller than a sedan, hovering in place."
+  },
+  {
+   "s": "f_pursuit",
+   "p": "has_feature",
+   "o": "eads_inc",
+   "quote": "Moving to intercept, the F-22 pilot noted multiple metallic orbs, slightly smaller than a sedan, hovering in place."
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "eads_inc",
+   "quote": "Moving to intercept, the F-22 pilot noted multiple metallic orbs, slightly smaller than a sedan, hovering in place."
+  },
+  {
+   "s": "orbs_craft",
+   "p": "speed",
+   "v": "accelerated at rapid speed toward the F-22",
+   "quote": "Upon vectoring toward the UAPs, a smaller formation of the metallic orbs accelerated at rapid speed toward the F-22, which was unable to establish radar locks on the presumed-hostile UAPs."
+  },
+  {
+   "s": "f_speed",
+   "p": "has_feature",
+   "o": "eads_inc",
+   "quote": "Upon vectoring toward the UAPs, a smaller formation of the metallic orbs accelerated at rapid speed toward the F-22, which was unable to establish radar locks on the presumed-hostile UAPs."
+  },
+  {
+   "s": "f22",
+   "p": "radar",
+   "v": "Unable to establish radar locks on the presumed-hostile UAPs",
+   "quote": "Upon vectoring toward the UAPs, a smaller formation of the metallic orbs accelerated at rapid speed toward the F-22, which was unable to establish radar locks on the presumed-hostile UAPs."
+  },
+  {
+   "s": "f22",
+   "p": "action",
+   "v": "Broke trajectory and attempted to evade but was intercepted and boxed in",
+   "quote": "The F-22 broke trajectory and attempted to evade but was intercepted and boxed in by approximately three to six UAPs."
+  },
+  {
+   "s": "orbs_craft",
+   "p": "count",
+   "v": "approximately three to six boxed in the F-22",
+   "quote": "The F-22 broke trajectory and attempted to evade but was intercepted and boxed in by approximately three to six UAPs."
+  },
+  {
+   "s": "orbs_craft",
+   "p": "behavior",
+   "v": "Intercepted and boxed in the F-22",
+   "quote": "The F-22 broke trajectory and attempted to evade but was intercepted and boxed in by approximately three to six UAPs."
+  },
+  {
+   "s": "gold",
+   "p": "occupation",
+   "v": "recovering attorney",
+   "quote": "I am a recovering attorney"
+  },
+  {
+   "s": "gold",
+   "p": "statement",
+   "v": "All breakthroughs have been heretical at first, which is why gathering the data is so important",
+   "quote": "But all breakthroughs have been heretical at first, and that is the challenge that we face"
+  },
+  {
+   "s": "gold",
+   "p": "statement",
+   "v": "Overclassification of material is in no way limited to UAP",
+   "quote": "overclassification of material is in no way limited to UAP."
+  },
+  {
+   "s": "burlison",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "All right, Mr. Burlison, I will recognize you for 5 minutes of questions, please."
+  },
+  {
+   "s": "burlison",
+   "p": "statement",
+   "v": "Asked whether any branch of the U.S. Government or defense contractors possess technology",
+   "quote": "does any branch of the U.S. Government or defense contractors possess technology?"
+  },
+  {
+   "s": "aawsap_doc",
+   "p": "key_document",
+   "o": "case",
+   "quote": "there is documentation, that I believe was submitted for the record, that was approved for release by the U.S. Pentagon, by the Department of Defense Office of Prepublication and Security Review."
+  },
+  {
+   "s": "dopsr",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "there is documentation, that I believe was submitted for the record, that was approved for release by the U.S. Pentagon, by the Department of Defense Office of Prepublication and Security Review."
+  },
+  {
+   "s": "dopsr",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "there is documentation, that I believe was submitted for the record, that was approved for release by the U.S. Pentagon, by the Department of Defense Office of Prepublication and Security Review."
+  },
+  {
+   "s": "aawsap_doc",
+   "p": "status",
+   "v": "Approved for release by the Department of Defense Office of Prepublication and Security Review",
+   "quote": "there is documentation, that I believe was submitted for the record, that was approved for release by the U.S. Pentagon, by the Department of Defense Office of Prepublication and Security Review."
+  },
+  {
+   "s": "aawsap",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "one of the reasons why my predecessor program, AAWSAP, was trying to collect material of unknown origin"
+  },
+  {
+   "s": "aawsap",
+   "p": "activity",
+   "v": "Was trying to collect material of unknown origin",
+   "quote": "one of the reasons why my predecessor program, AAWSAP, was trying to collect material of unknown origin"
+  },
+  {
+   "s": "aawsap",
+   "p": "relation",
+   "v": "Elizondo's predecessor program",
+   "quote": "one of the reasons why my predecessor program, AAWSAP, was trying to collect material of unknown origin"
+  },
+  {
+   "s": "aawsap_doc",
+   "p": "content",
+   "v": "States one reason AAWSAP was trying to collect material of unknown origin",
+   "quote": "one of the reasons why my predecessor program, AAWSAP, was trying to collect material of unknown origin"
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "The material was not successfully collected; an aerospace contract company requested to divest itself of it",
+   "quote": "Mr. Elizondo. It was not. What happened is that there was an aerospace contract company that requested to divest itself of the material"
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "The material was collected in the 1950s; the divestment did not occur",
+   "quote": "That was collected in the 1950s. Unfortunately, that did not actually occur."
+  },
+  {
+   "s": "bigelow",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "That is the Bigelow Aerospace, correct? Mr. Elizondo. Yes, sir."
+  },
+  {
+   "s": "sharp",
+   "p": "journalist",
+   "o": "case",
+   "quote": "there was a journalist, Christopher Sharp, who said that there was a transfer between Lockheed Martin, Bigelow Aerospace, and the CIA allegedly blocked this."
+  },
+  {
+   "s": "sharp",
+   "p": "occupation",
+   "v": "journalist",
+   "quote": "there was a journalist, Christopher Sharp, who said that there was a transfer between Lockheed Martin, Bigelow Aerospace, and the CIA allegedly blocked this."
+  },
+  {
+   "s": "sharp",
+   "p": "statement",
+   "v": "There was a transfer between Lockheed Martin and Bigelow Aerospace that the CIA allegedly blocked",
+   "quote": "there was a journalist, Christopher Sharp, who said that there was a transfer between Lockheed Martin, Bigelow Aerospace, and the CIA allegedly blocked this."
+  },
+  {
+   "s": "lockheed",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "there was a journalist, Christopher Sharp, who said that there was a transfer between Lockheed Martin, Bigelow Aerospace, and the CIA allegedly blocked this."
+  },
+  {
+   "s": "cia",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "there was a journalist, Christopher Sharp, who said that there was a transfer between Lockheed Martin, Bigelow Aerospace, and the CIA allegedly blocked this."
+  },
+  {
+   "s": "cia",
+   "p": "alleged_action",
+   "v": "Allegedly blocked a transfer between Lockheed Martin and Bigelow Aerospace",
+   "quote": "there was a journalist, Christopher Sharp, who said that there was a transfer between Lockheed Martin, Bigelow Aerospace, and the CIA allegedly blocked this."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "The transfer was blocked; contract personnel later told them that is accurate",
+   "quote": "What I can say is that it was blocked. Why it was blocked, I can only surmise. I was part of some conversations later on with some of those contract personnel where they had told all of us that is accurate."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "A memo from the Secretary of the Air Force was required to complete the transfer and never occurred",
+   "quote": "What we required was a memo from the Secretary of the Air Force in order to make that complete, and that never occurred."
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "What we required was a memo from the Secretary of the Air Force in order to make that complete, and that never occurred."
+  },
+  {
+   "s": "mattis",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "when Secretary Mattis became Secretary of Defense, I decided it would be appropriate for me to try to receive a memo from him"
+  },
+  {
+   "s": "mattis",
+   "p": "position",
+   "v": "Secretary of Defense",
+   "quote": "when Secretary Mattis became Secretary of Defense, I decided it would be appropriate for me to try to receive a memo from him"
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Tried to obtain a memo from Secretary of Defense Mattis to transfer the material",
+   "quote": "when Secretary Mattis became Secretary of Defense, I decided it would be appropriate for me to try to receive a memo from him"
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Would not discuss in open hearing who possesses the material today",
+   "quote": "Mr. Elizondo. Sir, I would not be able to have that conversation in an open hearing."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Access to proof of nonhuman origins is up to gatekeepers still in the U.S. Government",
+   "quote": "That would be to the gatekeepers still in the U.S. Government."
+  },
+  {
+   "s": "aaro",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "However, we established AARO for that very purpose. And, unfortunately, under its previous leadership, it failed."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "AARO was established for that purpose and failed under its previous leadership",
+   "quote": "However, we established AARO for that very purpose. And, unfortunately, under its previous leadership, it failed."
+  },
+  {
+   "s": "aaro",
+   "p": "assessment",
+   "v": "Failed under its previous leadership, according to Elizondo",
+   "quote": "However, we established AARO for that very purpose. And, unfortunately, under its previous leadership, it failed."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Aware of the reporting that biologics have been recovered",
+   "quote": "I am, sir, aware of the reporting that biologics have been recovered."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "His focus was nuts and bolts: how the phenomena interacted around military and nuclear equities",
+   "quote": "my focus was more nuts and bolts, looking at the physical aspects of these phenomenon, how they interacted around military equities and nuclear equities."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Yes, it was described that we have possession of bodies",
+   "quote": "But was anything described as that we have possession of bodies? Mr. Elizondo. Yes. Yes, sir."
+  },
+  {
+   "s": "elizondo",
+   "p": "employed_by",
+   "o": "dod",
+   "quote": "I can tell you anecdotally that it was discussed quite a bit when I was at the Pentagon."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Recovered biologics were discussed quite a bit when he was at the Pentagon",
+   "quote": "I can tell you anecdotally that it was discussed quite a bit when I was at the Pentagon."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "The supposed collection of biological samples occurred before his time, before he was born",
+   "quote": "the supposed collection of these biological samples occurred before my time, in fact before I was even born."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "The biologics matter was separate yet related to the Lockheed Martin discussion",
+   "quote": "And was this part of the Lockheed Martin discussion? Or was this completely--the biologics--was it completely separate? Mr. Elizondo. Separate yet related."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Definitively yes, there has been nonverbal communication with a nonhuman life form",
+   "quote": "And so, I would say definitively yes, but from a nonverbal--meaning, when a Russian reconnaissance aircraft comes into U.S. airspace, we scramble two F-22s, and we are certainly communicating intent and capability."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "These things are observed over controlled U.S. airspace and are not hiding themselves",
+   "quote": "We have these things that are being observed over controlled U.S. airspace, and they are not really doing a good job of hiding themselves."
+  },
+  {
+   "s": "usa",
+   "p": "related_place",
+   "o": "case",
+   "quote": "We have these things that are being observed over controlled U.S. airspace, and they are not really doing a good job of hiding themselves."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "They have the ability to interfere with our nuclear equities and nuclear readiness",
+   "quote": "They are making it pretty obvious they have the ability to even interfere with our nuclear equities and our nuclear readiness."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Not authorized to discuss specifics about crash retrievals; signed documentation with the U.S. Government",
+   "quote": "I am not authorized to discuss specifics about crash retrievals. Again, I signed documentation with the U.S. Government."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "What he wrote about went through a very thorough Pentagon review process and was his limit",
+   "quote": "What I can say was, after a very thorough review process by the Pentagon, what I wrote about. And that was my limit, unfortunately, that I was given."
+  },
+  {
+   "s": "timmons",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "I would now like to recognize Mr. Timmons for 5 minutes of questioning."
+  },
+  {
+   "s": "timmons",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "I am still in the Air Force."
+  },
+  {
+   "s": "timmons",
+   "p": "statement",
+   "v": "UAP sightings are becoming increasingly brash",
+   "quote": "The UAP sightings are becoming increasingly brash, if you will."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "They are being provocative, in some cases splitting aircraft formations right down the middle",
+   "quote": "they are in some cases literally splitting aircraft formations right down the middle. So, that is an air safety issue."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Unclear whether frequency is increasing or awareness and recording technology have improved",
+   "quote": "it is possible that there is an increase in frequency, but it is also possible that there is heightened awareness now"
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "It may be both that UAPs target military installations and that monitoring there has improved",
+   "quote": "or do you think that we have increased abilities to monitor surrounding military installations? Mr. Elizondo. Sir, it may be both."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "DoD and the intelligence community have IPB, initial preparations of the battlespace",
+   "quote": "we have something in the Department of Defense and the intelligence community called IPB, initial preparations of the battlespace."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Even a two-percent chance of hostile intent is more than can be accepted",
+   "quote": "even if there was a two-percent chance that there was some sort of hostile intent here, that is two percent higher than we really can accept."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "We have seen some of the capabilities, yet have no idea of the intent",
+   "quote": "We have seen some of the capabilities, yet we have no idea on the intent."
+  },
+  {
+   "s": "langley_inc",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Mr. Shellenberger, you are particularly familiar with the Langley Air Force Base incident a year ago? Are you familiar? Mr. Shellenberger. Just from what I read in the news."
+  },
+  {
+   "s": "langley",
+   "p": "occurred_at",
+   "o": "langley_inc",
+   "quote": "Mr. Shellenberger, you are particularly familiar with the Langley Air Force Base incident a year ago? Are you familiar? Mr. Shellenberger. Just from what I read in the news."
+  },
+  {
+   "s": "langley_inc",
+   "p": "date_text",
+   "v": "a year ago",
+   "quote": "Mr. Shellenberger, you are particularly familiar with the Langley Air Force Base incident a year ago? Are you familiar? Mr. Shellenberger. Just from what I read in the news."
+  },
+  {
+   "s": "shellenberger",
+   "p": "statement",
+   "v": "Knows of the Langley Air Force Base incident only from the news",
+   "quote": "Mr. Shellenberger, you are particularly familiar with the Langley Air Force Base incident a year ago? Are you familiar? Mr. Shellenberger. Just from what I read in the news."
+  },
+  {
+   "s": "wsj_article",
+   "p": "depicted_in",
+   "o": "langley_inc",
+   "quote": "I would imagine a large percentage of the American population became aware of that with the Wall Street Journal article."
+  },
+  {
+   "s": "wsj",
+   "p": "published",
+   "o": "wsj_article",
+   "quote": "I would imagine a large percentage of the American population became aware of that with the Wall Street Journal article."
+  },
+  {
+   "s": "shellenberger",
+   "p": "statement",
+   "v": "Was not aware of the Langley incident before the Wall Street Journal article",
+   "quote": "were you aware of that incident prior to the Wall Street Journal article? Mr. Shellenberger. No."
+  },
+  {
+   "s": "langley_inc",
+   "p": "duration",
+   "v": "over 2 weeks",
+   "quote": "what was essentially an over-2-week UAP frenzy over Langley Air Force Base"
+  },
+  {
+   "s": "f_base",
+   "p": "has_feature",
+   "o": "langley_inc",
+   "quote": "what was essentially an over-2-week UAP frenzy over Langley Air Force Base"
+  },
+  {
+   "s": "gallaudet",
+   "p": "statement",
+   "v": "Was aware of the Langley incident before the Wall Street Journal article",
+   "quote": "Were y'all aware of this prior to the Wall Street Journal article? Anybody. A show of hands. Dr. Gallaudet. Yes, sir."
+  },
+  {
+   "s": "mellon",
+   "p": "commentator",
+   "o": "langley_inc",
+   "quote": "a colleague of mine, who I referenced previously, Chris Mellon, he wrote an extensive article about this, that there were other incursions of drones over Langley before this, as well as many, many military installations over the last five decades."
+  },
+  {
+   "s": "mellon",
+   "p": "authored",
+   "o": "mellon_article",
+   "quote": "a colleague of mine, who I referenced previously, Chris Mellon, he wrote an extensive article about this, that there were other incursions of drones over Langley before this, as well as many, many military installations over the last five decades."
+  },
+  {
+   "s": "mellon_article",
+   "p": "depicted_in",
+   "o": "langley_inc",
+   "quote": "a colleague of mine, who I referenced previously, Chris Mellon, he wrote an extensive article about this, that there were other incursions of drones over Langley before this, as well as many, many military installations over the last five decades."
+  },
+  {
+   "s": "gallaudet",
+   "p": "colleague_of",
+   "o": "mellon",
+   "quote": "a colleague of mine, who I referenced previously, Chris Mellon, he wrote an extensive article about this, that there were other incursions of drones over Langley before this, as well as many, many military installations over the last five decades."
+  },
+  {
+   "s": "langley_inc",
+   "p": "earlier_incursions",
+   "v": "Other incursions of drones over Langley before this",
+   "quote": "a colleague of mine, who I referenced previously, Chris Mellon, he wrote an extensive article about this, that there were other incursions of drones over Langley before this, as well as many, many military installations over the last five decades."
+  },
+  {
+   "s": "mellon_article",
+   "p": "content",
+   "v": "Drone incursions over Langley and many military installations over the last five decades",
+   "quote": "a colleague of mine, who I referenced previously, Chris Mellon, he wrote an extensive article about this, that there were other incursions of drones over Langley before this, as well as many, many military installations over the last five decades."
+  },
+  {
+   "s": "timmons",
+   "p": "statement",
+   "v": "The biggest question is whether it is China or nonhuman",
+   "quote": "is it China or is it nonhuman?"
+  },
+  {
+   "s": "china",
+   "p": "related_place",
+   "o": "case",
+   "quote": "is it China or is it nonhuman?"
+  },
+  {
+   "s": "gallaudet",
+   "p": "statement",
+   "v": "The hearing should be a catalyst to bolster air defense and maritime domain awareness capabilities",
+   "quote": "we should use this hearing as a catalyst to improve and bolster our air defense capabilities and our maritime domain awareness capabilities"
+  },
+  {
+   "s": "gallaudet",
+   "p": "statement",
+   "v": "Not aware of any current task force assessing whether it is China or nonhuman",
+   "quote": "that is trying to assess the answer to that question? Dr. Gallaudet. At the current moment, sir, no, but that is a great point."
+  },
+  {
+   "s": "uaptf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "From 2020 to 2022, there was a UAP task force in the DoD succeeding where Mr. Elizondo worked, led by Jay Stratton, who had the first comprehensive, whole-of-government approach to UAP"
+  },
+  {
+   "s": "uaptf",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "From 2020 to 2022, there was a UAP task force in the DoD succeeding where Mr. Elizondo worked, led by Jay Stratton, who had the first comprehensive, whole-of-government approach to UAP"
+  },
+  {
+   "s": "stratton",
+   "p": "commanded",
+   "o": "uaptf",
+   "quote": "From 2020 to 2022, there was a UAP task force in the DoD succeeding where Mr. Elizondo worked, led by Jay Stratton, who had the first comprehensive, whole-of-government approach to UAP"
+  },
+  {
+   "s": "stratton",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "From 2020 to 2022, there was a UAP task force in the DoD succeeding where Mr. Elizondo worked, led by Jay Stratton, who had the first comprehensive, whole-of-government approach to UAP"
+  },
+  {
+   "s": "uaptf",
+   "p": "date_start",
+   "v": "2020",
+   "quote": "From 2020 to 2022, there was a UAP task force in the DoD succeeding where Mr. Elizondo worked, led by Jay Stratton, who had the first comprehensive, whole-of-government approach to UAP"
+  },
+  {
+   "s": "uaptf",
+   "p": "date_end",
+   "v": "2022",
+   "quote": "From 2020 to 2022, there was a UAP task force in the DoD succeeding where Mr. Elizondo worked, led by Jay Stratton, who had the first comprehensive, whole-of-government approach to UAP"
+  },
+  {
+   "s": "uaptf",
+   "p": "approach",
+   "v": "First comprehensive, whole-of-government approach to UAP",
+   "quote": "From 2020 to 2022, there was a UAP task force in the DoD succeeding where Mr. Elizondo worked, led by Jay Stratton, who had the first comprehensive, whole-of-government approach to UAP"
+  },
+  {
+   "s": "uaptf",
+   "p": "work",
+   "v": "Pathways to declassification and increased transparency, and assessing the national security risk of UAP",
+   "quote": "which involved pathways to declassification and to increased transparency, as well as assessing the national security risk of UAP."
+  },
+  {
+   "s": "gallaudet",
+   "p": "statement",
+   "v": "The UAP task force was a well-established approach and something like it should return",
+   "quote": "This was a really well-established approach, and we have all advocated that something like it return."
+  },
+  {
+   "s": "timmons",
+   "p": "statement",
+   "v": "Law enforcement and military lack authorities to engage; Congress needs to act",
+   "quote": "Law enforcement, military do not have authorities to actually engage"
+  },
+  {
+   "s": "boebert",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "I would like to recognize Ms. Boebert for 5 minutes of questioning."
+  },
+  {
+   "s": "immaculate",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the mention of Pentagon's Immaculate Constellation program could put us on a list"
+  },
+  {
+   "s": "immaculate",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "the mention of Pentagon's Immaculate Constellation program could put us on a list"
+  },
+  {
+   "s": "biden",
+   "p": "mentioned_by",
+   "o": "boebert",
+   "quote": "And Joe Biden received 81 million votes in the 2020 election."
+  },
+  {
+   "s": "shellenberger",
+   "p": "statement",
+   "v": "It is pretty obvious that there is overclassification",
+   "quote": "But I think it is pretty obvious that there is overclassification."
+  },
+  {
+   "s": "trump",
+   "p": "mentioned_by",
+   "o": "shellenberger",
+   "quote": "President-elect Trump has repeatedly committed to greater transparency both on the UAP issue, on JFK files, on----"
+  },
+  {
+   "s": "trump",
+   "p": "title",
+   "v": "President-elect",
+   "quote": "President-elect Trump has repeatedly committed to greater transparency both on the UAP issue, on JFK files, on----"
+  },
+  {
+   "s": "trump",
+   "p": "commitment",
+   "v": "Repeatedly committed to greater transparency on the UAP issue and JFK files",
+   "quote": "President-elect Trump has repeatedly committed to greater transparency both on the UAP issue, on JFK files, on----"
+  },
+  {
+   "s": "shellenberger",
+   "p": "statement",
+   "v": "The next administration must be held accountable for its transparency commitments",
+   "quote": "So, I think that we need to make sure that the next administration is held accountable for that."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Would not be able to answer whether there are recovered non-human materials connected to bioscience defense programs",
+   "quote": "may be connected to any advanced bioscience defense programs within the USG? Dr. Gallaudet. I do not know. Mr. Elizondo. I would not be able to answer that, ma'am."
+  },
+  {
+   "s": "case",
+   "p": "rumor",
+   "v": "A secretive DoD project manipulating human genetics with 'nonhuman genetic material' for the enhancement of human capabilities (hybrids)",
+   "quote": "there are rumors that have come up to the Hill of a secretive project within the Department of Defense involving the manipulation of human genetics with what is described as ``nonhuman genetic material'' potentially for the enhancement of human capabilities--hybrids."
+  },
+  {
+   "s": "boebert",
+   "p": "statement",
+   "v": "Rumors have reached the Hill of a secretive DoD project manipulating human genetics with nonhuman genetic material",
+   "quote": "there are rumors that have come up to the Hill of a secretive project within the Department of Defense involving the manipulation of human genetics with what is described as ``nonhuman genetic material'' potentially for the enhancement of human capabilities--hybrids."
+  },
+  {
+   "s": "gallaudet",
+   "p": "statement",
+   "v": "Not familiar with the rumored DoD human-genetics project",
+   "quote": "Are any of you familiar with that, yes or no? Dr. Gallaudet. No, ma'am. Mr. Elizondo. I am not, ma'am. Mr. Shellenberger. I am not. Mr. Gold. No, ma'am."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Not familiar with the rumored DoD human-genetics project",
+   "quote": "Are any of you familiar with that, yes or no? Dr. Gallaudet. No, ma'am. Mr. Elizondo. I am not, ma'am. Mr. Shellenberger. I am not. Mr. Gold. No, ma'am."
+  },
+  {
+   "s": "shellenberger",
+   "p": "statement",
+   "v": "Not familiar with the rumored DoD human-genetics project",
+   "quote": "Are any of you familiar with that, yes or no? Dr. Gallaudet. No, ma'am. Mr. Elizondo. I am not, ma'am. Mr. Shellenberger. I am not. Mr. Gold. No, ma'am."
+  },
+  {
+   "s": "gold",
+   "p": "statement",
+   "v": "Not familiar with the rumored DoD human-genetics project",
+   "quote": "Are any of you familiar with that, yes or no? Dr. Gallaudet. No, ma'am. Mr. Elizondo. I am not, ma'am. Mr. Shellenberger. I am not. Mr. Gold. No, ma'am."
+  },
+  {
+   "s": "shellenberger",
+   "p": "witness",
+   "o": "case",
+   "quote": "Mr. Shellenberger. Yes, the Immaculate Constellation covers both terrestrial and oceanic, and there is actually a number of cases described in the report that occur in the ocean."
+  },
+  {
+   "s": "immaculate",
+   "p": "scope",
+   "v": "Covers both terrestrial and oceanic",
+   "quote": "Mr. Shellenberger. Yes, the Immaculate Constellation covers both terrestrial and oceanic, and there is actually a number of cases described in the report that occur in the ocean."
+  },
+  {
+   "s": "ic_report",
+   "p": "content",
+   "v": "Describes a number of cases that occur in the ocean",
+   "quote": "Mr. Shellenberger. Yes, the Immaculate Constellation covers both terrestrial and oceanic, and there is actually a number of cases described in the report that occur in the ocean."
+  },
+  {
+   "s": "shellenberger",
+   "p": "statement",
+   "v": "Believes there is a concerted Pentagon effort to keep Congress out of the loop on UAP activities in US waters",
+   "quote": "to keep Congress out of the loop regarding these UAP activities specifically in our waters? Mr. Shellenberger. Yes."
+  },
+  {
+   "s": "boebert",
+   "p": "statement",
+   "v": "About five percent of the ocean has been studied in detail",
+   "quote": "I think it is about five percent of our ocean that has actually been studied in detail by man"
+  },
+  {
+   "s": "orb_inc",
+   "p": "related_case",
+   "o": "case",
+   "quote": "I had a different source entirely describe this pretty extraordinary footage that exists of orbs--of an orb coming out of the ocean and being met by another orb."
+  },
+  {
+   "s": "ocean_orbs",
+   "p": "reported_object",
+   "o": "orb_inc",
+   "quote": "I had a different source entirely describe this pretty extraordinary footage that exists of orbs--of an orb coming out of the ocean and being met by another orb."
+  },
+  {
+   "s": "orb_footage",
+   "p": "key_document",
+   "o": "orb_inc",
+   "quote": "I had a different source entirely describe this pretty extraordinary footage that exists of orbs--of an orb coming out of the ocean and being met by another orb."
+  },
+  {
+   "s": "f_sphere",
+   "p": "has_feature",
+   "o": "orb_inc",
+   "quote": "I had a different source entirely describe this pretty extraordinary footage that exists of orbs--of an orb coming out of the ocean and being met by another orb."
+  },
+  {
+   "s": "f_water",
+   "p": "has_feature",
+   "o": "orb_inc",
+   "quote": "I had a different source entirely describe this pretty extraordinary footage that exists of orbs--of an orb coming out of the ocean and being met by another orb."
+  },
+  {
+   "s": "f_video",
+   "p": "has_feature",
+   "o": "orb_inc",
+   "quote": "I had a different source entirely describe this pretty extraordinary footage that exists of orbs--of an orb coming out of the ocean and being met by another orb."
+  },
+  {
+   "s": "shellenberger",
+   "p": "commentator",
+   "o": "orb_inc",
+   "quote": "I had a different source entirely describe this pretty extraordinary footage that exists of orbs--of an orb coming out of the ocean and being met by another orb."
+  },
+  {
+   "s": "ocean_orbs",
+   "p": "shape",
+   "v": "orb",
+   "quote": "I had a different source entirely describe this pretty extraordinary footage that exists of orbs--of an orb coming out of the ocean and being met by another orb."
+  },
+  {
+   "s": "ocean_orbs",
+   "p": "behavior",
+   "v": "An orb coming out of the ocean and being met by another orb",
+   "quote": "I had a different source entirely describe this pretty extraordinary footage that exists of orbs--of an orb coming out of the ocean and being met by another orb."
+  },
+  {
+   "s": "shellenberger",
+   "p": "statement",
+   "v": "A different source described extraordinary footage of an orb coming out of the ocean and being met by another orb",
+   "quote": "I had a different source entirely describe this pretty extraordinary footage that exists of orbs--of an orb coming out of the ocean and being met by another orb."
+  },
+  {
+   "s": "shellenberger",
+   "p": "statement",
+   "v": "Does not know about a base beneath the ocean",
+   "quote": "Mr. Shellenberger. I do not know about a base"
+  },
+  {
+   "s": "shellenberger",
+   "p": "statement",
+   "v": "Has other sources who shared significant information but are not comfortable with him sharing it",
+   "quote": "that have shared a significant amount of information, but they are not comfortable with me sharing it at this point."
+  },
+  {
+   "s": "shellenberger",
+   "p": "statement",
+   "v": "All the oceanic UAPs seem to defy current understanding of physics or engineering",
+   "quote": "that seem to defy our current understanding of physics or our engineering capabilities? Mr. Shellenberger. It seems like they all do."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Not authorized to confirm or deny being read in to Immaculate Constellation or any special access program",
+   "quote": "Mr. Elizondo, were you read in to the Immaculate Constellation program? Mr. Elizondo. Ma'am, I would not be authorized to confirm nor deny the existence of any ongoing or past program"
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "The US has foreign materiel exploitation programs; the term is unclassified",
+   "quote": "We do have foreign materiel exploitation programs. That is something that is widely known, and that term itself is unclassified."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "The US works with international partners and allies in intelligence efforts",
+   "quote": "We do work with international partners and allies quite often, not just in military exercises and workups but in other intelligence efforts as well."
+  },
+  {
+   "s": "gd",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "would it go to a general contractor like General Dynamics? Mr. Elizondo. Yes, ma'am, absolutely correct. Different contractors have different levels of expertise"
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Material is given to contractors according to their expertise",
+   "quote": "would it go to a general contractor like General Dynamics? Mr. Elizondo. Yes, ma'am, absolutely correct. Different contractors have different levels of expertise"
+  },
+  {
+   "s": "lockheed",
+   "p": "expertise",
+   "v": "Aerospace",
+   "quote": "Ms. Mace. What is Lockheed's expertise? Mr. Elizondo. Aerospace, ma'am."
+  },
+  {
+   "s": "lockheed",
+   "p": "domains",
+   "v": "Atmosphere, space and underwater",
+   "quote": "Lockheed Martin and others do quite a bit of work both in our atmosphere, in space, and even underwater."
+  },
+  {
+   "s": "gallaudet",
+   "p": "statement",
+   "v": "Flight safety risks to pilots are extensive",
+   "quote": "based on what you have experienced and seen in your career? Dr. Gallaudet. They are extensive."
+  },
+  {
+   "s": "exercise_2015",
+   "p": "related_case",
+   "o": "case",
+   "quote": "In the one exercise I referred to where I received the email that was then deleted"
+  },
+  {
+   "s": "gallaudet",
+   "p": "official_involved",
+   "o": "exercise_2015",
+   "quote": "In the one exercise I referred to where I received the email that was then deleted"
+  },
+  {
+   "s": "gallaudet",
+   "p": "statement",
+   "v": "Received an email during an exercise that was then deleted",
+   "quote": "In the one exercise I referred to where I received the email that was then deleted"
+  },
+  {
+   "s": "x_balloon",
+   "p": "explained_as",
+   "o": "pentagon_videos",
+   "quote": "There are debunkers out there who have said the ``Go Fast'' video was just a balloon. That was only one video that was released."
+  },
+  {
+   "s": "gallaudet",
+   "p": "disputed",
+   "o": "x_balloon",
+   "quote": "There are debunkers out there who have said the ``Go Fast'' video was just a balloon. That was only one video that was released."
+  },
+  {
+   "s": "gofast_video",
+   "p": "key_document",
+   "o": "exercise_2015",
+   "quote": "There are debunkers out there who have said the ``Go Fast'' video was just a balloon. That was only one video that was released."
+  },
+  {
+   "s": "gofast_video",
+   "p": "status",
+   "v": "Only one video that was released",
+   "quote": "There are debunkers out there who have said the ``Go Fast'' video was just a balloon. That was only one video that was released."
+  },
+  {
+   "s": "exercise_2015",
+   "p": "encounter_count",
+   "v": "dozens",
+   "quote": "There were dozens of these encounters that pilots, friends of Ryan Graves, who is in this room right here, witnessed and caused significant safety concerns."
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "exercise_2015",
+   "quote": "There were dozens of these encounters that pilots, friends of Ryan Graves, who is in this room right here, witnessed and caused significant safety concerns."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "exercise_2015",
+   "quote": "There were dozens of these encounters that pilots, friends of Ryan Graves, who is in this room right here, witnessed and caused significant safety concerns."
+  },
+  {
+   "s": "exercise_2015",
+   "p": "witnesses",
+   "v": "Pilots, friends of Ryan Graves",
+   "quote": "There were dozens of these encounters that pilots, friends of Ryan Graves, who is in this room right here, witnessed and caused significant safety concerns."
+  },
+  {
+   "s": "gallaudet",
+   "p": "statement",
+   "v": "Pilots witnessed dozens of such encounters, causing significant safety concerns",
+   "quote": "There were dozens of these encounters that pilots, friends of Ryan Graves, who is in this room right here, witnessed and caused significant safety concerns."
+  },
+  {
+   "s": "exercise_2015",
+   "p": "impact",
+   "v": "The exercise was almost called off and shut down",
+   "quote": "And to almost call out an exercise and shut it down, which is very compressed and the carrier is getting ready for deployment and the pilots have to get certified to land on a carrier, it is extreme, to say the least."
+  },
+  {
+   "s": "shellenberger",
+   "p": "statement",
+   "v": "Will protect whistleblowers and go to prison to protect their identities",
+   "quote": "I can guarantee that I will protect them and go to prison to protect their identities"
+  },
+  {
+   "s": "gallaudet",
+   "p": "statement",
+   "v": "Diverse, higher-order nonhuman intelligence is probably what is visiting us",
+   "quote": "to think that there would be more diverse, higher-order, nonhuman intelligence throughout the universe, and that is probably what is visiting us."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Defines nonhuman intelligence as the ability to react to a stimulus in a manner requiring an intellectual thought process",
+   "quote": "The definition would be the ability to react to a stimulus in a manner that requires an intellectual thought process."
+  },
+  {
+   "s": "gold",
+   "p": "statement",
+   "v": "We are looking for intelligence, which could be biological or not",
+   "quote": "that we are looking for intelligence. That could be biological; it might not."
+  },
+  {
+   "s": "gold",
+   "p": "statement",
+   "v": "Nonbiological intelligence means artificial intelligence, ML, machines",
+   "quote": "Mr. Gold. Artificial intelligence, ML, machines."
+  },
+  {
+   "s": "gold",
+   "p": "statement",
+   "v": "The ultimate answer is going to surprise us all",
+   "quote": "but I think the ultimate answer is going to surprise us all."
+  },
+  {
+   "s": "garcia",
+   "p": "statement",
+   "v": "We need to continue investigating UAPs",
+   "quote": "is that we need to continue investigating UAPs."
+  },
+  {
+   "s": "garcia",
+   "p": "statement",
+   "v": "We should always be guided by facts, science, and data",
+   "quote": "we should always be guided by facts, science, and data, and stay serious on those issues."
+  },
+  {
+   "s": "mace",
+   "p": "statement",
+   "v": "If it does not exist why are we spending money, and if it does why are we hiding it from the public",
+   "quote": "if we are spending money on something that does not exist, why are we spending the money? And if it does exist, why are we hiding it from the public?"
+  },
+  {
+   "s": "mace",
+   "p": "statement",
+   "v": "Asked whether the U.S. Government or private contractors work with foreign countries such as China to exchange UAP intelligence data",
+   "quote": "do they work with other foreign countries--China, for example-- to exchange data, quote, ``from a source,'' that intelligence data, about UAP?"
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "We constantly have to reevaluate our understanding of the definition of life",
+   "quote": "we are constantly having to reevaluate our understanding of what the definition of ``life'' is."
+  },
+  {
+   "s": "ogles",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Ms. Mace. Thank you, Mr. Ogles."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Absolutely convinced UAP sightings are especially common near nuclear sites, as are colleagues inside the government",
+   "quote": "do you believe it is fair to say that they are especially common near nuclear sites? Mr. Elizondo. Yes, sir, Mr. Congressman, I absolutely am convinced of that, as are my colleagues inside the government."
+  },
+  {
+   "s": "oak_ridge",
+   "p": "located_in",
+   "o": "tennessee",
+   "quote": "Oak Ridge is in Tennessee."
+  },
+  {
+   "s": "tennessee",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Oak Ridge is in Tennessee."
+  },
+  {
+   "s": "oak_ridge",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The so-called weather balloon that drifted, that we now know was controlled, it passed near Oak Ridge."
+  },
+  {
+   "s": "ogles",
+   "p": "statement",
+   "v": "The so-called weather balloon, now known to have been controlled, passed near Oak Ridge",
+   "quote": "The so-called weather balloon that drifted, that we now know was controlled, it passed near Oak Ridge."
+  },
+  {
+   "s": "oak_ridge",
+   "p": "nature",
+   "v": "sensitive site",
+   "quote": "It obviously is a sensitive site, both of interest to our adversaries and to whatever else this is."
+  },
+  {
+   "s": "ogles",
+   "p": "statement",
+   "v": "At military installations and sensitive nuclear facilities we are seeing this take place",
+   "quote": "Because we know that at military installations, at sensitive locations such as nuclear facilities, that we are seeing this take place."
+  },
+  {
+   "s": "srs",
+   "p": "related_place",
+   "o": "case",
+   "quote": "It is not just Oak Ridge. It is Savannah River Site, SRS. It is also Los Alamos. A lot of our sensitive R&D locations appear to be under some sort of surveillance and monitoring."
+  },
+  {
+   "s": "los_alamos",
+   "p": "related_place",
+   "o": "case",
+   "quote": "It is not just Oak Ridge. It is Savannah River Site, SRS. It is also Los Alamos. A lot of our sensitive R&D locations appear to be under some sort of surveillance and monitoring."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Oak Ridge, Savannah River Site and Los Alamos appear to be under some sort of surveillance and monitoring",
+   "quote": "It is not just Oak Ridge. It is Savannah River Site, SRS. It is also Los Alamos. A lot of our sensitive R&D locations appear to be under some sort of surveillance and monitoring."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Documentation on this has been submitted",
+   "quote": "There is actually documentation right now that has been submitted."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "Those sites are reconnaissance targets because innovation and disruptive defense technologies originate there",
+   "quote": "disruptive technologies that we use for our national defense originates out of those locations, and advanced concepts and physics as well."
+  },
+  {
+   "s": "doe",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "what role might the Department of Energy or its subsidiaries or affiliates have in this type of technology or possessing this type of technology"
+  },
+  {
+   "s": "ogles",
+   "p": "statement",
+   "v": "Questions the role the Department of Energy or its affiliates might have in possessing this type of technology",
+   "quote": "what role might the Department of Energy or its subsidiaries or affiliates have in this type of technology or possessing this type of technology"
+  },
+  {
+   "s": "exercise_2015",
+   "p": "date_start",
+   "v": "2015",
+   "quote": "They were threatening Navy pilots during the exercise that my people were involved with in 2015, and it is my understanding that they are risking pilot safety, commercial and military, today."
+  },
+  {
+   "s": "navy",
+   "p": "involved_org",
+   "o": "exercise_2015",
+   "quote": "They were threatening Navy pilots during the exercise that my people were involved with in 2015, and it is my understanding that they are risking pilot safety, commercial and military, today."
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "exercise_2015",
+   "quote": "They were threatening Navy pilots during the exercise that my people were involved with in 2015, and it is my understanding that they are risking pilot safety, commercial and military, today."
+  },
+  {
+   "s": "gallaudet",
+   "p": "statement",
+   "v": "UAPs were threatening Navy pilots during the 2015 exercise his people were involved with, and risk pilot safety today",
+   "quote": "They were threatening Navy pilots during the exercise that my people were involved with in 2015, and it is my understanding that they are risking pilot safety, commercial and military, today."
+  },
+  {
+   "s": "congress",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the executive branch, not sharing with Congress what it knows about UAP infringes on your legislative and oversight responsibilities"
+  },
+  {
+   "s": "gallaudet",
+   "p": "statement",
+   "v": "The executive branch not sharing what it knows about UAP infringes on Congress's legislative and oversight responsibilities",
+   "quote": "the executive branch, not sharing with Congress what it knows about UAP infringes on your legislative and oversight responsibilities"
+  },
+  {
+   "s": "gallaudet",
+   "p": "statement",
+   "v": "The UAP issue may be the greatest issue of our time and is being hidden from Congress",
+   "quote": "This UAP issue may be the greatest issue of our time, and it is being hid from you."
+  },
+  {
+   "s": "ogles",
+   "p": "statement",
+   "v": "Adversaries like China and Russia have gone after US technologies and in some cases succeeded",
+   "quote": "we have certain adversaries, like China, like Russia, that, technologically speaking, are not as advanced as us"
+  },
+  {
+   "s": "ogles",
+   "p": "statement",
+   "v": "There is something out there; the question is whether it is ours, someone else's, or otherworldly",
+   "quote": "there is something out there. The question is, is it ours, is it someone else's, or is it otherworldly?"
+  },
+  {
+   "s": "ogles",
+   "p": "statement",
+   "v": "Would consider it criminality for anyone to prevent Congress gaining access to that information",
+   "quote": "anyone who prevents us from gaining access to that information, I would consider that criminality."
+  },
+  {
+   "s": "case",
+   "p": "adjourned_at",
+   "v": "1:45 p.m.",
+   "quote": "[Whereupon, at 1:45 p.m., the Subcommittee was adjourned.]"
+  }
+ ]
+}

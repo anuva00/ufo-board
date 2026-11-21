@@ -1,0 +1,4608 @@
+{
+ "slug": "hearing-2023-07-26-house-oversight-uap-p1",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "House Oversight hearing: Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency",
+   "description": "26 July 2023 hearing of the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs on UAP (opening statements and first two witness statements).",
+   "aliases": [
+    "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency"
+   ]
+  },
+  {
+   "key": "dc",
+   "type": "place",
+   "name": "Washington, D.C.",
+   "description": "City where the hearing was held."
+  },
+  {
+   "key": "rayburn",
+   "type": "place",
+   "name": "Rayburn House Office Building",
+   "description": "House office building; the hearing met in room 2154.",
+   "aliases": [
+    "Rayburn Office Building"
+   ]
+  },
+  {
+   "key": "house",
+   "type": "organization",
+   "name": "United States House of Representatives",
+   "description": "Lower chamber of the United States Congress.",
+   "aliases": [
+    "House of Representatives",
+    "U.S. House of Representatives",
+    "House"
+   ]
+  },
+  {
+   "key": "oversight",
+   "type": "organization",
+   "name": "United States House Committee on Oversight and Accountability",
+   "description": "House committee whose subcommittee held the hearing.",
+   "aliases": [
+    "Committee on Oversight and Accountability",
+    "Oversight Committee",
+    "House Oversight Committee"
+   ]
+  },
+  {
+   "key": "subcomm",
+   "type": "organization",
+   "name": "Subcommittee on National Security, the Border, and Foreign Affairs",
+   "description": "Subcommittee of the House Committee on Oversight and Accountability that held the hearing.",
+   "aliases": [
+    "National Security Subcommittee",
+    "Subcommittee on National Security",
+    "House Oversight Subcommittee on National Security",
+    "House Oversight Committee national security subcommittee"
+   ]
+  },
+  {
+   "key": "congress",
+   "type": "organization",
+   "name": "United States Congress",
+   "description": "The US legislature.",
+   "aliases": [
+    "Congress"
+   ]
+  },
+  {
+   "key": "senate",
+   "type": "organization",
+   "name": "United States Senate",
+   "description": "Upper chamber of the United States Congress.",
+   "aliases": [
+    "Senate",
+    "the Senate"
+   ]
+  },
+  {
+   "key": "comer",
+   "type": "person",
+   "name": "James Comer",
+   "description": "Chairman of the House Committee on Oversight and Accountability (Kentucky).",
+   "aliases": [
+    "JAMES COMER",
+    "Comer"
+   ]
+  },
+  {
+   "key": "jordan",
+   "type": "person",
+   "name": "Jim Jordan",
+   "description": "Member of the House Committee on Oversight and Accountability (Ohio)."
+  },
+  {
+   "key": "turner",
+   "type": "person",
+   "name": "Mike Turner",
+   "description": "Member of the House Committee on Oversight and Accountability (Ohio)."
+  },
+  {
+   "key": "gosar",
+   "type": "person",
+   "name": "Paul Gosar",
+   "description": "Member of the House Committee on Oversight and Accountability (Arizona).",
+   "aliases": [
+    "Gosar"
+   ]
+  },
+  {
+   "key": "foxx",
+   "type": "person",
+   "name": "Virginia Foxx",
+   "description": "Member of the House Committee on Oversight and Accountability (North Carolina).",
+   "aliases": [
+    "Foxx"
+   ]
+  },
+  {
+   "key": "grothman",
+   "type": "person",
+   "name": "Glenn Grothman",
+   "description": "Chairman of the Subcommittee on National Security, the Border, and Foreign Affairs (Wisconsin); presided over the hearing.",
+   "aliases": [
+    "Mr. Grothman",
+    "Hon. Glenn Grothman",
+    "Chairman Grothman",
+    "Grothman"
+   ]
+  },
+  {
+   "key": "palmer",
+   "type": "person",
+   "name": "Gary Palmer",
+   "description": "Member of the House Committee on Oversight and Accountability (Alabama)."
+  },
+  {
+   "key": "higgins",
+   "type": "person",
+   "name": "Clay Higgins",
+   "description": "Member of the House Committee on Oversight and Accountability (Louisiana)."
+  },
+  {
+   "key": "sessions",
+   "type": "person",
+   "name": "Pete Sessions",
+   "description": "Member of the House Committee on Oversight and Accountability (Texas).",
+   "aliases": [
+    "Sessions"
+   ]
+  },
+  {
+   "key": "biggs",
+   "type": "person",
+   "name": "Andy Biggs",
+   "description": "Member of the House Committee on Oversight and Accountability (Arizona).",
+   "aliases": [
+    "Biggs"
+   ]
+  },
+  {
+   "key": "mace",
+   "type": "person",
+   "name": "Nancy Mace",
+   "description": "Member of the House Committee on Oversight and Accountability (South Carolina).",
+   "aliases": [
+    "Mace"
+   ]
+  },
+  {
+   "key": "laturner",
+   "type": "person",
+   "name": "Jake LaTurner",
+   "description": "Member of the House Committee on Oversight and Accountability (Kansas).",
+   "aliases": [
+    "LaTurner"
+   ]
+  },
+  {
+   "key": "fallon",
+   "type": "person",
+   "name": "Pat Fallon",
+   "description": "Member of the House Committee on Oversight and Accountability (Texas)."
+  },
+  {
+   "key": "donalds",
+   "type": "person",
+   "name": "Byron Donalds",
+   "description": "Member of the House Committee on Oversight and Accountability (Florida)."
+  },
+  {
+   "key": "armstrong",
+   "type": "person",
+   "name": "Kelly Armstrong",
+   "description": "Member of the House Committee on Oversight and Accountability (North Dakota).",
+   "aliases": [
+    "Armstrong"
+   ]
+  },
+  {
+   "key": "perry",
+   "type": "person",
+   "name": "Scott Perry",
+   "description": "Member of the House Committee on Oversight and Accountability (Pennsylvania).",
+   "aliases": [
+    "Perry"
+   ]
+  },
+  {
+   "key": "timmons",
+   "type": "person",
+   "name": "William Timmons",
+   "description": "Member of the House Committee on Oversight and Accountability (South Carolina)."
+  },
+  {
+   "key": "burchett",
+   "type": "person",
+   "name": "Tim Burchett",
+   "description": "Representative from Tennessee, waived on to the subcommittee; credited with bringing about the hearing.",
+   "aliases": [
+    "Mr. Burchett",
+    "Representative Burchett",
+    "Rep. Burchett",
+    "Congressman Burchett",
+    "Burchett"
+   ]
+  },
+  {
+   "key": "greene",
+   "type": "person",
+   "name": "Marjorie Taylor Greene",
+   "description": "Member of the House Committee on Oversight and Accountability (Georgia)."
+  },
+  {
+   "key": "mcclain",
+   "type": "person",
+   "name": "Lisa McClain",
+   "description": "Member of the House Committee on Oversight and Accountability (Michigan)."
+  },
+  {
+   "key": "boebert",
+   "type": "person",
+   "name": "Lauren Boebert",
+   "description": "Member of the House Committee on Oversight and Accountability (Colorado)."
+  },
+  {
+   "key": "fry",
+   "type": "person",
+   "name": "Russell Fry",
+   "description": "Member of the House Committee on Oversight and Accountability (South Carolina)."
+  },
+  {
+   "key": "luna",
+   "type": "person",
+   "name": "Anna Paulina Luna",
+   "description": "Representative from Florida, waived on to the subcommittee; gave an opening statement.",
+   "aliases": [
+    "Ms. Luna",
+    "Representative Luna",
+    "Rep. Luna",
+    "Luna",
+    "Representative Anna Paulina Luna"
+   ]
+  },
+  {
+   "key": "edwards",
+   "type": "person",
+   "name": "Chuck Edwards",
+   "description": "Member of the House Committee on Oversight and Accountability (North Carolina)."
+  },
+  {
+   "key": "langworthy",
+   "type": "person",
+   "name": "Nick Langworthy",
+   "description": "Member of the House Committee on Oversight and Accountability (New York).",
+   "aliases": [
+    "Langworthy"
+   ]
+  },
+  {
+   "key": "burlison",
+   "type": "person",
+   "name": "Eric Burlison",
+   "description": "Member of the House Committee on Oversight and Accountability (Missouri).",
+   "aliases": [
+    "Mr. Burlison",
+    "Burlison"
+   ]
+  },
+  {
+   "key": "raskin",
+   "type": "person",
+   "name": "Jamie Raskin",
+   "description": "Ranking Minority Member of the House Committee on Oversight and Accountability (Maryland).",
+   "aliases": [
+    "Raskin"
+   ]
+  },
+  {
+   "key": "norton",
+   "type": "person",
+   "name": "Eleanor Holmes Norton",
+   "description": "Member of the House Committee on Oversight and Accountability (District of Columbia)."
+  },
+  {
+   "key": "lynch",
+   "type": "person",
+   "name": "Stephen F. Lynch",
+   "description": "Member of the House Committee on Oversight and Accountability (Massachusetts)."
+  },
+  {
+   "key": "connolly",
+   "type": "person",
+   "name": "Gerald E. Connolly",
+   "description": "Member of the House Committee on Oversight and Accountability (Virginia)."
+  },
+  {
+   "key": "krishnamoorthi",
+   "type": "person",
+   "name": "Raja Krishnamoorthi",
+   "description": "Member of the House Committee on Oversight and Accountability (Illinois)."
+  },
+  {
+   "key": "khanna",
+   "type": "person",
+   "name": "Ro Khanna",
+   "description": "Member of the House Committee on Oversight and Accountability (California)."
+  },
+  {
+   "key": "mfume",
+   "type": "person",
+   "name": "Kweisi Mfume",
+   "description": "Member of the House Committee on Oversight and Accountability (Maryland)."
+  },
+  {
+   "key": "aoc",
+   "type": "person",
+   "name": "Alexandria Ocasio-Cortez",
+   "description": "Member of the House Committee on Oversight and Accountability (New York).",
+   "aliases": [
+    "Ms. Ocasio-Cortez",
+    "Ocasio-Cortez"
+   ]
+  },
+  {
+   "key": "porter",
+   "type": "person",
+   "name": "Katie Porter",
+   "description": "Member of the House Committee on Oversight and Accountability (California)."
+  },
+  {
+   "key": "bush",
+   "type": "person",
+   "name": "Cori Bush",
+   "description": "Member of the House Committee on Oversight and Accountability (Missouri)."
+  },
+  {
+   "key": "gomez",
+   "type": "person",
+   "name": "Jimmy Gomez",
+   "description": "Member of the House Committee on Oversight and Accountability (California)."
+  },
+  {
+   "key": "brown",
+   "type": "person",
+   "name": "Shontel Brown",
+   "description": "Member of the House Committee on Oversight and Accountability (Ohio)."
+  },
+  {
+   "key": "stansbury",
+   "type": "person",
+   "name": "Melanie Stansbury",
+   "description": "Member of the House Committee on Oversight and Accountability (New Mexico)."
+  },
+  {
+   "key": "garcia",
+   "type": "person",
+   "name": "Robert Garcia",
+   "description": "Ranking Minority Member of the subcommittee (California); gave an opening statement.",
+   "aliases": [
+    "Mr. Garcia",
+    "Ranking Member Garcia",
+    "Garcia"
+   ]
+  },
+  {
+   "key": "frost",
+   "type": "person",
+   "name": "Maxwell Frost",
+   "description": "Member of the House Committee on Oversight and Accountability (Florida).",
+   "aliases": [
+    "Frost"
+   ]
+  },
+  {
+   "key": "lee",
+   "type": "person",
+   "name": "Summer Lee",
+   "description": "Member of the House Committee on Oversight and Accountability (Pennsylvania)."
+  },
+  {
+   "key": "casar",
+   "type": "person",
+   "name": "Greg Casar",
+   "description": "Member of the House Committee on Oversight and Accountability (Texas)."
+  },
+  {
+   "key": "crockett",
+   "type": "person",
+   "name": "Jasmine Crockett",
+   "description": "Member of the House Committee on Oversight and Accountability (Texas)."
+  },
+  {
+   "key": "goldman",
+   "type": "person",
+   "name": "Dan Goldman",
+   "description": "Member of the House Committee on Oversight and Accountability (New York)."
+  },
+  {
+   "key": "moskowitz",
+   "type": "person",
+   "name": "Jared Moskowitz",
+   "description": "Representative from Florida and subcommittee member; gave an opening statement.",
+   "aliases": [
+    "Mr. Moskowitz",
+    "Representative Moskowitz",
+    "Moskowitz"
+   ]
+  },
+  {
+   "key": "gaetz",
+   "type": "person",
+   "name": "Matt Gaetz",
+   "description": "Representative from Florida, waived on to the subcommittee for the hearing.",
+   "aliases": [
+    "Mr. Gaetz",
+    "Gaetz"
+   ]
+  },
+  {
+   "key": "ogles",
+   "type": "person",
+   "name": "Ogles",
+   "description": "Representative from Tennessee, waived on to the subcommittee for the hearing.",
+   "aliases": [
+    "Mr. Ogles"
+   ]
+  },
+  {
+   "key": "marin",
+   "type": "person",
+   "name": "Mark Marin",
+   "description": "Staff Director, House Committee on Oversight and Accountability."
+  },
+  {
+   "key": "donlon",
+   "type": "person",
+   "name": "Jessica Donlon",
+   "description": "Deputy Staff Director and General Counsel, House Committee on Oversight and Accountability."
+  },
+  {
+   "key": "wolfe",
+   "type": "person",
+   "name": "Kaity Wolfe",
+   "description": "Senior Professional Staff Member, House Committee on Oversight and Accountability."
+  },
+  {
+   "key": "westmoreland",
+   "type": "person",
+   "name": "Grayson Westmoreland",
+   "description": "Senior Professional Staff Member, House Committee on Oversight and Accountability."
+  },
+  {
+   "key": "cogar",
+   "type": "person",
+   "name": "Mallory Cogar",
+   "description": "Deputy Director of Operations and Chief Clerk, House Committee on Oversight and Accountability."
+  },
+  {
+   "key": "tagen",
+   "type": "person",
+   "name": "Julie Tagen",
+   "description": "Minority Staff Director, House Committee on Oversight and Accountability."
+  },
+  {
+   "key": "graves",
+   "type": "person",
+   "name": "Ryan Graves",
+   "description": "Former US Navy F-18 pilot and Executive Director of Americans for Safe Aerospace; hearing witness.",
+   "aliases": [
+    "Ryan \"FOBS\" Graves",
+    "Lieutenant Ryan Graves",
+    "Lieutenant Graves",
+    "Mr. Graves",
+    "Mr. Ryan Graves",
+    "FOBS",
+    "Graves"
+   ]
+  },
+  {
+   "key": "grusch",
+   "type": "person",
+   "name": "David Charles Grusch",
+   "description": "Former intelligence officer and UAP Task Force member who became a whistleblower; hearing witness.",
+   "aliases": [
+    "David Grusch",
+    "Mr. Grusch",
+    "Mr. David Grusch",
+    "Grusch"
+   ]
+  },
+  {
+   "key": "fravor",
+   "type": "person",
+   "name": "David Fravor",
+   "description": "Retired US Navy commander and naval aviator with the 'Tic Tac' UAP experience; hearing witness.",
+   "aliases": [
+    "Commander David Fravor",
+    "Commander Fravor",
+    "Mr. Fravor",
+    "Commander David Fravor (Ret.)",
+    "Fravor"
+   ]
+  },
+  {
+   "key": "asa",
+   "type": "organization",
+   "name": "Americans for Safe Aerospace",
+   "description": "Organisation founded by Ryan Graves as an intake point for UAP witnesses."
+  },
+  {
+   "key": "navy",
+   "type": "organization",
+   "name": "United States Navy",
+   "description": "US naval service.",
+   "aliases": [
+    "U.S. Navy",
+    "Navy",
+    "the Navy"
+   ]
+  },
+  {
+   "key": "vfa11",
+   "type": "organization",
+   "name": "Fighter Attack Squadron 11",
+   "description": "US Navy F-18 squadron (the Red Rippers) in which Graves flew in 2014.",
+   "aliases": [
+    "Navy Fighter Attack Squadron 11",
+    "Red Rippers",
+    "the Red Rippers"
+   ]
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "description": "US air service.",
+   "aliases": [
+    "U.S. Air Force",
+    "Air Force"
+   ]
+  },
+  {
+   "key": "ang",
+   "type": "organization",
+   "name": "Air National Guard",
+   "description": "Reserve component of the US Air Force in which Grusch says he served."
+  },
+  {
+   "key": "nga",
+   "type": "organization",
+   "name": "National Geospatial-Intelligence Agency",
+   "description": "US intelligence agency where Grusch worked 2021 to 2023.",
+   "aliases": [
+    "National Geospatial Intelligence Agency",
+    "NGA"
+   ]
+  },
+  {
+   "key": "nro",
+   "type": "organization",
+   "name": "National Reconnaissance Office",
+   "description": "US intelligence agency Grusch represented on the UAP Task Force.",
+   "aliases": [
+    "NRO"
+   ]
+  },
+  {
+   "key": "uaptf",
+   "type": "program",
+   "name": "Unidentified Aerial Phenomena Task Force",
+   "description": "Department of Defense UAP task force of which Grusch was a member 2019 to 2021.",
+   "aliases": [
+    "UAP Task Force",
+    "UAPTF",
+    "Unidentified Anomalous Phenomena Task Force"
+   ]
+  },
+  {
+   "key": "aaro",
+   "type": "organization",
+   "name": "All-domain Anomaly Resolution Office",
+   "description": "DoD office established under the NDAA of 2022 to detect, identify and investigate UAPs.",
+   "aliases": [
+    "AARO",
+    "All-Domain Anomaly Resolution Office",
+    "all-domain anomaly resolution officer",
+    "All-Domain Resolution Office"
+   ]
+  },
+  {
+   "key": "dod",
+   "type": "organization",
+   "name": "United States Department of Defense",
+   "description": "US defence department.",
+   "aliases": [
+    "Department of Defense",
+    "DoD",
+    "the Pentagon",
+    "Pentagon"
+   ]
+  },
+  {
+   "key": "ic",
+   "type": "organization",
+   "name": "United States Intelligence Community",
+   "description": "US intelligence agencies collectively.",
+   "aliases": [
+    "intelligence community",
+    "our intelligence community"
+   ]
+  },
+  {
+   "key": "icig",
+   "type": "organization",
+   "name": "Intelligence Community Inspector General",
+   "description": "Inspector general with whom Grusch filed his PPD-19 urgent concern.",
+   "aliases": [
+    "intelligence community inspector general"
+   ]
+  },
+  {
+   "key": "usgov",
+   "type": "organization",
+   "name": "United States federal government",
+   "description": "The US government.",
+   "aliases": [
+    "U.S. Government",
+    "Federal Government",
+    "the government"
+   ]
+  },
+  {
+   "key": "nasa",
+   "type": "organization",
+   "name": "National Aeronautics and Space Administration",
+   "description": "US space agency leading an independent UAP study.",
+   "aliases": [
+    "NASA"
+   ]
+  },
+  {
+   "key": "nasa_study",
+   "type": "program",
+   "name": "NASA UAP independent study team",
+   "description": "Independent NASA study on UAP data announced 9 June 2022.",
+   "aliases": [
+    "NASA independent study on UAPs"
+   ]
+  },
+  {
+   "key": "dia",
+   "type": "organization",
+   "name": "Defense Intelligence Agency",
+   "description": "US defence intelligence agency whose UAP research was revealed in a 2017 New York Times report."
+  },
+  {
+   "key": "odni",
+   "type": "organization",
+   "name": "Office of the Director of National Intelligence",
+   "description": "US office that has published public reports documenting UAPs."
+  },
+  {
+   "key": "faa",
+   "type": "organization",
+   "name": "Federal Aviation Administration",
+   "description": "US aviation regulator to which airline pilots report sightings.",
+   "aliases": [
+    "FAA"
+   ]
+  },
+  {
+   "key": "nsc",
+   "type": "organization",
+   "name": "National Security Council",
+   "description": "US presidential council whose officials Luna lists among leaders interested in UAPs."
+  },
+  {
+   "key": "biden_admin",
+   "type": "organization",
+   "name": "Biden Administration",
+   "description": "US presidential administration criticised by Grothman over the Chinese spy balloon."
+  },
+  {
+   "key": "nyt",
+   "type": "organization",
+   "name": "The New York Times",
+   "description": "US newspaper.",
+   "aliases": [
+    "New York Times"
+   ]
+  },
+  {
+   "key": "cnn",
+   "type": "organization",
+   "name": "CNN",
+   "description": "US news network."
+  },
+  {
+   "key": "newsnation",
+   "type": "organization",
+   "name": "NewsNation",
+   "description": "US news outlet."
+  },
+  {
+   "key": "foxnews",
+   "type": "organization",
+   "name": "Fox News",
+   "description": "US news network."
+  },
+  {
+   "key": "oef",
+   "type": "program",
+   "name": "Operation Enduring Freedom",
+   "description": "US military operation in which Graves deployed."
+  },
+  {
+   "key": "oir",
+   "type": "program",
+   "name": "Operation Inherent Resolve",
+   "description": "US military operation in which Graves deployed."
+  },
+  {
+   "key": "vab",
+   "type": "case",
+   "name": "2014 Virginia Beach incident",
+   "description": "UAP detections by Navy Fighter Attack Squadron 11 off Virginia Beach, including a near miss in which an object split two F-18 Super Hornets in Warning Area W-72.",
+   "aliases": [
+    "Warning Area W-72 incident",
+    "2014 Fighter Attack Squadron 11 incident"
+   ]
+  },
+  {
+   "key": "w72",
+   "type": "place",
+   "name": "Warning Area W-72",
+   "description": "Training airspace 10 miles off the coast of Virginia Beach.",
+   "aliases": [
+    "W-72"
+   ]
+  },
+  {
+   "key": "vabeach",
+   "type": "place",
+   "name": "Virginia Beach, Virginia",
+   "description": "Coastal city; site of NAS Oceana.",
+   "aliases": [
+    "Virginia Beach"
+   ]
+  },
+  {
+   "key": "oceana",
+   "type": "place",
+   "name": "Naval Air Station Oceana",
+   "description": "Navy air station in Virginia Beach where Graves was stationed.",
+   "aliases": [
+    "NAS Oceana"
+   ]
+  },
+  {
+   "key": "cube",
+   "type": "craft",
+   "name": "dark gray or black cube inside a clear sphere seen in Warning Area W-72",
+   "description": "Object that passed between two F-18 Super Hornets off Virginia Beach."
+  },
+  {
+   "key": "f18",
+   "type": "vehicle",
+   "name": "F-18 Super Hornet",
+   "description": "US Navy fighter flown by Graves' squadron; two were split by the UAP.",
+   "aliases": [
+    "F-18",
+    "F-18 Foxtrot",
+    "F-18 Super Hornets"
+   ]
+  },
+  {
+   "key": "safety_report",
+   "type": "document",
+   "name": "Fighter Attack Squadron 11 safety report",
+   "description": "Safety report the squadron submitted after the Warning Area W-72 near miss."
+  },
+  {
+   "key": "f_radar",
+   "type": "feature",
+   "name": "radar-contact",
+   "description": "Radar detection."
+  },
+  {
+   "key": "f_ir",
+   "type": "feature",
+   "name": "other:infrared-sensor-contact",
+   "description": "Infrared sensor detection."
+  },
+  {
+   "key": "f_military",
+   "type": "feature",
+   "name": "military-witnesses",
+   "description": "Military witnesses."
+  },
+  {
+   "key": "f_pilot",
+   "type": "feature",
+   "name": "pilot-witnesses",
+   "description": "Pilot witnesses."
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "Multiple witnesses."
+  },
+  {
+   "key": "f_sphere",
+   "type": "feature",
+   "name": "shape-sphere",
+   "description": "Spherical object."
+  },
+  {
+   "key": "f_shape_other",
+   "type": "feature",
+   "name": "shape-other",
+   "description": "Other shape (cube)."
+  },
+  {
+   "key": "f_nearmiss",
+   "type": "feature",
+   "name": "other:near-miss-with-aircraft",
+   "description": "Object came dangerously close to aircraft."
+  },
+  {
+   "key": "f_hearing",
+   "type": "feature",
+   "name": "congressional-hearing",
+   "description": "Testified about at a congressional hearing."
+  },
+  {
+   "key": "f_crash",
+   "type": "feature",
+   "name": "crash-retrieval-claim",
+   "description": "Claimed crash retrieval."
+  },
+  {
+   "key": "f_reverse",
+   "type": "feature",
+   "name": "other:reverse-engineering-claim",
+   "description": "Claimed reverse engineering of recovered craft."
+  },
+  {
+   "key": "f_coverup",
+   "type": "feature",
+   "name": "alleged-cover-up",
+   "description": "Alleged cover-up or concealment."
+  },
+  {
+   "key": "f_whistle",
+   "type": "feature",
+   "name": "other:whistleblower",
+   "description": "Whistleblower disclosure."
+  },
+  {
+   "key": "f_retaliation",
+   "type": "feature",
+   "name": "other:whistleblower-retaliation",
+   "description": "Retaliation reported by the whistleblower."
+  },
+  {
+   "key": "f_photo",
+   "type": "feature",
+   "name": "photograph",
+   "description": "Photographic evidence reported."
+  },
+  {
+   "key": "f_shootdown",
+   "type": "feature",
+   "name": "other:shot-down",
+   "description": "Object was shot down."
+  },
+  {
+   "key": "x_radar_error",
+   "type": "explanation",
+   "name": "other:radar error",
+   "description": "Initial assumption that radar tracks were errors."
+  },
+  {
+   "key": "x_balloon",
+   "type": "explanation",
+   "name": "balloon",
+   "description": "Balloon."
+  },
+  {
+   "key": "hawaii",
+   "type": "place",
+   "name": "Hawaii",
+   "description": "US state; recent recurring pilot sightings reported to its north."
+  },
+  {
+   "key": "natlantic",
+   "type": "place",
+   "name": "North Atlantic",
+   "description": "Ocean region with recent recurring pilot sightings."
+  },
+  {
+   "key": "tictac",
+   "type": "case",
+   "name": "Tic Tac event",
+   "description": "David Fravor's UAP experience, known as the Tic Tac event.",
+   "aliases": [
+    "Tic Tac incident",
+    "the Tic Tac event"
+   ]
+  },
+  {
+   "key": "gruschclaims",
+   "type": "case",
+   "name": "David Grusch UFO whistleblower claims",
+   "description": "Grusch's claims that the US government runs a multi-decade UAP crash retrieval and reverse engineering programme outside congressional oversight.",
+   "aliases": [
+    "Grusch's testimony",
+    "Grusch claims"
+   ]
+  },
+  {
+   "key": "retrieval",
+   "type": "program",
+   "name": "alleged UAP crash retrieval and reverse-engineering program",
+   "description": "Multi-decade programme Grusch says he was informed of and denied access to.",
+   "aliases": [
+    "multi-decade UAP crash retrieval and reverse engineering program",
+    "UAP crash retrieval and reverse engineering program"
+   ]
+  },
+  {
+   "key": "ppd19",
+   "type": "document",
+   "name": "Grusch's PPD-19 urgent concern filing",
+   "description": "Whistleblower filing Grusch made with the Intelligence Community Inspector General in May 2022.",
+   "aliases": [
+    "PPD-19 urgent concern filing",
+    "Grusch's complaint",
+    "PPD-19"
+   ]
+  },
+  {
+   "key": "ford",
+   "type": "person",
+   "name": "Gerald Ford",
+   "description": "US president who, Grothman says, claimed to have seen a UFO in 1966.",
+   "aliases": [
+    "President Gerald Ford"
+   ]
+  },
+  {
+   "key": "carter",
+   "type": "person",
+   "name": "Jimmy Carter",
+   "description": "US president who, Grothman says, claimed to have seen a UFO in Georgia in 1969."
+  },
+  {
+   "key": "ford1966",
+   "type": "case",
+   "name": "1966 Gerald Ford UFO sighting",
+   "description": "UFO sighting Grothman says Gerald Ford claimed in 1966."
+  },
+  {
+   "key": "carter1969",
+   "type": "case",
+   "name": "1969 Jimmy Carter UFO sighting",
+   "description": "UFO sighting in Georgia that Grothman says Jimmy Carter claimed in 1969.",
+   "aliases": [
+    "1969 Georgia sighting"
+   ]
+  },
+  {
+   "key": "georgia",
+   "type": "place",
+   "name": "Georgia",
+   "description": "US state where Jimmy Carter's claimed 1969 sighting took place."
+  },
+  {
+   "key": "balloon2023",
+   "type": "case",
+   "name": "2023 Chinese spy balloon incident",
+   "description": "Chinese spy balloon that violated US airspace and was shot down in 2023.",
+   "aliases": [
+    "Chinese spy balloon",
+    "Chinese balloon"
+   ]
+  },
+  {
+   "key": "shoot2023",
+   "type": "case",
+   "name": "2023 United States UAP shootdown incident",
+   "description": "Two UAPs shot down following the Chinese balloon shootdown in 2023.",
+   "aliases": [
+    "two UAPs subsequently shot down",
+    "2023 UAP shootdowns"
+   ]
+  },
+  {
+   "key": "balloon_craft",
+   "type": "craft",
+   "name": "Chinese spy balloon shot down in 2023",
+   "description": "Balloon that violated US airspace."
+  },
+  {
+   "key": "shoot_craft",
+   "type": "craft",
+   "name": "two UAPs shot down after the Chinese balloon in 2023",
+   "description": "Two unidentified objects shot down following the balloon event."
+  },
+  {
+   "key": "us",
+   "type": "place",
+   "name": "United States",
+   "description": "Country whose airspace the Chinese balloon violated.",
+   "aliases": [
+    "U.S."
+   ]
+  },
+  {
+   "key": "roswell",
+   "type": "case",
+   "name": "Roswell incident",
+   "description": "UAP sightings at Roswell, New Mexico, cited by Luna.",
+   "aliases": [
+    "Roswell"
+   ]
+  },
+  {
+   "key": "roswell_nm",
+   "type": "place",
+   "name": "Roswell, New Mexico",
+   "description": "Town cited by Luna as a site of UAP sightings."
+  },
+  {
+   "key": "jacksonville",
+   "type": "place",
+   "name": "Jacksonville, Florida",
+   "description": "City off whose coast UAP sightings are cited by Luna.",
+   "aliases": [
+    "coast of Jacksonville, Florida"
+   ]
+  },
+  {
+   "key": "ndaa2022",
+   "type": "document",
+   "name": "National Defense Authorization Act of 2022",
+   "description": "Act that established AARO.",
+   "aliases": [
+    "NDAA of 2022"
+   ]
+  },
+  {
+   "key": "kirkpatrick",
+   "type": "person",
+   "name": "Sean Kirkpatrick",
+   "description": "Director of the All-domain Anomaly Resolution Office.",
+   "aliases": [
+    "Mr. Sean Kirkpatrick"
+   ]
+  },
+  {
+   "key": "nyt2017",
+   "type": "work",
+   "name": "2017 New York Times report on UAP research by the Defense Intelligence Agency",
+   "description": "2017 New York Times report that revealed DIA research on UAP.",
+   "aliases": [
+    "2017 New York Times report"
+   ]
+  },
+  {
+   "key": "book",
+   "type": "work",
+   "name": "Flying Saucers Serious Business",
+   "description": "1966 book Grothman says he read when he was younger."
+  },
+  {
+   "key": "accidental",
+   "type": "work",
+   "name": "Accidental Truth",
+   "description": "Documentary in which, Burchett says, the witnesses appeared."
+  },
+  {
+   "key": "uap_puzzle",
+   "type": "document",
+   "name": "The UAP Puzzle",
+   "description": "Report by Jeremy Corbell submitted for the record by Rep. Burchett."
+  },
+  {
+   "key": "knapp_stmt",
+   "type": "document",
+   "name": "Statement for the Record by George Knapp",
+   "description": "George Knapp's statement submitted for the record by Rep. Burchett."
+  },
+  {
+   "key": "dird",
+   "type": "document",
+   "name": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
+   "description": "Defense Intelligence Reference Document submitted for the record by Rep. Burchett.",
+   "aliases": [
+    "Advanced Space Propulsion Based on Vacuum (spacetime metric) Engineering"
+   ]
+  },
+  {
+   "key": "nn_article",
+   "type": "document",
+   "name": "We are not alone: The UFO whistleblower speaks",
+   "description": "NewsNation article submitted for the record by Rep. Luna."
+  },
+  {
+   "key": "corbell",
+   "type": "person",
+   "name": "Jeremy Corbell",
+   "description": "Author of 'The UAP Puzzle'; in the audience and provided a statement for the record.",
+   "aliases": [
+    "Mr. Corbell"
+   ]
+  },
+  {
+   "key": "knapp",
+   "type": "person",
+   "name": "George Knapp",
+   "description": "Provided a statement for the record; in the audience at the hearing.",
+   "aliases": [
+    "Mr. Knapp"
+   ]
+  },
+  {
+   "key": "faa_amend",
+   "type": "document",
+   "name": "Burchett's proposed amendment to the FAA reauthorization",
+   "description": "Proposed legislation that airline pilots' sighting reports to the FAA would come to Congress; not heard in committee.",
+   "aliases": [
+    "FAA reauthorization"
+   ]
+  },
+  {
+   "key": "eglin",
+   "type": "place",
+   "name": "Eglin Air Force Base",
+   "description": "Air Force base Burchett, Gaetz and Luna visited seeking answers."
+  },
+  {
+   "key": "wpafb",
+   "type": "place",
+   "name": "Wright-Patterson Air Force Base",
+   "description": "Air Force base Moskowitz asks that Congress be allowed to visit.",
+   "aliases": [
+    "Wright Patterson Air Force Base"
+   ]
+  },
+  {
+   "key": "dougwright",
+   "type": "place",
+   "name": "Doug Wright Proving Ground",
+   "description": "Proving ground (as written in the transcript) Moskowitz asks that Congress be allowed to visit."
+  },
+  {
+   "key": "groomlake",
+   "type": "place",
+   "name": "Groom Lake, Nevada",
+   "description": "Site in Nevada Moskowitz asks that Congress be allowed to visit.",
+   "aliases": [
+    "Groom Lake",
+    "Groom Lake in Nevada"
+   ]
+  },
+  {
+   "key": "nevada",
+   "type": "place",
+   "name": "Nevada",
+   "description": "US state containing Groom Lake."
+  },
+  {
+   "key": "denmark",
+   "type": "place",
+   "name": "Denmark",
+   "description": "Country from which an attendee travelled to the hearing."
+  },
+  {
+   "key": "obama",
+   "type": "person",
+   "name": "Barack Obama",
+   "description": "National leader named by Luna as having UAPs ingrained in his mind."
+  },
+  {
+   "key": "clinton",
+   "type": "person",
+   "name": "Hillary Clinton",
+   "description": "National leader named by Luna as having UAPs ingrained in her mind."
+  },
+  {
+   "key": "trump",
+   "type": "person",
+   "name": "Donald Trump",
+   "description": "National leader named by Luna as having UAPs ingrained in his mind."
+  },
+  {
+   "key": "rubio",
+   "type": "person",
+   "name": "Marco Rubio",
+   "description": "National leader named by Luna as having UAPs ingrained in his mind."
+  },
+  {
+   "key": "schumer",
+   "type": "person",
+   "name": "Chuck Schumer",
+   "description": "Senate Majority Leader quoted by Moskowitz on the public's right to learn about non-human intelligence.",
+   "aliases": [
+    "Majority Leader Chuck Schumer"
+   ]
+  },
+  {
+   "key": "ratcliffe",
+   "type": "person",
+   "name": "John Ratcliffe",
+   "description": "Former Director of National Intelligence who told Fox News there are many more UAP sightings not made public.",
+   "aliases": [
+    "Ratcliffe"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "2023-07-26",
+   "quote": "Hearing held on July 26, 2023"
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "10:06 a.m.",
+   "quote": "The Subcommittee met, pursuant to notice, at 10:06 a.m., in room 2154, Rayburn Office Building"
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "available on the U.S. House of Representatives Document Repository at: docs.house.gov."
+  },
+  {
+   "s": "case",
+   "p": "witness_count",
+   "v": "3",
+   "quote": "I would like to thank these three brave witnesses here."
+  },
+  {
+   "s": "case",
+   "p": "serial_number",
+   "v": "118-53",
+   "quote": "Serial No. 118-53"
+  },
+  {
+   "s": "case",
+   "p": "congress",
+   "v": "118th Congress, First Session",
+   "quote": "ONE HUNDRED EIGHTEENTH CONGRESS FIRST SESSION"
+  },
+  {
+   "s": "case",
+   "p": "title",
+   "v": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency",
+   "quote": "UNIDENTIFIED ANOMALOUS PHENOMENA: IMPLICATIONS ON NATIONAL SECURITY, PUBLIC SAFETY, AND GOVERNMENT TRANSPARENCY"
+  },
+  {
+   "s": "case",
+   "p": "room",
+   "v": "2154",
+   "quote": "at 10:06 a.m., in room 2154, Rayburn Office Building"
+  },
+  {
+   "s": "case",
+   "p": "presiding",
+   "v": "Glenn Grothman, Chairman of the Subcommittee",
+   "quote": "Hon. Glenn Grothman, [Chairman of the Subcommittee] presiding."
+  },
+  {
+   "s": "case",
+   "p": "witnesses_sworn",
+   "v": "all witnesses sworn and answered in the affirmative",
+   "quote": "Let the record show that all the witnesses answered in the affirmative."
+  },
+  {
+   "s": "case",
+   "p": "opening_remarks_time",
+   "v": "Chair and Ranking Member each had 10 minutes for opening remarks",
+   "quote": "both the Chair and Ranking Member will have 10 minutes for opening remarks"
+  },
+  {
+   "s": "case",
+   "p": "oral_statement_limit",
+   "v": "5 minutes",
+   "quote": "Please try to limit your oral statements to 5 minutes."
+  },
+  {
+   "s": "case",
+   "p": "audience",
+   "v": "a large number of people attended",
+   "quote": "as is evidenced by the large number of people we have here"
+  },
+  {
+   "s": "case",
+   "p": "classified_briefing",
+   "v": "members were denied access to a classified briefing in a SCIF prior to the hearing",
+   "quote": "we were even denied access to a classified briefing in a SCIF prior to this hearing"
+  },
+  {
+   "s": "dc",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Washington, D.C. The Subcommittee met, pursuant to notice, at 10:06 a.m."
+  },
+  {
+   "s": "rayburn",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Subcommittee met, pursuant to notice, at 10:06 a.m., in room 2154, Rayburn Office Building"
+  },
+  {
+   "s": "rayburn",
+   "p": "located_in",
+   "o": "dc",
+   "quote": "Washington, D.C. The Subcommittee met, pursuant to notice, at 10:06 a.m., in room 2154, Rayburn Office Building"
+  },
+  {
+   "s": "house",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "HOUSE OF REPRESENTATIVES ONE HUNDRED EIGHTEENTH CONGRESS"
+  },
+  {
+   "s": "oversight",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Printed for the use of the Committee on Oversight and Accountability"
+  },
+  {
+   "s": "oversight",
+   "p": "part_of",
+   "o": "house",
+   "quote": "COMMITTEE ON OVERSIGHT AND ACCOUNTABILITY HOUSE OF REPRESENTATIVES"
+  },
+  {
+   "s": "oversight",
+   "p": "contact_number",
+   "v": "202-225-5074",
+   "quote": "Contact Number: 202-225-5074"
+  },
+  {
+   "s": "subcomm",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "HEARING BEFORE THE SUBCOMMITTEE ON NATIONAL SECURITY, THE BORDER, AND FOREIGN AFFAIRS"
+  },
+  {
+   "s": "subcomm",
+   "p": "part_of",
+   "o": "oversight",
+   "quote": "SUBCOMMITTEE ON NATIONAL SECURITY, THE BORDER, AND FOREIGN AFFAIRS OF THE COMMITTEE ON OVERSIGHT AND ACCOUNTABILITY"
+  },
+  {
+   "s": "subcomm",
+   "p": "description",
+   "v": "the Subcommittee on National Security of the Oversight Committee",
+   "quote": "This is the Subcommittee on National Security of the Oversight Committee."
+  },
+  {
+   "s": "congress",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "So, this has led Congress to establish entities to examine UAPs."
+  },
+  {
+   "s": "congress",
+   "p": "action",
+   "v": "established entities to examine UAPs",
+   "quote": "So, this has led Congress to establish entities to examine UAPs."
+  },
+  {
+   "s": "senate",
+   "p": "pending_legislation",
+   "v": "amendment to its defense authorization bill creating a commission with broad declassification authority",
+   "quote": "We know the Senate is taking up an amendment to their defense authorization bill which will create a commission with broad declassification authority"
+  },
+  {
+   "s": "comer",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "JAMES COMER, Kentucky, Chairman"
+  },
+  {
+   "s": "comer",
+   "p": "represents",
+   "v": "Kentucky",
+   "quote": "JAMES COMER, Kentucky, Chairman"
+  },
+  {
+   "s": "jordan",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Jim Jordan, Ohio"
+  },
+  {
+   "s": "jordan",
+   "p": "represents",
+   "v": "Ohio",
+   "quote": "Jim Jordan, Ohio"
+  },
+  {
+   "s": "turner",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Mike Turner, Ohio"
+  },
+  {
+   "s": "turner",
+   "p": "represents",
+   "v": "Ohio",
+   "quote": "Mike Turner, Ohio"
+  },
+  {
+   "s": "gosar",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Paul Gosar, Arizona"
+  },
+  {
+   "s": "gosar",
+   "p": "represents",
+   "v": "Arizona",
+   "quote": "Paul Gosar, Arizona"
+  },
+  {
+   "s": "foxx",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Virginia Foxx, North Carolina"
+  },
+  {
+   "s": "foxx",
+   "p": "represents",
+   "v": "North Carolina",
+   "quote": "Virginia Foxx, North Carolina"
+  },
+  {
+   "s": "grothman",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Glenn Grothman, Wisconsin"
+  },
+  {
+   "s": "grothman",
+   "p": "represents",
+   "v": "Wisconsin",
+   "quote": "Glenn Grothman, Wisconsin"
+  },
+  {
+   "s": "palmer",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Gary Palmer, Alabama"
+  },
+  {
+   "s": "palmer",
+   "p": "represents",
+   "v": "Alabama",
+   "quote": "Gary Palmer, Alabama"
+  },
+  {
+   "s": "higgins",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Clay Higgins, Louisiana"
+  },
+  {
+   "s": "higgins",
+   "p": "represents",
+   "v": "Louisiana",
+   "quote": "Clay Higgins, Louisiana"
+  },
+  {
+   "s": "sessions",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Pete Sessions, Texas"
+  },
+  {
+   "s": "sessions",
+   "p": "represents",
+   "v": "Texas",
+   "quote": "Pete Sessions, Texas"
+  },
+  {
+   "s": "biggs",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Andy Biggs, Arizona"
+  },
+  {
+   "s": "biggs",
+   "p": "represents",
+   "v": "Arizona",
+   "quote": "Andy Biggs, Arizona"
+  },
+  {
+   "s": "mace",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Nancy Mace, South Carolina"
+  },
+  {
+   "s": "mace",
+   "p": "represents",
+   "v": "South Carolina",
+   "quote": "Nancy Mace, South Carolina"
+  },
+  {
+   "s": "laturner",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Jake LaTurner, Kansas"
+  },
+  {
+   "s": "laturner",
+   "p": "represents",
+   "v": "Kansas",
+   "quote": "Jake LaTurner, Kansas"
+  },
+  {
+   "s": "fallon",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Pat Fallon, Texas"
+  },
+  {
+   "s": "fallon",
+   "p": "represents",
+   "v": "Texas",
+   "quote": "Pat Fallon, Texas"
+  },
+  {
+   "s": "donalds",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Byron Donalds, Florida"
+  },
+  {
+   "s": "donalds",
+   "p": "represents",
+   "v": "Florida",
+   "quote": "Byron Donalds, Florida"
+  },
+  {
+   "s": "armstrong",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Kelly Armstrong, North Dakota"
+  },
+  {
+   "s": "armstrong",
+   "p": "represents",
+   "v": "North Dakota",
+   "quote": "Kelly Armstrong, North Dakota"
+  },
+  {
+   "s": "perry",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Scott Perry, Pennsylvania"
+  },
+  {
+   "s": "perry",
+   "p": "represents",
+   "v": "Pennsylvania",
+   "quote": "Scott Perry, Pennsylvania"
+  },
+  {
+   "s": "timmons",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "William Timmons, South Carolina"
+  },
+  {
+   "s": "timmons",
+   "p": "represents",
+   "v": "South Carolina",
+   "quote": "William Timmons, South Carolina"
+  },
+  {
+   "s": "burchett",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Tim Burchett, Tennessee"
+  },
+  {
+   "s": "burchett",
+   "p": "represents",
+   "v": "Tennessee",
+   "quote": "Tim Burchett, Tennessee"
+  },
+  {
+   "s": "greene",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Marjorie Taylor Greene, Georgia"
+  },
+  {
+   "s": "greene",
+   "p": "represents",
+   "v": "Georgia",
+   "quote": "Marjorie Taylor Greene, Georgia"
+  },
+  {
+   "s": "mcclain",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Lisa McClain, Michigan"
+  },
+  {
+   "s": "mcclain",
+   "p": "represents",
+   "v": "Michigan",
+   "quote": "Lisa McClain, Michigan"
+  },
+  {
+   "s": "boebert",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Lauren Boebert, Colorado"
+  },
+  {
+   "s": "boebert",
+   "p": "represents",
+   "v": "Colorado",
+   "quote": "Lauren Boebert, Colorado"
+  },
+  {
+   "s": "fry",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Russell Fry, South Carolina"
+  },
+  {
+   "s": "fry",
+   "p": "represents",
+   "v": "South Carolina",
+   "quote": "Russell Fry, South Carolina"
+  },
+  {
+   "s": "luna",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Anna Paulina Luna, Florida"
+  },
+  {
+   "s": "luna",
+   "p": "represents",
+   "v": "Florida",
+   "quote": "Anna Paulina Luna, Florida"
+  },
+  {
+   "s": "edwards",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Chuck Edwards, North Carolina"
+  },
+  {
+   "s": "edwards",
+   "p": "represents",
+   "v": "North Carolina",
+   "quote": "Chuck Edwards, North Carolina"
+  },
+  {
+   "s": "langworthy",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Nick Langworthy, New York"
+  },
+  {
+   "s": "langworthy",
+   "p": "represents",
+   "v": "New York",
+   "quote": "Nick Langworthy, New York"
+  },
+  {
+   "s": "burlison",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Eric Burlison, Missouri"
+  },
+  {
+   "s": "burlison",
+   "p": "represents",
+   "v": "Missouri",
+   "quote": "Eric Burlison, Missouri"
+  },
+  {
+   "s": "raskin",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Jamie Raskin, Maryland, Ranking"
+  },
+  {
+   "s": "raskin",
+   "p": "represents",
+   "v": "Maryland",
+   "quote": "Jamie Raskin, Maryland, Ranking"
+  },
+  {
+   "s": "norton",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Eleanor Holmes Norton, District of"
+  },
+  {
+   "s": "norton",
+   "p": "represents",
+   "v": "District of Columbia",
+   "quote": "Eleanor Holmes Norton, District of Virginia Foxx, North Carolina Columbia"
+  },
+  {
+   "s": "lynch",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Stephen F. Lynch, Massachusetts"
+  },
+  {
+   "s": "lynch",
+   "p": "represents",
+   "v": "Massachusetts",
+   "quote": "Stephen F. Lynch, Massachusetts"
+  },
+  {
+   "s": "connolly",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Gerald E. Connolly, Virginia"
+  },
+  {
+   "s": "connolly",
+   "p": "represents",
+   "v": "Virginia",
+   "quote": "Gerald E. Connolly, Virginia"
+  },
+  {
+   "s": "krishnamoorthi",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Raja Krishnamoorthi, Illinois"
+  },
+  {
+   "s": "krishnamoorthi",
+   "p": "represents",
+   "v": "Illinois",
+   "quote": "Raja Krishnamoorthi, Illinois"
+  },
+  {
+   "s": "khanna",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Ro Khanna, California"
+  },
+  {
+   "s": "khanna",
+   "p": "represents",
+   "v": "California",
+   "quote": "Ro Khanna, California"
+  },
+  {
+   "s": "mfume",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Kweisi Mfume, Maryland"
+  },
+  {
+   "s": "mfume",
+   "p": "represents",
+   "v": "Maryland",
+   "quote": "Kweisi Mfume, Maryland"
+  },
+  {
+   "s": "aoc",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Alexandria Ocasio-Cortez, New York"
+  },
+  {
+   "s": "aoc",
+   "p": "represents",
+   "v": "New York",
+   "quote": "Alexandria Ocasio-Cortez, New York"
+  },
+  {
+   "s": "porter",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Katie Porter, California"
+  },
+  {
+   "s": "porter",
+   "p": "represents",
+   "v": "California",
+   "quote": "Katie Porter, California"
+  },
+  {
+   "s": "bush",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Cori Bush, Missouri"
+  },
+  {
+   "s": "bush",
+   "p": "represents",
+   "v": "Missouri",
+   "quote": "Cori Bush, Missouri"
+  },
+  {
+   "s": "gomez",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Jimmy Gomez, California"
+  },
+  {
+   "s": "gomez",
+   "p": "represents",
+   "v": "California",
+   "quote": "Jimmy Gomez, California"
+  },
+  {
+   "s": "brown",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Shontel Brown, Ohio"
+  },
+  {
+   "s": "brown",
+   "p": "represents",
+   "v": "Ohio",
+   "quote": "Shontel Brown, Ohio"
+  },
+  {
+   "s": "stansbury",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Melanie Stansbury, New Mexico"
+  },
+  {
+   "s": "stansbury",
+   "p": "represents",
+   "v": "New Mexico",
+   "quote": "Melanie Stansbury, New Mexico"
+  },
+  {
+   "s": "garcia",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Robert Garcia, California"
+  },
+  {
+   "s": "garcia",
+   "p": "represents",
+   "v": "California",
+   "quote": "Robert Garcia, California"
+  },
+  {
+   "s": "frost",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Maxwell Frost, Florida"
+  },
+  {
+   "s": "frost",
+   "p": "represents",
+   "v": "Florida",
+   "quote": "Maxwell Frost, Florida"
+  },
+  {
+   "s": "lee",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Summer Lee, Pennsylvania"
+  },
+  {
+   "s": "lee",
+   "p": "represents",
+   "v": "Pennsylvania",
+   "quote": "Summer Lee, Pennsylvania"
+  },
+  {
+   "s": "casar",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Greg Casar, Texas"
+  },
+  {
+   "s": "casar",
+   "p": "represents",
+   "v": "Texas",
+   "quote": "Greg Casar, Texas"
+  },
+  {
+   "s": "crockett",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Jasmine Crockett, Texas"
+  },
+  {
+   "s": "crockett",
+   "p": "represents",
+   "v": "Texas",
+   "quote": "Jasmine Crockett, Texas"
+  },
+  {
+   "s": "goldman",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Dan Goldman, New York"
+  },
+  {
+   "s": "goldman",
+   "p": "represents",
+   "v": "New York",
+   "quote": "Dan Goldman, New York"
+  },
+  {
+   "s": "moskowitz",
+   "p": "member_of",
+   "o": "oversight",
+   "quote": "Jared Moskowitz, Florida"
+  },
+  {
+   "s": "moskowitz",
+   "p": "represents",
+   "v": "Florida",
+   "quote": "Jared Moskowitz, Florida"
+  },
+  {
+   "s": "comer",
+   "p": "role",
+   "v": "Chairman, Committee on Oversight and Accountability",
+   "quote": "JAMES COMER, Kentucky, Chairman"
+  },
+  {
+   "s": "raskin",
+   "p": "role",
+   "v": "Ranking Minority Member, Committee on Oversight and Accountability",
+   "quote": "Jamie Raskin, Maryland, Ranking Mike Turner, Ohio Minority Member"
+  },
+  {
+   "s": "grothman",
+   "p": "member_of",
+   "o": "subcomm",
+   "quote": "Glenn Grothman, Wisconsin, Chairman"
+  },
+  {
+   "s": "gosar",
+   "p": "member_of",
+   "o": "subcomm",
+   "quote": "Paul Gosar, Arizona Robert Garcia, California, Ranking"
+  },
+  {
+   "s": "garcia",
+   "p": "member_of",
+   "o": "subcomm",
+   "quote": "Paul Gosar, Arizona Robert Garcia, California, Ranking"
+  },
+  {
+   "s": "foxx",
+   "p": "member_of",
+   "o": "subcomm",
+   "quote": "Virginia Foxx, North Carolina Minority Member"
+  },
+  {
+   "s": "higgins",
+   "p": "member_of",
+   "o": "subcomm",
+   "quote": "Clay Higgins, Louisiana Stephen F. Lynch, Massachusetts"
+  },
+  {
+   "s": "lynch",
+   "p": "member_of",
+   "o": "subcomm",
+   "quote": "Clay Higgins, Louisiana Stephen F. Lynch, Massachusetts"
+  },
+  {
+   "s": "sessions",
+   "p": "member_of",
+   "o": "subcomm",
+   "quote": "Pete Sessions, Texas Dan Goldman, New York"
+  },
+  {
+   "s": "goldman",
+   "p": "member_of",
+   "o": "subcomm",
+   "quote": "Pete Sessions, Texas Dan Goldman, New York"
+  },
+  {
+   "s": "biggs",
+   "p": "member_of",
+   "o": "subcomm",
+   "quote": "Andy Biggs, Arizona Jared Moskowitz, Florida"
+  },
+  {
+   "s": "moskowitz",
+   "p": "member_of",
+   "o": "subcomm",
+   "quote": "Andy Biggs, Arizona Jared Moskowitz, Florida"
+  },
+  {
+   "s": "mace",
+   "p": "member_of",
+   "o": "subcomm",
+   "quote": "Nancy Mace, South Carolina Katie Porter, California"
+  },
+  {
+   "s": "porter",
+   "p": "member_of",
+   "o": "subcomm",
+   "quote": "Nancy Mace, South Carolina Katie Porter, California"
+  },
+  {
+   "s": "laturner",
+   "p": "member_of",
+   "o": "subcomm",
+   "quote": "Jake LaTurner, Kansas Cori Bush, Missouri"
+  },
+  {
+   "s": "bush",
+   "p": "member_of",
+   "o": "subcomm",
+   "quote": "Jake LaTurner, Kansas Cori Bush, Missouri"
+  },
+  {
+   "s": "fallon",
+   "p": "member_of",
+   "o": "subcomm",
+   "quote": "Pat Fallon, Texas Maxwell Frost, Florida"
+  },
+  {
+   "s": "frost",
+   "p": "member_of",
+   "o": "subcomm",
+   "quote": "Pat Fallon, Texas Maxwell Frost, Florida"
+  },
+  {
+   "s": "armstrong",
+   "p": "member_of",
+   "o": "subcomm",
+   "quote": "Kelly Armstrong, North Dakota Vacancy"
+  },
+  {
+   "s": "perry",
+   "p": "member_of",
+   "o": "subcomm",
+   "quote": "Scott Perry, Pennsylvania Vacancy"
+  },
+  {
+   "s": "grothman",
+   "p": "role",
+   "v": "Chairman, Subcommittee on National Security, the Border, and Foreign Affairs",
+   "quote": "Glenn Grothman, Wisconsin, Chairman"
+  },
+  {
+   "s": "garcia",
+   "p": "role",
+   "v": "Ranking Minority Member, Subcommittee on National Security, the Border, and Foreign Affairs",
+   "quote": "Robert Garcia, California, Ranking Virginia Foxx, North Carolina Minority Member"
+  },
+  {
+   "s": "garcia",
+   "p": "role",
+   "v": "National Security Subcommittee Ranking Member",
+   "quote": "Now we will recognize National Security Subcommittee Ranking Member Garcia for 10 minutes."
+  },
+  {
+   "s": "grothman",
+   "p": "commanded",
+   "o": "subcomm",
+   "quote": "Hon. Glenn Grothman, [Chairman of the Subcommittee] presiding."
+  },
+  {
+   "s": "gaetz",
+   "p": "represents",
+   "v": "Florida",
+   "quote": "Mr. Burchett of Tennessee, Ms. Luna of Florida, Mr. Gaetz of Florida, Mr. Burlison of Missouri, Ms. Ocasio-Cortez of New York, and Mr. Ogles of Tennessee."
+  },
+  {
+   "s": "ogles",
+   "p": "represents",
+   "v": "Tennessee",
+   "quote": "Mr. Burchett of Tennessee, Ms. Luna of Florida, Mr. Gaetz of Florida, Mr. Burlison of Missouri, Ms. Ocasio-Cortez of New York, and Mr. Ogles of Tennessee."
+  },
+  {
+   "s": "grothman",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Present: Representatives Grothman, Gosar, Foxx, Sessions, Biggs, Mace, LaTurner, Armstrong, Perry, Garcia, Moskowitz, and Frost."
+  },
+  {
+   "s": "gosar",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Present: Representatives Grothman, Gosar, Foxx, Sessions, Biggs, Mace, LaTurner, Armstrong, Perry, Garcia, Moskowitz, and Frost."
+  },
+  {
+   "s": "foxx",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Present: Representatives Grothman, Gosar, Foxx, Sessions, Biggs, Mace, LaTurner, Armstrong, Perry, Garcia, Moskowitz, and Frost."
+  },
+  {
+   "s": "sessions",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Present: Representatives Grothman, Gosar, Foxx, Sessions, Biggs, Mace, LaTurner, Armstrong, Perry, Garcia, Moskowitz, and Frost."
+  },
+  {
+   "s": "biggs",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Present: Representatives Grothman, Gosar, Foxx, Sessions, Biggs, Mace, LaTurner, Armstrong, Perry, Garcia, Moskowitz, and Frost."
+  },
+  {
+   "s": "mace",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Present: Representatives Grothman, Gosar, Foxx, Sessions, Biggs, Mace, LaTurner, Armstrong, Perry, Garcia, Moskowitz, and Frost."
+  },
+  {
+   "s": "laturner",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Present: Representatives Grothman, Gosar, Foxx, Sessions, Biggs, Mace, LaTurner, Armstrong, Perry, Garcia, Moskowitz, and Frost."
+  },
+  {
+   "s": "armstrong",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Present: Representatives Grothman, Gosar, Foxx, Sessions, Biggs, Mace, LaTurner, Armstrong, Perry, Garcia, Moskowitz, and Frost."
+  },
+  {
+   "s": "perry",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Present: Representatives Grothman, Gosar, Foxx, Sessions, Biggs, Mace, LaTurner, Armstrong, Perry, Garcia, Moskowitz, and Frost."
+  },
+  {
+   "s": "garcia",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Present: Representatives Grothman, Gosar, Foxx, Sessions, Biggs, Mace, LaTurner, Armstrong, Perry, Garcia, Moskowitz, and Frost."
+  },
+  {
+   "s": "moskowitz",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Present: Representatives Grothman, Gosar, Foxx, Sessions, Biggs, Mace, LaTurner, Armstrong, Perry, Garcia, Moskowitz, and Frost."
+  },
+  {
+   "s": "frost",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Present: Representatives Grothman, Gosar, Foxx, Sessions, Biggs, Mace, LaTurner, Armstrong, Perry, Garcia, Moskowitz, and Frost."
+  },
+  {
+   "s": "luna",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Also present: Representatives Luna, Burlison, Gaetz, Burchett, Comer, Ogles, Langworthy, Raskin, and Ocasio-Cortez."
+  },
+  {
+   "s": "burlison",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Also present: Representatives Luna, Burlison, Gaetz, Burchett, Comer, Ogles, Langworthy, Raskin, and Ocasio-Cortez."
+  },
+  {
+   "s": "gaetz",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Also present: Representatives Luna, Burlison, Gaetz, Burchett, Comer, Ogles, Langworthy, Raskin, and Ocasio-Cortez."
+  },
+  {
+   "s": "burchett",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Also present: Representatives Luna, Burlison, Gaetz, Burchett, Comer, Ogles, Langworthy, Raskin, and Ocasio-Cortez."
+  },
+  {
+   "s": "comer",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Also present: Representatives Luna, Burlison, Gaetz, Burchett, Comer, Ogles, Langworthy, Raskin, and Ocasio-Cortez."
+  },
+  {
+   "s": "ogles",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Also present: Representatives Luna, Burlison, Gaetz, Burchett, Comer, Ogles, Langworthy, Raskin, and Ocasio-Cortez."
+  },
+  {
+   "s": "langworthy",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Also present: Representatives Luna, Burlison, Gaetz, Burchett, Comer, Ogles, Langworthy, Raskin, and Ocasio-Cortez."
+  },
+  {
+   "s": "raskin",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Also present: Representatives Luna, Burlison, Gaetz, Burchett, Comer, Ogles, Langworthy, Raskin, and Ocasio-Cortez."
+  },
+  {
+   "s": "aoc",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Also present: Representatives Luna, Burlison, Gaetz, Burchett, Comer, Ogles, Langworthy, Raskin, and Ocasio-Cortez."
+  },
+  {
+   "s": "burchett",
+   "p": "hearing_status",
+   "v": "waived on to the Subcommittee for the purpose of participating in the hearing",
+   "quote": "Mr. Burchett of Tennessee, Ms. Luna of Florida, Mr. Gaetz of Florida, Mr. Burlison of Missouri, Ms. Ocasio-Cortez of New York, and Mr. Ogles of Tennessee."
+  },
+  {
+   "s": "luna",
+   "p": "hearing_status",
+   "v": "waived on to the Subcommittee for the purpose of participating in the hearing",
+   "quote": "Mr. Burchett of Tennessee, Ms. Luna of Florida, Mr. Gaetz of Florida, Mr. Burlison of Missouri, Ms. Ocasio-Cortez of New York, and Mr. Ogles of Tennessee."
+  },
+  {
+   "s": "gaetz",
+   "p": "hearing_status",
+   "v": "waived on to the Subcommittee for the purpose of participating in the hearing",
+   "quote": "Mr. Burchett of Tennessee, Ms. Luna of Florida, Mr. Gaetz of Florida, Mr. Burlison of Missouri, Ms. Ocasio-Cortez of New York, and Mr. Ogles of Tennessee."
+  },
+  {
+   "s": "burlison",
+   "p": "hearing_status",
+   "v": "waived on to the Subcommittee for the purpose of participating in the hearing",
+   "quote": "Mr. Burchett of Tennessee, Ms. Luna of Florida, Mr. Gaetz of Florida, Mr. Burlison of Missouri, Ms. Ocasio-Cortez of New York, and Mr. Ogles of Tennessee."
+  },
+  {
+   "s": "aoc",
+   "p": "hearing_status",
+   "v": "waived on to the Subcommittee for the purpose of participating in the hearing",
+   "quote": "Mr. Burchett of Tennessee, Ms. Luna of Florida, Mr. Gaetz of Florida, Mr. Burlison of Missouri, Ms. Ocasio-Cortez of New York, and Mr. Ogles of Tennessee."
+  },
+  {
+   "s": "ogles",
+   "p": "hearing_status",
+   "v": "waived on to the Subcommittee for the purpose of participating in the hearing",
+   "quote": "Mr. Burchett of Tennessee, Ms. Luna of Florida, Mr. Gaetz of Florida, Mr. Burlison of Missouri, Ms. Ocasio-Cortez of New York, and Mr. Ogles of Tennessee."
+  },
+  {
+   "s": "marin",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Mark Marin, Staff Director"
+  },
+  {
+   "s": "marin",
+   "p": "employed_by",
+   "o": "oversight",
+   "quote": "Mark Marin, Staff Director"
+  },
+  {
+   "s": "marin",
+   "p": "occupation",
+   "v": "Staff Director",
+   "quote": "Mark Marin, Staff Director"
+  },
+  {
+   "s": "donlon",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Jessica Donlon, Deputy Staff Director and General Counsel"
+  },
+  {
+   "s": "donlon",
+   "p": "employed_by",
+   "o": "oversight",
+   "quote": "Jessica Donlon, Deputy Staff Director and General Counsel"
+  },
+  {
+   "s": "donlon",
+   "p": "occupation",
+   "v": "Deputy Staff Director and General Counsel",
+   "quote": "Jessica Donlon, Deputy Staff Director and General Counsel"
+  },
+  {
+   "s": "wolfe",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Kaity Wolfe, Senior Professional Staff Member"
+  },
+  {
+   "s": "wolfe",
+   "p": "employed_by",
+   "o": "oversight",
+   "quote": "Kaity Wolfe, Senior Professional Staff Member"
+  },
+  {
+   "s": "wolfe",
+   "p": "occupation",
+   "v": "Senior Professional Staff Member",
+   "quote": "Kaity Wolfe, Senior Professional Staff Member"
+  },
+  {
+   "s": "westmoreland",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Grayson Westmoreland, Senior Professional Staff Member"
+  },
+  {
+   "s": "westmoreland",
+   "p": "employed_by",
+   "o": "oversight",
+   "quote": "Grayson Westmoreland, Senior Professional Staff Member"
+  },
+  {
+   "s": "westmoreland",
+   "p": "occupation",
+   "v": "Senior Professional Staff Member",
+   "quote": "Grayson Westmoreland, Senior Professional Staff Member"
+  },
+  {
+   "s": "cogar",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Mallory Cogar, Deputy Director of Operations and Chief Clerk"
+  },
+  {
+   "s": "cogar",
+   "p": "employed_by",
+   "o": "oversight",
+   "quote": "Mallory Cogar, Deputy Director of Operations and Chief Clerk"
+  },
+  {
+   "s": "cogar",
+   "p": "occupation",
+   "v": "Deputy Director of Operations and Chief Clerk",
+   "quote": "Mallory Cogar, Deputy Director of Operations and Chief Clerk"
+  },
+  {
+   "s": "tagen",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Julie Tagen, Minority Staff Director"
+  },
+  {
+   "s": "tagen",
+   "p": "employed_by",
+   "o": "oversight",
+   "quote": "Julie Tagen, Minority Staff Director"
+  },
+  {
+   "s": "tagen",
+   "p": "occupation",
+   "v": "Minority Staff Director",
+   "quote": "Julie Tagen, Minority Staff Director"
+  },
+  {
+   "s": "graves",
+   "p": "witness",
+   "o": "case",
+   "quote": "Our first witness is Lieutenant Ryan Graves."
+  },
+  {
+   "s": "grusch",
+   "p": "witness",
+   "o": "case",
+   "quote": "The next witness, David Grusch, is a former senior intelligence officer with the National Geospatial Intelligence Agency"
+  },
+  {
+   "s": "fravor",
+   "p": "witness",
+   "o": "case",
+   "quote": "And, finally, retired Navy Commander David Fravor, squadron leader who worked as a naval aviator for 18 years."
+  },
+  {
+   "s": "asa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Mr. Ryan Graves, Executive Director, Americans for Safe Aerospace"
+  },
+  {
+   "s": "graves",
+   "p": "member_of",
+   "o": "asa",
+   "quote": "He is the Executive Director of Americans for Safe Aerospace."
+  },
+  {
+   "s": "graves",
+   "p": "commanded",
+   "o": "asa",
+   "quote": "He is the Executive Director of Americans for Safe Aerospace."
+  },
+  {
+   "s": "graves",
+   "p": "founded",
+   "o": "asa",
+   "quote": "Recognizing the need for action and answers, I founded Americans for Safe Aerospace."
+  },
+  {
+   "s": "graves",
+   "p": "occupation",
+   "v": "Executive Director of Americans for Safe Aerospace",
+   "quote": "He is the Executive Director of Americans for Safe Aerospace."
+  },
+  {
+   "s": "graves",
+   "p": "rank",
+   "v": "Lieutenant",
+   "quote": "Our first witness is Lieutenant Ryan Graves."
+  },
+  {
+   "s": "graves",
+   "p": "callsign",
+   "v": "FOBS",
+   "quote": "My name is Ryan ``FOBS'' Graves and I am a former F-18 pilot"
+  },
+  {
+   "s": "graves",
+   "p": "occupation",
+   "v": "former U.S. Navy F-18 pilot",
+   "quote": "Lieutenant Graves is also a former U.S. Navy F-18 pilot with his own UAP experience."
+  },
+  {
+   "s": "graves",
+   "p": "years_of_service",
+   "v": "a decade of service in the U.S. Navy",
+   "quote": "I am a former F-18 pilot with a decade of service in the U.S. Navy"
+  },
+  {
+   "s": "graves",
+   "p": "deployments",
+   "v": "two deployments, in Operation Enduring Freedom and Operation Inherent Resolve",
+   "quote": "including two deployments in Operation Enduring Freedom and Operation Inherent Resolve"
+  },
+  {
+   "s": "graves",
+   "p": "member_of",
+   "o": "navy",
+   "quote": "I am a former F-18 pilot with a decade of service in the U.S. Navy"
+  },
+  {
+   "s": "graves",
+   "p": "member_of",
+   "o": "vfa11",
+   "quote": "In 2014, I was an F-18 Foxtrot pilot in the Navy Fighter Attack Squadron 11, the Red Rippers"
+  },
+  {
+   "s": "vfa11",
+   "p": "part_of",
+   "o": "navy",
+   "quote": "I was an F-18 Foxtrot pilot in the Navy Fighter Attack Squadron 11, the Red Rippers"
+  },
+  {
+   "s": "vfa11",
+   "p": "nickname",
+   "v": "the Red Rippers",
+   "quote": "Navy Fighter Attack Squadron 11, the Red Rippers"
+  },
+  {
+   "s": "asa",
+   "p": "website",
+   "v": "safeaerospace.org",
+   "quote": "almost 5,000 Americans have joined us in the fight for transparency at safeaerospace.org"
+  },
+  {
+   "s": "asa",
+   "p": "supporters",
+   "v": "almost 5,000 Americans",
+   "quote": "almost 5,000 Americans have joined us in the fight for transparency at safeaerospace.org"
+  },
+  {
+   "s": "asa",
+   "p": "witness_reports",
+   "v": "more than thirty witnesses have come forward",
+   "quote": "More than thirty witnesses have come forward"
+  },
+  {
+   "s": "asa",
+   "p": "purpose",
+   "v": "a haven for UAP witnesses who previously had no safe intake process",
+   "quote": "The organization has since become a haven for UAP witnesses who were previously unspoken due to the absence of a safe intake process."
+  },
+  {
+   "s": "asa",
+   "p": "witness_profile",
+   "v": "majority are commercial pilots at major airlines, often veterans with decades of flying experience",
+   "quote": "The majority of witnesses are commercial pilots at major airlines. Often, they are veterans with decades of flying experience."
+  },
+  {
+   "s": "graves",
+   "p": "served_in",
+   "o": "oef",
+   "quote": "including two deployments in Operation Enduring Freedom and Operation Inherent Resolve"
+  },
+  {
+   "s": "graves",
+   "p": "served_in",
+   "o": "oir",
+   "quote": "including two deployments in Operation Enduring Freedom and Operation Inherent Resolve"
+  },
+  {
+   "s": "vab",
+   "p": "related_case",
+   "o": "case",
+   "quote": "During a training mission in Warning Area W-72, 10 miles off the coast of Virginia Beach, two F-18 Super Hornets were split by a UAP."
+  },
+  {
+   "s": "vab",
+   "p": "date_start",
+   "v": "2014",
+   "quote": "In 2014, I was an F-18 Foxtrot pilot in the Navy Fighter Attack Squadron 11"
+  },
+  {
+   "s": "vab",
+   "p": "country",
+   "v": "United States",
+   "quote": "I was stationed at NAS Oceana in Virginia Beach. After upgrades were made to our jet's radar systems, we began detecting unknown objects operating in our airspace."
+  },
+  {
+   "s": "vab",
+   "p": "activity",
+   "v": "training mission",
+   "quote": "During a training mission in Warning Area W-72"
+  },
+  {
+   "s": "vab",
+   "p": "event",
+   "v": "two F-18 Super Hornets were split by a UAP",
+   "quote": "two F-18 Super Hornets were split by a UAP"
+  },
+  {
+   "s": "vab",
+   "p": "onset",
+   "v": "detections began after upgrades were made to the jets' radar systems",
+   "quote": "After upgrades were made to our jet's radar systems, we began detecting unknown objects operating in our airspace."
+  },
+  {
+   "s": "vab",
+   "p": "sensors",
+   "v": "radar tracks correlated with multiple onboard sensors, including infrared systems, and eventually visual ID",
+   "quote": "soon we began to correlate the radar tracks with multiple onboard sensors, including infrared systems, eventually through visual ID"
+  },
+  {
+   "s": "vab",
+   "p": "outcome",
+   "v": "mission commander terminated the flight immediately and returned to base",
+   "quote": "The mission commander terminated the flight immediately and returned to base."
+  },
+  {
+   "s": "vab",
+   "p": "reporting",
+   "v": "squadron submitted a safety report; no official acknowledgement and no further mechanism to report",
+   "quote": "Our squadron submitted a safety report but there was no official acknowledgement of the incident and no further mechanism to report the sightings."
+  },
+  {
+   "s": "vab",
+   "p": "frequency",
+   "v": "encounters became so frequent that aircrew discussed the risk of UAP in regular preflight briefs",
+   "quote": "Soon these encounters became so frequent that aircrew would discuss the risk of UAP as part of their regular preflight briefs."
+  },
+  {
+   "s": "graves",
+   "p": "witness",
+   "o": "vab",
+   "quote": "After upgrades were made to our jet's radar systems, we began detecting unknown objects operating in our airspace."
+  },
+  {
+   "s": "vfa11",
+   "p": "involved_org",
+   "o": "vab",
+   "quote": "Our squadron submitted a safety report but there was no official acknowledgement of the incident"
+  },
+  {
+   "s": "navy",
+   "p": "involved_org",
+   "o": "vab",
+   "quote": "In 2014, I was an F-18 Foxtrot pilot in the Navy Fighter Attack Squadron 11, the Red Rippers"
+  },
+  {
+   "s": "w72",
+   "p": "occurred_at",
+   "o": "vab",
+   "quote": "During a training mission in Warning Area W-72, 10 miles off the coast of Virginia Beach"
+  },
+  {
+   "s": "w72",
+   "p": "location",
+   "v": "10 miles off the coast of Virginia Beach",
+   "quote": "Warning Area W-72, 10 miles off the coast of Virginia Beach"
+  },
+  {
+   "s": "vabeach",
+   "p": "near",
+   "o": "vab",
+   "quote": "10 miles off the coast of Virginia Beach, two F-18 Super Hornets were split by a UAP"
+  },
+  {
+   "s": "oceana",
+   "p": "related_place",
+   "o": "vab",
+   "quote": "I was stationed at NAS Oceana in Virginia Beach. After upgrades were made to our jet's radar systems, we began detecting unknown objects"
+  },
+  {
+   "s": "oceana",
+   "p": "located_in",
+   "o": "vabeach",
+   "quote": "I was stationed at NAS Oceana in Virginia Beach."
+  },
+  {
+   "s": "graves",
+   "p": "stationed_at",
+   "o": "oceana",
+   "quote": "I was stationed at NAS Oceana in Virginia Beach."
+  },
+  {
+   "s": "cube",
+   "p": "reported_object",
+   "o": "vab",
+   "quote": "The object, described as a dark gray or a black cube inside of a clear sphere, came within 50 feet of the lead aircraft"
+  },
+  {
+   "s": "cube",
+   "p": "shape",
+   "v": "cube inside of a clear sphere",
+   "quote": "described as a dark gray or a black cube inside of a clear sphere"
+  },
+  {
+   "s": "cube",
+   "p": "color",
+   "v": "dark gray or black (cube); clear (sphere)",
+   "quote": "described as a dark gray or a black cube inside of a clear sphere"
+  },
+  {
+   "s": "cube",
+   "p": "size",
+   "v": "estimated five to 15 feet in diameter",
+   "quote": "was estimated to be five to 15 feet in diameter"
+  },
+  {
+   "s": "cube",
+   "p": "closest_approach",
+   "v": "within 50 feet of the lead aircraft",
+   "quote": "came within 50 feet of the lead aircraft"
+  },
+  {
+   "s": "graves",
+   "p": "described",
+   "o": "cube",
+   "quote": "The object, described as a dark gray or a black cube inside of a clear sphere, came within 50 feet of the lead aircraft and was estimated to be five to 15 feet in diameter."
+  },
+  {
+   "s": "f18",
+   "p": "involved_vehicle",
+   "o": "vab",
+   "quote": "two F-18 Super Hornets were split by a UAP"
+  },
+  {
+   "s": "f18",
+   "p": "count",
+   "v": "2",
+   "quote": "two F-18 Super Hornets were split by a UAP"
+  },
+  {
+   "s": "graves",
+   "p": "piloted",
+   "o": "f18",
+   "quote": "In 2014, I was an F-18 Foxtrot pilot in the Navy Fighter Attack Squadron 11"
+  },
+  {
+   "s": "f18",
+   "p": "equipment",
+   "v": "upgraded radar systems, infrared systems",
+   "quote": "After upgrades were made to our jet's radar systems"
+  },
+  {
+   "s": "safety_report",
+   "p": "key_document",
+   "o": "vab",
+   "quote": "Our squadron submitted a safety report but there was no official acknowledgement of the incident"
+  },
+  {
+   "s": "vfa11",
+   "p": "authored",
+   "o": "safety_report",
+   "quote": "Our squadron submitted a safety report"
+  },
+  {
+   "s": "safety_report",
+   "p": "response",
+   "v": "no official acknowledgement of the incident",
+   "quote": "there was no official acknowledgement of the incident and no further mechanism to report the sightings"
+  },
+  {
+   "s": "f_radar",
+   "p": "has_feature",
+   "o": "vab",
+   "quote": "After upgrades were made to our jet's radar systems, we began detecting unknown objects operating in our airspace."
+  },
+  {
+   "s": "f_ir",
+   "p": "has_feature",
+   "o": "vab",
+   "quote": "we began to correlate the radar tracks with multiple onboard sensors, including infrared systems"
+  },
+  {
+   "s": "f_military",
+   "p": "has_feature",
+   "o": "vab",
+   "quote": "I was an F-18 Foxtrot pilot in the Navy Fighter Attack Squadron 11, the Red Rippers"
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "vab",
+   "quote": "The object, described as a dark gray or a black cube inside of a clear sphere, came within 50 feet of the lead aircraft"
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "vab",
+   "quote": "Soon these encounters became so frequent that aircrew would discuss the risk of UAP as part of their regular preflight briefs."
+  },
+  {
+   "s": "f_sphere",
+   "p": "has_feature",
+   "o": "vab",
+   "quote": "a dark gray or a black cube inside of a clear sphere"
+  },
+  {
+   "s": "f_shape_other",
+   "p": "has_feature",
+   "o": "vab",
+   "quote": "a dark gray or a black cube inside of a clear sphere"
+  },
+  {
+   "s": "f_nearmiss",
+   "p": "has_feature",
+   "o": "vab",
+   "quote": "came within 50 feet of the lead aircraft"
+  },
+  {
+   "s": "f_hearing",
+   "p": "has_feature",
+   "o": "vab",
+   "quote": "I will now recognize Mr. Graves for 5 minutes for your opening statement."
+  },
+  {
+   "s": "x_radar_error",
+   "p": "explained_as",
+   "o": "vab",
+   "quote": "At first, we assumed they were radar errors but soon we began to correlate the radar tracks with multiple onboard sensors"
+  },
+  {
+   "s": "graves",
+   "p": "proposed",
+   "o": "x_radar_error",
+   "quote": "At first, we assumed they were radar errors"
+  },
+  {
+   "s": "graves",
+   "p": "statement",
+   "v": "has experienced advanced UAP firsthand and speaks for more than 30 commercial aircrew and military veterans who confided similar encounters",
+   "quote": "I have experienced advanced UAP firsthand and I am here to voice the concerns of more than 30 commercial aircrew and military veterans who have confided their similar encounters with me."
+  },
+  {
+   "s": "graves",
+   "p": "statement",
+   "v": "UAP are in our airspace but grossly under reported; sightings are not rare or isolated, they are routine",
+   "quote": "As we convene here, UAP are in our airspace but they are grossly under reported. These sightings are not rare or isolated. They are routine."
+  },
+  {
+   "s": "graves",
+   "p": "statement",
+   "v": "military aircrew and commercial pilots are frequently witnessing these phenomena",
+   "quote": "Military aircrew and commercial pilots, trained observers whose lives depend on accurate identification, are frequently witnessing these phenomena."
+  },
+  {
+   "s": "graves",
+   "p": "statement",
+   "v": "the stigma attached to UAP is real and silences commercial pilots who fear professional repercussions",
+   "quote": "The stigma attached to UAP is real and powerful and challenges national security. It silences commercial pilots who fear professional repercussions"
+  },
+  {
+   "s": "graves",
+   "p": "statement",
+   "v": "stigma is compounded by recent government claims questioning the credibility of eyewitness testimony",
+   "quote": "is only compounded by recent government claims questioning the credibility of eyewitness testimony"
+  },
+  {
+   "s": "graves",
+   "p": "statement",
+   "v": "parts of the government know more about UAP than they let on; excessive classification keeps crucial information hidden",
+   "quote": "Parts of our government are aware more about UAP than they let on, but excessive classification practices keep crucial information hidden."
+  },
+  {
+   "s": "graves",
+   "p": "statement",
+   "v": "since 2021 all UAP videos are classified as secret or above",
+   "quote": "Since 2021 all UAP videos are classified as secret or above."
+  },
+  {
+   "s": "graves",
+   "p": "statement",
+   "v": "after radar upgrades in 2014 his squadron began detecting unknown objects operating in their airspace",
+   "quote": "After upgrades were made to our jet's radar systems, we began detecting unknown objects operating in our airspace."
+  },
+  {
+   "s": "graves",
+   "p": "statement",
+   "v": "two F-18 Super Hornets were split by a UAP during a training mission in Warning Area W-72",
+   "quote": "During a training mission in Warning Area W-72, 10 miles off the coast of Virginia Beach, two F-18 Super Hornets were split by a UAP."
+  },
+  {
+   "s": "graves",
+   "p": "statement",
+   "v": "pilots report UAP above them at 40,000 feet, potentially in low Earth orbit, making unexplainable maneuvers like right hand turns, retrograde orbits, or J hooks",
+   "quote": "Pilots are reporting UAP at altitudes that appear above them at 40,000 feet, potentially in low Earth orbit or in the gray zone below the common line, making unexplainable maneuvers like right hand turns and retrograde orbits, or J hooks."
+  },
+  {
+   "s": "graves",
+   "p": "statement",
+   "v": "reports are sometimes reoccurring, with numerous recent sightings north of Hawaii and in the North Atlantic",
+   "quote": "Sometimes these reports are reoccurring with numerous recent sightings north of Hawaii and in the North Atlantic."
+  },
+  {
+   "s": "graves",
+   "p": "statement",
+   "v": "other veterans are coming forward regarding UAP encounters in US airspace and oceans",
+   "quote": "Other veterans are also coming forward to us regarding UAP encounters in our airspace and oceans."
+  },
+  {
+   "s": "graves",
+   "p": "statement",
+   "v": "the most compelling accounts involve observations of UAP by multiple witnesses and sensor systems",
+   "quote": "The most compelling involve observations of UAP by multiple witnesses and sensor systems."
+  },
+  {
+   "s": "graves",
+   "p": "statement",
+   "v": "if everyone could see the sensor and video data he witnessed, the national conversation would change",
+   "quote": "If everyone could see the sensor and video data I witnessed, our national conversation would change."
+  },
+  {
+   "s": "graves",
+   "p": "statement",
+   "v": "if UAP are foreign drones it is an urgent national security problem; if something else, an issue for science; either way a flight safety concern",
+   "quote": "If UAP are foreign drones, is an urgent national security problem. If it is something else, it is an issue for science. In either case, unidentified objects are a concern for flight safety."
+  },
+  {
+   "s": "graves",
+   "p": "statement",
+   "v": "these accounts are only scratching the surface and more will share their experiences once it is safe to do so",
+   "quote": "I believe these accounts are only scratching the surface and more will share their experiences once it is safe to do so."
+  },
+  {
+   "s": "graves",
+   "p": "witnesses_represented",
+   "v": "more than 30 commercial aircrew and military veterans",
+   "quote": "the concerns of more than 30 commercial aircrew and military veterans who have confided their similar encounters with me"
+  },
+  {
+   "s": "graves",
+   "p": "reported_altitude",
+   "v": "above 40,000 feet, potentially in low Earth orbit",
+   "quote": "Pilots are reporting UAP at altitudes that appear above them at 40,000 feet, potentially in low Earth orbit"
+  },
+  {
+   "s": "graves",
+   "p": "reported_maneuvers",
+   "v": "right hand turns, retrograde orbits, J hooks",
+   "quote": "making unexplainable maneuvers like right hand turns and retrograde orbits, or J hooks"
+  },
+  {
+   "s": "hawaii",
+   "p": "related_place",
+   "o": "case",
+   "quote": "numerous recent sightings north of Hawaii and in the North Atlantic"
+  },
+  {
+   "s": "natlantic",
+   "p": "related_place",
+   "o": "case",
+   "quote": "numerous recent sightings north of Hawaii and in the North Atlantic"
+  },
+  {
+   "s": "hawaii",
+   "p": "sightings",
+   "v": "numerous recent recurring sightings by pilots to the north of Hawaii",
+   "quote": "Sometimes these reports are reoccurring with numerous recent sightings north of Hawaii and in the North Atlantic."
+  },
+  {
+   "s": "natlantic",
+   "p": "sightings",
+   "v": "numerous recent recurring sightings by pilots",
+   "quote": "Sometimes these reports are reoccurring with numerous recent sightings north of Hawaii and in the North Atlantic."
+  },
+  {
+   "s": "tictac",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Mr. Fravor has his own UAP experience known as the Tic Tac event."
+  },
+  {
+   "s": "fravor",
+   "p": "witness",
+   "o": "tictac",
+   "quote": "Mr. Fravor has his own UAP experience known as the Tic Tac event."
+  },
+  {
+   "s": "f_military",
+   "p": "has_feature",
+   "o": "tictac",
+   "quote": "retired Navy Commander David Fravor, squadron leader who worked as a naval aviator for 18 years. Mr. Fravor has his own UAP experience known as the Tic Tac event."
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "tictac",
+   "quote": "squadron leader who worked as a naval aviator for 18 years. Mr. Fravor has his own UAP experience known as the Tic Tac event."
+  },
+  {
+   "s": "f_hearing",
+   "p": "has_feature",
+   "o": "tictac",
+   "quote": "Mr. Fravor has his own UAP experience known as the Tic Tac event. I look forward to hearing from all three of you today."
+  },
+  {
+   "s": "navy",
+   "p": "involved_org",
+   "o": "tictac",
+   "quote": "retired Navy Commander David Fravor, squadron leader who worked as a naval aviator for 18 years. Mr. Fravor has his own UAP experience known as the Tic Tac event."
+  },
+  {
+   "s": "fravor",
+   "p": "rank",
+   "v": "Commander (retired)",
+   "quote": "retired Navy Commander David Fravor"
+  },
+  {
+   "s": "fravor",
+   "p": "occupation",
+   "v": "squadron leader; naval aviator for 18 years",
+   "quote": "retired Navy Commander David Fravor, squadron leader who worked as a naval aviator for 18 years"
+  },
+  {
+   "s": "fravor",
+   "p": "occupation",
+   "v": "Former Commanding Officer, United States Navy",
+   "quote": "Commander David Fravor (Ret.), Former Commanding Officer, United States Navy"
+  },
+  {
+   "s": "fravor",
+   "p": "years_of_service",
+   "v": "18 years as a naval aviator",
+   "quote": "worked as a naval aviator for 18 years"
+  },
+  {
+   "s": "fravor",
+   "p": "member_of",
+   "o": "navy",
+   "quote": "STATEMENT OF DAVID FRAVOR (RET.) FORMER COMMANDING OFFICER UNITED STATES NAVY"
+  },
+  {
+   "s": "fravor",
+   "p": "media_coverage",
+   "v": "experiences with UAPs documented by the New York Times, CNN and many other national news outlets",
+   "quote": "Mr. Graves and Commander Fravor's experiences with UAPs have also been documented by the public, not just by the New York Times but CNN and many other national news outlets."
+  },
+  {
+   "s": "graves",
+   "p": "media_coverage",
+   "v": "experiences with UAPs documented by the New York Times, CNN and many other national news outlets",
+   "quote": "Mr. Graves and Commander Fravor's experiences with UAPs have also been documented by the public, not just by the New York Times but CNN and many other national news outlets."
+  },
+  {
+   "s": "gruschclaims",
+   "p": "related_case",
+   "o": "case",
+   "quote": "I was informed in the course of my official duties of a multi-decade UAP crash retrieval and reverse engineering program"
+  },
+  {
+   "s": "grusch",
+   "p": "witness",
+   "o": "gruschclaims",
+   "quote": "But as I stand here under oath now, I am speaking to the facts as I have been told them."
+  },
+  {
+   "s": "grusch",
+   "p": "proponent",
+   "o": "gruschclaims",
+   "quote": "I am asking Congress to hold our government to this standard and thoroughly investigate these claims."
+  },
+  {
+   "s": "retrieval",
+   "p": "involved_org",
+   "o": "gruschclaims",
+   "quote": "a multi-decade UAP crash retrieval and reverse engineering program to which I was denied access"
+  },
+  {
+   "s": "retrieval",
+   "p": "duration",
+   "v": "multi-decade",
+   "quote": "a multi-decade UAP crash retrieval and reverse engineering program"
+  },
+  {
+   "s": "retrieval",
+   "p": "access",
+   "v": "Grusch was denied access to the additional read-ons when he requested it",
+   "quote": "to which I was denied access to those additional read- ons when I requested it"
+  },
+  {
+   "s": "ppd19",
+   "p": "key_document",
+   "o": "gruschclaims",
+   "quote": "I became a whistleblower through a PPD-19 urgent concern filing in May 2022 with the intelligence community inspector general"
+  },
+  {
+   "s": "grusch",
+   "p": "authored",
+   "o": "ppd19",
+   "quote": "I became a whistleblower through a PPD-19 urgent concern filing in May 2022"
+  },
+  {
+   "s": "ppd19",
+   "p": "date",
+   "v": "2022-05",
+   "quote": "a PPD-19 urgent concern filing in May 2022"
+  },
+  {
+   "s": "ppd19",
+   "p": "filed_with",
+   "o": "icig",
+   "quote": "a PPD-19 urgent concern filing in May 2022 with the intelligence community inspector general"
+  },
+  {
+   "s": "icig",
+   "p": "involved_org",
+   "o": "gruschclaims",
+   "quote": "a PPD-19 urgent concern filing in May 2022 with the intelligence community inspector general"
+  },
+  {
+   "s": "icig",
+   "p": "part_of",
+   "o": "ic",
+   "quote": "with the intelligence community inspector general"
+  },
+  {
+   "s": "usgov",
+   "p": "involved_org",
+   "o": "gruschclaims",
+   "quote": "the U.S. Government is operating with secrecy above congressional oversight with regards to UAPs"
+  },
+  {
+   "s": "uaptf",
+   "p": "involved_org",
+   "o": "gruschclaims",
+   "quote": "I was a member of the UAP Task Force from 2019 to 2021"
+  },
+  {
+   "s": "nro",
+   "p": "involved_org",
+   "o": "gruschclaims",
+   "quote": "In the U.S. Air Force in my National Reconnaissance Office--NRO--reservist capacity, I was a member of the UAP Task Force"
+  },
+  {
+   "s": "nga",
+   "p": "involved_org",
+   "o": "gruschclaims",
+   "quote": "I was my agency's co-lead in unidentified anomalous phenomena and trans medium object analysis"
+  },
+  {
+   "s": "aaro",
+   "p": "involved_org",
+   "o": "gruschclaims",
+   "quote": "as well as reporting to the UAP Task Force--UAPTF--and eventually, once it was established, the All-Domain Anomaly Resolution Office--AARO"
+  },
+  {
+   "s": "f_crash",
+   "p": "has_feature",
+   "o": "gruschclaims",
+   "quote": "a multi-decade UAP crash retrieval and reverse engineering program"
+  },
+  {
+   "s": "f_reverse",
+   "p": "has_feature",
+   "o": "gruschclaims",
+   "quote": "a multi-decade UAP crash retrieval and reverse engineering program"
+  },
+  {
+   "s": "f_coverup",
+   "p": "has_feature",
+   "o": "gruschclaims",
+   "quote": "the U.S. Government is operating with secrecy above congressional oversight with regards to UAPs"
+  },
+  {
+   "s": "f_whistle",
+   "p": "has_feature",
+   "o": "gruschclaims",
+   "quote": "I became a whistleblower through a PPD-19 urgent concern filing in May 2022"
+  },
+  {
+   "s": "f_retaliation",
+   "p": "has_feature",
+   "o": "gruschclaims",
+   "quote": "As you know, I have suffered retaliation for my decision"
+  },
+  {
+   "s": "f_photo",
+   "p": "has_feature",
+   "o": "gruschclaims",
+   "quote": "many of whom also have shared compelling evidence in the form of photography, official documentation, and classified oral testimony"
+  },
+  {
+   "s": "f_hearing",
+   "p": "has_feature",
+   "o": "gruschclaims",
+   "quote": "But as I stand here under oath now, I am speaking to the facts as I have been told them."
+  },
+  {
+   "s": "f_military",
+   "p": "has_feature",
+   "o": "gruschclaims",
+   "quote": "multiple esteemed and credentialed current and former military and intelligence community individuals"
+  },
+  {
+   "s": "grusch",
+   "p": "occupation",
+   "v": "former senior intelligence officer with the National Geospatial Intelligence Agency; senior technical advisor for UAP issues",
+   "quote": "David Grusch, is a former senior intelligence officer with the National Geospatial Intelligence Agency and was a senior technical advisor for UAP issues"
+  },
+  {
+   "s": "grusch",
+   "p": "occupation",
+   "v": "Former National Reconnaissance Office Representative, Unidentified Aerial Phenomena Task Force, Department of Defense",
+   "quote": "Mr. David Grusch, Former National Reconnaissance Office Representative, Unidentified Aerial Phenomena Task Force, Department of Defense"
+  },
+  {
+   "s": "grusch",
+   "p": "occupation",
+   "v": "intelligence officer for 14 years",
+   "quote": "I was an intelligence officer for 14 years"
+  },
+  {
+   "s": "grusch",
+   "p": "rank",
+   "v": "Major",
+   "quote": "both active- duty Air National Guard and Reserve at the rank of Major"
+  },
+  {
+   "s": "grusch",
+   "p": "civilian_grade",
+   "v": "GS-15, the military equivalent of a full bird colonel",
+   "quote": "at the GS-15 civilian level, which is the military equivalent of a full bird colonel"
+  },
+  {
+   "s": "grusch",
+   "p": "nga_years",
+   "v": "2021 to 2023",
+   "quote": "most recently from 2021 to 2025--excuse me, 2023--at the National Geospatial Intelligence Agency, NGA"
+  },
+  {
+   "s": "grusch",
+   "p": "task_force_years",
+   "v": "2019 to 2021",
+   "quote": "I was a member of the UAP Task Force from 2019 to 2021"
+  },
+  {
+   "s": "grusch",
+   "p": "role",
+   "v": "NGA co-lead in unidentified anomalous phenomena and trans medium object analysis, reporting to the UAP Task Force and later AARO",
+   "quote": "I was my agency's co-lead in unidentified anomalous phenomena and trans medium object analysis as well as reporting to the UAP Task Force--UAPTF--and eventually, once it was established, the All-Domain Anomaly Resolution Office--AARO."
+  },
+  {
+   "s": "grusch",
+   "p": "role",
+   "v": "served at the NRO operations center on the Director's briefing staff, including coordination of the Presidential daily brief; reserve intelligence division chief backup",
+   "quote": "I served at the NRO operations center on the Director's briefing staff, which included the coordination of the Presidential daily brief and supporting a variety of contingency operations, which I was the reserve intelligence division chief backup."
+  },
+  {
+   "s": "grusch",
+   "p": "security_clearance",
+   "v": "cleared to literally all relevant compartments and in a position of extreme trust",
+   "quote": "I was cleared to literally all relevant compartments and in a position of extreme trust both in my military and civilian capacities"
+  },
+  {
+   "s": "grusch",
+   "p": "security_clearance",
+   "v": "required temporary clearance for a classified SCIF briefing before the hearing, which was denied to members",
+   "quote": "due to the amount of hoops that we had to jump through to grant temporary clearance to witness Grusch, who has knowledge of classified information"
+  },
+  {
+   "s": "grusch",
+   "p": "whistleblower_date",
+   "v": "2022-05",
+   "quote": "I became a whistleblower through a PPD-19 urgent concern filing in May 2022"
+  },
+  {
+   "s": "grusch",
+   "p": "investigation_period",
+   "v": "4 years",
+   "quote": "I have taken every step I can to corroborate this evidence over a period of 4 years while I was with the UAP Task Force"
+  },
+  {
+   "s": "grusch",
+   "p": "retaliation",
+   "v": "says he has suffered retaliation for his decision",
+   "quote": "As you know, I have suffered retaliation for my decision"
+  },
+  {
+   "s": "grusch",
+   "p": "access_to_program",
+   "v": "denied access",
+   "quote": "to which I was denied access to those additional read- ons when I requested it"
+  },
+  {
+   "s": "grusch",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "I was an intelligence officer for 14 years both in the U.S. Air Force"
+  },
+  {
+   "s": "grusch",
+   "p": "member_of",
+   "o": "ang",
+   "quote": "both in the U.S. Air Force, both active- duty Air National Guard and Reserve at the rank of Major"
+  },
+  {
+   "s": "ang",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "both in the U.S. Air Force, both active- duty Air National Guard and Reserve at the rank of Major"
+  },
+  {
+   "s": "grusch",
+   "p": "employed_by",
+   "o": "nga",
+   "quote": "most recently from 2021 to 2025--excuse me, 2023--at the National Geospatial Intelligence Agency, NGA"
+  },
+  {
+   "s": "grusch",
+   "p": "employed_by",
+   "o": "nro",
+   "quote": "In the U.S. Air Force in my National Reconnaissance Office--NRO--reservist capacity"
+  },
+  {
+   "s": "grusch",
+   "p": "member_of",
+   "o": "uaptf",
+   "quote": "I was a member of the UAP Task Force from 2019 to 2021"
+  },
+  {
+   "s": "uaptf",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "Unidentified Aerial Phenomena Task Force, Department of Defense"
+  },
+  {
+   "s": "uaptf",
+   "p": "reported_to",
+   "v": "DEP/SecDef (direct report)",
+   "quote": "we would direct report at the time to the DEP/SecDef"
+  },
+  {
+   "s": "uaptf",
+   "p": "mission",
+   "v": "congressionally mandated mission",
+   "quote": "we needed to satisfy our congressionally mandated mission"
+  },
+  {
+   "s": "uaptf",
+   "p": "director_request",
+   "v": "in 2019 the Task Force Director asked Grusch to identify all special access programs and controlled access programs (SAPs and CAPs) needed for its mission",
+   "quote": "In 2019, the UAP Task Force Director asked me to identify all special access programs and controlled access programs, also known as SAPs and CAPs"
+  },
+  {
+   "s": "grusch",
+   "p": "statement",
+   "v": "became a whistleblower after reports from current and former military and intelligence community individuals that the U.S. Government is operating with secrecy above congressional oversight regarding UAPs",
+   "quote": "following concerning reports from multiple esteemed and credentialed current and former military and intelligence community individuals that the U.S. Government is operating with secrecy above congressional oversight with regards to UAPs."
+  },
+  {
+   "s": "grusch",
+   "p": "statement",
+   "v": "testimony is based on information given by individuals with a long-standing track record of legitimacy, many of whom shared evidence in the form of photography, official documentation and classified oral testimony",
+   "quote": "My testimony is based on information I have been given by individuals with a long-standing track record of legitimacy and service to this country, many of whom also have shared compelling evidence in the form of photography, official documentation, and classified oral testimony to myself and many of my various colleagues."
+  },
+  {
+   "s": "grusch",
+   "p": "statement",
+   "v": "took every step he could to corroborate the evidence over 4 years with the UAP Task Force",
+   "quote": "I have taken every step I can to corroborate this evidence over a period of 4 years while I was with the UAP Task Force and do my due diligence on the individuals sharing it."
+  },
+  {
+   "s": "grusch",
+   "p": "statement",
+   "v": "speaking under oath to the facts as he has been told them",
+   "quote": "But as I stand here under oath now, I am speaking to the facts as I have been told them."
+  },
+  {
+   "s": "grusch",
+   "p": "statement",
+   "v": "in 2019 the UAP Task Force Director asked him to identify all special access programs and controlled access programs needed for the mission",
+   "quote": "In 2019, the UAP Task Force Director asked me to identify all special access programs and controlled access programs, also known as SAPs and CAPs, we needed to satisfy our congressionally mandated mission"
+  },
+  {
+   "s": "grusch",
+   "p": "statement",
+   "v": "was informed in the course of official duties of a multi-decade UAP crash retrieval and reverse engineering program to which he was denied access",
+   "quote": "I was informed in the course of my official duties of a multi-decade UAP crash retrieval and reverse engineering program to which I was denied access to those additional read- ons when I requested it."
+  },
+  {
+   "s": "grusch",
+   "p": "statement",
+   "v": "reported the information to his superiors and multiple inspectors general, in effect becoming a whistleblower",
+   "quote": "I made the decision based on the data I collected to report this information to my superiors and multiple inspectors general and, in effect, becoming a whistleblower."
+  },
+  {
+   "s": "grusch",
+   "p": "statement",
+   "v": "asks Congress to thoroughly investigate these claims",
+   "quote": "I am asking Congress to hold our government to this standard and thoroughly investigate these claims."
+  },
+  {
+   "s": "grusch",
+   "p": "statement",
+   "v": "has suffered retaliation but hopes his actions lead to increased transparency",
+   "quote": "I have suffered retaliation for my decision, but I am hopeful that my actions will ultimately lead to a positive outcome of increased transparency."
+  },
+  {
+   "s": "ford1966",
+   "p": "related_case",
+   "o": "case",
+   "quote": "in 1966, President Gerald Ford claimed to have seen a UFO"
+  },
+  {
+   "s": "carter1969",
+   "p": "related_case",
+   "o": "case",
+   "quote": "in 1969 in Georgia, Jimmy Carter claimed to have seen a UFO"
+  },
+  {
+   "s": "ford",
+   "p": "witness",
+   "o": "ford1966",
+   "quote": "in 1966, President Gerald Ford claimed to have seen a UFO"
+  },
+  {
+   "s": "carter",
+   "p": "witness",
+   "o": "carter1969",
+   "quote": "in 1969 in Georgia, Jimmy Carter claimed to have seen a UFO"
+  },
+  {
+   "s": "ford1966",
+   "p": "date_start",
+   "v": "1966",
+   "quote": "in 1966, President Gerald Ford claimed to have seen a UFO"
+  },
+  {
+   "s": "carter1969",
+   "p": "date_start",
+   "v": "1969",
+   "quote": "in 1969 in Georgia, Jimmy Carter claimed to have seen a UFO"
+  },
+  {
+   "s": "georgia",
+   "p": "occurred_at",
+   "o": "carter1969",
+   "quote": "in 1969 in Georgia, Jimmy Carter claimed to have seen a UFO"
+  },
+  {
+   "s": "ford",
+   "p": "title",
+   "v": "President",
+   "quote": "President Gerald Ford claimed to have seen a UFO"
+  },
+  {
+   "s": "ford",
+   "p": "statement",
+   "v": "claimed to have seen a UFO in 1966",
+   "quote": "in 1966, President Gerald Ford claimed to have seen a UFO"
+  },
+  {
+   "s": "carter",
+   "p": "statement",
+   "v": "claimed to have seen a UFO in Georgia in 1969",
+   "quote": "in 1969 in Georgia, Jimmy Carter claimed to have seen a UFO"
+  },
+  {
+   "s": "ford",
+   "p": "mentioned_by",
+   "o": "grothman",
+   "quote": "I also want to point out in 1966, President Gerald Ford claimed to have seen a UFO, and in 1969 in Georgia, Jimmy Carter claimed to have seen a UFO."
+  },
+  {
+   "s": "carter",
+   "p": "mentioned_by",
+   "o": "grothman",
+   "quote": "I also want to point out in 1966, President Gerald Ford claimed to have seen a UFO, and in 1969 in Georgia, Jimmy Carter claimed to have seen a UFO."
+  },
+  {
+   "s": "balloon2023",
+   "p": "related_case",
+   "o": "case",
+   "quote": "The Biden Administration's handling of the Chinese spy balloon that violated U.S. air space is one example how the government is not prepared for these."
+  },
+  {
+   "s": "shoot2023",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Between the Chinese balloon being shot down and two UAPs subsequently shot down following the event earlier this year the U.S. Government spent $1.5 million in taxpayer dollars on missiles."
+  },
+  {
+   "s": "shoot2023",
+   "p": "related_case",
+   "o": "balloon2023",
+   "quote": "Between the Chinese balloon being shot down and two UAPs subsequently shot down following the event earlier this year the U.S. Government spent $1.5 million in taxpayer dollars on missiles."
+  },
+  {
+   "s": "balloon2023",
+   "p": "date_start",
+   "v": "2023",
+   "quote": "Between the Chinese balloon being shot down and two UAPs subsequently shot down following the event earlier this year"
+  },
+  {
+   "s": "shoot2023",
+   "p": "date_start",
+   "v": "2023",
+   "quote": "two UAPs subsequently shot down following the event earlier this year"
+  },
+  {
+   "s": "balloon2023",
+   "p": "country",
+   "v": "United States",
+   "quote": "the Chinese spy balloon that violated U.S. air space"
+  },
+  {
+   "s": "balloon2023",
+   "p": "outcome",
+   "v": "shot down",
+   "quote": "Between the Chinese balloon being shot down"
+  },
+  {
+   "s": "shoot2023",
+   "p": "object_count",
+   "v": "2",
+   "quote": "two UAPs subsequently shot down following the event earlier this year"
+  },
+  {
+   "s": "shoot2023",
+   "p": "outcome",
+   "v": "shot down",
+   "quote": "two UAPs subsequently shot down following the event earlier this year"
+  },
+  {
+   "s": "balloon2023",
+   "p": "missile_cost",
+   "v": "$1.5 million in taxpayer dollars spent on missiles across the balloon and the two UAPs",
+   "quote": "Between the Chinese balloon being shot down and two UAPs subsequently shot down following the event earlier this year the U.S. Government spent $1.5 million in taxpayer dollars on missiles."
+  },
+  {
+   "s": "shoot2023",
+   "p": "missile_cost",
+   "v": "$1.5 million in taxpayer dollars spent on missiles across the balloon and the two UAPs",
+   "quote": "Between the Chinese balloon being shot down and two UAPs subsequently shot down following the event earlier this year the U.S. Government spent $1.5 million in taxpayer dollars on missiles."
+  },
+  {
+   "s": "balloon_craft",
+   "p": "reported_object",
+   "o": "balloon2023",
+   "quote": "the Chinese spy balloon that violated U.S. air space"
+  },
+  {
+   "s": "balloon_craft",
+   "p": "origin",
+   "v": "Chinese",
+   "quote": "the Chinese spy balloon that violated U.S. air space"
+  },
+  {
+   "s": "shoot_craft",
+   "p": "reported_object",
+   "o": "shoot2023",
+   "quote": "two UAPs subsequently shot down following the event earlier this year"
+  },
+  {
+   "s": "shoot_craft",
+   "p": "count",
+   "v": "2",
+   "quote": "two UAPs subsequently shot down following the event earlier this year"
+  },
+  {
+   "s": "us",
+   "p": "occurred_at",
+   "o": "balloon2023",
+   "quote": "the Chinese spy balloon that violated U.S. air space"
+  },
+  {
+   "s": "biden_admin",
+   "p": "involved_org",
+   "o": "balloon2023",
+   "quote": "The Biden Administration's handling of the Chinese spy balloon that violated U.S. air space"
+  },
+  {
+   "s": "biden_admin",
+   "p": "criticism",
+   "v": "its description of events shows the government continues not to be forthright; little clarity given",
+   "quote": "The Biden Administration's description of events has shown that the government continues not to be forthright."
+  },
+  {
+   "s": "usgov",
+   "p": "involved_org",
+   "o": "balloon2023",
+   "quote": "Between the Chinese balloon being shot down and two UAPs subsequently shot down following the event earlier this year the U.S. Government spent $1.5 million in taxpayer dollars on missiles."
+  },
+  {
+   "s": "usgov",
+   "p": "involved_org",
+   "o": "shoot2023",
+   "quote": "Between the Chinese balloon being shot down and two UAPs subsequently shot down following the event earlier this year the U.S. Government spent $1.5 million in taxpayer dollars on missiles."
+  },
+  {
+   "s": "x_balloon",
+   "p": "explained_as",
+   "o": "balloon2023",
+   "quote": "the Chinese spy balloon that violated U.S. air space"
+  },
+  {
+   "s": "f_shootdown",
+   "p": "has_feature",
+   "o": "balloon2023",
+   "quote": "Between the Chinese balloon being shot down"
+  },
+  {
+   "s": "f_shootdown",
+   "p": "has_feature",
+   "o": "shoot2023",
+   "quote": "two UAPs subsequently shot down following the event earlier this year"
+  },
+  {
+   "s": "roswell",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Yet, from Roswell, New Mexico to the coast of Jacksonville, Florida, the sightings of UAPs have rarely been explained by the people who have firsthand accounts of these situations."
+  },
+  {
+   "s": "roswell_nm",
+   "p": "occurred_at",
+   "o": "roswell",
+   "quote": "from Roswell, New Mexico to the coast of Jacksonville, Florida, the sightings of UAPs"
+  },
+  {
+   "s": "roswell",
+   "p": "mentioned_by",
+   "o": "luna",
+   "quote": "Yet, from Roswell, New Mexico to the coast of Jacksonville, Florida, the sightings of UAPs have rarely been explained by the people who have firsthand accounts of these situations."
+  },
+  {
+   "s": "jacksonville",
+   "p": "related_place",
+   "o": "case",
+   "quote": "from Roswell, New Mexico to the coast of Jacksonville, Florida, the sightings of UAPs"
+  },
+  {
+   "s": "jacksonville",
+   "p": "sightings",
+   "v": "UAP sightings off the coast of Jacksonville, Florida",
+   "quote": "Yet, from Roswell, New Mexico to the coast of Jacksonville, Florida, the sightings of UAPs have rarely been explained by the people who have firsthand accounts of these situations."
+  },
+  {
+   "s": "aaro",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The National Defense Authorization Act of 2022 established the all-domain anomaly resolution officer--AARO"
+  },
+  {
+   "s": "aaro",
+   "p": "established_by",
+   "o": "ndaa2022",
+   "quote": "The National Defense Authorization Act of 2022 established the all-domain anomaly resolution officer--AARO"
+  },
+  {
+   "s": "ndaa2022",
+   "p": "mentioned_by",
+   "o": "grothman",
+   "quote": "The National Defense Authorization Act of 2022 established the all-domain anomaly resolution officer--AARO"
+  },
+  {
+   "s": "ndaa2022",
+   "p": "mentioned_by",
+   "o": "moskowitz",
+   "quote": "Congress created the All-Domain Resolution Office in the NDAA of 2022."
+  },
+  {
+   "s": "congress",
+   "p": "authored",
+   "o": "ndaa2022",
+   "quote": "Congress created the All-Domain Resolution Office in the NDAA of 2022."
+  },
+  {
+   "s": "aaro",
+   "p": "mission",
+   "v": "conduct or coordinate efforts across the Department of Defense and other Federal agencies to detect, identify, and investigate UAPs",
+   "quote": "to conduct or to coordinate efforts across the Department of Defense and other Federal agents to detect, identify, and investigate UAPs"
+  },
+  {
+   "s": "aaro",
+   "p": "budget",
+   "v": "classified, prohibiting meaningful oversight from Congress",
+   "quote": "However, AARO's budget remains classified, prohibiting meaningful oversight from Congress."
+  },
+  {
+   "s": "aaro",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "Director of the All-Domain Anomaly Resolution Office, the component of the DoD office that investigates UAP data"
+  },
+  {
+   "s": "aaro",
+   "p": "finding",
+   "v": "found no evidence of extraterrestrial activity",
+   "quote": "has testified before the Senate this year that his unit has found no evidence of extraterrestrial activity"
+  },
+  {
+   "s": "aaro",
+   "p": "uncharacterized_reports",
+   "v": "171 uncharacterized UAP reports that appear to have demonstrated unusual flight characteristics or performance capabilities",
+   "quote": "In its initial analysis there are 171 uncharacterized UAP reports--and this is the words from the report--that appear to have demonstrated unusual flight characteristics or performance capabilities."
+  },
+  {
+   "s": "kirkpatrick",
+   "p": "commanded",
+   "o": "aaro",
+   "quote": "Mr. Sean Kirkpatrick, Director of the All-Domain Anomaly Resolution Office"
+  },
+  {
+   "s": "kirkpatrick",
+   "p": "employed_by",
+   "o": "aaro",
+   "quote": "Mr. Sean Kirkpatrick, Director of the All-Domain Anomaly Resolution Office"
+  },
+  {
+   "s": "kirkpatrick",
+   "p": "occupation",
+   "v": "Director of the All-Domain Anomaly Resolution Office",
+   "quote": "Mr. Sean Kirkpatrick, Director of the All-Domain Anomaly Resolution Office"
+  },
+  {
+   "s": "kirkpatrick",
+   "p": "statement",
+   "v": "testified before the Senate this year that his unit has found no evidence of extraterrestrial activity",
+   "quote": "Mr. Sean Kirkpatrick, Director of the All-Domain Anomaly Resolution Office, the component of the DoD office that investigates UAP data, has testified before the Senate this year that his unit has found no evidence of extraterrestrial activity."
+  },
+  {
+   "s": "kirkpatrick",
+   "p": "testified_before",
+   "o": "senate",
+   "quote": "Mr. Sean Kirkpatrick, Director of the All-Domain Anomaly Resolution Office, the component of the DoD office that investigates UAP data, has testified before the Senate this year that his unit has found no evidence of extraterrestrial activity."
+  },
+  {
+   "s": "kirkpatrick",
+   "p": "mentioned_by",
+   "o": "garcia",
+   "quote": "Mr. Sean Kirkpatrick, Director of the All-Domain Anomaly Resolution Office, the component of the DoD office that investigates UAP data, has testified before the Senate this year that his unit has found no evidence of extraterrestrial activity."
+  },
+  {
+   "s": "senate",
+   "p": "mentioned_by",
+   "o": "garcia",
+   "quote": "Mr. Sean Kirkpatrick, Director of the All-Domain Anomaly Resolution Office, the component of the DoD office that investigates UAP data, has testified before the Senate this year that his unit has found no evidence of extraterrestrial activity."
+  },
+  {
+   "s": "dod",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "We must demand transparency from the Department of Defense, our intelligence community, and our defense industry on the UAP work."
+  },
+  {
+   "s": "dod",
+   "p": "position",
+   "v": "hesitant to share information that could undermine national security by revealing capabilities of aircraft, sensors and other sensitive material",
+   "quote": "the Department of Defense is hesitant to share information that could also undermine our national security by revealing information on the capabilities of our own aircraft, our sensors, and other sensitive material"
+  },
+  {
+   "s": "dod",
+   "p": "criticism",
+   "v": "Pentagon bureaucrats have always been sent to stonewall investigations",
+   "quote": "Pentagon bureaucrats who have always been sent to stonewall our investigations"
+  },
+  {
+   "s": "ic",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "We have run into roadblocks from Members, from the intelligence community, the Pentagon."
+  },
+  {
+   "s": "ic",
+   "p": "opposition",
+   "v": "did not like Burchett's proposed FAA reauthorization amendment on pilot sighting reports",
+   "quote": "But I was told that the intelligence community did not like that, and the bill was--the amendment was not even heard in committee."
+  },
+  {
+   "s": "nasa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "NASA is leading an independent study on UAPs"
+  },
+  {
+   "s": "nasa_study",
+   "p": "part_of",
+   "o": "nasa",
+   "quote": "NASA is leading an independent study on UAPs to identify how UAP data is gathered from both civilian and government entities"
+  },
+  {
+   "s": "nasa_study",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In addition to AARO's efforts, NASA is leading an independent study on UAPs"
+  },
+  {
+   "s": "nasa_study",
+   "p": "purpose",
+   "v": "identify how UAP data gathered from civilian and government entities can be analyzed to shed light on the topic",
+   "quote": "an independent study on UAPs to identify how UAP data is gathered from both civilian and government entities that can be analyzed to shed light on the topic"
+  },
+  {
+   "s": "nasa_study",
+   "p": "announced",
+   "v": "2022-06-09",
+   "quote": "on June 9, 2022, NASA announced that the agency is commissioning a study to, of course, examine unidentified anomalous phenomena"
+  },
+  {
+   "s": "nasa",
+   "p": "statement",
+   "v": "does not have evidence of extraterrestrial life",
+   "quote": "NASA has also stated they do not have evidence of extraterrestrial life either"
+  },
+  {
+   "s": "odni",
+   "p": "mentioned_by",
+   "o": "garcia",
+   "quote": "the Office of the Director of National Intelligence has published public reports documenting UAPs"
+  },
+  {
+   "s": "odni",
+   "p": "publications",
+   "v": "has published public reports documenting UAPs",
+   "quote": "the Office of the Director of National Intelligence has published public reports documenting UAPs"
+  },
+  {
+   "s": "odni",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the Office of the Director of National Intelligence has published public reports documenting UAPs"
+  },
+  {
+   "s": "usgov",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In fact, the American people largely believe that the government has actively covered up the truth about UAPs."
+  },
+  {
+   "s": "nyt",
+   "p": "published",
+   "o": "nyt2017",
+   "quote": "some of the earliest reporting on this issue was a groundbreaking 2017 New York Times report which revealed research as we know now on unidentified anomalous phenomena or as many call UFOs by the Defense Intelligence Agency"
+  },
+  {
+   "s": "nyt2017",
+   "p": "mentioned_by",
+   "o": "garcia",
+   "quote": "some of the earliest reporting on this issue was a groundbreaking 2017 New York Times report which revealed research as we know now on unidentified anomalous phenomena or as many call UFOs by the Defense Intelligence Agency"
+  },
+  {
+   "s": "nyt2017",
+   "p": "year",
+   "v": "2017",
+   "quote": "a groundbreaking 2017 New York Times report"
+  },
+  {
+   "s": "nyt2017",
+   "p": "content",
+   "v": "revealed research on unidentified anomalous phenomena by the Defense Intelligence Agency",
+   "quote": "some of the earliest reporting on this issue was a groundbreaking 2017 New York Times report which revealed research as we know now on unidentified anomalous phenomena or as many call UFOs by the Defense Intelligence Agency"
+  },
+  {
+   "s": "dia",
+   "p": "mentioned_by",
+   "o": "garcia",
+   "quote": "some of the earliest reporting on this issue was a groundbreaking 2017 New York Times report which revealed research as we know now on unidentified anomalous phenomena or as many call UFOs by the Defense Intelligence Agency"
+  },
+  {
+   "s": "dia",
+   "p": "activity",
+   "v": "conducted research on unidentified anomalous phenomena, revealed by a 2017 New York Times report",
+   "quote": "some of the earliest reporting on this issue was a groundbreaking 2017 New York Times report which revealed research as we know now on unidentified anomalous phenomena or as many call UFOs by the Defense Intelligence Agency"
+  },
+  {
+   "s": "nyt",
+   "p": "mentioned_by",
+   "o": "garcia",
+   "quote": "Mr. Graves and Commander Fravor's experiences with UAPs have also been documented by the public, not just by the New York Times but CNN and many other national news outlets."
+  },
+  {
+   "s": "cnn",
+   "p": "mentioned_by",
+   "o": "garcia",
+   "quote": "Mr. Graves and Commander Fravor's experiences with UAPs have also been documented by the public, not just by the New York Times but CNN and many other national news outlets."
+  },
+  {
+   "s": "cnn",
+   "p": "coverage",
+   "v": "documented Graves' and Fravor's experiences with UAPs",
+   "quote": "Mr. Graves and Commander Fravor's experiences with UAPs have also been documented by the public, not just by the New York Times but CNN and many other national news outlets."
+  },
+  {
+   "s": "nyt",
+   "p": "coverage",
+   "v": "documented Graves' and Fravor's experiences with UAPs",
+   "quote": "Mr. Graves and Commander Fravor's experiences with UAPs have also been documented by the public, not just by the New York Times but CNN and many other national news outlets."
+  },
+  {
+   "s": "book",
+   "p": "mentioned_by",
+   "o": "grothman",
+   "quote": "I read a book--a 1966 book called ``Flying Saucers Serious Business'' and for a while when I was a little bit younger, I thought it was the most important issue out there."
+  },
+  {
+   "s": "book",
+   "p": "publication_year",
+   "v": "1966",
+   "quote": "a 1966 book called ``Flying Saucers Serious Business''"
+  },
+  {
+   "s": "book",
+   "p": "theme",
+   "v": "lack of transparency regarding UAPs",
+   "quote": "The lack of transparency regarding UAPs, which was one of the themes of that book"
+  },
+  {
+   "s": "accidental",
+   "p": "mentioned_by",
+   "o": "burchett",
+   "quote": "They have done interviews and appeared in documentaries like ``Accidental Truth'' to get their stories out there and now they are all here to testify under oath for Congress."
+  },
+  {
+   "s": "accidental",
+   "p": "work_type",
+   "v": "documentary",
+   "quote": "appeared in documentaries like ``Accidental Truth''"
+  },
+  {
+   "s": "accidental",
+   "p": "featured",
+   "v": "the hearing witnesses appeared in it to get their stories out",
+   "quote": "They have done interviews and appeared in documentaries like ``Accidental Truth'' to get their stories out there and now they are all here to testify under oath for Congress."
+  },
+  {
+   "s": "uap_puzzle",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Report, Jeremy Corbell, ``The UAP Puzzle''; submitted by Rep. Burchett."
+  },
+  {
+   "s": "uap_puzzle",
+   "p": "submitted_by",
+   "o": "burchett",
+   "quote": "Report, Jeremy Corbell, ``The UAP Puzzle''; submitted by Rep. Burchett."
+  },
+  {
+   "s": "knapp_stmt",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Statement for the Record, by George Knapp; submitted by Rep. Burchett."
+  },
+  {
+   "s": "knapp_stmt",
+   "p": "submitted_by",
+   "o": "burchett",
+   "quote": "Statement for the Record, by George Knapp; submitted by Rep. Burchett."
+  },
+  {
+   "s": "dird",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Defense Intelligence Reference Document, ``Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering''; submitted by Rep. Burchett."
+  },
+  {
+   "s": "dird",
+   "p": "submitted_by",
+   "o": "burchett",
+   "quote": "Defense Intelligence Reference Document, ``Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering''; submitted by Rep. Burchett."
+  },
+  {
+   "s": "nn_article",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Article, NewsNation, ``We are not alone: The UFO whistleblower speaks''; submitted by Rep. Luna."
+  },
+  {
+   "s": "nn_article",
+   "p": "submitted_by",
+   "o": "luna",
+   "quote": "Article, NewsNation, ``We are not alone: The UFO whistleblower speaks''; submitted by Rep. Luna."
+  },
+  {
+   "s": "corbell",
+   "p": "authored",
+   "o": "uap_puzzle",
+   "quote": "Report, Jeremy Corbell, ``The UAP Puzzle''; submitted by Rep. Burchett."
+  },
+  {
+   "s": "uap_puzzle",
+   "p": "document_type",
+   "v": "Report",
+   "quote": "Report, Jeremy Corbell, ``The UAP Puzzle''; submitted by Rep. Burchett."
+  },
+  {
+   "s": "knapp",
+   "p": "authored",
+   "o": "knapp_stmt",
+   "quote": "Statement for the Record, by George Knapp; submitted by Rep. Burchett."
+  },
+  {
+   "s": "dird",
+   "p": "document_type",
+   "v": "Defense Intelligence Reference Document",
+   "quote": "Defense Intelligence Reference Document, ``Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering''; submitted by Rep. Burchett."
+  },
+  {
+   "s": "dird",
+   "p": "classification",
+   "v": "unclassified and public record",
+   "quote": "I understand now that this is unclassified, and it is public record"
+  },
+  {
+   "s": "dird",
+   "p": "entered_into_record",
+   "v": "entered by Burchett without objection",
+   "quote": "a report, defense intelligence reference documents, ``Advanced Space Propulsion Based on Vacuum (spacetime metric) Engineering,'' some light reading for some of our Members."
+  },
+  {
+   "s": "newsnation",
+   "p": "published",
+   "o": "nn_article",
+   "quote": "Article, NewsNation, ``We are not alone: The UFO whistleblower speaks''; submitted by Rep. Luna."
+  },
+  {
+   "s": "nn_article",
+   "p": "document_type",
+   "v": "Article",
+   "quote": "Article, NewsNation, ``We are not alone: The UFO whistleblower speaks''; submitted by Rep. Luna."
+  },
+  {
+   "s": "knapp",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Also, I know I saw out in the crowd there George Knapp, my buddy, Jeremy Corbell. They are not witnesses, but they have provided some statements on this subject"
+  },
+  {
+   "s": "corbell",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Also, I know I saw out in the crowd there George Knapp, my buddy, Jeremy Corbell. They are not witnesses, but they have provided some statements on this subject"
+  },
+  {
+   "s": "knapp",
+   "p": "attended_hearing",
+   "v": "in the crowd; not a witness but provided a statement entered into the record",
+   "quote": "Also, I know I saw out in the crowd there George Knapp, my buddy, Jeremy Corbell. They are not witnesses, but they have provided some statements on this subject"
+  },
+  {
+   "s": "corbell",
+   "p": "attended_hearing",
+   "v": "in the crowd; not a witness but provided a statement entered into the record",
+   "quote": "Also, I know I saw out in the crowd there George Knapp, my buddy, Jeremy Corbell. They are not witnesses, but they have provided some statements on this subject"
+  },
+  {
+   "s": "knapp",
+   "p": "statement",
+   "v": "since 1969 the position of the military has been that UFOs pose no threat to national security and are not worthy of further study",
+   "quote": "Mr. Knapp wrote since 1969, the position of our military has been that UFOs posed no threat to national security and are not worthy of further study."
+  },
+  {
+   "s": "knapp",
+   "p": "statement",
+   "v": "the dismissive attitude is at odds with what was revealed in documents, reports, and internal memos",
+   "quote": "He also goes on to talk about the dismissive attitude is at odds with what was revealed in documents, reports, and internal memos."
+  },
+  {
+   "s": "corbell",
+   "p": "statement",
+   "v": "the UFO is emerging as a major topic of global importance",
+   "quote": "And Mr. Corbell says as he writes these words, the UFO is emerging as a major topic of global importance."
+  },
+  {
+   "s": "burchett",
+   "p": "authored",
+   "o": "faa_amend",
+   "quote": "I proposed legislation to go in the FAA reauthorization that just said if an airline pilot has a sighting that when he makes that report to the FAA that it would come to Congress."
+  },
+  {
+   "s": "faa_amend",
+   "p": "content",
+   "v": "if an airline pilot has a sighting, his report to the FAA would come to Congress",
+   "quote": "I proposed legislation to go in the FAA reauthorization that just said if an airline pilot has a sighting that when he makes that report to the FAA that it would come to Congress."
+  },
+  {
+   "s": "faa_amend",
+   "p": "outcome",
+   "v": "not even heard in committee; Burchett was told the intelligence community did not like it",
+   "quote": "But I was told that the intelligence community did not like that, and the bill was--the amendment was not even heard in committee."
+  },
+  {
+   "s": "faa",
+   "p": "mentioned_by",
+   "o": "burchett",
+   "quote": "I proposed legislation to go in the FAA reauthorization that just said if an airline pilot has a sighting that when he makes that report to the FAA that it would come to Congress."
+  },
+  {
+   "s": "faa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "I proposed legislation to go in the FAA reauthorization that just said if an airline pilot has a sighting that when he makes that report to the FAA that it would come to Congress."
+  },
+  {
+   "s": "faa_amend",
+   "p": "mentioned_by",
+   "o": "luna",
+   "quote": "As Representative Burchett just referenced on the FAA bills that just went through, you can tell that that is exactly happening."
+  },
+  {
+   "s": "eglin",
+   "p": "related_place",
+   "o": "case",
+   "quote": "if it had not been for Matt Gaetz, myself, him, and Luna would still be down at Eglin Air Force Base trying to get some answers"
+  },
+  {
+   "s": "eglin",
+   "p": "mentioned_by",
+   "o": "burchett",
+   "quote": "if it had not been for Matt Gaetz, myself, him, and Luna would still be down at Eglin Air Force Base trying to get some answers"
+  },
+  {
+   "s": "eglin",
+   "p": "visit",
+   "v": "Burchett, Gaetz and Luna went to Eglin Air Force Base trying to get some answers",
+   "quote": "if it had not been for Matt Gaetz, myself, him, and Luna would still be down at Eglin Air Force Base trying to get some answers"
+  },
+  {
+   "s": "gaetz",
+   "p": "role",
+   "v": "credited by Burchett with getting answers at Eglin Air Force Base; 'an incredible legal mind'",
+   "quote": "if it had not been for Matt Gaetz, myself, him, and Luna would still be down at Eglin Air Force Base trying to get some answers. He has got an incredible legal mind."
+  },
+  {
+   "s": "gaetz",
+   "p": "colleague_of",
+   "o": "burchett",
+   "quote": "if it had not been for Matt Gaetz, myself, him, and Luna would still be down at Eglin Air Force Base trying to get some answers"
+  },
+  {
+   "s": "luna",
+   "p": "colleague_of",
+   "o": "burchett",
+   "quote": "I also want to thank my colleagues, Representative Anna Paulina Luna, sitting beside me here"
+  },
+  {
+   "s": "moskowitz",
+   "p": "colleague_of",
+   "o": "burchett",
+   "quote": "I also want to thank my colleagues, Representative Anna Paulina Luna, sitting beside me here; Jared Moskowitz, my friend across the aisle"
+  },
+  {
+   "s": "burlison",
+   "p": "colleague_of",
+   "o": "burchett",
+   "quote": "who has an incredible mind, and I am anxious to hear his questions; my buddy, Eric Burlison."
+  },
+  {
+   "s": "wpafb",
+   "p": "related_place",
+   "o": "case",
+   "quote": "if there is nothing to conceal let Congress go to Wright Patterson Air Force Base, the Doug Wright Proving Ground, or even Groom Lake in Nevada"
+  },
+  {
+   "s": "wpafb",
+   "p": "mentioned_by",
+   "o": "moskowitz",
+   "quote": "if there is nothing to conceal let Congress go to Wright Patterson Air Force Base, the Doug Wright Proving Ground, or even Groom Lake in Nevada"
+  },
+  {
+   "s": "dougwright",
+   "p": "related_place",
+   "o": "case",
+   "quote": "if there is nothing to conceal let Congress go to Wright Patterson Air Force Base, the Doug Wright Proving Ground, or even Groom Lake in Nevada"
+  },
+  {
+   "s": "dougwright",
+   "p": "mentioned_by",
+   "o": "moskowitz",
+   "quote": "if there is nothing to conceal let Congress go to Wright Patterson Air Force Base, the Doug Wright Proving Ground, or even Groom Lake in Nevada"
+  },
+  {
+   "s": "groomlake",
+   "p": "related_place",
+   "o": "case",
+   "quote": "if there is nothing to conceal let Congress go to Wright Patterson Air Force Base, the Doug Wright Proving Ground, or even Groom Lake in Nevada"
+  },
+  {
+   "s": "groomlake",
+   "p": "mentioned_by",
+   "o": "moskowitz",
+   "quote": "if there is nothing to conceal let Congress go to Wright Patterson Air Force Base, the Doug Wright Proving Ground, or even Groom Lake in Nevada"
+  },
+  {
+   "s": "groomlake",
+   "p": "located_in",
+   "o": "nevada",
+   "quote": "or even Groom Lake in Nevada"
+  },
+  {
+   "s": "denmark",
+   "p": "related_place",
+   "o": "case",
+   "quote": "I met a fellow who came in here all the way from Denmark to be here for this meeting."
+  },
+  {
+   "s": "carter",
+   "p": "mentioned_by",
+   "o": "luna",
+   "quote": "ingrained in even the minds of our Nation's leaders from Jimmy Carter to Barack Obama, Hillary Clinton to Donald Trump, Marco Rubio to Chuck Schumer, John Ratcliffe to National Security Council officials"
+  },
+  {
+   "s": "obama",
+   "p": "mentioned_by",
+   "o": "luna",
+   "quote": "ingrained in even the minds of our Nation's leaders from Jimmy Carter to Barack Obama, Hillary Clinton to Donald Trump, Marco Rubio to Chuck Schumer, John Ratcliffe to National Security Council officials"
+  },
+  {
+   "s": "clinton",
+   "p": "mentioned_by",
+   "o": "luna",
+   "quote": "ingrained in even the minds of our Nation's leaders from Jimmy Carter to Barack Obama, Hillary Clinton to Donald Trump, Marco Rubio to Chuck Schumer, John Ratcliffe to National Security Council officials"
+  },
+  {
+   "s": "trump",
+   "p": "mentioned_by",
+   "o": "luna",
+   "quote": "ingrained in even the minds of our Nation's leaders from Jimmy Carter to Barack Obama, Hillary Clinton to Donald Trump, Marco Rubio to Chuck Schumer, John Ratcliffe to National Security Council officials"
+  },
+  {
+   "s": "rubio",
+   "p": "mentioned_by",
+   "o": "luna",
+   "quote": "ingrained in even the minds of our Nation's leaders from Jimmy Carter to Barack Obama, Hillary Clinton to Donald Trump, Marco Rubio to Chuck Schumer, John Ratcliffe to National Security Council officials"
+  },
+  {
+   "s": "schumer",
+   "p": "mentioned_by",
+   "o": "luna",
+   "quote": "ingrained in even the minds of our Nation's leaders from Jimmy Carter to Barack Obama, Hillary Clinton to Donald Trump, Marco Rubio to Chuck Schumer, John Ratcliffe to National Security Council officials"
+  },
+  {
+   "s": "ratcliffe",
+   "p": "mentioned_by",
+   "o": "luna",
+   "quote": "ingrained in even the minds of our Nation's leaders from Jimmy Carter to Barack Obama, Hillary Clinton to Donald Trump, Marco Rubio to Chuck Schumer, John Ratcliffe to National Security Council officials"
+  },
+  {
+   "s": "nsc",
+   "p": "mentioned_by",
+   "o": "luna",
+   "quote": "ingrained in even the minds of our Nation's leaders from Jimmy Carter to Barack Obama, Hillary Clinton to Donald Trump, Marco Rubio to Chuck Schumer, John Ratcliffe to National Security Council officials"
+  },
+  {
+   "s": "schumer",
+   "p": "title",
+   "v": "Majority Leader",
+   "quote": "That is a direct quote from Majority Leader Chuck Schumer"
+  },
+  {
+   "s": "schumer",
+   "p": "statement",
+   "v": "the American public has a right to learn about technologies of unknown origins, nonhuman intelligence, and unexplainable phenomena",
+   "quote": "That is a direct quote from Majority Leader Chuck Schumer, that the American public has a right to learn about technologies of unknown origins, nonhuman intelligence, and unexplainable phenomena."
+  },
+  {
+   "s": "schumer",
+   "p": "mentioned_by",
+   "o": "moskowitz",
+   "quote": "That is a direct quote from Majority Leader Chuck Schumer, that the American public has a right to learn about technologies of unknown origins, nonhuman intelligence, and unexplainable phenomena."
+  },
+  {
+   "s": "schumer",
+   "p": "commentator",
+   "o": "case",
+   "quote": "That is a direct quote from Majority Leader Chuck Schumer, that the American public has a right to learn about technologies of unknown origins, nonhuman intelligence, and unexplainable phenomena."
+  },
+  {
+   "s": "ratcliffe",
+   "p": "occupation",
+   "v": "recent former Director of National Intelligence",
+   "quote": "recent former Director of National Intelligence John Ratcliffe"
+  },
+  {
+   "s": "ratcliffe",
+   "p": "statement",
+   "v": "There are a lot more sightings that have not been made public",
+   "quote": "I quote, ``There are a lot more sightings that have not been made public,'' Ratcliffe said to Fox News."
+  },
+  {
+   "s": "ratcliffe",
+   "p": "statement",
+   "v": "confirmed the U.S. Government is aware of a lot more UAP sightings that have not been made public",
+   "quote": "In an interview with Fox News, recent former Director of National Intelligence John Ratcliffe confirmed the U.S. Government is aware a lot more sightings of UAPs and that they have not made that information public."
+  },
+  {
+   "s": "foxnews",
+   "p": "interviewed",
+   "o": "ratcliffe",
+   "quote": "In an interview with Fox News, recent former Director of National Intelligence John Ratcliffe confirmed the U.S. Government is aware a lot more sightings of UAPs and that they have not made that information public."
+  },
+  {
+   "s": "ratcliffe",
+   "p": "mentioned_by",
+   "o": "moskowitz",
+   "quote": "In an interview with Fox News, recent former Director of National Intelligence John Ratcliffe confirmed the U.S. Government is aware a lot more sightings of UAPs and that they have not made that information public."
+  },
+  {
+   "s": "ratcliffe",
+   "p": "commentator",
+   "o": "case",
+   "quote": "In an interview with Fox News, recent former Director of National Intelligence John Ratcliffe confirmed the U.S. Government is aware a lot more sightings of UAPs and that they have not made that information public."
+  },
+  {
+   "s": "foxnews",
+   "p": "mentioned_by",
+   "o": "moskowitz",
+   "quote": "In an interview with Fox News, recent former Director of National Intelligence John Ratcliffe confirmed the U.S. Government is aware a lot more sightings of UAPs and that they have not made that information public."
+  },
+  {
+   "s": "grothman",
+   "p": "statement",
+   "v": "read the 1966 book 'Flying Saucers Serious Business' when younger and thought it the most important issue out there",
+   "quote": "I read a book--a 1966 book called ``Flying Saucers Serious Business'' and for a while when I was a little bit younger, I thought it was the most important issue out there."
+  },
+  {
+   "s": "grothman",
+   "p": "statement",
+   "v": "lack of transparency regarding UAPs has fueled wild speculation and debate for decades, eroding public trust",
+   "quote": "The lack of transparency regarding UAPs has fueled wild speculation and debate for decades, eroding public trust in the very institutions that are meant to serve and protect them"
+  },
+  {
+   "s": "grothman",
+   "p": "statement",
+   "v": "in 1966 Gerald Ford and in 1969 in Georgia Jimmy Carter claimed to have seen a UFO",
+   "quote": "I also want to point out in 1966, President Gerald Ford claimed to have seen a UFO, and in 1969 in Georgia, Jimmy Carter claimed to have seen a UFO."
+  },
+  {
+   "s": "grothman",
+   "p": "statement",
+   "v": "AARO's budget remains classified, prohibiting meaningful oversight from Congress",
+   "quote": "However, AARO's budget remains classified, prohibiting meaningful oversight from Congress."
+  },
+  {
+   "s": "grothman",
+   "p": "statement",
+   "v": "demand for government transparency and accountability has been a problem for 50 years",
+   "quote": "there lies a pressing demand for government transparency and accountability that cannot be overlooked and that has been a problem that has been around for 50 years"
+  },
+  {
+   "s": "grothman",
+   "p": "statement",
+   "v": "the Biden Administration's handling of the Chinese spy balloon shows the government is not prepared",
+   "quote": "The Biden Administration's handling of the Chinese spy balloon that violated U.S. air space is one example how the government is not prepared for these."
+  },
+  {
+   "s": "grothman",
+   "p": "statement",
+   "v": "the U.S. Government spent $1.5 million on missiles for the Chinese balloon and two UAPs shot down afterwards",
+   "quote": "Between the Chinese balloon being shot down and two UAPs subsequently shot down following the event earlier this year the U.S. Government spent $1.5 million in taxpayer dollars on missiles."
+  },
+  {
+   "s": "grothman",
+   "p": "statement",
+   "v": "we must demand transparency from the Department of Defense, the intelligence community and the defense industry on UAP work",
+   "quote": "We must demand transparency from the Department of Defense, our intelligence community, and our defense industry on the UAP work."
+  },
+  {
+   "s": "grothman",
+   "p": "statement",
+   "v": "Luna and Burchett brought the topic to his attention",
+   "quote": "I would like to thank you and Mr. Burchett for bringing this topic to my attention."
+  },
+  {
+   "s": "burchett",
+   "p": "statement",
+   "v": "this is a nonpartisan issue; the cover up goes a lot deeper than party politics",
+   "quote": "This has nothing to do with party politics. I think the cover up goes a lot deeper than that."
+  },
+  {
+   "s": "burchett",
+   "p": "statement",
+   "v": "without Matt Gaetz, he, Gaetz and Luna would still be at Eglin Air Force Base trying to get some answers",
+   "quote": "if it had not been for Matt Gaetz, myself, him, and Luna would still be down at Eglin Air Force Base trying to get some answers"
+  },
+  {
+   "s": "burchett",
+   "p": "statement",
+   "v": "the military's position that UFOs pose no threat and are not worthy of further study is the biggest understatement of the decade",
+   "quote": "I would say that is the biggest understatement of the decade."
+  },
+  {
+   "s": "burchett",
+   "p": "statement",
+   "v": "met a man who came from Denmark for the hearing",
+   "quote": "I met a fellow who came in here all the way from Denmark to be here for this meeting."
+  },
+  {
+   "s": "burchett",
+   "p": "statement",
+   "v": "some Members of Congress have confided that they have had UFO sightings of their own",
+   "quote": "Some have even confided in me that they have had UFO sightings of their own."
+  },
+  {
+   "s": "burchett",
+   "p": "statement",
+   "v": "the witnesses have nothing to gain and have endured quite a few slings and arrows",
+   "quote": "These folks, they have got nothing to gain from this and I think you are going to find out that they have endured quite a few slings and arrows."
+  },
+  {
+   "s": "burchett",
+   "p": "statement",
+   "v": "has run into roadblocks from Members, the intelligence community and the Pentagon",
+   "quote": "We have run into roadblocks from Members, from the intelligence community, the Pentagon."
+  },
+  {
+   "s": "burchett",
+   "p": "statement",
+   "v": "proposed FAA reauthorization legislation so airline pilot sighting reports to the FAA would come to Congress",
+   "quote": "I proposed legislation to go in the FAA reauthorization that just said if an airline pilot has a sighting that when he makes that report to the FAA that it would come to Congress."
+  },
+  {
+   "s": "burchett",
+   "p": "statement",
+   "v": "was told the intelligence community did not like the amendment, which was not even heard in committee",
+   "quote": "But I was told that the intelligence community did not like that, and the bill was--the amendment was not even heard in committee."
+  },
+  {
+   "s": "burchett",
+   "p": "statement",
+   "v": "we are not bringing little green men or flying saucers into the hearing",
+   "quote": "We are not bringing little green men or flying saucers into the hearing."
+  },
+  {
+   "s": "burchett",
+   "p": "statement",
+   "v": "we are going to uncover the cover up",
+   "quote": "We are going to uncover the cover up and I hope this is just the beginning of many more hearings and more people coming forward about this."
+  },
+  {
+   "s": "burchett",
+   "p": "role",
+   "v": "his leadership credited with bringing about the hearing",
+   "quote": "Burchett. I know that your leadership has brought us to this place today"
+  },
+  {
+   "s": "burchett",
+   "p": "role",
+   "v": "thanked with Luna for leadership in pushing the hearing forward",
+   "quote": "I want to thank Tim Burchett and Anna Paulina Luna for their leadership in pushing this hearing forward."
+  },
+  {
+   "s": "luna",
+   "p": "role",
+   "v": "thanked with Burchett for leadership in pushing the hearing forward",
+   "quote": "I want to thank Tim Burchett and Anna Paulina Luna for their leadership in pushing this hearing forward."
+  },
+  {
+   "s": "luna",
+   "p": "statement",
+   "v": "UAPs have captivated Americans for decades and are ingrained in the minds of national leaders from Jimmy Carter to Barack Obama, Hillary Clinton to Donald Trump, Marco Rubio to Chuck Schumer, John Ratcliffe to National Security Council officials",
+   "quote": "ingrained in even the minds of our Nation's leaders from Jimmy Carter to Barack Obama, Hillary Clinton to Donald Trump, Marco Rubio to Chuck Schumer, John Ratcliffe to National Security Council officials"
+  },
+  {
+   "s": "luna",
+   "p": "statement",
+   "v": "sightings from Roswell, New Mexico to the coast of Jacksonville, Florida have rarely been explained",
+   "quote": "Yet, from Roswell, New Mexico to the coast of Jacksonville, Florida, the sightings of UAPs have rarely been explained by the people who have firsthand accounts of these situations."
+  },
+  {
+   "s": "luna",
+   "p": "statement",
+   "v": "lack of transparency by the government and over-classified documents continue to be hidden from the American people",
+   "quote": "release explanations and footage and mountains of over-classified documents that continue to be hidden from the American people"
+  },
+  {
+   "s": "luna",
+   "p": "statement",
+   "v": "one poll found 68 percent of Americans believe the government is hiding information about UAPs; she believes the same from personal experience",
+   "quote": "One poll, in particular, found that 68 percent of Americans believe that the government is hiding information about UAPs and not being honest about what we know about them and from my personal experience I believe the same thing."
+  },
+  {
+   "s": "luna",
+   "p": "statement",
+   "v": "another poll found nearly half of Americans believe the Federal Government is doing a bad job of dealing with UFO sighting reports",
+   "quote": "Another poll found that nearly half of Americans believe that the Federal Government is doing a very bad or somewhat bad job of dealing with reports of UFO sightings."
+  },
+  {
+   "s": "luna",
+   "p": "statement",
+   "v": "thousands of testimonies, phone videos and eyewitness accounts come from credible witnesses such as doctors, pilots, scientists and active-duty service members",
+   "quote": "eyewitnesses' accounts made by credible witnesses such as doctors, pilots, scientists, and active-duty service members"
+  },
+  {
+   "s": "luna",
+   "p": "statement",
+   "v": "as an active-duty service member working on an airfield she spoke with many pilots who feared retribution or being taken off flight status for coming forward",
+   "quote": "In being an active-duty service member working on an airfield, I have had conversations with many pilots where they were in fear of coming forward for retribution and/or being taken off flight status."
+  },
+  {
+   "s": "luna",
+   "p": "statement",
+   "v": "over 20 percent of Americans have reported seeing UFOs or UAPs",
+   "quote": "over 20 percent of Americans who have reported to have seen UFOs or UAPs"
+  },
+  {
+   "s": "luna",
+   "p": "statement",
+   "v": "this is the first hearing of its kind, hearing from people with personal sightings rather than Pentagon bureaucrats",
+   "quote": "Today is the first hearing of its kind where we will attempt to get down to the bottom of what is actually happening with UAPs."
+  },
+  {
+   "s": "luna",
+   "p": "statement",
+   "v": "members were denied a classified SCIF briefing before the hearing because of the hoops needed to grant Grusch temporary clearance",
+   "quote": "we were even denied access to a classified briefing in a SCIF prior to this hearing due to the amount of hoops that we had to jump through to grant temporary clearance to witness Grusch, who has knowledge of classified information"
+  },
+  {
+   "s": "luna",
+   "p": "background",
+   "v": "was an active-duty service member working on an airfield",
+   "quote": "In being an active-duty service member working on an airfield"
+  },
+  {
+   "s": "garcia",
+   "p": "statement",
+   "v": "witnesses will testify that UAPs have posed a serious safety threat",
+   "quote": "Now, our witnesses will testify today that UAPs have posed a serious safety threat and we must understand this."
+  },
+  {
+   "s": "garcia",
+   "p": "statement",
+   "v": "a 2017 New York Times report revealed UAP research by the Defense Intelligence Agency",
+   "quote": "some of the earliest reporting on this issue was a groundbreaking 2017 New York Times report which revealed research as we know now on unidentified anomalous phenomena or as many call UFOs by the Defense Intelligence Agency"
+  },
+  {
+   "s": "garcia",
+   "p": "statement",
+   "v": "pilots have reported encounters for years; stigma around reporting means there is no complete picture, particularly on the civilian side",
+   "quote": "Now, pilots have reported encounters for years and because of the stigma around reporting these incidents we still do not have a complete picture of actually what is going on"
+  },
+  {
+   "s": "garcia",
+   "p": "statement",
+   "v": "there are incidents when multiple types of sensors detect things that cannot be explained",
+   "quote": "Now, we have incidents when sensors, sometimes even multiple types of sensors, detect things that we cannot explain."
+  },
+  {
+   "s": "garcia",
+   "p": "statement",
+   "v": "UAPs may pose a serious threat to military or civilian aircraft",
+   "quote": "UAPs, whatever they may be, may pose a serious threat to our military or civilian aircraft and that must be understood."
+  },
+  {
+   "s": "garcia",
+   "p": "statement",
+   "v": "AARO Director Sean Kirkpatrick testified before the Senate that his unit found no evidence of extraterrestrial activity",
+   "quote": "Mr. Sean Kirkpatrick, Director of the All-Domain Anomaly Resolution Office, the component of the DoD office that investigates UAP data, has testified before the Senate this year that his unit has found no evidence of extraterrestrial activity."
+  },
+  {
+   "s": "garcia",
+   "p": "statement",
+   "v": "NASA has stated it does not have evidence of extraterrestrial life",
+   "quote": "NASA has also stated they do not have evidence of extraterrestrial life either"
+  },
+  {
+   "s": "garcia",
+   "p": "statement",
+   "v": "whistleblowers have reported harassment, intimidation, or stigma",
+   "quote": "We know that whistleblowers have reported harassment, intimidation, or stigma as well and this is not acceptable."
+  },
+  {
+   "s": "garcia",
+   "p": "statement",
+   "v": "the Senate is taking up a defense authorization amendment creating a commission with broad declassification authority",
+   "quote": "We know the Senate is taking up an amendment to their defense authorization bill which will create a commission with broad declassification authority"
+  },
+  {
+   "s": "garcia",
+   "p": "statement",
+   "v": "we should encourage more reporting, not less, on UAPs",
+   "quote": "We should encourage more reporting, not less, on UAPs. The more that we understand, the safer we will be."
+  },
+  {
+   "s": "garcia",
+   "p": "statement",
+   "v": "Graves shared his experiences with him candidly before the hearing",
+   "quote": "To Mr. Graves, I am particularly grateful to you to spend some time that we had for you to share with candor some of your experiences."
+  },
+  {
+   "s": "garcia",
+   "p": "occupation",
+   "v": "longtime career educator, teacher and researcher",
+   "quote": "my career and training as a longtime and career educator and teacher and researcher"
+  },
+  {
+   "s": "moskowitz",
+   "p": "statement",
+   "v": "it should not take the potential of nonhuman origin to bring us together",
+   "quote": "it should not take the potential of nonhuman origin to bring us together"
+  },
+  {
+   "s": "moskowitz",
+   "p": "statement",
+   "v": "quoted Chuck Schumer that the public has a right to learn about technologies of unknown origins, nonhuman intelligence and unexplainable phenomena",
+   "quote": "That is a direct quote from Majority Leader Chuck Schumer, that the American public has a right to learn about technologies of unknown origins, nonhuman intelligence, and unexplainable phenomena."
+  },
+  {
+   "s": "moskowitz",
+   "p": "statement",
+   "v": "John Ratcliffe confirmed the government is aware of many more UAP sightings that have not been made public",
+   "quote": "In an interview with Fox News, recent former Director of National Intelligence John Ratcliffe confirmed the U.S. Government is aware a lot more sightings of UAPs and that they have not made that information public."
+  },
+  {
+   "s": "moskowitz",
+   "p": "statement",
+   "v": "when a Russian jet shoots flares at a US drone there are perfect pictures and videos, but for UAPs nothing",
+   "quote": "how come when a Russian jet shoots flares at one of our drones--we have perfect pictures and videos to show the American people and the world--but when it comes to UAPs nothing"
+  },
+  {
+   "s": "moskowitz",
+   "p": "statement",
+   "v": "national security secrecy is legitimate, as when stealth helicopters only rumored to exist were used in the Osama bin Laden raid in 2011",
+   "quote": "like when stealth helicopters were only rumored to exist but were used in the Osama bin Laden raid in 2011"
+  },
+  {
+   "s": "moskowitz",
+   "p": "statement",
+   "v": "the American people deserve to hear more about special access programs",
+   "quote": "The American people deserve to hear more about special access programs."
+  },
+  {
+   "s": "moskowitz",
+   "p": "statement",
+   "v": "Congress has a right to know of any unsanctioned weapons development or satellite imagery not provided to Congress",
+   "quote": "Congress has a right to know if there is any unsanctioned weapons development satellite imagery that has not been provided to Congress."
+  },
+  {
+   "s": "moskowitz",
+   "p": "statement",
+   "v": "AARO's initial analysis lists 171 uncharacterized UAP reports with unusual flight characteristics; he believes more is known about them",
+   "quote": "I believe more information is known about the 171 instances."
+  },
+  {
+   "s": "moskowitz",
+   "p": "statement",
+   "v": "if there is nothing to conceal, let Congress go to Wright Patterson Air Force Base, the Doug Wright Proving Ground, or Groom Lake",
+   "quote": "if there is nothing to conceal let Congress go to Wright Patterson Air Force Base, the Doug Wright Proving Ground, or even Groom Lake in Nevada"
+  },
+  {
+   "s": "moskowitz",
+   "p": "statement",
+   "v": "calls on military leaders and intelligence officials to release more information about UAPs",
+   "quote": "I call on our military leaders and intelligence officials to release more information to the American people about UAPs."
+  }
+ ]
+}

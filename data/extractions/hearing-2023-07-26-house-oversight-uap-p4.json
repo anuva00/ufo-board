@@ -1,0 +1,466 @@
+{
+ "slug": "hearing-2023-07-26-house-oversight-uap-p4",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "House Oversight hearing: Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency",
+   "description": "Closing portion of the 26 July 2023 House Oversight subcommittee hearing on UAP: closing remarks by an unnamed freshman Member and by Chairman Grothman, then adjournment."
+  },
+  {
+   "key": "grothman",
+   "type": "person",
+   "name": "Grothman",
+   "description": "Subcommittee Chairman who ran the hearing and adjourned it",
+   "aliases": [
+    "Mr. Grothman"
+   ]
+  },
+  {
+   "key": "raskin",
+   "type": "person",
+   "name": "Raskin",
+   "description": "Full Ranking Member of the Committee, present at the hearing",
+   "aliases": [
+    "Mr. Raskin"
+   ]
+  },
+  {
+   "key": "aoc",
+   "type": "person",
+   "name": "Ocasio-Cortez",
+   "description": "Vice Ranking Member of the Committee, present at the hearing",
+   "aliases": [
+    "Ms. Ocasio-Cortez"
+   ]
+  },
+  {
+   "key": "burchett",
+   "type": "person",
+   "name": "Burchett",
+   "description": "Member thanked for bringing the UAP topic to the Subcommittee's attention",
+   "aliases": [
+    "Mr. Burchett"
+   ]
+  },
+  {
+   "key": "luna",
+   "type": "person",
+   "name": "Luna",
+   "description": "Member thanked for bringing the UAP topic to the Subcommittee's attention",
+   "aliases": [
+    "Ms. Luna"
+   ]
+  },
+  {
+   "key": "rachel",
+   "type": "person",
+   "name": "Rachel",
+   "description": "Staffer in Mr. Burchett's office credited with much of the work on the hearing"
+  },
+  {
+   "key": "noah",
+   "type": "person",
+   "name": "Noah",
+   "description": "Staffer in Mr. Burchett's office credited with much of the work on the hearing"
+  },
+  {
+   "key": "committee",
+   "type": "organization",
+   "name": "United States House Committee on Oversight and Accountability",
+   "description": "The House committee whose subcommittee held the hearing",
+   "aliases": [
+    "this Committee",
+    "the Committee",
+    "House Oversight Committee"
+   ]
+  },
+  {
+   "key": "congress",
+   "type": "organization",
+   "name": "United States Congress",
+   "description": "The US legislature",
+   "aliases": [
+    "the Congress",
+    "Congress"
+   ]
+  },
+  {
+   "key": "gop",
+   "type": "organization",
+   "name": "Republican Party",
+   "description": "Party of the 'Republican counterparts' on the Committee",
+   "aliases": [
+    "Republican"
+   ]
+  }
+ ],
+ "claims": [
+  {
+   "s": "grothman",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "I want to thank our Subcommittee\nChairman, Mr. Grothman, I think for running a very fair and\nsubstantive hearing."
+  },
+  {
+   "s": "grothman",
+   "p": "position",
+   "v": "Subcommittee Chairman",
+   "quote": "I want to thank our Subcommittee\nChairman, Mr. Grothman, I think for running a very fair and\nsubstantive hearing."
+  },
+  {
+   "s": "grothman",
+   "p": "member_of",
+   "o": "committee",
+   "quote": "I want to thank our Subcommittee\nChairman, Mr. Grothman, I think for running a very fair and\nsubstantive hearing."
+  },
+  {
+   "s": "grothman",
+   "p": "statement",
+   "v": "The topic has interested him since he was in school; it was a very illuminating hearing",
+   "quote": "It is a topic that has interested me since I was in\nschool. It was a very illuminating hearing."
+  },
+  {
+   "s": "grothman",
+   "p": "statement",
+   "v": "Several members look forward to getting answers in a more confidential setting",
+   "quote": "Obviously, I think several of us are going to look forward\nto getting some answers in a more confidential setting."
+  },
+  {
+   "s": "grothman",
+   "p": "statement",
+   "v": "Assumes some legislation will come out of the hearing",
+   "quote": "I\nassume some legislation will come out of this."
+  },
+  {
+   "s": "grothman",
+   "p": "statement",
+   "v": "Wants to look into what can be done to make more of this information public",
+   "quote": "I think we are going to want to\nlook into what we can do to make more of this information\npublic."
+  },
+  {
+   "s": "grothman",
+   "p": "statement",
+   "v": "There is a time period after which the information should always be made public; people have been concerned about these issues since he was in high school",
+   "quote": "I think there is certainly a time period after which it\nshould always be made public and people have been concerned\nabout these issues, like I said, since I was in high school."
+  },
+  {
+   "s": "grothman",
+   "p": "statement",
+   "v": "Thanked Mr. Burchett and Ms. Luna for bringing the topic to the Subcommittee's attention",
+   "quote": "I would like to one more time\nthank Mr. Burchett and Ms. Luna for bringing this to our\nattention."
+  },
+  {
+   "s": "grothman",
+   "p": "action",
+   "v": "Adjourned the Subcommittee",
+   "quote": "If there is no further business, without objection, the\nSubcommittee stands adjourned."
+  },
+  {
+   "s": "raskin",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "we had on our side also both our full\nRanking Member, which is Mr. Raskin, and our Vice Ranking\nMember, which is Ms. Ocasio-Cortez, both here at our hearing."
+  },
+  {
+   "s": "raskin",
+   "p": "position",
+   "v": "full Ranking Member",
+   "quote": "we had on our side also both our full\nRanking Member, which is Mr. Raskin, and our Vice Ranking\nMember, which is Ms. Ocasio-Cortez, both here at our hearing."
+  },
+  {
+   "s": "raskin",
+   "p": "member_of",
+   "o": "committee",
+   "quote": "we had on our side also both our full\nRanking Member, which is Mr. Raskin, and our Vice Ranking\nMember, which is Ms. Ocasio-Cortez, both here at our hearing."
+  },
+  {
+   "s": "aoc",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "we had on our side also both our full\nRanking Member, which is Mr. Raskin, and our Vice Ranking\nMember, which is Ms. Ocasio-Cortez, both here at our hearing."
+  },
+  {
+   "s": "aoc",
+   "p": "position",
+   "v": "Vice Ranking Member",
+   "quote": "we had on our side also both our full\nRanking Member, which is Mr. Raskin, and our Vice Ranking\nMember, which is Ms. Ocasio-Cortez, both here at our hearing."
+  },
+  {
+   "s": "aoc",
+   "p": "member_of",
+   "o": "committee",
+   "quote": "we had on our side also both our full\nRanking Member, which is Mr. Raskin, and our Vice Ranking\nMember, which is Ms. Ocasio-Cortez, both here at our hearing."
+  },
+  {
+   "s": "raskin",
+   "p": "colleague_of",
+   "o": "aoc",
+   "quote": "we had on our side also both our full\nRanking Member, which is Mr. Raskin, and our Vice Ranking\nMember, which is Ms. Ocasio-Cortez, both here at our hearing."
+  },
+  {
+   "s": "burchett",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "I would like to one more time\nthank Mr. Burchett and Ms. Luna for bringing this to our\nattention."
+  },
+  {
+   "s": "burchett",
+   "p": "role",
+   "v": "Brought the topic to the Subcommittee's attention",
+   "quote": "I would like to one more time\nthank Mr. Burchett and Ms. Luna for bringing this to our\nattention."
+  },
+  {
+   "s": "luna",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "I would like to one more time\nthank Mr. Burchett and Ms. Luna for bringing this to our\nattention."
+  },
+  {
+   "s": "luna",
+   "p": "role",
+   "v": "Brought the topic to the Subcommittee's attention",
+   "quote": "I would like to one more time\nthank Mr. Burchett and Ms. Luna for bringing this to our\nattention."
+  },
+  {
+   "s": "burchett",
+   "p": "colleague_of",
+   "o": "luna",
+   "quote": "I would like to one more time\nthank Mr. Burchett and Ms. Luna for bringing this to our\nattention."
+  },
+  {
+   "s": "burchett",
+   "p": "statement",
+   "v": "Complimented the staff in his office who did a lot of the work on the hearing",
+   "quote": "I need to\ncompliment the folks in my office that did a lot of the work on\nthis."
+  },
+  {
+   "s": "burchett",
+   "p": "statement",
+   "v": "Without Rachel and Noah the hearing would not have come off like it did",
+   "quote": "But without them this thing would not have\ncome off like it did."
+  },
+  {
+   "s": "rachel",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "compliment the folks in my office that did a lot of the work on\nthis. Rachel and Noah sitting behind me here, they are very\nquiet and humble."
+  },
+  {
+   "s": "rachel",
+   "p": "employed_by",
+   "o": "burchett",
+   "quote": "compliment the folks in my office that did a lot of the work on\nthis. Rachel and Noah sitting behind me here, they are very\nquiet and humble."
+  },
+  {
+   "s": "rachel",
+   "p": "occupation",
+   "v": "Staff in Mr. Burchett's office",
+   "quote": "compliment the folks in my office that did a lot of the work on\nthis. Rachel and Noah sitting behind me here, they are very\nquiet and humble."
+  },
+  {
+   "s": "rachel",
+   "p": "role",
+   "v": "Did a lot of the work on the hearing",
+   "quote": "compliment the folks in my office that did a lot of the work on\nthis. Rachel and Noah sitting behind me here, they are very\nquiet and humble."
+  },
+  {
+   "s": "rachel",
+   "p": "seated",
+   "v": "Sitting behind Mr. Burchett at the hearing",
+   "quote": "compliment the folks in my office that did a lot of the work on\nthis. Rachel and Noah sitting behind me here, they are very\nquiet and humble."
+  },
+  {
+   "s": "rachel",
+   "p": "described_as",
+   "v": "Very quiet and humble",
+   "quote": "Rachel and Noah sitting behind me here, they are very\nquiet and humble."
+  },
+  {
+   "s": "noah",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "compliment the folks in my office that did a lot of the work on\nthis. Rachel and Noah sitting behind me here, they are very\nquiet and humble."
+  },
+  {
+   "s": "noah",
+   "p": "employed_by",
+   "o": "burchett",
+   "quote": "compliment the folks in my office that did a lot of the work on\nthis. Rachel and Noah sitting behind me here, they are very\nquiet and humble."
+  },
+  {
+   "s": "noah",
+   "p": "occupation",
+   "v": "Staff in Mr. Burchett's office",
+   "quote": "compliment the folks in my office that did a lot of the work on\nthis. Rachel and Noah sitting behind me here, they are very\nquiet and humble."
+  },
+  {
+   "s": "noah",
+   "p": "role",
+   "v": "Did a lot of the work on the hearing",
+   "quote": "compliment the folks in my office that did a lot of the work on\nthis. Rachel and Noah sitting behind me here, they are very\nquiet and humble."
+  },
+  {
+   "s": "noah",
+   "p": "seated",
+   "v": "Sitting behind Mr. Burchett at the hearing",
+   "quote": "compliment the folks in my office that did a lot of the work on\nthis. Rachel and Noah sitting behind me here, they are very\nquiet and humble."
+  },
+  {
+   "s": "noah",
+   "p": "described_as",
+   "v": "Very quiet and humble",
+   "quote": "Rachel and Noah sitting behind me here, they are very\nquiet and humble."
+  },
+  {
+   "s": "rachel",
+   "p": "colleague_of",
+   "o": "noah",
+   "quote": "compliment the folks in my office that did a lot of the work on\nthis. Rachel and Noah sitting behind me here, they are very\nquiet and humble."
+  },
+  {
+   "s": "committee",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "You are telling really important information to this\nCommittee"
+  },
+  {
+   "s": "committee",
+   "p": "staff_credit",
+   "v": "Committee staff on both sides thanked for the work of putting the hearing in place",
+   "quote": "I do want to thank the Committee staff on\nboth sides for the amount of work that it took to put this\nhearing in place"
+  },
+  {
+   "s": "committee",
+   "p": "purpose_of_questions",
+   "v": "Questions already asked elsewhere are asked again so they are put into the public record of the Committee",
+   "quote": "It is\nimportant that they are asked and put into the public record as\nit relates to this Committee."
+  },
+  {
+   "s": "congress",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "But this is by far the most bipartisan\nconversation and discussion that I have seen happen in the\nCongress"
+  },
+  {
+   "s": "committee",
+   "p": "part_of",
+   "o": "congress",
+   "quote": "But this is by far the most bipartisan\nconversation and discussion that I have seen happen in the\nCongress"
+  },
+  {
+   "s": "gop",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the broader issue as it relates to working with our Republican\ncounterparts on this Committee."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "that we are trying to gather for the American public"
+  },
+  {
+   "s": "case",
+   "p": "witness_count",
+   "v": "3",
+   "quote": "I just want to thank you also for your--all\nthree of you, your service to our country."
+  },
+  {
+   "s": "case",
+   "p": "adjourned_at",
+   "v": "12:22 p.m.",
+   "quote": "[Whereupon, at 12:22 p.m., the Subcommittee was adjourned.]"
+  },
+  {
+   "s": "case",
+   "p": "topic",
+   "v": "UAPs",
+   "quote": "what has happened around UAPs in the broader community"
+  },
+  {
+   "s": "case",
+   "p": "follow_up_period",
+   "v": "Members have five legislative days to submit materials and additional written questions for the witnesses",
+   "quote": "Without objection, the Members will have five legislative\ndays to submit materials and to submit additional written\nquestions for the witnesses, which will be forwarded to the\nwitnesses for their response."
+  },
+  {
+   "s": "case",
+   "p": "closing_remark",
+   "v": "An unnamed closing speaker thanked the three witnesses for their courage and their service to the country",
+   "quote": "courage. You are telling really important information to this\nCommittee, and I just want to thank you also for your--all\nthree of you, your service to our country."
+  },
+  {
+   "s": "case",
+   "p": "closing_remark",
+   "v": "The closing speaker is a freshman Member of Congress who had been there only 7 months",
+   "quote": "I am a freshman Member of Congress and I have only been\nhere for 7 months."
+  },
+  {
+   "s": "case",
+   "p": "closing_remark",
+   "v": "The hearing was by far the most bipartisan conversation the speaker had seen in Congress",
+   "quote": "But this is by far the most bipartisan\nconversation and discussion that I have seen happen in the\nCongress"
+  },
+  {
+   "s": "case",
+   "p": "closing_remark",
+   "v": "The topic is significant for national security and for information being gathered for the American public",
+   "quote": "a topic of this significance as it\nrelates to our national security, as it relates to information\nthat we are trying to gather for the American public does bring\npeople together"
+  },
+  {
+   "s": "case",
+   "p": "closing_remark",
+   "v": "The hearing was both important and serious",
+   "quote": "today's hearing was both\nimportant but also serious"
+  },
+  {
+   "s": "case",
+   "p": "closing_remark",
+   "v": "The speaker's side of the aisle takes the hearing and the broader issue seriously",
+   "quote": "I think it shows the importance and seriousness that our\nside of the aisle is taking to this important hearing"
+  },
+  {
+   "s": "case",
+   "p": "closing_remark",
+   "v": "Discussions and hearings should continue; there is a lot of information that is not known",
+   "quote": "think it is really important that we have and continue these\ndiscussions and these hearings. Clearly, there is a lot of\ninformation that we do not know."
+  },
+  {
+   "s": "case",
+   "p": "closing_remark",
+   "v": "The investigation and accountability must continue, with the right questions made part of the public record",
+   "quote": "But it is also very clear that we have to continue our\ninvestigation and accountability on asking the right questions\nand ensuring that they are part of the public record."
+  },
+  {
+   "s": "case",
+   "p": "closing_remark",
+   "v": "Witnesses answered some questions multiple times, in meetings with Members and in public",
+   "quote": "And so I want to thank you for, you know, answering some\nquestions multiple times. I know not just in maybe meetings you\nhad with some Members but also here in the public."
+  },
+  {
+   "s": "case",
+   "p": "closing_remark",
+   "v": "The media has an important role and should engage, investigate independently and report on what has happened around UAPs",
+   "quote": "the media engages, does independent investigation, and reports\non not just what happened today but what they see independently\nas what has happened around UAPs in the broader community."
+  },
+  {
+   "s": "case",
+   "p": "closing_remark",
+   "v": "The closing speaker is a teacher, educator and researcher who believes in following facts and science",
+   "quote": "as a teacher and an\neducator and a longtime teacher and researcher that I also\nreally believe in following facts and doing your homework and\nmaking sure that you follow science"
+  },
+  {
+   "s": "case",
+   "p": "closing_remark",
+   "v": "Transparency is a cornerstone of government; we live in a vast galaxy with a lot of unanswered questions",
+   "quote": "Transparency is a cornerstone of government. We live in a vast\ngalaxy. A lot of unanswered questions"
+  },
+  {
+   "s": "case",
+   "p": "outcome",
+   "v": "Chairman expects answers in a more confidential setting and assumes legislation will follow",
+   "quote": "Obviously, I think several of us are going to look forward\nto getting some answers in a more confidential setting. I\nassume some legislation will come out of this."
+  }
+ ]
+}

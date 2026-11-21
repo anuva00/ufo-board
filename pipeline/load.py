@@ -105,8 +105,9 @@ def main():
         if errors:
             bad += 1
             print(f"SKIPPED {f.name}: {len(errors)} errors (run --check)"); continue
-        sid = db.execute("INSERT INTO source (slug,title,url,revision_id,fetched_at,license,lat,lon,text) VALUES (?,?,?,?,?,?,?,?,?)",
-                         [doc[k] for k in ("slug", "title", "url", "revision_id", "fetched_at", "license", "lat", "lon", "text")]).lastrowid
+        row = {"kind": "encyclopedia", "publisher": "Wikipedia", "date": None, "case_slug": doc["slug"], "case_name": None, "case_kind": "case", **doc}
+        cols = ("slug", "title", "url", "revision_id", "fetched_at", "license", "lat", "lon", "kind", "publisher", "date", "case_slug", "case_name", "case_kind", "text")
+        sid = db.execute(f"INSERT INTO source ({','.join(cols)}) VALUES ({','.join('?' * len(cols))})", [row[k] for k in cols]).lastrowid
         ids = {}
         for e in ext["entities"]:
             ids[e["key"]] = db.execute("INSERT INTO entity (source_id,key,type,name,description) VALUES (?,?,?,?,?)",

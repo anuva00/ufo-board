@@ -1,0 +1,1277 @@
+{
+ "slug": "aaro-puerto-rico-case-resolution",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "2013 Aguadilla UAP incident",
+   "aliases": [
+    "The Puerto Rico Object",
+    "Puerto Rico Object",
+    "2013 Puerto Rico UAP incident",
+    "Case Number 330UAP000010"
+   ],
+   "description": "Two objects recorded on infrared video by a U.S. Customs and Border Protection aircraft over Rafael Hernandez Airport near Aguadilla, Puerto Rico, on April 26, 2013, which AARO resolved in March 2025 as probably a pair of sky lanterns."
+  },
+  {
+   "key": "objects",
+   "type": "craft",
+   "name": "two objects recorded on infrared video over Rafael Hernandez Airport, April 26, 2013",
+   "aliases": [
+    "the objects",
+    "The Puerto Rico Object"
+   ],
+   "description": "Pair of small, indistinct objects drifting at wind speed that appeared to move fast, split in two and enter the ocean; assessed by AARO as a pair of sky lanterns."
+  },
+  {
+   "key": "aaro",
+   "type": "organization",
+   "name": "All-domain Anomaly Resolution Office",
+   "aliases": [
+    "AARO",
+    "All-Domain Anomaly Resolution Office"
+   ],
+   "description": "Office that assessed and resolved the case."
+  },
+  {
+   "key": "dod",
+   "type": "organization",
+   "name": "United States Department of Defense",
+   "aliases": [
+    "U.S. Department of Defense",
+    "Department of Defense",
+    "DoD"
+   ],
+   "description": "Department under whose name the case resolution was cleared for open publication."
+  },
+  {
+   "key": "dopsr",
+   "type": "organization",
+   "name": "Office of Prepublication and Security Review",
+   "aliases": [
+    "OFFICE OF PREPUBLICATION AND SECURITY REVIEW"
+   ],
+   "description": "Department of Defense office whose clearance stamp appears on the case resolution."
+  },
+  {
+   "key": "cbp",
+   "type": "organization",
+   "name": "U.S. Customs and Border Protection",
+   "aliases": [
+    "CBP",
+    "United States Customs and Border Protection"
+   ],
+   "description": "Agency whose aircraft recorded the infrared video."
+  },
+  {
+   "key": "odni",
+   "type": "organization",
+   "name": "Office of the Director of National Intelligence",
+   "description": "Issuer of the analytic standards directive cited for AARO's confidence levels."
+  },
+  {
+   "key": "ic",
+   "type": "organization",
+   "name": "United States Intelligence Community",
+   "aliases": [
+    "intelligence community"
+   ],
+   "description": "Community of which the document says AARO is not a member."
+  },
+  {
+   "key": "optics_express",
+   "type": "organization",
+   "name": "Optics Express",
+   "description": "Journal that published the thermal crossover article cited by AARO."
+  },
+  {
+   "key": "felton",
+   "type": "person",
+   "name": "M. Felton",
+   "aliases": [
+    "Felton, M."
+   ],
+   "description": "Lead author of the Optics Express article on the thermal crossover period cited by AARO."
+  },
+  {
+   "key": "aircraft",
+   "type": "vehicle",
+   "name": "De Havilland Canada 8",
+   "aliases": [
+    "CBP De Havilland Canada 8 aircraft",
+    "CBP aircraft"
+   ],
+   "description": "U.S. Customs and Border Protection aircraft whose onboard infrared sensor recorded the objects."
+  },
+  {
+   "key": "pr",
+   "type": "place",
+   "name": "Puerto Rico",
+   "description": "Location of the incident."
+  },
+  {
+   "key": "us",
+   "type": "place",
+   "name": "United States",
+   "aliases": [
+    "UNITED STATES"
+   ],
+   "description": "Country label shown for Puerto Rico on the reconstruction map."
+  },
+  {
+   "key": "airport",
+   "type": "place",
+   "name": "Rafael Hernandez Airport",
+   "description": "Airport near Aguadilla, Puerto Rico, over which the aircraft flew and the objects drifted."
+  },
+  {
+   "key": "aguadilla",
+   "type": "place",
+   "name": "Aguadilla, Puerto Rico",
+   "aliases": [
+    "Aguadilla"
+   ],
+   "description": "Town near Rafael Hernandez Airport."
+  },
+  {
+   "key": "atlantic",
+   "type": "place",
+   "name": "Atlantic Ocean",
+   "description": "Ocean off Puerto Rico's northwestern coast into which the objects seemed to disappear."
+  },
+  {
+   "key": "video",
+   "type": "document",
+   "name": "U.S. Customs and Border Protection thermal video footage of April 26, 2013",
+   "aliases": [
+    "thermal video footage",
+    "the video"
+   ],
+   "description": "Infrared video recorded from the CBP aircraft showing the two objects; the data AARO analysed."
+  },
+  {
+   "key": "resolution",
+   "type": "document",
+   "name": "AARO Case Resolution: \"The Puerto Rico Object\"",
+   "aliases": [
+    "Case: \"The Puerto Rico Object\"",
+    "Case Resolution 20 March 2025",
+    "AARO Puerto Rico Case Resolution Card"
+   ],
+   "description": "AARO case resolution paper dated 20 March 2025, case number 330UAP000010."
+  },
+  {
+   "key": "ndaa24",
+   "type": "document",
+   "name": "National Defense Authorization Act for Fiscal Year 2024",
+   "aliases": [
+    "FY24 NDAA"
+   ],
+   "description": "Statute cited as authority for the unclassified page review of the case resolution."
+  },
+  {
+   "key": "icd203",
+   "type": "document",
+   "name": "Intelligence Community Directive 203: Analytic Standards",
+   "description": "Directive footnoted for AARO's confidence language."
+  },
+  {
+   "key": "felton_article",
+   "type": "document",
+   "name": "Measured comparison of the crossover period for mid- and long-wave IR (MWIR and LWIR) polarimetric and conventional thermal imagery",
+   "description": "2010 Optics Express journal article cited for thermal crossover."
+  },
+  {
+   "key": "stk",
+   "type": "program",
+   "name": "Systems Toolkit",
+   "aliases": [
+    "STK",
+    "Systems Toolkit (STK)"
+   ],
+   "description": "Reconstruction tool AARO used to model the aircraft's and objects' flight paths."
+  },
+  {
+   "key": "f_video",
+   "type": "feature",
+   "name": "film-or-video",
+   "description": "Thermal video footage of the objects."
+  },
+  {
+   "key": "f_water",
+   "type": "feature",
+   "name": "water-related",
+   "description": "Objects seemed to enter, exit and disappear into the Atlantic Ocean."
+  },
+  {
+   "key": "f_speed",
+   "type": "feature",
+   "name": "high-speed-maneuvers",
+   "description": "Objects appeared to move at a high rate of speed."
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Assessed and resolved by AARO."
+  },
+  {
+   "key": "f_split",
+   "type": "feature",
+   "name": "other:object splitting or replicating",
+   "description": "Reported behaviour: a single object splitting into two."
+  },
+  {
+   "key": "f_ir",
+   "type": "feature",
+   "name": "other:infrared sensor detection",
+   "description": "Objects detected by an airborne infrared sensor."
+  },
+  {
+   "key": "f_airport",
+   "type": "feature",
+   "name": "other:airport proximity",
+   "description": "Objects moved over an airport."
+  },
+  {
+   "key": "x_lantern",
+   "type": "explanation",
+   "name": "other:sky lanterns",
+   "description": "AARO's moderate-confidence attribution."
+  },
+  {
+   "key": "x_parallax",
+   "type": "explanation",
+   "name": "misperception",
+   "description": "Apparent high speed attributed to motion parallax."
+  },
+  {
+   "key": "x_crossover",
+   "type": "explanation",
+   "name": "other:thermal crossover",
+   "description": "Apparent disappearance attributed to loss of thermal contrast."
+  },
+  {
+   "key": "x_bird",
+   "type": "explanation",
+   "name": "bird-or-animal",
+   "description": "An AARO partner suggested a pair of marine birds."
+  },
+  {
+   "key": "x_balloon",
+   "type": "explanation",
+   "name": "balloon",
+   "description": "An AARO partner assessed a pair of mylar party balloons."
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "2013-04-26",
+   "quote": "Date: April 26, 2013"
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "Puerto Rico\n(UNITED STATES)"
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "9:22 p.m. local time",
+   "quote": "The IR sensor recorded\nthe event at 9:22 p.m. local time"
+  },
+  {
+   "s": "case",
+   "p": "sunset_time",
+   "v": "7:48 p.m. local time",
+   "quote": "On April 26, 2013, sunset occurred at 7:48 p.m. local time."
+  },
+  {
+   "s": "case",
+   "p": "location",
+   "v": "Puerto Rico",
+   "quote": "Location: Puerto Rico"
+  },
+  {
+   "s": "case",
+   "p": "case_number",
+   "v": "330UAP000010",
+   "quote": "Case Number: 330UAP000010"
+  },
+  {
+   "s": "case",
+   "p": "name_in_source",
+   "v": "The Puerto Rico Object",
+   "quote": "Case: \"The Puerto Rico Object\""
+  },
+  {
+   "s": "case",
+   "p": "resolution_date",
+   "v": "2025-03-20",
+   "quote": "Case Resolution 20 March 2025"
+  },
+  {
+   "s": "case",
+   "p": "reporter",
+   "v": "Publicly available media, originally recorded by U.S. Customs and Border Protection",
+   "quote": "Reporter: Publicly available media, originally\nrecorded by U.S. Customs and Border"
+  },
+  {
+   "s": "case",
+   "p": "data_type",
+   "v": "Infrared",
+   "quote": "Data Type: Infrared"
+  },
+  {
+   "s": "case",
+   "p": "reported_behavior",
+   "v": "Split or replicated; transmedium behavior",
+   "quote": "Reported Behavior: Split or replicated;\ntransmedium behavior."
+  },
+  {
+   "s": "case",
+   "p": "reported_behavior",
+   "v": "objects appeared to move at a high rate of speed",
+   "quote": "The objects appeared to move at a high rate"
+  },
+  {
+   "s": "case",
+   "p": "reported_behavior",
+   "v": "objects seemed to enter, exit, and disappear into the Atlantic Ocean",
+   "quote": "The objects seemed to enter, exit, and"
+  },
+  {
+   "s": "case",
+   "p": "reported_behavior",
+   "v": "objects seemed to disappear into the Atlantic Ocean off Puerto Rico's northwestern coast",
+   "quote": "disappear into the Atlantic Ocean off\nPuerto Rico's northwestern coast."
+  },
+  {
+   "s": "case",
+   "p": "reported_behavior",
+   "v": "apparent high speed over the airport and surrounding area before the objects separated from one another",
+   "quote": "area before separating from one another."
+  },
+  {
+   "s": "case",
+   "p": "definition_thermal_crossover",
+   "v": "thermal imaging fails to differentiate a target from the background when its thermal signature is virtually identical to the surrounding environment",
+   "quote": "Thermal imaging can fail to differentiate a target object from the background when its thermal\nsignature is virtually identical to the surrounding environment to be distinct, known as thermal\ncrossover."
+  },
+  {
+   "s": "case",
+   "p": "definition_pixel_analysis",
+   "v": "measuring an object's size by comparing it to an object of known dimensions",
+   "quote": "Pixel analysis is a method of measuring an object's size by comparing it\nto an object of known dimensions."
+  },
+  {
+   "s": "case",
+   "p": "analysis_limitation",
+   "v": "pixel analysis alone cannot determine the objects' altitude or trajectory",
+   "quote": "Pixel analysis alone cannot determine the objects' altitude or trajectory, though it\ncan set parameters for further analysis."
+  },
+  {
+   "s": "case",
+   "p": "cloud_cover",
+   "v": "aircraft entered a layer of scattered clouds",
+   "quote": "entered a layer of scattered clouds as it"
+  },
+  {
+   "s": "case",
+   "p": "cloud_cover_effect",
+   "v": "cloud cover can intermittently reduce an object's thermal contrast",
+   "quote": "Cloud cover can\nintermittently reduce an object's thermal contrast, similar to the loss of detection that\ncan occur during thermal crossover."
+  },
+  {
+   "s": "case",
+   "p": "assessed_behavior",
+   "v": "The objects did not demonstrate anomalous performance characteristics",
+   "quote": "The objects did not exhibit anomalous speeds or other behavior exceeding known state-\nof-the-art performance characteristics."
+  },
+  {
+   "s": "case",
+   "p": "assessment",
+   "v": "high confidence that the objects did not exhibit anomalous behavior or transmedium capabilities",
+   "quote": "AARO assesses with high confidence¹ that\nthe objects did not exhibit anomalous"
+  },
+  {
+   "s": "case",
+   "p": "assessment",
+   "v": "moderate confidence that the objects were a pair of sky lanterns",
+   "quote": "AARO assesses with moderate confidence that the objects depicted in the video are\nsky lanterns."
+  },
+  {
+   "s": "case",
+   "p": "assessment",
+   "v": "sensor data sufficiently detailed to resolve the case with high confidence",
+   "quote": "AARO assesses that the sensor data associated with the encounter provides sufficiently detailed\ninformation to resolve this case with high confidence."
+  },
+  {
+   "s": "case",
+   "p": "assessment",
+   "v": "the objects did not exhibit transmedium performance characteristics",
+   "quote": "The STK reconstruction demonstrates that the objects did\nnot exhibit transmedium performance characteristics."
+  },
+  {
+   "s": "case",
+   "p": "wind_speed",
+   "v": "4.4 meters per second (9.8 mph) from the east/northeast",
+   "quote": "recorded wind speed of 4.4 meters per second (9.8 mph) from the east/northeast"
+  },
+  {
+   "s": "case",
+   "p": "wind_data_source",
+   "v": "www.timeanddate.com",
+   "quote": "2 www.timeanddate.com"
+  },
+  {
+   "s": "case",
+   "p": "sunset_data_source",
+   "v": "www.sunrisesunset.com",
+   "quote": "5 www.sunrisesunset.com"
+  },
+  {
+   "s": "case",
+   "p": "cloud_cover",
+   "v": "scattered clouds at 3,000 feet partially obscured the sensor's view",
+   "quote": "Scattered clouds at 3,000 feet partially obscured the sensor's view."
+  },
+  {
+   "s": "case",
+   "p": "moon_phase",
+   "v": "full moon",
+   "quote": "be attributable to the balloons' surface reflecting light from the full moon through intermittent\ncloud cover"
+  },
+  {
+   "s": "case",
+   "p": "analysis_method",
+   "v": "Systems Toolkit (STK) reconstruction and Minimum Separation Vectors analysis",
+   "quote": "AARO's assessment is informed by\nreconstruction of the event using STK and Minimum Separation Vectors analysis."
+  },
+  {
+   "s": "case",
+   "p": "analysis_method",
+   "v": "pixel analysis to estimate the objects' sizes",
+   "quote": "AARO employed pixel analysis to estimate the objects' sizes to be smaller than\none meter (three feet)."
+  },
+  {
+   "s": "case",
+   "p": "analysis_method",
+   "v": "sensor look angle reconstructed by plotting the aircraft's position and the sensor's view-to-ground projection onto a map",
+   "quote": "AARO reconstructed the sensor's look angle by plotting the aircraft's position and the sensor's\nview-to-ground projection onto a map (Figure 1)."
+  },
+  {
+   "s": "case",
+   "p": "local_practice",
+   "v": "local hospitality industry vendors confirmed hotels and resorts in the area commonly release sky lanterns during celebrations",
+   "quote": "AARO confirmed with local hospitality industry vendors that it is common\npractice for hotels and resorts in the area to release sky lanterns during celebrations."
+  },
+  {
+   "s": "case",
+   "p": "thermal_crossover_window",
+   "v": "event recorded within the two-hour window after sunset when thermal crossover can influence IR sensor return",
+   "quote": "within the two-hour window when thermal\ncrossover can influence IR sensor return."
+  },
+  {
+   "s": "case",
+   "p": "thermal_crossover_duration",
+   "v": "can persist for up to two hours",
+   "quote": "temperature change, such as during sunrise and sunset. It can persist for up to two\nhours."
+  },
+  {
+   "s": "case",
+   "p": "definition_motion_parallax",
+   "v": "optical effect that makes a stationary or slow-moving object appear to move much faster when viewed from a moving frame of reference",
+   "quote": "Motion parallax is an optical\neffect that induces an observer to perceive that a stationary or slow-moving object is moving\nmuch faster than its actual speed when viewed from a moving frame of reference."
+  },
+  {
+   "s": "case",
+   "p": "definition_transmedium",
+   "v": "objects that transition between two or more domains, e.g., space, the atmosphere, or water, in ways not attributable to known technologies",
+   "quote": "\"Transmedium\" refers to objects that\ntransition between two or more domains, e.g., space, the atmosphere, or water, in ways not\nattributable to known technologies."
+  },
+  {
+   "s": "case",
+   "p": "alternative_hypothesis",
+   "v": "Anomalous phenomena: in specific frames the objects seem to pass behind a utility pole, implying much lower altitude and much higher speed",
+   "quote": "During specific frames, the objects seem to pass behind a utility pole,\nindicating that they were at a much lower altitude and traveling much faster than would be\ntypical for objects of this size."
+  },
+  {
+   "s": "case",
+   "p": "alternative_hypothesis_ruled_out",
+   "v": "pixel analysis found the objects did not pass behind the utility pole",
+   "quote": "found that the objects did not pass behind the pole, ruling out anomalous performance\ncharacteristics."
+  },
+  {
+   "s": "case",
+   "p": "partner_assessment",
+   "v": "an AARO partner assessed the objects traveled between 35 and 130 mph at an altitude between 300 and 900 feet",
+   "quote": "An AARO partner assessed that the objects traveled between 35 and 130 mph at\nan altitude between 300 and 900 feet."
+  },
+  {
+   "s": "case",
+   "p": "partner_assessment",
+   "v": "an AARO partner suggested a pair of marine birds that descended to the surface of the Atlantic Ocean, noting poor data quality",
+   "quote": "The partner suggested that the objects were a pair of\nmarine birds that descended to the surface of the Atlantic Ocean but noted that poor data quality"
+  },
+  {
+   "s": "case",
+   "p": "partner_assessment",
+   "v": "an AARO partner assessed the objects were a pair of mylar or \"party\" balloons",
+   "quote": "An AARO partner assessed that the objects were a pair of mylar or \"party\"\nballoons."
+  },
+  {
+   "s": "case",
+   "p": "perceived_disappearance_factors",
+   "v": "several factors affected the objects' IR signature, contributing to the perception that they entered the water or disappeared",
+   "quote": "Several factors affected the objects'\nIR signature, contributing to the perception that they entered the water or disappeared."
+  },
+  {
+   "s": "objects",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "The video depicts two objects traveling near each other rather than a single object\nsplitting into two."
+  },
+  {
+   "s": "objects",
+   "p": "count",
+   "v": "two",
+   "quote": "AARO assesses with high confidence that the video footage depicts two\nobjects traveling near each other rather than a single object splitting into two."
+  },
+  {
+   "s": "objects",
+   "p": "altitude_reported",
+   "v": "N/A",
+   "quote": "Object Altitude (Reported): N/A"
+  },
+  {
+   "s": "objects",
+   "p": "altitude_assessed",
+   "v": "656 ft",
+   "quote": "Object Altitude (Assessed): 656 ft"
+  },
+  {
+   "s": "objects",
+   "p": "altitude",
+   "v": "approximately 200 meters (656 feet) when first detected",
+   "quote": "sensor first detected the objects near the northeastern side of the airport at an altitude of\napproximately 200 meters (656 feet)."
+  },
+  {
+   "s": "objects",
+   "p": "speed_reported",
+   "v": "N/A",
+   "quote": "Object Speed (Reported): N/A"
+  },
+  {
+   "s": "objects",
+   "p": "speed_assessed",
+   "v": "8 mph",
+   "quote": "Object Speed (Assessed): 8 mph"
+  },
+  {
+   "s": "objects",
+   "p": "speed",
+   "v": "approximately 3.6 meters per second (8 mph)",
+   "quote": "Systems Toolkit (STK) reconstruction determined the objects drifted at\napproximately 3.6 meters per second (8 mph) in a straight line over land"
+  },
+  {
+   "s": "objects",
+   "p": "shape_reported",
+   "v": "N/A",
+   "quote": "Object Shape (Reported): N/A"
+  },
+  {
+   "s": "objects",
+   "p": "shape_assessed",
+   "v": "Indistinct",
+   "quote": "Object Shape (Assessed): Indistinct"
+  },
+  {
+   "s": "objects",
+   "p": "shape",
+   "v": "indistinct",
+   "quote": "The objects' shapes are indistinct."
+  },
+  {
+   "s": "objects",
+   "p": "size",
+   "v": "smaller than one meter (three feet)",
+   "quote": "AARO employed pixel analysis to estimate the objects' sizes to be smaller than\none meter (three feet)."
+  },
+  {
+   "s": "objects",
+   "p": "direction_of_travel",
+   "v": "drifted southwest at wind speed",
+   "quote": "The objects drifted southwest at wind speed before the IR\nsensor lost contact with them over the airport's central parking apron."
+  },
+  {
+   "s": "objects",
+   "p": "first_detected_at",
+   "v": "near the northeastern side of the airport",
+   "quote": "sensor first detected the objects near the northeastern side of the airport"
+  },
+  {
+   "s": "objects",
+   "p": "last_detected_at",
+   "v": "over the airport's central parking apron",
+   "quote": "sensor lost contact with them over the airport's central parking apron."
+  },
+  {
+   "s": "objects",
+   "p": "flight_path",
+   "v": "moved in a straight line at wind speed over land",
+   "quote": "The STK reconstruction demonstrates\nthat the objects moved in a straight line at wind speed over land."
+  },
+  {
+   "s": "objects",
+   "p": "flight_path",
+   "v": "remained over land throughout the video",
+   "quote": "The objects remained over land throughout the video."
+  },
+  {
+   "s": "objects",
+   "p": "motion",
+   "v": "drifting at wind speed and direction",
+   "quote": "objects drifting at wind speed and direction."
+  },
+  {
+   "s": "objects",
+   "p": "separation_times",
+   "v": "approximately 00:29.56, 00:40.76, and 00:47.00 seconds",
+   "quote": "Separation occurs at approximately 00:29.56, 00:40.76, and 00:47.00\nseconds (Figure 2)."
+  },
+  {
+   "s": "objects",
+   "p": "separation",
+   "v": "visibly separate multiple times within the first minute",
+   "quote": "The objects\nvisibly separate multiple times within the first minute, suggesting that the video depicts two\nobjects the entire time."
+  },
+  {
+   "s": "objects",
+   "p": "disappearance",
+   "v": "seem to disappear shortly after the ocean appears in the background",
+   "quote": "The objects seem to disappear shortly after the\nocean appears in the background."
+  },
+  {
+   "s": "objects",
+   "p": "water_entry",
+   "v": "did not enter the water",
+   "quote": "The objects did not enter the water."
+  },
+  {
+   "s": "objects",
+   "p": "thermal_signature",
+   "v": "size and thermal signature variability support the sky lantern conclusion",
+   "quote": "objects' size and thermal signature variability support this conclusion."
+  },
+  {
+   "s": "objects",
+   "p": "behavior",
+   "v": "consistent with a pair of balloons drifting together and apart while tied together",
+   "quote": "The objects' behavior is consistent with a pair of balloons drifting together and apart\nwhile tied together."
+  },
+  {
+   "s": "objects",
+   "p": "identified_as",
+   "o": "x_lantern",
+   "quote": "that the objects were a pair of sky lanterns."
+  },
+  {
+   "s": "aaro",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "AARO Assessment and Case Status:"
+  },
+  {
+   "s": "aaro",
+   "p": "authored",
+   "o": "resolution",
+   "quote": "This AARO information report should\nnot be considered finished intelligence."
+  },
+  {
+   "s": "aaro",
+   "p": "full_name_in_source",
+   "v": "All-domain Anomaly Resolution Office (AARO)",
+   "quote": "All-domain Anomaly Resolution Office (AARO)"
+  },
+  {
+   "s": "aaro",
+   "p": "status",
+   "v": "not a member of the intelligence community",
+   "quote": "AARO is not a member of the intelligence community."
+  },
+  {
+   "s": "aaro",
+   "p": "proposed",
+   "o": "x_lantern",
+   "quote": "AARO assesses with moderate confidence that the objects depicted in the video are\nsky lanterns."
+  },
+  {
+   "s": "aaro",
+   "p": "proposed",
+   "o": "x_parallax",
+   "quote": "The objects' apparent high speed is attributable to motion parallax."
+  },
+  {
+   "s": "aaro",
+   "p": "proposed",
+   "o": "x_crossover",
+   "quote": "Rather, the sensor could\nnot distinguish the objects from their environment due to a lack of thermal contrast between\nthem and the ocean."
+  },
+  {
+   "s": "aaro",
+   "p": "disputed",
+   "o": "x_bird",
+   "quote": "AARO considered this interpretation unlikely, as the STK\nreconstruction demonstrates that the objects moved in a straight line at wind speed over land."
+  },
+  {
+   "s": "aaro",
+   "p": "disputed",
+   "o": "x_balloon",
+   "quote": "AARO does not concur with this assessment, because it is unlikely that an IR sensor\ncould detect reflected moonlight."
+  },
+  {
+   "s": "aaro",
+   "p": "statement",
+   "v": "birds viewed through an IR sensor at these distances would retain identifiable features, such as wings, or pulsate at the frequency of wing beats",
+   "quote": "Further, birds viewed through an IR sensor at the distances involved in this encounter would\nretain identifiable features, such as wings, or pulsate at the frequency of wing beats."
+  },
+  {
+   "s": "aaro",
+   "p": "statement",
+   "v": "the video's poor quality reduces AARO's confidence in categorically identifying the objects",
+   "quote": "However, the video's poor quality reduces AARO's confidence in\ncategorically identifying the objects."
+  },
+  {
+   "s": "aaro",
+   "p": "statement",
+   "v": "sky lanterns are typically smaller than one meter in diameter and emit a flickering, weakening thermal signature as they expend fuel",
+   "quote": "Sky lanterns are typically\nsmaller than one meter in diameter and emit a flickering, weakening thermal signature as they\nexpend fuel"
+  },
+  {
+   "s": "aaro",
+   "p": "information_sources",
+   "v": "report may reference finished intelligence and information provided by AARO's coordinating interagency partners",
+   "quote": "It may contain references to finished intelligence reports\nand/or information provided by AARO's coordinating interagency partners"
+  },
+  {
+   "s": "dod",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "CLEARED\nU.S. Department of Defense\nFor Open Publication"
+  },
+  {
+   "s": "dod",
+   "p": "disclaimer",
+   "v": "external hyperlinks do not constitute endorsement by the Department of Defense of the linked websites",
+   "quote": "constitute endorsement by the United States Department\nof Defense (DoD) of the linked websites, or the information,"
+  },
+  {
+   "s": "dopsr",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "OFFICE OF PREPUBLICATION AND SECURITY REVIEW"
+  },
+  {
+   "s": "dopsr",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "Department of Defense\nquod\ncogitationes\nOFFICE OF PREPUBLICATION AND SECURITY REVIEW"
+  },
+  {
+   "s": "cbp",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Reporter: Publicly available media, originally\nrecorded by U.S. Customs and Border"
+  },
+  {
+   "s": "cbp",
+   "p": "owned",
+   "o": "aircraft",
+   "quote": "onboard a U.S. Customs and Border\nProtection (CBP) De Havilland Canada 8"
+  },
+  {
+   "s": "cbp",
+   "p": "authored",
+   "o": "video",
+   "quote": "Reporter: Publicly available media, originally\nrecorded by U.S. Customs and Border"
+  },
+  {
+   "s": "odni",
+   "p": "published",
+   "o": "icd203",
+   "quote": "1 Office of the Director of National Intelligence - Intelligence Community Directive 203: Analytic Standards"
+  },
+  {
+   "s": "ic",
+   "p": "mentioned_by",
+   "o": "resolution",
+   "quote": "(U) AARO is not a member of the intelligence community."
+  },
+  {
+   "s": "optics_express",
+   "p": "published",
+   "o": "felton_article",
+   "quote": "3 Journal article, Optics Express; Felton, M. et al.; 22 APR 2010; Measured comparison of the crossover period for mid- and\nlong-wave IR (MWIR and LWIR) polarimetric and conventional thermal imagery; Vol. 18, No.15."
+  },
+  {
+   "s": "felton",
+   "p": "authored",
+   "o": "felton_article",
+   "quote": "3 Journal article, Optics Express; Felton, M. et al.; 22 APR 2010; Measured comparison of the crossover period for mid- and\nlong-wave IR (MWIR and LWIR) polarimetric and conventional thermal imagery; Vol. 18, No.15."
+  },
+  {
+   "s": "aircraft",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "onboard a U.S. Customs and Border\nProtection (CBP) De Havilland Canada 8"
+  },
+  {
+   "s": "aircraft",
+   "p": "sensor",
+   "v": "infrared (IR) sensor onboard",
+   "quote": "On April 26, 2013, an infrared (IR) sensor"
+  },
+  {
+   "s": "aircraft",
+   "p": "flight_path",
+   "v": "flew in an arc around the Rafael Hernandez Airport",
+   "quote": "During the encounter, the CBP aircraft flew\nin an arc around the Rafael Hernandez"
+  },
+  {
+   "s": "aircraft",
+   "p": "altitude_gain",
+   "v": "approximately 1,725 feet",
+   "quote": "Airport, gaining approximately 1,725 feet"
+  },
+  {
+   "s": "aircraft",
+   "p": "altitude_at_loss_of_sensor_contact",
+   "v": "3,600 feet",
+   "quote": "in altitude before losing sensor contact with\nthe objects at 3,600 feet."
+  },
+  {
+   "s": "aircraft",
+   "p": "cloud_entry_altitude",
+   "v": "3,000 feet",
+   "quote": "passed 3,000 feet in altitude. These clouds"
+  },
+  {
+   "s": "aircraft",
+   "p": "altitude",
+   "v": "1,875 ft at 01:22:07",
+   "quote": "Altitude: 1,875ft\nTime: 01:22:07"
+  },
+  {
+   "s": "aircraft",
+   "p": "altitude",
+   "v": "4,526 ft at 01:25:03",
+   "quote": "Altitude: 4,526ft\nTime: 01:25:03"
+  },
+  {
+   "s": "aircraft",
+   "p": "range_to_objects",
+   "v": "nearly tripled during the encounter",
+   "quote": "The aircraft's distance from the objects nearly tripled during the observation period."
+  },
+  {
+   "s": "aircraft",
+   "p": "range_to_objects",
+   "v": "nearly tripled during the encounter",
+   "quote": "the objects nearly tripled during the\nencounter."
+  },
+  {
+   "s": "aircraft",
+   "p": "effect_on_perception",
+   "v": "the aircraft's flight speed, the sensor's zoom and the change in relative positions influenced the objects' perceived behavior",
+   "quote": "this case, the aircraft's flight speed, the sensor's zoom, and the change in relative positions of the\naircraft and the objects influenced their perceived behavior and performance characteristics."
+  },
+  {
+   "s": "pr",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Location: Puerto Rico"
+  },
+  {
+   "s": "pr",
+   "p": "located_in",
+   "o": "us",
+   "quote": "Puerto Rico\n(UNITED STATES)"
+  },
+  {
+   "s": "us",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Puerto Rico\n(UNITED STATES)"
+  },
+  {
+   "s": "airport",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "During the encounter, the CBP aircraft flew\nin an arc around the Rafael Hernandez"
+  },
+  {
+   "s": "airport",
+   "p": "located_in",
+   "o": "pr",
+   "quote": "Airport near Aguadilla, Puerto Rico"
+  },
+  {
+   "s": "airport",
+   "p": "feature_named",
+   "v": "central parking apron",
+   "quote": "sensor lost contact with them over the airport's central parking apron."
+  },
+  {
+   "s": "aguadilla",
+   "p": "near",
+   "o": "case",
+   "quote": "Airport near Aguadilla, Puerto Rico"
+  },
+  {
+   "s": "aguadilla",
+   "p": "located_in",
+   "o": "pr",
+   "quote": "Airport near Aguadilla, Puerto Rico"
+  },
+  {
+   "s": "atlantic",
+   "p": "near",
+   "o": "case",
+   "quote": "disappear into the Atlantic Ocean off\nPuerto Rico's northwestern coast."
+  },
+  {
+   "s": "atlantic",
+   "p": "role",
+   "v": "objects seemed to disappear into the ocean; AARO found they did not enter the water",
+   "quote": "The objects seem to disappear shortly after the\nocean appears in the background. The objects did not enter the water."
+  },
+  {
+   "s": "video",
+   "p": "key_document",
+   "o": "case",
+   "quote": "captured thermal video footage of two"
+  },
+  {
+   "s": "video",
+   "p": "sensor_type",
+   "v": "infrared (IR) sensor",
+   "quote": "On April 26, 2013, an infrared (IR) sensor"
+  },
+  {
+   "s": "video",
+   "p": "recorded_at",
+   "v": "9:22 p.m. local time",
+   "quote": "The IR sensor recorded\nthe event at 9:22 p.m. local time"
+  },
+  {
+   "s": "video",
+   "p": "quality",
+   "v": "diminishing quality over time",
+   "quote": "video's diminishing quality over time."
+  },
+  {
+   "s": "video",
+   "p": "quality",
+   "v": "poor quality",
+   "quote": "However, the video's poor quality reduces AARO's confidence in\ncategorically identifying the objects."
+  },
+  {
+   "s": "video",
+   "p": "viewing_angle",
+   "v": "changed from side-on to top-down as the aircraft gained altitude",
+   "quote": "The IR sensor's view of the objects changed from side-on to top-down as the\naircraft gained altitude."
+  },
+  {
+   "s": "video",
+   "p": "still_times",
+   "v": "Image C at 02:37.44 (high angle, increased magnification: clear object separation)",
+   "quote": "Image C, at 02:37.44, shows the objects from a high angle and increased\nmagnification, clearly showing object separation from a more top-down perspective."
+  },
+  {
+   "s": "video",
+   "p": "still_times",
+   "v": "Image A at 00:05.14 (low angle, low magnification: objects appear to be one)",
+   "quote": "They appear to be one object\nfrom a low angle and a low magnification, as shown in Image A at 00:05.14."
+  },
+  {
+   "s": "video",
+   "p": "still_times",
+   "v": "Image B at 00:33.41 (steeper angle, moderate magnification: objects appear distinct)",
+   "quote": "The objects appear\ndistinct from one another from a steeper viewing angle and moderate magnification, as shown in\nImage B at 00:33.41."
+  },
+  {
+   "s": "video",
+   "p": "viewing_angle",
+   "v": "steeper viewing angle from higher altitude likely made the objects' separation more visually dramatic near the end of the video",
+   "quote": "The sensor's steeper viewing angle from a higher altitude likely made the\nobjects' separation more visually dramatic near the end of the video (Figure 3, Image C)."
+  },
+  {
+   "s": "video",
+   "p": "sensor_limitation",
+   "v": "IR signatures can appear to vanish when thermal contrast between object and background becomes indistinguishable",
+   "quote": "IR signatures can appear to \"vanish\" when the thermal contrast between the object and\nbackground becomes indistinguishable (Figure 4)."
+  },
+  {
+   "s": "video",
+   "p": "sensor_limitation",
+   "v": "sensor fidelity degrades with increasing distance to a target, especially for objects of such small size",
+   "quote": "Sensor fidelity degrades with increasing distance to a target, especially for objects of\nsuch small size."
+  },
+  {
+   "s": "video",
+   "p": "sensor_limitation",
+   "v": "clouds partially obscured the sensor's view, potentially affecting the objects' sensor return",
+   "quote": "partially obscured the sensor's view,"
+  },
+  {
+   "s": "video",
+   "p": "sensor_limitation",
+   "v": "intermittent sensor contact can make an object appear to flicker or disappear and reappear",
+   "quote": "Intermittent sensor contact can make an object\nappear to flicker or disappear and reappear on thermal imaging systems."
+  },
+  {
+   "s": "resolution",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Case Resolution 20 March 2025"
+  },
+  {
+   "s": "resolution",
+   "p": "date",
+   "v": "2025-03-20",
+   "quote": "Case Resolution 20 March 2025"
+  },
+  {
+   "s": "resolution",
+   "p": "cleared_for_open_publication",
+   "v": "2025-03-19",
+   "quote": "For Open Publication\nAARC\nCase: \"The Puerto Rico Object\"\nMar 19, 2025"
+  },
+  {
+   "s": "resolution",
+   "p": "classification",
+   "v": "UNCLASSIFIED",
+   "quote": "Page determined to be Unclassified"
+  },
+  {
+   "s": "resolution",
+   "p": "reviewed_by",
+   "v": "Chief of Staff, AARO",
+   "quote": "Reviewed by Chief of Staff, AARO"
+  },
+  {
+   "s": "resolution",
+   "p": "review_date",
+   "v": "2025-03-20",
+   "quote": "IAW FY24 NDAA, Section 1841(a)(1)(C)\nDate: 3/20/2025"
+  },
+  {
+   "s": "resolution",
+   "p": "review_authority",
+   "v": "FY24 NDAA, now codified at 44 U.S.C. 2107",
+   "quote": "Authority: FY24 NDAA, now codified at 44 U.S.C. 2107"
+  },
+  {
+   "s": "resolution",
+   "p": "reference_number",
+   "v": "25-P-0553",
+   "quote": "25-P-0553\nReleased in Full: X"
+  },
+  {
+   "s": "resolution",
+   "p": "release_status",
+   "v": "Released in Full",
+   "quote": "Released in Full: X"
+  },
+  {
+   "s": "resolution",
+   "p": "figure",
+   "v": "Figure 1: reconstruction of the CBP aircraft's flight path in green, sensor line-of-sight in grey, objects' assessed flight path as a yellow arrow",
+   "quote": "Figure 1: A reconstruction of the CBP aircraft's flight path is shown in green. Grey lines\nindicate the sensor's line-of-sight to the ground from the aircraft. The yellow arrow shows the\nobjects' assessed flight path."
+  },
+  {
+   "s": "resolution",
+   "p": "figure",
+   "v": "Figure 2: still images of object separation from within the first minute of the video",
+   "quote": "Figure 2: Stills images of object separation from within the first minute of the video."
+  },
+  {
+   "s": "resolution",
+   "p": "figure",
+   "v": "Figure 4: IR signatures can lose distinctiveness when thermal contrast is low",
+   "quote": "Figure 4: IR signatures can lose distinctiveness when thermal contrast is low."
+  },
+  {
+   "s": "resolution",
+   "p": "caveat",
+   "v": "should not be considered finished intelligence",
+   "quote": "This AARO information report should\nnot be considered finished intelligence."
+  },
+  {
+   "s": "ndaa24",
+   "p": "mentioned_by",
+   "o": "resolution",
+   "quote": "Authority: FY24 NDAA, now codified at 44 U.S.C. 2107"
+  },
+  {
+   "s": "ndaa24",
+   "p": "codified_at",
+   "v": "44 U.S.C. 2107",
+   "quote": "Authority: FY24 NDAA, now codified at 44 U.S.C. 2107"
+  },
+  {
+   "s": "ndaa24",
+   "p": "section_cited",
+   "v": "Section 1841(a)(1)(C)",
+   "quote": "IAW FY24 NDAA, Section 1841(a)(1)(C)"
+  },
+  {
+   "s": "icd203",
+   "p": "mentioned_by",
+   "o": "resolution",
+   "quote": "1 Office of the Director of National Intelligence - Intelligence Community Directive 203: Analytic Standards"
+  },
+  {
+   "s": "felton_article",
+   "p": "mentioned_by",
+   "o": "resolution",
+   "quote": "known as thermal\ncrossover. When a sensor fails to discriminate a target from its environment, the object can\nseem to vanish or intermittently disappear and reappear.³"
+  },
+  {
+   "s": "felton_article",
+   "p": "publication_date",
+   "v": "2010-04-22",
+   "quote": "Felton, M. et al.; 22 APR 2010;"
+  },
+  {
+   "s": "felton_article",
+   "p": "volume",
+   "v": "Vol. 18, No.15",
+   "quote": "polarimetric and conventional thermal imagery; Vol. 18, No.15."
+  },
+  {
+   "s": "felton_article",
+   "p": "subject",
+   "v": "thermal crossover period for mid- and long-wave infrared imagery",
+   "quote": "Measured comparison of the crossover period for mid- and\nlong-wave IR (MWIR and LWIR) polarimetric and conventional thermal imagery"
+  },
+  {
+   "s": "stk",
+   "p": "analysis_tool",
+   "o": "case",
+   "quote": "Therefore, AARO used STK reconstruction to assess the\nobjects' flight behavior and performance characteristics."
+  },
+  {
+   "s": "stk",
+   "p": "use",
+   "v": "integrated the aircraft's position with sensor elevation, azimuth and slant angle to model the objects' flight path",
+   "quote": "STK reconstruction integrated the aircraft's position with key sensor\nparameters (e.g., elevation, azimuth, and slant angle) to model the objects' flight path."
+  },
+  {
+   "s": "stk",
+   "p": "finding",
+   "v": "objects drifted at approximately 3.6 meters per second (8 mph) in a straight line over land",
+   "quote": "Systems Toolkit (STK) reconstruction determined the objects drifted at\napproximately 3.6 meters per second (8 mph) in a straight line over land"
+  },
+  {
+   "s": "f_video",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "captured thermal video footage of two"
+  },
+  {
+   "s": "f_water",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "disappear into the Atlantic Ocean off\nPuerto Rico's northwestern coast."
+  },
+  {
+   "s": "f_water",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Reported Behavior: Split or replicated;\ntransmedium behavior."
+  },
+  {
+   "s": "f_speed",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The objects appeared to move at a high rate"
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "AARO Assessment and Case Status:"
+  },
+  {
+   "s": "f_split",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Reported Behavior: Split or replicated;"
+  },
+  {
+   "s": "f_ir",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "On April 26, 2013, an infrared (IR) sensor"
+  },
+  {
+   "s": "f_airport",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "sensor first detected the objects near the northeastern side of the airport"
+  },
+  {
+   "s": "x_lantern",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "AARO assesses with moderate confidence that the objects depicted in the video are\nsky lanterns."
+  },
+  {
+   "s": "x_parallax",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The objects' apparent high speed is attributable to motion parallax."
+  },
+  {
+   "s": "x_crossover",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Thermal imaging can fail to differentiate a target object from the background when its thermal\nsignature is virtually identical to the surrounding environment to be distinct, known as thermal\ncrossover."
+  },
+  {
+   "s": "x_bird",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The partner suggested that the objects were a pair of\nmarine birds that descended to the surface of the Atlantic Ocean"
+  },
+  {
+   "s": "x_balloon",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "An AARO partner assessed that the objects were a pair of mylar or \"party\"\nballoons."
+  },
+  {
+   "s": "x_lantern",
+   "p": "confidence",
+   "v": "moderate",
+   "quote": "AARO assesses with moderate confidence that the objects depicted in the video are\nsky lanterns."
+  },
+  {
+   "s": "x_balloon",
+   "p": "partner_reasoning",
+   "v": "fluctuating IR sensor return may be the balloons' surface reflecting light from the full moon through intermittent cloud cover",
+   "quote": "The partner also suggested that the objects' fluctuating IR sensor return may\nbe attributable to the balloons' surface reflecting light from the full moon through intermittent\ncloud cover."
+  },
+  {
+   "s": "x_bird",
+   "p": "partner_caveat",
+   "v": "poor data quality makes identification difficult",
+   "quote": "makes identification difficult."
+  }
+ ]
+}

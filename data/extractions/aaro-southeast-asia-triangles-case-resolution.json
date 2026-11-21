@@ -1,0 +1,850 @@
+{
+ "slug": "aaro-southeast-asia-triangles-case-resolution",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "2017 Southeast Asia UAP incident",
+   "aliases": [
+    "Southeast Asia Triangles",
+    "\"Southeast Asia Triangles\" case"
+   ],
+   "description": "Six dark triangular objects in a formation seen in satellite imagery of Southeast Asia dated 30 August 2017, flagged as potentially anomalous and resolved by AARO as fishing nets."
+  },
+  {
+   "key": "craft",
+   "type": "craft",
+   "name": "six dark triangular objects in formation in 2017 satellite imagery",
+   "aliases": [
+    "Southeast Asia Triangles",
+    "black triangles"
+   ],
+   "description": "The objects flagged in the image; assessed to be static, cone-shaped fishing nets about 11m x 7m"
+  },
+  {
+   "key": "aaro",
+   "type": "organization",
+   "name": "All-domain Anomaly Resolution Office",
+   "aliases": [
+    "AARO",
+    "All-Domain Anomaly Resolution Office"
+   ],
+   "description": "US Department of Defense office that analysed and resolved the case"
+  },
+  {
+   "key": "dod",
+   "type": "organization",
+   "name": "United States Department of Defense",
+   "aliases": [
+    "US Department of Defense",
+    "Department of Defense"
+   ],
+   "description": "Parent department of AARO, named on the paper's letterhead and clearance stamp"
+  },
+  {
+   "key": "opsr",
+   "type": "organization",
+   "name": "Office of Prepublication and Security Review",
+   "aliases": [
+    "Department of Defense Office of Prepublication and Security Review",
+    "OFFICE OF PREPUBLICATION AND SECURITY REVIEW"
+   ],
+   "description": "Department of Defense office whose stamp cleared the paper for open publication"
+  },
+  {
+   "key": "cos",
+   "type": "organization",
+   "name": "Chief of Staff, AARO",
+   "aliases": [
+    "AARO Chief of Staff"
+   ],
+   "description": "AARO office (no individual named) that reviewed each page and determined it unclassified"
+  },
+  {
+   "key": "intel",
+   "type": "organization",
+   "name": "AARO Intelligence partners",
+   "aliases": [
+    "AARO's Intelligence partners",
+    "Intelligence partners"
+   ],
+   "description": "Unnamed intelligence partners of AARO that analysed the case"
+  },
+  {
+   "key": "st",
+   "type": "organization",
+   "name": "AARO Science and Technology (S&T) partners",
+   "aliases": [
+    "AARO's S&T partners",
+    "S&T partners",
+    "S&T Partners"
+   ],
+   "description": "Unnamed science and technology partners of AARO that analysed the case"
+  },
+  {
+   "key": "report",
+   "type": "document",
+   "name": "AARO Case Resolution of 'Southeast Asia Triangles'",
+   "description": "The AARO case resolution paper itself"
+  },
+  {
+   "key": "ndaa",
+   "type": "document",
+   "name": "National Defense Authorization Act for Fiscal Year 2024",
+   "aliases": [
+    "FY24 NDAA"
+   ],
+   "description": "Statute cited as the authority for the paper's review and release"
+  },
+  {
+   "key": "usc",
+   "type": "document",
+   "name": "44 U.S.C. 2107",
+   "description": "US Code section where the FY24 NDAA release authority is said to be codified"
+  },
+  {
+   "key": "ic",
+   "type": "organization",
+   "name": "United States Intelligence Community",
+   "aliases": [
+    "Intelligence Community"
+   ],
+   "description": "The reporter of the case is given as an Intelligence Community member"
+  },
+  {
+   "key": "maxar",
+   "type": "organization",
+   "name": "Maxar",
+   "description": "Named in the source credit printed under both images in Figure 1"
+  },
+  {
+   "key": "sea",
+   "type": "place",
+   "name": "Southeast Asia",
+   "description": "Location given for the case"
+  },
+  {
+   "key": "satimg",
+   "type": "document",
+   "name": "Satellite imagery",
+   "description": "The sensor type listed for the case"
+  },
+  {
+   "key": "img_orig",
+   "type": "document",
+   "name": "original 30 August 2017 satellite image of the Southeast Asia triangles",
+   "aliases": [
+    "original 2017 image",
+    "initial image"
+   ],
+   "description": "The image originally flagged as containing potentially anomalous objects; left panel of Figure 1"
+  },
+  {
+   "key": "img_cmp",
+   "type": "document",
+   "name": "second 2017 satellite image of fishing nets used for comparison",
+   "aliases": [
+    "another from 2017"
+   ],
+   "description": "Another 2017 image shown at right in Figure 1 that identified the objects as fishing nets; the second figure label reads 23 Feb 17"
+  },
+  {
+   "key": "img_late",
+   "type": "document",
+   "name": "satellite images of the same area taken in late 2022 and early 2023",
+   "description": "Images acquired by S&T Partner Two showing similar triangular shapes and downstream turbidity"
+  },
+  {
+   "key": "stock",
+   "type": "document",
+   "name": "stock footage of fishing nets on the same river",
+   "description": "Footage found by S&T Partner Three that confirmed the analysis"
+  },
+  {
+   "key": "f_tri",
+   "type": "feature",
+   "name": "shape-triangle",
+   "description": "Objects were triangular"
+  },
+  {
+   "key": "f_photo",
+   "type": "feature",
+   "name": "photograph",
+   "description": "Objects were seen in satellite imagery"
+  },
+  {
+   "key": "f_water",
+   "type": "feature",
+   "name": "water-related",
+   "description": "Objects were on the surface of the ocean / on a river"
+  },
+  {
+   "key": "f_form",
+   "type": "feature",
+   "name": "other:objects in formation",
+   "description": "Six objects in a formation"
+  },
+  {
+   "key": "f_off",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Analysed by AARO and its partners"
+  },
+  {
+   "key": "x_nets",
+   "type": "explanation",
+   "name": "other:fishing-nets",
+   "description": "AARO's resolution: cone-shaped static fishing nets"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "2017-08-30",
+   "quote": "(U) Date: 30 August 2017"
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "1409L",
+   "quote": "30Aug 17 - 07392/1409L"
+  },
+  {
+   "s": "case",
+   "p": "case_name",
+   "v": "Southeast Asia Triangles",
+   "quote": "Case: \"Southeast Asia Triangles\""
+  },
+  {
+   "s": "case",
+   "p": "case_number",
+   "v": "330UAP000019",
+   "quote": "Case Number: 330UAP000019"
+  },
+  {
+   "s": "case",
+   "p": "case_status",
+   "v": "Resolved",
+   "quote": "(U) Case Status: Resolved; Objects"
+  },
+  {
+   "s": "case",
+   "p": "resolution",
+   "v": "Objects are fishing nets on the ocean surface",
+   "quote": "are fishing nets on the ocean surface"
+  },
+  {
+   "s": "case",
+   "p": "altitude",
+   "v": "N/A",
+   "quote": "(U) Altitude: N/A"
+  },
+  {
+   "s": "case",
+   "p": "reporter",
+   "v": "An Intelligence Community member",
+   "quote": "(U) Reporter: An Intelligence"
+  },
+  {
+   "s": "case",
+   "p": "sensor",
+   "v": "Satellite imagery",
+   "quote": "(U) Sensor: Satellite imagery"
+  },
+  {
+   "s": "case",
+   "p": "behavior",
+   "v": "Noted as possible risk to navigation",
+   "quote": "(U) Behavior: Noted as possible risk"
+  },
+  {
+   "s": "case",
+   "p": "object_count",
+   "v": "6",
+   "quote": "(U) Six triangular objects in a"
+  },
+  {
+   "s": "case",
+   "p": "reason_flagged",
+   "v": "image flagged as containing potentially anomalous objects and posing a risk to navigation",
+   "quote": "containing potentially anomalous objects and posing a risk to navigation. Additional imagery"
+  },
+  {
+   "s": "case",
+   "p": "reason_flagged",
+   "v": "potentially anomalous and potentially posing a risk to navigation",
+   "quote": "potentially anomalous and potentially"
+  },
+  {
+   "s": "case",
+   "p": "additional_evidence",
+   "v": "additional imagery of the area from 2017 was discovered and collected",
+   "quote": "of the area from 2017 was discovered and"
+  },
+  {
+   "s": "case",
+   "p": "analysis_method",
+   "v": "compared the size, shape and location of the initial image to existing and subsequent images in the same region",
+   "quote": "compared the size, shape, and location of the initial image to existing and subsequent images"
+  },
+  {
+   "s": "case",
+   "p": "analysis_method",
+   "v": "compared to libraries of known morphologies",
+   "quote": "in the same region, and compared it to libraries"
+  },
+  {
+   "s": "case",
+   "p": "location_detail",
+   "v": "surface of the ocean",
+   "quote": "floating on the surface of the ocean. This"
+  },
+  {
+   "s": "case",
+   "p": "location_detail",
+   "v": "fishing nets on the same river",
+   "quote": "(U) S&T Partner Three also found stock footage of fishing nets on the same river, which confirms the underlying analysis."
+  },
+  {
+   "s": "case",
+   "p": "hazard_assessment",
+   "v": "objects do not pose a hazard to navigation",
+   "quote": "assess they do not pose a hazard to navigation."
+  },
+  {
+   "s": "sea",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "(U) Location: Southeast Asia"
+  },
+  {
+   "s": "craft",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "(U) Six triangular objects in a"
+  },
+  {
+   "s": "craft",
+   "p": "count",
+   "v": "6",
+   "quote": "(U) Shape: Six dark triangles"
+  },
+  {
+   "s": "craft",
+   "p": "shape",
+   "v": "triangles",
+   "quote": "(U) Shape: Six dark triangles"
+  },
+  {
+   "s": "craft",
+   "p": "color",
+   "v": "dark",
+   "quote": "(U) Shape: Six dark triangles"
+  },
+  {
+   "s": "craft",
+   "p": "color",
+   "v": "black",
+   "quote": "(U) These triangular fishing nets were compared to the black triangles from the 2017 imagery and it was confirmed that are all are approximately the same size of about 11m X 7m."
+  },
+  {
+   "s": "craft",
+   "p": "arrangement",
+   "v": "in a formation",
+   "quote": "formation were originally flagged as"
+  },
+  {
+   "s": "craft",
+   "p": "size",
+   "v": "about 11m X 7m",
+   "quote": "(U) These triangular fishing nets were compared to the black triangles from the 2017 imagery and it was confirmed that are all are approximately the same size of about 11m X 7m."
+  },
+  {
+   "s": "craft",
+   "p": "size",
+   "v": "~ 11 X 7m",
+   "quote": "Fishing Nets ~ 11 X 7m"
+  },
+  {
+   "s": "craft",
+   "p": "motion",
+   "v": "static",
+   "quote": "(U) The images from 2017 display several triangles and were confirmed to be static, cone-shaped fishing nets."
+  },
+  {
+   "s": "craft",
+   "p": "position",
+   "v": "floating on the surface of the ocean",
+   "quote": "floating on the surface of the ocean. This"
+  },
+  {
+   "s": "craft",
+   "p": "identification",
+   "v": "cone-shaped static fishing nets",
+   "quote": "\"Southeast Asia Triangles\" case from 2017 almost certainly are cone-shaped static fishing nets"
+  },
+  {
+   "s": "craft",
+   "p": "identified_as",
+   "o": "x_nets",
+   "quote": "\"Southeast Asia Triangles\" case from 2017 almost certainly are cone-shaped static fishing nets"
+  },
+  {
+   "s": "aaro",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "(U) AARO assesses that the subjects of the"
+  },
+  {
+   "s": "aaro",
+   "p": "assessment",
+   "v": "the subjects of the case almost certainly are cone-shaped static fishing nets",
+   "quote": "\"Southeast Asia Triangles\" case from 2017 almost certainly are cone-shaped static fishing nets"
+  },
+  {
+   "s": "aaro",
+   "p": "confidence",
+   "v": "almost certainly",
+   "quote": "\"Southeast Asia Triangles\" case from 2017 almost certainly are cone-shaped static fishing nets"
+  },
+  {
+   "s": "aaro",
+   "p": "basis_of_conclusion",
+   "v": "thorough review of the evidence by AARO's Intelligence and Science and Technology (S&T) partners",
+   "quote": "evidence by AARO's Intelligence and Science and"
+  },
+  {
+   "s": "aaro",
+   "p": "proposed",
+   "o": "x_nets",
+   "quote": "(U) Figure 1: The original 2017 image (left) compared with another from 2017 (right) identified the objects as prosaic fishing nets."
+  },
+  {
+   "s": "intel",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "(U) AARO's Intelligence partners examined the image and compared it other imagery."
+  },
+  {
+   "s": "intel",
+   "p": "partner_of",
+   "o": "aaro",
+   "quote": "(U) AARO's Intelligence partners examined the image and compared it other imagery."
+  },
+  {
+   "s": "intel",
+   "p": "method",
+   "v": "examined the image and compared it to other imagery",
+   "quote": "(U) AARO's Intelligence partners examined the image and compared it other imagery."
+  },
+  {
+   "s": "intel",
+   "p": "finding",
+   "v": "located a clearer image in the vicinity of the objects in question",
+   "quote": "Specifically, they located a clearer image in the vicinity of the objects in question."
+  },
+  {
+   "s": "intel",
+   "p": "finding",
+   "v": "the 2017 images display several triangles confirmed to be static, cone-shaped fishing nets",
+   "quote": "(U) The images from 2017 display several triangles and were confirmed to be static, cone-shaped fishing nets."
+  },
+  {
+   "s": "intel",
+   "p": "finding",
+   "v": "the fishing nets and the black triangles are all approximately the same size, about 11m X 7m",
+   "quote": "(U) These triangular fishing nets were compared to the black triangles from the 2017 imagery and it was confirmed that are all are approximately the same size of about 11m X 7m."
+  },
+  {
+   "s": "intel",
+   "p": "confidence",
+   "v": "high confidence in their identification of the objects",
+   "quote": "(U) AARO's Intelligence partners have high confidence in their identification of these objects and"
+  },
+  {
+   "s": "intel",
+   "p": "assessment",
+   "v": "the objects do not pose a hazard to navigation",
+   "quote": "assess they do not pose a hazard to navigation."
+  },
+  {
+   "s": "intel",
+   "p": "proposed",
+   "o": "x_nets",
+   "quote": "(U) The images from 2017 display several triangles and were confirmed to be static, cone-shaped fishing nets."
+  },
+  {
+   "s": "st",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "(U) Three of AARO's S&T partners agree that the objects imaged in 2017 are fishing nets."
+  },
+  {
+   "s": "st",
+   "p": "partner_of",
+   "o": "aaro",
+   "quote": "(U) Three of AARO's S&T partners agree that the objects imaged in 2017 are fishing nets."
+  },
+  {
+   "s": "st",
+   "p": "partner_count",
+   "v": "3",
+   "quote": "(U) Three of AARO's S&T partners agree that the objects imaged in 2017 are fishing nets."
+  },
+  {
+   "s": "st",
+   "p": "assessment",
+   "v": "the objects imaged in 2017 are fishing nets",
+   "quote": "(U) Three of AARO's S&T partners agree that the objects imaged in 2017 are fishing nets."
+  },
+  {
+   "s": "st",
+   "p": "partner_one_finding",
+   "v": "subsequent images were especially clear; the location and the size comparison were critical in determining the assessment",
+   "quote": "(U) S&T Partner One specifically noted that subsequent images were especially clear; the location and the size comparison were critical in determining the assessment."
+  },
+  {
+   "s": "st",
+   "p": "partner_two_finding",
+   "v": "acquired and analyzed other images of the same geographical area, revealing multiple similar triangular shapes taken in late 2022 and early 2023",
+   "quote": "(U) S&T Partner Two acquired and analyzed other images of the same geographical area which revealed multiple similar triangular shapes taken in late 2022 and early 2023."
+  },
+  {
+   "s": "st",
+   "p": "partner_two_finding",
+   "v": "the images show significant downstream turbidity, confirming that the nets are on the water",
+   "quote": "These images also show significant downstream turbidity, confirming that these nets are on the water."
+  },
+  {
+   "s": "st",
+   "p": "partner_three_finding",
+   "v": "found stock footage of fishing nets on the same river, which confirms the underlying analysis",
+   "quote": "(U) S&T Partner Three also found stock footage of fishing nets on the same river, which confirms the underlying analysis."
+  },
+  {
+   "s": "st",
+   "p": "proposed",
+   "o": "x_nets",
+   "quote": "(U) Three of AARO's S&T partners agree that the objects imaged in 2017 are fishing nets."
+  },
+  {
+   "s": "ic",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "(U) Reporter: An Intelligence"
+  },
+  {
+   "s": "ic",
+   "p": "role",
+   "v": "the reporter was an Intelligence Community member",
+   "quote": "Community Member"
+  },
+  {
+   "s": "maxar",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Bourse: 0 2017, Maxar, USG Plus"
+  },
+  {
+   "s": "maxar",
+   "p": "credited_on",
+   "o": "img_orig",
+   "quote": "Bourse: 0 2017, Maxar, USG Plus"
+  },
+  {
+   "s": "satimg",
+   "p": "key_document",
+   "o": "case",
+   "quote": "(U) Sensor: Satellite imagery"
+  },
+  {
+   "s": "img_orig",
+   "p": "key_document",
+   "o": "case",
+   "quote": "(U) The image was originally flagged as"
+  },
+  {
+   "s": "img_orig",
+   "p": "part_of",
+   "o": "satimg",
+   "quote": "(U) Sensor: Satellite imagery"
+  },
+  {
+   "s": "img_orig",
+   "p": "timestamp",
+   "v": "30Aug 17 - 07392/1409L",
+   "quote": "30Aug 17 - 07392/1409L"
+  },
+  {
+   "s": "img_orig",
+   "p": "year",
+   "v": "2017",
+   "quote": "(U) Figure 1: The original 2017 image (left) compared with another from 2017 (right) identified the objects as prosaic fishing nets."
+  },
+  {
+   "s": "img_orig",
+   "p": "figure_position",
+   "v": "Figure 1, left",
+   "quote": "(U) Figure 1: The original 2017 image (left) compared with another from 2017 (right) identified the objects as prosaic fishing nets."
+  },
+  {
+   "s": "img_orig",
+   "p": "figure_label",
+   "v": "Fishing Nets ~ 11 X 7m",
+   "quote": "Fishing Nets ~ 11 X 7m"
+  },
+  {
+   "s": "img_orig",
+   "p": "source_credit",
+   "v": "2017, Maxar, USG Plus",
+   "quote": "Bourse: 0 2017, Maxar, USG Plus"
+  },
+  {
+   "s": "img_orig",
+   "p": "content",
+   "v": "containing potentially anomalous objects and posing a risk to navigation",
+   "quote": "containing potentially anomalous objects and posing a risk to navigation. Additional imagery"
+  },
+  {
+   "s": "img_cmp",
+   "p": "key_document",
+   "o": "case",
+   "quote": "(U) Figure 1: The original 2017 image (left) compared with another from 2017 (right) identified the objects as prosaic fishing nets."
+  },
+  {
+   "s": "img_cmp",
+   "p": "year",
+   "v": "2017",
+   "quote": "(U) Figure 1: The original 2017 image (left) compared with another from 2017 (right) identified the objects as prosaic fishing nets."
+  },
+  {
+   "s": "img_cmp",
+   "p": "figure_position",
+   "v": "Figure 1, right",
+   "quote": "(U) Figure 1: The original 2017 image (left) compared with another from 2017 (right) identified the objects as prosaic fishing nets."
+  },
+  {
+   "s": "img_cmp",
+   "p": "timestamp",
+   "v": "23 Feb 17-04382/1108L",
+   "quote": "23 Feb 17-04382/1108L"
+  },
+  {
+   "s": "img_cmp",
+   "p": "finding",
+   "v": "identified the objects as prosaic fishing nets",
+   "quote": "(U) Figure 1: The original 2017 image (left) compared with another from 2017 (right) identified the objects as prosaic fishing nets."
+  },
+  {
+   "s": "img_late",
+   "p": "key_document",
+   "o": "case",
+   "quote": "(U) S&T Partner Two acquired and analyzed other images of the same geographical area which revealed multiple similar triangular shapes taken in late 2022 and early 2023."
+  },
+  {
+   "s": "img_late",
+   "p": "date_taken",
+   "v": "late 2022 and early 2023",
+   "quote": "multiple similar triangular shapes taken in late 2022 and early 2023."
+  },
+  {
+   "s": "img_late",
+   "p": "content",
+   "v": "multiple similar triangular shapes",
+   "quote": "multiple similar triangular shapes taken in late 2022 and early 2023."
+  },
+  {
+   "s": "img_late",
+   "p": "content",
+   "v": "significant downstream turbidity",
+   "quote": "These images also show significant downstream turbidity, confirming that these nets are on the water."
+  },
+  {
+   "s": "stock",
+   "p": "key_document",
+   "o": "case",
+   "quote": "(U) S&T Partner Three also found stock footage of fishing nets on the same river, which confirms the underlying analysis."
+  },
+  {
+   "s": "stock",
+   "p": "found_by",
+   "v": "S&T Partner Three",
+   "quote": "(U) S&T Partner Three also found stock footage of fishing nets on the same river, which confirms the underlying analysis."
+  },
+  {
+   "s": "report",
+   "p": "figure_title",
+   "v": "\"Southeast Asia Triangles\": Identification of Fishing Nets",
+   "quote": "\"Southeast Asia Triangles\": Identification of Fishing Nets"
+  },
+  {
+   "s": "report",
+   "p": "figure_caption",
+   "v": "Figure 1: The original 2017 image (left) compared with another from 2017 (right) identified the objects as prosaic fishing nets.",
+   "quote": "(U) Figure 1: The original 2017 image (left) compared with another from 2017 (right) identified the objects as prosaic fishing nets."
+  },
+  {
+   "s": "f_tri",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "(U) Six triangular objects in a"
+  },
+  {
+   "s": "f_photo",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "(U) Sensor: Satellite imagery"
+  },
+  {
+   "s": "f_water",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "floating on the surface of the ocean. This"
+  },
+  {
+   "s": "f_form",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "formation were originally flagged as"
+  },
+  {
+   "s": "f_off",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "conclusion is based on a thorough review of the"
+  },
+  {
+   "s": "x_nets",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "\"Southeast Asia Triangles\" case from 2017 almost certainly are cone-shaped static fishing nets"
+  },
+  {
+   "s": "aaro",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "All-domain Anomaly Resolution Office universum mutao est. US Department of Defense"
+  },
+  {
+   "s": "dod",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "US Department of Defense"
+  },
+  {
+   "s": "opsr",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "Department of Defense OFFICE OF PREPUBLICATION AND SECURITY REVIEW"
+  },
+  {
+   "s": "opsr",
+   "p": "cleared_for_publication",
+   "o": "report",
+   "quote": "Oct 04, 2023 Department of Defense OFFICE OF PREPUBLICATION AND SECURITY REVIEW"
+  },
+  {
+   "s": "cos",
+   "p": "part_of",
+   "o": "aaro",
+   "quote": "Chief of Staff, AARO"
+  },
+  {
+   "s": "cos",
+   "p": "reviewed",
+   "o": "report",
+   "quote": "Reviewed by Chief of Staff, AARO"
+  },
+  {
+   "s": "report",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Case: \"Southeast Asia Triangles\""
+  },
+  {
+   "s": "aaro",
+   "p": "authored",
+   "o": "report",
+   "quote": "AARO \"Southeast Asia Triangles\": Identification of Fishing Nets"
+  },
+  {
+   "s": "report",
+   "p": "document_type",
+   "v": "Case Resolution",
+   "quote": "Case Resolution I 17 March 2023"
+  },
+  {
+   "s": "report",
+   "p": "date",
+   "v": "2023-03-17",
+   "quote": "Case Resolution I 17 March 2023"
+  },
+  {
+   "s": "report",
+   "p": "cleared_for_open_publication",
+   "v": "2023-10-04",
+   "quote": "Oct 04, 2023 Department of Defense OFFICE OF PREPUBLICATION AND SECURITY REVIEW"
+  },
+  {
+   "s": "report",
+   "p": "case_number",
+   "v": "330UAP000019",
+   "quote": "Case Number: 330UAP000019"
+  },
+  {
+   "s": "report",
+   "p": "classification",
+   "v": "UNCLASSIFIED",
+   "quote": "Page determined to be Unclassified"
+  },
+  {
+   "s": "report",
+   "p": "reviewed_by",
+   "v": "Chief of Staff, AARO",
+   "quote": "Reviewed by Chief of Staff, AARO"
+  },
+  {
+   "s": "report",
+   "p": "page_review_date",
+   "v": "2/6/2025",
+   "quote": "Page determined to be Unclassified Date: 2/6/2025"
+  },
+  {
+   "s": "report",
+   "p": "release_status",
+   "v": "Released in Full",
+   "quote": "Released in Full: X"
+  },
+  {
+   "s": "report",
+   "p": "release_authority",
+   "v": "FY24 NDAA, now codified at 44 U.S.C. 2107",
+   "quote": "Authority: FY24 NDAA, now codified at 44 U.S.C. 2107"
+  },
+  {
+   "s": "ndaa",
+   "p": "mentioned_by",
+   "o": "report",
+   "quote": "Authority: FY24 NDAA, now codified at 44 U.S.C. 2107"
+  },
+  {
+   "s": "ndaa",
+   "p": "section_cited",
+   "v": "Section 1841(a)(1)(C)",
+   "quote": "IAW FY24 NDAA, Section 1841(a)(1)(C)"
+  },
+  {
+   "s": "ndaa",
+   "p": "codified_at",
+   "v": "44 U.S.C. 2107",
+   "quote": "Authority: FY24 NDAA, now codified at 44 U.S.C. 2107"
+  },
+  {
+   "s": "usc",
+   "p": "mentioned_by",
+   "o": "report",
+   "quote": "Authority: FY24 NDAA, now codified at 44 U.S.C. 2107"
+  }
+ ]
+}

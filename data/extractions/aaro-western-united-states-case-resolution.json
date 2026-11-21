@@ -1,0 +1,761 @@
+{
+ "slug": "aaro-western-united-states-case-resolution",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "2021 Western United States UAP incident",
+   "aliases": [
+    "Western United States",
+    "\"Western United States\" case",
+    "Western United States Unidentified Anomalous Phenomena",
+    "Western U.S. UAP"
+   ],
+   "description": "Military personnel in 2021 reported five equidistant lights on an infrared sensor as a potential incursion into restricted military airspace in the western United States; resolved by AARO as commercial aircraft up to 300 nautical miles away."
+  },
+  {
+   "key": "craft",
+   "type": "craft",
+   "name": "five equidistant lights over the western United States in 2021",
+   "aliases": [
+    "Western U.S. UAP"
+   ],
+   "description": "Oblong dots/lights that flew at a relatively constant pace; assessed to be commercial aircraft"
+  },
+  {
+   "key": "aaro",
+   "type": "organization",
+   "name": "All-domain Anomaly Resolution Office",
+   "aliases": [
+    "AARO",
+    "All-Domain Anomaly Resolution Office"
+   ],
+   "description": "US Department of Defense office that analysed and resolved the case"
+  },
+  {
+   "key": "dod",
+   "type": "organization",
+   "name": "United States Department of Defense",
+   "aliases": [
+    "US Department of Defense",
+    "Department of Defense"
+   ],
+   "description": "Parent department of AARO, named on the paper's letterhead and clearance stamp"
+  },
+  {
+   "key": "opsr",
+   "type": "organization",
+   "name": "Office of Prepublication and Security Review",
+   "aliases": [
+    "Department of Defense Office of Prepublication and Security Review",
+    "OFFICE OF PREPUBLICATION AND SECURITY REVIEW"
+   ],
+   "description": "Department of Defense office whose stamp cleared the paper for open publication"
+  },
+  {
+   "key": "cos",
+   "type": "organization",
+   "name": "Chief of Staff, AARO",
+   "aliases": [
+    "AARO Chief of Staff"
+   ],
+   "description": "AARO office (no individual named) that reviewed each page and determined it unclassified"
+  },
+  {
+   "key": "intel",
+   "type": "organization",
+   "name": "AARO Intelligence partners",
+   "aliases": [
+    "AARO's Intelligence partners",
+    "Intelligence partners"
+   ],
+   "description": "Unnamed intelligence partners of AARO that analysed the case"
+  },
+  {
+   "key": "st",
+   "type": "organization",
+   "name": "AARO Science and Technology (S&T) partners",
+   "aliases": [
+    "AARO's S&T partners",
+    "S&T partners",
+    "S&T Partners"
+   ],
+   "description": "Unnamed science and technology partners of AARO that analysed the case"
+  },
+  {
+   "key": "report",
+   "type": "document",
+   "name": "AARO Case Resolution of 'Western United States'",
+   "description": "The AARO case resolution paper itself"
+  },
+  {
+   "key": "ndaa",
+   "type": "document",
+   "name": "National Defense Authorization Act for Fiscal Year 2024",
+   "aliases": [
+    "FY24 NDAA"
+   ],
+   "description": "Statute cited as the authority for the paper's review and release"
+  },
+  {
+   "key": "usc",
+   "type": "document",
+   "name": "44 U.S.C. 2107",
+   "description": "US Code section where the FY24 NDAA release authority is said to be codified"
+  },
+  {
+   "key": "west",
+   "type": "place",
+   "name": "Western United States",
+   "aliases": [
+    "Western U.S."
+   ],
+   "description": "Location given for the case"
+  },
+  {
+   "key": "us",
+   "type": "place",
+   "name": "United States",
+   "description": "Country of the incident"
+  },
+  {
+   "key": "ir",
+   "type": "vehicle",
+   "name": "Infrared (IR) sensor",
+   "aliases": [
+    "IR sensor",
+    "Infrared (IR)"
+   ],
+   "description": "Sensor on the observers' platform that recorded the lights; its vibration and autofocus distorted their shape"
+  },
+  {
+   "key": "img",
+   "type": "document",
+   "name": "infrared sensor imagery of the 2021 Western United States UAP",
+   "aliases": [
+    "Figure 1: Western U.S. UAP"
+   ],
+   "description": "Imagery of the UAP reproduced as Figure 1, showing shape distortion from sensor vibration"
+  },
+  {
+   "key": "f_lights",
+   "type": "feature",
+   "name": "lights-only",
+   "description": "Objects were seen as lights/dots"
+  },
+  {
+   "key": "f_shape",
+   "type": "feature",
+   "name": "shape-other",
+   "description": "Shape given as oblong dots/lights"
+  },
+  {
+   "key": "f_mil",
+   "type": "feature",
+   "name": "military-witnesses",
+   "description": "Reported by military personnel"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "Reported by military personnel / 'the observers' (plural)"
+  },
+  {
+   "key": "f_ir",
+   "type": "feature",
+   "name": "other:infrared sensor detection",
+   "description": "Recorded by an infrared sensor"
+  },
+  {
+   "key": "f_air",
+   "type": "feature",
+   "name": "other:restricted-airspace-incursion",
+   "description": "Reported as a potential incursion into restricted military airspace"
+  },
+  {
+   "key": "f_off",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Analysed by AARO and its partners"
+  },
+  {
+   "key": "x_ac",
+   "type": "explanation",
+   "name": "conventional-aircraft",
+   "description": "The lights were commercial aircraft on established air corridors"
+  },
+  {
+   "key": "x_art",
+   "type": "explanation",
+   "name": "camera-artifact",
+   "description": "Apparent shape changes came from sensor vibration and autofocus"
+  },
+  {
+   "key": "x_mis",
+   "type": "explanation",
+   "name": "misperception",
+   "description": "Observers underestimated the distance to the objects"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "2021",
+   "quote": "(U) Date(s): 2021"
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "(U) Location: Western United States"
+  },
+  {
+   "s": "case",
+   "p": "case_name",
+   "v": "Western United States",
+   "quote": "Case: \"Western United States\""
+  },
+  {
+   "s": "case",
+   "p": "case_number",
+   "v": "330UAP000020",
+   "quote": "Case Number: 330UAP000020"
+  },
+  {
+   "s": "case",
+   "p": "case_status",
+   "v": "Resolved",
+   "quote": "(U) Case Status: Resolved; the lights"
+  },
+  {
+   "s": "case",
+   "p": "resolution",
+   "v": "the lights were aircraft up to 300NM away from the sensor",
+   "quote": "were aircraft up to 300NM away from the"
+  },
+  {
+   "s": "case",
+   "p": "altitude",
+   "v": "Between 20,000 to 40,000 feet",
+   "quote": "(U) Altitude: Between 20,000 to 40,000"
+  },
+  {
+   "s": "case",
+   "p": "shape",
+   "v": "Oblong dots/lights",
+   "quote": "(U) Shape: Oblong dots/lights"
+  },
+  {
+   "s": "case",
+   "p": "reporter",
+   "v": "Military personnel",
+   "quote": "(U) Reporter: Military personnel"
+  },
+  {
+   "s": "case",
+   "p": "sensor",
+   "v": "Infrared (IR)",
+   "quote": "(U) Sensor: Infrared (IR)"
+  },
+  {
+   "s": "case",
+   "p": "behavior",
+   "v": "Equidistant lights that flew at a relatively constant pace",
+   "quote": "(U) Behavior: Equidistant lights that"
+  },
+  {
+   "s": "case",
+   "p": "object_count",
+   "v": "5",
+   "quote": "(U) Military personnel reported seeing five"
+  },
+  {
+   "s": "case",
+   "p": "location_detail",
+   "v": "military airspace",
+   "quote": "military airspace"
+  },
+  {
+   "s": "case",
+   "p": "location_detail",
+   "v": "restricted military airspace",
+   "quote": "restricted military airspace."
+  },
+  {
+   "s": "case",
+   "p": "reason_reported",
+   "v": "the observed UAP presenting a potential incursion into restricted airspace",
+   "quote": "due to the observed UAP presenting a"
+  },
+  {
+   "s": "case",
+   "p": "reason_reported",
+   "v": "potential incursion into restricted airspace",
+   "quote": "potential incursion into restricted"
+  },
+  {
+   "s": "case",
+   "p": "reported_by",
+   "v": "Military personnel reported this case",
+   "quote": "(U) Military personnel reported this case"
+  },
+  {
+   "s": "case",
+   "p": "witness_belief",
+   "v": "believed the lights represented a potential incursion into restricted military airspace",
+   "quote": "represented a potential incursion into"
+  },
+  {
+   "s": "case",
+   "p": "analysis_finding",
+   "v": "the objects were significantly farther from the platform than originally estimated by the observers",
+   "quote": "farther from the platform than originally estimated by the observers."
+  },
+  {
+   "s": "case",
+   "p": "analysis_finding",
+   "v": "the objects strongly correlated with specific commercial aircraft",
+   "quote": "(U) The objects strongly correlated with"
+  },
+  {
+   "s": "case",
+   "p": "analysis_finding",
+   "v": "air-traffic control data suggested the objects were likely commercial aircraft transiting known flight corridors between major airports in the region",
+   "quote": "(U) Analysis of air-traffic control data suggested the objects were likely commercial aircraft transiting known flight corridors between major airports in the region."
+  },
+  {
+   "s": "west",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "(U) Location: Western United States"
+  },
+  {
+   "s": "west",
+   "p": "located_in",
+   "o": "us",
+   "quote": "(U) Location: Western United States"
+  },
+  {
+   "s": "craft",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "(U) Military personnel reported seeing five"
+  },
+  {
+   "s": "craft",
+   "p": "count",
+   "v": "5",
+   "quote": "(U) Military personnel reported seeing five"
+  },
+  {
+   "s": "craft",
+   "p": "shape",
+   "v": "oblong dots/lights",
+   "quote": "(U) Shape: Oblong dots/lights"
+  },
+  {
+   "s": "craft",
+   "p": "arrangement",
+   "v": "equidistant lights",
+   "quote": "equidistant lights that they believed"
+  },
+  {
+   "s": "craft",
+   "p": "motion",
+   "v": "flew at a relatively constant pace",
+   "quote": "flew at a relatively constant pace"
+  },
+  {
+   "s": "craft",
+   "p": "altitude",
+   "v": "between 20,000 to 40,000 feet",
+   "quote": "(U) AARO's S&T partners used boresight analysis to determine that the UAP were commercial aircraft at an altitude of between 20,000 to 40,000 feet at a similar distance."
+  },
+  {
+   "s": "craft",
+   "p": "distance",
+   "v": "as far as 300 nautical miles from the platform",
+   "quote": "as 300 nautical miles from the platform, based"
+  },
+  {
+   "s": "craft",
+   "p": "distance",
+   "v": "up to 300 nautical miles from the sensor",
+   "quote": "different air routes up to 300 nautical miles from the sensor."
+  },
+  {
+   "s": "craft",
+   "p": "shape_change",
+   "v": "apparent changes in shape were the result of sensor vibration and autofocus",
+   "quote": "(U) Apparent changes in the UAP shapes were the result of sensor vibration and autofocus."
+  },
+  {
+   "s": "craft",
+   "p": "identification",
+   "v": "almost certainly commercial aircraft travelling on well-established air corridors",
+   "quote": "were almost certainly commercial aircraft travelling on well-established air corridors as far"
+  },
+  {
+   "s": "craft",
+   "p": "identification",
+   "v": "specific commercial aircraft travelling on different air routes",
+   "quote": "specific commercial aircraft travelling on"
+  },
+  {
+   "s": "craft",
+   "p": "identified_as",
+   "o": "x_ac",
+   "quote": "were almost certainly commercial aircraft travelling on well-established air corridors as far"
+  },
+  {
+   "s": "ir",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "(U) Sensor: Infrared (IR)"
+  },
+  {
+   "s": "ir",
+   "p": "effect",
+   "v": "sensor vibration and autofocus caused apparent changes in the UAP shapes",
+   "quote": "(U) Apparent changes in the UAP shapes were the result of sensor vibration and autofocus."
+  },
+  {
+   "s": "ir",
+   "p": "range_to_objects",
+   "v": "up to 300 nautical miles",
+   "quote": "different air routes up to 300 nautical miles from the sensor."
+  },
+  {
+   "s": "img",
+   "p": "key_document",
+   "o": "case",
+   "quote": "(U) Figure 1: Western U.S. UAP shape distorted due to sensor vibration."
+  },
+  {
+   "s": "img",
+   "p": "content",
+   "v": "UAP shape distorted due to sensor vibration",
+   "quote": "(U) Figure 1: Western U.S. UAP shape distorted due to sensor vibration."
+  },
+  {
+   "s": "aaro",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "(U) AARO assesses that the UAPs in this case"
+  },
+  {
+   "s": "aaro",
+   "p": "assessment",
+   "v": "the UAPs were almost certainly commercial aircraft travelling on well-established air corridors",
+   "quote": "were almost certainly commercial aircraft travelling on well-established air corridors as far"
+  },
+  {
+   "s": "aaro",
+   "p": "confidence",
+   "v": "almost certainly",
+   "quote": "were almost certainly commercial aircraft travelling on well-established air corridors as far"
+  },
+  {
+   "s": "aaro",
+   "p": "basis_of_conclusion",
+   "v": "thorough review of the data by multiple analytical and scientific entities",
+   "quote": "on a thorough review of the data by multiple"
+  },
+  {
+   "s": "aaro",
+   "p": "basis_of_conclusion",
+   "v": "analysis of the objects' positions and acquisition of additional data",
+   "quote": "(U) Analysis of the objects' positions and"
+  },
+  {
+   "s": "aaro",
+   "p": "method",
+   "v": "AARO's analytic framework",
+   "quote": "with AARO's analytic framework."
+  },
+  {
+   "s": "aaro",
+   "p": "proposed",
+   "o": "x_ac",
+   "quote": "were almost certainly commercial aircraft travelling on well-established air corridors as far"
+  },
+  {
+   "s": "aaro",
+   "p": "proposed",
+   "o": "x_art",
+   "quote": "(U) Apparent changes in the UAP shapes were the result of sensor vibration and autofocus."
+  },
+  {
+   "s": "aaro",
+   "p": "proposed",
+   "o": "x_mis",
+   "quote": "farther from the platform than originally estimated by the observers."
+  },
+  {
+   "s": "intel",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "(U) AARO's Intelligence and Science and"
+  },
+  {
+   "s": "intel",
+   "p": "partner_of",
+   "o": "aaro",
+   "quote": "(U) AARO's Intelligence and Science and"
+  },
+  {
+   "s": "intel",
+   "p": "assessment",
+   "v": "air-traffic control data suggested the objects were likely commercial aircraft transiting known flight corridors between major airports in the region",
+   "quote": "(U) Analysis of air-traffic control data suggested the objects were likely commercial aircraft transiting known flight corridors between major airports in the region."
+  },
+  {
+   "s": "intel",
+   "p": "assessment",
+   "v": "apparent changes in the UAP shapes were the result of sensor vibration and autofocus",
+   "quote": "(U) Apparent changes in the UAP shapes were the result of sensor vibration and autofocus."
+  },
+  {
+   "s": "intel",
+   "p": "proposed",
+   "o": "x_ac",
+   "quote": "(U) Analysis of air-traffic control data suggested the objects were likely commercial aircraft transiting known flight corridors between major airports in the region."
+  },
+  {
+   "s": "st",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "(U) AARO's S&T partners independently came to the same conclusion."
+  },
+  {
+   "s": "st",
+   "p": "partner_of",
+   "o": "aaro",
+   "quote": "(U) AARO's S&T partners independently came to the same conclusion."
+  },
+  {
+   "s": "st",
+   "p": "assessment",
+   "v": "independently came to the same conclusion",
+   "quote": "Technology (S&T) partners independently came to the same conclusion in accordance"
+  },
+  {
+   "s": "st",
+   "p": "method",
+   "v": "boresight analysis",
+   "quote": "(U) AARO's S&T partners used boresight analysis to determine that the UAP were commercial aircraft at an altitude of between 20,000 to 40,000 feet at a similar distance."
+  },
+  {
+   "s": "st",
+   "p": "finding",
+   "v": "the UAP were commercial aircraft at an altitude of between 20,000 to 40,000 feet at a similar distance",
+   "quote": "(U) AARO's S&T partners used boresight analysis to determine that the UAP were commercial aircraft at an altitude of between 20,000 to 40,000 feet at a similar distance."
+  },
+  {
+   "s": "st",
+   "p": "proposed",
+   "o": "x_ac",
+   "quote": "(U) AARO's S&T partners used boresight analysis to determine that the UAP were commercial aircraft at an altitude of between 20,000 to 40,000 feet at a similar distance."
+  },
+  {
+   "s": "report",
+   "p": "figure_title",
+   "v": "Western United States Unidentified Anomalous Phenomena",
+   "quote": "Western United States Unidentified Anomalous Phenomena"
+  },
+  {
+   "s": "report",
+   "p": "figure_caption",
+   "v": "Figure 1: Western U.S. UAP shape distorted due to sensor vibration.",
+   "quote": "(U) Figure 1: Western U.S. UAP shape distorted due to sensor vibration."
+  },
+  {
+   "s": "f_lights",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "(U) Shape: Oblong dots/lights"
+  },
+  {
+   "s": "f_shape",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "(U) Shape: Oblong dots/lights"
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "(U) Reporter: Military personnel"
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "farther from the platform than originally estimated by the observers."
+  },
+  {
+   "s": "f_ir",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "(U) Sensor: Infrared (IR)"
+  },
+  {
+   "s": "f_air",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "potential incursion into restricted"
+  },
+  {
+   "s": "f_off",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "on a thorough review of the data by multiple"
+  },
+  {
+   "s": "x_ac",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "were almost certainly commercial aircraft travelling on well-established air corridors as far"
+  },
+  {
+   "s": "x_art",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "(U) Apparent changes in the UAP shapes were the result of sensor vibration and autofocus."
+  },
+  {
+   "s": "x_mis",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "farther from the platform than originally estimated by the observers."
+  },
+  {
+   "s": "aaro",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "All-Domain Anomaly Resolution Office universum mutao est. US Department of Defense"
+  },
+  {
+   "s": "dod",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "US Department of Defense"
+  },
+  {
+   "s": "opsr",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "Department of Defense OFFICE OF PREPUBLICATION AND SECURITY REVIEW"
+  },
+  {
+   "s": "opsr",
+   "p": "cleared_for_publication",
+   "o": "report",
+   "quote": "Department of Defense OFFICE OF PREPUBLICATION AND SECURITY REVIEW"
+  },
+  {
+   "s": "cos",
+   "p": "part_of",
+   "o": "aaro",
+   "quote": "Chief of Staff, AARO"
+  },
+  {
+   "s": "cos",
+   "p": "reviewed",
+   "o": "report",
+   "quote": "Reviewed by Chief of Staff, AARO"
+  },
+  {
+   "s": "report",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Case: \"Western United States\""
+  },
+  {
+   "s": "aaro",
+   "p": "authored",
+   "o": "report",
+   "quote": "AARO Western United States Unidentified Anomalous Phenomena"
+  },
+  {
+   "s": "report",
+   "p": "document_type",
+   "v": "Case Resolution",
+   "quote": "Case Resolution 8 May 2023"
+  },
+  {
+   "s": "report",
+   "p": "date",
+   "v": "2023-05-08",
+   "quote": "Case Resolution 8 May 2023"
+  },
+  {
+   "s": "report",
+   "p": "cleared_for_open_publication",
+   "v": "2023-10-04",
+   "quote": "For Open Publication Case Resolution 8 May 2023 Oct 04, 2023"
+  },
+  {
+   "s": "report",
+   "p": "case_number",
+   "v": "330UAP000020",
+   "quote": "Case Number: 330UAP000020"
+  },
+  {
+   "s": "report",
+   "p": "classification",
+   "v": "UNCLASSIFIED",
+   "quote": "Page determined to be Unclassified"
+  },
+  {
+   "s": "report",
+   "p": "reviewed_by",
+   "v": "Chief of Staff, AARO",
+   "quote": "Reviewed by Chief of Staff, AARO"
+  },
+  {
+   "s": "report",
+   "p": "page_review_date",
+   "v": "2/6/2025",
+   "quote": "Page determined to be Unclassified Date: 2/6/2025"
+  },
+  {
+   "s": "report",
+   "p": "release_status",
+   "v": "Released in Full",
+   "quote": "Released in Full: X"
+  },
+  {
+   "s": "report",
+   "p": "release_authority",
+   "v": "FY24 NDAA, now codified at 44 U.S.C. 2107",
+   "quote": "Authority: FY24 NDAA, now codified at 44 U.S.C. 2107"
+  },
+  {
+   "s": "ndaa",
+   "p": "mentioned_by",
+   "o": "report",
+   "quote": "Authority: FY24 NDAA, now codified at 44 U.S.C. 2107"
+  },
+  {
+   "s": "ndaa",
+   "p": "section_cited",
+   "v": "Section 1841(a)(1)(C)",
+   "quote": "IAW FY24 NDAA, Section 1841 (a)(1)(C)"
+  },
+  {
+   "s": "ndaa",
+   "p": "codified_at",
+   "v": "44 U.S.C. 2107",
+   "quote": "Authority: FY24 NDAA, now codified at 44 U.S.C. 2107"
+  },
+  {
+   "s": "usc",
+   "p": "mentioned_by",
+   "o": "report",
+   "quote": "Authority: FY24 NDAA, now codified at 44 U.S.C. 2107"
+  }
+ ]
+}

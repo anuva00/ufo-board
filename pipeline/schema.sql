@@ -3,13 +3,19 @@
 
 CREATE TABLE IF NOT EXISTS source (
   id          INTEGER PRIMARY KEY,
-  slug        TEXT UNIQUE NOT NULL,     -- one source document per case for now
+  slug        TEXT UNIQUE NOT NULL,
   title       TEXT NOT NULL,
   url         TEXT NOT NULL,
   revision_id INTEGER,                  -- exact version the quotes come from
   fetched_at  TEXT,
   license     TEXT,
   lat REAL, lon REAL,
+  kind        TEXT,                     -- encyclopedia | hearing | government report | case resolution
+  publisher   TEXT,
+  date        TEXT,                     -- publication or event date of the document
+  case_slug   TEXT NOT NULL,            -- the case file this source belongs to (several sources can share one)
+  case_name   TEXT,                     -- name of the case file when no encyclopedia source names it
+  case_kind   TEXT NOT NULL DEFAULT 'case',   -- case | document (a hearing or report that spans many cases)
   text        TEXT NOT NULL
 );
 

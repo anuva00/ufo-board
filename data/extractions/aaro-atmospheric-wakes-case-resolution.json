@@ -1,0 +1,897 @@
+{
+ "slug": "aaro-atmospheric-wakes-case-resolution",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "2022–2023 Middle East and Mediterranean Sea UAP incident",
+   "aliases": [
+    "Atmospheric Wakes",
+    "\"Atmospheric Wakes\" case"
+   ],
+   "description": "Three UAP reports filed by theater UAV operators after missions in the Middle East and the Mediterranean Sea in 2022 and 2023, in which infrared video seemed to show an atmospheric wake or anomalous propulsion; resolved by AARO as prosaic aircraft with a sensor artifact."
+  },
+  {
+   "key": "c1",
+   "type": "craft",
+   "name": "unidentified object in \"Atmospheric Wakes\" Case One",
+   "aliases": [
+    "object of Case One"
+   ],
+   "description": "Object in Case One; not identified, but assessed as prosaic and not exhibiting anomalous behaviors"
+  },
+  {
+   "key": "c2a",
+   "type": "craft",
+   "name": "\"Atmospheric Wakes\" Case Two object matched to a military aircraft",
+   "description": "One of two UAP in Case Two; almost certainly a known military aircraft"
+  },
+  {
+   "key": "c2b",
+   "type": "craft",
+   "name": "second \"Atmospheric Wakes\" Case Two object, oblong in appearance",
+   "aliases": [
+    "second object"
+   ],
+   "description": "Second UAP in Case Two; appeared oblong due to camera aberration, unidentified but assessed as probably a small aircraft"
+  },
+  {
+   "key": "c3",
+   "type": "craft",
+   "name": "\"Atmospheric Wakes\" Case Three object identified as an Airbus A380",
+   "description": "UAP in Case Three; identified as a specific Airbus A380 commercial aircraft on a recognized travel corridor"
+  },
+  {
+   "key": "aaro",
+   "type": "organization",
+   "name": "All-domain Anomaly Resolution Office",
+   "aliases": [
+    "AARO",
+    "All-Domain Anomaly Resolution Office"
+   ],
+   "description": "US Department of Defense office that analysed and resolved the case"
+  },
+  {
+   "key": "dod",
+   "type": "organization",
+   "name": "United States Department of Defense",
+   "aliases": [
+    "US Department of Defense",
+    "Department of Defense"
+   ],
+   "description": "Parent department of AARO, named on the paper's letterhead and clearance stamp"
+  },
+  {
+   "key": "opsr",
+   "type": "organization",
+   "name": "Office of Prepublication and Security Review",
+   "aliases": [
+    "Department of Defense Office of Prepublication and Security Review",
+    "OFFICE OF PREPUBLICATION AND SECURITY REVIEW"
+   ],
+   "description": "Department of Defense office whose stamp cleared the paper for open publication"
+  },
+  {
+   "key": "cos",
+   "type": "organization",
+   "name": "Chief of Staff, AARO",
+   "aliases": [
+    "AARO Chief of Staff"
+   ],
+   "description": "AARO office (no individual named) that reviewed each page and determined it unclassified"
+  },
+  {
+   "key": "intel",
+   "type": "organization",
+   "name": "AARO Intelligence partners",
+   "aliases": [
+    "AARO's Intelligence partners",
+    "Intelligence partners"
+   ],
+   "description": "Unnamed intelligence partners of AARO that analysed the case"
+  },
+  {
+   "key": "st",
+   "type": "organization",
+   "name": "AARO Science and Technology (S&T) partners",
+   "aliases": [
+    "AARO's S&T partners",
+    "S&T partners",
+    "S&T Partners"
+   ],
+   "description": "Unnamed science and technology partners of AARO that analysed the case"
+  },
+  {
+   "key": "report",
+   "type": "document",
+   "name": "AARO Case Resolution of 'Atmospheric Wakes'",
+   "description": "The AARO case resolution paper itself"
+  },
+  {
+   "key": "ndaa",
+   "type": "document",
+   "name": "National Defense Authorization Act for Fiscal Year 2024",
+   "aliases": [
+    "FY24 NDAA"
+   ],
+   "description": "Statute cited as the authority for the paper's review and release"
+  },
+  {
+   "key": "usc",
+   "type": "document",
+   "name": "44 U.S.C. 2107",
+   "description": "US Code section where the FY24 NDAA release authority is said to be codified"
+  },
+  {
+   "key": "me",
+   "type": "place",
+   "name": "Middle East",
+   "description": "One of the two regions where the missions took place"
+  },
+  {
+   "key": "med",
+   "type": "place",
+   "name": "Mediterranean Sea",
+   "description": "One of the two regions where the missions took place"
+  },
+  {
+   "key": "uav",
+   "type": "vehicle",
+   "name": "Theater UAV",
+   "aliases": [
+    "UAV"
+   ],
+   "description": "Unmanned platform whose operators submitted the reports"
+  },
+  {
+   "key": "a380",
+   "type": "vehicle",
+   "name": "Airbus A380",
+   "aliases": [
+    "Airbus A380 commercial aircraft"
+   ],
+   "description": "Commercial aircraft type the Case Three object was identified as"
+  },
+  {
+   "key": "ir",
+   "type": "vehicle",
+   "name": "Infrared (IR) sensor",
+   "aliases": [
+    "IR sensor",
+    "Infrared (IR)"
+   ],
+   "description": "Sensor that recorded the videos and produced the wake artifact"
+  },
+  {
+   "key": "video",
+   "type": "document",
+   "name": "\"Atmospheric Wakes\" infrared full-motion videos",
+   "aliases": [
+    "full-motion video"
+   ],
+   "description": "The videos from the three cases showing the apparent wake"
+  },
+  {
+   "key": "f_video",
+   "type": "feature",
+   "name": "film-or-video",
+   "description": "Recorded on video"
+  },
+  {
+   "key": "f_ir",
+   "type": "feature",
+   "name": "other:infrared sensor detection",
+   "description": "Recorded by an infrared sensor"
+  },
+  {
+   "key": "f_wake",
+   "type": "feature",
+   "name": "other:atmospheric-wake",
+   "description": "Objects appeared to trail an atmospheric wake"
+  },
+  {
+   "key": "f_prop",
+   "type": "feature",
+   "name": "other:anomalous-propulsion-signature",
+   "description": "Videos appeared to show an anomalous propulsion signature"
+  },
+  {
+   "key": "f_off",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Analysed by AARO and its partners"
+  },
+  {
+   "key": "x_art",
+   "type": "explanation",
+   "name": "camera-artifact",
+   "description": "The wake was a sensor artifact"
+  },
+  {
+   "key": "x_ac",
+   "type": "explanation",
+   "name": "conventional-aircraft",
+   "description": "The objects were prosaic military and commercial aircraft"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "2022",
+   "quote": "(U) Date: 2022 and 2023"
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "2023",
+   "quote": "(U) Date: 2022 and 2023"
+  },
+  {
+   "s": "case",
+   "p": "case_name",
+   "v": "Atmospheric Wakes",
+   "quote": "Case: \"Atmospheric Wakes\""
+  },
+  {
+   "s": "case",
+   "p": "case_number",
+   "v": "330UAP000017",
+   "quote": "Case Number: 330UAP000017"
+  },
+  {
+   "s": "case",
+   "p": "case_status",
+   "v": "Resolved",
+   "quote": "(U) Case Status: Resolved; prosaic"
+  },
+  {
+   "s": "case",
+   "p": "resolution",
+   "v": "prosaic aircraft; the \"wake\" is a sensor artifact",
+   "quote": "aircraft; the \"wake\" is a sensor artifact"
+  },
+  {
+   "s": "case",
+   "p": "altitude",
+   "v": "N/A",
+   "quote": "(U) Altitude: N/A"
+  },
+  {
+   "s": "case",
+   "p": "shape",
+   "v": "N/A",
+   "quote": "(U) Shape: N/A"
+  },
+  {
+   "s": "case",
+   "p": "reporter",
+   "v": "Theater UAV operators",
+   "quote": "(U) Reporter: Theater UAV operators"
+  },
+  {
+   "s": "case",
+   "p": "sensor",
+   "v": "Infrared (IR)",
+   "quote": "(U) Sensor: Infrared (IR)"
+  },
+  {
+   "s": "case",
+   "p": "behavior",
+   "v": "Exhibited potential anomalous propulsion",
+   "quote": "(U) Behavior: Exhibited potential"
+  },
+  {
+   "s": "case",
+   "p": "incident_count",
+   "v": "3",
+   "quote": "(U) AARO assesses that the UAP reported in these three cases almost certainly were not exhibiting"
+  },
+  {
+   "s": "case",
+   "p": "mission_count",
+   "v": "3",
+   "quote": "after three different missions in the"
+  },
+  {
+   "s": "case",
+   "p": "years",
+   "v": "2022 and 2023",
+   "quote": "Sea in 2022 and 2023. The reports"
+  },
+  {
+   "s": "case",
+   "p": "reason_reported",
+   "v": "potential hazard posed to the mission",
+   "quote": "were filed due to the potential hazard"
+  },
+  {
+   "s": "case",
+   "p": "reason_reported",
+   "v": "the videos depict a potentially anomalous propulsion signature",
+   "quote": "videos depict a potentially anomalous propulsion signature"
+  },
+  {
+   "s": "me",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "(U) Location: Middle East and the"
+  },
+  {
+   "s": "med",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Middle East, and the Mediterranean"
+  },
+  {
+   "s": "c1",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "(U) The object in Case One has not been identified,"
+  },
+  {
+   "s": "c1",
+   "p": "identification_status",
+   "v": "has not been identified",
+   "quote": "(U) The object in Case One has not been identified,"
+  },
+  {
+   "s": "c1",
+   "p": "identification_status",
+   "v": "AARO's intelligence partners were not able to identify it",
+   "quote": "were not able to identify the object of Case One, but"
+  },
+  {
+   "s": "c1",
+   "p": "assessment",
+   "v": "AARO is certain it was not exhibiting anomalous behaviors",
+   "quote": "but AARO is certain that it was not exhibiting"
+  },
+  {
+   "s": "c1",
+   "p": "assessment",
+   "v": "almost certainly a prosaic object",
+   "quote": "anomalous characteristics and are almost certain it's a prosaic object based on thorough review of the evidence."
+  },
+  {
+   "s": "c2a",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "(U) For the two UAP reported in Case Two, it is assessed that both objects are most likely aircraft, one military and the other a small but unidentified aircraft."
+  },
+  {
+   "s": "c2a",
+   "p": "identification",
+   "v": "almost certainly a known military aircraft",
+   "quote": "(U) In Case Two, one object was almost certainly a known military aircraft. The second object appears"
+  },
+  {
+   "s": "c2a",
+   "p": "identification",
+   "v": "matched closely with a track of a military aircraft",
+   "quote": "Location data from aircraft in the vicinity were compared and it was determined that one of the UAP matched closely with a track of a military aircraft."
+  },
+  {
+   "s": "c2a",
+   "p": "identified_as",
+   "o": "x_ac",
+   "quote": "(U) In Case Two, one object was almost certainly a known military aircraft. The second object appears"
+  },
+  {
+   "s": "c2b",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "(U) For the two UAP reported in Case Two, it is assessed that both objects are most likely aircraft, one military and the other a small but unidentified aircraft."
+  },
+  {
+   "s": "c2b",
+   "p": "apparent_shape",
+   "v": "oblong, due to camera aberration",
+   "quote": "oblong due to camera aberration and remains"
+  },
+  {
+   "s": "c2b",
+   "p": "identification_status",
+   "v": "remains unidentified, but was probably a prosaic aircraft",
+   "quote": "unidentified, but also was probably a prosaic"
+  },
+  {
+   "s": "c2b",
+   "p": "identification",
+   "v": "a small but unidentified aircraft",
+   "quote": "(U) For the two UAP reported in Case Two, it is assessed that both objects are most likely aircraft, one military and the other a small but unidentified aircraft."
+  },
+  {
+   "s": "c2b",
+   "p": "assessment",
+   "v": "assessed with medium confidence to be a small aircraft; no track match was possible",
+   "quote": "(U) Although a similar match of the second object was not possible, it was assessed with medium confidence that it was a small aircraft."
+  },
+  {
+   "s": "c2b",
+   "p": "assessment_basis",
+   "v": "line of sight analysis and comparison to other known objects",
+   "quote": "This assessment was based on line of sight analysis and comparing it to other known objects."
+  },
+  {
+   "s": "c2b",
+   "p": "identified_as",
+   "o": "x_ac",
+   "quote": "(U) For the two UAP reported in Case Two, it is assessed that both objects are most likely aircraft, one military and the other a small but unidentified aircraft."
+  },
+  {
+   "s": "c3",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "(U) In Case Three, the object was almost certainly a known and identified commercial aircraft, travelling"
+  },
+  {
+   "s": "c3",
+   "p": "identification",
+   "v": "almost certainly a known and identified commercial aircraft",
+   "quote": "(U) In Case Three, the object was almost certainly a known and identified commercial aircraft, travelling"
+  },
+  {
+   "s": "c3",
+   "p": "identification",
+   "v": "a specific Airbus A380 commercial aircraft",
+   "quote": "(U) AARO's intelligence partners have high confidence that they identified the UAP in Case Three as a specific Airbus A380 commercial aircraft based on commercial flight data."
+  },
+  {
+   "s": "c3",
+   "p": "flight_path",
+   "v": "travelling along a recognized travel corridor",
+   "quote": "along a recognized travel corridor."
+  },
+  {
+   "s": "c3",
+   "p": "size",
+   "v": "photogrammetry gave a size estimate close to that of an Airbus A380",
+   "quote": "(U) Photogrammetry analysis of the object in Case Three was conducted, which resulted in a close size estimate to that of an Airbus A380."
+  },
+  {
+   "s": "c3",
+   "p": "identified_as",
+   "o": "a380",
+   "quote": "(U) AARO's intelligence partners have high confidence that they identified the UAP in Case Three as a specific Airbus A380 commercial aircraft based on commercial flight data."
+  },
+  {
+   "s": "c3",
+   "p": "identified_as",
+   "o": "x_ac",
+   "quote": "(U) In Case Three, the object was almost certainly a known and identified commercial aircraft, travelling"
+  },
+  {
+   "s": "uav",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "(U) Reporter: Theater UAV operators"
+  },
+  {
+   "s": "uav",
+   "p": "role",
+   "v": "its operators reported the UAP",
+   "quote": "(U) Reporter: Theater UAV operators"
+  },
+  {
+   "s": "a380",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "(U) AARO's intelligence partners have high confidence that they identified the UAP in Case Three as a specific Airbus A380 commercial aircraft based on commercial flight data."
+  },
+  {
+   "s": "a380",
+   "p": "aircraft_type",
+   "v": "commercial aircraft",
+   "quote": "(U) AARO's intelligence partners have high confidence that they identified the UAP in Case Three as a specific Airbus A380 commercial aircraft based on commercial flight data."
+  },
+  {
+   "s": "ir",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "(U) Sensor: Infrared (IR)"
+  },
+  {
+   "s": "ir",
+   "p": "artifact",
+   "v": "the \"wake\" is a sensor artifact",
+   "quote": "aircraft; the \"wake\" is a sensor artifact"
+  },
+  {
+   "s": "ir",
+   "p": "analysis",
+   "v": "S&T Partner Two conducted a detailed analysis of the full-motion video and the IR sensor",
+   "quote": "(U) S&T Partner Two conducted a detailed analysis of the full-motion video and the IR sensor, reaching the same high confidence conclusion that the wakes were sensor artifacts."
+  },
+  {
+   "s": "video",
+   "p": "key_document",
+   "o": "case",
+   "quote": "videos depict a potentially anomalous propulsion signature"
+  },
+  {
+   "s": "video",
+   "p": "format",
+   "v": "full-motion video",
+   "quote": "(U) S&T Partner Two conducted a detailed analysis of the full-motion video and the IR sensor, reaching the same high confidence conclusion that the wakes were sensor artifacts."
+  },
+  {
+   "s": "video",
+   "p": "content",
+   "v": "depict a potentially anomalous propulsion signature",
+   "quote": "videos depict a potentially anomalous propulsion signature"
+  },
+  {
+   "s": "video",
+   "p": "content",
+   "v": "an \"atmospheric wake\" in each video",
+   "quote": "confidence that the \"atmospheric wake\" in each video"
+  },
+  {
+   "s": "video",
+   "p": "content",
+   "v": "other objects in the videos also leave a similar trail",
+   "quote": "It was noted that other objects in the videos also leave a similar trail."
+  },
+  {
+   "s": "aaro",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "(U) AARO assesses that the UAP reported in these three cases almost certainly were not exhibiting"
+  },
+  {
+   "s": "aaro",
+   "p": "assessment",
+   "v": "the UAP in the three cases almost certainly were not exhibiting anomalous propulsion or atmospheric wakes",
+   "quote": "(U) AARO assesses that the UAP reported in these three cases almost certainly were not exhibiting"
+  },
+  {
+   "s": "aaro",
+   "p": "assessment",
+   "v": "the observed effect was the result of a sensor artifact in all cases",
+   "quote": "the observed effect was the result of a sensor artifact"
+  },
+  {
+   "s": "aaro",
+   "p": "confidence",
+   "v": "almost certainly",
+   "quote": "(U) AARO assesses that the UAP reported in these three cases almost certainly were not exhibiting"
+  },
+  {
+   "s": "aaro",
+   "p": "basis_of_conclusion",
+   "v": "analyses by AARO's Intelligence and Science and Technology (S&T) partners",
+   "quote": "in all cases, based on analyses by AARO's Intelligence"
+  },
+  {
+   "s": "aaro",
+   "p": "proposed",
+   "o": "x_art",
+   "quote": "the observed effect was the result of a sensor artifact"
+  },
+  {
+   "s": "aaro",
+   "p": "proposed",
+   "o": "x_ac",
+   "quote": "(U) In Case Three, the object was almost certainly a known and identified commercial aircraft, travelling"
+  },
+  {
+   "s": "intel",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "(U) AARO's Intelligence partners assess with high"
+  },
+  {
+   "s": "intel",
+   "p": "partner_of",
+   "o": "aaro",
+   "quote": "(U) AARO's Intelligence partners assess with high"
+  },
+  {
+   "s": "intel",
+   "p": "assessment",
+   "v": "the \"atmospheric wake\" in each video is a sensor anomaly",
+   "quote": "is a sensor anomaly. AARO's intelligence partners"
+  },
+  {
+   "s": "intel",
+   "p": "confidence",
+   "v": "high confidence that the wake is a sensor anomaly",
+   "quote": "(U) AARO's Intelligence partners assess with high"
+  },
+  {
+   "s": "intel",
+   "p": "finding",
+   "v": "not able to identify the object of Case One",
+   "quote": "were not able to identify the object of Case One, but"
+  },
+  {
+   "s": "intel",
+   "p": "confidence",
+   "v": "high confidence that the Case One object is not displaying any anomalous characteristics",
+   "quote": "have high confidence that it is not displaying any"
+  },
+  {
+   "s": "intel",
+   "p": "assessment",
+   "v": "almost certain the Case One object is a prosaic object, based on thorough review of the evidence",
+   "quote": "anomalous characteristics and are almost certain it's a prosaic object based on thorough review of the evidence."
+  },
+  {
+   "s": "intel",
+   "p": "method",
+   "v": "compared location data from aircraft in the vicinity",
+   "quote": "Location data from aircraft in the vicinity were compared and it was determined that one of the UAP matched closely with a track of a military aircraft."
+  },
+  {
+   "s": "intel",
+   "p": "method",
+   "v": "line of sight analysis and comparing to other known objects",
+   "quote": "This assessment was based on line of sight analysis and comparing it to other known objects."
+  },
+  {
+   "s": "intel",
+   "p": "method",
+   "v": "commercial flight data",
+   "quote": "(U) AARO's intelligence partners have high confidence that they identified the UAP in Case Three as a specific Airbus A380 commercial aircraft based on commercial flight data."
+  },
+  {
+   "s": "intel",
+   "p": "method",
+   "v": "photogrammetry analysis of the Case Three object",
+   "quote": "(U) Photogrammetry analysis of the object in Case Three was conducted, which resulted in a close size estimate to that of an Airbus A380."
+  },
+  {
+   "s": "intel",
+   "p": "confidence",
+   "v": "high confidence that the Case Three UAP is a specific Airbus A380",
+   "quote": "(U) AARO's intelligence partners have high confidence that they identified the UAP in Case Three as a specific Airbus A380 commercial aircraft based on commercial flight data."
+  },
+  {
+   "s": "intel",
+   "p": "proposed",
+   "o": "x_art",
+   "quote": "is a sensor anomaly. AARO's intelligence partners"
+  },
+  {
+   "s": "intel",
+   "p": "proposed",
+   "o": "x_ac",
+   "quote": "(U) AARO's intelligence partners have high confidence that they identified the UAP in Case Three as a specific Airbus A380 commercial aircraft based on commercial flight data."
+  },
+  {
+   "s": "st",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "(U) Two of AARO's S&T Partners also assessed that the \"wakes\" observed in these three cases were sensor artifacts, but did not identify the objects captured on the sensors."
+  },
+  {
+   "s": "st",
+   "p": "partner_of",
+   "o": "aaro",
+   "quote": "(U) Two of AARO's S&T Partners also assessed that the \"wakes\" observed in these three cases were sensor artifacts, but did not identify the objects captured on the sensors."
+  },
+  {
+   "s": "st",
+   "p": "partner_count",
+   "v": "2",
+   "quote": "(U) Two of AARO's S&T Partners also assessed that the \"wakes\" observed in these three cases were sensor artifacts, but did not identify the objects captured on the sensors."
+  },
+  {
+   "s": "st",
+   "p": "assessment",
+   "v": "the \"wakes\" observed in the three cases were sensor artifacts",
+   "quote": "(U) Two of AARO's S&T Partners also assessed that the \"wakes\" observed in these three cases were sensor artifacts, but did not identify the objects captured on the sensors."
+  },
+  {
+   "s": "st",
+   "p": "limitation",
+   "v": "did not identify the objects captured on the sensors",
+   "quote": "(U) Two of AARO's S&T Partners also assessed that the \"wakes\" observed in these three cases were sensor artifacts, but did not identify the objects captured on the sensors."
+  },
+  {
+   "s": "st",
+   "p": "partner_one_finding",
+   "v": "the trails were camera artifacts resulting from the object rapidly traversing the camera's field of view",
+   "quote": "(U) S&T Partner One assessed the trails were camera artifacts resulting from the object rapidly traversing the camera's field of view."
+  },
+  {
+   "s": "st",
+   "p": "partner_one_finding",
+   "v": "other objects in the videos also leave a similar trail",
+   "quote": "It was noted that other objects in the videos also leave a similar trail."
+  },
+  {
+   "s": "st",
+   "p": "partner_two_finding",
+   "v": "detailed analysis of the full-motion video and the IR sensor reached the same high confidence conclusion that the wakes were sensor artifacts",
+   "quote": "(U) S&T Partner Two conducted a detailed analysis of the full-motion video and the IR sensor, reaching the same high confidence conclusion that the wakes were sensor artifacts."
+  },
+  {
+   "s": "st",
+   "p": "proposed",
+   "o": "x_art",
+   "quote": "(U) Two of AARO's S&T Partners also assessed that the \"wakes\" observed in these three cases were sensor artifacts, but did not identify the objects captured on the sensors."
+  },
+  {
+   "s": "report",
+   "p": "figure_title",
+   "v": "\"Atmospheric Wakes\" Case Two: Sensor Artifact Trailing the Aircraft",
+   "quote": "\"Atmospheric Wakes\" Case Two: Sensor Artifact Trailing the Aircraft"
+  },
+  {
+   "s": "report",
+   "p": "figure_caption",
+   "v": "Case Two: Sensor artifact trailing the aircraft.",
+   "quote": "(U) Case Two: Sensor artifact trailing the aircraft."
+  },
+  {
+   "s": "f_video",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "videos depict a potentially anomalous propulsion signature"
+  },
+  {
+   "s": "f_ir",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "(U) Sensor: Infrared (IR)"
+  },
+  {
+   "s": "f_wake",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "confidence that the \"atmospheric wake\" in each video"
+  },
+  {
+   "s": "f_prop",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "videos depict a potentially anomalous propulsion signature"
+  },
+  {
+   "s": "f_off",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "in all cases, based on analyses by AARO's Intelligence"
+  },
+  {
+   "s": "x_art",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "the observed effect was the result of a sensor artifact"
+  },
+  {
+   "s": "x_ac",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "(U) For the two UAP reported in Case Two, it is assessed that both objects are most likely aircraft, one military and the other a small but unidentified aircraft."
+  },
+  {
+   "s": "aaro",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "All-domain Anomaly Resolution Office universum mutao est. US Department of Defense"
+  },
+  {
+   "s": "dod",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "US Department of Defense"
+  },
+  {
+   "s": "opsr",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "Department of Defense OFFICE OF PREPUBLICATION AND SECURITY REVIEW"
+  },
+  {
+   "s": "opsr",
+   "p": "cleared_for_publication",
+   "o": "report",
+   "quote": "Department of Defense OFFICE OF PREPUBLICATION AND SECURITY REVIEW"
+  },
+  {
+   "s": "cos",
+   "p": "part_of",
+   "o": "aaro",
+   "quote": "Chief of Staff, AARO"
+  },
+  {
+   "s": "cos",
+   "p": "reviewed",
+   "o": "report",
+   "quote": "Reviewed by Chief of Staff, AARO"
+  },
+  {
+   "s": "report",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Case: \"Atmospheric Wakes\""
+  },
+  {
+   "s": "aaro",
+   "p": "authored",
+   "o": "report",
+   "quote": "AARO \"Atmospheric Wakes\" Case Two: Sensor Artifact Trailing the Aircraft"
+  },
+  {
+   "s": "report",
+   "p": "document_type",
+   "v": "Case Resolution",
+   "quote": "Case Resolution I 8 May 2023"
+  },
+  {
+   "s": "report",
+   "p": "date",
+   "v": "2023-05-08",
+   "quote": "Case Resolution I 8 May 2023"
+  },
+  {
+   "s": "report",
+   "p": "cleared_for_open_publication",
+   "v": "2023-10-04",
+   "quote": "Oct 04, 2023"
+  },
+  {
+   "s": "report",
+   "p": "case_number",
+   "v": "330UAP000017",
+   "quote": "Case Number: 330UAP000017"
+  },
+  {
+   "s": "report",
+   "p": "classification",
+   "v": "UNCLASSIFIED",
+   "quote": "Page determined to be Unclassified"
+  },
+  {
+   "s": "report",
+   "p": "reviewed_by",
+   "v": "Chief of Staff, AARO",
+   "quote": "Reviewed by Chief of Staff, AARO"
+  },
+  {
+   "s": "report",
+   "p": "page_review_date",
+   "v": "2/6/2025",
+   "quote": "Date: 2/6/2025"
+  },
+  {
+   "s": "report",
+   "p": "release_status",
+   "v": "Released in Full",
+   "quote": "Released in Full: X"
+  },
+  {
+   "s": "report",
+   "p": "release_authority",
+   "v": "FY24 NDAA, now codified at 44 U.S.C. 2107",
+   "quote": "Authority: FY24 NDAA, now codified at 44 U.S.C. 2107"
+  },
+  {
+   "s": "ndaa",
+   "p": "mentioned_by",
+   "o": "report",
+   "quote": "Authority: FY24 NDAA, now codified at 44 U.S.C. 2107"
+  },
+  {
+   "s": "ndaa",
+   "p": "section_cited",
+   "v": "Section 1841(a)(1)(C)",
+   "quote": "IAW FY24 NDAA, Section 1841(a)(1)(C)"
+  },
+  {
+   "s": "ndaa",
+   "p": "codified_at",
+   "v": "44 U.S.C. 2107",
+   "quote": "Authority: FY24 NDAA, now codified at 44 U.S.C. 2107"
+  },
+  {
+   "s": "usc",
+   "p": "mentioned_by",
+   "o": "report",
+   "quote": "Authority: FY24 NDAA, now codified at 44 U.S.C. 2107"
+  }
+ ]
+}

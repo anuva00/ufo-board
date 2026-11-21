@@ -126,6 +126,35 @@ Every entity needs at least one claim. Aim for these, in order:
   may not. One quote may support several claims, and a predicate may repeat.
 - Prefer the recommended predicates; invent a new one only when none fits.
 
+## Documents that cover many incidents
+
+Hearing transcripts, government reports and case-resolution papers are not
+about one incident. For these sources:
+
+- The `case` entity (key `case`, type `case`) is **the document or event
+  itself**, named as in the source file's title without "(part N of M)".
+  A source that is one part of a longer document is extracted on its own;
+  use only the text of your part.
+- Every specific incident the text discusses gets its own `case`-type entity,
+  linked to the document with `related_case`. If the incident is one of the
+  names in `data/case_names.txt`, use that exact name (put the text's wording
+  in `aliases`); otherwise name it "<year> <place or unit> <incident|sighting>"
+  from what the text says.
+- Tie people, places, objects and details to **the incident they belong to**,
+  not to the document: `{"s": "fravor", "p": "witness", "o": "nimitz"}`.
+  Literals about an incident (`date_start`, `shape`, `speed`) go on the
+  incident entity. People who testify or author the document link to `case`
+  with `witness` only if they are a hearing witness; members of Congress and
+  staff use `official_involved`.
+- Testimony is the valuable part: for each witness capture what they say they
+  saw or were told, as `statement` literals on the person, each with its quote.
+  Programmes, offices, contractors, documents and named individuals mentioned
+  in testimony all get entities.
+- Skip procedural text (roll calls, yielding time, thanks) and boilerplate.
+- Features and explanations attach to the incident they describe with
+  `has_feature` / `explained_as` (object is the incident entity). Use them on
+  `case` only for a document that resolves a single incident.
+
 ## Quotes
 
 - Copy from the source exactly: same words, same punctuation. 8 to 400

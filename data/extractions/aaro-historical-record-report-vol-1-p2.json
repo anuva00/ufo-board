@@ -1,0 +1,4444 @@
+{
+ "slug": "aaro-historical-record-report-vol-1-p2",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "AARO Historical Record Report Volume 1",
+   "description": "AARO report on the historical record of US government involvement with UAP; this part covers the Roswell inquiries, AAWSAP/AATIP and later offices, foreign and academic efforts, key findings, and AARO's assessment of interviewee claims about hidden UAP programs."
+  },
+  {
+   "key": "aaro",
+   "type": "organization",
+   "name": "All-domain Anomaly Resolution Office",
+   "aliases": [
+    "AARO"
+   ],
+   "description": "DoD office established July 15, 2022 that authored this report and investigated interviewee claims"
+  },
+  {
+   "key": "usg",
+   "type": "organization",
+   "name": "United States government",
+   "aliases": [
+    "USG"
+   ],
+   "description": "The federal government, alleged in the narratives to hold off-world technology"
+  },
+  {
+   "key": "dod",
+   "type": "organization",
+   "name": "United States Department of Defense",
+   "aliases": [
+    "DoD",
+    "the Department"
+   ],
+   "description": "US defense department"
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "aliases": [
+    "USAF",
+    "Air Force"
+   ],
+   "description": "US military air service that investigated Roswell and ran earlier UFO projects"
+  },
+  {
+   "key": "usaaf",
+   "type": "organization",
+   "name": "United States Army Air Forces",
+   "aliases": [
+    "U.S. Army Air Force",
+    "Army Air Force"
+   ],
+   "description": "Predecessor air arm whose balloon programme produced the Roswell debris"
+  },
+  {
+   "key": "army",
+   "type": "organization",
+   "name": "United States Army",
+   "aliases": [
+    "U.S. Army"
+   ],
+   "description": "US Army, which analysed the alleged spacecraft material sample"
+  },
+  {
+   "key": "navy",
+   "type": "organization",
+   "name": "United States Navy",
+   "aliases": [
+    "Department of the Navy",
+    "USN"
+   ],
+   "description": "Naval service asked to lead the UAPTF"
+  },
+  {
+   "key": "congress",
+   "type": "organization",
+   "name": "United States Congress",
+   "aliases": [
+    "Congress"
+   ],
+   "description": "US legislature to which AARO reports"
+  },
+  {
+   "key": "senate",
+   "type": "organization",
+   "name": "United States Senate",
+   "aliases": [
+    "Senate"
+   ],
+   "description": "Upper chamber of Congress"
+  },
+  {
+   "key": "whitehouse",
+   "type": "organization",
+   "name": "White House",
+   "description": "Office of the US President"
+  },
+  {
+   "key": "cia",
+   "type": "organization",
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "description": "US foreign intelligence agency"
+  },
+  {
+   "key": "csi",
+   "type": "organization",
+   "name": "Center for the Study of Intelligence",
+   "aliases": [
+    "CSI",
+    "CIA/CSI"
+   ],
+   "description": "CIA centre consulted on the alleged 1961 SNIE"
+  },
+  {
+   "key": "nsa",
+   "type": "organization",
+   "name": "National Security Agency",
+   "aliases": [
+    "NSA"
+   ],
+   "description": "US signals intelligence agency whose archives were searched for the alleged SNIE"
+  },
+  {
+   "key": "nsasab",
+   "type": "organization",
+   "name": "NSA Scientific Advisory Board",
+   "aliases": [
+    "NSA Scientific Studies Board"
+   ],
+   "description": "NSA board purported to be an author of the alleged 1961 SNIE"
+  },
+  {
+   "key": "dia",
+   "type": "organization",
+   "name": "Defense Intelligence Agency",
+   "aliases": [
+    "DIA"
+   ],
+   "description": "DoD intelligence agency that managed AAWSAP/AATIP"
+  },
+  {
+   "key": "dhs",
+   "type": "organization",
+   "name": "United States Department of Homeland Security",
+   "aliases": [
+    "DHS"
+   ],
+   "description": "Department to which KONA BLUE was proposed"
+  },
+  {
+   "key": "doe",
+   "type": "organization",
+   "name": "United States Department of Energy",
+   "aliases": [
+    "DOE"
+   ],
+   "description": "Department asked to review NDAs pertaining to UAP"
+  },
+  {
+   "key": "ic",
+   "type": "organization",
+   "name": "United States Intelligence Community",
+   "aliases": [
+    "IC",
+    "IC elements"
+   ],
+   "description": "The US intelligence community"
+  },
+  {
+   "key": "odni",
+   "type": "organization",
+   "name": "Office of the Director of National Intelligence",
+   "aliases": [
+    "ODNI"
+   ],
+   "description": "Office that produced the 2021 preliminary assessment and the 2022 annual report"
+  },
+  {
+   "key": "nasa",
+   "type": "organization",
+   "name": "NASA",
+   "description": "US space agency that established the UAP Independent Study Team"
+  },
+  {
+   "key": "gao",
+   "type": "organization",
+   "name": "General Accounting Office",
+   "aliases": [
+    "GAO",
+    "Government Accountability Office"
+   ],
+   "description": "Congressional audit agency that investigated Roswell records"
+  },
+  {
+   "key": "ousdi",
+   "type": "organization",
+   "name": "Office of the Under Secretary of Defense for Intelligence",
+   "description": "DoD office that coordinated the establishment of AAWSAP"
+  },
+  {
+   "key": "ousdis",
+   "type": "organization",
+   "name": "Office of the Under Secretary of Defense for Intelligence and Security",
+   "aliases": [
+    "USD(I&S)"
+   ],
+   "description": "DoD office with cognizance over the UAPTF, AOIMSG and AARO"
+  },
+  {
+   "key": "sapco",
+   "type": "organization",
+   "name": "Special Access Program Control Offices",
+   "description": "DoD, IC and DHS offices partnered with AARO to review named programs"
+  },
+  {
+   "key": "roswell",
+   "type": "case",
+   "name": "Roswell incident",
+   "aliases": [
+    "Roswell Incident",
+    "Roswell crash",
+    "the crash near Roswell"
+   ],
+   "description": "July 1947 recovery of debris near Roswell Army Air Field that sparked claims of a crashed alien spaceship"
+  },
+  {
+   "key": "roswell_nm",
+   "type": "place",
+   "name": "Roswell, New Mexico",
+   "aliases": [
+    "Roswell"
+   ],
+   "description": "Town near which the 1947 debris was recovered"
+  },
+  {
+   "key": "nm",
+   "type": "place",
+   "name": "New Mexico",
+   "aliases": [
+    "New Mexico desert"
+   ],
+   "description": "US state"
+  },
+  {
+   "key": "raaf",
+   "type": "place",
+   "name": "Roswell Army Air Field",
+   "aliases": [
+    "RAAF",
+    "Roswell Army Air Force (RAAF)"
+   ],
+   "description": "Army airfield near which the debris was recovered"
+  },
+  {
+   "key": "f_debris",
+   "type": "feature",
+   "name": "debris-or-material"
+  },
+  {
+   "key": "f_crash",
+   "type": "feature",
+   "name": "crash-retrieval-claim"
+  },
+  {
+   "key": "f_coverup",
+   "type": "feature",
+   "name": "alleged-cover-up"
+  },
+  {
+   "key": "f_occupants",
+   "type": "feature",
+   "name": "occupants-reported"
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation"
+  },
+  {
+   "key": "f_milbase",
+   "type": "feature",
+   "name": "military-base-proximity"
+  },
+  {
+   "key": "f_milwit",
+   "type": "feature",
+   "name": "military-witnesses"
+  },
+  {
+   "key": "f_nuclear",
+   "type": "feature",
+   "name": "nuclear-site-proximity"
+  },
+  {
+   "key": "f_emi",
+   "type": "feature",
+   "name": "electromagnetic-interference"
+  },
+  {
+   "key": "f_film",
+   "type": "feature",
+   "name": "film-or-video"
+  },
+  {
+   "key": "f_hover",
+   "type": "feature",
+   "name": "hovering"
+  },
+  {
+   "key": "f_paranormal",
+   "type": "feature",
+   "name": "other:paranormal activity"
+  },
+  {
+   "key": "f_reveng",
+   "type": "feature",
+   "name": "other:reverse-engineering claim"
+  },
+  {
+   "key": "x_balloon",
+   "type": "explanation",
+   "name": "balloon"
+  },
+  {
+   "key": "x_dummies",
+   "type": "explanation",
+   "name": "other:test dummies"
+  },
+  {
+   "key": "x_secret",
+   "type": "explanation",
+   "name": "secret-aircraft"
+  },
+  {
+   "key": "x_miltest",
+   "type": "explanation",
+   "name": "military-test-or-exercise"
+  },
+  {
+   "key": "x_misperception",
+   "type": "explanation",
+   "name": "misperception"
+  },
+  {
+   "key": "x_alloy",
+   "type": "explanation",
+   "name": "other:terrestrial metal alloy"
+  },
+  {
+   "key": "mogul",
+   "type": "program",
+   "name": "Project Mogul",
+   "description": "Then-classified balloon programme whose balloon type matched the Roswell materials"
+  },
+  {
+   "key": "clinton",
+   "type": "person",
+   "name": "Clinton",
+   "aliases": [
+    "President Clinton"
+   ],
+   "description": "US President who asked whether the USG held aliens or alien technology"
+  },
+  {
+   "key": "podesta",
+   "type": "person",
+   "name": "Podesta",
+   "aliases": [
+    "Chief of Staff Podesta"
+   ],
+   "description": "White House Chief of Staff who inquired about Roswell"
+  },
+  {
+   "key": "berger",
+   "type": "person",
+   "name": "Sandy Berger",
+   "description": "Former National Security Advisor tasked by President Clinton to determine if the USG held aliens or alien technology"
+  },
+  {
+   "key": "schiff",
+   "type": "person",
+   "name": "Steven H. Schiff",
+   "aliases": [
+    "Congressman Steven H. Schiff",
+    "Steven Schiff"
+   ],
+   "description": "New Mexico congressman who inquired about Roswell in 1993"
+  },
+  {
+   "key": "widnall",
+   "type": "person",
+   "name": "Sheila E. Widnall",
+   "description": "Secretary of the Air Force who released interviewees from security obligations"
+  },
+  {
+   "key": "weaver",
+   "type": "person",
+   "name": "Richard L. Weaver",
+   "aliases": [
+    "Col Richard L. Weaver",
+    "Richard Weaver"
+   ],
+   "description": "USAF colonel, author of the Air Force research report on the Roswell incident"
+  },
+  {
+   "key": "mcandrew",
+   "type": "person",
+   "name": "James McAndrew",
+   "aliases": [
+    "1st Lt James McAndrew"
+   ],
+   "description": "USAF first lieutenant, author of the Synopsis of Balloon Research Findings"
+  },
+  {
+   "key": "rr95",
+   "type": "document",
+   "name": "The Roswell Report: Fact versus Fiction in the New Mexico Desert",
+   "aliases": [
+    "The Roswell Report",
+    "The Roswell Report: Fact vs. Fiction in the New Mexico Desert"
+   ],
+   "description": "1995 USAF report on the Roswell incident"
+  },
+  {
+   "key": "weaver_report",
+   "type": "document",
+   "name": "The Report of the U.S. Air Force Research Regarding the 'Roswell Incident",
+   "description": "Weaver's report included in The Roswell Report (1995)"
+  },
+  {
+   "key": "synopsis",
+   "type": "document",
+   "name": "Synopsis of Balloon Research Findings",
+   "description": "McAndrew's synopsis included in The Roswell Report (1995)"
+  },
+  {
+   "key": "gao_report",
+   "type": "document",
+   "name": "The GAO Roswell Report",
+   "aliases": [
+    "GAO's 1995 report"
+   ],
+   "description": "1995 GAO report on the results of its Roswell investigation"
+  },
+  {
+   "key": "case_closed",
+   "type": "document",
+   "name": "The Roswell Report: Case Closed",
+   "description": "1997 USAF follow-on report on Roswell"
+  },
+  {
+   "key": "kc97",
+   "type": "vehicle",
+   "name": "KC-97 aircraft",
+   "aliases": [
+    "KC-97"
+   ],
+   "description": "Aircraft in a 1956 accident that AARO says was conflated with Roswell 'alien bodies' claims"
+  },
+  {
+   "key": "aawsap",
+   "type": "program",
+   "name": "Advanced Aerospace Weapons System Application Program",
+   "aliases": [
+    "AAWSAP",
+    "AAWSAP/AATIP"
+   ],
+   "description": "DIA-managed 2009-2012 programme, also known as AATIP, to assess foreign advanced aerospace threats"
+  },
+  {
+   "key": "aatip",
+   "type": "program",
+   "name": "Advanced Aerospace Threat Identification Program",
+   "aliases": [
+    "AATIP"
+   ],
+   "description": "Name used interchangeably with AAWSAP; never an official DoD program"
+  },
+  {
+   "key": "reid",
+   "type": "person",
+   "name": "Harry Reid",
+   "aliases": [
+    "Senator Reid",
+    "Senate Majority Leader Harry Reid"
+   ],
+   "description": "Senate Majority Leader (D-NV) at whose direction AAWSAP was funded"
+  },
+  {
+   "key": "approps",
+   "type": "document",
+   "name": "Defense Appropriations Acts of Fiscal Years 2008 and 2010",
+   "description": "Acts that appropriated $22 million for the DIA programme"
+  },
+  {
+   "key": "reid_letter",
+   "type": "document",
+   "name": "Senator Reid's letter of 24 June 2009 to Deputy Secretary of Defense William Lynn III",
+   "description": "Letter requesting that AAWSAP/AATIP be made a DoD Special Access Program"
+  },
+  {
+   "key": "lynn",
+   "type": "person",
+   "name": "William Lynn III",
+   "aliases": [
+    "Deputy Secretary Lynn"
+   ],
+   "description": "Deputy Secretary of Defense who declined to make AAWSAP/AATIP a Special Access Program"
+  },
+  {
+   "key": "clapper",
+   "type": "person",
+   "name": "James R. Clapper, Jr.",
+   "description": "Under Secretary of Defense for Intelligence who recommended against SAP designation"
+  },
+  {
+   "key": "utah_hotspot",
+   "type": "case",
+   "name": "Utah property UAP and paranormal activity reports",
+   "aliases": [
+    "property in Utah"
+   ],
+   "description": "Alleged hotspot of UAP and paranormal activity at a Utah property owned by the head of the AAWSAP contractor"
+  },
+  {
+   "key": "utah",
+   "type": "place",
+   "name": "Utah",
+   "description": "US state where the contractor's property was located"
+  },
+  {
+   "key": "bluebook",
+   "type": "program",
+   "name": "Project Blue Book",
+   "aliases": [
+    "Project BLUE BOOK"
+   ],
+   "description": "USAF UFO investigation project whose cases AAWSAP/AATIP reviewed"
+  },
+  {
+   "key": "konablue",
+   "type": "program",
+   "name": "KONA BLUE",
+   "aliases": [
+    "Kona Blue"
+   ],
+   "description": "Proposed DHS Special Access Program to restart AAWSAP/AATIP-style UAP and paranormal research; never approved"
+  },
+  {
+   "key": "kb_proposal",
+   "type": "document",
+   "name": "KONA BLUE proposal",
+   "description": "Proposal package for the KONA BLUE Prospective Special Access Program, including an Oral History Initiative section"
+  },
+  {
+   "key": "lieberman",
+   "type": "person",
+   "name": "Lieberman",
+   "aliases": [
+    "Senator Lieberman"
+   ],
+   "description": "Senator who with Reid asked that the KONA BLUE PSAP be established"
+  },
+  {
+   "key": "uaptf",
+   "type": "program",
+   "name": "Unidentified Aerial Phenomena Task Force",
+   "aliases": [
+    "UAPTF"
+   ],
+   "description": "Navy-led DoD task force, August 2020-November 2021"
+  },
+  {
+   "key": "norquist",
+   "type": "person",
+   "name": "David L. Norquist",
+   "description": "Deputy Secretary of Defense who approved the establishment of the UAPTF"
+  },
+  {
+   "key": "prc_balloons",
+   "type": "case",
+   "name": "People's Republic of China high altitude balloon overflights of the continental United States",
+   "aliases": [
+    "PRC high altitude balloons"
+   ],
+   "description": "PRC high altitude balloons that traversed the continental United States, identified using UAPTF methods"
+  },
+  {
+   "key": "china",
+   "type": "place",
+   "name": "China",
+   "aliases": [
+    "People's Republic of China",
+    "PRC"
+   ],
+   "description": "People's Republic of China"
+  },
+  {
+   "key": "us",
+   "type": "place",
+   "name": "United States",
+   "aliases": [
+    "continental United States",
+    "U.S."
+   ],
+   "description": "Country"
+  },
+  {
+   "key": "prelim",
+   "type": "document",
+   "name": "Preliminary Assessment: Unidentified Aerial Phenomena",
+   "aliases": [
+    "ODNI's preliminary assessment",
+    "preliminary assessment"
+   ],
+   "description": "June 2021 ODNI intelligence assessment of the UAP threat"
+  },
+  {
+   "key": "sr116",
+   "type": "document",
+   "name": "Senate Report 116-233",
+   "description": "Senate report accompanying the Intelligence Authorization Act for Fiscal Year 2021 that directed the preliminary assessment"
+  },
+  {
+   "key": "iaa21",
+   "type": "document",
+   "name": "Intelligence Authorization Act for Fiscal Year 2021",
+   "description": "Act accompanied by Senate Report 116-233"
+  },
+  {
+   "key": "aoimsg",
+   "type": "organization",
+   "name": "Airborne Object Identification and Management Synchronization Group",
+   "aliases": [
+    "AOIMSG"
+   ],
+   "description": "DoD group (November 2021-June 2022) that succeeded the UAPTF and was renamed AARO"
+  },
+  {
+   "key": "aoimexec",
+   "type": "organization",
+   "name": "Airborne Object Identification and Management Executive Management Committee",
+   "aliases": [
+    "AOIMEXEC"
+   ],
+   "description": "Executive committee paired with the AOIMSG"
+  },
+  {
+   "key": "ndaa22",
+   "type": "document",
+   "name": "National Defense Authorization Act for Fiscal Year 2022",
+   "aliases": [
+    "FY2022 NDAA",
+    "NDAA for FY22"
+   ],
+   "description": "Legislation that resulted in AOIMSG being renamed AARO"
+  },
+  {
+   "key": "ndaa23",
+   "type": "document",
+   "name": "National Defense Authorization Act for Fiscal Year 2023",
+   "aliases": [
+    "NDAA for FY 2023"
+   ],
+   "description": "Legislation whose Section 1673 directed the NDA review"
+  },
+  {
+   "key": "title18",
+   "type": "document",
+   "name": "Title 18, Section 794",
+   "description": "US statute on disclosing national defense information, cited in standard NDA language"
+  },
+  {
+   "key": "uapist",
+   "type": "program",
+   "name": "UAP Independent Study Team",
+   "aliases": [
+    "UAPIST",
+    "NASA UAP independent study team"
+   ],
+   "description": "NASA independent study team on UAP, June 2022-September 2023"
+  },
+  {
+   "key": "esac",
+   "type": "organization",
+   "name": "Earth Science Advisory Committee",
+   "description": "NASA advisory committee of which the UAPIST was a subordinate group"
+  },
+  {
+   "key": "faca",
+   "type": "document",
+   "name": "Federal Advisory Committee Act",
+   "description": "Act under which NASA's Earth Science Advisory Committee was established"
+  },
+  {
+   "key": "smd",
+   "type": "organization",
+   "name": "Science Mission Directorate",
+   "aliases": [
+    "NASA's Science Mission Directorate"
+   ],
+   "description": "NASA directorate whose research administrator orchestrated the UAP study"
+  },
+  {
+   "key": "simons",
+   "type": "organization",
+   "name": "Simons Foundation",
+   "description": "Foundation whose President chaired the UAP Independent Study Team"
+  },
+  {
+   "key": "ar22",
+   "type": "document",
+   "name": "2022 Annual Report on Unidentified Aerial Phenomena",
+   "description": "ODNI annual report submitted to Congress on January 12, 2023, drafted with AARO"
+  },
+  {
+   "key": "sturrock",
+   "type": "program",
+   "name": "Sturrock Panel",
+   "description": "1998 Stanford University panel on UFO/UAP"
+  },
+  {
+   "key": "stanford",
+   "type": "organization",
+   "name": "Stanford University",
+   "description": "US university that sponsored the Sturrock Panel"
+  },
+  {
+   "key": "fswp",
+   "type": "program",
+   "name": "Flying Saucer Working Party",
+   "description": "United Kingdom UFO study, 1950-1951"
+  },
+  {
+   "key": "uk",
+   "type": "place",
+   "name": "United Kingdom",
+   "description": "Country that sponsored the Flying Saucer Working Party"
+  },
+  {
+   "key": "canada",
+   "type": "place",
+   "name": "Canada",
+   "description": "Country that sponsored Sky Project, Project Second Storey and Project Magnet"
+  },
+  {
+   "key": "sky",
+   "type": "program",
+   "name": "Sky Project",
+   "description": "Ongoing Canadian UAP programme begun in 2023"
+  },
+  {
+   "key": "storey",
+   "type": "program",
+   "name": "Project Second Storey",
+   "description": "Canadian advisory committee on UFOs, 1952-1954"
+  },
+  {
+   "key": "magnet",
+   "type": "program",
+   "name": "Project Magnet",
+   "description": "Canadian UFO project run by Wilbert B. Smith, 1950-1954"
+  },
+  {
+   "key": "dot",
+   "type": "organization",
+   "name": "Department of Transport",
+   "description": "Canadian department that employed Wilbert B. Smith"
+  },
+  {
+   "key": "govcan",
+   "type": "organization",
+   "name": "Government of Canada",
+   "aliases": [
+    "Canadian government"
+   ],
+   "description": "Canadian government, which closed Project Magnet"
+  },
+  {
+   "key": "smith",
+   "type": "person",
+   "name": "Wilbert B. Smith",
+   "aliases": [
+    "Smith"
+   ],
+   "description": "Canadian Department of Transport engineer who ran Project Magnet"
+  },
+  {
+   "key": "france",
+   "type": "place",
+   "name": "France",
+   "description": "Country whose government sponsored GEPAN, SEPRA and GEIPAN"
+  },
+  {
+   "key": "govfr",
+   "type": "organization",
+   "name": "Government of France",
+   "aliases": [
+    "French government"
+   ],
+   "description": "French government, sponsor of three investigatory programmes"
+  },
+  {
+   "key": "gepan",
+   "type": "organization",
+   "name": "Groupe d'Etude et d'Information sur les Phénomènes Aérospatiaux Non-identifiés",
+   "aliases": [
+    "GEPAN"
+   ],
+   "description": "French government UAP investigatory programme, 1977-1987"
+  },
+  {
+   "key": "sepra",
+   "type": "organization",
+   "name": "Service d'Expertise des Phénomènes de Rentrées Atmosphériques",
+   "aliases": [
+    "SEPRA",
+    "SERPA"
+   ],
+   "description": "French government UAP investigatory programme, 1988-2004"
+  },
+  {
+   "key": "geipan",
+   "type": "organization",
+   "name": "Groupe d'Etudes et d'Informations sur les Phénomènes Aérospatiaux Non-identifiés",
+   "aliases": [
+    "GEIPAN"
+   ],
+   "description": "French government UAP investigatory programme stood up in 2005"
+  },
+  {
+   "key": "robertson",
+   "type": "program",
+   "name": "Robertson Panel",
+   "description": "CIA-sponsored panel that proposed a public 'training' and 'debunking' effort"
+  },
+  {
+   "key": "ussr",
+   "type": "place",
+   "name": "Soviet Union",
+   "description": "Cold War adversary of the United States"
+  },
+  {
+   "key": "russia",
+   "type": "place",
+   "name": "Russia",
+   "aliases": [
+    "Russian Federation"
+   ],
+   "description": "Russian Federation"
+  },
+  {
+   "key": "korea",
+   "type": "place",
+   "name": "Korea",
+   "description": "Site of a conflict cited as Cold War context"
+  },
+  {
+   "key": "vietnam",
+   "type": "place",
+   "name": "Vietnam",
+   "description": "Site of a conflict cited as Cold War context"
+  },
+  {
+   "key": "hynek",
+   "type": "person",
+   "name": "J. Allen Hynek",
+   "aliases": [
+    "Dr. J. Allen Hynek"
+   ],
+   "description": "Individual who claimed the USAF had a key goal of debunking UAP reports"
+  },
+  {
+   "key": "grudge",
+   "type": "program",
+   "name": "Project Grudge",
+   "aliases": [
+    "Project GRUDGE"
+   ],
+   "description": "USAF UFO project whose first iteration sought to resolve all cases"
+  },
+  {
+   "key": "sign",
+   "type": "program",
+   "name": "Project Sign",
+   "aliases": [
+    "Project SIGN"
+   ],
+   "description": "USAF UFO project whose staff allegedly drafted the Estimate of the Situation"
+  },
+  {
+   "key": "estimate",
+   "type": "document",
+   "name": "Estimate of the Situation",
+   "aliases": [
+    "The Estimate of the Situation"
+   ],
+   "description": "Report allegedly drafted by Project SIGN staff assessing some UFOs as of 'interplanetary' origin"
+  },
+  {
+   "key": "ruppelt",
+   "type": "person",
+   "name": "Edward Ruppelt",
+   "aliases": [
+    "Capt Edward Ruppelt",
+    "Capt Ruppelt"
+   ],
+   "description": "USAF captain, first Director of Project BLUE BOOK"
+  },
+  {
+   "key": "arnold_case",
+   "type": "case",
+   "name": "Kenneth Arnold UFO sighting",
+   "aliases": [
+    "Arnold's sighting in 1947"
+   ],
+   "description": "1947 sighting after which the term 'flying saucer' emerged"
+  },
+  {
+   "key": "arnold",
+   "type": "person",
+   "name": "Arnold",
+   "description": "Witness whose 1947 sighting gave rise to the term 'flying saucer'"
+  },
+  {
+   "key": "twelve",
+   "type": "case",
+   "name": "Pre-1970 twelve spacecraft crash recovery claim",
+   "description": "Thirdhand interviewee claim that an organization possessed 12 spacecraft recovered from crash events before 1970"
+  },
+  {
+   "key": "mat0910",
+   "type": "case",
+   "name": "2009-2010 off-world material possession and transfer claim",
+   "description": "Interviewee claims that an organization held off-world material in 2009-2010 and that a former senior CIA official blocked its return to the USG"
+  },
+  {
+   "key": "mfr_cia",
+   "type": "document",
+   "name": "Memorandum for the Record signed by the former CIA official",
+   "aliases": [
+    "Memorandum for the Record (MFR)",
+    "MFR"
+   ],
+   "description": "Signed statement attesting to the former CIA official's denial"
+  },
+  {
+   "key": "touch",
+   "type": "case",
+   "name": "1999 senior U.S. military officer extraterrestrial spacecraft touching claim",
+   "description": "Interviewee claim that circa 1999 a former senior US military officer said he touched an extraterrestrial spacecraft"
+  },
+  {
+   "key": "f117",
+   "type": "vehicle",
+   "name": "F-117 Nighthawk",
+   "aliases": [
+    "F-117 Nighthawk stealth fighter"
+   ],
+   "description": "Stealth fighter the former military member said he had touched at a facility"
+  },
+  {
+   "key": "study",
+   "type": "program",
+   "name": "2004-2007 Northern Virginia extraterrestrial disclosure study",
+   "aliases": [
+    "Extraterrestrial Disclosure Study"
+   ],
+   "description": "One-day study on societal effects of governments disclosing evidence of extraterrestrial life; not White House-sponsored"
+  },
+  {
+   "key": "nova",
+   "type": "place",
+   "name": "Northern Virginia",
+   "description": "Region where the disclosure study was conducted"
+  },
+  {
+   "key": "aliens_test",
+   "type": "case",
+   "name": "1990s military base \"aliens\" at materials testing claim",
+   "description": "Interviewee claim of overhearing in the 1990s that 'aliens' were present during specialized materials testing; assessed a misunderstanding"
+  },
+  {
+   "key": "ufo90s",
+   "type": "case",
+   "name": "1990s U.S. military facility unidentified flying object sighting",
+   "description": "Interviewee's 1990s sighting of an object with a peculiar flight pattern at a US military facility, correlated by AARO with a SAP-protected platform test"
+  },
+  {
+   "key": "craft90s",
+   "type": "craft",
+   "name": "\"unidentified flying object\" observed at a U.S. military facility in the 1990s",
+   "description": "Object an interviewee described as exhibiting a peculiar flight pattern"
+  },
+  {
+   "key": "sf2009",
+   "type": "case",
+   "name": "2009 U.S. Special Forces extraterrestrial spacecraft loading claim",
+   "description": "Former service member's claim that in 2009 in a foreign country he saw 'U.S. Special Forces' loading containers onto a large extraterrestrial spacecraft"
+  },
+  {
+   "key": "sof",
+   "type": "organization",
+   "name": "U.S. Special Forces",
+   "description": "Force an interviewee said he saw loading containers onto a spacecraft in 2009"
+  },
+  {
+   "key": "craft2009",
+   "type": "craft",
+   "name": "large extraterrestrial spacecraft allegedly being loaded with containers in 2009",
+   "description": "Craft described by a former US service member interviewee"
+  },
+  {
+   "key": "re1980s",
+   "type": "case",
+   "name": "1980s off-world object reverse-engineering claim",
+   "description": "Interviewee's claim that a family member took part in a failed 1980s effort to reverse-engineer an object assumed to be off-world technology"
+  },
+  {
+   "key": "snie",
+   "type": "document",
+   "name": "Critical Aspects of Unidentified Flying Objects and the Nuclear Threat to the Defense of the United States and its Allies",
+   "aliases": [
+    "1961 Special National Intelligence Estimate",
+    "SNIE"
+   ],
+   "description": "Alleged leaked Special National Intelligence Estimate dated November 5, 1961, assessed by AARO to be not authentic"
+  },
+  {
+   "key": "icbm",
+   "type": "case",
+   "name": "1966-1977 United States ICBM silo UAP incidents",
+   "aliases": [
+    "UAP sightings near the silos",
+    "Historical Nuclear-Related UAP Cases"
+   ],
+   "description": "Claims by five former USAF members of UAP sightings near, and disruptions to, ICBM silos at Malmstrom, Ellsworth, Vandenberg and Minot between 1966 and 1977"
+  },
+  {
+   "key": "malmstrom",
+   "type": "place",
+   "name": "Malmstrom Air Force Base",
+   "aliases": [
+    "Malmstrom"
+   ],
+   "description": "USAF ICBM base"
+  },
+  {
+   "key": "ellsworth",
+   "type": "place",
+   "name": "Ellsworth Air Force Base",
+   "aliases": [
+    "Ellsworth"
+   ],
+   "description": "USAF ICBM base"
+  },
+  {
+   "key": "vandenberg",
+   "type": "place",
+   "name": "Vandenberg Air Force Base",
+   "aliases": [
+    "Vandenberg"
+   ],
+   "description": "USAF base"
+  },
+  {
+   "key": "minot",
+   "type": "place",
+   "name": "Minot Air Force Base",
+   "aliases": [
+    "Minot"
+   ],
+   "description": "USAF ICBM base"
+  },
+  {
+   "key": "reentry",
+   "type": "case",
+   "name": "1964 ballistic missile reentry vehicle UAP incident",
+   "description": "Claim that a UAP was observed and filmed destroying an ICBM with a 'dummy' warhead mid-flight in 1964; AARO correlated it with an antiballistic missile test"
+  },
+  {
+   "key": "film1964",
+   "type": "document",
+   "name": "Alleged film of a ballistic missile reentry vehicle being shot down by a UAP in 1964",
+   "description": "Film a USAF videographer claimed to have recorded; not recovered by AARO"
+  },
+  {
+   "key": "sample",
+   "type": "case",
+   "name": "1940s-1950s alleged extraterrestrial craft crash material sample",
+   "aliases": [
+    "Sample of Alleged Alien Spacecraft"
+   ],
+   "description": "Material a private organization claimed came from an extraterrestrial craft crash in the 1940s or 1950s; AARO found it an ordinary terrestrial metal alloy"
+  },
+  {
+   "key": "visit",
+   "type": "program",
+   "name": "Virtual Institute for Satellite Integration Training",
+   "description": "Programme operated by a private UAP organization, mistaken by an interviewee for a USG program"
+  },
+  {
+   "key": "iccap",
+   "type": "program",
+   "name": "Intelligence Community Controlled Access Program expanded in 2021 to include a UAP reverse-engineering mission",
+   "aliases": [
+    "IC CAP"
+   ],
+   "description": "Unnamed IC CAP unnecessarily expanded in 2021 and later disestablished"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "interviewee_count",
+   "v": "approximately 30 (as of September 17, 2023)",
+   "quote": "As of September 17, 2023, AARO interviewed approximately 30 individuals."
+  },
+  {
+   "s": "case",
+   "p": "interviewee_tiers",
+   "v": "three tiers; Tier 1 are those who spoke with congressional staff or Members of Congress and were referred to AARO",
+   "quote": "Tier 1 interviewees are those who have spoken with congressional staff or Members of Congress and have been subsequently referred to AARO"
+  },
+  {
+   "s": "case",
+   "p": "interviewee_anonymisation",
+   "v": "AARO assigned a random number to each interviewee",
+   "quote": "AARO generated random numbers and assigned one to each interviewee."
+  },
+  {
+   "s": "case",
+   "p": "primary_narrative",
+   "v": "USG and industry partners possess and are testing off-world technology concealed from congressional oversight since approximately 1964, possibly since 1947",
+   "quote": "The primary narrative alleges that the USG and industry partners are in possession of and are testing off-world technology that has been concealed from congressional oversight and the world since approximately 1964, and possibly since 1947, if the Roswell events are included."
+  },
+  {
+   "s": "case",
+   "p": "primary_narrative_spacecraft_count",
+   "v": "as many as 12",
+   "quote": "The narrative asserts that this UAP program possesses as many as 12 extraterrestrial spacecraft."
+  },
+  {
+   "s": "case",
+   "p": "secondary_narrative",
+   "v": "UAP sightings near U.S. nuclear facilities resulted in malfunctioning and destruction of nuclear missiles and a test reentry vehicle",
+   "quote": "The other narrative is that a cluster of UAP sightings that occurred in close proximity to U.S. nuclear facilities have resulted in the malfunctioning and destruction of nuclear missiles and a test reentry vehicle."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "No investigation (USG, foreign, U.S. academic) concluded any UAP report indicated extraterrestrial origin",
+   "quote": "None of these investigations (including USG, foreign, and U.S. academic efforts) reached the conclusion that any of the UAP reports indicated extraterrestrial origin."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "The vast majority of UAP reports could be resolved as ordinary objects, natural phenomena, optical illusions or misidentifications",
+   "quote": "All of these efforts and reviews concluded that the vast majority of UAP reports could be resolved as any number of ordinary objects, natural phenomena, optical illusions or misidentifications."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "Many of the cases remain unresolved",
+   "quote": "Many of the cases, however, remain unresolved."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "Inability to collect sufficient high-quality data continues to plague investigations",
+   "quote": "the apparent inability to collect sufficient and high-quality data for scientific analysis continues to plague investigations."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "Three efforts investigated reports of physical evidence of UFOs and found nothing of foreign or extraterrestrial origin",
+   "quote": "Three efforts investigated reports of direct or indirect physical evidence of UFOs (from depressions on the ground to metallic debris) and found nothing of foreign or extraterrestrial origin."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "No evidence the USAF had a policy to cover up evidence of extraterrestrial knowledge, material, or interactions",
+   "quote": "AARO found no evidence to suggest that the USAF had a policy intended to cover up the evidence of extraterrestrial knowledge, material, or interactions."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "AARO investigated and reached conclusions on the majority of the claims in the narratives",
+   "quote": "AARO investigated and reached conclusions on the majority of the claims made in these narratives."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "No NDAs containing UAP-related information have been discovered",
+   "quote": "To date, AARO personnel have not discovered or been notified of any NDAs that contain information related to UAP."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "Named aerospace companies' executives and chief technology officers all denied the existence of the alleged programs on the record",
+   "quote": "AARO met with high-ranking officials, including executives and chief technology officers, of the named companies. All denied the existence of these programs, and attested to the truthfulness of their statements on the record."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "None of the investigated sensitive programs were involved with capturing, recovering, or reverse-engineering off-world technology",
+   "quote": "none of these programs have been involved with capturing, recovering, or reverse-engineering off-world technology or material."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "All programs assessed to be authentic were appropriately reported to congressional defense and/or intelligence committees",
+   "quote": "appropriately reported to either or both the congressional defense and intelligence committees."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "No UAP investigatory effort since 1945 has uncovered verifiable information on recovery or existence of extraterrestrial beings or craft",
+   "quote": "AARO found no empirical evidence that any UAP investigatory effort since 1945- foreign, domestic, government, private, or academic-has ever uncovered verifiable information"
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "Modern allegations that the USG is hiding off-world technology largely originate from the same group of individuals with ties to AAWSAP/AATIP",
+   "quote": "modern allegations that the USG is hiding off-world technology and beings largely originate from the same group of individuals who have ties to the cancelled AAWSAP/AATIP program and a private sector organization's paranormal research efforts."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "UAP sightings and claims of USG-held alien technology most likely result from cultural, political, and technological factors",
+   "quote": "AARO assesses that the incidents of UAP sightings reported to USG organizations, the claims that some constitute extraterrestrial craft, and the claims that the USG has secured and is experimenting on alien technology, most likely are the result of a range of cultural, political, and technological factors."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "The vast majority of cases amount to ordinary objects, atmospheric and natural phenomena, and observer misidentification",
+   "quote": "vast majority of cases report on events that amount to ordinary objects, atmospheric and natural phenomena, and observer misidentification."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "Interviewees' indirect and incomplete knowledge of authentic efforts most likely led to misinterpretation",
+   "quote": "Interviewees' indirect and incomplete knowledge of authentic efforts most likely contributed to their misinterpretation of what they heard or saw."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "Classification of prior USG investigations fueled speculation that the government was hiding knowledge of extraterrestrials",
+   "quote": "classification of prior USG investigations have fueled speculation that the government was hiding knowledge of extraterrestrials"
+  },
+  {
+   "s": "case",
+   "p": "interviewee_claim",
+   "v": "At least one interviewee claimed to have seen a captured UAP; none had direct access to or firsthand knowledge of the alleged programs",
+   "quote": "Although at least one interviewee claimed to have seen a captured UAP, none of the interviewees had direct access to or firsthand knowledge of the programs alleged to be UAP-related."
+  },
+  {
+   "s": "case",
+   "p": "interviewee_claim",
+   "v": "NDAs may have been used to protect a reverse-engineering program of off-world technology",
+   "quote": "some NDAs may have been used to protect a \"reverse-engineering program of off-world technology.\""
+  },
+  {
+   "s": "case",
+   "p": "interviewee_claim",
+   "v": "NDAs included 'punishment by death' provisions",
+   "quote": "These accounts describe the NDAs as including \"punishment by death\" provisions should the signatory disclose"
+  },
+  {
+   "s": "case",
+   "p": "interviewee_claim",
+   "v": "'Verbal' and written NDAs were administered in several instances",
+   "quote": "Some interviewees claimed \"verbal\" and written NDAs were administered in several instances."
+  },
+  {
+   "s": "case",
+   "p": "proponents_of_allegation",
+   "v": "Persons 1-5 and Interviewees 1, 3, 9, 12, 13, and 14 repeatedly voiced the claims and petitioned Congress",
+   "quote": "Persons 1-5 and Interviewees 1, 3, 9, 12, 13, and 14 have repeatedly voiced these claims in various public and private venues, and they have petitioned Congress in various capacities on UAP issues."
+  },
+  {
+   "s": "case",
+   "p": "proponents_of_allegation",
+   "v": "They have not provided any empirical evidence of their claims to AARO",
+   "quote": "They have not provided any empirical evidence of their claims to AARO."
+  },
+  {
+   "s": "case",
+   "p": "proponents_of_allegation",
+   "v": "Persons 1 and 4 never formally provided official, signed statements to AARO but are frequently cited by other interviewees as sources",
+   "quote": "AARO notes that Persons 1 and 4 never formally sat down with AARO to provide official, signed statements; these individuals have been mentioned by other interviewees frequently as sources of their claims."
+  },
+  {
+   "s": "case",
+   "p": "proponents_of_allegation",
+   "v": "Person 8 held an informal interview; Interviewee 14 sat for an official interview but has not signed the memo for the record",
+   "quote": "Person 8 held an informal interview and Interviewee 14 sat for an official interview but has not signed the memo for the record documenting this interview."
+  },
+  {
+   "s": "case",
+   "p": "follow_up",
+   "v": "Unresolved allegations to be reported in Volume II",
+   "quote": "AARO will report the results of the unresolved allegations in Volume II."
+  },
+  {
+   "s": "case",
+   "p": "process",
+   "v": "AARO investigators were granted full access to all pertinent sensitive USG programs",
+   "quote": "A key part of this agreement is that AARO investigators have been granted full access to all pertinent sensitive USG programs."
+  },
+  {
+   "s": "case",
+   "p": "process",
+   "v": "When industry partners were named, AARO interviewed cleared executives, department leads, senior scientists, and engineers",
+   "quote": "When industry partners were named, AARO interviewed senior level, appropriately- cleared executives, department leads, senior scientists, and engineers."
+  },
+  {
+   "s": "case",
+   "p": "claim_of_obstruction",
+   "v": "Some members of investigatory panels claimed official obstruction, from lack of access to senior decision-makers to insufficient staff and resources",
+   "quote": "Some members of investigatory panels have claimed official obstruction, ranging from lack of access to senior decision-makers to insufficient staff and resources."
+  },
+  {
+   "s": "case",
+   "p": "historical_context",
+   "v": "Early UFO investigations sought to determine whether UFOs were Soviet 'secret weapons' or psychological warfare operations",
+   "quote": "it was deemed essential to determine if UFOs were Soviet \"secret weapons\" or psychological warfare operations aimed at causing public fear and generating hysteria to undermine U.S. societal morale."
+  },
+  {
+   "s": "aaro",
+   "p": "authored",
+   "o": "case",
+   "quote": "AARO will report the results of the unresolved allegations in Volume II."
+  },
+  {
+   "s": "aaro",
+   "p": "established",
+   "v": "2022-07-15",
+   "quote": "All-domain Anomaly Resolution Office (AARO) (Established July 15, 2022)"
+  },
+  {
+   "s": "aaro",
+   "p": "functions",
+   "v": "analysis, operations, science & technology (S&T), and strategic communications",
+   "quote": "AARO organized itself around four functions (analysis, operations, science & technology (S&T), and strategic communications)."
+  },
+  {
+   "s": "aaro",
+   "p": "activity",
+   "v": "implementing a secure interviewee debriefing program and standardizing UAP collection and reporting across DoD and the IC",
+   "quote": "implementing a secure interviewee debriefing program, and is working to standardize UAP collection and reporting across the DoD and the IC."
+  },
+  {
+   "s": "aaro",
+   "p": "reporting",
+   "v": "quarterly reports, semiannual briefings, and an annual report to Congress in coordination with ODNI",
+   "quote": "AARO provides quarterly reports, semiannual briefings, and an annual report to Congress in coordination with the ODNI."
+  },
+  {
+   "s": "aaro",
+   "p": "director_statement",
+   "v": "Majority of cases in AARO's holdings have ordinary explanations; no evidence any represent extraterrestrial technology",
+   "quote": "The AARO Director reported to Congress that the majority of cases in AARO's holdings have ordinary explanation and that AARO has not seen any evidence that any of these cases represent extraterrestrial technology."
+  },
+  {
+   "s": "aaro",
+   "p": "finding",
+   "v": "None of the reports AARO investigated and analyzed represent extraterrestrial or off-world technology",
+   "quote": "Of all the reports that AARO investigated and analyzed, none represent extraterrestrial or off-world technology."
+  },
+  {
+   "s": "aaro",
+   "p": "finding",
+   "v": "A small percentage of cases have potentially anomalous or concerning characteristics",
+   "quote": "A small percentage of cases have potentially anomalous characteristics or concerning characteristics."
+  },
+  {
+   "s": "usg",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The primary narrative alleges that the USG and industry partners are in possession of and are testing off-world technology that has been concealed from congressional oversight and the world since approximately 1964, and possibly since 1947, if the Roswell events are included."
+  },
+  {
+   "s": "dod",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "to meet the direction of Section 1673 of the NDAA for FY 2023, AARO sent guidance and requests to DoD, IC elements, DOE, and DHS to review and provide any NDAs pertaining to UAP (or its previous names)."
+  },
+  {
+   "s": "aaro",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "In response to the NDAA for FY22, the Deputy Secretary of Defense in coordination with the DNI, conveyed direction to the USD(I&S) by renaming the AOIMSG as AARO, and expanded its scope and mission."
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "AARO found no evidence to suggest that the USAF had a policy intended to cover up the evidence of extraterrestrial knowledge, material, or interactions."
+  },
+  {
+   "s": "usaf",
+   "p": "focus",
+   "v": "sought to focus on more important concerns such as Soviet technology and U.S. defense readiness",
+   "quote": "the USAF instead sought to focus on what it determined to be more important concerns, such as Soviet technology and U.S. defense readiness."
+  },
+  {
+   "s": "congress",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "AARO provides quarterly reports, semiannual briefings, and an annual report to Congress in coordination with the ODNI."
+  },
+  {
+   "s": "cia",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "AARO interviewed and obtained a signed statement from the former CIA official who was specifically named by AARO interviewees."
+  },
+  {
+   "s": "csi",
+   "p": "part_of",
+   "o": "cia",
+   "quote": "After discussions with the CIA's Center for the Study of Intelligence (CSI), the NSA Scientific Studies Board (one of the alleged authors), and research comparing this document to a number of known SNIEs and National Intelligence Estimates, AARO concluded the document is not authentic."
+  },
+  {
+   "s": "nsasab",
+   "p": "part_of",
+   "o": "nsa",
+   "quote": "NSA archives were searched because \"the NSA Scientific Advisory Board\" purportedly was one of the document's authors."
+  },
+  {
+   "s": "dia",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In coordination with the Office of the Under Secretary of Defense for Intelligence, DIA established AAWSAP in 2009, which was also known AATIP."
+  },
+  {
+   "s": "dhs",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "After AAWSAP/AATIP was terminated, its supporters unsuccessfully attempted to convince DHS to support a new version of this effort dubbed KONA BLUE."
+  },
+  {
+   "s": "doe",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "to meet the direction of Section 1673 of the NDAA for FY 2023, AARO sent guidance and requests to DoD, IC elements, DOE, and DHS to review and provide any NDAs pertaining to UAP (or its previous names)."
+  },
+  {
+   "s": "ic",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "to meet the direction of Section 1673 of the NDAA for FY 2023, AARO sent guidance and requests to DoD, IC elements, DOE, and DHS to review and provide any NDAs pertaining to UAP (or its previous names)."
+  },
+  {
+   "s": "odni",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Senate Report 116-233, accompanying the Intelligence Authorization Act for Fiscal Year 2021, directed the Office of the Director of National Intelligence (ODNI) in consultation with the Secretary of Defense to submit an intelligence assessment of the threat posed by UAP and to report on the progress the UAPTF had made in understanding this threat."
+  },
+  {
+   "s": "nasa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "NASA established the UAPIST as a subordinate group of its Earth Science Advisory Committee, which was established in accordance with the Federal Advisory Committee Act."
+  },
+  {
+   "s": "gao",
+   "p": "renamed",
+   "v": "subsequently renamed the Government Accountability Office",
+   "quote": "He asked the General Accounting Office (GAO) (subsequently renamed the Government Accountability Office) to determine the requirements for reporting air accidents, such as the crash near Roswell, and to identify any government records concerning the Roswell crash."
+  },
+  {
+   "s": "sapco",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "AARO established a partnership with the Special Access Program Control Offices for the DoD, IC, and DHS to review programs identified in interviews by name or description"
+  },
+  {
+   "s": "roswell",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Roswell Investigations/Inquiries (1992-2001)"
+  },
+  {
+   "s": "roswell",
+   "p": "date_start",
+   "v": "1947-07",
+   "quote": "The Roswell incident refers to the July 1947 recovery of metallic and rubber debris from a crashed military balloon near Roswell Army Air Field personnel that sparked conspiracy theories and claims that the debris was from an alien spaceship and part of a USG cover-up."
+  },
+  {
+   "s": "roswell",
+   "p": "first_public_report",
+   "v": "1947-07-08: RAAF public information office first reported the crash and recovery of a \"flying disc\"",
+   "quote": "All involved military aircraft and occurred after July 8, 1947-the date the RAAF public information office first reported the crash and recovery of a \"flying disc\" near Roswell."
+  },
+  {
+   "s": "roswell",
+   "p": "debris",
+   "v": "metallic and rubber debris from a crashed military balloon",
+   "quote": "The Roswell incident refers to the July 1947 recovery of metallic and rubber debris from a crashed military balloon near Roswell Army Air Field personnel that sparked conspiracy theories and claims that the debris was from an alien spaceship and part of a USG cover-up."
+  },
+  {
+   "s": "roswell",
+   "p": "finding",
+   "v": "USAF research found no information indicating the Roswell Incident was a UFO event",
+   "quote": "The report stated that the USAF's research did not locate or develop any information that indicated the \"Roswell Incident\" was a UFO event"
+  },
+  {
+   "s": "roswell",
+   "p": "finding",
+   "v": "No records showed the USG recovered aliens or extraterrestrial material",
+   "quote": "No records showed any evidence that the USG recovered aliens or extraterrestrial material."
+  },
+  {
+   "s": "roswell",
+   "p": "finding",
+   "v": "Reports of units recovering a flying saucer and 'crew' were descriptions of Air Force personnel in dummy recovery operations",
+   "quote": "Reports of military units that allegedly recovered a flying saucer and its \"crew\" were descriptions of Air Force personnel engaged in the dummy recovery operations."
+  },
+  {
+   "s": "roswell",
+   "p": "finding",
+   "v": "'Alien bodies' at the RAAF hospital most likely conflated a 1956 KC-97 accident (11 killed) and a 1959 manned balloon mishap (two pilots injured)",
+   "quote": "Claims of \"alien bodies\" at the Roswell Army Air Force (RAAF) hospital were most likely the result of the conflation of two separate incidents: a 1956 KC-97 aircraft accident in which 11 Air Force members lost their lives; and a 1959 manned balloon mishap in which two Air Force pilots were injured."
+  },
+  {
+   "s": "roswell",
+   "p": "air_accidents_in_new_mexico_july_1947",
+   "v": "4, all military aircraft, all after July 8, 1947",
+   "quote": "Four air accidents were reported by the Army Air Force in New Mexico during July 1947."
+  },
+  {
+   "s": "roswell",
+   "p": "finding",
+   "v": "No requirement in 1947 to prepare a report on the crash of a balloon",
+   "quote": "USAF officials reported to GAO that there was no requirement to prepare a report on the crash of a balloon in 1947."
+  },
+  {
+   "s": "roswell",
+   "p": "inquiry_period",
+   "v": "1992-2001",
+   "quote": "President Clinton and Chief of Staff Podesta Inquire about Roswell (1992 - 2001)"
+  },
+  {
+   "s": "roswell_nm",
+   "p": "occurred_at",
+   "o": "roswell",
+   "quote": "President Clinton said, \"As far as I know, an alien spacecraft did not crash in Roswell, New Mexico, in 1947 if the USAF did recover alien bodies, they didn't tell me about it and I want to know."
+  },
+  {
+   "s": "nm",
+   "p": "occurred_at",
+   "o": "roswell",
+   "quote": "The alleged \"alien\" bodies reported by some in the New Mexico desert were test dummies that were carried aloft by U.S. Army Air Force high-altitude balloons for scientific research."
+  },
+  {
+   "s": "roswell_nm",
+   "p": "located_in",
+   "o": "nm",
+   "quote": "President Clinton said, \"As far as I know, an alien spacecraft did not crash in Roswell, New Mexico, in 1947 if the USAF did recover alien bodies, they didn't tell me about it and I want to know."
+  },
+  {
+   "s": "raaf",
+   "p": "near",
+   "o": "roswell",
+   "quote": "The Roswell incident refers to the July 1947 recovery of metallic and rubber debris from a crashed military balloon near Roswell Army Air Field personnel that sparked conspiracy theories and claims that the debris was from an alien spaceship and part of a USG cover-up."
+  },
+  {
+   "s": "raaf",
+   "p": "public_information_office_report",
+   "v": "first reported the crash and recovery of a \"flying disc\" near Roswell on July 8, 1947",
+   "quote": "All involved military aircraft and occurred after July 8, 1947-the date the RAAF public information office first reported the crash and recovery of a \"flying disc\" near Roswell."
+  },
+  {
+   "s": "f_debris",
+   "p": "has_feature",
+   "o": "roswell",
+   "quote": "The Roswell incident refers to the July 1947 recovery of metallic and rubber debris from a crashed military balloon near Roswell Army Air Field personnel that sparked conspiracy theories and claims that the debris was from an alien spaceship and part of a USG cover-up."
+  },
+  {
+   "s": "f_crash",
+   "p": "has_feature",
+   "o": "roswell",
+   "quote": "Reports of military units that allegedly recovered a flying saucer and its \"crew\" were descriptions of Air Force personnel engaged in the dummy recovery operations."
+  },
+  {
+   "s": "f_coverup",
+   "p": "has_feature",
+   "o": "roswell",
+   "quote": "The Roswell incident refers to the July 1947 recovery of metallic and rubber debris from a crashed military balloon near Roswell Army Air Field personnel that sparked conspiracy theories and claims that the debris was from an alien spaceship and part of a USG cover-up."
+  },
+  {
+   "s": "f_occupants",
+   "p": "has_feature",
+   "o": "roswell",
+   "quote": "The alleged \"alien\" bodies reported by some in the New Mexico desert were test dummies that were carried aloft by U.S. Army Air Force high-altitude balloons for scientific research."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "roswell",
+   "quote": "The USAF conducted a systematic search of numerous archives and records centers in support of GAO's audit of Roswell."
+  },
+  {
+   "s": "f_milbase",
+   "p": "has_feature",
+   "o": "roswell",
+   "quote": "The Roswell incident refers to the July 1947 recovery of metallic and rubber debris from a crashed military balloon near Roswell Army Air Field personnel that sparked conspiracy theories and claims that the debris was from an alien spaceship and part of a USG cover-up."
+  },
+  {
+   "s": "x_balloon",
+   "p": "explained_as",
+   "o": "roswell",
+   "quote": "the materials recovered near Roswell were consistent with a balloon of the type used in the then-classified Project Mogul."
+  },
+  {
+   "s": "x_dummies",
+   "p": "explained_as",
+   "o": "roswell",
+   "quote": "The alleged \"alien\" bodies reported by some in the New Mexico desert were test dummies that were carried aloft by U.S. Army Air Force high-altitude balloons for scientific research."
+  },
+  {
+   "s": "mogul",
+   "p": "involved_org",
+   "o": "roswell",
+   "quote": "the materials recovered near Roswell were consistent with a balloon of the type used in the then-classified Project Mogul."
+  },
+  {
+   "s": "mogul",
+   "p": "classification",
+   "v": "then-classified",
+   "quote": "the materials recovered near Roswell were consistent with a balloon of the type used in the then-classified Project Mogul."
+  },
+  {
+   "s": "usaf",
+   "p": "investigated_by",
+   "o": "roswell",
+   "quote": "The USAF conducted a systematic search of numerous archives and records centers in support of GAO's audit of Roswell."
+  },
+  {
+   "s": "usaf",
+   "p": "roswell_investigation",
+   "v": "interviewed numerous people who may have had knowledge of the events",
+   "quote": "the USAF also interviewed numerous people who may have had knowledge of the events."
+  },
+  {
+   "s": "gao",
+   "p": "investigated_by",
+   "o": "roswell",
+   "quote": "He asked the General Accounting Office (GAO) (subsequently renamed the Government Accountability Office) to determine the requirements for reporting air accidents, such as the crash near Roswell, and to identify any government records concerning the Roswell crash."
+  },
+  {
+   "s": "usaaf",
+   "p": "involved_org",
+   "o": "roswell",
+   "quote": "The USAF subsequently published a follow-on report in 1997, The Roswell Report: Case Closed, with additional materials and analysis which supported its conclusion that the debris recovered near Roswell was from the U.S. Army Air Force's balloon- borne program."
+  },
+  {
+   "s": "usaaf",
+   "p": "regulation_1947",
+   "v": "air accident reports to be maintained permanently",
+   "quote": "The GAO's 1995 report on the results of its investigation found that that the U.S. Army Air Force regulations in 1947 required that air accident reports be maintained permanently."
+  },
+  {
+   "s": "clinton",
+   "p": "official_involved",
+   "o": "roswell",
+   "quote": "According to press reports, President Clinton tasked former National Security Advisor Sandy Berger to determine if the USG held aliens or alien technology."
+  },
+  {
+   "s": "clinton",
+   "p": "title",
+   "v": "President",
+   "quote": "According to press reports, President Clinton tasked former National Security Advisor Sandy Berger to determine if the USG held aliens or alien technology."
+  },
+  {
+   "s": "clinton",
+   "p": "statement",
+   "v": "As far as I know, an alien spacecraft did not crash in Roswell, New Mexico, in 1947; if the USAF did recover alien bodies, they didn't tell me about it and I want to know",
+   "quote": "President Clinton said, \"As far as I know, an alien spacecraft did not crash in Roswell, New Mexico, in 1947 if the USAF did recover alien bodies, they didn't tell me about it and I want to know."
+  },
+  {
+   "s": "podesta",
+   "p": "official_involved",
+   "o": "roswell",
+   "quote": "President Clinton and Chief of Staff Podesta Inquire about Roswell (1992 - 2001)"
+  },
+  {
+   "s": "podesta",
+   "p": "title",
+   "v": "Chief of Staff",
+   "quote": "President Clinton and Chief of Staff Podesta Inquire about Roswell (1992 - 2001)"
+  },
+  {
+   "s": "berger",
+   "p": "official_involved",
+   "o": "roswell",
+   "quote": "According to press reports, President Clinton tasked former National Security Advisor Sandy Berger to determine if the USG held aliens or alien technology."
+  },
+  {
+   "s": "berger",
+   "p": "occupation",
+   "v": "former National Security Advisor",
+   "quote": "According to press reports, President Clinton tasked former National Security Advisor Sandy Berger to determine if the USG held aliens or alien technology."
+  },
+  {
+   "s": "schiff",
+   "p": "official_involved",
+   "o": "roswell",
+   "quote": "In 1993, Congressman Steven H. Schiff (R-New Mexico) made inquiries about the Roswell incident to DoD."
+  },
+  {
+   "s": "schiff",
+   "p": "occupation",
+   "v": "Congressman (R-New Mexico)",
+   "quote": "In 1993, Congressman Steven H. Schiff (R-New Mexico) made inquiries about the Roswell incident to DoD."
+  },
+  {
+   "s": "schiff",
+   "p": "inquiry_year",
+   "v": "1993",
+   "quote": "In 1993, Congressman Steven H. Schiff (R-New Mexico) made inquiries about the Roswell incident to DoD."
+  },
+  {
+   "s": "schiff",
+   "p": "request",
+   "v": "asked the GAO to determine requirements for reporting air accidents and identify government records concerning the Roswell crash",
+   "quote": "He asked the General Accounting Office (GAO) (subsequently renamed the Government Accountability Office) to determine the requirements for reporting air accidents, such as the crash near Roswell, and to identify any government records concerning the Roswell crash."
+  },
+  {
+   "s": "schiff",
+   "p": "member_of",
+   "o": "congress",
+   "quote": "In 1993, Congressman Steven H. Schiff (R-New Mexico) made inquiries about the Roswell incident to DoD."
+  },
+  {
+   "s": "widnall",
+   "p": "official_involved",
+   "o": "roswell",
+   "quote": "Secretary of the Air Force Sheila E. Widnall released them from any security obligations that may have restricted the sharing of information."
+  },
+  {
+   "s": "widnall",
+   "p": "occupation",
+   "v": "Secretary of the Air Force",
+   "quote": "Secretary of the Air Force Sheila E. Widnall released them from any security obligations that may have restricted the sharing of information."
+  },
+  {
+   "s": "widnall",
+   "p": "employed_by",
+   "o": "usaf",
+   "quote": "Secretary of the Air Force Sheila E. Widnall released them from any security obligations that may have restricted the sharing of information."
+  },
+  {
+   "s": "weaver",
+   "p": "investigator",
+   "o": "roswell",
+   "quote": "\"The Report of the U.S. Air Force Research Regarding the 'Roswell Incident\" by Col Richard L. Weaver"
+  },
+  {
+   "s": "weaver",
+   "p": "rank",
+   "v": "Colonel",
+   "quote": "\"The Report of the U.S. Air Force Research Regarding the 'Roswell Incident\" by Col Richard L. Weaver"
+  },
+  {
+   "s": "mcandrew",
+   "p": "investigator",
+   "o": "roswell",
+   "quote": "the \"Synopsis of Balloon Research Findings\" by 1st Lt James McAndrew"
+  },
+  {
+   "s": "mcandrew",
+   "p": "rank",
+   "v": "First Lieutenant",
+   "quote": "the \"Synopsis of Balloon Research Findings\" by 1st Lt James McAndrew"
+  },
+  {
+   "s": "rr95",
+   "p": "key_document",
+   "o": "roswell",
+   "quote": "The USAF then published The Roswell Report in 1995"
+  },
+  {
+   "s": "rr95",
+   "p": "publication_year",
+   "v": "1995",
+   "quote": "The Roswell Report: Fact versus Fiction in the New Mexico Desert (1995)"
+  },
+  {
+   "s": "usaf",
+   "p": "published",
+   "o": "rr95",
+   "quote": "The USAF then published The Roswell Report in 1995"
+  },
+  {
+   "s": "rr95",
+   "p": "conclusion",
+   "v": "materials recovered near Roswell were consistent with a Project Mogul balloon",
+   "quote": "the materials recovered near Roswell were consistent with a balloon of the type used in the then-classified Project Mogul."
+  },
+  {
+   "s": "weaver",
+   "p": "authored",
+   "o": "weaver_report",
+   "quote": "\"The Report of the U.S. Air Force Research Regarding the 'Roswell Incident\" by Col Richard L. Weaver"
+  },
+  {
+   "s": "weaver_report",
+   "p": "part_of",
+   "o": "rr95",
+   "quote": "\"The Report of the U.S. Air Force Research Regarding the 'Roswell Incident\" by Col Richard L. Weaver"
+  },
+  {
+   "s": "weaver_report",
+   "p": "key_document",
+   "o": "roswell",
+   "quote": "\"The Report of the U.S. Air Force Research Regarding the 'Roswell Incident\" by Col Richard L. Weaver"
+  },
+  {
+   "s": "mcandrew",
+   "p": "authored",
+   "o": "synopsis",
+   "quote": "the \"Synopsis of Balloon Research Findings\" by 1st Lt James McAndrew"
+  },
+  {
+   "s": "synopsis",
+   "p": "part_of",
+   "o": "rr95",
+   "quote": "the \"Synopsis of Balloon Research Findings\" by 1st Lt James McAndrew"
+  },
+  {
+   "s": "synopsis",
+   "p": "key_document",
+   "o": "roswell",
+   "quote": "the \"Synopsis of Balloon Research Findings\" by 1st Lt James McAndrew"
+  },
+  {
+   "s": "gao_report",
+   "p": "key_document",
+   "o": "roswell",
+   "quote": "The GAO's 1995 report on the results of its investigation found that that the U.S. Army Air Force regulations in 1947 required that air accident reports be maintained permanently."
+  },
+  {
+   "s": "gao_report",
+   "p": "publication_year",
+   "v": "1995",
+   "quote": "The GAO Roswell Report (1995)"
+  },
+  {
+   "s": "gao",
+   "p": "authored",
+   "o": "gao_report",
+   "quote": "The GAO's 1995 report on the results of its investigation found that that the U.S. Army Air Force regulations in 1947 required that air accident reports be maintained permanently."
+  },
+  {
+   "s": "gao_report",
+   "p": "finding",
+   "v": "Four air accidents reported by the Army Air Force in New Mexico during July 1947",
+   "quote": "Four air accidents were reported by the Army Air Force in New Mexico during July 1947."
+  },
+  {
+   "s": "case_closed",
+   "p": "key_document",
+   "o": "roswell",
+   "quote": "The USAF subsequently published a follow-on report in 1997, The Roswell Report: Case Closed, with additional materials and analysis which supported its conclusion that the debris recovered near Roswell was from the U.S. Army Air Force's balloon- borne program."
+  },
+  {
+   "s": "case_closed",
+   "p": "publication_year",
+   "v": "1997",
+   "quote": "The USAF subsequently published a follow-on report in 1997, The Roswell Report: Case Closed, with additional materials and analysis which supported its conclusion that the debris recovered near Roswell was from the U.S. Army Air Force's balloon- borne program."
+  },
+  {
+   "s": "usaf",
+   "p": "published",
+   "o": "case_closed",
+   "quote": "The USAF subsequently published a follow-on report in 1997, The Roswell Report: Case Closed, with additional materials and analysis which supported its conclusion that the debris recovered near Roswell was from the U.S. Army Air Force's balloon- borne program."
+  },
+  {
+   "s": "case_closed",
+   "p": "conclusion",
+   "v": "alleged alien bodies were test dummies carried aloft by high-altitude balloons",
+   "quote": "The alleged \"alien\" bodies reported by some in the New Mexico desert were test dummies that were carried aloft by U.S. Army Air Force high-altitude balloons for scientific research."
+  },
+  {
+   "s": "kc97",
+   "p": "conflated_with",
+   "o": "roswell",
+   "quote": "Claims of \"alien bodies\" at the Roswell Army Air Force (RAAF) hospital were most likely the result of the conflation of two separate incidents: a 1956 KC-97 aircraft accident in which 11 Air Force members lost their lives; and a 1959 manned balloon mishap in which two Air Force pilots were injured."
+  },
+  {
+   "s": "kc97",
+   "p": "accident_year",
+   "v": "1956",
+   "quote": "Claims of \"alien bodies\" at the Roswell Army Air Force (RAAF) hospital were most likely the result of the conflation of two separate incidents: a 1956 KC-97 aircraft accident in which 11 Air Force members lost their lives; and a 1959 manned balloon mishap in which two Air Force pilots were injured."
+  },
+  {
+   "s": "kc97",
+   "p": "fatalities",
+   "v": "11 Air Force members",
+   "quote": "Claims of \"alien bodies\" at the Roswell Army Air Force (RAAF) hospital were most likely the result of the conflation of two separate incidents: a 1956 KC-97 aircraft accident in which 11 Air Force members lost their lives; and a 1959 manned balloon mishap in which two Air Force pilots were injured."
+  },
+  {
+   "s": "aawsap",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Advanced Aerospace Weapons System Application Program (AAWSAP) (2009-2012)/ Advanced Aerospace Threat Identification Program (AATIP)"
+  },
+  {
+   "s": "aawsap",
+   "p": "years",
+   "v": "2009-2012",
+   "quote": "Advanced Aerospace Weapons System Application Program (AAWSAP) (2009-2012)/ Advanced Aerospace Threat Identification Program (AATIP)"
+  },
+  {
+   "s": "aawsap",
+   "p": "funding",
+   "v": "$22 million",
+   "quote": "At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States."
+  },
+  {
+   "s": "aawsap",
+   "p": "established",
+   "v": "2009",
+   "quote": "In coordination with the Office of the Under Secretary of Defense for Intelligence, DIA established AAWSAP in 2009, which was also known AATIP."
+  },
+  {
+   "s": "aawsap",
+   "p": "contractor",
+   "v": "a private sector organization",
+   "quote": "The contract for this DIA- managed program was awarded to a private sector organization."
+  },
+  {
+   "s": "aawsap",
+   "p": "purpose",
+   "v": "investigate potential next generation aerospace technologies in 12 specific areas",
+   "quote": "The primary purpose of AAWSAP/AATIP was to investigate potential next generation aerospace technologies in 12 specific areas"
+  },
+  {
+   "s": "aawsap",
+   "p": "ufo_research",
+   "v": "contractor conducted UFO research with the support of the DIA program manager though not outlined in the statement of work",
+   "quote": "Although investigating UFO/UAP was not specifically outlined in the contract's statement of work, the selected private sector organization conducted UFO research with the support of the DIA program manager."
+  },
+  {
+   "s": "aawsap",
+   "p": "ufo_research",
+   "v": "reviewing new and older Project BLUE BOOK cases, debriefing and investigatory teams, proposed laboratories for recovered UFO materials",
+   "quote": "This research included: reviewing new cases and much older Project BLUE BOOK cases, operating debriefing and investigatory teams, and proposals to set up laboratories to examine any recovered UFO materials."
+  },
+  {
+   "s": "aawsap",
+   "p": "authorisation",
+   "v": "DIA did not seek or specifically authorize this work, though a DIA employee set up and managed the contract",
+   "quote": "DIA did not seek, nor specifically authorize, this work though a DIA employee set up and managed the contract with the private sector organization."
+  },
+  {
+   "s": "aawsap",
+   "p": "proposal",
+   "v": "host a series of \"intellectual debates\" at academic institutes with supportive reporters and celebrity moderators",
+   "quote": "Just prior to DoD's cancellation of the program, the private sector organization proposed as a new line of effort to host a series of \"intellectual debates\" at academic institutes to influence the public debate, which included hiring supportive reporters and celebrity moderators."
+  },
+  {
+   "s": "aawsap",
+   "p": "proposal",
+   "v": "public relations campaign assuming \"E.T. visitations are true\"",
+   "quote": "The goal of this proposed public relations campaign was to assume that \"E.T. visitations are true\""
+  },
+  {
+   "s": "aawsap",
+   "p": "proposal",
+   "v": "increase public interest in government \"disclosure\" around the \"E.T. topic\"",
+   "quote": "A stated goal of this proposal was to increase public interest in government \"disclosure\" around the \"E.T. topic\" and explore the consequences of disclosure on the public."
+  },
+  {
+   "s": "aawsap",
+   "p": "output",
+   "v": "exploratory papers addressing the 12 scientific areas",
+   "quote": "The AAWSAP/AATIP contract with the private sector organization produced exploratory papers addressing the 12 scientific areas tasked in the contract's statement of work."
+  },
+  {
+   "s": "aawsap",
+   "p": "output",
+   "v": "papers were never thoroughly peer reviewed",
+   "quote": "These scientific papers were never thoroughly peer reviewed."
+  },
+  {
+   "s": "aawsap",
+   "p": "finding",
+   "v": "AARO found no other substantive UAP case work",
+   "quote": "AARO has yet to uncover any other substantive UAP case work conducted by AAWSAP/AATIP."
+  },
+  {
+   "s": "aawsap",
+   "p": "terminated",
+   "v": "2012",
+   "quote": "AAWSAP/AATIP was terminated in 2012 upon the completion of its deliverables due to DIA and DoD concerns about the project."
+  },
+  {
+   "s": "aawsap",
+   "p": "termination_reason",
+   "v": "lack of merit and the utility of the deliverables",
+   "quote": "DIA cancelled the program in 2012 due to lack of merit and the utility of the deliverables."
+  },
+  {
+   "s": "aawsap",
+   "p": "paranormal_research",
+   "v": "contractor team and at least one government program manager conducted UAP and paranormal research at a property owned by the private sector organization",
+   "quote": "the contractor team, and at least one supportive government program manager, also conducted UAP and paranormal research at a property owned by the private sector organization."
+  },
+  {
+   "s": "aawsap",
+   "p": "paranormal_research",
+   "v": "Persons 1 and 3 and Interviewees 1, 3, and 12 were involved",
+   "quote": "Persons 1 and 3 and Interviewees 1, 3, and 12 were involved with the paranormal research conducted under AAWSAP/AATIP"
+  },
+  {
+   "s": "aawsap",
+   "p": "special_access_program_request",
+   "v": "Reid requested on 24 June 2009 that it be made a DoD Special Access Program; declined",
+   "quote": "On 24 June 2009, Senator Reid sent a letter to then Deputy Secretary of Defense William Lynn III requesting that AAWSAP/AATIP be made a DoD Special Access Program."
+  },
+  {
+   "s": "aawsap",
+   "p": "part_of",
+   "o": "dia",
+   "quote": "In coordination with the Office of the Under Secretary of Defense for Intelligence, DIA established AAWSAP in 2009, which was also known AATIP."
+  },
+  {
+   "s": "ousdi",
+   "p": "involved_org",
+   "o": "aawsap",
+   "quote": "In coordination with the Office of the Under Secretary of Defense for Intelligence, DIA established AAWSAP in 2009, which was also known AATIP."
+  },
+  {
+   "s": "aatip",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Advanced Aerospace Weapons System Application Program (AAWSAP) (2009-2012)/ Advanced Aerospace Threat Identification Program (AATIP)"
+  },
+  {
+   "s": "aatip",
+   "p": "identified_as",
+   "o": "aawsap",
+   "quote": "In coordination with the Office of the Under Secretary of Defense for Intelligence, DIA established AAWSAP in 2009, which was also known AATIP."
+  },
+  {
+   "s": "aatip",
+   "p": "status",
+   "v": "names AAWSAP and AATIP used interchangeably, including on official documentation",
+   "quote": "The names AAWSAP and AATIP have been used interchangeably for the name of this program, including on official documentation."
+  },
+  {
+   "s": "aatip",
+   "p": "status",
+   "v": "never an official DoD program",
+   "quote": "Unlike AAWSAP, AATIP was never an official DoD program."
+  },
+  {
+   "s": "aatip",
+   "p": "later_use",
+   "v": "moniker used by an informal, unofficial UAP community of interest within DoD after AAWSAP was cancelled",
+   "quote": "after AAWSAP was cancelled, the AATIP moniker was used by some individuals associated with an informal, unofficial UAP community of interest within DoD that researched UAP sightings from military observers as part of their ancillary job duties."
+  },
+  {
+   "s": "aatip",
+   "p": "status",
+   "v": "not a recognized, official program; no dedicated personnel or budget",
+   "quote": "This effort was not a recognized, official program, and had no dedicated personnel or budget."
+  },
+  {
+   "s": "aatip",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "after AAWSAP was cancelled, the AATIP moniker was used by some individuals associated with an informal, unofficial UAP community of interest within DoD that researched UAP sightings from military observers as part of their ancillary job duties."
+  },
+  {
+   "s": "reid",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States."
+  },
+  {
+   "s": "reid",
+   "p": "proponent",
+   "o": "aawsap",
+   "quote": "At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States."
+  },
+  {
+   "s": "reid",
+   "p": "occupation",
+   "v": "Senate Majority Leader (D-NV)",
+   "quote": "At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States."
+  },
+  {
+   "s": "reid",
+   "p": "member_of",
+   "o": "senate",
+   "quote": "At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States."
+  },
+  {
+   "s": "approps",
+   "p": "key_document",
+   "o": "aawsap",
+   "quote": "At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States."
+  },
+  {
+   "s": "approps",
+   "p": "appropriation",
+   "v": "$22 million",
+   "quote": "At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States."
+  },
+  {
+   "s": "reid",
+   "p": "authored",
+   "o": "reid_letter",
+   "quote": "On 24 June 2009, Senator Reid sent a letter to then Deputy Secretary of Defense William Lynn III requesting that AAWSAP/AATIP be made a DoD Special Access Program."
+  },
+  {
+   "s": "reid_letter",
+   "p": "key_document",
+   "o": "aawsap",
+   "quote": "On 24 June 2009, Senator Reid sent a letter to then Deputy Secretary of Defense William Lynn III requesting that AAWSAP/AATIP be made a DoD Special Access Program."
+  },
+  {
+   "s": "reid_letter",
+   "p": "date",
+   "v": "2009-06-24",
+   "quote": "On 24 June 2009, Senator Reid sent a letter to then Deputy Secretary of Defense William Lynn III requesting that AAWSAP/AATIP be made a DoD Special Access Program."
+  },
+  {
+   "s": "reid_letter",
+   "p": "request",
+   "v": "that AAWSAP/AATIP be made a DoD Special Access Program",
+   "quote": "On 24 June 2009, Senator Reid sent a letter to then Deputy Secretary of Defense William Lynn III requesting that AAWSAP/AATIP be made a DoD Special Access Program."
+  },
+  {
+   "s": "lynn",
+   "p": "official_involved",
+   "o": "aawsap",
+   "quote": "On 24 June 2009, Senator Reid sent a letter to then Deputy Secretary of Defense William Lynn III requesting that AAWSAP/AATIP be made a DoD Special Access Program."
+  },
+  {
+   "s": "lynn",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Deputy Secretary Lynn declined to do so based on the recommendation of then-Under Secretary of Defense for Intelligence, James R. Clapper, Jr., that such a designation was not justified."
+  },
+  {
+   "s": "lynn",
+   "p": "occupation",
+   "v": "Deputy Secretary of Defense",
+   "quote": "On 24 June 2009, Senator Reid sent a letter to then Deputy Secretary of Defense William Lynn III requesting that AAWSAP/AATIP be made a DoD Special Access Program."
+  },
+  {
+   "s": "lynn",
+   "p": "decision",
+   "v": "declined to make AAWSAP/AATIP a DoD Special Access Program",
+   "quote": "Deputy Secretary Lynn declined to do so based on the recommendation of then-Under Secretary of Defense for Intelligence, James R. Clapper, Jr., that such a designation was not justified."
+  },
+  {
+   "s": "lynn",
+   "p": "employed_by",
+   "o": "dod",
+   "quote": "On 24 June 2009, Senator Reid sent a letter to then Deputy Secretary of Defense William Lynn III requesting that AAWSAP/AATIP be made a DoD Special Access Program."
+  },
+  {
+   "s": "clapper",
+   "p": "official_involved",
+   "o": "aawsap",
+   "quote": "Deputy Secretary Lynn declined to do so based on the recommendation of then-Under Secretary of Defense for Intelligence, James R. Clapper, Jr., that such a designation was not justified."
+  },
+  {
+   "s": "clapper",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Deputy Secretary Lynn declined to do so based on the recommendation of then-Under Secretary of Defense for Intelligence, James R. Clapper, Jr., that such a designation was not justified."
+  },
+  {
+   "s": "clapper",
+   "p": "occupation",
+   "v": "Under Secretary of Defense for Intelligence",
+   "quote": "Deputy Secretary Lynn declined to do so based on the recommendation of then-Under Secretary of Defense for Intelligence, James R. Clapper, Jr., that such a designation was not justified."
+  },
+  {
+   "s": "clapper",
+   "p": "recommendation",
+   "v": "Special Access Program designation was not justified",
+   "quote": "Deputy Secretary Lynn declined to do so based on the recommendation of then-Under Secretary of Defense for Intelligence, James R. Clapper, Jr., that such a designation was not justified."
+  },
+  {
+   "s": "utah_hotspot",
+   "p": "related_case",
+   "o": "case",
+   "quote": "AAWSAP/AATIP also investigated an alleged hotspot of UAP and paranormal activity at a property in Utah-which at that time was owned by the head of the private sector organization-including examining reports of \"shadow figures\" and \"creatures,\" and exploring \"remote viewing\" and \"human consciousness anomalies.\""
+  },
+  {
+   "s": "aawsap",
+   "p": "investigated_by",
+   "o": "utah_hotspot",
+   "quote": "AAWSAP/AATIP also investigated an alleged hotspot of UAP and paranormal activity at a property in Utah-which at that time was owned by the head of the private sector organization-including examining reports of \"shadow figures\" and \"creatures,\" and exploring \"remote viewing\" and \"human consciousness anomalies.\""
+  },
+  {
+   "s": "utah_hotspot",
+   "p": "owner",
+   "v": "the head of the private sector organization",
+   "quote": "AAWSAP/AATIP also investigated an alleged hotspot of UAP and paranormal activity at a property in Utah-which at that time was owned by the head of the private sector organization-including examining reports of \"shadow figures\" and \"creatures,\" and exploring \"remote viewing\" and \"human consciousness anomalies.\""
+  },
+  {
+   "s": "utah_hotspot",
+   "p": "reports",
+   "v": "\"shadow figures\" and \"creatures\"",
+   "quote": "AAWSAP/AATIP also investigated an alleged hotspot of UAP and paranormal activity at a property in Utah-which at that time was owned by the head of the private sector organization-including examining reports of \"shadow figures\" and \"creatures,\" and exploring \"remote viewing\" and \"human consciousness anomalies.\""
+  },
+  {
+   "s": "utah_hotspot",
+   "p": "research_topics",
+   "v": "\"remote viewing\" and \"human consciousness anomalies\"",
+   "quote": "AAWSAP/AATIP also investigated an alleged hotspot of UAP and paranormal activity at a property in Utah-which at that time was owned by the head of the private sector organization-including examining reports of \"shadow figures\" and \"creatures,\" and exploring \"remote viewing\" and \"human consciousness anomalies.\""
+  },
+  {
+   "s": "utah_hotspot",
+   "p": "plan",
+   "v": "hire psychics to study \"inter-dimensional phenomena\" believed to frequently appear there",
+   "quote": "The organization also planned to hire psychics to study \"inter-dimensional phenomena\" believed to frequently appear at that location."
+  },
+  {
+   "s": "utah_hotspot",
+   "p": "aaro_characterisation",
+   "v": "unrelated work on alleged paranormal activities",
+   "quote": "AAWSAP/AATIP reviewed a large number of Project BLUE BOOK and private cases and conducted interviews of UAP observers and conducted unrelated work on alleged paranormal activities at the private sector organization's property in Utah."
+  },
+  {
+   "s": "f_paranormal",
+   "p": "has_feature",
+   "o": "utah_hotspot",
+   "quote": "AAWSAP/AATIP also investigated an alleged hotspot of UAP and paranormal activity at a property in Utah-which at that time was owned by the head of the private sector organization-including examining reports of \"shadow figures\" and \"creatures,\" and exploring \"remote viewing\" and \"human consciousness anomalies.\""
+  },
+  {
+   "s": "f_occupants",
+   "p": "has_feature",
+   "o": "utah_hotspot",
+   "quote": "AAWSAP/AATIP also investigated an alleged hotspot of UAP and paranormal activity at a property in Utah-which at that time was owned by the head of the private sector organization-including examining reports of \"shadow figures\" and \"creatures,\" and exploring \"remote viewing\" and \"human consciousness anomalies.\""
+  },
+  {
+   "s": "utah",
+   "p": "occurred_at",
+   "o": "utah_hotspot",
+   "quote": "AAWSAP/AATIP also investigated an alleged hotspot of UAP and paranormal activity at a property in Utah-which at that time was owned by the head of the private sector organization-including examining reports of \"shadow figures\" and \"creatures,\" and exploring \"remote viewing\" and \"human consciousness anomalies.\""
+  },
+  {
+   "s": "bluebook",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "AAWSAP/AATIP reviewed a large number of Project BLUE BOOK and private cases and conducted interviews of UAP observers and conducted unrelated work on alleged paranormal activities at the private sector organization's property in Utah."
+  },
+  {
+   "s": "bluebook",
+   "p": "reviewed_by_aawsap",
+   "v": "AAWSAP/AATIP reviewed a large number of Project BLUE BOOK and private cases",
+   "quote": "AAWSAP/AATIP reviewed a large number of Project BLUE BOOK and private cases and conducted interviews of UAP observers and conducted unrelated work on alleged paranormal activities at the private sector organization's property in Utah."
+  },
+  {
+   "s": "konablue",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program"
+  },
+  {
+   "s": "konablue",
+   "p": "derived_from",
+   "o": "aawsap",
+   "quote": "KONA BLUE traces its origins to the DIA-managed AAWSAP/AATIP program, which was funded through a special appropriation and executed by its primary contractor, a private sector organization."
+  },
+  {
+   "s": "dhs",
+   "p": "involved_org",
+   "o": "konablue",
+   "quote": "its supporters proposed to DHS that they create and fund a new version of AAWSAP/AATIP under a SAP."
+  },
+  {
+   "s": "konablue",
+   "p": "description",
+   "v": "A Proposed UAP Recovery and Reverse-Engineering Program",
+   "quote": "KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program"
+  },
+  {
+   "s": "konablue",
+   "p": "interviewee_claim",
+   "v": "a sensitive DHS compartment to cover up the retrieval and exploitation of \"non-human biologics\"",
+   "quote": "KONA BLUE was brought to AARO's attention by interviewees who claimed that it was a sensitive DHS compartment to cover up the retrieval and exploitation of \"non-human biologics."
+  },
+  {
+   "s": "konablue",
+   "p": "proposal",
+   "v": "new version of AAWSAP/AATIP under a SAP, proposed to DHS by its supporters",
+   "quote": "its supporters proposed to DHS that they create and fund a new version of AAWSAP/AATIP under a SAP."
+  },
+  {
+   "s": "konablue",
+   "p": "scope",
+   "v": "restart UAP investigations, paranormal research and reverse-engineer any recovered off-world spacecraft they hoped to acquire",
+   "quote": "This proposal, codenamed KONA BLUE, would restart UAP investigations, paranormal research (including alleged \"human consciousness anomalies\") and reverse-engineer any recovered off-world spacecraft that they hoped to acquire."
+  },
+  {
+   "s": "konablue",
+   "p": "outcome",
+   "v": "Prospective Special Access Program officially requested but rejected by DHS leadership for lacking merit",
+   "quote": "Prospective Special Access Program (PSAP) was officially requested to stand up this program, but it was eventually rejected by DHS leadership for lacking merit."
+  },
+  {
+   "s": "konablue",
+   "p": "outcome",
+   "v": "SAP never approved or stood up; no data or material transferred to DHS",
+   "quote": "The SAP was never approved or stood up, and no data or material was transferred to DHS."
+  },
+  {
+   "s": "konablue",
+   "p": "advocates_belief",
+   "v": "convinced that the USG was hiding UAP technologies",
+   "quote": "KONA BLUE's advocates were convinced that the USG was hiding UAP technologies."
+  },
+  {
+   "s": "konablue",
+   "p": "advocates_belief",
+   "v": "creating the program under DHS would allow technology and knowledge of alleged programs to be moved under KONA BLUE",
+   "quote": "They believed that creating this program under DHS would allow all of the technology and knowledge of these alleged programs to be moved under the KONA BLUE program."
+  },
+  {
+   "s": "konablue",
+   "p": "lines_of_effort",
+   "v": "closely mirrored those conducted by the private sector organization for AAWSAP/AATIP",
+   "quote": "lines of effort closely mirrored those conducted by the private sector organization for AAWSAP/AATIP."
+  },
+  {
+   "s": "konablue",
+   "p": "finding",
+   "v": "no extraterrestrial craft or bodies were ever collected",
+   "quote": "It is critical to note that no extraterrestrial craft or bodies were ever collected"
+  },
+  {
+   "s": "konablue",
+   "p": "congressional_reporting",
+   "v": "not reported to Congress at the time because never established as a SAP",
+   "quote": "KONA BLUE was not reported to Congress at that time because it was never established as a SAP"
+  },
+  {
+   "s": "konablue",
+   "p": "congressional_reporting",
+   "v": "Deputy Secretary of Defense later provided a Congressional Notification",
+   "quote": "the Deputy Secretary of Defense provided a Congressional Notification concerning the program when it was identified in the spirit of transparency."
+  },
+  {
+   "s": "konablue",
+   "p": "origin",
+   "v": "supporters of terminated AAWSAP/AATIP unsuccessfully attempted to convince DHS to support a new version",
+   "quote": "After AAWSAP/AATIP was terminated, its supporters unsuccessfully attempted to convince DHS to support a new version of this effort dubbed KONA BLUE."
+  },
+  {
+   "s": "kb_proposal",
+   "p": "key_document",
+   "o": "konablue",
+   "quote": "The Oral History Initiative section of the KONA BLUE proposal was to collect data:"
+  },
+  {
+   "s": "kb_proposal",
+   "p": "oral_history_initiative",
+   "v": "collect data from retired, previously highly placed government, armed services, contractor and intelligence community individuals",
+   "quote": "from an already identified and calibrated list of retired, previously highly placed government, armed services, contractor and intelligence community individuals."
+  },
+  {
+   "s": "kb_proposal",
+   "p": "oral_history_initiative",
+   "v": "gather all information on the location of advanced aerospace technology and biological samples, including records, files, reports, photographs and physical samples",
+   "quote": "The oral history project will include gathering all information pertaining to the location of advanced aerospace technology and biological samples, including records, files, reports, photographs, as well as physical samples."
+  },
+  {
+   "s": "lieberman",
+   "p": "proponent",
+   "o": "konablue",
+   "quote": "Senators Lieberman and Reid asked that the PSAP be established with the promise of additional funding."
+  },
+  {
+   "s": "lieberman",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Senators Lieberman and Reid asked that the PSAP be established with the promise of additional funding."
+  },
+  {
+   "s": "lieberman",
+   "p": "title",
+   "v": "Senator",
+   "quote": "Senators Lieberman and Reid asked that the PSAP be established with the promise of additional funding."
+  },
+  {
+   "s": "lieberman",
+   "p": "member_of",
+   "o": "senate",
+   "quote": "Senators Lieberman and Reid asked that the PSAP be established with the promise of additional funding."
+  },
+  {
+   "s": "reid",
+   "p": "proponent",
+   "o": "konablue",
+   "quote": "Senators Lieberman and Reid asked that the PSAP be established with the promise of additional funding."
+  },
+  {
+   "s": "uaptf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Unidentified Aerial Phenomena Task Force (UAPTF) (August 2020-November 2021)"
+  },
+  {
+   "s": "uaptf",
+   "p": "years",
+   "v": "August 2020-November 2021",
+   "quote": "Unidentified Aerial Phenomena Task Force (UAPTF) (August 2020-November 2021)"
+  },
+  {
+   "s": "uaptf",
+   "p": "established",
+   "v": "2020-08",
+   "quote": "Deputy Secretary of Defense David L. Norquist approved the establishment of the UAPTF in August 2020."
+  },
+  {
+   "s": "uaptf",
+   "p": "mission",
+   "v": "detect, analyze, and catalog UAP that could potentially pose a threat to U.S. national security",
+   "quote": "The task force's mission was to detect, analyze, and catalog UAP that could potentially pose a threat to U.S. national security."
+  },
+  {
+   "s": "uaptf",
+   "p": "result",
+   "v": "helped standardize, destigmatize, and increase the volume of UAP reporting",
+   "quote": "The UAPTF helped standardize, destigmatize, and increase the volume of UAP reporting."
+  },
+  {
+   "s": "uaptf",
+   "p": "result",
+   "v": "methods and processes led to identification of PRC high altitude balloons over the continental United States",
+   "quote": "Its methods and processes directly led to the identification of the People's Republic of China's (PRC) high altitude balloons that traversed over the continental United States."
+  },
+  {
+   "s": "uaptf",
+   "p": "part_of",
+   "o": "navy",
+   "quote": "Under the cognizance of the Office of the Under Secretary of Defense for Intelligence and Security (USD(I&S)), the Department of the Navy was asked to lead the task force."
+  },
+  {
+   "s": "ousdis",
+   "p": "involved_org",
+   "o": "uaptf",
+   "quote": "Under the cognizance of the Office of the Under Secretary of Defense for Intelligence and Security (USD(I&S)), the Department of the Navy was asked to lead the task force."
+  },
+  {
+   "s": "norquist",
+   "p": "official_involved",
+   "o": "uaptf",
+   "quote": "Deputy Secretary of Defense David L. Norquist approved the establishment of the UAPTF in August 2020."
+  },
+  {
+   "s": "norquist",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Deputy Secretary of Defense David L. Norquist approved the establishment of the UAPTF in August 2020."
+  },
+  {
+   "s": "norquist",
+   "p": "occupation",
+   "v": "Deputy Secretary of Defense",
+   "quote": "Deputy Secretary of Defense David L. Norquist approved the establishment of the UAPTF in August 2020."
+  },
+  {
+   "s": "norquist",
+   "p": "employed_by",
+   "o": "dod",
+   "quote": "Deputy Secretary of Defense David L. Norquist approved the establishment of the UAPTF in August 2020."
+  },
+  {
+   "s": "prc_balloons",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Its methods and processes directly led to the identification of the People's Republic of China's (PRC) high altitude balloons that traversed over the continental United States."
+  },
+  {
+   "s": "x_balloon",
+   "p": "explained_as",
+   "o": "prc_balloons",
+   "quote": "Its methods and processes directly led to the identification of the People's Republic of China's (PRC) high altitude balloons that traversed over the continental United States."
+  },
+  {
+   "s": "uaptf",
+   "p": "investigated_by",
+   "o": "prc_balloons",
+   "quote": "Its methods and processes directly led to the identification of the People's Republic of China's (PRC) high altitude balloons that traversed over the continental United States."
+  },
+  {
+   "s": "china",
+   "p": "related_place",
+   "o": "prc_balloons",
+   "quote": "Its methods and processes directly led to the identification of the People's Republic of China's (PRC) high altitude balloons that traversed over the continental United States."
+  },
+  {
+   "s": "china",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Both the Russian Federation and the PRC seek to alter the international system at the expense of the security of the United States."
+  },
+  {
+   "s": "us",
+   "p": "occurred_at",
+   "o": "prc_balloons",
+   "quote": "Its methods and processes directly led to the identification of the People's Republic of China's (PRC) high altitude balloons that traversed over the continental United States."
+  },
+  {
+   "s": "us",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Both the Russian Federation and the PRC seek to alter the international system at the expense of the security of the United States."
+  },
+  {
+   "s": "prelim",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Preliminary Assessment: Unidentified Aerial Phenomena (June 2021)"
+  },
+  {
+   "s": "prelim",
+   "p": "date",
+   "v": "2021-06",
+   "quote": "Preliminary Assessment: Unidentified Aerial Phenomena (June 2021)"
+  },
+  {
+   "s": "odni",
+   "p": "authored",
+   "o": "prelim",
+   "quote": "Senate Report 116-233, accompanying the Intelligence Authorization Act for Fiscal Year 2021, directed the Office of the Director of National Intelligence (ODNI) in consultation with the Secretary of Defense to submit an intelligence assessment of the threat posed by UAP and to report on the progress the UAPTF had made in understanding this threat."
+  },
+  {
+   "s": "prelim",
+   "p": "conclusion",
+   "v": "limited high-quality reporting hampers firm conclusions about UAP nature or intent",
+   "quote": "(1) the limited amount of high- quality reporting on UAP hampers the ability to draw firm conclusions about their nature or intent"
+  },
+  {
+   "s": "prelim",
+   "p": "conclusion",
+   "v": "in a limited number of incidents UAP reportedly exhibited unusual flight characteristics, possibly from sensor errors, spoofing, or observer misperception",
+   "quote": "(2) in a limited number of incidents, UAP reportedly appeared to exhibit unusual flight characteristics; although those observations could be the result of sensor errors, spoofing, or observer misperception and require additional rigorous analysis"
+  },
+  {
+   "s": "prelim",
+   "p": "conclusion",
+   "v": "probably multiple types of UAP requiring different explanations",
+   "quote": "(3) there are probably multiple types of UAP requiring different explanations based on the range of appearances and behaviors described in the available reporting"
+  },
+  {
+   "s": "prelim",
+   "p": "conclusion",
+   "v": "UAP may pose airspace safety issues and a challenge to U.S. national security",
+   "quote": "(4) UAP may pose airspace safety issues and a challenge to U.S. national security"
+  },
+  {
+   "s": "prelim",
+   "p": "conclusion",
+   "v": "consolidated, standardized reporting and screening against government data will allow more sophisticated analysis",
+   "quote": "(5) consistent consolidation of reports from across the USG, standardized reporting, increased collection and analysis, and a streamlined process for screening all such reports against a broad range of relevant government data will allow for a more sophisticated analysis of UAP."
+  },
+  {
+   "s": "prelim",
+   "p": "report_count",
+   "v": "144 UAP reports over 17 years of reporting",
+   "quote": "This included the 144 UAP reports covered during the 17 years of reporting included in the ODNI's preliminary assessment, as well as 247 new reports and 119 reports that subsequently were discovered or reported."
+  },
+  {
+   "s": "sr116",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Senate Report 116-233, accompanying the Intelligence Authorization Act for Fiscal Year 2021, directed the Office of the Director of National Intelligence (ODNI) in consultation with the Secretary of Defense to submit an intelligence assessment of the threat posed by UAP and to report on the progress the UAPTF had made in understanding this threat."
+  },
+  {
+   "s": "sr116",
+   "p": "direction",
+   "v": "directed ODNI, in consultation with the Secretary of Defense, to submit an intelligence assessment of the UAP threat",
+   "quote": "Senate Report 116-233, accompanying the Intelligence Authorization Act for Fiscal Year 2021, directed the Office of the Director of National Intelligence (ODNI) in consultation with the Secretary of Defense to submit an intelligence assessment of the threat posed by UAP and to report on the progress the UAPTF had made in understanding this threat."
+  },
+  {
+   "s": "sr116",
+   "p": "part_of",
+   "o": "iaa21",
+   "quote": "Senate Report 116-233, accompanying the Intelligence Authorization Act for Fiscal Year 2021, directed the Office of the Director of National Intelligence (ODNI) in consultation with the Secretary of Defense to submit an intelligence assessment of the threat posed by UAP and to report on the progress the UAPTF had made in understanding this threat."
+  },
+  {
+   "s": "iaa21",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Senate Report 116-233, accompanying the Intelligence Authorization Act for Fiscal Year 2021, directed the Office of the Director of National Intelligence (ODNI) in consultation with the Secretary of Defense to submit an intelligence assessment of the threat posed by UAP and to report on the progress the UAPTF had made in understanding this threat."
+  },
+  {
+   "s": "aoimsg",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Airborne Object Identification and Management Synchronization Group (AOIMSG) / Airborne Object Identification and Management Executive Management Committee (AOIMEXEC) (November 2021-June 2022)"
+  },
+  {
+   "s": "aoimsg",
+   "p": "years",
+   "v": "November 2021-June 2022",
+   "quote": "Airborne Object Identification and Management Synchronization Group (AOIMSG) / Airborne Object Identification and Management Executive Management Committee (AOIMEXEC) (November 2021-June 2022)"
+  },
+  {
+   "s": "aoimsg",
+   "p": "origin",
+   "v": "established by USD(I&S) at the direction of the Deputy Secretary of Defense to succeed the USN's UAPTF",
+   "quote": "The Deputy Secretary of Defense, in consultation with the Director of National Intelligence (DNI), directed USD(I&S) to establish AOIMSG to succeed the USN's UAPTF."
+  },
+  {
+   "s": "aoimsg",
+   "p": "result",
+   "v": "helped initiate synchronization of efforts to detect, identify, and attribute objects of interest in \"Special Use Airspace\"",
+   "quote": "The organization helped initiate synchronization of efforts across the Department and the broader USG to detect, identify, and attribute objects of interests in \"Special Use Airspace,\""
+  },
+  {
+   "s": "aoimsg",
+   "p": "outcome",
+   "v": "had not achieved initial operating capability before being renamed AARO under the FY2022 NDAA",
+   "quote": "AOIMSG had not achieved initial operating capability before subsequent legislation in the FY2022 NDAA resulted in it being renamed to AARO and given an expanded mission set."
+  },
+  {
+   "s": "aoimsg",
+   "p": "succeeded",
+   "o": "uaptf",
+   "quote": "The Deputy Secretary of Defense, in consultation with the Director of National Intelligence (DNI), directed USD(I&S) to establish AOIMSG to succeed the USN's UAPTF."
+  },
+  {
+   "s": "aaro",
+   "p": "succeeded",
+   "o": "aoimsg",
+   "quote": "In response to the NDAA for FY22, the Deputy Secretary of Defense in coordination with the DNI, conveyed direction to the USD(I&S) by renaming the AOIMSG as AARO, and expanded its scope and mission."
+  },
+  {
+   "s": "ousdis",
+   "p": "commanded",
+   "o": "aoimsg",
+   "quote": "The Deputy Secretary of Defense, in consultation with the Director of National Intelligence (DNI), directed USD(I&S) to establish AOIMSG to succeed the USN's UAPTF."
+  },
+  {
+   "s": "ousdis",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In response to the NDAA for FY22, the Deputy Secretary of Defense in coordination with the DNI, conveyed direction to the USD(I&S) by renaming the AOIMSG as AARO, and expanded its scope and mission."
+  },
+  {
+   "s": "aoimexec",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Airborne Object Identification and Management Synchronization Group (AOIMSG) / Airborne Object Identification and Management Executive Management Committee (AOIMEXEC) (November 2021-June 2022)"
+  },
+  {
+   "s": "ndaa22",
+   "p": "key_document",
+   "o": "case",
+   "quote": "AOIMSG had not achieved initial operating capability before subsequent legislation in the FY2022 NDAA resulted in it being renamed to AARO and given an expanded mission set."
+  },
+  {
+   "s": "ndaa22",
+   "p": "effect",
+   "v": "AOIMSG renamed to AARO and given an expanded mission set",
+   "quote": "AOIMSG had not achieved initial operating capability before subsequent legislation in the FY2022 NDAA resulted in it being renamed to AARO and given an expanded mission set."
+  },
+  {
+   "s": "ndaa23",
+   "p": "key_document",
+   "o": "case",
+   "quote": "to meet the direction of Section 1673 of the NDAA for FY 2023, AARO sent guidance and requests to DoD, IC elements, DOE, and DHS to review and provide any NDAs pertaining to UAP (or its previous names)."
+  },
+  {
+   "s": "ndaa23",
+   "p": "section",
+   "v": "Section 1673",
+   "quote": "to meet the direction of Section 1673 of the NDAA for FY 2023, AARO sent guidance and requests to DoD, IC elements, DOE, and DHS to review and provide any NDAs pertaining to UAP (or its previous names)."
+  },
+  {
+   "s": "title18",
+   "p": "key_document",
+   "o": "case",
+   "quote": "apart from the standard NDA language contained in Title 18, Section 794 describing the death penalty or jail time for illegally disclosing information relating to the national defense"
+  },
+  {
+   "s": "title18",
+   "p": "content",
+   "v": "describes the death penalty or jail time for illegally disclosing information relating to the national defense",
+   "quote": "apart from the standard NDA language contained in Title 18, Section 794 describing the death penalty or jail time for illegally disclosing information relating to the national defense"
+  },
+  {
+   "s": "title18",
+   "p": "use",
+   "v": "referenced in typical NDAs in relation to the transmission of classified information",
+   "quote": "Title 18, Section 794, is referenced in typical NDAs in several places in relation to the transmission of classified information:"
+  },
+  {
+   "s": "uapist",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "UAP Independent Study Team (UAPIST) (June 2022-September 2023)"
+  },
+  {
+   "s": "uapist",
+   "p": "years",
+   "v": "June 2022-September 2023",
+   "quote": "UAP Independent Study Team (UAPIST) (June 2022-September 2023)"
+  },
+  {
+   "s": "uapist",
+   "p": "part_of",
+   "o": "nasa",
+   "quote": "NASA established the UAPIST as a subordinate group of its Earth Science Advisory Committee, which was established in accordance with the Federal Advisory Committee Act."
+  },
+  {
+   "s": "uapist",
+   "p": "focus",
+   "v": "examined UAP from a scientific perspective, focusing on how NASA can use data and scientific tools",
+   "quote": "The UAPIST examined UAP from a scientific perspective, focusing on how NASA can use data and the scientific tools to achieve a better understanding of UAP."
+  },
+  {
+   "s": "uapist",
+   "p": "chair",
+   "v": "the President of the Simons Foundation",
+   "quote": "The independent study team was chaired by the President of the Simons Foundation and included members from the USG, academia, and the private sector."
+  },
+  {
+   "s": "uapist",
+   "p": "orchestrated_by",
+   "v": "Assistant Deputy Associate Administrator for Research at NASA's Science Mission Directorate",
+   "quote": "The Assistant Deputy Associate Administrator for Research at NASA's Science Mission Directorate was responsible for orchestrating the study."
+  },
+  {
+   "s": "uapist",
+   "p": "report_released",
+   "v": "2023-09",
+   "quote": "NASA released its report in September 2023."
+  },
+  {
+   "s": "uapist",
+   "p": "report_focus",
+   "v": "best data streams available and discoverable to resolve UAP cases",
+   "quote": "The report focused on discovering the best data streams available and discoverable to resolve UAP cases."
+  },
+  {
+   "s": "uapist",
+   "p": "report_focus",
+   "v": "did not focus on whether or not UAP were of extraterrestrial origin",
+   "quote": "It did not focus on whether or not UAP were of extraterrestrial origin."
+  },
+  {
+   "s": "nasa",
+   "p": "action",
+   "v": "established a UAP Research Director position",
+   "quote": "NASA also established a UAP Research Director position."
+  },
+  {
+   "s": "uapist",
+   "p": "part_of",
+   "o": "esac",
+   "quote": "NASA established the UAPIST as a subordinate group of its Earth Science Advisory Committee, which was established in accordance with the Federal Advisory Committee Act."
+  },
+  {
+   "s": "esac",
+   "p": "part_of",
+   "o": "nasa",
+   "quote": "NASA established the UAPIST as a subordinate group of its Earth Science Advisory Committee, which was established in accordance with the Federal Advisory Committee Act."
+  },
+  {
+   "s": "faca",
+   "p": "key_document",
+   "o": "uapist",
+   "quote": "NASA established the UAPIST as a subordinate group of its Earth Science Advisory Committee, which was established in accordance with the Federal Advisory Committee Act."
+  },
+  {
+   "s": "smd",
+   "p": "part_of",
+   "o": "nasa",
+   "quote": "The Assistant Deputy Associate Administrator for Research at NASA's Science Mission Directorate was responsible for orchestrating the study."
+  },
+  {
+   "s": "smd",
+   "p": "involved_org",
+   "o": "uapist",
+   "quote": "The Assistant Deputy Associate Administrator for Research at NASA's Science Mission Directorate was responsible for orchestrating the study."
+  },
+  {
+   "s": "simons",
+   "p": "involved_org",
+   "o": "uapist",
+   "quote": "The independent study team was chaired by the President of the Simons Foundation and included members from the USG, academia, and the private sector."
+  },
+  {
+   "s": "ar22",
+   "p": "key_document",
+   "o": "case",
+   "quote": "on January 12, 2023, the ODNI submitted the 2022 Annual Report on Unidentified Aerial Phenomena to Congress. This report was drafted in partnership with AARO and based on AARO's data."
+  },
+  {
+   "s": "odni",
+   "p": "authored",
+   "o": "ar22",
+   "quote": "on January 12, 2023, the ODNI submitted the 2022 Annual Report on Unidentified Aerial Phenomena to Congress. This report was drafted in partnership with AARO and based on AARO's data."
+  },
+  {
+   "s": "ar22",
+   "p": "submitted",
+   "v": "2023-01-12",
+   "quote": "on January 12, 2023, the ODNI submitted the 2022 Annual Report on Unidentified Aerial Phenomena to Congress. This report was drafted in partnership with AARO and based on AARO's data."
+  },
+  {
+   "s": "ar22",
+   "p": "report_count",
+   "v": "510 UAP reports as of August 30, 2022",
+   "quote": "The report stated that there was a total of 510 UAP reports as of August 30, 2022."
+  },
+  {
+   "s": "ar22",
+   "p": "report_breakdown",
+   "v": "144 from the preliminary assessment, 247 new reports and 119 subsequently discovered or reported",
+   "quote": "This included the 144 UAP reports covered during the 17 years of reporting included in the ODNI's preliminary assessment, as well as 247 new reports and 119 reports that subsequently were discovered or reported."
+  },
+  {
+   "s": "ar22",
+   "p": "statement",
+   "v": "UAP events continue to occur in restricted or sensitive airspace",
+   "quote": "The report also stated that UAP events continue to occur in restricted or sensitive airspace, highlighting possible concerns for safety of flight or adversary collection activity."
+  },
+  {
+   "s": "case",
+   "p": "scope",
+   "v": "reviewed seven other UAP investigatory panels and programs sponsored by a U.S. university, the United Kingdom, Canada, and France",
+   "quote": "AARO reviewed seven other UAP investigatory panels and programs sponsored by a U.S. university, the United Kingdom, Canada, and France."
+  },
+  {
+   "s": "sturrock",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Stanford University's Sturrock Panel (1998) found no convincing evidence for the extraterrestrial origin of UFO/UAP."
+  },
+  {
+   "s": "sturrock",
+   "p": "year",
+   "v": "1998",
+   "quote": "Stanford University's Sturrock Panel (1998) found no convincing evidence for the extraterrestrial origin of UFO/UAP."
+  },
+  {
+   "s": "sturrock",
+   "p": "finding",
+   "v": "no convincing evidence for the extraterrestrial origin of UFO/UAP",
+   "quote": "Stanford University's Sturrock Panel (1998) found no convincing evidence for the extraterrestrial origin of UFO/UAP."
+  },
+  {
+   "s": "sturrock",
+   "p": "part_of",
+   "o": "stanford",
+   "quote": "Stanford University's Sturrock Panel (1998) found no convincing evidence for the extraterrestrial origin of UFO/UAP."
+  },
+  {
+   "s": "fswp",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The United Kingdom's Flying Saucer Working Party (1950-1951) concluded that \"flying saucers did not exist.\""
+  },
+  {
+   "s": "fswp",
+   "p": "years",
+   "v": "1950-1951",
+   "quote": "The United Kingdom's Flying Saucer Working Party (1950-1951) concluded that \"flying saucers did not exist.\""
+  },
+  {
+   "s": "fswp",
+   "p": "conclusion",
+   "v": "\"flying saucers did not exist.\"",
+   "quote": "The United Kingdom's Flying Saucer Working Party (1950-1951) concluded that \"flying saucers did not exist.\""
+  },
+  {
+   "s": "fswp",
+   "p": "located_in",
+   "o": "uk",
+   "quote": "The United Kingdom's Flying Saucer Working Party (1950-1951) concluded that \"flying saucers did not exist.\""
+  },
+  {
+   "s": "uk",
+   "p": "related_place",
+   "o": "case",
+   "quote": "AARO reviewed seven other UAP investigatory panels and programs sponsored by a U.S. university, the United Kingdom, Canada, and France."
+  },
+  {
+   "s": "canada",
+   "p": "related_place",
+   "o": "case",
+   "quote": "AARO reviewed seven other UAP investigatory panels and programs sponsored by a U.S. university, the United Kingdom, Canada, and France."
+  },
+  {
+   "s": "sky",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Canada's Sky Project (2023) is currently ongoing, and the program will release its findings in 2024."
+  },
+  {
+   "s": "sky",
+   "p": "year",
+   "v": "2023",
+   "quote": "Canada's Sky Project (2023) is currently ongoing, and the program will release its findings in 2024."
+  },
+  {
+   "s": "sky",
+   "p": "status",
+   "v": "currently ongoing; findings to be released in 2024",
+   "quote": "Canada's Sky Project (2023) is currently ongoing, and the program will release its findings in 2024."
+  },
+  {
+   "s": "sky",
+   "p": "located_in",
+   "o": "canada",
+   "quote": "Canada's Sky Project (2023) is currently ongoing, and the program will release its findings in 2024."
+  },
+  {
+   "s": "storey",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Canada's Project Second Storey (1952-1954), an advisory committee that advised the government, never reached any significant conclusions."
+  },
+  {
+   "s": "storey",
+   "p": "years",
+   "v": "1952-1954",
+   "quote": "Canada's Project Second Storey (1952-1954), an advisory committee that advised the government, never reached any significant conclusions."
+  },
+  {
+   "s": "storey",
+   "p": "outcome",
+   "v": "never reached any significant conclusions",
+   "quote": "Canada's Project Second Storey (1952-1954), an advisory committee that advised the government, never reached any significant conclusions."
+  },
+  {
+   "s": "storey",
+   "p": "located_in",
+   "o": "canada",
+   "quote": "Canada's Project Second Storey (1952-1954), an advisory committee that advised the government, never reached any significant conclusions."
+  },
+  {
+   "s": "magnet",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Canada's Project Magnet (1950-1954) was run by Department of Transport engineer Wilbert B. Smith."
+  },
+  {
+   "s": "magnet",
+   "p": "years",
+   "v": "1950-1954",
+   "quote": "Canada's Project Magnet (1950-1954) was run by Department of Transport engineer Wilbert B. Smith."
+  },
+  {
+   "s": "magnet",
+   "p": "outcome",
+   "v": "closed by the Canadian government, saying there were no definitive results",
+   "quote": "The Canadian government closed the project, saying that there were no definitive results from the research."
+  },
+  {
+   "s": "magnet",
+   "p": "unofficial_report",
+   "v": "claimed UFOs were of extraterrestrial origin; program director claimed contact with aliens",
+   "quote": "one unofficial report from a Canadian government effort in the early 1950s claimed UFOs were of extraterrestrial origin, and the program director claimed he was in contact with aliens."
+  },
+  {
+   "s": "magnet",
+   "p": "government_position",
+   "v": "position not endorsed or supported by the Canadian government",
+   "quote": "This position appeared to reflect the opinions of the director of the effort and was not endorsed or supported by the Canadian government."
+  },
+  {
+   "s": "magnet",
+   "p": "located_in",
+   "o": "canada",
+   "quote": "Canada's Project Magnet (1950-1954) was run by Department of Transport engineer Wilbert B. Smith."
+  },
+  {
+   "s": "magnet",
+   "p": "part_of",
+   "o": "dot",
+   "quote": "Canada's Project Magnet (1950-1954) was run by Department of Transport engineer Wilbert B. Smith."
+  },
+  {
+   "s": "govcan",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Canadian government closed the project, saying that there were no definitive results from the research."
+  },
+  {
+   "s": "dot",
+   "p": "part_of",
+   "o": "govcan",
+   "quote": "Canada's Project Magnet (1950-1954) was run by Department of Transport engineer Wilbert B. Smith."
+  },
+  {
+   "s": "smith",
+   "p": "proponent",
+   "o": "case",
+   "quote": "Smith assessed that UFOs were of extraterrestrial origin and that they flew by magnetism."
+  },
+  {
+   "s": "smith",
+   "p": "commanded",
+   "o": "magnet",
+   "quote": "Canada's Project Magnet (1950-1954) was run by Department of Transport engineer Wilbert B. Smith."
+  },
+  {
+   "s": "smith",
+   "p": "employed_by",
+   "o": "dot",
+   "quote": "Canada's Project Magnet (1950-1954) was run by Department of Transport engineer Wilbert B. Smith."
+  },
+  {
+   "s": "smith",
+   "p": "occupation",
+   "v": "Department of Transport engineer",
+   "quote": "Canada's Project Magnet (1950-1954) was run by Department of Transport engineer Wilbert B. Smith."
+  },
+  {
+   "s": "smith",
+   "p": "statement",
+   "v": "assessed that UFOs were of extraterrestrial origin and flew by magnetism",
+   "quote": "Smith assessed that UFOs were of extraterrestrial origin and that they flew by magnetism."
+  },
+  {
+   "s": "smith",
+   "p": "statement",
+   "v": "believed he was in personal contact with extraterrestrial beings through telepathy and \"tensor beams\"",
+   "quote": "Smith believed he was in personal contact with extraterrestrial beings through telepathy and \"tensor beams.\""
+  },
+  {
+   "s": "smith",
+   "p": "later_claim",
+   "v": "claimed in a 1961 interview that in 1952 the USAF lent him a piece of a UFO to study",
+   "quote": "Smith, in an interview as early as 1961, claimed that in 1952, the USAF lent him a piece of a UFO to study."
+  },
+  {
+   "s": "smith",
+   "p": "later_claim",
+   "v": "claimed the piece was composed of magnesium orthosilicate",
+   "quote": "He also claimed it was composed of magnesium orthosilicate."
+  },
+  {
+   "s": "smith",
+   "p": "statement",
+   "v": "admitted his beliefs concerning UFOs were his alone and not the government's official position",
+   "quote": "Smith admitted that his beliefs concerning UFOs were his alone and not the government's official position."
+  },
+  {
+   "s": "france",
+   "p": "related_place",
+   "o": "case",
+   "quote": "AARO reviewed seven other UAP investigatory panels and programs sponsored by a U.S. university, the United Kingdom, Canada, and France."
+  },
+  {
+   "s": "govfr",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The French government sponsored three comprehensive investigatory programs:"
+  },
+  {
+   "s": "gepan",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Groupe d'Etude et d'Information sur les Phénomènes Aérospatiaux Non-identifiés (GEPAN, 1977-1987)"
+  },
+  {
+   "s": "gepan",
+   "p": "years",
+   "v": "1977-1987",
+   "quote": "Groupe d'Etude et d'Information sur les Phénomènes Aérospatiaux Non-identifiés (GEPAN, 1977-1987)"
+  },
+  {
+   "s": "gepan",
+   "p": "part_of",
+   "o": "govfr",
+   "quote": "The French government sponsored three comprehensive investigatory programs:"
+  },
+  {
+   "s": "sepra",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Service d'Expertise des Phénomènes de Rentrées Atmosphériques (SEPRA, 1988-2004)"
+  },
+  {
+   "s": "sepra",
+   "p": "years",
+   "v": "1988-2004",
+   "quote": "Service d'Expertise des Phénomènes de Rentrées Atmosphériques (SEPRA, 1988-2004)"
+  },
+  {
+   "s": "sepra",
+   "p": "conclusion",
+   "v": "vast majority of cases possess ordinary explanations",
+   "quote": "When it dissolved, SERPA concluded that the vast majority of cases"
+  },
+  {
+   "s": "sepra",
+   "p": "unresolved_share",
+   "v": "28 percent of its caseload",
+   "quote": "possess ordinary explanations, while 28 percent of its caseload remained unresolved."
+  },
+  {
+   "s": "sepra",
+   "p": "part_of",
+   "o": "govfr",
+   "quote": "The French government sponsored three comprehensive investigatory programs:"
+  },
+  {
+   "s": "geipan",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "a new version called Groupe d'Etudes et d'Informations sur les Phénomènes Aérospatiaux Non-identifiés (GEIPAN) that stood up in 2005."
+  },
+  {
+   "s": "geipan",
+   "p": "established",
+   "v": "2005",
+   "quote": "a new version called Groupe d'Etudes et d'Informations sur les Phénomènes Aérospatiaux Non-identifiés (GEIPAN) that stood up in 2005."
+  },
+  {
+   "s": "geipan",
+   "p": "part_of",
+   "o": "govfr",
+   "quote": "The French government sponsored three comprehensive investigatory programs:"
+  },
+  {
+   "s": "govfr",
+   "p": "finding",
+   "v": "none of these organizations found evidence of extraterrestrial visitations to Earth",
+   "quote": "None of these organizations have found evidence of extraterrestrial visitations to Earth."
+  },
+  {
+   "s": "robertson",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "There was at least one USG proposal-by the CIA-sponsored Robertson Panel-to engage in an active \"training\" and \"debunking\" effort using various public media tools to steer the public away from reporting UFOs."
+  },
+  {
+   "s": "cia",
+   "p": "involved_org",
+   "o": "robertson",
+   "quote": "There was at least one USG proposal-by the CIA-sponsored Robertson Panel-to engage in an active \"training\" and \"debunking\" effort using various public media tools to steer the public away from reporting UFOs."
+  },
+  {
+   "s": "robertson",
+   "p": "proposal",
+   "v": "active \"training\" and \"debunking\" effort using public media to steer the public away from reporting UFOs",
+   "quote": "There was at least one USG proposal-by the CIA-sponsored Robertson Panel-to engage in an active \"training\" and \"debunking\" effort using various public media tools to steer the public away from reporting UFOs."
+  },
+  {
+   "s": "robertson",
+   "p": "reasoning",
+   "v": "reports clutter government processes and could create \"mass hysteria\" to the benefit of the Soviet Union",
+   "quote": "it viewed the persistent flood of reports as cluttering and bogging down government processes, expressing the concern that such reports could create \"mass hysteria\" to the benefit of the Soviet Union."
+  },
+  {
+   "s": "ussr",
+   "p": "related_place",
+   "o": "case",
+   "quote": "it viewed the persistent flood of reports as cluttering and bogging down government processes, expressing the concern that such reports could create \"mass hysteria\" to the benefit of the Soviet Union."
+  },
+  {
+   "s": "russia",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Both the Russian Federation and the PRC seek to alter the international system at the expense of the security of the United States."
+  },
+  {
+   "s": "korea",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Concern about the Soviet Union's desire for regional hegemony and military and political superiority contributed to U.S. involvement with conflicts in Korea, Vietnam, and elsewhere"
+  },
+  {
+   "s": "vietnam",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Concern about the Soviet Union's desire for regional hegemony and military and political superiority contributed to U.S. involvement with conflicts in Korea, Vietnam, and elsewhere"
+  },
+  {
+   "s": "hynek",
+   "p": "commentator",
+   "o": "case",
+   "quote": "At various points in history, individuals inside and outside of the USG, including Dr. J. Allen Hynek, claimed the USAF had a key goal of debunking or explaining away reports of UAP."
+  },
+  {
+   "s": "hynek",
+   "p": "statement",
+   "v": "claimed the USAF had a key goal of debunking or explaining away reports of UAP",
+   "quote": "At various points in history, individuals inside and outside of the USG, including Dr. J. Allen Hynek, claimed the USAF had a key goal of debunking or explaining away reports of UAP."
+  },
+  {
+   "s": "hynek",
+   "p": "title",
+   "v": "Dr.",
+   "quote": "At various points in history, individuals inside and outside of the USG, including Dr. J. Allen Hynek, claimed the USAF had a key goal of debunking or explaining away reports of UAP."
+  },
+  {
+   "s": "grudge",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "at least the first iteration of Project GRUDGE sought to resolve all cases and prohibited its staff from characterizing reports as unknown or unidentified."
+  },
+  {
+   "s": "grudge",
+   "p": "policy",
+   "v": "first iteration sought to resolve all cases and prohibited staff from characterizing reports as unknown or unidentified",
+   "quote": "at least the first iteration of Project GRUDGE sought to resolve all cases and prohibited its staff from characterizing reports as unknown or unidentified."
+  },
+  {
+   "s": "sign",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Project SIGN staff allegedly drafted and signed a report that was circulated for review and approval."
+  },
+  {
+   "s": "estimate",
+   "p": "key_document",
+   "o": "case",
+   "quote": "It was titled: \"The Estimate of the Situation\" and assessed that at least some UFOs were of \"interplanetary\" origin."
+  },
+  {
+   "s": "sign",
+   "p": "authored",
+   "o": "estimate",
+   "quote": "Project SIGN staff allegedly drafted and signed a report that was circulated for review and approval."
+  },
+  {
+   "s": "estimate",
+   "p": "assessment",
+   "v": "at least some UFOs were of \"interplanetary\" origin",
+   "quote": "It was titled: \"The Estimate of the Situation\" and assessed that at least some UFOs were of \"interplanetary\" origin."
+  },
+  {
+   "s": "estimate",
+   "p": "outcome",
+   "v": "rejected by DoD leadership for lacking any proof; never published",
+   "quote": "The DoD leadership rejected this report on the basis that it lacked any proof, and it was never published."
+  },
+  {
+   "s": "estimate",
+   "p": "status",
+   "v": "AARO unable to verify Ruppelt's claim or locate the document",
+   "quote": "AARO has been unable to verify his claim or locate the document."
+  },
+  {
+   "s": "ruppelt",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Project BLUE BOOK, Capt Edward Ruppelt, said that all but a couple copies of this estimate were destroyed."
+  },
+  {
+   "s": "ruppelt",
+   "p": "commanded",
+   "o": "bluebook",
+   "quote": "Capt Ruppelt, the first director of Project BLUE BOOK, noted that the inability to collect the UFO's altitude, size, and speed was a recurring and"
+  },
+  {
+   "s": "ruppelt",
+   "p": "rank",
+   "v": "Captain",
+   "quote": "Project BLUE BOOK, Capt Edward Ruppelt, said that all but a couple copies of this estimate were destroyed."
+  },
+  {
+   "s": "ruppelt",
+   "p": "statement",
+   "v": "all but a couple copies of the Estimate of the Situation were destroyed",
+   "quote": "Project BLUE BOOK, Capt Edward Ruppelt, said that all but a couple copies of this estimate were destroyed."
+  },
+  {
+   "s": "ruppelt",
+   "p": "statement",
+   "v": "spikes in reported sightings followed official press events mentioning UFOs",
+   "quote": "Capt Ruppelt, who was involved with three UFO investigations efforts, including being the initial leader of Project BLUE BOOK, noted that there would be spikes in reported sightings after official press events mentioning UFOs"
+  },
+  {
+   "s": "ruppelt",
+   "p": "statement",
+   "v": "inability to collect a UFO's altitude, size, and speed was a recurring problem",
+   "quote": "Capt Ruppelt, the first director of Project BLUE BOOK, noted that the inability to collect the UFO's altitude, size, and speed was a recurring and"
+  },
+  {
+   "s": "ruppelt",
+   "p": "role",
+   "v": "involved with three UFO investigation efforts; initial leader of Project BLUE BOOK",
+   "quote": "Capt Ruppelt, who was involved with three UFO investigations efforts, including being the initial leader of Project BLUE BOOK, noted that there would be spikes in reported sightings after official press events mentioning UFOs"
+  },
+  {
+   "s": "arnold_case",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Segments of the American public have been interested in this topic since the term \"flying saucer\" emerged after Arnold's sighting in 1947"
+  },
+  {
+   "s": "arnold_case",
+   "p": "date_start",
+   "v": "1947",
+   "quote": "Segments of the American public have been interested in this topic since the term \"flying saucer\" emerged after Arnold's sighting in 1947"
+  },
+  {
+   "s": "arnold_case",
+   "p": "legacy",
+   "v": "the term \"flying saucer\" emerged after it",
+   "quote": "Segments of the American public have been interested in this topic since the term \"flying saucer\" emerged after Arnold's sighting in 1947"
+  },
+  {
+   "s": "arnold",
+   "p": "witness",
+   "o": "arnold_case",
+   "quote": "Segments of the American public have been interested in this topic since the term \"flying saucer\" emerged after Arnold's sighting in 1947"
+  },
+  {
+   "s": "twelve",
+   "p": "related_case",
+   "o": "case",
+   "quote": "was in possession of 12 spacecraft recovered from different crash events prior to 1970."
+  },
+  {
+   "s": "twelve",
+   "p": "date_end",
+   "v": "1970",
+   "quote": "was in possession of 12 spacecraft recovered from different crash events prior to 1970."
+  },
+  {
+   "s": "twelve",
+   "p": "craft_count",
+   "v": "12",
+   "quote": "was in possession of 12 spacecraft recovered from different crash events prior to 1970."
+  },
+  {
+   "s": "twelve",
+   "p": "source_type",
+   "v": "thirdhand account by an AARO interviewee",
+   "quote": "claimed in a thirdhand account that an organization"
+  },
+  {
+   "s": "twelve",
+   "p": "craft_condition",
+   "v": "some allegedly \"intact\"",
+   "quote": "Some of the craft allegedly were \"intact.\""
+  },
+  {
+   "s": "twelve",
+   "p": "interviewee_claim",
+   "v": "CIA had a partnership with the company that ended in 1989 and wanted all material returned",
+   "quote": "The interviewee also stated that the CIA had a partnership with the company that ended in 1989 and wanted all material returned to the CIA."
+  },
+  {
+   "s": "twelve",
+   "p": "finding",
+   "v": "AARO discovered no empirical evidence supporting these claims",
+   "quote": "AARO discovered no empirical evidence supporting these claims."
+  },
+  {
+   "s": "f_crash",
+   "p": "has_feature",
+   "o": "twelve",
+   "quote": "was in possession of 12 spacecraft recovered from different crash events prior to 1970."
+  },
+  {
+   "s": "cia",
+   "p": "involved_org",
+   "o": "twelve",
+   "quote": "The interviewee also stated that the CIA had a partnership with the company that ended in 1989 and wanted all material returned to the CIA."
+  },
+  {
+   "s": "aaro",
+   "p": "investigated_by",
+   "o": "twelve",
+   "quote": "AARO discovered no empirical evidence supporting these claims."
+  },
+  {
+   "s": "mat0910",
+   "p": "related_case",
+   "o": "case",
+   "quote": "was in possession of off-world material in 2009 and 2010."
+  },
+  {
+   "s": "mat0910",
+   "p": "date_start",
+   "v": "2009",
+   "quote": "was in possession of off-world material in 2009 and 2010."
+  },
+  {
+   "s": "mat0910",
+   "p": "date_end",
+   "v": "2010",
+   "quote": "was in possession of off-world material in 2009 and 2010."
+  },
+  {
+   "s": "mat0910",
+   "p": "interviewee_claim",
+   "v": "a separate interviewee participated in negotiations to return the material to the USG",
+   "quote": "A separate interviewee stated they participated in negotiations to return the material to the USG."
+  },
+  {
+   "s": "mat0910",
+   "p": "interviewee_claim",
+   "v": "a former named senior CIA official quashed the proposal to remove the material from the corporation",
+   "quote": "former named senior CIA official quashed the proposal to remove the material from the corporation."
+  },
+  {
+   "s": "mat0910",
+   "p": "interviewee_claim",
+   "v": "reverse-engineering program allegedly occurred at the named facility in the 2009-2010 time frame",
+   "quote": "This reverse-engineering program allegedly occurred at the named facility in the 2009-2010 time frame."
+  },
+  {
+   "s": "mat0910",
+   "p": "interviewee_claim",
+   "v": "attempt to set up a meeting to return material to the USG in 2010 was stopped by the former CIA official",
+   "quote": "from the facility attempted to set up a meeting to return material to the USG in 2010, but that the former CIA official stopped the transfer from industry to the USG."
+  },
+  {
+   "s": "mat0910",
+   "p": "allegation_scope",
+   "v": "claimed crash of the objects, possession of resultant material by the USG and private sector, and attempted transfer of purported off-world material",
+   "quote": "The allegation included the claimed crash of the objects, the possession of the resultant material by the USG and the private sector, and the attempt to transfer material that was purported to be of off-world origin."
+  },
+  {
+   "s": "mat0910",
+   "p": "denial",
+   "v": "former CIA official stated he had no knowledge of any aspect of the allegation",
+   "quote": "The former official stated he had no knowledge of any aspect of this allegation."
+  },
+  {
+   "s": "mat0910",
+   "p": "denial",
+   "v": "the interviewee alleged to have stopped the transfer denied these allegations",
+   "quote": "The interviewee alleged to have stopped the transfer denied these allegations."
+  },
+  {
+   "s": "mat0910",
+   "p": "denial",
+   "v": "former CIA official had no knowledge of any extraterrestrial material in possession of the USG or any other organization",
+   "quote": "official stated that he had no knowledge of any extraterrestrial material in the possession of the USG or any other organization."
+  },
+  {
+   "s": "mat0910",
+   "p": "evidence",
+   "v": "AARO obtained a signed statement from the former CIA official",
+   "quote": "AARO interviewed and obtained a signed statement from the former CIA official who was specifically named by AARO interviewees."
+  },
+  {
+   "s": "mat0910",
+   "p": "aaro_assessment",
+   "v": "claim almost certainly conflated with a private organization's fabrication of a replica of the metallic sample at the same location",
+   "quote": "The claim that extraterrestrial technology was being reverse-engineered almost certainly was conflated with this material fabrication."
+  },
+  {
+   "s": "f_crash",
+   "p": "has_feature",
+   "o": "mat0910",
+   "quote": "The allegation included the claimed crash of the objects, the possession of the resultant material by the USG and the private sector, and the attempt to transfer material that was purported to be of off-world origin."
+  },
+  {
+   "s": "f_debris",
+   "p": "has_feature",
+   "o": "mat0910",
+   "quote": "was in possession of off-world material in 2009 and 2010."
+  },
+  {
+   "s": "f_reveng",
+   "p": "has_feature",
+   "o": "mat0910",
+   "quote": "This reverse-engineering program allegedly occurred at the named facility in the 2009-2010 time frame."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "mat0910",
+   "quote": "AARO interviewed and obtained a signed statement from the former CIA official who was specifically named by AARO interviewees."
+  },
+  {
+   "s": "cia",
+   "p": "involved_org",
+   "o": "mat0910",
+   "quote": "former named senior CIA official quashed the proposal to remove the material from the corporation."
+  },
+  {
+   "s": "aaro",
+   "p": "investigated_by",
+   "o": "mat0910",
+   "quote": "AARO interviewed and obtained a signed statement from the former CIA official who was specifically named by AARO interviewees."
+  },
+  {
+   "s": "mfr_cia",
+   "p": "key_document",
+   "o": "mat0910",
+   "quote": "The official signed a Memorandum for the Record (MFR) attesting to the truthfulness of his statements."
+  },
+  {
+   "s": "touch",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Allegation that a Former U.S. military Service Member Touched an Extraterrestrial Spacecraft"
+  },
+  {
+   "s": "touch",
+   "p": "date_start",
+   "v": "1999",
+   "quote": "claimed that circa 1999, a former, senior U.S. military"
+  },
+  {
+   "s": "touch",
+   "p": "interviewee_claim",
+   "v": "a former senior U.S. military officer said he touched the surface of an extraterrestrial spacecraft",
+   "quote": "told the interviewee that that he touched the surface of an extraterrestrial spacecraft."
+  },
+  {
+   "s": "touch",
+   "p": "interviewee_claim",
+   "v": "the senior officer gave a detailed description of a craft floating in a building",
+   "quote": "The interviewee stated that the senior officer gave a detailed description of a craft floating in a building."
+  },
+  {
+   "s": "touch",
+   "p": "program_staff_count",
+   "v": "approximately 150 individuals",
+   "quote": "The officer told the interviewee that approximately 150 individuals were working on the program and that the program was kept \"outside of government\" so the technology could remain proprietary."
+  },
+  {
+   "s": "touch",
+   "p": "interviewee_claim",
+   "v": "program was kept \"outside of government\" so the technology could remain proprietary",
+   "quote": "The officer told the interviewee that approximately 150 individuals were working on the program and that the program was kept \"outside of government\" so the technology could remain proprietary."
+  },
+  {
+   "s": "touch",
+   "p": "interviewee_claim",
+   "v": "a former military member, also an interviewee, had stated he touched an off-world aircraft",
+   "quote": "stated that a former military member, who was also an interviewee, had stated that he had touched an off-world aircraft."
+  },
+  {
+   "s": "touch",
+   "p": "denial",
+   "v": "former military member denied any knowledge of off-world technology in possession of the USG, a private contractor, or any other entity",
+   "quote": "who denied any knowledge of off-world technology in possession of the USG, a private contractor, or any other foreign or domestic entity."
+  },
+  {
+   "s": "touch",
+   "p": "explanation_given",
+   "v": "the only situation he might have conveyed was touching an F-117 Nighthawk stealth fighter at a facility",
+   "quote": "the only situation that he might have conveyed was the time when he touched an F-117 Nighthawk stealth fighter at a facility."
+  },
+  {
+   "s": "touch",
+   "p": "evidence",
+   "v": "former military member signed an MFR attesting to the truthfulness of his account",
+   "quote": "The former military member signed an MFR attesting to the truthfulness of his account."
+  },
+  {
+   "s": "f_hover",
+   "p": "has_feature",
+   "o": "touch",
+   "quote": "The interviewee stated that the senior officer gave a detailed description of a craft floating in a building."
+  },
+  {
+   "s": "f_milwit",
+   "p": "has_feature",
+   "o": "touch",
+   "quote": "claimed that circa 1999, a former, senior U.S. military"
+  },
+  {
+   "s": "x_secret",
+   "p": "explained_as",
+   "o": "touch",
+   "quote": "the only situation that he might have conveyed was the time when he touched an F-117 Nighthawk stealth fighter at a facility."
+  },
+  {
+   "s": "aaro",
+   "p": "investigated_by",
+   "o": "touch",
+   "quote": "who denied any knowledge of off-world technology in possession of the USG, a private contractor, or any other foreign or domestic entity."
+  },
+  {
+   "s": "f117",
+   "p": "involved_vehicle",
+   "o": "touch",
+   "quote": "the only situation that he might have conveyed was the time when he touched an F-117 Nighthawk stealth fighter at a facility."
+  },
+  {
+   "s": "study",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "said they participated in an alleged White House-tasked UAP study in Northern Virginia sometime between 2004 and 2007."
+  },
+  {
+   "s": "study",
+   "p": "years",
+   "v": "between 2004 and 2007",
+   "quote": "in Northern Virginia did conduct a study between 2004 and 2007 on the societal effects should the United States or other world governments disclose they have evidence of extraterrestrial life."
+  },
+  {
+   "s": "study",
+   "p": "interviewee_claim",
+   "v": "two interviewees said they participated in an alleged White House-tasked UAP study",
+   "quote": "said they participated in an alleged White House-tasked UAP study in Northern Virginia sometime between 2004 and 2007."
+  },
+  {
+   "s": "study",
+   "p": "topic",
+   "v": "impacts to society should the United States, Russia, or China disclose evidence of extraterrestrial beings or craft",
+   "quote": "The study evaluated the impacts to society should the United States, Russia, or China disclose they had evidence of extraterrestrial beings or craft."
+  },
+  {
+   "s": "study",
+   "p": "participant_count",
+   "v": "approximately 12",
+   "quote": "The study was conducted by approximately 12 participants who evaluated 64 different aspects of society, such as religion and financial markets, which could be impacted by such a disclosure."
+  },
+  {
+   "s": "study",
+   "p": "aspects_evaluated",
+   "v": "64 aspects of society, such as religion and financial markets",
+   "quote": "The study was conducted by approximately 12 participants who evaluated 64 different aspects of society, such as religion and financial markets, which could be impacted by such a disclosure."
+  },
+  {
+   "s": "study",
+   "p": "duration",
+   "v": "one day",
+   "quote": "The study lasted one day, and the interviewee was not aware of any final report or to whom any report may have been delivered."
+  },
+  {
+   "s": "study",
+   "p": "finding",
+   "v": "confirmed: an organization in Northern Virginia did conduct the study",
+   "quote": "in Northern Virginia did conduct a study between 2004 and 2007 on the societal effects should the United States or other world governments disclose they have evidence of extraterrestrial life."
+  },
+  {
+   "s": "study",
+   "p": "finding",
+   "v": "two former White House senior officials confirmed the White House did not request it and were not aware of it",
+   "quote": "that the White House did not request it, nor were they aware of any such study."
+  },
+  {
+   "s": "study",
+   "p": "interviewee_belief",
+   "v": "interviewees believed the White House sponsored it",
+   "quote": "Interviewees believed the White House sponsored it."
+  },
+  {
+   "s": "study",
+   "p": "located_in",
+   "o": "nova",
+   "quote": "said they participated in an alleged White House-tasked UAP study in Northern Virginia sometime between 2004 and 2007."
+  },
+  {
+   "s": "nova",
+   "p": "related_place",
+   "o": "case",
+   "quote": "in Northern Virginia did conduct a study between 2004 and 2007 on the societal effects should the United States or other world governments disclose they have evidence of extraterrestrial life."
+  },
+  {
+   "s": "whitehouse",
+   "p": "involved_org",
+   "o": "study",
+   "quote": "that the White House did not request it, nor were they aware of any such study."
+  },
+  {
+   "s": "whitehouse",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "said they participated in an alleged White House-tasked UAP study in Northern Virginia sometime between 2004 and 2007."
+  },
+  {
+   "s": "russia",
+   "p": "related_place",
+   "o": "study",
+   "quote": "The study evaluated the impacts to society should the United States, Russia, or China disclose they had evidence of extraterrestrial beings or craft."
+  },
+  {
+   "s": "china",
+   "p": "related_place",
+   "o": "study",
+   "quote": "The study evaluated the impacts to society should the United States, Russia, or China disclose they had evidence of extraterrestrial beings or craft."
+  },
+  {
+   "s": "aliens_test",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Another interviewee claimed that in the 1990s he overhead electronic communication of a conversation between two military bases where scientists claimed \"aliens\" were present during specialized materials testing."
+  },
+  {
+   "s": "aliens_test",
+   "p": "date_start",
+   "v": "1990s",
+   "quote": "Another interviewee claimed that in the 1990s he overhead electronic communication of a conversation between two military bases where scientists claimed \"aliens\" were present during specialized materials testing."
+  },
+  {
+   "s": "aliens_test",
+   "p": "interviewee_claim",
+   "v": "overheard electronic communication between two military bases where scientists claimed \"aliens\" were present during specialized materials testing",
+   "quote": "Another interviewee claimed that in the 1990s he overhead electronic communication of a conversation between two military bases where scientists claimed \"aliens\" were present during specialized materials testing."
+  },
+  {
+   "s": "aliens_test",
+   "p": "aaro_assessment",
+   "v": "most likely a misunderstanding",
+   "quote": "AARO determined this account most likely amounted to a misunderstanding."
+  },
+  {
+   "s": "aliens_test",
+   "p": "aaro_assessment",
+   "v": "conversation likely referenced a test and evaluation unit with a nickname with \"alien\" connotations",
+   "quote": "The conversation likely referenced a test and evaluation unit that had a nickname with \"alien\" connotations at the specific installation mentioned."
+  },
+  {
+   "s": "aliens_test",
+   "p": "aaro_assessment",
+   "v": "test described closely matched a specific materials test conveyed to AARO investigators",
+   "quote": "closely matched the description of a specific materials test conveyed to AARO investigators."
+  },
+  {
+   "s": "f_occupants",
+   "p": "has_feature",
+   "o": "aliens_test",
+   "quote": "Another interviewee claimed that in the 1990s he overhead electronic communication of a conversation between two military bases where scientists claimed \"aliens\" were present during specialized materials testing."
+  },
+  {
+   "s": "f_milbase",
+   "p": "has_feature",
+   "o": "aliens_test",
+   "quote": "Another interviewee claimed that in the 1990s he overhead electronic communication of a conversation between two military bases where scientists claimed \"aliens\" were present during specialized materials testing."
+  },
+  {
+   "s": "x_misperception",
+   "p": "explained_as",
+   "o": "aliens_test",
+   "quote": "AARO determined this account most likely amounted to a misunderstanding."
+  },
+  {
+   "s": "aaro",
+   "p": "investigated_by",
+   "o": "aliens_test",
+   "quote": "AARO determined this account most likely amounted to a misunderstanding."
+  },
+  {
+   "s": "ufo90s",
+   "p": "related_case",
+   "o": "case",
+   "quote": "The interviewee also reported that on another occasion in the 1990s he observed an \"unidentified flying object\" at a U.S. military facility."
+  },
+  {
+   "s": "ufo90s",
+   "p": "date_start",
+   "v": "1990s",
+   "quote": "The interviewee also reported that on another occasion in the 1990s he observed an \"unidentified flying object\" at a U.S. military facility."
+  },
+  {
+   "s": "ufo90s",
+   "p": "flight_pattern",
+   "v": "peculiar flight pattern",
+   "quote": "The interviewee described the object as exhibiting a peculiar flight pattern."
+  },
+  {
+   "s": "ufo90s",
+   "p": "aaro_assessment",
+   "v": "correlated with an authentic USG program from the time and location of the sighting",
+   "quote": "AARO was able to correlate this account with an authentic USG program because the interviewee was able to provide a relatively precise time and location of the sighting which they observed exhibiting strange characteristics."
+  },
+  {
+   "s": "ufo90s",
+   "p": "aaro_assessment",
+   "v": "DoD was conducting tests of a platform protected by a SAP at the time",
+   "quote": "At the time the interviewee said he observed the event, DoD was conducting tests of a platform protected by a SAP."
+  },
+  {
+   "s": "ufo90s",
+   "p": "aaro_assessment",
+   "v": "reported characteristics match closely with the platform's characteristics",
+   "quote": "The seemingly strange characteristics reported by the interviewee match closely with the platform's characteristics, which was being tested at a military facility in the time frame the interviewee was there."
+  },
+  {
+   "s": "ufo90s",
+   "p": "aaro_assessment",
+   "v": "program not related in any way to exploitation of off-world technology",
+   "quote": "This program is not related in any way to the exploitation of off-world technology."
+  },
+  {
+   "s": "ufo90s",
+   "p": "resolution",
+   "v": "Refers to an Authentic, Non-UAP-Related SAP",
+   "quote": "The UAP with Peculiar Characteristics Refers to an Authentic, Non-UAP-Related SAP"
+  },
+  {
+   "s": "f_milbase",
+   "p": "has_feature",
+   "o": "ufo90s",
+   "quote": "The interviewee also reported that on another occasion in the 1990s he observed an \"unidentified flying object\" at a U.S. military facility."
+  },
+  {
+   "s": "x_secret",
+   "p": "explained_as",
+   "o": "ufo90s",
+   "quote": "At the time the interviewee said he observed the event, DoD was conducting tests of a platform protected by a SAP."
+  },
+  {
+   "s": "x_miltest",
+   "p": "explained_as",
+   "o": "ufo90s",
+   "quote": "The seemingly strange characteristics reported by the interviewee match closely with the platform's characteristics, which was being tested at a military facility in the time frame the interviewee was there."
+  },
+  {
+   "s": "aaro",
+   "p": "investigated_by",
+   "o": "ufo90s",
+   "quote": "AARO was able to correlate this account with an authentic USG program because the interviewee was able to provide a relatively precise time and location of the sighting which they observed exhibiting strange characteristics."
+  },
+  {
+   "s": "dod",
+   "p": "involved_org",
+   "o": "ufo90s",
+   "quote": "At the time the interviewee said he observed the event, DoD was conducting tests of a platform protected by a SAP."
+  },
+  {
+   "s": "craft90s",
+   "p": "reported_object",
+   "o": "ufo90s",
+   "quote": "The interviewee also reported that on another occasion in the 1990s he observed an \"unidentified flying object\" at a U.S. military facility."
+  },
+  {
+   "s": "craft90s",
+   "p": "behaviour",
+   "v": "exhibiting a peculiar flight pattern",
+   "quote": "The interviewee described the object as exhibiting a peculiar flight pattern."
+  },
+  {
+   "s": "sf2009",
+   "p": "related_case",
+   "o": "case",
+   "quote": "An interviewee who is a former U.S. service member said that in 2009, while participating in a humanitarian and security mission in a foreign country, he encountered \"U.S. Special Forces\" loading containers onto a large extraterrestrial spacecraft."
+  },
+  {
+   "s": "sf2009",
+   "p": "date_start",
+   "v": "2009",
+   "quote": "An interviewee who is a former U.S. service member said that in 2009, while participating in a humanitarian and security mission in a foreign country, he encountered \"U.S. Special Forces\" loading containers onto a large extraterrestrial spacecraft."
+  },
+  {
+   "s": "sf2009",
+   "p": "location",
+   "v": "a foreign country, during a humanitarian and security mission",
+   "quote": "An interviewee who is a former U.S. service member said that in 2009, while participating in a humanitarian and security mission in a foreign country, he encountered \"U.S. Special Forces\" loading containers onto a large extraterrestrial spacecraft."
+  },
+  {
+   "s": "sf2009",
+   "p": "interviewee_claim",
+   "v": "encountered \"U.S. Special Forces\" loading containers onto a large extraterrestrial spacecraft",
+   "quote": "An interviewee who is a former U.S. service member said that in 2009, while participating in a humanitarian and security mission in a foreign country, he encountered \"U.S. Special Forces\" loading containers onto a large extraterrestrial spacecraft."
+  },
+  {
+   "s": "sf2009",
+   "p": "witness_description",
+   "v": "a former U.S. service member",
+   "quote": "An interviewee who is a former U.S. service member said that in 2009, while participating in a humanitarian and security mission in a foreign country, he encountered \"U.S. Special Forces\" loading containers onto a large extraterrestrial spacecraft."
+  },
+  {
+   "s": "f_milwit",
+   "p": "has_feature",
+   "o": "sf2009",
+   "quote": "An interviewee who is a former U.S. service member said that in 2009, while participating in a humanitarian and security mission in a foreign country, he encountered \"U.S. Special Forces\" loading containers onto a large extraterrestrial spacecraft."
+  },
+  {
+   "s": "sof",
+   "p": "involved_org",
+   "o": "sf2009",
+   "quote": "An interviewee who is a former U.S. service member said that in 2009, while participating in a humanitarian and security mission in a foreign country, he encountered \"U.S. Special Forces\" loading containers onto a large extraterrestrial spacecraft."
+  },
+  {
+   "s": "craft2009",
+   "p": "reported_object",
+   "o": "sf2009",
+   "quote": "An interviewee who is a former U.S. service member said that in 2009, while participating in a humanitarian and security mission in a foreign country, he encountered \"U.S. Special Forces\" loading containers onto a large extraterrestrial spacecraft."
+  },
+  {
+   "s": "craft2009",
+   "p": "size",
+   "v": "large",
+   "quote": "An interviewee who is a former U.S. service member said that in 2009, while participating in a humanitarian and security mission in a foreign country, he encountered \"U.S. Special Forces\" loading containers onto a large extraterrestrial spacecraft."
+  },
+  {
+   "s": "re1980s",
+   "p": "related_case",
+   "o": "case",
+   "quote": "A separate interviewee said that a family member was part of an effort to reverse- engineer an object assumed to be off-world technology in the 1980s."
+  },
+  {
+   "s": "re1980s",
+   "p": "date_start",
+   "v": "1980s",
+   "quote": "A separate interviewee said that a family member was part of an effort to reverse- engineer an object assumed to be off-world technology in the 1980s."
+  },
+  {
+   "s": "re1980s",
+   "p": "interviewee_claim",
+   "v": "a family member was part of an effort to reverse-engineer an object assumed to be off-world technology",
+   "quote": "A separate interviewee said that a family member was part of an effort to reverse- engineer an object assumed to be off-world technology in the 1980s."
+  },
+  {
+   "s": "re1980s",
+   "p": "outcome",
+   "v": "engineers failed; the object was sent to a different facility for further evaluation",
+   "quote": "The engineers failed to reverse-engineer the object and it was sent to a different facility for further evaluation."
+  },
+  {
+   "s": "f_reveng",
+   "p": "has_feature",
+   "o": "re1980s",
+   "quote": "A separate interviewee said that a family member was part of an effort to reverse- engineer an object assumed to be off-world technology in the 1980s."
+  },
+  {
+   "s": "snie",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The 1961 Special National Intelligence Estimate on \"UFOs\" Assessed to be Not Authentic"
+  },
+  {
+   "s": "snie",
+   "p": "date",
+   "v": "1961-11-05",
+   "quote": "alleged Special National Intelligence Estimate (SNIE), dated November 5, 1961, titled: \"Critical Aspects of Unidentified Flying Objects and the Nuclear Threat to the Defense of the United States and its Allies.\""
+  },
+  {
+   "s": "snie",
+   "p": "document_type",
+   "v": "alleged Special National Intelligence Estimate (SNIE)",
+   "quote": "alleged Special National Intelligence Estimate (SNIE), dated November 5, 1961, titled: \"Critical Aspects of Unidentified Flying Objects and the Nuclear Threat to the Defense of the United States and its Allies.\""
+  },
+  {
+   "s": "snie",
+   "p": "interviewee_claim",
+   "v": "alleged leaked estimate offered as proof of the existence of UAP crashes",
+   "quote": "An interviewee pointed out to AARO the existence of an alleged leaked Special National Intelligence Estimate from 1961 as proof of the existence of UAP crashes."
+  },
+  {
+   "s": "snie",
+   "p": "provenance",
+   "v": "AARO obtained a copy through open-source research",
+   "quote": "AARO obtained a copy of the document through open-source research and evaluated its authenticity."
+  },
+  {
+   "s": "snie",
+   "p": "authenticity",
+   "v": "AARO concluded the document is not authentic",
+   "quote": "After discussions with the CIA's Center for the Study of Intelligence (CSI), the NSA Scientific Studies Board (one of the alleged authors), and research comparing this document to a number of known SNIEs and National Intelligence Estimates, AARO concluded the document is not authentic."
+  },
+  {
+   "s": "snie",
+   "p": "alleged_author",
+   "v": "the NSA Scientific Advisory Board",
+   "quote": "NSA archives were searched because \"the NSA Scientific Advisory Board\" purportedly was one of the document's authors."
+  },
+  {
+   "s": "snie",
+   "p": "finding",
+   "v": "CIA/CSI and NSA did not possess nor have knowledge of the document",
+   "quote": "CIA/CSI and NSA did not possess nor have knowledge of the document."
+  },
+  {
+   "s": "snie",
+   "p": "finding",
+   "v": "lacked IC tradecraft standards and was inconsistent with SNIEs and NIEs of the period",
+   "quote": "AARO found the document lacked IC tradecraft standards and possessed significant inconsistencies with SNIE's and National Intelligence Estimates of the general time period."
+  },
+  {
+   "s": "snie",
+   "p": "inconsistencies",
+   "v": "short length, incorrect formatting, inconsistent branding, no dissemination block or coordination language, loose narrative style, convoluted logic, casual language, superficial treatment",
+   "quote": "These inconsistencies included: the document's short length, incorrect formatting, inconsistent branding, lack of a dissemination block and coordination language, loose narrative style, convoluted logic, imprecise and casual language, and its superficial treatment of globally significant issues."
+  },
+  {
+   "s": "csi",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "After discussions with the CIA's Center for the Study of Intelligence (CSI), the NSA Scientific Studies Board (one of the alleged authors), and research comparing this document to a number of known SNIEs and National Intelligence Estimates, AARO concluded the document is not authentic."
+  },
+  {
+   "s": "nsa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "CIA/CSI and NSA did not possess nor have knowledge of the document."
+  },
+  {
+   "s": "nsasab",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "After discussions with the CIA's Center for the Study of Intelligence (CSI), the NSA Scientific Studies Board (one of the alleged authors), and research comparing this document to a number of known SNIEs and National Intelligence Estimates, AARO concluded the document is not authentic."
+  },
+  {
+   "s": "aaro",
+   "p": "disputed",
+   "o": "snie",
+   "quote": "After discussions with the CIA's Center for the Study of Intelligence (CSI), the NSA Scientific Studies Board (one of the alleged authors), and research comparing this document to a number of known SNIEs and National Intelligence Estimates, AARO concluded the document is not authentic."
+  },
+  {
+   "s": "icbm",
+   "p": "related_case",
+   "o": "case",
+   "quote": "AARO interviewed five former USAF members who served in and around U.S. intercontinental ballistic missile (ICBM) silos at Malmstrom, Ellsworth, Vandenberg, and Minot USAF bases between 1966 and 1977."
+  },
+  {
+   "s": "icbm",
+   "p": "date_start",
+   "v": "1966",
+   "quote": "AARO interviewed five former USAF members who served in and around U.S. intercontinental ballistic missile (ICBM) silos at Malmstrom, Ellsworth, Vandenberg, and Minot USAF bases between 1966 and 1977."
+  },
+  {
+   "s": "icbm",
+   "p": "date_end",
+   "v": "1977",
+   "quote": "AARO interviewed five former USAF members who served in and around U.S. intercontinental ballistic missile (ICBM) silos at Malmstrom, Ellsworth, Vandenberg, and Minot USAF bases between 1966 and 1977."
+  },
+  {
+   "s": "icbm",
+   "p": "witness_count",
+   "v": "5",
+   "quote": "AARO interviewed five former USAF members who served in and around U.S. intercontinental ballistic missile (ICBM) silos at Malmstrom, Ellsworth, Vandenberg, and Minot USAF bases between 1966 and 1977."
+  },
+  {
+   "s": "icbm",
+   "p": "witness_description",
+   "v": "five former USAF members who served in and around U.S. ICBM silos",
+   "quote": "AARO interviewed five former USAF members who served in and around U.S. intercontinental ballistic missile (ICBM) silos at Malmstrom, Ellsworth, Vandenberg, and Minot USAF bases between 1966 and 1977."
+  },
+  {
+   "s": "icbm",
+   "p": "interviewee_claim",
+   "v": "some claim UAP sightings near the silos, others claim UAP disruptions to ICBM operations",
+   "quote": "Some of these individuals claim UAP sightings near the silos, while others claim UAP disruptions to ICBM operations."
+  },
+  {
+   "s": "icbm",
+   "p": "interviewee_claim",
+   "v": "ICBM launch control facilities went offline or experienced total power failure",
+   "quote": "Specifically, they said the ICBM launch control facilities went offline or experienced total power failure."
+  },
+  {
+   "s": "icbm",
+   "p": "status",
+   "v": "AARO is researching U.S. and adversarial activity related to these events",
+   "quote": "AARO is researching U.S. and adversarial activity related to these events, including any U.S. programs that tested defensive ballistic missile capabilities."
+  },
+  {
+   "s": "icbm",
+   "p": "status",
+   "v": "unresolved; AARO continues to investigate",
+   "quote": "AARO Investigating Unresolved Historical Nuclear-Related UAP Cases"
+  },
+  {
+   "s": "icbm",
+   "p": "data_quality",
+   "v": "very little actionable data exists beyond limited firsthand narrative accounts",
+   "quote": "Like all historical UAP cases, very little actionable data exists beyond limited firsthand narrative accounts."
+  },
+  {
+   "s": "icbm",
+   "p": "reason_for_investigation",
+   "v": "events potentially impacting the readiness of the U.S. nuclear program",
+   "quote": "AARO continues to investigate these cases due to the sensitive nature of these events potentially impacting the readiness of the U.S. nuclear program."
+  },
+  {
+   "s": "f_nuclear",
+   "p": "has_feature",
+   "o": "icbm",
+   "quote": "The other narrative is that a cluster of UAP sightings that occurred in close proximity to U.S. nuclear facilities have resulted in the malfunctioning and destruction of nuclear missiles and a test reentry vehicle."
+  },
+  {
+   "s": "f_milwit",
+   "p": "has_feature",
+   "o": "icbm",
+   "quote": "AARO interviewed five former USAF members who served in and around U.S. intercontinental ballistic missile (ICBM) silos at Malmstrom, Ellsworth, Vandenberg, and Minot USAF bases between 1966 and 1977."
+  },
+  {
+   "s": "f_milbase",
+   "p": "has_feature",
+   "o": "icbm",
+   "quote": "AARO interviewed five former USAF members who served in and around U.S. intercontinental ballistic missile (ICBM) silos at Malmstrom, Ellsworth, Vandenberg, and Minot USAF bases between 1966 and 1977."
+  },
+  {
+   "s": "f_emi",
+   "p": "has_feature",
+   "o": "icbm",
+   "quote": "Specifically, they said the ICBM launch control facilities went offline or experienced total power failure."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "icbm",
+   "quote": "AARO is researching U.S. and adversarial activity related to these events, including any U.S. programs that tested defensive ballistic missile capabilities."
+  },
+  {
+   "s": "aaro",
+   "p": "investigated_by",
+   "o": "icbm",
+   "quote": "AARO interviewed five former USAF members who served in and around U.S. intercontinental ballistic missile (ICBM) silos at Malmstrom, Ellsworth, Vandenberg, and Minot USAF bases between 1966 and 1977."
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "icbm",
+   "quote": "AARO interviewed five former USAF members who served in and around U.S. intercontinental ballistic missile (ICBM) silos at Malmstrom, Ellsworth, Vandenberg, and Minot USAF bases between 1966 and 1977."
+  },
+  {
+   "s": "malmstrom",
+   "p": "occurred_at",
+   "o": "icbm",
+   "quote": "AARO interviewed five former USAF members who served in and around U.S. intercontinental ballistic missile (ICBM) silos at Malmstrom, Ellsworth, Vandenberg, and Minot USAF bases between 1966 and 1977."
+  },
+  {
+   "s": "ellsworth",
+   "p": "occurred_at",
+   "o": "icbm",
+   "quote": "AARO interviewed five former USAF members who served in and around U.S. intercontinental ballistic missile (ICBM) silos at Malmstrom, Ellsworth, Vandenberg, and Minot USAF bases between 1966 and 1977."
+  },
+  {
+   "s": "vandenberg",
+   "p": "occurred_at",
+   "o": "icbm",
+   "quote": "AARO interviewed five former USAF members who served in and around U.S. intercontinental ballistic missile (ICBM) silos at Malmstrom, Ellsworth, Vandenberg, and Minot USAF bases between 1966 and 1977."
+  },
+  {
+   "s": "minot",
+   "p": "occurred_at",
+   "o": "icbm",
+   "quote": "AARO interviewed five former USAF members who served in and around U.S. intercontinental ballistic missile (ICBM) silos at Malmstrom, Ellsworth, Vandenberg, and Minot USAF bases between 1966 and 1977."
+  },
+  {
+   "s": "reentry",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Although AARO has not been able to recover the alleged film of the ballistic missile reentry vehicle being shot down by a UAP in 1964, AARO was able to correlate the general time and location with an antiballistic missile test, which could have been the genesis for this observation."
+  },
+  {
+   "s": "reentry",
+   "p": "date_start",
+   "v": "1964",
+   "quote": "Although AARO has not been able to recover the alleged film of the ballistic missile reentry vehicle being shot down by a UAP in 1964, AARO was able to correlate the general time and location with an antiballistic missile test, which could have been the genesis for this observation."
+  },
+  {
+   "s": "reentry",
+   "p": "interviewee_claim",
+   "v": "one interviewee and a USAF videographer claimed to have observed and recorded a UAP destroying an ICBM loaded with a \"dummy\" warhead, mid-flight",
+   "quote": "Additionally, one interviewee and a USAF videographer claimed to have observed and recorded a UAP destroying an ICBM loaded with a \"dummy\" warhead, mid-flight."
+  },
+  {
+   "s": "reentry",
+   "p": "evidence",
+   "v": "AARO has not been able to recover the alleged film",
+   "quote": "Although AARO has not been able to recover the alleged film of the ballistic missile reentry vehicle being shot down by a UAP in 1964, AARO was able to correlate the general time and location with an antiballistic missile test, which could have been the genesis for this observation."
+  },
+  {
+   "s": "reentry",
+   "p": "aaro_assessment",
+   "v": "general time and location correlate with an antiballistic missile test, which could have been the genesis for the observation",
+   "quote": "Although AARO has not been able to recover the alleged film of the ballistic missile reentry vehicle being shot down by a UAP in 1964, AARO was able to correlate the general time and location with an antiballistic missile test, which could have been the genesis for this observation."
+  },
+  {
+   "s": "f_film",
+   "p": "has_feature",
+   "o": "reentry",
+   "quote": "Additionally, one interviewee and a USAF videographer claimed to have observed and recorded a UAP destroying an ICBM loaded with a \"dummy\" warhead, mid-flight."
+  },
+  {
+   "s": "f_milwit",
+   "p": "has_feature",
+   "o": "reentry",
+   "quote": "Additionally, one interviewee and a USAF videographer claimed to have observed and recorded a UAP destroying an ICBM loaded with a \"dummy\" warhead, mid-flight."
+  },
+  {
+   "s": "f_nuclear",
+   "p": "has_feature",
+   "o": "reentry",
+   "quote": "The other narrative is that a cluster of UAP sightings that occurred in close proximity to U.S. nuclear facilities have resulted in the malfunctioning and destruction of nuclear missiles and a test reentry vehicle."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "reentry",
+   "quote": "Although AARO has not been able to recover the alleged film of the ballistic missile reentry vehicle being shot down by a UAP in 1964, AARO was able to correlate the general time and location with an antiballistic missile test, which could have been the genesis for this observation."
+  },
+  {
+   "s": "x_miltest",
+   "p": "explained_as",
+   "o": "reentry",
+   "quote": "Although AARO has not been able to recover the alleged film of the ballistic missile reentry vehicle being shot down by a UAP in 1964, AARO was able to correlate the general time and location with an antiballistic missile test, which could have been the genesis for this observation."
+  },
+  {
+   "s": "aaro",
+   "p": "investigated_by",
+   "o": "reentry",
+   "quote": "Although AARO has not been able to recover the alleged film of the ballistic missile reentry vehicle being shot down by a UAP in 1964, AARO was able to correlate the general time and location with an antiballistic missile test, which could have been the genesis for this observation."
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "reentry",
+   "quote": "Additionally, one interviewee and a USAF videographer claimed to have observed and recorded a UAP destroying an ICBM loaded with a \"dummy\" warhead, mid-flight."
+  },
+  {
+   "s": "film1964",
+   "p": "key_document",
+   "o": "reentry",
+   "quote": "Although AARO has not been able to recover the alleged film of the ballistic missile reentry vehicle being shot down by a UAP in 1964, AARO was able to correlate the general time and location with an antiballistic missile test, which could have been the genesis for this observation."
+  },
+  {
+   "s": "film1964",
+   "p": "status",
+   "v": "not recovered by AARO",
+   "quote": "Although AARO has not been able to recover the alleged film of the ballistic missile reentry vehicle being shot down by a UAP in 1964, AARO was able to correlate the general time and location with an antiballistic missile test, which could have been the genesis for this observation."
+  },
+  {
+   "s": "sample",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Sample of Alleged Alien Spacecraft is an Ordinary, Terrestrial, Metal Alloy"
+  },
+  {
+   "s": "sample",
+   "p": "date_start",
+   "v": "1940s or 1950s",
+   "quote": "claimed to have in its possession material from an extraterrestrial craft recovered from a crash at an unknown location from the 1940s or 1950s."
+  },
+  {
+   "s": "sample",
+   "p": "location",
+   "v": "unknown location",
+   "quote": "claimed to have in its possession material from an extraterrestrial craft recovered from a crash at an unknown location from the 1940s or 1950s."
+  },
+  {
+   "s": "sample",
+   "p": "claim",
+   "v": "private sector organization claimed to possess material from an extraterrestrial craft recovered from a crash",
+   "quote": "claimed to have in its possession material from an extraterrestrial craft recovered from a crash at an unknown location from the 1940s or 1950s."
+  },
+  {
+   "s": "sample",
+   "p": "claimed_properties",
+   "v": "THz frequency waveguide; \"anti-gravity\" and \"mass reduction\" properties",
+   "quote": "The organization claimed that the material had the potential to act as a THz frequency waveguide, and therefore, could exhibit \"anti-gravity\" and \"mass reduction\" properties under the appropriate conditions."
+  },
+  {
+   "s": "sample",
+   "p": "analysis_agreement",
+   "v": "owner negotiated an agreement in 2019 with the U.S. Army to analyze the samples",
+   "quote": "The organization that owned the material negotiated an agreement in 2019 with the U.S. Army to analyze the samples."
+  },
+  {
+   "s": "sample",
+   "p": "custody",
+   "v": "AARO acquired the sample with permission from the stakeholders",
+   "quote": "With permission from the stakeholders, AARO acquired this sample to conduct more in-depth analyses."
+  },
+  {
+   "s": "sample",
+   "p": "finding",
+   "v": "metallic alloy, terrestrial in nature, and possibly of USAF origin",
+   "quote": "AARO and a leading science laboratory concluded that the material is a metallic alloy, terrestrial in nature, and possibly of USAF origin, based on its materials characterization."
+  },
+  {
+   "s": "sample",
+   "p": "composition",
+   "v": "mostly magnesium; the bismuth present was not a pure layer",
+   "quote": "It was also assessed that the material is mostly composed of magnesium, and the bismuth present was not a pure layer per initial claims."
+  },
+  {
+   "s": "sample",
+   "p": "finding",
+   "v": "U.S. Army in-house analysis; structure not purely layered magnesium alloy and bismuth",
+   "quote": "The U.S. Army had also conducted in-house analysis on the sample, and while AARO generally agrees with its conclusions, AARO found that the structure was not purely layered magnesium alloy and bismuth."
+  },
+  {
+   "s": "sample",
+   "p": "finding",
+   "v": "ordinary, of terrestrial origin, and possesses no exceptional qualities",
+   "quote": "assessment that the piece of metal alleged to be recovered from an alien spacecraft in the late 1940s is ordinary, of terrestrial origin, and possesses no exceptional qualities."
+  },
+  {
+   "s": "sample",
+   "p": "alleged_recovery_date",
+   "v": "late 1940s",
+   "quote": "assessment that the piece of metal alleged to be recovered from an alien spacecraft in the late 1940s is ordinary, of terrestrial origin, and possesses no exceptional qualities."
+  },
+  {
+   "s": "sample",
+   "p": "replica",
+   "v": "a separate private sector organization fabricated a replica of the sample to determine if it could be done",
+   "quote": "organization fabricated a replica of the sample to determine if it could be done."
+  },
+  {
+   "s": "sample",
+   "p": "replica",
+   "v": "replication attempted at the same location cited by an interviewee for discussions about transferring UAP crash materials",
+   "quote": "made an attempt to replicate the sample at the same specific location cited by the interviewee"
+  },
+  {
+   "s": "sample",
+   "p": "aaro_assessment",
+   "v": "recreation of the sample almost certainly conflated with claims the aerospace industry was reverse-engineering off-world technology",
+   "quote": "AARO assesses that a separate private sector organization's recreation of this metallic sample was almost certainly conflated with claims that the aerospace industry was attempting to reverse-engineer off-world technology."
+  },
+  {
+   "s": "sample",
+   "p": "people_involved",
+   "v": "Person 5 and Interviewees 3, 9 and 14",
+   "quote": "Person 5 and Interviewees 3, 9 and 14 were involved with the alleged crashed UAP materials that were provided to the U.S. Army and subsequently to AARO for examination."
+  },
+  {
+   "s": "f_debris",
+   "p": "has_feature",
+   "o": "sample",
+   "quote": "claimed to have in its possession material from an extraterrestrial craft recovered from a crash at an unknown location from the 1940s or 1950s."
+  },
+  {
+   "s": "f_crash",
+   "p": "has_feature",
+   "o": "sample",
+   "quote": "claimed to have in its possession material from an extraterrestrial craft recovered from a crash at an unknown location from the 1940s or 1950s."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "sample",
+   "quote": "AARO and a leading science laboratory concluded that the material is a metallic alloy, terrestrial in nature, and possibly of USAF origin, based on its materials characterization."
+  },
+  {
+   "s": "x_alloy",
+   "p": "explained_as",
+   "o": "sample",
+   "quote": "AARO and a leading science laboratory concluded that the material is a metallic alloy, terrestrial in nature, and possibly of USAF origin, based on its materials characterization."
+  },
+  {
+   "s": "aaro",
+   "p": "investigated_by",
+   "o": "sample",
+   "quote": "AARO and a leading science laboratory concluded that the material is a metallic alloy, terrestrial in nature, and possibly of USAF origin, based on its materials characterization."
+  },
+  {
+   "s": "army",
+   "p": "investigated_by",
+   "o": "sample",
+   "quote": "The U.S. Army had also conducted in-house analysis on the sample, and while AARO generally agrees with its conclusions, AARO found that the structure was not purely layered magnesium alloy and bismuth."
+  },
+  {
+   "s": "army",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The organization that owned the material negotiated an agreement in 2019 with the U.S. Army to analyze the samples."
+  },
+  {
+   "s": "mat0910",
+   "p": "related_case",
+   "o": "sample",
+   "quote": "The claim that extraterrestrial technology was being reverse-engineered almost certainly was conflated with this material fabrication."
+  },
+  {
+   "s": "visit",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Virtual Institute for Satellite Integration Training-This program is not a USG-funded and supported effort."
+  },
+  {
+   "s": "visit",
+   "p": "finding",
+   "v": "not a USG-funded and supported effort",
+   "quote": "Virtual Institute for Satellite Integration Training-This program is not a USG-funded and supported effort."
+  },
+  {
+   "s": "visit",
+   "p": "operator",
+   "v": "a private UAP organization, with a NASA engineer as a participant",
+   "quote": "It was a program operated by a private UAP organization and had a NASA engineer as a participant."
+  },
+  {
+   "s": "visit",
+   "p": "finding",
+   "v": "NASA verified that it did not sponsor the project",
+   "quote": "NASA verified that it did not sponsor the project."
+  },
+  {
+   "s": "nasa",
+   "p": "disputed",
+   "o": "visit",
+   "quote": "NASA verified that it did not sponsor the project."
+  },
+  {
+   "s": "iccap",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "AARO confirmed the existence of one IC CAP that was unnecessarily expanded in 2021 to include a UAP reverse-engineering mission."
+  },
+  {
+   "s": "iccap",
+   "p": "part_of",
+   "o": "ic",
+   "quote": "AARO confirmed the existence of one IC CAP that was unnecessarily expanded in 2021 to include a UAP reverse-engineering mission."
+  },
+  {
+   "s": "iccap",
+   "p": "expanded",
+   "v": "2021",
+   "quote": "AARO confirmed the existence of one IC CAP that was unnecessarily expanded in 2021 to include a UAP reverse-engineering mission."
+  },
+  {
+   "s": "iccap",
+   "p": "finding",
+   "v": "expanded despite lack of any evidence or mission need",
+   "quote": "This program was expanded despite the lack of any evidence or mission need to justify the expansion."
+  },
+  {
+   "s": "iccap",
+   "p": "finding",
+   "v": "never recovered or reverse-engineered any technology",
+   "quote": "This program never recovered or reverse-engineered any technology, let alone off-world spacecraft."
+  },
+  {
+   "s": "iccap",
+   "p": "outcome",
+   "v": "disestablished due to inactivity, absence of mission need, and lack of merit",
+   "quote": "This CAP was disestablished due to its inactivity, absence of mission need, and lack of merit."
+  },
+  {
+   "s": "iccap",
+   "p": "people_involved",
+   "v": "Persons 4, 7, and 8 and Interviewees 1, 3, and 13 were responsible for expanding the remit of an existing IC program to include UAP exploitation language",
+   "quote": "Persons 4, 7, and 8 and Interviewees 1, 3, and 13 investigated UAP on their own and were responsible for successfully expanding the remit of an existing IC program to include UAP exploitation language."
+  }
+ ]
+}

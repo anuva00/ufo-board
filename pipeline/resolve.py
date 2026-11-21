@@ -158,6 +158,9 @@ def main():
         else:
             names = sorted({name_of[i] for i in ids})
             cands.extend(f"shared-alias\t{a}\t{b}" for i, a in enumerate(names) for b in names[i + 1:])
+    # Every source filed under the same case shares one case entity, whatever each calls it.
+    for r in db.execute("SELECT s.case_slug, e.id FROM entity e JOIN source s ON s.id = e.source_id WHERE e.key = 'case'"):
+        by_key[("casefile", r["case_slug"])].append(r["id"])
     for pair in manual.get("merge", []):
         ks = {norm(n) for n in pair}
         ids = [e["id"] for e in ents if norm(e["name"]) in ks]      # primary names only

@@ -1,0 +1,1276 @@
+{
+ "slug": "aaro-eglin-case-resolution",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "2023 Eglin Air Force Base UAP incident",
+   "description": "A military pilot's 26 January 2023 report of four potential UAP in the Eglin Air Force Base training range off Florida, resolved by AARO as very likely a balloon.",
+   "aliases": [
+    "Eglin UAP",
+    "Case: \"Eglin UAP\"",
+    "Case Number: 330UAP000018"
+   ]
+  },
+  {
+   "key": "craft",
+   "type": "craft",
+   "name": "rounded, cone-shaped gray object seen 26 January 2023",
+   "description": "The single object the pilot saw visually and imaged with the EO/IR sensor at 16,000 feet.",
+   "aliases": [
+    "the reported UAP",
+    "the reported object"
+   ]
+  },
+  {
+   "key": "others",
+   "type": "craft",
+   "name": "three other objects observed on radar 26 January 2023",
+   "description": "The other three of the four objects the pilot initially observed on radar, for which there was no EO/IR data."
+  },
+  {
+   "key": "aaro",
+   "type": "organization",
+   "name": "All-domain Anomaly Resolution Office",
+   "description": "US Department of Defense office that analysed and resolved the case.",
+   "aliases": [
+    "AARO",
+    "All-Domain Anomaly Resolution Office"
+   ]
+  },
+  {
+   "key": "dod",
+   "type": "organization",
+   "name": "United States Department of Defense",
+   "description": "US government department named on the case resolution paper.",
+   "aliases": [
+    "U.S. Department of Defense",
+    "Department of Defense"
+   ]
+  },
+  {
+   "key": "dopsr",
+   "type": "organization",
+   "name": "Office of Prepublication and Security Review",
+   "description": "Department of Defense office whose stamp cleared the paper for open publication.",
+   "aliases": [
+    "Department of Defense Office of Prepublication and Security Review",
+    "OFFICE OF PREPUBLICATION AND SECURITY REVIEW"
+   ]
+  },
+  {
+   "key": "ic",
+   "type": "organization",
+   "name": "United States Intelligence Community",
+   "description": "A component of the Intelligence Community reviewed the case as AARO's IC partner.",
+   "aliases": [
+    "Intelligence Community",
+    "Intelligence Community (IC)",
+    "IC"
+   ]
+  },
+  {
+   "key": "eglin",
+   "type": "place",
+   "name": "Eglin Air Force Base",
+   "description": "US military base in Florida near which the incident took place.",
+   "aliases": [
+    "Eglin Air Force Base, Florida",
+    "Eglin"
+   ]
+  },
+  {
+   "key": "range",
+   "type": "place",
+   "name": "Eglin Air Force Base training range",
+   "description": "Sensitive training range off the coast of Florida where the pilot was operating.",
+   "aliases": [
+    "Eglin Air Force Base training range off the coast of Florida"
+   ]
+  },
+  {
+   "key": "florida",
+   "type": "place",
+   "name": "Florida",
+   "description": "US state off whose coast the training range lies."
+  },
+  {
+   "key": "aircraft",
+   "type": "vehicle",
+   "name": "reporting military pilot's aircraft",
+   "description": "The aircraft flown by the reporting pilot, fitted with radar and an EO/IR sensor."
+  },
+  {
+   "key": "doc",
+   "type": "document",
+   "name": "AARO Case Resolution: Eglin UAP",
+   "description": "AARO's unclassified case resolution paper dated 14 October 2023.",
+   "aliases": [
+    "Case Resolution 14 October 2023",
+    "(U) Case: \"Eglin UAP\""
+   ]
+  },
+  {
+   "key": "report",
+   "type": "document",
+   "name": "pilot's initial report of the Eglin UAP",
+   "description": "The reporting pilot's initial report of the observation.",
+   "aliases": [
+    "the initial report",
+    "the pilot's report"
+   ]
+  },
+  {
+   "key": "img_ir",
+   "type": "document",
+   "name": "infrared image of the reported object (Figure 1A)",
+   "description": "Zoomed-in infrared still image of the object taken by the aircraft's EO/IR sensor.",
+   "aliases": [
+    "Figure 1A",
+    "the IR image",
+    "the zoomed-in infrared image"
+   ]
+  },
+  {
+   "key": "img_eo",
+   "type": "document",
+   "name": "electro-optical image of the reported object (Figure 1B)",
+   "description": "Electro-optical still image of the object taken by the aircraft's EO/IR sensor.",
+   "aliases": [
+    "Figure 1B",
+    "the EO image"
+   ]
+  },
+  {
+   "key": "img_balloon",
+   "type": "document",
+   "name": "image of a commercial LTA lighting system (Figure 1C)",
+   "description": "AARO image of a commercial lighting balloon used for comparison with the object.",
+   "aliases": [
+    "Figure 1C"
+   ]
+  },
+  {
+   "key": "drawing",
+   "type": "document",
+   "name": "pilot's drawing of the reported object (Figure 2)",
+   "description": "The pilot's annotated drawing of the object.",
+   "aliases": [
+    "Figure 2"
+   ]
+  },
+  {
+   "key": "viz",
+   "type": "document",
+   "name": "visualization of the pilot's point of view of the object (Figure 3)",
+   "description": "Reconstruction of the pilot's view based on positions, altitudes, sensor look angle and sun geometry.",
+   "aliases": [
+    "Figure 3"
+   ]
+  },
+  {
+   "key": "ndaa",
+   "type": "document",
+   "name": "National Defense Authorization Act for Fiscal Year 2024",
+   "description": "Statute cited as the authority for the declassification review of the paper.",
+   "aliases": [
+    "FY24 NDAA",
+    "FY24 NDAA, Section 1841 (a)(1)(C)"
+   ]
+  },
+  {
+   "key": "f_shape",
+   "type": "feature",
+   "name": "shape-other",
+   "description": "Rounded bottom with a cone-shaped top."
+  },
+  {
+   "key": "f_radar",
+   "type": "feature",
+   "name": "radar-contact",
+   "description": "Four objects observed on the aircraft's radar."
+  },
+  {
+   "key": "f_photo",
+   "type": "feature",
+   "name": "photograph",
+   "description": "Two EO/IR still images of the object."
+  },
+  {
+   "key": "f_emi",
+   "type": "feature",
+   "name": "electromagnetic-interference",
+   "description": "The aircraft's radar malfunctioned on approach to the object (AARO assesses it as coincidental)."
+  },
+  {
+   "key": "f_hover",
+   "type": "feature",
+   "name": "hovering",
+   "description": "Object moved very slowly or was potentially stationary."
+  },
+  {
+   "key": "f_mil",
+   "type": "feature",
+   "name": "military-witnesses",
+   "description": "Reporter was military personnel."
+  },
+  {
+   "key": "f_pilot",
+   "type": "feature",
+   "name": "pilot-witnesses",
+   "description": "Reported by a military pilot in flight."
+  },
+  {
+   "key": "f_base",
+   "type": "feature",
+   "name": "military-base-proximity",
+   "description": "Near Eglin Air Force Base, in its training range."
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Investigated by AARO and two partner organisations."
+  },
+  {
+   "key": "f_formation",
+   "type": "feature",
+   "name": "other:objects in formation",
+   "description": "The four objects appeared to be flying in formation."
+  },
+  {
+   "key": "x_balloon",
+   "type": "explanation",
+   "name": "balloon",
+   "description": "AARO and its partners assess the object was very likely a lighter-than-air object such as a commercial lighting balloon."
+  },
+  {
+   "key": "x_misp",
+   "type": "explanation",
+   "name": "misperception",
+   "description": "AARO says the 'blurry air' observation could have been a visual misperception."
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "2023-01-26",
+   "quote": "(U) Date: 26 January 2023"
+  },
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "2023-01-26",
+   "quote": "(U) On 26 January 2023, a military pilot reported four potential unidentified anomalous"
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "(U) Location: Near Eglin Air Force Base, aloft between 16,000 - 18,000 feet and appeared Florida"
+  },
+  {
+   "s": "case",
+   "p": "location",
+   "v": "Near Eglin Air Force Base, Florida",
+   "quote": "(U) Location: Near Eglin Air Force Base, aloft between 16,000 - 18,000 feet and appeared Florida"
+  },
+  {
+   "s": "case",
+   "p": "case_number",
+   "v": "330UAP000018",
+   "quote": "Case Number: 330UAP000018"
+  },
+  {
+   "s": "case",
+   "p": "case_status",
+   "v": "Resolved; very likely a lighter-than-air object, such as a large commercial lighting balloon",
+   "quote": "(U) Case Status: Resolved; very likely a observation of the reported object. lighter-than-air object, such as a large commercial lighting balloon"
+  },
+  {
+   "s": "case",
+   "p": "confidence_level",
+   "v": "Moderate",
+   "quote": "(U) Confidence Level: Moderate"
+  },
+  {
+   "s": "case",
+   "p": "resolution_date",
+   "v": "2023-10-14",
+   "quote": "Case Resolution 14 October 2023"
+  },
+  {
+   "s": "case",
+   "p": "reporter",
+   "v": "Military personnel",
+   "quote": "(U) Reporter: Military personnel"
+  },
+  {
+   "s": "case",
+   "p": "reported_by",
+   "v": "a military pilot",
+   "quote": "(U) On 26 January 2023, a military pilot reported four potential unidentified anomalous"
+  },
+  {
+   "s": "case",
+   "p": "object_count",
+   "v": "4",
+   "quote": "(U) On 26 January 2023, a military pilot reported four potential unidentified anomalous"
+  },
+  {
+   "s": "case",
+   "p": "reason_reported",
+   "v": "potential as a flight safety hazard and an incursion into a sensitive training range",
+   "quote": "due to its potential as a flight safety Air Force Base training range off the coast of hazard and an incursion into a sensitive"
+  },
+  {
+   "s": "case",
+   "p": "sensor",
+   "v": "Electro-optical, infrared, visual identification, and radar",
+   "quote": "(U) Sensor: Electro-optical, infrared, flight. The pilot observed this single object aloft visual identification, and radar"
+  },
+  {
+   "s": "case",
+   "p": "behavior",
+   "v": "No confirmed anomalous behavior",
+   "quote": "(U) Behavior: No confirmed anomalous based on the pilot's initial report and a behavior"
+  },
+  {
+   "s": "case",
+   "p": "objects_altitude",
+   "v": "between 16,000 and 18,000 feet",
+   "quote": "aloft between 16,000 - 18,000 feet and appeared"
+  },
+  {
+   "s": "case",
+   "p": "initial_detection",
+   "v": "four objects first observed through the onboard radar system",
+   "quote": "Florida. Through the onboard radar system, the training range pilot initially observed that the four objects were"
+  },
+  {
+   "s": "case",
+   "p": "objects_formation",
+   "v": "appeared to be flying in formation",
+   "quote": "to be flying in formation. However the pilot"
+  },
+  {
+   "s": "case",
+   "p": "visual_observation",
+   "v": "pilot observed only one of the four objects visually",
+   "quote": "observed only one of the four objects visually"
+  },
+  {
+   "s": "case",
+   "p": "images_captured",
+   "v": "two images of the single object via the aircraft's EO/IR sensor",
+   "quote": "and captured two images of the single object via"
+  },
+  {
+   "s": "case",
+   "p": "video_recorded",
+   "v": "no; the aircraft's video recording equipment was inoperable prior to and during the flight",
+   "quote": "aircraft's video recording equipment was inoperable prior to and during the aircraft's"
+  },
+  {
+   "s": "case",
+   "p": "closest_approach",
+   "v": "within 4,000 feet of the object",
+   "quote": "(U) The pilot reported that upon closing to within 4,000 feet of the object, the radar on the aircraft malfunctioned and remained disabled for the remainder of the training exercise."
+  },
+  {
+   "s": "case",
+   "p": "activity",
+   "v": "training exercise",
+   "quote": "(U) The pilot reported that upon closing to within 4,000 feet of the object, the radar on the aircraft malfunctioned and remained disabled for the remainder of the training exercise."
+  },
+  {
+   "s": "case",
+   "p": "radar_malfunction",
+   "v": "radar on the aircraft malfunctioned on closing to within 4,000 feet and stayed disabled for the rest of the training exercise",
+   "quote": "(U) The pilot reported that upon closing to within 4,000 feet of the object, the radar on the aircraft malfunctioned and remained disabled for the remainder of the training exercise."
+  },
+  {
+   "s": "case",
+   "p": "assessment",
+   "v": "very likely an ordinary object, not exhibiting anomalous or exceptional characteristics or flight behaviors",
+   "quote": "(U) AARO assesses the reported UAP very likely was an ordinary object and was not exhibiting anomalous or exceptional characteristics or flight behaviors."
+  },
+  {
+   "s": "case",
+   "p": "assessment_confidence",
+   "v": "moderate, due to the limited data provided",
+   "quote": "AARO has moderate confidence in this assessment due to the limited data provided."
+  },
+  {
+   "s": "case",
+   "p": "identification_confidence",
+   "v": "moderate",
+   "quote": "AARO has moderate confidence in its identification of the object."
+  },
+  {
+   "s": "case",
+   "p": "assessment_basis",
+   "v": "review of the data collected, official pilot accounts, laboratory testing of a commercial lighting balloon, a reconstruction of the flight geometry, and the sun angle at the time of the observation",
+   "quote": "AARO bases this assessment on a thorough review of the data collected, official pilot accounts of the object's description and behavior, laboratory testing of a commercial lighting balloon determined to have similar physical characteristics to the object described in the pilot's report, a reconstruction of the flight geometry, and the sun angle at the time of the observation."
+  },
+  {
+   "s": "case",
+   "p": "assessment",
+   "v": "No anomalous flight characteristics, behaviors, or capabilities were confirmed",
+   "quote": "(U) No anomalous flight characteristics, behaviors, or capabilities were confirmed."
+  },
+  {
+   "s": "case",
+   "p": "assessment",
+   "v": "radar malfunction likely was not caused by or associated with the object",
+   "quote": "Based on the previous tripping of this circuit, AARO assesses the malfunction likely was not caused by or associated with the object."
+  },
+  {
+   "s": "case",
+   "p": "assessment",
+   "v": "circuit breaker trip that caused the radar to fail was coincidental, likely due to a pre-existing, undiagnosed technical problem",
+   "quote": "AARO assesses the circuit breaker trip that caused the radar to fail was coincidental and likely due to a pre-existing, undiagnosed technical problem with the system."
+  },
+  {
+   "s": "case",
+   "p": "assessment",
+   "v": "physical description generally consistent with a lighter-than-air object held aloft and carried by the wind",
+   "quote": "(U) The physical description of the UAP was generally consistent with an LTA object held aloft and carried by the wind; its direction and reported slow speed are consistent with the wind direction and speed at the time and the altitude of the observation."
+  },
+  {
+   "s": "case",
+   "p": "blurry_air_explanation",
+   "v": "possible visual misperception due to environmental conditions; potentially a tether hanging below the object or motion-induced image blurring",
+   "quote": "(U) The \"blurry air\" observation could have been a visual misperception due to environmental conditions and potentially resulted from a tether hanging below the LTA object or motion-induced image blurring."
+  },
+  {
+   "s": "case",
+   "p": "sun_angle_assessment",
+   "v": "sun angle plausibly illuminated the bottom half of the balloon while the top would appear dark, shaded, and cold",
+   "quote": "It is also plausible that the sun angle at the time of day of the event, when plotted with the EO/IR sensor's viewing angle, illuminated the bottom half of the balloon - from the pilot's perspective - while the top would appear dark, shaded, and cold (See Figure 3)."
+  },
+  {
+   "s": "case",
+   "p": "partner_review",
+   "v": "an Intelligence Community component and a science and technology partner independently reached high confidence that the object was ordinary",
+   "quote": "(U) AARO submitted the case for review to an Intelligence Community (IC) component and a science and technology (S&T) partner; these two partners independently reached high confidence assessments that the object did not exhibit anomalous characteristics or behaviors and, therefore, was an ordinary object."
+  },
+  {
+   "s": "case",
+   "p": "partner_review",
+   "v": "both partners independently determined the object very likely was some form of balloon",
+   "quote": "Both partners independently determined that the object very likely was some form of balloon."
+  },
+  {
+   "s": "case",
+   "p": "st_partner_assessment",
+   "v": "high confidence that the object was not anomalous and very likely was some kind of balloon",
+   "quote": "The partner assesses with high confidence that the object was not anomalous and very likely was some kind of balloon."
+  },
+  {
+   "s": "case",
+   "p": "st_partner_method",
+   "v": "available data and deconfliction of military and commercial radar tracks in the vicinity of the sighting",
+   "quote": "(U) AARO's S&T partner independently came to the same general conclusions based on the available data and its deconfliction of military and commercial radar tracks in the vicinity of the sighting."
+  },
+  {
+   "s": "case",
+   "p": "st_partner_assessment",
+   "v": "image consistent with a Mylar balloon viewed from above with the bottom illuminated by light reflected from the clouds or the earth",
+   "quote": "(U) The S&T partner assesses that the image is consistent with a Mylar balloon as viewed from above where the bottom is illuminated with light reflected from the clouds or the earth."
+  },
+  {
+   "s": "case",
+   "p": "st_partner_assessment",
+   "v": "the illumination effect is known as \"Earth shine\"",
+   "quote": "This effect is known as \"Earth shine.\""
+  },
+  {
+   "s": "case",
+   "p": "st_partner_assessment",
+   "v": "red-colored tether points around the circumference of larger balloons could account for the orange-red color",
+   "quote": "(U) The partner notes that many larger balloons have red-colored tether points around the circumference of the balloon which could account for the orange-red color the pilot reported observing near the center."
+  },
+  {
+   "s": "case",
+   "p": "other_objects_not_analyzed",
+   "v": "no EO/IR data for the other three objects observed on radar, so AARO could not analyze them",
+   "quote": "(U) There was no EO/IR data for the other three reported objects initially observed on radar; therefore, AARO could not analyze those reported objects."
+  },
+  {
+   "s": "craft",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "observed only one of the four objects visually"
+  },
+  {
+   "s": "others",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "(U) There was no EO/IR data for the other three reported objects initially observed on radar; therefore, AARO could not analyze those reported objects."
+  },
+  {
+   "s": "others",
+   "p": "count",
+   "v": "3",
+   "quote": "(U) There was no EO/IR data for the other three reported objects initially observed on radar; therefore, AARO could not analyze those reported objects."
+  },
+  {
+   "s": "others",
+   "p": "detected_by",
+   "v": "radar only; no EO/IR data",
+   "quote": "(U) There was no EO/IR data for the other three reported objects initially observed on radar; therefore, AARO could not analyze those reported objects."
+  },
+  {
+   "s": "craft",
+   "p": "identified_as",
+   "o": "x_balloon",
+   "quote": "(U) AARO assesses the object was a lighter-than-air (LTA) object, such as a large form- factor balloon; a meteorological balloon; a large Mylar balloon; or a large, commercial, outdoor, helium-filled, lighting balloon."
+  },
+  {
+   "s": "craft",
+   "p": "altitude",
+   "v": "16,000 feet",
+   "quote": "(U) Altitude: 16,000 feet"
+  },
+  {
+   "s": "craft",
+   "p": "altitude",
+   "v": "16,000 feet",
+   "quote": "at 16,000 feet. The following case information is"
+  },
+  {
+   "s": "craft",
+   "p": "shape",
+   "v": "Rounded, cone",
+   "quote": "(U) Shape: Rounded, cone"
+  },
+  {
+   "s": "craft",
+   "p": "shape",
+   "v": "bottom half rounded; top half a rounded, three-dimensional cone shape",
+   "quote": "(U) In the initial report, the pilot described the bottom half of the object as being rounded, and the top half as a rounded, three-dimensional cone shape, similar to the shape of the"
+  },
+  {
+   "s": "craft",
+   "p": "shape_comparison",
+   "v": "similar to the shape of the \"Apollo spacecraft\"",
+   "quote": "\"Apollo spacecraft\" (see Figure 2)"
+  },
+  {
+   "s": "craft",
+   "p": "color",
+   "v": "gray",
+   "quote": "(U) The pilot described the object as gray with a paneled surface and orange-red"
+  },
+  {
+   "s": "craft",
+   "p": "surface",
+   "v": "paneled",
+   "quote": "(U) The pilot described the object as gray with a paneled surface and orange-red"
+  },
+  {
+   "s": "craft",
+   "p": "color",
+   "v": "orange-red near the center",
+   "quote": "(U) The partner notes that many larger balloons have red-colored tether points around the circumference of the balloon which could account for the orange-red color the pilot reported observing near the center."
+  },
+  {
+   "s": "craft",
+   "p": "color",
+   "v": "orange-red at the center of the bottom half",
+   "quote": "The orange-red color at the center of the bottom half of the object could be explained by the sun glint off the object as the pilot observed it, thus causing the appearance of the orange-red colors on the balloon."
+  },
+  {
+   "s": "craft",
+   "p": "color_explanation",
+   "v": "sun glint off the object",
+   "quote": "The orange-red color at the center of the bottom half of the object could be explained by the sun glint off the object as the pilot observed it, thus causing the appearance of the orange-red colors on the balloon."
+  },
+  {
+   "s": "craft",
+   "p": "size",
+   "v": "about 12 feet in diameter",
+   "quote": "the pilot reported the object was about 12 feet in diameter and that it either moved very slowly or was potentially stationary."
+  },
+  {
+   "s": "craft",
+   "p": "speed",
+   "v": "moved very slowly or was potentially stationary",
+   "quote": "the pilot reported the object was about 12 feet in diameter and that it either moved very slowly or was potentially stationary."
+  },
+  {
+   "s": "craft",
+   "p": "heat_signature",
+   "v": "heat signature emanating from the rounded bottom portion, described as \"blurry air\"",
+   "quote": "The pilot visually perceived a heat signature emanating from the rounded bottom portion, which they described as \"blurry air.\""
+  },
+  {
+   "s": "craft",
+   "p": "later_claim",
+   "v": "pilot thought they saw a vertically oriented engine affixed to the side of the object, nearly the height of the object",
+   "quote": "the pilot stated that they thought they saw a vertically oriented engine affixed to the side of the object that was nearly the height of the object."
+  },
+  {
+   "s": "craft",
+   "p": "engine_not_corroborated",
+   "v": "not visible in the two EO/IR still images and not included in the pilot's initial report",
+   "quote": "This feature is not visible in the two still images taken by the EO/IR sensor, and the pilot did not include this description in the initial report."
+  },
+  {
+   "s": "craft",
+   "p": "engine_not_corroborated",
+   "v": "AARO has no additional data to corroborate an engine",
+   "quote": "AARO has no additional data to corroborate whether the object may have had an engine."
+  },
+  {
+   "s": "craft",
+   "p": "movement",
+   "v": "descended into the cloud deck after the radar malfunctioned",
+   "quote": "(U) During the discussion with the pilot, they recounted that after the radar malfunctioned, the object descended into the cloud deck."
+  },
+  {
+   "s": "craft",
+   "p": "movement",
+   "v": "direction and slow speed consistent with the wind direction and speed at that time and altitude",
+   "quote": "(U) The physical description of the UAP was generally consistent with an LTA object held aloft and carried by the wind; its direction and reported slow speed are consistent with the wind direction and speed at the time and the altitude of the observation."
+  },
+  {
+   "s": "craft",
+   "p": "visible_appearance",
+   "v": "uniformly gray in the visible spectrum; uniformly black in the EO image",
+   "quote": "(U) Although the pilot described the object as uniformly gray in the visible spectrum (it appears uniformly black from the viewing angle in the EO image), the magnified infrared image shows the object had a strong contrasting signature in the infrared spectrum."
+  },
+  {
+   "s": "craft",
+   "p": "infrared_signature",
+   "v": "strong contrasting signature in the infrared spectrum",
+   "quote": "(U) Although the pilot described the object as uniformly gray in the visible spectrum (it appears uniformly black from the viewing angle in the EO image), the magnified infrared image shows the object had a strong contrasting signature in the infrared spectrum."
+  },
+  {
+   "s": "craft",
+   "p": "infrared_signature",
+   "v": "contrast suggests a temperature/emissivity difference or a reflectivity difference between its two hemispheres",
+   "quote": "This contrast suggests either a temperature/emissivity difference or a reflectivity difference between its two hemispheres."
+  },
+  {
+   "s": "craft",
+   "p": "anomalous_behavior",
+   "v": "none confirmed",
+   "quote": "(U) No anomalous flight characteristics, behaviors, or capabilities were confirmed."
+  },
+  {
+   "s": "aaro",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "(U) AARO assesses the reported UAP very likely was an ordinary object and was not exhibiting anomalous or exceptional characteristics or flight behaviors."
+  },
+  {
+   "s": "aaro",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "All-domain Anomaly Resolution Office CLEARED AAR U.S. Department of Defense"
+  },
+  {
+   "s": "aaro",
+   "p": "authored",
+   "o": "doc",
+   "quote": "(U) AARO assesses the reported UAP very likely was an ordinary object and was not exhibiting anomalous or exceptional characteristics or flight behaviors."
+  },
+  {
+   "s": "aaro",
+   "p": "proposed",
+   "o": "x_balloon",
+   "quote": "(U) AARO assesses the object was a lighter-than-air (LTA) object, such as a large form- factor balloon; a meteorological balloon; a large Mylar balloon; or a large, commercial, outdoor, helium-filled, lighting balloon."
+  },
+  {
+   "s": "aaro",
+   "p": "proposed",
+   "o": "x_misp",
+   "quote": "(U) The \"blurry air\" observation could have been a visual misperception due to environmental conditions and potentially resulted from a tether hanging below the LTA object or motion-induced image blurring."
+  },
+  {
+   "s": "aaro",
+   "p": "interviewed_pilot",
+   "v": "held a subsequent discussion with the pilot to seek additional details",
+   "quote": "(U) During AARO's discussion with the pilot, the pilot stated that they thought they saw a"
+  },
+  {
+   "s": "aaro",
+   "p": "interviewed_pilot",
+   "v": "subsequent discussion with the pilot after the initial report",
+   "quote": "subsequent discussion that AARO held with the pilot to seek additional details about the pilot's"
+  },
+  {
+   "s": "aaro",
+   "p": "testing",
+   "v": "conducted extensive testing using a commercial lighting balloon and found it could replicate some aspects of the pilot's account",
+   "quote": "AARO conducted extensive testing using one of these balloons and found it could replicate some aspects of the pilot's account."
+  },
+  {
+   "s": "aaro",
+   "p": "testing",
+   "v": "determined the balloons can be converted to direct current or AC battery power",
+   "quote": "Although the balloons are powered by corded alternating current (AC), during its testing, AARO determined that they can be converted to direct current or AC battery power."
+  },
+  {
+   "s": "aaro",
+   "p": "finding",
+   "v": "identified a commercial lighting balloon that is a close visual match to the object in the infrared image",
+   "quote": "AARO identified a commercial lighting balloon (see Figure 1C), which is a close visual match to the object in the zoomed-in infrared image (see Figure 1A)."
+  },
+  {
+   "s": "aaro",
+   "p": "confidence",
+   "v": "moderate confidence in its identification of the object",
+   "quote": "AARO has moderate confidence in its identification of the object."
+  },
+  {
+   "s": "dod",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "All-domain Anomaly Resolution Office CLEARED AAR U.S. Department of Defense"
+  },
+  {
+   "s": "dopsr",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Department of Defense OFFICE OF PREPUBLICATION AND SECURITY REVIEW"
+  },
+  {
+   "s": "dopsr",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "Department of Defense OFFICE OF PREPUBLICATION AND SECURITY REVIEW"
+  },
+  {
+   "s": "ic",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "(U) AARO submitted the case for review to an Intelligence Community (IC) component and a science and technology (S&T) partner; these two partners independently reached high confidence assessments that the object did not exhibit anomalous characteristics or behaviors and, therefore, was an ordinary object."
+  },
+  {
+   "s": "ic",
+   "p": "proposed",
+   "o": "x_balloon",
+   "quote": "Both partners independently determined that the object very likely was some form of balloon."
+  },
+  {
+   "s": "ic",
+   "p": "assessment",
+   "v": "high confidence that the object was not exhibiting anomalous characteristics",
+   "quote": "(U) AARO's IC partner on this case assesses with high confidence that the object was not exhibiting anomalous characteristics based on the available data and its reconstruction of the event."
+  },
+  {
+   "s": "ic",
+   "p": "data_used",
+   "v": "altitude, geocoordinates of the object, aircraft viewing angle and heading, and sun geometry at the time of the observation",
+   "quote": "Available data included the altitude, geocoordinates of the object, the aircraft viewing angle and heading, as well as the sun geometry at the time of the observation."
+  },
+  {
+   "s": "ic",
+   "p": "assessment",
+   "v": "the sun would have illuminated the bottom hemisphere in a manner consistent with the IR image",
+   "quote": "(U) Based on reconstruction of the event, to include the viewing angle of the EO/IR sensor that took the zoomed-in image, the sun would have illuminated the bottom hemisphere in a manner consistent with the IR image (see Figure 3)."
+  },
+  {
+   "s": "ic",
+   "p": "assessment",
+   "v": "orange-red color could be explained by sun glint off the object",
+   "quote": "The orange-red color at the center of the bottom half of the object could be explained by the sun glint off the object as the pilot observed it, thus causing the appearance of the orange-red colors on the balloon."
+  },
+  {
+   "s": "eglin",
+   "p": "near",
+   "o": "case",
+   "quote": "(U) Location: Near Eglin Air Force Base, aloft between 16,000 - 18,000 feet and appeared Florida"
+  },
+  {
+   "s": "range",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "phenomena (UAP) while operating in the Eglin due to its potential as a flight safety Air Force Base training range off the coast of"
+  },
+  {
+   "s": "range",
+   "p": "part_of",
+   "o": "eglin",
+   "quote": "phenomena (UAP) while operating in the Eglin due to its potential as a flight safety Air Force Base training range off the coast of"
+  },
+  {
+   "s": "range",
+   "p": "description",
+   "v": "sensitive training range",
+   "quote": "hazard and an incursion into a sensitive Florida. Through the onboard radar system, the training range"
+  },
+  {
+   "s": "florida",
+   "p": "near",
+   "o": "case",
+   "quote": "Air Force Base training range off the coast of hazard and an incursion into a sensitive Florida."
+  },
+  {
+   "s": "eglin",
+   "p": "located_in",
+   "o": "florida",
+   "quote": "(U) Location: Near Eglin Air Force Base, aloft between 16,000 - 18,000 feet and appeared Florida"
+  },
+  {
+   "s": "range",
+   "p": "located_in",
+   "o": "florida",
+   "quote": "Air Force Base training range off the coast of hazard and an incursion into a sensitive Florida."
+  },
+  {
+   "s": "aircraft",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "(U) The pilot reported that upon closing to within 4,000 feet of the object, the radar on the aircraft malfunctioned and remained disabled for the remainder of the training exercise."
+  },
+  {
+   "s": "aircraft",
+   "p": "sensor",
+   "v": "onboard radar system",
+   "quote": "Florida. Through the onboard radar system, the"
+  },
+  {
+   "s": "aircraft",
+   "p": "sensor",
+   "v": "electro-optical/infrared (EO/IR) sensor",
+   "quote": "the aircraft's electro-optical/infrared (EO/IR)"
+  },
+  {
+   "s": "aircraft",
+   "p": "equipment_fault",
+   "v": "video recording equipment inoperable prior to and during the flight",
+   "quote": "aircraft's video recording equipment was inoperable prior to and during the aircraft's"
+  },
+  {
+   "s": "aircraft",
+   "p": "equipment_fault",
+   "v": "radar malfunctioned within 4,000 feet of the object and remained disabled for the remainder of the training exercise",
+   "quote": "(U) The pilot reported that upon closing to within 4,000 feet of the object, the radar on the aircraft malfunctioned and remained disabled for the remainder of the training exercise."
+  },
+  {
+   "s": "aircraft",
+   "p": "malfunction_cause",
+   "v": "a circuit breaker had tripped, per post-mission review",
+   "quote": "Post-mission review determined that a circuit breaker had tripped; technicians reported that the same circuit breaker on this particular aircraft had tripped three times in the prior months, but technicians could not conclusively diagnose the cause of the fault for this incident."
+  },
+  {
+   "s": "aircraft",
+   "p": "prior_faults",
+   "v": "the same circuit breaker had tripped three times in the prior months",
+   "quote": "Post-mission review determined that a circuit breaker had tripped; technicians reported that the same circuit breaker on this particular aircraft had tripped three times in the prior months, but technicians could not conclusively diagnose the cause of the fault for this incident."
+  },
+  {
+   "s": "aircraft",
+   "p": "fault_diagnosis",
+   "v": "technicians could not conclusively diagnose the cause of the fault",
+   "quote": "Post-mission review determined that a circuit breaker had tripped; technicians reported that the same circuit breaker on this particular aircraft had tripped three times in the prior months, but technicians could not conclusively diagnose the cause of the fault for this incident."
+  },
+  {
+   "s": "doc",
+   "p": "key_document",
+   "o": "case",
+   "quote": "(U) Case: \"Eglin UAP\""
+  },
+  {
+   "s": "doc",
+   "p": "date",
+   "v": "2023-10-14",
+   "quote": "Case Resolution 14 October 2023"
+  },
+  {
+   "s": "doc",
+   "p": "classification",
+   "v": "UNCLASSIFIED",
+   "quote": "UNCLASSIFIED"
+  },
+  {
+   "s": "doc",
+   "p": "cleared_for_open_publication",
+   "v": "2024-04-18",
+   "quote": "For Open Publication (U) Case: \"Eglin UAP\" facere Apr 18, 2024"
+  },
+  {
+   "s": "doc",
+   "p": "reviewed_by",
+   "v": "Chief of Staff, AARO",
+   "quote": "Review by Chief of Staff, AARO"
+  },
+  {
+   "s": "doc",
+   "p": "review_authority",
+   "v": "Chief of Staff, AARO",
+   "quote": "All-Domain Anomaly Resolution Office Chief of Staff, AARO"
+  },
+  {
+   "s": "doc",
+   "p": "review_date",
+   "v": "02/06/2025",
+   "quote": "Page determined to be Unclassified Date: 02/06/2025"
+  },
+  {
+   "s": "doc",
+   "p": "page_determination",
+   "v": "Page determined to be Unclassified",
+   "quote": "Page determined to be Unclassified"
+  },
+  {
+   "s": "doc",
+   "p": "release_status",
+   "v": "Released in Full",
+   "quote": "Released in Full: X ; Released in Part"
+  },
+  {
+   "s": "doc",
+   "p": "case_number",
+   "v": "330UAP000018",
+   "quote": "Case Number: 330UAP000018"
+  },
+  {
+   "s": "doc",
+   "p": "released_under",
+   "o": "ndaa",
+   "quote": "IAW FY24 NDAA, Section 1841 (a)(1)(C)"
+  },
+  {
+   "s": "ndaa",
+   "p": "related_document",
+   "o": "case",
+   "quote": "Authority: FY24 NDAA, now codified at 44 U.S.C. 2107"
+  },
+  {
+   "s": "ndaa",
+   "p": "codified_at",
+   "v": "44 U.S.C. 2107",
+   "quote": "Authority: FY24 NDAA, now codified at 44 U.S.C. 2107"
+  },
+  {
+   "s": "ndaa",
+   "p": "section_cited",
+   "v": "Section 1841 (a)(1)(C)",
+   "quote": "IAW FY24 NDAA, Section 1841 (a)(1)(C)"
+  },
+  {
+   "s": "report",
+   "p": "key_document",
+   "o": "case",
+   "quote": "based on the pilot's initial report and a"
+  },
+  {
+   "s": "report",
+   "p": "omitted",
+   "v": "did not provide the object's size and speed",
+   "quote": "The initial report did not provide the object's size and speed, but in the subsequent discussion with AARO,"
+  },
+  {
+   "s": "report",
+   "p": "omitted",
+   "v": "did not include the description of an engine",
+   "quote": "This feature is not visible in the two still images taken by the EO/IR sensor, and the pilot did not include this description in the initial report."
+  },
+  {
+   "s": "report",
+   "p": "content",
+   "v": "described the bottom half as rounded and the top half as a rounded, three-dimensional cone shape",
+   "quote": "(U) In the initial report, the pilot described the bottom half of the object as being rounded, and the top half as a rounded, three-dimensional cone shape, similar to the shape of the"
+  },
+  {
+   "s": "img_ir",
+   "p": "key_document",
+   "o": "case",
+   "quote": "(U) Figure 1: Comparison of reported UAP (A: Infrared image of reported object, B: Electro-optical image of reported object, and C: Image of a commercial LTA lighting system) (Photo credit: AARO)"
+  },
+  {
+   "s": "img_eo",
+   "p": "key_document",
+   "o": "case",
+   "quote": "(U) Figure 1: Comparison of reported UAP (A: Infrared image of reported object, B: Electro-optical image of reported object, and C: Image of a commercial LTA lighting system) (Photo credit: AARO)"
+  },
+  {
+   "s": "img_balloon",
+   "p": "key_document",
+   "o": "case",
+   "quote": "(U) Figure 1: Comparison of reported UAP (A: Infrared image of reported object, B: Electro-optical image of reported object, and C: Image of a commercial LTA lighting system) (Photo credit: AARO)"
+  },
+  {
+   "s": "img_ir",
+   "p": "photo_credit",
+   "v": "AARO",
+   "quote": "(U) Figure 1: Comparison of reported UAP (A: Infrared image of reported object, B: Electro-optical image of reported object, and C: Image of a commercial LTA lighting system) (Photo credit: AARO)"
+  },
+  {
+   "s": "img_eo",
+   "p": "photo_credit",
+   "v": "AARO",
+   "quote": "(U) Figure 1: Comparison of reported UAP (A: Infrared image of reported object, B: Electro-optical image of reported object, and C: Image of a commercial LTA lighting system) (Photo credit: AARO)"
+  },
+  {
+   "s": "img_balloon",
+   "p": "photo_credit",
+   "v": "AARO",
+   "quote": "(U) Figure 1: Comparison of reported UAP (A: Infrared image of reported object, B: Electro-optical image of reported object, and C: Image of a commercial LTA lighting system) (Photo credit: AARO)"
+  },
+  {
+   "s": "img_ir",
+   "p": "captured_by",
+   "v": "the aircraft's EO/IR sensor",
+   "quote": "(U) Based on reconstruction of the event, to include the viewing angle of the EO/IR sensor that took the zoomed-in image, the sun would have illuminated the bottom hemisphere in a manner consistent with the IR image (see Figure 3)."
+  },
+  {
+   "s": "img_ir",
+   "p": "shows",
+   "v": "object had a strong contrasting signature in the infrared spectrum",
+   "quote": "(U) Although the pilot described the object as uniformly gray in the visible spectrum (it appears uniformly black from the viewing angle in the EO image), the magnified infrared image shows the object had a strong contrasting signature in the infrared spectrum."
+  },
+  {
+   "s": "img_eo",
+   "p": "shows",
+   "v": "object appears uniformly black from the viewing angle",
+   "quote": "(U) Although the pilot described the object as uniformly gray in the visible spectrum (it appears uniformly black from the viewing angle in the EO image), the magnified infrared image shows the object had a strong contrasting signature in the infrared spectrum."
+  },
+  {
+   "s": "img_balloon",
+   "p": "shows",
+   "v": "commercial lighting balloon that is a close visual match to the object in the infrared image",
+   "quote": "AARO identified a commercial lighting balloon (see Figure 1C), which is a close visual match to the object in the zoomed-in infrared image (see Figure 1A)."
+  },
+  {
+   "s": "img_ir",
+   "p": "does_not_show",
+   "v": "the engine the pilot later described",
+   "quote": "This feature is not visible in the two still images taken by the EO/IR sensor, and the pilot did not include this description in the initial report."
+  },
+  {
+   "s": "img_eo",
+   "p": "does_not_show",
+   "v": "the engine the pilot later described",
+   "quote": "This feature is not visible in the two still images taken by the EO/IR sensor, and the pilot did not include this description in the initial report."
+  },
+  {
+   "s": "drawing",
+   "p": "key_document",
+   "o": "case",
+   "quote": "(U) Figure 2: Pilot's drawing of the reported object"
+  },
+  {
+   "s": "drawing",
+   "p": "annotation",
+   "v": "Guil GUN METAL",
+   "quote": "Guil GUN METAL"
+  },
+  {
+   "s": "drawing",
+   "p": "annotation",
+   "v": "Drange / Ridish",
+   "quote": "Drange Ridish"
+  },
+  {
+   "s": "drawing",
+   "p": "annotation",
+   "v": "Burry No Air Smoke",
+   "quote": "Burry No Air Smoke"
+  },
+  {
+   "s": "drawing",
+   "p": "depicts",
+   "v": "shape compared by the pilot to the \"Apollo spacecraft\"",
+   "quote": "\"Apollo spacecraft\" (see Figure 2)"
+  },
+  {
+   "s": "viz",
+   "p": "key_document",
+   "o": "case",
+   "quote": "(U) Figure 3: The below is a visualization of the pilot's point of view of the object based on the position and altitudes of the aircraft and object, the look angle of the sensor, and the sun geometry"
+  },
+  {
+   "s": "viz",
+   "p": "based_on",
+   "v": "position and altitudes of the aircraft and object, the look angle of the sensor, and the sun geometry",
+   "quote": "(U) Figure 3: The below is a visualization of the pilot's point of view of the object based on the position and altitudes of the aircraft and object, the look angle of the sensor, and the sun geometry"
+  },
+  {
+   "s": "viz",
+   "p": "annotation",
+   "v": "Sun 40.06",
+   "quote": "Sun 40.06"
+  },
+  {
+   "s": "viz",
+   "p": "shows",
+   "v": "sun illuminating the bottom hemisphere in a manner consistent with the IR image",
+   "quote": "(U) Based on reconstruction of the event, to include the viewing angle of the EO/IR sensor that took the zoomed-in image, the sun would have illuminated the bottom hemisphere in a manner consistent with the IR image (see Figure 3)."
+  },
+  {
+   "s": "f_shape",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "(U) Shape: Rounded, cone"
+  },
+  {
+   "s": "f_radar",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "(U) There was no EO/IR data for the other three reported objects initially observed on radar; therefore, AARO could not analyze those reported objects."
+  },
+  {
+   "s": "f_photo",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "This feature is not visible in the two still images taken by the EO/IR sensor, and the pilot did not include this description in the initial report."
+  },
+  {
+   "s": "f_emi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "(U) The pilot reported that upon closing to within 4,000 feet of the object, the radar on the aircraft malfunctioned and remained disabled for the remainder of the training exercise."
+  },
+  {
+   "s": "f_hover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "the pilot reported the object was about 12 feet in diameter and that it either moved very slowly or was potentially stationary."
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "(U) Reporter: Military personnel"
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "(U) On 26 January 2023, a military pilot reported four potential unidentified anomalous"
+  },
+  {
+   "s": "f_base",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "(U) Location: Near Eglin Air Force Base,"
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "(U) AARO submitted the case for review to an Intelligence Community (IC) component and a science and technology (S&T) partner; these two partners independently reached high confidence assessments that the object did not exhibit anomalous characteristics or behaviors and, therefore, was an ordinary object."
+  },
+  {
+   "s": "f_formation",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "to be flying in formation. However the pilot"
+  },
+  {
+   "s": "x_balloon",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "(U) AARO assesses the object was a lighter-than-air (LTA) object, such as a large form- factor balloon; a meteorological balloon; a large Mylar balloon; or a large, commercial, outdoor, helium-filled, lighting balloon."
+  },
+  {
+   "s": "x_misp",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "(U) The \"blurry air\" observation could have been a visual misperception due to environmental conditions and potentially resulted from a tether hanging below the LTA object or motion-induced image blurring."
+  },
+  {
+   "s": "x_balloon",
+   "p": "candidate_type",
+   "v": "large form-factor balloon",
+   "quote": "(U) AARO assesses the object was a lighter-than-air (LTA) object, such as a large form- factor balloon; a meteorological balloon; a large Mylar balloon; or a large, commercial, outdoor, helium-filled, lighting balloon."
+  },
+  {
+   "s": "x_balloon",
+   "p": "candidate_type",
+   "v": "meteorological balloon",
+   "quote": "(U) AARO assesses the object was a lighter-than-air (LTA) object, such as a large form- factor balloon; a meteorological balloon; a large Mylar balloon; or a large, commercial, outdoor, helium-filled, lighting balloon."
+  },
+  {
+   "s": "x_balloon",
+   "p": "candidate_type",
+   "v": "large Mylar balloon",
+   "quote": "(U) AARO assesses the object was a lighter-than-air (LTA) object, such as a large form- factor balloon; a meteorological balloon; a large Mylar balloon; or a large, commercial, outdoor, helium-filled, lighting balloon."
+  },
+  {
+   "s": "x_balloon",
+   "p": "candidate_type",
+   "v": "large, commercial, outdoor, helium-filled, lighting balloon",
+   "quote": "(U) AARO assesses the object was a lighter-than-air (LTA) object, such as a large form- factor balloon; a meteorological balloon; a large Mylar balloon; or a large, commercial, outdoor, helium-filled, lighting balloon."
+  },
+  {
+   "s": "x_balloon",
+   "p": "candidate_type",
+   "v": "any large-form balloon made of two different materials, or the same material of different colors, with distinct infrared properties",
+   "quote": "(U) Beyond these commercial lighting balloons, the object's description correlates with any large-form balloon that might be made of two different materials, or the same material of different colors, with distinct infrared reflective or emissive properties."
+  },
+  {
+   "s": "x_balloon",
+   "p": "lighting_balloon_shapes",
+   "v": "often large; ellipses, spheres, and cylinders",
+   "quote": "Commercial helium balloons such as these are often large and available in many shapes - including ellipses, spheres, and cylinders - and are used for outdoor lighting at special events, construction sites, and movie sets."
+  },
+  {
+   "s": "x_balloon",
+   "p": "lighting_balloon_use",
+   "v": "outdoor lighting at special events, construction sites, and movie sets",
+   "quote": "Commercial helium balloons such as these are often large and available in many shapes - including ellipses, spheres, and cylinders - and are used for outdoor lighting at special events, construction sites, and movie sets."
+  },
+  {
+   "s": "x_balloon",
+   "p": "lighting_balloon_colors",
+   "v": "available in solid colors; some models have distinct black and white hemispheres",
+   "quote": "Although these balloons are available in solid colors, some models have distinct black and white hemispheres."
+  },
+  {
+   "s": "x_balloon",
+   "p": "lighting_balloon_construction",
+   "v": "upper black hemisphere lined with reflective material to direct the light downward through the white hemisphere",
+   "quote": "The upper black hemisphere is lined with reflective material to direct the light downward through the white hemisphere."
+  },
+  {
+   "s": "x_balloon",
+   "p": "lighting_balloon_construction",
+   "v": "hemispheres have seams resembling the ribbed fabric panels of an umbrella, which could be perceived as \"paneling\"",
+   "quote": "(U) The balloon's hemispheres have seams resembling the ribbed fabric panels of an umbrella, which an observer could perceive as \"paneling.\""
+  },
+  {
+   "s": "x_balloon",
+   "p": "lighting_balloon_availability",
+   "v": "publicly available to rent or buy",
+   "quote": "(U) These balloons are publicly available to rent or buy."
+  },
+  {
+   "s": "x_balloon",
+   "p": "lighting_balloon_power",
+   "v": "corded alternating current (AC); can be converted to direct current or AC battery power",
+   "quote": "Although the balloons are powered by corded alternating current (AC), during its testing, AARO determined that they can be converted to direct current or AC battery power."
+  },
+  {
+   "s": "x_balloon",
+   "p": "supporting_point",
+   "v": "a meteorological or Mylar balloon would likely present in a similar fashion on an EO/IR image",
+   "quote": "(U) Due to the angle of the sun and the altitude of the object, a meteorological or Mylar balloon likely would also present in a similar fashion on an EO/IR image."
+  },
+  {
+   "s": "x_balloon",
+   "p": "supporting_point",
+   "v": "the highly reflective surface of a Mylar balloon in infrared would exaggerate the perceived illumination effect",
+   "quote": "The highly reflective surface of a Mylar balloon in infrared would exaggerate the perceived illumination effect."
+  },
+  {
+   "s": "x_balloon",
+   "p": "confidence",
+   "v": "AARO moderate; IC and S&T partners high",
+   "quote": "(U) AARO submitted the case for review to an Intelligence Community (IC) component and a science and technology (S&T) partner; these two partners independently reached high confidence assessments that the object did not exhibit anomalous characteristics or behaviors and, therefore, was an ordinary object."
+  },
+  {
+   "s": "x_misp",
+   "p": "applies_to",
+   "v": "the pilot's \"blurry air\" observation",
+   "quote": "(U) The \"blurry air\" observation could have been a visual misperception due to environmental conditions and potentially resulted from a tether hanging below the LTA object or motion-induced image blurring."
+  }
+ ]
+}

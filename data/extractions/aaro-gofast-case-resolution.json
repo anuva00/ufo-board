@@ -1,0 +1,1670 @@
+{
+ "slug": "aaro-gofast-case-resolution",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Pentagon UFO videos",
+   "aliases": [
+    "Go Fast",
+    "GoFast",
+    "Go-Fast",
+    "\"Go Fast\" event",
+    "Case: \"Go Fast\"",
+    "GOFAST"
+   ],
+   "description": "The January 2015 \"Go Fast\" incident, in which a U.S. Navy F/A-18F recorded an object on FLIR off the coast of Florida, as analysed and resolved by AARO in February 2025."
+  },
+  {
+   "key": "object",
+   "type": "craft",
+   "name": "Object in the \"Go Fast\" video recorded January 2015",
+   "aliases": [
+    "\"Go Fast\" UAP",
+    "Go Fast UAP",
+    "the object",
+    "the UAP"
+   ],
+   "description": "Unidentified object, assessed as spherical or oblate ellipsoid, recorded by FLIR at about 13,000 feet off Florida."
+  },
+  {
+   "key": "aaro",
+   "type": "organization",
+   "name": "All-domain Anomaly Resolution Office",
+   "aliases": [
+    "AARO",
+    "All-Domain Anomaly Resolution Office"
+   ],
+   "description": "U.S. Department of Defense office that analysed the Go Fast video and issued the case resolution."
+  },
+  {
+   "key": "dod",
+   "type": "organization",
+   "name": "United States Department of Defense",
+   "aliases": [
+    "U.S. Department of Defense",
+    "Department of Defense"
+   ],
+   "description": "Department that officially released the Go Fast video in 2020."
+  },
+  {
+   "key": "navy",
+   "type": "organization",
+   "name": "United States Navy",
+   "aliases": [
+    "U.S. Navy",
+    "Navy"
+   ],
+   "description": "Reporter of the event; its F/A-18F pilot recorded the object."
+  },
+  {
+   "key": "dopsr",
+   "type": "organization",
+   "name": "Office of Prepublication and Security Review",
+   "aliases": [
+    "Department of Defense Office of Prepublication and Security Review"
+   ],
+   "description": "Department of Defense office whose stamp cleared the case resolution for open publication."
+  },
+  {
+   "key": "nga",
+   "type": "organization",
+   "name": "National Geospatial-Intelligence Agency",
+   "aliases": [
+    "NGA"
+   ],
+   "description": "Agency whose Motion Imagery Standards Board defined the conventions AARO used."
+  },
+  {
+   "key": "misb",
+   "type": "organization",
+   "name": "Motion Imagery Standards Board",
+   "aliases": [
+    "MISB"
+   ],
+   "description": "National Geospatial-Intelligence Agency standards board that issued MISB ST 0601.19."
+  },
+  {
+   "key": "ic",
+   "type": "organization",
+   "name": "United States Intelligence Community",
+   "aliases": [
+    "Intelligence Community"
+   ],
+   "description": "AARO's unnamed Intelligence Community partner performed pixel analysis of the object's size."
+  },
+  {
+   "key": "foia_room",
+   "type": "organization",
+   "name": "United States Navy FOIA Reading Room",
+   "aliases": [
+    "Navy's FOIA Reading Room"
+   ],
+   "description": "Navy public reading room where the Go Fast video is available for viewing."
+  },
+  {
+   "key": "florida",
+   "type": "place",
+   "name": "Florida",
+   "description": "U.S. state off whose coast the event took place."
+  },
+  {
+   "key": "fl_coast",
+   "type": "place",
+   "name": "East coast of Florida",
+   "aliases": [
+    "Eastern coast of Florida",
+    "east coast of Florida",
+    "coast of Florida"
+   ],
+   "description": "Stated location of the event."
+  },
+  {
+   "key": "atlantic",
+   "type": "place",
+   "name": "Atlantic Ocean",
+   "description": "Ocean above which the object was recorded."
+  },
+  {
+   "key": "jaxbeach",
+   "type": "place",
+   "name": "Jacksonville Beach, Florida",
+   "aliases": [
+    "Jacksonville Beach"
+   ],
+   "description": "Label on the notional maps used to visualise the possible flight directions."
+  },
+  {
+   "key": "staug",
+   "type": "place",
+   "name": "St. Augustine, Florida",
+   "aliases": [
+    "St. Augustine"
+   ],
+   "description": "Label on the notional maps used to visualise the possible flight directions."
+  },
+  {
+   "key": "palatka",
+   "type": "place",
+   "name": "Palatka, Florida",
+   "aliases": [
+    "Palatka"
+   ],
+   "description": "Label on the notional maps used to visualise the possible flight directions."
+  },
+  {
+   "key": "daytona",
+   "type": "place",
+   "name": "Daytona Beach, Florida",
+   "aliases": [
+    "Daytona Beach"
+   ],
+   "description": "Label on the notional maps used to visualise the possible flight directions."
+  },
+  {
+   "key": "f18",
+   "type": "vehicle",
+   "name": "F/A-18F Super Hornet",
+   "aliases": [
+    "F/A-18F",
+    "F/A-18 Super Hornet",
+    "F/A-18"
+   ],
+   "description": "U.S. Navy aircraft whose pilot recorded the object."
+  },
+  {
+   "key": "sensor",
+   "type": "vehicle",
+   "name": "AN/ASQ sensor pod",
+   "aliases": [
+    "AN/ASQ",
+    "Forward Looking Infrared (FLIR) sensor",
+    "FLIR sensor",
+    "FLIR camera",
+    "Forward Looking Infrared sensor"
+   ],
+   "description": "Forward Looking Infrared (FLIR) sensor pod aboard the F/A-18 that captured the Go Fast footage."
+  },
+  {
+   "key": "gofast",
+   "type": "document",
+   "name": "GOFAST video",
+   "aliases": [
+    "\"Go Fast\" video",
+    "Go Fast video",
+    "\"Go-Fast\" video",
+    "\"Go Fast\" FLIR video"
+   ],
+   "description": "34-second FLIR video of the event, officially released by the Department of Defense in 2020."
+  },
+  {
+   "key": "resolution",
+   "type": "document",
+   "name": "AARO \"Go Fast\" Case Resolution",
+   "aliases": [
+    "AARO \"Go Fast\" Case resolution",
+    "Case: \"Go Fast\""
+   ],
+   "description": "AARO case resolution card for the Go Fast case, dated February 6, 2025."
+  },
+  {
+   "key": "appendix",
+   "type": "document",
+   "name": "Appendix A: Estimating UAP Location, Speed, and Heading from \"Go Fast\" FLIR Video Data",
+   "aliases": [
+    "Appendix A"
+   ],
+   "description": "Technical appendix (February 2025) giving the step-by-step calculations behind the case resolution."
+  },
+  {
+   "key": "misb_st",
+   "type": "document",
+   "name": "UAS Datalink Local Set Standards (MISB ST 0601.19)",
+   "aliases": [
+    "MISB ST 0601.19",
+    "UAS Datalink Local Set Standards"
+   ],
+   "description": "Motion Imagery Standards Board standard dated March 02, 2023 whose methods and conventions AARO applied."
+  },
+  {
+   "key": "ndaa",
+   "type": "document",
+   "name": "National Defense Authorization Act for Fiscal Year 2024",
+   "aliases": [
+    "FY24 NDAA",
+    "FY24 NDAA, Section 1841(a)(1)(C)"
+   ],
+   "description": "Statute cited as the authority under which the pages were reviewed and released."
+  },
+  {
+   "key": "f_video",
+   "type": "feature",
+   "name": "film-or-video",
+   "description": "The object was recorded on FLIR video."
+  },
+  {
+   "key": "f_military",
+   "type": "feature",
+   "name": "military-witnesses",
+   "description": "The recording was made by a U.S. Navy pilot."
+  },
+  {
+   "key": "f_pilot",
+   "type": "feature",
+   "name": "pilot-witnesses",
+   "description": "The recording was made by an F/A-18F pilot."
+  },
+  {
+   "key": "f_speed",
+   "type": "feature",
+   "name": "high-speed-maneuvers",
+   "description": "The object was reported as moving at high speeds."
+  },
+  {
+   "key": "f_sphere",
+   "type": "feature",
+   "name": "shape-sphere",
+   "description": "Reported round; assessed spherical or oblate ellipsoid."
+  },
+  {
+   "key": "f_water",
+   "type": "feature",
+   "name": "water-related",
+   "description": "Reported near the ocean's surface over the Atlantic."
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "AARO analysed and resolved the case."
+  },
+  {
+   "key": "x_misperception",
+   "type": "explanation",
+   "name": "misperception",
+   "description": "AARO attributes the apparent high speed to motion parallax."
+  }
+ ],
+ "claims": [
+  {
+   "s": "object",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "recorded an object using a Forward Looking Infrared (FLIR) sensor about 13,000 feet"
+  },
+  {
+   "s": "aaro",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "In 2024, the All-domain Anomaly Resolution Office (AARO) estimated possible altitude, speed, and heading solutions for an unidentified anomalous phenomenon (UAP), commonly known as \"Go Fast.\""
+  },
+  {
+   "s": "navy",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Reporter: U.S. Navy"
+  },
+  {
+   "s": "dod",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Department of Defense officially released the \"Go Fast\" video in 2020. It is available"
+  },
+  {
+   "s": "dopsr",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "OFFICE OF PREPUBLICATION AND SECURITY REVIEW"
+  },
+  {
+   "s": "ic",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "However, pixel analysis (a method of measuring an object's size based on pixels relative to an object known dimensions) by AARO's Intelligence Community partner suggested the object was one meter or less in size - comparable to a small drone or bird."
+  },
+  {
+   "s": "fl_coast",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Location: Eastern coast of Florida"
+  },
+  {
+   "s": "atlantic",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "above the Atlantic Ocean off the coast of"
+  },
+  {
+   "s": "florida",
+   "p": "near",
+   "o": "case",
+   "quote": "Location: Eastern coast of Florida"
+  },
+  {
+   "s": "jaxbeach",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Locations and path lengths are notional and not to scale Jacksonville Beach"
+  },
+  {
+   "s": "staug",
+   "p": "related_place",
+   "o": "case",
+   "quote": "St. Augustine"
+  },
+  {
+   "s": "palatka",
+   "p": "related_place",
+   "o": "case",
+   "quote": "St. Augustine Palatka"
+  },
+  {
+   "s": "daytona",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Daytona Beach"
+  },
+  {
+   "s": "f18",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "In January 2015, a U.S. Navy F/A-18F pilot"
+  },
+  {
+   "s": "sensor",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "(FLIR) video footage captured by an AN/ASQ sensor pod onboard the F/A-18 Super Hornet observing the event in January 2015."
+  },
+  {
+   "s": "gofast",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The Department of Defense officially released the \"Go Fast\" video in 2020. It is available"
+  },
+  {
+   "s": "resolution",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The executive summary, general overview, and conclusions are provided in the AARO \"Go Fast\" Case resolution [ref 1]."
+  },
+  {
+   "s": "appendix",
+   "p": "key_document",
+   "o": "case",
+   "quote": "For more technical details on assumptions and methodology, see Appendix A: Estimating UAP Location, Speed, and Heading from \"Go Fast\" FLIR Video Data."
+  },
+  {
+   "s": "misb_st",
+   "p": "key_document",
+   "o": "case",
+   "quote": "AARO reconstructed the F/A-18's flight path and position\nand assessed possible trajectories of the \"Go Fast\" UAP using the mathematics, standard\nmethods, and conventions defined in the National Geospatial-Intelligence Agency's (NGA)\nMotion Imagery Standards Board's UAS Datalink Local Set Standards (MISB ST 0601.19 dated\nMarch 02, 2023)"
+  },
+  {
+   "s": "f_video",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "recorded an object using a Forward Looking Infrared (FLIR) sensor about 13,000 feet"
+  },
+  {
+   "s": "f_video",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "AARO analyzed the publicly available 34-second FLIR video"
+  },
+  {
+   "s": "f_military",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In January 2015, a U.S. Navy F/A-18F pilot"
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In January 2015, a U.S. Navy F/A-18F pilot"
+  },
+  {
+   "s": "f_speed",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Reported Behavior: Moved at high speeds near the ocean's surface"
+  },
+  {
+   "s": "f_sphere",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Object Shape (assessed): Spherical or oblate ellipsoid"
+  },
+  {
+   "s": "f_sphere",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Object Shape (reported): Round"
+  },
+  {
+   "s": "f_water",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Reported Behavior: Moved at high speeds near the ocean's surface"
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In 2024, the All-domain Anomaly Resolution Office (AARO) estimated possible altitude, speed, and heading solutions for an unidentified anomalous phenomenon (UAP), commonly known as \"Go Fast.\""
+  },
+  {
+   "s": "x_misperception",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The object's apparent high speed is attributable to motion parallax."
+  },
+  {
+   "s": "aaro",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "All-domain Anomaly Resolution Office CLEARED U.S. Department of Defense"
+  },
+  {
+   "s": "dopsr",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "Department of Defense quod OFFICE OF PREPUBLICATION AND SECURITY REVIEW"
+  },
+  {
+   "s": "misb",
+   "p": "part_of",
+   "o": "nga",
+   "quote": "AARO reconstructed the F/A-18's flight path and position\nand assessed possible trajectories of the \"Go Fast\" UAP using the mathematics, standard\nmethods, and conventions defined in the National Geospatial-Intelligence Agency's (NGA)\nMotion Imagery Standards Board's UAS Datalink Local Set Standards (MISB ST 0601.19 dated\nMarch 02, 2023)"
+  },
+  {
+   "s": "misb",
+   "p": "published",
+   "o": "misb_st",
+   "quote": "AARO reconstructed the F/A-18's flight path and position\nand assessed possible trajectories of the \"Go Fast\" UAP using the mathematics, standard\nmethods, and conventions defined in the National Geospatial-Intelligence Agency's (NGA)\nMotion Imagery Standards Board's UAS Datalink Local Set Standards (MISB ST 0601.19 dated\nMarch 02, 2023)"
+  },
+  {
+   "s": "foia_room",
+   "p": "part_of",
+   "o": "navy",
+   "quote": "for public viewing at the Navy's FOIA Reading Room."
+  },
+  {
+   "s": "foia_room",
+   "p": "published",
+   "o": "gofast",
+   "quote": "for public viewing at the Navy's FOIA Reading Room."
+  },
+  {
+   "s": "dod",
+   "p": "published",
+   "o": "gofast",
+   "quote": "The Department of Defense officially released the \"Go Fast\" video in 2020. It is available"
+  },
+  {
+   "s": "navy",
+   "p": "owned",
+   "o": "f18",
+   "quote": "In January 2015, a U.S. Navy F/A-18F pilot"
+  },
+  {
+   "s": "sensor",
+   "p": "part_of",
+   "o": "f18",
+   "quote": "(FLIR) video footage captured by an AN/ASQ sensor pod onboard the F/A-18 Super Hornet observing the event in January 2015."
+  },
+  {
+   "s": "sensor",
+   "p": "recorded",
+   "o": "gofast",
+   "quote": "(FLIR) video footage captured by an AN/ASQ sensor pod onboard the F/A-18 Super Hornet observing the event in January 2015."
+  },
+  {
+   "s": "f18",
+   "p": "recorded",
+   "o": "object",
+   "quote": "In January 2015, a U.S. Navy F/A-18F pilot"
+  },
+  {
+   "s": "aaro",
+   "p": "authored",
+   "o": "resolution",
+   "quote": "The executive summary, general overview, and conclusions are provided in the AARO \"Go Fast\" Case resolution [ref 1]."
+  },
+  {
+   "s": "aaro",
+   "p": "authored",
+   "o": "appendix",
+   "quote": "This paper presents a more in-depth data analysis for those interested in the mathematics and calculations applied to the forward-looking infrared"
+  },
+  {
+   "s": "appendix",
+   "p": "part_of",
+   "o": "resolution",
+   "quote": "For more technical details on assumptions and methodology, see Appendix A: Estimating UAP Location, Speed, and Heading from \"Go Fast\" FLIR Video Data."
+  },
+  {
+   "s": "aaro",
+   "p": "proposed",
+   "o": "x_misperception",
+   "quote": "The object's apparent high speed is attributable to motion parallax."
+  },
+  {
+   "s": "resolution",
+   "p": "released_under",
+   "o": "ndaa",
+   "quote": "IAW FY24 NDAA, Section 1841(a)(1)(C)"
+  },
+  {
+   "s": "fl_coast",
+   "p": "located_in",
+   "o": "florida",
+   "quote": "Location: Eastern coast of Florida"
+  },
+  {
+   "s": "fl_coast",
+   "p": "located_in",
+   "o": "florida",
+   "quote": "displays the four flight directions on a map with the F/A-18 placed in an arbitrary location off the east coast of Florida."
+  },
+  {
+   "s": "ic",
+   "p": "partner_of",
+   "o": "aaro",
+   "quote": "AARO's Intelligence Community partner"
+  },
+  {
+   "s": "aaro",
+   "p": "described",
+   "o": "object",
+   "quote": "AARO cannot definitively identify the object, but it displayed no"
+  },
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "2015-01",
+   "quote": "Date: January 2015"
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "Location: Eastern coast of Florida"
+  },
+  {
+   "s": "case",
+   "p": "location",
+   "v": "Eastern coast of Florida",
+   "quote": "Location: Eastern coast of Florida"
+  },
+  {
+   "s": "case",
+   "p": "location",
+   "v": "above the Atlantic Ocean off the coast of Florida",
+   "quote": "above the Atlantic Ocean off the coast of"
+  },
+  {
+   "s": "case",
+   "p": "reporter",
+   "v": "U.S. Navy",
+   "quote": "Reporter: U.S. Navy"
+  },
+  {
+   "s": "case",
+   "p": "witness_description",
+   "v": "a U.S. Navy F/A-18F pilot recorded the object",
+   "quote": "In January 2015, a U.S. Navy F/A-18F pilot"
+  },
+  {
+   "s": "case",
+   "p": "sensor",
+   "v": "Forward Looking Infrared",
+   "quote": "Sensor: Forward Looking Infrared"
+  },
+  {
+   "s": "case",
+   "p": "case_number",
+   "v": "330UAP000008",
+   "quote": "Case Number: 330UAP000008"
+  },
+  {
+   "s": "case",
+   "p": "resolution_date",
+   "v": "2025-02-06",
+   "quote": "Case Resolution February 6, 2025"
+  },
+  {
+   "s": "case",
+   "p": "analysis_year",
+   "v": "2024",
+   "quote": "In 2024, the All-domain Anomaly Resolution Office (AARO) estimated possible altitude, speed, and heading solutions for an unidentified anomalous phenomenon (UAP), commonly known as \"Go Fast.\""
+  },
+  {
+   "s": "case",
+   "p": "common_name",
+   "v": "Go Fast",
+   "quote": "In 2024, the All-domain Anomaly Resolution Office (AARO) estimated possible altitude, speed, and heading solutions for an unidentified anomalous phenomenon (UAP), commonly known as \"Go Fast.\""
+  },
+  {
+   "s": "case",
+   "p": "reported_behavior",
+   "v": "Moved at high speeds near the ocean's surface",
+   "quote": "Reported Behavior: Moved at high speeds near the ocean's surface"
+  },
+  {
+   "s": "case",
+   "p": "assessed_behavior",
+   "v": "An object moving between 5 and 92 mph at approximately 13,000 feet",
+   "quote": "between 5 and 92 mph at approximately"
+  },
+  {
+   "s": "case",
+   "p": "summary_of_findings",
+   "v": "High confidence the object did not demonstrate anomalous performance characteristics",
+   "quote": "Summary of Findings: High confidence"
+  },
+  {
+   "s": "case",
+   "p": "conclusion",
+   "v": "AARO assesses the object did not demonstrate anomalous performance characteristics",
+   "quote": "The object's performance characteristics are consistent with historical wind conditions in each scenario. AARO assesses the object did not demonstrate anomalous performance characteristics."
+  },
+  {
+   "s": "case",
+   "p": "conclusion",
+   "v": "the object did not move at anomalous speeds (high confidence)",
+   "quote": "object did not move at anomalous speeds."
+  },
+  {
+   "s": "case",
+   "p": "conclusion",
+   "v": "AARO has high confidence that the UAP did not exhibit anomalous or even exceptional behavior",
+   "quote": "AARO has high confidence that the UAP did not exhibit anomalous or even exceptional behavior."
+  },
+  {
+   "s": "case",
+   "p": "identification_status",
+   "v": "AARO cannot definitively identify the object",
+   "quote": "AARO cannot definitively identify the object, but it displayed no"
+  },
+  {
+   "s": "case",
+   "p": "wind_at_13000_ft",
+   "v": "30.9 m/s (69 mph) from the west (265°)",
+   "quote": "At 13,000 feet, wind speed was 30.9 m/s (69 mph) from the west (265°)."
+  },
+  {
+   "s": "case",
+   "p": "wind_at_25000_ft",
+   "v": "52 m/s (116 mph) from the west southwest (255°)",
+   "quote": "At 25,000 feet, wind speed was 52 m/s (116 mph) from the west southwest (255°)."
+  },
+  {
+   "s": "case",
+   "p": "wind_at_25000_ft",
+   "v": "approximately 101 kts (52.0 m/s) at a heading of 255°, from the West-South-West blowing toward the East-North-East",
+   "quote": "At 25,000 ft (7,620 m), the windspeed was approximately 101 kts (52.0 m/s) at a heading of 255°, from primarily the West-South-West and blowing toward the East-North-East."
+  },
+  {
+   "s": "case",
+   "p": "wind_at_13000_ft",
+   "v": "60 kts (30.9 m/s) at a heading of 265°, primarily from the west",
+   "quote": "At 13,000 ft (3,692 m), the wind speed was 60 kts (30.9 m/s) at a heading of 265°, primarily from the west."
+  },
+  {
+   "s": "case",
+   "p": "wind_direction_difference_between_altitudes",
+   "v": "10°",
+   "quote": "direction at the altitude of the UAP (a 10° difference as shown in Figure 10)."
+  },
+  {
+   "s": "case",
+   "p": "wind_data_source",
+   "v": "historical database; data within 15-20 minutes of the reported time of the event",
+   "quote": "The data for the appropriate date and location were found and were within 15-20 minutes of the time reported with the \"Go Fast\" event."
+  },
+  {
+   "s": "case",
+   "p": "wind_data_source",
+   "v": "historical wind speeds and directions measured near the time and location of the event",
+   "quote": "AARO factored in historical wind speeds and directions at both the object's altitude (13,000 feet) and the aircraft's altitude (25,000 feet), as measured near the time and location of the event:"
+  },
+  {
+   "s": "case",
+   "p": "report_contents",
+   "v": "the UAP report and video gave only a time and general location, with no atmospheric conditions",
+   "quote": "No information on atmospheric conditions was provided with the UAP report or video, only a time and general location."
+  },
+  {
+   "s": "case",
+   "p": "analysis_method",
+   "v": "object position and direction of travel calculated for the entire range of possible wind directions (0° - 360°)",
+   "quote": "AARO calculated the object's position and direction of travel for the entire range of possible wind directions (0° - 360°) to account for"
+  },
+  {
+   "s": "case",
+   "p": "analysis_method",
+   "v": "all possible aircraft headings (0° to 360°) considered to calculate a range of possible speeds and headings",
+   "quote": "Instead, the analysis considered all possible aircraft headings (from 0° to 360°) to calculate a range of possible speeds and headings for the object."
+  },
+  {
+   "s": "case",
+   "p": "analysis_method",
+   "v": "F/A-18 flight path and resulting UAP path calculated for all wind directions between 0° and 360° at 1° increments",
+   "quote": "the F/A-18 flight path and resulting UAP path was calculated for all wind directions between 0° and 360° at 1° increments."
+  },
+  {
+   "s": "case",
+   "p": "analysis_method",
+   "v": "methodology derived from standard FMV analysis applied to data manually extracted from a publicly available .wmv video",
+   "quote": "The methodology used to analyze the \"Go Fast\" event was derived from standard FMV analysis and successfully applied to data manually extracted from a publicly available .wmv video of the FLIR sensor display of an F/A-18."
+  },
+  {
+   "s": "case",
+   "p": "analysis_limitation",
+   "v": "the aircraft's exact location and heading during the recording are unknown",
+   "quote": "The aircraft's exact location and heading (compass direction) during the recording are unknown."
+  },
+  {
+   "s": "case",
+   "p": "analysis_limitation",
+   "v": "exact position and heading of the UAP could not be calculated; no true track data in latitude and longitude and no atmospheric conditions provided",
+   "quote": "Calculations of the UAP's exact position and heading were not possible given that the true track data in latitude and longitude of the F/A-18 were not provided nor were the atmospheric conditions."
+  },
+  {
+   "s": "case",
+   "p": "analysis_limitation",
+   "v": "quantitative results should not be used literally, only to qualitatively evaluate the UAP properties",
+   "quote": "these quantitative results should not be used literally, but only to qualitatively evaluate the UAP properties."
+  },
+  {
+   "s": "case",
+   "p": "analysis_limitation",
+   "v": "compass directions cannot be referenced without knowledge of the location or heading of the F/A-18",
+   "quote": "Referencing directions such as North, South, East, and West cannot be done without knowledge of the location or heading of the F/A-18."
+  },
+  {
+   "s": "case",
+   "p": "additional_analysis",
+   "v": "AARO also analysed the video section from approximately 4233 to 4236 seconds; results were similar and do not change the assessment",
+   "quote": "AARO did analyze the short section of the video from approximately 4233 to approximately 4236 seconds where the target was acquired and the F/ A-18 flying mostly level. Results were similar to those presented here and do not change the assessment"
+  },
+  {
+   "s": "case",
+   "p": "fmv_analysis_software_mentioned",
+   "v": "SOCET GXP",
+   "quote": "For proper FMV products, standard analysis is done using software packages such as SOCET GXP [ref 2]."
+  },
+  {
+   "s": "case",
+   "p": "fmv_analysis_software_mentioned",
+   "v": "SOCET GXP is a suite of geospatial analytic software tools using satellite and airborne imagery",
+   "quote": "SOCET GXP is a suite of geospatial analytic software tools that utilize satellite and airborne imagery to measure and detect objects and phenomena."
+  },
+  {
+   "s": "case",
+   "p": "parallax_effect",
+   "v": "with a headwind and the UAP going opposite to the F/A-18, the effect is amplified and the UAP speed appears much faster",
+   "quote": "With a headwind and the UAP going in the opposite direction of the F/A-18, this affect is amplified and the UAP speed appears much faster leading to higher likelihood of misinterpretation."
+  },
+  {
+   "s": "case",
+   "p": "parallax_effect",
+   "v": "the projected distance being longer than the actual distance travelled at 3,962 m causes the perceived high speed in the video",
+   "quote": "The longer the projected distance (red arrow) compared to the actual distance traveled (black arrow) at 3,962 m causes the perceived high speed of the UAP in the video."
+  },
+  {
+   "s": "x_misperception",
+   "p": "detail",
+   "v": "motion parallax",
+   "quote": "Motion parallax is an optical effect that induces an observer to perceive that a stationary or slow-moving object is moving much faster than that the subject object's actual speed when viewed from a moving frame of"
+  },
+  {
+   "s": "x_misperception",
+   "p": "detail",
+   "v": "the effect is more pronounced the more quickly the observer moves relative to the object",
+   "quote": "The more quickly an observer moves relative to an observed object, the more pronounced this effect is."
+  },
+  {
+   "s": "x_misperception",
+   "p": "detail",
+   "v": "UAP apparent high speed due to parallax is amplified when the F/A-18 flies into the wind",
+   "quote": "With the F/A-18 flying into the wind, the UAP apparent high speed due to parallax (right) is amplified compared to the results with no wind at all (left)."
+  },
+  {
+   "s": "aaro",
+   "p": "statement",
+   "v": "assesses with high confidence the object did not demonstrate anomalous performance characteristics",
+   "quote": "AARO assesses the object did not demonstrate anomalous performance characteristics."
+  },
+  {
+   "s": "aaro",
+   "p": "statement",
+   "v": "there is a range of winds where the object is moving generally at windspeed and in the direction of the wind",
+   "quote": "AARO notes that there is a range of winds where the object is moving generally at windspeed and in the direction of the wind."
+  },
+  {
+   "s": "aaro",
+   "p": "statement",
+   "v": "these GEOINT techniques can be applied to a range of UAP case studies and will be incorporated into AARO tradecraft",
+   "quote": "These foundational GEOINT techniques can be applied to a range of UAP case studies and will be incorporated into AARO tradecraft."
+  },
+  {
+   "s": "aaro",
+   "p": "statement",
+   "v": "could not calculate a single speed or heading for the object",
+   "quote": "AARO could not calculate a single speed or heading for the object because the aircraft's calculated flight path depends on its exact heading, and the object's calculated location depends on the aircraft's location."
+  },
+  {
+   "s": "aaro",
+   "p": "statement",
+   "v": "could not determine the object's size",
+   "quote": "AARO could not determine the object's size due to the video's low resolution and the range from the sensor to the object."
+  },
+  {
+   "s": "aaro",
+   "p": "statement",
+   "v": "a complete set of data to fully solve for the location, speed, and heading of the UAP was not available",
+   "quote": "Although a complete set of data to fully solve for the location, speed, and heading of the \"Go Fast\" UAP was not available at the time of this writing"
+  },
+  {
+   "s": "aaro",
+   "p": "data_used",
+   "v": "manually extracted data from a publicly available video of the event",
+   "quote": "AARO manually extracted data from a publicly available video of the \"Go Fast\" event as the source material to conduct its analysis."
+  },
+  {
+   "s": "ic",
+   "p": "finding",
+   "v": "pixel analysis suggested the object was one meter or less in size",
+   "quote": "However, pixel analysis (a method of measuring an object's size based on pixels relative to an object known dimensions) by AARO's Intelligence Community partner suggested the object was one meter or less in size - comparable to a small drone or bird."
+  },
+  {
+   "s": "object",
+   "p": "designation",
+   "v": "unidentified anomalous phenomenon (UAP), commonly known as \"Go Fast\"",
+   "quote": "In 2024, the All-domain Anomaly Resolution Office (AARO) estimated possible altitude, speed, and heading solutions for an unidentified anomalous phenomenon (UAP), commonly known as \"Go Fast.\""
+  },
+  {
+   "s": "object",
+   "p": "altitude_reported",
+   "v": "Near ocean's surface",
+   "quote": "Object Altitude (reported): Near ocean's"
+  },
+  {
+   "s": "object",
+   "p": "altitude_assessed",
+   "v": "13,000 feet",
+   "quote": "Object Altitude (assessed): 13,000 feet"
+  },
+  {
+   "s": "object",
+   "p": "altitude",
+   "v": "approximately 3,962 m (13,000 ft) above sea level",
+   "quote": "The UAP altitude was found to be ≈3,962 m (13,000 ft) above sea level."
+  },
+  {
+   "s": "object",
+   "p": "altitude_confidence",
+   "v": "high confidence; required only the sensor pointing angles and range to target",
+   "quote": "There is high confidence in this result as it required only the sensor pointing angles and range to target."
+  },
+  {
+   "s": "object",
+   "p": "speed_reported",
+   "v": "Appeared to move at high speeds",
+   "quote": "The video appeared to show the object moving"
+  },
+  {
+   "s": "object",
+   "p": "speed_assessed",
+   "v": "5 mph - 92 mph",
+   "quote": "Object Speed (assessed): 5 mph - 92 mph"
+  },
+  {
+   "s": "object",
+   "p": "speed",
+   "v": "about 32 m/s (72 mph) to 72 m/s (161 mph) depending on its heading relative to the wind",
+   "quote": "32 m/s (72 mph) to 72 m/s (161 mph)"
+  },
+  {
+   "s": "object",
+   "p": "speed_wind_compensated",
+   "v": "approximately 2 m/s (5 mph) to 41.3 m/s (92 mph)",
+   "quote": "speed, its approximate speed range is 2 m/s (5 mph) to 41.3 m/s (92 mph)."
+  },
+  {
+   "s": "object",
+   "p": "shape_reported",
+   "v": "Round",
+   "quote": "Object Shape (reported): Round"
+  },
+  {
+   "s": "object",
+   "p": "shape_assessed",
+   "v": "Spherical or oblate ellipsoid",
+   "quote": "Object Shape (assessed): Spherical or oblate ellipsoid"
+  },
+  {
+   "s": "object",
+   "p": "size",
+   "v": "one meter or less (pixel analysis)",
+   "quote": "However, pixel analysis (a method of measuring an object's size based on pixels relative to an object known dimensions) by AARO's Intelligence Community partner suggested the object was one meter or less in size - comparable to a small drone or bird."
+  },
+  {
+   "s": "object",
+   "p": "size_comparison",
+   "v": "comparable to a small drone or bird",
+   "quote": "However, pixel analysis (a method of measuring an object's size based on pixels relative to an object known dimensions) by AARO's Intelligence Community partner suggested the object was one meter or less in size - comparable to a small drone or bird."
+  },
+  {
+   "s": "object",
+   "p": "size",
+   "v": "could not be determined by AARO due to low video resolution and range",
+   "quote": "AARO could not determine the object's size due to the video's low resolution and the range from the sensor to the object."
+  },
+  {
+   "s": "object",
+   "p": "heading_deviation_from_wind",
+   "v": "as much as 32°, though most simulations showed significantly less difference",
+   "quote": "The object's heading deviated as much as 32° from wind direction, though most simulations conducted during AARO's analysis showed significantly less difference."
+  },
+  {
+   "s": "object",
+   "p": "heading_deviation_from_wind",
+   "v": "maximum 32.1°",
+   "quote": "The maximum deviation in the UAP's direction of travel from wind direction is 32.1°."
+  },
+  {
+   "s": "object",
+   "p": "movement_relative_to_wind",
+   "v": "did not move against the wind in any simulation",
+   "quote": "The object did not move against the wind in any simulation."
+  },
+  {
+   "s": "object",
+   "p": "movement_relative_to_wind",
+   "v": "at two wind angles the UAP is moving exactly with the wind",
+   "quote": "Note that there are two angles where the difference is 0° indicating the UAP is moving exactly with the wind."
+  },
+  {
+   "s": "object",
+   "p": "movement_relative_to_wind",
+   "v": "in each of the four wind cases the UAP is headed in the same general direction as the wind",
+   "quote": "Note than in each case, the UAP is headed in the same general\ndirection as the wind at the altitude of the F/A -18 (7,620 m)"
+  },
+  {
+   "s": "object",
+   "p": "identification",
+   "v": "cannot be definitively identified; displayed no anomalous performance characteristics",
+   "quote": "AARO cannot definitively identify the object, but it displayed no"
+  },
+  {
+   "s": "object",
+   "p": "location_note",
+   "v": "the object is not on the ground",
+   "quote": "video, the object is not on the ground and the sensor/aircraft location is not provided in the metadata."
+  },
+  {
+   "s": "object",
+   "p": "range_from_aircraft",
+   "v": "4.0 NM at t1 (4239 seconds), closing to 3.4 NM at t2 (4252 seconds)",
+   "quote": "the F/A-18's range to the UAP was 4.0 NM and closed in range to\n3.4 NM"
+  },
+  {
+   "s": "object",
+   "p": "range_from_aircraft",
+   "v": "4.0 NM (7408 m) at frame 1; 3.4 NM (6297 m) at frame 2",
+   "quote": "Range to Target 4.0 NM 7408 m 3.4 NM 6297 m"
+  },
+  {
+   "s": "object",
+   "p": "relative_position_t1",
+   "v": "4,251 m ahead, 4,890 m to the left and 3,591 m below the F/A-18",
+   "quote": "means that the UAP was located 4,251 m ahead, 4,890 m to the left (the y-coordinate is negative), and 3,591 m below"
+  },
+  {
+   "s": "object",
+   "p": "altitude_t1",
+   "v": "4,029 m (13,219 ft)",
+   "quote": "At 3,591 m below the F/A-18 the UAP was at an altitude of 4,029 m (13,219 ft)."
+  },
+  {
+   "s": "object",
+   "p": "relative_position_t2",
+   "v": "2,049 m ahead of, 4,734 m to the left of, and 3,612 m below the F/A-18's position at t2",
+   "quote": "This means the UAP was 2,049 m ahead of, 4,734 m to the left of, and 3,612 m below the F/A-"
+  },
+  {
+   "s": "object",
+   "p": "position_t2",
+   "v": "[4,510, -4,941, 3,612] m",
+   "quote": "[2,049, -4,734,3,612] + [2,461, - 207,0] = [4,510, -4,941,3,612]"
+  },
+  {
+   "s": "object",
+   "p": "altitude_t2",
+   "v": "4,008 m (13,150 ft)",
+   "quote": "The UAP was 3,612 m below the F/A-18, or at an altitude of 4,008 m (13,150 ft), very close to"
+  },
+  {
+   "s": "object",
+   "p": "flight_path",
+   "v": "moved in a mostly level path",
+   "quote": "or at an altitude of 4,008 m (13,150 ft), very close to\nthe altitude at t₁ indicating the UAP moved in a mostly level path."
+  },
+  {
+   "s": "object",
+   "p": "distance_travelled",
+   "v": "265 m between t1 and t2 (two-point analysis)",
+   "quote": "= √67,081 + 2,601 + 441 = 265 m"
+  },
+  {
+   "s": "object",
+   "p": "speed_no_wind_two_point",
+   "v": "about 20 m/s or 45 mph over the 13 seconds",
+   "quote": "Dividing this distance by the 13 seconds elapsed between t₁ and t₂ gave an estimated speed of\nabout 20 m/s or 45 mph."
+  },
+  {
+   "s": "object",
+   "p": "speed_no_wind_two_point",
+   "v": "20.4 m/s (45.6 mph) over 265 m",
+   "quote": "First / Last Frame [4251, -4890, 3591] m [4510, -4941, 3612] m 265 m 20.4 m/s (45.6 mph)"
+  },
+  {
+   "s": "object",
+   "p": "speed_no_wind_continuous_path",
+   "v": "17.4 m/s (38.9 mph) over 226 m",
+   "quote": "Continuous Path [4284, -4889, 3601] m [4500, -4953, 3592] m 226 m 17.4 m/s (38.9 mph)"
+  },
+  {
+   "s": "object",
+   "p": "heading_no_wind",
+   "v": "same general direction as the F/A-18 but about 9 times slower",
+   "quote": "The UAP heading is forward along the +x-axis and slightly in the negative y direction, moving in the same general direction as the F/A-18 (-9.6°) but about 9 times slower."
+  },
+  {
+   "s": "object",
+   "p": "flight_path",
+   "v": "relatively straight path in the x-y plane",
+   "quote": "The UAP's direction of travel is a relatively straight path from the top left to the bottom right."
+  },
+  {
+   "s": "object",
+   "p": "altitude_profile",
+   "v": "rising about 10 m (30 ft) with a slow, curving descent near the end",
+   "quote": "provided in Figure 9 and shows the UAP rising about 10 m (30 ft) with a slow, curving descent"
+  },
+  {
+   "s": "object",
+   "p": "altitude_profile",
+   "v": "slow rise over most of the path with a slight descent in the last few seconds",
+   "quote": "The altitude of the UAP as a function of time indicates a slow rise over most of the path with a slight descent in the last few seconds."
+  },
+  {
+   "s": "object",
+   "p": "flight_path",
+   "v": "bends at the end may indicate a slight change of direction but are more likely residual error in the F/A-18 flight path estimate",
+   "quote": "The bends at the end of both curves may indicate a slight change of direction but is more likely due to residual error in the estimation of the F/A-18 flight path."
+  },
+  {
+   "s": "object",
+   "p": "intrinsic_speed_definition",
+   "v": "speed that cannot be accounted for by the wind pushing it, assumed inherent to the UAP (e.g. a propulsion system)",
+   "quote": "UAP represents the speed that cannot be accounted for by the wind \"pushing\" it and assumed to be inherent with the UAP (e.g. a propulsion system)."
+  },
+  {
+   "s": "object",
+   "p": "intrinsic_speed_minimum",
+   "v": "1.9 m/s at a wind direction of 175° relative to the F/A-18",
+   "quote": "1.9 m/s at 175°"
+  },
+  {
+   "s": "object",
+   "p": "intrinsic_speed_maximum",
+   "v": "41.3 m/s at a wind direction of 0°/360° relative to the F/A-18",
+   "quote": "41.3 m/s at 0°/360°"
+  },
+  {
+   "s": "object",
+   "p": "intrinsic_speed_extremes",
+   "v": "minimum near the headwind case, maximum in the tailwind case",
+   "quote": "The minimum intrinsic speed occurs near the case of the headwind, and maximum in the case of a tailwind."
+  },
+  {
+   "s": "object",
+   "p": "intrinsic_speed_extremes",
+   "v": "lowest possible speed near a headwind, highest in a tailwind",
+   "quote": "The object's lowest possible speed occurs near a headwind while the highest occurs in a tailwind."
+  },
+  {
+   "s": "object",
+   "p": "intrinsic_speed_zero_meaning",
+   "v": "an intrinsic speed of 0 m/s means the object is moving with the wind, or about 30.9 m/s",
+   "quote": "An intrinsic speed of 0 m/s indicates that the object is moving with the wind, or about 30.9 m/s."
+  },
+  {
+   "s": "object",
+   "p": "speed_headwind_scenario",
+   "v": "2.0 m/s (5 mph) faster than the wind, heading 5° off-wind",
+   "quote": "The object moved 2.0 m/s (5 mph) faster than the wind, at a heading of 5° off-wind."
+  },
+  {
+   "s": "object",
+   "p": "speed_left_crosswind_scenario",
+   "v": "26.5 m/s (59 mph) faster than the wind, heading 31.5° off-wind",
+   "quote": "The object moved 26.5 m/s (59 mph) faster than the wind, heading 31.5° off-wind."
+  },
+  {
+   "s": "object",
+   "p": "speed_tailwind_scenario",
+   "v": "41.3 m/s (92 mph) faster than the wind, heading 12.3° off-wind",
+   "quote": "The object moved 41.3 m/s (92 mph) faster than the wind, heading 12.3° off-wind."
+  },
+  {
+   "s": "object",
+   "p": "speed_right_crosswind_scenario",
+   "v": "27.7 m/s (62 mph) faster than the wind, heading 9.5° off-wind",
+   "quote": "The object moved 27.7 m/s (62 mph) faster than the wind, heading 9.5° off-wind."
+  },
+  {
+   "s": "object",
+   "p": "table_iii_tailwind",
+   "v": "distance travelled 928.8 m; UAP heading -2.3°; -12.3° from wind; intrinsic speed 41.25 m/s",
+   "quote": "0° (Tailwind) 928.8 30.9 10° -2.3° -12.3° 41.25"
+  },
+  {
+   "s": "object",
+   "p": "table_iii_left_crosswind",
+   "v": "distance travelled 687 m; UAP heading 68.4°; -31.6° from wind; intrinsic speed 26.50 m/s",
+   "quote": "90° (from Left) 687 30.9 100° 68.4° -31.6° 26.50"
+  },
+  {
+   "s": "object",
+   "p": "table_iii_headwind",
+   "v": "distance travelled 425.7 m; UAP heading 185°; -5.0° from wind; intrinsic speed 2.00 m/s",
+   "quote": "180° (Headwind) 425.7 30.9 190° 185° -5.0° 2.00"
+  },
+  {
+   "s": "object",
+   "p": "table_iii_right_crosswind",
+   "v": "distance travelled 756.3 m; UAP heading 289.5°; +9.5° from wind; intrinsic speed 27.70 m/s",
+   "quote": "270° (from Right) 756.3 30.9 280° 289.5° +9.5° 27.70"
+  },
+  {
+   "s": "object",
+   "p": "true_speed_headwind_scenario",
+   "v": "32.8 m/s at 260.0°",
+   "quote": "32.8 m/s, 260.0°"
+  },
+  {
+   "s": "object",
+   "p": "true_speed_left_crosswind_scenario",
+   "v": "52.8 m/s at 233.5°",
+   "quote": "52.8 m/s, 233.5°"
+  },
+  {
+   "s": "object",
+   "p": "true_speed_tailwind_scenario",
+   "v": "71.5 m/s at 252.7°",
+   "quote": "71.5 m/s, 252.7°"
+  },
+  {
+   "s": "object",
+   "p": "true_speed_right_crosswind_scenario",
+   "v": "58.1 m/s at 274.5°",
+   "quote": "58.1 m/s, 274.5°"
+  },
+  {
+   "s": "object",
+   "p": "behavior_headwind_scenario",
+   "v": "going in nearly the same direction and at the same speed as the wind",
+   "quote": "The direction of flight and speed of the UAP in the case of the F/A-18 flying into a headwind. The UAP is going in nearly the same direction and at the same speed as the wind."
+  },
+  {
+   "s": "object",
+   "p": "behavior_left_crosswind_scenario",
+   "v": "going faster than the wind and in a more northerly direction",
+   "quote": "The direction of flight and speed of the UAP in the case of a crosswind from the left side of the F/A-18. The UAP is going faster than the wind and in a more northerly direction."
+  },
+  {
+   "s": "object",
+   "p": "behavior_tailwind_scenario",
+   "v": "going over twice as fast as the wind in somewhat the same direction",
+   "quote": "The direction of flight and speed of the UAP in the case of the F/A-18 flying with a tailwind. The UAP is going over twice as fast as the wind in somewhat the same direction."
+  },
+  {
+   "s": "object",
+   "p": "behavior_right_crosswind_scenario",
+   "v": "going much faster than the wind but in nearly the same direction",
+   "quote": "The direction of flight and speed of the UAP in the case of a crosswind from the right of the F/A-18. The UAP is going much faster than the wind but in nearly the same direction."
+  },
+  {
+   "s": "object",
+   "p": "conclusion_headwind",
+   "v": "heading within 5° of the wind direction and <2 m/s (4.5 mph, 3.9 kts) faster than the wind",
+   "quote": "the UAP was determined to be heading within 5° of the wind direction at its altitude and <2 m/s (4.5 mph, 3.9 kts) faster than the wind."
+  },
+  {
+   "s": "object",
+   "p": "conclusion_other_wind_angles",
+   "v": "as far as 27.0° from the wind direction and as much as 40 m/s (89 mph, 78 kts) faster",
+   "quote": "the UAP was as far as 27.0° from the wind direction and as much as 40 m/s (89 mph, 78 kts) faster (see Table III)."
+  },
+  {
+   "s": "object",
+   "p": "behavior_no_wind",
+   "v": "moving in the same direction as the F/A-18 albeit much slower",
+   "quote": "In the case with no wind, the UAP is moving in the same direction as the F/A-18 albeit much slower."
+  },
+  {
+   "s": "object",
+   "p": "behavior_headwind_scenario",
+   "v": "the F/A-18 and the UAP would be moving in opposite directions",
+   "quote": "When the F/A-18 is flying into a headwind as shown in Figure 16, it and the UAP would be moving in opposite directions."
+  },
+  {
+   "s": "f18",
+   "p": "operator",
+   "v": "U.S. Navy",
+   "quote": "In January 2015, a U.S. Navy F/A-18F pilot"
+  },
+  {
+   "s": "f18",
+   "p": "altitude",
+   "v": "25,000 feet",
+   "quote": "and the aircraft's altitude (25,000 feet), as measured near the time and location of the event:"
+  },
+  {
+   "s": "f18",
+   "p": "altitude",
+   "v": "25,000 ft (7620 m) at frame 1; 25,010 ft (7623 m) at frame 2",
+   "quote": "Aircraft Altitude 25,000 ft 7620 m 25,010 ft 7623 m"
+  },
+  {
+   "s": "f18",
+   "p": "average_altitude",
+   "v": "7,621 m",
+   "quote": "average aircraft altitude of 7,621 m was assumed over this time frame."
+  },
+  {
+   "s": "f18",
+   "p": "speed",
+   "v": "Mach 0.61 (188 m/s) at frame 1; Mach 0.62 (191 m/s) at frame 2",
+   "quote": "Aircraft Velocity 0.61 M 188 m/s* 0.62 M 191 m/s*"
+  },
+  {
+   "s": "f18",
+   "p": "average_speed",
+   "v": "about 190 m/s",
+   "quote": "number was converted to m/s [ref 5] at the altitude of the F/A-18, resulting in an average speed of about 190 m/s over the time frame."
+  },
+  {
+   "s": "f18",
+   "p": "speed_of_sound_assumption",
+   "v": "601 knots at 25,000 ft",
+   "quote": "*-assumes speed of sound (M=1) at 25,000 ft is 601 knots [ref 5]"
+  },
+  {
+   "s": "f18",
+   "p": "bank_angle",
+   "v": "approximately 14°",
+   "quote": "This angle, denoted by Θв, was approximately 14°"
+  },
+  {
+   "s": "f18",
+   "p": "bank_angle",
+   "v": "14° bank, turning in a curved path",
+   "quote": "Because the aircraft was banking at 14° between t₁ and t₂, it was turning in a\ncurved path while moving at an average speed of 190 m/s."
+  },
+  {
+   "s": "f18",
+   "p": "flight_state",
+   "v": "bank angle, altitude, and airspeed remained nearly constant during the analysed segment",
+   "quote": "the aircraft's bank angle, altitude, and airspeed remained nearly"
+  },
+  {
+   "s": "f18",
+   "p": "radius_of_curvature",
+   "v": "14,759 m",
+   "quote": "radius of curvature Rc was found to be 14,759 m."
+  },
+  {
+   "s": "f18",
+   "p": "distance_travelled",
+   "v": "2,470 m in 13 seconds at 190 m/s",
+   "quote": "traveled in the partial circle by the F/A-18 moving at 190 m/s over 13 seconds is 2,470 m."
+  },
+  {
+   "s": "f18",
+   "p": "full_circle_circumference",
+   "v": "92,736 m",
+   "quote": "Had\nthe aircraft kept flying to complete a circle, it would have traveled 2·π·Rc or 92,736 m."
+  },
+  {
+   "s": "f18",
+   "p": "yaw_change",
+   "v": "-9.6° (2.66% of a 360° circle)",
+   "quote": "Therefore, only 2.66% of a 360° circle was completed thus φ = 9.6°."
+  },
+  {
+   "s": "f18",
+   "p": "yaw_change",
+   "v": "-9.6° (counterclockwise, so negative)",
+   "quote": "Since the yaw is\ncounterclockwise, away from the positive y-axis, it is a negative value, or φ = -9.6°."
+  },
+  {
+   "s": "f18",
+   "p": "role",
+   "v": "F/A-18 Super Hornet observing the event in January 2015",
+   "quote": "(FLIR) video footage captured by an AN/ASQ sensor pod onboard the F/A-18 Super Hornet observing the event in January 2015."
+  },
+  {
+   "s": "gofast",
+   "p": "analysed_frames",
+   "v": "frames at 4239 seconds and 4252 seconds, 13 seconds apart",
+   "quote": "Table I: Data extracted from frames at 4239 seconds and 4252 seconds in the \"Go Fast\" video."
+  },
+  {
+   "s": "f18",
+   "p": "displacement_at_t2",
+   "v": "[2,461, -207, 0] m: 2,461 meters ahead and 207 meters left of its t1 position",
+   "quote": "the aircraft's displacement was [2,461, -207"
+  },
+  {
+   "s": "f18",
+   "p": "heading",
+   "v": "exact location and heading during the recording are unknown",
+   "quote": "The aircraft's exact location and heading (compass direction) during the recording are unknown."
+  },
+  {
+   "s": "f18",
+   "p": "heading",
+   "v": "the video display does not contain the aircraft's heading",
+   "quote": "AARO calculated the object's speed and heading relative to the aircraft because the video display does not contain the aircraft's heading."
+  },
+  {
+   "s": "f18",
+   "p": "wind_effect",
+   "v": "wind assumed constant over the 13 second interval pushes the F/A-18 from its no-wind flight path",
+   "quote": "Assuming the wind is constant over the 13 second interval, the wind will essentially \"push\" the F/A-18 in the direction of the wind from its calculated flight path with no wind."
+  },
+  {
+   "s": "f18",
+   "p": "airspeed_note",
+   "v": "the Mach number on the sensor display is relative air speed and does not consider ambient wind velocity",
+   "quote": "The speed on the sensor display in Mach number represents the relative air speed of the aircraft and does not consider the ambient wind velocity."
+  },
+  {
+   "s": "f18",
+   "p": "map_placement",
+   "v": "placed in an arbitrary location off the east coast of Florida for visualization",
+   "quote": "displays the four flight directions on a map with the F/A-18 placed in an arbitrary location off the east coast of Florida."
+  },
+  {
+   "s": "sensor",
+   "p": "sensor_type",
+   "v": "Forward Looking Infrared (FLIR)",
+   "quote": "recorded an object using a Forward Looking Infrared (FLIR) sensor about 13,000 feet"
+  },
+  {
+   "s": "sensor",
+   "p": "display_fields",
+   "v": "range to target; FLIR azimuth and elevation; aircraft altitude, speed and bank angle",
+   "quote": "The display showed: The range (distance) from the FLIR sensor to the target. The FLIR camera's azimuth (left-right angle) and elevation (up-down angle). The aircraft's altitude, speed, and tilt (bank angle)."
+  },
+  {
+   "s": "sensor",
+   "p": "azimuth",
+   "v": "49° at frame 1 (4239 sec); 57° at frame 2 (4252 sec)",
+   "quote": "Sensor Azimuth 49° 49° 57° 57°"
+  },
+  {
+   "s": "sensor",
+   "p": "azimuth",
+   "v": "pointing 49° to the left at t1",
+   "quote": "the sensor is pointing 49° to the left (designated by the \"L\"), which is a negative angle in the"
+  },
+  {
+   "s": "sensor",
+   "p": "elevation",
+   "v": "-29° at frame 1 (4239 sec); -35° at frame 2 (4252 sec)",
+   "quote": "Sensor Elevation -29° -29° -35° -35°"
+  },
+  {
+   "s": "sensor",
+   "p": "angles_at_t2",
+   "v": "elevation -35° and azimuth -57°",
+   "quote": "the sensor elevation and azimuth angles were ß = -\n35° and γ = -57°, respectively."
+  },
+  {
+   "s": "sensor",
+   "p": "display_precision",
+   "v": "most values shown as integers",
+   "quote": "The sensor pod display shows most of these values as integers, limiting the fidelity of the initial calculations."
+  },
+  {
+   "s": "sensor",
+   "p": "display_precision",
+   "v": "range and sensor angles only accurate to a single decimal place",
+   "quote": "because the range from the sensor to the object and the sensor angles are only accurate to a single decimal place."
+  },
+  {
+   "s": "sensor",
+   "p": "target_track",
+   "v": "tracker acquired a target track on the UAP from 4232 seconds until the end of the video",
+   "quote": "until the end of the video, the tracker acquired a target track on the UAP, enabling the range to"
+  },
+  {
+   "s": "sensor",
+   "p": "intended_use",
+   "v": "not required to collect Full-Motion Video (FMV) or other ISR products; not intended to support intelligence or other rigorous analysis",
+   "quote": "Video footage collected via military sensors, like the AN/ASQ, are not required to collect Full-\nMotion Video (FMV) or other Intelligence Surveillance and Reconnaissance (ISR) products.\nTherefore, it is not intended to support intelligence or other rigorous analysis."
+  },
+  {
+   "s": "sensor",
+   "p": "bank_angle_handling",
+   "v": "aircraft bank (roll) angle is included in the sensor's elevation and angles",
+   "quote": "For this FLIR sensor, the bank\n(or roll) angle of the aircraft is included in the elevation and angles of the sensor and not treated\nseparately."
+  },
+  {
+   "s": "gofast",
+   "p": "release_year",
+   "v": "2020",
+   "quote": "The Department of Defense officially released the \"Go Fast\" video in 2020. It is available"
+  },
+  {
+   "s": "gofast",
+   "p": "released_by",
+   "v": "Department of Defense",
+   "quote": "The Department of Defense officially released the \"Go Fast\" video in 2020. It is available"
+  },
+  {
+   "s": "gofast",
+   "p": "available_at",
+   "v": "the Navy's FOIA Reading Room",
+   "quote": "for public viewing at the Navy's FOIA Reading Room."
+  },
+  {
+   "s": "gofast",
+   "p": "recorded",
+   "v": "January 2015",
+   "quote": "In January 2015, a U.S. Navy F/A-18F pilot"
+  },
+  {
+   "s": "gofast",
+   "p": "duration",
+   "v": "34 seconds",
+   "quote": "AARO analyzed the publicly available 34-second FLIR video, because the original file and its accompanying metadata are no longer available."
+  },
+  {
+   "s": "gofast",
+   "p": "original_file_status",
+   "v": "original file and its accompanying metadata are no longer available",
+   "quote": "AARO analyzed the publicly available 34-second FLIR video, because the original file and its accompanying metadata are no longer available."
+  },
+  {
+   "s": "gofast",
+   "p": "file_format",
+   "v": "compressed Windows Media File (.wmv)",
+   "quote": "The only data available to AARO from the \"Go Fast\" event were from a compressed Windows Media File (.wmv) [ref 4]."
+  },
+  {
+   "s": "gofast",
+   "p": "url",
+   "v": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/2020-04/3%20-%20GOFAST.wm",
+   "quote": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/2020-04/3%20-%20GOFAST.wm"
+  },
+  {
+   "s": "gofast",
+   "p": "frame_rate",
+   "v": "30 Hz (0.033 seconds between frames)",
+   "quote": "The metadata did provide relative frame times, with 0.033 seconds elapsing between frames in the 30 Hz video."
+  },
+  {
+   "s": "gofast",
+   "p": "analysed_excerpt",
+   "v": "13-second excerpt between 4239 seconds (t1) and 4252 seconds (t2)",
+   "quote": "Within this portion AARO focused its analysis on a 13-second excerpt from the\nfootage between 4239 seconds (\"t₁\") and 4252 seconds"
+  },
+  {
+   "s": "gofast",
+   "p": "apparent_content",
+   "v": "appeared to show the object moving at high speed",
+   "quote": "The video appeared to show the object moving"
+  },
+  {
+   "s": "gofast",
+   "p": "metadata_limitation",
+   "v": "metadata does not contain the F/A-18's georeferenced position and heading",
+   "quote": "The recording's metadata does not contain the F/A-18's georeferenced position and heading, which are necessary to determine the UAP's absolute position and flight characteristics."
+  },
+  {
+   "s": "gofast",
+   "p": "metadata_limitation",
+   "v": "the sensor/aircraft location is not provided in the metadata",
+   "quote": "video, the object is not on the ground and the sensor/aircraft location is not provided in the metadata."
+  },
+  {
+   "s": "gofast",
+   "p": "quality",
+   "v": "footage from these platforms often contains compression artifacts or lacks necessary metadata",
+   "quote": "footage from these platforms often contains compression artifacts or lacks the necessary metadata to conduct an exhaustive analysis."
+  },
+  {
+   "s": "gofast",
+   "p": "quality",
+   "v": "low resolution",
+   "quote": "AARO could not determine the object's size due to the video's low resolution and the range from the sensor to the object."
+  },
+  {
+   "s": "gofast",
+   "p": "sufficiency",
+   "v": "the video display provided sufficient information to assess the object's altitude and a range of possible speeds",
+   "quote": "The video display provided sufficient information to assess the object's altitude and a range of possible speeds."
+  },
+  {
+   "s": "resolution",
+   "p": "date",
+   "v": "2025-02-06",
+   "quote": "Case Resolution February 6, 2025"
+  },
+  {
+   "s": "resolution",
+   "p": "case_number",
+   "v": "330UAP000008",
+   "quote": "Case Number: 330UAP000008"
+  },
+  {
+   "s": "resolution",
+   "p": "classification",
+   "v": "UNCLASSIFIED",
+   "quote": "Page determined to be Unclassified"
+  },
+  {
+   "s": "resolution",
+   "p": "cleared_for_open_publication",
+   "v": "Feb 06, 2025",
+   "quote": "For Open Publication AARO Case: \"Go Fast\" Feb 06, 2025"
+  },
+  {
+   "s": "resolution",
+   "p": "reviewed_by",
+   "v": "Chief of Staff, AARO",
+   "quote": "Reviewed by Chief of Staff, AARO"
+  },
+  {
+   "s": "resolution",
+   "p": "review_date",
+   "v": "2/14/2025",
+   "quote": "Page determined to be Unclassified Date: 2/14/2025 Reviewed by Chief of Staff, AARO"
+  },
+  {
+   "s": "resolution",
+   "p": "release_status",
+   "v": "Released in Full",
+   "quote": "Released in Full: X"
+  },
+  {
+   "s": "resolution",
+   "p": "release_authority",
+   "v": "FY24 NDAA, now codified at 44 U.S.C. 2107",
+   "quote": "Authority: FY24 NDAA, now codified at 44 U.S.C. 2107"
+  },
+  {
+   "s": "ndaa",
+   "p": "codified_at",
+   "v": "44 U.S.C. 2107",
+   "quote": "Authority: FY24 NDAA, now codified at 44 U.S.C. 2107"
+  },
+  {
+   "s": "ndaa",
+   "p": "section_cited",
+   "v": "Section 1841(a)(1)(C)",
+   "quote": "IAW FY24 NDAA, Section 1841(a)(1)(C)"
+  },
+  {
+   "s": "appendix",
+   "p": "date",
+   "v": "2025-02",
+   "quote": "Appendix A: Estimating UAP Location, Speed, and Heading from \"Go Fast\" FLIR Video Data February 2025"
+  },
+  {
+   "s": "appendix",
+   "p": "purpose",
+   "v": "more in-depth data analysis of the mathematics and calculations applied to the FLIR video footage",
+   "quote": "This paper presents a more in-depth data analysis for those interested in the mathematics and calculations applied to the forward-looking infrared"
+  },
+  {
+   "s": "appendix",
+   "p": "content",
+   "v": "step-by-step calculations to estimate the motion characteristics of the UAP from the same video accessible by the public",
+   "quote": "Step-by-step calculations are provided in this paper to estimate the motion characteristics of the UAP in the \"Go Fast\" event from the same video accessible by the"
+  },
+  {
+   "s": "misb_st",
+   "p": "date",
+   "v": "2023-03-02",
+   "quote": "AARO reconstructed the F/A-18's flight path and position\nand assessed possible trajectories of the \"Go Fast\" UAP using the mathematics, standard\nmethods, and conventions defined in the National Geospatial-Intelligence Agency's (NGA)\nMotion Imagery Standards Board's UAS Datalink Local Set Standards (MISB ST 0601.19 dated\nMarch 02, 2023)"
+  },
+  {
+   "s": "misb_st",
+   "p": "use",
+   "v": "coordinate system axes defined consistent with MISB ST 0601.19",
+   "quote": "The axes of this system were defined in a manner consistent with the MISB ST 0601.19 [ref 3, p. 12]"
+  },
+  {
+   "s": "jaxbeach",
+   "p": "map_note",
+   "v": "locations and path lengths on the map are notional and not to scale",
+   "quote": "Locations and path lengths are notional and not to scale Jacksonville Beach"
+  },
+  {
+   "s": "dopsr",
+   "p": "role",
+   "v": "stamp clearing the document for open publication",
+   "quote": "Department of Defense quod OFFICE OF PREPUBLICATION AND SECURITY REVIEW"
+  }
+ ]
+}
