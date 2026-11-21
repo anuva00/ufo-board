@@ -1,0 +1,2110 @@
+{
+ "slug": "rendlesham-forest-incident",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Rendlesham Forest incident",
+   "aliases": [
+    "Britain's Roswell",
+    "Rendlesham incident"
+   ],
+   "description": "Series of reported sightings of unexplained lights near Rendlesham Forest, Suffolk, England, in December 1980, linked with alleged UFO landings."
+  },
+  {
+   "key": "halt",
+   "type": "person",
+   "name": "Charles I. Halt",
+   "aliases": [
+    "Lieutenant Colonel Charles I. Halt",
+    "Lt. Col. Charles Halt",
+    "Halt"
+   ],
+   "description": "USAF deputy base commander who reported seeing a UFO and wrote a memo to the UK Ministry of Defence."
+  },
+  {
+   "key": "penniston",
+   "type": "person",
+   "name": "Jim Penniston",
+   "aliases": [
+    "Sergeant Jim Penniston",
+    "Sgt. Jim Penniston",
+    "Penniston"
+   ],
+   "description": "Serviceman who later claimed to have encountered and touched a craft of unknown origin in the forest."
+  },
+  {
+   "key": "williams",
+   "type": "person",
+   "name": "Gordon E. Williams",
+   "aliases": [
+    "Colonel Gordon E. Williams",
+    "Col. Gordon Williams"
+   ],
+   "description": "Wing commander in command of RAF Bentwaters and RAF Woodbridge at the time."
+  },
+  {
+   "key": "conrad",
+   "type": "person",
+   "name": "Ted Conrad",
+   "aliases": [
+    "Colonel Ted Conrad",
+    "Col. Ted Conrad"
+   ],
+   "description": "Base commander at the time; Halt was his deputy."
+  },
+  {
+   "key": "conde",
+   "type": "person",
+   "name": "Kevin Conde",
+   "description": "Former U.S. security policeman who claimed responsibility for creating strange lights in the forest as a prank."
+  },
+  {
+   "key": "burroughs",
+   "type": "person",
+   "name": "John Burroughs",
+   "description": "Eyewitness of 26 December who said the light they followed was coming from a lighthouse."
+  },
+  {
+   "key": "cabansag",
+   "type": "person",
+   "name": "Ed Cabansag",
+   "description": "Eyewitness of 26 December who agreed the light was only a beacon light in the distance."
+  },
+  {
+   "key": "dunning",
+   "type": "person",
+   "name": "Brian Dunning",
+   "aliases": [
+    "Dunning",
+    "Dunning, Brian"
+   ],
+   "description": "Scientific sceptic author who evaluated the case in a 2009 Skeptoid podcast episode."
+  },
+  {
+   "key": "randles",
+   "type": "person",
+   "name": "Jenny Randles",
+   "description": "Reported the case in the London Evening Standard in 1981 and co-authored the first book on it; later doubted an extraterrestrial cause."
+  },
+  {
+   "key": "bruni",
+   "type": "person",
+   "name": "Georgina Bruni",
+   "description": "Author of You Can't Tell the People, who published a photograph of the supposed landing site."
+  },
+  {
+   "key": "mcgaha",
+   "type": "person",
+   "name": "McGaha J",
+   "aliases": [
+    "McGaha",
+    "J. McGaha"
+   ],
+   "description": "Co-author of a 2014 Skeptical Inquirer article on the case (listed in further reading)."
+  },
+  {
+   "key": "nickell",
+   "type": "person",
+   "name": "Nickell J",
+   "aliases": [
+    "Nickell",
+    "J. Nickell"
+   ],
+   "description": "Co-author of a 2014 Skeptical Inquirer article on the case (listed in further reading)."
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "aliases": [
+    "USAF"
+   ],
+   "description": "Air force using RAF Woodbridge and RAF Bentwaters at the time."
+  },
+  {
+   "key": "mod",
+   "type": "organization",
+   "name": "Ministry of Defence (United Kingdom)",
+   "aliases": [
+    "UK Ministry of Defence",
+    "Ministry of Defence"
+   ],
+   "description": "UK defence ministry, recipient of Halt's memo."
+  },
+  {
+   "key": "bbc",
+   "type": "organization",
+   "name": "BBC",
+   "description": "Broadcaster that reported Kevin Conde's claim of responsibility."
+  },
+  {
+   "key": "standard",
+   "type": "organization",
+   "name": "London Evening Standard",
+   "aliases": [
+    "Evening Standard"
+   ],
+   "description": "Newspaper in which Jenny Randles reported the case in 1981."
+  },
+  {
+   "key": "forestry",
+   "type": "organization",
+   "name": "Forestry Commission",
+   "description": "Owner of Rendlesham Forest; created the UFO Trail in 2005."
+  },
+  {
+   "key": "forestry_service",
+   "type": "organization",
+   "name": "Forestry Service",
+   "description": "Body that commissioned an artist's work at the end of the UFO Trail in 2014."
+  },
+  {
+   "key": "forest",
+   "type": "place",
+   "name": "Rendlesham Forest",
+   "aliases": [
+    "Rendlesham"
+   ],
+   "description": "Forest in Suffolk, England, where the main events took place."
+  },
+  {
+   "key": "suffolk",
+   "type": "place",
+   "name": "Suffolk",
+   "aliases": [
+    "county of Suffolk"
+   ],
+   "description": "English county containing Rendlesham Forest."
+  },
+  {
+   "key": "england",
+   "type": "place",
+   "name": "England",
+   "description": "Country in which the incident occurred."
+  },
+  {
+   "key": "uk",
+   "type": "place",
+   "name": "United Kingdom",
+   "aliases": [
+    "UK"
+   ],
+   "description": "State in which the incident occurred."
+  },
+  {
+   "key": "southern_england",
+   "type": "place",
+   "name": "Southern England",
+   "aliases": [
+    "southern England"
+   ],
+   "description": "Region over which a bright fireball appeared at the time of the first sighting."
+  },
+  {
+   "key": "woodbridge",
+   "type": "place",
+   "name": "RAF Woodbridge",
+   "description": "Military base used by the USAF, just outside which the events occurred."
+  },
+  {
+   "key": "bentwaters",
+   "type": "place",
+   "name": "RAF Bentwaters",
+   "description": "Military base just north of the forest, used by the USAF at the time."
+  },
+  {
+   "key": "east_gate",
+   "type": "place",
+   "name": "East Gate of RAF Woodbridge",
+   "aliases": [
+    "East Gate",
+    "east gate of RAF Woodbridge"
+   ],
+   "description": "Gate of RAF Woodbridge from which the security patrol first saw the lights."
+  },
+  {
+   "key": "capel_green",
+   "type": "place",
+   "name": "Capel Green",
+   "description": "Location of a farmer's field at the eastern end of the forest where additional events allegedly took place."
+  },
+  {
+   "key": "lighthouse_place",
+   "type": "place",
+   "name": "Orfordness Lighthouse",
+   "aliases": [
+    "Orford Ness lighthouse",
+    "Orford Ness Lighthouse"
+   ],
+   "description": "Lighthouse on the coast east of the forest, identified by sceptics as the flashing light."
+  },
+  {
+   "key": "ipswich",
+   "type": "place",
+   "name": "Ipswich, England",
+   "aliases": [
+    "Ipswich"
+   ],
+   "description": "Town about 8 miles west of Rendlesham Forest."
+  },
+  {
+   "key": "us",
+   "type": "place",
+   "name": "United States",
+   "description": "Country of the Roswell UFO incident, to which the case is compared."
+  },
+  {
+   "key": "trail",
+   "type": "place",
+   "name": "UFO Trail",
+   "description": "Trail in Rendlesham Forest created by the Forestry Commission in 2005."
+  },
+  {
+   "key": "roswell",
+   "type": "case",
+   "name": "Roswell UFO incident",
+   "aliases": [
+    "Roswell"
+   ],
+   "description": "UFO incident in the United States to which the Rendlesham case has been compared."
+  },
+  {
+   "key": "lakenheath",
+   "type": "case",
+   "name": "Lakenheath-Bentwaters incident",
+   "description": "Other UFO incident listed under See also."
+  },
+  {
+   "key": "paulding",
+   "type": "case",
+   "name": "Paulding Light",
+   "description": "Light phenomenon listed under See also."
+  },
+  {
+   "key": "lights_descending",
+   "type": "craft",
+   "name": "Lights seen descending into Rendlesham Forest on 26 December 1980",
+   "description": "Lights seen by a security patrol apparently descending into the forest around 03:00."
+  },
+  {
+   "key": "object",
+   "type": "craft",
+   "name": "Glowing metallic object with coloured lights seen in the forest on 26 December 1980",
+   "aliases": [
+    "craft of unknown origin"
+   ],
+   "description": "Object described in Halt's memo as witnessed by servicemen who entered the forest."
+  },
+  {
+   "key": "red_light",
+   "type": "craft",
+   "name": "Flashing red light seen on 28 December 1980",
+   "aliases": [
+    "flashing light"
+   ],
+   "description": "Flashing light seen across the field to the east during Halt's investigation."
+  },
+  {
+   "key": "star_lights",
+   "type": "craft",
+   "name": "Three star-like lights seen on 28 December 1980",
+   "aliases": [
+    "star-like objects"
+   ],
+   "description": "Star-like lights reported in Halt's memo, low to the north and south."
+  },
+  {
+   "key": "police_vehicle",
+   "type": "vehicle",
+   "name": "Kevin Conde's police vehicle with modified lights",
+   "description": "Police vehicle Conde said he drove around to create strange lights in the forest."
+  },
+  {
+   "key": "memo",
+   "type": "document",
+   "name": "Halt's memo to the UK Ministry of Defence",
+   "aliases": [
+    "Halt memo",
+    "Halt's memo"
+   ],
+   "description": "Memo by Charles Halt reporting the events to the UK Ministry of Defence."
+  },
+  {
+   "key": "tape",
+   "type": "document",
+   "name": "Halt's tape recording",
+   "aliases": [
+    "Halt tape",
+    "audio recordings"
+   ],
+   "description": "Micro-cassette recording made by Halt during the 28 December site visit."
+  },
+  {
+   "key": "photo",
+   "type": "document",
+   "name": "Photograph of the supposed landing site",
+   "description": "Photograph taken the morning after the first sighting, published by Georgina Bruni."
+  },
+  {
+   "key": "statements",
+   "type": "document",
+   "name": "Witness statements from 26 December",
+   "aliases": [
+    "original eye-witness reports"
+   ],
+   "description": "Statements by the eyewitnesses of the first night."
+  },
+  {
+   "key": "w_bruni",
+   "type": "work",
+   "name": "You Can't Tell the People",
+   "description": "Book by Georgina Bruni on the case."
+  },
+  {
+   "key": "w_skycrash",
+   "type": "work",
+   "name": "Sky Crash: A Cosmic Conspiracy",
+   "aliases": [
+    "Sky Crash"
+   ],
+   "description": "First book on the case, co-authored by Jenny Randles."
+  },
+  {
+   "key": "w_skeptoid_ep",
+   "type": "work",
+   "name": "Skeptoid #135: The Rendlesham Forest UFO",
+   "aliases": [
+    "The Rendlesham Forest UFO"
+   ],
+   "description": "Skeptoid podcast episode of 6 January 2009 by Brian Dunning."
+  },
+  {
+   "key": "w_skeptoid",
+   "type": "work",
+   "name": "Skeptoid",
+   "aliases": [
+    "Skeptoid podcast"
+   ],
+   "description": "Podcast by Brian Dunning."
+  },
+  {
+   "key": "w_film",
+   "type": "work",
+   "name": "The Rendlesham UFO Incident",
+   "aliases": [
+    "The Rendlesham UFO Incident (2014 film)"
+   ],
+   "description": "2014 film based on these events."
+  },
+  {
+   "key": "w_folly",
+   "type": "work",
+   "name": "The Rendlesham UFO incident: a study in folly",
+   "description": "2014 Skeptical Inquirer article by McGaha and Nickell."
+  },
+  {
+   "key": "f_lights",
+   "type": "feature",
+   "name": "lights-only"
+  },
+  {
+   "key": "f_landing",
+   "type": "feature",
+   "name": "landing-reported"
+  },
+  {
+   "key": "f_military_wit",
+   "type": "feature",
+   "name": "military-witnesses"
+  },
+  {
+   "key": "f_base",
+   "type": "feature",
+   "name": "military-base-proximity"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses"
+  },
+  {
+   "key": "f_animal",
+   "type": "feature",
+   "name": "animal-reaction"
+  },
+  {
+   "key": "f_traces",
+   "type": "feature",
+   "name": "physical-traces"
+  },
+  {
+   "key": "f_radiation",
+   "type": "feature",
+   "name": "radiation-reading"
+  },
+  {
+   "key": "f_hover",
+   "type": "feature",
+   "name": "hovering"
+  },
+  {
+   "key": "f_photo",
+   "type": "feature",
+   "name": "photograph"
+  },
+  {
+   "key": "f_hoax",
+   "type": "feature",
+   "name": "hoax-alleged"
+  },
+  {
+   "key": "f_audio",
+   "type": "feature",
+   "name": "other:audio-recording"
+  },
+  {
+   "key": "f_beam",
+   "type": "feature",
+   "name": "other:light-beam"
+  },
+  {
+   "key": "x_misperception",
+   "type": "explanation",
+   "name": "misperception"
+  },
+  {
+   "key": "x_fireball",
+   "type": "explanation",
+   "name": "meteor-or-fireball"
+  },
+  {
+   "key": "x_lighthouse",
+   "type": "explanation",
+   "name": "lighthouse"
+  },
+  {
+   "key": "x_star",
+   "type": "explanation",
+   "name": "star"
+  },
+  {
+   "key": "x_hoax",
+   "type": "explanation",
+   "name": "hoax"
+  },
+  {
+   "key": "x_satellite",
+   "type": "explanation",
+   "name": "satellite-or-rocket"
+  },
+  {
+   "key": "x_animal",
+   "type": "explanation",
+   "name": "bird-or-animal"
+  },
+  {
+   "key": "x_aircraft",
+   "type": "explanation",
+   "name": "conventional-aircraft"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1980-12-26",
+   "quote": "Around 03:00 on 26 December 1980 (reported as 27 December by Halt in his memo to the UK Ministry of Defence) a security patrol near the east gate of RAF Woodbridge saw lights apparently descending into nearby Rendlesham Forest."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1980-12-28",
+   "quote": "Halt visited the site with several servicemen in the early hours of 28 December 1980 (reported as 29 December by Halt)."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "03:00",
+   "quote": "Around 03:00 on 26 December 1980 (reported as 27 December by Halt in his memo to the UK Ministry of Defence) a security patrol near the east gate of RAF Woodbridge saw lights apparently descending into nearby Rendlesham Forest."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United Kingdom",
+   "quote": "The occurrence is the most famous of alleged UFO events to have happened in the United Kingdom."
+  },
+  {
+   "s": "case",
+   "p": "month",
+   "v": "December 1980",
+   "quote": "The Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Forest in Suffolk, England, in December 1980, which became linked with alleged UFO landings."
+  },
+  {
+   "s": "case",
+   "p": "summary",
+   "v": "series of reported sightings of unexplained lights, which became linked with alleged UFO landings",
+   "quote": "The Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Forest in Suffolk, England, in December 1980, which became linked with alleged UFO landings."
+  },
+  {
+   "s": "case",
+   "p": "nickname",
+   "v": "Britain's Roswell",
+   "quote": "It has been compared to the Roswell UFO incident in the United States and is sometimes called \"Britain's Roswell\"."
+  },
+  {
+   "s": "case",
+   "p": "notability",
+   "v": "most famous of alleged UFO events to have happened in the United Kingdom",
+   "quote": "The occurrence is the most famous of alleged UFO events to have happened in the United Kingdom."
+  },
+  {
+   "s": "case",
+   "p": "first_report",
+   "v": "a security patrol near the east gate of RAF Woodbridge saw lights apparently descending into Rendlesham Forest",
+   "quote": "Around 03:00 on 26 December 1980 (reported as 27 December by Halt in his memo to the UK Ministry of Defence) a security patrol near the east gate of RAF Woodbridge saw lights apparently descending into nearby Rendlesham Forest."
+  },
+  {
+   "s": "case",
+   "p": "initial_assumption",
+   "v": "servicemen initially thought it was a downed aircraft",
+   "quote": "Servicemen initially thought it was a downed aircraft."
+  },
+  {
+   "s": "case",
+   "p": "animal_reaction",
+   "v": "animals on a nearby farm went into a frenzy",
+   "quote": "As they attempted to approach the object, it appeared to move through the trees, and \"the animals on a nearby farm went into a frenzy\"."
+  },
+  {
+   "s": "case",
+   "p": "police_callout_time",
+   "v": "shortly after 04:00",
+   "quote": "Shortly after 04:00 local police were called to the scene but reported that the only lights they could see were those from the Orford Ness lighthouse, some miles away on the coast."
+  },
+  {
+   "s": "case",
+   "p": "police_report",
+   "v": "the only lights local police could see were those from the Orford Ness lighthouse",
+   "quote": "Shortly after 04:00 local police were called to the scene but reported that the only lights they could see were those from the Orford Ness lighthouse, some miles away on the coast."
+  },
+  {
+   "s": "case",
+   "p": "second_police_callout_time",
+   "v": "10:30",
+   "quote": "At 10:30 the local police were called out again, this time to see the impressions, which they thought could have been made by an animal."
+  },
+  {
+   "s": "case",
+   "p": "police_report",
+   "v": "police thought the impressions could have been made by an animal",
+   "quote": "At 10:30 the local police were called out again, this time to see the impressions, which they thought could have been made by an animal."
+  },
+  {
+   "s": "case",
+   "p": "ground_impressions_count",
+   "v": "three small impressions",
+   "quote": "After daybreak on the morning of 26 December, servicemen returned to a small clearing near the eastern edge of the forest and found three small impressions on the ground, as well as burn marks and broken branches on nearby trees."
+  },
+  {
+   "s": "case",
+   "p": "physical_traces",
+   "v": "three small impressions on the ground, burn marks and broken branches on nearby trees",
+   "quote": "After daybreak on the morning of 26 December, servicemen returned to a small clearing near the eastern edge of the forest and found three small impressions on the ground, as well as burn marks and broken branches on nearby trees."
+  },
+  {
+   "s": "case",
+   "p": "trace_location",
+   "v": "a small clearing near the eastern edge of the forest",
+   "quote": "After daybreak on the morning of 26 December, servicemen returned to a small clearing near the eastern edge of the forest and found three small impressions on the ground, as well as burn marks and broken branches on nearby trees."
+  },
+  {
+   "s": "case",
+   "p": "traces_found_time",
+   "v": "after daybreak on the morning of 26 December",
+   "quote": "After daybreak on the morning of 26 December, servicemen returned to a small clearing near the eastern edge of the forest and found three small impressions on the ground, as well as burn marks and broken branches on nearby trees."
+  },
+  {
+   "s": "case",
+   "p": "impressions_arrangement",
+   "v": "triangle of depressions",
+   "quote": "They took radiation readings in the triangle of depressions and in the surrounding area using an AN/PDR-27, a standard U.S. military radiation survey meter."
+  },
+  {
+   "s": "case",
+   "p": "site_visit",
+   "v": "Halt visited the site with several servicemen in the early hours of 28 December 1980",
+   "quote": "Halt visited the site with several servicemen in the early hours of 28 December 1980 (reported as 29 December by Halt)."
+  },
+  {
+   "s": "case",
+   "p": "radiation_instrument",
+   "v": "AN/PDR-27, a standard U.S. military radiation survey meter",
+   "quote": "They took radiation readings in the triangle of depressions and in the surrounding area using an AN/PDR-27, a standard U.S. military radiation survey meter."
+  },
+  {
+   "s": "case",
+   "p": "radiation_reading_peak",
+   "v": "0.07 milliroentgens per hour",
+   "quote": "Although they recorded 0.07 milliroentgens per hour, in other regions they detected 0.03 to 0.04 milliroentgens per hour, around the background level."
+  },
+  {
+   "s": "case",
+   "p": "radiation_reading_background",
+   "v": "0.03 to 0.04 milliroentgens per hour, around the background level",
+   "quote": "Although they recorded 0.07 milliroentgens per hour, in other regions they detected 0.03 to 0.04 milliroentgens per hour, around the background level."
+  },
+  {
+   "s": "case",
+   "p": "radiation_burst_distance",
+   "v": "a similar small 'burst' over half a mile away from the presumed landing site",
+   "quote": "Furthermore, they detected a similar small 'burst' over half a mile away from the presumed landing site."
+  },
+  {
+   "s": "case",
+   "p": "landing_marks_identified_as",
+   "v": "rabbit diggings (by police and foresters)",
+   "quote": "The supposed landing marks were identified by police and foresters as rabbit diggings."
+  },
+  {
+   "s": "case",
+   "p": "evidence_assessment",
+   "v": "no evidence has emerged to confirm that anything actually came down in the forest",
+   "quote": "No evidence has emerged to confirm that anything actually came down in the forest."
+  },
+  {
+   "s": "case",
+   "p": "most_accepted_explanation",
+   "v": "a combination of three main factors",
+   "quote": "The most widely accepted explanation is that the sightings were due to a combination of three main factors."
+  },
+  {
+   "s": "case",
+   "p": "witness_observation",
+   "v": "when the eyewitnesses attempted to approach the light they realised it was further off than they had thought",
+   "quote": "When the eyewitnesses attempted to approach the light they realised it was further off than they had thought."
+  },
+  {
+   "s": "case",
+   "p": "landing_location",
+   "v": "the supposed landing or landings took place in the forest, about 0.3 miles (0.5 km) east of the East Gate of RAF Woodbridge",
+   "quote": "The main events of the incident, including the supposed landing or landings, took place in the forest, which starts at the east end of the base runway or about 0.3 miles (0.5 km) to the east of the East Gate of RAF Woodbridge, from where security guards first noticed mysterious lights appearing to descend into the forest."
+  },
+  {
+   "s": "case",
+   "p": "first_noticed_by",
+   "v": "security guards at the East Gate of RAF Woodbridge",
+   "quote": "The main events of the incident, including the supposed landing or landings, took place in the forest, which starts at the east end of the base runway or about 0.3 miles (0.5 km) to the east of the East Gate of RAF Woodbridge, from where security guards first noticed mysterious lights appearing to descend into the forest."
+  },
+  {
+   "s": "case",
+   "p": "commemoration",
+   "v": "an artist's work modelled on sketches of the UFO was installed at the end of the UFO Trail in 2014",
+   "quote": "In 2014, the Forestry Service commissioned an artist to create a work which has been installed at the end of the trail."
+  },
+  {
+   "s": "case",
+   "p": "artwork_basis",
+   "v": "sketches that purportedly represent some versions of the UFO claimed to have been seen at Rendlesham",
+   "quote": "The artist states the piece is modelled on sketches that purportedly represent some versions of the UFO claimed to have been seen at Rendlesham."
+  },
+  {
+   "s": "case",
+   "p": "satellite_theory",
+   "v": "a downed Soviet spy satellite; no evidence has been produced to support this",
+   "quote": "Other explanations for the incident have included a downed Soviet spy satellite, but no evidence has been produced to support this."
+  },
+  {
+   "s": "halt",
+   "p": "witness",
+   "o": "case",
+   "quote": "USAF personnel, including deputy base commander Lieutenant Colonel Charles I. Halt, claimed to have seen things he described as a UFO."
+  },
+  {
+   "s": "halt",
+   "p": "rank",
+   "v": "Lieutenant Colonel",
+   "quote": "USAF personnel, including deputy base commander Lieutenant Colonel Charles I. Halt, claimed to have seen things he described as a UFO."
+  },
+  {
+   "s": "halt",
+   "p": "position",
+   "v": "deputy base commander",
+   "quote": "USAF personnel, including deputy base commander Lieutenant Colonel Charles I. Halt, claimed to have seen things he described as a UFO."
+  },
+  {
+   "s": "halt",
+   "p": "position",
+   "v": "deputy to base commander Colonel Ted Conrad",
+   "quote": "The base commander was Colonel Ted Conrad, and his deputy was Lieutenant Colonel Charles I. Halt."
+  },
+  {
+   "s": "halt",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "USAF personnel, including deputy base commander Lieutenant Colonel Charles I. Halt, claimed to have seen things he described as a UFO."
+  },
+  {
+   "s": "halt",
+   "p": "statement",
+   "v": "claimed to have seen things he described as a UFO",
+   "quote": "USAF personnel, including deputy base commander Lieutenant Colonel Charles I. Halt, claimed to have seen things he described as a UFO."
+  },
+  {
+   "s": "halt",
+   "p": "statement",
+   "v": "the brightest of the star-like lights hovered for two to three hours and seemed to beam down a stream of light from time to time",
+   "quote": "Halt said that the brightest of these hovered for two to three hours and seemed to beam down a stream of light from time to time."
+  },
+  {
+   "s": "halt",
+   "p": "action",
+   "v": "visited the site with several servicemen in the early hours of 28 December 1980",
+   "quote": "Halt visited the site with several servicemen in the early hours of 28 December 1980 (reported as 29 December by Halt)."
+  },
+  {
+   "s": "halt",
+   "p": "action",
+   "v": "verbally recorded the events on a micro-cassette recorder",
+   "quote": "Halt verbally recorded the events on a micro-cassette recorder."
+  },
+  {
+   "s": "halt",
+   "p": "reported_date_first_night",
+   "v": "27 December",
+   "quote": "Around 03:00 on 26 December 1980 (reported as 27 December by Halt in his memo to the UK Ministry of Defence) a security patrol near the east gate of RAF Woodbridge saw lights apparently descending into nearby Rendlesham Forest."
+  },
+  {
+   "s": "halt",
+   "p": "reported_date_second_visit",
+   "v": "29 December",
+   "quote": "Halt visited the site with several servicemen in the early hours of 28 December 1980 (reported as 29 December by Halt)."
+  },
+  {
+   "s": "penniston",
+   "p": "witness",
+   "o": "case",
+   "quote": "One of the servicemen, Sergeant Jim Penniston, later claimed to have encountered a \"craft of unknown origin\" while in the forest, although there was no publicised mention of this at the time and there is no corroboration from other witnesses."
+  },
+  {
+   "s": "penniston",
+   "p": "rank",
+   "v": "Sergeant",
+   "quote": "One of the servicemen, Sergeant Jim Penniston, later claimed to have encountered a \"craft of unknown origin\" while in the forest, although there was no publicised mention of this at the time and there is no corroboration from other witnesses."
+  },
+  {
+   "s": "penniston",
+   "p": "later_claim",
+   "v": "encountered a \"craft of unknown origin\" while in the forest",
+   "quote": "One of the servicemen, Sergeant Jim Penniston, later claimed to have encountered a \"craft of unknown origin\" while in the forest, although there was no publicised mention of this at the time and there is no corroboration from other witnesses."
+  },
+  {
+   "s": "penniston",
+   "p": "corroboration",
+   "v": "no publicised mention of this at the time and no corroboration from other witnesses",
+   "quote": "One of the servicemen, Sergeant Jim Penniston, later claimed to have encountered a \"craft of unknown origin\" while in the forest, although there was no publicised mention of this at the time and there is no corroboration from other witnesses."
+  },
+  {
+   "s": "penniston",
+   "p": "later_claim",
+   "v": "touched the craft and found it to be very warm to the touch",
+   "quote": "Penniston also described touching the encountered craft and finding it to be very warm to the touch."
+  },
+  {
+   "s": "williams",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "At the time, both were being used by the United States Air Force and were under the command of wing commander Colonel Gordon E. Williams."
+  },
+  {
+   "s": "williams",
+   "p": "rank",
+   "v": "Colonel",
+   "quote": "At the time, both were being used by the United States Air Force and were under the command of wing commander Colonel Gordon E. Williams."
+  },
+  {
+   "s": "williams",
+   "p": "position",
+   "v": "wing commander",
+   "quote": "At the time, both were being used by the United States Air Force and were under the command of wing commander Colonel Gordon E. Williams."
+  },
+  {
+   "s": "williams",
+   "p": "commanded",
+   "o": "bentwaters",
+   "quote": "At the time, both were being used by the United States Air Force and were under the command of wing commander Colonel Gordon E. Williams."
+  },
+  {
+   "s": "williams",
+   "p": "commanded",
+   "o": "woodbridge",
+   "quote": "At the time, both were being used by the United States Air Force and were under the command of wing commander Colonel Gordon E. Williams."
+  },
+  {
+   "s": "williams",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "At the time, both were being used by the United States Air Force and were under the command of wing commander Colonel Gordon E. Williams."
+  },
+  {
+   "s": "conrad",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "The base commander was Colonel Ted Conrad, and his deputy was Lieutenant Colonel Charles I. Halt."
+  },
+  {
+   "s": "conrad",
+   "p": "rank",
+   "v": "Colonel",
+   "quote": "The base commander was Colonel Ted Conrad, and his deputy was Lieutenant Colonel Charles I. Halt."
+  },
+  {
+   "s": "conrad",
+   "p": "position",
+   "v": "base commander",
+   "quote": "The base commander was Colonel Ted Conrad, and his deputy was Lieutenant Colonel Charles I. Halt."
+  },
+  {
+   "s": "halt",
+   "p": "colleague_of",
+   "o": "conrad",
+   "quote": "The base commander was Colonel Ted Conrad, and his deputy was Lieutenant Colonel Charles I. Halt."
+  },
+  {
+   "s": "conde",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "The BBC reported that a former U.S. security policeman, Kevin Conde, claimed responsibility for creating strange lights in the forest by driving around in a police vehicle whose lights he had modified."
+  },
+  {
+   "s": "conde",
+   "p": "occupation",
+   "v": "former U.S. security policeman",
+   "quote": "The BBC reported that a former U.S. security policeman, Kevin Conde, claimed responsibility for creating strange lights in the forest by driving around in a police vehicle whose lights he had modified."
+  },
+  {
+   "s": "conde",
+   "p": "later_claim",
+   "v": "claimed responsibility for creating strange lights in the forest by driving around in a police vehicle whose lights he had modified",
+   "quote": "The BBC reported that a former U.S. security policeman, Kevin Conde, claimed responsibility for creating strange lights in the forest by driving around in a police vehicle whose lights he had modified."
+  },
+  {
+   "s": "conde",
+   "p": "caveat",
+   "v": "no evidence that this prank took place on the nights in question",
+   "quote": "However, there is no evidence that this prank took place on the nights in question."
+  },
+  {
+   "s": "burroughs",
+   "p": "witness",
+   "o": "case",
+   "quote": "John Burroughs said that they \"followed it for about 2 miles before we could see it was coming from a lighthouse\", with Ed Cabansag agreeing that once they had reached a suitable vantage point they could see that it was \"only a beacon light off in the distance\"."
+  },
+  {
+   "s": "burroughs",
+   "p": "statement",
+   "v": "followed it for about 2 miles before we could see it was coming from a lighthouse",
+   "quote": "John Burroughs said that they \"followed it for about 2 miles before we could see it was coming from a lighthouse\", with Ed Cabansag agreeing that once they had reached a suitable vantage point they could see that it was \"only a beacon light off in the distance\"."
+  },
+  {
+   "s": "cabansag",
+   "p": "witness",
+   "o": "case",
+   "quote": "John Burroughs said that they \"followed it for about 2 miles before we could see it was coming from a lighthouse\", with Ed Cabansag agreeing that once they had reached a suitable vantage point they could see that it was \"only a beacon light off in the distance\"."
+  },
+  {
+   "s": "cabansag",
+   "p": "statement",
+   "v": "only a beacon light off in the distance",
+   "quote": "John Burroughs said that they \"followed it for about 2 miles before we could see it was coming from a lighthouse\", with Ed Cabansag agreeing that once they had reached a suitable vantage point they could see that it was \"only a beacon light off in the distance\"."
+  },
+  {
+   "s": "cabansag",
+   "p": "colleague_of",
+   "o": "burroughs",
+   "quote": "John Burroughs said that they \"followed it for about 2 miles before we could see it was coming from a lighthouse\", with Ed Cabansag agreeing that once they had reached a suitable vantage point they could see that it was \"only a beacon light off in the distance\"."
+  },
+  {
+   "s": "dunning",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "In his 6 January 2009 Skeptoid podcast episode titled \"The Rendlesham Forest UFO,\" scientific sceptic author Brian Dunning evaluated the original eye-witness reports and audio recordings, as well as the resulting media reporting of this incident."
+  },
+  {
+   "s": "dunning",
+   "p": "occupation",
+   "v": "scientific sceptic author",
+   "quote": "In his 6 January 2009 Skeptoid podcast episode titled \"The Rendlesham Forest UFO,\" scientific sceptic author Brian Dunning evaluated the original eye-witness reports and audio recordings, as well as the resulting media reporting of this incident."
+  },
+  {
+   "s": "dunning",
+   "p": "conclusion",
+   "v": "everything Halt had reported had a simple explanation",
+   "quote": "Dunning concluded that everything Halt had reported had a simple explanation"
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "The meteors had nothing to do with the lighthouse or the rabbit diggings, but when you hear all three stories told together, it's easy to conclude (as did the airmen) that the light overhead became an alien spacecraft in the forest.",
+   "quote": "The meteors had nothing to do with the lighthouse or the rabbit diggings, but when you hear all three stories told together, it's easy to conclude (as did the airmen) that the light overhead became an alien spacecraft in the forest."
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "Separate pieces of poor evidence don't aggregate together into a single piece of good evidence.",
+   "quote": "Always remember: Separate pieces of poor evidence don't aggregate together into a single piece of good evidence."
+  },
+  {
+   "s": "randles",
+   "p": "journalist",
+   "o": "case",
+   "quote": "In 2010 Jenny Randles, who in 1981 reported the case in the London Evening Standard and co-authored the first book on the case, Sky Crash: A Cosmic Conspiracy, emphasised her previously expressed doubts that the incident was caused by extraterrestrial visitors."
+  },
+  {
+   "s": "randles",
+   "p": "reported_case",
+   "v": "reported the case in the London Evening Standard in 1981",
+   "quote": "In 2010 Jenny Randles, who in 1981 reported the case in the London Evening Standard and co-authored the first book on the case, Sky Crash: A Cosmic Conspiracy, emphasised her previously expressed doubts that the incident was caused by extraterrestrial visitors."
+  },
+  {
+   "s": "randles",
+   "p": "position_2010",
+   "v": "emphasised her previously expressed doubts that the incident was caused by extraterrestrial visitors",
+   "quote": "In 2010 Jenny Randles, who in 1981 reported the case in the London Evening Standard and co-authored the first book on the case, Sky Crash: A Cosmic Conspiracy, emphasised her previously expressed doubts that the incident was caused by extraterrestrial visitors."
+  },
+  {
+   "s": "randles",
+   "p": "statement",
+   "v": "Whilst some puzzles remain, we can probably say that no unearthly craft were seen in Rendlesham Forest.",
+   "quote": "Whilst suggesting that a UFO might have been involved, she noted: \"Whilst some puzzles remain, we can probably say that no unearthly craft were seen in Rendlesham Forest."
+  },
+  {
+   "s": "randles",
+   "p": "statement",
+   "v": "the main focus of the events was a series of misperceptions of everyday things encountered in less than everyday circumstances",
+   "quote": "We can also argue with confidence that the main focus of the events was a series of misperceptions of everyday things encountered in less than everyday circumstances."
+  },
+  {
+   "s": "randles",
+   "p": "suggestion",
+   "v": "a UFO might have been involved",
+   "quote": "Whilst suggesting that a UFO might have been involved, she noted: \"Whilst some puzzles remain, we can probably say that no unearthly craft were seen in Rendlesham Forest."
+  },
+  {
+   "s": "bruni",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Georgina Bruni, in her book You Can't Tell the People, published a photograph of the supposed landing site taken on the morning after the first sighting."
+  },
+  {
+   "s": "mcgaha",
+   "p": "commentator",
+   "o": "case",
+   "quote": "McGaha J, Nickell J (2014). \"The Rendlesham UFO incident: a study in folly\" (PDF). Skeptical Inquirer. 38 (5): 60."
+  },
+  {
+   "s": "nickell",
+   "p": "commentator",
+   "o": "case",
+   "quote": "McGaha J, Nickell J (2014). \"The Rendlesham UFO incident: a study in folly\" (PDF). Skeptical Inquirer. 38 (5): 60."
+  },
+  {
+   "s": "mcgaha",
+   "p": "colleague_of",
+   "o": "nickell",
+   "quote": "McGaha J, Nickell J (2014). \"The Rendlesham UFO incident: a study in folly\" (PDF). Skeptical Inquirer. 38 (5): 60."
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The events occurred just outside RAF Woodbridge, which was used at the time by the United States Air Force (USAF)."
+  },
+  {
+   "s": "usaf",
+   "p": "role",
+   "v": "used RAF Woodbridge at the time; USAF personnel were the witnesses",
+   "quote": "The events occurred just outside RAF Woodbridge, which was used at the time by the United States Air Force (USAF)."
+  },
+  {
+   "s": "usaf",
+   "p": "role",
+   "v": "both RAF Bentwaters and RAF Woodbridge were being used by the United States Air Force",
+   "quote": "At the time, both were being used by the United States Air Force and were under the command of wing commander Colonel Gordon E. Williams."
+  },
+  {
+   "s": "mod",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The UK Ministry of Defence has stated that the event posed no threat to national security and was therefore never investigated as a security matter."
+  },
+  {
+   "s": "mod",
+   "p": "statement",
+   "v": "the event posed no threat to national security and was therefore never investigated as a security matter",
+   "quote": "The UK Ministry of Defence has stated that the event posed no threat to national security and was therefore never investigated as a security matter."
+  },
+  {
+   "s": "bbc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The BBC reported that a former U.S. security policeman, Kevin Conde, claimed responsibility for creating strange lights in the forest by driving around in a police vehicle whose lights he had modified."
+  },
+  {
+   "s": "bbc",
+   "p": "reported",
+   "v": "Kevin Conde claimed responsibility for creating strange lights in the forest",
+   "quote": "The BBC reported that a former U.S. security policeman, Kevin Conde, claimed responsibility for creating strange lights in the forest by driving around in a police vehicle whose lights he had modified."
+  },
+  {
+   "s": "standard",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 2010 Jenny Randles, who in 1981 reported the case in the London Evening Standard and co-authored the first book on the case, Sky Crash: A Cosmic Conspiracy, emphasised her previously expressed doubts that the incident was caused by extraterrestrial visitors."
+  },
+  {
+   "s": "standard",
+   "p": "coverage_year",
+   "v": "1981",
+   "quote": "In 2010 Jenny Randles, who in 1981 reported the case in the London Evening Standard and co-authored the first book on the case, Sky Crash: A Cosmic Conspiracy, emphasised her previously expressed doubts that the incident was caused by extraterrestrial visitors."
+  },
+  {
+   "s": "forestry",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 2005, the Forestry Commission used Lottery proceeds to create a trail in Rendlesham Forest because of public interest and nicknamed it the UFO Trail."
+  },
+  {
+   "s": "forestry",
+   "p": "owned",
+   "o": "forest",
+   "quote": "Rendlesham Forest is owned by the Forestry Commission and consists of about 5.8 square miles (15 km2) of coniferous plantations, interspersed with broadleaved belts, heathland and wetland areas."
+  },
+  {
+   "s": "forestry",
+   "p": "action",
+   "v": "used Lottery proceeds in 2005 to create a trail in Rendlesham Forest, nicknamed the UFO Trail",
+   "quote": "In 2005, the Forestry Commission used Lottery proceeds to create a trail in Rendlesham Forest because of public interest and nicknamed it the UFO Trail."
+  },
+  {
+   "s": "forestry_service",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 2014, the Forestry Service commissioned an artist to create a work which has been installed at the end of the trail."
+  },
+  {
+   "s": "forestry_service",
+   "p": "action",
+   "v": "commissioned an artist in 2014 to create a work installed at the end of the trail",
+   "quote": "In 2014, the Forestry Service commissioned an artist to create a work which has been installed at the end of the trail."
+  },
+  {
+   "s": "forest",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Forest in Suffolk, England, in December 1980, which became linked with alleged UFO landings."
+  },
+  {
+   "s": "forest",
+   "p": "located_in",
+   "o": "suffolk",
+   "quote": "It is located in the county of Suffolk, about 8 miles (13 km) east of the town of Ipswich."
+  },
+  {
+   "s": "forest",
+   "p": "area",
+   "v": "about 5.8 square miles (15 km2)",
+   "quote": "Rendlesham Forest is owned by the Forestry Commission and consists of about 5.8 square miles (15 km2) of coniferous plantations, interspersed with broadleaved belts, heathland and wetland areas."
+  },
+  {
+   "s": "forest",
+   "p": "vegetation",
+   "v": "coniferous plantations, interspersed with broadleaved belts, heathland and wetland areas",
+   "quote": "Rendlesham Forest is owned by the Forestry Commission and consists of about 5.8 square miles (15 km2) of coniferous plantations, interspersed with broadleaved belts, heathland and wetland areas."
+  },
+  {
+   "s": "forest",
+   "p": "distance_from_ipswich",
+   "v": "about 8 miles (13 km) east",
+   "quote": "It is located in the county of Suffolk, about 8 miles (13 km) east of the town of Ipswich."
+  },
+  {
+   "s": "forest",
+   "p": "extent",
+   "v": "extends east about one mile (1.6 km) beyond East Gate, ending at a farmer's field at Capel Green",
+   "quote": "The forest extends east about one mile (1.6 km) beyond East Gate, ending at a farmer's field at Capel Green, where additional events allegedly took place."
+  },
+  {
+   "s": "forest",
+   "p": "start",
+   "v": "starts at the east end of the base runway, about 0.3 miles (0.5 km) east of the East Gate of RAF Woodbridge",
+   "quote": "The main events of the incident, including the supposed landing or landings, took place in the forest, which starts at the east end of the base runway or about 0.3 miles (0.5 km) to the east of the East Gate of RAF Woodbridge, from where security guards first noticed mysterious lights appearing to descend into the forest."
+  },
+  {
+   "s": "suffolk",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Forest in Suffolk, England, in December 1980, which became linked with alleged UFO landings."
+  },
+  {
+   "s": "suffolk",
+   "p": "located_in",
+   "o": "england",
+   "quote": "The Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Forest in Suffolk, England, in December 1980, which became linked with alleged UFO landings."
+  },
+  {
+   "s": "england",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Forest in Suffolk, England, in December 1980, which became linked with alleged UFO landings."
+  },
+  {
+   "s": "uk",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The occurrence is the most famous of alleged UFO events to have happened in the United Kingdom."
+  },
+  {
+   "s": "southern_england",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The initial sighting at 03.00 on 26 December, when the airmen saw something apparently descending into the forest, coincided with the appearance of a bright fireball over southern England, and such fireballs are a common source of UFO reports."
+  },
+  {
+   "s": "southern_england",
+   "p": "event",
+   "v": "a bright fireball appeared over southern England at the time of the initial sighting",
+   "quote": "The initial sighting at 03.00 on 26 December, when the airmen saw something apparently descending into the forest, coincided with the appearance of a bright fireball over southern England, and such fireballs are a common source of UFO reports."
+  },
+  {
+   "s": "woodbridge",
+   "p": "near",
+   "o": "case",
+   "quote": "The events occurred just outside RAF Woodbridge, which was used at the time by the United States Air Force (USAF)."
+  },
+  {
+   "s": "woodbridge",
+   "p": "position",
+   "v": "extends into the forest from the west and is bounded by the forest on its northern and eastern edges",
+   "quote": "The incident occurred in the vicinity of two former military bases: RAF Bentwaters, which is just to the north of the forest, and RAF Woodbridge which extends into the forest from the west and is bounded by the forest on its northern and eastern edges."
+  },
+  {
+   "s": "woodbridge",
+   "p": "status",
+   "v": "former military base",
+   "quote": "The incident occurred in the vicinity of two former military bases: RAF Bentwaters, which is just to the north of the forest, and RAF Woodbridge which extends into the forest from the west and is bounded by the forest on its northern and eastern edges."
+  },
+  {
+   "s": "usaf",
+   "p": "stationed_at",
+   "o": "woodbridge",
+   "quote": "The events occurred just outside RAF Woodbridge, which was used at the time by the United States Air Force (USAF)."
+  },
+  {
+   "s": "bentwaters",
+   "p": "near",
+   "o": "case",
+   "quote": "The incident occurred in the vicinity of two former military bases: RAF Bentwaters, which is just to the north of the forest, and RAF Woodbridge which extends into the forest from the west and is bounded by the forest on its northern and eastern edges."
+  },
+  {
+   "s": "bentwaters",
+   "p": "position",
+   "v": "just to the north of the forest",
+   "quote": "The incident occurred in the vicinity of two former military bases: RAF Bentwaters, which is just to the north of the forest, and RAF Woodbridge which extends into the forest from the west and is bounded by the forest on its northern and eastern edges."
+  },
+  {
+   "s": "bentwaters",
+   "p": "status",
+   "v": "former military base",
+   "quote": "The incident occurred in the vicinity of two former military bases: RAF Bentwaters, which is just to the north of the forest, and RAF Woodbridge which extends into the forest from the west and is bounded by the forest on its northern and eastern edges."
+  },
+  {
+   "s": "usaf",
+   "p": "stationed_at",
+   "o": "bentwaters",
+   "quote": "At the time, both were being used by the United States Air Force and were under the command of wing commander Colonel Gordon E. Williams."
+  },
+  {
+   "s": "east_gate",
+   "p": "near",
+   "o": "case",
+   "quote": "Around 03:00 on 26 December 1980 (reported as 27 December by Halt in his memo to the UK Ministry of Defence) a security patrol near the east gate of RAF Woodbridge saw lights apparently descending into nearby Rendlesham Forest."
+  },
+  {
+   "s": "east_gate",
+   "p": "part_of",
+   "o": "woodbridge",
+   "quote": "The main events of the incident, including the supposed landing or landings, took place in the forest, which starts at the east end of the base runway or about 0.3 miles (0.5 km) to the east of the East Gate of RAF Woodbridge, from where security guards first noticed mysterious lights appearing to descend into the forest."
+  },
+  {
+   "s": "east_gate",
+   "p": "distance_to_forest",
+   "v": "about 0.3 miles (0.5 km) west of where the forest starts",
+   "quote": "The main events of the incident, including the supposed landing or landings, took place in the forest, which starts at the east end of the base runway or about 0.3 miles (0.5 km) to the east of the East Gate of RAF Woodbridge, from where security guards first noticed mysterious lights appearing to descend into the forest."
+  },
+  {
+   "s": "capel_green",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The forest extends east about one mile (1.6 km) beyond East Gate, ending at a farmer's field at Capel Green, where additional events allegedly took place."
+  },
+  {
+   "s": "capel_green",
+   "p": "alleged_events",
+   "v": "additional events allegedly took place at a farmer's field at Capel Green",
+   "quote": "The forest extends east about one mile (1.6 km) beyond East Gate, ending at a farmer's field at Capel Green, where additional events allegedly took place."
+  },
+  {
+   "s": "lighthouse_place",
+   "p": "near",
+   "o": "case",
+   "quote": "Orfordness Lighthouse, which sceptics identify as the flashing light seen off to the coast by the airmen, is along the same line of sight about 5 miles (8.0 km) further east of the forest's edge."
+  },
+  {
+   "s": "lighthouse_place",
+   "p": "distance",
+   "v": "about 5 miles (8.0 km) further east of the forest's edge, along the same line of sight",
+   "quote": "Orfordness Lighthouse, which sceptics identify as the flashing light seen off to the coast by the airmen, is along the same line of sight about 5 miles (8.0 km) further east of the forest's edge."
+  },
+  {
+   "s": "lighthouse_place",
+   "p": "distance",
+   "v": "some miles away on the coast",
+   "quote": "Shortly after 04:00 local police were called to the scene but reported that the only lights they could see were those from the Orford Ness lighthouse, some miles away on the coast."
+  },
+  {
+   "s": "lighthouse_place",
+   "p": "brightness",
+   "v": "one of the brightest lighthouses in the UK at that time",
+   "quote": "At that time it was one of the brightest lighthouses in the UK."
+  },
+  {
+   "s": "lighthouse_place",
+   "p": "flash_rate",
+   "v": "every five seconds",
+   "quote": "Timings on Halt's tape recording during his sighting on 28 December indicate that the light he saw, which lay in the same direction as the light seen two nights earlier, flashed every five seconds, which was the flash rate of the Orfordness Lighthouse."
+  },
+  {
+   "s": "lighthouse_place",
+   "p": "visibility",
+   "v": "visible further to the east in the same line of sight as the flashing red light",
+   "quote": "The Orford Ness lighthouse is visible further to the east in the same line of sight."
+  },
+  {
+   "s": "ipswich",
+   "p": "near",
+   "o": "case",
+   "quote": "It is located in the county of Suffolk, about 8 miles (13 km) east of the town of Ipswich."
+  },
+  {
+   "s": "us",
+   "p": "related_place",
+   "o": "case",
+   "quote": "It has been compared to the Roswell UFO incident in the United States and is sometimes called \"Britain's Roswell\"."
+  },
+  {
+   "s": "trail",
+   "p": "related_place",
+   "o": "case",
+   "quote": "In 2005, the Forestry Commission used Lottery proceeds to create a trail in Rendlesham Forest because of public interest and nicknamed it the UFO Trail."
+  },
+  {
+   "s": "trail",
+   "p": "located_in",
+   "o": "forest",
+   "quote": "In 2005, the Forestry Commission used Lottery proceeds to create a trail in Rendlesham Forest because of public interest and nicknamed it the UFO Trail."
+  },
+  {
+   "s": "trail",
+   "p": "created",
+   "v": "2005",
+   "quote": "In 2005, the Forestry Commission used Lottery proceeds to create a trail in Rendlesham Forest because of public interest and nicknamed it the UFO Trail."
+  },
+  {
+   "s": "trail",
+   "p": "funding",
+   "v": "Lottery proceeds",
+   "quote": "In 2005, the Forestry Commission used Lottery proceeds to create a trail in Rendlesham Forest because of public interest and nicknamed it the UFO Trail."
+  },
+  {
+   "s": "trail",
+   "p": "artwork_installed",
+   "v": "2014, at the end of the trail",
+   "quote": "In 2014, the Forestry Service commissioned an artist to create a work which has been installed at the end of the trail."
+  },
+  {
+   "s": "roswell",
+   "p": "related_case",
+   "o": "case",
+   "quote": "It has been compared to the Roswell UFO incident in the United States and is sometimes called \"Britain's Roswell\"."
+  },
+  {
+   "s": "roswell",
+   "p": "located_in",
+   "o": "us",
+   "quote": "It has been compared to the Roswell UFO incident in the United States and is sometimes called \"Britain's Roswell\"."
+  },
+  {
+   "s": "lakenheath",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Lakenheath-Bentwaters incident"
+  },
+  {
+   "s": "paulding",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Paulding Light"
+  },
+  {
+   "s": "lights_descending",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Around 03:00 on 26 December 1980 (reported as 27 December by Halt in his memo to the UK Ministry of Defence) a security patrol near the east gate of RAF Woodbridge saw lights apparently descending into nearby Rendlesham Forest."
+  },
+  {
+   "s": "lights_descending",
+   "p": "time",
+   "v": "around 03:00 on 26 December 1980",
+   "quote": "Around 03:00 on 26 December 1980 (reported as 27 December by Halt in his memo to the UK Ministry of Defence) a security patrol near the east gate of RAF Woodbridge saw lights apparently descending into nearby Rendlesham Forest."
+  },
+  {
+   "s": "lights_descending",
+   "p": "motion",
+   "v": "apparently descending into nearby Rendlesham Forest",
+   "quote": "Around 03:00 on 26 December 1980 (reported as 27 December by Halt in his memo to the UK Ministry of Defence) a security patrol near the east gate of RAF Woodbridge saw lights apparently descending into nearby Rendlesham Forest."
+  },
+  {
+   "s": "lights_descending",
+   "p": "attributed_to",
+   "v": "a piece of natural debris seen burning up as a fireball over southern England (astronomers)",
+   "quote": "These lights have been attributed by astronomers to a piece of natural debris seen burning up as a fireball over southern England around that time."
+  },
+  {
+   "s": "lights_descending",
+   "p": "identified_as",
+   "o": "x_fireball",
+   "quote": "These lights have been attributed by astronomers to a piece of natural debris seen burning up as a fireball over southern England around that time."
+  },
+  {
+   "s": "object",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "According to Halt's memo, upon entering the forest to investigate, they witnessed a glowing object that was metallic in appearance with coloured lights."
+  },
+  {
+   "s": "object",
+   "p": "appearance",
+   "v": "glowing, metallic in appearance",
+   "quote": "According to Halt's memo, upon entering the forest to investigate, they witnessed a glowing object that was metallic in appearance with coloured lights."
+  },
+  {
+   "s": "object",
+   "p": "lights",
+   "v": "coloured lights",
+   "quote": "According to Halt's memo, upon entering the forest to investigate, they witnessed a glowing object that was metallic in appearance with coloured lights."
+  },
+  {
+   "s": "object",
+   "p": "motion",
+   "v": "appeared to move through the trees as the servicemen approached",
+   "quote": "As they attempted to approach the object, it appeared to move through the trees, and \"the animals on a nearby farm went into a frenzy\"."
+  },
+  {
+   "s": "object",
+   "p": "temperature",
+   "v": "very warm to the touch (Penniston)",
+   "quote": "Penniston also described touching the encountered craft and finding it to be very warm to the touch."
+  },
+  {
+   "s": "penniston",
+   "p": "described",
+   "o": "object",
+   "quote": "One of the servicemen, Sergeant Jim Penniston, later claimed to have encountered a \"craft of unknown origin\" while in the forest, although there was no publicised mention of this at the time and there is no corroboration from other witnesses."
+  },
+  {
+   "s": "memo",
+   "p": "described",
+   "o": "object",
+   "quote": "According to Halt's memo, upon entering the forest to investigate, they witnessed a glowing object that was metallic in appearance with coloured lights."
+  },
+  {
+   "s": "red_light",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "It was during this investigation that a flashing red light was seen across the field to the east, almost in line with a farmhouse, as the witnesses had seen on the first night."
+  },
+  {
+   "s": "red_light",
+   "p": "color",
+   "v": "red",
+   "quote": "It was during this investigation that a flashing red light was seen across the field to the east, almost in line with a farmhouse, as the witnesses had seen on the first night."
+  },
+  {
+   "s": "red_light",
+   "p": "behaviour",
+   "v": "flashing",
+   "quote": "It was during this investigation that a flashing red light was seen across the field to the east, almost in line with a farmhouse, as the witnesses had seen on the first night."
+  },
+  {
+   "s": "red_light",
+   "p": "direction",
+   "v": "across the field to the east, almost in line with a farmhouse",
+   "quote": "It was during this investigation that a flashing red light was seen across the field to the east, almost in line with a farmhouse, as the witnesses had seen on the first night."
+  },
+  {
+   "s": "red_light",
+   "p": "also_seen",
+   "v": "as the witnesses had seen on the first night",
+   "quote": "It was during this investigation that a flashing red light was seen across the field to the east, almost in line with a farmhouse, as the witnesses had seen on the first night."
+  },
+  {
+   "s": "red_light",
+   "p": "flash_interval",
+   "v": "every five seconds",
+   "quote": "Timings on Halt's tape recording during his sighting on 28 December indicate that the light he saw, which lay in the same direction as the light seen two nights earlier, flashed every five seconds, which was the flash rate of the Orfordness Lighthouse."
+  },
+  {
+   "s": "red_light",
+   "p": "identified_as",
+   "o": "x_lighthouse",
+   "quote": "Orfordness Lighthouse, which sceptics identify as the flashing light seen off to the coast by the airmen, is along the same line of sight about 5 miles (8.0 km) further east of the forest's edge."
+  },
+  {
+   "s": "halt",
+   "p": "described",
+   "o": "red_light",
+   "quote": "Timings on Halt's tape recording during his sighting on 28 December indicate that the light he saw, which lay in the same direction as the light seen two nights earlier, flashed every five seconds, which was the flash rate of the Orfordness Lighthouse."
+  },
+  {
+   "s": "star_lights",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Later, according to Halt's memo, three star-like lights were seen in the sky, two to the north and one to the south, about 10 degrees above the horizon."
+  },
+  {
+   "s": "star_lights",
+   "p": "count",
+   "v": "three",
+   "quote": "Later, according to Halt's memo, three star-like lights were seen in the sky, two to the north and one to the south, about 10 degrees above the horizon."
+  },
+  {
+   "s": "star_lights",
+   "p": "position",
+   "v": "two to the north and one to the south",
+   "quote": "Later, according to Halt's memo, three star-like lights were seen in the sky, two to the north and one to the south, about 10 degrees above the horizon."
+  },
+  {
+   "s": "star_lights",
+   "p": "elevation",
+   "v": "about 10 degrees above the horizon",
+   "quote": "Later, according to Halt's memo, three star-like lights were seen in the sky, two to the north and one to the south, about 10 degrees above the horizon."
+  },
+  {
+   "s": "star_lights",
+   "p": "appearance",
+   "v": "star-like",
+   "quote": "Later, according to Halt's memo, three star-like lights were seen in the sky, two to the north and one to the south, about 10 degrees above the horizon."
+  },
+  {
+   "s": "star_lights",
+   "p": "duration",
+   "v": "the brightest hovered for two to three hours",
+   "quote": "Halt said that the brightest of these hovered for two to three hours and seemed to beam down a stream of light from time to time."
+  },
+  {
+   "s": "star_lights",
+   "p": "behaviour",
+   "v": "seemed to beam down a stream of light from time to time",
+   "quote": "Halt said that the brightest of these hovered for two to three hours and seemed to beam down a stream of light from time to time."
+  },
+  {
+   "s": "star_lights",
+   "p": "brightest_matched",
+   "v": "the brightest, to the south, matched the position of Sirius, the brightest star in the night sky",
+   "quote": "The brightest of them, to the south, matched the position of Sirius, the brightest star in the night sky."
+  },
+  {
+   "s": "star_lights",
+   "p": "identified_as",
+   "o": "x_star",
+   "quote": "Astronomers have explained these star-like lights as bright stars."
+  },
+  {
+   "s": "halt",
+   "p": "described",
+   "o": "star_lights",
+   "quote": "Halt said that the brightest of these hovered for two to three hours and seemed to beam down a stream of light from time to time."
+  },
+  {
+   "s": "police_vehicle",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "The BBC reported that a former U.S. security policeman, Kevin Conde, claimed responsibility for creating strange lights in the forest by driving around in a police vehicle whose lights he had modified."
+  },
+  {
+   "s": "conde",
+   "p": "piloted",
+   "o": "police_vehicle",
+   "quote": "The BBC reported that a former U.S. security policeman, Kevin Conde, claimed responsibility for creating strange lights in the forest by driving around in a police vehicle whose lights he had modified."
+  },
+  {
+   "s": "police_vehicle",
+   "p": "modification",
+   "v": "lights he had modified",
+   "quote": "The BBC reported that a former U.S. security policeman, Kevin Conde, claimed responsibility for creating strange lights in the forest by driving around in a police vehicle whose lights he had modified."
+  },
+  {
+   "s": "memo",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Around 03:00 on 26 December 1980 (reported as 27 December by Halt in his memo to the UK Ministry of Defence) a security patrol near the east gate of RAF Woodbridge saw lights apparently descending into nearby Rendlesham Forest."
+  },
+  {
+   "s": "halt",
+   "p": "authored",
+   "o": "memo",
+   "quote": "Around 03:00 on 26 December 1980 (reported as 27 December by Halt in his memo to the UK Ministry of Defence) a security patrol near the east gate of RAF Woodbridge saw lights apparently descending into nearby Rendlesham Forest."
+  },
+  {
+   "s": "memo",
+   "p": "addressed_to",
+   "v": "UK Ministry of Defence",
+   "quote": "Around 03:00 on 26 December 1980 (reported as 27 December by Halt in his memo to the UK Ministry of Defence) a security patrol near the east gate of RAF Woodbridge saw lights apparently descending into nearby Rendlesham Forest."
+  },
+  {
+   "s": "memo",
+   "p": "date_given_for_first_night",
+   "v": "27 December (rather than 26 December)",
+   "quote": "Around 03:00 on 26 December 1980 (reported as 27 December by Halt in his memo to the UK Ministry of Defence) a security patrol near the east gate of RAF Woodbridge saw lights apparently descending into nearby Rendlesham Forest."
+  },
+  {
+   "s": "memo",
+   "p": "content",
+   "v": "servicemen witnessed a glowing object that was metallic in appearance with coloured lights",
+   "quote": "According to Halt's memo, upon entering the forest to investigate, they witnessed a glowing object that was metallic in appearance with coloured lights."
+  },
+  {
+   "s": "memo",
+   "p": "content",
+   "v": "three star-like lights were seen in the sky, two to the north and one to the south, about 10 degrees above the horizon",
+   "quote": "Later, according to Halt's memo, three star-like lights were seen in the sky, two to the north and one to the south, about 10 degrees above the horizon."
+  },
+  {
+   "s": "tape",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Halt verbally recorded the events on a micro-cassette recorder."
+  },
+  {
+   "s": "halt",
+   "p": "authored",
+   "o": "tape",
+   "quote": "Halt verbally recorded the events on a micro-cassette recorder."
+  },
+  {
+   "s": "tape",
+   "p": "medium",
+   "v": "micro-cassette recorder",
+   "quote": "Halt verbally recorded the events on a micro-cassette recorder."
+  },
+  {
+   "s": "tape",
+   "p": "finding",
+   "v": "timings indicate the light flashed every five seconds, the flash rate of the Orfordness Lighthouse",
+   "quote": "Timings on Halt's tape recording during his sighting on 28 December indicate that the light he saw, which lay in the same direction as the light seen two nights earlier, flashed every five seconds, which was the flash rate of the Orfordness Lighthouse."
+  },
+  {
+   "s": "photo",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Georgina Bruni, in her book You Can't Tell the People, published a photograph of the supposed landing site taken on the morning after the first sighting."
+  },
+  {
+   "s": "photo",
+   "p": "taken",
+   "v": "on the morning after the first sighting",
+   "quote": "Georgina Bruni, in her book You Can't Tell the People, published a photograph of the supposed landing site taken on the morning after the first sighting."
+  },
+  {
+   "s": "bruni",
+   "p": "published",
+   "o": "photo",
+   "quote": "Georgina Bruni, in her book You Can't Tell the People, published a photograph of the supposed landing site taken on the morning after the first sighting."
+  },
+  {
+   "s": "statements",
+   "p": "key_document",
+   "o": "case",
+   "quote": "According to the witness statements from 26 December, the flashing light seen from the forest lay in the same direction as the Orfordness Lighthouse."
+  },
+  {
+   "s": "statements",
+   "p": "content",
+   "v": "the flashing light seen from the forest lay in the same direction as the Orfordness Lighthouse",
+   "quote": "According to the witness statements from 26 December, the flashing light seen from the forest lay in the same direction as the Orfordness Lighthouse."
+  },
+  {
+   "s": "w_bruni",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Georgina Bruni, in her book You Can't Tell the People, published a photograph of the supposed landing site taken on the morning after the first sighting."
+  },
+  {
+   "s": "bruni",
+   "p": "authored",
+   "o": "w_bruni",
+   "quote": "Georgina Bruni, in her book You Can't Tell the People, published a photograph of the supposed landing site taken on the morning after the first sighting."
+  },
+  {
+   "s": "photo",
+   "p": "part_of",
+   "o": "w_bruni",
+   "quote": "Georgina Bruni, in her book You Can't Tell the People, published a photograph of the supposed landing site taken on the morning after the first sighting."
+  },
+  {
+   "s": "w_skycrash",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2010 Jenny Randles, who in 1981 reported the case in the London Evening Standard and co-authored the first book on the case, Sky Crash: A Cosmic Conspiracy, emphasised her previously expressed doubts that the incident was caused by extraterrestrial visitors."
+  },
+  {
+   "s": "randles",
+   "p": "authored",
+   "o": "w_skycrash",
+   "quote": "In 2010 Jenny Randles, who in 1981 reported the case in the London Evening Standard and co-authored the first book on the case, Sky Crash: A Cosmic Conspiracy, emphasised her previously expressed doubts that the incident was caused by extraterrestrial visitors."
+  },
+  {
+   "s": "w_skycrash",
+   "p": "distinction",
+   "v": "the first book on the case",
+   "quote": "In 2010 Jenny Randles, who in 1981 reported the case in the London Evening Standard and co-authored the first book on the case, Sky Crash: A Cosmic Conspiracy, emphasised her previously expressed doubts that the incident was caused by extraterrestrial visitors."
+  },
+  {
+   "s": "w_skeptoid_ep",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In his 6 January 2009 Skeptoid podcast episode titled \"The Rendlesham Forest UFO,\" scientific sceptic author Brian Dunning evaluated the original eye-witness reports and audio recordings, as well as the resulting media reporting of this incident."
+  },
+  {
+   "s": "dunning",
+   "p": "authored",
+   "o": "w_skeptoid_ep",
+   "quote": "In his 6 January 2009 Skeptoid podcast episode titled \"The Rendlesham Forest UFO,\" scientific sceptic author Brian Dunning evaluated the original eye-witness reports and audio recordings, as well as the resulting media reporting of this incident."
+  },
+  {
+   "s": "w_skeptoid_ep",
+   "p": "date",
+   "v": "2009-01-06",
+   "quote": "In his 6 January 2009 Skeptoid podcast episode titled \"The Rendlesham Forest UFO,\" scientific sceptic author Brian Dunning evaluated the original eye-witness reports and audio recordings, as well as the resulting media reporting of this incident."
+  },
+  {
+   "s": "w_skeptoid_ep",
+   "p": "episode_number",
+   "v": "135",
+   "quote": "Dunning, Brian (6 January 2009). \"Skeptoid #135: The Rendlesham Forest UFO\". Skeptoid. Retrieved 22 June 2017. Explains the Rendlesham incident in rational terms."
+  },
+  {
+   "s": "w_skeptoid_ep",
+   "p": "summary",
+   "v": "explains the Rendlesham incident in rational terms",
+   "quote": "Dunning, Brian (6 January 2009). \"Skeptoid #135: The Rendlesham Forest UFO\". Skeptoid. Retrieved 22 June 2017. Explains the Rendlesham incident in rational terms."
+  },
+  {
+   "s": "w_skeptoid",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In his 6 January 2009 Skeptoid podcast episode titled \"The Rendlesham Forest UFO,\" scientific sceptic author Brian Dunning evaluated the original eye-witness reports and audio recordings, as well as the resulting media reporting of this incident."
+  },
+  {
+   "s": "w_skeptoid_ep",
+   "p": "part_of",
+   "o": "w_skeptoid",
+   "quote": "In his 6 January 2009 Skeptoid podcast episode titled \"The Rendlesham Forest UFO,\" scientific sceptic author Brian Dunning evaluated the original eye-witness reports and audio recordings, as well as the resulting media reporting of this incident."
+  },
+  {
+   "s": "w_film",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The Rendlesham UFO Incident, a 2014 film based on these events"
+  },
+  {
+   "s": "w_film",
+   "p": "year",
+   "v": "2014",
+   "quote": "The Rendlesham UFO Incident, a 2014 film based on these events"
+  },
+  {
+   "s": "w_film",
+   "p": "medium",
+   "v": "film",
+   "quote": "The Rendlesham UFO Incident, a 2014 film based on these events"
+  },
+  {
+   "s": "w_folly",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "McGaha J, Nickell J (2014). \"The Rendlesham UFO incident: a study in folly\" (PDF). Skeptical Inquirer. 38 (5): 60."
+  },
+  {
+   "s": "mcgaha",
+   "p": "authored",
+   "o": "w_folly",
+   "quote": "McGaha J, Nickell J (2014). \"The Rendlesham UFO incident: a study in folly\" (PDF). Skeptical Inquirer. 38 (5): 60."
+  },
+  {
+   "s": "nickell",
+   "p": "authored",
+   "o": "w_folly",
+   "quote": "McGaha J, Nickell J (2014). \"The Rendlesham UFO incident: a study in folly\" (PDF). Skeptical Inquirer. 38 (5): 60."
+  },
+  {
+   "s": "w_folly",
+   "p": "published_in",
+   "v": "Skeptical Inquirer 38 (5): 60",
+   "quote": "McGaha J, Nickell J (2014). \"The Rendlesham UFO incident: a study in folly\" (PDF). Skeptical Inquirer. 38 (5): 60."
+  },
+  {
+   "s": "w_folly",
+   "p": "year",
+   "v": "2014",
+   "quote": "McGaha J, Nickell J (2014). \"The Rendlesham UFO incident: a study in folly\" (PDF). Skeptical Inquirer. 38 (5): 60."
+  },
+  {
+   "s": "f_lights",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Forest in Suffolk, England, in December 1980, which became linked with alleged UFO landings."
+  },
+  {
+   "s": "f_landing",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Forest in Suffolk, England, in December 1980, which became linked with alleged UFO landings."
+  },
+  {
+   "s": "f_military_wit",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "USAF personnel, including deputy base commander Lieutenant Colonel Charles I. Halt, claimed to have seen things he described as a UFO."
+  },
+  {
+   "s": "f_base",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The events occurred just outside RAF Woodbridge, which was used at the time by the United States Air Force (USAF)."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Around 03:00 on 26 December 1980 (reported as 27 December by Halt in his memo to the UK Ministry of Defence) a security patrol near the east gate of RAF Woodbridge saw lights apparently descending into nearby Rendlesham Forest."
+  },
+  {
+   "s": "f_animal",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "As they attempted to approach the object, it appeared to move through the trees, and \"the animals on a nearby farm went into a frenzy\"."
+  },
+  {
+   "s": "f_traces",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "After daybreak on the morning of 26 December, servicemen returned to a small clearing near the eastern edge of the forest and found three small impressions on the ground, as well as burn marks and broken branches on nearby trees."
+  },
+  {
+   "s": "f_radiation",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "They took radiation readings in the triangle of depressions and in the surrounding area using an AN/PDR-27, a standard U.S. military radiation survey meter."
+  },
+  {
+   "s": "f_hover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Halt said that the brightest of these hovered for two to three hours and seemed to beam down a stream of light from time to time."
+  },
+  {
+   "s": "f_photo",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Georgina Bruni, in her book You Can't Tell the People, published a photograph of the supposed landing site taken on the morning after the first sighting."
+  },
+  {
+   "s": "f_hoax",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "One proposed theory is that the incident was a hoax."
+  },
+  {
+   "s": "f_audio",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Halt verbally recorded the events on a micro-cassette recorder."
+  },
+  {
+   "s": "f_beam",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Halt said that the brightest of these hovered for two to three hours and seemed to beam down a stream of light from time to time."
+  },
+  {
+   "s": "f_landing",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The main events of the incident, including the supposed landing or landings, took place in the forest, which starts at the east end of the base runway or about 0.3 miles (0.5 km) to the east of the East Gate of RAF Woodbridge, from where security guards first noticed mysterious lights appearing to descend into the forest."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Halt visited the site with several servicemen in the early hours of 28 December 1980 (reported as 29 December by Halt)."
+  },
+  {
+   "s": "f_radiation",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Although they recorded 0.07 milliroentgens per hour, in other regions they detected 0.03 to 0.04 milliroentgens per hour, around the background level."
+  },
+  {
+   "s": "x_misperception",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Sceptics have explained the sightings as a misinterpretation of a series of nocturnal lights: a fireball, the Orfordness Lighthouse, and bright stars."
+  },
+  {
+   "s": "x_fireball",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Sceptics have explained the sightings as a misinterpretation of a series of nocturnal lights: a fireball, the Orfordness Lighthouse, and bright stars."
+  },
+  {
+   "s": "x_lighthouse",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Sceptics have explained the sightings as a misinterpretation of a series of nocturnal lights: a fireball, the Orfordness Lighthouse, and bright stars."
+  },
+  {
+   "s": "x_star",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Sceptics have explained the sightings as a misinterpretation of a series of nocturnal lights: a fireball, the Orfordness Lighthouse, and bright stars."
+  },
+  {
+   "s": "x_hoax",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "One proposed theory is that the incident was a hoax."
+  },
+  {
+   "s": "x_satellite",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Other explanations for the incident have included a downed Soviet spy satellite, but no evidence has been produced to support this."
+  },
+  {
+   "s": "x_animal",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The supposed landing marks were identified by police and foresters as rabbit diggings."
+  },
+  {
+   "s": "x_aircraft",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Servicemen initially thought it was a downed aircraft."
+  },
+  {
+   "s": "x_misperception",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "We can also argue with confidence that the main focus of the events was a series of misperceptions of everyday things encountered in less than everyday circumstances."
+  },
+  {
+   "s": "x_fireball",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The initial sighting at 03.00 on 26 December, when the airmen saw something apparently descending into the forest, coincided with the appearance of a bright fireball over southern England, and such fireballs are a common source of UFO reports."
+  },
+  {
+   "s": "x_fireball",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "These lights have been attributed by astronomers to a piece of natural debris seen burning up as a fireball over southern England around that time."
+  },
+  {
+   "s": "x_lighthouse",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Orfordness Lighthouse, which sceptics identify as the flashing light seen off to the coast by the airmen, is along the same line of sight about 5 miles (8.0 km) further east of the forest's edge."
+  },
+  {
+   "s": "x_lighthouse",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Timings on Halt's tape recording during his sighting on 28 December indicate that the light he saw, which lay in the same direction as the light seen two nights earlier, flashed every five seconds, which was the flash rate of the Orfordness Lighthouse."
+  },
+  {
+   "s": "x_star",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The star-like objects that Halt reported hovering low to the north and south are thought by some sceptics to have been misinterpretations of bright stars distorted by atmospheric and optical effects, another common source of UFO reports."
+  },
+  {
+   "s": "x_star",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Astronomers have explained these star-like lights as bright stars."
+  },
+  {
+   "s": "x_animal",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "At 10:30 the local police were called out again, this time to see the impressions, which they thought could have been made by an animal."
+  },
+  {
+   "s": "x_fireball",
+   "p": "proposed_by",
+   "v": "astronomers",
+   "quote": "These lights have been attributed by astronomers to a piece of natural debris seen burning up as a fireball over southern England around that time."
+  },
+  {
+   "s": "x_fireball",
+   "p": "detail",
+   "v": "a piece of natural debris seen burning up as a fireball over southern England",
+   "quote": "These lights have been attributed by astronomers to a piece of natural debris seen burning up as a fireball over southern England around that time."
+  },
+  {
+   "s": "x_fireball",
+   "p": "note",
+   "v": "such fireballs are a common source of UFO reports",
+   "quote": "The initial sighting at 03.00 on 26 December, when the airmen saw something apparently descending into the forest, coincided with the appearance of a bright fireball over southern England, and such fireballs are a common source of UFO reports."
+  },
+  {
+   "s": "x_star",
+   "p": "proposed_by",
+   "v": "astronomers",
+   "quote": "Astronomers have explained these star-like lights as bright stars."
+  },
+  {
+   "s": "x_star",
+   "p": "proposed_by",
+   "v": "some sceptics",
+   "quote": "The star-like objects that Halt reported hovering low to the north and south are thought by some sceptics to have been misinterpretations of bright stars distorted by atmospheric and optical effects, another common source of UFO reports."
+  },
+  {
+   "s": "x_star",
+   "p": "detail",
+   "v": "bright stars distorted by atmospheric and optical effects, another common source of UFO reports",
+   "quote": "The star-like objects that Halt reported hovering low to the north and south are thought by some sceptics to have been misinterpretations of bright stars distorted by atmospheric and optical effects, another common source of UFO reports."
+  },
+  {
+   "s": "x_star",
+   "p": "detail",
+   "v": "the brightest matched the position of Sirius, the brightest star in the night sky",
+   "quote": "The brightest of them, to the south, matched the position of Sirius, the brightest star in the night sky."
+  },
+  {
+   "s": "x_lighthouse",
+   "p": "proposed_by",
+   "v": "sceptics",
+   "quote": "Orfordness Lighthouse, which sceptics identify as the flashing light seen off to the coast by the airmen, is along the same line of sight about 5 miles (8.0 km) further east of the forest's edge."
+  },
+  {
+   "s": "x_lighthouse",
+   "p": "supporting_evidence",
+   "v": "the light flashed every five seconds, the flash rate of the Orfordness Lighthouse",
+   "quote": "Timings on Halt's tape recording during his sighting on 28 December indicate that the light he saw, which lay in the same direction as the light seen two nights earlier, flashed every five seconds, which was the flash rate of the Orfordness Lighthouse."
+  },
+  {
+   "s": "x_misperception",
+   "p": "proposed_by",
+   "v": "sceptics",
+   "quote": "Sceptics have explained the sightings as a misinterpretation of a series of nocturnal lights: a fireball, the Orfordness Lighthouse, and bright stars."
+  },
+  {
+   "s": "x_animal",
+   "p": "proposed_by",
+   "v": "police and foresters",
+   "quote": "The supposed landing marks were identified by police and foresters as rabbit diggings."
+  },
+  {
+   "s": "x_animal",
+   "p": "detail",
+   "v": "rabbit diggings",
+   "quote": "The supposed landing marks were identified by police and foresters as rabbit diggings."
+  },
+  {
+   "s": "x_satellite",
+   "p": "detail",
+   "v": "a downed Soviet spy satellite",
+   "quote": "Other explanations for the incident have included a downed Soviet spy satellite, but no evidence has been produced to support this."
+  },
+  {
+   "s": "x_satellite",
+   "p": "status",
+   "v": "no evidence has been produced to support this",
+   "quote": "Other explanations for the incident have included a downed Soviet spy satellite, but no evidence has been produced to support this."
+  },
+  {
+   "s": "x_hoax",
+   "p": "status",
+   "v": "no evidence that this prank took place on the nights in question",
+   "quote": "However, there is no evidence that this prank took place on the nights in question."
+  },
+  {
+   "s": "x_aircraft",
+   "p": "proposed_by",
+   "v": "servicemen (initial assumption of a downed aircraft)",
+   "quote": "Servicemen initially thought it was a downed aircraft."
+  },
+  {
+   "s": "lighthouse_place",
+   "p": "identified_as",
+   "o": "x_lighthouse",
+   "quote": "Orfordness Lighthouse, which sceptics identify as the flashing light seen off to the coast by the airmen, is along the same line of sight about 5 miles (8.0 km) further east of the forest's edge."
+  },
+  {
+   "s": "conde",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "The BBC reported that a former U.S. security policeman, Kevin Conde, claimed responsibility for creating strange lights in the forest by driving around in a police vehicle whose lights he had modified."
+  },
+  {
+   "s": "randles",
+   "p": "proposed",
+   "o": "x_misperception",
+   "quote": "We can also argue with confidence that the main focus of the events was a series of misperceptions of everyday things encountered in less than everyday circumstances."
+  },
+  {
+   "s": "dunning",
+   "p": "proposed",
+   "o": "x_fireball",
+   "quote": "The meteors had nothing to do with the lighthouse or the rabbit diggings, but when you hear all three stories told together, it's easy to conclude (as did the airmen) that the light overhead became an alien spacecraft in the forest."
+  },
+  {
+   "s": "dunning",
+   "p": "proposed",
+   "o": "x_lighthouse",
+   "quote": "The meteors had nothing to do with the lighthouse or the rabbit diggings, but when you hear all three stories told together, it's easy to conclude (as did the airmen) that the light overhead became an alien spacecraft in the forest."
+  },
+  {
+   "s": "dunning",
+   "p": "proposed",
+   "o": "x_animal",
+   "quote": "The meteors had nothing to do with the lighthouse or the rabbit diggings, but when you hear all three stories told together, it's easy to conclude (as did the airmen) that the light overhead became an alien spacecraft in the forest."
+  },
+  {
+   "s": "burroughs",
+   "p": "proposed",
+   "o": "x_lighthouse",
+   "quote": "John Burroughs said that they \"followed it for about 2 miles before we could see it was coming from a lighthouse\", with Ed Cabansag agreeing that once they had reached a suitable vantage point they could see that it was \"only a beacon light off in the distance\"."
+  },
+  {
+   "s": "cabansag",
+   "p": "proposed",
+   "o": "x_lighthouse",
+   "quote": "John Burroughs said that they \"followed it for about 2 miles before we could see it was coming from a lighthouse\", with Ed Cabansag agreeing that once they had reached a suitable vantage point they could see that it was \"only a beacon light off in the distance\"."
+  }
+ ]
+}

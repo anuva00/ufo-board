@@ -53,7 +53,7 @@ SYNONYMS = {
     "ussr": "soviet union",
 }
 CASE_NOISE = set("the ufo ufos incident incidents case encounter sighting sightings affair event events of in at alleged reported".split())
-GROUP = {"organization": "named", "program": "named", "place": "named", "document": "doc", "work": "doc"}
+GROUP = {"organization": "org", "program": "org", "document": "doc", "work": "doc"}   # places never merge with organisations ("New York" the magazine)
 SUFFIXES = {"jr", "sr", "ii", "iii"}
 GENERIC = {"united states", "united kingdom", "soviet union", "new mexico", "new york", "air force", "new zealand"}
 NO_MERGE = {"craft", "vehicle"}  # specific to one case by nature

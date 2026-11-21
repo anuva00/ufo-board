@@ -1,0 +1,4406 @@
+{
+ "slug": "petrozavodsk-phenomenon",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Petrozavodsk phenomenon",
+   "aliases": [
+    "Petrozavodsk UFO",
+    "Petrozavodsk incident",
+    "Petrozavodsk miracle",
+    "phenomenon of 20 September 1977"
+   ],
+   "description": "Series of luminous aerial events on 20 September 1977 reported from Denmark and Finland across the Soviet Union, named for a glowing 'jellyfish' object over Petrozavodsk."
+  },
+  {
+   "key": "ussr",
+   "type": "place",
+   "name": "Soviet Union",
+   "aliases": [
+    "USSR"
+   ],
+   "description": "Country where most of the sightings were reported"
+  },
+  {
+   "key": "russia",
+   "type": "place",
+   "name": "Russia",
+   "description": "Republic of the Soviet Union in which Petrozavodsk lies"
+  },
+  {
+   "key": "petro",
+   "type": "place",
+   "name": "Petrozavodsk, Russia",
+   "aliases": [
+    "Petrozavodsk",
+    "Petrozavodsk, Soviet Union"
+   ],
+   "description": "City after which the phenomenon is named; capital of the Karelian ASSR"
+  },
+  {
+   "key": "karelia",
+   "type": "place",
+   "name": "Karelian Autonomous Soviet Socialist Republic",
+   "aliases": [
+    "Karelia",
+    "Karelian ASSR"
+   ],
+   "description": "Soviet republic of which Petrozavodsk was the capital"
+  },
+  {
+   "key": "copenhagen",
+   "type": "place",
+   "name": "Copenhagen, Denmark",
+   "aliases": [
+    "Copenhagen"
+   ],
+   "description": "Westernmost reported sighting location"
+  },
+  {
+   "key": "denmark",
+   "type": "place",
+   "name": "Denmark",
+   "description": "Country where a glowing object was reported over Copenhagen"
+  },
+  {
+   "key": "helsinki",
+   "type": "place",
+   "name": "Helsinki, Finland",
+   "aliases": [
+    "Helsinki"
+   ],
+   "description": "Finnish capital where a glowing ball was observed by many residents"
+  },
+  {
+   "key": "finland",
+   "type": "place",
+   "name": "Finland",
+   "description": "Country where sightings were reported at Helsinki and near Turku"
+  },
+  {
+   "key": "vladivostok",
+   "type": "place",
+   "name": "Vladivostok, Russia",
+   "aliases": [
+    "Vladivostok"
+   ],
+   "description": "Easternmost reported sighting location"
+  },
+  {
+   "key": "medvezh",
+   "type": "place",
+   "name": "Medvezhyegorsk, Soviet Union",
+   "aliases": [
+    "Medvezhyegorsk"
+   ],
+   "description": "Town with a sighting at 1:00 am local time"
+  },
+  {
+   "key": "loukhi",
+   "type": "place",
+   "name": "Loukhi, Soviet Union",
+   "aliases": [
+    "Loukhi"
+   ],
+   "description": "Settlement with a sighting at 2:30 am"
+  },
+  {
+   "key": "kovdor",
+   "type": "place",
+   "name": "Kovdor, Soviet Union",
+   "aliases": [
+    "Kovdor"
+   ],
+   "description": "Town with a sighting at 3:00 am"
+  },
+  {
+   "key": "palanga",
+   "type": "place",
+   "name": "Palanga, Lithuania",
+   "aliases": [
+    "Palanga"
+   ],
+   "description": "Town with a sighting at 3:00 am"
+  },
+  {
+   "key": "lithuania",
+   "type": "place",
+   "name": "Lithuania",
+   "description": "Location of Palanga, where a sighting occurred"
+  },
+  {
+   "key": "lenport",
+   "type": "place",
+   "name": "Leningrad maritime trade port",
+   "description": "Port whose supervising personnel observed a luminous object"
+  },
+  {
+   "key": "primorsk",
+   "type": "place",
+   "name": "Primorsk, Soviet Union",
+   "aliases": [
+    "Primorsk",
+    "Primorsk harbour"
+   ],
+   "description": "Harbour town near which the object seen from the vessel Primorsk changed direction"
+  },
+  {
+   "key": "helapt",
+   "type": "place",
+   "name": "Helsinki Airport",
+   "aliases": [
+    "Helsinki airport"
+   ],
+   "description": "Airport whose personnel observed the glowing ball; its radar reportedly did not detect it"
+  },
+  {
+   "key": "turku",
+   "type": "place",
+   "name": "Turku, Finland",
+   "aliases": [
+    "Turku"
+   ],
+   "description": "Finnish city near which two men reported a spinning object"
+  },
+  {
+   "key": "rome",
+   "type": "place",
+   "name": "Rome, Italy",
+   "aliases": [
+    "Rome"
+   ],
+   "description": "Origin of the Finnish airline flight whose pilots saw a glowing object"
+  },
+  {
+   "key": "lekhta",
+   "type": "place",
+   "name": "Lekhta, Soviet Union",
+   "aliases": [
+    "Lekhta"
+   ],
+   "description": "Place near which the IZMIRAN geophysical expedition observed the phenomenon"
+  },
+  {
+   "key": "leningrad",
+   "type": "place",
+   "name": "Saint Petersburg, Russia",
+   "aliases": [
+    "Leningrad",
+    "Saint Petersburg"
+   ],
+   "description": "City, then called Leningrad, where Pulkovo Airport staff reported an object"
+  },
+  {
+   "key": "pulkovoapt",
+   "type": "place",
+   "name": "Pulkovo Airport",
+   "aliases": [
+    "Pulkovo"
+   ],
+   "description": "Leningrad airport where three night shift employees reported an object"
+  },
+  {
+   "key": "peski",
+   "type": "place",
+   "name": "Peski airport",
+   "aliases": [
+    "Peski"
+   ],
+   "description": "Airport over which an object was reported but not detected by radar"
+  },
+  {
+   "key": "petrodvorets",
+   "type": "place",
+   "name": "Petrodvorets, Soviet Union",
+   "aliases": [
+    "Petrodvorets"
+   ],
+   "description": "Place in the Soviet Union from which a further report came"
+  },
+  {
+   "key": "lomonosov",
+   "type": "place",
+   "name": "Lomonosov, Soviet Union",
+   "aliases": [
+    "Lomonosov"
+   ],
+   "description": "Place in the Soviet Union from which a further report came"
+  },
+  {
+   "key": "podporozhye",
+   "type": "place",
+   "name": "Podporozhye, Soviet Union",
+   "aliases": [
+    "Podporozhye"
+   ],
+   "description": "Place in the Soviet Union from which a further report came"
+  },
+  {
+   "key": "polovina",
+   "type": "place",
+   "name": "Polovina, Soviet Union",
+   "aliases": [
+    "Polovina"
+   ],
+   "description": "Place in the Soviet Union from which a further report came"
+  },
+  {
+   "key": "leppasyrja",
+   "type": "place",
+   "name": "Leppäsyrjä, Soviet Union",
+   "aliases": [
+    "Leppäsyrjä"
+   ],
+   "description": "Place in the Soviet Union from which a further report came"
+  },
+  {
+   "key": "kem",
+   "type": "place",
+   "name": "Kem, Soviet Union",
+   "aliases": [
+    "Kem"
+   ],
+   "description": "Place in the Soviet Union from which a further report came"
+  },
+  {
+   "key": "poltsamaa",
+   "type": "place",
+   "name": "Põltsamaa, Soviet Union",
+   "aliases": [
+    "Põltsamaa"
+   ],
+   "description": "Place in the Soviet Union from which a further report came"
+  },
+  {
+   "key": "liiva",
+   "type": "place",
+   "name": "Liiva, Soviet Union",
+   "aliases": [
+    "Liiva"
+   ],
+   "description": "Place in the Soviet Union from which a further report came"
+  },
+  {
+   "key": "priozersk",
+   "type": "place",
+   "name": "Priozersk, Soviet Union",
+   "aliases": [
+    "Priozersk"
+   ],
+   "description": "Place in the Soviet Union from which a further report came"
+  },
+  {
+   "key": "kestenga",
+   "type": "place",
+   "name": "Kestenga, Soviet Union",
+   "aliases": [
+    "Kestenga"
+   ],
+   "description": "Place in the Soviet Union from which a further report came"
+  },
+  {
+   "key": "valday",
+   "type": "place",
+   "name": "Valday, Soviet Union",
+   "aliases": [
+    "Valday"
+   ],
+   "description": "Place in the Soviet Union from which a further report came"
+  },
+  {
+   "key": "kurkijoki",
+   "type": "place",
+   "name": "Kurkijoki, Soviet Union",
+   "aliases": [
+    "Kurkijoki"
+   ],
+   "description": "Settlement where engineer A. Novozhilov saw an airship-like object"
+  },
+  {
+   "key": "namoyevo",
+   "type": "place",
+   "name": "Namoyevo, Soviet Union",
+   "aliases": [
+    "Namoyevo"
+   ],
+   "description": "Place near which Yuri Linnik observed an object from his dacha"
+  },
+  {
+   "key": "singapore",
+   "type": "place",
+   "name": "Singapore",
+   "description": "Origin of the flight on which Guram Pandzhikidze was a passenger"
+  },
+  {
+   "key": "moscow",
+   "type": "place",
+   "name": "Moscow, Russia",
+   "aliases": [
+    "Moscow"
+   ],
+   "description": "Destination of the flight on which Guram Pandzhikidze was a passenger"
+  },
+  {
+   "key": "onega",
+   "type": "place",
+   "name": "Onega Lake",
+   "aliases": [
+    "Lake Onega"
+   ],
+   "description": "Lake towards which the Petrozavodsk object resumed its movement"
+  },
+  {
+   "key": "pryazha",
+   "type": "place",
+   "name": "Pryazha, Soviet Union",
+   "aliases": [
+    "Pryazha"
+   ],
+   "description": "Adjacent place where the Petrozavodsk object was also seen"
+  },
+  {
+   "key": "ukshozero",
+   "type": "place",
+   "name": "Ukshozero",
+   "description": "Lake where Linnik noted an intense bloom of the water after 20 September"
+  },
+  {
+   "key": "sortavala",
+   "type": "place",
+   "name": "Sortavala, Soviet Union",
+   "aliases": [
+    "Sortavala"
+   ],
+   "description": "Town whose newspaper Krasnoye Znamya published a hydrometeostation report"
+  },
+  {
+   "key": "evanston",
+   "type": "place",
+   "name": "Evanston, Illinois",
+   "description": "Location of CUFOS, which received a copy of the Soviet report"
+  },
+  {
+   "key": "usa",
+   "type": "place",
+   "name": "United States",
+   "description": "Country to which a copy of the Soviet report was forwarded"
+  },
+  {
+   "key": "plesetsk",
+   "type": "place",
+   "name": "Plesetsk Cosmodrome",
+   "aliases": [
+    "Plesetsk"
+   ],
+   "description": "Launch site of the satellite Kosmos-955"
+  },
+  {
+   "key": "kapyar",
+   "type": "place",
+   "name": "Kapustin Yar",
+   "aliases": [
+    "Kapustin Yar site"
+   ],
+   "description": "Rocket site where Oleh Pruss served for 18 years"
+  },
+  {
+   "key": "acad",
+   "type": "organization",
+   "name": "Academy of Sciences of the USSR",
+   "aliases": [
+    "Soviet Academy of Sciences",
+    "Academy of Sciences of the Soviet Union"
+   ],
+   "description": "Soviet academy for which the preliminary report was made"
+  },
+  {
+   "key": "kardep",
+   "type": "organization",
+   "name": "Karelian Department of the Academy of Sciences of the USSR",
+   "aliases": [
+    "Karelian Department of the Academy"
+   ],
+   "description": "Academy branch notified of the expert group's dispatch"
+  },
+  {
+   "key": "izmiran",
+   "type": "organization",
+   "name": "IZMIRAN",
+   "description": "Soviet institute whose geophysical expedition observed the phenomenon; employer of Migulin and Platov"
+  },
+  {
+   "key": "ilta",
+   "type": "organization",
+   "name": "Ilta-Sanomat",
+   "description": "Finnish newspaper that reported the Helsinki and Copenhagen sightings"
+  },
+  {
+   "key": "kansan",
+   "type": "organization",
+   "name": "Kansan Uutiset",
+   "description": "Finnish newspaper that reported the Helsinki sightings and published the Kivinen interview"
+  },
+  {
+   "key": "uusi",
+   "type": "organization",
+   "name": "Uusi Suomi",
+   "description": "Finnish newspaper that published the interview with Matti Kivinen"
+  },
+  {
+   "key": "tuorla",
+   "type": "organization",
+   "name": "Tuorla Observatory",
+   "description": "Observatory of Pekka Teerikorpi"
+  },
+  {
+   "key": "militsiya",
+   "type": "organization",
+   "name": "Militsiya",
+   "aliases": [
+    "militsiya"
+   ],
+   "description": "Soviet police, whose on-duty functionaries were among the eyewitnesses"
+  },
+  {
+   "key": "tass",
+   "type": "organization",
+   "name": "TASS",
+   "description": "Soviet news agency whose correspondent wrote the earliest published report"
+  },
+  {
+   "key": "pravda",
+   "type": "organization",
+   "name": "Pravda",
+   "description": "Mainstream Soviet newspaper that published Milov's report"
+  },
+  {
+   "key": "izvestiya",
+   "type": "organization",
+   "name": "Izvestiya",
+   "description": "Mainstream Soviet newspaper that published Milov's report"
+  },
+  {
+   "key": "selskaya",
+   "type": "organization",
+   "name": "Selskaya Zhizn",
+   "description": "Mainstream Soviet newspaper that published Milov's report"
+  },
+  {
+   "key": "sotsind",
+   "type": "organization",
+   "name": "Sotsialisticheskaya Industriya",
+   "description": "Mainstream Soviet newspaper that published Milov's report"
+  },
+  {
+   "key": "leninpravda",
+   "type": "organization",
+   "name": "Leninskaya Pravda",
+   "description": "Local newspaper that reported the Petrozavodsk object"
+  },
+  {
+   "key": "tekhnika",
+   "type": "organization",
+   "name": "Tekhnika i Nauka",
+   "description": "Publication that printed a colour reconstruction of the object in 1978"
+  },
+  {
+   "key": "kho",
+   "type": "organization",
+   "name": "Karelian Hydrometeorological Observatory",
+   "description": "Petrozavodsk observatory directed by Yuri Gromov; its weather radar later detected glowing objects"
+  },
+  {
+   "key": "upi",
+   "type": "organization",
+   "name": "United Press International",
+   "aliases": [
+    "UPI"
+   ],
+   "description": "News agency that reported a radar detection at Helsinki airport"
+  },
+  {
+   "key": "airdef",
+   "type": "organization",
+   "name": "Soviet air defense system",
+   "description": "Soviet air defence, which did not spot the objects"
+  },
+  {
+   "key": "sternberg",
+   "type": "organization",
+   "name": "Sternberg Astronomical Institute",
+   "description": "Institute of research fellow Lev Gindilis"
+  },
+  {
+   "key": "mepi",
+   "type": "organization",
+   "name": "MEPI",
+   "description": "Institute of engineer-physicist D. Menkov"
+  },
+  {
+   "key": "iki",
+   "type": "organization",
+   "name": "Institute of Space Studies of the Soviet Academy of Sciences",
+   "aliases": [
+    "Russian Space Research Institute",
+    "Institute of Space Studies"
+   ],
+   "description": "Institute that hosted the 1 November 1977 meeting on the phenomenon"
+  },
+  {
+   "key": "petrsu",
+   "type": "organization",
+   "name": "Petrozavodsk University",
+   "description": "Employer of Y. Mezentsev"
+  },
+  {
+   "key": "gepan",
+   "type": "organization",
+   "name": "GEPAN",
+   "description": "French research group that received a copy of the Soviet report"
+  },
+  {
+   "key": "cufos",
+   "type": "organization",
+   "name": "Center for UFO Studies",
+   "aliases": [
+    "CUFOS"
+   ],
+   "description": "Group in Evanston, Illinois to which the report copy was forwarded"
+  },
+  {
+   "key": "nasa",
+   "type": "organization",
+   "name": "NASA",
+   "description": "Employer of scientist Richard Haines"
+  },
+  {
+   "key": "pulkovoobs",
+   "type": "organization",
+   "name": "Pulkovo Observatory",
+   "description": "Observatory directed by Vladimir Krat"
+  },
+  {
+   "key": "sovross",
+   "type": "organization",
+   "name": "Sovetskaya Rossiya",
+   "description": "Newspaper that published Migulin's conjecture on 19 April 1980"
+  },
+  {
+   "key": "aviakosm",
+   "type": "organization",
+   "name": "Aviatsiya i Kosmonavtika",
+   "description": "Publication that printed Dmitriyev's chemiluminescence article in 1978"
+  },
+  {
+   "key": "krasznam",
+   "type": "organization",
+   "name": "Krasnoye Znamya",
+   "description": "Sortavala newspaper that published a local hydrometeostation report on 8 October 1977"
+  },
+  {
+   "key": "nauka",
+   "type": "organization",
+   "name": "Nauka v SSSR",
+   "description": "Soviet magazine that published Platov's view in 1985"
+  },
+  {
+   "key": "nurmijarvi",
+   "type": "organization",
+   "name": "Nurmijärvi geophysical observatory",
+   "description": "Finnish observatory employing Matti Kivinen"
+  },
+  {
+   "key": "setka",
+   "type": "program",
+   "name": "Setka AN",
+   "description": "Soviet research program for anomalous atmospheric phenomena"
+  },
+  {
+   "key": "kosmos",
+   "type": "vehicle",
+   "name": "Kosmos-955",
+   "aliases": [
+    "Kosmos 955"
+   ],
+   "description": "Soviet satellite launched from Plesetsk Cosmodrome on 20 September 1977"
+  },
+  {
+   "key": "vessel",
+   "type": "vehicle",
+   "name": "Primorsk (Soviet fishing vessel)",
+   "aliases": [
+    "Primorsk",
+    "fishing vessel Primorsk"
+   ],
+   "description": "Fishing vessel whose crew saw a flying object while departing Primorsk harbour"
+  },
+  {
+   "key": "finnair",
+   "type": "vehicle",
+   "name": "Finnish airline aircraft flying from Rome",
+   "description": "Airliner whose pilots saw a glowing object over Copenhagen"
+  },
+  {
+   "key": "tu154",
+   "type": "vehicle",
+   "name": "Tu-154",
+   "description": "Airliner whose crew spotted a luminous spherical object"
+  },
+  {
+   "key": "sinflight",
+   "type": "vehicle",
+   "name": "Aircraft returning from Singapore to Moscow",
+   "description": "Airliner from which Guram Pandzhikidze and other passengers saw a luminous object"
+  },
+  {
+   "key": "c_petro",
+   "type": "craft",
+   "name": "Petrozavodsk object",
+   "aliases": [
+    "glowing object over Petrozavodsk",
+    "the jellyfish"
+   ],
+   "description": "Glowing jellyfish-like object that hovered over Petrozavodsk and showered the city with rays"
+  },
+  {
+   "key": "c_kurk",
+   "type": "craft",
+   "name": "Airship-like object seen at Kurkijoki",
+   "description": "Faceted luminous object compared to an airship by A. Novozhilov"
+  },
+  {
+   "key": "c_lin",
+   "type": "craft",
+   "name": "Lens-like object observed by Yuri Linnik",
+   "description": "Amethyst-coloured lens-like object with 16 ray-emitting spots seen through a telescope near Namoyevo"
+  },
+  {
+   "key": "c_hel",
+   "type": "craft",
+   "name": "Glowing ball over Helsinki",
+   "description": "Glowing ball observed by many Helsinki residents"
+  },
+  {
+   "key": "c_turku",
+   "type": "craft",
+   "name": "Spinning lifebuoy-like object near Turku",
+   "description": "Spinning object reported by two men near Turku"
+  },
+  {
+   "key": "c_pulk",
+   "type": "craft",
+   "name": "Fireball-like object seen from Pulkovo Airport",
+   "description": "Object with a rhythmically glowing coat reported by B. Blagirev"
+  },
+  {
+   "key": "c_prim",
+   "type": "craft",
+   "name": "Flying object seen from the fishing vessel Primorsk",
+   "description": "Flying object surrounded by a luminous coat seen by the vessel's crew"
+  },
+  {
+   "key": "letters",
+   "type": "document",
+   "name": "Letters from northern European government officials to Anatoly Aleksandrov",
+   "description": "Letters asking whether the phenomenon was caused by Soviet weapons testing"
+  },
+  {
+   "key": "prelim",
+   "type": "document",
+   "name": "1977 preliminary report on the Petrozavodsk phenomenon for the Academy of Sciences of the USSR",
+   "aliases": [
+    "Soviet report",
+    "preliminary report"
+   ],
+   "description": "For Official Use Only report prepared by Gindilis, Menkov and Petrovskaya"
+  },
+  {
+   "key": "ginanalysis",
+   "type": "document",
+   "name": "Initial analysis of the phenomenon by Lev Gindilis",
+   "description": "First analysis, using testimonies and meteorological data available by 30 September 1977"
+  },
+  {
+   "key": "appendix",
+   "type": "document",
+   "name": "Appendix to the 1977 preliminary report",
+   "description": "Appendix with updated data compiled at the end of January 1978"
+  },
+  {
+   "key": "kotnote",
+   "type": "document",
+   "name": "Note from Vladimir Kotelnikov to the Karelian Department of the Academy",
+   "description": "Note of 2 January 1978 announcing the dispatch of an expert group"
+  },
+  {
+   "key": "milovrep",
+   "type": "document",
+   "name": "TASS report by Nikolai Milov",
+   "aliases": [
+    "Milov's report"
+   ],
+   "description": "Earliest published report of the Petrozavodsk phenomenon"
+  },
+  {
+   "key": "akimovdraw",
+   "type": "document",
+   "name": "Drawing by eyewitness Andrei Akimov",
+   "description": "Eyewitness drawing used by Felix Ziegel to estimate the cupola's diameter"
+  },
+  {
+   "key": "photos",
+   "type": "document",
+   "name": "Three photographs taken by A. Novozhilov",
+   "description": "Unsuccessful photographs of the Kurkijoki sighting"
+  },
+  {
+   "key": "recon",
+   "type": "work",
+   "name": "Color reconstruction of the Petrozavodsk object in Tekhnika i Nauka",
+   "description": "Colour reconstruction of various stages of the object, published 1978"
+  },
+  {
+   "key": "flashes",
+   "type": "work",
+   "name": "'Flashes' in the Atmosphere",
+   "aliases": [
+    "\"'Flashes' in the Atmosphere\""
+   ],
+   "description": "1978 article by M. Dmitriyev proposing a chemiluminescence hypothesis"
+  },
+  {
+   "key": "norway",
+   "type": "case",
+   "name": "2009 Norwegian spiral anomaly",
+   "description": "Other aerial phenomenon listed under See also"
+  },
+  {
+   "key": "aleksandrov",
+   "type": "person",
+   "name": "Anatoly Aleksandrov",
+   "description": "President of the Academy of Sciences of the USSR"
+  },
+  {
+   "key": "teerikorpi",
+   "type": "person",
+   "name": "Pekka Teerikorpi",
+   "aliases": [
+    "Teerikorpi"
+   ],
+   "description": "Tuorla Observatory figure who contested the Turku sighting"
+  },
+  {
+   "key": "blagirev",
+   "type": "person",
+   "name": "B. Blagirev",
+   "aliases": [
+    "Blagirev"
+   ],
+   "description": "Air traffic controller at Pulkovo Airport who reported an object"
+  },
+  {
+   "key": "novozhilov",
+   "type": "person",
+   "name": "A. Novozhilov",
+   "aliases": [
+    "Novozhilov"
+   ],
+   "description": "Engineer who saw an airship-like object at Kurkijoki"
+  },
+  {
+   "key": "polevitsky",
+   "type": "person",
+   "name": "Konstantin Polevitsky",
+   "description": "Candidate of technical sciences who recorded Novozhilov's sighting"
+  },
+  {
+   "key": "linnik",
+   "type": "person",
+   "name": "Yuri Linnik",
+   "aliases": [
+    "Linnik"
+   ],
+   "description": "Soviet writer and philosopher who observed an object through a telescope"
+  },
+  {
+   "key": "pandzh",
+   "type": "person",
+   "name": "Guram Pandzhikidze",
+   "aliases": [
+    "Pandzhikidze"
+   ],
+   "description": "Georgian writer who saw a luminous object from an airliner"
+  },
+  {
+   "key": "gromov",
+   "type": "person",
+   "name": "Yuri Gromov",
+   "description": "Director of the Karelian Hydrometeorological Observatory who verified and attested eyewitness reports"
+  },
+  {
+   "key": "milov",
+   "type": "person",
+   "name": "Nikolai Milov",
+   "aliases": [
+    "Milov"
+   ],
+   "description": "TASS correspondent who wrote the earliest published report"
+  },
+  {
+   "key": "barkhatov",
+   "type": "person",
+   "name": "V. Barkhatov",
+   "description": "Former pilot and eyewitness who determined the object's course angle"
+  },
+  {
+   "key": "ziegel",
+   "type": "person",
+   "name": "Felix Ziegel",
+   "aliases": [
+    "Ziegel"
+   ],
+   "description": "Researcher who estimated the object's size and rejected the satellite, aurora and chemiluminescence explanations"
+  },
+  {
+   "key": "akimov",
+   "type": "person",
+   "name": "Andrei Akimov",
+   "description": "Eyewitness whose drawing was used to estimate the object's size"
+  },
+  {
+   "key": "trubachev",
+   "type": "person",
+   "name": "V. Trubachev",
+   "description": "Eyewitness of the Petrozavodsk object"
+  },
+  {
+   "key": "andreyeva",
+   "type": "person",
+   "name": "Y. Andreyeva",
+   "description": "Clinical psychologist who evaluated nine eyewitnesses"
+  },
+  {
+   "key": "grakov",
+   "type": "person",
+   "name": "A. Grakov",
+   "description": "Witness who observed a glowing yellow ball the size of the moon"
+  },
+  {
+   "key": "hamalainen",
+   "type": "person",
+   "name": "Ari Hämäläinen",
+   "description": "Helsinki airport traffic controller who denied a radar detection"
+  },
+  {
+   "key": "gindilis",
+   "type": "person",
+   "name": "Lev Gindilis",
+   "aliases": [
+    "Gindilis"
+   ],
+   "description": "Sternberg Astronomical Institute research fellow who made the initial analysis and co-wrote the preliminary report"
+  },
+  {
+   "key": "menkov",
+   "type": "person",
+   "name": "D. Menkov",
+   "description": "MEPI engineer-physicist, co-author of the preliminary report"
+  },
+  {
+   "key": "petrovskaya",
+   "type": "person",
+   "name": "I. Petrovskaya",
+   "description": "Co-author of the preliminary report"
+  },
+  {
+   "key": "kotelnikov",
+   "type": "person",
+   "name": "Vladimir Kotelnikov",
+   "description": "Vice president of the Soviet Academy of Sciences who signed the note dispatching an expert group"
+  },
+  {
+   "key": "mezentsev",
+   "type": "person",
+   "name": "Y. Mezentsev",
+   "description": "Petrozavodsk University employee who made theodolite measurements"
+  },
+  {
+   "key": "hynek",
+   "type": "person",
+   "name": "J. Allen Hynek",
+   "aliases": [
+    "Hynek"
+   ],
+   "description": "Presented a copy of the Soviet report to Richard Haines and called it key evidence"
+  },
+  {
+   "key": "haines",
+   "type": "person",
+   "name": "Richard Haines",
+   "aliases": [
+    "Haines"
+   ],
+   "description": "NASA scientist who translated the Soviet report into English"
+  },
+  {
+   "key": "oberg",
+   "type": "person",
+   "name": "James Oberg",
+   "aliases": [
+    "Oberg"
+   ],
+   "description": "Attributed the Petrozavodsk object to the launch of Kosmos-955 and criticised the Soviet investigation"
+  },
+  {
+   "key": "krat",
+   "type": "person",
+   "name": "Vladimir Krat",
+   "description": "Director of the Pulkovo Observatory who proposed a meteorite and then aurorae"
+  },
+  {
+   "key": "migulin",
+   "type": "person",
+   "name": "Vladimir Migulin",
+   "aliases": [
+    "Migulin"
+   ],
+   "description": "Director of IZMIRAN who supported the aurora view and later a combination of causes"
+  },
+  {
+   "key": "dmitriyev",
+   "type": "person",
+   "name": "M. Dmitriyev",
+   "aliases": [
+    "Dmitriyev"
+   ],
+   "description": "Author of the chemiluminescence hypothesis article"
+  },
+  {
+   "key": "kivinen",
+   "type": "person",
+   "name": "Matti Kivinen",
+   "description": "Nurmijärvi geophysical observatory employee who suggested a launch vehicle or satellite remnant"
+  },
+  {
+   "key": "platov",
+   "type": "person",
+   "name": "Yuli Platov",
+   "aliases": [
+    "Platov"
+   ],
+   "description": "IZMIRAN fellow who endorsed Oberg's Kosmos-955 view in 1984"
+  },
+  {
+   "key": "pruss",
+   "type": "person",
+   "name": "Oleh Pruss",
+   "description": "Ukrainian researcher with 18 years' service at Kapustin Yar who doubted the rocket explanation"
+  },
+  {
+   "key": "f_mass",
+   "type": "feature",
+   "name": "mass-sighting"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses"
+  },
+  {
+   "key": "f_police",
+   "type": "feature",
+   "name": "police-witnesses"
+  },
+  {
+   "key": "f_mil",
+   "type": "feature",
+   "name": "military-witnesses"
+  },
+  {
+   "key": "f_pilot",
+   "type": "feature",
+   "name": "pilot-witnesses"
+  },
+  {
+   "key": "f_radar",
+   "type": "feature",
+   "name": "radar-contact"
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation"
+  },
+  {
+   "key": "f_hover",
+   "type": "feature",
+   "name": "hovering"
+  },
+  {
+   "key": "f_silent",
+   "type": "feature",
+   "name": "silent"
+  },
+  {
+   "key": "f_sphere",
+   "type": "feature",
+   "name": "shape-sphere"
+  },
+  {
+   "key": "f_disc",
+   "type": "feature",
+   "name": "shape-disc"
+  },
+  {
+   "key": "f_cyl",
+   "type": "feature",
+   "name": "shape-cylinder"
+  },
+  {
+   "key": "f_other",
+   "type": "feature",
+   "name": "shape-other"
+  },
+  {
+   "key": "f_landing",
+   "type": "feature",
+   "name": "landing-reported"
+  },
+  {
+   "key": "f_emi",
+   "type": "feature",
+   "name": "electromagnetic-interference"
+  },
+  {
+   "key": "f_cover",
+   "type": "feature",
+   "name": "alleged-cover-up"
+  },
+  {
+   "key": "f_rays",
+   "type": "feature",
+   "name": "other:light rays or beams"
+  },
+  {
+   "key": "f_bio",
+   "type": "feature",
+   "name": "other:increased biological activity"
+  },
+  {
+   "key": "f_psych",
+   "type": "feature",
+   "name": "other:psychological evaluation of witnesses"
+  },
+  {
+   "key": "f_ejected",
+   "type": "feature",
+   "name": "other:smaller object released from craft"
+  },
+  {
+   "key": "x_sat",
+   "type": "explanation",
+   "name": "satellite-or-rocket"
+  },
+  {
+   "key": "x_meteor",
+   "type": "explanation",
+   "name": "meteor-or-fireball"
+  },
+  {
+   "key": "x_aurora",
+   "type": "explanation",
+   "name": "other:aurora"
+  },
+  {
+   "key": "x_chem",
+   "type": "explanation",
+   "name": "other:chemiluminescence"
+  },
+  {
+   "key": "x_miltest",
+   "type": "explanation",
+   "name": "military-test-or-exercise"
+  },
+  {
+   "key": "x_flare",
+   "type": "explanation",
+   "name": "other:magnetic perturbation due to solar flare"
+  },
+  {
+   "key": "x_iono",
+   "type": "explanation",
+   "name": "other:ionospheric radio-wave experiment"
+  },
+  {
+   "key": "x_cosmic",
+   "type": "explanation",
+   "name": "other:cosmic agent"
+  },
+  {
+   "key": "x_misp",
+   "type": "explanation",
+   "name": "misperception"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1977-09-20",
+   "quote": "The Petrozavodsk UFO was a series of celestial events of a disputed nature that occurred on 20 September 1977."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1977-09-20",
+   "quote": "The Petrozavodsk UFO was a series of celestial events of a disputed nature that occurred on 20 September 1977."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "1:00 am local time",
+   "quote": "Sightings occurred at 1:00 am local time over Medvezhyegorsk, at 2:30 am over Loukhi and at 3:00 am over Kovdor and Palanga (Lithuania)."
+  },
+  {
+   "s": "case",
+   "p": "peak_time",
+   "v": "between 1:00 and 1:20 am UTC",
+   "quote": "Most sightings occurred between 1:00 and 1:20 am UTC, when at least 48 unidentified objects reportedly appeared in the atmosphere."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "Soviet Union",
+   "quote": "It is named after the city of Petrozavodsk in Russia, Soviet Union, where a glowing object was widely reported that showered the city with numerous rays."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "Finland",
+   "quote": "In Helsinki, Finland, the sightings of a glowing ball were reported by newspapers Ilta-Sanomat on 20 September and Kansan Uutiset the next day."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "Denmark",
+   "quote": "Ilta-Sanomat also reported a sighting of a glowing object in Denmark, over Copenhagen, by the pilots of a Finnish airline aircraft flying from Rome."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "Lithuania",
+   "quote": "Sightings occurred at 1:00 am local time over Medvezhyegorsk, at 2:30 am over Loukhi and at 3:00 am over Kovdor and Palanga (Lithuania)."
+  },
+  {
+   "s": "case",
+   "p": "duration",
+   "v": "10–15 minutes",
+   "quote": "The entire phenomenon lasted 10–15 minutes."
+  },
+  {
+   "s": "case",
+   "p": "nature",
+   "v": "series of celestial events of a disputed nature",
+   "quote": "The Petrozavodsk UFO was a series of celestial events of a disputed nature that occurred on 20 September 1977."
+  },
+  {
+   "s": "case",
+   "p": "geographic_extent",
+   "v": "from Copenhagen and Helsinki in the west to Vladivostok in the east",
+   "quote": "The sightings were reported over a vast territory, from Copenhagen and Helsinki in the west to Vladivostok in the east."
+  },
+  {
+   "s": "case",
+   "p": "object_count",
+   "v": "at least 48 unidentified objects",
+   "quote": "Most sightings occurred between 1:00 and 1:20 am UTC, when at least 48 unidentified objects reportedly appeared in the atmosphere."
+  },
+  {
+   "s": "case",
+   "p": "alternate_name",
+   "v": "phenomenon of 20 September 1977",
+   "quote": "In the early Soviet reports the Petrozavodsk phenomenon was referred to as the phenomenon of 20 September 1977."
+  },
+  {
+   "s": "case",
+   "p": "alternate_name",
+   "v": "Petrozavodsk phenomenon",
+   "quote": "Later it became known as the Petrozavodsk phenomenon."
+  },
+  {
+   "s": "case",
+   "p": "alternate_name",
+   "v": "Petrozavodsk incident",
+   "quote": "Sometimes it is also called the Petrozavodsk incident or the Petrozavodsk miracle."
+  },
+  {
+   "s": "case",
+   "p": "alternate_name",
+   "v": "Petrozavodsk miracle",
+   "quote": "Sometimes it is also called the Petrozavodsk incident or the Petrozavodsk miracle."
+  },
+  {
+   "s": "case",
+   "p": "alternate_name",
+   "v": "Petrozavodsk UFO",
+   "quote": "The Petrozavodsk UFO was a series of celestial events of a disputed nature that occurred on 20 September 1977."
+  },
+  {
+   "s": "case",
+   "p": "terminology",
+   "v": "in the Soviet Union \"unidentified flying object\" was substituted by the term \"anomalous phenomenon\" for research purposes",
+   "quote": "The phrase \"unidentified flying object\" in the Soviet Union was substituted by the term \"anomalous phenomenon\" for research purposes."
+  },
+  {
+   "s": "case",
+   "p": "report_count",
+   "v": "85 reports collected by 30 December 1978",
+   "quote": "By 30 December 1978, the Soviet researchers collected a total of 85 reports on the Petrozavodsk phenomenon."
+  },
+  {
+   "s": "case",
+   "p": "witness_types",
+   "v": "paramedics, on-duty militsiya functionaries, seamen and longshoremen at Petrozavodsk's port, members of the military, local airport staff and an amateur astronomer",
+   "quote": "The eyewitnesses included paramedics, on-duty militsiya functionaries, seamen and the longshoremen at Petrozavodsk's port, members of the military, local airport staff and an amateur astronomer."
+  },
+  {
+   "s": "case",
+   "p": "witness_types",
+   "v": "many Helsinki residents, including taxi drivers, police functionaries and Helsinki Airport personnel",
+   "quote": "The ball was observed by many residents, including taxi drivers, police functionaries and Helsinki Airport personnel."
+  },
+  {
+   "s": "case",
+   "p": "sighting_region",
+   "v": "various places in the Soviet Union, mostly in the northwest",
+   "quote": "The glowing objects were also observed in various places in the Soviet Union, mostly in the northwest."
+  },
+  {
+   "s": "case",
+   "p": "description",
+   "v": "bright, luminous bodies surrounded by extended shells and emitting light rays or jets of quaint shapes",
+   "quote": "In the European part of the Soviet Union \"bright, luminous bodies surrounded by extended shells and emitting light rays or jets of quaint shapes\" were reported."
+  },
+  {
+   "s": "case",
+   "p": "description",
+   "v": "\"shells\" transformed and diffused within 10 to 15 minutes; a more long-lived, stable glow was observed, mostly in the northeastern part of the sky",
+   "quote": "The \"shells\" reportedly \"transformed and diffused within 10 to 15 minutes\", while \"a more long-lived, stable glow was observed, mostly in the northeastern part of the sky\"."
+  },
+  {
+   "s": "case",
+   "p": "aircraft_reports",
+   "v": "reports from several aircraft in addition to ground observations",
+   "quote": "Apart from ground observations, there were also reports from several aircraft."
+  },
+  {
+   "s": "case",
+   "p": "eyewitness_drawings",
+   "v": "many reports were accompanied by drawings from eyewitnesses",
+   "quote": "Many reports were accompanied by drawings from eyewitnesses."
+  },
+  {
+   "s": "case",
+   "p": "radio_traffic",
+   "v": "appearance of an object over Helsinki reportedly caused heavy radio traffic in Soviet territory",
+   "quote": "The appearance of an unidentified object over Helsinki reportedly caused heavy radio traffic in Soviet territory."
+  },
+  {
+   "s": "case",
+   "p": "foreign_concern",
+   "v": "government officials from northern European countries asked whether the phenomenon was caused by Soviet weapons testing and threatened the region's environment",
+   "quote": "Government officials from northern European countries sent letters to Anatoly Aleksandrov, president of the Academy of Sciences of the USSR, expressing concern about whether the observed phenomenon was caused by Soviet weapons testing and whether it constituted a threat to the region's environment."
+  },
+  {
+   "s": "case",
+   "p": "attribution",
+   "v": "often, though not universally, attributed to the launch of the Soviet satellite Kosmos-955",
+   "quote": "Since 1977, the phenomenon has been often, though not universally, attributed to the launch of the Soviet satellite Kosmos-955."
+  },
+  {
+   "s": "case",
+   "p": "attribution_status",
+   "v": "the Kosmos-955 argument remains contested",
+   "quote": "Nonetheless, since the inconclusive Soviet investigation, the Kosmos-955 argument remains contested."
+  },
+  {
+   "s": "case",
+   "p": "radar_result",
+   "v": "objects over the airports of Helsinki, Pulkovo and Peski were not detected by the airport radars",
+   "quote": "The unidentified objects over the airports of Helsinki, Pulkovo and Peski were not detected by the airport radars."
+  },
+  {
+   "s": "case",
+   "p": "radar_result",
+   "v": "not spotted by the Soviet air defense system",
+   "quote": "The objects were not spotted by the Soviet air defense system either."
+  },
+  {
+   "s": "case",
+   "p": "later_radar_detections",
+   "v": "weather radar detections on 30 September at 5:40 pm, 20 October at 11:30 pm and 20 November at 2:14–2:17 am",
+   "quote": "Later, however, the glowing objects were reportedly detected by the weather radar of Karelian Hydrometeorological Observatory in Petrozavodsk on 30 September at 5:40 pm, 20 October at 11:30 pm and 20 November at 2:14–2:17 am."
+  },
+  {
+   "s": "case",
+   "p": "reported_effects",
+   "v": "several reports noted some impact of the phenomenon on humans and environment",
+   "quote": "Nonetheless, several reports noted some impact of the phenomenon on humans and environment."
+  },
+  {
+   "s": "case",
+   "p": "reported_effects",
+   "v": "\"huge failures\" in computing devices in the Petrozavodsk area, which then regained normal performance",
+   "quote": "Some impact on technical devices was also noted when the engineers in the Petrozavodsk area reportedly observed \"huge failures\" in computing devices, which then regained normal performance."
+  },
+  {
+   "s": "case",
+   "p": "legacy",
+   "v": "contributed to the creation of Setka AN",
+   "quote": "The Petrozavodsk phenomenon contributed to the creation of Setka AN, a Soviet research program for anomalous atmospheric phenomena."
+  },
+  {
+   "s": "case",
+   "p": "legacy",
+   "v": "similar phenomena, named \"space jellyfish\", reported multiple times since following satellite launches near dawn or dusk",
+   "quote": "Similar phenomena (given the name \"space jellyfish\") following the launch of satellites near dawn or dusk have been reported multiple times since the Petrozavodsk incident."
+  },
+  {
+   "s": "case",
+   "p": "leningrad_port_sighting",
+   "v": "unidentified luminous object observed from approximately 3:00 to 3:25 am by supervising personnel of the Leningrad maritime trade port",
+   "quote": "From approximately 3:00 to 3:25 am an unidentified luminous object was observed by the supervising personnel of the Leningrad maritime trade port."
+  },
+  {
+   "s": "case",
+   "p": "copenhagen_sighting",
+   "v": "glowing object over Copenhagen seen by the pilots of a Finnish airline aircraft flying from Rome",
+   "quote": "Ilta-Sanomat also reported a sighting of a glowing object in Denmark, over Copenhagen, by the pilots of a Finnish airline aircraft flying from Rome."
+  },
+  {
+   "s": "case",
+   "p": "investigation_outcome",
+   "v": "Soviet investigation was inconclusive",
+   "quote": "Nonetheless, since the inconclusive Soviet investigation, the Kosmos-955 argument remains contested."
+  },
+  {
+   "s": "case",
+   "p": "explanations_status",
+   "v": "several proposals to explain the nature of the phenomenon have been argued",
+   "quote": "Several proposals to explain the nature of the phenomenon have been argued."
+  },
+  {
+   "s": "case",
+   "p": "expedition_sighting",
+   "v": "observed by members of the IZMIRAN geophysical expedition near Lekhta",
+   "quote": "The phenomenon was also observed by the members of the IZMIRAN geophysical expedition near Lekhta."
+  },
+  {
+   "s": "case",
+   "p": "eyewitness_counts_by_place",
+   "v": "Primorsk two, Petrodvorets one, Lomonosov three, Podporozhye three, Polovina one, Leppäsyrjä one, Kem several",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "ussr",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The glowing objects were also observed in various places in the Soviet Union, mostly in the northwest."
+  },
+  {
+   "s": "russia",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "It is named after the city of Petrozavodsk in Russia, Soviet Union, where a glowing object was widely reported that showered the city with numerous rays."
+  },
+  {
+   "s": "russia",
+   "p": "part_of",
+   "o": "ussr",
+   "quote": "It is named after the city of Petrozavodsk in Russia, Soviet Union, where a glowing object was widely reported that showered the city with numerous rays."
+  },
+  {
+   "s": "petro",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "It is named after the city of Petrozavodsk in Russia, Soviet Union, where a glowing object was widely reported that showered the city with numerous rays."
+  },
+  {
+   "s": "petro",
+   "p": "located_in",
+   "o": "russia",
+   "quote": "It is named after the city of Petrozavodsk in Russia, Soviet Union, where a glowing object was widely reported that showered the city with numerous rays."
+  },
+  {
+   "s": "petro",
+   "p": "located_in",
+   "o": "karelia",
+   "quote": "At the time, Petrozavodsk was the capital and a major industrial hub of the Karelian Autonomous Soviet Socialist Republic, with a population of 203,000 in 1974."
+  },
+  {
+   "s": "petro",
+   "p": "status",
+   "v": "capital and a major industrial hub of the Karelian Autonomous Soviet Socialist Republic",
+   "quote": "At the time, Petrozavodsk was the capital and a major industrial hub of the Karelian Autonomous Soviet Socialist Republic, with a population of 203,000 in 1974."
+  },
+  {
+   "s": "petro",
+   "p": "population",
+   "v": "203,000 in 1974",
+   "quote": "At the time, Petrozavodsk was the capital and a major industrial hub of the Karelian Autonomous Soviet Socialist Republic, with a population of 203,000 in 1974."
+  },
+  {
+   "s": "petro",
+   "p": "position_relative_to_plesetsk",
+   "v": "located to the south-west from Plesetsk",
+   "quote": "According to James Oberg, because Kosmos-955 was launched in the north-eastern direction, the residents of Petrozavodsk (located to the south-west from Plesetsk) observed the blaze trail from the satellite's nozzles, which caused the phenomenon."
+  },
+  {
+   "s": "karelia",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "At the time, Petrozavodsk was the capital and a major industrial hub of the Karelian Autonomous Soviet Socialist Republic, with a population of 203,000 in 1974."
+  },
+  {
+   "s": "copenhagen",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Ilta-Sanomat also reported a sighting of a glowing object in Denmark, over Copenhagen, by the pilots of a Finnish airline aircraft flying from Rome."
+  },
+  {
+   "s": "copenhagen",
+   "p": "located_in",
+   "o": "denmark",
+   "quote": "Ilta-Sanomat also reported a sighting of a glowing object in Denmark, over Copenhagen, by the pilots of a Finnish airline aircraft flying from Rome."
+  },
+  {
+   "s": "denmark",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Ilta-Sanomat also reported a sighting of a glowing object in Denmark, over Copenhagen, by the pilots of a Finnish airline aircraft flying from Rome."
+  },
+  {
+   "s": "helsinki",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "In Helsinki, Finland, the sightings of a glowing ball were reported by newspapers Ilta-Sanomat on 20 September and Kansan Uutiset the next day."
+  },
+  {
+   "s": "helsinki",
+   "p": "located_in",
+   "o": "finland",
+   "quote": "In Helsinki, Finland, the sightings of a glowing ball were reported by newspapers Ilta-Sanomat on 20 September and Kansan Uutiset the next day."
+  },
+  {
+   "s": "finland",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "In the interview, published in 1977 by Kansan Uutiset and Uusi Suomi, the employee of Nurmijärvi geophysical observatory Matti Kivinen assumed that an unidentified object over Finland could be the remnant of a launch vehicle or satellite."
+  },
+  {
+   "s": "vladivostok",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The sightings were reported over a vast territory, from Copenhagen and Helsinki in the west to Vladivostok in the east."
+  },
+  {
+   "s": "medvezh",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Sightings occurred at 1:00 am local time over Medvezhyegorsk, at 2:30 am over Loukhi and at 3:00 am over Kovdor and Palanga (Lithuania)."
+  },
+  {
+   "s": "medvezh",
+   "p": "sighting_time",
+   "v": "1:00 am local time",
+   "quote": "Sightings occurred at 1:00 am local time over Medvezhyegorsk, at 2:30 am over Loukhi and at 3:00 am over Kovdor and Palanga (Lithuania)."
+  },
+  {
+   "s": "loukhi",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Sightings occurred at 1:00 am local time over Medvezhyegorsk, at 2:30 am over Loukhi and at 3:00 am over Kovdor and Palanga (Lithuania)."
+  },
+  {
+   "s": "loukhi",
+   "p": "sighting_time",
+   "v": "2:30 am",
+   "quote": "Sightings occurred at 1:00 am local time over Medvezhyegorsk, at 2:30 am over Loukhi and at 3:00 am over Kovdor and Palanga (Lithuania)."
+  },
+  {
+   "s": "kovdor",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Sightings occurred at 1:00 am local time over Medvezhyegorsk, at 2:30 am over Loukhi and at 3:00 am over Kovdor and Palanga (Lithuania)."
+  },
+  {
+   "s": "kovdor",
+   "p": "sighting_time",
+   "v": "3:00 am",
+   "quote": "Sightings occurred at 1:00 am local time over Medvezhyegorsk, at 2:30 am over Loukhi and at 3:00 am over Kovdor and Palanga (Lithuania)."
+  },
+  {
+   "s": "palanga",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Sightings occurred at 1:00 am local time over Medvezhyegorsk, at 2:30 am over Loukhi and at 3:00 am over Kovdor and Palanga (Lithuania)."
+  },
+  {
+   "s": "palanga",
+   "p": "located_in",
+   "o": "lithuania",
+   "quote": "Sightings occurred at 1:00 am local time over Medvezhyegorsk, at 2:30 am over Loukhi and at 3:00 am over Kovdor and Palanga (Lithuania)."
+  },
+  {
+   "s": "palanga",
+   "p": "sighting_time",
+   "v": "3:00 am",
+   "quote": "Sightings occurred at 1:00 am local time over Medvezhyegorsk, at 2:30 am over Loukhi and at 3:00 am over Kovdor and Palanga (Lithuania)."
+  },
+  {
+   "s": "lithuania",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Sightings occurred at 1:00 am local time over Medvezhyegorsk, at 2:30 am over Loukhi and at 3:00 am over Kovdor and Palanga (Lithuania)."
+  },
+  {
+   "s": "lenport",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "From approximately 3:00 to 3:25 am an unidentified luminous object was observed by the supervising personnel of the Leningrad maritime trade port."
+  },
+  {
+   "s": "lenport",
+   "p": "sighting_time",
+   "v": "approximately 3:00 to 3:25 am",
+   "quote": "From approximately 3:00 to 3:25 am an unidentified luminous object was observed by the supervising personnel of the Leningrad maritime trade port."
+  },
+  {
+   "s": "primorsk",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The object appeared to move noiselessly from the east, and near Primorsk it abruptly changed its direction to north."
+  },
+  {
+   "s": "primorsk",
+   "p": "eyewitness_count",
+   "v": "two eyewitnesses",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "helapt",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The ball was observed by many residents, including taxi drivers, police functionaries and Helsinki Airport personnel."
+  },
+  {
+   "s": "helapt",
+   "p": "located_in",
+   "o": "helsinki",
+   "quote": "The ball was observed by many residents, including taxi drivers, police functionaries and Helsinki Airport personnel."
+  },
+  {
+   "s": "helapt",
+   "p": "radar_detection",
+   "v": "not detected by the airport radar; UPI reported a detection, which the traffic controller denied",
+   "quote": "Although according to UPI the object was detected by the Helsinki airport radar, the airport's traffic controller Ari Hämäläinen claimed it was not."
+  },
+  {
+   "s": "turku",
+   "p": "near",
+   "o": "case",
+   "quote": "An unidentified object was also observed near Turku by two men."
+  },
+  {
+   "s": "rome",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Ilta-Sanomat also reported a sighting of a glowing object in Denmark, over Copenhagen, by the pilots of a Finnish airline aircraft flying from Rome."
+  },
+  {
+   "s": "lekhta",
+   "p": "near",
+   "o": "case",
+   "quote": "The phenomenon was also observed by the members of the IZMIRAN geophysical expedition near Lekhta."
+  },
+  {
+   "s": "leningrad",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "In Saint Petersburg, then Leningrad, the sighting of an unidentified object was reported by three night shift employees of Pulkovo Airport, including air traffic controller B. Blagirev."
+  },
+  {
+   "s": "pulkovoapt",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "In Saint Petersburg, then Leningrad, the sighting of an unidentified object was reported by three night shift employees of Pulkovo Airport, including air traffic controller B. Blagirev."
+  },
+  {
+   "s": "pulkovoapt",
+   "p": "located_in",
+   "o": "leningrad",
+   "quote": "In Saint Petersburg, then Leningrad, the sighting of an unidentified object was reported by three night shift employees of Pulkovo Airport, including air traffic controller B. Blagirev."
+  },
+  {
+   "s": "pulkovoapt",
+   "p": "radar_detection",
+   "v": "not detected by the airport radar",
+   "quote": "The unidentified objects over the airports of Helsinki, Pulkovo and Peski were not detected by the airport radars."
+  },
+  {
+   "s": "pulkovoapt",
+   "p": "witness_count",
+   "v": "three night shift employees",
+   "quote": "In Saint Petersburg, then Leningrad, the sighting of an unidentified object was reported by three night shift employees of Pulkovo Airport, including air traffic controller B. Blagirev."
+  },
+  {
+   "s": "peski",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The unidentified objects over the airports of Helsinki, Pulkovo and Peski were not detected by the airport radars."
+  },
+  {
+   "s": "peski",
+   "p": "radar_detection",
+   "v": "not detected by the airport radar",
+   "quote": "The unidentified objects over the airports of Helsinki, Pulkovo and Peski were not detected by the airport radars."
+  },
+  {
+   "s": "petrodvorets",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "petrodvorets",
+   "p": "located_in",
+   "o": "ussr",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "petrodvorets",
+   "p": "eyewitness_count",
+   "v": "one eyewitness",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "lomonosov",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "lomonosov",
+   "p": "located_in",
+   "o": "ussr",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "lomonosov",
+   "p": "eyewitness_count",
+   "v": "three eyewitnesses",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "podporozhye",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "podporozhye",
+   "p": "located_in",
+   "o": "ussr",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "podporozhye",
+   "p": "eyewitness_count",
+   "v": "three eyewitnesses",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "polovina",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "polovina",
+   "p": "located_in",
+   "o": "ussr",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "polovina",
+   "p": "eyewitness_count",
+   "v": "one eyewitness",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "leppasyrja",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "leppasyrja",
+   "p": "located_in",
+   "o": "ussr",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "leppasyrja",
+   "p": "eyewitness_count",
+   "v": "one eyewitness",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "kem",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "kem",
+   "p": "located_in",
+   "o": "ussr",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "kem",
+   "p": "eyewitness_count",
+   "v": "several eyewitnesses",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "poltsamaa",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "poltsamaa",
+   "p": "located_in",
+   "o": "ussr",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "liiva",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "liiva",
+   "p": "located_in",
+   "o": "ussr",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "priozersk",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "priozersk",
+   "p": "located_in",
+   "o": "ussr",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "kestenga",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "kestenga",
+   "p": "located_in",
+   "o": "ussr",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "valday",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "valday",
+   "p": "located_in",
+   "o": "ussr",
+   "quote": "Further reports in the Soviet Union came from Primorsk (two eyewitnesses), Petrodvorets (one eyewitness), Lomonosov (three eyewitnesses), Podporozhye (three eyewitnesses), Polovina (one eyewitness), Leppäsyrjä (one eyewitness), Kem (several eyewitnesses), Põltsamaa, Liiva, Priozersk, Kestenga, Valday and other places."
+  },
+  {
+   "s": "leppasyrja",
+   "p": "gindilis_note",
+   "v": "prolonged hanging of the object over Leppäsyrjä",
+   "quote": "Considering the launch of Kosmos-955 as the possible cause, Gindilis outlined several obstacles, such as the westward motion of the unidentified object (while Kosmos-955 was launched to the north-east), the observed angular sizes of it combined with the expected distance and prolonged hanging over Leppäsyrjä."
+  },
+  {
+   "s": "kurkijoki",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "In the settlement of Kurkijoki a luminous object was seen by engineer A. Novozhilov, who compared it to an airship."
+  },
+  {
+   "s": "namoyevo",
+   "p": "near",
+   "o": "case",
+   "quote": "He observed the object at his dacha near Namoyevo at about 3:00 am through an amateur telescope with an 80× magnification."
+  },
+  {
+   "s": "singapore",
+   "p": "related_place",
+   "o": "case",
+   "quote": "A bright, luminous object was also observed for a half an hour by Georgian writer Guram Pandzhikidze and other passengers of an aircraft returning from Singapore to Moscow at an altitude of 11 km, at about 4:30 or 5:00 am."
+  },
+  {
+   "s": "moscow",
+   "p": "related_place",
+   "o": "case",
+   "quote": "A bright, luminous object was also observed for a half an hour by Georgian writer Guram Pandzhikidze and other passengers of an aircraft returning from Singapore to Moscow at an altitude of 11 km, at about 4:30 or 5:00 am."
+  },
+  {
+   "s": "onega",
+   "p": "near",
+   "o": "case",
+   "quote": "Milov further reported that \"after some time the luminescent rays ceased\" and \"the jellyfish turned into a bright semicircle\", which resumed its movement towards Onega Lake."
+  },
+  {
+   "s": "pryazha",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Petrozavodsk object was also seen in adjacent places, such as Pryazha."
+  },
+  {
+   "s": "ukshozero",
+   "p": "related_place",
+   "o": "case",
+   "quote": "He further emphasized the intense bloom of the water in Ukshozero, caused by Ankistrodesmus, shortly after 20 September."
+  },
+  {
+   "s": "ukshozero",
+   "p": "reported_effect",
+   "v": "intense bloom of the water caused by Ankistrodesmus shortly after 20 September",
+   "quote": "He further emphasized the intense bloom of the water in Ukshozero, caused by Ankistrodesmus, shortly after 20 September."
+  },
+  {
+   "s": "sortavala",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On 8 October 1977 a Sortavala newspaper Krasnoye Znamya published a report from a local hydrometeostation, which further confirmed that the Petrozavodsk object moved from northeast to southwest."
+  },
+  {
+   "s": "evanston",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The copy was subsequently forwarded to CUFOS in Evanston, Illinois in the United States."
+  },
+  {
+   "s": "evanston",
+   "p": "located_in",
+   "o": "usa",
+   "quote": "The copy was subsequently forwarded to CUFOS in Evanston, Illinois in the United States."
+  },
+  {
+   "s": "usa",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The copy was subsequently forwarded to CUFOS in Evanston, Illinois in the United States."
+  },
+  {
+   "s": "plesetsk",
+   "p": "related_place",
+   "o": "case",
+   "quote": "James Oberg attributed the Petrozavodsk object to the launch of the Soviet satellite Kosmos-955 from Plesetsk Cosmodrome, which took place on 20 September at about 3:58 local time."
+  },
+  {
+   "s": "kapyar",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Referring to his 18-year service experience at Kapustin Yar site, Ukrainian researcher Oleh Pruss said: \"I know firsthand, what a spectacle in the sky occurs during the rocket launches – it's quite an impressive view. However, there was something completely different over Petrozavodsk\"."
+  },
+  {
+   "s": "acad",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "In the same year, a preliminary report for the Academy of Sciences of the USSR was made, containing a large body of visual observations, radiolocation reports, physical measurements, and accompanying meteorological data."
+  },
+  {
+   "s": "acad",
+   "p": "finding",
+   "v": "eyewitness reports found mutually consistent and complementary in the 1977 preliminary data analysis",
+   "quote": "The preliminary data analysis by the Academy of Sciences of the USSR in 1977 found the eyewitness reports to be mutually consistent and complementary."
+  },
+  {
+   "s": "acad",
+   "p": "action",
+   "v": "dispatched an expert group to study the phenomenon in situ",
+   "quote": "On 2 January 1978, the vice president of the Soviet Academy of Sciences, Vladimir Kotelnikov, signed a note to the Karelian Department of the Academy, informing them about the dispatch of an expert group to study the phenomenon in situ."
+  },
+  {
+   "s": "kardep",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On 2 January 1978, the vice president of the Soviet Academy of Sciences, Vladimir Kotelnikov, signed a note to the Karelian Department of the Academy, informing them about the dispatch of an expert group to study the phenomenon in situ."
+  },
+  {
+   "s": "kardep",
+   "p": "part_of",
+   "o": "acad",
+   "quote": "On 2 January 1978, the vice president of the Soviet Academy of Sciences, Vladimir Kotelnikov, signed a note to the Karelian Department of the Academy, informing them about the dispatch of an expert group to study the phenomenon in situ."
+  },
+  {
+   "s": "izmiran",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The phenomenon was also observed by the members of the IZMIRAN geophysical expedition near Lekhta."
+  },
+  {
+   "s": "izmiran",
+   "p": "expedition",
+   "v": "members of the IZMIRAN geophysical expedition observed the phenomenon near Lekhta",
+   "quote": "The phenomenon was also observed by the members of the IZMIRAN geophysical expedition near Lekhta."
+  },
+  {
+   "s": "ilta",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In Helsinki, Finland, the sightings of a glowing ball were reported by newspapers Ilta-Sanomat on 20 September and Kansan Uutiset the next day."
+  },
+  {
+   "s": "ilta",
+   "p": "report_date",
+   "v": "20 September",
+   "quote": "In Helsinki, Finland, the sightings of a glowing ball were reported by newspapers Ilta-Sanomat on 20 September and Kansan Uutiset the next day."
+  },
+  {
+   "s": "ilta",
+   "p": "reported",
+   "v": "sighting of a glowing object over Copenhagen by pilots of a Finnish airline aircraft",
+   "quote": "Ilta-Sanomat also reported a sighting of a glowing object in Denmark, over Copenhagen, by the pilots of a Finnish airline aircraft flying from Rome."
+  },
+  {
+   "s": "kansan",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In Helsinki, Finland, the sightings of a glowing ball were reported by newspapers Ilta-Sanomat on 20 September and Kansan Uutiset the next day."
+  },
+  {
+   "s": "kansan",
+   "p": "report_date",
+   "v": "the day after 20 September",
+   "quote": "In Helsinki, Finland, the sightings of a glowing ball were reported by newspapers Ilta-Sanomat on 20 September and Kansan Uutiset the next day."
+  },
+  {
+   "s": "uusi",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In the interview, published in 1977 by Kansan Uutiset and Uusi Suomi, the employee of Nurmijärvi geophysical observatory Matti Kivinen assumed that an unidentified object over Finland could be the remnant of a launch vehicle or satellite."
+  },
+  {
+   "s": "tuorla",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "This claim was contested by Pekka Teerikorpi from Tuorla Observatory."
+  },
+  {
+   "s": "militsiya",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The eyewitnesses included paramedics, on-duty militsiya functionaries, seamen and the longshoremen at Petrozavodsk's port, members of the military, local airport staff and an amateur astronomer."
+  },
+  {
+   "s": "tass",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The earliest published report of the Petrozavodsk phenomenon was written by TASS correspondent Nikolai Milov, who described the unidentified object over Petrozavodsk as \"a huge star\", that \"flared up in the dark sky\" at about 4:00 am local time, \"impulsively sending shafts of light to the Earth\"."
+  },
+  {
+   "s": "pravda",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Milov's report was published in the mainstream Soviet press (Pravda, Izvestiya, Selskaya Zhizn, and Sotsialisticheskaya Industriya)."
+  },
+  {
+   "s": "pravda",
+   "p": "published",
+   "o": "milovrep",
+   "quote": "Milov's report was published in the mainstream Soviet press (Pravda, Izvestiya, Selskaya Zhizn, and Sotsialisticheskaya Industriya)."
+  },
+  {
+   "s": "izvestiya",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Milov's report was published in the mainstream Soviet press (Pravda, Izvestiya, Selskaya Zhizn, and Sotsialisticheskaya Industriya)."
+  },
+  {
+   "s": "izvestiya",
+   "p": "published",
+   "o": "milovrep",
+   "quote": "Milov's report was published in the mainstream Soviet press (Pravda, Izvestiya, Selskaya Zhizn, and Sotsialisticheskaya Industriya)."
+  },
+  {
+   "s": "selskaya",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Milov's report was published in the mainstream Soviet press (Pravda, Izvestiya, Selskaya Zhizn, and Sotsialisticheskaya Industriya)."
+  },
+  {
+   "s": "selskaya",
+   "p": "published",
+   "o": "milovrep",
+   "quote": "Milov's report was published in the mainstream Soviet press (Pravda, Izvestiya, Selskaya Zhizn, and Sotsialisticheskaya Industriya)."
+  },
+  {
+   "s": "sotsind",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Milov's report was published in the mainstream Soviet press (Pravda, Izvestiya, Selskaya Zhizn, and Sotsialisticheskaya Industriya)."
+  },
+  {
+   "s": "sotsind",
+   "p": "published",
+   "o": "milovrep",
+   "quote": "Milov's report was published in the mainstream Soviet press (Pravda, Izvestiya, Selskaya Zhizn, and Sotsialisticheskaya Industriya)."
+  },
+  {
+   "s": "leninpravda",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "A local newspaper, Leninskaya Pravda, also reported the Petrozavodsk object."
+  },
+  {
+   "s": "tekhnika",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 1978, Tekhnika i Nauka published a color reconstruction of various stages of the object."
+  },
+  {
+   "s": "tekhnika",
+   "p": "published",
+   "o": "recon",
+   "quote": "In 1978, Tekhnika i Nauka published a color reconstruction of various stages of the object."
+  },
+  {
+   "s": "kho",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Pandzhikidze reported the sighting on 2 October to the director of the Karelian Hydrometeorological Observatory Yuri Gromov, who verified the report's copy."
+  },
+  {
+   "s": "kho",
+   "p": "located_in",
+   "o": "petro",
+   "quote": "Later, however, the glowing objects were reportedly detected by the weather radar of Karelian Hydrometeorological Observatory in Petrozavodsk on 30 September at 5:40 pm, 20 October at 11:30 pm and 20 November at 2:14–2:17 am."
+  },
+  {
+   "s": "kho",
+   "p": "weather_radar_detections",
+   "v": "30 September at 5:40 pm, 20 October at 11:30 pm and 20 November at 2:14–2:17 am",
+   "quote": "Later, however, the glowing objects were reportedly detected by the weather radar of Karelian Hydrometeorological Observatory in Petrozavodsk on 30 September at 5:40 pm, 20 October at 11:30 pm and 20 November at 2:14–2:17 am."
+  },
+  {
+   "s": "upi",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Although according to UPI the object was detected by the Helsinki airport radar, the airport's traffic controller Ari Hämäläinen claimed it was not."
+  },
+  {
+   "s": "upi",
+   "p": "reported",
+   "v": "the object was detected by the Helsinki airport radar",
+   "quote": "Although according to UPI the object was detected by the Helsinki airport radar, the airport's traffic controller Ari Hämäläinen claimed it was not."
+  },
+  {
+   "s": "airdef",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The objects were not spotted by the Soviet air defense system either."
+  },
+  {
+   "s": "airdef",
+   "p": "detection",
+   "v": "objects were not spotted",
+   "quote": "The objects were not spotted by the Soviet air defense system either."
+  },
+  {
+   "s": "sternberg",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The initial analysis of the phenomenon was made by the research fellow of Sternberg Astronomical Institute Lev Gindilis using various testimonies and meteorological data available by 30 September 1977."
+  },
+  {
+   "s": "mepi",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Further in 1977, a For Official Use Only preliminary report on the Petrozavodsk phenomenon was prepared by Gindilis, MEPI engineer-physicist D. Menkov and I. Petrovskaya."
+  },
+  {
+   "s": "iki",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The report was used at the dedicated meeting on the Petrozavodsk phenomenon, arranged on 1 November 1977 at the Institute of Space Studies of the Soviet Academy of Sciences (now Russian Space Research Institute)."
+  },
+  {
+   "s": "iki",
+   "p": "part_of",
+   "o": "acad",
+   "quote": "The report was used at the dedicated meeting on the Petrozavodsk phenomenon, arranged on 1 November 1977 at the Institute of Space Studies of the Soviet Academy of Sciences (now Russian Space Research Institute)."
+  },
+  {
+   "s": "iki",
+   "p": "meeting_date",
+   "v": "1 November 1977",
+   "quote": "The report was used at the dedicated meeting on the Petrozavodsk phenomenon, arranged on 1 November 1977 at the Institute of Space Studies of the Soviet Academy of Sciences (now Russian Space Research Institute)."
+  },
+  {
+   "s": "iki",
+   "p": "meeting_outcome",
+   "v": "findings were also inconclusive",
+   "quote": "The findings were also inconclusive."
+  },
+  {
+   "s": "petrsu",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "There, relying on eyewitnesses' testimonies, the employee of Petrozavodsk University Y. Mezentsev conducted theodolite measurements to determine the approximate location of the unidentified object over Petrozavodsk."
+  },
+  {
+   "s": "gepan",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "One copy of the report was received by the French research group GEPAN."
+  },
+  {
+   "s": "gepan",
+   "p": "nationality",
+   "v": "French",
+   "quote": "One copy of the report was received by the French research group GEPAN."
+  },
+  {
+   "s": "cufos",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The copy was subsequently forwarded to CUFOS in Evanston, Illinois in the United States."
+  },
+  {
+   "s": "cufos",
+   "p": "located_in",
+   "o": "evanston",
+   "quote": "The copy was subsequently forwarded to CUFOS in Evanston, Illinois in the United States."
+  },
+  {
+   "s": "nasa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "J. Allen Hynek presented another copy to NASA scientist Richard Haines, who then translated the copy to English on a government grant."
+  },
+  {
+   "s": "pulkovoobs",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The director of the Pulkovo Observatory Vladimir Krat initially thought that the phenomenon was caused by the fall of a meteorite."
+  },
+  {
+   "s": "sovross",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "This view was supported by the director of IZMIRAN Vladimir Migulin, whose conjecture was published in the newspaper Sovetskaya Rossiya on 19 April 1980."
+  },
+  {
+   "s": "aviakosm",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 1978, Aviatsiya i Kosmonavtika published an article \"'Flashes' in the Atmosphere\" by M. Dmitriyev, where a chemiluminescence hypothesis was put forward."
+  },
+  {
+   "s": "aviakosm",
+   "p": "published",
+   "o": "flashes",
+   "quote": "In 1978, Aviatsiya i Kosmonavtika published an article \"'Flashes' in the Atmosphere\" by M. Dmitriyev, where a chemiluminescence hypothesis was put forward."
+  },
+  {
+   "s": "krasznam",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On 8 October 1977 a Sortavala newspaper Krasnoye Znamya published a report from a local hydrometeostation, which further confirmed that the Petrozavodsk object moved from northeast to southwest."
+  },
+  {
+   "s": "krasznam",
+   "p": "located_in",
+   "o": "sortavala",
+   "quote": "On 8 October 1977 a Sortavala newspaper Krasnoye Znamya published a report from a local hydrometeostation, which further confirmed that the Petrozavodsk object moved from northeast to southwest."
+  },
+  {
+   "s": "krasznam",
+   "p": "reported",
+   "v": "report from a local hydrometeostation confirmed that the Petrozavodsk object moved from northeast to southwest",
+   "quote": "On 8 October 1977 a Sortavala newspaper Krasnoye Znamya published a report from a local hydrometeostation, which further confirmed that the Petrozavodsk object moved from northeast to southwest."
+  },
+  {
+   "s": "krasznam",
+   "p": "publication_date",
+   "v": "8 October 1977",
+   "quote": "On 8 October 1977 a Sortavala newspaper Krasnoye Znamya published a report from a local hydrometeostation, which further confirmed that the Petrozavodsk object moved from northeast to southwest."
+  },
+  {
+   "s": "nauka",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 1985, Platov's view was published by Soviet magazine Nauka v SSSR."
+  },
+  {
+   "s": "nauka",
+   "p": "publication_year",
+   "v": "1985",
+   "quote": "In 1985, Platov's view was published by Soviet magazine Nauka v SSSR."
+  },
+  {
+   "s": "nurmijarvi",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In the interview, published in 1977 by Kansan Uutiset and Uusi Suomi, the employee of Nurmijärvi geophysical observatory Matti Kivinen assumed that an unidentified object over Finland could be the remnant of a launch vehicle or satellite."
+  },
+  {
+   "s": "setka",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The Petrozavodsk phenomenon contributed to the creation of Setka AN, a Soviet research program for anomalous atmospheric phenomena."
+  },
+  {
+   "s": "setka",
+   "p": "description",
+   "v": "a Soviet research program for anomalous atmospheric phenomena",
+   "quote": "The Petrozavodsk phenomenon contributed to the creation of Setka AN, a Soviet research program for anomalous atmospheric phenomena."
+  },
+  {
+   "s": "setka",
+   "p": "origin",
+   "v": "the Petrozavodsk phenomenon contributed to its creation",
+   "quote": "The Petrozavodsk phenomenon contributed to the creation of Setka AN, a Soviet research program for anomalous atmospheric phenomena."
+  },
+  {
+   "s": "kosmos",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "Since 1977, the phenomenon has been often, though not universally, attributed to the launch of the Soviet satellite Kosmos-955."
+  },
+  {
+   "s": "kosmos",
+   "p": "type",
+   "v": "Soviet satellite",
+   "quote": "Since 1977, the phenomenon has been often, though not universally, attributed to the launch of the Soviet satellite Kosmos-955."
+  },
+  {
+   "s": "kosmos",
+   "p": "launch_site",
+   "v": "Plesetsk Cosmodrome",
+   "quote": "James Oberg attributed the Petrozavodsk object to the launch of the Soviet satellite Kosmos-955 from Plesetsk Cosmodrome, which took place on 20 September at about 3:58 local time."
+  },
+  {
+   "s": "kosmos",
+   "p": "launch_time",
+   "v": "20 September at about 3:58 local time",
+   "quote": "James Oberg attributed the Petrozavodsk object to the launch of the Soviet satellite Kosmos-955 from Plesetsk Cosmodrome, which took place on 20 September at about 3:58 local time."
+  },
+  {
+   "s": "kosmos",
+   "p": "launch_direction",
+   "v": "north-east",
+   "quote": "Considering the launch of Kosmos-955 as the possible cause, Gindilis outlined several obstacles, such as the westward motion of the unidentified object (while Kosmos-955 was launched to the north-east), the observed angular sizes of it combined with the expected distance and prolonged hanging over Leppäsyrjä."
+  },
+  {
+   "s": "vessel",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "At 3:30 am a flying object, surrounded by a luminous coat, was reportedly seen by the crew of the Soviet fishing vessel Primorsk, which was departing from the Primorsk harbour."
+  },
+  {
+   "s": "vessel",
+   "p": "type",
+   "v": "Soviet fishing vessel",
+   "quote": "At 3:30 am a flying object, surrounded by a luminous coat, was reportedly seen by the crew of the Soviet fishing vessel Primorsk, which was departing from the Primorsk harbour."
+  },
+  {
+   "s": "vessel",
+   "p": "sighting_time",
+   "v": "3:30 am",
+   "quote": "At 3:30 am a flying object, surrounded by a luminous coat, was reportedly seen by the crew of the Soviet fishing vessel Primorsk, which was departing from the Primorsk harbour."
+  },
+  {
+   "s": "vessel",
+   "p": "activity",
+   "v": "departing from the Primorsk harbour",
+   "quote": "At 3:30 am a flying object, surrounded by a luminous coat, was reportedly seen by the crew of the Soviet fishing vessel Primorsk, which was departing from the Primorsk harbour."
+  },
+  {
+   "s": "finnair",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "Ilta-Sanomat also reported a sighting of a glowing object in Denmark, over Copenhagen, by the pilots of a Finnish airline aircraft flying from Rome."
+  },
+  {
+   "s": "finnair",
+   "p": "observation",
+   "v": "pilots sighted a glowing object in Denmark, over Copenhagen",
+   "quote": "Ilta-Sanomat also reported a sighting of a glowing object in Denmark, over Copenhagen, by the pilots of a Finnish airline aircraft flying from Rome."
+  },
+  {
+   "s": "tu154",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "The crew of a Tu-154 spotted a luminous spherical object at an altitude of 12 km."
+  },
+  {
+   "s": "tu154",
+   "p": "observation",
+   "v": "crew spotted a luminous spherical object",
+   "quote": "The crew of a Tu-154 spotted a luminous spherical object at an altitude of 12 km."
+  },
+  {
+   "s": "tu154",
+   "p": "altitude",
+   "v": "12 km",
+   "quote": "The crew of a Tu-154 spotted a luminous spherical object at an altitude of 12 km."
+  },
+  {
+   "s": "sinflight",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "A bright, luminous object was also observed for a half an hour by Georgian writer Guram Pandzhikidze and other passengers of an aircraft returning from Singapore to Moscow at an altitude of 11 km, at about 4:30 or 5:00 am."
+  },
+  {
+   "s": "sinflight",
+   "p": "altitude",
+   "v": "11 km",
+   "quote": "A bright, luminous object was also observed for a half an hour by Georgian writer Guram Pandzhikidze and other passengers of an aircraft returning from Singapore to Moscow at an altitude of 11 km, at about 4:30 or 5:00 am."
+  },
+  {
+   "s": "sinflight",
+   "p": "sighting_time",
+   "v": "about 4:30 or 5:00 am",
+   "quote": "A bright, luminous object was also observed for a half an hour by Georgian writer Guram Pandzhikidze and other passengers of an aircraft returning from Singapore to Moscow at an altitude of 11 km, at about 4:30 or 5:00 am."
+  },
+  {
+   "s": "sinflight",
+   "p": "observation_duration",
+   "v": "half an hour",
+   "quote": "A bright, luminous object was also observed for a half an hour by Georgian writer Guram Pandzhikidze and other passengers of an aircraft returning from Singapore to Moscow at an altitude of 11 km, at about 4:30 or 5:00 am."
+  },
+  {
+   "s": "c_petro",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "It is named after the city of Petrozavodsk in Russia, Soviet Union, where a glowing object was widely reported that showered the city with numerous rays."
+  },
+  {
+   "s": "c_petro",
+   "p": "description",
+   "v": "glowing object that showered the city with numerous rays",
+   "quote": "It is named after the city of Petrozavodsk in Russia, Soviet Union, where a glowing object was widely reported that showered the city with numerous rays."
+  },
+  {
+   "s": "c_petro",
+   "p": "description",
+   "v": "\"a huge star\" that \"flared up in the dark sky\", \"impulsively sending shafts of light to the Earth\"",
+   "quote": "The earliest published report of the Petrozavodsk phenomenon was written by TASS correspondent Nikolai Milov, who described the unidentified object over Petrozavodsk as \"a huge star\", that \"flared up in the dark sky\" at about 4:00 am local time, \"impulsively sending shafts of light to the Earth\"."
+  },
+  {
+   "s": "c_petro",
+   "p": "time",
+   "v": "about 4:00 am local time",
+   "quote": "The earliest published report of the Petrozavodsk phenomenon was written by TASS correspondent Nikolai Milov, who described the unidentified object over Petrozavodsk as \"a huge star\", that \"flared up in the dark sky\" at about 4:00 am local time, \"impulsively sending shafts of light to the Earth\"."
+  },
+  {
+   "s": "c_petro",
+   "p": "shape",
+   "v": "jellyfish",
+   "quote": "According to Milov, \"the star\" was spreading out over Petrozavodsk in the form of a jellyfish, \"showering the city with a multitude of very fine rays which created an image of pouring rain\"."
+  },
+  {
+   "s": "c_petro",
+   "p": "rays",
+   "v": "a multitude of very fine rays which created an image of pouring rain",
+   "quote": "According to Milov, \"the star\" was spreading out over Petrozavodsk in the form of a jellyfish, \"showering the city with a multitude of very fine rays which created an image of pouring rain\"."
+  },
+  {
+   "s": "c_petro",
+   "p": "shape",
+   "v": "bright semicircle after the rays ceased",
+   "quote": "Milov further reported that \"after some time the luminescent rays ceased\" and \"the jellyfish turned into a bright semicircle\", which resumed its movement towards Onega Lake."
+  },
+  {
+   "s": "c_petro",
+   "p": "direction",
+   "v": "resumed its movement towards Onega Lake",
+   "quote": "Milov further reported that \"after some time the luminescent rays ceased\" and \"the jellyfish turned into a bright semicircle\", which resumed its movement towards Onega Lake."
+  },
+  {
+   "s": "c_petro",
+   "p": "first_seen",
+   "v": "about 4:00 am in the northeastern part of the sky below Ursa Major at an azimuth of about 40°",
+   "quote": "The object, surrounded by a translucent coat, was initially spotted at about 4:00 am in the northeastern part of the sky below Ursa Major at an azimuth of about 40°."
+  },
+  {
+   "s": "c_petro",
+   "p": "surrounded_by",
+   "v": "a translucent coat",
+   "quote": "The object, surrounded by a translucent coat, was initially spotted at about 4:00 am in the northeastern part of the sky below Ursa Major at an azimuth of about 40°."
+  },
+  {
+   "s": "c_petro",
+   "p": "brightness",
+   "v": "initially apparently comparable to that of Venus",
+   "quote": "The initial brightness of the object was \"apparently comparable to that of Venus\"."
+  },
+  {
+   "s": "c_petro",
+   "p": "motion",
+   "v": "moved ascendantly towards Ursa Major",
+   "quote": "The object moved ascendantly towards Ursa Major."
+  },
+  {
+   "s": "c_petro",
+   "p": "course_angle",
+   "v": "240°",
+   "quote": "The course angle as determined by former pilot and eyewitness V. Barkhatov was 240°."
+  },
+  {
+   "s": "c_petro",
+   "p": "behavior",
+   "v": "expanding and pulsating as it ascended, with no decrease in brightness noted",
+   "quote": "As the object ascended, it was expanding and pulsating, but a decrease in brightness was not noted."
+  },
+  {
+   "s": "c_petro",
+   "p": "motion",
+   "v": "moved slowly for about three minutes",
+   "quote": "The object moved slowly for about three minutes."
+  },
+  {
+   "s": "c_petro",
+   "p": "emission",
+   "v": "dispersed a bright \"cloud\" shortly before it stopped",
+   "quote": "Shortly before the object stopped it dispersed a bright \"cloud\"."
+  },
+  {
+   "s": "c_petro",
+   "p": "cloud_shape",
+   "v": "round or oval",
+   "quote": "The cloud was round or oval in shape."
+  },
+  {
+   "s": "c_petro",
+   "p": "cloud_angular_size",
+   "v": "larger than Ursa Major, about 30° in diameter",
+   "quote": "Its maximum angular size was larger than that of Ursa Major, about 30° in diameter."
+  },
+  {
+   "s": "c_petro",
+   "p": "altitude",
+   "v": "7.5±0.4 km (eyewitnesses' observations) or 6.0±0.5 km (parallax)",
+   "quote": "The altitude of the object during the formation of the \"cloud\" was estimated at 7.5±0.4 km (based on eyewitnesses' observations) or at 6.0±0.5 km, based on parallax."
+  },
+  {
+   "s": "c_petro",
+   "p": "size",
+   "v": "core linear diameter estimated either at 119 or at about 60 m",
+   "quote": "The linear diameter of the object's core was estimated either at 119 or at about 60 m."
+  },
+  {
+   "s": "c_petro",
+   "p": "size",
+   "v": "jellyfish-like cupola about 105 m in diameter",
+   "quote": "The diameter of the object's jellyfish-like cupola was estimated by Felix Ziegel at about 105 m, based on the drawing of eyewitness Andrei Akimov."
+  },
+  {
+   "s": "c_petro",
+   "p": "color",
+   "v": "red, emitting a bluish white glow",
+   "quote": "The object itself was red in color and emitted a bluish white glow."
+  },
+  {
+   "s": "c_petro",
+   "p": "illumination",
+   "v": "lighting of the area compared to that from a full moon",
+   "quote": "The lighting of the area was compared to that from a full moon."
+  },
+  {
+   "s": "c_petro",
+   "p": "cloud_change",
+   "v": "glowing cloud developed a dark spot around the central core",
+   "quote": "The glowing \"cloud\" then developed a dark spot around the central core."
+  },
+  {
+   "s": "c_petro",
+   "p": "cloud_change",
+   "v": "the spot quickly expanded while the glow was fading away",
+   "quote": "The spot quickly expanded while the glow was fading away."
+  },
+  {
+   "s": "c_petro",
+   "p": "hover_duration",
+   "v": "five minutes",
+   "quote": "The object hovered over Petrozavodsk for five minutes and then moved away."
+  },
+  {
+   "s": "c_petro",
+   "p": "speed",
+   "v": "moved slowly before hovering, with the angular velocity of a passenger aircraft",
+   "quote": "Before hovering, the object moved slowly, with the angular velocity of a passenger aircraft."
+  },
+  {
+   "s": "c_petro",
+   "p": "speed",
+   "v": "increased after the hovering",
+   "quote": "After the hovering its speed had increased."
+  },
+  {
+   "s": "c_petro",
+   "p": "underside",
+   "v": "resembled a Segner wheel, according to one eyewitness",
+   "quote": "One eyewitness noted that the object's underside resembled a Segner wheel."
+  },
+  {
+   "s": "c_petro",
+   "p": "duration",
+   "v": "10–15 minutes",
+   "quote": "The entire phenomenon lasted 10–15 minutes."
+  },
+  {
+   "s": "c_petro",
+   "p": "direction",
+   "v": "moved from northeast to southwest",
+   "quote": "On 8 October 1977 a Sortavala newspaper Krasnoye Znamya published a report from a local hydrometeostation, which further confirmed that the Petrozavodsk object moved from northeast to southwest."
+  },
+  {
+   "s": "c_petro",
+   "p": "also_seen_at",
+   "v": "adjacent places, such as Pryazha",
+   "quote": "The Petrozavodsk object was also seen in adjacent places, such as Pryazha."
+  },
+  {
+   "s": "c_petro",
+   "p": "identified_as",
+   "o": "kosmos",
+   "quote": "James Oberg attributed the Petrozavodsk object to the launch of the Soviet satellite Kosmos-955 from Plesetsk Cosmodrome, which took place on 20 September at about 3:58 local time."
+  },
+  {
+   "s": "c_kurk",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "In the settlement of Kurkijoki a luminous object was seen by engineer A. Novozhilov, who compared it to an airship."
+  },
+  {
+   "s": "c_kurk",
+   "p": "shape",
+   "v": "well-outlined shape of an airship",
+   "quote": "After some time the object had stopped and then moved towards Novozhilov, quickly increasing in size and acquiring the well-outlined shape of an airship."
+  },
+  {
+   "s": "c_kurk",
+   "p": "first_impression",
+   "v": "initially thought to be a meteor",
+   "quote": "Initially Novozhilov saw what he thought to be a meteor."
+  },
+  {
+   "s": "c_kurk",
+   "p": "behavior",
+   "v": "stopped, then moved towards the witness, quickly increasing in size",
+   "quote": "After some time the object had stopped and then moved towards Novozhilov, quickly increasing in size and acquiring the well-outlined shape of an airship."
+  },
+  {
+   "s": "c_kurk",
+   "p": "surface",
+   "v": "faceted and tipped with brightly shining spots on front and back",
+   "quote": "The object was faceted and tipped with brightly shining spots on front and back."
+  },
+  {
+   "s": "c_kurk",
+   "p": "color",
+   "v": "edges glowing with white light, slightly fainter than the spots",
+   "quote": "The edges were glowing with white light, which was slightly fainter than the spots."
+  },
+  {
+   "s": "c_kurk",
+   "p": "windows",
+   "v": "facets resembled windows lit from inside, evenly glowing with a fainter white light",
+   "quote": "The facets resembled windows lit from inside and were evenly glowing with a white light that was fainter than that of the edges."
+  },
+  {
+   "s": "c_kurk",
+   "p": "altitude",
+   "v": "300–500 m",
+   "quote": "The object reportedly moved at an altitude of 300–500 m, being 100 m long and 12–15 m in diameter."
+  },
+  {
+   "s": "c_kurk",
+   "p": "size",
+   "v": "100 m long and 12–15 m in diameter",
+   "quote": "The object reportedly moved at an altitude of 300–500 m, being 100 m long and 12–15 m in diameter."
+  },
+  {
+   "s": "c_kurk",
+   "p": "direction",
+   "v": "moving from west to east",
+   "quote": "Still approaching Novozhilov, the object, moving from west to east, had released a brightly shining ball from the rear, which flew north."
+  },
+  {
+   "s": "c_kurk",
+   "p": "released_object",
+   "v": "a brightly shining ball released from the rear, which flew north",
+   "quote": "Still approaching Novozhilov, the object, moving from west to east, had released a brightly shining ball from the rear, which flew north."
+  },
+  {
+   "s": "c_kurk",
+   "p": "released_object_path",
+   "v": "ball flew horizontally and then descended behind a forest",
+   "quote": "The ball was flying horizontally and then descended behind a forest."
+  },
+  {
+   "s": "c_kurk",
+   "p": "released_object_landing",
+   "v": "the landing reportedly caused the appearance of a bright glow",
+   "quote": "The landing reportedly caused the appearance of a bright glow."
+  },
+  {
+   "s": "c_kurk",
+   "p": "apparent_size",
+   "v": "much larger than moon",
+   "quote": "The object was \"much larger than moon\" and moved with the speed of a helicopter."
+  },
+  {
+   "s": "c_kurk",
+   "p": "speed",
+   "v": "speed of a helicopter",
+   "quote": "The object was \"much larger than moon\" and moved with the speed of a helicopter."
+  },
+  {
+   "s": "c_kurk",
+   "p": "duration",
+   "v": "10–15 minutes",
+   "quote": "The observation lasted 10–15 minutes in complete silence."
+  },
+  {
+   "s": "c_kurk",
+   "p": "sound",
+   "v": "complete silence",
+   "quote": "The observation lasted 10–15 minutes in complete silence."
+  },
+  {
+   "s": "c_lin",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Another detailed account of one unidentified object was given by Soviet writer and philosopher Yuri Linnik."
+  },
+  {
+   "s": "c_lin",
+   "p": "shape",
+   "v": "lens-like, surrounded by a dim, translucent ring",
+   "quote": "The lens-like object, surrounded by a dim, translucent ring, had a color of a \"dark amethyst, intensively lightened from inside\"."
+  },
+  {
+   "s": "c_lin",
+   "p": "color",
+   "v": "dark amethyst, intensively lightened from inside",
+   "quote": "The lens-like object, surrounded by a dim, translucent ring, had a color of a \"dark amethyst, intensively lightened from inside\"."
+  },
+  {
+   "s": "c_lin",
+   "p": "spots",
+   "v": "16 spots on the edges, described as \"nozzles\"",
+   "quote": "The edges of the lens-like object had 16 spots (described by Linnik as \"nozzles\") which emitted pulsating red rays at an angle of 10°–15°."
+  },
+  {
+   "s": "c_lin",
+   "p": "rays",
+   "v": "pulsating red rays at an angle of 10°–15°",
+   "quote": "The edges of the lens-like object had 16 spots (described by Linnik as \"nozzles\") which emitted pulsating red rays at an angle of 10°–15°."
+  },
+  {
+   "s": "c_lin",
+   "p": "angular_size",
+   "v": "20 arcminutes",
+   "quote": "The angular size of the object was estimated at 20 arcminutes."
+  },
+  {
+   "s": "c_lin",
+   "p": "time",
+   "v": "about 3:00 am",
+   "quote": "He observed the object at his dacha near Namoyevo at about 3:00 am through an amateur telescope with an 80× magnification."
+  },
+  {
+   "s": "c_lin",
+   "p": "passed_near_stars",
+   "v": "Gamma Geminorum, Eta Geminorum, Capella, 172 Camelopardalis, 50 Cassiopeiae, Gamma Cephei, Psi Draconis, 16 Draconis, Psi Herculis, Kappa Coronae Borealis and Delta Coronae Borealis",
+   "quote": "The object passed near the stars Gamma Geminorum, Eta Geminorum, Capella, 172 Camelopardalis, 50 Cassiopeiae, Gamma Cephei, Psi Draconis, 16 Draconis, Psi Herculis, Kappa Coronae Borealis and Delta Coronae Borealis."
+  },
+  {
+   "s": "c_lin",
+   "p": "behavior",
+   "v": "stopped near Gamma Cephei at an azimuth of 220°",
+   "quote": "The object stopped near Gamma Cephei at an azimuth of 220°."
+  },
+  {
+   "s": "c_lin",
+   "p": "behavior",
+   "v": "changed its direction to 30°–35° west near Kappa Coronae Borealis, at an azimuth of 340°–350°",
+   "quote": "Near Kappa Coronae Borealis, at an azimuth of 340°–350°, the object changed its direction to 30°–35° west."
+  },
+  {
+   "s": "c_lin",
+   "p": "disappearance",
+   "v": "disappeared in the north at an azimuth of 340°",
+   "quote": "It finally disappeared in the north at an azimuth of 340°."
+  },
+  {
+   "s": "c_lin",
+   "p": "duration",
+   "v": "15 minutes",
+   "quote": "The duration of the flight was 15 minutes."
+  },
+  {
+   "s": "c_hel",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "In Helsinki, Finland, the sightings of a glowing ball were reported by newspapers Ilta-Sanomat on 20 September and Kansan Uutiset the next day."
+  },
+  {
+   "s": "c_hel",
+   "p": "shape",
+   "v": "glowing ball",
+   "quote": "In Helsinki, Finland, the sightings of a glowing ball were reported by newspapers Ilta-Sanomat on 20 September and Kansan Uutiset the next day."
+  },
+  {
+   "s": "c_hel",
+   "p": "witnesses",
+   "v": "many residents, including taxi drivers, police functionaries and Helsinki Airport personnel",
+   "quote": "The ball was observed by many residents, including taxi drivers, police functionaries and Helsinki Airport personnel."
+  },
+  {
+   "s": "c_hel",
+   "p": "radar_detection",
+   "v": "UPI said it was detected by the Helsinki airport radar; the airport's traffic controller claimed it was not",
+   "quote": "Although according to UPI the object was detected by the Helsinki airport radar, the airport's traffic controller Ari Hämäläinen claimed it was not."
+  },
+  {
+   "s": "c_turku",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "An unidentified object was also observed near Turku by two men."
+  },
+  {
+   "s": "c_turku",
+   "p": "witness_count",
+   "v": "two men",
+   "quote": "An unidentified object was also observed near Turku by two men."
+  },
+  {
+   "s": "c_turku",
+   "p": "shape",
+   "v": "spinning object similar to a lifebuoy",
+   "quote": "At the distance of 300 m they spotted a spinning object similar to a lifebuoy, 10 m in diameter."
+  },
+  {
+   "s": "c_turku",
+   "p": "size",
+   "v": "10 m in diameter",
+   "quote": "At the distance of 300 m they spotted a spinning object similar to a lifebuoy, 10 m in diameter."
+  },
+  {
+   "s": "c_turku",
+   "p": "distance",
+   "v": "300 m",
+   "quote": "At the distance of 300 m they spotted a spinning object similar to a lifebuoy, 10 m in diameter."
+  },
+  {
+   "s": "c_turku",
+   "p": "disputed_distance",
+   "v": "Teerikorpi believed the actual distance was \"many hundreds of kilometres\"",
+   "quote": "Arguing that the entire phenomenon was caused by Kosmos-955, Teerikorpi believed that the actual distance was \"many hundreds of kilometres\" and that \"such reports probably are due to the well-known fact that it is difficult to estimate distances of unfamiliar phenomena\"."
+  },
+  {
+   "s": "c_pulk",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "According to Blagirev, he spotted a fireball-like object slightly larger than Venus at 3:55 am in the north-north-east at an azimuth of 10°."
+  },
+  {
+   "s": "c_pulk",
+   "p": "shape",
+   "v": "fireball-like",
+   "quote": "According to Blagirev, he spotted a fireball-like object slightly larger than Venus at 3:55 am in the north-north-east at an azimuth of 10°."
+  },
+  {
+   "s": "c_pulk",
+   "p": "apparent_size",
+   "v": "slightly larger than Venus",
+   "quote": "According to Blagirev, he spotted a fireball-like object slightly larger than Venus at 3:55 am in the north-north-east at an azimuth of 10°."
+  },
+  {
+   "s": "c_pulk",
+   "p": "time",
+   "v": "3:55 am",
+   "quote": "According to Blagirev, he spotted a fireball-like object slightly larger than Venus at 3:55 am in the north-north-east at an azimuth of 10°."
+  },
+  {
+   "s": "c_pulk",
+   "p": "position",
+   "v": "north-north-east at an azimuth of 10°",
+   "quote": "According to Blagirev, he spotted a fireball-like object slightly larger than Venus at 3:55 am in the north-north-east at an azimuth of 10°."
+  },
+  {
+   "s": "c_pulk",
+   "p": "surrounded_by",
+   "v": "a spacious, rhythmically glowing coat with intricate structure",
+   "quote": "The object was surrounded by a spacious, rhythmically glowing coat with intricate structure and \"the observed phenomenon had nothing similar to aurora\"."
+  },
+  {
+   "s": "c_pulk",
+   "p": "motion",
+   "v": "moved ascendantly to the south-south-west, then changed direction to north-north-west and disappeared",
+   "quote": "The object moved ascendantly to the observer, to the south-south-west, then it changed direction to north-north-west and eventually disappeared."
+  },
+  {
+   "s": "c_prim",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "At 3:30 am a flying object, surrounded by a luminous coat, was reportedly seen by the crew of the Soviet fishing vessel Primorsk, which was departing from the Primorsk harbour."
+  },
+  {
+   "s": "c_prim",
+   "p": "surrounded_by",
+   "v": "a luminous coat",
+   "quote": "At 3:30 am a flying object, surrounded by a luminous coat, was reportedly seen by the crew of the Soviet fishing vessel Primorsk, which was departing from the Primorsk harbour."
+  },
+  {
+   "s": "c_prim",
+   "p": "time",
+   "v": "3:30 am",
+   "quote": "At 3:30 am a flying object, surrounded by a luminous coat, was reportedly seen by the crew of the Soviet fishing vessel Primorsk, which was departing from the Primorsk harbour."
+  },
+  {
+   "s": "c_prim",
+   "p": "sound",
+   "v": "moved noiselessly",
+   "quote": "The object appeared to move noiselessly from the east, and near Primorsk it abruptly changed its direction to north."
+  },
+  {
+   "s": "c_prim",
+   "p": "motion",
+   "v": "moved from the east and abruptly changed its direction to north near Primorsk",
+   "quote": "The object appeared to move noiselessly from the east, and near Primorsk it abruptly changed its direction to north."
+  },
+  {
+   "s": "letters",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Government officials from northern European countries sent letters to Anatoly Aleksandrov, president of the Academy of Sciences of the USSR, expressing concern about whether the observed phenomenon was caused by Soviet weapons testing and whether it constituted a threat to the region's environment."
+  },
+  {
+   "s": "letters",
+   "p": "concern",
+   "v": "whether the phenomenon was caused by Soviet weapons testing and constituted a threat to the region's environment",
+   "quote": "Government officials from northern European countries sent letters to Anatoly Aleksandrov, president of the Academy of Sciences of the USSR, expressing concern about whether the observed phenomenon was caused by Soviet weapons testing and whether it constituted a threat to the region's environment."
+  },
+  {
+   "s": "prelim",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In the same year, a preliminary report for the Academy of Sciences of the USSR was made, containing a large body of visual observations, radiolocation reports, physical measurements, and accompanying meteorological data."
+  },
+  {
+   "s": "prelim",
+   "p": "contents",
+   "v": "a large body of visual observations, radiolocation reports, physical measurements, and accompanying meteorological data",
+   "quote": "In the same year, a preliminary report for the Academy of Sciences of the USSR was made, containing a large body of visual observations, radiolocation reports, physical measurements, and accompanying meteorological data."
+  },
+  {
+   "s": "prelim",
+   "p": "conclusion",
+   "v": "based on the available data, it is unfeasible to satisfactorily understand the observed phenomenon",
+   "quote": "It concluded that \"based on the available data, it is unfeasible to satisfactorily understand the observed phenomenon\"."
+  },
+  {
+   "s": "prelim",
+   "p": "classification",
+   "v": "For Official Use Only",
+   "quote": "Further in 1977, a For Official Use Only preliminary report on the Petrozavodsk phenomenon was prepared by Gindilis, MEPI engineer-physicist D. Menkov and I. Petrovskaya."
+  },
+  {
+   "s": "prelim",
+   "p": "year",
+   "v": "1977",
+   "quote": "Further in 1977, a For Official Use Only preliminary report on the Petrozavodsk phenomenon was prepared by Gindilis, MEPI engineer-physicist D. Menkov and I. Petrovskaya."
+  },
+  {
+   "s": "prelim",
+   "p": "data_cutoff",
+   "v": "data available by 20 October",
+   "quote": "It used various data available by 20 October, but the findings were inconclusive."
+  },
+  {
+   "s": "prelim",
+   "p": "finding",
+   "v": "findings were inconclusive",
+   "quote": "It used various data available by 20 October, but the findings were inconclusive."
+  },
+  {
+   "s": "prelim",
+   "p": "statement",
+   "v": "the extent of phenomenon is apparently too big to be explained by technical experiments on satellite orbits",
+   "quote": "Assuming that \"the extent of phenomenon is apparently too big to be explained by technical experiments on satellite orbits\", the report conjectured \"a possible influence of some cosmic agent\"."
+  },
+  {
+   "s": "prelim",
+   "p": "conjecture",
+   "v": "a possible influence of some cosmic agent",
+   "quote": "Assuming that \"the extent of phenomenon is apparently too big to be explained by technical experiments on satellite orbits\", the report conjectured \"a possible influence of some cosmic agent\"."
+  },
+  {
+   "s": "prelim",
+   "p": "used_at",
+   "v": "dedicated meeting on 1 November 1977 at the Institute of Space Studies",
+   "quote": "The report was used at the dedicated meeting on the Petrozavodsk phenomenon, arranged on 1 November 1977 at the Institute of Space Studies of the Soviet Academy of Sciences (now Russian Space Research Institute)."
+  },
+  {
+   "s": "prelim",
+   "p": "distribution",
+   "v": "one copy was received by the French research group GEPAN",
+   "quote": "One copy of the report was received by the French research group GEPAN."
+  },
+  {
+   "s": "prelim",
+   "p": "distribution",
+   "v": "the copy was forwarded to CUFOS in Evanston, Illinois",
+   "quote": "The copy was subsequently forwarded to CUFOS in Evanston, Illinois in the United States."
+  },
+  {
+   "s": "prelim",
+   "p": "translation",
+   "v": "translated to English by Richard Haines on a government grant",
+   "quote": "J. Allen Hynek presented another copy to NASA scientist Richard Haines, who then translated the copy to English on a government grant."
+  },
+  {
+   "s": "prelim",
+   "p": "reception",
+   "v": "mixed reception abroad",
+   "quote": "The Soviet report was met with a mixed reception abroad."
+  },
+  {
+   "s": "prelim",
+   "p": "claimed_significance",
+   "v": "key evidence for the existence of unidentified flying objects, according to Haines, Hynek and others",
+   "quote": "Haines, Hynek and others publicly claimed that the report was the key evidence for the existence of unidentified flying objects."
+  },
+  {
+   "s": "ginanalysis",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The initial analysis of the phenomenon was made by the research fellow of Sternberg Astronomical Institute Lev Gindilis using various testimonies and meteorological data available by 30 September 1977."
+  },
+  {
+   "s": "ginanalysis",
+   "p": "data_cutoff",
+   "v": "30 September 1977",
+   "quote": "The initial analysis of the phenomenon was made by the research fellow of Sternberg Astronomical Institute Lev Gindilis using various testimonies and meteorological data available by 30 September 1977."
+  },
+  {
+   "s": "ginanalysis",
+   "p": "finding",
+   "v": "passage of one object seen from all reported locations is plausible at a flight altitude of c. 100 km or more",
+   "quote": "He wrote that the passage of one object at a reasonably high altitude, which allows simultaneous observations from all reported locations, is plausible at a flight altitude of c. 100 km or more."
+  },
+  {
+   "s": "ginanalysis",
+   "p": "finding",
+   "v": "the bright spherical object should then be about 1 kilometer across, and the coat several tens of kilometers",
+   "quote": "Gindilis noted that in that case \"the minimal linear dimensions of the bright spherical object should be about 1 kilometer, while the diameter of the coat – several tens of kilometers\"."
+  },
+  {
+   "s": "appendix",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In the end of January 1978 the Soviet researchers compiled an appendix to the 1977 preliminary report, which contained updated data on the phenomenon."
+  },
+  {
+   "s": "appendix",
+   "p": "part_of",
+   "o": "prelim",
+   "quote": "In the end of January 1978 the Soviet researchers compiled an appendix to the 1977 preliminary report, which contained updated data on the phenomenon."
+  },
+  {
+   "s": "appendix",
+   "p": "date",
+   "v": "end of January 1978",
+   "quote": "In the end of January 1978 the Soviet researchers compiled an appendix to the 1977 preliminary report, which contained updated data on the phenomenon."
+  },
+  {
+   "s": "appendix",
+   "p": "finding",
+   "v": "sightings of unidentified objects elsewhere were reported before the launch of Kosmos-955",
+   "quote": "The appendix further emphasized that the sightings of unidentified objects elsewhere were reported before the launch of Kosmos-955."
+  },
+  {
+   "s": "kotnote",
+   "p": "key_document",
+   "o": "case",
+   "quote": "On 2 January 1978, the vice president of the Soviet Academy of Sciences, Vladimir Kotelnikov, signed a note to the Karelian Department of the Academy, informing them about the dispatch of an expert group to study the phenomenon in situ."
+  },
+  {
+   "s": "kotnote",
+   "p": "date",
+   "v": "2 January 1978",
+   "quote": "On 2 January 1978, the vice president of the Soviet Academy of Sciences, Vladimir Kotelnikov, signed a note to the Karelian Department of the Academy, informing them about the dispatch of an expert group to study the phenomenon in situ."
+  },
+  {
+   "s": "kotnote",
+   "p": "content",
+   "v": "informed the Karelian Department about the dispatch of an expert group to study the phenomenon in situ",
+   "quote": "On 2 January 1978, the vice president of the Soviet Academy of Sciences, Vladimir Kotelnikov, signed a note to the Karelian Department of the Academy, informing them about the dispatch of an expert group to study the phenomenon in situ."
+  },
+  {
+   "s": "milovrep",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The earliest published report of the Petrozavodsk phenomenon was written by TASS correspondent Nikolai Milov, who described the unidentified object over Petrozavodsk as \"a huge star\", that \"flared up in the dark sky\" at about 4:00 am local time, \"impulsively sending shafts of light to the Earth\"."
+  },
+  {
+   "s": "milovrep",
+   "p": "significance",
+   "v": "earliest published report of the Petrozavodsk phenomenon",
+   "quote": "The earliest published report of the Petrozavodsk phenomenon was written by TASS correspondent Nikolai Milov, who described the unidentified object over Petrozavodsk as \"a huge star\", that \"flared up in the dark sky\" at about 4:00 am local time, \"impulsively sending shafts of light to the Earth\"."
+  },
+  {
+   "s": "milovrep",
+   "p": "published_in",
+   "v": "Pravda, Izvestiya, Selskaya Zhizn, and Sotsialisticheskaya Industriya",
+   "quote": "Milov's report was published in the mainstream Soviet press (Pravda, Izvestiya, Selskaya Zhizn, and Sotsialisticheskaya Industriya)."
+  },
+  {
+   "s": "akimovdraw",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The diameter of the object's jellyfish-like cupola was estimated by Felix Ziegel at about 105 m, based on the drawing of eyewitness Andrei Akimov."
+  },
+  {
+   "s": "photos",
+   "p": "key_document",
+   "o": "case",
+   "quote": "At 4:15 am. Novozhilov took three unsuccessful photos of the sighting with a 0.1 sec exposure."
+  },
+  {
+   "s": "photos",
+   "p": "count",
+   "v": "three",
+   "quote": "At 4:15 am. Novozhilov took three unsuccessful photos of the sighting with a 0.1 sec exposure."
+  },
+  {
+   "s": "photos",
+   "p": "result",
+   "v": "unsuccessful",
+   "quote": "At 4:15 am. Novozhilov took three unsuccessful photos of the sighting with a 0.1 sec exposure."
+  },
+  {
+   "s": "photos",
+   "p": "exposure",
+   "v": "0.1 sec",
+   "quote": "At 4:15 am. Novozhilov took three unsuccessful photos of the sighting with a 0.1 sec exposure."
+  },
+  {
+   "s": "photos",
+   "p": "time",
+   "v": "4:15 am",
+   "quote": "At 4:15 am. Novozhilov took three unsuccessful photos of the sighting with a 0.1 sec exposure."
+  },
+  {
+   "s": "recon",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 1978, Tekhnika i Nauka published a color reconstruction of various stages of the object."
+  },
+  {
+   "s": "recon",
+   "p": "year",
+   "v": "1978",
+   "quote": "In 1978, Tekhnika i Nauka published a color reconstruction of various stages of the object."
+  },
+  {
+   "s": "flashes",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 1978, Aviatsiya i Kosmonavtika published an article \"'Flashes' in the Atmosphere\" by M. Dmitriyev, where a chemiluminescence hypothesis was put forward."
+  },
+  {
+   "s": "flashes",
+   "p": "year",
+   "v": "1978",
+   "quote": "In 1978, Aviatsiya i Kosmonavtika published an article \"'Flashes' in the Atmosphere\" by M. Dmitriyev, where a chemiluminescence hypothesis was put forward."
+  },
+  {
+   "s": "flashes",
+   "p": "published_in",
+   "v": "Aviatsiya i Kosmonavtika",
+   "quote": "In 1978, Aviatsiya i Kosmonavtika published an article \"'Flashes' in the Atmosphere\" by M. Dmitriyev, where a chemiluminescence hypothesis was put forward."
+  },
+  {
+   "s": "norway",
+   "p": "related_case",
+   "o": "case",
+   "quote": "2009 Norwegian spiral anomaly"
+  },
+  {
+   "s": "aleksandrov",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Government officials from northern European countries sent letters to Anatoly Aleksandrov, president of the Academy of Sciences of the USSR, expressing concern about whether the observed phenomenon was caused by Soviet weapons testing and whether it constituted a threat to the region's environment."
+  },
+  {
+   "s": "aleksandrov",
+   "p": "member_of",
+   "o": "acad",
+   "quote": "Government officials from northern European countries sent letters to Anatoly Aleksandrov, president of the Academy of Sciences of the USSR, expressing concern about whether the observed phenomenon was caused by Soviet weapons testing and whether it constituted a threat to the region's environment."
+  },
+  {
+   "s": "aleksandrov",
+   "p": "position",
+   "v": "president of the Academy of Sciences of the USSR",
+   "quote": "Government officials from northern European countries sent letters to Anatoly Aleksandrov, president of the Academy of Sciences of the USSR, expressing concern about whether the observed phenomenon was caused by Soviet weapons testing and whether it constituted a threat to the region's environment."
+  },
+  {
+   "s": "aleksandrov",
+   "p": "received",
+   "v": "letters from government officials of northern European countries",
+   "quote": "Government officials from northern European countries sent letters to Anatoly Aleksandrov, president of the Academy of Sciences of the USSR, expressing concern about whether the observed phenomenon was caused by Soviet weapons testing and whether it constituted a threat to the region's environment."
+  },
+  {
+   "s": "teerikorpi",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "This claim was contested by Pekka Teerikorpi from Tuorla Observatory."
+  },
+  {
+   "s": "teerikorpi",
+   "p": "member_of",
+   "o": "tuorla",
+   "quote": "This claim was contested by Pekka Teerikorpi from Tuorla Observatory."
+  },
+  {
+   "s": "teerikorpi",
+   "p": "proposed",
+   "o": "x_sat",
+   "quote": "Arguing that the entire phenomenon was caused by Kosmos-955, Teerikorpi believed that the actual distance was \"many hundreds of kilometres\" and that \"such reports probably are due to the well-known fact that it is difficult to estimate distances of unfamiliar phenomena\"."
+  },
+  {
+   "s": "teerikorpi",
+   "p": "proposed",
+   "o": "x_misp",
+   "quote": "Arguing that the entire phenomenon was caused by Kosmos-955, Teerikorpi believed that the actual distance was \"many hundreds of kilometres\" and that \"such reports probably are due to the well-known fact that it is difficult to estimate distances of unfamiliar phenomena\"."
+  },
+  {
+   "s": "teerikorpi",
+   "p": "disputed",
+   "o": "c_turku",
+   "quote": "This claim was contested by Pekka Teerikorpi from Tuorla Observatory."
+  },
+  {
+   "s": "teerikorpi",
+   "p": "statement",
+   "v": "such reports probably are due to the well-known fact that it is difficult to estimate distances of unfamiliar phenomena",
+   "quote": "Arguing that the entire phenomenon was caused by Kosmos-955, Teerikorpi believed that the actual distance was \"many hundreds of kilometres\" and that \"such reports probably are due to the well-known fact that it is difficult to estimate distances of unfamiliar phenomena\"."
+  },
+  {
+   "s": "blagirev",
+   "p": "witness",
+   "o": "case",
+   "quote": "In Saint Petersburg, then Leningrad, the sighting of an unidentified object was reported by three night shift employees of Pulkovo Airport, including air traffic controller B. Blagirev."
+  },
+  {
+   "s": "blagirev",
+   "p": "employed_by",
+   "o": "pulkovoapt",
+   "quote": "In Saint Petersburg, then Leningrad, the sighting of an unidentified object was reported by three night shift employees of Pulkovo Airport, including air traffic controller B. Blagirev."
+  },
+  {
+   "s": "blagirev",
+   "p": "described",
+   "o": "c_pulk",
+   "quote": "According to Blagirev, he spotted a fireball-like object slightly larger than Venus at 3:55 am in the north-north-east at an azimuth of 10°."
+  },
+  {
+   "s": "blagirev",
+   "p": "occupation",
+   "v": "air traffic controller",
+   "quote": "In Saint Petersburg, then Leningrad, the sighting of an unidentified object was reported by three night shift employees of Pulkovo Airport, including air traffic controller B. Blagirev."
+  },
+  {
+   "s": "blagirev",
+   "p": "statement",
+   "v": "the observed phenomenon had nothing similar to aurora",
+   "quote": "The object was surrounded by a spacious, rhythmically glowing coat with intricate structure and \"the observed phenomenon had nothing similar to aurora\"."
+  },
+  {
+   "s": "blagirev",
+   "p": "identification",
+   "v": "all three airport employees failed to identify what they saw",
+   "quote": "All three airport employees failed to identify what they saw."
+  },
+  {
+   "s": "novozhilov",
+   "p": "witness",
+   "o": "case",
+   "quote": "In the settlement of Kurkijoki a luminous object was seen by engineer A. Novozhilov, who compared it to an airship."
+  },
+  {
+   "s": "novozhilov",
+   "p": "described",
+   "o": "c_kurk",
+   "quote": "In the settlement of Kurkijoki a luminous object was seen by engineer A. Novozhilov, who compared it to an airship."
+  },
+  {
+   "s": "novozhilov",
+   "p": "authored",
+   "o": "photos",
+   "quote": "At 4:15 am. Novozhilov took three unsuccessful photos of the sighting with a 0.1 sec exposure."
+  },
+  {
+   "s": "novozhilov",
+   "p": "occupation",
+   "v": "engineer",
+   "quote": "In the settlement of Kurkijoki a luminous object was seen by engineer A. Novozhilov, who compared it to an airship."
+  },
+  {
+   "s": "novozhilov",
+   "p": "comparison",
+   "v": "compared the object to an airship",
+   "quote": "In the settlement of Kurkijoki a luminous object was seen by engineer A. Novozhilov, who compared it to an airship."
+  },
+  {
+   "s": "novozhilov",
+   "p": "action",
+   "v": "took three unsuccessful photos with a 0.1 sec exposure at 4:15 am",
+   "quote": "At 4:15 am. Novozhilov took three unsuccessful photos of the sighting with a 0.1 sec exposure."
+  },
+  {
+   "s": "novozhilov",
+   "p": "action",
+   "v": "reported the sighting to Konstantin Polevitsky",
+   "quote": "He reported the sighting to the candidate of technical sciences, Konstantin Polevitsky, who recorded it."
+  },
+  {
+   "s": "polevitsky",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "He reported the sighting to the candidate of technical sciences, Konstantin Polevitsky, who recorded it."
+  },
+  {
+   "s": "polevitsky",
+   "p": "interviewed",
+   "o": "novozhilov",
+   "quote": "He reported the sighting to the candidate of technical sciences, Konstantin Polevitsky, who recorded it."
+  },
+  {
+   "s": "polevitsky",
+   "p": "title",
+   "v": "candidate of technical sciences",
+   "quote": "He reported the sighting to the candidate of technical sciences, Konstantin Polevitsky, who recorded it."
+  },
+  {
+   "s": "polevitsky",
+   "p": "action",
+   "v": "recorded Novozhilov's sighting",
+   "quote": "He reported the sighting to the candidate of technical sciences, Konstantin Polevitsky, who recorded it."
+  },
+  {
+   "s": "linnik",
+   "p": "witness",
+   "o": "case",
+   "quote": "Another detailed account of one unidentified object was given by Soviet writer and philosopher Yuri Linnik."
+  },
+  {
+   "s": "linnik",
+   "p": "described",
+   "o": "c_lin",
+   "quote": "The edges of the lens-like object had 16 spots (described by Linnik as \"nozzles\") which emitted pulsating red rays at an angle of 10°–15°."
+  },
+  {
+   "s": "linnik",
+   "p": "occupation",
+   "v": "Soviet writer and philosopher",
+   "quote": "Another detailed account of one unidentified object was given by Soviet writer and philosopher Yuri Linnik."
+  },
+  {
+   "s": "linnik",
+   "p": "location",
+   "v": "his dacha near Namoyevo",
+   "quote": "He observed the object at his dacha near Namoyevo at about 3:00 am through an amateur telescope with an 80× magnification."
+  },
+  {
+   "s": "linnik",
+   "p": "instrument",
+   "v": "amateur telescope with an 80× magnification",
+   "quote": "He observed the object at his dacha near Namoyevo at about 3:00 am through an amateur telescope with an 80× magnification."
+  },
+  {
+   "s": "linnik",
+   "p": "later_claim",
+   "v": "increased biological activity after 20 September 1977 in the areas where the phenomenon was observed",
+   "quote": "According to Yuri Linnik, after 20 September 1977 there was increased biological activity in the areas where the phenomenon was observed."
+  },
+  {
+   "s": "linnik",
+   "p": "later_claim",
+   "v": "blooming of roses in his garden and the second bloom of \"about 10 species of herbaceous plants\"",
+   "quote": "Noting that that increase might not be related to the Petrozavodsk phenomenon, Linnik nonetheless reported the blooming of roses in his garden and the second bloom of \"about 10 species of herbaceous plants\"."
+  },
+  {
+   "s": "linnik",
+   "p": "caveat",
+   "v": "noted that the increase might not be related to the Petrozavodsk phenomenon",
+   "quote": "Noting that that increase might not be related to the Petrozavodsk phenomenon, Linnik nonetheless reported the blooming of roses in his garden and the second bloom of \"about 10 species of herbaceous plants\"."
+  },
+  {
+   "s": "linnik",
+   "p": "statement",
+   "v": "extraordinary for Karelia's latitude because after the autumn equinox the vegetation of herbs almost ceases",
+   "quote": "Linnik called it \"extraordinary for Karelia's latitude\" because \"after the autumn equinox the vegetation of herbs almost ceases\"."
+  },
+  {
+   "s": "linnik",
+   "p": "later_claim",
+   "v": "intense bloom of the water in Ukshozero, caused by Ankistrodesmus, shortly after 20 September",
+   "quote": "He further emphasized the intense bloom of the water in Ukshozero, caused by Ankistrodesmus, shortly after 20 September."
+  },
+  {
+   "s": "pandzh",
+   "p": "witness",
+   "o": "case",
+   "quote": "A bright, luminous object was also observed for a half an hour by Georgian writer Guram Pandzhikidze and other passengers of an aircraft returning from Singapore to Moscow at an altitude of 11 km, at about 4:30 or 5:00 am."
+  },
+  {
+   "s": "pandzh",
+   "p": "occupation",
+   "v": "writer",
+   "quote": "A bright, luminous object was also observed for a half an hour by Georgian writer Guram Pandzhikidze and other passengers of an aircraft returning from Singapore to Moscow at an altitude of 11 km, at about 4:30 or 5:00 am."
+  },
+  {
+   "s": "pandzh",
+   "p": "nationality",
+   "v": "Georgian",
+   "quote": "A bright, luminous object was also observed for a half an hour by Georgian writer Guram Pandzhikidze and other passengers of an aircraft returning from Singapore to Moscow at an altitude of 11 km, at about 4:30 or 5:00 am."
+  },
+  {
+   "s": "pandzh",
+   "p": "observation",
+   "v": "bright, luminous object observed for a half an hour at an altitude of 11 km, at about 4:30 or 5:00 am",
+   "quote": "A bright, luminous object was also observed for a half an hour by Georgian writer Guram Pandzhikidze and other passengers of an aircraft returning from Singapore to Moscow at an altitude of 11 km, at about 4:30 or 5:00 am."
+  },
+  {
+   "s": "pandzh",
+   "p": "action",
+   "v": "reported the sighting on 2 October to Yuri Gromov",
+   "quote": "Pandzhikidze reported the sighting on 2 October to the director of the Karelian Hydrometeorological Observatory Yuri Gromov, who verified the report's copy."
+  },
+  {
+   "s": "gromov",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Some eyewitness accounts were attested by Yuri Gromov."
+  },
+  {
+   "s": "gromov",
+   "p": "employed_by",
+   "o": "kho",
+   "quote": "Pandzhikidze reported the sighting on 2 October to the director of the Karelian Hydrometeorological Observatory Yuri Gromov, who verified the report's copy."
+  },
+  {
+   "s": "gromov",
+   "p": "interviewed",
+   "o": "pandzh",
+   "quote": "Pandzhikidze reported the sighting on 2 October to the director of the Karelian Hydrometeorological Observatory Yuri Gromov, who verified the report's copy."
+  },
+  {
+   "s": "gromov",
+   "p": "position",
+   "v": "director of the Karelian Hydrometeorological Observatory",
+   "quote": "Pandzhikidze reported the sighting on 2 October to the director of the Karelian Hydrometeorological Observatory Yuri Gromov, who verified the report's copy."
+  },
+  {
+   "s": "gromov",
+   "p": "action",
+   "v": "verified the copy of Pandzhikidze's report",
+   "quote": "Pandzhikidze reported the sighting on 2 October to the director of the Karelian Hydrometeorological Observatory Yuri Gromov, who verified the report's copy."
+  },
+  {
+   "s": "gromov",
+   "p": "action",
+   "v": "attested some eyewitness accounts",
+   "quote": "Some eyewitness accounts were attested by Yuri Gromov."
+  },
+  {
+   "s": "milov",
+   "p": "journalist",
+   "o": "case",
+   "quote": "The earliest published report of the Petrozavodsk phenomenon was written by TASS correspondent Nikolai Milov, who described the unidentified object over Petrozavodsk as \"a huge star\", that \"flared up in the dark sky\" at about 4:00 am local time, \"impulsively sending shafts of light to the Earth\"."
+  },
+  {
+   "s": "milov",
+   "p": "employed_by",
+   "o": "tass",
+   "quote": "The earliest published report of the Petrozavodsk phenomenon was written by TASS correspondent Nikolai Milov, who described the unidentified object over Petrozavodsk as \"a huge star\", that \"flared up in the dark sky\" at about 4:00 am local time, \"impulsively sending shafts of light to the Earth\"."
+  },
+  {
+   "s": "milov",
+   "p": "authored",
+   "o": "milovrep",
+   "quote": "The earliest published report of the Petrozavodsk phenomenon was written by TASS correspondent Nikolai Milov, who described the unidentified object over Petrozavodsk as \"a huge star\", that \"flared up in the dark sky\" at about 4:00 am local time, \"impulsively sending shafts of light to the Earth\"."
+  },
+  {
+   "s": "milov",
+   "p": "described",
+   "o": "c_petro",
+   "quote": "According to Milov, \"the star\" was spreading out over Petrozavodsk in the form of a jellyfish, \"showering the city with a multitude of very fine rays which created an image of pouring rain\"."
+  },
+  {
+   "s": "milov",
+   "p": "occupation",
+   "v": "TASS correspondent",
+   "quote": "The earliest published report of the Petrozavodsk phenomenon was written by TASS correspondent Nikolai Milov, who described the unidentified object over Petrozavodsk as \"a huge star\", that \"flared up in the dark sky\" at about 4:00 am local time, \"impulsively sending shafts of light to the Earth\"."
+  },
+  {
+   "s": "milov",
+   "p": "statement",
+   "v": "\"the star\" was spreading out over Petrozavodsk in the form of a jellyfish, \"showering the city with a multitude of very fine rays which created an image of pouring rain\"",
+   "quote": "According to Milov, \"the star\" was spreading out over Petrozavodsk in the form of a jellyfish, \"showering the city with a multitude of very fine rays which created an image of pouring rain\"."
+  },
+  {
+   "s": "milov",
+   "p": "statement",
+   "v": "\"after some time the luminescent rays ceased\" and \"the jellyfish turned into a bright semicircle\"",
+   "quote": "Milov further reported that \"after some time the luminescent rays ceased\" and \"the jellyfish turned into a bright semicircle\", which resumed its movement towards Onega Lake."
+  },
+  {
+   "s": "barkhatov",
+   "p": "witness",
+   "o": "case",
+   "quote": "The course angle as determined by former pilot and eyewitness V. Barkhatov was 240°."
+  },
+  {
+   "s": "barkhatov",
+   "p": "described",
+   "o": "c_petro",
+   "quote": "The course angle as determined by former pilot and eyewitness V. Barkhatov was 240°."
+  },
+  {
+   "s": "barkhatov",
+   "p": "occupation",
+   "v": "former pilot",
+   "quote": "The course angle as determined by former pilot and eyewitness V. Barkhatov was 240°."
+  },
+  {
+   "s": "barkhatov",
+   "p": "determined",
+   "v": "course angle of 240°",
+   "quote": "The course angle as determined by former pilot and eyewitness V. Barkhatov was 240°."
+  },
+  {
+   "s": "ziegel",
+   "p": "investigator",
+   "o": "case",
+   "quote": "The diameter of the object's jellyfish-like cupola was estimated by Felix Ziegel at about 105 m, based on the drawing of eyewitness Andrei Akimov."
+  },
+  {
+   "s": "ziegel",
+   "p": "disputed",
+   "o": "x_sat",
+   "quote": "The suggestion about Kosmos-955 was also criticized by Felix Ziegel, who noted that the space vehicles are launched eastwards, in the direction of Earth's rotation."
+  },
+  {
+   "s": "ziegel",
+   "p": "disputed",
+   "o": "x_aurora",
+   "quote": "Migulin's explanation was rejected by Felix Ziegel, who noted that aurorae cannot occur at an altitude lower than 100 km and that their surface brightness is low, being incomparable to that of the Petrozavodsk object."
+  },
+  {
+   "s": "ziegel",
+   "p": "disputed",
+   "o": "x_chem",
+   "quote": "Concerning that hypothesis, Ziegel wrote that \"the energy output of chemiluminescence is negligible\", unlike that of the Petrozavodsk object, and that the conjectured chemiluminescent clouds cannot soar against the wind, which the Petrozavodsk object appeared to do."
+  },
+  {
+   "s": "ziegel",
+   "p": "disputed",
+   "o": "migulin",
+   "quote": "Migulin's explanation was rejected by Felix Ziegel, who noted that aurorae cannot occur at an altitude lower than 100 km and that their surface brightness is low, being incomparable to that of the Petrozavodsk object."
+  },
+  {
+   "s": "ziegel",
+   "p": "estimate",
+   "v": "jellyfish-like cupola about 105 m in diameter, based on Andrei Akimov's drawing",
+   "quote": "The diameter of the object's jellyfish-like cupola was estimated by Felix Ziegel at about 105 m, based on the drawing of eyewitness Andrei Akimov."
+  },
+  {
+   "s": "ziegel",
+   "p": "statement",
+   "v": "space vehicles are launched eastwards, in the direction of Earth's rotation",
+   "quote": "The suggestion about Kosmos-955 was also criticized by Felix Ziegel, who noted that the space vehicles are launched eastwards, in the direction of Earth's rotation."
+  },
+  {
+   "s": "ziegel",
+   "p": "statement",
+   "v": "aurorae cannot occur at an altitude lower than 100 km and their surface brightness is low, incomparable to that of the Petrozavodsk object",
+   "quote": "Migulin's explanation was rejected by Felix Ziegel, who noted that aurorae cannot occur at an altitude lower than 100 km and that their surface brightness is low, being incomparable to that of the Petrozavodsk object."
+  },
+  {
+   "s": "ziegel",
+   "p": "statement",
+   "v": "\"the energy output of chemiluminescence is negligible\", and chemiluminescent clouds cannot soar against the wind",
+   "quote": "Concerning that hypothesis, Ziegel wrote that \"the energy output of chemiluminescence is negligible\", unlike that of the Petrozavodsk object, and that the conjectured chemiluminescent clouds cannot soar against the wind, which the Petrozavodsk object appeared to do."
+  },
+  {
+   "s": "akimov",
+   "p": "witness",
+   "o": "case",
+   "quote": "The diameter of the object's jellyfish-like cupola was estimated by Felix Ziegel at about 105 m, based on the drawing of eyewitness Andrei Akimov."
+  },
+  {
+   "s": "akimov",
+   "p": "authored",
+   "o": "akimovdraw",
+   "quote": "The diameter of the object's jellyfish-like cupola was estimated by Felix Ziegel at about 105 m, based on the drawing of eyewitness Andrei Akimov."
+  },
+  {
+   "s": "trubachev",
+   "p": "witness",
+   "o": "case",
+   "quote": "According to eyewitness V. Trubachev, \"the ground was lightened like in the white night\"."
+  },
+  {
+   "s": "trubachev",
+   "p": "statement",
+   "v": "the ground was lightened like in the white night",
+   "quote": "According to eyewitness V. Trubachev, \"the ground was lightened like in the white night\"."
+  },
+  {
+   "s": "andreyeva",
+   "p": "investigator",
+   "o": "case",
+   "quote": "In November 1977, clinical psychologist Y. Andreyeva evaluated the mental condition of nine eyewitnesses of the Petrozavodsk phenomenon."
+  },
+  {
+   "s": "andreyeva",
+   "p": "occupation",
+   "v": "clinical psychologist",
+   "quote": "In November 1977, clinical psychologist Y. Andreyeva evaluated the mental condition of nine eyewitnesses of the Petrozavodsk phenomenon."
+  },
+  {
+   "s": "andreyeva",
+   "p": "evaluation_date",
+   "v": "November 1977",
+   "quote": "In November 1977, clinical psychologist Y. Andreyeva evaluated the mental condition of nine eyewitnesses of the Petrozavodsk phenomenon."
+  },
+  {
+   "s": "andreyeva",
+   "p": "witnesses_evaluated",
+   "v": "nine",
+   "quote": "In November 1977, clinical psychologist Y. Andreyeva evaluated the mental condition of nine eyewitnesses of the Petrozavodsk phenomenon."
+  },
+  {
+   "s": "andreyeva",
+   "p": "conclusion",
+   "v": "one can be confident of complete mental sanity of the eyewitnesses and the veracity of their answers and testimonies",
+   "quote": "She concluded that \"one can be confident of complete mental sanity of the eyewitnesses and the veracity of their answers and testimonies\"."
+  },
+  {
+   "s": "grakov",
+   "p": "witness",
+   "o": "case",
+   "quote": "According to A. Grakov, who observed a glowing yellow ball the size of the moon, the air above the lake in Petrozavodsk glowed with white light after the ball had disappeared."
+  },
+  {
+   "s": "grakov",
+   "p": "observation",
+   "v": "a glowing yellow ball the size of the moon",
+   "quote": "According to A. Grakov, who observed a glowing yellow ball the size of the moon, the air above the lake in Petrozavodsk glowed with white light after the ball had disappeared."
+  },
+  {
+   "s": "grakov",
+   "p": "statement",
+   "v": "the air above the lake in Petrozavodsk glowed with white light after the ball had disappeared",
+   "quote": "According to A. Grakov, who observed a glowing yellow ball the size of the moon, the air above the lake in Petrozavodsk glowed with white light after the ball had disappeared."
+  },
+  {
+   "s": "grakov",
+   "p": "statement",
+   "v": "the glow was more intense than that from Petrozavodsk's lights",
+   "quote": "The glow was more intense than that from Petrozavodsk's lights."
+  },
+  {
+   "s": "hamalainen",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Although according to UPI the object was detected by the Helsinki airport radar, the airport's traffic controller Ari Hämäläinen claimed it was not."
+  },
+  {
+   "s": "hamalainen",
+   "p": "employed_by",
+   "o": "helapt",
+   "quote": "Although according to UPI the object was detected by the Helsinki airport radar, the airport's traffic controller Ari Hämäläinen claimed it was not."
+  },
+  {
+   "s": "hamalainen",
+   "p": "disputed",
+   "o": "upi",
+   "quote": "Although according to UPI the object was detected by the Helsinki airport radar, the airport's traffic controller Ari Hämäläinen claimed it was not."
+  },
+  {
+   "s": "hamalainen",
+   "p": "occupation",
+   "v": "Helsinki airport traffic controller",
+   "quote": "Although according to UPI the object was detected by the Helsinki airport radar, the airport's traffic controller Ari Hämäläinen claimed it was not."
+  },
+  {
+   "s": "hamalainen",
+   "p": "statement",
+   "v": "claimed the object was not detected by the Helsinki airport radar",
+   "quote": "Although according to UPI the object was detected by the Helsinki airport radar, the airport's traffic controller Ari Hämäläinen claimed it was not."
+  },
+  {
+   "s": "gindilis",
+   "p": "investigator",
+   "o": "case",
+   "quote": "The initial analysis of the phenomenon was made by the research fellow of Sternberg Astronomical Institute Lev Gindilis using various testimonies and meteorological data available by 30 September 1977."
+  },
+  {
+   "s": "gindilis",
+   "p": "employed_by",
+   "o": "sternberg",
+   "quote": "The initial analysis of the phenomenon was made by the research fellow of Sternberg Astronomical Institute Lev Gindilis using various testimonies and meteorological data available by 30 September 1977."
+  },
+  {
+   "s": "gindilis",
+   "p": "authored",
+   "o": "ginanalysis",
+   "quote": "The initial analysis of the phenomenon was made by the research fellow of Sternberg Astronomical Institute Lev Gindilis using various testimonies and meteorological data available by 30 September 1977."
+  },
+  {
+   "s": "gindilis",
+   "p": "authored",
+   "o": "prelim",
+   "quote": "Further in 1977, a For Official Use Only preliminary report on the Petrozavodsk phenomenon was prepared by Gindilis, MEPI engineer-physicist D. Menkov and I. Petrovskaya."
+  },
+  {
+   "s": "gindilis",
+   "p": "disputed",
+   "o": "x_sat",
+   "quote": "Considering the launch of Kosmos-955 as the possible cause, Gindilis outlined several obstacles, such as the westward motion of the unidentified object (while Kosmos-955 was launched to the north-east), the observed angular sizes of it combined with the expected distance and prolonged hanging over Leppäsyrjä."
+  },
+  {
+   "s": "gindilis",
+   "p": "position",
+   "v": "research fellow of Sternberg Astronomical Institute",
+   "quote": "The initial analysis of the phenomenon was made by the research fellow of Sternberg Astronomical Institute Lev Gindilis using various testimonies and meteorological data available by 30 September 1977."
+  },
+  {
+   "s": "gindilis",
+   "p": "statement",
+   "v": "the minimal linear dimensions of the bright spherical object should be about 1 kilometer, while the diameter of the coat – several tens of kilometers",
+   "quote": "Gindilis noted that in that case \"the minimal linear dimensions of the bright spherical object should be about 1 kilometer, while the diameter of the coat – several tens of kilometers\"."
+  },
+  {
+   "s": "gindilis",
+   "p": "objections_to_kosmos_955",
+   "v": "westward motion of the object while Kosmos-955 was launched to the north-east, the observed angular sizes combined with the expected distance, and prolonged hanging over Leppäsyrjä",
+   "quote": "Considering the launch of Kosmos-955 as the possible cause, Gindilis outlined several obstacles, such as the westward motion of the unidentified object (while Kosmos-955 was launched to the north-east), the observed angular sizes of it combined with the expected distance and prolonged hanging over Leppäsyrjä."
+  },
+  {
+   "s": "menkov",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Further in 1977, a For Official Use Only preliminary report on the Petrozavodsk phenomenon was prepared by Gindilis, MEPI engineer-physicist D. Menkov and I. Petrovskaya."
+  },
+  {
+   "s": "menkov",
+   "p": "employed_by",
+   "o": "mepi",
+   "quote": "Further in 1977, a For Official Use Only preliminary report on the Petrozavodsk phenomenon was prepared by Gindilis, MEPI engineer-physicist D. Menkov and I. Petrovskaya."
+  },
+  {
+   "s": "menkov",
+   "p": "authored",
+   "o": "prelim",
+   "quote": "Further in 1977, a For Official Use Only preliminary report on the Petrozavodsk phenomenon was prepared by Gindilis, MEPI engineer-physicist D. Menkov and I. Petrovskaya."
+  },
+  {
+   "s": "menkov",
+   "p": "colleague_of",
+   "o": "gindilis",
+   "quote": "Further in 1977, a For Official Use Only preliminary report on the Petrozavodsk phenomenon was prepared by Gindilis, MEPI engineer-physicist D. Menkov and I. Petrovskaya."
+  },
+  {
+   "s": "menkov",
+   "p": "occupation",
+   "v": "engineer-physicist",
+   "quote": "Further in 1977, a For Official Use Only preliminary report on the Petrozavodsk phenomenon was prepared by Gindilis, MEPI engineer-physicist D. Menkov and I. Petrovskaya."
+  },
+  {
+   "s": "petrovskaya",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Further in 1977, a For Official Use Only preliminary report on the Petrozavodsk phenomenon was prepared by Gindilis, MEPI engineer-physicist D. Menkov and I. Petrovskaya."
+  },
+  {
+   "s": "petrovskaya",
+   "p": "authored",
+   "o": "prelim",
+   "quote": "Further in 1977, a For Official Use Only preliminary report on the Petrozavodsk phenomenon was prepared by Gindilis, MEPI engineer-physicist D. Menkov and I. Petrovskaya."
+  },
+  {
+   "s": "petrovskaya",
+   "p": "colleague_of",
+   "o": "gindilis",
+   "quote": "Further in 1977, a For Official Use Only preliminary report on the Petrozavodsk phenomenon was prepared by Gindilis, MEPI engineer-physicist D. Menkov and I. Petrovskaya."
+  },
+  {
+   "s": "kotelnikov",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "On 2 January 1978, the vice president of the Soviet Academy of Sciences, Vladimir Kotelnikov, signed a note to the Karelian Department of the Academy, informing them about the dispatch of an expert group to study the phenomenon in situ."
+  },
+  {
+   "s": "kotelnikov",
+   "p": "member_of",
+   "o": "acad",
+   "quote": "On 2 January 1978, the vice president of the Soviet Academy of Sciences, Vladimir Kotelnikov, signed a note to the Karelian Department of the Academy, informing them about the dispatch of an expert group to study the phenomenon in situ."
+  },
+  {
+   "s": "kotelnikov",
+   "p": "authored",
+   "o": "kotnote",
+   "quote": "On 2 January 1978, the vice president of the Soviet Academy of Sciences, Vladimir Kotelnikov, signed a note to the Karelian Department of the Academy, informing them about the dispatch of an expert group to study the phenomenon in situ."
+  },
+  {
+   "s": "kotelnikov",
+   "p": "position",
+   "v": "vice president of the Soviet Academy of Sciences",
+   "quote": "On 2 January 1978, the vice president of the Soviet Academy of Sciences, Vladimir Kotelnikov, signed a note to the Karelian Department of the Academy, informing them about the dispatch of an expert group to study the phenomenon in situ."
+  },
+  {
+   "s": "mezentsev",
+   "p": "investigator",
+   "o": "case",
+   "quote": "There, relying on eyewitnesses' testimonies, the employee of Petrozavodsk University Y. Mezentsev conducted theodolite measurements to determine the approximate location of the unidentified object over Petrozavodsk."
+  },
+  {
+   "s": "mezentsev",
+   "p": "employed_by",
+   "o": "petrsu",
+   "quote": "There, relying on eyewitnesses' testimonies, the employee of Petrozavodsk University Y. Mezentsev conducted theodolite measurements to determine the approximate location of the unidentified object over Petrozavodsk."
+  },
+  {
+   "s": "mezentsev",
+   "p": "action",
+   "v": "conducted theodolite measurements to determine the approximate location of the object over Petrozavodsk",
+   "quote": "There, relying on eyewitnesses' testimonies, the employee of Petrozavodsk University Y. Mezentsev conducted theodolite measurements to determine the approximate location of the unidentified object over Petrozavodsk."
+  },
+  {
+   "s": "hynek",
+   "p": "proponent",
+   "o": "case",
+   "quote": "Haines, Hynek and others publicly claimed that the report was the key evidence for the existence of unidentified flying objects."
+  },
+  {
+   "s": "hynek",
+   "p": "action",
+   "v": "presented another copy of the report to NASA scientist Richard Haines",
+   "quote": "J. Allen Hynek presented another copy to NASA scientist Richard Haines, who then translated the copy to English on a government grant."
+  },
+  {
+   "s": "hynek",
+   "p": "statement",
+   "v": "publicly claimed that the report was the key evidence for the existence of unidentified flying objects",
+   "quote": "Haines, Hynek and others publicly claimed that the report was the key evidence for the existence of unidentified flying objects."
+  },
+  {
+   "s": "haines",
+   "p": "proponent",
+   "o": "case",
+   "quote": "Haines, Hynek and others publicly claimed that the report was the key evidence for the existence of unidentified flying objects."
+  },
+  {
+   "s": "haines",
+   "p": "employed_by",
+   "o": "nasa",
+   "quote": "J. Allen Hynek presented another copy to NASA scientist Richard Haines, who then translated the copy to English on a government grant."
+  },
+  {
+   "s": "haines",
+   "p": "colleague_of",
+   "o": "hynek",
+   "quote": "Haines, Hynek and others publicly claimed that the report was the key evidence for the existence of unidentified flying objects."
+  },
+  {
+   "s": "haines",
+   "p": "occupation",
+   "v": "NASA scientist",
+   "quote": "J. Allen Hynek presented another copy to NASA scientist Richard Haines, who then translated the copy to English on a government grant."
+  },
+  {
+   "s": "haines",
+   "p": "action",
+   "v": "translated the copy to English on a government grant",
+   "quote": "J. Allen Hynek presented another copy to NASA scientist Richard Haines, who then translated the copy to English on a government grant."
+  },
+  {
+   "s": "haines",
+   "p": "statement",
+   "v": "publicly claimed that the report was the key evidence for the existence of unidentified flying objects",
+   "quote": "Haines, Hynek and others publicly claimed that the report was the key evidence for the existence of unidentified flying objects."
+  },
+  {
+   "s": "oberg",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "James Oberg attributed the Petrozavodsk object to the launch of the Soviet satellite Kosmos-955 from Plesetsk Cosmodrome, which took place on 20 September at about 3:58 local time."
+  },
+  {
+   "s": "oberg",
+   "p": "proposed",
+   "o": "x_sat",
+   "quote": "James Oberg attributed the Petrozavodsk object to the launch of the Soviet satellite Kosmos-955 from Plesetsk Cosmodrome, which took place on 20 September at about 3:58 local time."
+  },
+  {
+   "s": "oberg",
+   "p": "disputed",
+   "o": "prelim",
+   "quote": "James Oberg criticised the Soviet investigation, regarding it as \"a ruse, possibly another Soviet attempt to divert attention from the truth about Soviet UFOs\"."
+  },
+  {
+   "s": "oberg",
+   "p": "statement",
+   "v": "a ruse, possibly another Soviet attempt to divert attention from the truth about Soviet UFOs",
+   "quote": "James Oberg criticised the Soviet investigation, regarding it as \"a ruse, possibly another Soviet attempt to divert attention from the truth about Soviet UFOs\"."
+  },
+  {
+   "s": "oberg",
+   "p": "statement",
+   "v": "residents of Petrozavodsk observed the blaze trail from the satellite's nozzles, which caused the phenomenon",
+   "quote": "According to James Oberg, because Kosmos-955 was launched in the north-eastern direction, the residents of Petrozavodsk (located to the south-west from Plesetsk) observed the blaze trail from the satellite's nozzles, which caused the phenomenon."
+  },
+  {
+   "s": "krat",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "The director of the Pulkovo Observatory Vladimir Krat initially thought that the phenomenon was caused by the fall of a meteorite."
+  },
+  {
+   "s": "krat",
+   "p": "employed_by",
+   "o": "pulkovoobs",
+   "quote": "The director of the Pulkovo Observatory Vladimir Krat initially thought that the phenomenon was caused by the fall of a meteorite."
+  },
+  {
+   "s": "krat",
+   "p": "proposed",
+   "o": "x_meteor",
+   "quote": "The director of the Pulkovo Observatory Vladimir Krat initially thought that the phenomenon was caused by the fall of a meteorite."
+  },
+  {
+   "s": "krat",
+   "p": "proposed",
+   "o": "x_aurora",
+   "quote": "Later in public speeches, he attributed the phenomenon to aurorae."
+  },
+  {
+   "s": "krat",
+   "p": "position",
+   "v": "director of the Pulkovo Observatory",
+   "quote": "The director of the Pulkovo Observatory Vladimir Krat initially thought that the phenomenon was caused by the fall of a meteorite."
+  },
+  {
+   "s": "migulin",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "This view was supported by the director of IZMIRAN Vladimir Migulin, whose conjecture was published in the newspaper Sovetskaya Rossiya on 19 April 1980."
+  },
+  {
+   "s": "migulin",
+   "p": "employed_by",
+   "o": "izmiran",
+   "quote": "This view was supported by the director of IZMIRAN Vladimir Migulin, whose conjecture was published in the newspaper Sovetskaya Rossiya on 19 April 1980."
+  },
+  {
+   "s": "migulin",
+   "p": "proposed",
+   "o": "x_aurora",
+   "quote": "This view was supported by the director of IZMIRAN Vladimir Migulin, whose conjecture was published in the newspaper Sovetskaya Rossiya on 19 April 1980."
+  },
+  {
+   "s": "migulin",
+   "p": "proposed",
+   "o": "x_sat",
+   "quote": "Later, Migulin suggested that the phenomenon occurred \"due to a rare concourse of various circumstances, that is the launch of the satellite Kosmos-955, the strong magnetic perturbation due to solar flare and our scientific experiment of influencing the ionosphere with low frequency radio waves\"."
+  },
+  {
+   "s": "migulin",
+   "p": "proposed",
+   "o": "x_flare",
+   "quote": "Later, Migulin suggested that the phenomenon occurred \"due to a rare concourse of various circumstances, that is the launch of the satellite Kosmos-955, the strong magnetic perturbation due to solar flare and our scientific experiment of influencing the ionosphere with low frequency radio waves\"."
+  },
+  {
+   "s": "migulin",
+   "p": "proposed",
+   "o": "x_iono",
+   "quote": "Later, Migulin suggested that the phenomenon occurred \"due to a rare concourse of various circumstances, that is the launch of the satellite Kosmos-955, the strong magnetic perturbation due to solar flare and our scientific experiment of influencing the ionosphere with low frequency radio waves\"."
+  },
+  {
+   "s": "migulin",
+   "p": "position",
+   "v": "director of IZMIRAN",
+   "quote": "This view was supported by the director of IZMIRAN Vladimir Migulin, whose conjecture was published in the newspaper Sovetskaya Rossiya on 19 April 1980."
+  },
+  {
+   "s": "migulin",
+   "p": "publication",
+   "v": "conjecture published in the newspaper Sovetskaya Rossiya on 19 April 1980",
+   "quote": "This view was supported by the director of IZMIRAN Vladimir Migulin, whose conjecture was published in the newspaper Sovetskaya Rossiya on 19 April 1980."
+  },
+  {
+   "s": "migulin",
+   "p": "later_claim",
+   "v": "due to a rare concourse of various circumstances, that is the launch of the satellite Kosmos-955, the strong magnetic perturbation due to solar flare and our scientific experiment of influencing the ionosphere with low frequency radio waves",
+   "quote": "Later, Migulin suggested that the phenomenon occurred \"due to a rare concourse of various circumstances, that is the launch of the satellite Kosmos-955, the strong magnetic perturbation due to solar flare and our scientific experiment of influencing the ionosphere with low frequency radio waves\"."
+  },
+  {
+   "s": "dmitriyev",
+   "p": "commentator",
+   "o": "case",
+   "quote": "In 1978, Aviatsiya i Kosmonavtika published an article \"'Flashes' in the Atmosphere\" by M. Dmitriyev, where a chemiluminescence hypothesis was put forward."
+  },
+  {
+   "s": "dmitriyev",
+   "p": "authored",
+   "o": "flashes",
+   "quote": "In 1978, Aviatsiya i Kosmonavtika published an article \"'Flashes' in the Atmosphere\" by M. Dmitriyev, where a chemiluminescence hypothesis was put forward."
+  },
+  {
+   "s": "dmitriyev",
+   "p": "proposed",
+   "o": "x_chem",
+   "quote": "In 1978, Aviatsiya i Kosmonavtika published an article \"'Flashes' in the Atmosphere\" by M. Dmitriyev, where a chemiluminescence hypothesis was put forward."
+  },
+  {
+   "s": "dmitriyev",
+   "p": "statement",
+   "v": "the phenomenon was \"neither the result of technical experiments nor a mirage\", but a chemiluminescent area in the atmosphere",
+   "quote": "According to Dmitriyev, the phenomenon was \"neither the result of technical experiments nor a mirage\", but a chemiluminescent area in the atmosphere."
+  },
+  {
+   "s": "kivinen",
+   "p": "commentator",
+   "o": "case",
+   "quote": "In the interview, published in 1977 by Kansan Uutiset and Uusi Suomi, the employee of Nurmijärvi geophysical observatory Matti Kivinen assumed that an unidentified object over Finland could be the remnant of a launch vehicle or satellite."
+  },
+  {
+   "s": "kivinen",
+   "p": "employed_by",
+   "o": "nurmijarvi",
+   "quote": "In the interview, published in 1977 by Kansan Uutiset and Uusi Suomi, the employee of Nurmijärvi geophysical observatory Matti Kivinen assumed that an unidentified object over Finland could be the remnant of a launch vehicle or satellite."
+  },
+  {
+   "s": "kivinen",
+   "p": "proposed",
+   "o": "x_sat",
+   "quote": "In the interview, published in 1977 by Kansan Uutiset and Uusi Suomi, the employee of Nurmijärvi geophysical observatory Matti Kivinen assumed that an unidentified object over Finland could be the remnant of a launch vehicle or satellite."
+  },
+  {
+   "s": "kivinen",
+   "p": "statement",
+   "v": "an unidentified object over Finland could be the remnant of a launch vehicle or satellite",
+   "quote": "In the interview, published in 1977 by Kansan Uutiset and Uusi Suomi, the employee of Nurmijärvi geophysical observatory Matti Kivinen assumed that an unidentified object over Finland could be the remnant of a launch vehicle or satellite."
+  },
+  {
+   "s": "kivinen",
+   "p": "interview",
+   "v": "published in 1977 by Kansan Uutiset and Uusi Suomi",
+   "quote": "In the interview, published in 1977 by Kansan Uutiset and Uusi Suomi, the employee of Nurmijärvi geophysical observatory Matti Kivinen assumed that an unidentified object over Finland could be the remnant of a launch vehicle or satellite."
+  },
+  {
+   "s": "platov",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Oberg's view was endorsed, particularly by the IZMIRAN fellow Yuli Platov in 1984."
+  },
+  {
+   "s": "platov",
+   "p": "employed_by",
+   "o": "izmiran",
+   "quote": "Oberg's view was endorsed, particularly by the IZMIRAN fellow Yuli Platov in 1984."
+  },
+  {
+   "s": "platov",
+   "p": "proposed",
+   "o": "x_sat",
+   "quote": "According to Platov, the appearance of a shining spot was associated with the flare of the satellite's engine."
+  },
+  {
+   "s": "platov",
+   "p": "proposed",
+   "o": "x_miltest",
+   "quote": "In a later article, Platov noted that \"a number of additional effects, that accompanied the Petrozavodsk phenomenon, was associated with the unsuccessful test launch of a ballistic missile, that was conducted in the same region almost at the same time\"."
+  },
+  {
+   "s": "platov",
+   "p": "position",
+   "v": "IZMIRAN fellow",
+   "quote": "Oberg's view was endorsed, particularly by the IZMIRAN fellow Yuli Platov in 1984."
+  },
+  {
+   "s": "platov",
+   "p": "endorsed",
+   "v": "Oberg's view, in 1984",
+   "quote": "Oberg's view was endorsed, particularly by the IZMIRAN fellow Yuli Platov in 1984."
+  },
+  {
+   "s": "platov",
+   "p": "statement",
+   "v": "the appearance of a shining spot was associated with the flare of the satellite's engine",
+   "quote": "According to Platov, the appearance of a shining spot was associated with the flare of the satellite's engine."
+  },
+  {
+   "s": "platov",
+   "p": "statement",
+   "v": "the formation of an extended glowing area coincided with the satellite's leaving the Earth's shadow",
+   "quote": "The formation of an extended glowing area reportedly coincided with the satellite's leaving the Earth's shadow."
+  },
+  {
+   "s": "platov",
+   "p": "statement",
+   "v": "development of the radiant structure linked to the passage of Kosmos-955 through the turbopause boundary, \"above which the scattering of combustion products occurs without the damping effect of the atmosphere\"",
+   "quote": "Platov further linked the development of the radiant structure to the passage of Kosmos-955 through the turbopause boundary, \"above which the scattering of combustion products occurs without the damping effect of the atmosphere\"."
+  },
+  {
+   "s": "platov",
+   "p": "publication",
+   "v": "view published by Soviet magazine Nauka v SSSR in 1985",
+   "quote": "In 1985, Platov's view was published by Soviet magazine Nauka v SSSR."
+  },
+  {
+   "s": "platov",
+   "p": "later_claim",
+   "v": "a number of additional effects were associated with the unsuccessful test launch of a ballistic missile conducted in the same region almost at the same time",
+   "quote": "In a later article, Platov noted that \"a number of additional effects, that accompanied the Petrozavodsk phenomenon, was associated with the unsuccessful test launch of a ballistic missile, that was conducted in the same region almost at the same time\"."
+  },
+  {
+   "s": "pruss",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Referring to his 18-year service experience at Kapustin Yar site, Ukrainian researcher Oleh Pruss said: \"I know firsthand, what a spectacle in the sky occurs during the rocket launches – it's quite an impressive view. However, there was something completely different over Petrozavodsk\"."
+  },
+  {
+   "s": "pruss",
+   "p": "stationed_at",
+   "o": "kapyar",
+   "quote": "Referring to his 18-year service experience at Kapustin Yar site, Ukrainian researcher Oleh Pruss said: \"I know firsthand, what a spectacle in the sky occurs during the rocket launches – it's quite an impressive view. However, there was something completely different over Petrozavodsk\"."
+  },
+  {
+   "s": "pruss",
+   "p": "disputed",
+   "o": "x_sat",
+   "quote": "Referring to his 18-year service experience at Kapustin Yar site, Ukrainian researcher Oleh Pruss said: \"I know firsthand, what a spectacle in the sky occurs during the rocket launches – it's quite an impressive view. However, there was something completely different over Petrozavodsk\"."
+  },
+  {
+   "s": "pruss",
+   "p": "nationality",
+   "v": "Ukrainian",
+   "quote": "Referring to his 18-year service experience at Kapustin Yar site, Ukrainian researcher Oleh Pruss said: \"I know firsthand, what a spectacle in the sky occurs during the rocket launches – it's quite an impressive view. However, there was something completely different over Petrozavodsk\"."
+  },
+  {
+   "s": "pruss",
+   "p": "occupation",
+   "v": "researcher",
+   "quote": "Referring to his 18-year service experience at Kapustin Yar site, Ukrainian researcher Oleh Pruss said: \"I know firsthand, what a spectacle in the sky occurs during the rocket launches – it's quite an impressive view. However, there was something completely different over Petrozavodsk\"."
+  },
+  {
+   "s": "pruss",
+   "p": "service",
+   "v": "18-year service experience at Kapustin Yar site",
+   "quote": "Referring to his 18-year service experience at Kapustin Yar site, Ukrainian researcher Oleh Pruss said: \"I know firsthand, what a spectacle in the sky occurs during the rocket launches – it's quite an impressive view. However, there was something completely different over Petrozavodsk\"."
+  },
+  {
+   "s": "pruss",
+   "p": "statement",
+   "v": "I know firsthand, what a spectacle in the sky occurs during the rocket launches – it's quite an impressive view. However, there was something completely different over Petrozavodsk",
+   "quote": "Referring to his 18-year service experience at Kapustin Yar site, Ukrainian researcher Oleh Pruss said: \"I know firsthand, what a spectacle in the sky occurs during the rocket launches – it's quite an impressive view. However, there was something completely different over Petrozavodsk\"."
+  },
+  {
+   "s": "f_mass",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The sightings were reported over a vast territory, from Copenhagen and Helsinki in the west to Vladivostok in the east."
+  },
+  {
+   "s": "f_mass",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The ball was observed by many residents, including taxi drivers, police functionaries and Helsinki Airport personnel."
+  },
+  {
+   "s": "f_mass",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "By 30 December 1978, the Soviet researchers collected a total of 85 reports on the Petrozavodsk phenomenon."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The eyewitnesses included paramedics, on-duty militsiya functionaries, seamen and the longshoremen at Petrozavodsk's port, members of the military, local airport staff and an amateur astronomer."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In Saint Petersburg, then Leningrad, the sighting of an unidentified object was reported by three night shift employees of Pulkovo Airport, including air traffic controller B. Blagirev."
+  },
+  {
+   "s": "f_police",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The eyewitnesses included paramedics, on-duty militsiya functionaries, seamen and the longshoremen at Petrozavodsk's port, members of the military, local airport staff and an amateur astronomer."
+  },
+  {
+   "s": "f_police",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The ball was observed by many residents, including taxi drivers, police functionaries and Helsinki Airport personnel."
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The eyewitnesses included paramedics, on-duty militsiya functionaries, seamen and the longshoremen at Petrozavodsk's port, members of the military, local airport staff and an amateur astronomer."
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Ilta-Sanomat also reported a sighting of a glowing object in Denmark, over Copenhagen, by the pilots of a Finnish airline aircraft flying from Rome."
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The crew of a Tu-154 spotted a luminous spherical object at an altitude of 12 km."
+  },
+  {
+   "s": "f_radar",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Later, however, the glowing objects were reportedly detected by the weather radar of Karelian Hydrometeorological Observatory in Petrozavodsk on 30 September at 5:40 pm, 20 October at 11:30 pm and 20 November at 2:14–2:17 am."
+  },
+  {
+   "s": "f_radar",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Although according to UPI the object was detected by the Helsinki airport radar, the airport's traffic controller Ari Hämäläinen claimed it was not."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In the same year, a preliminary report for the Academy of Sciences of the USSR was made, containing a large body of visual observations, radiolocation reports, physical measurements, and accompanying meteorological data."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "On 2 January 1978, the vice president of the Soviet Academy of Sciences, Vladimir Kotelnikov, signed a note to the Karelian Department of the Academy, informing them about the dispatch of an expert group to study the phenomenon in situ."
+  },
+  {
+   "s": "f_hover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The object hovered over Petrozavodsk for five minutes and then moved away."
+  },
+  {
+   "s": "f_silent",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The observation lasted 10–15 minutes in complete silence."
+  },
+  {
+   "s": "f_silent",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The object appeared to move noiselessly from the east, and near Primorsk it abruptly changed its direction to north."
+  },
+  {
+   "s": "f_sphere",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In Helsinki, Finland, the sightings of a glowing ball were reported by newspapers Ilta-Sanomat on 20 September and Kansan Uutiset the next day."
+  },
+  {
+   "s": "f_sphere",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The crew of a Tu-154 spotted a luminous spherical object at an altitude of 12 km."
+  },
+  {
+   "s": "f_disc",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The lens-like object, surrounded by a dim, translucent ring, had a color of a \"dark amethyst, intensively lightened from inside\"."
+  },
+  {
+   "s": "f_cyl",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "After some time the object had stopped and then moved towards Novozhilov, quickly increasing in size and acquiring the well-outlined shape of an airship."
+  },
+  {
+   "s": "f_other",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to Milov, \"the star\" was spreading out over Petrozavodsk in the form of a jellyfish, \"showering the city with a multitude of very fine rays which created an image of pouring rain\"."
+  },
+  {
+   "s": "f_other",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "At the distance of 300 m they spotted a spinning object similar to a lifebuoy, 10 m in diameter."
+  },
+  {
+   "s": "f_landing",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The landing reportedly caused the appearance of a bright glow."
+  },
+  {
+   "s": "f_emi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Some impact on technical devices was also noted when the engineers in the Petrozavodsk area reportedly observed \"huge failures\" in computing devices, which then regained normal performance."
+  },
+  {
+   "s": "f_cover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "James Oberg criticised the Soviet investigation, regarding it as \"a ruse, possibly another Soviet attempt to divert attention from the truth about Soviet UFOs\"."
+  },
+  {
+   "s": "f_rays",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "It is named after the city of Petrozavodsk in Russia, Soviet Union, where a glowing object was widely reported that showered the city with numerous rays."
+  },
+  {
+   "s": "f_rays",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The edges of the lens-like object had 16 spots (described by Linnik as \"nozzles\") which emitted pulsating red rays at an angle of 10°–15°."
+  },
+  {
+   "s": "f_bio",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to Yuri Linnik, after 20 September 1977 there was increased biological activity in the areas where the phenomenon was observed."
+  },
+  {
+   "s": "f_psych",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In November 1977, clinical psychologist Y. Andreyeva evaluated the mental condition of nine eyewitnesses of the Petrozavodsk phenomenon."
+  },
+  {
+   "s": "f_ejected",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Still approaching Novozhilov, the object, moving from west to east, had released a brightly shining ball from the rear, which flew north."
+  },
+  {
+   "s": "x_sat",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Since 1977, the phenomenon has been often, though not universally, attributed to the launch of the Soviet satellite Kosmos-955."
+  },
+  {
+   "s": "x_sat",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "James Oberg attributed the Petrozavodsk object to the launch of the Soviet satellite Kosmos-955 from Plesetsk Cosmodrome, which took place on 20 September at about 3:58 local time."
+  },
+  {
+   "s": "x_sat",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "In the interview, published in 1977 by Kansan Uutiset and Uusi Suomi, the employee of Nurmijärvi geophysical observatory Matti Kivinen assumed that an unidentified object over Finland could be the remnant of a launch vehicle or satellite."
+  },
+  {
+   "s": "x_meteor",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The director of the Pulkovo Observatory Vladimir Krat initially thought that the phenomenon was caused by the fall of a meteorite."
+  },
+  {
+   "s": "x_aurora",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Later in public speeches, he attributed the phenomenon to aurorae."
+  },
+  {
+   "s": "x_chem",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "In 1978, Aviatsiya i Kosmonavtika published an article \"'Flashes' in the Atmosphere\" by M. Dmitriyev, where a chemiluminescence hypothesis was put forward."
+  },
+  {
+   "s": "x_miltest",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "In a later article, Platov noted that \"a number of additional effects, that accompanied the Petrozavodsk phenomenon, was associated with the unsuccessful test launch of a ballistic missile, that was conducted in the same region almost at the same time\"."
+  },
+  {
+   "s": "x_miltest",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Government officials from northern European countries sent letters to Anatoly Aleksandrov, president of the Academy of Sciences of the USSR, expressing concern about whether the observed phenomenon was caused by Soviet weapons testing and whether it constituted a threat to the region's environment."
+  },
+  {
+   "s": "x_flare",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Later, Migulin suggested that the phenomenon occurred \"due to a rare concourse of various circumstances, that is the launch of the satellite Kosmos-955, the strong magnetic perturbation due to solar flare and our scientific experiment of influencing the ionosphere with low frequency radio waves\"."
+  },
+  {
+   "s": "x_iono",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Later, Migulin suggested that the phenomenon occurred \"due to a rare concourse of various circumstances, that is the launch of the satellite Kosmos-955, the strong magnetic perturbation due to solar flare and our scientific experiment of influencing the ionosphere with low frequency radio waves\"."
+  },
+  {
+   "s": "x_cosmic",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Assuming that \"the extent of phenomenon is apparently too big to be explained by technical experiments on satellite orbits\", the report conjectured \"a possible influence of some cosmic agent\"."
+  },
+  {
+   "s": "x_misp",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Arguing that the entire phenomenon was caused by Kosmos-955, Teerikorpi believed that the actual distance was \"many hundreds of kilometres\" and that \"such reports probably are due to the well-known fact that it is difficult to estimate distances of unfamiliar phenomena\"."
+  },
+  {
+   "s": "prelim",
+   "p": "proposed",
+   "o": "x_cosmic",
+   "quote": "Assuming that \"the extent of phenomenon is apparently too big to be explained by technical experiments on satellite orbits\", the report conjectured \"a possible influence of some cosmic agent\"."
+  }
+ ]
+}

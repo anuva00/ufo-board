@@ -1,0 +1,1854 @@
+{
+ "slug": "varginha-ufo-incident",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Varginha UFO incident",
+   "description": "Series of events in 1996 in which residents of Varginha, Brazil, claimed to have seen strange humanoids and at least one UFO.",
+   "aliases": [
+    "Varginha incident",
+    "Caso ET de Varginha"
+   ]
+  },
+  {
+   "key": "varginha",
+   "type": "place",
+   "name": "Varginha, Brazil",
+   "description": "City in Brazil where the events were reported.",
+   "aliases": [
+    "Varginha",
+    "city of Varginha"
+   ]
+  },
+  {
+   "key": "brazil",
+   "type": "place",
+   "name": "Brazil",
+   "description": "Country of the case."
+  },
+  {
+   "key": "rua",
+   "type": "place",
+   "name": "Rua Dr. Benevenuto Braz Vieira",
+   "description": "Street near which the three females claimed to have sighted the being."
+  },
+  {
+   "key": "jardim",
+   "type": "place",
+   "name": "Jardim Andere",
+   "description": "Location in which Firefighters were present, according to the official inquiry."
+  },
+  {
+   "key": "campinas",
+   "type": "place",
+   "name": "Campinas, Brazil",
+   "description": "Place to which the alleged creature was said to have been transported.",
+   "aliases": [
+    "Campinas"
+   ]
+  },
+  {
+   "key": "nave",
+   "type": "place",
+   "name": "Nave Espacial de Varginha",
+   "description": "Water tower with a disc-shaped reservoir erected in Varginha's town center."
+  },
+  {
+   "key": "being",
+   "type": "craft",
+   "name": "humanoid being reported in Varginha on 20 January 1996",
+   "description": "Unknown being the three females claimed to have sighted, later termed the \"ET de Varginha\".",
+   "aliases": [
+    "ET de Varginha",
+    "alleged creature"
+   ]
+  },
+  {
+   "key": "ufo",
+   "type": "craft",
+   "name": "unidentified flying object reported by Varginha residents",
+   "description": "At least one UFO that residents of Varginha claimed to have seen.",
+   "aliases": [
+    "UFO",
+    "UFOs"
+   ]
+  },
+  {
+   "key": "army",
+   "type": "organization",
+   "name": "Brazilian Army",
+   "description": "Army whose investigation concluded a city resident was mistaken for an alien being.",
+   "aliases": [
+    "Army"
+   ]
+  },
+  {
+   "key": "military",
+   "type": "organization",
+   "name": "Brazilian Armed Forces",
+   "description": "The Brazilian military, which led the 1997 official inquiry.",
+   "aliases": [
+    "Brazilian military",
+    "the Military"
+   ]
+  },
+  {
+   "key": "pm24",
+   "type": "organization",
+   "name": "24th Military Police Battalion",
+   "description": "Military police battalion whose commander provided photographs of the man said to have been mistaken for the being."
+  },
+  {
+   "key": "fire",
+   "type": "organization",
+   "name": "Firefighters",
+   "description": "Firefighters present in Jardim Andere, said by some to have taken part in capturing the creature."
+  },
+  {
+   "key": "essa",
+   "type": "organization",
+   "name": "EsSA",
+   "description": "Organisation whose vehicles' departure was noted by the official inquiry."
+  },
+  {
+   "key": "revista",
+   "type": "organization",
+   "name": "Revista UFO",
+   "description": "Magazine that published a special issue in July 1996.",
+   "aliases": [
+    "UFO Magazine"
+   ]
+  },
+  {
+   "key": "cbpdv",
+   "type": "organization",
+   "name": "Centro Brasileiro para Pesquisa de Discos Voadores",
+   "description": "Publisher of Revista UFO.",
+   "aliases": [
+    "CBPDV",
+    "Brazilian Center for Flying Saucer Research"
+   ]
+  },
+  {
+   "key": "natgeo",
+   "type": "organization",
+   "name": "National Geographic",
+   "description": "Broadcaster of the Chasing UFOs series."
+  },
+  {
+   "key": "perceptum",
+   "type": "organization",
+   "name": "Perceptum Informática",
+   "description": "Maker of the 1998 video game Incidente em Varginha."
+  },
+  {
+   "key": "inquiry",
+   "type": "program",
+   "name": "1997 Brazilian military official inquiry into the Varginha incident",
+   "description": "Official inquiry led by the Brazilian military.",
+   "aliases": [
+    "official inquiry"
+   ]
+  },
+  {
+   "key": "photos",
+   "type": "document",
+   "name": "photographs of Luiz Antônio de Paula provided by the commander of the 24th Military Police Battalion",
+   "description": "Photographs of the man the inquiry said was mistaken for the being."
+  },
+  {
+   "key": "trucks",
+   "type": "vehicle",
+   "name": "Army trucks parked near the concessionaire",
+   "description": "Brazilian Army trucks observed in the area.",
+   "aliases": [
+    "military trucks",
+    "Army trucks"
+   ]
+  },
+  {
+   "key": "essav",
+   "type": "vehicle",
+   "name": "EsSA vehicles",
+   "description": "Vehicles of EsSA whose departure was noted by the inquiry."
+  },
+  {
+   "key": "paula",
+   "type": "person",
+   "name": "Luiz Antônio de Paula",
+   "description": "Man the official inquiry concluded the young women had encountered.",
+   "aliases": [
+    "Mudinho",
+    "Little Mute"
+   ]
+  },
+  {
+   "key": "dunning",
+   "type": "person",
+   "name": "Brian Dunning",
+   "description": "Skeptic who criticized media accounts and ufologists' claims.",
+   "aliases": [
+    "Dunning"
+   ]
+  },
+  {
+   "key": "pacaccini",
+   "type": "person",
+   "name": "Vitorio Pacaccini",
+   "description": "Ufologist, co-author of Incidente em Varginha."
+  },
+  {
+   "key": "portes",
+   "type": "person",
+   "name": "Maxs Portes",
+   "description": "Writer, co-author of Incidente em Varginha."
+  },
+  {
+   "key": "rodrigues",
+   "type": "person",
+   "name": "Ubirajara Rodrigues",
+   "description": "Ufologist and the main investigator of the case."
+  },
+  {
+   "key": "leir",
+   "type": "person",
+   "name": "Roger Leir",
+   "description": "American surgeon and ufologist, author of UFO Crash in Brazil."
+  },
+  {
+   "key": "auger",
+   "type": "person",
+   "name": "Philippe Auger",
+   "description": "Author of the comic book O.V.N.I L'affaire Varginha."
+  },
+  {
+   "key": "petit",
+   "type": "person",
+   "name": "Marco Antônio Petit",
+   "description": "Ufologist, author of Varginha, Toda a Verdade Revelada."
+  },
+  {
+   "key": "baraldi",
+   "type": "person",
+   "name": "Marcio Baraldi",
+   "description": "Cartoonist, author of Ginho – o ET de Varginha."
+  },
+  {
+   "key": "boaventura",
+   "type": "person",
+   "name": "Edison Boaventura Jr.",
+   "description": "Ufologist, author of ETs de Varginha: Montando o Quebra-Cabeça."
+  },
+  {
+   "key": "burgess",
+   "type": "person",
+   "name": "Bruce Burgess",
+   "description": "Director of Beyond the Truth."
+  },
+  {
+   "key": "brandao",
+   "type": "person",
+   "name": "Rodrigo Brandão",
+   "description": "Director of the 2020 short film 1996."
+  },
+  {
+   "key": "fox",
+   "type": "person",
+   "name": "James Fox",
+   "description": "Director of the documentary film Moment of Contact."
+  },
+  {
+   "key": "calil",
+   "type": "person",
+   "name": "Ricardo Calil",
+   "description": "Director of the documentary O Mistério de Varginha."
+  },
+  {
+   "key": "goncalves",
+   "type": "person",
+   "name": "Paulo Gonçalves",
+   "description": "Co-maker of the documentary O Mistério de Varginha."
+  },
+  {
+   "key": "gevaerd",
+   "type": "person",
+   "name": "Ademar José Gevaerd",
+   "description": "Editor of Revista UFO."
+  },
+  {
+   "key": "w_incidente",
+   "type": "work",
+   "name": "Incidente em Varginha",
+   "description": "1996 Brazilian nonfiction book in Portuguese.",
+   "aliases": [
+    "Incidente em Varginha (book)"
+   ]
+  },
+  {
+   "key": "w_ocaso",
+   "type": "work",
+   "name": "O Caso Varginha",
+   "description": "2001 Brazilian nonfiction book in Portuguese."
+  },
+  {
+   "key": "w_crash",
+   "type": "work",
+   "name": "UFO Crash in Brazil",
+   "description": "2005 nonfiction book in English."
+  },
+  {
+   "key": "w_ovni",
+   "type": "work",
+   "name": "O.V.N.I L'affaire Varginha",
+   "description": "2009 comic book in French."
+  },
+  {
+   "key": "w_toda",
+   "type": "work",
+   "name": "Varginha, Toda a Verdade Revelada",
+   "description": "2015 nonfiction book in Portuguese."
+  },
+  {
+   "key": "w_ginho",
+   "type": "work",
+   "name": "Ginho – o ET de Varginha",
+   "description": "2016 Brazilian comic book in Portuguese."
+  },
+  {
+   "key": "w_ets",
+   "type": "work",
+   "name": "ETs de Varginha: Montando o Quebra-Cabeça",
+   "description": "2022 nonfiction book in Portuguese."
+  },
+  {
+   "key": "w_alienenc",
+   "type": "work",
+   "name": "Alien Encounter",
+   "description": "Episode 6 of the first season (1998) of Beyond the Truth.",
+   "aliases": [
+    "Alien Encounter (Beyond the Truth episode)"
+   ]
+  },
+  {
+   "key": "w_beyond",
+   "type": "work",
+   "name": "Beyond the Truth",
+   "description": "Series whose first season (1998) included the episode \"Alien Encounter\"."
+  },
+  {
+   "key": "w_castaways",
+   "type": "work",
+   "name": "Alien Castaways",
+   "description": "Episode 7 of the first season (2012) of Chasing UFOs.",
+   "aliases": [
+    "Alien Castaways (Chasing UFOs episode)"
+   ]
+  },
+  {
+   "key": "w_chasing",
+   "type": "work",
+   "name": "Chasing UFOs",
+   "description": "National Geographic series."
+  },
+  {
+   "key": "w_1996",
+   "type": "work",
+   "name": "1996 (short film)",
+   "description": "2020 short film revisiting the event as a horror story.",
+   "aliases": [
+    "1996"
+   ]
+  },
+  {
+   "key": "w_moment",
+   "type": "work",
+   "name": "Moment of Contact",
+   "description": "2022 documentary film."
+  },
+  {
+   "key": "w_misterio",
+   "type": "work",
+   "name": "O Mistério de Varginha",
+   "description": "2025 documentary."
+  },
+  {
+   "key": "w_game",
+   "type": "work",
+   "name": "Incidente em Varginha (video game)",
+   "description": "1998 Brazilian video game inspired by the events.",
+   "aliases": [
+    "Incidente em Varginha"
+   ]
+  },
+  {
+   "key": "w_special",
+   "type": "work",
+   "name": "Revista UFO Special Issue #13",
+   "description": "July 1996 special issue of Revista UFO (UFO Magazine).",
+   "aliases": [
+    "Revista UFO (UFO Magazine), Special Issue #13, July 1996"
+   ]
+  },
+  {
+   "key": "w_inside",
+   "type": "work",
+   "name": "Inside Brazil's UFO Files: What Declassified Military Documents Reveal About the Varginha Incident",
+   "description": "Article listed among the external links."
+  },
+  {
+   "key": "c1986",
+   "type": "case",
+   "name": "1986 Brazilian UFO incident",
+   "description": "Another UFO incident listed under See also."
+  },
+  {
+   "key": "prato",
+   "type": "case",
+   "name": "Operação Prato",
+   "description": "Listed under See also."
+  },
+  {
+   "key": "f_occ",
+   "type": "feature",
+   "name": "occupants-reported",
+   "description": "Feature of the case."
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "Feature of the case."
+  },
+  {
+   "key": "f_child",
+   "type": "feature",
+   "name": "child-witnesses",
+   "description": "Feature of the case."
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Feature of the case."
+  },
+  {
+   "key": "f_crash",
+   "type": "feature",
+   "name": "crash-retrieval-claim",
+   "description": "Feature of the case."
+  },
+  {
+   "key": "f_death",
+   "type": "feature",
+   "name": "death-or-disappearance",
+   "description": "Feature of the case."
+  },
+  {
+   "key": "f_animal",
+   "type": "feature",
+   "name": "other:unexplained animal deaths",
+   "description": "Feature of the case."
+  },
+  {
+   "key": "x_misp",
+   "type": "explanation",
+   "name": "misperception",
+   "description": "A city resident was mistaken for an alien being and routine military movements were misinterpreted."
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1996-01-20",
+   "quote": "Around 3:30 p.m. on 20 January 1996, three females ranging from 14 to 22 years old claimed to have sighted an unknown being near a subdivision on a street known as Rua Dr. Benevenuto Braz Vieira."
+  },
+  {
+   "s": "case",
+   "p": "year",
+   "v": "1996",
+   "quote": "The Varginha UFO incident involves a series of events in 1996 wherein residents of Varginha, Brazil, claimed to have seen one or more strange humanoids and at least one unidentified flying object (UFO)."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "3:30 p.m.",
+   "quote": "Around 3:30 p.m. on 20 January 1996, three females ranging from 14 to 22 years old claimed to have sighted an unknown being near a subdivision on a street known as Rua Dr. Benevenuto Braz Vieira."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "Brazil",
+   "quote": "The Varginha UFO incident involves a series of events in 1996 wherein residents of Varginha, Brazil, claimed to have seen one or more strange humanoids and at least one unidentified flying object (UFO)."
+  },
+  {
+   "s": "case",
+   "p": "witness_count",
+   "v": "3",
+   "quote": "Around 3:30 p.m. on 20 January 1996, three females ranging from 14 to 22 years old claimed to have sighted an unknown being near a subdivision on a street known as Rua Dr. Benevenuto Braz Vieira."
+  },
+  {
+   "s": "case",
+   "p": "witnesses",
+   "v": "three females ranging from 14 to 22 years old",
+   "quote": "Around 3:30 p.m. on 20 January 1996, three females ranging from 14 to 22 years old claimed to have sighted an unknown being near a subdivision on a street known as Rua Dr. Benevenuto Braz Vieira."
+  },
+  {
+   "s": "case",
+   "p": "witness_ages",
+   "v": "14 to 22 years old",
+   "quote": "Around 3:30 p.m. on 20 January 1996, three females ranging from 14 to 22 years old claimed to have sighted an unknown being near a subdivision on a street known as Rua Dr. Benevenuto Braz Vieira."
+  },
+  {
+   "s": "case",
+   "p": "witness_statement",
+   "v": "the three women said they fled and told their mother that they had seen the \"devil\"",
+   "quote": "They said that they fled and told their mother that they had seen the \"devil\"."
+  },
+  {
+   "s": "case",
+   "p": "witness_assumption",
+   "v": "the women assumed the being's unsteadiness was due to injury or illness",
+   "quote": "Later termed the \"ET de Varginha\", the alleged humanoid seemed to be wobbly or unsteady, which the women assumed was due to injury or illness."
+  },
+  {
+   "s": "case",
+   "p": "summary",
+   "v": "residents claimed to have seen one or more strange humanoids and at least one unidentified flying object",
+   "quote": "The Varginha UFO incident involves a series of events in 1996 wherein residents of Varginha, Brazil, claimed to have seen one or more strange humanoids and at least one unidentified flying object (UFO)."
+  },
+  {
+   "s": "case",
+   "p": "media_coverage",
+   "v": "the reports garnered extensive media coverage",
+   "quote": "The reports garnered extensive media coverage."
+  },
+  {
+   "s": "case",
+   "p": "associated_claim",
+   "v": "capture of one or more extraterrestrial beings by the Brazilian authorities",
+   "quote": "Other associated claims included the capture of one or more extraterrestrial beings by the Brazilian authorities and unexplained animal fatalities at a zoo."
+  },
+  {
+   "s": "case",
+   "p": "associated_claim",
+   "v": "unexplained animal fatalities at a zoo",
+   "quote": "Other associated claims included the capture of one or more extraterrestrial beings by the Brazilian authorities and unexplained animal fatalities at a zoo."
+  },
+  {
+   "s": "case",
+   "p": "rumor",
+   "v": "rumors spread through the area after the sighting",
+   "quote": "Rumors then spread through the area."
+  },
+  {
+   "s": "case",
+   "p": "prior_sightings",
+   "v": "some people reported having observed UFOs in the days leading up to the incident",
+   "quote": "Some people reported having observed UFOs in the days leading up to the incident."
+  },
+  {
+   "s": "case",
+   "p": "later_claim",
+   "v": "additional unidentified beings or extraterrestrials were collected and observed at a hospital",
+   "quote": "Further claims were later made of additional unidentified beings or extraterrestrials being collected and observed at a hospital"
+  },
+  {
+   "s": "case",
+   "p": "later_claim",
+   "v": "activity by military/police/government vehicles and personnel in the area",
+   "quote": "activity by military/police/government vehicles and personnel in the area"
+  },
+  {
+   "s": "case",
+   "p": "later_claim",
+   "v": "an unidentified animal \"prowling\" a local forest",
+   "quote": "an unidentified animal \"prowling\" a local forest"
+  },
+  {
+   "s": "case",
+   "p": "later_claim",
+   "v": "the death of a police officer",
+   "quote": "the death of a police officer"
+  },
+  {
+   "s": "case",
+   "p": "later_claim",
+   "v": "unexplained deaths of a tapir, an ocelot and two gray brockets at the local zoo",
+   "quote": "the unexplained deaths of a tapir, an ocelot, and two gray brockets occurring at the local zoo"
+  },
+  {
+   "s": "case",
+   "p": "zoo_animal_deaths_count",
+   "v": "4 (a tapir, an ocelot, two gray brockets)",
+   "quote": "the unexplained deaths of a tapir, an ocelot, and two gray brockets occurring at the local zoo"
+  },
+  {
+   "s": "case",
+   "p": "later_claim",
+   "v": "ufologists later alleged links between these and other claims",
+   "quote": "Ufologists would later allege links between these and other claims."
+  },
+  {
+   "s": "case",
+   "p": "official_conclusion",
+   "v": "a city resident was mistaken for an alien being and the movement of military personnel in the region was routine",
+   "quote": "An investigation by the Brazilian Army concluded that a city resident was mistaken for an alien being and the movement of military personnel in the region was routine."
+  },
+  {
+   "s": "case",
+   "p": "weather",
+   "v": "heavy rains",
+   "quote": "Further, he concluded that this strengthened the hypothesis that \"this citizen, probably being dirty, due to the heavy rains and seen crouching by a wall, was mistaken by the three terrified girls as a space creature\"."
+  },
+  {
+   "s": "case",
+   "p": "tourism_effect",
+   "v": "the claims have markedly affected tourism to the city of Varginha",
+   "quote": "These claims have markedly affected tourism to the city of Varginha."
+  },
+  {
+   "s": "case",
+   "p": "tourism_detail",
+   "v": "Grey alien dolls with football uniforms are sold at the location of the incident",
+   "quote": "Grey alien dolls with football uniforms are sold at the location of the incident."
+  },
+  {
+   "s": "case",
+   "p": "tourism_detail",
+   "v": "Grey alien designs were used in advertising campaigns for the municipality",
+   "quote": "Grey alien designs were used in advertising campaigns for the municipality."
+  },
+  {
+   "s": "case",
+   "p": "tourism_detail",
+   "v": "bus stops were built in the form of spaceships",
+   "quote": "Bus stops were built in the form of spaceships and a 20-metre-tall (66 ft) water tower with a disc-shaped water reservoir was erected in the town center called the Nave Espacial de Varginha."
+  },
+  {
+   "s": "varginha",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Varginha UFO incident involves a series of events in 1996 wherein residents of Varginha, Brazil, claimed to have seen one or more strange humanoids and at least one unidentified flying object (UFO)."
+  },
+  {
+   "s": "brazil",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Varginha UFO incident involves a series of events in 1996 wherein residents of Varginha, Brazil, claimed to have seen one or more strange humanoids and at least one unidentified flying object (UFO)."
+  },
+  {
+   "s": "varginha",
+   "p": "located_in",
+   "o": "brazil",
+   "quote": "The Varginha UFO incident involves a series of events in 1996 wherein residents of Varginha, Brazil, claimed to have seen one or more strange humanoids and at least one unidentified flying object (UFO)."
+  },
+  {
+   "s": "rua",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Around 3:30 p.m. on 20 January 1996, three females ranging from 14 to 22 years old claimed to have sighted an unknown being near a subdivision on a street known as Rua Dr. Benevenuto Braz Vieira."
+  },
+  {
+   "s": "rua",
+   "p": "detail",
+   "v": "the being was sighted near a subdivision on this street",
+   "quote": "Around 3:30 p.m. on 20 January 1996, three females ranging from 14 to 22 years old claimed to have sighted an unknown being near a subdivision on a street known as Rua Dr. Benevenuto Braz Vieira."
+  },
+  {
+   "s": "jardim",
+   "p": "related_place",
+   "o": "case",
+   "quote": "the presence of the Firefighters in Jardim Andere"
+  },
+  {
+   "s": "campinas",
+   "p": "related_place",
+   "o": "case",
+   "quote": "incorrectly interpreted as Firefighters and the Military participating in the capture and later the transport of the alleged creature to Campinas."
+  },
+  {
+   "s": "campinas",
+   "p": "role",
+   "v": "alleged destination of the transport of the alleged creature",
+   "quote": "incorrectly interpreted as Firefighters and the Military participating in the capture and later the transport of the alleged creature to Campinas."
+  },
+  {
+   "s": "nave",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Bus stops were built in the form of spaceships and a 20-metre-tall (66 ft) water tower with a disc-shaped water reservoir was erected in the town center called the Nave Espacial de Varginha."
+  },
+  {
+   "s": "nave",
+   "p": "located_in",
+   "o": "varginha",
+   "quote": "Bus stops were built in the form of spaceships and a 20-metre-tall (66 ft) water tower with a disc-shaped water reservoir was erected in the town center called the Nave Espacial de Varginha."
+  },
+  {
+   "s": "nave",
+   "p": "height",
+   "v": "20 metres (66 ft)",
+   "quote": "Bus stops were built in the form of spaceships and a 20-metre-tall (66 ft) water tower with a disc-shaped water reservoir was erected in the town center called the Nave Espacial de Varginha."
+  },
+  {
+   "s": "nave",
+   "p": "structure_type",
+   "v": "water tower",
+   "quote": "Bus stops were built in the form of spaceships and a 20-metre-tall (66 ft) water tower with a disc-shaped water reservoir was erected in the town center called the Nave Espacial de Varginha."
+  },
+  {
+   "s": "nave",
+   "p": "shape",
+   "v": "disc-shaped water reservoir",
+   "quote": "Bus stops were built in the form of spaceships and a 20-metre-tall (66 ft) water tower with a disc-shaped water reservoir was erected in the town center called the Nave Espacial de Varginha."
+  },
+  {
+   "s": "nave",
+   "p": "location",
+   "v": "town center",
+   "quote": "Bus stops were built in the form of spaceships and a 20-metre-tall (66 ft) water tower with a disc-shaped water reservoir was erected in the town center called the Nave Espacial de Varginha."
+  },
+  {
+   "s": "being",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Around 3:30 p.m. on 20 January 1996, three females ranging from 14 to 22 years old claimed to have sighted an unknown being near a subdivision on a street known as Rua Dr. Benevenuto Braz Vieira."
+  },
+  {
+   "s": "being",
+   "p": "nickname",
+   "v": "ET de Varginha",
+   "quote": "Later termed the \"ET de Varginha\", the alleged humanoid seemed to be wobbly or unsteady, which the women assumed was due to injury or illness."
+  },
+  {
+   "s": "being",
+   "p": "count",
+   "v": "one or more strange humanoids",
+   "quote": "The Varginha UFO incident involves a series of events in 1996 wherein residents of Varginha, Brazil, claimed to have seen one or more strange humanoids and at least one unidentified flying object (UFO)."
+  },
+  {
+   "s": "being",
+   "p": "head",
+   "v": "large-headed",
+   "quote": "According to media reports, the women described the being as a large-headed biped with \"spots like veins on the skin and three bumps on the head\", further adding that the \"eyes were two red balls\"."
+  },
+  {
+   "s": "being",
+   "p": "locomotion",
+   "v": "biped",
+   "quote": "According to media reports, the women described the being as a large-headed biped with \"spots like veins on the skin and three bumps on the head\", further adding that the \"eyes were two red balls\"."
+  },
+  {
+   "s": "being",
+   "p": "skin",
+   "v": "spots like veins on the skin",
+   "quote": "According to media reports, the women described the being as a large-headed biped with \"spots like veins on the skin and three bumps on the head\", further adding that the \"eyes were two red balls\"."
+  },
+  {
+   "s": "being",
+   "p": "head_bumps",
+   "v": "three bumps on the head",
+   "quote": "According to media reports, the women described the being as a large-headed biped with \"spots like veins on the skin and three bumps on the head\", further adding that the \"eyes were two red balls\"."
+  },
+  {
+   "s": "being",
+   "p": "eyes",
+   "v": "two red balls",
+   "quote": "According to media reports, the women described the being as a large-headed biped with \"spots like veins on the skin and three bumps on the head\", further adding that the \"eyes were two red balls\"."
+  },
+  {
+   "s": "being",
+   "p": "eye_color",
+   "v": "red",
+   "quote": "According to media reports, the women described the being as a large-headed biped with \"spots like veins on the skin and three bumps on the head\", further adding that the \"eyes were two red balls\"."
+  },
+  {
+   "s": "being",
+   "p": "behavior",
+   "v": "seemed to be wobbly or unsteady",
+   "quote": "Later termed the \"ET de Varginha\", the alleged humanoid seemed to be wobbly or unsteady, which the women assumed was due to injury or illness."
+  },
+  {
+   "s": "being",
+   "p": "called_by_witnesses",
+   "v": "devil",
+   "quote": "They said that they fled and told their mother that they had seen the \"devil\"."
+  },
+  {
+   "s": "being",
+   "p": "description_source",
+   "v": "media reports",
+   "quote": "According to media reports, the women described the being as a large-headed biped with \"spots like veins on the skin and three bumps on the head\", further adding that the \"eyes were two red balls\"."
+  },
+  {
+   "s": "ufo",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "The Varginha UFO incident involves a series of events in 1996 wherein residents of Varginha, Brazil, claimed to have seen one or more strange humanoids and at least one unidentified flying object (UFO)."
+  },
+  {
+   "s": "ufo",
+   "p": "count",
+   "v": "at least one",
+   "quote": "The Varginha UFO incident involves a series of events in 1996 wherein residents of Varginha, Brazil, claimed to have seen one or more strange humanoids and at least one unidentified flying object (UFO)."
+  },
+  {
+   "s": "ufo",
+   "p": "sighting_time",
+   "v": "in the days leading up to the incident",
+   "quote": "Some people reported having observed UFOs in the days leading up to the incident."
+  },
+  {
+   "s": "army",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "An investigation by the Brazilian Army concluded that a city resident was mistaken for an alien being and the movement of military personnel in the region was routine."
+  },
+  {
+   "s": "army",
+   "p": "conclusion",
+   "v": "a city resident was mistaken for an alien being and the movement of military personnel in the region was routine",
+   "quote": "An investigation by the Brazilian Army concluded that a city resident was mistaken for an alien being and the movement of military personnel in the region was routine."
+  },
+  {
+   "s": "military",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "In 1997, an official inquiry led by the Brazilian military concluded that the young women had encountered a mentally unstable man nicknamed \"Mudinho\" (lit. \"Little Mute\", real name Luiz Antônio de Paula)."
+  },
+  {
+   "s": "military",
+   "p": "alleged_role",
+   "v": "said to have participated in the capture and transport of the alleged creature, which the inquiry called an incorrect interpretation",
+   "quote": "incorrectly interpreted as Firefighters and the Military participating in the capture and later the transport of the alleged creature to Campinas."
+  },
+  {
+   "s": "pm24",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The commander of the 24th Military Police Battalion provided photographs of the man, stating that he \"probably has some mental disability\" and alleging that his \"physical characteristics matched the description\" of the reported being."
+  },
+  {
+   "s": "pm24",
+   "p": "commander_action",
+   "v": "the commander provided photographs of the man",
+   "quote": "The commander of the 24th Military Police Battalion provided photographs of the man, stating that he \"probably has some mental disability\" and alleging that his \"physical characteristics matched the description\" of the reported being."
+  },
+  {
+   "s": "pm24",
+   "p": "commander_statement",
+   "v": "the man \"probably has some mental disability\" and his \"physical characteristics matched the description\" of the reported being",
+   "quote": "The commander of the 24th Military Police Battalion provided photographs of the man, stating that he \"probably has some mental disability\" and alleging that his \"physical characteristics matched the description\" of the reported being."
+  },
+  {
+   "s": "pm24",
+   "p": "commander_statement",
+   "v": "this citizen, probably being dirty, due to the heavy rains and seen crouching by a wall, was mistaken by the three terrified girls as a space creature",
+   "quote": "Further, he concluded that this strengthened the hypothesis that \"this citizen, probably being dirty, due to the heavy rains and seen crouching by a wall, was mistaken by the three terrified girls as a space creature\"."
+  },
+  {
+   "s": "fire",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the presence of the Firefighters in Jardim Andere"
+  },
+  {
+   "s": "fire",
+   "p": "location",
+   "v": "present in Jardim Andere",
+   "quote": "the presence of the Firefighters in Jardim Andere"
+  },
+  {
+   "s": "fire",
+   "p": "alleged_role",
+   "v": "said to have participated in the capture of the alleged creature, which the inquiry called an incorrect interpretation",
+   "quote": "incorrectly interpreted as Firefighters and the Military participating in the capture and later the transport of the alleged creature to Campinas."
+  },
+  {
+   "s": "essa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the departure of EsSA vehicles"
+  },
+  {
+   "s": "revista",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Revista UFO (UFO Magazine), Special Issue #13, July 1996, published by CBPDV (Centro Brasileiro para Pesquisa de Discos Voadores - Brazilian Center for Flying Saucer Research), Editor Ademar José Gevaerd (in Portuguese) English translation"
+  },
+  {
+   "s": "cbpdv",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Revista UFO (UFO Magazine), Special Issue #13, July 1996, published by CBPDV (Centro Brasileiro para Pesquisa de Discos Voadores - Brazilian Center for Flying Saucer Research), Editor Ademar José Gevaerd (in Portuguese) English translation"
+  },
+  {
+   "s": "cbpdv",
+   "p": "published",
+   "o": "w_special",
+   "quote": "Revista UFO (UFO Magazine), Special Issue #13, July 1996, published by CBPDV (Centro Brasileiro para Pesquisa de Discos Voadores - Brazilian Center for Flying Saucer Research), Editor Ademar José Gevaerd (in Portuguese) English translation"
+  },
+  {
+   "s": "revista",
+   "p": "published",
+   "o": "w_special",
+   "quote": "Revista UFO (UFO Magazine), Special Issue #13, July 1996, published by CBPDV (Centro Brasileiro para Pesquisa de Discos Voadores - Brazilian Center for Flying Saucer Research), Editor Ademar José Gevaerd (in Portuguese) English translation"
+  },
+  {
+   "s": "natgeo",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "\"Alien Castaways\", Episode 7 of the first season (2012) of National Geographic's Chasing UFOs series."
+  },
+  {
+   "s": "natgeo",
+   "p": "published",
+   "o": "w_chasing",
+   "quote": "\"Alien Castaways\", Episode 7 of the first season (2012) of National Geographic's Chasing UFOs series."
+  },
+  {
+   "s": "perceptum",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Incidente em Varginha, a 1998 Brazilian video game by Perceptum Informática inspired by these events."
+  },
+  {
+   "s": "perceptum",
+   "p": "authored",
+   "o": "w_game",
+   "quote": "Incidente em Varginha, a 1998 Brazilian video game by Perceptum Informática inspired by these events."
+  },
+  {
+   "s": "inquiry",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "In 1997, an official inquiry led by the Brazilian military concluded that the young women had encountered a mentally unstable man nicknamed \"Mudinho\" (lit. \"Little Mute\", real name Luiz Antônio de Paula)."
+  },
+  {
+   "s": "inquiry",
+   "p": "part_of",
+   "o": "military",
+   "quote": "In 1997, an official inquiry led by the Brazilian military concluded that the young women had encountered a mentally unstable man nicknamed \"Mudinho\" (lit. \"Little Mute\", real name Luiz Antônio de Paula)."
+  },
+  {
+   "s": "inquiry",
+   "p": "year",
+   "v": "1997",
+   "quote": "In 1997, an official inquiry led by the Brazilian military concluded that the young women had encountered a mentally unstable man nicknamed \"Mudinho\" (lit. \"Little Mute\", real name Luiz Antônio de Paula)."
+  },
+  {
+   "s": "inquiry",
+   "p": "conclusion",
+   "v": "the young women had encountered a mentally unstable man nicknamed \"Mudinho\"",
+   "quote": "In 1997, an official inquiry led by the Brazilian military concluded that the young women had encountered a mentally unstable man nicknamed \"Mudinho\" (lit. \"Little Mute\", real name Luiz Antônio de Paula)."
+  },
+  {
+   "s": "inquiry",
+   "p": "finding",
+   "v": "the military trucks and personnel were performing routine duties on the night they were observed",
+   "quote": "The head of the official inquiry also reported that the military trucks and personnel were performing routine duties on the night they were observed"
+  },
+  {
+   "s": "inquiry",
+   "p": "head_statement",
+   "v": "the presence of Firefighters, the parking of Army trucks and the departure of EsSA vehicles were real facts incorrectly interpreted as participation in the capture and transport of the alleged creature to Campinas",
+   "quote": "the presence of the Firefighters in Jardim Andere, the parking of Army trucks in the vicinity of the concessionaire where their periodic maintenance would be carried out ... and the departure of EsSA vehicles ... were real facts ... incorrectly interpreted as Firefighters and the Military participating in the capture and later the transport of the alleged creature to Campinas."
+  },
+  {
+   "s": "photos",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The commander of the 24th Military Police Battalion provided photographs of the man, stating that he \"probably has some mental disability\" and alleging that his \"physical characteristics matched the description\" of the reported being."
+  },
+  {
+   "s": "pm24",
+   "p": "provided",
+   "o": "photos",
+   "quote": "The commander of the 24th Military Police Battalion provided photographs of the man, stating that he \"probably has some mental disability\" and alleging that his \"physical characteristics matched the description\" of the reported being."
+  },
+  {
+   "s": "trucks",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "the parking of Army trucks in the vicinity of the concessionaire where their periodic maintenance would be carried out"
+  },
+  {
+   "s": "army",
+   "p": "owned",
+   "o": "trucks",
+   "quote": "the parking of Army trucks in the vicinity of the concessionaire where their periodic maintenance would be carried out"
+  },
+  {
+   "s": "trucks",
+   "p": "purpose",
+   "v": "periodic maintenance at the concessionaire",
+   "quote": "the parking of Army trucks in the vicinity of the concessionaire where their periodic maintenance would be carried out"
+  },
+  {
+   "s": "trucks",
+   "p": "activity",
+   "v": "performing routine duties on the night they were observed",
+   "quote": "The head of the official inquiry also reported that the military trucks and personnel were performing routine duties on the night they were observed"
+  },
+  {
+   "s": "essav",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "the departure of EsSA vehicles"
+  },
+  {
+   "s": "essa",
+   "p": "owned",
+   "o": "essav",
+   "quote": "the departure of EsSA vehicles"
+  },
+  {
+   "s": "paula",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "In 1997, an official inquiry led by the Brazilian military concluded that the young women had encountered a mentally unstable man nicknamed \"Mudinho\" (lit. \"Little Mute\", real name Luiz Antônio de Paula)."
+  },
+  {
+   "s": "paula",
+   "p": "nickname",
+   "v": "Mudinho (\"Little Mute\")",
+   "quote": "In 1997, an official inquiry led by the Brazilian military concluded that the young women had encountered a mentally unstable man nicknamed \"Mudinho\" (lit. \"Little Mute\", real name Luiz Antônio de Paula)."
+  },
+  {
+   "s": "paula",
+   "p": "description",
+   "v": "mentally unstable man",
+   "quote": "In 1997, an official inquiry led by the Brazilian military concluded that the young women had encountered a mentally unstable man nicknamed \"Mudinho\" (lit. \"Little Mute\", real name Luiz Antônio de Paula)."
+  },
+  {
+   "s": "paula",
+   "p": "description",
+   "v": "\"probably has some mental disability\"",
+   "quote": "The commander of the 24th Military Police Battalion provided photographs of the man, stating that he \"probably has some mental disability\" and alleging that his \"physical characteristics matched the description\" of the reported being."
+  },
+  {
+   "s": "paula",
+   "p": "description",
+   "v": "probably dirty due to the heavy rains and seen crouching by a wall",
+   "quote": "Further, he concluded that this strengthened the hypothesis that \"this citizen, probably being dirty, due to the heavy rains and seen crouching by a wall, was mistaken by the three terrified girls as a space creature\"."
+  },
+  {
+   "s": "being",
+   "p": "identified_as",
+   "o": "paula",
+   "quote": "In 1997, an official inquiry led by the Brazilian military concluded that the young women had encountered a mentally unstable man nicknamed \"Mudinho\" (lit. \"Little Mute\", real name Luiz Antônio de Paula)."
+  },
+  {
+   "s": "dunning",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Skeptic Brian Dunning criticized sensational media accounts and ufologists' claims."
+  },
+  {
+   "s": "dunning",
+   "p": "occupation",
+   "v": "Skeptic",
+   "quote": "Skeptic Brian Dunning criticized sensational media accounts and ufologists' claims."
+  },
+  {
+   "s": "dunning",
+   "p": "criticized",
+   "v": "sensational media accounts and ufologists' claims",
+   "quote": "Skeptic Brian Dunning criticized sensational media accounts and ufologists' claims."
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "It is the most compelling example of a case where literally nothing at all happened that was remotely unusual, and was magnified into a case considered unassailable proof of alien visitation by many.",
+   "quote": "According to Dunning, \"It is the most compelling example of a case where literally nothing at all happened that was remotely unusual, and was magnified into a case considered unassailable proof of alien visitation by many."
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "To those believers, I would suggest recalibrating where you set the bar for quality of evidence.",
+   "quote": "To those believers, I would suggest recalibrating where you set the bar for quality of evidence."
+  },
+  {
+   "s": "pacaccini",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Incidente em Varginha, a 1996 Brazilian nonfiction book in Portuguese by ufologist Vitorio Pacaccini and writer Maxs Portes."
+  },
+  {
+   "s": "pacaccini",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "Incidente em Varginha, a 1996 Brazilian nonfiction book in Portuguese by ufologist Vitorio Pacaccini and writer Maxs Portes."
+  },
+  {
+   "s": "pacaccini",
+   "p": "authored",
+   "o": "w_incidente",
+   "quote": "Incidente em Varginha, a 1996 Brazilian nonfiction book in Portuguese by ufologist Vitorio Pacaccini and writer Maxs Portes."
+  },
+  {
+   "s": "portes",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Incidente em Varginha, a 1996 Brazilian nonfiction book in Portuguese by ufologist Vitorio Pacaccini and writer Maxs Portes."
+  },
+  {
+   "s": "portes",
+   "p": "occupation",
+   "v": "writer",
+   "quote": "Incidente em Varginha, a 1996 Brazilian nonfiction book in Portuguese by ufologist Vitorio Pacaccini and writer Maxs Portes."
+  },
+  {
+   "s": "portes",
+   "p": "authored",
+   "o": "w_incidente",
+   "quote": "Incidente em Varginha, a 1996 Brazilian nonfiction book in Portuguese by ufologist Vitorio Pacaccini and writer Maxs Portes."
+  },
+  {
+   "s": "pacaccini",
+   "p": "colleague_of",
+   "o": "portes",
+   "quote": "Incidente em Varginha, a 1996 Brazilian nonfiction book in Portuguese by ufologist Vitorio Pacaccini and writer Maxs Portes."
+  },
+  {
+   "s": "rodrigues",
+   "p": "investigator",
+   "o": "case",
+   "quote": "O Caso Varginha, a 2001 Brazilian nonfiction book in Portuguese by Ubirajara Rodrigues, a ufologist and the main investigator of the case."
+  },
+  {
+   "s": "rodrigues",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "O Caso Varginha, a 2001 Brazilian nonfiction book in Portuguese by Ubirajara Rodrigues, a ufologist and the main investigator of the case."
+  },
+  {
+   "s": "rodrigues",
+   "p": "authored",
+   "o": "w_ocaso",
+   "quote": "O Caso Varginha, a 2001 Brazilian nonfiction book in Portuguese by Ubirajara Rodrigues, a ufologist and the main investigator of the case."
+  },
+  {
+   "s": "rodrigues",
+   "p": "role",
+   "v": "the main investigator of the case",
+   "quote": "O Caso Varginha, a 2001 Brazilian nonfiction book in Portuguese by Ubirajara Rodrigues, a ufologist and the main investigator of the case."
+  },
+  {
+   "s": "leir",
+   "p": "commentator",
+   "o": "case",
+   "quote": "UFO Crash in Brazil, a 2005 nonfiction book in English by American surgeon and ufologist Roger Leir."
+  },
+  {
+   "s": "leir",
+   "p": "occupation",
+   "v": "surgeon and ufologist",
+   "quote": "UFO Crash in Brazil, a 2005 nonfiction book in English by American surgeon and ufologist Roger Leir."
+  },
+  {
+   "s": "leir",
+   "p": "authored",
+   "o": "w_crash",
+   "quote": "UFO Crash in Brazil, a 2005 nonfiction book in English by American surgeon and ufologist Roger Leir."
+  },
+  {
+   "s": "leir",
+   "p": "nationality",
+   "v": "American",
+   "quote": "UFO Crash in Brazil, a 2005 nonfiction book in English by American surgeon and ufologist Roger Leir."
+  },
+  {
+   "s": "auger",
+   "p": "commentator",
+   "o": "case",
+   "quote": "O.V.N.I L'affaire Varginha, a 2009 comic book in French by author Philippe Auger."
+  },
+  {
+   "s": "auger",
+   "p": "occupation",
+   "v": "author",
+   "quote": "O.V.N.I L'affaire Varginha, a 2009 comic book in French by author Philippe Auger."
+  },
+  {
+   "s": "auger",
+   "p": "authored",
+   "o": "w_ovni",
+   "quote": "O.V.N.I L'affaire Varginha, a 2009 comic book in French by author Philippe Auger."
+  },
+  {
+   "s": "petit",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Varginha, Toda a Verdade Revelada, a 2015 nonfiction book in Portuguese by ufologist Marco Antônio Petit (Revista UFO)."
+  },
+  {
+   "s": "petit",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "Varginha, Toda a Verdade Revelada, a 2015 nonfiction book in Portuguese by ufologist Marco Antônio Petit (Revista UFO)."
+  },
+  {
+   "s": "petit",
+   "p": "authored",
+   "o": "w_toda",
+   "quote": "Varginha, Toda a Verdade Revelada, a 2015 nonfiction book in Portuguese by ufologist Marco Antônio Petit (Revista UFO)."
+  },
+  {
+   "s": "petit",
+   "p": "affiliated_with",
+   "o": "revista",
+   "quote": "Varginha, Toda a Verdade Revelada, a 2015 nonfiction book in Portuguese by ufologist Marco Antônio Petit (Revista UFO)."
+  },
+  {
+   "s": "baraldi",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Ginho – o ET de Varginha, a 2016 Brazilian comic book in Portuguese by cartoonist Marcio Baraldi."
+  },
+  {
+   "s": "baraldi",
+   "p": "occupation",
+   "v": "cartoonist",
+   "quote": "Ginho – o ET de Varginha, a 2016 Brazilian comic book in Portuguese by cartoonist Marcio Baraldi."
+  },
+  {
+   "s": "baraldi",
+   "p": "authored",
+   "o": "w_ginho",
+   "quote": "Ginho – o ET de Varginha, a 2016 Brazilian comic book in Portuguese by cartoonist Marcio Baraldi."
+  },
+  {
+   "s": "boaventura",
+   "p": "commentator",
+   "o": "case",
+   "quote": "ETs de Varginha: Montando o Quebra-Cabeça, a 2022 nonfiction book in Portuguese by ufologist Edison Boaventura Jr."
+  },
+  {
+   "s": "boaventura",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "ETs de Varginha: Montando o Quebra-Cabeça, a 2022 nonfiction book in Portuguese by ufologist Edison Boaventura Jr."
+  },
+  {
+   "s": "boaventura",
+   "p": "authored",
+   "o": "w_ets",
+   "quote": "ETs de Varginha: Montando o Quebra-Cabeça, a 2022 nonfiction book in Portuguese by ufologist Edison Boaventura Jr."
+  },
+  {
+   "s": "burgess",
+   "p": "commentator",
+   "o": "case",
+   "quote": "\"Alien Encounter\", Episode 6 of the first season (1998) of Beyond the Truth directed by Bruce Burgess."
+  },
+  {
+   "s": "burgess",
+   "p": "occupation",
+   "v": "director",
+   "quote": "\"Alien Encounter\", Episode 6 of the first season (1998) of Beyond the Truth directed by Bruce Burgess."
+  },
+  {
+   "s": "burgess",
+   "p": "authored",
+   "o": "w_alienenc",
+   "quote": "\"Alien Encounter\", Episode 6 of the first season (1998) of Beyond the Truth directed by Bruce Burgess."
+  },
+  {
+   "s": "burgess",
+   "p": "authored",
+   "o": "w_beyond",
+   "quote": "\"Alien Encounter\", Episode 6 of the first season (1998) of Beyond the Truth directed by Bruce Burgess."
+  },
+  {
+   "s": "brandao",
+   "p": "commentator",
+   "o": "case",
+   "quote": "1996, a 2020 short film by director Rodrigo Brandão, revisits the event in a horror story made along the lines of a documentary (in the style of The Blair Witch Project)."
+  },
+  {
+   "s": "brandao",
+   "p": "occupation",
+   "v": "director",
+   "quote": "1996, a 2020 short film by director Rodrigo Brandão, revisits the event in a horror story made along the lines of a documentary (in the style of The Blair Witch Project)."
+  },
+  {
+   "s": "brandao",
+   "p": "authored",
+   "o": "w_1996",
+   "quote": "1996, a 2020 short film by director Rodrigo Brandão, revisits the event in a horror story made along the lines of a documentary (in the style of The Blair Witch Project)."
+  },
+  {
+   "s": "fox",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Moment of Contact, a 2022 documentary film by director James Fox."
+  },
+  {
+   "s": "fox",
+   "p": "occupation",
+   "v": "director",
+   "quote": "Moment of Contact, a 2022 documentary film by director James Fox."
+  },
+  {
+   "s": "fox",
+   "p": "authored",
+   "o": "w_moment",
+   "quote": "Moment of Contact, a 2022 documentary film by director James Fox."
+  },
+  {
+   "s": "calil",
+   "p": "commentator",
+   "o": "case",
+   "quote": "O Mistério de Varginha, a 2025 documentary by director Ricardo Calil and Paulo Gonçalves."
+  },
+  {
+   "s": "calil",
+   "p": "occupation",
+   "v": "director",
+   "quote": "O Mistério de Varginha, a 2025 documentary by director Ricardo Calil and Paulo Gonçalves."
+  },
+  {
+   "s": "calil",
+   "p": "authored",
+   "o": "w_misterio",
+   "quote": "O Mistério de Varginha, a 2025 documentary by director Ricardo Calil and Paulo Gonçalves."
+  },
+  {
+   "s": "goncalves",
+   "p": "commentator",
+   "o": "case",
+   "quote": "O Mistério de Varginha, a 2025 documentary by director Ricardo Calil and Paulo Gonçalves."
+  },
+  {
+   "s": "goncalves",
+   "p": "authored",
+   "o": "w_misterio",
+   "quote": "O Mistério de Varginha, a 2025 documentary by director Ricardo Calil and Paulo Gonçalves."
+  },
+  {
+   "s": "calil",
+   "p": "colleague_of",
+   "o": "goncalves",
+   "quote": "O Mistério de Varginha, a 2025 documentary by director Ricardo Calil and Paulo Gonçalves."
+  },
+  {
+   "s": "gevaerd",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Revista UFO (UFO Magazine), Special Issue #13, July 1996, published by CBPDV (Centro Brasileiro para Pesquisa de Discos Voadores - Brazilian Center for Flying Saucer Research), Editor Ademar José Gevaerd (in Portuguese) English translation"
+  },
+  {
+   "s": "gevaerd",
+   "p": "occupation",
+   "v": "Editor of Revista UFO",
+   "quote": "Revista UFO (UFO Magazine), Special Issue #13, July 1996, published by CBPDV (Centro Brasileiro para Pesquisa de Discos Voadores - Brazilian Center for Flying Saucer Research), Editor Ademar José Gevaerd (in Portuguese) English translation"
+  },
+  {
+   "s": "gevaerd",
+   "p": "member_of",
+   "o": "revista",
+   "quote": "Revista UFO (UFO Magazine), Special Issue #13, July 1996, published by CBPDV (Centro Brasileiro para Pesquisa de Discos Voadores - Brazilian Center for Flying Saucer Research), Editor Ademar José Gevaerd (in Portuguese) English translation"
+  },
+  {
+   "s": "gevaerd",
+   "p": "authored",
+   "o": "w_special",
+   "quote": "Revista UFO (UFO Magazine), Special Issue #13, July 1996, published by CBPDV (Centro Brasileiro para Pesquisa de Discos Voadores - Brazilian Center for Flying Saucer Research), Editor Ademar José Gevaerd (in Portuguese) English translation"
+  },
+  {
+   "s": "w_incidente",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Incidente em Varginha, a 1996 Brazilian nonfiction book in Portuguese by ufologist Vitorio Pacaccini and writer Maxs Portes."
+  },
+  {
+   "s": "w_incidente",
+   "p": "year",
+   "v": "1996",
+   "quote": "Incidente em Varginha, a 1996 Brazilian nonfiction book in Portuguese by ufologist Vitorio Pacaccini and writer Maxs Portes."
+  },
+  {
+   "s": "w_incidente",
+   "p": "work_type",
+   "v": "nonfiction book",
+   "quote": "Incidente em Varginha, a 1996 Brazilian nonfiction book in Portuguese by ufologist Vitorio Pacaccini and writer Maxs Portes."
+  },
+  {
+   "s": "w_incidente",
+   "p": "language",
+   "v": "Portuguese",
+   "quote": "Incidente em Varginha, a 1996 Brazilian nonfiction book in Portuguese by ufologist Vitorio Pacaccini and writer Maxs Portes."
+  },
+  {
+   "s": "w_incidente",
+   "p": "country",
+   "v": "Brazil",
+   "quote": "Incidente em Varginha, a 1996 Brazilian nonfiction book in Portuguese by ufologist Vitorio Pacaccini and writer Maxs Portes."
+  },
+  {
+   "s": "w_ocaso",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "O Caso Varginha, a 2001 Brazilian nonfiction book in Portuguese by Ubirajara Rodrigues, a ufologist and the main investigator of the case."
+  },
+  {
+   "s": "w_ocaso",
+   "p": "year",
+   "v": "2001",
+   "quote": "O Caso Varginha, a 2001 Brazilian nonfiction book in Portuguese by Ubirajara Rodrigues, a ufologist and the main investigator of the case."
+  },
+  {
+   "s": "w_ocaso",
+   "p": "work_type",
+   "v": "nonfiction book",
+   "quote": "O Caso Varginha, a 2001 Brazilian nonfiction book in Portuguese by Ubirajara Rodrigues, a ufologist and the main investigator of the case."
+  },
+  {
+   "s": "w_ocaso",
+   "p": "language",
+   "v": "Portuguese",
+   "quote": "O Caso Varginha, a 2001 Brazilian nonfiction book in Portuguese by Ubirajara Rodrigues, a ufologist and the main investigator of the case."
+  },
+  {
+   "s": "w_ocaso",
+   "p": "country",
+   "v": "Brazil",
+   "quote": "O Caso Varginha, a 2001 Brazilian nonfiction book in Portuguese by Ubirajara Rodrigues, a ufologist and the main investigator of the case."
+  },
+  {
+   "s": "w_crash",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "UFO Crash in Brazil, a 2005 nonfiction book in English by American surgeon and ufologist Roger Leir."
+  },
+  {
+   "s": "w_crash",
+   "p": "year",
+   "v": "2005",
+   "quote": "UFO Crash in Brazil, a 2005 nonfiction book in English by American surgeon and ufologist Roger Leir."
+  },
+  {
+   "s": "w_crash",
+   "p": "work_type",
+   "v": "nonfiction book",
+   "quote": "UFO Crash in Brazil, a 2005 nonfiction book in English by American surgeon and ufologist Roger Leir."
+  },
+  {
+   "s": "w_crash",
+   "p": "language",
+   "v": "English",
+   "quote": "UFO Crash in Brazil, a 2005 nonfiction book in English by American surgeon and ufologist Roger Leir."
+  },
+  {
+   "s": "w_ovni",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "O.V.N.I L'affaire Varginha, a 2009 comic book in French by author Philippe Auger."
+  },
+  {
+   "s": "w_ovni",
+   "p": "year",
+   "v": "2009",
+   "quote": "O.V.N.I L'affaire Varginha, a 2009 comic book in French by author Philippe Auger."
+  },
+  {
+   "s": "w_ovni",
+   "p": "work_type",
+   "v": "comic book",
+   "quote": "O.V.N.I L'affaire Varginha, a 2009 comic book in French by author Philippe Auger."
+  },
+  {
+   "s": "w_ovni",
+   "p": "language",
+   "v": "French",
+   "quote": "O.V.N.I L'affaire Varginha, a 2009 comic book in French by author Philippe Auger."
+  },
+  {
+   "s": "w_toda",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Varginha, Toda a Verdade Revelada, a 2015 nonfiction book in Portuguese by ufologist Marco Antônio Petit (Revista UFO)."
+  },
+  {
+   "s": "w_toda",
+   "p": "year",
+   "v": "2015",
+   "quote": "Varginha, Toda a Verdade Revelada, a 2015 nonfiction book in Portuguese by ufologist Marco Antônio Petit (Revista UFO)."
+  },
+  {
+   "s": "w_toda",
+   "p": "work_type",
+   "v": "nonfiction book",
+   "quote": "Varginha, Toda a Verdade Revelada, a 2015 nonfiction book in Portuguese by ufologist Marco Antônio Petit (Revista UFO)."
+  },
+  {
+   "s": "w_toda",
+   "p": "language",
+   "v": "Portuguese",
+   "quote": "Varginha, Toda a Verdade Revelada, a 2015 nonfiction book in Portuguese by ufologist Marco Antônio Petit (Revista UFO)."
+  },
+  {
+   "s": "w_ginho",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Ginho – o ET de Varginha, a 2016 Brazilian comic book in Portuguese by cartoonist Marcio Baraldi."
+  },
+  {
+   "s": "w_ginho",
+   "p": "year",
+   "v": "2016",
+   "quote": "Ginho – o ET de Varginha, a 2016 Brazilian comic book in Portuguese by cartoonist Marcio Baraldi."
+  },
+  {
+   "s": "w_ginho",
+   "p": "work_type",
+   "v": "comic book",
+   "quote": "Ginho – o ET de Varginha, a 2016 Brazilian comic book in Portuguese by cartoonist Marcio Baraldi."
+  },
+  {
+   "s": "w_ginho",
+   "p": "language",
+   "v": "Portuguese",
+   "quote": "Ginho – o ET de Varginha, a 2016 Brazilian comic book in Portuguese by cartoonist Marcio Baraldi."
+  },
+  {
+   "s": "w_ginho",
+   "p": "country",
+   "v": "Brazil",
+   "quote": "Ginho – o ET de Varginha, a 2016 Brazilian comic book in Portuguese by cartoonist Marcio Baraldi."
+  },
+  {
+   "s": "w_ets",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "ETs de Varginha: Montando o Quebra-Cabeça, a 2022 nonfiction book in Portuguese by ufologist Edison Boaventura Jr."
+  },
+  {
+   "s": "w_ets",
+   "p": "year",
+   "v": "2022",
+   "quote": "ETs de Varginha: Montando o Quebra-Cabeça, a 2022 nonfiction book in Portuguese by ufologist Edison Boaventura Jr."
+  },
+  {
+   "s": "w_ets",
+   "p": "work_type",
+   "v": "nonfiction book",
+   "quote": "ETs de Varginha: Montando o Quebra-Cabeça, a 2022 nonfiction book in Portuguese by ufologist Edison Boaventura Jr."
+  },
+  {
+   "s": "w_ets",
+   "p": "language",
+   "v": "Portuguese",
+   "quote": "ETs de Varginha: Montando o Quebra-Cabeça, a 2022 nonfiction book in Portuguese by ufologist Edison Boaventura Jr."
+  },
+  {
+   "s": "w_alienenc",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "\"Alien Encounter\", Episode 6 of the first season (1998) of Beyond the Truth directed by Bruce Burgess."
+  },
+  {
+   "s": "w_alienenc",
+   "p": "year",
+   "v": "1998",
+   "quote": "\"Alien Encounter\", Episode 6 of the first season (1998) of Beyond the Truth directed by Bruce Burgess."
+  },
+  {
+   "s": "w_alienenc",
+   "p": "work_type",
+   "v": "television episode",
+   "quote": "\"Alien Encounter\", Episode 6 of the first season (1998) of Beyond the Truth directed by Bruce Burgess."
+  },
+  {
+   "s": "w_alienenc",
+   "p": "episode",
+   "v": "Episode 6 of the first season",
+   "quote": "\"Alien Encounter\", Episode 6 of the first season (1998) of Beyond the Truth directed by Bruce Burgess."
+  },
+  {
+   "s": "w_beyond",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "\"Alien Encounter\", Episode 6 of the first season (1998) of Beyond the Truth directed by Bruce Burgess."
+  },
+  {
+   "s": "w_beyond",
+   "p": "first_season_year",
+   "v": "1998",
+   "quote": "\"Alien Encounter\", Episode 6 of the first season (1998) of Beyond the Truth directed by Bruce Burgess."
+  },
+  {
+   "s": "w_alienenc",
+   "p": "part_of",
+   "o": "w_beyond",
+   "quote": "\"Alien Encounter\", Episode 6 of the first season (1998) of Beyond the Truth directed by Bruce Burgess."
+  },
+  {
+   "s": "w_castaways",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "\"Alien Castaways\", Episode 7 of the first season (2012) of National Geographic's Chasing UFOs series."
+  },
+  {
+   "s": "w_castaways",
+   "p": "year",
+   "v": "2012",
+   "quote": "\"Alien Castaways\", Episode 7 of the first season (2012) of National Geographic's Chasing UFOs series."
+  },
+  {
+   "s": "w_castaways",
+   "p": "work_type",
+   "v": "television episode",
+   "quote": "\"Alien Castaways\", Episode 7 of the first season (2012) of National Geographic's Chasing UFOs series."
+  },
+  {
+   "s": "w_castaways",
+   "p": "episode",
+   "v": "Episode 7 of the first season",
+   "quote": "\"Alien Castaways\", Episode 7 of the first season (2012) of National Geographic's Chasing UFOs series."
+  },
+  {
+   "s": "w_chasing",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "\"Alien Castaways\", Episode 7 of the first season (2012) of National Geographic's Chasing UFOs series."
+  },
+  {
+   "s": "w_chasing",
+   "p": "first_season_year",
+   "v": "2012",
+   "quote": "\"Alien Castaways\", Episode 7 of the first season (2012) of National Geographic's Chasing UFOs series."
+  },
+  {
+   "s": "w_castaways",
+   "p": "part_of",
+   "o": "w_chasing",
+   "quote": "\"Alien Castaways\", Episode 7 of the first season (2012) of National Geographic's Chasing UFOs series."
+  },
+  {
+   "s": "w_1996",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "1996, a 2020 short film by director Rodrigo Brandão, revisits the event in a horror story made along the lines of a documentary (in the style of The Blair Witch Project)."
+  },
+  {
+   "s": "w_1996",
+   "p": "year",
+   "v": "2020",
+   "quote": "1996, a 2020 short film by director Rodrigo Brandão, revisits the event in a horror story made along the lines of a documentary (in the style of The Blair Witch Project)."
+  },
+  {
+   "s": "w_1996",
+   "p": "work_type",
+   "v": "short film",
+   "quote": "1996, a 2020 short film by director Rodrigo Brandão, revisits the event in a horror story made along the lines of a documentary (in the style of The Blair Witch Project)."
+  },
+  {
+   "s": "w_1996",
+   "p": "genre",
+   "v": "horror story made along the lines of a documentary",
+   "quote": "1996, a 2020 short film by director Rodrigo Brandão, revisits the event in a horror story made along the lines of a documentary (in the style of The Blair Witch Project)."
+  },
+  {
+   "s": "w_1996",
+   "p": "style",
+   "v": "in the style of The Blair Witch Project",
+   "quote": "1996, a 2020 short film by director Rodrigo Brandão, revisits the event in a horror story made along the lines of a documentary (in the style of The Blair Witch Project)."
+  },
+  {
+   "s": "w_1996",
+   "p": "plot",
+   "v": "two teenagers go to Varginha on 20 January 1996, get lost in the woods at night and are found by an extraterrestrial",
+   "quote": "The story involves two teenagers going to the city of Varginha on 20 January 1996, who get lost in the woods at night and are found by an extraterrestrial."
+  },
+  {
+   "s": "w_moment",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Moment of Contact, a 2022 documentary film by director James Fox."
+  },
+  {
+   "s": "w_moment",
+   "p": "year",
+   "v": "2022",
+   "quote": "Moment of Contact, a 2022 documentary film by director James Fox."
+  },
+  {
+   "s": "w_moment",
+   "p": "work_type",
+   "v": "documentary film",
+   "quote": "Moment of Contact, a 2022 documentary film by director James Fox."
+  },
+  {
+   "s": "w_misterio",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "O Mistério de Varginha, a 2025 documentary by director Ricardo Calil and Paulo Gonçalves."
+  },
+  {
+   "s": "w_misterio",
+   "p": "year",
+   "v": "2025",
+   "quote": "O Mistério de Varginha, a 2025 documentary by director Ricardo Calil and Paulo Gonçalves."
+  },
+  {
+   "s": "w_misterio",
+   "p": "work_type",
+   "v": "documentary",
+   "quote": "O Mistério de Varginha, a 2025 documentary by director Ricardo Calil and Paulo Gonçalves."
+  },
+  {
+   "s": "w_game",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Incidente em Varginha, a 1998 Brazilian video game by Perceptum Informática inspired by these events."
+  },
+  {
+   "s": "w_game",
+   "p": "year",
+   "v": "1998",
+   "quote": "Incidente em Varginha, a 1998 Brazilian video game by Perceptum Informática inspired by these events."
+  },
+  {
+   "s": "w_game",
+   "p": "work_type",
+   "v": "video game",
+   "quote": "Incidente em Varginha, a 1998 Brazilian video game by Perceptum Informática inspired by these events."
+  },
+  {
+   "s": "w_game",
+   "p": "country",
+   "v": "Brazil",
+   "quote": "Incidente em Varginha, a 1998 Brazilian video game by Perceptum Informática inspired by these events."
+  },
+  {
+   "s": "w_special",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Revista UFO (UFO Magazine), Special Issue #13, July 1996, published by CBPDV (Centro Brasileiro para Pesquisa de Discos Voadores - Brazilian Center for Flying Saucer Research), Editor Ademar José Gevaerd (in Portuguese) English translation"
+  },
+  {
+   "s": "w_special",
+   "p": "date",
+   "v": "1996-07",
+   "quote": "Revista UFO (UFO Magazine), Special Issue #13, July 1996, published by CBPDV (Centro Brasileiro para Pesquisa de Discos Voadores - Brazilian Center for Flying Saucer Research), Editor Ademar José Gevaerd (in Portuguese) English translation"
+  },
+  {
+   "s": "w_special",
+   "p": "issue",
+   "v": "Special Issue #13",
+   "quote": "Revista UFO (UFO Magazine), Special Issue #13, July 1996, published by CBPDV (Centro Brasileiro para Pesquisa de Discos Voadores - Brazilian Center for Flying Saucer Research), Editor Ademar José Gevaerd (in Portuguese) English translation"
+  },
+  {
+   "s": "w_special",
+   "p": "language",
+   "v": "Portuguese",
+   "quote": "Revista UFO (UFO Magazine), Special Issue #13, July 1996, published by CBPDV (Centro Brasileiro para Pesquisa de Discos Voadores - Brazilian Center for Flying Saucer Research), Editor Ademar José Gevaerd (in Portuguese) English translation"
+  },
+  {
+   "s": "w_inside",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Inside Brazil's UFO Files: What Declassified Military Documents Reveal About the Varginha Incident"
+  },
+  {
+   "s": "w_inside",
+   "p": "subject",
+   "v": "declassified military documents about the Varginha incident",
+   "quote": "Inside Brazil's UFO Files: What Declassified Military Documents Reveal About the Varginha Incident"
+  },
+  {
+   "s": "c1986",
+   "p": "related_case",
+   "o": "case",
+   "quote": "1986 Brazilian UFO incident"
+  },
+  {
+   "s": "prato",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Operação Prato"
+  },
+  {
+   "s": "f_occ",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Around 3:30 p.m. on 20 January 1996, three females ranging from 14 to 22 years old claimed to have sighted an unknown being near a subdivision on a street known as Rua Dr. Benevenuto Braz Vieira."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Around 3:30 p.m. on 20 January 1996, three females ranging from 14 to 22 years old claimed to have sighted an unknown being near a subdivision on a street known as Rua Dr. Benevenuto Braz Vieira."
+  },
+  {
+   "s": "f_child",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Around 3:30 p.m. on 20 January 1996, three females ranging from 14 to 22 years old claimed to have sighted an unknown being near a subdivision on a street known as Rua Dr. Benevenuto Braz Vieira."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In 1997, an official inquiry led by the Brazilian military concluded that the young women had encountered a mentally unstable man nicknamed \"Mudinho\" (lit. \"Little Mute\", real name Luiz Antônio de Paula)."
+  },
+  {
+   "s": "f_crash",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Other associated claims included the capture of one or more extraterrestrial beings by the Brazilian authorities and unexplained animal fatalities at a zoo."
+  },
+  {
+   "s": "f_death",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "the death of a police officer"
+  },
+  {
+   "s": "f_animal",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Other associated claims included the capture of one or more extraterrestrial beings by the Brazilian authorities and unexplained animal fatalities at a zoo."
+  },
+  {
+   "s": "x_misp",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "An investigation by the Brazilian Army concluded that a city resident was mistaken for an alien being and the movement of military personnel in the region was routine."
+  },
+  {
+   "s": "army",
+   "p": "proposed",
+   "o": "x_misp",
+   "quote": "An investigation by the Brazilian Army concluded that a city resident was mistaken for an alien being and the movement of military personnel in the region was routine."
+  },
+  {
+   "s": "military",
+   "p": "proposed",
+   "o": "x_misp",
+   "quote": "In 1997, an official inquiry led by the Brazilian military concluded that the young women had encountered a mentally unstable man nicknamed \"Mudinho\" (lit. \"Little Mute\", real name Luiz Antônio de Paula)."
+  },
+  {
+   "s": "inquiry",
+   "p": "proposed",
+   "o": "x_misp",
+   "quote": "In 1997, an official inquiry led by the Brazilian military concluded that the young women had encountered a mentally unstable man nicknamed \"Mudinho\" (lit. \"Little Mute\", real name Luiz Antônio de Paula)."
+  },
+  {
+   "s": "x_misp",
+   "p": "detail",
+   "v": "this citizen, probably being dirty, due to the heavy rains and seen crouching by a wall, was mistaken by the three terrified girls as a space creature",
+   "quote": "Further, he concluded that this strengthened the hypothesis that \"this citizen, probably being dirty, due to the heavy rains and seen crouching by a wall, was mistaken by the three terrified girls as a space creature\"."
+  },
+  {
+   "s": "x_misp",
+   "p": "detail",
+   "v": "routine military and Firefighter activity was incorrectly interpreted as the capture and transport of the alleged creature",
+   "quote": "the presence of the Firefighters in Jardim Andere, the parking of Army trucks in the vicinity of the concessionaire where their periodic maintenance would be carried out ... and the departure of EsSA vehicles ... were real facts ... incorrectly interpreted as Firefighters and the Military participating in the capture and later the transport of the alleged creature to Campinas."
+  }
+ ]
+}

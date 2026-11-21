@@ -402,12 +402,6 @@
    "description": "Feature: alleged-cover-up"
   },
   {
-   "key": "f_official_investigation",
-   "type": "feature",
-   "name": "official-investigation",
-   "description": "Feature: official-investigation"
-  },
-  {
    "key": "x_balloon",
    "type": "explanation",
    "name": "balloon",
@@ -1088,6 +1082,12 @@
    "quote": "According to Keith Basterfield, a runaway balloon from the HIBAL high-altitude balloon project used to monitor radiation levels after British nuclear tests at Maralinga is a likely explanation."
   },
   {
+   "s": "hibal",
+   "p": "monitored",
+   "o": "nuketests",
+   "quote": "According to Keith Basterfield, a runaway balloon from the HIBAL high-altitude balloon project used to monitor radiation levels after British nuclear tests at Maralinga is a likely explanation."
+  },
+  {
    "s": "australia",
    "p": "occurred_at",
    "o": "case",
@@ -1434,12 +1434,6 @@
    "p": "has_feature",
    "o": "case",
    "quote": "There were also reports that after the incident, \"men in suits\" cautioned witnesses not to discuss details of the secret government exercise."
-  },
-  {
-   "s": "f_official_investigation",
-   "p": "has_feature",
-   "o": "case",
-   "quote": "On 9 April 1966, air force personnel and UFO enthusiasts visited the field but reported nothing of interest."
   },
   {
    "s": "x_balloon",

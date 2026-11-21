@@ -1,0 +1,2929 @@
+{
+ "slug": "phoenix-lights",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Phoenix Lights",
+   "aliases": [
+    "Lights Over Phoenix",
+    "the Phoenix Lights",
+    "Phoenix lights incident"
+   ],
+   "description": "Widely sighted lights over Arizona and Nevada on March 13, 1997, comprising a triangular formation of lights and a later row of stationary lights near Phoenix."
+  },
+  {
+   "key": "c_formation",
+   "type": "craft",
+   "name": "Triangular formation of lights seen passing over Arizona on March 13, 1997",
+   "aliases": [
+    "V-shaped object",
+    "flying triangle",
+    "carpenter's square-shaped UFO",
+    "first light group"
+   ],
+   "description": "V-shaped or carpenter's-square-shaped formation of five lights seen moving from Nevada over Phoenix toward Tucson."
+  },
+  {
+   "key": "c_row",
+   "type": "craft",
+   "name": "Row of stationary lights seen in the Phoenix area at about 10 p.m. on March 13, 1997",
+   "aliases": [
+    "second group of lights",
+    "row of brilliant lights"
+   ],
+   "description": "Row of brilliant lights reported hovering or slowly falling over the Phoenix area."
+  },
+  {
+   "key": "c_paulden",
+   "type": "craft",
+   "name": "Cluster of reddish-orange lights seen from Paulden, Arizona",
+   "description": "Cluster of lights a former police officer saw disappear over the southern horizon at 8:15 p.m."
+  },
+  {
+   "key": "sheaffer",
+   "type": "person",
+   "name": "Robert Sheaffer",
+   "aliases": [
+    "Sheaffer"
+   ],
+   "description": "Author who identified the second group of lights as flares and attributed both incidents to Operation Snowbird."
+  },
+  {
+   "key": "symington",
+   "type": "person",
+   "name": "Fife Symington III",
+   "aliases": [
+    "Fife Symington",
+    "Symington",
+    "Governor Fife Symington III"
+   ],
+   "description": "Governor of Arizona at the time, who joked about the incident at a press conference and years later said he had witnessed it."
+  },
+  {
+   "key": "tley",
+   "type": "person",
+   "name": "Tim Ley",
+   "aliases": [
+    "Ley"
+   ],
+   "description": "Witness who watched the lights approach with his family."
+  },
+  {
+   "key": "bley",
+   "type": "person",
+   "name": "Bobbi Ley",
+   "aliases": [
+    "Bobbi"
+   ],
+   "description": "Wife of Tim Ley; witness."
+  },
+  {
+   "key": "hley",
+   "type": "person",
+   "name": "Hal Ley",
+   "aliases": [
+    "Hal"
+   ],
+   "description": "Son of Tim Ley; witness."
+  },
+  {
+   "key": "turnidge",
+   "type": "person",
+   "name": "Damien Turnidge",
+   "description": "Grandson of Tim Ley; witness."
+  },
+  {
+   "key": "russell",
+   "type": "person",
+   "name": "Kurt Russell",
+   "description": "Actor and amateur pilot who reported seeing the lights to air traffic control."
+  },
+  {
+   "key": "stanley",
+   "type": "person",
+   "name": "Mitch Stanley",
+   "aliases": [
+    "Stanley"
+   ],
+   "description": "Amateur astronomer in Scottsdale who viewed the lights through a telescope."
+  },
+  {
+   "key": "mcgaha",
+   "type": "person",
+   "name": "James McGaha",
+   "aliases": [
+    "McGaha"
+   ],
+   "description": "Tucson astronomer and retired Air Force pilot who traced both sightings to A-10 aircraft."
+  },
+  {
+   "key": "jones",
+   "type": "person",
+   "name": "Ed Jones",
+   "aliases": [
+    "Lt. Col. Ed Jones"
+   ],
+   "description": "Maryland Air National Guard pilot who confirmed flying one of the aircraft that dropped flares."
+  },
+  {
+   "key": "peterson",
+   "type": "person",
+   "name": "Cassie Peterson",
+   "description": "Writer who said no evidence of a fitting new aircraft had come to light."
+  },
+  {
+   "key": "mcgee",
+   "type": "person",
+   "name": "Ben McGee",
+   "aliases": [
+    "McGee"
+   ],
+   "description": "Skeptic who pointed to a JP Aerospace V-shaped lighter-than-air craft as a possible explanation."
+  },
+  {
+   "key": "wolchover",
+   "type": "person",
+   "name": "Natalie Wolchover",
+   "description": "Science journalist who interviewed Ben McGee."
+  },
+  {
+   "key": "tingley",
+   "type": "person",
+   "name": "Brett Tingley",
+   "description": "Science journalist who interviewed John Powell of JP Aerospace."
+  },
+  {
+   "key": "powell",
+   "type": "person",
+   "name": "John Powell",
+   "aliases": [
+    "Powell"
+   ],
+   "description": "JP Aerospace figure who denied his company was involved in the incident."
+  },
+  {
+   "key": "haas",
+   "type": "person",
+   "name": "Greg Haas",
+   "description": "Journalist who highlighted RAND Corporation and Department of Defense reports on lighter-than-air vehicles."
+  },
+  {
+   "key": "kitei",
+   "type": "person",
+   "name": "Lynne D. Kitei",
+   "aliases": [
+    "Lynne D. Kitei, M.D."
+   ],
+   "description": "Executive producer of the documentary The Phoenix Lights...We Are Not Alone."
+  },
+  {
+   "key": "mitchell",
+   "type": "person",
+   "name": "Edgar Mitchell",
+   "description": "Astronaut featured in the documentary The Phoenix Lights...We Are Not Alone."
+  },
+  {
+   "key": "pace",
+   "type": "person",
+   "name": "Daniel Pace",
+   "description": "Director of the film The Appearance of a Man."
+  },
+  {
+   "key": "davenport",
+   "type": "person",
+   "name": "Peter Davenport",
+   "description": "Author of the National UFO Reporting Center special report on the Phoenix Lights."
+  },
+  {
+   "key": "callahan",
+   "type": "person",
+   "name": "Tim Callahan",
+   "description": "Author of an article on the Phoenix Lights and the fallibility of perception and memory."
+  },
+  {
+   "key": "ang",
+   "type": "organization",
+   "name": "Air National Guard",
+   "description": "Operator of the Operation Snowbird pilot training program."
+  },
+  {
+   "key": "mdang",
+   "type": "organization",
+   "name": "Maryland Air National Guard",
+   "aliases": [
+    "Maryland ANG"
+   ],
+   "description": "Guard organization whose A-10 jets carried out the flare drop exercise."
+  },
+  {
+   "key": "sq104",
+   "type": "organization",
+   "name": "104th Fighter Squadron",
+   "description": "Maryland ANG squadron said to be responsible for the incident."
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "aliases": [
+    "U.S. Air Force",
+    "Air Force",
+    "the Air Force"
+   ],
+   "description": "US military air service that explained the flare exercise."
+  },
+  {
+   "key": "faa",
+   "type": "organization",
+   "name": "Federal Aviation Administration",
+   "aliases": [
+    "FAA"
+   ],
+   "description": "US aviation regulator whose rules are cited and which attributed the 2007 lights to flares."
+  },
+  {
+   "key": "azrepublic",
+   "type": "organization",
+   "name": "The Arizona Republic",
+   "description": "Newspaper that first reported Maryland ANG members were responsible."
+  },
+  {
+   "key": "jpa",
+   "type": "organization",
+   "name": "JP Aerospace",
+   "aliases": [
+    "JPA"
+   ],
+   "description": "Developer of a very large experimental V-shaped lighter-than-air craft."
+  },
+  {
+   "key": "rand",
+   "type": "organization",
+   "name": "RAND Corporation",
+   "description": "Author of a report suggesting official interest in lighter-than-air vehicles."
+  },
+  {
+   "key": "dod",
+   "type": "organization",
+   "name": "United States Department of Defense",
+   "aliases": [
+    "Department of Defense",
+    "DOD"
+   ],
+   "description": "US defense department; author of a report on lighter-than-air vehicles and customer of JP Aerospace."
+  },
+  {
+   "key": "sbl",
+   "type": "organization",
+   "name": "Air Force Space Battle Lab",
+   "aliases": [
+    "SBL"
+   ],
+   "description": "Air Force lab for which the Near-Space Maneuvering Vehicle was developed."
+  },
+  {
+   "key": "fox",
+   "type": "organization",
+   "name": "Local Fox News television station (Phoenix)",
+   "aliases": [
+    "local Fox News television station"
+   ],
+   "description": "Local television station that recorded the February 6, 2007 lights."
+  },
+  {
+   "key": "lantz",
+   "type": "organization",
+   "name": "Steve Lantz Productions",
+   "description": "Production company that collaborated on The Phoenix Lights...We Are Not Alone documentary."
+  },
+  {
+   "key": "snowbird",
+   "type": "program",
+   "name": "Operation Snowbird",
+   "description": "Winter pilot training program operated by the Air National Guard out of Davis-Monthan Air Force Base."
+  },
+  {
+   "key": "nsmv",
+   "type": "program",
+   "name": "Near-Space Maneuvering Vehicle",
+   "aliases": [
+    "NSMV"
+   ],
+   "description": "V-shaped airship concept developed by JP Aerospace for the Air Force Space Battle Lab; ended in 2005."
+  },
+  {
+   "key": "arizona",
+   "type": "place",
+   "name": "Arizona",
+   "description": "US state over which the lights were seen."
+  },
+  {
+   "key": "nevada",
+   "type": "place",
+   "name": "Nevada",
+   "description": "US state where the first report originated."
+  },
+  {
+   "key": "phoenix",
+   "type": "place",
+   "name": "Phoenix, Arizona",
+   "aliases": [
+    "Phoenix",
+    "Phoenix area"
+   ],
+   "description": "City over and near which the lights were seen."
+  },
+  {
+   "key": "tucson",
+   "type": "place",
+   "name": "Tucson, Arizona",
+   "aliases": [
+    "Tucson"
+   ],
+   "description": "City at the southern end of the sighting corridor; site of Davis-Monthan Air Force Base."
+  },
+  {
+   "key": "henderson",
+   "type": "place",
+   "name": "Henderson, Nevada",
+   "description": "Location of the first reported sighting at 7:55 p.m."
+  },
+  {
+   "key": "paulden",
+   "type": "place",
+   "name": "Paulden, Arizona",
+   "description": "Location of the 8:15 p.m. report by a former police officer."
+  },
+  {
+   "key": "prescott",
+   "type": "place",
+   "name": "Prescott Valley, Arizona",
+   "aliases": [
+    "the Prescott Valley"
+   ],
+   "description": "Area over which lights were reported."
+  },
+  {
+   "key": "glendale",
+   "type": "place",
+   "name": "Glendale, Arizona",
+   "aliases": [
+    "Glendale"
+   ],
+   "description": "Suburb northwest of Phoenix where witnesses saw the formation pass overhead."
+  },
+  {
+   "key": "scottsdale",
+   "type": "place",
+   "name": "Scottsdale, Arizona",
+   "description": "Location of amateur astronomer Mitch Stanley."
+  },
+  {
+   "key": "dm",
+   "type": "place",
+   "name": "Davis-Monthan Air Force Base",
+   "aliases": [
+    "Davis-Monthan AFB",
+    "Davis-Monthan"
+   ],
+   "description": "Air Force base in Tucson from which Operation Snowbird operated."
+  },
+  {
+   "key": "goldwater",
+   "type": "place",
+   "name": "Barry M. Goldwater Air Force Range",
+   "aliases": [
+    "Barry Goldwater Range",
+    "Goldwater Air Force Range"
+   ],
+   "description": "Range in southwest Arizona where the flares were dropped."
+  },
+  {
+   "key": "pima",
+   "type": "place",
+   "name": "Pima County, Arizona",
+   "aliases": [
+    "Pima County"
+   ],
+   "description": "County containing the Barry M. Goldwater Air Force Range site of the exercise."
+  },
+  {
+   "key": "luke",
+   "type": "place",
+   "name": "Luke Air Force Base",
+   "aliases": [
+    "Luke AFB"
+   ],
+   "description": "Air Force base whose aircraft dropped the 2007 flares."
+  },
+  {
+   "key": "piestewa",
+   "type": "place",
+   "name": "Piestewa Peak",
+   "aliases": [
+    "Piestewa Peak Mountain"
+   ],
+   "description": "Mountain toward which the object passed."
+  },
+  {
+   "key": "skyharbor",
+   "type": "place",
+   "name": "Phoenix Sky Harbor International Airport",
+   "description": "Airport in whose direction the object travelled."
+  },
+  {
+   "key": "estrella",
+   "type": "place",
+   "name": "Sierra Estrella",
+   "aliases": [
+    "Sierra Estrella mountain range"
+   ],
+   "description": "Mountain range southwest of Phoenix behind which the lights fell."
+  },
+  {
+   "key": "a10",
+   "type": "vehicle",
+   "name": "A-10 Thunderbolt II",
+   "aliases": [
+    "A-10",
+    "A-10 jets",
+    "A-10 aircraft"
+   ],
+   "description": "Military aircraft type to which both sets of lights were traced."
+  },
+  {
+   "key": "ascender",
+   "type": "vehicle",
+   "name": "JP Aerospace Ascender",
+   "aliases": [
+    "Ascender",
+    "Ascender vehicle"
+   ],
+   "description": "Very large, experimental, V-shaped lighter-than-air craft developed by JP Aerospace."
+  },
+  {
+   "key": "f16",
+   "type": "vehicle",
+   "name": "F-16 Fighting Falcon",
+   "aliases": [
+    "F-16",
+    "F-16 \"Fighting Falcon\""
+   ],
+   "description": "Fighter aircraft type that dropped flares in the February 2007 reports."
+  },
+  {
+   "key": "helicopter",
+   "type": "vehicle",
+   "name": "Police helicopter (April 2008)",
+   "description": "Police helicopter that confirmed the 2008 lights were balloons with flares."
+  },
+  {
+   "key": "photos",
+   "type": "document",
+   "name": "Photographs and videotapes of the Phoenix Lights (March 13, 1997)",
+   "aliases": [
+    "photographs and videos"
+   ],
+   "description": "Numerous still photographs and videotapes of the 10 p.m. lights."
+  },
+  {
+   "key": "mdhistory",
+   "type": "document",
+   "name": "History of the Maryland Air National Guard (2000)",
+   "description": "History of the Maryland ANG asserting that the 104th Fighter Squadron was responsible."
+  },
+  {
+   "key": "azreports",
+   "type": "document",
+   "name": "The Arizona Republic reports of July 1997",
+   "description": "First reports that members of the Maryland ANG were responsible for the incident."
+  },
+  {
+   "key": "ltareports",
+   "type": "document",
+   "name": "RAND Corporation and Department of Defense reports on lighter-than-air vehicles",
+   "description": "Reports highlighted by Greg Haas as suggesting official interest in lighter-than-air vehicles."
+  },
+  {
+   "key": "w_doc",
+   "type": "work",
+   "name": "The Phoenix Lights...We Are Not Alone",
+   "aliases": [
+    "The Phoenix Lights...We Are Not Alone Documentary"
+   ],
+   "description": "Documentary film with Lynne D. Kitei as executive producer."
+  },
+  {
+   "key": "w_book",
+   "type": "work",
+   "name": "The Phoenix Lights...A Skeptic's Discovery That We Are Not Alone",
+   "description": "Book on which the documentary was based."
+  },
+  {
+   "key": "w_appearance",
+   "type": "work",
+   "name": "The Appearance of a Man",
+   "description": "Related film directed by Daniel Pace."
+  },
+  {
+   "key": "w_nightskies",
+   "type": "work",
+   "name": "Night Skies",
+   "description": "Horror movie featuring the lights."
+  },
+  {
+   "key": "connery",
+   "type": "person",
+   "name": "Jason Connery",
+   "description": "Actor starring in the film Night Skies."
+  },
+  {
+   "key": "cook",
+   "type": "person",
+   "name": "A.J. Cook",
+   "description": "Actor starring in the film Night Skies."
+  },
+  {
+   "key": "peldon",
+   "type": "person",
+   "name": "Ashley Peldon",
+   "description": "Actor starring in the film Night Skies."
+  },
+  {
+   "key": "w_theycame",
+   "type": "work",
+   "name": "They Came from Outer Space",
+   "aliases": [
+    "Phoenix Lights The Movie"
+   ],
+   "description": "Science-fiction thriller previously titled Phoenix Lights The Movie."
+  },
+  {
+   "key": "beck",
+   "type": "person",
+   "name": "Ossie Beck",
+   "description": "Actor starring in the film They Came from Outer Space."
+  },
+  {
+   "key": "firgens",
+   "type": "person",
+   "name": "Mackenzie Firgens",
+   "description": "Actor starring in the film They Came from Outer Space."
+  },
+  {
+   "key": "rachelle",
+   "type": "person",
+   "name": "Yvette Rachelle",
+   "description": "Actor starring in the film They Came from Outer Space."
+  },
+  {
+   "key": "mercer",
+   "type": "person",
+   "name": "Matt Mercer",
+   "description": "Actor starring in the film They Came from Outer Space."
+  },
+  {
+   "key": "alba",
+   "type": "person",
+   "name": "Terin Alba",
+   "description": "Actor starring in the film They Came from Outer Space."
+  },
+  {
+   "key": "gains",
+   "type": "person",
+   "name": "Courtney Gains",
+   "description": "Actor starring in the film They Came from Outer Space."
+  },
+  {
+   "key": "arnold",
+   "type": "person",
+   "name": "Mark Arnold",
+   "description": "Actor starring in the film They Came from Outer Space."
+  },
+  {
+   "key": "lemelle",
+   "type": "person",
+   "name": "Michael LeMelle",
+   "description": "Actor starring in the film They Came from Outer Space."
+  },
+  {
+   "key": "mills",
+   "type": "person",
+   "name": "Aaron Mills",
+   "description": "Actor starring in the film They Came from Outer Space."
+  },
+  {
+   "key": "amsden",
+   "type": "person",
+   "name": "Luke Amsden",
+   "description": "Actor starring in the film They Came from Outer Space."
+  },
+  {
+   "key": "w_incident",
+   "type": "work",
+   "name": "The Phoenix Incident",
+   "description": "Science-fiction conspiracy horror film released in 2015."
+  },
+  {
+   "key": "w_tapes",
+   "type": "work",
+   "name": "The Phoenix Tapes '97",
+   "description": "Found footage science-fiction horror film released in 2016."
+  },
+  {
+   "key": "w_forgotten",
+   "type": "work",
+   "name": "Phoenix Forgotten",
+   "description": "Found footage science-fiction horror film released in 2017."
+  },
+  {
+   "key": "w_star",
+   "type": "work",
+   "name": "Star people",
+   "description": "Science-fiction drama released in 2025."
+  },
+  {
+   "key": "w_nuforc",
+   "type": "work",
+   "name": "National UFO Reporting Center Special Report: Phoenix Lights – 2 Years Later",
+   "description": "Special report on the case by Peter Davenport."
+  },
+  {
+   "key": "w_callahan",
+   "type": "work",
+   "name": "The Phoenix Lights: The Fallibility of Human Perception and Memory",
+   "description": "Article on the case by Tim Callahan."
+  },
+  {
+   "key": "case2007",
+   "type": "case",
+   "name": "Phoenix lights reports of February 6, 2007",
+   "description": "Lights reported and recorded over the Phoenix area on February 6, 2007, attributed to flares dropped by F-16 aircraft."
+  },
+  {
+   "key": "case2008",
+   "type": "case",
+   "name": "Phoenix lights reports of April 21, 2008",
+   "description": "Lights reported over Phoenix on April 21, 2008, attributed to flares attached to helium balloons released by a resident."
+  },
+  {
+   "key": "hessdalen",
+   "type": "case",
+   "name": "Hessdalen lights",
+   "description": "Lights listed under See also."
+  },
+  {
+   "key": "marfa",
+   "type": "case",
+   "name": "Marfa lights",
+   "description": "Lights listed under See also."
+  },
+  {
+   "key": "tinley",
+   "type": "case",
+   "name": "Tinley Park Lights",
+   "description": "Lights listed under See also."
+  },
+  {
+   "key": "rhodes",
+   "type": "case",
+   "name": "Rhodes UFO photographs",
+   "description": "Photographs taken in Phoenix during the 1947 flying disc craze."
+  },
+  {
+   "key": "craze1947",
+   "type": "case",
+   "name": "1947 flying disc craze",
+   "description": "1947 wave of flying disc reports during which the Rhodes UFO photographs were taken."
+  },
+  {
+   "key": "f_lights_only",
+   "type": "feature",
+   "name": "lights-only",
+   "description": "Feature reported in the source."
+  },
+  {
+   "key": "f_shape_triangle",
+   "type": "feature",
+   "name": "shape-triangle",
+   "description": "Feature reported in the source."
+  },
+  {
+   "key": "f_shape_boomerang",
+   "type": "feature",
+   "name": "shape-boomerang",
+   "description": "Feature reported in the source."
+  },
+  {
+   "key": "f_other_carpenter's_square_shape",
+   "type": "feature",
+   "name": "other:carpenter's square shape",
+   "description": "Feature reported in the source."
+  },
+  {
+   "key": "f_hovering",
+   "type": "feature",
+   "name": "hovering",
+   "description": "Feature reported in the source."
+  },
+  {
+   "key": "f_silent",
+   "type": "feature",
+   "name": "silent",
+   "description": "Feature reported in the source."
+  },
+  {
+   "key": "f_photograph",
+   "type": "feature",
+   "name": "photograph",
+   "description": "Feature reported in the source."
+  },
+  {
+   "key": "f_film_or_video",
+   "type": "feature",
+   "name": "film-or-video",
+   "description": "Feature reported in the source."
+  },
+  {
+   "key": "f_multiple_witnesses",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "Feature reported in the source."
+  },
+  {
+   "key": "f_mass_sighting",
+   "type": "feature",
+   "name": "mass-sighting",
+   "description": "Feature reported in the source."
+  },
+  {
+   "key": "f_pilot_witnesses",
+   "type": "feature",
+   "name": "pilot-witnesses",
+   "description": "Feature reported in the source."
+  },
+  {
+   "key": "x_conventional_aircraft",
+   "type": "explanation",
+   "name": "conventional-aircraft",
+   "description": "Formation of A-10 Thunderbolt II military aircraft."
+  },
+  {
+   "key": "x_flares",
+   "type": "explanation",
+   "name": "flares",
+   "description": "Illumination flares dropped by A-10 aircraft."
+  },
+  {
+   "key": "x_military_test_or_exercise",
+   "type": "explanation",
+   "name": "military-test-or-exercise",
+   "description": "Operation Snowbird training flights and flare drop exercise."
+  },
+  {
+   "key": "x_secret_aircraft",
+   "type": "explanation",
+   "name": "secret-aircraft",
+   "description": "Large experimental lighter-than-air craft possibly in use by the military."
+  },
+  {
+   "key": "x_misperception",
+   "type": "explanation",
+   "name": "misperception",
+   "description": "Illusion created by mountains obstructing the view of flares; flares appearing to hover."
+  },
+  {
+   "key": "x_balloon",
+   "type": "explanation",
+   "name": "balloon",
+   "description": "Helium balloons with flares attached, released by a civilian (2008 reports)."
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1997-03-13",
+   "quote": "The Phoenix Lights (sometimes called the \"Lights Over Phoenix\") were a series of widely sighted unidentified flying objects observed in the skies over the southwestern U.S. states of Arizona and Nevada on March 13, 1997."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1997-03-13",
+   "quote": "The Phoenix Lights (sometimes called the \"Lights Over Phoenix\") were a series of widely sighted unidentified flying objects observed in the skies over the southwestern U.S. states of Arizona and Nevada on March 13, 1997."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "7:55 p.m. MST",
+   "quote": "On March 13, 1997, at 7:55 p.m. MST, a witness in Henderson, Nevada, reported seeing a large, V-shaped object traveling southeast."
+  },
+  {
+   "s": "case",
+   "p": "time_window",
+   "v": "between 7:30 and 10:30 p.m. MST",
+   "quote": "Lights of varying descriptions were seen between 7:30–10:30 p.m. MST, in a space of about 300 miles (480 km), from the Nevada line, through Phoenix, to the edge of Tucson."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "The Phoenix Lights (sometimes called the \"Lights Over Phoenix\") were a series of widely sighted unidentified flying objects observed in the skies over the southwestern U.S. states of Arizona and Nevada on March 13, 1997."
+  },
+  {
+   "s": "case",
+   "p": "region",
+   "v": "southwestern U.S. states of Arizona and Nevada",
+   "quote": "The Phoenix Lights (sometimes called the \"Lights Over Phoenix\") were a series of widely sighted unidentified flying objects observed in the skies over the southwestern U.S. states of Arizona and Nevada on March 13, 1997."
+  },
+  {
+   "s": "case",
+   "p": "alternate_name",
+   "v": "Lights Over Phoenix",
+   "quote": "The Phoenix Lights (sometimes called the \"Lights Over Phoenix\") were a series of widely sighted unidentified flying objects observed in the skies over the southwestern U.S. states of Arizona and Nevada on March 13, 1997."
+  },
+  {
+   "s": "case",
+   "p": "extent",
+   "v": "about 300 miles (480 km), from the Nevada line, through Phoenix, to the edge of Tucson",
+   "quote": "Lights of varying descriptions were seen between 7:30–10:30 p.m. MST, in a space of about 300 miles (480 km), from the Nevada line, through Phoenix, to the edge of Tucson."
+  },
+  {
+   "s": "case",
+   "p": "duration",
+   "v": "7:30-10:30 p.m. MST",
+   "quote": "Lights of varying descriptions were seen between 7:30–10:30 p.m. MST, in a space of about 300 miles (480 km), from the Nevada line, through Phoenix, to the edge of Tucson."
+  },
+  {
+   "s": "case",
+   "p": "number_of_events",
+   "v": "two distinct events: a triangular formation of lights passing over the state, and a series of stationary lights in the Phoenix area",
+   "quote": "There were two distinct events involved in the incident: a triangular formation of lights seen to pass over the state, and a series of stationary lights seen in the Phoenix area."
+  },
+  {
+   "s": "case",
+   "p": "witnesses",
+   "v": "widely sighted",
+   "quote": "The Phoenix Lights (sometimes called the \"Lights Over Phoenix\") were a series of widely sighted unidentified flying objects observed in the skies over the southwestern U.S. states of Arizona and Nevada on March 13, 1997."
+  },
+  {
+   "s": "case",
+   "p": "witnesses",
+   "v": "a large number of people in the Phoenix area",
+   "quote": "At approximately 10:00 that same evening, a large number of people in the Phoenix area reported seeing \"a row of brilliant lights hovering in the sky, or slowly falling\"."
+  },
+  {
+   "s": "case",
+   "p": "reputation",
+   "v": "perhaps the most widely witnessed UFO event in history (Robert Sheaffer)",
+   "quote": "A number of photographs and videos were taken, prompting author Robert Sheaffer to describe it as \"perhaps the most widely witnessed UFO event in history\"."
+  },
+  {
+   "s": "case",
+   "p": "first_report",
+   "v": "7:55 p.m. MST: a witness in Henderson, Nevada, reported a large, V-shaped object traveling southeast",
+   "quote": "On March 13, 1997, at 7:55 p.m. MST, a witness in Henderson, Nevada, reported seeing a large, V-shaped object traveling southeast."
+  },
+  {
+   "s": "case",
+   "p": "second_report",
+   "v": "8:15 p.m.: an unidentified former police officer in Paulden, Arizona, reported a cluster of reddish-orange lights disappearing over the southern horizon",
+   "quote": "At 8:15 p.m., an unidentified former police officer in Paulden, Arizona, reported seeing a cluster of reddish-orange lights disappear over the southern horizon."
+  },
+  {
+   "s": "case",
+   "p": "later_reports",
+   "v": "shortly afterward, lights reported over the Prescott Valley, Arizona",
+   "quote": "Shortly afterward, there were reports of lights seen over the Prescott Valley, Arizona."
+  },
+  {
+   "s": "case",
+   "p": "glendale_sighting",
+   "v": "between 8:30 and 8:45 p.m., witnesses in Glendale saw the light formation pass overhead, high enough to be obscured by thin clouds",
+   "quote": "Between 8:30 and 8:45 p.m., witnesses in Glendale, a suburb northwest of Phoenix, saw the light formation pass overhead at an altitude high enough to become obscured by the thin clouds."
+  },
+  {
+   "s": "case",
+   "p": "weather",
+   "v": "thin clouds",
+   "quote": "Between 8:30 and 8:45 p.m., witnesses in Glendale, a suburb northwest of Phoenix, saw the light formation pass overhead at an altitude high enough to become obscured by the thin clouds."
+  },
+  {
+   "s": "case",
+   "p": "first_incident_start",
+   "v": "approximately 8:00 p.m.",
+   "quote": "The first incident, often perceived as a large “flying triangle” by witnesses, began at approximately 8:00 p.m., and was due to five A-10 jets from Operation Snowbird following an assigned air traffic corridor and flying under visual flight rules."
+  },
+  {
+   "s": "case",
+   "p": "second_incident_start",
+   "v": "approximately 10:00 p.m.",
+   "quote": "The second incident, described as \"a row of brilliant lights hovering in the sky, or slowly falling\" began at approximately 10:00 p.m., and was due to a flare drop exercise by different A-10 jets from the Maryland Air National Guard, also operating out of Davis-Monthan AFB as part of Operation Snowbird."
+  },
+  {
+   "s": "case",
+   "p": "second_incident_time",
+   "v": "approximately 10:00 that same evening",
+   "quote": "At approximately 10:00 that same evening, a large number of people in the Phoenix area reported seeing \"a row of brilliant lights hovering in the sky, or slowly falling\"."
+  },
+  {
+   "s": "case",
+   "p": "official_explanation",
+   "v": "both sightings due to aircraft participating in Operation Snowbird",
+   "quote": "Both sightings were due to aircraft participating in Operation Snowbird, a pilot training program operated in winter by the Air National Guard out of Davis-Monthan Air Force Base in Tucson, Arizona."
+  },
+  {
+   "s": "case",
+   "p": "first_incident_cause",
+   "v": "five A-10 jets from Operation Snowbird following an assigned air traffic corridor under visual flight rules",
+   "quote": "The first incident, often perceived as a large “flying triangle” by witnesses, began at approximately 8:00 p.m., and was due to five A-10 jets from Operation Snowbird following an assigned air traffic corridor and flying under visual flight rules."
+  },
+  {
+   "s": "case",
+   "p": "aircraft_lighting",
+   "v": "A-10 formation displayed steady formation lights rather than blinking collision lights",
+   "quote": "Federal Aviation Administration (FAA) rules concerning private and commercial aircraft do not apply to military aircraft, so the A-10 formation displayed steady formation lights rather than blinking collision lights."
+  },
+  {
+   "s": "case",
+   "p": "formation_landing",
+   "v": "formation flew over Phoenix and on to Tucson, landing at Davis-Monthan AFB at about 8:45 p.m.",
+   "quote": "The formation flew over Phoenix and on to Tucson, landing at Davis-Monthan AFB at about 8:45 p.m."
+  },
+  {
+   "s": "case",
+   "p": "second_incident_cause",
+   "v": "flare drop exercise by different A-10 jets from the Maryland Air National Guard",
+   "quote": "The second incident, described as \"a row of brilliant lights hovering in the sky, or slowly falling\" began at approximately 10:00 p.m., and was due to a flare drop exercise by different A-10 jets from the Maryland Air National Guard, also operating out of Davis-Monthan AFB as part of Operation Snowbird."
+  },
+  {
+   "s": "case",
+   "p": "flare_type",
+   "v": "slow-falling, long-burning LUU-2B/B illumination flares",
+   "quote": "The U.S. Air Force explained the exercise as utilizing slow-falling, long-burning LUU-2B/B illumination flares dropped by a flight of four A-10 aircraft on a training exercise at the Barry M. Goldwater Air Force Range in western Pima County, Arizona."
+  },
+  {
+   "s": "case",
+   "p": "flare_aircraft_count",
+   "v": "a flight of four A-10 aircraft",
+   "quote": "The U.S. Air Force explained the exercise as utilizing slow-falling, long-burning LUU-2B/B illumination flares dropped by a flight of four A-10 aircraft on a training exercise at the Barry M. Goldwater Air Force Range in western Pima County, Arizona."
+  },
+  {
+   "s": "case",
+   "p": "hover_explanation",
+   "v": "flares appeared to hover because rising heat created a \"balloon\" effect on their parachutes, slowing the descent",
+   "quote": "The flares would have been visible in Phoenix and appeared to hover due to rising heat from the burning flares creating a \"balloon\" effect on their parachutes, which slowed the descent."
+  },
+  {
+   "s": "case",
+   "p": "disappearance_explanation",
+   "v": "lights appeared to wink out as they fell behind the Sierra Estrella mountain range",
+   "quote": "The lights then appeared to wink out as they fell behind the Sierra Estrella mountain range to the southwest of Phoenix."
+  },
+  {
+   "s": "case",
+   "p": "star_blocking_explanation",
+   "v": "lights likely appeared to block out background stars because of their brightness",
+   "quote": "The lights likely appeared to block out background stars because of their brightness, making it harder to see dim objects like stars in the areas they laid out."
+  },
+  {
+   "s": "case",
+   "p": "flare_comparison",
+   "v": "local television stations reported comparisons showing similarities between known military flare drops and the Phoenix Lights",
+   "quote": "Later comparisons with known military flare drops were reported on local television stations, showing similarities between the known military flare drops and the Phoenix Lights."
+  },
+  {
+   "s": "case",
+   "p": "luminosity_analysis",
+   "v": "luminosity of LUU-2B/B flares at approximately 50-70 miles (80-113 km) would fall well within the range of the lights viewed from Phoenix",
+   "quote": "An analysis of the luminosity of LUU-2B/B illumination flares, the type which would have been in use by A-10 aircraft at the time, determined that the luminosity of such flares at a range of approximately 50–70 miles (80–113 km) would fall well within the range of the lights viewed from Phoenix."
+  },
+  {
+   "s": "case",
+   "p": "first_attribution_report",
+   "v": "first reports that Maryland ANG members were responsible were published in The Arizona Republic in July 1997",
+   "quote": "The first reports that members of the Maryland ANG were responsible for the incident were published in The Arizona Republic in July 1997."
+  },
+  {
+   "s": "case",
+   "p": "alternate_hypothesis",
+   "v": "the chevron-shaped formation was a large, experimental lighter-than-air craft (\"blimp\" hypothesis)",
+   "quote": "Alternate skeptical explanations were proposed in the years following the incident, one such hypothesis being that the chevron-shaped formation that some eyewitnesses reported observing was instead a large, experimental lighter-than-air craft."
+  },
+  {
+   "s": "case",
+   "p": "photo_explanation",
+   "v": "mountains not visible by night partially obstructed the view of aircraft flares, creating the illusion of an arc of lights appearing and disappearing one by one",
+   "quote": "The images were later determined to be the result of mountains not visible by night that partially obstructed the view of aircraft flares from certain angles to create the illusion of an arc of lights appearing and disappearing one by one."
+  },
+  {
+   "s": "case",
+   "p": "press_conference",
+   "v": "Governor Symington held a press conference shortly after the incident, revealing an aide dressed in an alien costume",
+   "quote": "Shortly after the 1997 incident, Arizona Governor Fife Symington III held a press conference, joking that \"they found who was responsible\" and revealing an aide dressed in an alien costume."
+  },
+  {
+   "s": "case",
+   "p": "air_traffic_control_report",
+   "v": "Kurt Russell reported seeing the lights to air traffic control",
+   "quote": "Actor Kurt Russell, an amateur pilot, then reported seeing the lights to air traffic control."
+  },
+  {
+   "s": "case",
+   "p": "later_similar_reports",
+   "v": "similar lights reported in 2007 and 2008, attributed to military flares and to flares attached to helium balloons released by a civilian",
+   "quote": "Reports of similar lights arose in 2007 and 2008 and were attributed to military flares dropped by fighter aircraft at Luke Air Force Base, and flares attached to helium balloons released by a civilian, respectively."
+  },
+  {
+   "s": "case",
+   "p": "see_also",
+   "v": "Black triangle (UFO)",
+   "quote": "Black triangle (UFO)"
+  },
+  {
+   "s": "case",
+   "p": "see_also",
+   "v": "Black project",
+   "quote": "Black project"
+  },
+  {
+   "s": "c_formation",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "There were two distinct events involved in the incident: a triangular formation of lights seen to pass over the state, and a series of stationary lights seen in the Phoenix area."
+  },
+  {
+   "s": "c_row",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "There were two distinct events involved in the incident: a triangular formation of lights seen to pass over the state, and a series of stationary lights seen in the Phoenix area."
+  },
+  {
+   "s": "c_paulden",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "At 8:15 p.m., an unidentified former police officer in Paulden, Arizona, reported seeing a cluster of reddish-orange lights disappear over the southern horizon."
+  },
+  {
+   "s": "c_formation",
+   "p": "shape",
+   "v": "triangular formation of lights",
+   "quote": "There were two distinct events involved in the incident: a triangular formation of lights seen to pass over the state, and a series of stationary lights seen in the Phoenix area."
+  },
+  {
+   "s": "c_formation",
+   "p": "shape",
+   "v": "huge carpenter's square-shaped UFO",
+   "quote": "Some witnesses described seeing what appeared to be a huge carpenter's square-shaped UFO containing five spherical lights."
+  },
+  {
+   "s": "c_formation",
+   "p": "light_count",
+   "v": "five spherical lights",
+   "quote": "Some witnesses described seeing what appeared to be a huge carpenter's square-shaped UFO containing five spherical lights."
+  },
+  {
+   "s": "c_formation",
+   "p": "size",
+   "v": "huge",
+   "quote": "Some witnesses described seeing what appeared to be a huge carpenter's square-shaped UFO containing five spherical lights."
+  },
+  {
+   "s": "c_formation",
+   "p": "shape",
+   "v": "large, V-shaped object",
+   "quote": "On March 13, 1997, at 7:55 p.m. MST, a witness in Henderson, Nevada, reported seeing a large, V-shaped object traveling southeast."
+  },
+  {
+   "s": "c_formation",
+   "p": "size",
+   "v": "large",
+   "quote": "On March 13, 1997, at 7:55 p.m. MST, a witness in Henderson, Nevada, reported seeing a large, V-shaped object traveling southeast."
+  },
+  {
+   "s": "c_formation",
+   "p": "direction",
+   "v": "traveling southeast",
+   "quote": "On March 13, 1997, at 7:55 p.m. MST, a witness in Henderson, Nevada, reported seeing a large, V-shaped object traveling southeast."
+  },
+  {
+   "s": "c_formation",
+   "p": "initial_appearance",
+   "v": "five separate and distinct lights in an arc shape, as if on top of a balloon",
+   "quote": "At first, the lights appeared to them as five separate and distinct lights in an arc shape, as if they were on top of a balloon, but they soon realized that the lights appeared to be moving towards them."
+  },
+  {
+   "s": "c_formation",
+   "p": "shape",
+   "v": "upside-down V",
+   "quote": "Over the next ten or so minutes, the lights appeared to come closer, the distance between the lights increased, and they took on the shape of an upside-down V."
+  },
+  {
+   "s": "c_formation",
+   "p": "observation_duration",
+   "v": "ten or so minutes",
+   "quote": "Over the next ten or so minutes, the lights appeared to come closer, the distance between the lights increased, and they took on the shape of an upside-down V."
+  },
+  {
+   "s": "c_formation",
+   "p": "shape",
+   "v": "60-degree carpenter's square with five lights set into it",
+   "quote": "Eventually when the lights appeared to be a couple of miles away, the family said they could make out a shape that looked like a 60-degree carpenter's square, with the five lights set into it, with one at the front and two on each side."
+  },
+  {
+   "s": "c_formation",
+   "p": "light_arrangement",
+   "v": "one light at the front and two on each side",
+   "quote": "Eventually when the lights appeared to be a couple of miles away, the family said they could make out a shape that looked like a 60-degree carpenter's square, with the five lights set into it, with one at the front and two on each side."
+  },
+  {
+   "s": "c_formation",
+   "p": "distance",
+   "v": "about 65 miles (105 km) away when first seen by the Ley family",
+   "quote": "Tim Ley and his wife Bobbi, his son Hal and his grandson Damien Turnidge first saw the lights when they were about 65 miles (105 km) away from them."
+  },
+  {
+   "s": "c_formation",
+   "p": "distance",
+   "v": "a couple of miles away when the shape was made out",
+   "quote": "Eventually when the lights appeared to be a couple of miles away, the family said they could make out a shape that looked like a 60-degree carpenter's square, with the five lights set into it, with one at the front and two on each side."
+  },
+  {
+   "s": "c_formation",
+   "p": "altitude",
+   "v": "about 100 to 150 feet (30 to 46 m) above the Ley family",
+   "quote": "Soon, the object with the embedded lights appeared to be moving toward them, about 100 to 150 feet (30 to 46 m) above them, traveling so slowly that it gave the appearance of a silent hovering object"
+  },
+  {
+   "s": "c_formation",
+   "p": "speed",
+   "v": "traveling so slowly that it gave the appearance of a hovering object",
+   "quote": "Soon, the object with the embedded lights appeared to be moving toward them, about 100 to 150 feet (30 to 46 m) above them, traveling so slowly that it gave the appearance of a silent hovering object"
+  },
+  {
+   "s": "c_formation",
+   "p": "sound",
+   "v": "silent",
+   "quote": "Soon, the object with the embedded lights appeared to be moving toward them, about 100 to 150 feet (30 to 46 m) above them, traveling so slowly that it gave the appearance of a silent hovering object"
+  },
+  {
+   "s": "c_formation",
+   "p": "path",
+   "v": "passed over their heads and through a V opening in the mountain peaks towards Piestewa Peak and Phoenix Sky Harbor International Airport",
+   "quote": "which seemed to pass over their heads and went through a V opening in the peaks of the mountain range towards Piestewa Peak Mountain and toward the direction of Phoenix Sky Harbor International Airport."
+  },
+  {
+   "s": "c_formation",
+   "p": "altitude",
+   "v": "high enough to become obscured by thin clouds (Glendale witnesses)",
+   "quote": "Between 8:30 and 8:45 p.m., witnesses in Glendale, a suburb northwest of Phoenix, saw the light formation pass overhead at an altitude high enough to become obscured by the thin clouds."
+  },
+  {
+   "s": "c_formation",
+   "p": "telescope_observation",
+   "v": "high altitude lights \"flying in formation\"; quite clearly individual airplanes (Mitch Stanley)",
+   "quote": "Amateur astronomer Mitch Stanley in Scottsdale, Arizona, also observed the high altitude lights \"flying in formation\" through a telescope."
+  },
+  {
+   "s": "c_formation",
+   "p": "shape",
+   "v": "large \"flying triangle\"",
+   "quote": "The first incident, often perceived as a large “flying triangle” by witnesses, began at approximately 8:00 p.m., and was due to five A-10 jets from Operation Snowbird following an assigned air traffic corridor and flying under visual flight rules."
+  },
+  {
+   "s": "c_formation",
+   "p": "shape",
+   "v": "chevron-shaped formation",
+   "quote": "Alternate skeptical explanations were proposed in the years following the incident, one such hypothesis being that the chevron-shaped formation that some eyewitnesses reported observing was instead a large, experimental lighter-than-air craft."
+  },
+  {
+   "s": "c_formation",
+   "p": "identification",
+   "v": "formation of A-10 Thunderbolt II aircraft returning to Davis-Monthan",
+   "quote": "The first light group was later identified as a formation of A-10 Thunderbolt II aircraft flying over Phoenix while returning to Davis-Monthan."
+  },
+  {
+   "s": "c_formation",
+   "p": "size",
+   "v": "bigger than anything that I've ever seen (Symington)",
+   "quote": "According to Symington, \"I'm a pilot and I know just about every machine that flies. It was bigger than anything that I've ever seen. It remains a great mystery. Other people saw it, responsible people... I don't know why people would ridicule it\"."
+  },
+  {
+   "s": "c_row",
+   "p": "appearance",
+   "v": "a row of brilliant lights hovering in the sky, or slowly falling",
+   "quote": "At approximately 10:00 that same evening, a large number of people in the Phoenix area reported seeing \"a row of brilliant lights hovering in the sky, or slowly falling\"."
+  },
+  {
+   "s": "c_row",
+   "p": "motion",
+   "v": "stationary",
+   "quote": "There were two distinct events involved in the incident: a triangular formation of lights seen to pass over the state, and a series of stationary lights seen in the Phoenix area."
+  },
+  {
+   "s": "c_row",
+   "p": "time_seen",
+   "v": "approximately 10:00 p.m.",
+   "quote": "The second incident, described as \"a row of brilliant lights hovering in the sky, or slowly falling\" began at approximately 10:00 p.m., and was due to a flare drop exercise by different A-10 jets from the Maryland Air National Guard, also operating out of Davis-Monthan AFB as part of Operation Snowbird."
+  },
+  {
+   "s": "c_row",
+   "p": "behavior",
+   "v": "series of lights appearing at a regular interval, remaining illuminated for several moments, and then going out",
+   "quote": "During the Phoenix event, numerous still photographs and videotapes were made showing a series of lights appearing at a regular interval, remaining illuminated for several moments, and then going out."
+  },
+  {
+   "s": "c_row",
+   "p": "behavior",
+   "v": "appeared to wink out",
+   "quote": "The lights then appeared to wink out as they fell behind the Sierra Estrella mountain range to the southwest of Phoenix."
+  },
+  {
+   "s": "c_row",
+   "p": "identification",
+   "v": "illumination flares dropped by a flight of A-10 aircraft",
+   "quote": "The second group of lights were identified by Robert Sheaffer as illumination flares dropped by another flight of A-10 aircraft that were on training exercises at the Barry Goldwater Range in southwest Arizona."
+  },
+  {
+   "s": "c_paulden",
+   "p": "color",
+   "v": "reddish-orange",
+   "quote": "At 8:15 p.m., an unidentified former police officer in Paulden, Arizona, reported seeing a cluster of reddish-orange lights disappear over the southern horizon."
+  },
+  {
+   "s": "c_paulden",
+   "p": "time_seen",
+   "v": "8:15 p.m.",
+   "quote": "At 8:15 p.m., an unidentified former police officer in Paulden, Arizona, reported seeing a cluster of reddish-orange lights disappear over the southern horizon."
+  },
+  {
+   "s": "c_paulden",
+   "p": "motion",
+   "v": "disappeared over the southern horizon",
+   "quote": "At 8:15 p.m., an unidentified former police officer in Paulden, Arizona, reported seeing a cluster of reddish-orange lights disappear over the southern horizon."
+  },
+  {
+   "s": "c_paulden",
+   "p": "witness_description",
+   "v": "an unidentified former police officer",
+   "quote": "At 8:15 p.m., an unidentified former police officer in Paulden, Arizona, reported seeing a cluster of reddish-orange lights disappear over the southern horizon."
+  },
+  {
+   "s": "sheaffer",
+   "p": "commentator",
+   "o": "case",
+   "quote": "A number of photographs and videos were taken, prompting author Robert Sheaffer to describe it as \"perhaps the most widely witnessed UFO event in history\"."
+  },
+  {
+   "s": "sheaffer",
+   "p": "occupation",
+   "v": "author",
+   "quote": "A number of photographs and videos were taken, prompting author Robert Sheaffer to describe it as \"perhaps the most widely witnessed UFO event in history\"."
+  },
+  {
+   "s": "sheaffer",
+   "p": "statement",
+   "v": "perhaps the most widely witnessed UFO event in history",
+   "quote": "A number of photographs and videos were taken, prompting author Robert Sheaffer to describe it as \"perhaps the most widely witnessed UFO event in history\"."
+  },
+  {
+   "s": "sheaffer",
+   "p": "statement",
+   "v": "the incident consists of two unrelated incidents, both the result of activities of Operation Snowbird",
+   "quote": "According to Sheaffer, what became known as \"the Phoenix Lights\" incident of 1997 \"consists of two unrelated incidents, although both were the result of activities of the same organization: Operation Snowbird, a pilot training program operated in the winter by the Air National Guard, out of Davis-Monthan Air Force Base in Tucson, Arizona.\""
+  },
+  {
+   "s": "symington",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Shortly after the 1997 incident, Arizona Governor Fife Symington III held a press conference, joking that \"they found who was responsible\" and revealing an aide dressed in an alien costume."
+  },
+  {
+   "s": "symington",
+   "p": "witness",
+   "o": "case",
+   "quote": "Fife Symington, governor of Arizona at the time, years later recounted witnessing the incident, describing it as \"otherworldly.\""
+  },
+  {
+   "s": "symington",
+   "p": "occupation",
+   "v": "Governor of Arizona at the time",
+   "quote": "Fife Symington, governor of Arizona at the time, years later recounted witnessing the incident, describing it as \"otherworldly.\""
+  },
+  {
+   "s": "symington",
+   "p": "title",
+   "v": "Arizona Governor",
+   "quote": "Shortly after the 1997 incident, Arizona Governor Fife Symington III held a press conference, joking that \"they found who was responsible\" and revealing an aide dressed in an alien costume."
+  },
+  {
+   "s": "symington",
+   "p": "later_claim",
+   "v": "years later recounted witnessing the incident, describing it as \"otherworldly\"",
+   "quote": "Fife Symington, governor of Arizona at the time, years later recounted witnessing the incident, describing it as \"otherworldly.\""
+  },
+  {
+   "s": "symington",
+   "p": "statement",
+   "v": "joked that \"they found who was responsible\" while revealing an aide dressed in an alien costume",
+   "quote": "Shortly after the 1997 incident, Arizona Governor Fife Symington III held a press conference, joking that \"they found who was responsible\" and revealing an aide dressed in an alien costume."
+  },
+  {
+   "s": "symington",
+   "p": "later_claim",
+   "v": "in 2007 reportedly told a UFO investigator he'd had a personal close encounter with an alien spacecraft",
+   "quote": "Later, in 2007, Symington reportedly told a UFO investigator he'd had a personal close encounter with an alien spacecraft but remained silent \"because he didn't want to panic the populace\"."
+  },
+  {
+   "s": "symington",
+   "p": "reason_for_silence",
+   "v": "because he didn't want to panic the populace",
+   "quote": "Later, in 2007, Symington reportedly told a UFO investigator he'd had a personal close encounter with an alien spacecraft but remained silent \"because he didn't want to panic the populace\"."
+  },
+  {
+   "s": "symington",
+   "p": "statement",
+   "v": "I'm a pilot and I know just about every machine that flies. It was bigger than anything that I've ever seen. It remains a great mystery.",
+   "quote": "According to Symington, \"I'm a pilot and I know just about every machine that flies. It was bigger than anything that I've ever seen. It remains a great mystery. Other people saw it, responsible people... I don't know why people would ridicule it\"."
+  },
+  {
+   "s": "symington",
+   "p": "occupation",
+   "v": "pilot",
+   "quote": "According to Symington, \"I'm a pilot and I know just about every machine that flies. It was bigger than anything that I've ever seen. It remains a great mystery. Other people saw it, responsible people... I don't know why people would ridicule it\"."
+  },
+  {
+   "s": "symington",
+   "p": "described",
+   "o": "c_formation",
+   "quote": "According to Symington, \"I'm a pilot and I know just about every machine that flies. It was bigger than anything that I've ever seen. It remains a great mystery. Other people saw it, responsible people... I don't know why people would ridicule it\"."
+  },
+  {
+   "s": "tley",
+   "p": "witness",
+   "o": "case",
+   "quote": "Tim Ley and his wife Bobbi, his son Hal and his grandson Damien Turnidge first saw the lights when they were about 65 miles (105 km) away from them."
+  },
+  {
+   "s": "tley",
+   "p": "described",
+   "o": "c_formation",
+   "quote": "Eventually when the lights appeared to be a couple of miles away, the family said they could make out a shape that looked like a 60-degree carpenter's square, with the five lights set into it, with one at the front and two on each side."
+  },
+  {
+   "s": "bley",
+   "p": "witness",
+   "o": "case",
+   "quote": "Tim Ley and his wife Bobbi, his son Hal and his grandson Damien Turnidge first saw the lights when they were about 65 miles (105 km) away from them."
+  },
+  {
+   "s": "bley",
+   "p": "described",
+   "o": "c_formation",
+   "quote": "Eventually when the lights appeared to be a couple of miles away, the family said they could make out a shape that looked like a 60-degree carpenter's square, with the five lights set into it, with one at the front and two on each side."
+  },
+  {
+   "s": "hley",
+   "p": "witness",
+   "o": "case",
+   "quote": "Tim Ley and his wife Bobbi, his son Hal and his grandson Damien Turnidge first saw the lights when they were about 65 miles (105 km) away from them."
+  },
+  {
+   "s": "hley",
+   "p": "described",
+   "o": "c_formation",
+   "quote": "Eventually when the lights appeared to be a couple of miles away, the family said they could make out a shape that looked like a 60-degree carpenter's square, with the five lights set into it, with one at the front and two on each side."
+  },
+  {
+   "s": "turnidge",
+   "p": "witness",
+   "o": "case",
+   "quote": "Tim Ley and his wife Bobbi, his son Hal and his grandson Damien Turnidge first saw the lights when they were about 65 miles (105 km) away from them."
+  },
+  {
+   "s": "turnidge",
+   "p": "described",
+   "o": "c_formation",
+   "quote": "Eventually when the lights appeared to be a couple of miles away, the family said they could make out a shape that looked like a 60-degree carpenter's square, with the five lights set into it, with one at the front and two on each side."
+  },
+  {
+   "s": "bley",
+   "p": "relative_of",
+   "o": "tley",
+   "quote": "Tim Ley and his wife Bobbi, his son Hal and his grandson Damien Turnidge first saw the lights when they were about 65 miles (105 km) away from them."
+  },
+  {
+   "s": "bley",
+   "p": "relationship",
+   "v": "wife of Tim Ley",
+   "quote": "Tim Ley and his wife Bobbi, his son Hal and his grandson Damien Turnidge first saw the lights when they were about 65 miles (105 km) away from them."
+  },
+  {
+   "s": "hley",
+   "p": "relative_of",
+   "o": "tley",
+   "quote": "Tim Ley and his wife Bobbi, his son Hal and his grandson Damien Turnidge first saw the lights when they were about 65 miles (105 km) away from them."
+  },
+  {
+   "s": "hley",
+   "p": "relationship",
+   "v": "son of Tim Ley",
+   "quote": "Tim Ley and his wife Bobbi, his son Hal and his grandson Damien Turnidge first saw the lights when they were about 65 miles (105 km) away from them."
+  },
+  {
+   "s": "turnidge",
+   "p": "relative_of",
+   "o": "tley",
+   "quote": "Tim Ley and his wife Bobbi, his son Hal and his grandson Damien Turnidge first saw the lights when they were about 65 miles (105 km) away from them."
+  },
+  {
+   "s": "turnidge",
+   "p": "relationship",
+   "v": "grandson of Tim Ley",
+   "quote": "Tim Ley and his wife Bobbi, his son Hal and his grandson Damien Turnidge first saw the lights when they were about 65 miles (105 km) away from them."
+  },
+  {
+   "s": "tley",
+   "p": "statement",
+   "v": "the family said they could make out a shape like a 60-degree carpenter's square with five lights set into it",
+   "quote": "Eventually when the lights appeared to be a couple of miles away, the family said they could make out a shape that looked like a 60-degree carpenter's square, with the five lights set into it, with one at the front and two on each side."
+  },
+  {
+   "s": "russell",
+   "p": "witness",
+   "o": "case",
+   "quote": "Actor Kurt Russell, an amateur pilot, then reported seeing the lights to air traffic control."
+  },
+  {
+   "s": "russell",
+   "p": "occupation",
+   "v": "actor",
+   "quote": "Actor Kurt Russell, an amateur pilot, then reported seeing the lights to air traffic control."
+  },
+  {
+   "s": "russell",
+   "p": "occupation",
+   "v": "amateur pilot",
+   "quote": "Actor Kurt Russell, an amateur pilot, then reported seeing the lights to air traffic control."
+  },
+  {
+   "s": "russell",
+   "p": "action",
+   "v": "reported seeing the lights to air traffic control",
+   "quote": "Actor Kurt Russell, an amateur pilot, then reported seeing the lights to air traffic control."
+  },
+  {
+   "s": "stanley",
+   "p": "witness",
+   "o": "case",
+   "quote": "Amateur astronomer Mitch Stanley in Scottsdale, Arizona, also observed the high altitude lights \"flying in formation\" through a telescope."
+  },
+  {
+   "s": "stanley",
+   "p": "occupation",
+   "v": "amateur astronomer",
+   "quote": "Amateur astronomer Mitch Stanley in Scottsdale, Arizona, also observed the high altitude lights \"flying in formation\" through a telescope."
+  },
+  {
+   "s": "stanley",
+   "p": "instrument",
+   "v": "telescope",
+   "quote": "Amateur astronomer Mitch Stanley in Scottsdale, Arizona, also observed the high altitude lights \"flying in formation\" through a telescope."
+  },
+  {
+   "s": "stanley",
+   "p": "statement",
+   "v": "they were quite clearly individual airplanes",
+   "quote": "According to Stanley, they were quite clearly individual airplanes."
+  },
+  {
+   "s": "stanley",
+   "p": "described",
+   "o": "c_formation",
+   "quote": "Amateur astronomer Mitch Stanley in Scottsdale, Arizona, also observed the high altitude lights \"flying in formation\" through a telescope."
+  },
+  {
+   "s": "mcgaha",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Tucson astronomer and retired Air Force pilot James McGaha said he also investigated the two separate sightings and traced them both to A-10 Thunderbolt II aircraft flying in formation at high altitude."
+  },
+  {
+   "s": "mcgaha",
+   "p": "occupation",
+   "v": "astronomer",
+   "quote": "Tucson astronomer and retired Air Force pilot James McGaha said he also investigated the two separate sightings and traced them both to A-10 Thunderbolt II aircraft flying in formation at high altitude."
+  },
+  {
+   "s": "mcgaha",
+   "p": "occupation",
+   "v": "retired Air Force pilot",
+   "quote": "Tucson astronomer and retired Air Force pilot James McGaha said he also investigated the two separate sightings and traced them both to A-10 Thunderbolt II aircraft flying in formation at high altitude."
+  },
+  {
+   "s": "mcgaha",
+   "p": "statement",
+   "v": "investigated the two separate sightings and traced them both to A-10 Thunderbolt II aircraft flying in formation at high altitude",
+   "quote": "Tucson astronomer and retired Air Force pilot James McGaha said he also investigated the two separate sightings and traced them both to A-10 Thunderbolt II aircraft flying in formation at high altitude."
+  },
+  {
+   "s": "jones",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "A Maryland ANG pilot, Lt. Col. Ed Jones, responding to a March 2007 media query, confirmed that he had flown one of the aircraft in the formation that dropped flares on the night in question."
+  },
+  {
+   "s": "jones",
+   "p": "rank",
+   "v": "Lieutenant Colonel",
+   "quote": "A Maryland ANG pilot, Lt. Col. Ed Jones, responding to a March 2007 media query, confirmed that he had flown one of the aircraft in the formation that dropped flares on the night in question."
+  },
+  {
+   "s": "jones",
+   "p": "occupation",
+   "v": "Maryland ANG pilot",
+   "quote": "A Maryland ANG pilot, Lt. Col. Ed Jones, responding to a March 2007 media query, confirmed that he had flown one of the aircraft in the formation that dropped flares on the night in question."
+  },
+  {
+   "s": "jones",
+   "p": "statement",
+   "v": "confirmed, responding to a March 2007 media query, that he had flown one of the aircraft in the formation that dropped flares",
+   "quote": "A Maryland ANG pilot, Lt. Col. Ed Jones, responding to a March 2007 media query, confirmed that he had flown one of the aircraft in the formation that dropped flares on the night in question."
+  },
+  {
+   "s": "peterson",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Although writer Cassie Peterson, when referencing the \"blimp\" hypothesis, asserted that \"in the 20-plus years since the sightings, no evidence of new aircraft of a design or scale that would fit the descriptions provided by witnesses has come to light\""
+  },
+  {
+   "s": "peterson",
+   "p": "occupation",
+   "v": "writer",
+   "quote": "Although writer Cassie Peterson, when referencing the \"blimp\" hypothesis, asserted that \"in the 20-plus years since the sightings, no evidence of new aircraft of a design or scale that would fit the descriptions provided by witnesses has come to light\""
+  },
+  {
+   "s": "peterson",
+   "p": "statement",
+   "v": "in the 20-plus years since the sightings, no evidence of new aircraft of a design or scale that would fit the descriptions provided by witnesses has come to light",
+   "quote": "Although writer Cassie Peterson, when referencing the \"blimp\" hypothesis, asserted that \"in the 20-plus years since the sightings, no evidence of new aircraft of a design or scale that would fit the descriptions provided by witnesses has come to light\""
+  },
+  {
+   "s": "mcgee",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "skeptic Ben McGee pointed to a very large, experimental, V-shaped lighter-than-air craft developed by JP Aerospace."
+  },
+  {
+   "s": "mcgee",
+   "p": "statement",
+   "v": "I would be shocked if the government wasn't using something similar [to the JP Aerospace Ascender], and that's a possible explanation for the Phoenix sighting.",
+   "quote": "I would be shocked if the government wasn't using something similar [to the JP Aerospace Ascender], and that's a possible explanation for the Phoenix sighting."
+  },
+  {
+   "s": "wolchover",
+   "p": "journalist",
+   "o": "case",
+   "quote": "In an interview with science journalist Natalie Wolchover, McGee stated his support for the hypothesis that a ship similar to JP Aerospace's design could have been in use by the military:"
+  },
+  {
+   "s": "wolchover",
+   "p": "occupation",
+   "v": "science journalist",
+   "quote": "In an interview with science journalist Natalie Wolchover, McGee stated his support for the hypothesis that a ship similar to JP Aerospace's design could have been in use by the military:"
+  },
+  {
+   "s": "wolchover",
+   "p": "interviewed",
+   "o": "mcgee",
+   "quote": "In an interview with science journalist Natalie Wolchover, McGee stated his support for the hypothesis that a ship similar to JP Aerospace's design could have been in use by the military:"
+  },
+  {
+   "s": "tingley",
+   "p": "journalist",
+   "o": "case",
+   "quote": "In an interview with science journalist Brett Tingley, JP Aerospace's John Powell, while strongly denying that his company was directly involved, could not dismiss the possibility of the involvement of competitors, or of government programs having built off their tech:"
+  },
+  {
+   "s": "tingley",
+   "p": "occupation",
+   "v": "science journalist",
+   "quote": "In an interview with science journalist Brett Tingley, JP Aerospace's John Powell, while strongly denying that his company was directly involved, could not dismiss the possibility of the involvement of competitors, or of government programs having built off their tech:"
+  },
+  {
+   "s": "powell",
+   "p": "commentator",
+   "o": "case",
+   "quote": "In an interview with science journalist Brett Tingley, JP Aerospace's John Powell, while strongly denying that his company was directly involved, could not dismiss the possibility of the involvement of competitors, or of government programs having built off their tech:"
+  },
+  {
+   "s": "tingley",
+   "p": "interviewed",
+   "o": "powell",
+   "quote": "In an interview with science journalist Brett Tingley, JP Aerospace's John Powell, while strongly denying that his company was directly involved, could not dismiss the possibility of the involvement of competitors, or of government programs having built off their tech:"
+  },
+  {
+   "s": "powell",
+   "p": "statement",
+   "v": "strongly denied his company was directly involved, but could not dismiss involvement of competitors or government programs built off their tech",
+   "quote": "In an interview with science journalist Brett Tingley, JP Aerospace's John Powell, while strongly denying that his company was directly involved, could not dismiss the possibility of the involvement of competitors, or of government programs having built off their tech:"
+  },
+  {
+   "s": "powell",
+   "p": "statement",
+   "v": "We have built several airships and other vehicles for various DOD agencies. None of our programs were classified.",
+   "quote": "We have built several airships and other vehicles for various DOD agencies. None of our programs were classified."
+  },
+  {
+   "s": "powell",
+   "p": "statement",
+   "v": "after completion and delivery, our vehicles entered into programs of which I have no knowledge",
+   "quote": "However, after completion and delivery, our vehicles entered into programs of which I have no knowledge."
+  },
+  {
+   "s": "powell",
+   "p": "statement",
+   "v": "We were testing vehicles at the time of the Phoenix lights incident, however, I can absolutely say that JPA was not, nor [was] our equipment, involved.",
+   "quote": "We were testing vehicles at the time of the Phoenix lights incident, however, I can absolutely say that JPA was not, nor [was] our equipment, involved."
+  },
+  {
+   "s": "powell",
+   "p": "statement",
+   "v": "our vehicles have been sighted and confused for UFOs or other mysterious things",
+   "quote": "There have been times where our vehicles have been sighted and confused for UFOs or other mysterious things."
+  },
+  {
+   "s": "powell",
+   "p": "statement",
+   "v": "has seen images of great vee-shaped objects in the sky that were not his, perhaps the tech of a competitor",
+   "quote": "I have also seen images of great vee-shaped objects in the sky that I can say for sure were not mine, but I could note perhaps the tech of a competitor."
+  },
+  {
+   "s": "haas",
+   "p": "journalist",
+   "o": "case",
+   "quote": "Referencing Powell's interview, journalist Greg Haas highlighted reports that were authored by the RAND Corporation and the Department of Defense, which suggested official interest in similar lighter-than-air vehicles."
+  },
+  {
+   "s": "haas",
+   "p": "occupation",
+   "v": "journalist",
+   "quote": "Referencing Powell's interview, journalist Greg Haas highlighted reports that were authored by the RAND Corporation and the Department of Defense, which suggested official interest in similar lighter-than-air vehicles."
+  },
+  {
+   "s": "kitei",
+   "p": "commentator",
+   "o": "case",
+   "quote": "The Phoenix Lights...We Are Not Alone Documentary, Lynne D. Kitei, M.D., executive producer, in collaboration with Steve Lantz Productions."
+  },
+  {
+   "s": "kitei",
+   "p": "role",
+   "v": "executive producer",
+   "quote": "The Phoenix Lights...We Are Not Alone Documentary, Lynne D. Kitei, M.D., executive producer, in collaboration with Steve Lantz Productions."
+  },
+  {
+   "s": "kitei",
+   "p": "title",
+   "v": "M.D.",
+   "quote": "The Phoenix Lights...We Are Not Alone Documentary, Lynne D. Kitei, M.D., executive producer, in collaboration with Steve Lantz Productions."
+  },
+  {
+   "s": "mitchell",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Based on the book, The Phoenix Lights...A Skeptic's Discovery That We Are Not Alone and featuring astronaut Edgar Mitchell and former Governor of Arizona Fife Symington."
+  },
+  {
+   "s": "mitchell",
+   "p": "occupation",
+   "v": "astronaut",
+   "quote": "Based on the book, The Phoenix Lights...A Skeptic's Discovery That We Are Not Alone and featuring astronaut Edgar Mitchell and former Governor of Arizona Fife Symington."
+  },
+  {
+   "s": "davenport",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Davenport, Peter (March 13, 1997). \"National UFO Reporting Center Special Report: Phoenix Lights – 2 Years Later\"."
+  },
+  {
+   "s": "callahan",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Callahan, Tim. \"The Phoenix Lights: The Fallibility of Human Perception and Memory\""
+  },
+  {
+   "s": "ang",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Both sightings were due to aircraft participating in Operation Snowbird, a pilot training program operated in winter by the Air National Guard out of Davis-Monthan Air Force Base in Tucson, Arizona."
+  },
+  {
+   "s": "mdang",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The second incident, described as \"a row of brilliant lights hovering in the sky, or slowly falling\" began at approximately 10:00 p.m., and was due to a flare drop exercise by different A-10 jets from the Maryland Air National Guard, also operating out of Davis-Monthan AFB as part of Operation Snowbird."
+  },
+  {
+   "s": "mdang",
+   "p": "statement",
+   "v": "the squadron was at Davis-Monthan AFB on a training exercise and flew training sorties to the Goldwater Air Force Range on the night in question",
+   "quote": "The squadron to which he belonged was at Davis-Monthan AFB on a training exercise at the time, and flew training sorties to the Goldwater Air Force Range on the night in question, according to the Maryland ANG."
+  },
+  {
+   "s": "sq104",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "A history of the Maryland ANG published in 2000 asserted that the squadron, the 104th Fighter Squadron, was responsible for the incident."
+  },
+  {
+   "s": "sq104",
+   "p": "part_of",
+   "o": "mdang",
+   "quote": "A history of the Maryland ANG published in 2000 asserted that the squadron, the 104th Fighter Squadron, was responsible for the incident."
+  },
+  {
+   "s": "jones",
+   "p": "member_of",
+   "o": "mdang",
+   "quote": "A Maryland ANG pilot, Lt. Col. Ed Jones, responding to a March 2007 media query, confirmed that he had flown one of the aircraft in the formation that dropped flares on the night in question."
+  },
+  {
+   "s": "jones",
+   "p": "member_of",
+   "o": "sq104",
+   "quote": "The squadron to which he belonged was at Davis-Monthan AFB on a training exercise at the time, and flew training sorties to the Goldwater Air Force Range on the night in question, according to the Maryland ANG."
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The U.S. Air Force explained the exercise as utilizing slow-falling, long-burning LUU-2B/B illumination flares dropped by a flight of four A-10 aircraft on a training exercise at the Barry M. Goldwater Air Force Range in western Pima County, Arizona."
+  },
+  {
+   "s": "usaf",
+   "p": "statement",
+   "v": "explained the exercise as utilizing LUU-2B/B illumination flares dropped by a flight of four A-10 aircraft",
+   "quote": "The U.S. Air Force explained the exercise as utilizing slow-falling, long-burning LUU-2B/B illumination flares dropped by a flight of four A-10 aircraft on a training exercise at the Barry M. Goldwater Air Force Range in western Pima County, Arizona."
+  },
+  {
+   "s": "usaf",
+   "p": "statement",
+   "v": "an official from Luke AFB stated there was no U.S. Air Force activity in the area (April 21, 2008)",
+   "quote": "An official from Luke AFB stated that there was no U.S. Air Force activity in the area."
+  },
+  {
+   "s": "mcgaha",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "Tucson astronomer and retired Air Force pilot James McGaha said he also investigated the two separate sightings and traced them both to A-10 Thunderbolt II aircraft flying in formation at high altitude."
+  },
+  {
+   "s": "faa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Federal Aviation Administration (FAA) rules concerning private and commercial aircraft do not apply to military aircraft, so the A-10 formation displayed steady formation lights rather than blinking collision lights."
+  },
+  {
+   "s": "faa",
+   "p": "rules",
+   "v": "rules concerning private and commercial aircraft do not apply to military aircraft",
+   "quote": "Federal Aviation Administration (FAA) rules concerning private and commercial aircraft do not apply to military aircraft, so the A-10 formation displayed steady formation lights rather than blinking collision lights."
+  },
+  {
+   "s": "azrepublic",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The first reports that members of the Maryland ANG were responsible for the incident were published in The Arizona Republic in July 1997."
+  },
+  {
+   "s": "azrepublic",
+   "p": "publication_date",
+   "v": "July 1997",
+   "quote": "The first reports that members of the Maryland ANG were responsible for the incident were published in The Arizona Republic in July 1997."
+  },
+  {
+   "s": "jpa",
+   "p": "mentioned_by",
+   "o": "mcgee",
+   "quote": "skeptic Ben McGee pointed to a very large, experimental, V-shaped lighter-than-air craft developed by JP Aerospace."
+  },
+  {
+   "s": "powell",
+   "p": "employed_by",
+   "o": "jpa",
+   "quote": "In an interview with science journalist Brett Tingley, JP Aerospace's John Powell, while strongly denying that his company was directly involved, could not dismiss the possibility of the involvement of competitors, or of government programs having built off their tech:"
+  },
+  {
+   "s": "jpa",
+   "p": "denied_involvement",
+   "v": "JPA was not, nor was its equipment, involved",
+   "quote": "We were testing vehicles at the time of the Phoenix lights incident, however, I can absolutely say that JPA was not, nor [was] our equipment, involved."
+  },
+  {
+   "s": "jpa",
+   "p": "activity",
+   "v": "was testing vehicles at the time of the Phoenix lights incident",
+   "quote": "We were testing vehicles at the time of the Phoenix lights incident, however, I can absolutely say that JPA was not, nor [was] our equipment, involved."
+  },
+  {
+   "s": "jpa",
+   "p": "customers",
+   "v": "built several airships and other vehicles for various DOD agencies",
+   "quote": "We have built several airships and other vehicles for various DOD agencies. None of our programs were classified."
+  },
+  {
+   "s": "jpa",
+   "p": "mentioned_by",
+   "o": "powell",
+   "quote": "We have built several airships and other vehicles for various DOD agencies. None of our programs were classified."
+  },
+  {
+   "s": "dod",
+   "p": "mentioned_by",
+   "o": "powell",
+   "quote": "We have built several airships and other vehicles for various DOD agencies. None of our programs were classified."
+  },
+  {
+   "s": "snowbird",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Both sightings were due to aircraft participating in Operation Snowbird, a pilot training program operated in winter by the Air National Guard out of Davis-Monthan Air Force Base in Tucson, Arizona."
+  },
+  {
+   "s": "snowbird",
+   "p": "part_of",
+   "o": "ang",
+   "quote": "Both sightings were due to aircraft participating in Operation Snowbird, a pilot training program operated in winter by the Air National Guard out of Davis-Monthan Air Force Base in Tucson, Arizona."
+  },
+  {
+   "s": "snowbird",
+   "p": "description",
+   "v": "pilot training program operated in winter by the Air National Guard",
+   "quote": "Both sightings were due to aircraft participating in Operation Snowbird, a pilot training program operated in winter by the Air National Guard out of Davis-Monthan Air Force Base in Tucson, Arizona."
+  },
+  {
+   "s": "mdang",
+   "p": "part_of",
+   "o": "snowbird",
+   "quote": "The second incident, described as \"a row of brilliant lights hovering in the sky, or slowly falling\" began at approximately 10:00 p.m., and was due to a flare drop exercise by different A-10 jets from the Maryland Air National Guard, also operating out of Davis-Monthan AFB as part of Operation Snowbird."
+  },
+  {
+   "s": "nsmv",
+   "p": "mentioned_by",
+   "o": "haas",
+   "quote": "One such report includes discussion of a V-shaped airship called the Near-Space Maneuvering Vehicle (NSMV); the document reports:"
+  },
+  {
+   "s": "nsmv",
+   "p": "shape",
+   "v": "V-shaped airship",
+   "quote": "One such report includes discussion of a V-shaped airship called the Near-Space Maneuvering Vehicle (NSMV); the document reports:"
+  },
+  {
+   "s": "nsmv",
+   "p": "construction",
+   "v": "two large cylindrical balloons connected on one end",
+   "quote": "The vehicle consists of two large cylindrical balloons connected on one end to form a 175 ft. V-shaped vehicle (Figure 59)."
+  },
+  {
+   "s": "nsmv",
+   "p": "size",
+   "v": "175 ft.",
+   "quote": "The vehicle consists of two large cylindrical balloons connected on one end to form a 175 ft. V-shaped vehicle (Figure 59)."
+  },
+  {
+   "s": "nsmv",
+   "p": "payload",
+   "v": "payload and propulsion system suspended between the two cylinders",
+   "quote": "The payload and propulsion system were suspended between the two cylinders."
+  },
+  {
+   "s": "nsmv",
+   "p": "objective",
+   "v": "communications relay platform at altitudes above 65,000 feet",
+   "quote": "The program objective was to provide a communications relay platform at altitudes above 65,000 feet."
+  },
+  {
+   "s": "nsmv",
+   "p": "problems",
+   "v": "technical problems with the propulsion system, causing redesigns and failed launches",
+   "quote": "The program encountered technical problems with the propulsion system, which caused redesigns and failed launches."
+  },
+  {
+   "s": "nsmv",
+   "p": "end_date",
+   "v": "2005",
+   "quote": "The Air Force decided to end the program in 2005."
+  },
+  {
+   "s": "jpa",
+   "p": "developed",
+   "o": "nsmv",
+   "quote": "The NSMV was a concept developed by JP Aerospace for the Air Force Space Battle Lab (SBL)."
+  },
+  {
+   "s": "nsmv",
+   "p": "commissioned_by",
+   "o": "sbl",
+   "quote": "The NSMV was a concept developed by JP Aerospace for the Air Force Space Battle Lab (SBL)."
+  },
+  {
+   "s": "sbl",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "The NSMV was a concept developed by JP Aerospace for the Air Force Space Battle Lab (SBL)."
+  },
+  {
+   "s": "arizona",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Phoenix Lights (sometimes called the \"Lights Over Phoenix\") were a series of widely sighted unidentified flying objects observed in the skies over the southwestern U.S. states of Arizona and Nevada on March 13, 1997."
+  },
+  {
+   "s": "nevada",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Phoenix Lights (sometimes called the \"Lights Over Phoenix\") were a series of widely sighted unidentified flying objects observed in the skies over the southwestern U.S. states of Arizona and Nevada on March 13, 1997."
+  },
+  {
+   "s": "phoenix",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Lights of varying descriptions were seen between 7:30–10:30 p.m. MST, in a space of about 300 miles (480 km), from the Nevada line, through Phoenix, to the edge of Tucson."
+  },
+  {
+   "s": "tucson",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Lights of varying descriptions were seen between 7:30–10:30 p.m. MST, in a space of about 300 miles (480 km), from the Nevada line, through Phoenix, to the edge of Tucson."
+  },
+  {
+   "s": "henderson",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "On March 13, 1997, at 7:55 p.m. MST, a witness in Henderson, Nevada, reported seeing a large, V-shaped object traveling southeast."
+  },
+  {
+   "s": "paulden",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "At 8:15 p.m., an unidentified former police officer in Paulden, Arizona, reported seeing a cluster of reddish-orange lights disappear over the southern horizon."
+  },
+  {
+   "s": "prescott",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Shortly afterward, there were reports of lights seen over the Prescott Valley, Arizona."
+  },
+  {
+   "s": "glendale",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Between 8:30 and 8:45 p.m., witnesses in Glendale, a suburb northwest of Phoenix, saw the light formation pass overhead at an altitude high enough to become obscured by the thin clouds."
+  },
+  {
+   "s": "scottsdale",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Amateur astronomer Mitch Stanley in Scottsdale, Arizona, also observed the high altitude lights \"flying in formation\" through a telescope."
+  },
+  {
+   "s": "dm",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Both sightings were due to aircraft participating in Operation Snowbird, a pilot training program operated in winter by the Air National Guard out of Davis-Monthan Air Force Base in Tucson, Arizona."
+  },
+  {
+   "s": "goldwater",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The second group of lights were identified by Robert Sheaffer as illumination flares dropped by another flight of A-10 aircraft that were on training exercises at the Barry Goldwater Range in southwest Arizona."
+  },
+  {
+   "s": "pima",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The U.S. Air Force explained the exercise as utilizing slow-falling, long-burning LUU-2B/B illumination flares dropped by a flight of four A-10 aircraft on a training exercise at the Barry M. Goldwater Air Force Range in western Pima County, Arizona."
+  },
+  {
+   "s": "luke",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Reports of similar lights arose in 2007 and 2008 and were attributed to military flares dropped by fighter aircraft at Luke Air Force Base, and flares attached to helium balloons released by a civilian, respectively."
+  },
+  {
+   "s": "piestewa",
+   "p": "near",
+   "o": "case",
+   "quote": "which seemed to pass over their heads and went through a V opening in the peaks of the mountain range towards Piestewa Peak Mountain and toward the direction of Phoenix Sky Harbor International Airport."
+  },
+  {
+   "s": "skyharbor",
+   "p": "near",
+   "o": "case",
+   "quote": "which seemed to pass over their heads and went through a V opening in the peaks of the mountain range towards Piestewa Peak Mountain and toward the direction of Phoenix Sky Harbor International Airport."
+  },
+  {
+   "s": "estrella",
+   "p": "near",
+   "o": "case",
+   "quote": "The lights then appeared to wink out as they fell behind the Sierra Estrella mountain range to the southwest of Phoenix."
+  },
+  {
+   "s": "henderson",
+   "p": "located_in",
+   "o": "nevada",
+   "quote": "On March 13, 1997, at 7:55 p.m. MST, a witness in Henderson, Nevada, reported seeing a large, V-shaped object traveling southeast."
+  },
+  {
+   "s": "paulden",
+   "p": "located_in",
+   "o": "arizona",
+   "quote": "At 8:15 p.m., an unidentified former police officer in Paulden, Arizona, reported seeing a cluster of reddish-orange lights disappear over the southern horizon."
+  },
+  {
+   "s": "prescott",
+   "p": "located_in",
+   "o": "arizona",
+   "quote": "Shortly afterward, there were reports of lights seen over the Prescott Valley, Arizona."
+  },
+  {
+   "s": "scottsdale",
+   "p": "located_in",
+   "o": "arizona",
+   "quote": "Amateur astronomer Mitch Stanley in Scottsdale, Arizona, also observed the high altitude lights \"flying in formation\" through a telescope."
+  },
+  {
+   "s": "tucson",
+   "p": "located_in",
+   "o": "arizona",
+   "quote": "Both sightings were due to aircraft participating in Operation Snowbird, a pilot training program operated in winter by the Air National Guard out of Davis-Monthan Air Force Base in Tucson, Arizona."
+  },
+  {
+   "s": "dm",
+   "p": "located_in",
+   "o": "tucson",
+   "quote": "Both sightings were due to aircraft participating in Operation Snowbird, a pilot training program operated in winter by the Air National Guard out of Davis-Monthan Air Force Base in Tucson, Arizona."
+  },
+  {
+   "s": "goldwater",
+   "p": "located_in",
+   "o": "arizona",
+   "quote": "The second group of lights were identified by Robert Sheaffer as illumination flares dropped by another flight of A-10 aircraft that were on training exercises at the Barry Goldwater Range in southwest Arizona."
+  },
+  {
+   "s": "goldwater",
+   "p": "located_in",
+   "o": "pima",
+   "quote": "The U.S. Air Force explained the exercise as utilizing slow-falling, long-burning LUU-2B/B illumination flares dropped by a flight of four A-10 aircraft on a training exercise at the Barry M. Goldwater Air Force Range in western Pima County, Arizona."
+  },
+  {
+   "s": "pima",
+   "p": "located_in",
+   "o": "arizona",
+   "quote": "The U.S. Air Force explained the exercise as utilizing slow-falling, long-burning LUU-2B/B illumination flares dropped by a flight of four A-10 aircraft on a training exercise at the Barry M. Goldwater Air Force Range in western Pima County, Arizona."
+  },
+  {
+   "s": "glendale",
+   "p": "location",
+   "v": "a suburb northwest of Phoenix",
+   "quote": "Between 8:30 and 8:45 p.m., witnesses in Glendale, a suburb northwest of Phoenix, saw the light formation pass overhead at an altitude high enough to become obscured by the thin clouds."
+  },
+  {
+   "s": "estrella",
+   "p": "location",
+   "v": "southwest of Phoenix",
+   "quote": "The lights then appeared to wink out as they fell behind the Sierra Estrella mountain range to the southwest of Phoenix."
+  },
+  {
+   "s": "goldwater",
+   "p": "location",
+   "v": "southwest Arizona",
+   "quote": "The second group of lights were identified by Robert Sheaffer as illumination flares dropped by another flight of A-10 aircraft that were on training exercises at the Barry Goldwater Range in southwest Arizona."
+  },
+  {
+   "s": "snowbird",
+   "p": "stationed_at",
+   "o": "dm",
+   "quote": "Both sightings were due to aircraft participating in Operation Snowbird, a pilot training program operated in winter by the Air National Guard out of Davis-Monthan Air Force Base in Tucson, Arizona."
+  },
+  {
+   "s": "mdang",
+   "p": "stationed_at",
+   "o": "dm",
+   "quote": "The second incident, described as \"a row of brilliant lights hovering in the sky, or slowly falling\" began at approximately 10:00 p.m., and was due to a flare drop exercise by different A-10 jets from the Maryland Air National Guard, also operating out of Davis-Monthan AFB as part of Operation Snowbird."
+  },
+  {
+   "s": "sq104",
+   "p": "stationed_at",
+   "o": "dm",
+   "quote": "The squadron to which he belonged was at Davis-Monthan AFB on a training exercise at the time, and flew training sorties to the Goldwater Air Force Range on the night in question, according to the Maryland ANG."
+  },
+  {
+   "s": "stanley",
+   "p": "resident_of",
+   "o": "scottsdale",
+   "quote": "Amateur astronomer Mitch Stanley in Scottsdale, Arizona, also observed the high altitude lights \"flying in formation\" through a telescope."
+  },
+  {
+   "s": "mcgaha",
+   "p": "resident_of",
+   "o": "tucson",
+   "quote": "Tucson astronomer and retired Air Force pilot James McGaha said he also investigated the two separate sightings and traced them both to A-10 Thunderbolt II aircraft flying in formation at high altitude."
+  },
+  {
+   "s": "symington",
+   "p": "official_of",
+   "o": "arizona",
+   "quote": "Shortly after the 1997 incident, Arizona Governor Fife Symington III held a press conference, joking that \"they found who was responsible\" and revealing an aide dressed in an alien costume."
+  },
+  {
+   "s": "a10",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "The first light group was later identified as a formation of A-10 Thunderbolt II aircraft flying over Phoenix while returning to Davis-Monthan."
+  },
+  {
+   "s": "a10",
+   "p": "count",
+   "v": "five A-10 jets in the first incident formation",
+   "quote": "The first incident, often perceived as a large “flying triangle” by witnesses, began at approximately 8:00 p.m., and was due to five A-10 jets from Operation Snowbird following an assigned air traffic corridor and flying under visual flight rules."
+  },
+  {
+   "s": "a10",
+   "p": "count",
+   "v": "a flight of four A-10 aircraft dropped the flares",
+   "quote": "The U.S. Air Force explained the exercise as utilizing slow-falling, long-burning LUU-2B/B illumination flares dropped by a flight of four A-10 aircraft on a training exercise at the Barry M. Goldwater Air Force Range in western Pima County, Arizona."
+  },
+  {
+   "s": "a10",
+   "p": "lights",
+   "v": "steady formation lights rather than blinking collision lights",
+   "quote": "Federal Aviation Administration (FAA) rules concerning private and commercial aircraft do not apply to military aircraft, so the A-10 formation displayed steady formation lights rather than blinking collision lights."
+  },
+  {
+   "s": "c_formation",
+   "p": "identified_as",
+   "o": "a10",
+   "quote": "The first light group was later identified as a formation of A-10 Thunderbolt II aircraft flying over Phoenix while returning to Davis-Monthan."
+  },
+  {
+   "s": "jones",
+   "p": "piloted",
+   "o": "a10",
+   "quote": "A Maryland ANG pilot, Lt. Col. Ed Jones, responding to a March 2007 media query, confirmed that he had flown one of the aircraft in the formation that dropped flares on the night in question."
+  },
+  {
+   "s": "a10",
+   "p": "operated_by",
+   "o": "mdang",
+   "quote": "The second incident, described as \"a row of brilliant lights hovering in the sky, or slowly falling\" began at approximately 10:00 p.m., and was due to a flare drop exercise by different A-10 jets from the Maryland Air National Guard, also operating out of Davis-Monthan AFB as part of Operation Snowbird."
+  },
+  {
+   "s": "ascender",
+   "p": "mentioned_by",
+   "o": "mcgee",
+   "quote": "I would be shocked if the government wasn't using something similar [to the JP Aerospace Ascender], and that's a possible explanation for the Phoenix sighting."
+  },
+  {
+   "s": "ascender",
+   "p": "description",
+   "v": "very large, experimental, V-shaped lighter-than-air craft",
+   "quote": "skeptic Ben McGee pointed to a very large, experimental, V-shaped lighter-than-air craft developed by JP Aerospace."
+  },
+  {
+   "s": "jpa",
+   "p": "owned",
+   "o": "ascender",
+   "quote": "The program utilized technology based on JP Aerospace's Ascender vehicle."
+  },
+  {
+   "s": "nsmv",
+   "p": "based_on",
+   "o": "ascender",
+   "quote": "The program utilized technology based on JP Aerospace's Ascender vehicle."
+  },
+  {
+   "s": "photos",
+   "p": "key_document",
+   "o": "case",
+   "quote": "During the Phoenix event, numerous still photographs and videotapes were made showing a series of lights appearing at a regular interval, remaining illuminated for several moments, and then going out."
+  },
+  {
+   "s": "photos",
+   "p": "content",
+   "v": "a series of lights appearing at a regular interval, remaining illuminated for several moments, and then going out",
+   "quote": "During the Phoenix event, numerous still photographs and videotapes were made showing a series of lights appearing at a regular interval, remaining illuminated for several moments, and then going out."
+  },
+  {
+   "s": "photos",
+   "p": "later_finding",
+   "v": "result of mountains partially obstructing the view of aircraft flares, creating the illusion of an arc of lights appearing and disappearing one by one",
+   "quote": "The images were later determined to be the result of mountains not visible by night that partially obstructed the view of aircraft flares from certain angles to create the illusion of an arc of lights appearing and disappearing one by one."
+  },
+  {
+   "s": "mdhistory",
+   "p": "key_document",
+   "o": "case",
+   "quote": "A history of the Maryland ANG published in 2000 asserted that the squadron, the 104th Fighter Squadron, was responsible for the incident."
+  },
+  {
+   "s": "mdhistory",
+   "p": "publication_date",
+   "v": "2000",
+   "quote": "A history of the Maryland ANG published in 2000 asserted that the squadron, the 104th Fighter Squadron, was responsible for the incident."
+  },
+  {
+   "s": "mdhistory",
+   "p": "assertion",
+   "v": "the 104th Fighter Squadron was responsible for the incident",
+   "quote": "A history of the Maryland ANG published in 2000 asserted that the squadron, the 104th Fighter Squadron, was responsible for the incident."
+  },
+  {
+   "s": "azreports",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The first reports that members of the Maryland ANG were responsible for the incident were published in The Arizona Republic in July 1997."
+  },
+  {
+   "s": "azrepublic",
+   "p": "published",
+   "o": "azreports",
+   "quote": "The first reports that members of the Maryland ANG were responsible for the incident were published in The Arizona Republic in July 1997."
+  },
+  {
+   "s": "rand",
+   "p": "authored",
+   "o": "ltareports",
+   "quote": "Referencing Powell's interview, journalist Greg Haas highlighted reports that were authored by the RAND Corporation and the Department of Defense, which suggested official interest in similar lighter-than-air vehicles."
+  },
+  {
+   "s": "dod",
+   "p": "authored",
+   "o": "ltareports",
+   "quote": "Referencing Powell's interview, journalist Greg Haas highlighted reports that were authored by the RAND Corporation and the Department of Defense, which suggested official interest in similar lighter-than-air vehicles."
+  },
+  {
+   "s": "ltareports",
+   "p": "mentioned_by",
+   "o": "haas",
+   "quote": "Referencing Powell's interview, journalist Greg Haas highlighted reports that were authored by the RAND Corporation and the Department of Defense, which suggested official interest in similar lighter-than-air vehicles."
+  },
+  {
+   "s": "ltareports",
+   "p": "content",
+   "v": "suggested official interest in similar lighter-than-air vehicles",
+   "quote": "Referencing Powell's interview, journalist Greg Haas highlighted reports that were authored by the RAND Corporation and the Department of Defense, which suggested official interest in similar lighter-than-air vehicles."
+  },
+  {
+   "s": "ltareports",
+   "p": "content",
+   "v": "one report discusses a V-shaped airship called the Near-Space Maneuvering Vehicle (NSMV)",
+   "quote": "One such report includes discussion of a V-shaped airship called the Near-Space Maneuvering Vehicle (NSMV); the document reports:"
+  },
+  {
+   "s": "w_doc",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The Phoenix Lights...We Are Not Alone Documentary, Lynne D. Kitei, M.D., executive producer, in collaboration with Steve Lantz Productions."
+  },
+  {
+   "s": "kitei",
+   "p": "produced",
+   "o": "w_doc",
+   "quote": "The Phoenix Lights...We Are Not Alone Documentary, Lynne D. Kitei, M.D., executive producer, in collaboration with Steve Lantz Productions."
+  },
+  {
+   "s": "lantz",
+   "p": "produced",
+   "o": "w_doc",
+   "quote": "The Phoenix Lights...We Are Not Alone Documentary, Lynne D. Kitei, M.D., executive producer, in collaboration with Steve Lantz Productions."
+  },
+  {
+   "s": "mitchell",
+   "p": "appears_in",
+   "o": "w_doc",
+   "quote": "Based on the book, The Phoenix Lights...A Skeptic's Discovery That We Are Not Alone and featuring astronaut Edgar Mitchell and former Governor of Arizona Fife Symington."
+  },
+  {
+   "s": "symington",
+   "p": "appears_in",
+   "o": "w_doc",
+   "quote": "Based on the book, The Phoenix Lights...A Skeptic's Discovery That We Are Not Alone and featuring astronaut Edgar Mitchell and former Governor of Arizona Fife Symington."
+  },
+  {
+   "s": "w_doc",
+   "p": "format",
+   "v": "documentary",
+   "quote": "The Phoenix Lights...We Are Not Alone Documentary, Lynne D. Kitei, M.D., executive producer, in collaboration with Steve Lantz Productions."
+  },
+  {
+   "s": "w_book",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Based on the book, The Phoenix Lights...A Skeptic's Discovery That We Are Not Alone and featuring astronaut Edgar Mitchell and former Governor of Arizona Fife Symington."
+  },
+  {
+   "s": "w_doc",
+   "p": "based_on",
+   "o": "w_book",
+   "quote": "Based on the book, The Phoenix Lights...A Skeptic's Discovery That We Are Not Alone and featuring astronaut Edgar Mitchell and former Governor of Arizona Fife Symington."
+  },
+  {
+   "s": "w_appearance",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The Appearance of a Man, directed by Daniel Pace"
+  },
+  {
+   "s": "pace",
+   "p": "directed",
+   "o": "w_appearance",
+   "quote": "The Appearance of a Man, directed by Daniel Pace"
+  },
+  {
+   "s": "w_nightskies",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Night Skies, a horror movie starring Jason Connery, A.J. Cook, and Ashley Peldon, features the lights."
+  },
+  {
+   "s": "w_nightskies",
+   "p": "genre",
+   "v": "horror movie",
+   "quote": "Night Skies, a horror movie starring Jason Connery, A.J. Cook, and Ashley Peldon, features the lights."
+  },
+  {
+   "s": "w_nightskies",
+   "p": "release",
+   "v": "premiered direct-to-DVD in the U.S. on January 23, 2007",
+   "quote": "It premiered direct-to-DVD in the U.S. on January 23, 2007."
+  },
+  {
+   "s": "connery",
+   "p": "acted_in",
+   "o": "w_nightskies",
+   "quote": "Night Skies, a horror movie starring Jason Connery, A.J. Cook, and Ashley Peldon, features the lights."
+  },
+  {
+   "s": "cook",
+   "p": "acted_in",
+   "o": "w_nightskies",
+   "quote": "Night Skies, a horror movie starring Jason Connery, A.J. Cook, and Ashley Peldon, features the lights."
+  },
+  {
+   "s": "peldon",
+   "p": "acted_in",
+   "o": "w_nightskies",
+   "quote": "Night Skies, a horror movie starring Jason Connery, A.J. Cook, and Ashley Peldon, features the lights."
+  },
+  {
+   "s": "w_theycame",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "They Came from Outer Space (previous title: Phoenix Lights The Movie), a science-fiction thriller starring Ossie Beck, Mackenzie Firgens, Yvette Rachelle, Matt Mercer, Terin Alba, Courtney Gains, Mark Arnold, Michael LeMelle, Aaron Mills, and Luke Amsden"
+  },
+  {
+   "s": "w_theycame",
+   "p": "genre",
+   "v": "science-fiction thriller",
+   "quote": "They Came from Outer Space (previous title: Phoenix Lights The Movie), a science-fiction thriller starring Ossie Beck, Mackenzie Firgens, Yvette Rachelle, Matt Mercer, Terin Alba, Courtney Gains, Mark Arnold, Michael LeMelle, Aaron Mills, and Luke Amsden"
+  },
+  {
+   "s": "w_theycame",
+   "p": "previous_title",
+   "v": "Phoenix Lights The Movie",
+   "quote": "They Came from Outer Space (previous title: Phoenix Lights The Movie), a science-fiction thriller starring Ossie Beck, Mackenzie Firgens, Yvette Rachelle, Matt Mercer, Terin Alba, Courtney Gains, Mark Arnold, Michael LeMelle, Aaron Mills, and Luke Amsden"
+  },
+  {
+   "s": "beck",
+   "p": "acted_in",
+   "o": "w_theycame",
+   "quote": "They Came from Outer Space (previous title: Phoenix Lights The Movie), a science-fiction thriller starring Ossie Beck, Mackenzie Firgens, Yvette Rachelle, Matt Mercer, Terin Alba, Courtney Gains, Mark Arnold, Michael LeMelle, Aaron Mills, and Luke Amsden"
+  },
+  {
+   "s": "firgens",
+   "p": "acted_in",
+   "o": "w_theycame",
+   "quote": "They Came from Outer Space (previous title: Phoenix Lights The Movie), a science-fiction thriller starring Ossie Beck, Mackenzie Firgens, Yvette Rachelle, Matt Mercer, Terin Alba, Courtney Gains, Mark Arnold, Michael LeMelle, Aaron Mills, and Luke Amsden"
+  },
+  {
+   "s": "rachelle",
+   "p": "acted_in",
+   "o": "w_theycame",
+   "quote": "They Came from Outer Space (previous title: Phoenix Lights The Movie), a science-fiction thriller starring Ossie Beck, Mackenzie Firgens, Yvette Rachelle, Matt Mercer, Terin Alba, Courtney Gains, Mark Arnold, Michael LeMelle, Aaron Mills, and Luke Amsden"
+  },
+  {
+   "s": "mercer",
+   "p": "acted_in",
+   "o": "w_theycame",
+   "quote": "They Came from Outer Space (previous title: Phoenix Lights The Movie), a science-fiction thriller starring Ossie Beck, Mackenzie Firgens, Yvette Rachelle, Matt Mercer, Terin Alba, Courtney Gains, Mark Arnold, Michael LeMelle, Aaron Mills, and Luke Amsden"
+  },
+  {
+   "s": "alba",
+   "p": "acted_in",
+   "o": "w_theycame",
+   "quote": "They Came from Outer Space (previous title: Phoenix Lights The Movie), a science-fiction thriller starring Ossie Beck, Mackenzie Firgens, Yvette Rachelle, Matt Mercer, Terin Alba, Courtney Gains, Mark Arnold, Michael LeMelle, Aaron Mills, and Luke Amsden"
+  },
+  {
+   "s": "gains",
+   "p": "acted_in",
+   "o": "w_theycame",
+   "quote": "They Came from Outer Space (previous title: Phoenix Lights The Movie), a science-fiction thriller starring Ossie Beck, Mackenzie Firgens, Yvette Rachelle, Matt Mercer, Terin Alba, Courtney Gains, Mark Arnold, Michael LeMelle, Aaron Mills, and Luke Amsden"
+  },
+  {
+   "s": "arnold",
+   "p": "acted_in",
+   "o": "w_theycame",
+   "quote": "They Came from Outer Space (previous title: Phoenix Lights The Movie), a science-fiction thriller starring Ossie Beck, Mackenzie Firgens, Yvette Rachelle, Matt Mercer, Terin Alba, Courtney Gains, Mark Arnold, Michael LeMelle, Aaron Mills, and Luke Amsden"
+  },
+  {
+   "s": "lemelle",
+   "p": "acted_in",
+   "o": "w_theycame",
+   "quote": "They Came from Outer Space (previous title: Phoenix Lights The Movie), a science-fiction thriller starring Ossie Beck, Mackenzie Firgens, Yvette Rachelle, Matt Mercer, Terin Alba, Courtney Gains, Mark Arnold, Michael LeMelle, Aaron Mills, and Luke Amsden"
+  },
+  {
+   "s": "mills",
+   "p": "acted_in",
+   "o": "w_theycame",
+   "quote": "They Came from Outer Space (previous title: Phoenix Lights The Movie), a science-fiction thriller starring Ossie Beck, Mackenzie Firgens, Yvette Rachelle, Matt Mercer, Terin Alba, Courtney Gains, Mark Arnold, Michael LeMelle, Aaron Mills, and Luke Amsden"
+  },
+  {
+   "s": "amsden",
+   "p": "acted_in",
+   "o": "w_theycame",
+   "quote": "They Came from Outer Space (previous title: Phoenix Lights The Movie), a science-fiction thriller starring Ossie Beck, Mackenzie Firgens, Yvette Rachelle, Matt Mercer, Terin Alba, Courtney Gains, Mark Arnold, Michael LeMelle, Aaron Mills, and Luke Amsden"
+  },
+  {
+   "s": "w_incident",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The Phoenix Incident, a science-fiction conspiracy horror film released in 2015"
+  },
+  {
+   "s": "w_incident",
+   "p": "genre",
+   "v": "science-fiction conspiracy horror film",
+   "quote": "The Phoenix Incident, a science-fiction conspiracy horror film released in 2015"
+  },
+  {
+   "s": "w_incident",
+   "p": "release",
+   "v": "2015",
+   "quote": "The Phoenix Incident, a science-fiction conspiracy horror film released in 2015"
+  },
+  {
+   "s": "w_tapes",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The Phoenix Tapes '97, a found footage science-fiction horror film released in 2016"
+  },
+  {
+   "s": "w_tapes",
+   "p": "genre",
+   "v": "found footage science-fiction horror film",
+   "quote": "The Phoenix Tapes '97, a found footage science-fiction horror film released in 2016"
+  },
+  {
+   "s": "w_tapes",
+   "p": "release",
+   "v": "2016",
+   "quote": "The Phoenix Tapes '97, a found footage science-fiction horror film released in 2016"
+  },
+  {
+   "s": "w_forgotten",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Phoenix Forgotten, a found footage science-fiction horror film released in 2017"
+  },
+  {
+   "s": "w_forgotten",
+   "p": "genre",
+   "v": "found footage science-fiction horror film",
+   "quote": "Phoenix Forgotten, a found footage science-fiction horror film released in 2017"
+  },
+  {
+   "s": "w_forgotten",
+   "p": "release",
+   "v": "2017",
+   "quote": "Phoenix Forgotten, a found footage science-fiction horror film released in 2017"
+  },
+  {
+   "s": "w_star",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Star people, a science-fiction drama released in 2025."
+  },
+  {
+   "s": "w_star",
+   "p": "genre",
+   "v": "science-fiction drama",
+   "quote": "Star people, a science-fiction drama released in 2025."
+  },
+  {
+   "s": "w_star",
+   "p": "release",
+   "v": "2025",
+   "quote": "Star people, a science-fiction drama released in 2025."
+  },
+  {
+   "s": "w_nuforc",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Davenport, Peter (March 13, 1997). \"National UFO Reporting Center Special Report: Phoenix Lights – 2 Years Later\"."
+  },
+  {
+   "s": "davenport",
+   "p": "authored",
+   "o": "w_nuforc",
+   "quote": "Davenport, Peter (March 13, 1997). \"National UFO Reporting Center Special Report: Phoenix Lights – 2 Years Later\"."
+  },
+  {
+   "s": "w_callahan",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Callahan, Tim. \"The Phoenix Lights: The Fallibility of Human Perception and Memory\""
+  },
+  {
+   "s": "callahan",
+   "p": "authored",
+   "o": "w_callahan",
+   "quote": "Callahan, Tim. \"The Phoenix Lights: The Fallibility of Human Perception and Memory\""
+  },
+  {
+   "s": "case2007",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Reports of similar lights arose in 2007 and 2008 and were attributed to military flares dropped by fighter aircraft at Luke Air Force Base, and flares attached to helium balloons released by a civilian, respectively."
+  },
+  {
+   "s": "case2007",
+   "p": "date",
+   "v": "2007-02-06",
+   "quote": "Lights were reported by observers and recorded by the local Fox News television station on February 6, 2007."
+  },
+  {
+   "s": "case2007",
+   "p": "recording",
+   "v": "recorded by the local Fox News television station",
+   "quote": "Lights were reported by observers and recorded by the local Fox News television station on February 6, 2007."
+  },
+  {
+   "s": "case2007",
+   "p": "explanation",
+   "v": "flares dropped by F-16 \"Fighting Falcon\" aircraft training at Luke Air Force Base, according to military officials and the FAA",
+   "quote": "According to military officials and the FAA, these were flares dropped by F-16 \"Fighting Falcon\" aircraft training at Luke Air Force Base."
+  },
+  {
+   "s": "fox",
+   "p": "involved_org",
+   "o": "case2007",
+   "quote": "Lights were reported by observers and recorded by the local Fox News television station on February 6, 2007."
+  },
+  {
+   "s": "faa",
+   "p": "involved_org",
+   "o": "case2007",
+   "quote": "According to military officials and the FAA, these were flares dropped by F-16 \"Fighting Falcon\" aircraft training at Luke Air Force Base."
+  },
+  {
+   "s": "f16",
+   "p": "involved_vehicle",
+   "o": "case2007",
+   "quote": "According to military officials and the FAA, these were flares dropped by F-16 \"Fighting Falcon\" aircraft training at Luke Air Force Base."
+  },
+  {
+   "s": "f16",
+   "p": "stationed_at",
+   "o": "luke",
+   "quote": "According to military officials and the FAA, these were flares dropped by F-16 \"Fighting Falcon\" aircraft training at Luke Air Force Base."
+  },
+  {
+   "s": "luke",
+   "p": "related_place",
+   "o": "case2007",
+   "quote": "According to military officials and the FAA, these were flares dropped by F-16 \"Fighting Falcon\" aircraft training at Luke Air Force Base."
+  },
+  {
+   "s": "case2008",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Reports of similar lights arose in 2007 and 2008 and were attributed to military flares dropped by fighter aircraft at Luke Air Force Base, and flares attached to helium balloons released by a civilian, respectively."
+  },
+  {
+   "s": "case2008",
+   "p": "date",
+   "v": "2008-04-21",
+   "quote": "On April 21, 2008, lights were reported over Phoenix by local residents."
+  },
+  {
+   "s": "case2008",
+   "p": "formation",
+   "v": "appeared to change from square to triangular formation over time",
+   "quote": "These lights reportedly appeared to change from square to triangular formation over time."
+  },
+  {
+   "s": "case2008",
+   "p": "jets",
+   "v": "a valley resident reported three jets heading west in the direction of the lights shortly after they appeared",
+   "quote": "A valley resident reported that shortly after the lights appeared, three jets were seen heading west in the direction of the lights."
+  },
+  {
+   "s": "case2008",
+   "p": "official_statement",
+   "v": "an official from Luke AFB stated there was no U.S. Air Force activity in the area",
+   "quote": "An official from Luke AFB stated that there was no U.S. Air Force activity in the area."
+  },
+  {
+   "s": "case2008",
+   "p": "explanation",
+   "v": "a Phoenix resident told a newspaper the lights were his neighbor releasing helium balloons with flares attached",
+   "quote": "The next day, a resident of Phoenix told a newspaper that the lights were nothing more than his neighbor releasing helium balloons with flares attached."
+  },
+  {
+   "s": "case2008",
+   "p": "confirmation",
+   "v": "confirmed by a police helicopter",
+   "quote": "This was confirmed by a police helicopter."
+  },
+  {
+   "s": "case2008",
+   "p": "admission",
+   "v": "a Phoenix resident, who declined to be identified, stated he had attached flares to helium balloons and released them from his back yard",
+   "quote": "The following day, a Phoenix resident, who declined to be identified in news reports, stated that he had attached flares to helium balloons and released them from his back yard."
+  },
+  {
+   "s": "phoenix",
+   "p": "occurred_at",
+   "o": "case2008",
+   "quote": "On April 21, 2008, lights were reported over Phoenix by local residents."
+  },
+  {
+   "s": "helicopter",
+   "p": "involved_vehicle",
+   "o": "case2008",
+   "quote": "This was confirmed by a police helicopter."
+  },
+  {
+   "s": "luke",
+   "p": "related_place",
+   "o": "case2008",
+   "quote": "An official from Luke AFB stated that there was no U.S. Air Force activity in the area."
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "case2008",
+   "quote": "An official from Luke AFB stated that there was no U.S. Air Force activity in the area."
+  },
+  {
+   "s": "hessdalen",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Hessdalen lights"
+  },
+  {
+   "s": "marfa",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Marfa lights"
+  },
+  {
+   "s": "tinley",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Tinley Park Lights"
+  },
+  {
+   "s": "rhodes",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Rhodes UFO photographs, taken in Phoenix during the 1947 flying disc craze"
+  },
+  {
+   "s": "phoenix",
+   "p": "occurred_at",
+   "o": "rhodes",
+   "quote": "Rhodes UFO photographs, taken in Phoenix during the 1947 flying disc craze"
+  },
+  {
+   "s": "rhodes",
+   "p": "date",
+   "v": "1947",
+   "quote": "Rhodes UFO photographs, taken in Phoenix during the 1947 flying disc craze"
+  },
+  {
+   "s": "rhodes",
+   "p": "part_of",
+   "o": "craze1947",
+   "quote": "Rhodes UFO photographs, taken in Phoenix during the 1947 flying disc craze"
+  },
+  {
+   "s": "f_lights_only",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Lights of varying descriptions were seen between 7:30–10:30 p.m. MST, in a space of about 300 miles (480 km), from the Nevada line, through Phoenix, to the edge of Tucson."
+  },
+  {
+   "s": "f_shape_triangle",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "There were two distinct events involved in the incident: a triangular formation of lights seen to pass over the state, and a series of stationary lights seen in the Phoenix area."
+  },
+  {
+   "s": "f_shape_triangle",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The first incident, often perceived as a large “flying triangle” by witnesses, began at approximately 8:00 p.m., and was due to five A-10 jets from Operation Snowbird following an assigned air traffic corridor and flying under visual flight rules."
+  },
+  {
+   "s": "f_shape_boomerang",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "On March 13, 1997, at 7:55 p.m. MST, a witness in Henderson, Nevada, reported seeing a large, V-shaped object traveling southeast."
+  },
+  {
+   "s": "f_shape_boomerang",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Alternate skeptical explanations were proposed in the years following the incident, one such hypothesis being that the chevron-shaped formation that some eyewitnesses reported observing was instead a large, experimental lighter-than-air craft."
+  },
+  {
+   "s": "f_other_carpenter's_square_shape",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Some witnesses described seeing what appeared to be a huge carpenter's square-shaped UFO containing five spherical lights."
+  },
+  {
+   "s": "f_hovering",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "At approximately 10:00 that same evening, a large number of people in the Phoenix area reported seeing \"a row of brilliant lights hovering in the sky, or slowly falling\"."
+  },
+  {
+   "s": "f_hovering",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Soon, the object with the embedded lights appeared to be moving toward them, about 100 to 150 feet (30 to 46 m) above them, traveling so slowly that it gave the appearance of a silent hovering object"
+  },
+  {
+   "s": "f_silent",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Soon, the object with the embedded lights appeared to be moving toward them, about 100 to 150 feet (30 to 46 m) above them, traveling so slowly that it gave the appearance of a silent hovering object"
+  },
+  {
+   "s": "f_photograph",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "A number of photographs and videos were taken, prompting author Robert Sheaffer to describe it as \"perhaps the most widely witnessed UFO event in history\"."
+  },
+  {
+   "s": "f_film_or_video",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "A number of photographs and videos were taken, prompting author Robert Sheaffer to describe it as \"perhaps the most widely witnessed UFO event in history\"."
+  },
+  {
+   "s": "f_film_or_video",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "During the Phoenix event, numerous still photographs and videotapes were made showing a series of lights appearing at a regular interval, remaining illuminated for several moments, and then going out."
+  },
+  {
+   "s": "f_multiple_witnesses",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Tim Ley and his wife Bobbi, his son Hal and his grandson Damien Turnidge first saw the lights when they were about 65 miles (105 km) away from them."
+  },
+  {
+   "s": "f_mass_sighting",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "At approximately 10:00 that same evening, a large number of people in the Phoenix area reported seeing \"a row of brilliant lights hovering in the sky, or slowly falling\"."
+  },
+  {
+   "s": "f_mass_sighting",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Phoenix Lights (sometimes called the \"Lights Over Phoenix\") were a series of widely sighted unidentified flying objects observed in the skies over the southwestern U.S. states of Arizona and Nevada on March 13, 1997."
+  },
+  {
+   "s": "f_pilot_witnesses",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Actor Kurt Russell, an amateur pilot, then reported seeing the lights to air traffic control."
+  },
+  {
+   "s": "f_pilot_witnesses",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to Symington, \"I'm a pilot and I know just about every machine that flies. It was bigger than anything that I've ever seen. It remains a great mystery. Other people saw it, responsible people... I don't know why people would ridicule it\"."
+  },
+  {
+   "s": "x_conventional_aircraft",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The first light group was later identified as a formation of A-10 Thunderbolt II aircraft flying over Phoenix while returning to Davis-Monthan."
+  },
+  {
+   "s": "mcgaha",
+   "p": "proposed",
+   "o": "x_conventional_aircraft",
+   "quote": "Tucson astronomer and retired Air Force pilot James McGaha said he also investigated the two separate sightings and traced them both to A-10 Thunderbolt II aircraft flying in formation at high altitude."
+  },
+  {
+   "s": "stanley",
+   "p": "proposed",
+   "o": "x_conventional_aircraft",
+   "quote": "According to Stanley, they were quite clearly individual airplanes."
+  },
+  {
+   "s": "x_flares",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The second group of lights were identified by Robert Sheaffer as illumination flares dropped by another flight of A-10 aircraft that were on training exercises at the Barry Goldwater Range in southwest Arizona."
+  },
+  {
+   "s": "sheaffer",
+   "p": "proposed",
+   "o": "x_flares",
+   "quote": "The second group of lights were identified by Robert Sheaffer as illumination flares dropped by another flight of A-10 aircraft that were on training exercises at the Barry Goldwater Range in southwest Arizona."
+  },
+  {
+   "s": "usaf",
+   "p": "proposed",
+   "o": "x_flares",
+   "quote": "The U.S. Air Force explained the exercise as utilizing slow-falling, long-burning LUU-2B/B illumination flares dropped by a flight of four A-10 aircraft on a training exercise at the Barry M. Goldwater Air Force Range in western Pima County, Arizona."
+  },
+  {
+   "s": "c_row",
+   "p": "identified_as",
+   "o": "x_flares",
+   "quote": "The second group of lights were identified by Robert Sheaffer as illumination flares dropped by another flight of A-10 aircraft that were on training exercises at the Barry Goldwater Range in southwest Arizona."
+  },
+  {
+   "s": "x_flares",
+   "p": "explained_as",
+   "o": "case2007",
+   "quote": "According to military officials and the FAA, these were flares dropped by F-16 \"Fighting Falcon\" aircraft training at Luke Air Force Base."
+  },
+  {
+   "s": "x_flares",
+   "p": "explained_as",
+   "o": "case2008",
+   "quote": "The next day, a resident of Phoenix told a newspaper that the lights were nothing more than his neighbor releasing helium balloons with flares attached."
+  },
+  {
+   "s": "x_military_test_or_exercise",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Both sightings were due to aircraft participating in Operation Snowbird, a pilot training program operated in winter by the Air National Guard out of Davis-Monthan Air Force Base in Tucson, Arizona."
+  },
+  {
+   "s": "x_military_test_or_exercise",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The second incident, described as \"a row of brilliant lights hovering in the sky, or slowly falling\" began at approximately 10:00 p.m., and was due to a flare drop exercise by different A-10 jets from the Maryland Air National Guard, also operating out of Davis-Monthan AFB as part of Operation Snowbird."
+  },
+  {
+   "s": "sheaffer",
+   "p": "proposed",
+   "o": "x_military_test_or_exercise",
+   "quote": "According to Sheaffer, what became known as \"the Phoenix Lights\" incident of 1997 \"consists of two unrelated incidents, although both were the result of activities of the same organization: Operation Snowbird, a pilot training program operated in the winter by the Air National Guard, out of Davis-Monthan Air Force Base in Tucson, Arizona.\""
+  },
+  {
+   "s": "x_secret_aircraft",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Alternate skeptical explanations were proposed in the years following the incident, one such hypothesis being that the chevron-shaped formation that some eyewitnesses reported observing was instead a large, experimental lighter-than-air craft."
+  },
+  {
+   "s": "mcgee",
+   "p": "proposed",
+   "o": "x_secret_aircraft",
+   "quote": "In an interview with science journalist Natalie Wolchover, McGee stated his support for the hypothesis that a ship similar to JP Aerospace's design could have been in use by the military:"
+  },
+  {
+   "s": "peterson",
+   "p": "disputed",
+   "o": "x_secret_aircraft",
+   "quote": "Although writer Cassie Peterson, when referencing the \"blimp\" hypothesis, asserted that \"in the 20-plus years since the sightings, no evidence of new aircraft of a design or scale that would fit the descriptions provided by witnesses has come to light\""
+  },
+  {
+   "s": "x_misperception",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The images were later determined to be the result of mountains not visible by night that partially obstructed the view of aircraft flares from certain angles to create the illusion of an arc of lights appearing and disappearing one by one."
+  },
+  {
+   "s": "x_balloon",
+   "p": "explained_as",
+   "o": "case2008",
+   "quote": "The next day, a resident of Phoenix told a newspaper that the lights were nothing more than his neighbor releasing helium balloons with flares attached."
+  }
+ ]
+}

@@ -1,0 +1,3644 @@
+{
+ "slug": "travis-walton-incident",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Travis Walton incident",
+   "aliases": [
+    "Travis Walton UFO incident",
+    "Walton incident"
+   ],
+   "description": "Alleged alien abduction of forestry worker Travis Walton on November 5, 1975, near Heber, Arizona, after which he was missing for five days."
+  },
+  {
+   "key": "walton",
+   "type": "person",
+   "name": "Travis Walton",
+   "aliases": [
+    "Travis C. Walton",
+    "Walton",
+    "Travis"
+   ],
+   "description": "American forestry worker who said he was taken aboard a flying saucer and was missing for five days."
+  },
+  {
+   "key": "rogers",
+   "type": "person",
+   "name": "Michael H. Rogers",
+   "aliases": [
+    "Mike Rogers",
+    "Rogers"
+   ],
+   "description": "Crew chief and driver of the logging crew; reported Walton missing and later made and retracted hoax confessions."
+  },
+  {
+   "key": "fuller",
+   "type": "person",
+   "name": "John G. Fuller",
+   "description": "Writer rumored to have ghostwritten The Walton Experience."
+  },
+  {
+   "key": "torme",
+   "type": "person",
+   "name": "Tracy Tormé",
+   "description": "Screenwriter who adapted Walton's book as Fire in the Sky."
+  },
+  {
+   "key": "lieberman",
+   "type": "person",
+   "name": "Robert Lieberman",
+   "description": "Director of the 1993 film Fire in the Sky."
+  },
+  {
+   "key": "klass",
+   "type": "person",
+   "name": "Philip J. Klass",
+   "aliases": [
+    "Philip Klass",
+    "Klass"
+   ],
+   "description": "Science writer and UFO researcher who alleged the Walton case was a hoax."
+  },
+  {
+   "key": "shermer",
+   "type": "person",
+   "name": "Michael Shermer",
+   "description": "Science writer and skeptic who alleged Walton perpetrated a hoax."
+  },
+  {
+   "key": "lukes",
+   "type": "person",
+   "name": "Erica Lukes",
+   "description": "Host of a UFO podcast series on which claims and counterclaims about the case were broadcast."
+  },
+  {
+   "key": "sheaffer",
+   "type": "person",
+   "name": "Robert Sheaffer",
+   "aliases": [
+    "Sheaffer"
+   ],
+   "description": "Skeptic and Skeptical Inquirer writer who argues the incident was a hoax using a fire lookout tower."
+  },
+  {
+   "key": "wiser",
+   "type": "person",
+   "name": "Charlie Wiser",
+   "description": "Australian researcher who developed a website and materials arguing Gentry Tower was used in the hoax."
+  },
+  {
+   "key": "gordon",
+   "type": "person",
+   "name": "Ryan Gordon",
+   "aliases": [
+    "Gordon"
+   ],
+   "description": "Producer working on a new film about the Walton incident who recorded Rogers's 2021 confession call."
+  },
+  {
+   "key": "mary",
+   "type": "person",
+   "name": "Mary Walton",
+   "aliases": [
+    "Mary Walton Kellott",
+    "Walton's mother",
+    "Travis's mother"
+   ],
+   "description": "Mother of Travis and Duane Walton."
+  },
+  {
+   "key": "carl",
+   "type": "person",
+   "name": "Carl Rogers",
+   "description": "Associate of Travis Walton and younger brother of Michael H. Rogers; pleaded guilty with Walton in 1971."
+  },
+  {
+   "key": "jones",
+   "type": "person",
+   "name": "James Earl Jones",
+   "description": "Actor who played Barney Hill in The UFO Incident."
+  },
+  {
+   "key": "hill",
+   "type": "person",
+   "name": "Barney Hill",
+   "description": "Man who reported recollections of an alien abduction after a 1964 hypnosis session; subject of The UFO Incident."
+  },
+  {
+   "key": "ellison",
+   "type": "person",
+   "name": "L. C. Ellison",
+   "aliases": [
+    "Officer Ellison"
+   ],
+   "description": "Police officer called by a member of the logging crew at 7:45 p.m."
+  },
+  {
+   "key": "gillespie",
+   "type": "person",
+   "name": "Marlin Gillespie",
+   "aliases": [
+    "Sheriff Gillespie",
+    "Sheriff Marlin Gillespie"
+   ],
+   "description": "Sheriff who led the search for Walton."
+  },
+  {
+   "key": "coplan",
+   "type": "person",
+   "name": "Kenneth Coplan",
+   "aliases": [
+    "Deputy Kenneth Coplan",
+    "Deputy Coplan",
+    "Coplan"
+   ],
+   "description": "Navajo County deputy sheriff who informed Walton's mother of the disappearance."
+  },
+  {
+   "key": "duane",
+   "type": "person",
+   "name": "Duane Walton",
+   "aliases": [
+    "Duane"
+   ],
+   "description": "Older brother of Travis Walton."
+  },
+  {
+   "key": "gilson",
+   "type": "person",
+   "name": "C. E. Gilson",
+   "aliases": [
+    "Gilson"
+   ],
+   "description": "Arizona Department of Public Safety polygraph examiner who tested the six crew members."
+  },
+  {
+   "key": "dalis",
+   "type": "person",
+   "name": "Allen Dalis",
+   "aliases": [
+    "Allan Dallis"
+   ],
+   "description": "Crew member whose polygraph result was described as inconclusive."
+  },
+  {
+   "key": "neff",
+   "type": "person",
+   "name": "Grant Neff",
+   "aliases": [
+    "Neff"
+   ],
+   "description": "Husband of Walton's sister, who took Walton's collect call and picked him up in Heber."
+  },
+  {
+   "key": "flake",
+   "type": "person",
+   "name": "Glen Flake",
+   "aliases": [
+    "Deputy Glen Flake",
+    "Flake"
+   ],
+   "description": "Deputy dispatched to the Walton family ranch house."
+  },
+  {
+   "key": "steward",
+   "type": "person",
+   "name": "Lester Steward",
+   "aliases": [
+    "Steward"
+   ],
+   "description": "Hypnotherapist to whom the Waltons were referred after Travis's return."
+  },
+  {
+   "key": "mccarthy",
+   "type": "person",
+   "name": "Jack McCarthy",
+   "aliases": [
+    "McCarthy"
+   ],
+   "description": "Freelance polygraph examiner who concluded Walton was engaged in gross deception."
+  },
+  {
+   "key": "ledwith",
+   "type": "person",
+   "name": "Jim Ledwith",
+   "aliases": [
+    "Ledwith"
+   ],
+   "description": "Ufologist who commented on the crew's polygraph tests."
+  },
+  {
+   "key": "patrick",
+   "type": "person",
+   "name": "Robert Patrick",
+   "description": "Actor who played Mike Rogers in Fire in the Sky."
+  },
+  {
+   "key": "sweeney",
+   "type": "person",
+   "name": "D. B. Sweeney",
+   "description": "Actor who played Travis Walton in Fire in the Sky."
+  },
+  {
+   "key": "sheffer",
+   "type": "person",
+   "name": "Craig Sheffer",
+   "description": "Actor who played Allan Dallis in Fire in the Sky."
+  },
+  {
+   "key": "berg",
+   "type": "person",
+   "name": "Peter Berg",
+   "description": "Actor who played David Whitlock in Fire in the Sky."
+  },
+  {
+   "key": "emelin",
+   "type": "person",
+   "name": "Georgia Emelin",
+   "description": "Actor who played Dana Rogers in Fire in the Sky."
+  },
+  {
+   "key": "fowler",
+   "type": "person",
+   "name": "Raymond E. Fowler",
+   "description": "UFO author who proposed some crew members were victims of a hoax by others in the crew."
+  },
+  {
+   "key": "pflock",
+   "type": "person",
+   "name": "Pflock",
+   "description": "Author who argues Walton and Rogers planned the incident."
+  },
+  {
+   "key": "pierce",
+   "type": "person",
+   "name": "Steve Pierce",
+   "aliases": [
+    "Pierce"
+   ],
+   "description": "Crew member who expressed suspicion the incident was a hoax."
+  },
+  {
+   "key": "hopkins",
+   "type": "person",
+   "name": "Budd Hopkins",
+   "description": "Author of alleged alien abduction accounts, including the book Intruders."
+  },
+  {
+   "key": "mack",
+   "type": "person",
+   "name": "John E. Mack",
+   "description": "Author of alleged alien abduction accounts."
+  },
+  {
+   "key": "strieber",
+   "type": "person",
+   "name": "Whitley Strieber",
+   "description": "Author of alleged alien abduction accounts."
+  },
+  {
+   "key": "bullard",
+   "type": "person",
+   "name": "Thomas E. Bullard",
+   "description": "Folklorist who notes alien abduction stories follow a consistent sequence."
+  },
+  {
+   "key": "clancy",
+   "type": "person",
+   "name": "Susan A. Clancy",
+   "description": "Psychologist who suggested the alien abduction narrative results from sleep paralysis or false memory syndrome."
+  },
+  {
+   "key": "blackmore",
+   "type": "person",
+   "name": "Susan Blackmore",
+   "description": "Skeptic who suggested the alien abduction narrative results from sleep paralysis or false memory syndrome."
+  },
+  {
+   "key": "enquirer",
+   "type": "organization",
+   "name": "National Enquirer",
+   "aliases": [
+    "The National Enquirer",
+    "Enquirer"
+   ],
+   "description": "Tabloid that bought Walton's story and awarded the crew a $5,000 prize."
+  },
+  {
+   "key": "usfs",
+   "type": "organization",
+   "name": "United States Forest Service",
+   "aliases": [
+    "Forestry Service",
+    "Forest Service"
+   ],
+   "description": "Federal agency that contracted Rogers's crew for the Turkey Springs thinning job."
+  },
+  {
+   "key": "wmc",
+   "type": "organization",
+   "name": "Western Molding Company",
+   "description": "Company whose offices Travis Walton and Carl Rogers pleaded guilty to breaking into."
+  },
+  {
+   "key": "nbc",
+   "type": "organization",
+   "name": "NBC",
+   "aliases": [
+    "NBC network"
+   ],
+   "description": "Television network that aired The UFO Incident."
+  },
+  {
+   "key": "ncso",
+   "type": "organization",
+   "name": "Navajo County Sheriff's Office",
+   "aliases": [
+    "Navajo County sheriff"
+   ],
+   "description": "Sheriff's department to which Walton was reported missing."
+  },
+  {
+   "key": "adps",
+   "type": "organization",
+   "name": "Arizona Department of Public Safety",
+   "aliases": [
+    "Arizona Dept. of Public Safety"
+   ],
+   "description": "State agency whose polygraph examiner interrogated the crew."
+  },
+  {
+   "key": "kool",
+   "type": "organization",
+   "name": "KOOL",
+   "description": "Phoenix television station on which Walton was interviewed."
+  },
+  {
+   "key": "apro",
+   "type": "organization",
+   "name": "Aerial Phenomena Research Organization",
+   "aliases": [
+    "APRO"
+   ],
+   "description": "UFO group said to have administered polygraph tests with the Enquirer."
+  },
+  {
+   "key": "paramount",
+   "type": "organization",
+   "name": "Paramount Pictures",
+   "description": "Studio that ordered a flashier abduction story for Fire in the Sky."
+  },
+  {
+   "key": "cnn",
+   "type": "organization",
+   "name": "CNN",
+   "description": "Network of the program Larry King Live."
+  },
+  {
+   "key": "fox",
+   "type": "organization",
+   "name": "Fox Broadcasting Company",
+   "aliases": [
+    "Fox"
+   ],
+   "description": "Network of the game show The Moment of Truth."
+  },
+  {
+   "key": "facebook",
+   "type": "organization",
+   "name": "Facebook",
+   "description": "Social media site where Rogers posted his 2021 statements."
+  },
+  {
+   "key": "si",
+   "type": "organization",
+   "name": "Skeptical Inquirer",
+   "description": "Magazine for which Robert Sheaffer is a long-time writer."
+  },
+  {
+   "key": "csi",
+   "type": "organization",
+   "name": "Committee for Skeptical Inquiry",
+   "description": "Skeptical organisation with a UFO Subcommittee."
+  },
+  {
+   "key": "csi_ufo",
+   "type": "organization",
+   "name": "UFO Subcommittee of the Committee for Skeptical Inquiry",
+   "description": "Subcommittee of which Robert Sheaffer is a founding member."
+  },
+  {
+   "key": "skyfire",
+   "type": "organization",
+   "name": "Skyfire Summit",
+   "description": "UFO conference in Arizona sponsored by Travis Walton."
+  },
+  {
+   "key": "asnf",
+   "type": "place",
+   "name": "Apache–Sitgreaves National Forests",
+   "aliases": [
+    "Apache-Sitgreaves National Forests"
+   ],
+   "description": "National forests where the incident reportedly occurred."
+  },
+  {
+   "key": "heber",
+   "type": "place",
+   "name": "Heber, Arizona",
+   "aliases": [
+    "Heber"
+   ],
+   "description": "Town near the incident site, from which Walton called his sister."
+  },
+  {
+   "key": "turkey",
+   "type": "place",
+   "name": "Turkey Springs",
+   "description": "Area of the national forests the crew was contracted to thin."
+  },
+  {
+   "key": "gentry",
+   "type": "place",
+   "name": "Gentry Tower",
+   "description": "Forest Service fire lookout tower alleged to have been used in a hoax."
+  },
+  {
+   "key": "arizona",
+   "type": "place",
+   "name": "Arizona",
+   "description": "US state where the incident occurred."
+  },
+  {
+   "key": "usa",
+   "type": "place",
+   "name": "United States",
+   "aliases": [
+    "US"
+   ],
+   "description": "Country of the incident."
+  },
+  {
+   "key": "uk",
+   "type": "place",
+   "name": "United Kingdom",
+   "aliases": [
+    "UK"
+   ],
+   "description": "Country where stories of the disappearance were published."
+  },
+  {
+   "key": "canada",
+   "type": "place",
+   "name": "Canada",
+   "description": "Country where stories of the disappearance were published."
+  },
+  {
+   "key": "phoenix",
+   "type": "place",
+   "name": "Phoenix, Arizona",
+   "aliases": [
+    "Phoenix"
+   ],
+   "description": "City of a UFO interest group and television station KOOL."
+  },
+  {
+   "key": "glendale",
+   "type": "place",
+   "name": "Glendale, Arizona",
+   "aliases": [
+    "Glendale"
+   ],
+   "description": "Place where Sheriff Gillespie drove to see Travis after his return."
+  },
+  {
+   "key": "scottsdale",
+   "type": "place",
+   "name": "Scottsdale, Arizona",
+   "aliases": [
+    "Scottsdale"
+   ],
+   "description": "Location of the Sheraton Inn where the Waltons stayed."
+  },
+  {
+   "key": "sheraton",
+   "type": "place",
+   "name": "Sheraton Inn in Scottsdale",
+   "aliases": [
+    "Sheraton Inn"
+   ],
+   "description": "Hotel where Duane and Travis Walton stayed at the National Enquirer's expense."
+  },
+  {
+   "key": "blackcanyon",
+   "type": "place",
+   "name": "Black Canyon Road",
+   "description": "Road the crew typically used to travel back to Heber."
+  },
+  {
+   "key": "rimroad",
+   "type": "place",
+   "name": "Rim Road",
+   "description": "Road passing Gentry Tower, which Sheaffer suggests the crew took that night."
+  },
+  {
+   "key": "object",
+   "type": "craft",
+   "name": "Illuminated object reported by the logging crew",
+   "aliases": [
+    "flying saucer",
+    "unusual light"
+   ],
+   "description": "Illuminated object above the ground near the roadway, described by Walton as a flying saucer."
+  },
+  {
+   "key": "truck",
+   "type": "vehicle",
+   "name": "Logging crew truck driven by Mike Rogers",
+   "aliases": [
+    "Rogers's vehicle"
+   ],
+   "description": "Truck in which the crew was driving back to town."
+  },
+  {
+   "key": "heli",
+   "type": "vehicle",
+   "name": "Search helicopter",
+   "description": "Helicopter that aided the search parties."
+  },
+  {
+   "key": "d_contract",
+   "type": "document",
+   "name": "Turkey Springs forestry contract",
+   "description": "Federal contract won by Rogers to thin 1,277 acres at Turkey Springs."
+  },
+  {
+   "key": "d_letter",
+   "type": "document",
+   "name": "Letter from Mike Rogers to his Forestry Service contracting officer, October 20, 1975",
+   "description": "Letter in which Rogers said he could not say whether the job would finish on time."
+  },
+  {
+   "key": "d_interview",
+   "type": "document",
+   "name": "65-minute recorded interview with Mike Rogers and Duane Walton, November 8, 1975",
+   "description": "Interview recorded by a member of a Phoenix-based UFO interest group."
+  },
+  {
+   "key": "d_gilson",
+   "type": "document",
+   "name": "Polygraph examination of the forestry crew by C. E. Gilson",
+   "description": "Law enforcement polygraph examination of six crew members on November 11."
+  },
+  {
+   "key": "d_mccarthy",
+   "type": "document",
+   "name": "Polygraph examination of Travis Walton by Jack McCarthy",
+   "description": "November 15 polygraph test that concluded Walton was engaged in gross deception."
+  },
+  {
+   "key": "d_fb",
+   "type": "document",
+   "name": "Mike Rogers's Facebook statement of March 19, 2021",
+   "description": "Statement in which Rogers renounced his status as a witness."
+  },
+  {
+   "key": "d_call",
+   "type": "document",
+   "name": "Ryan Gordon's recording of his April 30, 2021 phone call with Mike Rogers",
+   "description": "Recorded call in which Rogers described the incident as staged."
+  },
+  {
+   "key": "d_review",
+   "type": "document",
+   "name": "2009 review by psychologists and skeptics",
+   "description": "Review arguing that viewers of The UFO Incident could become instant celebrities by claiming an abduction."
+  },
+  {
+   "key": "w_book",
+   "type": "work",
+   "name": "The Walton Experience",
+   "description": "Walton's 1978 book giving his account."
+  },
+  {
+   "key": "w_film",
+   "type": "work",
+   "name": "Fire in the Sky",
+   "description": "1993 film adapted from Walton's book."
+  },
+  {
+   "key": "w_ufoincident",
+   "type": "work",
+   "name": "The UFO Incident",
+   "description": "NBC made-for-TV movie about an alleged alien abduction, aired October 20, 1975."
+  },
+  {
+   "key": "w_klass",
+   "type": "work",
+   "name": "UFO Abductions: A Dangerous Game",
+   "description": "1989 book by Philip J. Klass."
+  },
+  {
+   "key": "w_lkl",
+   "type": "work",
+   "name": "Larry King Live",
+   "description": "CNN program on which Walton, Rogers and Klass appeared."
+  },
+  {
+   "key": "w_mot",
+   "type": "work",
+   "name": "The Moment of Truth",
+   "description": "Fox game show on which Walton appeared in 2008."
+  },
+  {
+   "key": "w_rogan",
+   "type": "work",
+   "name": "The Joe Rogan Experience",
+   "aliases": [
+    "Joe Rogan Experience"
+   ],
+   "description": "Podcast on which Walton appeared in 2021."
+  },
+  {
+   "key": "w_wilson",
+   "type": "work",
+   "name": "How To with John Wilson",
+   "description": "Television series in which Walton appeared in 2023."
+  },
+  {
+   "key": "w_intruders",
+   "type": "work",
+   "name": "Intruders",
+   "description": "Book by Budd Hopkins exploring abduction cases."
+  },
+  {
+   "key": "c_hill",
+   "type": "case",
+   "name": "Barney and Betty Hill incident",
+   "aliases": [
+    "Barney Hill \"alien abduction\" case"
+   ],
+   "description": "Alleged alien abduction recalled by Barney Hill after hypnosis, dramatized in The UFO Incident."
+  },
+  {
+   "key": "c_phoenix",
+   "type": "case",
+   "name": "Phoenix Lights",
+   "description": "UFO sighting that Rogers reportedly claimed to have hoaxed."
+  },
+  {
+   "key": "c_pasc",
+   "type": "case",
+   "name": "Pascagoula incident",
+   "description": "UFO case listed under See also."
+  },
+  {
+   "key": "f_abd",
+   "type": "feature",
+   "name": "abduction-claim"
+  },
+  {
+   "key": "f_occ",
+   "type": "feature",
+   "name": "occupants-reported"
+  },
+  {
+   "key": "f_hyp",
+   "type": "feature",
+   "name": "hypnosis-used"
+  },
+  {
+   "key": "f_poly",
+   "type": "feature",
+   "name": "polygraph-used"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses"
+  },
+  {
+   "key": "f_missing",
+   "type": "feature",
+   "name": "missing-time"
+  },
+  {
+   "key": "f_disapp",
+   "type": "feature",
+   "name": "death-or-disappearance"
+  },
+  {
+   "key": "f_hoaxa",
+   "type": "feature",
+   "name": "hoax-alleged"
+  },
+  {
+   "key": "f_hoaxc",
+   "type": "feature",
+   "name": "hoax-confessed"
+  },
+  {
+   "key": "f_phys",
+   "type": "feature",
+   "name": "physiological-effects"
+  },
+  {
+   "key": "f_disc",
+   "type": "feature",
+   "name": "shape-disc"
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation"
+  },
+  {
+   "key": "f_beam",
+   "type": "feature",
+   "name": "other:beam of light"
+  },
+  {
+   "key": "x_hoax",
+   "type": "explanation",
+   "name": "hoax",
+   "description": "The incident was staged by Walton and/or members of the crew."
+  },
+  {
+   "key": "x_search",
+   "type": "explanation",
+   "name": "searchlight",
+   "description": "A spotlight on the Gentry Tower fire lookout created the illusion of a UFO's light."
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1975-11-05",
+   "quote": "The Travis Walton incident was an alleged alien abduction of American forestry worker Travis Walton on November 5, 1975, in the Apache–Sitgreaves National Forests near Heber, Arizona."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1975-11-11",
+   "quote": "On November 11, press reported that Walton had been found."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "The Travis Walton incident was an alleged alien abduction of American forestry worker Travis Walton on November 5, 1975, in the Apache–Sitgreaves National Forests near Heber, Arizona."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "7:45 p.m.",
+   "quote": "At 7:45 p.m., a member of the logging crew called police officer L. C. Ellison."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "after sunset",
+   "quote": "They asserted that when they were driving back to town after sunset, driver Mike Rogers stopped the truck because they saw an unusual light."
+  },
+  {
+   "s": "case",
+   "p": "witness_count",
+   "v": "6",
+   "quote": "Six members of the crew claimed they were driving down a forest road when they saw an illuminated object above the ground near the roadway."
+  },
+  {
+   "s": "case",
+   "p": "crew_size",
+   "v": "7",
+   "quote": "In 1975, Travis, aged 22, was a member of a seven-person forestry crew led by Carl's older brother Michael H. Rogers, aged 28."
+  },
+  {
+   "s": "case",
+   "p": "duration",
+   "v": "five days",
+   "quote": "After five days, a bedraggled Walton called his sister from a phone booth in Heber."
+  },
+  {
+   "s": "case",
+   "p": "description",
+   "v": "alleged alien abduction of American forestry worker Travis Walton",
+   "quote": "The Travis Walton incident was an alleged alien abduction of American forestry worker Travis Walton on November 5, 1975, in the Apache–Sitgreaves National Forests near Heber, Arizona."
+  },
+  {
+   "s": "case",
+   "p": "report",
+   "v": "a logging crew reported that one of their members, Travis Walton, was missing",
+   "quote": "On November 5, 1975, a logging crew reported that one of their members, Travis Walton, was missing."
+  },
+  {
+   "s": "case",
+   "p": "witness_statement",
+   "v": "the crew drove away in fear, believing Walton to be dead",
+   "quote": "Fearful, the crew drove away, believing Walton to be dead."
+  },
+  {
+   "s": "case",
+   "p": "witness_statement",
+   "v": "they returned 15 minutes later to find both Walton and the light missing",
+   "quote": "They said that they drove away in fear, only to return 15 minutes later to find both Walton and the light missing."
+  },
+  {
+   "s": "case",
+   "p": "search",
+   "v": "police organized several search parties, aided by a helicopter",
+   "quote": "police organized several search parties, aided by a helicopter."
+  },
+  {
+   "s": "case",
+   "p": "search",
+   "v": "three other crew members refused to return to Turkey Springs and drove home in Rogers's vehicle",
+   "quote": "According to a 1983 account, Rogers and two crew members agreed to return to Turkey Springs with the three officers, while the three other crew members refused to return and instead drove home in Rogers's vehicle."
+  },
+  {
+   "s": "case",
+   "p": "search",
+   "v": "six men searched Turkey Springs until shortly after midnight",
+   "quote": "The six men searched Turkey Springs until shortly after midnight, when Sheriff Gillespie paused the search until dawn."
+  },
+  {
+   "s": "case",
+   "p": "search",
+   "v": "search party of nearly 50 people on November 7 failed to find Travis or any signs of an altercation",
+   "quote": "The following day, November 7, a search party of nearly 50 people scoured the Turkey Springs area, but failed to find Travis or any signs of an altercation."
+  },
+  {
+   "s": "case",
+   "p": "search",
+   "v": "search continued on November 9 until late afternoon, when Walton's mother again requested it be halted",
+   "quote": "On November 9, law enforcement continued the search for Travis until late afternoon, when Walton's mother again requested the search be halted."
+  },
+  {
+   "s": "case",
+   "p": "press_coverage",
+   "v": "regional papers covered the story on November 8",
+   "quote": "Regional papers covered the story on November 8."
+  },
+  {
+   "s": "case",
+   "p": "press_coverage",
+   "v": "by November 10 stories were being published throughout the US, UK, and Canada",
+   "quote": "By November 10, stories of Walton's disappearance were being published throughout the US, UK, and Canada."
+  },
+  {
+   "s": "case",
+   "p": "press_coverage",
+   "v": "on November 11 press reported that Walton had been found",
+   "quote": "On November 11, press reported that Walton had been found."
+  },
+  {
+   "s": "case",
+   "p": "press_coverage",
+   "v": "the press began calling Duane's home in an attempt to reach Travis",
+   "quote": "The press began calling Duane's home in an attempt to reach Travis."
+  },
+  {
+   "s": "case",
+   "p": "award",
+   "v": "$5,000 prize for Best Case of the Year from the National Enquirer",
+   "quote": "Walton sold his abduction story to a tabloid, the National Enquirer, which published the account and awarded the crew a $5,000 prize for Best Case of the Year."
+  },
+  {
+   "s": "case",
+   "p": "alleged_motive",
+   "v": "an abduction could be considered an \"Act of God\", enabling the crew to avoid a financial penalty for failing to complete their contract by the deadline",
+   "quote": "They suggested a potential motive: an abduction could be considered an \"Act of God\", thus enabling the logging crew to avoid a steep financial penalty from the Forestry Service for failing to complete their contract by the deadline, as they were behind schedule."
+  },
+  {
+   "s": "case",
+   "p": "legacy",
+   "v": "has continued to attract interest into the 21st century",
+   "quote": "The case has continued to attract interest into the 21st century."
+  },
+  {
+   "s": "case",
+   "p": "later_claim",
+   "v": "other claims and counterclaims have been posted in social media and broadcast on podcasts",
+   "quote": "Other claims and counterclaims have been posted in social media and were broadcast on such podcasts as Erica Lukes's UFO series."
+  },
+  {
+   "s": "case",
+   "p": "timing",
+   "v": "The UFO Incident aired two weeks before the incident",
+   "quote": "The film aired two weeks before the Travis Walton UFO incident."
+  },
+  {
+   "s": "case",
+   "p": "skeptic_view",
+   "v": "later researchers suggested Rogers and Walton could have been inspired by the film to concoct their own abduction story",
+   "quote": "Later researchers suggested that Rogers and Walton could have been inspired by the film to concoct their own alleged abduction story."
+  },
+  {
+   "s": "case",
+   "p": "skeptic_view",
+   "v": "a UFO hoax promoted by a credulous media circus, with the publicity exploited by Walton to make money",
+   "quote": "Skeptics assert the story is an example of a UFO hoax promoted by a credulous media circus with the resulting publicity exploited by Walton to make money."
+  },
+  {
+   "s": "case",
+   "p": "unnamed_witness",
+   "v": "one crew member recalled Mike Rogers and Travis Walton arguing about how UFOs can fly",
+   "quote": "One member of the crew recalled Mike Rogers and Travis Walton arguing about how UFOs can fly."
+  },
+  {
+   "s": "case",
+   "p": "unnamed_witness",
+   "v": "telephone operator recognized Walton's name as that of the missing man and alerted Sheriff Gillespie",
+   "quote": "As part of the collect call procedure, Travis told the operator his name; she recognized his name as that of the missing man and alerted Sheriff Gillespie, who dispatched a deputy to the family ranch house."
+  },
+  {
+   "s": "case",
+   "p": "medical_examination",
+   "v": "two medical doctors who were amateur UFO investigators made a house call arranged by UFO researchers, arriving at 3:00 p.m.",
+   "quote": "Once there, UFO researchers arranged a house call by two medical doctors who were also amateur UFO investigators."
+  },
+  {
+   "s": "case",
+   "p": "medical_examination",
+   "v": "the doctors noted an apparent puncture mark and estimated it to be 24 to 48 hours old",
+   "quote": "The doctors noted the presence of the apparent puncture mark and estimated it to be 24 to 48 hours old."
+  },
+  {
+   "s": "case",
+   "p": "hypnosis_session",
+   "v": "a doctor associated with a UFO group had a two-hour conversation with a hypnotized Travis in the presence of Enquirer reporters",
+   "quote": "That night, in the presence of Enquirer reporters, a doctor associated with a UFO group had a two-hour conversation with a hypnotized Travis about the incident."
+  },
+  {
+   "s": "case",
+   "p": "polygraph_result",
+   "v": "five out of the six men were judged truthful; the sixth man's results were \"inconclusive\"",
+   "quote": "All denied having harmed Travis—Gilson opined that five out of the six men were being truthful and described results for the sixth man, Allen Dalis, as \"inconclusive\"."
+  },
+  {
+   "s": "case",
+   "p": "polygraph_result",
+   "v": "Walton and his co-workers were said to have passed polygraph tests administered by the Enquirer and APRO",
+   "quote": "The National Enquirer awarded Walton and his co-workers a $5,000 prize for \"best UFO case of the year\" after they were said to have passed polygraph tests administered by the Enquirer and the Aerial Phenomena Research Organization (APRO)."
+  },
+  {
+   "s": "case",
+   "p": "suspected",
+   "v": "authorities thought Walton had been murdered by his co-workers",
+   "quote": "Ufologist Jim Ledwith said, \"For five days, the authorities thought he'd been murdered by his co-workers, and then he was returned.\""
+  },
+  {
+   "s": "case",
+   "p": "reputation",
+   "v": "the Walton family long had a reputation for pranks and practical jokes",
+   "quote": "The Walton family long had a reputation for pranks and practical jokes."
+  },
+  {
+   "s": "case",
+   "p": "reputation",
+   "v": "a neighboring family, the Gibsons, recalled being the target of multiple pranks",
+   "quote": "One neighboring family, the Gibsons, recalled being the target of multiple pranks."
+  },
+  {
+   "s": "case",
+   "p": "reputation",
+   "v": "Mike Rogers and the Waltons were known for their interest in UFOs",
+   "quote": "Mike Rogers and the Waltons were known for their interest in UFOs."
+  },
+  {
+   "s": "case",
+   "p": "contrast",
+   "v": "Walton didn't report paralysis, recovered memories, or other common elements of an \"alien abduction\" narrative",
+   "quote": "Walton didn't report paralysis, recovered memories, or other common elements of an \"alien abduction\" narrative, leading Fire in the Sky screenwriter Tracy Tormé to opine \"I don't think the Travis case is an abduction case"
+  },
+  {
+   "s": "case",
+   "p": "later_claim",
+   "v": "Rogers's daughter reported he made a deathbed confession that the incident was a hoax in which he had participated",
+   "quote": "Mike Rogers's daughter reported that Rogers — who died in February 2026 — made a deathbed confession affirming the incident was a hoax in which he had participated."
+  },
+  {
+   "s": "walton",
+   "p": "witness",
+   "o": "case",
+   "quote": "The Travis Walton incident was an alleged alien abduction of American forestry worker Travis Walton on November 5, 1975, in the Apache–Sitgreaves National Forests near Heber, Arizona."
+  },
+  {
+   "s": "walton",
+   "p": "occupation",
+   "v": "forestry worker",
+   "quote": "The Travis Walton incident was an alleged alien abduction of American forestry worker Travis Walton on November 5, 1975, in the Apache–Sitgreaves National Forests near Heber, Arizona."
+  },
+  {
+   "s": "walton",
+   "p": "nationality",
+   "v": "American",
+   "quote": "The Travis Walton incident was an alleged alien abduction of American forestry worker Travis Walton on November 5, 1975, in the Apache–Sitgreaves National Forests near Heber, Arizona."
+  },
+  {
+   "s": "walton",
+   "p": "statement",
+   "v": "said that he was taken aboard a flying saucer",
+   "quote": "Walton reportedly had said that he was taken aboard a flying saucer."
+  },
+  {
+   "s": "walton",
+   "p": "action",
+   "v": "got out and walked into the forest toward the source of the illumination",
+   "quote": "His close friend Walton got out and walked into the forest toward the source of the illumination."
+  },
+  {
+   "s": "walton",
+   "p": "action",
+   "v": "got out of the truck and ran towards the object, which shone a light on him",
+   "quote": "They reported that Walton got out of the truck and ran towards the object, which shone a light on him."
+  },
+  {
+   "s": "walton",
+   "p": "action",
+   "v": "called his sister from a phone booth in Heber after five days",
+   "quote": "After five days, a bedraggled Walton called his sister from a phone booth in Heber."
+  },
+  {
+   "s": "walton",
+   "p": "appearance",
+   "v": "bedraggled",
+   "quote": "After five days, a bedraggled Walton called his sister from a phone booth in Heber."
+  },
+  {
+   "s": "walton",
+   "p": "action",
+   "v": "sold his abduction story to the National Enquirer",
+   "quote": "Walton sold his abduction story to a tabloid, the National Enquirer, which published the account and awarded the crew a $5,000 prize for Best Case of the Year."
+  },
+  {
+   "s": "walton",
+   "p": "authored",
+   "o": "w_book",
+   "quote": "In 1978, he published his account as The Walton Experience."
+  },
+  {
+   "s": "walton",
+   "p": "statement",
+   "v": "claimed sole authorship of The Walton Experience",
+   "quote": "While he claimed sole authorship, it was rumored to have been ghostwritten by John G. Fuller."
+  },
+  {
+   "s": "walton",
+   "p": "birth_year",
+   "v": "around 1953",
+   "quote": "Travis Walton was born around 1953 to Mary Walton (later Mary Walton Kellott)."
+  },
+  {
+   "s": "walton",
+   "p": "relative_of",
+   "o": "mary",
+   "quote": "Travis Walton was born around 1953 to Mary Walton (later Mary Walton Kellott)."
+  },
+  {
+   "s": "walton",
+   "p": "criminal_record",
+   "v": "pleaded guilty on May 5, 1971 to breaking into the offices of the Western Molding Company, stealing company checks, forging and cashing them",
+   "quote": "On May 5, 1971, Travis Walton and associate Carl Rogers pleaded guilty to breaking into the offices of the Western Molding Company, stealing company checks, forging and then cashing them."
+  },
+  {
+   "s": "walton",
+   "p": "criminal_record",
+   "v": "placed on probation for two years, then allowed to plead not guilty and \"cleanse their records\"",
+   "quote": "The pair were placed on probation for two years, after which they were allowed to plead not guilty and \"cleanse their records\"."
+  },
+  {
+   "s": "walton",
+   "p": "colleague_of",
+   "o": "carl",
+   "quote": "On May 5, 1971, Travis Walton and associate Carl Rogers pleaded guilty to breaking into the offices of the Western Molding Company, stealing company checks, forging and then cashing them."
+  },
+  {
+   "s": "walton",
+   "p": "age",
+   "v": "22",
+   "quote": "In 1975, Travis, aged 22, was a member of a seven-person forestry crew led by Carl's older brother Michael H. Rogers, aged 28."
+  },
+  {
+   "s": "walton",
+   "p": "colleague_of",
+   "o": "rogers",
+   "quote": "In 1975, Travis, aged 22, was a member of a seven-person forestry crew led by Carl's older brother Michael H. Rogers, aged 28."
+  },
+  {
+   "s": "walton",
+   "p": "relationship",
+   "v": "close friend of Mike Rogers",
+   "quote": "His close friend Walton got out and walked into the forest toward the source of the illumination."
+  },
+  {
+   "s": "walton",
+   "p": "relative_of",
+   "o": "duane",
+   "quote": "Walton, his older brother Duane, and his mother were described by the sheriff at the time as \"longtime students of UFOs\"."
+  },
+  {
+   "s": "walton",
+   "p": "reputation",
+   "v": "described by the sheriff as one of the \"longtime students of UFOs\"",
+   "quote": "Walton, his older brother Duane, and his mother were described by the sheriff at the time as \"longtime students of UFOs\"."
+  },
+  {
+   "s": "walton",
+   "p": "statement",
+   "v": "reportedly told his mother not to worry if he were ever abducted by aliens because he would return safe and sound",
+   "quote": "According to researcher Philip J. Klass' 1989 book UFO Abductions: A Dangerous Game, shortly before his disappearance, Travis had reportedly told his mother not to worry if he were ever abducted by aliens because he would return safe and sound."
+  },
+  {
+   "s": "walton",
+   "p": "action",
+   "v": "placed a collect call to his sister's home from a payphone in Heber, Arizona",
+   "quote": "Walton had placed a collect call to his sister's home from a payphone in Heber, Arizona."
+  },
+  {
+   "s": "walton",
+   "p": "physical_mark",
+   "v": "small lesion on the inside crease of his right elbow",
+   "quote": "Steward also noted that Travis had a small lesion on the inside crease of his right elbow, consistent with intravenous drug use."
+  },
+  {
+   "s": "walton",
+   "p": "action",
+   "v": "skipped a polygraph interview with police on November 14",
+   "quote": "On November 14, Travis skipped a polygraph interview with police."
+  },
+  {
+   "s": "walton",
+   "p": "action",
+   "v": "moved with Duane into a suite at the Sheraton Inn in Scottsdale",
+   "quote": "After a local UFO group facilitated the connection, Duane and Travis moved into a suite at the Sheraton Inn in Scottsdale; the costs were covered by The National Enquirer in exchange for exclusive access to Walton and his story."
+  },
+  {
+   "s": "walton",
+   "p": "action",
+   "v": "demanded with Duane that Sheriff Gillespie not record the interview",
+   "quote": "Duane and Travis demanded that Sheriff Gillespie not record the interview."
+  },
+  {
+   "s": "walton",
+   "p": "statement",
+   "v": "lost consciousness when struck by a beam of light and awoke in a hospital-like room, observed by three short, bald humanoids",
+   "quote": "Travis claimed that he had lost consciousness when struck by a beam of light, and that he awoke in a hospital-like room, being observed by three short, bald humanoids."
+  },
+  {
+   "s": "walton",
+   "p": "statement",
+   "v": "fought with them until a human wearing a helmet led him to another room, where he blacked out as three other humans put a clear plastic mask over his face",
+   "quote": "He says that he fought with them until a human wearing a helmet led Walton to another room, where he blacked out as three other humans put a clear plastic mask over his face."
+  },
+  {
+   "s": "walton",
+   "p": "statement",
+   "v": "remembers nothing else until he found himself walking along a highway five days later, with the flying saucer departing above him",
+   "quote": "Walton has said that he remembers nothing else until he found himself walking along a highway five days later, with the flying saucer departing above him."
+  },
+  {
+   "s": "walton",
+   "p": "described",
+   "o": "object",
+   "quote": "Walton has said that he remembers nothing else until he found himself walking along a highway five days later, with the flying saucer departing above him."
+  },
+  {
+   "s": "walton",
+   "p": "polygraph_result",
+   "v": "McCarthy concluded he was engaged in a \"gross deception\" and had been holding his breath to \"beat the machine\"",
+   "quote": "McCarthy concluded that Travis was engaged in a \"gross deception\" and had even been intentionally holding his breath in an attempt to \"beat the machine\"."
+  },
+  {
+   "s": "walton",
+   "p": "polygraph_result",
+   "v": "determined by a private polygrapher to be engaged in deception on The Moment of Truth in 2008",
+   "quote": "In 2008, Walton was analyzed by a private polygrapher and determined to be engaged in deception when he appeared on the Fox game show The Moment of Truth."
+  },
+  {
+   "s": "walton",
+   "p": "role",
+   "v": "made a cameo in Fire in the Sky",
+   "quote": "Travis Walton made a cameo in the film."
+  },
+  {
+   "s": "walton",
+   "p": "activity",
+   "v": "has occasionally appeared at UFO conventions or on television",
+   "quote": "Walton has occasionally appeared at UFO conventions or on television."
+  },
+  {
+   "s": "walton",
+   "p": "activity",
+   "v": "sponsors his own UFO conference in Arizona called the \"Skyfire Summit\"",
+   "quote": "He sponsors his own UFO conference in Arizona called the \"Skyfire Summit\"."
+  },
+  {
+   "s": "walton",
+   "p": "action",
+   "v": "did not work on the day of the incident; slept in the truck while claiming to be ill \"from carousing too much\" (per Pierce)",
+   "quote": "Pierce recalled that Walton did not work at all during the day of the incident; instead, he slept in the truck while claiming to be ill \"from carousing too much\"."
+  },
+  {
+   "s": "walton",
+   "p": "later_event",
+   "v": "reconciled with Rogers after the 2021 dispute",
+   "quote": "Rogers and Walton later reconciled and Rogers issued a statement retracting his confession."
+  },
+  {
+   "s": "rogers",
+   "p": "witness",
+   "o": "case",
+   "quote": "They asserted that when they were driving back to town after sunset, driver Mike Rogers stopped the truck because they saw an unusual light."
+  },
+  {
+   "s": "rogers",
+   "p": "role",
+   "v": "driver of the truck",
+   "quote": "They asserted that when they were driving back to town after sunset, driver Mike Rogers stopped the truck because they saw an unusual light."
+  },
+  {
+   "s": "rogers",
+   "p": "role",
+   "v": "crew chief",
+   "quote": "On November 5, 1975, crew chief Michael H. Rogers reported Travis Walton missing to the Navajo County sheriff."
+  },
+  {
+   "s": "rogers",
+   "p": "action",
+   "v": "stopped the truck because they saw an unusual light",
+   "quote": "They asserted that when they were driving back to town after sunset, driver Mike Rogers stopped the truck because they saw an unusual light."
+  },
+  {
+   "s": "rogers",
+   "p": "action",
+   "v": "reported Travis Walton missing to the Navajo County sheriff",
+   "quote": "On November 5, 1975, crew chief Michael H. Rogers reported Travis Walton missing to the Navajo County sheriff."
+  },
+  {
+   "s": "rogers",
+   "p": "age",
+   "v": "28",
+   "quote": "In 1975, Travis, aged 22, was a member of a seven-person forestry crew led by Carl's older brother Michael H. Rogers, aged 28."
+  },
+  {
+   "s": "rogers",
+   "p": "relative_of",
+   "o": "carl",
+   "quote": "In 1975, Travis, aged 22, was a member of a seven-person forestry crew led by Carl's older brother Michael H. Rogers, aged 28."
+  },
+  {
+   "s": "rogers",
+   "p": "action",
+   "v": "won a bid for a federal contract to thin trees at Turkey Springs by underbidding two other contractors",
+   "quote": "The year prior, Rogers had won a bid for a federal contract to thin out small trees from an area known as Turkey Springs in the Apache-Sitgreaves National Forests when he underbid two other contractors."
+  },
+  {
+   "s": "rogers",
+   "p": "action",
+   "v": "requested and was granted an extension until November 10",
+   "quote": "Rogers requested, and was granted, an extension until November 10."
+  },
+  {
+   "s": "rogers",
+   "p": "authored",
+   "o": "d_letter",
+   "quote": "On October 20, Rogers wrote to his Forestry Service contracting officer: \"I cannot honestly say whether or not we will finish on time."
+  },
+  {
+   "s": "rogers",
+   "p": "statement",
+   "v": "I cannot honestly say whether or not we will finish on time",
+   "quote": "On October 20, Rogers wrote to his Forestry Service contracting officer: \"I cannot honestly say whether or not we will finish on time."
+  },
+  {
+   "s": "rogers",
+   "p": "statement",
+   "v": "I have had considerable trouble keeping a full crew on the job; the area is very thick and the guys have poor morale",
+   "quote": "I have had considerable trouble keeping a full crew on the job. The area is very thick and the guys have poor morale because of this"
+  },
+  {
+   "s": "rogers",
+   "p": "action",
+   "v": "agreed with two crew members to return to Turkey Springs with the three officers",
+   "quote": "According to a 1983 account, Rogers and two crew members agreed to return to Turkey Springs with the three officers, while the three other crew members refused to return and instead drove home in Rogers's vehicle."
+  },
+  {
+   "s": "rogers",
+   "p": "action",
+   "v": "visited Walton's mother with Deputy Coplan around 1:30 a.m.",
+   "quote": "Around 1:30 a.m., Navajo County Deputy Sheriff Kenneth Coplan and Rogers visited Walton's mother."
+  },
+  {
+   "s": "rogers",
+   "p": "action",
+   "v": "drove Walton's mother into town so she could call Duane and their sister",
+   "quote": "Because Travis Walton's mother lived in a ranch house without telephone service, Rogers drove her into town so she could call Travis's brother Duane and their sister while Coplan followed."
+  },
+  {
+   "s": "rogers",
+   "p": "action",
+   "v": "complained in person with Duane Walton on November 8 about the discontinued search",
+   "quote": "But the following morning, November 8, Rogers and Duane Walton complained in person about the discontinued search."
+  },
+  {
+   "s": "rogers",
+   "p": "statement",
+   "v": "This contract we have is seriously behind schedule. In fact, Monday the time is up.",
+   "quote": "During the interview, Rogers discussed the Forestry contract, saying \"This contract we have is seriously behind schedule. In fact, Monday the time is up."
+  },
+  {
+   "s": "rogers",
+   "p": "statement",
+   "v": "We haven't done any work on it since Wednesday because of this thing, and therefore it won't be done. I hope they take that into account.",
+   "quote": "We haven't done any work on it since Wednesday because of this thing, and therefore it won't be done. I hope they take that into account."
+  },
+  {
+   "s": "rogers",
+   "p": "action",
+   "v": "interrogated with the five other crew members by polygraph examiner C. E. Gilson on November 11",
+   "quote": "Also on November 11, Rogers and the five other members of the forestry crew were interrogated by Arizona Dept. of Public Safety polygraph examiner C. E. Gilson to determine if the men had murdered Travis Walton."
+  },
+  {
+   "s": "rogers",
+   "p": "later_claim",
+   "v": "in March 2021 renounced his status as a witness to Walton's \"supposed abduction\"",
+   "quote": "In March 2021, Mike Rogers posted on his Facebook page renouncing his status as a witness to Walton's \"supposed abduction\"."
+  },
+  {
+   "s": "rogers",
+   "p": "action",
+   "v": "declined to clarify that statement",
+   "quote": "He declined to clarify that statement."
+  },
+  {
+   "s": "rogers",
+   "p": "later_claim",
+   "v": "in May posted an omnibus apology to Travis Walton for any recent negative commentary",
+   "quote": "In May, he posted an omnibus apology wherein he apologized to Travis Walton for any recent negative commentary."
+  },
+  {
+   "s": "rogers",
+   "p": "authored",
+   "o": "d_fb",
+   "quote": "On March 19, 2021, Mike Rogers posted a statement to his Facebook page announcing \"I, Michael H. Rogers, being of sound and rational mind, do hereby give notice that I am no longer to be considered a witness to Travis C. Walton's supposed abduction of November 5, 1975.\""
+  },
+  {
+   "s": "rogers",
+   "p": "statement",
+   "v": "I am no longer to be considered a witness to Travis C. Walton's supposed abduction of November 5, 1975",
+   "quote": "On March 19, 2021, Mike Rogers posted a statement to his Facebook page announcing \"I, Michael H. Rogers, being of sound and rational mind, do hereby give notice that I am no longer to be considered a witness to Travis C. Walton's supposed abduction of November 5, 1975.\""
+  },
+  {
+   "s": "rogers",
+   "p": "statement",
+   "v": "Travis tried to keep a new remake of the movie a secret from me... It angered me.",
+   "quote": "He later clarified: \"Travis tried to keep a new remake of the movie a secret from me. He has always had his big secrets that he has kept from me. It angered me."
+  },
+  {
+   "s": "rogers",
+   "p": "statement",
+   "v": "I don't believe Travis is an honest person, and therefore I want nothing to do with him.",
+   "quote": "I don’t believe Travis is an honest person, and therefore I want nothing to do with him."
+  },
+  {
+   "s": "rogers",
+   "p": "action",
+   "v": "placed a call to producer Ryan Gordon on April 30, 2021",
+   "quote": "On April 30, Rogers placed a call to producer Ryan Gordon, who was working on a new film about the Walton incident."
+  },
+  {
+   "s": "rogers",
+   "p": "later_claim",
+   "v": "We were talking about creating a UFO hoax",
+   "quote": "We were talking about creating a UFO hoax, okay? I don't know how the UFO got there."
+  },
+  {
+   "s": "rogers",
+   "p": "later_claim",
+   "v": "when I was driving the truck and he jumped out, it was all deliberate. It was all a staged thing",
+   "quote": "when I was driving the truck and he jumped out, it was all deliberate. It was all a staged thing, okay?"
+  },
+  {
+   "s": "rogers",
+   "p": "later_claim",
+   "v": "there was something about the UFO not being real, although it looked real",
+   "quote": "He ran up there and there was something about the UFO not being real, although it looked real."
+  },
+  {
+   "s": "rogers",
+   "p": "later_claim",
+   "v": "Travis' brother Duane helped him",
+   "quote": "Travis' brother Duane helped him."
+  },
+  {
+   "s": "rogers",
+   "p": "later_claim",
+   "v": "reconciled with Walton and issued a statement retracting his confession",
+   "quote": "Rogers and Walton later reconciled and Rogers issued a statement retracting his confession."
+  },
+  {
+   "s": "rogers",
+   "p": "statement",
+   "v": "acknowledged he had watched \"the first part\" of the television special dramatizing the Barney Hill case",
+   "quote": "Rogers later acknowledged he had watched \"the first part\" of the recent television special that dramatized the Barney Hill \"alien abduction\" case, while the Waltons acknowledged prior discussions of wanting to be taken aboard a UFO."
+  },
+  {
+   "s": "rogers",
+   "p": "action",
+   "v": "made the crew stay past dark on the day of the incident, whereas they usually ended work at 4:00 p.m. (per Pierce)",
+   "quote": "Pierce noted that on the day of the incident, Rogers made the crew stay past dark whereas they usually ended work at 4:00 p.m."
+  },
+  {
+   "s": "rogers",
+   "p": "action",
+   "v": "disappeared from the worksite for two hours that day (per Pierce)",
+   "quote": "He also reported that Mike Rogers disappeared from the worksite for two hours that day."
+  },
+  {
+   "s": "rogers",
+   "p": "death_date",
+   "v": "February 2026",
+   "quote": "Mike Rogers's daughter reported that Rogers — who died in February 2026 — made a deathbed confession affirming the incident was a hoax in which he had participated."
+  },
+  {
+   "s": "rogers",
+   "p": "later_claim",
+   "v": "deathbed confession, reported by his daughter, affirming the incident was a hoax in which he had participated",
+   "quote": "Mike Rogers's daughter reported that Rogers — who died in February 2026 — made a deathbed confession affirming the incident was a hoax in which he had participated."
+  },
+  {
+   "s": "rogers",
+   "p": "later_claim",
+   "v": "reportedly \"confessed\" to his daughter to having hoaxed the Phoenix Lights using balloons or something",
+   "quote": "Rogers also reportedly \"confessed\" to his daughter to having hoaxed the famous Phoenix Lights using balloons or something, which is preposterous."
+  },
+  {
+   "s": "rogers",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "when I was driving the truck and he jumped out, it was all deliberate. It was all a staged thing, okay?"
+  },
+  {
+   "s": "rogers",
+   "p": "piloted",
+   "o": "truck",
+   "quote": "They asserted that when they were driving back to town after sunset, driver Mike Rogers stopped the truck because they saw an unusual light."
+  },
+  {
+   "s": "rogers",
+   "p": "owned",
+   "o": "truck",
+   "quote": "According to a 1983 account, Rogers and two crew members agreed to return to Turkey Springs with the three officers, while the three other crew members refused to return and instead drove home in Rogers's vehicle."
+  },
+  {
+   "s": "rogers",
+   "p": "appeared_on",
+   "o": "w_lkl",
+   "quote": "On the opening day of Fire in the Sky – March 12, 1993 – Walton and Mike Rogers appeared on the CNN program Larry King Live, which also featured Philip J. Klass."
+  },
+  {
+   "s": "walton",
+   "p": "appeared_on",
+   "o": "w_lkl",
+   "quote": "On the opening day of Fire in the Sky – March 12, 1993 – Walton and Mike Rogers appeared on the CNN program Larry King Live, which also featured Philip J. Klass."
+  },
+  {
+   "s": "walton",
+   "p": "appeared_on",
+   "o": "w_mot",
+   "quote": "In 2008, Walton was analyzed by a private polygrapher and determined to be engaged in deception when he appeared on the Fox game show The Moment of Truth."
+  },
+  {
+   "s": "walton",
+   "p": "appeared_on",
+   "o": "w_rogan",
+   "quote": "On January 19, 2021, Walton appeared on episode #1597 of the Joe Rogan Experience podcast."
+  },
+  {
+   "s": "walton",
+   "p": "appeared_on",
+   "o": "w_wilson",
+   "quote": "On August 25, 2023, he appeared in the fifth episode of the third season of How To with John Wilson, titled \"How to Watch Birds\"."
+  },
+  {
+   "s": "fuller",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "While he claimed sole authorship, it was rumored to have been ghostwritten by John G. Fuller."
+  },
+  {
+   "s": "fuller",
+   "p": "rumor",
+   "v": "rumored to have ghostwritten The Walton Experience",
+   "quote": "While he claimed sole authorship, it was rumored to have been ghostwritten by John G. Fuller."
+  },
+  {
+   "s": "torme",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "The book was adapted by Tracy Tormé as the 1993 film Fire in the Sky, directed by Robert Lieberman; the filmmakers admitted taking creative liberties with Walton's purported account."
+  },
+  {
+   "s": "torme",
+   "p": "occupation",
+   "v": "screenwriter",
+   "quote": "Paramount Pictures decided that Walton's account was \"too fuzzy and too similar to other televised close encounters\", so they ordered screenwriter Tracy Tormé to write a \"flashier, more provocative\" abduction story."
+  },
+  {
+   "s": "torme",
+   "p": "role",
+   "v": "adapted The Walton Experience as the 1993 film Fire in the Sky",
+   "quote": "The book was adapted by Tracy Tormé as the 1993 film Fire in the Sky, directed by Robert Lieberman; the filmmakers admitted taking creative liberties with Walton's purported account."
+  },
+  {
+   "s": "torme",
+   "p": "action",
+   "v": "ordered by Paramount Pictures to write a \"flashier, more provocative\" abduction story",
+   "quote": "Paramount Pictures decided that Walton's account was \"too fuzzy and too similar to other televised close encounters\", so they ordered screenwriter Tracy Tormé to write a \"flashier, more provocative\" abduction story."
+  },
+  {
+   "s": "torme",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Walton didn't report paralysis, recovered memories, or other common elements of an \"alien abduction\" narrative, leading Fire in the Sky screenwriter Tracy Tormé to opine \"I don't think the Travis case is an abduction case"
+  },
+  {
+   "s": "torme",
+   "p": "statement",
+   "v": "I don't think the Travis case is an abduction case",
+   "quote": "Walton didn't report paralysis, recovered memories, or other common elements of an \"alien abduction\" narrative, leading Fire in the Sky screenwriter Tracy Tormé to opine \"I don't think the Travis case is an abduction case"
+  },
+  {
+   "s": "torme",
+   "p": "statement",
+   "v": "it doesn't fit any of the other patterns as in the cases that were explored in Intruders",
+   "quote": "it doesn't fit any of the other patterns as in the cases that were explored in [Budd Hopkins's book] Intruders."
+  },
+  {
+   "s": "torme",
+   "p": "statement",
+   "v": "So many witnesses, gone for five days... all those things break the mold and make this case unique",
+   "quote": "So many witnesses, gone for five days. . . . So I think all those things break the mold and make this case unique."
+  },
+  {
+   "s": "lieberman",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "The book was adapted by Tracy Tormé as the 1993 film Fire in the Sky, directed by Robert Lieberman; the filmmakers admitted taking creative liberties with Walton's purported account."
+  },
+  {
+   "s": "lieberman",
+   "p": "role",
+   "v": "director of Fire in the Sky",
+   "quote": "The book was adapted by Tracy Tormé as the 1993 film Fire in the Sky, directed by Robert Lieberman; the filmmakers admitted taking creative liberties with Walton's purported account."
+  },
+  {
+   "s": "klass",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Science writers Philip J. Klass and Michael Shermer later alleged that Walton had perpetrated a hoax."
+  },
+  {
+   "s": "klass",
+   "p": "investigator",
+   "o": "case",
+   "quote": "After investigating the case, Klass reported that the polygraph tests were \"poorly administered\", that Walton used \"polygraph countermeasures\", such as holding his breath, and that Klass uncovered an earlier failed test administered by an examiner who concluded the case involved \"gross deception\"."
+  },
+  {
+   "s": "klass",
+   "p": "occupation",
+   "v": "science writer",
+   "quote": "Science writers Philip J. Klass and Michael Shermer later alleged that Walton had perpetrated a hoax."
+  },
+  {
+   "s": "klass",
+   "p": "occupation",
+   "v": "UFO researcher",
+   "quote": "UFO researcher Philip J. Klass, who agreed that Walton's story was a hoax perpetrated for financial gain, identified many discrepancies in the accounts of Walton and his co-workers."
+  },
+  {
+   "s": "klass",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "Science writers Philip J. Klass and Michael Shermer later alleged that Walton had perpetrated a hoax."
+  },
+  {
+   "s": "klass",
+   "p": "statement",
+   "v": "agreed that Walton's story was a hoax perpetrated for financial gain; identified many discrepancies in the accounts of Walton and his co-workers",
+   "quote": "UFO researcher Philip J. Klass, who agreed that Walton's story was a hoax perpetrated for financial gain, identified many discrepancies in the accounts of Walton and his co-workers."
+  },
+  {
+   "s": "klass",
+   "p": "finding",
+   "v": "the polygraph tests were \"poorly administered\" and Walton used \"polygraph countermeasures\", such as holding his breath",
+   "quote": "After investigating the case, Klass reported that the polygraph tests were \"poorly administered\", that Walton used \"polygraph countermeasures\", such as holding his breath, and that Klass uncovered an earlier failed test administered by an examiner who concluded the case involved \"gross deception\"."
+  },
+  {
+   "s": "klass",
+   "p": "finding",
+   "v": "uncovered an earlier failed test administered by an examiner who concluded the case involved \"gross deception\"",
+   "quote": "After investigating the case, Klass reported that the polygraph tests were \"poorly administered\", that Walton used \"polygraph countermeasures\", such as holding his breath, and that Klass uncovered an earlier failed test administered by an examiner who concluded the case involved \"gross deception\"."
+  },
+  {
+   "s": "klass",
+   "p": "authored",
+   "o": "w_klass",
+   "quote": "According to researcher Philip J. Klass' 1989 book UFO Abductions: A Dangerous Game, shortly before his disappearance, Travis had reportedly told his mother not to worry if he were ever abducted by aliens because he would return safe and sound."
+  },
+  {
+   "s": "klass",
+   "p": "appeared_on",
+   "o": "w_lkl",
+   "quote": "On the opening day of Fire in the Sky – March 12, 1993 – Walton and Mike Rogers appeared on the CNN program Larry King Live, which also featured Philip J. Klass."
+  },
+  {
+   "s": "klass",
+   "p": "statement",
+   "v": "argues with Pflock that Travis Walton and Mike Rogers planned the incident",
+   "quote": "Authors including Klass and Pflock argue that Travis Walton and Mike Rogers planned the incident."
+  },
+  {
+   "s": "klass",
+   "p": "statement",
+   "v": "the National Enquirer omitted all mention of Walton's prior polygraph examiner who concluded Walton was being \"grossly deceptive\"",
+   "quote": "Authors including Michael Shermer and Philip Klass note that while the National Enquirer tabloid publicized the opinion of a private polygraph examiner who reported the witnesses as being truthful, it omitted all mention of Walton's prior polygraph examiner who concluded Walton was being \"grossly deceptive\"."
+  },
+  {
+   "s": "klass",
+   "p": "statement",
+   "v": "a 'UFO-Abduction Mold' did not yet exist in 1975",
+   "quote": "Philip J. Klass noted that \"a 'UFO-Abduction Mold' did not yet exist in 1975\"."
+  },
+  {
+   "s": "shermer",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Science writers Philip J. Klass and Michael Shermer later alleged that Walton had perpetrated a hoax."
+  },
+  {
+   "s": "shermer",
+   "p": "occupation",
+   "v": "science writer and skeptic",
+   "quote": "Science writer and skeptic Michael Shermer opined: \"I think the polygraph is not a reliable determiner of truth. I think Travis Walton was not abducted by aliens."
+  },
+  {
+   "s": "shermer",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "Science writers Philip J. Klass and Michael Shermer later alleged that Walton had perpetrated a hoax."
+  },
+  {
+   "s": "shermer",
+   "p": "statement",
+   "v": "the National Enquirer omitted all mention of Walton's prior polygraph examiner who concluded Walton was being \"grossly deceptive\"",
+   "quote": "Authors including Michael Shermer and Philip Klass note that while the National Enquirer tabloid publicized the opinion of a private polygraph examiner who reported the witnesses as being truthful, it omitted all mention of Walton's prior polygraph examiner who concluded Walton was being \"grossly deceptive\"."
+  },
+  {
+   "s": "shermer",
+   "p": "statement",
+   "v": "I think the polygraph is not a reliable determiner of truth. I think Travis Walton was not abducted by aliens.",
+   "quote": "Science writer and skeptic Michael Shermer opined: \"I think the polygraph is not a reliable determiner of truth. I think Travis Walton was not abducted by aliens."
+  },
+  {
+   "s": "shermer",
+   "p": "statement",
+   "v": "the power of deception and self-deception is all we need to understand what really happened in 1975 and after",
+   "quote": "In both cases, the power of deception and self-deception is all we need to understand what really happened in 1975 and after."
+  },
+  {
+   "s": "lukes",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Other claims and counterclaims have been posted in social media and were broadcast on such podcasts as Erica Lukes's UFO series."
+  },
+  {
+   "s": "lukes",
+   "p": "role",
+   "v": "her UFO podcast series broadcast claims and counterclaims about the case",
+   "quote": "Other claims and counterclaims have been posted in social media and were broadcast on such podcasts as Erica Lukes's UFO series."
+  },
+  {
+   "s": "sheaffer",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Robert Sheaffer, a long-time writer for Skeptical Inquirer and a founding member of the UFO Subcommittee of the Committee for Skeptical Inquiry, has argued for decades that the Walton incident was a hoax."
+  },
+  {
+   "s": "sheaffer",
+   "p": "occupation",
+   "v": "long-time writer for Skeptical Inquirer",
+   "quote": "Robert Sheaffer, a long-time writer for Skeptical Inquirer and a founding member of the UFO Subcommittee of the Committee for Skeptical Inquiry, has argued for decades that the Walton incident was a hoax."
+  },
+  {
+   "s": "sheaffer",
+   "p": "employed_by",
+   "o": "si",
+   "quote": "Robert Sheaffer, a long-time writer for Skeptical Inquirer and a founding member of the UFO Subcommittee of the Committee for Skeptical Inquiry, has argued for decades that the Walton incident was a hoax."
+  },
+  {
+   "s": "sheaffer",
+   "p": "member_of",
+   "o": "csi_ufo",
+   "quote": "Robert Sheaffer, a long-time writer for Skeptical Inquirer and a founding member of the UFO Subcommittee of the Committee for Skeptical Inquiry, has argued for decades that the Walton incident was a hoax."
+  },
+  {
+   "s": "sheaffer",
+   "p": "role",
+   "v": "founding member of the UFO Subcommittee of the Committee for Skeptical Inquiry",
+   "quote": "Robert Sheaffer, a long-time writer for Skeptical Inquirer and a founding member of the UFO Subcommittee of the Committee for Skeptical Inquiry, has argued for decades that the Walton incident was a hoax."
+  },
+  {
+   "s": "sheaffer",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "Robert Sheaffer, a long-time writer for Skeptical Inquirer and a founding member of the UFO Subcommittee of the Committee for Skeptical Inquiry, has argued for decades that the Walton incident was a hoax."
+  },
+  {
+   "s": "sheaffer",
+   "p": "proposed",
+   "o": "x_search",
+   "quote": "Sheaffer suggests Travis walked towards the tower, which was brightly lit above the tree tops, until an accomplice in the tower illuminated him with the spotlight."
+  },
+  {
+   "s": "sheaffer",
+   "p": "action",
+   "v": "recommended a new website and materials developed by Charlie Wiser",
+   "quote": "Skeptic Robert Sheaffer has recommended a new website and materials developed by Charlie Wiser, an Australian researcher."
+  },
+  {
+   "s": "sheaffer",
+   "p": "statement",
+   "v": "starting in 2021, promoted the hypothesis that Rogers and the Waltons made use of a nearby fire lookout tower to achieve their hoax",
+   "quote": "Starting in 2021, Sheaffer promoted the hypothesis that Rogers and the Waltons made use of a nearby fire lookout tower to achieve their hoax."
+  },
+  {
+   "s": "sheaffer",
+   "p": "statement",
+   "v": "suggests the crew returned that night via Rim Road, which passes by Gentry Tower",
+   "quote": "While the crew typically traveled back to Heber via Black Canyon Road, Sheaffer suggests they returned that night via Rim Road, which passes by Gentry Tower"
+  },
+  {
+   "s": "sheaffer",
+   "p": "statement",
+   "v": "suggests Travis walked towards the brightly lit tower until an accomplice in the tower illuminated him with the spotlight",
+   "quote": "Sheaffer suggests Travis walked towards the tower, which was brightly lit above the tree tops, until an accomplice in the tower illuminated him with the spotlight."
+  },
+  {
+   "s": "sheaffer",
+   "p": "statement",
+   "v": "proposes that when Rogers drove the crew back to the supposed abduction site, they arrived at a different spot closer to their Turkey Springs site",
+   "quote": "Sheaffer proposes that when Rogers later drove the crew back to the supposed abduction site, they actually arrived at a different spot entirely—one closer to their Turkey Springs site."
+  },
+  {
+   "s": "sheaffer",
+   "p": "statement",
+   "v": "According to his daughter, Rogers made a deathbed confession of the Travis Walton hoax",
+   "quote": "According to his daughter, he made a deathbed confession of  the Travis Walton hoax."
+  },
+  {
+   "s": "sheaffer",
+   "p": "statement",
+   "v": "Rogers \"confessed\" in 2021 in a phone call with Ryan Gordon, but then retracted his confession soon afterward",
+   "quote": "Rogers had \"confessed\" this in 2021 in a phone call with Ryan Gordon, but then retracted his confession soon afterward."
+  },
+  {
+   "s": "sheaffer",
+   "p": "statement",
+   "v": "Rogers's reported confession to hoaxing the Phoenix Lights is preposterous",
+   "quote": "Rogers also reportedly \"confessed\" to his daughter to having hoaxed the famous Phoenix Lights using balloons or something, which is preposterous."
+  },
+  {
+   "s": "sheaffer",
+   "p": "statement",
+   "v": "this detracts from the credibility of Rogers' other confession, although I still don't doubt it",
+   "quote": "Frankly, this detracts from the credibility of Rogers' other confession, although I still don't doubt it."
+  },
+  {
+   "s": "wiser",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Based in part on work by producer Ryan Gordon, she has made a case that Gentry Tower, a fire lookout post, was used in 1975 to create the illusion of a UFO's searchlight and then as the hiding place for Walton during his purported period of abduction."
+  },
+  {
+   "s": "wiser",
+   "p": "nationality",
+   "v": "Australian",
+   "quote": "Skeptic Robert Sheaffer has recommended a new website and materials developed by Charlie Wiser, an Australian researcher."
+  },
+  {
+   "s": "wiser",
+   "p": "occupation",
+   "v": "researcher",
+   "quote": "Skeptic Robert Sheaffer has recommended a new website and materials developed by Charlie Wiser, an Australian researcher."
+  },
+  {
+   "s": "wiser",
+   "p": "action",
+   "v": "developed a new website and materials about the case",
+   "quote": "Skeptic Robert Sheaffer has recommended a new website and materials developed by Charlie Wiser, an Australian researcher."
+  },
+  {
+   "s": "wiser",
+   "p": "proposed",
+   "o": "x_search",
+   "quote": "Based in part on work by producer Ryan Gordon, she has made a case that Gentry Tower, a fire lookout post, was used in 1975 to create the illusion of a UFO's searchlight and then as the hiding place for Walton during his purported period of abduction."
+  },
+  {
+   "s": "wiser",
+   "p": "statement",
+   "v": "Gentry Tower was used in 1975 to create the illusion of a UFO's searchlight and then as the hiding place for Walton",
+   "quote": "Based in part on work by producer Ryan Gordon, she has made a case that Gentry Tower, a fire lookout post, was used in 1975 to create the illusion of a UFO's searchlight and then as the hiding place for Walton during his purported period of abduction."
+  },
+  {
+   "s": "gordon",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Based in part on work by producer Ryan Gordon, she has made a case that Gentry Tower, a fire lookout post, was used in 1975 to create the illusion of a UFO's searchlight and then as the hiding place for Walton during his purported period of abduction."
+  },
+  {
+   "s": "gordon",
+   "p": "occupation",
+   "v": "producer",
+   "quote": "On April 30, Rogers placed a call to producer Ryan Gordon, who was working on a new film about the Walton incident."
+  },
+  {
+   "s": "gordon",
+   "p": "activity",
+   "v": "working on a new film about the Walton incident",
+   "quote": "On April 30, Rogers placed a call to producer Ryan Gordon, who was working on a new film about the Walton incident."
+  },
+  {
+   "s": "gordon",
+   "p": "authored",
+   "o": "d_call",
+   "quote": "Gordon recorded the call without Rogers's knowledge, as permitted by Arizona law."
+  },
+  {
+   "s": "gordon",
+   "p": "action",
+   "v": "recorded the April 30 call without Rogers's knowledge, as permitted by Arizona law",
+   "quote": "Gordon recorded the call without Rogers's knowledge, as permitted by Arizona law."
+  },
+  {
+   "s": "gordon",
+   "p": "action",
+   "v": "publicly posted audio from the call on July 4",
+   "quote": "Two months later, on July 4, Gordon publicly posted audio from the call which featured Rogers explaining"
+  },
+  {
+   "s": "gordon",
+   "p": "action",
+   "v": "drove Steve Pierce to Gentry Tower in 2026",
+   "quote": "Upon being driven to Gentry Tower by producer Ryan Gordon in 2026, Pierce reported that his suspicions about the incident having actually been a hoax orchestrated by Walton against other crew members had risen to a level of \"100%\" confidence."
+  },
+  {
+   "s": "mary",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Travis Walton was born around 1953 to Mary Walton (later Mary Walton Kellott)."
+  },
+  {
+   "s": "mary",
+   "p": "relationship",
+   "v": "mother of Travis Walton",
+   "quote": "Travis Walton was born around 1953 to Mary Walton (later Mary Walton Kellott)."
+  },
+  {
+   "s": "mary",
+   "p": "also_known_as",
+   "v": "Mary Walton Kellott (later name)",
+   "quote": "Travis Walton was born around 1953 to Mary Walton (later Mary Walton Kellott)."
+  },
+  {
+   "s": "mary",
+   "p": "statement",
+   "v": "Well, that's the way these things happen.",
+   "quote": "According to Coplan, when he informed her of the disappearance, she said, \"Well, that's the way these things happen.\""
+  },
+  {
+   "s": "mary",
+   "p": "reaction",
+   "v": "took the news calmly with a general lack of surprise, according to Coplan",
+   "quote": "Coplan said he was shocked by how calmly she took the news and her general lack of surprise."
+  },
+  {
+   "s": "mary",
+   "p": "reputation",
+   "v": "described by the sheriff as one of the \"longtime students of UFOs\"",
+   "quote": "Walton, his older brother Duane, and his mother were described by the sheriff at the time as \"longtime students of UFOs\"."
+  },
+  {
+   "s": "mary",
+   "p": "residence",
+   "v": "ranch house without telephone service",
+   "quote": "Because Travis Walton's mother lived in a ranch house without telephone service, Rogers drove her into town so she could call Travis's brother Duane and their sister while Coplan followed."
+  },
+  {
+   "s": "mary",
+   "p": "action",
+   "v": "called her daughter around 3:00 a.m., waking her",
+   "quote": "Around 3:00 a.m., Walton's mother called her daughter, waking her; Deputy Coplan was again shocked at how well Travis's family took the news."
+  },
+  {
+   "s": "mary",
+   "p": "statement",
+   "v": "I don't think there is any use of looking any further. He's not around here. I don't think he's on this earth.",
+   "quote": "Travis's mother told them \"I don't think there is any use of looking any further. He's not around here. I don't think he's on this earth.\""
+  },
+  {
+   "s": "mary",
+   "p": "action",
+   "v": "again requested the search be halted on November 9",
+   "quote": "On November 9, law enforcement continued the search for Travis until late afternoon, when Walton's mother again requested the search be halted."
+  },
+  {
+   "s": "mary",
+   "p": "statement",
+   "v": "felt any further searching for Travis would be useless",
+   "quote": "On November 11, the press reported that Travis's mother felt any further searching for Travis would be useless."
+  },
+  {
+   "s": "mary",
+   "p": "relative_of",
+   "o": "duane",
+   "quote": "Walton, his older brother Duane, and his mother were described by the sheriff at the time as \"longtime students of UFOs\"."
+  },
+  {
+   "s": "carl",
+   "p": "relationship",
+   "v": "associate of Travis Walton",
+   "quote": "On May 5, 1971, Travis Walton and associate Carl Rogers pleaded guilty to breaking into the offices of the Western Molding Company, stealing company checks, forging and then cashing them."
+  },
+  {
+   "s": "carl",
+   "p": "relationship",
+   "v": "younger brother of Michael H. Rogers",
+   "quote": "In 1975, Travis, aged 22, was a member of a seven-person forestry crew led by Carl's older brother Michael H. Rogers, aged 28."
+  },
+  {
+   "s": "carl",
+   "p": "criminal_record",
+   "v": "pleaded guilty on May 5, 1971 to breaking into the offices of the Western Molding Company, stealing company checks, forging and cashing them",
+   "quote": "On May 5, 1971, Travis Walton and associate Carl Rogers pleaded guilty to breaking into the offices of the Western Molding Company, stealing company checks, forging and then cashing them."
+  },
+  {
+   "s": "jones",
+   "p": "role",
+   "v": "starred as Barney Hill in The UFO Incident",
+   "quote": "The film starred James Earl Jones as Barney Hill, who had undergone a hypnosis session with a psychiatrist in 1964, after which he reported recollections of an alien abduction."
+  },
+  {
+   "s": "hill",
+   "p": "statement",
+   "v": "after a hypnosis session with a psychiatrist in 1964, reported recollections of an alien abduction",
+   "quote": "The film starred James Earl Jones as Barney Hill, who had undergone a hypnosis session with a psychiatrist in 1964, after which he reported recollections of an alien abduction."
+  },
+  {
+   "s": "hill",
+   "p": "witness",
+   "o": "c_hill",
+   "quote": "The film starred James Earl Jones as Barney Hill, who had undergone a hypnosis session with a psychiatrist in 1964, after which he reported recollections of an alien abduction."
+  },
+  {
+   "s": "hill",
+   "p": "depicted_in",
+   "o": "w_ufoincident",
+   "quote": "The film starred James Earl Jones as Barney Hill, who had undergone a hypnosis session with a psychiatrist in 1964, after which he reported recollections of an alien abduction."
+  },
+  {
+   "s": "ellison",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "At 7:45 p.m., a member of the logging crew called police officer L. C. Ellison."
+  },
+  {
+   "s": "ellison",
+   "p": "occupation",
+   "v": "police officer",
+   "quote": "At 7:45 p.m., a member of the logging crew called police officer L. C. Ellison."
+  },
+  {
+   "s": "ellison",
+   "p": "action",
+   "v": "was called by a member of the logging crew at 7:45 p.m.",
+   "quote": "At 7:45 p.m., a member of the logging crew called police officer L. C. Ellison."
+  },
+  {
+   "s": "ellison",
+   "p": "action",
+   "v": "drove to Heber with Gillespie and Coplan to meet with the loggers",
+   "quote": "Officer Ellison, Sheriff Marlin Gillespie, and Deputy Kenneth Coplan drove to Heber to meet with the loggers."
+  },
+  {
+   "s": "gillespie",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Officer Ellison, Sheriff Marlin Gillespie, and Deputy Kenneth Coplan drove to Heber to meet with the loggers."
+  },
+  {
+   "s": "gillespie",
+   "p": "investigator",
+   "o": "case",
+   "quote": "The six men searched Turkey Springs until shortly after midnight, when Sheriff Gillespie paused the search until dawn."
+  },
+  {
+   "s": "gillespie",
+   "p": "rank",
+   "v": "Sheriff",
+   "quote": "Officer Ellison, Sheriff Marlin Gillespie, and Deputy Kenneth Coplan drove to Heber to meet with the loggers."
+  },
+  {
+   "s": "gillespie",
+   "p": "action",
+   "v": "paused the search shortly after midnight until dawn",
+   "quote": "The six men searched Turkey Springs until shortly after midnight, when Sheriff Gillespie paused the search until dawn."
+  },
+  {
+   "s": "gillespie",
+   "p": "statement",
+   "v": "described Walton, his brother Duane, and his mother as \"longtime students of UFOs\"",
+   "quote": "Walton, his older brother Duane, and his mother were described by the sheriff at the time as \"longtime students of UFOs\"."
+  },
+  {
+   "s": "gillespie",
+   "p": "action",
+   "v": "dismissed the volunteers",
+   "quote": "Sheriff Gillespie dismissed the volunteers."
+  },
+  {
+   "s": "gillespie",
+   "p": "action",
+   "v": "assembled another search party, which included a helicopter",
+   "quote": "As a result, Sheriff Gillespie assembled another search party, which included a helicopter."
+  },
+  {
+   "s": "gillespie",
+   "p": "action",
+   "v": "alerted by the telephone operator, dispatched a deputy to the family ranch house",
+   "quote": "As part of the collect call procedure, Travis told the operator his name; she recognized his name as that of the missing man and alerted Sheriff Gillespie, who dispatched a deputy to the family ranch house."
+  },
+  {
+   "s": "gillespie",
+   "p": "action",
+   "v": "insisted on seeing Travis immediately",
+   "quote": "Duane finally informed law enforcement of Travis's return, calling Sheriff Gillespie, who insisted on seeing Travis immediately."
+  },
+  {
+   "s": "gillespie",
+   "p": "action",
+   "v": "drove the four hours into Glendale and arrived at 11:00 p.m.",
+   "quote": "The sheriff drove the four hours into Glendale and arrived at 11:00 p.m. that night."
+  },
+  {
+   "s": "gillespie",
+   "p": "interviewed",
+   "o": "walton",
+   "quote": "Duane and Travis demanded that Sheriff Gillespie not record the interview."
+  },
+  {
+   "s": "coplan",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Officer Ellison, Sheriff Marlin Gillespie, and Deputy Kenneth Coplan drove to Heber to meet with the loggers."
+  },
+  {
+   "s": "coplan",
+   "p": "rank",
+   "v": "Deputy Sheriff",
+   "quote": "Around 1:30 a.m., Navajo County Deputy Sheriff Kenneth Coplan and Rogers visited Walton's mother."
+  },
+  {
+   "s": "coplan",
+   "p": "employed_by",
+   "o": "ncso",
+   "quote": "Around 1:30 a.m., Navajo County Deputy Sheriff Kenneth Coplan and Rogers visited Walton's mother."
+  },
+  {
+   "s": "coplan",
+   "p": "action",
+   "v": "visited Walton's mother with Rogers around 1:30 a.m. to inform her of the disappearance",
+   "quote": "Around 1:30 a.m., Navajo County Deputy Sheriff Kenneth Coplan and Rogers visited Walton's mother."
+  },
+  {
+   "s": "coplan",
+   "p": "statement",
+   "v": "was shocked by how calmly she took the news and her general lack of surprise",
+   "quote": "Coplan said he was shocked by how calmly she took the news and her general lack of surprise."
+  },
+  {
+   "s": "coplan",
+   "p": "statement",
+   "v": "was again shocked at how well Travis's family took the news",
+   "quote": "Around 3:00 a.m., Walton's mother called her daughter, waking her; Deputy Coplan was again shocked at how well Travis's family took the news."
+  },
+  {
+   "s": "duane",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "But the following morning, November 8, Rogers and Duane Walton complained in person about the discontinued search."
+  },
+  {
+   "s": "duane",
+   "p": "relationship",
+   "v": "older brother of Travis Walton",
+   "quote": "That day, a member of a Phoenix-based UFO interest group recorded a 65-minute interview with crew chief Mike Rogers and Travis's older brother Duane Walton."
+  },
+  {
+   "s": "duane",
+   "p": "reputation",
+   "v": "described by the sheriff as one of the \"longtime students of UFOs\"",
+   "quote": "Walton, his older brother Duane, and his mother were described by the sheriff at the time as \"longtime students of UFOs\"."
+  },
+  {
+   "s": "duane",
+   "p": "action",
+   "v": "complained in person with Rogers on November 8 about the discontinued search",
+   "quote": "But the following morning, November 8, Rogers and Duane Walton complained in person about the discontinued search."
+  },
+  {
+   "s": "duane",
+   "p": "statement",
+   "v": "he, Travis, and their mother were UFO buffs who had discussed that if they saw a UFO they would \"immediately get directly under the object\"",
+   "quote": "During the interview, Duane revealed that he, Travis, and their mother were UFO buffs who had previously discussed that if they ever saw a UFO, they would \"immediately get directly under the object\" because the \"opportunity\" to go aboard a UFO would be \"too great to pass up\"."
+  },
+  {
+   "s": "duane",
+   "p": "statement",
+   "v": "the \"opportunity\" to go aboard a UFO would be \"too great to pass up\"",
+   "quote": "During the interview, Duane revealed that he, Travis, and their mother were UFO buffs who had previously discussed that if they ever saw a UFO, they would \"immediately get directly under the object\" because the \"opportunity\" to go aboard a UFO would be \"too great to pass up\"."
+  },
+  {
+   "s": "duane",
+   "p": "statement",
+   "v": "Travis was \"not even missing. He knows where he's at and I know where he's at\"",
+   "quote": "Duane repeatedly insisted that Travis was \"not even missing. He knows where he's at and I know where he's at\"."
+  },
+  {
+   "s": "duane",
+   "p": "action",
+   "v": "seen by Deputy Flake transferring fuel from one car to another",
+   "quote": "Deputy Glen Flake arrived at 2:00 a.m., where he witnessed Duane Walton transferring fuel from one car to another after having forgotten to purchase gas before local stations closed."
+  },
+  {
+   "s": "duane",
+   "p": "action",
+   "v": "did not tell the deputy that Travis had been found",
+   "quote": "Flake did not reveal that they knew Travis had returned home, and Duane did not tell the deputy that Travis had been found."
+  },
+  {
+   "s": "duane",
+   "p": "action",
+   "v": "reached out to a UFO researcher he'd met days prior, seeking medical attention for Travis",
+   "quote": "Seeking medical attention for Travis, Duane reached out to a UFO researcher he'd met days prior; the researcher referred them to Lester Steward, a hypnotherapist."
+  },
+  {
+   "s": "duane",
+   "p": "action",
+   "v": "took Travis to meet with Steward",
+   "quote": "Duane took Travis to meet with Steward, but his first words were that Travis needed a medical examination with lab tests and was not ready for hypnotic regression."
+  },
+  {
+   "s": "duane",
+   "p": "action",
+   "v": "forbade the doctors to use their camera or tape recorder or to ask Travis questions about his experience",
+   "quote": "When they arrived at 3:00 p.m., Duane forbade them to use their camera or tape recorder, nor would he allow them to ask Travis questions about his experience."
+  },
+  {
+   "s": "duane",
+   "p": "action",
+   "v": "finally informed law enforcement of Travis's return, calling Sheriff Gillespie",
+   "quote": "Duane finally informed law enforcement of Travis's return, calling Sheriff Gillespie, who insisted on seeing Travis immediately."
+  },
+  {
+   "s": "duane",
+   "p": "alleged_role",
+   "v": "helped Travis stage the incident, according to Rogers's recorded 2021 call",
+   "quote": "Travis' brother Duane helped him."
+  },
+  {
+   "s": "gilson",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Also on November 11, Rogers and the five other members of the forestry crew were interrogated by Arizona Dept. of Public Safety polygraph examiner C. E. Gilson to determine if the men had murdered Travis Walton."
+  },
+  {
+   "s": "gilson",
+   "p": "occupation",
+   "v": "polygraph examiner",
+   "quote": "Also on November 11, Rogers and the five other members of the forestry crew were interrogated by Arizona Dept. of Public Safety polygraph examiner C. E. Gilson to determine if the men had murdered Travis Walton."
+  },
+  {
+   "s": "gilson",
+   "p": "employed_by",
+   "o": "adps",
+   "quote": "Also on November 11, Rogers and the five other members of the forestry crew were interrogated by Arizona Dept. of Public Safety polygraph examiner C. E. Gilson to determine if the men had murdered Travis Walton."
+  },
+  {
+   "s": "gilson",
+   "p": "authored",
+   "o": "d_gilson",
+   "quote": "Also on November 11, Rogers and the five other members of the forestry crew were interrogated by Arizona Dept. of Public Safety polygraph examiner C. E. Gilson to determine if the men had murdered Travis Walton."
+  },
+  {
+   "s": "gilson",
+   "p": "conclusion",
+   "v": "five out of the six men were being truthful; results for Allen Dalis were \"inconclusive\"",
+   "quote": "All denied having harmed Travis—Gilson opined that five out of the six men were being truthful and described results for the sixth man, Allen Dalis, as \"inconclusive\"."
+  },
+  {
+   "s": "dalis",
+   "p": "witness",
+   "o": "case",
+   "quote": "All denied having harmed Travis—Gilson opined that five out of the six men were being truthful and described results for the sixth man, Allen Dalis, as \"inconclusive\"."
+  },
+  {
+   "s": "dalis",
+   "p": "polygraph_result",
+   "v": "inconclusive",
+   "quote": "All denied having harmed Travis—Gilson opined that five out of the six men were being truthful and described results for the sixth man, Allen Dalis, as \"inconclusive\"."
+  },
+  {
+   "s": "dalis",
+   "p": "depicted_in",
+   "o": "w_film",
+   "quote": "In 1993, the book served as the inspiration for the 1993 film Fire in the Sky, starring Robert Patrick as Mike Rogers, D. B. Sweeney as Travis Walton, Craig Sheffer as Allan Dallis, Peter Berg as David Whitlock, and Georgia Emelin as Dana Rogers."
+  },
+  {
+   "s": "neff",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Walton reached his sister's husband, Grant Neff, who drove to pick up Duane and proceeded to Heber to pick up Travis; Neff later reported he initially thought the caller was intoxicated."
+  },
+  {
+   "s": "neff",
+   "p": "relationship",
+   "v": "husband of Walton's sister",
+   "quote": "Walton reached his sister's husband, Grant Neff, who drove to pick up Duane and proceeded to Heber to pick up Travis; Neff later reported he initially thought the caller was intoxicated."
+  },
+  {
+   "s": "neff",
+   "p": "action",
+   "v": "drove to pick up Duane and proceeded to Heber to pick up Travis",
+   "quote": "Walton reached his sister's husband, Grant Neff, who drove to pick up Duane and proceeded to Heber to pick up Travis; Neff later reported he initially thought the caller was intoxicated."
+  },
+  {
+   "s": "neff",
+   "p": "statement",
+   "v": "initially thought the caller was intoxicated",
+   "quote": "Walton reached his sister's husband, Grant Neff, who drove to pick up Duane and proceeded to Heber to pick up Travis; Neff later reported he initially thought the caller was intoxicated."
+  },
+  {
+   "s": "flake",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Deputy Glen Flake arrived at 2:00 a.m., where he witnessed Duane Walton transferring fuel from one car to another after having forgotten to purchase gas before local stations closed."
+  },
+  {
+   "s": "flake",
+   "p": "rank",
+   "v": "Deputy",
+   "quote": "Deputy Glen Flake arrived at 2:00 a.m., where he witnessed Duane Walton transferring fuel from one car to another after having forgotten to purchase gas before local stations closed."
+  },
+  {
+   "s": "flake",
+   "p": "action",
+   "v": "arrived at the family ranch house at 2:00 a.m. and witnessed Duane Walton transferring fuel from one car to another",
+   "quote": "Deputy Glen Flake arrived at 2:00 a.m., where he witnessed Duane Walton transferring fuel from one car to another after having forgotten to purchase gas before local stations closed."
+  },
+  {
+   "s": "flake",
+   "p": "action",
+   "v": "did not reveal that they knew Travis had returned home",
+   "quote": "Flake did not reveal that they knew Travis had returned home, and Duane did not tell the deputy that Travis had been found."
+  },
+  {
+   "s": "steward",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Seeking medical attention for Travis, Duane reached out to a UFO researcher he'd met days prior; the researcher referred them to Lester Steward, a hypnotherapist."
+  },
+  {
+   "s": "steward",
+   "p": "occupation",
+   "v": "hypnotherapist",
+   "quote": "Seeking medical attention for Travis, Duane reached out to a UFO researcher he'd met days prior; the researcher referred them to Lester Steward, a hypnotherapist."
+  },
+  {
+   "s": "steward",
+   "p": "statement",
+   "v": "Travis needed a medical examination with lab tests and was not ready for hypnotic regression",
+   "quote": "Duane took Travis to meet with Steward, but his first words were that Travis needed a medical examination with lab tests and was not ready for hypnotic regression."
+  },
+  {
+   "s": "steward",
+   "p": "statement",
+   "v": "Travis seemed \"very confused\" and reminiscent of drug addicts he'd treated",
+   "quote": "Steward noted that Travis seemed \"very confused\" and reminiscent of drug addicts he'd treated."
+  },
+  {
+   "s": "steward",
+   "p": "statement",
+   "v": "Travis had a small lesion on the inside crease of his right elbow, consistent with intravenous drug use",
+   "quote": "Steward also noted that Travis had a small lesion on the inside crease of his right elbow, consistent with intravenous drug use."
+  },
+  {
+   "s": "mccarthy",
+   "p": "investigator",
+   "o": "case",
+   "quote": "The following day, November 15, Travis was interviewed by Jack McCarthy, a freelance polygraph examiner whose involvement was arranged by a UFO group and the Enquirer."
+  },
+  {
+   "s": "mccarthy",
+   "p": "occupation",
+   "v": "freelance polygraph examiner",
+   "quote": "The following day, November 15, Travis was interviewed by Jack McCarthy, a freelance polygraph examiner whose involvement was arranged by a UFO group and the Enquirer."
+  },
+  {
+   "s": "mccarthy",
+   "p": "interviewed",
+   "o": "walton",
+   "quote": "The following day, November 15, Travis was interviewed by Jack McCarthy, a freelance polygraph examiner whose involvement was arranged by a UFO group and the Enquirer."
+  },
+  {
+   "s": "mccarthy",
+   "p": "authored",
+   "o": "d_mccarthy",
+   "quote": "The following day, November 15, Travis was interviewed by Jack McCarthy, a freelance polygraph examiner whose involvement was arranged by a UFO group and the Enquirer."
+  },
+  {
+   "s": "mccarthy",
+   "p": "conclusion",
+   "v": "Travis was engaged in a \"gross deception\" and had been intentionally holding his breath to \"beat the machine\"",
+   "quote": "McCarthy concluded that Travis was engaged in a \"gross deception\" and had even been intentionally holding his breath in an attempt to \"beat the machine\"."
+  },
+  {
+   "s": "ledwith",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Ufologist Jim Ledwith said, \"For five days, the authorities thought he'd been murdered by his co-workers, and then he was returned.\""
+  },
+  {
+   "s": "ledwith",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "Ufologist Jim Ledwith said, \"For five days, the authorities thought he'd been murdered by his co-workers, and then he was returned.\""
+  },
+  {
+   "s": "ledwith",
+   "p": "statement",
+   "v": "For five days, the authorities thought he'd been murdered by his co-workers, and then he was returned.",
+   "quote": "Ufologist Jim Ledwith said, \"For five days, the authorities thought he'd been murdered by his co-workers, and then he was returned.\""
+  },
+  {
+   "s": "ledwith",
+   "p": "statement",
+   "v": "all of the co-workers who saw the spacecraft took polygraph tests and passed, except for one that was inconclusive",
+   "quote": "According to Ledwith, \"all of the co-workers who were there, who saw the spacecraft, they all took polygraph tests, and they all passed, except for one, and that one was inconclusive.\""
+  },
+  {
+   "s": "patrick",
+   "p": "role",
+   "v": "played Mike Rogers in Fire in the Sky",
+   "quote": "In 1993, the book served as the inspiration for the 1993 film Fire in the Sky, starring Robert Patrick as Mike Rogers, D. B. Sweeney as Travis Walton, Craig Sheffer as Allan Dallis, Peter Berg as David Whitlock, and Georgia Emelin as Dana Rogers."
+  },
+  {
+   "s": "sweeney",
+   "p": "role",
+   "v": "played Travis Walton in Fire in the Sky",
+   "quote": "In 1993, the book served as the inspiration for the 1993 film Fire in the Sky, starring Robert Patrick as Mike Rogers, D. B. Sweeney as Travis Walton, Craig Sheffer as Allan Dallis, Peter Berg as David Whitlock, and Georgia Emelin as Dana Rogers."
+  },
+  {
+   "s": "sheffer",
+   "p": "role",
+   "v": "played Allan Dallis in Fire in the Sky",
+   "quote": "In 1993, the book served as the inspiration for the 1993 film Fire in the Sky, starring Robert Patrick as Mike Rogers, D. B. Sweeney as Travis Walton, Craig Sheffer as Allan Dallis, Peter Berg as David Whitlock, and Georgia Emelin as Dana Rogers."
+  },
+  {
+   "s": "berg",
+   "p": "role",
+   "v": "played David Whitlock in Fire in the Sky",
+   "quote": "In 1993, the book served as the inspiration for the 1993 film Fire in the Sky, starring Robert Patrick as Mike Rogers, D. B. Sweeney as Travis Walton, Craig Sheffer as Allan Dallis, Peter Berg as David Whitlock, and Georgia Emelin as Dana Rogers."
+  },
+  {
+   "s": "emelin",
+   "p": "role",
+   "v": "played Dana Rogers in Fire in the Sky",
+   "quote": "In 1993, the book served as the inspiration for the 1993 film Fire in the Sky, starring Robert Patrick as Mike Rogers, D. B. Sweeney as Travis Walton, Craig Sheffer as Allan Dallis, Peter Berg as David Whitlock, and Georgia Emelin as Dana Rogers."
+  },
+  {
+   "s": "fowler",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Within four months of the incident, UFO author Raymond E. Fowler, himself a believer in UFOs and abductions, proposed that some members of the crew had been the victim of a hoax perpetrated by others in the crew."
+  },
+  {
+   "s": "fowler",
+   "p": "occupation",
+   "v": "UFO author",
+   "quote": "Within four months of the incident, UFO author Raymond E. Fowler, himself a believer in UFOs and abductions, proposed that some members of the crew had been the victim of a hoax perpetrated by others in the crew."
+  },
+  {
+   "s": "fowler",
+   "p": "belief",
+   "v": "himself a believer in UFOs and abductions",
+   "quote": "Within four months of the incident, UFO author Raymond E. Fowler, himself a believer in UFOs and abductions, proposed that some members of the crew had been the victim of a hoax perpetrated by others in the crew."
+  },
+  {
+   "s": "fowler",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "Within four months of the incident, UFO author Raymond E. Fowler, himself a believer in UFOs and abductions, proposed that some members of the crew had been the victim of a hoax perpetrated by others in the crew."
+  },
+  {
+   "s": "fowler",
+   "p": "statement",
+   "v": "within four months of the incident, proposed that some crew members had been the victim of a hoax perpetrated by others in the crew",
+   "quote": "Within four months of the incident, UFO author Raymond E. Fowler, himself a believer in UFOs and abductions, proposed that some members of the crew had been the victim of a hoax perpetrated by others in the crew."
+  },
+  {
+   "s": "pflock",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Authors including Klass and Pflock argue that Travis Walton and Mike Rogers planned the incident."
+  },
+  {
+   "s": "pflock",
+   "p": "occupation",
+   "v": "author",
+   "quote": "Authors including Klass and Pflock argue that Travis Walton and Mike Rogers planned the incident."
+  },
+  {
+   "s": "pflock",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "Authors including Klass and Pflock argue that Travis Walton and Mike Rogers planned the incident."
+  },
+  {
+   "s": "pflock",
+   "p": "statement",
+   "v": "argues that Travis Walton and Mike Rogers planned the incident",
+   "quote": "Authors including Klass and Pflock argue that Travis Walton and Mike Rogers planned the incident."
+  },
+  {
+   "s": "pierce",
+   "p": "witness",
+   "o": "case",
+   "quote": "As early as 1978, crew member Steve Pierce expressed suspicion that the incident had been a hoax."
+  },
+  {
+   "s": "pierce",
+   "p": "role",
+   "v": "crew member",
+   "quote": "As early as 1978, crew member Steve Pierce expressed suspicion that the incident had been a hoax."
+  },
+  {
+   "s": "pierce",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "As early as 1978, crew member Steve Pierce expressed suspicion that the incident had been a hoax."
+  },
+  {
+   "s": "pierce",
+   "p": "later_claim",
+   "v": "as early as 1978 expressed suspicion that the incident had been a hoax",
+   "quote": "As early as 1978, crew member Steve Pierce expressed suspicion that the incident had been a hoax."
+  },
+  {
+   "s": "pierce",
+   "p": "statement",
+   "v": "Rogers made the crew stay past dark on the day of the incident whereas they usually ended work at 4:00 p.m.",
+   "quote": "Pierce noted that on the day of the incident, Rogers made the crew stay past dark whereas they usually ended work at 4:00 p.m."
+  },
+  {
+   "s": "pierce",
+   "p": "statement",
+   "v": "Walton did not work at all that day; he slept in the truck while claiming to be ill \"from carousing too much\"",
+   "quote": "Pierce recalled that Walton did not work at all during the day of the incident; instead, he slept in the truck while claiming to be ill \"from carousing too much\"."
+  },
+  {
+   "s": "pierce",
+   "p": "statement",
+   "v": "Mike Rogers disappeared from the worksite for two hours that day",
+   "quote": "He also reported that Mike Rogers disappeared from the worksite for two hours that day."
+  },
+  {
+   "s": "pierce",
+   "p": "later_claim",
+   "v": "in 2026, suspicions that the incident was a hoax orchestrated by Walton against other crew members had risen to \"100%\" confidence",
+   "quote": "Upon being driven to Gentry Tower by producer Ryan Gordon in 2026, Pierce reported that his suspicions about the incident having actually been a hoax orchestrated by Walton against other crew members had risen to a level of \"100%\" confidence."
+  },
+  {
+   "s": "hopkins",
+   "p": "occupation",
+   "v": "author of alleged alien abduction accounts",
+   "quote": "In the 1980s, reports of alien abductions became more widespread, due to the increased dissemination of alleged accounts by authors such as Budd Hopkins, John E. Mack, and Whitley Strieber."
+  },
+  {
+   "s": "hopkins",
+   "p": "authored",
+   "o": "w_intruders",
+   "quote": "it doesn't fit any of the other patterns as in the cases that were explored in [Budd Hopkins's book] Intruders."
+  },
+  {
+   "s": "mack",
+   "p": "occupation",
+   "v": "author of alleged alien abduction accounts",
+   "quote": "In the 1980s, reports of alien abductions became more widespread, due to the increased dissemination of alleged accounts by authors such as Budd Hopkins, John E. Mack, and Whitley Strieber."
+  },
+  {
+   "s": "strieber",
+   "p": "occupation",
+   "v": "author of alleged alien abduction accounts",
+   "quote": "In the 1980s, reports of alien abductions became more widespread, due to the increased dissemination of alleged accounts by authors such as Budd Hopkins, John E. Mack, and Whitley Strieber."
+  },
+  {
+   "s": "bullard",
+   "p": "occupation",
+   "v": "folklorist",
+   "quote": "Folklorist Thomas E. Bullard notes that stories of alien abductions exhibit a fairly consistent sequence and description of events."
+  },
+  {
+   "s": "bullard",
+   "p": "statement",
+   "v": "stories of alien abductions exhibit a fairly consistent sequence and description of events",
+   "quote": "Folklorist Thomas E. Bullard notes that stories of alien abductions exhibit a fairly consistent sequence and description of events."
+  },
+  {
+   "s": "clancy",
+   "p": "occupation",
+   "v": "psychologist",
+   "quote": "Scholars like psychologist Susan A. Clancy and skeptic Susan Blackmore have suggested the alien abduction narrative is the result of sleep paralysis or false memory syndrome."
+  },
+  {
+   "s": "clancy",
+   "p": "statement",
+   "v": "the alien abduction narrative is the result of sleep paralysis or false memory syndrome",
+   "quote": "Scholars like psychologist Susan A. Clancy and skeptic Susan Blackmore have suggested the alien abduction narrative is the result of sleep paralysis or false memory syndrome."
+  },
+  {
+   "s": "blackmore",
+   "p": "occupation",
+   "v": "skeptic",
+   "quote": "Scholars like psychologist Susan A. Clancy and skeptic Susan Blackmore have suggested the alien abduction narrative is the result of sleep paralysis or false memory syndrome."
+  },
+  {
+   "s": "blackmore",
+   "p": "statement",
+   "v": "the alien abduction narrative is the result of sleep paralysis or false memory syndrome",
+   "quote": "Scholars like psychologist Susan A. Clancy and skeptic Susan Blackmore have suggested the alien abduction narrative is the result of sleep paralysis or false memory syndrome."
+  },
+  {
+   "s": "enquirer",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Walton sold his abduction story to a tabloid, the National Enquirer, which published the account and awarded the crew a $5,000 prize for Best Case of the Year."
+  },
+  {
+   "s": "enquirer",
+   "p": "type",
+   "v": "tabloid",
+   "quote": "Walton sold his abduction story to a tabloid, the National Enquirer, which published the account and awarded the crew a $5,000 prize for Best Case of the Year."
+  },
+  {
+   "s": "enquirer",
+   "p": "action",
+   "v": "published Walton's account and awarded the crew a $5,000 prize for Best Case of the Year",
+   "quote": "Walton sold his abduction story to a tabloid, the National Enquirer, which published the account and awarded the crew a $5,000 prize for Best Case of the Year."
+  },
+  {
+   "s": "enquirer",
+   "p": "prize_offer",
+   "v": "began advertising a $50,000 prize for proof of extraterrestrial visitors in the spring of 1972",
+   "quote": "In the spring of 1972, the National Enquirer tabloid began advertising a $50,000 prize for proof of extraterrestrial visitors."
+  },
+  {
+   "s": "enquirer",
+   "p": "prize_offer",
+   "v": "prize raised to $100,000 by 1975",
+   "quote": "By 1975, the prize had been raised to $100,000."
+  },
+  {
+   "s": "enquirer",
+   "p": "action",
+   "v": "covered the costs of a suite at the Sheraton Inn in exchange for exclusive access to Walton and his story",
+   "quote": "After a local UFO group facilitated the connection, Duane and Travis moved into a suite at the Sheraton Inn in Scottsdale; the costs were covered by The National Enquirer in exchange for exclusive access to Walton and his story."
+  },
+  {
+   "s": "enquirer",
+   "p": "action",
+   "v": "its reporters were present at the hypnosis session",
+   "quote": "That night, in the presence of Enquirer reporters, a doctor associated with a UFO group had a two-hour conversation with a hypnotized Travis about the incident."
+  },
+  {
+   "s": "enquirer",
+   "p": "action",
+   "v": "arranged with a UFO group the involvement of polygraph examiner Jack McCarthy",
+   "quote": "The following day, November 15, Travis was interviewed by Jack McCarthy, a freelance polygraph examiner whose involvement was arranged by a UFO group and the Enquirer."
+  },
+  {
+   "s": "enquirer",
+   "p": "action",
+   "v": "awarded Walton and his co-workers a $5,000 prize for \"best UFO case of the year\"",
+   "quote": "The National Enquirer awarded Walton and his co-workers a $5,000 prize for \"best UFO case of the year\" after they were said to have passed polygraph tests administered by the Enquirer and the Aerial Phenomena Research Organization (APRO)."
+  },
+  {
+   "s": "enquirer",
+   "p": "criticism",
+   "v": "publicized a private polygraph examiner's opinion that the witnesses were truthful but omitted the prior examiner who concluded Walton was \"grossly deceptive\"",
+   "quote": "Authors including Michael Shermer and Philip Klass note that while the National Enquirer tabloid publicized the opinion of a private polygraph examiner who reported the witnesses as being truthful, it omitted all mention of Walton's prior polygraph examiner who concluded Walton was being \"grossly deceptive\"."
+  },
+  {
+   "s": "usfs",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "They suggested a potential motive: an abduction could be considered an \"Act of God\", thus enabling the logging crew to avoid a steep financial penalty from the Forestry Service for failing to complete their contract by the deadline, as they were behind schedule."
+  },
+  {
+   "s": "usfs",
+   "p": "action",
+   "v": "an inspector visited the site on October 16 and concluded the job could not possibly be completed by the deadline",
+   "quote": "On October 16, a Forestry Service inspector visited the site and concluded the job could not possibly be completed by the deadline."
+  },
+  {
+   "s": "usfs",
+   "p": "penalty",
+   "v": "$2,500 penalty and disqualification from bidding on future Forestry Service contracts",
+   "quote": "Failure to complete the job could lead to a $2,500 penalty and a disqualification from bidding on future Forestry Service contracts."
+  },
+  {
+   "s": "usfs",
+   "p": "owned",
+   "o": "gentry",
+   "quote": "Forest Service fire lookout tower equipped with a generator"
+  },
+  {
+   "s": "wmc",
+   "p": "event",
+   "v": "Travis Walton and Carl Rogers pleaded guilty to breaking into its offices and stealing company checks",
+   "quote": "On May 5, 1971, Travis Walton and associate Carl Rogers pleaded guilty to breaking into the offices of the Western Molding Company, stealing company checks, forging and then cashing them."
+  },
+  {
+   "s": "nbc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On October 20, 1975, the same night that Rogers wrote to the Forestry Service, the NBC network aired a prime-time special: The UFO Incident, a made-for-TV movie about an alleged alien abduction."
+  },
+  {
+   "s": "nbc",
+   "p": "published",
+   "o": "w_ufoincident",
+   "quote": "On October 20, 1975, the same night that Rogers wrote to the Forestry Service, the NBC network aired a prime-time special: The UFO Incident, a made-for-TV movie about an alleged alien abduction."
+  },
+  {
+   "s": "ncso",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "On November 5, 1975, crew chief Michael H. Rogers reported Travis Walton missing to the Navajo County sheriff."
+  },
+  {
+   "s": "adps",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "Also on November 11, Rogers and the five other members of the forestry crew were interrogated by Arizona Dept. of Public Safety polygraph examiner C. E. Gilson to determine if the men had murdered Travis Walton."
+  },
+  {
+   "s": "kool",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On November 22, Travis appeared on Phoenix television station KOOL, where he was interviewed about the incident."
+  },
+  {
+   "s": "kool",
+   "p": "type",
+   "v": "Phoenix television station",
+   "quote": "On November 22, Travis appeared on Phoenix television station KOOL, where he was interviewed about the incident."
+  },
+  {
+   "s": "kool",
+   "p": "located_in",
+   "o": "phoenix",
+   "quote": "On November 22, Travis appeared on Phoenix television station KOOL, where he was interviewed about the incident."
+  },
+  {
+   "s": "kool",
+   "p": "interviewed",
+   "o": "walton",
+   "quote": "On November 22, Travis appeared on Phoenix television station KOOL, where he was interviewed about the incident."
+  },
+  {
+   "s": "kool",
+   "p": "date",
+   "v": "November 22",
+   "quote": "On November 22, Travis appeared on Phoenix television station KOOL, where he was interviewed about the incident."
+  },
+  {
+   "s": "apro",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The National Enquirer awarded Walton and his co-workers a $5,000 prize for \"best UFO case of the year\" after they were said to have passed polygraph tests administered by the Enquirer and the Aerial Phenomena Research Organization (APRO)."
+  },
+  {
+   "s": "apro",
+   "p": "action",
+   "v": "said to have administered polygraph tests with the Enquirer",
+   "quote": "The National Enquirer awarded Walton and his co-workers a $5,000 prize for \"best UFO case of the year\" after they were said to have passed polygraph tests administered by the Enquirer and the Aerial Phenomena Research Organization (APRO)."
+  },
+  {
+   "s": "paramount",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Paramount Pictures decided that Walton's account was \"too fuzzy and too similar to other televised close encounters\", so they ordered screenwriter Tracy Tormé to write a \"flashier, more provocative\" abduction story."
+  },
+  {
+   "s": "paramount",
+   "p": "statement",
+   "v": "Walton's account was \"too fuzzy and too similar to other televised close encounters\"",
+   "quote": "Paramount Pictures decided that Walton's account was \"too fuzzy and too similar to other televised close encounters\", so they ordered screenwriter Tracy Tormé to write a \"flashier, more provocative\" abduction story."
+  },
+  {
+   "s": "paramount",
+   "p": "published",
+   "o": "w_film",
+   "quote": "Paramount Pictures decided that Walton's account was \"too fuzzy and too similar to other televised close encounters\", so they ordered screenwriter Tracy Tormé to write a \"flashier, more provocative\" abduction story."
+  },
+  {
+   "s": "cnn",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On the opening day of Fire in the Sky – March 12, 1993 – Walton and Mike Rogers appeared on the CNN program Larry King Live, which also featured Philip J. Klass."
+  },
+  {
+   "s": "cnn",
+   "p": "published",
+   "o": "w_lkl",
+   "quote": "On the opening day of Fire in the Sky – March 12, 1993 – Walton and Mike Rogers appeared on the CNN program Larry King Live, which also featured Philip J. Klass."
+  },
+  {
+   "s": "fox",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 2008, Walton was analyzed by a private polygrapher and determined to be engaged in deception when he appeared on the Fox game show The Moment of Truth."
+  },
+  {
+   "s": "fox",
+   "p": "published",
+   "o": "w_mot",
+   "quote": "In 2008, Walton was analyzed by a private polygrapher and determined to be engaged in deception when he appeared on the Fox game show The Moment of Truth."
+  },
+  {
+   "s": "facebook",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In March 2021, Mike Rogers posted on his Facebook page renouncing his status as a witness to Walton's \"supposed abduction\"."
+  },
+  {
+   "s": "facebook",
+   "p": "role",
+   "v": "Mike Rogers posted his 2021 statements on his Facebook page",
+   "quote": "On March 19, 2021, Mike Rogers posted a statement to his Facebook page announcing \"I, Michael H. Rogers, being of sound and rational mind, do hereby give notice that I am no longer to be considered a witness to Travis C. Walton's supposed abduction of November 5, 1975.\""
+  },
+  {
+   "s": "csi_ufo",
+   "p": "part_of",
+   "o": "csi",
+   "quote": "Robert Sheaffer, a long-time writer for Skeptical Inquirer and a founding member of the UFO Subcommittee of the Committee for Skeptical Inquiry, has argued for decades that the Walton incident was a hoax."
+  },
+  {
+   "s": "skyfire",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "He sponsors his own UFO conference in Arizona called the \"Skyfire Summit\"."
+  },
+  {
+   "s": "skyfire",
+   "p": "type",
+   "v": "UFO conference sponsored by Walton",
+   "quote": "He sponsors his own UFO conference in Arizona called the \"Skyfire Summit\"."
+  },
+  {
+   "s": "skyfire",
+   "p": "located_in",
+   "o": "arizona",
+   "quote": "He sponsors his own UFO conference in Arizona called the \"Skyfire Summit\"."
+  },
+  {
+   "s": "asnf",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Travis Walton incident was an alleged alien abduction of American forestry worker Travis Walton on November 5, 1975, in the Apache–Sitgreaves National Forests near Heber, Arizona."
+  },
+  {
+   "s": "heber",
+   "p": "near",
+   "o": "case",
+   "quote": "The Travis Walton incident was an alleged alien abduction of American forestry worker Travis Walton on November 5, 1975, in the Apache–Sitgreaves National Forests near Heber, Arizona."
+  },
+  {
+   "s": "heber",
+   "p": "located_in",
+   "o": "arizona",
+   "quote": "The Travis Walton incident was an alleged alien abduction of American forestry worker Travis Walton on November 5, 1975, in the Apache–Sitgreaves National Forests near Heber, Arizona."
+  },
+  {
+   "s": "heber",
+   "p": "role",
+   "v": "Walton called his sister from a phone booth there",
+   "quote": "After five days, a bedraggled Walton called his sister from a phone booth in Heber."
+  },
+  {
+   "s": "heber",
+   "p": "role",
+   "v": "the three officers drove there to meet with the loggers",
+   "quote": "Officer Ellison, Sheriff Marlin Gillespie, and Deputy Kenneth Coplan drove to Heber to meet with the loggers."
+  },
+  {
+   "s": "turkey",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The six men searched Turkey Springs until shortly after midnight, when Sheriff Gillespie paused the search until dawn."
+  },
+  {
+   "s": "turkey",
+   "p": "located_in",
+   "o": "asnf",
+   "quote": "The year prior, Rogers had won a bid for a federal contract to thin out small trees from an area known as Turkey Springs in the Apache-Sitgreaves National Forests when he underbid two other contractors."
+  },
+  {
+   "s": "turkey",
+   "p": "size",
+   "v": "1,277 acres to be thinned",
+   "quote": "The Turkey Springs job called for the thinning of 1,277 acres by August 1975."
+  },
+  {
+   "s": "gentry",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Based in part on work by producer Ryan Gordon, she has made a case that Gentry Tower, a fire lookout post, was used in 1975 to create the illusion of a UFO's searchlight and then as the hiding place for Walton during his purported period of abduction."
+  },
+  {
+   "s": "gentry",
+   "p": "type",
+   "v": "fire lookout post",
+   "quote": "Based in part on work by producer Ryan Gordon, she has made a case that Gentry Tower, a fire lookout post, was used in 1975 to create the illusion of a UFO's searchlight and then as the hiding place for Walton during his purported period of abduction."
+  },
+  {
+   "s": "gentry",
+   "p": "alleged_role",
+   "v": "used to create the illusion of a UFO's searchlight and then as Walton's hiding place",
+   "quote": "Based in part on work by producer Ryan Gordon, she has made a case that Gentry Tower, a fire lookout post, was used in 1975 to create the illusion of a UFO's searchlight and then as the hiding place for Walton during his purported period of abduction."
+  },
+  {
+   "s": "gentry",
+   "p": "detail",
+   "v": "reportedly never searched at the time of the incident",
+   "quote": "It was reportedly never searched at the time of the incident."
+  },
+  {
+   "s": "gentry",
+   "p": "height",
+   "v": "70-foot-tall",
+   "quote": "which passes by Gentry Tower: a 70-foot-tall"
+  },
+  {
+   "s": "gentry",
+   "p": "equipment",
+   "v": "generator",
+   "quote": "Forest Service fire lookout tower equipped with a generator"
+  },
+  {
+   "s": "gentry",
+   "p": "equipment",
+   "v": "living space for the lookout, an outer metal catwalk, and a spotlight",
+   "quote": "living space for the lookout, an outer metal catwalk, and a spotlight"
+  },
+  {
+   "s": "gentry",
+   "p": "size",
+   "v": "200-square-foot living space",
+   "quote": "a 200-square-foot"
+  },
+  {
+   "s": "gentry",
+   "p": "appearance",
+   "v": "brightly lit above the tree tops",
+   "quote": "Sheaffer suggests Travis walked towards the tower, which was brightly lit above the tree tops, until an accomplice in the tower illuminated him with the spotlight."
+  },
+  {
+   "s": "arizona",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Travis Walton incident was an alleged alien abduction of American forestry worker Travis Walton on November 5, 1975, in the Apache–Sitgreaves National Forests near Heber, Arizona."
+  },
+  {
+   "s": "arizona",
+   "p": "law",
+   "v": "recording a call without the other party's knowledge is permitted by Arizona law",
+   "quote": "Gordon recorded the call without Rogers's knowledge, as permitted by Arizona law."
+  },
+  {
+   "s": "usa",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Travis Walton incident was an alleged alien abduction of American forestry worker Travis Walton on November 5, 1975, in the Apache–Sitgreaves National Forests near Heber, Arizona."
+  },
+  {
+   "s": "usa",
+   "p": "press_coverage",
+   "v": "stories of Walton's disappearance were published throughout the US",
+   "quote": "By November 10, stories of Walton's disappearance were being published throughout the US, UK, and Canada."
+  },
+  {
+   "s": "uk",
+   "p": "related_place",
+   "o": "case",
+   "quote": "By November 10, stories of Walton's disappearance were being published throughout the US, UK, and Canada."
+  },
+  {
+   "s": "canada",
+   "p": "related_place",
+   "o": "case",
+   "quote": "By November 10, stories of Walton's disappearance were being published throughout the US, UK, and Canada."
+  },
+  {
+   "s": "phoenix",
+   "p": "related_place",
+   "o": "case",
+   "quote": "That day, a member of a Phoenix-based UFO interest group recorded a 65-minute interview with crew chief Mike Rogers and Travis's older brother Duane Walton."
+  },
+  {
+   "s": "phoenix",
+   "p": "role",
+   "v": "base of the UFO interest group whose member recorded the 65-minute interview",
+   "quote": "That day, a member of a Phoenix-based UFO interest group recorded a 65-minute interview with crew chief Mike Rogers and Travis's older brother Duane Walton."
+  },
+  {
+   "s": "glendale",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The sheriff drove the four hours into Glendale and arrived at 11:00 p.m. that night."
+  },
+  {
+   "s": "glendale",
+   "p": "role",
+   "v": "the sheriff drove four hours there to see Travis, arriving at 11:00 p.m.",
+   "quote": "The sheriff drove the four hours into Glendale and arrived at 11:00 p.m. that night."
+  },
+  {
+   "s": "scottsdale",
+   "p": "related_place",
+   "o": "case",
+   "quote": "After a local UFO group facilitated the connection, Duane and Travis moved into a suite at the Sheraton Inn in Scottsdale; the costs were covered by The National Enquirer in exchange for exclusive access to Walton and his story."
+  },
+  {
+   "s": "sheraton",
+   "p": "related_place",
+   "o": "case",
+   "quote": "After a local UFO group facilitated the connection, Duane and Travis moved into a suite at the Sheraton Inn in Scottsdale; the costs were covered by The National Enquirer in exchange for exclusive access to Walton and his story."
+  },
+  {
+   "s": "sheraton",
+   "p": "located_in",
+   "o": "scottsdale",
+   "quote": "After a local UFO group facilitated the connection, Duane and Travis moved into a suite at the Sheraton Inn in Scottsdale; the costs were covered by The National Enquirer in exchange for exclusive access to Walton and his story."
+  },
+  {
+   "s": "sheraton",
+   "p": "role",
+   "v": "Duane and Travis moved into a suite there, paid for by The National Enquirer",
+   "quote": "After a local UFO group facilitated the connection, Duane and Travis moved into a suite at the Sheraton Inn in Scottsdale; the costs were covered by The National Enquirer in exchange for exclusive access to Walton and his story."
+  },
+  {
+   "s": "blackcanyon",
+   "p": "related_place",
+   "o": "case",
+   "quote": "While the crew typically traveled back to Heber via Black Canyon Road, Sheaffer suggests they returned that night via Rim Road, which passes by Gentry Tower"
+  },
+  {
+   "s": "blackcanyon",
+   "p": "role",
+   "v": "road the crew typically used to travel back to Heber",
+   "quote": "While the crew typically traveled back to Heber via Black Canyon Road, Sheaffer suggests they returned that night via Rim Road, which passes by Gentry Tower"
+  },
+  {
+   "s": "rimroad",
+   "p": "related_place",
+   "o": "case",
+   "quote": "While the crew typically traveled back to Heber via Black Canyon Road, Sheaffer suggests they returned that night via Rim Road, which passes by Gentry Tower"
+  },
+  {
+   "s": "rimroad",
+   "p": "role",
+   "v": "passes by Gentry Tower; Sheaffer suggests the crew returned via it that night",
+   "quote": "While the crew typically traveled back to Heber via Black Canyon Road, Sheaffer suggests they returned that night via Rim Road, which passes by Gentry Tower"
+  },
+  {
+   "s": "gentry",
+   "p": "location",
+   "v": "passed by Rim Road",
+   "quote": "While the crew typically traveled back to Heber via Black Canyon Road, Sheaffer suggests they returned that night via Rim Road, which passes by Gentry Tower"
+  },
+  {
+   "s": "object",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Six members of the crew claimed they were driving down a forest road when they saw an illuminated object above the ground near the roadway."
+  },
+  {
+   "s": "object",
+   "p": "description",
+   "v": "an unusual light",
+   "quote": "They asserted that when they were driving back to town after sunset, driver Mike Rogers stopped the truck because they saw an unusual light."
+  },
+  {
+   "s": "object",
+   "p": "description",
+   "v": "illuminated object above the ground near the roadway",
+   "quote": "Six members of the crew claimed they were driving down a forest road when they saw an illuminated object above the ground near the roadway."
+  },
+  {
+   "s": "object",
+   "p": "behavior",
+   "v": "a beam of light focused on Walton, and he fell to the ground",
+   "quote": "A beam of light focused on Walton, and he fell to the ground."
+  },
+  {
+   "s": "object",
+   "p": "behavior",
+   "v": "shone a light on Walton",
+   "quote": "They reported that Walton got out of the truck and ran towards the object, which shone a light on him."
+  },
+  {
+   "s": "object",
+   "p": "description",
+   "v": "flying saucer",
+   "quote": "Walton reportedly had said that he was taken aboard a flying saucer."
+  },
+  {
+   "s": "object",
+   "p": "departure",
+   "v": "departing above Walton as he walked along a highway five days later",
+   "quote": "Walton has said that he remembers nothing else until he found himself walking along a highway five days later, with the flying saucer departing above him."
+  },
+  {
+   "s": "object",
+   "p": "description",
+   "v": "spacecraft (Ledwith)",
+   "quote": "According to Ledwith, \"all of the co-workers who were there, who saw the spacecraft, they all took polygraph tests, and they all passed, except for one, and that one was inconclusive.\""
+  },
+  {
+   "s": "object",
+   "p": "later_claim",
+   "v": "Rogers: \"there was something about the UFO not being real, although it looked real\"",
+   "quote": "He ran up there and there was something about the UFO not being real, although it looked real."
+  },
+  {
+   "s": "object",
+   "p": "occupants",
+   "v": "three short, bald humanoids",
+   "quote": "Travis claimed that he had lost consciousness when struck by a beam of light, and that he awoke in a hospital-like room, being observed by three short, bald humanoids."
+  },
+  {
+   "s": "object",
+   "p": "occupants",
+   "v": "a human wearing a helmet and three other humans",
+   "quote": "He says that he fought with them until a human wearing a helmet led Walton to another room, where he blacked out as three other humans put a clear plastic mask over his face."
+  },
+  {
+   "s": "object",
+   "p": "interior",
+   "v": "hospital-like room",
+   "quote": "Travis claimed that he had lost consciousness when struck by a beam of light, and that he awoke in a hospital-like room, being observed by three short, bald humanoids."
+  },
+  {
+   "s": "object",
+   "p": "detail",
+   "v": "clear plastic mask put over Walton's face",
+   "quote": "He says that he fought with them until a human wearing a helmet led Walton to another room, where he blacked out as three other humans put a clear plastic mask over his face."
+  },
+  {
+   "s": "truck",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "They asserted that when they were driving back to town after sunset, driver Mike Rogers stopped the truck because they saw an unusual light."
+  },
+  {
+   "s": "truck",
+   "p": "action",
+   "v": "three crew members drove home in it rather than return to Turkey Springs",
+   "quote": "According to a 1983 account, Rogers and two crew members agreed to return to Turkey Springs with the three officers, while the three other crew members refused to return and instead drove home in Rogers's vehicle."
+  },
+  {
+   "s": "heli",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "police organized several search parties, aided by a helicopter."
+  },
+  {
+   "s": "heli",
+   "p": "role",
+   "v": "included in the search party assembled by Sheriff Gillespie",
+   "quote": "As a result, Sheriff Gillespie assembled another search party, which included a helicopter."
+  },
+  {
+   "s": "d_contract",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The year prior, Rogers had won a bid for a federal contract to thin out small trees from an area known as Turkey Springs in the Apache-Sitgreaves National Forests when he underbid two other contractors."
+  },
+  {
+   "s": "d_contract",
+   "p": "terms",
+   "v": "thinning of 1,277 acres by August 1975",
+   "quote": "The Turkey Springs job called for the thinning of 1,277 acres by August 1975."
+  },
+  {
+   "s": "d_contract",
+   "p": "terms",
+   "v": "extension granted until November 10",
+   "quote": "Rogers requested, and was granted, an extension until November 10."
+  },
+  {
+   "s": "d_contract",
+   "p": "terms",
+   "v": "failure could lead to a $2,500 penalty and disqualification from bidding on future contracts",
+   "quote": "Failure to complete the job could lead to a $2,500 penalty and a disqualification from bidding on future Forestry Service contracts."
+  },
+  {
+   "s": "d_contract",
+   "p": "terms",
+   "v": "Forestry contracts included an Act of God clause excusing contractors delinquent due to unforeseeable circumstances",
+   "quote": "Forestry contracts included an Act of God clause that excused contractors who were delinquent due to unforeseeable circumstances."
+  },
+  {
+   "s": "d_contract",
+   "p": "status",
+   "v": "seriously behind schedule (Rogers)",
+   "quote": "During the interview, Rogers discussed the Forestry contract, saying \"This contract we have is seriously behind schedule. In fact, Monday the time is up."
+  },
+  {
+   "s": "d_letter",
+   "p": "key_document",
+   "o": "case",
+   "quote": "On October 20, Rogers wrote to his Forestry Service contracting officer: \"I cannot honestly say whether or not we will finish on time."
+  },
+  {
+   "s": "d_letter",
+   "p": "date",
+   "v": "October 20",
+   "quote": "On October 20, Rogers wrote to his Forestry Service contracting officer: \"I cannot honestly say whether or not we will finish on time."
+  },
+  {
+   "s": "d_letter",
+   "p": "content",
+   "v": "I will not stop work until the job is finished or until I am asked to stop.",
+   "quote": "I will not stop work until the job is finished or until I am asked to stop."
+  },
+  {
+   "s": "d_letter",
+   "p": "recipient",
+   "o": "usfs",
+   "quote": "On October 20, Rogers wrote to his Forestry Service contracting officer: \"I cannot honestly say whether or not we will finish on time."
+  },
+  {
+   "s": "d_interview",
+   "p": "key_document",
+   "o": "case",
+   "quote": "That day, a member of a Phoenix-based UFO interest group recorded a 65-minute interview with crew chief Mike Rogers and Travis's older brother Duane Walton."
+  },
+  {
+   "s": "d_interview",
+   "p": "length",
+   "v": "65 minutes",
+   "quote": "That day, a member of a Phoenix-based UFO interest group recorded a 65-minute interview with crew chief Mike Rogers and Travis's older brother Duane Walton."
+  },
+  {
+   "s": "d_interview",
+   "p": "date",
+   "v": "November 8",
+   "quote": "That day, a member of a Phoenix-based UFO interest group recorded a 65-minute interview with crew chief Mike Rogers and Travis's older brother Duane Walton."
+  },
+  {
+   "s": "d_interview",
+   "p": "content",
+   "v": "neither expressed any fear or concern for Travis; they expressed confidence that Travis would be returned",
+   "quote": "At no point during the interview did either reportedly express any fear or concern for Travis; rather, they expressed confidence that Travis would be returned."
+  },
+  {
+   "s": "d_gilson",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Also on November 11, Rogers and the five other members of the forestry crew were interrogated by Arizona Dept. of Public Safety polygraph examiner C. E. Gilson to determine if the men had murdered Travis Walton."
+  },
+  {
+   "s": "d_gilson",
+   "p": "date",
+   "v": "November 11",
+   "quote": "Also on November 11, Rogers and the five other members of the forestry crew were interrogated by Arizona Dept. of Public Safety polygraph examiner C. E. Gilson to determine if the men had murdered Travis Walton."
+  },
+  {
+   "s": "d_gilson",
+   "p": "purpose",
+   "v": "to determine if the men had murdered Travis Walton",
+   "quote": "Also on November 11, Rogers and the five other members of the forestry crew were interrogated by Arizona Dept. of Public Safety polygraph examiner C. E. Gilson to determine if the men had murdered Travis Walton."
+  },
+  {
+   "s": "d_gilson",
+   "p": "purpose",
+   "v": "to determine whether the crew had killed Walton, not to investigate UFOs",
+   "quote": "They further note that while law enforcement had conducted a polygraph examination of the crew during their missing persons investigation into Walton's disappearance, the objective of that investigation was to determine whether the crew had killed Walton, not to investigate UFOs."
+  },
+  {
+   "s": "d_gilson",
+   "p": "content",
+   "v": "only four questions: three about violence against Walton and one asking if an unusual object was observed",
+   "quote": "Thus, they asked only four questions: three about violence against Walton and one asking if an unusual object was observed."
+  },
+  {
+   "s": "d_gilson",
+   "p": "finding",
+   "v": "five out of six truthful; Allen Dalis \"inconclusive\"",
+   "quote": "All denied having harmed Travis—Gilson opined that five out of the six men were being truthful and described results for the sixth man, Allen Dalis, as \"inconclusive\"."
+  },
+  {
+   "s": "d_mccarthy",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The following day, November 15, Travis was interviewed by Jack McCarthy, a freelance polygraph examiner whose involvement was arranged by a UFO group and the Enquirer."
+  },
+  {
+   "s": "d_mccarthy",
+   "p": "date",
+   "v": "November 15",
+   "quote": "The following day, November 15, Travis was interviewed by Jack McCarthy, a freelance polygraph examiner whose involvement was arranged by a UFO group and the Enquirer."
+  },
+  {
+   "s": "d_mccarthy",
+   "p": "finding",
+   "v": "\"gross deception\"",
+   "quote": "McCarthy concluded that Travis was engaged in a \"gross deception\" and had even been intentionally holding his breath in an attempt to \"beat the machine\"."
+  },
+  {
+   "s": "d_fb",
+   "p": "key_document",
+   "o": "case",
+   "quote": "On March 19, 2021, Mike Rogers posted a statement to his Facebook page announcing \"I, Michael H. Rogers, being of sound and rational mind, do hereby give notice that I am no longer to be considered a witness to Travis C. Walton's supposed abduction of November 5, 1975.\""
+  },
+  {
+   "s": "d_fb",
+   "p": "date",
+   "v": "March 19, 2021",
+   "quote": "On March 19, 2021, Mike Rogers posted a statement to his Facebook page announcing \"I, Michael H. Rogers, being of sound and rational mind, do hereby give notice that I am no longer to be considered a witness to Travis C. Walton's supposed abduction of November 5, 1975.\""
+  },
+  {
+   "s": "facebook",
+   "p": "published",
+   "o": "d_fb",
+   "quote": "On March 19, 2021, Mike Rogers posted a statement to his Facebook page announcing \"I, Michael H. Rogers, being of sound and rational mind, do hereby give notice that I am no longer to be considered a witness to Travis C. Walton's supposed abduction of November 5, 1975.\""
+  },
+  {
+   "s": "d_call",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Gordon recorded the call without Rogers's knowledge, as permitted by Arizona law."
+  },
+  {
+   "s": "d_call",
+   "p": "date",
+   "v": "April 30 (audio posted July 4)",
+   "quote": "Two months later, on July 4, Gordon publicly posted audio from the call which featured Rogers explaining"
+  },
+  {
+   "s": "d_call",
+   "p": "content",
+   "v": "We were talking about creating a UFO hoax",
+   "quote": "We were talking about creating a UFO hoax, okay? I don't know how the UFO got there."
+  },
+  {
+   "s": "d_review",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Psychologists and skeptics argued in a 2009 review that, \"after viewing this movie, any person with a little imagination could now become an instant celebrity\" by claiming an abduction."
+  },
+  {
+   "s": "d_review",
+   "p": "year",
+   "v": "2009",
+   "quote": "Psychologists and skeptics argued in a 2009 review that, \"after viewing this movie, any person with a little imagination could now become an instant celebrity\" by claiming an abduction."
+  },
+  {
+   "s": "d_review",
+   "p": "content",
+   "v": "after viewing this movie, any person with a little imagination could now become an instant celebrity",
+   "quote": "Psychologists and skeptics argued in a 2009 review that, \"after viewing this movie, any person with a little imagination could now become an instant celebrity\" by claiming an abduction."
+  },
+  {
+   "s": "d_review",
+   "p": "conclusion",
+   "v": "one of those instant celebrities was Travis Walton",
+   "quote": "They concluded that \"one of those instant celebrities was Travis Walton\"."
+  },
+  {
+   "s": "w_book",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 1978, he published his account as The Walton Experience."
+  },
+  {
+   "s": "w_book",
+   "p": "year",
+   "v": "1978",
+   "quote": "In 1978, Walton wrote the book The Walton Experience detailing his claims."
+  },
+  {
+   "s": "w_book",
+   "p": "rumor",
+   "v": "rumored to have been ghostwritten by John G. Fuller",
+   "quote": "While he claimed sole authorship, it was rumored to have been ghostwritten by John G. Fuller."
+  },
+  {
+   "s": "w_film",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The book was adapted by Tracy Tormé as the 1993 film Fire in the Sky, directed by Robert Lieberman; the filmmakers admitted taking creative liberties with Walton's purported account."
+  },
+  {
+   "s": "w_film",
+   "p": "year",
+   "v": "1993",
+   "quote": "The book was adapted by Tracy Tormé as the 1993 film Fire in the Sky, directed by Robert Lieberman; the filmmakers admitted taking creative liberties with Walton's purported account."
+  },
+  {
+   "s": "w_film",
+   "p": "release_date",
+   "v": "March 12, 1993",
+   "quote": "On the opening day of Fire in the Sky – March 12, 1993 – Walton and Mike Rogers appeared on the CNN program Larry King Live, which also featured Philip J. Klass."
+  },
+  {
+   "s": "w_film",
+   "p": "note",
+   "v": "the filmmakers admitted taking creative liberties with Walton's purported account",
+   "quote": "The book was adapted by Tracy Tormé as the 1993 film Fire in the Sky, directed by Robert Lieberman; the filmmakers admitted taking creative liberties with Walton's purported account."
+  },
+  {
+   "s": "torme",
+   "p": "authored",
+   "o": "w_film",
+   "quote": "The book was adapted by Tracy Tormé as the 1993 film Fire in the Sky, directed by Robert Lieberman; the filmmakers admitted taking creative liberties with Walton's purported account."
+  },
+  {
+   "s": "w_ufoincident",
+   "p": "timing",
+   "v": "aired two weeks before the Travis Walton incident",
+   "quote": "The film aired two weeks before the Travis Walton UFO incident."
+  },
+  {
+   "s": "w_ufoincident",
+   "p": "cast",
+   "v": "James Earl Jones as Barney Hill",
+   "quote": "The film starred James Earl Jones as Barney Hill, who had undergone a hypnosis session with a psychiatrist in 1964, after which he reported recollections of an alien abduction."
+  },
+  {
+   "s": "w_ufoincident",
+   "p": "date",
+   "v": "October 20, 1975",
+   "quote": "On October 20, 1975, the same night that Rogers wrote to the Forestry Service, the NBC network aired a prime-time special: The UFO Incident, a made-for-TV movie about an alleged alien abduction."
+  },
+  {
+   "s": "w_ufoincident",
+   "p": "format",
+   "v": "made-for-TV movie, prime-time special",
+   "quote": "On October 20, 1975, the same night that Rogers wrote to the Forestry Service, the NBC network aired a prime-time special: The UFO Incident, a made-for-TV movie about an alleged alien abduction."
+  },
+  {
+   "s": "w_klass",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "According to researcher Philip J. Klass' 1989 book UFO Abductions: A Dangerous Game, shortly before his disappearance, Travis had reportedly told his mother not to worry if he were ever abducted by aliens because he would return safe and sound."
+  },
+  {
+   "s": "w_klass",
+   "p": "year",
+   "v": "1989",
+   "quote": "According to researcher Philip J. Klass' 1989 book UFO Abductions: A Dangerous Game, shortly before his disappearance, Travis had reportedly told his mother not to worry if he were ever abducted by aliens because he would return safe and sound."
+  },
+  {
+   "s": "w_lkl",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "On the opening day of Fire in the Sky – March 12, 1993 – Walton and Mike Rogers appeared on the CNN program Larry King Live, which also featured Philip J. Klass."
+  },
+  {
+   "s": "w_lkl",
+   "p": "date",
+   "v": "March 12, 1993",
+   "quote": "On the opening day of Fire in the Sky – March 12, 1993 – Walton and Mike Rogers appeared on the CNN program Larry King Live, which also featured Philip J. Klass."
+  },
+  {
+   "s": "w_mot",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2008, Walton was analyzed by a private polygrapher and determined to be engaged in deception when he appeared on the Fox game show The Moment of Truth."
+  },
+  {
+   "s": "w_mot",
+   "p": "year",
+   "v": "2008",
+   "quote": "In 2008, Walton was analyzed by a private polygrapher and determined to be engaged in deception when he appeared on the Fox game show The Moment of Truth."
+  },
+  {
+   "s": "w_mot",
+   "p": "format",
+   "v": "game show",
+   "quote": "In 2008, Walton was analyzed by a private polygrapher and determined to be engaged in deception when he appeared on the Fox game show The Moment of Truth."
+  },
+  {
+   "s": "w_rogan",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "On January 19, 2021, Walton appeared on episode #1597 of the Joe Rogan Experience podcast."
+  },
+  {
+   "s": "w_rogan",
+   "p": "episode",
+   "v": "1597",
+   "quote": "On January 19, 2021, Walton appeared on episode #1597 of the Joe Rogan Experience podcast."
+  },
+  {
+   "s": "w_rogan",
+   "p": "date",
+   "v": "January 19, 2021",
+   "quote": "On January 19, 2021, Walton appeared on episode #1597 of the Joe Rogan Experience podcast."
+  },
+  {
+   "s": "w_wilson",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "On August 25, 2023, he appeared in the fifth episode of the third season of How To with John Wilson, titled \"How to Watch Birds\"."
+  },
+  {
+   "s": "w_wilson",
+   "p": "date",
+   "v": "August 25, 2023",
+   "quote": "On August 25, 2023, he appeared in the fifth episode of the third season of How To with John Wilson, titled \"How to Watch Birds\"."
+  },
+  {
+   "s": "w_wilson",
+   "p": "episode",
+   "v": "fifth episode of the third season, \"How to Watch Birds\"",
+   "quote": "On August 25, 2023, he appeared in the fifth episode of the third season of How To with John Wilson, titled \"How to Watch Birds\"."
+  },
+  {
+   "s": "w_intruders",
+   "p": "compared_to",
+   "o": "case",
+   "quote": "it doesn't fit any of the other patterns as in the cases that were explored in [Budd Hopkins's book] Intruders."
+  },
+  {
+   "s": "w_intruders",
+   "p": "mentioned_by",
+   "o": "torme",
+   "quote": "it doesn't fit any of the other patterns as in the cases that were explored in [Budd Hopkins's book] Intruders."
+  },
+  {
+   "s": "c_hill",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Rogers later acknowledged he had watched \"the first part\" of the recent television special that dramatized the Barney Hill \"alien abduction\" case, while the Waltons acknowledged prior discussions of wanting to be taken aboard a UFO."
+  },
+  {
+   "s": "c_hill",
+   "p": "detail",
+   "v": "Barney Hill underwent a hypnosis session with a psychiatrist in 1964",
+   "quote": "The film starred James Earl Jones as Barney Hill, who had undergone a hypnosis session with a psychiatrist in 1964, after which he reported recollections of an alien abduction."
+  },
+  {
+   "s": "c_hill",
+   "p": "depicted_in",
+   "o": "w_ufoincident",
+   "quote": "Rogers later acknowledged he had watched \"the first part\" of the recent television special that dramatized the Barney Hill \"alien abduction\" case, while the Waltons acknowledged prior discussions of wanting to be taken aboard a UFO."
+  },
+  {
+   "s": "c_phoenix",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Rogers also reportedly \"confessed\" to his daughter to having hoaxed the famous Phoenix Lights using balloons or something, which is preposterous."
+  },
+  {
+   "s": "c_phoenix",
+   "p": "later_claim",
+   "v": "Rogers reportedly \"confessed\" to his daughter to having hoaxed it using balloons or something",
+   "quote": "Rogers also reportedly \"confessed\" to his daughter to having hoaxed the famous Phoenix Lights using balloons or something, which is preposterous."
+  },
+  {
+   "s": "c_phoenix",
+   "p": "skeptic_view",
+   "v": "the \"lights\" traveled 400 miles in less than an hour, so they were obviously aircraft (Sheaffer)",
+   "quote": "Those \"lights\" traveled 400 miles in less than an hour, so they were obviously aircraft."
+  },
+  {
+   "s": "c_pasc",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Pascagoula incident"
+  },
+  {
+   "s": "f_abd",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Travis Walton incident was an alleged alien abduction of American forestry worker Travis Walton on November 5, 1975, in the Apache–Sitgreaves National Forests near Heber, Arizona."
+  },
+  {
+   "s": "f_occ",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Travis claimed that he had lost consciousness when struck by a beam of light, and that he awoke in a hospital-like room, being observed by three short, bald humanoids."
+  },
+  {
+   "s": "f_hyp",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "That night, in the presence of Enquirer reporters, a doctor associated with a UFO group had a two-hour conversation with a hypnotized Travis about the incident."
+  },
+  {
+   "s": "f_poly",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Also on November 11, Rogers and the five other members of the forestry crew were interrogated by Arizona Dept. of Public Safety polygraph examiner C. E. Gilson to determine if the men had murdered Travis Walton."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Six members of the crew claimed they were driving down a forest road when they saw an illuminated object above the ground near the roadway."
+  },
+  {
+   "s": "f_missing",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Walton has said that he remembers nothing else until he found himself walking along a highway five days later, with the flying saucer departing above him."
+  },
+  {
+   "s": "f_disapp",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "On November 5, 1975, a logging crew reported that one of their members, Travis Walton, was missing."
+  },
+  {
+   "s": "f_hoaxa",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Science writers Philip J. Klass and Michael Shermer later alleged that Walton had perpetrated a hoax."
+  },
+  {
+   "s": "f_hoaxc",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Mike Rogers's daughter reported that Rogers — who died in February 2026 — made a deathbed confession affirming the incident was a hoax in which he had participated."
+  },
+  {
+   "s": "f_hoaxc",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "when I was driving the truck and he jumped out, it was all deliberate. It was all a staged thing, okay?"
+  },
+  {
+   "s": "f_phys",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Travis claimed that he had lost consciousness when struck by a beam of light, and that he awoke in a hospital-like room, being observed by three short, bald humanoids."
+  },
+  {
+   "s": "f_disc",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Walton reportedly had said that he was taken aboard a flying saucer."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "They further note that while law enforcement had conducted a polygraph examination of the crew during their missing persons investigation into Walton's disappearance, the objective of that investigation was to determine whether the crew had killed Walton, not to investigate UFOs."
+  },
+  {
+   "s": "f_beam",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "A beam of light focused on Walton, and he fell to the ground."
+  },
+  {
+   "s": "x_hoax",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Science writers Philip J. Klass and Michael Shermer later alleged that Walton had perpetrated a hoax."
+  },
+  {
+   "s": "x_search",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Based in part on work by producer Ryan Gordon, she has made a case that Gentry Tower, a fire lookout post, was used in 1975 to create the illusion of a UFO's searchlight and then as the hiding place for Walton during his purported period of abduction."
+  }
+ ]
+}

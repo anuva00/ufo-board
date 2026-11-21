@@ -94,6 +94,8 @@ def main():
         print(f"{len(ext.get('entities', []))} entities, {len(ext.get('claims', []))} claims, {len(errors)} errors, {len(warnings)} warnings")
         sys.exit(1 if errors else 0)
 
+    if len(sys.argv) > 1:                      # an unknown flag must never trigger a rebuild
+        sys.exit(__doc__)
     DB.unlink(missing_ok=True)
     db = sqlite3.connect(DB)
     db.executescript((Path(__file__).parent / "schema.sql").read_text())
