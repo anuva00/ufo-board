@@ -30,6 +30,7 @@ finding.
 | Resolve | `python3 pipeline/resolve.py` | Merges entities that are the same thing across sources; reviewed decisions live in `data/merges.json` |
 | Bulk layer | `python3 pipeline/reports.py` | Builds `ui/reports.json` and `ui/rep/*.json` from `data/raw/` |
 | Export | `cd pipeline && python3 export.py` | Scores links and writes `ui/data.json` |
+| Nuclear sites | `python3 pipeline/nuclear.py` | Builds `ui/nuclear.json`: power stations from GeoNuclearData, weapons and test sites from the hand-entered `data/nuclear_weapons_sites.json` |
 | Map outlines | `node pipeline/build_geo.js` | Builds `ui/geo.json` from the world-atlas and us-atlas npm packages |
 
 `data/raw/` (downloads) and `data/ufo.db` are rebuilt by the scripts and are

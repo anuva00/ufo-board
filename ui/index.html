@@ -11,7 +11,7 @@
   --bg: #0e1217; --panel: #151a21; --raise: #1c232c; --line: #28313c;
   --fg: #e7ecf2; --fg2: #aab4c1; --muted: #788494;
   --sea: #0b0f14; --land: #1a2029; --border: #323c49; --dim: #2b333d;
-  --link: #e2578f;
+  --link: #e2578f; --nuke: #d9a520;
   --c0: #3987e5; --c1: #d95926; --c2: #199e70;          /* who collected the report */
   --t-person: #3987e5; --t-org: #d95926; --t-place: #199e70; --t-doc: #c98500;
   --t-case: #e66767; --t-feature: #0ca30c; --t-expl: #9085e9;
@@ -24,7 +24,7 @@
     --bg: #f1f3f5; --panel: #ffffff; --raise: #f4f6f8; --line: #dde1e6;
     --fg: #12161b; --fg2: #444e5a; --muted: #6a7482;
     --sea: #e9edf1; --land: #fbfcfd; --border: #c0c7cf; --dim: #d3d8de;
-    --link: #c2376f;
+    --link: #c2376f; --nuke: #a87400;
     --c0: #2a78d6; --c1: #eb6834; --c2: #1baf7a;
     --t-person: #2a78d6; --t-org: #eb6834; --t-place: #1baf7a; --t-doc: #eda100;
     --t-case: #e34948; --t-feature: #008300; --t-expl: #6250d6;
@@ -35,7 +35,7 @@
   --bg: #f1f3f5; --panel: #ffffff; --raise: #f4f6f8; --line: #dde1e6;
   --fg: #12161b; --fg2: #444e5a; --muted: #6a7482;
   --sea: #e9edf1; --land: #fbfcfd; --border: #c0c7cf; --dim: #d3d8de;
-  --link: #c2376f;
+  --link: #c2376f; --nuke: #a87400;
   --c0: #2a78d6; --c1: #eb6834; --c2: #1baf7a;
   --t-person: #2a78d6; --t-org: #eb6834; --t-place: #1baf7a; --t-doc: #eda100;
   --t-case: #e34948; --t-feature: #008300; --t-expl: #6250d6;
@@ -99,6 +99,14 @@ a { color: inherit; text-decoration-color: var(--link); text-underline-offset: 2
 .chip i { width: 8px; height: 8px; border-radius: 50%; background: var(--sw); }
 .chip[aria-pressed="false"] { color: var(--muted); }
 .chip[aria-pressed="false"] i { background: none; box-shadow: inset 0 0 0 1.5px var(--muted); }
+.nk { display: flex; align-items: center; gap: 8px; width: 100%; text-align: left; padding: 3px 4px; border: 0; border-radius: 4px; background: none; }
+.nk:hover { background: var(--raise); }
+.nk svg { flex: 0 0 16px; }
+.nk .nm { flex: 1; min-width: 0; }
+.nk .ct { color: var(--fg2); }
+.nk[aria-pressed="false"] { color: var(--muted); }
+.nk[aria-pressed="false"] svg { opacity: .35; }
+.rail h2 + .sub2, .sub2 { font-size: 11px; color: var(--muted); margin: 10px 0 4px; letter-spacing: .04em; }
 .rarity { display: block; margin-top: 10px; font-size: 12px; color: var(--fg2); }
 .rarity input { width: 100%; accent-color: var(--link); margin-top: 4px; }
 .note { color: var(--muted); font-size: 11px; margin: 8px 0 0; }
@@ -213,6 +221,13 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
       <div id="shapes"></div>
       <p class="note">Shape comes from the reporter's own category where the dataset has one, otherwise from keywords in the summary. Blue Book titles carry no description.</p>
     </section>
+    <section id="nukesec" hidden>
+      <h2>Nuclear sites</h2>
+      <div id="nukekinds"></div>
+      <div class="sub2">Status</div>
+      <div id="nukestatus"></div>
+      <p class="note">Power stations: GeoNuclearData (WNA and IAEA figures, March 2024). Weapons and test sites: hand-entered, approximate, status as generally reported.</p>
+    </section>
     <section>
       <h2>Network: shared names</h2>
       <div class="chips" id="chips" role="group" aria-label="Kinds of shared thing to show in the network"></div>
@@ -283,6 +298,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
   }
 
   // ================= data =================
+  const NUKES = await fetch("nuclear.json").then((r) => (r.ok ? r.json() : [])).catch(() => []);
   const N = R.n, Y0 = 1940, Y1 = Math.max(...R.y);
   const CLASS = [{ name: "Civilian hotline", v: "--c0" }, { name: "US government", v: "--c1" }, { name: "Other governments", v: "--c2" }];
   const CLS_OF = { nuforc: 0, bluebook: 1, faa: 1, geipan: 2, moduk: 2 };
@@ -322,6 +338,32 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
   const govReports = R.datasets.filter((d) => d.gov).reduce((n, d) => n + d.n, 0);
 
   // ================= state =================
+  const NK = [["power", "Power stations"], ["weapons", "Weapons sites"], ["test", "Test sites"]];
+  const NS = [["active", "In use"], ["construction", "Under construction"], ["planned", "Planned"], ["suspended", "Suspended"],
+    ["inactive", "Shut down or no longer used"], ["decommissioned", "Decommissioned"], ["cancelled", "Cancelled"]];
+  const nkLabel = Object.fromEntries(NK), nsLabel = Object.fromEntries(NS);
+  const nukeOn = { k: new Set(NK.map((x) => x[0])), s: new Set(NS.map((x) => x[0])) };
+  const nukeVis = (n) => nukeOn.k.has(n.k) && nukeOn.s.has(n.s);
+  // One glyph per site: shape says what it is, fill says its status.
+  function nukeGlyph(g, kind, status, x, y, r, col, bg) {
+    g.beginPath();
+    if (kind === "power") g.arc(x, y, r, 0, 6.2832);
+    else if (kind === "weapons") { g.moveTo(x, y - r * 1.15); g.lineTo(x + r * 1.1, y + r * 0.85); g.lineTo(x - r * 1.1, y + r * 0.85); g.closePath(); }
+    else { g.moveTo(x, y - r * 1.25); g.lineTo(x + r * 1.25, y); g.lineTo(x, y + r * 1.25); g.lineTo(x - r * 1.25, y); g.closePath(); }
+    g.lineWidth = 1.4; g.strokeStyle = col; g.setLineDash(status === "planned" ? [2, 2] : []);
+    g.fillStyle = status === "active" ? col : bg; g.fill(); g.stroke(); g.setLineDash([]);
+    g.fillStyle = col; g.lineWidth = 1.3;
+    if (status === "construction") { g.beginPath(); g.arc(x, y + (kind === "weapons" ? r * 0.2 : 0), r * 0.38, 0, 6.2832); g.fill(); }
+    else if (status === "suspended") { g.beginPath(); g.moveTo(x - r * 0.6, y + (kind === "weapons" ? r * 0.25 : 0)); g.lineTo(x + r * 0.6, y + (kind === "weapons" ? r * 0.25 : 0)); g.stroke(); }
+    else if (status === "decommissioned") { g.beginPath(); g.moveTo(x - r * 1.2, y + r * 1.2); g.lineTo(x + r * 1.2, y - r * 1.2); g.stroke(); }
+    else if (status === "cancelled") { g.beginPath(); g.moveTo(x - r * 0.5, y - r * 0.5 + (kind === "weapons" ? r * 0.2 : 0)); g.lineTo(x + r * 0.5, y + r * 0.5 + (kind === "weapons" ? r * 0.2 : 0)); g.moveTo(x + r * 0.5, y - r * 0.5 + (kind === "weapons" ? r * 0.2 : 0)); g.lineTo(x - r * 0.5, y + r * 0.5 + (kind === "weapons" ? r * 0.2 : 0)); g.stroke(); }
+  }
+  function nukeIcon(kind, status) {
+    const c = h("canvas", { width: 32, height: 32, style: "width: 16px; height: 16px; flex: 0 0 16px" });
+    c._draw = () => { const g = c.getContext("2d"); g.setTransform(2, 0, 0, 2, 0, 0); g.clearRect(0, 0, 16, 16); nukeGlyph(g, kind, status, 8, 8, 4.6, C.nuke, C.panel); };
+    return c;
+  }
+  const nukeIcons = [];
   const S = { view: "map", y0: Y0, y1: Y1, ds: new Set(R.datasets.map((_, i) => i)), shape: null,
     groups: new Set(GROUPS.filter((g) => g.on).map((g) => g.id)), maxDf: 3, sel: null };
   let vis = [new Int32Array(0), new Int32Array(0), new Int32Array(0)], nVis = 0, nVisMapped = 0;
@@ -329,7 +371,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
   const C = {};
   function readColors() {
     const css = getComputedStyle(document.documentElement);
-    for (const k of ["bg", "panel", "fg", "fg2", "muted", "sea", "land", "border", "line", "dim", "link", "c0", "c1", "c2"]) C[k] = css.getPropertyValue("--" + k).trim();
+    for (const k of ["bg", "panel", "fg", "fg2", "muted", "sea", "land", "border", "line", "dim", "link", "nuke", "c0", "c1", "c2"]) C[k] = css.getPropertyValue("--" + k).trim();
     C.cls = [C.c0, C.c1, C.c2];
     C.type = {};
     for (const g of GROUPS) for (const t of g.types) C.type[t] = css.getPropertyValue(g.v).trim();
@@ -400,6 +442,18 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     b.addEventListener("click", () => { S.groups.has(g.id) ? S.groups.delete(g.id) : S.groups.add(g.id); b.setAttribute("aria-pressed", String(S.groups.has(g.id))); scheduleNet(); });
     $("chips").append(b);
   }
+  if (NUKES.length) {
+    $("nukesec").hidden = false;
+    const mk = (box, list, set, field, iconArgs) => list.forEach(([id, label]) => {
+      const icon = nukeIcon(...iconArgs(id)); nukeIcons.push(icon);
+      const b = h("button", { class: "nk", "aria-pressed": "true" }, icon, h("span", { class: "nm" }, label), h("span", { class: "ct" }, fmt(NUKES.filter((n) => n[field] === id).length)));
+      b.addEventListener("click", () => { set.has(id) ? set.delete(id) : set.add(id); b.setAttribute("aria-pressed", String(set.has(id))); drawMap(); });
+      box.append(b);
+    });
+    mk($("nukekinds"), NK, nukeOn.k, "k", (id) => [id, "active"]);
+    mk($("nukestatus"), NS, nukeOn.s, "s", (id) => ["power", id]);
+    nukeIcons.forEach((c) => c._draw());
+  }
   $("maxdf").max = Math.min(30, Math.max(2, ...D.entities.filter((e) => e.case == null).map((e) => e.df)));
   $("maxdf").addEventListener("input", (ev) => { S.maxDf = +ev.target.value; $("maxdfv").textContent = S.maxDf; scheduleNet(); });
 
@@ -419,6 +473,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
       const p = proj([R.lon[i], R.lat[i]]); rPx[i] = p[0]; rPy[i] = p[1];
     }
     for (const c of mapped) c.p = proj([c.lon, c.lat]);
+    for (const n of NUKES) n.p = proj([n.lon, n.lat]);
   }
   function drawMap() {
     if (S.view !== "map" || !W) return;
@@ -448,6 +503,15 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     if (nearSet) {                                   // bulk reports filed near the selected case
       ctx.strokeStyle = C.fg; ctx.lineWidth = 1;
       for (const i of nearSet) if (rPx[i] === rPx[i]) { ctx.beginPath(); ctx.arc(rPx[i] * k + x, rPy[i] * k + y, r + 2.5, 0, 6.2832); ctx.stroke(); }
+    }
+    const nr = Math.max(2.6, Math.min(5.2, 2.6 + 0.55 * Math.log2(k)));
+    for (const n of NUKES) {
+      if (!nukeVis(n)) continue;
+      const sx = n.p[0] * k + x, sy = n.p[1] * k + y;
+      if (sx < -8 || sx > W + 8 || sy < -8 || sy > H + 8) continue;
+      const big = (S.sel && S.sel.kind === "nuke" && S.sel.site === n) || (hover && hover.nuke === n);
+      nukeGlyph(ctx, n.k, n.s, sx, sy, big ? nr + 2 : nr, C.nuke, C.bg);
+      if (big) { ctx.font = "500 11px Inter, system-ui, sans-serif"; ctx.textBaseline = "middle"; ctx.lineJoin = "round"; ctx.lineWidth = 3.5; ctx.strokeStyle = C.bg; ctx.strokeText(n.n, sx + 11, sy); ctx.fillStyle = C.fg; ctx.fillText(n.n, sx + 11, sy); }
     }
     // strings between linked case files
     ctx.strokeStyle = C.link; ctx.lineCap = "round";
@@ -511,6 +575,13 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
       if (d < bd) { bd = d; best = c; }
     }
     if (best) return { case: best };
+    let bn = null; bd = 64;
+    for (const n of NUKES) {
+      if (!nukeVis(n)) continue;
+      const dx = n.p[0] * k + x - mx, dy = n.p[1] * k + y - my, d = dx * dx + dy * dy;
+      if (d < bd) { bd = d; bn = n; }
+    }
+    if (bn) return { nuke: bn };
     let bi = -1; bd = 36;
     for (let c = 0; c < 3; c++) for (let j = 0, idx = vis[c]; j < idx.length; j++) {
       const i = idx[j], dx = rPx[i] * k + x - mx, dy = rPy[i] * k + y - my, d = dx * dx + dy * dy;
@@ -537,8 +608,9 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
       hover = hit;
       if (!hit) tip.hidden = true;
       else if (hit.case) showTip(mx, my, h("div", {}, h("b", {}, hit.case.name), h("span", {}, [hit.case.date, hit.case.country].filter(Boolean).join(" · ") || "case file")));
+      else if (hit.nuke) showTip(mx, my, h("div", {}, h("b", {}, hit.nuke.n), h("span", {}, `${nkLabel[hit.nuke.k].replace(/s$/, "")} · ${nsLabel[hit.nuke.s].toLowerCase()}`)));
       else { const i = hit.rep; showTip(mx, my, h("div", {}, h("b", {}, R.datasets[rDs[i]].name), h("span", {}, `${rM[i] ? MON[rM[i]] + " " : ""}${R.y[i]} · ${R.shapes[rSh[i]]} · click to read`))); }
-      if ((was && was.case) !== (hit && hit.case)) drawMap();
+      if ((was && (was.case || was.nuke)) !== (hit && (hit.case || hit.nuke))) drawMap();
     });
   });
   canvas.addEventListener("pointerleave", () => { tip.hidden = true; if (hover) { hover = null; drawMap(); } });
@@ -546,6 +618,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     const rect = canvas.getBoundingClientRect(), mx = ev.clientX - rect.left, my = ev.clientY - rect.top, hit = pick(mx, my);
     if (!hit) return select(null);
     if (hit.case) return select({ kind: "case", id: hit.case.id });
+    if (hit.nuke) return select({ kind: "nuke", site: hit.nuke });
     const { k, x, y } = T, found = [];
     for (let c = 0; c < 3; c++) for (let j = 0, idx = vis[c]; j < idx.length; j++) {
       const i = idx[j], dx = rPx[i] * k + x - mx, dy = rPy[i] * k + y - my;
@@ -777,6 +850,17 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
         const p = pairOf(s.a, s.b);
         for (const id of p ? p.shared : []) onNet.add("e" + id);
       } else if (s.kind === "reports") nearSet = s.idx;
+      else if (s.kind === "nuke") {
+        const R0 = 100, near = [], la = s.site.lat * Math.PI / 180;
+        for (let c = 0; c < 3; c++) for (let j = 0, idx = vis[c]; j < idx.length; j++) {
+          const i = idx[j], dy = (R.lat[i] - s.site.lat) * 111.2, dx = (R.lon[i] - s.site.lon) * 111.2 * Math.cos(la);
+          if (Math.abs(dy) < R0 && Math.abs(dx) < R0) { const d = Math.hypot(dx, dy); if (d <= R0) near.push([d, i]); }
+        }
+        near.sort((a, b) => a[0] - b[0]);
+        s.near = near.slice(0, 60).map((x) => x[1]); s.nearN = near.length;
+        s.byCls = [0, 1, 2].map((c) => near.filter((x) => rCls[x[1]] === c).length);
+        nearSet = s.near;
+      }
     }
     render(); drawMap(); repaintNet();
     panel.scrollTop = 0;
@@ -852,6 +936,17 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     }
     if (s.kind === "reports") {
       put(back(), h("h2", {}, s.title), h("p", { class: "meta" }, s.total > s.idx.length ? `Showing ${s.idx.length} of ${fmt(s.total)} reports, newest first.` : `${s.idx.length} report${s.idx.length === 1 ? "" : "s"}, newest first.`), reportList(s.idx));
+      return;
+    }
+    if (s.kind === "nuke") {
+      const n = s.site;
+      put(back(), h("span", { class: "tag" }, nkLabel[n.k].replace(/s$/, "")), h("span", { class: "tag" }, nsLabel[n.s]), h("h2", {}, n.n),
+        h("p", { class: "meta" }, `${n.c} · ${n.lat.toFixed(2)}, ${n.lon.toFixed(2)}`), h("p", {}, n.d),
+        h("p", { class: "meta" }, n.hand ? "Hand-entered: location approximate, status as generally reported and not checked against a primary source." : "From GeoNuclearData (WNA and IAEA figures), last updated March 2024."),
+        h("h3", {}, "Sighting reports within 100 km"),
+        h("p", {}, s.nearN ? `${fmt(s.nearN)} report${s.nearN === 1 ? "" : "s"} under the current year, source and shape filters: ` + CLASS.map((c, i) => `${c.name.toLowerCase()} ${fmt(s.byCls[i])}`).join(", ") + ". The nearest are ringed on the map." : "None under the current filters."),
+        h("p", { class: "meta" }, "Reports cluster where people live, and many sites are near towns, so a count here is not evidence of a connection on its own."),
+        s.nearN ? reportList(s.near) : null);
       return;
     }
     if (s.kind === "case") {
@@ -932,7 +1027,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
   }
   let rs = null;
   new ResizeObserver(() => { clearTimeout(rs); rs = setTimeout(layout, 120); }).observe(stage);
-  const retheme = () => { readColors(); if (G) G.backgroundColor(C.sea); drawTimeline(); drawMap(); repaintNet(); };
+  const retheme = () => { readColors(); nukeIcons.forEach((c) => c._draw()); if (G) G.backgroundColor(C.sea); drawTimeline(); drawMap(); repaintNet(); };
   matchMedia("(prefers-color-scheme: dark)").addEventListener("change", retheme);
   new MutationObserver(retheme).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
   layout();
