@@ -307,7 +307,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
   const maxShared = Math.max(2, ...data.entities.filter((e) => e.case == null && groupOf[e.type]).map((e) => e.df));
   $("maxdf").max = maxShared;
   $("maxdf").value = Math.min(3, maxShared);
-  $("counts").textContent = `${N} cases · ${data.links.reduce((n, l) => n + l.ev.length, 0).toLocaleString()} quoted claims`;
+  $("counts").textContent = `${N} cases · ${data.n_claims.toLocaleString()} quoted claims`;
 
   // ---------- state ----------
   const state = { groups: new Set(GROUPS.filter((g) => g.on).map((g) => g.id)), maxDf: +$("maxdf").value, sel: null };

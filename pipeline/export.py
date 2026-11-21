@@ -88,7 +88,7 @@ def main():
                       "shared": sorted(ids, key=lambda i: -weight[i])})
     pairs.sort(key=lambda p: -p["score"])
 
-    out = {"n_cases": N, "cases": list(cases.values()), "entities": entities, "links": links, "pairs": pairs}
+    out = {"n_cases": N, "n_claims": len(rows), "cases": list(cases.values()), "entities": entities, "links": links, "pairs": pairs}
     (ROOT / "ui").mkdir(exist_ok=True)
     path = ROOT / "ui/data.json"
     path.write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")))
