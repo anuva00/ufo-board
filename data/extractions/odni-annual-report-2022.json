@@ -1,0 +1,1495 @@
+{
+ "slug": "odni-annual-report-2022",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "2022 Annual Report on Unidentified Aerial Phenomena",
+   "aliases": [
+    "ODNI Annual Report on UAP, 2022",
+    "2022 Annual Report on UAP",
+    "annual report"
+   ],
+   "description": "ODNI's unclassified 2022 annual report to Congress on UAP, covering reports catalogued up to 30 August 2022."
+  },
+  {
+   "key": "odni",
+   "type": "organization",
+   "name": "Office of the Director of National Intelligence",
+   "aliases": [
+    "ODNI",
+    "OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE"
+   ],
+   "description": "U.S. intelligence office that provided the annual report."
+  },
+  {
+   "key": "nim_av",
+   "type": "organization",
+   "name": "ODNI National Intelligence Manager for Aviation",
+   "aliases": [
+    "NIM-Aviation",
+    "National Intelligence Manager for Aviation"
+   ],
+   "description": "ODNI office that drafted the report and is the IC focal point for UAP."
+  },
+  {
+   "key": "aaro",
+   "type": "organization",
+   "name": "All-domain Anomaly Resolution Office",
+   "aliases": [
+    "AARO",
+    "All-Domain Anomaly Resolution Office",
+    "All- domain Anomaly Resolution Office"
+   ],
+   "description": "DoD office established 20 July 2022 as the UAP Task Force's successor; co-drafted the report."
+  },
+  {
+   "key": "uaptf",
+   "type": "program",
+   "name": "Unidentified Aerial Phenomena Task Force",
+   "aliases": [
+    "UAPTF"
+   ],
+   "description": "DoD task force replaced by AARO."
+  },
+  {
+   "key": "dod",
+   "type": "organization",
+   "name": "United States Department of Defense",
+   "aliases": [
+    "Department of Defense",
+    "DoD"
+   ],
+   "description": "U.S. department housing AARO."
+  },
+  {
+   "key": "ic",
+   "type": "organization",
+   "name": "United States Intelligence Community",
+   "aliases": [
+    "Intelligence Community",
+    "IC"
+   ],
+   "description": "U.S. intelligence agencies across which UAP reporting is coordinated."
+  },
+  {
+   "key": "dni",
+   "type": "organization",
+   "name": "Director of National Intelligence",
+   "aliases": [
+    "DNI",
+    "the Director"
+   ],
+   "description": "Official required to submit the annual UAP report."
+  },
+  {
+   "key": "secdef",
+   "type": "organization",
+   "name": "United States Secretary of Defense",
+   "aliases": [
+    "Secretary of Defense",
+    "SECDEF",
+    "the Secretary"
+   ],
+   "description": "Official consulted on the report and required to establish the UAP office."
+  },
+  {
+   "key": "depsecdef",
+   "type": "organization",
+   "name": "United States Deputy Secretary of Defense",
+   "aliases": [
+    "Deputy Secretary of Defense"
+   ],
+   "description": "Official who directed the USD(I&S) to establish AARO."
+  },
+  {
+   "key": "usdis",
+   "type": "organization",
+   "name": "Under Secretary of Defense for Intelligence and Security",
+   "aliases": [
+    "USD(I&S)",
+    "USD[I&S]"
+   ],
+   "description": "DoD under secretary directed to establish AARO, which sits under it; gave input to the report."
+  },
+  {
+   "key": "congress",
+   "type": "organization",
+   "name": "United States Congress",
+   "aliases": [
+    "Congress",
+    "appropriate congressional committees"
+   ],
+   "description": "U.S. legislature that required a central UAP office and receives the report."
+  },
+  {
+   "key": "usg",
+   "type": "organization",
+   "name": "United States Government",
+   "aliases": [
+    "U.S. Government",
+    "Federal Government"
+   ],
+   "description": "The U.S. federal government."
+  },
+  {
+   "key": "dia",
+   "type": "organization",
+   "name": "Defense Intelligence Agency",
+   "aliases": [
+    "DIA"
+   ],
+   "description": "U.S. body that gave input to the 2022 annual report."
+  },
+  {
+   "key": "fbi",
+   "type": "organization",
+   "name": "Federal Bureau of Investigation",
+   "aliases": [
+    "FBI"
+   ],
+   "description": "U.S. body that gave input to the 2022 annual report."
+  },
+  {
+   "key": "nro",
+   "type": "organization",
+   "name": "National Reconnaissance Office",
+   "aliases": [
+    "NRO"
+   ],
+   "description": "U.S. body that gave input to the 2022 annual report."
+  },
+  {
+   "key": "nga",
+   "type": "organization",
+   "name": "National Geospatial-Intelligence Agency",
+   "aliases": [
+    "NGA"
+   ],
+   "description": "U.S. body that gave input to the 2022 annual report."
+  },
+  {
+   "key": "nsa",
+   "type": "organization",
+   "name": "National Security Agency",
+   "aliases": [
+    "NSA"
+   ],
+   "description": "U.S. body that gave input to the 2022 annual report."
+  },
+  {
+   "key": "army",
+   "type": "organization",
+   "name": "United States Army",
+   "aliases": [
+    "U.S. Army"
+   ],
+   "description": "U.S. body that gave input to the 2022 annual report."
+  },
+  {
+   "key": "navy",
+   "type": "organization",
+   "name": "United States Navy",
+   "aliases": [
+    "U.S. Navy"
+   ],
+   "description": "U.S. body that gave input to the 2022 annual report."
+  },
+  {
+   "key": "usmc",
+   "type": "organization",
+   "name": "United States Marine Corps",
+   "aliases": [
+    "U.S. Marine Corps"
+   ],
+   "description": "U.S. body that gave input to the 2022 annual report."
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "aliases": [
+    "U.S. Air Force"
+   ],
+   "description": "U.S. body that gave input to the 2022 annual report."
+  },
+  {
+   "key": "faa",
+   "type": "organization",
+   "name": "Federal Aviation Administration",
+   "aliases": [
+    "FAA"
+   ],
+   "description": "U.S. body that gave input to the 2022 annual report."
+  },
+  {
+   "key": "nasa",
+   "type": "organization",
+   "name": "National Aeronautics and Space Administration",
+   "aliases": [
+    "NASA"
+   ],
+   "description": "U.S. body that gave input to the 2022 annual report."
+  },
+  {
+   "key": "noaa",
+   "type": "organization",
+   "name": "National Oceanic and Atmospheric Administration",
+   "aliases": [
+    "National Oceanographic and Atmospheric Administration",
+    "NOAA"
+   ],
+   "description": "U.S. body that gave input to the 2022 annual report."
+  },
+  {
+   "key": "doe",
+   "type": "organization",
+   "name": "United States Department of Energy",
+   "aliases": [
+    "Department of Energy",
+    "DoE",
+    "DOE"
+   ],
+   "description": "U.S. body that gave input to the 2022 annual report."
+  },
+  {
+   "key": "nim_edt",
+   "type": "organization",
+   "name": "ODNI National Intelligence Manager for Emerging and Disruptive Technology",
+   "aliases": [
+    "ODNI/NIM-Emerging and Disruptive Technology",
+    "NIM-EDT"
+   ],
+   "description": "U.S. body that gave input to the 2022 annual report."
+  },
+  {
+   "key": "ncsc",
+   "type": "organization",
+   "name": "National Counterintelligence and Security Center",
+   "aliases": [
+    "ODNI/National Counterintelligence and Security Center",
+    "NCSC"
+   ],
+   "description": "U.S. body that gave input to the 2022 annual report."
+  },
+  {
+   "key": "nic",
+   "type": "organization",
+   "name": "National Intelligence Council",
+   "aliases": [
+    "ODNI/National Intelligence Council",
+    "ODNI/NIC"
+   ],
+   "description": "U.S. body that gave input to the 2022 annual report."
+  },
+  {
+   "key": "dhs",
+   "type": "organization",
+   "name": "United States Department of Homeland Security",
+   "aliases": [
+    "Department of Homeland Security",
+    "DHS"
+   ],
+   "description": "U.S. department whose non-IC elements AARO will coordinate with."
+  },
+  {
+   "key": "asd_la",
+   "type": "organization",
+   "name": "Assistant Secretary of Defense for Legislative Affairs",
+   "description": "DoD official with whom AARO coordinates its representation of DoD."
+  },
+  {
+   "key": "atsd_pa",
+   "type": "organization",
+   "name": "Office of the Assistant to the Secretary of Defense for Public Affairs",
+   "aliases": [
+    "Assistant to the Secretary of Defense for Public Affairs",
+    "OSD[PA]",
+    "OSD(PA)"
+   ],
+   "description": "DoD public affairs office working with AARO on messaging."
+  },
+  {
+   "key": "nnsa_admin",
+   "type": "organization",
+   "name": "Administrator for Nuclear Security",
+   "description": "Official to be consulted on UAP incidents at nuclear weapons facilities."
+  },
+  {
+   "key": "nrc",
+   "type": "organization",
+   "name": "Nuclear Regulatory Commission",
+   "aliases": [
+    "Chairman of the Nuclear Regulatory Commission"
+   ],
+   "description": "U.S. nuclear regulator whose Chairman is to be consulted on UAP or drone incidents at regulated sites."
+  },
+  {
+   "key": "prelim",
+   "type": "document",
+   "name": "Preliminary Assessment: Unidentified Aerial Phenomena",
+   "aliases": [
+    "ODNI preliminary assessment",
+    "ODNI's preliminary assessment on UAP",
+    "preliminary assessment"
+   ],
+   "description": "ODNI's June 2021 preliminary assessment on UAP, which discussed 144 reports."
+  },
+  {
+   "key": "ndaa22",
+   "type": "document",
+   "name": "National Defense Authorization Act for Fiscal Year 2022",
+   "aliases": [
+    "FY 2022 NDAA",
+    "NDAA for FY 2022",
+    "Public Law 117-81",
+    "National Defense Authorization Act (NDAA) for Fiscal Year 2022"
+   ],
+   "description": "U.S. defense act (Public Law 117-81) whose Section 1683 established the UAP office and annual report."
+  },
+  {
+   "key": "classified",
+   "type": "document",
+   "name": "classified version of the 2022 Annual Report on Unidentified Aerial Phenomena",
+   "description": "Classified version of the report containing additional information."
+  },
+  {
+   "key": "quarterly",
+   "type": "document",
+   "name": "AARO quarterly reports on UAP",
+   "aliases": [
+    "quarterly reports"
+   ],
+   "description": "Quarterly reports to policymakers with AARO's analytic findings."
+  },
+  {
+   "key": "rangefouler",
+   "type": "document",
+   "name": "Range Fouler reports",
+   "aliases": [
+    "Range Fouler"
+   ],
+   "description": "U.S. Navy reports of UAP interrupting training or military activity."
+  },
+  {
+   "key": "us",
+   "type": "place",
+   "name": "United States",
+   "aliases": [
+    "U.S."
+   ],
+   "description": "Country whose aircraft, airspace and agencies the report concerns."
+  },
+  {
+   "key": "new366",
+   "type": "case",
+   "name": "2021–2022 additional UAP reports catalogued by AARO",
+   "aliases": [
+    "366 additional reports",
+    "366 newly-identified reports"
+   ],
+   "description": "The 366 UAP reports (247 new, 119 late-discovered) added after the preliminary assessment, as of 30 August 2022."
+  },
+  {
+   "key": "unchar171",
+   "type": "case",
+   "name": "2021–2022 uncharacterized and unattributed UAP reports held by AARO",
+   "aliases": [
+    "remaining 171 uncharacterized and unattributed UAP reports"
+   ],
+   "description": "The 171 of the 366 additional reports that remained uncharacterized, some showing unusual flight characteristics."
+  },
+  {
+   "key": "old144",
+   "type": "case",
+   "name": "2004–2021 U.S. Government UAP reports reviewed by the UAP Task Force",
+   "aliases": [
+    "144 UAP reports",
+    "144 reports identified in the preliminary assessment"
+   ],
+   "description": "The 144 UAP reports covered in the ODNI preliminary assessment."
+  },
+  {
+   "key": "f_mil",
+   "type": "feature",
+   "name": "military-witnesses",
+   "description": "Feature: military-witnesses"
+  },
+  {
+   "key": "f_pilot",
+   "type": "feature",
+   "name": "pilot-witnesses",
+   "description": "Feature: pilot-witnesses"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "Feature: multiple-witnesses"
+  },
+  {
+   "key": "f_base",
+   "type": "feature",
+   "name": "military-base-proximity",
+   "description": "Feature: military-base-proximity"
+  },
+  {
+   "key": "f_off",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Feature: official-investigation"
+  },
+  {
+   "key": "f_unusual",
+   "type": "feature",
+   "name": "other:unusual flight characteristics",
+   "description": "Feature: other:unusual flight characteristics"
+  },
+  {
+   "key": "x_balloon",
+   "type": "explanation",
+   "name": "balloon",
+   "description": "Explanation: balloon"
+  },
+  {
+   "key": "x_uas",
+   "type": "explanation",
+   "name": "other:unmanned aircraft system",
+   "description": "Explanation: other:unmanned aircraft system"
+  },
+  {
+   "key": "x_clutter",
+   "type": "explanation",
+   "name": "other:airborne clutter",
+   "description": "Explanation: other:airborne clutter"
+  },
+  {
+   "key": "x_bird",
+   "type": "explanation",
+   "name": "bird-or-animal",
+   "description": "Explanation: bird-or-animal"
+  },
+  {
+   "key": "x_weather",
+   "type": "explanation",
+   "name": "other:weather events",
+   "description": "Explanation: other:weather events"
+  },
+  {
+   "key": "x_debris",
+   "type": "explanation",
+   "name": "other:airborne debris",
+   "description": "Explanation: other:airborne debris"
+  },
+  {
+   "key": "x_sensor",
+   "type": "explanation",
+   "name": "other:sensor errors",
+   "description": "Explanation: other:sensor errors"
+  },
+  {
+   "key": "x_foreign",
+   "type": "explanation",
+   "name": "other:foreign adversary systems",
+   "description": "Explanation: other:foreign adversary systems"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "full_title",
+   "v": "2022 Annual Report on Unidentified Aerial Phenomena",
+   "quote": "2022 Annual Report on Unidentified Aerial Phenomena"
+  },
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "2022",
+   "quote": "2022 Annual Report on Unidentified Aerial Phenomena"
+  },
+  {
+   "s": "case",
+   "p": "classification",
+   "v": "UNCLASSIFIED; a classified version also exists",
+   "quote": "Additional information is provided in the classified version of this report."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "improve U.S. Government awareness of objects in the airspace and resolution of UAP events"
+  },
+  {
+   "s": "case",
+   "p": "legal_mandate",
+   "v": "Section 1683 of the NDAA for FY 2022, subsection (h)",
+   "quote": "This annual report is provided by ODNI in response to a requirement established in Section 1683 of the National Defense Authorization Act (NDAA) for Fiscal Year (FY) 2022"
+  },
+  {
+   "s": "case",
+   "p": "reporting_requirement",
+   "v": "not later than 31 October 2022, and annually thereafter until 31 October 2026",
+   "quote": "(1) Requirement. Not later than 31 October 2022, and annually thereafter until 31 October 2026, the Director, in consultation with the Secretary, shall submit to the appropriate congressional committees a report on unidentified aerial phenomena."
+  },
+  {
+   "s": "case",
+   "p": "period_covered",
+   "v": "UAP reported since the 05 March 2021 information cut-off of the preliminary assessment",
+   "quote": "This report provides an overview for policymakers of UAP¹ that have been reported since the 05 March 2021 information cut-off date for ODNI's preliminary assessment on UAP"
+  },
+  {
+   "s": "case",
+   "p": "total_uap_reports",
+   "v": "510 as of 30 August 2022",
+   "quote": "This totals 510 UAP reports as of 30 August 2022."
+  },
+  {
+   "s": "case",
+   "p": "assumptions",
+   "v": "UAP reports derive from the observer's accurate recollection and/or sensors that generally operate correctly",
+   "quote": "ODNI and AARO operate under the assumption that UAP reports are derived from the observer's accurate recollection of the event and/or sensors that generally operate correctly"
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "a select number of UAP incidents may be attributable to sensor irregularities or operator or equipment error",
+   "quote": "AARO acknowledge that a select number of UAP incidents may be attributable to sensor irregularities or variances, such as operator or equipment error"
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "increase in reporting partly due to better understanding of possible threats and partly due to reduced stigma",
+   "quote": "the observed increase in the UAP reporting rate is partially due to a better understanding of the possible threats that UAP may represent, either as safety of flight hazards or as potential adversary collection platforms, and partially due to reduced stigma surrounding UAP reporting"
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "UAP events continue to occur in restricted or sensitive airspace; may result from collection bias",
+   "quote": "UAP events continue to occur in restricted or sensitive airspace, highlighting possible concerns for safety of flight or adversary collection activity. We continue to assess that this may result from a collection bias"
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "no reported collisions between U.S. aircraft and UAP",
+   "quote": "To date, there have been no reported collisions between U.S. aircraft and UAP."
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "no encounters with UAP confirmed to contribute directly to adverse health-related effects",
+   "quote": "there have also been no encounters with UAP confirmed to contribute directly to adverse health-related effects to the observer(s)"
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "UAP pose a safety of flight and collision hazard to air assets",
+   "quote": "UAP pose a safety of flight and collision hazard to air assets, potentially requiring aircraft operators to adjust flight patterns in response to their unauthorized presence in the airspace"
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "UAP continue to represent a hazard to flight safety and a possible adversary collection threat",
+   "quote": "UAP continue to represent a hazard to flight safety and pose a possible adversary collection threat."
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "many reports lack enough detailed data to enable attribution with high certainty",
+   "quote": "many reports lack enough detailed data to enable attribution of UAP with high certainty"
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "ODNI and AARO have kept allied partners informed about UAP",
+   "quote": "ODNI and AARO have maintained communication with our allied partners regarding UAP, keeping them informed of developments and U.S. initiatives."
+  },
+  {
+   "s": "case",
+   "p": "footnote",
+   "v": "FY 2022 NDAA expands the definition of UAP to include air, sea, and transmedium objects",
+   "quote": "1 The FY 2022 NDAA expands the definition of UAP to include air, sea, and transmedium objects"
+  },
+  {
+   "s": "case",
+   "p": "appendix",
+   "v": "Appendix A: Annual Report on UAP - FY 2022 NDAA",
+   "quote": "APPENDIX A: ANNUAL REPORT ON UAP-FY 2022 NDAA"
+  },
+  {
+   "s": "case",
+   "p": "appendix",
+   "v": "Appendix B: AARO Establishment of Office and Duties - FY 2022 NDAA",
+   "quote": "APPENDIX B: AARO ESTABLISHMENT OF OFFICE AND DUTIES-FY 2022 NDAA"
+  },
+  {
+   "s": "case",
+   "p": "appendix",
+   "v": "Appendix C: Index of Key Terms",
+   "quote": "APPENDIX C: INDEX OF KEY TERMS"
+  },
+  {
+   "s": "case",
+   "p": "definition_range_fouler",
+   "v": "Defined by U.S. Navy aviators based on observations of UAP interrupting pre-planned training or other military activity in military operating areas or restricted airspace.",
+   "quote": "Range Fouler: Defined by U.S. Navy aviators based on observations of UAP interrupting pre-planned training or other military activity in military operating areas or restricted airspace."
+  },
+  {
+   "s": "case",
+   "p": "definition_transmedium_objects_or_devices",
+   "v": "Objects or devices observed to transition between space and the atmosphere, or between the atmosphere and bodies of water, that are not immediately identifiable.",
+   "quote": "Transmedium Objects or Devices: Objects or devices that are observed to transition between space and the atmosphere, or between the atmosphere and bodies of water, that are not immediately identifiable."
+  },
+  {
+   "s": "case",
+   "p": "definition_uap",
+   "v": "Airborne objects not immediately identifiable.",
+   "quote": "Unidentified Aerial Phenomena (UAP): Airborne objects not immediately identifiable. The acronym UAP represents the broadest category of airborne objects reviewed for analysis."
+  },
+  {
+   "s": "case",
+   "p": "definition_uap_event",
+   "v": "A holistic description of an occurrence during which a pilot or aircrew witnessed (or detected) a UAP.",
+   "quote": "UAP Event: A holistic description of an occurrence during which a pilot or aircrew witnessed (or detected) a UAP."
+  },
+  {
+   "s": "case",
+   "p": "definition_uap_incident",
+   "v": "A specific part of the event.",
+   "quote": "UAP Incident: A specific part of the event."
+  },
+  {
+   "s": "case",
+   "p": "definition_uap_report",
+   "v": "Documentation of a UAP event to include verified chains of custody and basic information such as the time, date, location, and description of the UAP.",
+   "quote": "UAP Report: Documentation of a UAP event to include verified chains of custody and basic information such as the time, date, location, and description of the UAP."
+  },
+  {
+   "s": "ndaa22",
+   "p": "required_report_element",
+   "v": "all reported UAP-related events during the one-year period",
+   "quote": "(A) All reported unidentified aerial phenomena-related events that occurred during the one-year period."
+  },
+  {
+   "s": "ndaa22",
+   "p": "required_report_element",
+   "v": "analysis of data collected through geospatial, signals, human, and measurement and signature intelligence",
+   "quote": "(D) An analysis of data relating to unidentified aerial phenomena collected through: (i) Geospatial intelligence; (ii) Signals intelligence; (iii) Human intelligence; and (iv) Measurement and signature intelligence."
+  },
+  {
+   "s": "ndaa22",
+   "p": "required_report_element",
+   "v": "number of reported UAP over restricted air space of the United States",
+   "quote": "(E) The number of reported unidentified aerial phenomena over restricted air space of the United States during the one-year period."
+  },
+  {
+   "s": "ndaa22",
+   "p": "required_report_element",
+   "v": "identification of potential aerospace or other threats to national security",
+   "quote": "(G) Identification of potential aerospace or other threats posed by unidentified aerial phenomena to the national security of the United States."
+  },
+  {
+   "s": "ndaa22",
+   "p": "required_report_element",
+   "v": "assessment of activity attributable to adversarial foreign governments",
+   "quote": "(H) An assessment of any activity regarding unidentified aerial phenomena that can be attributed to one or more adversarial foreign governments."
+  },
+  {
+   "s": "ndaa22",
+   "p": "required_report_element",
+   "v": "incidents indicating a potential adversarial foreign government may have achieved a breakthrough aerospace capability",
+   "quote": "that indicate a potential adversarial foreign government may have achieved a breakthrough aerospace capability"
+  },
+  {
+   "s": "ndaa22",
+   "p": "required_report_element",
+   "v": "update on coordination with allies and partners",
+   "quote": "(J) An update on the coordination by the United States with allies and partners on efforts to track, understand, and address unidentified aerial phenomena."
+  },
+  {
+   "s": "ndaa22",
+   "p": "required_report_element",
+   "v": "update on efforts to capture or exploit discovered UAP",
+   "quote": "(K) An update on efforts underway on the ability to capture or exploit discovered unidentified aerial phenomena."
+  },
+  {
+   "s": "ndaa22",
+   "p": "required_report_element",
+   "v": "assessment of health-related effects for individuals who encountered UAP",
+   "quote": "(L) An assessment of any health-related effects for individuals that have encountered unidentified aerial phenomena."
+  },
+  {
+   "s": "ndaa22",
+   "p": "required_report_element",
+   "v": "incidents of UAP with military nuclear assets, including strategic nuclear weapons and nuclear-powered ships and submarines",
+   "quote": "(M) The number of reported incidents, and descriptions thereof, of unidentified aerial phenomena with military nuclear assets, including strategic nuclear weapons and nuclear- powered ships and submarines."
+  },
+  {
+   "s": "ndaa22",
+   "p": "required_report_element",
+   "v": "incidents of UAP associated with facilities for production, transportation, or storage of nuclear weapons",
+   "quote": "unidentified aerial phenomena associated with facilities or assets associated with the production, transportation, or storage of nuclear weapons or components thereof"
+  },
+  {
+   "s": "ndaa22",
+   "p": "required_report_element",
+   "v": "incidents of UAP or drones of unknown origin associated with nuclear power generating stations and nuclear fuel storage sites",
+   "quote": "phenomena or drones of unknown origin associated with nuclear power generating stations, nuclear fuel storage sites, or other sites or facilities regulated by the Nuclear Regulatory Commission"
+  },
+  {
+   "s": "ndaa22",
+   "p": "required_report_element",
+   "v": "names of line organizations designated to perform functions under subsections (c) and (d)",
+   "quote": "(P) The names of the line organizations that have been designated to perform the specific functions under subsections (c) and (d)"
+  },
+  {
+   "s": "odni",
+   "p": "authored",
+   "o": "case",
+   "quote": "This annual report is provided by ODNI in response to a requirement established in Section 1683"
+  },
+  {
+   "s": "odni",
+   "p": "activity",
+   "v": "developed strategic guidance to enhance UAP collection",
+   "quote": "ODNI has developed strategic guidance to enhance further collection, which AARO and ODNI will leverage to prepare, collect, and report on UAP in a comprehensive manner for the IC"
+  },
+  {
+   "s": "nim_av",
+   "p": "authored",
+   "o": "case",
+   "quote": "This report was drafted by ODNI's NIM-Aviation in conjunction with AARO."
+  },
+  {
+   "s": "nim_av",
+   "p": "part_of",
+   "o": "odni",
+   "quote": "This report was drafted by ODNI's NIM-Aviation in conjunction with AARO."
+  },
+  {
+   "s": "nim_av",
+   "p": "role",
+   "v": "the IC's focal point for UAP issues",
+   "quote": "Aviation will remain the IC's focal point for UAP issues, while AARO is the DoD focal point for these issues and related activities"
+  },
+  {
+   "s": "aaro",
+   "p": "authored",
+   "o": "case",
+   "quote": "This report was drafted by ODNI's NIM-Aviation in conjunction with AARO."
+  },
+  {
+   "s": "aaro",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "The establishment of the Department of Defense (DoD) All-Domain Anomaly Resolution Office (AARO)"
+  },
+  {
+   "s": "aaro",
+   "p": "established",
+   "v": "2022-07-20",
+   "quote": "AARO was established as the UAPTF's successor entity on 20 July 2022."
+  },
+  {
+   "s": "aaro",
+   "p": "established",
+   "v": "2022-07-20",
+   "quote": "AARO was established on 20 July 2022."
+  },
+  {
+   "s": "aaro",
+   "p": "became_operational",
+   "v": "July 2022, under the USD(I&S)",
+   "quote": "formally became operational as the AARO, under the USD(I&S), in July 2022"
+  },
+  {
+   "s": "aaro",
+   "p": "role",
+   "v": "single focal point for all DoD UAP efforts",
+   "quote": "AARO is the single focal point for all DoD UAP efforts, leading a whole-of-government approach to coordinate UAP collection, reporting, and analysis efforts throughout DoD, the IC, and beyond"
+  },
+  {
+   "s": "aaro",
+   "p": "role",
+   "v": "represents DoD to the interagency, Congress, media, and public",
+   "quote": "AARO will represent DoD to the interagency, Congress, media, and public"
+  },
+  {
+   "s": "aaro",
+   "p": "authority",
+   "v": "coordinate UAP efforts beyond DoD and standardize collection, reporting, and analysis across DoD and the IC",
+   "quote": "AARO has the authority to coordinate UAP efforts beyond DoD and is authorized to develop processes and procedures to synchronize and standardize collection, reporting, and analysis throughout not just DoD, but the IC as well"
+  },
+  {
+   "s": "aaro",
+   "p": "activity",
+   "v": "delivers quarterly reports on UAP to policymakers",
+   "quote": "AARO delivers quarterly reports on UAP to policymakers that contain greater detail regarding analysis and attribution of UAP events"
+  },
+  {
+   "s": "aaro",
+   "p": "activity",
+   "v": "formulated a robust analytic process against UAP reporting",
+   "quote": "Since its establishment in July 2022, AARO has formulated and started to leverage a robust analytic process against identified UAP reporting."
+  },
+  {
+   "s": "aaro",
+   "p": "activity",
+   "v": "developing an information-sharing and messaging strategy with OSD(PA)",
+   "quote": "AARO is working closely with the OSD(PA) and mission partners to develop an information-sharing and messaging strategy that aims to maximize transparency"
+  },
+  {
+   "s": "aaro",
+   "p": "activity",
+   "v": "will investigate any evidence of possible foreign government involvement in UAP events",
+   "quote": "will continue to investigate any evidence of possible foreign government involvement in UAP events"
+  },
+  {
+   "s": "aaro",
+   "p": "activity",
+   "v": "will track any reported health implications related to UAP",
+   "quote": "AARO will track any reported health implications related to UAP should they emerge"
+  },
+  {
+   "s": "aaro",
+   "p": "activity",
+   "v": "identifying solutions for intake, indexing, visualization, and analysis of data across security domains",
+   "quote": "AARO, in coordination with the IC, is focused on identifying solutions to manage and alleviate the resulting data problem, including the intake, indexing, visualization, and analysis of that data across multiple security domains."
+  },
+  {
+   "s": "aaro",
+   "p": "duty",
+   "v": "synchronize and standardize collection, reporting, and analysis of incidents, including adverse physiological effects",
+   "quote": "(1) Developing procedures to synchronize and standardize the collection, reporting, and analysis of incidents, including adverse physiological effects, regarding unidentified aerial phenomena"
+  },
+  {
+   "s": "aaro",
+   "p": "duty",
+   "v": "ensure incidents are reported and incorporated in a centralized repository",
+   "quote": "are reported and incorporated in a centralized repository"
+  },
+  {
+   "s": "aaro",
+   "p": "duty",
+   "v": "require timely and consistent reporting of incidents",
+   "quote": "(3) Establishing procedures to require the timely and consistent reporting of such incidents."
+  },
+  {
+   "s": "aaro",
+   "p": "duty",
+   "v": "evaluate links between UAP and adversarial foreign governments, other foreign governments, or nonstate actors",
+   "quote": "(4) Evaluating links between unidentified aerial phenomena and adversarial foreign governments, other foreign governments, or nonstate actors."
+  },
+  {
+   "s": "aaro",
+   "p": "duty",
+   "v": "evaluate the threat such incidents present to the United States",
+   "quote": "(5) Evaluating the threat that such incidents present to the United States."
+  },
+  {
+   "s": "aaro",
+   "p": "duty",
+   "v": "coordinate with other federal departments and agencies",
+   "quote": "(6) Coordinating with other departments and agencies of the Federal Government, as appropriate"
+  },
+  {
+   "s": "aaro",
+   "p": "duty",
+   "v": "coordinate with allies and partners of the United States",
+   "quote": "(7) Coordinating with allies and partners of the United States, as appropriate, to better assess the nature and extent of unidentified aerial phenomena."
+  },
+  {
+   "s": "aaro",
+   "p": "duty",
+   "v": "prepare reports for Congress in classified and unclassified form",
+   "quote": "(8) Preparing reports for Congress, in both classified and unclassified form"
+  },
+  {
+   "s": "uaptf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "its replacement of the Unidentified Aerial Phenomena Task Force (UAPTF)"
+  },
+  {
+   "s": "aaro",
+   "p": "successor_of",
+   "o": "uaptf",
+   "quote": "AARO was established as the UAPTF's successor entity on 20 July 2022."
+  },
+  {
+   "s": "uaptf",
+   "p": "status",
+   "v": "replaced by AARO",
+   "quote": "established an office designated to replace the Unidentified Aerial Phenomena Task Force (UAPTF), later identified as the All- domain Anomaly Resolution Office (AARO)"
+  },
+  {
+   "s": "dod",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The establishment of the Department of Defense (DoD) All-Domain Anomaly Resolution Office (AARO) should facilitate more coordinated UAP efforts"
+  },
+  {
+   "s": "ic",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "as well as the Intelligence Community (IC), with the support and coordination of the National Intelligence Manager for Aviation (NIM-Aviation)"
+  },
+  {
+   "s": "dni",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the Director [of National Intelligence- DNI], in consultation with the Secretary [of Defense-SECDEF], shall submit to the appropriate congressional committees a report on unidentified aerial phenomena"
+  },
+  {
+   "s": "secdef",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the Director [of National Intelligence- DNI], in consultation with the Secretary [of Defense-SECDEF], shall submit to the appropriate congressional committees a report on unidentified aerial phenomena"
+  },
+  {
+   "s": "secdef",
+   "p": "duty",
+   "v": "establish the UAP office in coordination with the DNI within 180 days of enactment",
+   "quote": "Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense, in coordination with the Director of National Intelligence, shall establish an office"
+  },
+  {
+   "s": "depsecdef",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Deputy Secretary of Defense directed the USD(I&S) to establish an office with sufficient scope, authorities, responsibilities, and capabilities to continue the UAPTF efforts"
+  },
+  {
+   "s": "usdis",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "input from the Under Secretary of Defense for Intelligence and Security (USD[I&S])"
+  },
+  {
+   "s": "aaro",
+   "p": "part_of",
+   "o": "usdis",
+   "quote": "formally became operational as the AARO, under the USD(I&S), in July 2022"
+  },
+  {
+   "s": "congress",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Congress required the establishment of a central office for all UAP matters in the FY 2022 NDAA"
+  },
+  {
+   "s": "usg",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "improve U.S. Government awareness of objects in the airspace and resolution of UAP events"
+  },
+  {
+   "s": "dia",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Defense Intelligence Agency (DIA)"
+  },
+  {
+   "s": "fbi",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the Federal Bureau of Investigation (FBI)"
+  },
+  {
+   "s": "nro",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the National Reconnaissance Office (NRO)"
+  },
+  {
+   "s": "nga",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the National Geospatial-Intelligence Agency (NGA)"
+  },
+  {
+   "s": "nsa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "National Security Agency (NSA)"
+  },
+  {
+   "s": "army",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the U.S. Army, the U.S. Navy, the U.S. Marine Corps"
+  },
+  {
+   "s": "navy",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the U.S. Army, the U.S. Navy, the U.S. Marine Corps"
+  },
+  {
+   "s": "usmc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the U.S. Army, the U.S. Navy, the U.S. Marine Corps"
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "U.S. Air Force, the Federal Aviation Administration (FAA)"
+  },
+  {
+   "s": "faa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the Federal Aviation Administration (FAA)"
+  },
+  {
+   "s": "nasa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the National Aeronautics and Space Administration (NASA)"
+  },
+  {
+   "s": "noaa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the National Oceanographic and Atmospheric Administration (NOAA)"
+  },
+  {
+   "s": "doe",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the Department of Energy (DoE)"
+  },
+  {
+   "s": "nim_edt",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "ODNI/NIM-Emerging and Disruptive Technology (NIM- EDT)"
+  },
+  {
+   "s": "ncsc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "ODNI/National Counterintelligence and Security Center (NCSC)"
+  },
+  {
+   "s": "nic",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "ODNI/National Intelligence Council (ODNI/NIC)"
+  },
+  {
+   "s": "nim_edt",
+   "p": "part_of",
+   "o": "odni",
+   "quote": "ODNI/NIM-Emerging and Disruptive Technology (NIM- EDT)"
+  },
+  {
+   "s": "ncsc",
+   "p": "part_of",
+   "o": "odni",
+   "quote": "ODNI/National Counterintelligence and Security Center (NCSC)"
+  },
+  {
+   "s": "nic",
+   "p": "part_of",
+   "o": "odni",
+   "quote": "ODNI/National Intelligence Council (ODNI/NIC)"
+  },
+  {
+   "s": "dhs",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the non-IC elements of the Department of Homeland Security (DHS) and the Department of Energy (DOE), as appropriate"
+  },
+  {
+   "s": "asd_la",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "in coordination with the Assistant Secretary of Defense for Legislative Affairs"
+  },
+  {
+   "s": "atsd_pa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the Assistant to the Secretary of Defense for Public Affairs (OSD[PA])"
+  },
+  {
+   "s": "nnsa_admin",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "(N) In consultation with the Administrator for Nuclear Security, the number of reported incidents"
+  },
+  {
+   "s": "nrc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "(O) In consultation with the Chairman of the Nuclear Regulatory Commission"
+  },
+  {
+   "s": "faa",
+   "p": "activity",
+   "v": "AARO will coordinate with non-IC agencies such as the FAA, NASA, NOAA",
+   "quote": "AARO will coordinate with other non-IC agencies such as the FAA, NASA, NOAA"
+  },
+  {
+   "s": "navy",
+   "p": "statement",
+   "v": "U.S. Navy aviators defined the term Range Fouler",
+   "quote": "Range Fouler: Defined by U.S. Navy aviators"
+  },
+  {
+   "s": "prelim",
+   "p": "key_document",
+   "o": "case",
+   "quote": "since the 05 March 2021 information cut-off date for ODNI's preliminary assessment on UAP, published 25 June 2021"
+  },
+  {
+   "s": "odni",
+   "p": "authored",
+   "o": "prelim",
+   "quote": "Since the June 2021 publication of ODNI's preliminary assessment on UAP"
+  },
+  {
+   "s": "prelim",
+   "p": "published",
+   "v": "2021-06-25",
+   "quote": "ODNI's preliminary assessment on UAP, published 25 June 2021"
+  },
+  {
+   "s": "prelim",
+   "p": "information_cutoff_date",
+   "v": "2021-03-05",
+   "quote": "The ODNI preliminary assessment on UAP discussed 144 UAP reports and had an information cut-off date of 05 March 2021."
+  },
+  {
+   "s": "prelim",
+   "p": "report_count",
+   "v": "144",
+   "quote": "The ODNI preliminary assessment on UAP discussed 144 UAP reports"
+  },
+  {
+   "s": "ndaa22",
+   "p": "key_document",
+   "o": "case",
+   "quote": "in response to a requirement established in Section 1683 of the National Defense Authorization Act (NDAA) for Fiscal Year (FY) 2022"
+  },
+  {
+   "s": "ndaa22",
+   "p": "public_law_number",
+   "v": "117-81",
+   "quote": "Act (NDAA) for Fiscal Year 2022 (Public Law 117-81)"
+  },
+  {
+   "s": "ndaa22",
+   "p": "section_title",
+   "v": "Section 1683: Establishment of Office, Organizational Structure, and Authorities to Address Unidentified Aerial Phenomena",
+   "quote": "section 1683 (Establishment of Office, Organizational Structure, and Authorities to Address Unidentified Aerial Phenomena)"
+  },
+  {
+   "s": "ndaa22",
+   "p": "section_title",
+   "v": "Subsection (c): Response to and Field Investigations of Unidentified Aerial Phenomena",
+   "quote": "Subsection (c), referenced in subsection (h) (P) above, is titled Response to and Field Investigations of Unidentified Aerial Phenomena."
+  },
+  {
+   "s": "ndaa22",
+   "p": "section_title",
+   "v": "Subsection (d): Scientific, Technological, and Operational Analyses of Data on Unidentified Aerial Phenomena",
+   "quote": "Subsection (d), referenced in subsection (h) (P) above, is titled Scientific, Technological, and Operational Analyses of Data on Unidentified Aerial Phenomena."
+  },
+  {
+   "s": "classified",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Additional information is provided in the classified version of this report."
+  },
+  {
+   "s": "quarterly",
+   "p": "key_document",
+   "o": "case",
+   "quote": "AARO's final analytic findings will be available in their quarterly reports to policymakers"
+  },
+  {
+   "s": "aaro",
+   "p": "authored",
+   "o": "quarterly",
+   "quote": "AARO delivers quarterly reports on UAP to policymakers"
+  },
+  {
+   "s": "rangefouler",
+   "p": "key_document",
+   "o": "case",
+   "quote": "UAP reports include Range Fouler reports and other reporting."
+  },
+  {
+   "s": "us",
+   "p": "related_place",
+   "o": "case",
+   "quote": "as well as foreign allies and partners of the United States"
+  },
+  {
+   "s": "new366",
+   "p": "related_case",
+   "o": "case",
+   "quote": "These 366 additional reports, when combined with the 144 reports identified in the preliminary assessment, bring the total UAP reports catalogued to date to 510."
+  },
+  {
+   "s": "aaro",
+   "p": "investigated_by",
+   "o": "new366",
+   "quote": "AARO's initial analysis and characterization of the 366 newly-identified reports, informed by a multi-agency process"
+  },
+  {
+   "s": "uaptf",
+   "p": "investigated_by",
+   "o": "new366",
+   "quote": "reported the events to the UAPTF or AARO through official channels"
+  },
+  {
+   "s": "navy",
+   "p": "involved_org",
+   "o": "new366",
+   "quote": "The majority of new UAP reporting originates from U.S. Navy and U.S. Air Force aviators and operators"
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "new366",
+   "quote": "The majority of new UAP reporting originates from U.S. Navy and U.S. Air Force aviators and operators"
+  },
+  {
+   "s": "new366",
+   "p": "date_start",
+   "v": "2021-03-05",
+   "quote": "had an information cut-off date of 05 March 2021. Since then, AARO received a total of 247 new UAP reports."
+  },
+  {
+   "s": "new366",
+   "p": "date_end",
+   "v": "2022-08-30",
+   "quote": "This totals 510 UAP reports as of 30 August 2022."
+  },
+  {
+   "s": "new366",
+   "p": "report_count",
+   "v": "366",
+   "quote": "These 366 additional reports"
+  },
+  {
+   "s": "new366",
+   "p": "new_report_count",
+   "v": "247",
+   "quote": "Since then, AARO received a total of 247 new UAP reports."
+  },
+  {
+   "s": "new366",
+   "p": "late_report_count",
+   "v": "119 on events before 05 March 2021",
+   "quote": "An additional 119 UAP reports on events that occurred before 05 March 2021, but were not included in the preliminary assessment, have been discovered or reported after the preliminary assessment's time period."
+  },
+  {
+   "s": "new366",
+   "p": "reporting_span",
+   "v": "247 reports during the 17 months since the preliminary assessment",
+   "quote": "there have been 247 more UAP reports during the 17 months since"
+  },
+  {
+   "s": "new366",
+   "p": "initial_characterization",
+   "v": "more than half judged as exhibiting unremarkable characteristics",
+   "quote": "judged more than half as exhibiting unremarkable characteristics"
+  },
+  {
+   "s": "new366",
+   "p": "characterized_count",
+   "v": "26 as Unmanned Aircraft System (UAS) or UAS-like entities",
+   "quote": "26 characterized as Unmanned Aircraft System (UAS) or UAS-like entities;"
+  },
+  {
+   "s": "new366",
+   "p": "characterized_count",
+   "v": "163 as balloon or balloon-like entities",
+   "quote": "163 characterized as balloon or balloon-like entities; and"
+  },
+  {
+   "s": "new366",
+   "p": "characterized_count",
+   "v": "6 attributed to clutter",
+   "quote": "6 attributed to clutter."
+  },
+  {
+   "s": "new366",
+   "p": "clutter_examples",
+   "v": "birds, weather events, or airborne debris like plastic bags",
+   "quote": "2 e.g., birds, weather events, or airborne debris like plastic bags."
+  },
+  {
+   "s": "new366",
+   "p": "caveat",
+   "v": "initial characterization does not mean positively resolved or unidentified",
+   "quote": "Initial characterization does not mean positively resolved or unidentified."
+  },
+  {
+   "s": "new366",
+   "p": "reporters",
+   "v": "majority from U.S. Navy and U.S. Air Force aviators and operators during operational duties",
+   "quote": "The majority of new UAP reporting originates from U.S. Navy and U.S. Air Force aviators and operators who witnessed UAP during the course of their operational duties"
+  },
+  {
+   "s": "unchar171",
+   "p": "related_case",
+   "o": "case",
+   "quote": "against the remaining 171 uncharacterized and unattributed UAP reports"
+  },
+  {
+   "s": "unchar171",
+   "p": "part_of",
+   "o": "new366",
+   "quote": "against the remaining 171 uncharacterized and unattributed UAP reports"
+  },
+  {
+   "s": "aaro",
+   "p": "investigated_by",
+   "o": "unchar171",
+   "quote": "This initial characterization better enables AARO and ODNI to efficiently and effectively leverage resources against the remaining 171 uncharacterized and unattributed UAP reports."
+  },
+  {
+   "s": "unchar171",
+   "p": "report_count",
+   "v": "171",
+   "quote": "the remaining 171 uncharacterized and unattributed UAP reports"
+  },
+  {
+   "s": "unchar171",
+   "p": "description",
+   "v": "some appear to have demonstrated unusual flight characteristics or performance capabilities",
+   "quote": "Some of these uncharacterized UAP appear to have demonstrated unusual flight characteristics or performance capabilities, and require further analysis."
+  },
+  {
+   "s": "old144",
+   "p": "related_case",
+   "o": "case",
+   "quote": "the 144 UAP reports covered during the 17 years of UAP reporting included in the Office of the Director of National Intelligence (ODNI) preliminary assessment"
+  },
+  {
+   "s": "prelim",
+   "p": "key_document",
+   "o": "old144",
+   "quote": "the 144 reports identified in the preliminary assessment"
+  },
+  {
+   "s": "old144",
+   "p": "report_count",
+   "v": "144",
+   "quote": "Whereas there were previously 144 UAP reports covered during the 17 years of UAP reporting included in the ODNI preliminary assessment on UAP"
+  },
+  {
+   "s": "old144",
+   "p": "reporting_span",
+   "v": "17 years",
+   "quote": "144 UAP reports covered during the 17 years of UAP reporting"
+  },
+  {
+   "s": "old144",
+   "p": "date_end",
+   "v": "2021-03-05",
+   "quote": "The ODNI preliminary assessment on UAP discussed 144 UAP reports and had an information cut-off date of 05 March 2021."
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "new366",
+   "quote": "The majority of new UAP reporting originates from U.S. Navy and U.S. Air Force aviators and operators who witnessed UAP during the course of their operational duties"
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "new366",
+   "quote": "The majority of new UAP reporting originates from U.S. Navy and U.S. Air Force aviators and operators who witnessed UAP during the course of their operational duties"
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "new366",
+   "quote": "The majority of new UAP reporting originates from U.S. Navy and U.S. Air Force aviators and operators who witnessed UAP during the course of their operational duties"
+  },
+  {
+   "s": "f_base",
+   "p": "has_feature",
+   "o": "new366",
+   "quote": "UAP events continue to occur in restricted or sensitive airspace"
+  },
+  {
+   "s": "f_off",
+   "p": "has_feature",
+   "o": "new366",
+   "quote": "AARO's initial analysis and characterization of the 366 newly-identified reports, informed by a multi-agency process"
+  },
+  {
+   "s": "f_unusual",
+   "p": "has_feature",
+   "o": "unchar171",
+   "quote": "Some of these uncharacterized UAP appear to have demonstrated unusual flight characteristics or performance capabilities"
+  },
+  {
+   "s": "f_off",
+   "p": "has_feature",
+   "o": "unchar171",
+   "quote": "appear to have demonstrated unusual flight characteristics or performance capabilities, and require further analysis"
+  },
+  {
+   "s": "x_balloon",
+   "p": "explained_as",
+   "o": "new366",
+   "quote": "163 characterized as balloon or balloon-like entities; and"
+  },
+  {
+   "s": "x_uas",
+   "p": "explained_as",
+   "o": "new366",
+   "quote": "26 characterized as Unmanned Aircraft System (UAS) or UAS-like entities;"
+  },
+  {
+   "s": "x_clutter",
+   "p": "explained_as",
+   "o": "new366",
+   "quote": "6 attributed to clutter."
+  },
+  {
+   "s": "x_bird",
+   "p": "explained_as",
+   "o": "new366",
+   "quote": "2 e.g., birds, weather events, or airborne debris like plastic bags."
+  },
+  {
+   "s": "x_weather",
+   "p": "explained_as",
+   "o": "new366",
+   "quote": "2 e.g., birds, weather events, or airborne debris like plastic bags."
+  },
+  {
+   "s": "x_debris",
+   "p": "explained_as",
+   "o": "new366",
+   "quote": "2 e.g., birds, weather events, or airborne debris like plastic bags."
+  },
+  {
+   "s": "x_sensor",
+   "p": "explained_as",
+   "o": "new366",
+   "quote": "a select number of UAP incidents may be attributable to sensor irregularities or variances, such as operator or equipment error"
+  },
+  {
+   "s": "x_foreign",
+   "p": "explained_as",
+   "o": "new366",
+   "quote": "either as safety of flight hazards or as potential adversary collection platforms"
+  },
+  {
+   "s": "aaro",
+   "p": "proposed",
+   "o": "x_balloon",
+   "quote": "AARO's initial analysis and characterization of the 366 newly-identified reports"
+  }
+ ]
+}
