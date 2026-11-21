@@ -1,0 +1,566 @@
+{
+ "slug": "val-johnson-incident",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Val Johnson incident",
+   "description": "Alleged 1979 UFO encounter in Marshall County, Minnesota, reported by Deputy Sheriff Val Johnson.",
+   "aliases": [
+    "Val Johnson Incident",
+    "Val Johnson Case"
+   ]
+  },
+  {
+   "key": "johnson",
+   "type": "person",
+   "name": "Val Johnson",
+   "description": "Deputy sheriff who reported the encounter while on patrol.",
+   "aliases": [
+    "Deputy Sheriff Val Johnson",
+    "Johnson"
+   ]
+  },
+  {
+   "key": "hendry",
+   "type": "person",
+   "name": "Allan Hendry",
+   "description": "Ufologist who considers the incident significant."
+  },
+  {
+   "key": "clark",
+   "type": "person",
+   "name": "Jerome Clark",
+   "description": "Ufologist who considers the incident significant and reported Johnson's refusal of a polygraph test.",
+   "aliases": [
+    "Clark"
+   ]
+  },
+  {
+   "key": "klass",
+   "type": "person",
+   "name": "Philip Klass",
+   "description": "UFO skeptic who argued the event was a hoax.",
+   "aliases": [
+    "Philip J. Klass"
+   ]
+  },
+  {
+   "key": "marshall",
+   "type": "place",
+   "name": "Marshall County, Minnesota",
+   "description": "County where the encounter was reported.",
+   "aliases": [
+    "Marshall County"
+   ]
+  },
+  {
+   "key": "stephen",
+   "type": "place",
+   "name": "Stephen, Minnesota",
+   "description": "Town near which Johnson was on patrol.",
+   "aliases": [
+    "Stephen"
+   ]
+  },
+  {
+   "key": "minnesota",
+   "type": "place",
+   "name": "Minnesota",
+   "description": "US state containing Marshall County and Stephen."
+  },
+  {
+   "key": "usa",
+   "type": "place",
+   "name": "United States",
+   "description": "Country of the sighting, per the See also listing."
+  },
+  {
+   "key": "abc",
+   "type": "organization",
+   "name": "ABC",
+   "description": "Broadcaster of Good Morning America.",
+   "aliases": [
+    "American Broadcasting Company"
+   ]
+  },
+  {
+   "key": "gma",
+   "type": "work",
+   "name": "Good Morning America",
+   "description": "ABC television programme on which Johnson appeared as a guest.",
+   "aliases": [
+    "ABC's Good Morning America"
+   ]
+  },
+  {
+   "key": "beam",
+   "type": "craft",
+   "name": "Beam of light seen by Val Johnson",
+   "description": "Beam of light just above the road that reportedly sped towards Johnson and engulfed his squad car.",
+   "aliases": [
+    "beam of light"
+   ]
+  },
+  {
+   "key": "car",
+   "type": "vehicle",
+   "name": "Val Johnson's squad car",
+   "description": "Patrol car Johnson was driving, found damaged and sideways on the road.",
+   "aliases": [
+    "squad car",
+    "patrol car"
+   ]
+  },
+  {
+   "key": "f_police",
+   "type": "feature",
+   "name": "police-witnesses"
+  },
+  {
+   "key": "f_lights",
+   "type": "feature",
+   "name": "lights-only"
+  },
+  {
+   "key": "f_physio",
+   "type": "feature",
+   "name": "physiological-effects"
+  },
+  {
+   "key": "f_missing",
+   "type": "feature",
+   "name": "missing-time"
+  },
+  {
+   "key": "f_em",
+   "type": "feature",
+   "name": "electromagnetic-interference"
+  },
+  {
+   "key": "f_traces",
+   "type": "feature",
+   "name": "physical-traces"
+  },
+  {
+   "key": "f_hoax",
+   "type": "feature",
+   "name": "hoax-alleged"
+  },
+  {
+   "key": "x_hoax",
+   "type": "explanation",
+   "name": "hoax"
+  }
+ ],
+ "claims": [
+  {
+   "s": "johnson",
+   "p": "witness",
+   "o": "case",
+   "quote": "The Val Johnson incident was an alleged UFO encounter in Marshall County, Minnesota, reported by Deputy Sheriff Val Johnson in 1979."
+  },
+  {
+   "s": "hendry",
+   "p": "proponent",
+   "o": "case",
+   "quote": "Ufologists, including Allan Hendry and Jerome Clark, consider the incident significant"
+  },
+  {
+   "s": "clark",
+   "p": "proponent",
+   "o": "case",
+   "quote": "Ufologists, including Allan Hendry and Jerome Clark, consider the incident significant"
+  },
+  {
+   "s": "klass",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "UFO skeptic Philip Klass argued that the entire event was a hoax, and that Johnson had deliberately damaged his own patrol car."
+  },
+  {
+   "s": "marshall",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Val Johnson incident was an alleged UFO encounter in Marshall County, Minnesota, reported by Deputy Sheriff Val Johnson in 1979."
+  },
+  {
+   "s": "stephen",
+   "p": "near",
+   "o": "case",
+   "quote": "Johnson reported that while he was on patrol near Stephen, Minnesota, at about 2:00 am on August 27, 1979, he saw a beam of light just above the road."
+  },
+  {
+   "s": "minnesota",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Val Johnson incident was an alleged UFO encounter in Marshall County, Minnesota, reported by Deputy Sheriff Val Johnson in 1979."
+  },
+  {
+   "s": "usa",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "UFO sightings in the United States"
+  },
+  {
+   "s": "abc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On September 11, 1979, Johnson appeared as a guest on ABC's Good Morning America program."
+  },
+  {
+   "s": "gma",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "On September 11, 1979, Johnson appeared as a guest on ABC's Good Morning America program."
+  },
+  {
+   "s": "beam",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Johnson reported that while he was on patrol near Stephen, Minnesota, at about 2:00 am on August 27, 1979, he saw a beam of light just above the road."
+  },
+  {
+   "s": "car",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "According to Johnson, the beam sped towards him, his squad car was engulfed in light,  and he heard glass breaking."
+  },
+  {
+   "s": "f_police",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Val Johnson incident was an alleged UFO encounter in Marshall County, Minnesota, reported by Deputy Sheriff Val Johnson in 1979."
+  },
+  {
+   "s": "f_lights",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Johnson reported that while he was on patrol near Stephen, Minnesota, at about 2:00 am on August 27, 1979, he saw a beam of light just above the road."
+  },
+  {
+   "s": "f_physio",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Johnson suffered bruises and eye irritation that a physician compared to \"welder's burns\"."
+  },
+  {
+   "s": "f_missing",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Johnson said he was unconscious for 39 minutes."
+  },
+  {
+   "s": "f_em",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "When he awoke, he realized his wristwatch and the vehicle's clock had stopped for 14 minutes."
+  },
+  {
+   "s": "f_traces",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The windshield was shattered, a headlight and red emergency light were damaged, and a thin radio aerial bent."
+  },
+  {
+   "s": "f_hoax",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "UFO skeptic Philip Klass argued that the entire event was a hoax, and that Johnson had deliberately damaged his own patrol car."
+  },
+  {
+   "s": "x_hoax",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "UFO skeptic Philip Klass argued that the entire event was a hoax, and that Johnson had deliberately damaged his own patrol car."
+  },
+  {
+   "s": "marshall",
+   "p": "located_in",
+   "o": "minnesota",
+   "quote": "The Val Johnson incident was an alleged UFO encounter in Marshall County, Minnesota, reported by Deputy Sheriff Val Johnson in 1979."
+  },
+  {
+   "s": "stephen",
+   "p": "located_in",
+   "o": "minnesota",
+   "quote": "Johnson reported that while he was on patrol near Stephen, Minnesota, at about 2:00 am on August 27, 1979, he saw a beam of light just above the road."
+  },
+  {
+   "s": "minnesota",
+   "p": "located_in",
+   "o": "usa",
+   "quote": "UFO sightings in the United States"
+  },
+  {
+   "s": "gma",
+   "p": "part_of",
+   "o": "abc",
+   "quote": "On September 11, 1979, Johnson appeared as a guest on ABC's Good Morning America program."
+  },
+  {
+   "s": "klass",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "UFO skeptic Philip Klass argued that the entire event was a hoax, and that Johnson had deliberately damaged his own patrol car."
+  },
+  {
+   "s": "johnson",
+   "p": "described",
+   "o": "beam",
+   "quote": "Johnson reported that while he was on patrol near Stephen, Minnesota, at about 2:00 am on August 27, 1979, he saw a beam of light just above the road."
+  },
+  {
+   "s": "johnson",
+   "p": "piloted",
+   "o": "car",
+   "quote": "According to Johnson, the beam sped towards him, his squad car was engulfed in light,  and he heard glass breaking."
+  },
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1979-08-27",
+   "quote": "Johnson reported that while he was on patrol near Stephen, Minnesota, at about 2:00 am on August 27, 1979, he saw a beam of light just above the road."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "about 2:00 am",
+   "quote": "Johnson reported that while he was on patrol near Stephen, Minnesota, at about 2:00 am on August 27, 1979, he saw a beam of light just above the road."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "UFO sightings in the United States"
+  },
+  {
+   "s": "case",
+   "p": "year_reported",
+   "v": "1979",
+   "quote": "The Val Johnson incident was an alleged UFO encounter in Marshall County, Minnesota, reported by Deputy Sheriff Val Johnson in 1979."
+  },
+  {
+   "s": "case",
+   "p": "status",
+   "v": "alleged UFO encounter",
+   "quote": "The Val Johnson incident was an alleged UFO encounter in Marshall County, Minnesota, reported by Deputy Sheriff Val Johnson in 1979."
+  },
+  {
+   "s": "case",
+   "p": "aftermath",
+   "v": "Deputies responding to Johnson's call for help found the squad car sideways on the road",
+   "quote": "Deputies responding to Johnson's call for help found the squad car sideways on the road."
+  },
+  {
+   "s": "case",
+   "p": "publicity",
+   "v": "the story received national publicity",
+   "quote": "When the story received national publicity, Johnson told reporters the sudden attention had caused him and his family a great deal of emotional strain."
+  },
+  {
+   "s": "case",
+   "p": "medical_opinion",
+   "v": "a physician compared Johnson's eye irritation to \"welder's burns\"",
+   "quote": "Johnson suffered bruises and eye irritation that a physician compared to \"welder's burns\"."
+  },
+  {
+   "s": "case",
+   "p": "assessment",
+   "v": "ufologists including Allan Hendry and Jerome Clark consider the incident significant",
+   "quote": "Ufologists, including Allan Hendry and Jerome Clark, consider the incident significant"
+  },
+  {
+   "s": "johnson",
+   "p": "occupation",
+   "v": "Deputy Sheriff",
+   "quote": "The Val Johnson incident was an alleged UFO encounter in Marshall County, Minnesota, reported by Deputy Sheriff Val Johnson in 1979."
+  },
+  {
+   "s": "johnson",
+   "p": "activity",
+   "v": "on patrol near Stephen, Minnesota",
+   "quote": "Johnson reported that while he was on patrol near Stephen, Minnesota, at about 2:00 am on August 27, 1979, he saw a beam of light just above the road."
+  },
+  {
+   "s": "johnson",
+   "p": "statement",
+   "v": "saw a beam of light just above the road",
+   "quote": "Johnson reported that while he was on patrol near Stephen, Minnesota, at about 2:00 am on August 27, 1979, he saw a beam of light just above the road."
+  },
+  {
+   "s": "johnson",
+   "p": "statement",
+   "v": "the beam sped towards him, his squad car was engulfed in light, and he heard glass breaking",
+   "quote": "According to Johnson, the beam sped towards him, his squad car was engulfed in light,  and he heard glass breaking."
+  },
+  {
+   "s": "johnson",
+   "p": "statement",
+   "v": "he was unconscious for 39 minutes",
+   "quote": "Johnson said he was unconscious for 39 minutes."
+  },
+  {
+   "s": "johnson",
+   "p": "unconscious_duration",
+   "v": "39 minutes",
+   "quote": "Johnson said he was unconscious for 39 minutes."
+  },
+  {
+   "s": "johnson",
+   "p": "sound_heard",
+   "v": "glass breaking",
+   "quote": "According to Johnson, the beam sped towards him, his squad car was engulfed in light,  and he heard glass breaking."
+  },
+  {
+   "s": "johnson",
+   "p": "watch_stopped",
+   "v": "wristwatch had stopped for 14 minutes",
+   "quote": "When he awoke, he realized his wristwatch and the vehicle's clock had stopped for 14 minutes."
+  },
+  {
+   "s": "johnson",
+   "p": "injuries",
+   "v": "bruises and eye irritation",
+   "quote": "Johnson suffered bruises and eye irritation that a physician compared to \"welder's burns\"."
+  },
+  {
+   "s": "johnson",
+   "p": "injury_comparison",
+   "v": "welder's burns",
+   "quote": "Johnson suffered bruises and eye irritation that a physician compared to \"welder's burns\"."
+  },
+  {
+   "s": "johnson",
+   "p": "statement",
+   "v": "the sudden attention had caused him and his family a great deal of emotional strain",
+   "quote": "When the story received national publicity, Johnson told reporters the sudden attention had caused him and his family a great deal of emotional strain."
+  },
+  {
+   "s": "johnson",
+   "p": "media_appearance",
+   "v": "guest on ABC's Good Morning America on September 11, 1979",
+   "quote": "On September 11, 1979, Johnson appeared as a guest on ABC's Good Morning America program."
+  },
+  {
+   "s": "johnson",
+   "p": "polygraph",
+   "v": "refused to take a polygraph test, according to Jerome Clark",
+   "quote": "with Clark claiming that Johnson refused to take a polygraph test because Johnson believed it \"would only [serve to] satisfy people's morbid curiosity\"."
+  },
+  {
+   "s": "johnson",
+   "p": "stated_reason",
+   "v": "believed a polygraph test \"would only [serve to] satisfy people's morbid curiosity\"",
+   "quote": "with Clark claiming that Johnson refused to take a polygraph test because Johnson believed it \"would only [serve to] satisfy people's morbid curiosity\"."
+  },
+  {
+   "s": "beam",
+   "p": "shape",
+   "v": "beam of light",
+   "quote": "Johnson reported that while he was on patrol near Stephen, Minnesota, at about 2:00 am on August 27, 1979, he saw a beam of light just above the road."
+  },
+  {
+   "s": "beam",
+   "p": "position",
+   "v": "just above the road",
+   "quote": "Johnson reported that while he was on patrol near Stephen, Minnesota, at about 2:00 am on August 27, 1979, he saw a beam of light just above the road."
+  },
+  {
+   "s": "beam",
+   "p": "motion",
+   "v": "sped towards Johnson",
+   "quote": "According to Johnson, the beam sped towards him, his squad car was engulfed in light,  and he heard glass breaking."
+  },
+  {
+   "s": "beam",
+   "p": "effect",
+   "v": "squad car was engulfed in light",
+   "quote": "According to Johnson, the beam sped towards him, his squad car was engulfed in light,  and he heard glass breaking."
+  },
+  {
+   "s": "car",
+   "p": "clock_stopped",
+   "v": "vehicle's clock had stopped for 14 minutes",
+   "quote": "When he awoke, he realized his wristwatch and the vehicle's clock had stopped for 14 minutes."
+  },
+  {
+   "s": "car",
+   "p": "damage",
+   "v": "windshield shattered",
+   "quote": "The windshield was shattered, a headlight and red emergency light were damaged, and a thin radio aerial bent."
+  },
+  {
+   "s": "car",
+   "p": "damage",
+   "v": "a headlight damaged",
+   "quote": "The windshield was shattered, a headlight and red emergency light were damaged, and a thin radio aerial bent."
+  },
+  {
+   "s": "car",
+   "p": "damage",
+   "v": "red emergency light damaged",
+   "quote": "The windshield was shattered, a headlight and red emergency light were damaged, and a thin radio aerial bent."
+  },
+  {
+   "s": "car",
+   "p": "damage",
+   "v": "thin radio aerial bent",
+   "quote": "The windshield was shattered, a headlight and red emergency light were damaged, and a thin radio aerial bent."
+  },
+  {
+   "s": "car",
+   "p": "position_found",
+   "v": "sideways on the road",
+   "quote": "Deputies responding to Johnson's call for help found the squad car sideways on the road."
+  },
+  {
+   "s": "car",
+   "p": "emergency_light_color",
+   "v": "red",
+   "quote": "The windshield was shattered, a headlight and red emergency light were damaged, and a thin radio aerial bent."
+  },
+  {
+   "s": "hendry",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "Ufologists, including Allan Hendry and Jerome Clark, consider the incident significant"
+  },
+  {
+   "s": "clark",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "Ufologists, including Allan Hendry and Jerome Clark, consider the incident significant"
+  },
+  {
+   "s": "clark",
+   "p": "statement",
+   "v": "Johnson refused to take a polygraph test because he believed it \"would only [serve to] satisfy people's morbid curiosity\"",
+   "quote": "with Clark claiming that Johnson refused to take a polygraph test because Johnson believed it \"would only [serve to] satisfy people's morbid curiosity\"."
+  },
+  {
+   "s": "klass",
+   "p": "occupation",
+   "v": "UFO skeptic",
+   "quote": "UFO skeptic Philip Klass argued that the entire event was a hoax, and that Johnson had deliberately damaged his own patrol car."
+  },
+  {
+   "s": "klass",
+   "p": "statement",
+   "v": "the entire event was a hoax, and Johnson had deliberately damaged his own patrol car",
+   "quote": "UFO skeptic Philip Klass argued that the entire event was a hoax, and that Johnson had deliberately damaged his own patrol car."
+  },
+  {
+   "s": "gma",
+   "p": "broadcast_date",
+   "v": "1979-09-11",
+   "quote": "On September 11, 1979, Johnson appeared as a guest on ABC's Good Morning America program."
+  },
+  {
+   "s": "gma",
+   "p": "type",
+   "v": "television program",
+   "quote": "On September 11, 1979, Johnson appeared as a guest on ABC's Good Morning America program."
+  }
+ ]
+}

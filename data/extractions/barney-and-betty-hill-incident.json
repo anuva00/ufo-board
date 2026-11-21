@@ -1,0 +1,3807 @@
+{
+ "slug": "barney-and-betty-hill-incident",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Barney and Betty Hill incident",
+   "aliases": [
+    "Hill Abduction",
+    "Zeta Reticuli Incident",
+    "Betty and Barney Hill UFO incident"
+   ],
+   "description": "Alleged abduction of Barney and Betty Hill by extraterrestrials in rural New Hampshire on 19-20 September 1961."
+  },
+  {
+   "key": "barney",
+   "type": "person",
+   "name": "Barney Hill",
+   "description": "Postal worker and civil rights activist who reported the abduction with his wife Betty."
+  },
+  {
+   "key": "betty",
+   "type": "person",
+   "name": "Betty Hill",
+   "aliases": [
+    "Eunice Barrett",
+    "Mrs. Hill"
+   ],
+   "description": "Social worker who reported the abduction with her husband Barney."
+  },
+  {
+   "key": "angela",
+   "type": "person",
+   "name": "Angela Hill",
+   "description": "UFC strawweight; granddaughter of Barney and Betty Hill."
+  },
+  {
+   "key": "ufc",
+   "type": "organization",
+   "name": "UFC",
+   "description": "Mixed martial arts organisation in which Angela Hill competes."
+  },
+  {
+   "key": "craft",
+   "type": "craft",
+   "name": "Object reported by Barney and Betty Hill",
+   "description": "Silent, illuminated, odd-shaped craft with windows and multicoloured lights that the Hills said followed and hovered over their car."
+  },
+  {
+   "key": "car",
+   "type": "vehicle",
+   "name": "1957 Chevrolet Bel Air",
+   "description": "The Hills' car."
+  },
+  {
+   "key": "nh",
+   "type": "place",
+   "name": "New Hampshire",
+   "description": "US state where the incident was reported."
+  },
+  {
+   "key": "portsmouth",
+   "type": "place",
+   "name": "Portsmouth, New Hampshire",
+   "aliases": [
+    "Portsmouth"
+   ],
+   "description": "Home town of the Hills."
+  },
+  {
+   "key": "niagara",
+   "type": "place",
+   "name": "Niagara Falls",
+   "description": "Vacation destination the Hills were returning from."
+  },
+  {
+   "key": "montreal",
+   "type": "place",
+   "name": "Montreal, Canada",
+   "aliases": [
+    "Montreal"
+   ],
+   "description": "Vacation destination the Hills were returning from."
+  },
+  {
+   "key": "lancaster",
+   "type": "place",
+   "name": "Lancaster, New Hampshire",
+   "aliases": [
+    "Lancaster"
+   ],
+   "description": "Town just north of where Betty first saw the light."
+  },
+  {
+   "key": "route3",
+   "type": "place",
+   "name": "U.S. Route 3",
+   "description": "Highway the Hills were driving."
+  },
+  {
+   "key": "twin",
+   "type": "place",
+   "name": "Twin Mountain, New Hampshire",
+   "aliases": [
+    "Twin Mountain"
+   ],
+   "description": "Locality near the picnic area where Barney first stopped."
+  },
+  {
+   "key": "vermont",
+   "type": "place",
+   "name": "Vermont",
+   "description": "State toward which Barney thought an airliner was travelling."
+  },
+  {
+   "key": "franconia",
+   "type": "place",
+   "name": "Franconia Notch",
+   "description": "Mountain pass the Hills drove through while watching the object."
+  },
+  {
+   "key": "cannon",
+   "type": "place",
+   "name": "Cannon Mountain",
+   "description": "Mountain with a restaurant and signal tower over which the object reportedly passed."
+  },
+  {
+   "key": "oldman",
+   "type": "place",
+   "name": "Old Man of the Mountain",
+   "description": "Granite cliff profile near which the object reportedly emerged."
+  },
+  {
+   "key": "indianhead",
+   "type": "place",
+   "name": "Indian Head, New Hampshire",
+   "aliases": [
+    "Indian Head"
+   ],
+   "description": "Locality about a mile north of where the craft reportedly descended over the car."
+  },
+  {
+   "key": "lincoln",
+   "type": "place",
+   "name": "Lincoln, New Hampshire",
+   "aliases": [
+    "Lincoln"
+   ],
+   "description": "Town at the start of the stretch of road the Hills could not recall."
+  },
+  {
+   "key": "ashland",
+   "type": "place",
+   "name": "Ashland, New Hampshire",
+   "aliases": [
+    "Ashland"
+   ],
+   "description": "Town at the end of the stretch of road the Hills could not recall."
+  },
+  {
+   "key": "concord",
+   "type": "place",
+   "name": "Concord, New Hampshire",
+   "aliases": [
+    "Concord"
+   ],
+   "description": "Where the Hills said they awoke from their daze."
+  },
+  {
+   "key": "colebrook",
+   "type": "place",
+   "name": "Colebrook, New Hampshire",
+   "aliases": [
+    "Colebrook"
+   ],
+   "description": "Town the Hills departed from on the final leg of the drive."
+  },
+  {
+   "key": "newton",
+   "type": "place",
+   "name": "Newton",
+   "description": "Town whose police chief, Buz Sawyer, the Hills first called."
+  },
+  {
+   "key": "pease",
+   "type": "place",
+   "name": "Pease Air Force Base",
+   "aliases": [
+    "Pease AFB"
+   ],
+   "description": "Air Force base the Hills were advised to call."
+  },
+  {
+   "key": "boston",
+   "type": "place",
+   "name": "Boston, Massachusetts",
+   "aliases": [
+    "Boston"
+   ],
+   "description": "City of astronomer Walter Webb and psychiatrist Benjamin Simon."
+  },
+  {
+   "key": "quincy",
+   "type": "place",
+   "name": "Quincy Center",
+   "description": "Where the Hills gave a lecture in late 1963."
+  },
+  {
+   "key": "oakharbor",
+   "type": "place",
+   "name": "Oak Harbor, Ohio",
+   "description": "Home of star-map analyst Marjorie Fish."
+  },
+  {
+   "key": "zeta",
+   "type": "place",
+   "name": "Zeta Reticuli",
+   "aliases": [
+    "Zeta Reticuli system"
+   ],
+   "description": "Double star system linked to Betty Hill's star map."
+  },
+  {
+   "key": "nyc",
+   "type": "place",
+   "name": "New York City",
+   "description": "Site of the 1980 National UFO Conference."
+  },
+  {
+   "key": "whitemtn",
+   "type": "place",
+   "name": "White Mountains",
+   "aliases": [
+    "White Mountains, NH"
+   ],
+   "description": "Mountain region of New Hampshire named in Webb's report title."
+  },
+  {
+   "key": "unh",
+   "type": "organization",
+   "name": "University of New Hampshire",
+   "description": "Betty Hill's alma mater; holds her notes, tapes and other items."
+  },
+  {
+   "key": "nhdhr",
+   "type": "organization",
+   "name": "New Hampshire Division of Historical Resources",
+   "description": "State agency that placed a historical marker at the site."
+  },
+  {
+   "key": "nbc",
+   "type": "organization",
+   "name": "NBC",
+   "description": "Television network of the 1975 film The UFO Incident."
+  },
+  {
+   "key": "usps",
+   "type": "organization",
+   "name": "United States Postal Service",
+   "description": "Barney Hill's employer."
+  },
+  {
+   "key": "naacp",
+   "type": "organization",
+   "name": "NAACP",
+   "description": "Civil rights organisation of which the Hills were members."
+  },
+  {
+   "key": "usccr",
+   "type": "organization",
+   "name": "United States Commission on Civil Rights",
+   "description": "Federal commission; Barney sat on a local board."
+  },
+  {
+   "key": "nicap",
+   "type": "organization",
+   "name": "National Investigations Committee On Aerial Phenomena",
+   "aliases": [
+    "NICAP"
+   ],
+   "description": "Civilian UFO group whose members interviewed the Hills."
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "aliases": [
+    "U.S. Air Force"
+   ],
+   "description": "Military branch to which the Hills made an initial report."
+  },
+  {
+   "key": "traveler",
+   "type": "organization",
+   "name": "Boston Traveler",
+   "aliases": [
+    "the Traveler"
+   ],
+   "description": "Newspaper that broke the Hills' story in October 1965."
+  },
+  {
+   "key": "upi",
+   "type": "organization",
+   "name": "United Press International",
+   "aliases": [
+    "UPI"
+   ],
+   "description": "News agency that picked up Luttrell's story."
+  },
+  {
+   "key": "psychop",
+   "type": "organization",
+   "name": "Psychiatric Opinion",
+   "description": "Journal for which Benjamin Simon wrote an article about the Hills."
+  },
+  {
+   "key": "astronomy",
+   "type": "organization",
+   "name": "Astronomy",
+   "aliases": [
+    "Astronomy magazine"
+   ],
+   "description": "Magazine that hosted a debate on Fish's star map from December 1974."
+  },
+  {
+   "key": "look",
+   "type": "organization",
+   "name": "Look",
+   "aliases": [
+    "Look magazine"
+   ],
+   "description": "Magazine that published excerpts of The Interrupted Journey."
+  },
+  {
+   "key": "mufon",
+   "type": "organization",
+   "name": "Mutual UFO Network",
+   "aliases": [
+    "MUFON"
+   ],
+   "description": "UFO organisation on whose board Kathleen Marden sat."
+  },
+  {
+   "key": "si",
+   "type": "organization",
+   "name": "Skeptical Inquirer",
+   "description": "Magazine in which Robert Sheaffer wrote about Betty Hill."
+  },
+  {
+   "key": "nufoc",
+   "type": "organization",
+   "name": "National UFO Conference",
+   "description": "UFO conference at which Betty Hill presented slides in 1980."
+  },
+  {
+   "key": "darkhorse",
+   "type": "organization",
+   "name": "Dark Horse Comics",
+   "description": "Publisher of Blue Book: 1961."
+  },
+  {
+   "key": "hypocrisy",
+   "type": "organization",
+   "name": "Hypocrisy",
+   "description": "Melodic death metal band."
+  },
+  {
+   "key": "history",
+   "type": "organization",
+   "name": "History Channel",
+   "description": "Television channel of the series Project Blue Book."
+  },
+  {
+   "key": "wonderspaces",
+   "type": "organization",
+   "name": "Wonderspaces",
+   "description": "Traveling art show that hosted the \"Dinner Party\" exhibit."
+  },
+  {
+   "key": "condon",
+   "type": "program",
+   "name": "Condon Committee",
+   "aliases": [
+    "Condon UFO study"
+   ],
+   "description": "UFO study on which David Saunders served."
+  },
+  {
+   "key": "hipparcos",
+   "type": "program",
+   "name": "Hipparcos",
+   "aliases": [
+    "European Hipparcos mission",
+    "high precision parallax collecting satellite"
+   ],
+   "description": "European satellite mission that measured stellar distances."
+  },
+  {
+   "key": "starmap",
+   "type": "document",
+   "name": "Betty Hill's star map",
+   "aliases": [
+    "star map",
+    "Hill map"
+   ],
+   "description": "Sketch by Betty Hill of a star map she said she was shown."
+  },
+  {
+   "key": "papers",
+   "type": "document",
+   "name": "Betty Hill's notes, tapes, and other items",
+   "description": "Betty Hill's papers held at the University of New Hampshire."
+  },
+  {
+   "key": "webbreport",
+   "type": "document",
+   "name": "A Dramatic UFO Encounter in the White Mountains, NH",
+   "description": "Walter Webb's confidential report to NICAP dated August 30, 1965."
+  },
+  {
+   "key": "webbinitial",
+   "type": "document",
+   "name": "Walter Webb's initial report",
+   "description": "Webb's first report on the Hills, read by Jackson and Hohmann."
+  },
+  {
+   "key": "tape",
+   "type": "document",
+   "name": "Audio tape recording of the Hills' Quincy Center lecture",
+   "description": "Recording of a lecture the Hills gave in late 1963, allegedly given to reporter John H. Luttrell."
+  },
+  {
+   "key": "sheafferdocs",
+   "type": "document",
+   "name": "48 pages of archived documents released by Robert Sheaffer",
+   "description": "Archived documents relating to the Hills, Benjamin Simon and Philip J. Klass, put online in 2015."
+  },
+  {
+   "key": "bakersketch",
+   "type": "document",
+   "name": "Sketch done in collaboration with the artist David Baker",
+   "description": "Sketch of the alien made by Barney Hill with artist David Baker."
+  },
+  {
+   "key": "gliese",
+   "type": "document",
+   "name": "Gliese Star Catalogue",
+   "description": "1969 star catalogue Fish used for stellar distances."
+  },
+  {
+   "key": "webb",
+   "type": "person",
+   "name": "Walter N. Webb",
+   "aliases": [
+    "Walter Webb",
+    "Webb"
+   ],
+   "description": "Boston astronomer and NICAP member who first interviewed the Hills."
+  },
+  {
+   "key": "sawyer",
+   "type": "person",
+   "name": "Buz Sawyer",
+   "description": "Police chief of Newton and close friend the Hills first called."
+  },
+  {
+   "key": "jackson",
+   "type": "person",
+   "name": "C. D. Jackson",
+   "description": "NICAP member who interviewed the Hills on November 25, 1961."
+  },
+  {
+   "key": "hohmann",
+   "type": "person",
+   "name": "Robert E. Hohmann",
+   "aliases": [
+    "Hohman"
+   ],
+   "description": "NICAP member who interviewed the Hills on November 25, 1961."
+  },
+  {
+   "key": "swett",
+   "type": "person",
+   "name": "Ben H. Swett",
+   "aliases": [
+    "Captain Ben H. Swett"
+   ],
+   "description": "USAF captain and amateur hypnotist the Hills approached in November 1962."
+  },
+  {
+   "key": "simon",
+   "type": "person",
+   "name": "Benjamin Simon",
+   "aliases": [
+    "Simon"
+   ],
+   "description": "Boston psychiatrist who hypnotised the Hills."
+  },
+  {
+   "key": "luttrell",
+   "type": "person",
+   "name": "John H. Luttrell",
+   "description": "Boston Traveler reporter who broke the story in 1965."
+  },
+  {
+   "key": "luttrellstory",
+   "type": "work",
+   "name": "UFO Chiller: Did THEY Seize Couple?",
+   "description": "Front page Boston Traveler story of October 25, 1965."
+  },
+  {
+   "key": "fuller",
+   "type": "person",
+   "name": "John G. Fuller",
+   "aliases": [
+    "Fuller"
+   ],
+   "description": "Writer of The Interrupted Journey."
+  },
+  {
+   "key": "journey",
+   "type": "work",
+   "name": "The Interrupted Journey",
+   "aliases": [
+    "Interrupted Journey"
+   ],
+   "description": "Best-selling 1966 book about the case by John G. Fuller."
+  },
+  {
+   "key": "fish",
+   "type": "person",
+   "name": "Marjorie Fish",
+   "aliases": [
+    "Fish"
+   ],
+   "description": "Elementary school teacher and amateur astronomer who analysed Betty Hill's star map."
+  },
+  {
+   "key": "dickinson",
+   "type": "person",
+   "name": "Terence Dickinson",
+   "description": "Editor of Astronomy magazine."
+  },
+  {
+   "key": "sagan",
+   "type": "person",
+   "name": "Carl Sagan",
+   "description": "Argued the star map was a random alignment of chance points."
+  },
+  {
+   "key": "soter",
+   "type": "person",
+   "name": "Steven Soter",
+   "description": "Co-author with Sagan of an argument against the star map."
+  },
+  {
+   "key": "cosmos",
+   "type": "work",
+   "name": "Cosmos",
+   "description": "Television series; a 1980 episode examined the Hill star map."
+  },
+  {
+   "key": "saunders",
+   "type": "person",
+   "name": "David Saunders",
+   "description": "Statistician formerly on the Condon UFO study who favoured the star map match."
+  },
+  {
+   "key": "marden",
+   "type": "person",
+   "name": "Kathleen Marden",
+   "aliases": [
+    "Marden"
+   ],
+   "description": "Betty Hill's niece and co-author of Captured!."
+  },
+  {
+   "key": "friedman",
+   "type": "person",
+   "name": "Stanton T. Friedman",
+   "aliases": [
+    "Stanton Friedman"
+   ],
+   "description": "Nuclear physicist and ufologist, co-author of Captured!."
+  },
+  {
+   "key": "captured",
+   "type": "work",
+   "name": "Captured! The Betty and Barney Hill UFO Experience",
+   "aliases": [
+    "Captured"
+   ],
+   "description": "Book about the case by Kathleen Marden and Stanton T. Friedman."
+  },
+  {
+   "key": "macdonald",
+   "type": "person",
+   "name": "Jim Macdonald",
+   "aliases": [
+    "Macdonald"
+   ],
+   "description": "Local resident who analysed the Hills' journey and attributed the sighting to a beacon."
+  },
+  {
+   "key": "sheaffer",
+   "type": "person",
+   "name": "Robert Sheaffer",
+   "aliases": [
+    "Sheaffer"
+   ],
+   "description": "Skeptic who wrote about the Hills in the Skeptical Inquirer."
+  },
+  {
+   "key": "oswald",
+   "type": "person",
+   "name": "John Oswald",
+   "description": "UFO enthusiast who joined Betty Hill on a UFO vigil."
+  },
+  {
+   "key": "klass",
+   "type": "person",
+   "name": "Philip J. Klass",
+   "description": "Named in the archived documents released by Robert Sheaffer."
+  },
+  {
+   "key": "commonsense",
+   "type": "work",
+   "name": "A Common Sense Approach to UFOs",
+   "description": "Self-published 1995 book by Betty Hill."
+  },
+  {
+   "key": "kottmeyer",
+   "type": "person",
+   "name": "Martin Kottmeyer",
+   "aliases": [
+    "Kottmeyer"
+   ],
+   "description": "Author of \"Entirely Unpredisposed\", who linked Barney's hypnosis memories to The Outer Limits."
+  },
+  {
+   "key": "unpredisposed",
+   "type": "work",
+   "name": "Entirely Unpredisposed",
+   "description": "1990 article by Martin Kottmeyer."
+  },
+  {
+   "key": "outerlimits",
+   "type": "work",
+   "name": "The Outer Limits",
+   "aliases": [
+    "Outer Limits"
+   ],
+   "description": "Science fiction anthology television series."
+  },
+  {
+   "key": "bellero",
+   "type": "work",
+   "name": "The Bellero Shield",
+   "description": "Episode of The Outer Limits first broadcast February 10, 1964."
+  },
+  {
+   "key": "invisibles",
+   "type": "work",
+   "name": "The Invisibles",
+   "description": "Episode of The Outer Limits broadcast February 3, 1964."
+  },
+  {
+   "key": "spider",
+   "type": "work",
+   "name": "The Children of Spider County",
+   "description": "Episode of The Outer Limits broadcast February 17, 1964."
+  },
+  {
+   "key": "twilight",
+   "type": "work",
+   "name": "The Twilight Zone",
+   "aliases": [
+    "Twilight Zone"
+   ],
+   "description": "Television series."
+  },
+  {
+   "key": "leather",
+   "type": "work",
+   "name": "Black Leather Jackets",
+   "description": "Twilight Zone episode of January 31, 1964."
+  },
+  {
+   "key": "invaders",
+   "type": "work",
+   "name": "Invaders from Mars",
+   "description": "1953 film."
+  },
+  {
+   "key": "baker",
+   "type": "person",
+   "name": "David Baker",
+   "description": "Artist who collaborated on a sketch of the alien."
+  },
+  {
+   "key": "colavito",
+   "type": "person",
+   "name": "Jason Colavito",
+   "aliases": [
+    "Colavito"
+   ],
+   "description": "Writer who in 2012 linked Barney Hill's memories to several television episodes."
+  },
+  {
+   "key": "kinsolving",
+   "type": "person",
+   "name": "Lee Kinsolving",
+   "description": "Actor who played an alien in \"The Children of Spider County\" and \"Black Leather Jackets\"."
+  },
+  {
+   "key": "dean",
+   "type": "person",
+   "name": "Jodi Dean",
+   "description": "Academic who observed that accounts downplayed the Hills' interracial relationship."
+  },
+  {
+   "key": "drysdale",
+   "type": "person",
+   "name": "David Drysdale",
+   "aliases": [
+    "Drysdale"
+   ],
+   "description": "Sociologist who analysed the abduction account in terms of the Hills' interracial relationship."
+  },
+  {
+   "key": "rose",
+   "type": "person",
+   "name": "Dell Rose",
+   "description": "Researcher who expanded Drysdale's analysis."
+  },
+  {
+   "key": "bowman",
+   "type": "person",
+   "name": "Matthew Bowman",
+   "description": "Historian who commented on Barney Hill's concerns about mockery."
+  },
+  {
+   "key": "watson",
+   "type": "person",
+   "name": "Nigel Watson",
+   "description": "Author of an article on the credibility of the Hill abduction case."
+  },
+  {
+   "key": "watsonart",
+   "type": "work",
+   "name": "On the Credibility of the Barney and Betty Hill Abduction Case",
+   "description": "Article by Nigel Watson in The Reliability of UFO Witness Testimony (2023)."
+  },
+  {
+   "key": "ufoincident",
+   "type": "work",
+   "name": "The UFO Incident",
+   "description": "NBC's 1975 television film dramatising the Hills' abduction."
+  },
+  {
+   "key": "jones",
+   "type": "person",
+   "name": "James Earl Jones",
+   "description": "Actor who played one of the Hills in The UFO Incident."
+  },
+  {
+   "key": "parsons",
+   "type": "person",
+   "name": "Estelle Parsons",
+   "description": "Actor who played one of the Hills in The UFO Incident."
+  },
+  {
+   "key": "tttt",
+   "type": "work",
+   "name": "To Tell the Truth",
+   "description": "Television programme on which Barney Hill appeared."
+  },
+  {
+   "key": "worship",
+   "type": "work",
+   "name": "Worship",
+   "description": "2021 album by Hypocrisy featuring the song \"Bug in the Net\"."
+  },
+  {
+   "key": "bugnet",
+   "type": "work",
+   "name": "Bug in the Net",
+   "description": "Song by Hypocrisy based on the incident."
+  },
+  {
+   "key": "bluebook1961",
+   "type": "work",
+   "name": "Blue Book: 1961",
+   "description": "2023 Dark Horse Comics series with a fact-based account of the case."
+  },
+  {
+   "key": "tynion",
+   "type": "person",
+   "name": "James Tynion IV",
+   "description": "Writer of Blue Book: 1961."
+  },
+  {
+   "key": "oeming",
+   "type": "person",
+   "name": "Michael Avon Oeming",
+   "description": "Artist of Blue Book: 1961."
+  },
+  {
+   "key": "saucer",
+   "type": "work",
+   "name": "Saucer Country",
+   "description": "2012 comic book series scripted by Paul Cornell."
+  },
+  {
+   "key": "cornell",
+   "type": "person",
+   "name": "Paul Cornell",
+   "description": "Scripter of Saucer Country."
+  },
+  {
+   "key": "prometheus",
+   "type": "work",
+   "name": "Prometheus",
+   "description": "2012 film whose opening star maps are based on Betty Hill's star map."
+  },
+  {
+   "key": "dinner",
+   "type": "work",
+   "name": "Dinner Party",
+   "description": "2018 virtual reality exhibit based on the story."
+  },
+  {
+   "key": "pbbseries",
+   "type": "work",
+   "name": "Project Blue Book (TV series)",
+   "aliases": [
+    "Project Blue Book"
+   ],
+   "description": "2019 History Channel television series; ninth episode \"Abduction\" is based on the incident."
+  },
+  {
+   "key": "ballad",
+   "type": "work",
+   "name": "The Ballad of Betty and Barney Hill",
+   "description": "Track from Angelo De Augustine's 2023 album Toil and Trouble."
+  },
+  {
+   "key": "toil",
+   "type": "work",
+   "name": "Toil and Trouble",
+   "description": "2023 album by Angelo De Augustine."
+  },
+  {
+   "key": "deaugustine",
+   "type": "person",
+   "name": "Angelo De Augustine",
+   "description": "Musician whose album Toil and Trouble includes a track about the incident."
+  },
+  {
+   "key": "strange",
+   "type": "work",
+   "name": "Strange Arrivals",
+   "description": "Upcoming film based on the case."
+  },
+  {
+   "key": "moore",
+   "type": "person",
+   "name": "Demi Moore",
+   "description": "Actor set to portray Betty Hill in Strange Arrivals."
+  },
+  {
+   "key": "domingo",
+   "type": "person",
+   "name": "Colman Domingo",
+   "description": "Actor set to portray Barney Hill in Strange Arrivals."
+  },
+  {
+   "key": "williams",
+   "type": "person",
+   "name": "Roger Ross Williams",
+   "description": "Director of Strange Arrivals."
+  },
+  {
+   "key": "beings",
+   "type": "work",
+   "name": "Beings",
+   "description": "2025 novel by Ilana Masad with a fictionalised depiction of the Hills."
+  },
+  {
+   "key": "masad",
+   "type": "person",
+   "name": "Ilana Masad",
+   "description": "Author of the novel Beings."
+  },
+  {
+   "key": "f_abduct",
+   "type": "feature",
+   "name": "abduction-claim"
+  },
+  {
+   "key": "f_missing",
+   "type": "feature",
+   "name": "missing-time"
+  },
+  {
+   "key": "f_hypnosis",
+   "type": "feature",
+   "name": "hypnosis-used"
+  },
+  {
+   "key": "f_occupants",
+   "type": "feature",
+   "name": "occupants-reported"
+  },
+  {
+   "key": "f_hover",
+   "type": "feature",
+   "name": "hovering"
+  },
+  {
+   "key": "f_silent",
+   "type": "feature",
+   "name": "silent"
+  },
+  {
+   "key": "f_sound",
+   "type": "feature",
+   "name": "sound-reported"
+  },
+  {
+   "key": "f_disc",
+   "type": "feature",
+   "name": "shape-disc"
+  },
+  {
+   "key": "f_shapeother",
+   "type": "feature",
+   "name": "shape-other"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses"
+  },
+  {
+   "key": "f_traces",
+   "type": "feature",
+   "name": "physical-traces"
+  },
+  {
+   "key": "f_material",
+   "type": "feature",
+   "name": "debris-or-material"
+  },
+  {
+   "key": "f_emi",
+   "type": "feature",
+   "name": "electromagnetic-interference"
+  },
+  {
+   "key": "f_physio",
+   "type": "feature",
+   "name": "physiological-effects"
+  },
+  {
+   "key": "f_maneuver",
+   "type": "feature",
+   "name": "high-speed-maneuvers"
+  },
+  {
+   "key": "f_landing",
+   "type": "feature",
+   "name": "landing-reported"
+  },
+  {
+   "key": "f_starmap",
+   "type": "feature",
+   "name": "other:star map"
+  },
+  {
+   "key": "f_telepathy",
+   "type": "feature",
+   "name": "other:telepathic communication"
+  },
+  {
+   "key": "f_dreams",
+   "type": "feature",
+   "name": "other:dreams of the encounter"
+  },
+  {
+   "key": "x_misp",
+   "type": "explanation",
+   "name": "misperception"
+  },
+  {
+   "key": "x_psych",
+   "type": "explanation",
+   "name": "psychological"
+  },
+  {
+   "key": "x_meteor",
+   "type": "explanation",
+   "name": "meteor-or-fireball"
+  },
+  {
+   "key": "x_aircraft",
+   "type": "explanation",
+   "name": "conventional-aircraft"
+  },
+  {
+   "key": "x_moon",
+   "type": "explanation",
+   "name": "moon"
+  },
+  {
+   "key": "x_tv",
+   "type": "explanation",
+   "name": "other:influence of television science fiction"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1961-09-19",
+   "quote": "Barney and Betty Hill were an American couple and civil rights activists who claimed they were abducted by extraterrestrials in a rural portion of the state of New Hampshire from September 19 to 20, 1961."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1961-09-20",
+   "quote": "Barney and Betty Hill were an American couple and civil rights activists who claimed they were abducted by extraterrestrials in a rural portion of the state of New Hampshire from September 19 to 20, 1961."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "10:30 p.m.",
+   "quote": "the alleged UFO sighting happened about 10:30 p.m. September 19, 1961"
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "They were an interracial couple at a time when it was particularly uncommon in the United States; Barney was black and Betty was white."
+  },
+  {
+   "s": "case",
+   "p": "witness_count",
+   "v": "2",
+   "quote": "Barney and Betty Hill were an American couple"
+  },
+  {
+   "s": "case",
+   "p": "also_known_as",
+   "v": "Hill Abduction",
+   "quote": "The incident came to be called the \"Hill Abduction\" and the \"Zeta Reticuli Incident\" because two ufologists connected the star map allegedly shown to Betty Hill with the Zeta Reticuli system."
+  },
+  {
+   "s": "case",
+   "p": "also_known_as",
+   "v": "Zeta Reticuli Incident",
+   "quote": "The incident came to be called the \"Hill Abduction\" and the \"Zeta Reticuli Incident\" because two ufologists connected the star map allegedly shown to Betty Hill with the Zeta Reticuli system."
+  },
+  {
+   "s": "case",
+   "p": "trip_duration",
+   "v": "seven hours from Colebrook, three hours more than expected",
+   "quote": "they did not realize that the length of the trip following their departure from Colebrook had stretched to a full seven hours, three hours more than the expected duration of a 178-mile (286 km) drive"
+  },
+  {
+   "s": "case",
+   "p": "missing_time",
+   "v": "three hours",
+   "quote": "they did not realize that the length of the trip following their departure from Colebrook had stretched to a full seven hours, three hours more than the expected duration of a 178-mile (286 km) drive"
+  },
+  {
+   "s": "case",
+   "p": "trip_distance",
+   "v": "178 miles (286 km)",
+   "quote": "they did not realize that the length of the trip following their departure from Colebrook had stretched to a full seven hours, three hours more than the expected duration of a 178-mile (286 km) drive"
+  },
+  {
+   "s": "case",
+   "p": "unrecalled_stretch",
+   "v": "35 miles of U.S. Route 3 between Lincoln/Indian Head and Ashland",
+   "quote": "The Hills claimed to recall almost nothing of the 35 miles of U.S. Route 3 between Lincoln/Indian Head and Ashland."
+  },
+  {
+   "s": "case",
+   "p": "arrival_home",
+   "v": "around dawn",
+   "quote": "Arriving home around dawn, the Hills stated that they had some odd sensations and impulses they could not readily explain: Betty insisted their luggage be kept near the back door rather than in the main part of the house."
+  },
+  {
+   "s": "case",
+   "p": "historical_marker",
+   "v": "July 2011, marking the site of the alleged craft's first approach",
+   "quote": "In July 2011, the New Hampshire Division of Historical Resources marked the site of the alleged craft's first approach with a historical marker."
+  },
+  {
+   "s": "case",
+   "p": "aftermath",
+   "v": "Their watches would never work again",
+   "quote": "Their watches would never work again."
+  },
+  {
+   "s": "case",
+   "p": "aftermath",
+   "v": "leather strap for the binoculars was torn",
+   "quote": "Barney said that the leather strap for the binoculars was torn, though he could not recall it tearing."
+  },
+  {
+   "s": "case",
+   "p": "aftermath",
+   "v": "toes of Barney's best dress shoes were scraped",
+   "quote": "The toes of his best dress shoes were scraped."
+  },
+  {
+   "s": "case",
+   "p": "aftermath",
+   "v": "took long showers to remove possible contamination; each drew a picture of what they had observed",
+   "quote": "They took long showers to remove possible contamination, and each drew a picture of what they had observed."
+  },
+  {
+   "s": "case",
+   "p": "aftermath",
+   "v": "shiny, concentric circles on the car's trunk",
+   "quote": "There were shiny, concentric circles on their car's trunk that had not been there the previous day."
+  },
+  {
+   "s": "case",
+   "p": "aftermath",
+   "v": "compass needle whirled rapidly near the shiny spots on the trunk",
+   "quote": "Betty and Barney experimented with a compass, noting that when they moved it close to the spots, the needle would whirl rapidly."
+  },
+  {
+   "s": "case",
+   "p": "aftermath",
+   "v": "Betty's dress torn at the hem, zipper, and lining",
+   "quote": "observing that the dress was torn at the hem, zipper, and lining"
+  },
+  {
+   "s": "case",
+   "p": "aftermath",
+   "v": "pinkish powder on Betty's dress",
+   "quote": "Later, when she retrieved the items from her closet, she noted a pinkish powder on her dress."
+  },
+  {
+   "s": "case",
+   "p": "laboratory_analysis",
+   "v": "five laboratories conducted chemical and forensic analyses on the dress",
+   "quote": "Over the years, five laboratories have conducted chemical and forensic analyses on the garment."
+  },
+  {
+   "s": "case",
+   "p": "sound",
+   "v": "strange beeping sound, after which they fell into a daze",
+   "quote": "As the Hills sped away, they heard a strange beeping sound and fell into a daze."
+  },
+  {
+   "s": "case",
+   "p": "sound",
+   "v": "buzzing sounds, after which their memories became incomplete and fragmented",
+   "quote": "But immediately after they heard the buzzing sounds, their memories became incomplete and fragmented."
+  },
+  {
+   "s": "case",
+   "p": "companion_animal",
+   "v": "the Hills' dog, Delsey",
+   "quote": "Because it moved erratically and grew bigger and brighter, Betty urged Barney to stop the car for a closer look, as well as to walk their dog, Delsey."
+  },
+  {
+   "s": "case",
+   "p": "occupant_count",
+   "v": "eight to eleven humanoid figures",
+   "quote": "Using the binoculars, he claimed to have seen eight to eleven humanoid figures, who were peering out of the craft's windows, seemingly in his direction."
+  },
+  {
+   "s": "case",
+   "p": "occupant_clothing",
+   "v": "glossy black uniforms and black caps",
+   "quote": "Barney had a recollection of observing the humanoid forms wearing glossy black uniforms and black caps."
+  },
+  {
+   "s": "case",
+   "p": "occupant_description",
+   "v": "\"somehow not human\"",
+   "quote": "On October 21, 1961, Barney reported to National Investigations Committee On Aerial Phenomena (NICAP) investigator Walter Webb that the \"beings were somehow not human\"."
+  },
+  {
+   "s": "case",
+   "p": "occupant_message",
+   "v": "stay where you are and keep looking",
+   "quote": "The one remaining figure continued to look at Barney and communicated a message telling him to \"stay where you are and keep looking.\""
+  },
+  {
+   "s": "case",
+   "p": "occupant_description_in_dream",
+   "v": "about five to five feet four inches tall, matching blue uniforms, caps similar to those worn by military cadets",
+   "quote": "The men stood about five to five feet four inches (1.5 m–1.63 m) and wore matching blue uniforms, with caps similar to those worn by military cadets."
+  },
+  {
+   "s": "case",
+   "p": "occupant_description_in_dream",
+   "v": "nearly human, with black hair, dark eyes, prominent noses, and bluish lips",
+   "quote": "They appeared nearly human, with black hair, dark eyes, prominent noses, and bluish lips."
+  },
+  {
+   "s": "case",
+   "p": "occupant_skin_color_in_dream",
+   "v": "greyish",
+   "quote": "Their skin was a greyish color."
+  },
+  {
+   "s": "case",
+   "p": "occupant_count_under_hypnosis",
+   "v": "six men standing on the dirt road, three of whom approached the car",
+   "quote": "He eventually sighted six men standing on the dirt road. The car stalled and three of the men approached the car."
+  },
+  {
+   "s": "case",
+   "p": "occupant_communication",
+   "v": "\"thought transference\" (telepathy)",
+   "quote": "The few times they communicated with him, Barney said it seemed to be \"thought transference\" (at that time, he was unfamiliar with the word \"telepathy\")."
+  },
+  {
+   "s": "case",
+   "p": "occupant_language",
+   "v": "leader spoke English to Betty; Barney heard a mumbling language he did not understand",
+   "quote": "While Betty reported a conversation with the \"leader\" in English, Barney said that he heard them speaking in a mumbling language he did not understand."
+  },
+  {
+   "s": "case",
+   "p": "remembered_image",
+   "v": "a fiery orb sitting on the ground",
+   "quote": "Both claimed to recall an image of a fiery orb sitting on the ground."
+  },
+  {
+   "s": "case",
+   "p": "hypnosis_result",
+   "v": "Barney's and Betty's memories in hypnotic regression were consistent with one another",
+   "quote": "Barney's and Betty's memories in hypnotic regression were, however, consistent with one another."
+  },
+  {
+   "s": "case",
+   "p": "publicity",
+   "v": "front page story in the Boston Traveler on October 25, 1965",
+   "quote": "On October 25, 1965, a front page story in the Boston Traveler asked \"UFO Chiller: Did THEY Seize Couple?\""
+  },
+  {
+   "s": "case",
+   "p": "publicity",
+   "v": "picked up by United Press International on October 26, giving international exposure",
+   "quote": "On October 26, United Press International (UPI) picked up Luttrell's story, and the Hills' story was given international exposure."
+  },
+  {
+   "s": "case",
+   "p": "publicity",
+   "v": "the Hills apparently made no effort to seek publicity",
+   "quote": "They were willing to discuss the alleged UFO encounter with friends and family, but the Hills apparently made no effort to seek publicity."
+  },
+  {
+   "s": "case",
+   "p": "sociological_analysis",
+   "v": "accounts of the incident tended to downplay the Hills' interracial relationship",
+   "quote": "Twentieth century academics such as Jodi Dean observed that accounts of the incident tended to downplay the Hills' interracial relationship, which had only recently become legal in 1961 and was still very unusual at that time."
+  },
+  {
+   "s": "barney",
+   "p": "witness",
+   "o": "case",
+   "quote": "Barney and Betty Hill were an American couple and civil rights activists who claimed they were abducted by extraterrestrials in a rural portion of the state of New Hampshire from September 19 to 20, 1961."
+  },
+  {
+   "s": "betty",
+   "p": "witness",
+   "o": "case",
+   "quote": "Barney and Betty Hill were an American couple and civil rights activists who claimed they were abducted by extraterrestrials in a rural portion of the state of New Hampshire from September 19 to 20, 1961."
+  },
+  {
+   "s": "barney",
+   "p": "relative_of",
+   "o": "betty",
+   "quote": "Barney and Betty Hill were an American couple and civil rights activists who claimed they were abducted by extraterrestrials in a rural portion of the state of New Hampshire from September 19 to 20, 1961."
+  },
+  {
+   "s": "barney",
+   "p": "birth_year",
+   "v": "1922",
+   "quote": "Barney (1922–1969) was a World War II veteran employed by the United States Postal Service, while Betty (née Eunice Barrett) (1919–2004) was a social worker."
+  },
+  {
+   "s": "barney",
+   "p": "death_year",
+   "v": "1969",
+   "quote": "Barney (1922–1969) was a World War II veteran employed by the United States Postal Service, while Betty (née Eunice Barrett) (1919–2004) was a social worker."
+  },
+  {
+   "s": "barney",
+   "p": "occupation",
+   "v": "World War II veteran employed by the United States Postal Service",
+   "quote": "Barney (1922–1969) was a World War II veteran employed by the United States Postal Service, while Betty (née Eunice Barrett) (1919–2004) was a social worker."
+  },
+  {
+   "s": "betty",
+   "p": "birth_year",
+   "v": "1919",
+   "quote": "Barney (1922–1969) was a World War II veteran employed by the United States Postal Service, while Betty (née Eunice Barrett) (1919–2004) was a social worker."
+  },
+  {
+   "s": "betty",
+   "p": "death_year",
+   "v": "2004",
+   "quote": "Barney (1922–1969) was a World War II veteran employed by the United States Postal Service, while Betty (née Eunice Barrett) (1919–2004) was a social worker."
+  },
+  {
+   "s": "betty",
+   "p": "birth_name",
+   "v": "Eunice Barrett",
+   "quote": "Barney (1922–1969) was a World War II veteran employed by the United States Postal Service, while Betty (née Eunice Barrett) (1919–2004) was a social worker."
+  },
+  {
+   "s": "betty",
+   "p": "occupation",
+   "v": "social worker",
+   "quote": "Barney (1922–1969) was a World War II veteran employed by the United States Postal Service, while Betty (née Eunice Barrett) (1919–2004) was a social worker."
+  },
+  {
+   "s": "barney",
+   "p": "activity",
+   "v": "civil rights activist",
+   "quote": "Barney and Betty Hill were an American couple and civil rights activists who claimed they were abducted by extraterrestrials in a rural portion of the state of New Hampshire from September 19 to 20, 1961."
+  },
+  {
+   "s": "betty",
+   "p": "activity",
+   "v": "civil rights activist",
+   "quote": "Barney and Betty Hill were an American couple and civil rights activists who claimed they were abducted by extraterrestrials in a rural portion of the state of New Hampshire from September 19 to 20, 1961."
+  },
+  {
+   "s": "barney",
+   "p": "religion",
+   "v": "active in the local Unitarian congregation",
+   "quote": "Active in the local Unitarian congregation, the Hills were also members of the NAACP and community leaders, and Barney sat on a local board of the United States Commission on Civil Rights."
+  },
+  {
+   "s": "betty",
+   "p": "religion",
+   "v": "active in the local Unitarian congregation",
+   "quote": "Active in the local Unitarian congregation, the Hills were also members of the NAACP and community leaders, and Barney sat on a local board of the United States Commission on Civil Rights."
+  },
+  {
+   "s": "barney",
+   "p": "race",
+   "v": "black",
+   "quote": "They were an interracial couple at a time when it was particularly uncommon in the United States; Barney was black and Betty was white."
+  },
+  {
+   "s": "betty",
+   "p": "race",
+   "v": "white",
+   "quote": "They were an interracial couple at a time when it was particularly uncommon in the United States; Barney was black and Betty was white."
+  },
+  {
+   "s": "barney",
+   "p": "death_date",
+   "v": "1969-02-25",
+   "quote": "Barney died of a cerebral hemorrhage on February 25, 1969, at age 46, after which Betty went on to become a celebrity in the UFO community."
+  },
+  {
+   "s": "barney",
+   "p": "cause_of_death",
+   "v": "cerebral hemorrhage",
+   "quote": "Barney died of a cerebral hemorrhage on February 25, 1969, at age 46, after which Betty went on to become a celebrity in the UFO community."
+  },
+  {
+   "s": "barney",
+   "p": "age_at_death",
+   "v": "46",
+   "quote": "Barney died of a cerebral hemorrhage on February 25, 1969, at age 46, after which Betty went on to become a celebrity in the UFO community."
+  },
+  {
+   "s": "betty",
+   "p": "death_date",
+   "v": "2004-10-17",
+   "quote": "Betty died of cancer on October 17, 2004, at age 85, having never remarried."
+  },
+  {
+   "s": "betty",
+   "p": "cause_of_death",
+   "v": "cancer",
+   "quote": "Betty died of cancer on October 17, 2004, at age 85, having never remarried."
+  },
+  {
+   "s": "betty",
+   "p": "age_at_death",
+   "v": "85",
+   "quote": "Betty died of cancer on October 17, 2004, at age 85, having never remarried."
+  },
+  {
+   "s": "betty",
+   "p": "later_life",
+   "v": "became a celebrity in the UFO community",
+   "quote": "Barney died of a cerebral hemorrhage on February 25, 1969, at age 46, after which Betty went on to become a celebrity in the UFO community."
+  },
+  {
+   "s": "betty",
+   "p": "statement",
+   "v": "observed a bright point of light that moved from below the Moon and Jupiter, upward to the west of the Moon",
+   "quote": "Just south of Lancaster, New Hampshire, Betty claimed to have observed a bright point of light in the sky that moved from below the Moon and the planet Jupiter, upward to the west of the Moon."
+  },
+  {
+   "s": "betty",
+   "p": "statement",
+   "v": "observed through binoculars an \"odd-shaped\" craft flashing multicolored lights",
+   "quote": "Betty, looking through binoculars, observed an \"odd-shaped\" craft flashing multicolored lights travelling across the face of the Moon."
+  },
+  {
+   "s": "betty",
+   "p": "background",
+   "v": "her sister had several years earlier said she had seen a flying saucer",
+   "quote": "Because her sister had several years earlier said she had seen a flying saucer, Betty thought that might be what she was observing."
+  },
+  {
+   "s": "betty",
+   "p": "statement",
+   "v": "object was at least one and a half times the length of the 40-foot granite cliff profile and seemed to be rotating",
+   "quote": "Betty testified that it was at least one and a half times the length of the granite cliff profile, which was 40 feet (12 m) long, and that it seemed to be rotating."
+  },
+  {
+   "s": "barney",
+   "p": "statement",
+   "v": "this object that was a plane was not a plane",
+   "quote": "This observation caused Barney to realize, \"this object that was a plane was not a plane.\""
+  },
+  {
+   "s": "barney",
+   "p": "carried",
+   "v": "pistol in his pocket",
+   "quote": "Carrying his pistol in his pocket, Barney stepped away from the vehicle and moved closer to the object."
+  },
+  {
+   "s": "barney",
+   "p": "statement",
+   "v": "saw eight to eleven humanoid figures peering out of the craft's windows",
+   "quote": "Using the binoculars, he claimed to have seen eight to eleven humanoid figures, who were peering out of the craft's windows, seemingly in his direction."
+  },
+  {
+   "s": "barney",
+   "p": "statement",
+   "v": "beings were somehow not human",
+   "quote": "On October 21, 1961, Barney reported to National Investigations Committee On Aerial Phenomena (NICAP) investigator Walter Webb that the \"beings were somehow not human\"."
+  },
+  {
+   "s": "barney",
+   "p": "statement",
+   "v": "had developed a \"mental block\"",
+   "quote": "Barney stated that he had developed a \"mental block\", and that he suspected there were some portions of the event that he did not wish to remember."
+  },
+  {
+   "s": "barney",
+   "p": "statement",
+   "v": "compelled to examine his genitals in the bathroom, though he found nothing unusual",
+   "quote": "He further said he was compelled to examine his genitals in the bathroom, though he found nothing unusual."
+  },
+  {
+   "s": "barney",
+   "p": "reaction",
+   "v": "fearing capture, ran back to the car terrified",
+   "quote": "Barney, fearing capture by these beings, ran back to the car terrified."
+  },
+  {
+   "s": "barney",
+   "p": "statement",
+   "v": "described Betty's dreams as \"the 'nonsense' about her dreams\"",
+   "quote": "Barney was apprehensive, but thought it might help Betty put to rest what Barney described as \"the 'nonsense' about her dreams.\""
+  },
+  {
+   "s": "barney",
+   "p": "statement_under_hypnosis",
+   "v": "binocular strap had broken when he ran from the UFO back to his car",
+   "quote": "Under hypnosis with Boston psychiatrist Benjamin Simon, Barney reported that the binocular strap had broken when he ran from the UFO back to his car, as was consistent with his conscious recall."
+  },
+  {
+   "s": "barney",
+   "p": "statement_under_hypnosis",
+   "v": "felt irresistibly compelled to pull off the road and drive into the woods",
+   "quote": "he felt irresistibly compelled to pull off the road and drive into the woods"
+  },
+  {
+   "s": "barney",
+   "p": "statement_under_hypnosis",
+   "v": "sighted six men standing on the dirt road; the car stalled and three of the men approached",
+   "quote": "He eventually sighted six men standing on the dirt road. The car stalled and three of the men approached the car."
+  },
+  {
+   "s": "barney",
+   "p": "statement_under_hypnosis",
+   "v": "the beings stared into his eyes with a terrifying, mesmerizing effect",
+   "quote": "He said they stared into his eyes with a terrifying, mesmerizing effect."
+  },
+  {
+   "s": "barney",
+   "p": "statement_under_hypnosis",
+   "v": "I saw two eyes coming close to mine, and I felt like the eyes had pushed into my eyes",
+   "quote": "\"I was told to close my eyes because I saw two eyes coming close to mine, and I felt like the eyes had pushed into my eyes\" (from his second hypnosis session)"
+  },
+  {
+   "s": "barney",
+   "p": "statement_under_hypnosis",
+   "v": "communication seemed to be \"thought transference\"",
+   "quote": "The few times they communicated with him, Barney said it seemed to be \"thought transference\" (at that time, he was unfamiliar with the word \"telepathy\")."
+  },
+  {
+   "s": "barney",
+   "p": "hypnosis_session_date",
+   "v": "1964-02-22",
+   "quote": "Barney first described and drew the wraparound eyes during the hypnosis session dated 22 February 1964."
+  },
+  {
+   "s": "barney",
+   "p": "television_appearance",
+   "v": "To Tell the Truth, episode airdate December 12, 1966",
+   "quote": "Barney Hill appeared in an episode of To Tell the Truth, episode airdate December 12, 1966."
+  },
+  {
+   "s": "barney",
+   "p": "concern",
+   "v": "mockery of his experiences would make his work for the NAACP and for the integration of his Unitarian church more difficult",
+   "quote": "As historian Matthew Bowman points out, Hill was concerned that mockery of his experiences would make his work for the NAACP and for the integration of his Unitarian church more difficult; in fact, he did experience such backlash."
+  },
+  {
+   "s": "betty",
+   "p": "statement",
+   "v": "insisted their luggage be kept near the back door rather than in the main part of the house",
+   "quote": "Arriving home around dawn, the Hills stated that they had some odd sensations and impulses they could not readily explain: Betty insisted their luggage be kept near the back door rather than in the main part of the house."
+  },
+  {
+   "s": "betty",
+   "p": "dreams",
+   "v": "series of vivid dreams beginning ten days after the encounter, continuing for five successive nights",
+   "quote": "Ten days after the alleged UFO encounter, Betty began having a series of vivid dreams, which continued for five successive nights."
+  },
+  {
+   "s": "betty",
+   "p": "dreams",
+   "v": "began writing down the details of her dreams in November 1961",
+   "quote": "In November 1961, Betty began writing down the details of her dreams."
+  },
+  {
+   "s": "betty",
+   "p": "dreams",
+   "v": "she and Barney encountered a roadblock and men who surrounded their car",
+   "quote": "In one dream, she and Barney encountered a roadblock and men who surrounded their car."
+  },
+  {
+   "s": "betty",
+   "p": "dreams",
+   "v": "forced by two small men to walk in a forest at night",
+   "quote": "Then she realized that she was being forced by two small men to walk in a forest at night, and of seeing Barney walking behind her, though when she called to him, he seemed to be in a trance or sleepwalking."
+  },
+  {
+   "s": "betty",
+   "p": "dreams",
+   "v": "the leader suggested that they wait to watch the craft's departure",
+   "quote": "She and Barney were taken to their car, where the leader suggested that they wait to watch the craft's departure."
+  },
+  {
+   "s": "betty",
+   "p": "statement_under_hypnosis",
+   "v": "account similar to her five dreams, with differences mainly pertaining to her capture and release",
+   "quote": "Under hypnosis, Betty's account was similar to her five dreams about the alleged UFO abduction, with some notable differences, mainly pertaining to her capture and release."
+  },
+  {
+   "s": "betty",
+   "p": "statement_under_hypnosis",
+   "v": "conversation with the \"leader\" in English",
+   "quote": "While Betty reported a conversation with the \"leader\" in English, Barney said that he heard them speaking in a mumbling language he did not understand."
+  },
+  {
+   "s": "betty",
+   "p": "statement",
+   "v": "insisted she had \"never heard of\" The Outer Limits",
+   "quote": "When a different researcher asked Betty about The Outer Limits, she insisted she had \"never heard of it\"."
+  },
+  {
+   "s": "betty",
+   "p": "later_claim",
+   "v": "presented far more than 200 slides of UFO photos she had taken at the 1980 National UFO Conference",
+   "quote": "She showed what must have been far more than 200 slides, mostly of blips, blurs, and blobs against a dark background."
+  },
+  {
+   "s": "betty",
+   "p": "later_claim",
+   "v": "went on UFO vigils at least three times a week as late as 1977",
+   "quote": "Sheaffer later wrote that as late as 1977, Betty Hill would go on UFO vigils at least three times a week."
+  },
+  {
+   "s": "betty",
+   "p": "statement",
+   "v": "UFOs are a new science ... and our science cannot explain them.",
+   "quote": "Betty Hill wrote, \"UFOs are a new science ... and our science cannot explain them.\""
+  },
+  {
+   "s": "betty",
+   "p": "marital_status",
+   "v": "never remarried",
+   "quote": "Betty died of cancer on October 17, 2004, at age 85, having never remarried."
+  },
+  {
+   "s": "angela",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Barney and Betty Hill are paternal grandparents of current UFC strawweight Angela Hill."
+  },
+  {
+   "s": "angela",
+   "p": "relative_of",
+   "o": "barney",
+   "quote": "Barney and Betty Hill are paternal grandparents of current UFC strawweight Angela Hill."
+  },
+  {
+   "s": "angela",
+   "p": "relative_of",
+   "o": "betty",
+   "quote": "Barney and Betty Hill are paternal grandparents of current UFC strawweight Angela Hill."
+  },
+  {
+   "s": "angela",
+   "p": "occupation",
+   "v": "UFC strawweight",
+   "quote": "Barney and Betty Hill are paternal grandparents of current UFC strawweight Angela Hill."
+  },
+  {
+   "s": "angela",
+   "p": "relationship",
+   "v": "paternal granddaughter of Barney and Betty Hill",
+   "quote": "Barney and Betty Hill are paternal grandparents of current UFC strawweight Angela Hill."
+  },
+  {
+   "s": "angela",
+   "p": "member_of",
+   "o": "ufc",
+   "quote": "Barney and Betty Hill are paternal grandparents of current UFC strawweight Angela Hill."
+  },
+  {
+   "s": "craft",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Betty, looking through binoculars, observed an \"odd-shaped\" craft flashing multicolored lights travelling across the face of the Moon."
+  },
+  {
+   "s": "betty",
+   "p": "described",
+   "o": "craft",
+   "quote": "Betty, looking through binoculars, observed an \"odd-shaped\" craft flashing multicolored lights travelling across the face of the Moon."
+  },
+  {
+   "s": "barney",
+   "p": "described",
+   "o": "craft",
+   "quote": "Using the binoculars, he claimed to have seen eight to eleven humanoid figures, who were peering out of the craft's windows, seemingly in his direction."
+  },
+  {
+   "s": "craft",
+   "p": "initial_appearance",
+   "v": "bright point of light in the sky",
+   "quote": "Just south of Lancaster, New Hampshire, Betty claimed to have observed a bright point of light in the sky that moved from below the Moon and the planet Jupiter, upward to the west of the Moon."
+  },
+  {
+   "s": "craft",
+   "p": "shape",
+   "v": "odd-shaped",
+   "quote": "Betty, looking through binoculars, observed an \"odd-shaped\" craft flashing multicolored lights travelling across the face of the Moon."
+  },
+  {
+   "s": "craft",
+   "p": "lights",
+   "v": "flashing multicolored lights",
+   "quote": "Betty, looking through binoculars, observed an \"odd-shaped\" craft flashing multicolored lights travelling across the face of the Moon."
+  },
+  {
+   "s": "craft",
+   "p": "shape",
+   "v": "like a huge pancake",
+   "quote": "It reminded Barney of a huge pancake."
+  },
+  {
+   "s": "craft",
+   "p": "size",
+   "v": "at least one and a half times the length of the 40 feet (12 m) granite cliff profile",
+   "quote": "Betty testified that it was at least one and a half times the length of the granite cliff profile, which was 40 feet (12 m) long, and that it seemed to be rotating."
+  },
+  {
+   "s": "craft",
+   "p": "size",
+   "v": "huge; filled the entire field of view in the windshield",
+   "quote": "The huge, silent craft hovered about 80 to 100 feet (24 to 30 m) above the Hills' 1957 Chevrolet Bel Air and filled the entire field of view in the windshield."
+  },
+  {
+   "s": "craft",
+   "p": "motion",
+   "v": "seemed to be rotating",
+   "quote": "Betty testified that it was at least one and a half times the length of the granite cliff profile, which was 40 feet (12 m) long, and that it seemed to be rotating."
+  },
+  {
+   "s": "craft",
+   "p": "motion",
+   "v": "moved erratically and bounced back and forth in the night sky",
+   "quote": "The couple watched as the silent, illuminated craft moved erratically and bounced back and forth in the night sky."
+  },
+  {
+   "s": "craft",
+   "p": "motion",
+   "v": "moved erratically and grew bigger and brighter",
+   "quote": "Because it moved erratically and grew bigger and brighter, Betty urged Barney to stop the car for a closer look, as well as to walk their dog, Delsey."
+  },
+  {
+   "s": "craft",
+   "p": "motion",
+   "v": "rapidly descended",
+   "quote": "However, he soon changed his mind, because without looking as if it had turned, the craft rapidly descended in his direction."
+  },
+  {
+   "s": "craft",
+   "p": "sound",
+   "v": "silent",
+   "quote": "The couple watched as the silent, illuminated craft moved erratically and bounced back and forth in the night sky."
+  },
+  {
+   "s": "craft",
+   "p": "altitude",
+   "v": "hovered about 80 to 100 feet (24 to 30 m) above the car",
+   "quote": "The huge, silent craft hovered about 80 to 100 feet (24 to 30 m) above the Hills' 1957 Chevrolet Bel Air and filled the entire field of view in the windshield."
+  },
+  {
+   "s": "craft",
+   "p": "distance",
+   "v": "within 50 to 80 feet (15 to 24 m) overhead and 300 feet (91 m) away from Barney",
+   "quote": "The silent craft approached to what Barney estimated was within 50 to 80 feet (15 to 24 m) overhead and 300 feet (91 m) away from him."
+  },
+  {
+   "s": "craft",
+   "p": "windows",
+   "v": "humanoid figures peering out of the craft's windows",
+   "quote": "Using the binoculars, he claimed to have seen eight to eleven humanoid figures, who were peering out of the craft's windows, seemingly in his direction."
+  },
+  {
+   "s": "craft",
+   "p": "interior",
+   "v": "a panel on the rear wall of the hallway that encircled the front portion of the craft",
+   "quote": "In unison, all but one figure moved to what appeared to be a panel on the rear wall of the hallway that encircled the front portion of the craft."
+  },
+  {
+   "s": "craft",
+   "p": "color",
+   "v": "red lights on what appeared to be bat-wing fins that telescoped out of the sides",
+   "quote": "Red lights on what appeared to be bat-wing fins began to telescope out of the sides of the craft, and a long structure descended from the bottom of the craft."
+  },
+  {
+   "s": "craft",
+   "p": "structure",
+   "v": "a long structure descended from the bottom of the craft",
+   "quote": "Red lights on what appeared to be bat-wing fins began to telescope out of the sides of the craft, and a long structure descended from the bottom of the craft."
+  },
+  {
+   "s": "craft",
+   "p": "occupants",
+   "v": "eight to eleven humanoid figures",
+   "quote": "Using the binoculars, he claimed to have seen eight to eleven humanoid figures, who were peering out of the craft's windows, seemingly in his direction."
+  },
+  {
+   "s": "craft",
+   "p": "path",
+   "v": "passed above a restaurant and signal tower on top of Cannon Mountain and came out near the Old Man of the Mountain",
+   "quote": "At one point, the object passed above a restaurant and signal tower on top of Cannon Mountain and came out near the Old Man of the Mountain."
+  },
+  {
+   "s": "car",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "The huge, silent craft hovered about 80 to 100 feet (24 to 30 m) above the Hills' 1957 Chevrolet Bel Air and filled the entire field of view in the windshield."
+  },
+  {
+   "s": "barney",
+   "p": "owned",
+   "o": "car",
+   "quote": "The huge, silent craft hovered about 80 to 100 feet (24 to 30 m) above the Hills' 1957 Chevrolet Bel Air and filled the entire field of view in the windshield."
+  },
+  {
+   "s": "betty",
+   "p": "owned",
+   "o": "car",
+   "quote": "The huge, silent craft hovered about 80 to 100 feet (24 to 30 m) above the Hills' 1957 Chevrolet Bel Air and filled the entire field of view in the windshield."
+  },
+  {
+   "s": "car",
+   "p": "model_year",
+   "v": "1957",
+   "quote": "The huge, silent craft hovered about 80 to 100 feet (24 to 30 m) above the Hills' 1957 Chevrolet Bel Air and filled the entire field of view in the windshield."
+  },
+  {
+   "s": "car",
+   "p": "markings_afterwards",
+   "v": "shiny, concentric circles on the trunk that had not been there the previous day",
+   "quote": "There were shiny, concentric circles on their car's trunk that had not been there the previous day."
+  },
+  {
+   "s": "car",
+   "p": "driver",
+   "v": "Barney Hill",
+   "quote": "While Barney navigated U.S. Route 3, Betty reasoned that she was observing a falling star, only it moved upward."
+  },
+  {
+   "s": "nh",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Barney and Betty Hill were an American couple and civil rights activists who claimed they were abducted by extraterrestrials in a rural portion of the state of New Hampshire from September 19 to 20, 1961."
+  },
+  {
+   "s": "portsmouth",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Hills lived in Portsmouth, New Hampshire."
+  },
+  {
+   "s": "portsmouth",
+   "p": "located_in",
+   "o": "nh",
+   "quote": "The Hills lived in Portsmouth, New Hampshire."
+  },
+  {
+   "s": "portsmouth",
+   "p": "role",
+   "v": "the Hills' home and destination of the drive",
+   "quote": "The Hills were driving back to Portsmouth from a vacation in Niagara Falls and Montreal."
+  },
+  {
+   "s": "niagara",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Hills were driving back to Portsmouth from a vacation in Niagara Falls and Montreal."
+  },
+  {
+   "s": "montreal",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Hills were driving back to Portsmouth from a vacation in Niagara Falls and Montreal."
+  },
+  {
+   "s": "lancaster",
+   "p": "near",
+   "o": "case",
+   "quote": "Just south of Lancaster, New Hampshire, Betty claimed to have observed a bright point of light in the sky that moved from below the Moon and the planet Jupiter, upward to the west of the Moon."
+  },
+  {
+   "s": "lancaster",
+   "p": "located_in",
+   "o": "nh",
+   "quote": "Just south of Lancaster, New Hampshire, Betty claimed to have observed a bright point of light in the sky that moved from below the Moon and the planet Jupiter, upward to the west of the Moon."
+  },
+  {
+   "s": "lancaster",
+   "p": "role",
+   "v": "first sighting of the light, just south of the town",
+   "quote": "Just south of Lancaster, New Hampshire, Betty claimed to have observed a bright point of light in the sky that moved from below the Moon and the planet Jupiter, upward to the west of the Moon."
+  },
+  {
+   "s": "route3",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "While Barney navigated U.S. Route 3, Betty reasoned that she was observing a falling star, only it moved upward."
+  },
+  {
+   "s": "route3",
+   "p": "detail",
+   "v": "the Hills claimed to recall almost nothing of 35 miles of it between Lincoln/Indian Head and Ashland",
+   "quote": "The Hills claimed to recall almost nothing of the 35 miles of U.S. Route 3 between Lincoln/Indian Head and Ashland."
+  },
+  {
+   "s": "twin",
+   "p": "near",
+   "o": "case",
+   "quote": "Barney stopped at a scenic picnic area just south of Twin Mountain."
+  },
+  {
+   "s": "twin",
+   "p": "role",
+   "v": "Barney stopped at a scenic picnic area just south of it",
+   "quote": "Barney stopped at a scenic picnic area just south of Twin Mountain."
+  },
+  {
+   "s": "vermont",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Through binoculars, Barney observed what he reasoned was a commercial airliner traveling toward Vermont on its way to Montreal."
+  },
+  {
+   "s": "franconia",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Hills said they continued driving on the quiet and isolated road, moving very slowly through Franconia Notch in order to observe the object as it came even closer."
+  },
+  {
+   "s": "cannon",
+   "p": "near",
+   "o": "case",
+   "quote": "At one point, the object passed above a restaurant and signal tower on top of Cannon Mountain and came out near the Old Man of the Mountain."
+  },
+  {
+   "s": "cannon",
+   "p": "detail",
+   "v": "restaurant and signal tower on top",
+   "quote": "At one point, the object passed above a restaurant and signal tower on top of Cannon Mountain and came out near the Old Man of the Mountain."
+  },
+  {
+   "s": "cannon",
+   "p": "detail",
+   "v": "aircraft warning beacon",
+   "quote": "Jim Macdonald, a resident of the area in which the Hills claimed to have been abducted, has produced a detailed analysis of their journey which concludes that the episode was provoked by their misperceiving an aircraft warning beacon on Cannon Mountain as a UFO."
+  },
+  {
+   "s": "oldman",
+   "p": "near",
+   "o": "case",
+   "quote": "At one point, the object passed above a restaurant and signal tower on top of Cannon Mountain and came out near the Old Man of the Mountain."
+  },
+  {
+   "s": "oldman",
+   "p": "size",
+   "v": "40 feet (12 m) long",
+   "quote": "Betty testified that it was at least one and a half times the length of the granite cliff profile, which was 40 feet (12 m) long, and that it seemed to be rotating."
+  },
+  {
+   "s": "indianhead",
+   "p": "near",
+   "o": "case",
+   "quote": "About one mile (1.6 km) south of Indian Head, they stated that the object rapidly descended toward their vehicle, causing Barney to stop in the middle of the highway."
+  },
+  {
+   "s": "indianhead",
+   "p": "role",
+   "v": "object descended toward the car about one mile (1.6 km) south of it",
+   "quote": "About one mile (1.6 km) south of Indian Head, they stated that the object rapidly descended toward their vehicle, causing Barney to stop in the middle of the highway."
+  },
+  {
+   "s": "lincoln",
+   "p": "near",
+   "o": "case",
+   "quote": "The Hills claimed to recall almost nothing of the 35 miles of U.S. Route 3 between Lincoln/Indian Head and Ashland."
+  },
+  {
+   "s": "ashland",
+   "p": "near",
+   "o": "case",
+   "quote": "The Hills claimed to recall almost nothing of the 35 miles of U.S. Route 3 between Lincoln/Indian Head and Ashland."
+  },
+  {
+   "s": "concord",
+   "p": "related_place",
+   "o": "case",
+   "quote": "When they awoke, they realized they were now just outside of Concord."
+  },
+  {
+   "s": "concord",
+   "p": "role",
+   "v": "the Hills awoke from their daze just outside of it",
+   "quote": "When they awoke, they realized they were now just outside of Concord."
+  },
+  {
+   "s": "colebrook",
+   "p": "related_place",
+   "o": "case",
+   "quote": "they did not realize that the length of the trip following their departure from Colebrook had stretched to a full seven hours, three hours more than the expected duration of a 178-mile (286 km) drive"
+  },
+  {
+   "s": "newton",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Hills first called a close friend named Buz Sawyer, police chief of Newton, who advised them to call Pease AFB."
+  },
+  {
+   "s": "pease",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Hills first called a close friend named Buz Sawyer, police chief of Newton, who advised them to call Pease AFB."
+  },
+  {
+   "s": "boston",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Walter N. Webb, a Boston astronomer and NICAP member, met with the Hills on October 21, 1961."
+  },
+  {
+   "s": "quincy",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Reporter John H. Luttrell of the Traveler had allegedly been given an audio tape recording of a lecture the Hills had made in Quincy Center in late 1963."
+  },
+  {
+   "s": "quincy",
+   "p": "role",
+   "v": "the Hills gave a lecture there in late 1963",
+   "quote": "Reporter John H. Luttrell of the Traveler had allegedly been given an audio tape recording of a lecture the Hills had made in Quincy Center in late 1963."
+  },
+  {
+   "s": "oakharbor",
+   "p": "related_place",
+   "o": "case",
+   "quote": "In 1968, Marjorie Fish of Oak Harbor, Ohio, read Fuller's book, Interrupted Journey."
+  },
+  {
+   "s": "zeta",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The incident came to be called the \"Hill Abduction\" and the \"Zeta Reticuli Incident\" because two ufologists connected the star map allegedly shown to Betty Hill with the Zeta Reticuli system."
+  },
+  {
+   "s": "zeta",
+   "p": "distance",
+   "v": "about 39 light-years from Earth",
+   "quote": "Studying thousands of vantage points over several years, the only one that seemed to match the Hill map was from the viewpoint of the double star system of Zeta Reticuli (about 39 light-years from Earth)."
+  },
+  {
+   "s": "zeta",
+   "p": "type",
+   "v": "double star system",
+   "quote": "Studying thousands of vantage points over several years, the only one that seemed to match the Hill map was from the viewpoint of the double star system of Zeta Reticuli (about 39 light-years from Earth)."
+  },
+  {
+   "s": "nyc",
+   "p": "related_place",
+   "o": "case",
+   "quote": "I was present at the National UFO Conference in New York City in 1980, at which Betty presented some of the UFO photos she had taken."
+  },
+  {
+   "s": "whitemtn",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Webb, Walter. \"A Dramatic UFO Encounter in the White Mountains, NH.\" Confidential report to NICAP. August 30, 1965."
+  },
+  {
+   "s": "unh",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Most of Betty Hill's notes, tapes, and other items have been placed in the permanent collection at the University of New Hampshire, her alma mater."
+  },
+  {
+   "s": "betty",
+   "p": "alumna_of",
+   "o": "unh",
+   "quote": "Most of Betty Hill's notes, tapes, and other items have been placed in the permanent collection at the University of New Hampshire, her alma mater."
+  },
+  {
+   "s": "unh",
+   "p": "role",
+   "v": "permanent collection holds most of Betty Hill's notes, tapes, and other items; her alma mater",
+   "quote": "Most of Betty Hill's notes, tapes, and other items have been placed in the permanent collection at the University of New Hampshire, her alma mater."
+  },
+  {
+   "s": "nhdhr",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In July 2011, the New Hampshire Division of Historical Resources marked the site of the alleged craft's first approach with a historical marker."
+  },
+  {
+   "s": "nhdhr",
+   "p": "action",
+   "v": "marked the site of the alleged craft's first approach with a historical marker in July 2011",
+   "quote": "In July 2011, the New Hampshire Division of Historical Resources marked the site of the alleged craft's first approach with a historical marker."
+  },
+  {
+   "s": "nbc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Their story was adapted into the best-selling 1966 book The Interrupted Journey and NBC's 1975 television film The UFO Incident."
+  },
+  {
+   "s": "barney",
+   "p": "employed_by",
+   "o": "usps",
+   "quote": "Barney (1922–1969) was a World War II veteran employed by the United States Postal Service, while Betty (née Eunice Barrett) (1919–2004) was a social worker."
+  },
+  {
+   "s": "barney",
+   "p": "member_of",
+   "o": "naacp",
+   "quote": "Active in the local Unitarian congregation, the Hills were also members of the NAACP and community leaders, and Barney sat on a local board of the United States Commission on Civil Rights."
+  },
+  {
+   "s": "betty",
+   "p": "member_of",
+   "o": "naacp",
+   "quote": "Active in the local Unitarian congregation, the Hills were also members of the NAACP and community leaders, and Barney sat on a local board of the United States Commission on Civil Rights."
+  },
+  {
+   "s": "barney",
+   "p": "member_of",
+   "o": "usccr",
+   "quote": "Active in the local Unitarian congregation, the Hills were also members of the NAACP and community leaders, and Barney sat on a local board of the United States Commission on Civil Rights."
+  },
+  {
+   "s": "barney",
+   "p": "position",
+   "v": "sat on a local board of the United States Commission on Civil Rights",
+   "quote": "Active in the local Unitarian congregation, the Hills were also members of the NAACP and community leaders, and Barney sat on a local board of the United States Commission on Civil Rights."
+  },
+  {
+   "s": "nicap",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "On October 21, 1961, Barney reported to National Investigations Committee On Aerial Phenomena (NICAP) investigator Walter Webb that the \"beings were somehow not human\"."
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Initial report to the U.S. Air Force and NICAP"
+  },
+  {
+   "s": "pease",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "The Hills first called a close friend named Buz Sawyer, police chief of Newton, who advised them to call Pease AFB."
+  },
+  {
+   "s": "traveler",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On October 25, 1965, a front page story in the Boston Traveler asked \"UFO Chiller: Did THEY Seize Couple?\""
+  },
+  {
+   "s": "upi",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On October 26, United Press International (UPI) picked up Luttrell's story, and the Hills' story was given international exposure."
+  },
+  {
+   "s": "psychop",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "When the series of hypnosis sessions were complete, Simon wrote an article about the Hills for the journal Psychiatric Opinion, explaining his conclusion that the case was a singular psychological aberration."
+  },
+  {
+   "s": "astronomy",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Dickinson did not endorse Fish and Webb's conclusions, but for the first time in the journal's history, Astronomy invited comments and debate on a UFO report, starting with an opening article in the December 1974 issue."
+  },
+  {
+   "s": "astronomy",
+   "p": "action",
+   "v": "invited comments and debate on a UFO report for the first time, starting with the December 1974 issue",
+   "quote": "Dickinson did not endorse Fish and Webb's conclusions, but for the first time in the journal's history, Astronomy invited comments and debate on a UFO report, starting with an opening article in the December 1974 issue."
+  },
+  {
+   "s": "astronomy",
+   "p": "action",
+   "v": "opinions page carried arguments for and against Fish's star map for about a year",
+   "quote": "For about a year afterward, the opinions page of Astronomy carried arguments for and against Fish's star map."
+  },
+  {
+   "s": "look",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The 1966 publication of Interrupted Journey, by John G. Fuller, details much of the Hills' claims. Excerpts of the book were published in Look magazine."
+  },
+  {
+   "s": "si",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In the Skeptical Inquirer, Sheaffer also wrote:"
+  },
+  {
+   "s": "nufoc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "I was present at the National UFO Conference in New York City in 1980, at which Betty presented some of the UFO photos she had taken."
+  },
+  {
+   "s": "nufoc",
+   "p": "located_in",
+   "o": "nyc",
+   "quote": "I was present at the National UFO Conference in New York City in 1980, at which Betty presented some of the UFO photos she had taken."
+  },
+  {
+   "s": "nufoc",
+   "p": "year",
+   "v": "1980",
+   "quote": "I was present at the National UFO Conference in New York City in 1980, at which Betty presented some of the UFO photos she had taken."
+  },
+  {
+   "s": "starmap",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The book included a copy of Betty's sketch of the \"star map\"."
+  },
+  {
+   "s": "betty",
+   "p": "authored",
+   "o": "starmap",
+   "quote": "The book included a copy of Betty's sketch of the \"star map\"."
+  },
+  {
+   "s": "starmap",
+   "p": "star_count",
+   "v": "fifteen stars",
+   "quote": "Assuming that one of the fifteen stars on the map must represent Earth's Sun, Fish constructed a three-dimensional model of nearby Sun-like stars"
+  },
+  {
+   "s": "starmap",
+   "p": "interpretation",
+   "v": "matched the viewpoint of the double star system Zeta Reticuli",
+   "quote": "Studying thousands of vantage points over several years, the only one that seemed to match the Hill map was from the viewpoint of the double star system of Zeta Reticuli (about 39 light-years from Earth)."
+  },
+  {
+   "s": "hipparcos",
+   "p": "disputed",
+   "o": "starmap",
+   "quote": "indicated that some of the stars in Fish's interpretation of the map were much further away than previously thought"
+  },
+  {
+   "s": "hipparcos",
+   "p": "date",
+   "v": "early 1990s",
+   "quote": "In the early 1990s, the European Hipparcos (\"high precision parallax collecting satellite\") mission, which analyzed the distances to more than a hundred thousand stars"
+  },
+  {
+   "s": "hipparcos",
+   "p": "scope",
+   "v": "analyzed the distances to more than a hundred thousand stars",
+   "quote": "In the early 1990s, the European Hipparcos (\"high precision parallax collecting satellite\") mission, which analyzed the distances to more than a hundred thousand stars"
+  },
+  {
+   "s": "papers",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Most of Betty Hill's notes, tapes, and other items have been placed in the permanent collection at the University of New Hampshire, her alma mater."
+  },
+  {
+   "s": "betty",
+   "p": "authored",
+   "o": "papers",
+   "quote": "Most of Betty Hill's notes, tapes, and other items have been placed in the permanent collection at the University of New Hampshire, her alma mater."
+  },
+  {
+   "s": "webbreport",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Webb, Walter. \"A Dramatic UFO Encounter in the White Mountains, NH.\" Confidential report to NICAP. August 30, 1965."
+  },
+  {
+   "s": "webbreport",
+   "p": "date",
+   "v": "1965-08-30",
+   "quote": "Webb, Walter. \"A Dramatic UFO Encounter in the White Mountains, NH.\" Confidential report to NICAP. August 30, 1965."
+  },
+  {
+   "s": "webbreport",
+   "p": "classification",
+   "v": "confidential report to NICAP",
+   "quote": "Webb, Walter. \"A Dramatic UFO Encounter in the White Mountains, NH.\" Confidential report to NICAP. August 30, 1965."
+  },
+  {
+   "s": "webbinitial",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Having read Webb's initial report, Jackson and Hohmann had many questions for the Hills."
+  },
+  {
+   "s": "tape",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Reporter John H. Luttrell of the Traveler had allegedly been given an audio tape recording of a lecture the Hills had made in Quincy Center in late 1963."
+  },
+  {
+   "s": "tape",
+   "p": "date",
+   "v": "late 1963",
+   "quote": "Reporter John H. Luttrell of the Traveler had allegedly been given an audio tape recording of a lecture the Hills had made in Quincy Center in late 1963."
+  },
+  {
+   "s": "sheafferdocs",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Robert Sheaffer released 48 pages of archived documents relating to Betty and Barney Hill, Benjamin Simon, and Philip J. Klass on the Internet on December 23, 2015."
+  },
+  {
+   "s": "sheafferdocs",
+   "p": "page_count",
+   "v": "48",
+   "quote": "Robert Sheaffer released 48 pages of archived documents relating to Betty and Barney Hill, Benjamin Simon, and Philip J. Klass on the Internet on December 23, 2015."
+  },
+  {
+   "s": "sheafferdocs",
+   "p": "release_date",
+   "v": "2015-12-23",
+   "quote": "Robert Sheaffer released 48 pages of archived documents relating to Betty and Barney Hill, Benjamin Simon, and Philip J. Klass on the Internet on December 23, 2015."
+  },
+  {
+   "s": "bakersketch",
+   "p": "key_document",
+   "o": "case",
+   "quote": "A person familiar with Barney's sketch in The Interrupted Journey and the sketch done in collaboration with the artist David Baker"
+  },
+  {
+   "s": "gliese",
+   "p": "year",
+   "v": "1969",
+   "quote": "using thread and beads, basing stellar distances on those published in the 1969 Gliese Star Catalogue"
+  },
+  {
+   "s": "webb",
+   "p": "investigator",
+   "o": "case",
+   "quote": "On October 21, 1961, Barney reported to National Investigations Committee On Aerial Phenomena (NICAP) investigator Walter Webb that the \"beings were somehow not human\"."
+  },
+  {
+   "s": "webb",
+   "p": "member_of",
+   "o": "nicap",
+   "quote": "Walter N. Webb, a Boston astronomer and NICAP member, met with the Hills on October 21, 1961."
+  },
+  {
+   "s": "webb",
+   "p": "interviewed",
+   "o": "barney",
+   "quote": "Walter N. Webb, a Boston astronomer and NICAP member, met with the Hills on October 21, 1961."
+  },
+  {
+   "s": "webb",
+   "p": "interviewed",
+   "o": "betty",
+   "quote": "Walter N. Webb, a Boston astronomer and NICAP member, met with the Hills on October 21, 1961."
+  },
+  {
+   "s": "webb",
+   "p": "authored",
+   "o": "webbreport",
+   "quote": "Webb, Walter. \"A Dramatic UFO Encounter in the White Mountains, NH.\" Confidential report to NICAP. August 30, 1965."
+  },
+  {
+   "s": "webb",
+   "p": "authored",
+   "o": "webbinitial",
+   "quote": "Having read Webb's initial report, Jackson and Hohmann had many questions for the Hills."
+  },
+  {
+   "s": "webb",
+   "p": "occupation",
+   "v": "astronomer",
+   "quote": "Walter N. Webb, a Boston astronomer and NICAP member, met with the Hills on October 21, 1961."
+  },
+  {
+   "s": "webb",
+   "p": "interview_date",
+   "v": "1961-10-21",
+   "quote": "Walter N. Webb, a Boston astronomer and NICAP member, met with the Hills on October 21, 1961."
+  },
+  {
+   "s": "webb",
+   "p": "interview_length",
+   "v": "six hours",
+   "quote": "In a six-hour interview, the Hills related all they could remember about the UFO encounter."
+  },
+  {
+   "s": "webb",
+   "p": "statement",
+   "v": "they were telling the truth and the incident probably occurred exactly as reported except for some minor uncertainties and technicalities",
+   "quote": "Webb asserted his conclusion that \"they were telling the truth and the incident probably occurred exactly as reported except for some minor uncertainties and technicalities that must be tolerated in any such observations where human judgment is involved"
+  },
+  {
+   "s": "webb",
+   "p": "action",
+   "v": "agreed with Fish's conclusions and sent the map to Terence Dickinson",
+   "quote": "Fish sent her analysis to Webb. Agreeing with her conclusions, Webb sent the map to Terence Dickinson, editor of the magazine Astronomy."
+  },
+  {
+   "s": "sawyer",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "The Hills first called a close friend named Buz Sawyer, police chief of Newton, who advised them to call Pease AFB."
+  },
+  {
+   "s": "sawyer",
+   "p": "occupation",
+   "v": "police chief of Newton",
+   "quote": "The Hills first called a close friend named Buz Sawyer, police chief of Newton, who advised them to call Pease AFB."
+  },
+  {
+   "s": "sawyer",
+   "p": "action",
+   "v": "advised the Hills to call Pease AFB",
+   "quote": "The Hills first called a close friend named Buz Sawyer, police chief of Newton, who advised them to call Pease AFB."
+  },
+  {
+   "s": "sawyer",
+   "p": "located_in",
+   "o": "newton",
+   "quote": "The Hills first called a close friend named Buz Sawyer, police chief of Newton, who advised them to call Pease AFB."
+  },
+  {
+   "s": "jackson",
+   "p": "investigator",
+   "o": "case",
+   "quote": "On November 25, 1961, the Hills were again interviewed at length by NICAP members, this time C. D. Jackson and Robert E. Hohmann."
+  },
+  {
+   "s": "jackson",
+   "p": "member_of",
+   "o": "nicap",
+   "quote": "On November 25, 1961, the Hills were again interviewed at length by NICAP members, this time C. D. Jackson and Robert E. Hohmann."
+  },
+  {
+   "s": "jackson",
+   "p": "interviewed",
+   "o": "barney",
+   "quote": "On November 25, 1961, the Hills were again interviewed at length by NICAP members, this time C. D. Jackson and Robert E. Hohmann."
+  },
+  {
+   "s": "jackson",
+   "p": "interviewed",
+   "o": "betty",
+   "quote": "On November 25, 1961, the Hills were again interviewed at length by NICAP members, this time C. D. Jackson and Robert E. Hohmann."
+  },
+  {
+   "s": "jackson",
+   "p": "interview_date",
+   "v": "1961-11-25",
+   "quote": "On November 25, 1961, the Hills were again interviewed at length by NICAP members, this time C. D. Jackson and Robert E. Hohmann."
+  },
+  {
+   "s": "hohmann",
+   "p": "investigator",
+   "o": "case",
+   "quote": "On November 25, 1961, the Hills were again interviewed at length by NICAP members, this time C. D. Jackson and Robert E. Hohmann."
+  },
+  {
+   "s": "hohmann",
+   "p": "member_of",
+   "o": "nicap",
+   "quote": "On November 25, 1961, the Hills were again interviewed at length by NICAP members, this time C. D. Jackson and Robert E. Hohmann."
+  },
+  {
+   "s": "hohmann",
+   "p": "interviewed",
+   "o": "barney",
+   "quote": "On November 25, 1961, the Hills were again interviewed at length by NICAP members, this time C. D. Jackson and Robert E. Hohmann."
+  },
+  {
+   "s": "hohmann",
+   "p": "interviewed",
+   "o": "betty",
+   "quote": "On November 25, 1961, the Hills were again interviewed at length by NICAP members, this time C. D. Jackson and Robert E. Hohmann."
+  },
+  {
+   "s": "hohmann",
+   "p": "colleague_of",
+   "o": "jackson",
+   "quote": "On November 25, 1961, the Hills were again interviewed at length by NICAP members, this time C. D. Jackson and Robert E. Hohmann."
+  },
+  {
+   "s": "hohmann",
+   "p": "interview_date",
+   "v": "1961-11-25",
+   "quote": "On November 25, 1961, the Hills were again interviewed at length by NICAP members, this time C. D. Jackson and Robert E. Hohmann."
+  },
+  {
+   "s": "hohmann",
+   "p": "statement",
+   "v": "informed the Hills that the moon had set earlier in the evening",
+   "quote": "Betty and Barney reasoned that it must have been the moon, but Hohmann and Jackson informed them that the moon had set earlier in the evening."
+  },
+  {
+   "s": "jackson",
+   "p": "statement",
+   "v": "noted the discrepancy in elapsed time to the Hills",
+   "quote": "When Hohman and Jackson noted this discrepancy to the Hills, the couple had no explanation (a phenomenon ufologists call \"missing time\")."
+  },
+  {
+   "s": "swett",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "On November 23, 1962, the Hills attended a meeting at the parsonage of their church, where Captain Ben H. Swett of the United States Air Force was a guest speaker."
+  },
+  {
+   "s": "swett",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "On November 23, 1962, the Hills attended a meeting at the parsonage of their church, where Captain Ben H. Swett of the United States Air Force was a guest speaker."
+  },
+  {
+   "s": "swett",
+   "p": "rank",
+   "v": "Captain",
+   "quote": "On November 23, 1962, the Hills attended a meeting at the parsonage of their church, where Captain Ben H. Swett of the United States Air Force was a guest speaker."
+  },
+  {
+   "s": "swett",
+   "p": "meeting_date",
+   "v": "1962-11-23",
+   "quote": "On November 23, 1962, the Hills attended a meeting at the parsonage of their church, where Captain Ben H. Swett of the United States Air Force was a guest speaker."
+  },
+  {
+   "s": "swett",
+   "p": "interest",
+   "v": "particularly interested in the \"missing time\"",
+   "quote": "Swett was particularly interested in the \"missing time\" of the Hills' account."
+  },
+  {
+   "s": "swett",
+   "p": "action",
+   "v": "declined to hypnotize the Hills and cautioned them against going to an amateur hypnotist",
+   "quote": "The Hills asked if he would hypnotize them to recover their memories, but Swett declined and cautioned them against going to an amateur hypnotist, such as himself."
+  },
+  {
+   "s": "simon",
+   "p": "hypnotist",
+   "o": "case",
+   "quote": "Under hypnosis with Boston psychiatrist Benjamin Simon, Barney reported that the binocular strap had broken when he ran from the UFO back to his car, as was consistent with his conscious recall."
+  },
+  {
+   "s": "simon",
+   "p": "located_in",
+   "o": "boston",
+   "quote": "Under hypnosis with Boston psychiatrist Benjamin Simon, Barney reported that the binocular strap had broken when he ran from the UFO back to his car, as was consistent with his conscious recall."
+  },
+  {
+   "s": "simon",
+   "p": "wrote_for",
+   "o": "psychop",
+   "quote": "When the series of hypnosis sessions were complete, Simon wrote an article about the Hills for the journal Psychiatric Opinion, explaining his conclusion that the case was a singular psychological aberration."
+  },
+  {
+   "s": "simon",
+   "p": "occupation",
+   "v": "psychiatrist",
+   "quote": "Under hypnosis with Boston psychiatrist Benjamin Simon, Barney reported that the binocular strap had broken when he ran from the UFO back to his car, as was consistent with his conscious recall."
+  },
+  {
+   "s": "simon",
+   "p": "conclusion",
+   "v": "the case was a singular psychological aberration",
+   "quote": "When the series of hypnosis sessions were complete, Simon wrote an article about the Hills for the journal Psychiatric Opinion, explaining his conclusion that the case was a singular psychological aberration."
+  },
+  {
+   "s": "luttrell",
+   "p": "journalist",
+   "o": "case",
+   "quote": "In fact, when told that reporter John H. Luttrell had begun interviewing friends and family of the couple in August 1965 for the Boston Traveler, the Hills refused to be involved and asked that the article not be run."
+  },
+  {
+   "s": "luttrell",
+   "p": "employed_by",
+   "o": "traveler",
+   "quote": "Reporter John H. Luttrell of the Traveler had allegedly been given an audio tape recording of a lecture the Hills had made in Quincy Center in late 1963."
+  },
+  {
+   "s": "luttrell",
+   "p": "action",
+   "v": "began interviewing friends and family of the couple in August 1965",
+   "quote": "In fact, when told that reporter John H. Luttrell had begun interviewing friends and family of the couple in August 1965 for the Boston Traveler, the Hills refused to be involved and asked that the article not be run."
+  },
+  {
+   "s": "luttrell",
+   "p": "action",
+   "v": "obtained notes from confidential interviews the Hills had given to UFO investigators",
+   "quote": "Luttrell learned that the Hills had undergone hypnosis with Simon; he also obtained notes from confidential interviews the Hills had given to UFO investigators."
+  },
+  {
+   "s": "luttrellstory",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "On October 25, 1965, a front page story in the Boston Traveler asked \"UFO Chiller: Did THEY Seize Couple?\""
+  },
+  {
+   "s": "luttrell",
+   "p": "authored",
+   "o": "luttrellstory",
+   "quote": "On October 26, United Press International (UPI) picked up Luttrell's story, and the Hills' story was given international exposure."
+  },
+  {
+   "s": "traveler",
+   "p": "published",
+   "o": "luttrellstory",
+   "quote": "On October 25, 1965, a front page story in the Boston Traveler asked \"UFO Chiller: Did THEY Seize Couple?\""
+  },
+  {
+   "s": "luttrellstory",
+   "p": "date",
+   "v": "1965-10-25",
+   "quote": "On October 25, 1965, a front page story in the Boston Traveler asked \"UFO Chiller: Did THEY Seize Couple?\""
+  },
+  {
+   "s": "fuller",
+   "p": "commentator",
+   "o": "case",
+   "quote": "In 1966, writer John G. Fuller secured the cooperation of the Hills and Simon and wrote the book The Interrupted Journey (see below) about the case."
+  },
+  {
+   "s": "journey",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Their story was adapted into the best-selling 1966 book The Interrupted Journey and NBC's 1975 television film The UFO Incident."
+  },
+  {
+   "s": "fuller",
+   "p": "authored",
+   "o": "journey",
+   "quote": "In 1966, writer John G. Fuller secured the cooperation of the Hills and Simon and wrote the book The Interrupted Journey (see below) about the case."
+  },
+  {
+   "s": "look",
+   "p": "published",
+   "o": "journey",
+   "quote": "The 1966 publication of Interrupted Journey, by John G. Fuller, details much of the Hills' claims. Excerpts of the book were published in Look magazine."
+  },
+  {
+   "s": "journey",
+   "p": "year",
+   "v": "1966",
+   "quote": "Their story was adapted into the best-selling 1966 book The Interrupted Journey and NBC's 1975 television film The UFO Incident."
+  },
+  {
+   "s": "journey",
+   "p": "contents",
+   "v": "included a copy of Betty's sketch of the \"star map\"",
+   "quote": "The book included a copy of Betty's sketch of the \"star map\"."
+  },
+  {
+   "s": "journey",
+   "p": "reception",
+   "v": "a quick success; went through several printings",
+   "quote": "The book was a quick success and went through several printings."
+  },
+  {
+   "s": "journey",
+   "p": "edition",
+   "v": "1975 mass market paperback edition, Berkley Publishing Group",
+   "quote": "Fuller, John G. (1975). \"Interrupted Journey.\" (mass market paperback edition) Berkley Publishing Group."
+  },
+  {
+   "s": "fish",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Intrigued by the \"star map,\" Fish wondered if it might be \"deciphered\" to determine which star system the alleged UFO came from."
+  },
+  {
+   "s": "fish",
+   "p": "located_in",
+   "o": "oakharbor",
+   "quote": "In 1968, Marjorie Fish of Oak Harbor, Ohio, read Fuller's book, Interrupted Journey."
+  },
+  {
+   "s": "fish",
+   "p": "used",
+   "o": "gliese",
+   "quote": "using thread and beads, basing stellar distances on those published in the 1969 Gliese Star Catalogue"
+  },
+  {
+   "s": "fish",
+   "p": "occupation",
+   "v": "elementary school teacher and amateur astronomer",
+   "quote": "Fish was an elementary school teacher and amateur astronomer."
+  },
+  {
+   "s": "fish",
+   "p": "action",
+   "v": "constructed a three-dimensional model of nearby Sun-like stars using thread and beads",
+   "quote": "Assuming that one of the fifteen stars on the map must represent Earth's Sun, Fish constructed a three-dimensional model of nearby Sun-like stars"
+  },
+  {
+   "s": "fish",
+   "p": "conclusion",
+   "v": "the only vantage point matching the Hill map was Zeta Reticuli",
+   "quote": "Studying thousands of vantage points over several years, the only one that seemed to match the Hill map was from the viewpoint of the double star system of Zeta Reticuli (about 39 light-years from Earth)."
+  },
+  {
+   "s": "fish",
+   "p": "later_claim",
+   "v": "rejected her previous hypothesis in a public statement",
+   "quote": "Results such as these led Fish herself to reject her previous hypothesis in a public statement."
+  },
+  {
+   "s": "fish",
+   "p": "year_read_book",
+   "v": "1968",
+   "quote": "In 1968, Marjorie Fish of Oak Harbor, Ohio, read Fuller's book, Interrupted Journey."
+  },
+  {
+   "s": "dickinson",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Fish sent her analysis to Webb. Agreeing with her conclusions, Webb sent the map to Terence Dickinson, editor of the magazine Astronomy."
+  },
+  {
+   "s": "dickinson",
+   "p": "employed_by",
+   "o": "astronomy",
+   "quote": "Fish sent her analysis to Webb. Agreeing with her conclusions, Webb sent the map to Terence Dickinson, editor of the magazine Astronomy."
+  },
+  {
+   "s": "dickinson",
+   "p": "occupation",
+   "v": "editor of the magazine Astronomy",
+   "quote": "Fish sent her analysis to Webb. Agreeing with her conclusions, Webb sent the map to Terence Dickinson, editor of the magazine Astronomy."
+  },
+  {
+   "s": "dickinson",
+   "p": "position",
+   "v": "did not endorse Fish and Webb's conclusions",
+   "quote": "Dickinson did not endorse Fish and Webb's conclusions, but for the first time in the journal's history, Astronomy invited comments and debate on a UFO report, starting with an opening article in the December 1974 issue."
+  },
+  {
+   "s": "sagan",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Notable was an argument made by Carl Sagan and Steven Soter, arguing that the \"star map\" was little more than a random alignment of chance points."
+  },
+  {
+   "s": "sagan",
+   "p": "disputed",
+   "o": "starmap",
+   "quote": "Notable was an argument made by Carl Sagan and Steven Soter, arguing that the \"star map\" was little more than a random alignment of chance points."
+  },
+  {
+   "s": "sagan",
+   "p": "statement",
+   "v": "the \"star map\" was little more than a random alignment of chance points",
+   "quote": "Notable was an argument made by Carl Sagan and Steven Soter, arguing that the \"star map\" was little more than a random alignment of chance points."
+  },
+  {
+   "s": "soter",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Notable was an argument made by Carl Sagan and Steven Soter, arguing that the \"star map\" was little more than a random alignment of chance points."
+  },
+  {
+   "s": "soter",
+   "p": "disputed",
+   "o": "starmap",
+   "quote": "Notable was an argument made by Carl Sagan and Steven Soter, arguing that the \"star map\" was little more than a random alignment of chance points."
+  },
+  {
+   "s": "soter",
+   "p": "colleague_of",
+   "o": "sagan",
+   "quote": "Notable was an argument made by Carl Sagan and Steven Soter, arguing that the \"star map\" was little more than a random alignment of chance points."
+  },
+  {
+   "s": "cosmos",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In an episode of Cosmos in 1980, Sagan demonstrated that without the lines drawn in the maps, the Hill map bore no resemblance to the real-life map."
+  },
+  {
+   "s": "cosmos",
+   "p": "year",
+   "v": "1980",
+   "quote": "In an episode of Cosmos in 1980, Sagan demonstrated that without the lines drawn in the maps, the Hill map bore no resemblance to the real-life map."
+  },
+  {
+   "s": "cosmos",
+   "p": "content",
+   "v": "Sagan demonstrated that without the lines drawn in the maps, the Hill map bore no resemblance to the real-life map",
+   "quote": "In an episode of Cosmos in 1980, Sagan demonstrated that without the lines drawn in the maps, the Hill map bore no resemblance to the real-life map."
+  },
+  {
+   "s": "saunders",
+   "p": "proponent",
+   "o": "case",
+   "quote": "In contrast, those more favorable to the map, such as David Saunders, a statistician who had been on the Condon UFO study, disagreed."
+  },
+  {
+   "s": "saunders",
+   "p": "member_of",
+   "o": "condon",
+   "quote": "In contrast, those more favorable to the map, such as David Saunders, a statistician who had been on the Condon UFO study, disagreed."
+  },
+  {
+   "s": "saunders",
+   "p": "occupation",
+   "v": "statistician",
+   "quote": "In contrast, those more favorable to the map, such as David Saunders, a statistician who had been on the Condon UFO study, disagreed."
+  },
+  {
+   "s": "saunders",
+   "p": "statement",
+   "v": "a match among sixteen stars of the specific spectral type among the thousand stars nearest the Sun is \"at least 1,000 to 1 against\"",
+   "quote": "Saunders claimed that a match among sixteen stars of the specific spectral type among the thousand stars nearest the Sun is \"at least 1,000 to 1 against\"."
+  },
+  {
+   "s": "marden",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Captured! The Betty and Barney Hill UFO Experience by Betty Hill's niece Kathleen Marden further explored Fuller's themes along with scientist Stanton T. Friedman."
+  },
+  {
+   "s": "marden",
+   "p": "relative_of",
+   "o": "betty",
+   "quote": "Captured! The Betty and Barney Hill UFO Experience by Betty Hill's niece Kathleen Marden further explored Fuller's themes along with scientist Stanton T. Friedman."
+  },
+  {
+   "s": "marden",
+   "p": "member_of",
+   "o": "mufon",
+   "quote": "Marden, who sat on the board of the Mutual UFO Network (MUFON) for 10 years, knew Betty well and had spoken with her at great length about the encounter."
+  },
+  {
+   "s": "marden",
+   "p": "relationship",
+   "v": "Betty Hill's niece",
+   "quote": "Captured! The Betty and Barney Hill UFO Experience by Betty Hill's niece Kathleen Marden further explored Fuller's themes along with scientist Stanton T. Friedman."
+  },
+  {
+   "s": "marden",
+   "p": "position",
+   "v": "sat on the board of the Mutual UFO Network for 10 years",
+   "quote": "Marden, who sat on the board of the Mutual UFO Network (MUFON) for 10 years, knew Betty well and had spoken with her at great length about the encounter."
+  },
+  {
+   "s": "friedman",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Captured! The Betty and Barney Hill UFO Experience by Betty Hill's niece Kathleen Marden further explored Fuller's themes along with scientist Stanton T. Friedman."
+  },
+  {
+   "s": "friedman",
+   "p": "colleague_of",
+   "o": "marden",
+   "quote": "In 2004, Betty Hill's niece Kathleen Marden, together with nuclear physicist and ufologist Stanton Friedman, authored Captured, concerning the case."
+  },
+  {
+   "s": "friedman",
+   "p": "occupation",
+   "v": "nuclear physicist and ufologist",
+   "quote": "In 2004, Betty Hill's niece Kathleen Marden, together with nuclear physicist and ufologist Stanton Friedman, authored Captured, concerning the case."
+  },
+  {
+   "s": "captured",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2004, Betty Hill's niece Kathleen Marden, together with nuclear physicist and ufologist Stanton Friedman, authored Captured, concerning the case."
+  },
+  {
+   "s": "marden",
+   "p": "authored",
+   "o": "captured",
+   "quote": "Captured! The Betty and Barney Hill UFO Experience by Betty Hill's niece Kathleen Marden further explored Fuller's themes along with scientist Stanton T. Friedman."
+  },
+  {
+   "s": "friedman",
+   "p": "authored",
+   "o": "captured",
+   "quote": "Friedman, Stanton, & Kathleen Marden. Captured! The Betty and Barney Hill UFO Experience. Franklin Lakes, NJ: New Page Books, 2007."
+  },
+  {
+   "s": "captured",
+   "p": "year",
+   "v": "2004",
+   "quote": "In 2004, Betty Hill's niece Kathleen Marden, together with nuclear physicist and ufologist Stanton Friedman, authored Captured, concerning the case."
+  },
+  {
+   "s": "captured",
+   "p": "edition",
+   "v": "Franklin Lakes, NJ: New Page Books, 2007",
+   "quote": "Friedman, Stanton, & Kathleen Marden. Captured! The Betty and Barney Hill UFO Experience. Franklin Lakes, NJ: New Page Books, 2007."
+  },
+  {
+   "s": "macdonald",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Jim Macdonald, a resident of the area in which the Hills claimed to have been abducted, has produced a detailed analysis of their journey which concludes that the episode was provoked by their misperceiving an aircraft warning beacon on Cannon Mountain as a UFO."
+  },
+  {
+   "s": "macdonald",
+   "p": "residence",
+   "v": "resident of the area in which the Hills claimed to have been abducted",
+   "quote": "Jim Macdonald, a resident of the area in which the Hills claimed to have been abducted, has produced a detailed analysis of their journey which concludes that the episode was provoked by their misperceiving an aircraft warning beacon on Cannon Mountain as a UFO."
+  },
+  {
+   "s": "macdonald",
+   "p": "statement",
+   "v": "the beacon appears and disappears at exactly the same time the Hills describe the UFO as appearing and disappearing",
+   "quote": "Macdonald notes that from the road the Hills took, the beacon appears and disappears at exactly the same time the Hills describe the UFO as appearing and disappearing."
+  },
+  {
+   "s": "sheaffer",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "After reading Macdonald's recreation, skeptic Robert Sheaffer writes that the Hills are the \"poster children\" for not driving when sleep deprived."
+  },
+  {
+   "s": "sheaffer",
+   "p": "wrote_for",
+   "o": "si",
+   "quote": "In the Skeptical Inquirer, Sheaffer also wrote:"
+  },
+  {
+   "s": "sheaffer",
+   "p": "published",
+   "o": "sheafferdocs",
+   "quote": "Robert Sheaffer released 48 pages of archived documents relating to Betty and Barney Hill, Benjamin Simon, and Philip J. Klass on the Internet on December 23, 2015."
+  },
+  {
+   "s": "sheaffer",
+   "p": "statement",
+   "v": "the Hills are the \"poster children\" for not driving when sleep deprived",
+   "quote": "After reading Macdonald's recreation, skeptic Robert Sheaffer writes that the Hills are the \"poster children\" for not driving when sleep deprived."
+  },
+  {
+   "s": "sheaffer",
+   "p": "statement",
+   "v": "Betty was literally jeered off the stage by what had been at first a sympathetic audience",
+   "quote": "Betty was literally jeered off the stage by what had been at first a sympathetic audience"
+  },
+  {
+   "s": "sheaffer",
+   "p": "statement",
+   "v": "removed any lingering doubts about Betty's credibility - she had none",
+   "quote": "removed any lingering doubts about Betty's credibility — she had none"
+  },
+  {
+   "s": "sheaffer",
+   "p": "statement",
+   "v": "was present at the National UFO Conference in New York City in 1980",
+   "quote": "I was present at the National UFO Conference in New York City in 1980, at which Betty presented some of the UFO photos she had taken."
+  },
+  {
+   "s": "oswald",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "One evening she was joined by UFO enthusiast John Oswald."
+  },
+  {
+   "s": "oswald",
+   "p": "description",
+   "v": "UFO enthusiast",
+   "quote": "One evening she was joined by UFO enthusiast John Oswald."
+  },
+  {
+   "s": "oswald",
+   "p": "statement",
+   "v": "She is not really seeing UFOs, but she is calling them that.",
+   "quote": "Oswald stated, \"She is not really seeing UFOs, but she is calling them that.\""
+  },
+  {
+   "s": "oswald",
+   "p": "statement",
+   "v": "Mrs. Hill was unable to distinguish between a landed UFO and a streetlight.",
+   "quote": "\"Mrs. Hill was unable to distinguish between a landed UFO and a streetlight.\""
+  },
+  {
+   "s": "klass",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Robert Sheaffer released 48 pages of archived documents relating to Betty and Barney Hill, Benjamin Simon, and Philip J. Klass on the Internet on December 23, 2015."
+  },
+  {
+   "s": "klass",
+   "p": "mentioned_by",
+   "o": "sheafferdocs",
+   "quote": "Robert Sheaffer released 48 pages of archived documents relating to Betty and Barney Hill, Benjamin Simon, and Philip J. Klass on the Internet on December 23, 2015."
+  },
+  {
+   "s": "betty",
+   "p": "authored",
+   "o": "commonsense",
+   "quote": "In 1995, Betty Hill wrote a self-published book, A Common Sense Approach to UFOs."
+  },
+  {
+   "s": "commonsense",
+   "p": "year",
+   "v": "1995",
+   "quote": "In 1995, Betty Hill wrote a self-published book, A Common Sense Approach to UFOs."
+  },
+  {
+   "s": "commonsense",
+   "p": "publication",
+   "v": "self-published",
+   "quote": "In 1995, Betty Hill wrote a self-published book, A Common Sense Approach to UFOs."
+  },
+  {
+   "s": "commonsense",
+   "p": "criticism",
+   "v": "filled with delusional stories, such as seeing entire squadrons of UFOs in flight and a truck levitating above the freeway",
+   "quote": "It is filled with delusional stories, such as seeing entire squadrons of UFOs in flight and a truck levitating above the freeway."
+  },
+  {
+   "s": "kottmeyer",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "In his 1990 article \"Entirely Unpredisposed\", Martin Kottmeyer suggested that Barney's memories revealed under hypnosis might have been influenced by \"The Bellero Shield\", an episode of the science fiction anthology series The Outer Limits which had been broadcast on February 10, 1964"
+  },
+  {
+   "s": "kottmeyer",
+   "p": "authored",
+   "o": "unpredisposed",
+   "quote": "In his 1990 article \"Entirely Unpredisposed\", Martin Kottmeyer suggested that Barney's memories revealed under hypnosis might have been influenced by \"The Bellero Shield\", an episode of the science fiction anthology series The Outer Limits which had been broadcast on February 10, 1964"
+  },
+  {
+   "s": "unpredisposed",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In his 1990 article \"Entirely Unpredisposed\", Martin Kottmeyer suggested that Barney's memories revealed under hypnosis might have been influenced by \"The Bellero Shield\", an episode of the science fiction anthology series The Outer Limits which had been broadcast on February 10, 1964"
+  },
+  {
+   "s": "unpredisposed",
+   "p": "year",
+   "v": "1990",
+   "quote": "In his 1990 article \"Entirely Unpredisposed\", Martin Kottmeyer suggested that Barney's memories revealed under hypnosis might have been influenced by \"The Bellero Shield\", an episode of the science fiction anthology series The Outer Limits which had been broadcast on February 10, 1964"
+  },
+  {
+   "s": "outerlimits",
+   "p": "compared_to",
+   "o": "case",
+   "quote": "In his 1990 article \"Entirely Unpredisposed\", Martin Kottmeyer suggested that Barney's memories revealed under hypnosis might have been influenced by \"The Bellero Shield\", an episode of the science fiction anthology series The Outer Limits which had been broadcast on February 10, 1964"
+  },
+  {
+   "s": "bellero",
+   "p": "compared_to",
+   "o": "case",
+   "quote": "In his 1990 article \"Entirely Unpredisposed\", Martin Kottmeyer suggested that Barney's memories revealed under hypnosis might have been influenced by \"The Bellero Shield\", an episode of the science fiction anthology series The Outer Limits which had been broadcast on February 10, 1964"
+  },
+  {
+   "s": "bellero",
+   "p": "part_of",
+   "o": "outerlimits",
+   "quote": "They appeared on the alien of an episode of an old TV series The Outer Limits titled \"The Bellero Shield\"."
+  },
+  {
+   "s": "bellero",
+   "p": "broadcast_date",
+   "v": "1964-02-10",
+   "quote": "In his 1990 article \"Entirely Unpredisposed\", Martin Kottmeyer suggested that Barney's memories revealed under hypnosis might have been influenced by \"The Bellero Shield\", an episode of the science fiction anthology series The Outer Limits which had been broadcast on February 10, 1964"
+  },
+  {
+   "s": "bellero",
+   "p": "content",
+   "v": "featured an unnamed extraterrestrial with large eyes",
+   "quote": "The episode featured an unnamed extraterrestrial with large eyes"
+  },
+  {
+   "s": "bellero",
+   "p": "timing",
+   "v": "about two weeks (twelve days) before Barney's hypnosis session",
+   "quote": "\"The Bellero Shield\" was first broadcast on 10 February 1964. Only twelve days separate the two instances."
+  },
+  {
+   "s": "bellero",
+   "p": "timing",
+   "v": "about two weeks before Barney's first hypnotic session",
+   "quote": "which had been broadcast on February 10, 1964, about two weeks before Barney's first hypnotic session"
+  },
+  {
+   "s": "invisibles",
+   "p": "compared_to",
+   "o": "case",
+   "quote": "Colavito states that \"[t]he surgical scenes, including the partial nudity, recall the [anal] alien probing described by Barney Hill.\""
+  },
+  {
+   "s": "invisibles",
+   "p": "part_of",
+   "o": "outerlimits",
+   "quote": "In 2012 Jason Colavito pointed out that in fact \"The Bellero Shield\" was \"the least important\" of the three Outer Limits episodes that aired in the weeks prior to Barney Hill's February 22, 1964, recovery of \"grey alien\" memories."
+  },
+  {
+   "s": "invisibles",
+   "p": "broadcast_date",
+   "v": "1964-02-03",
+   "quote": "The episode of February 3, 1964, titled \"The Invisibles\", featured an alien intelligence which orchestrates a conspiracy of human \"hosts\" (parasitized by the alien organism) and willing servants."
+  },
+  {
+   "s": "spider",
+   "p": "compared_to",
+   "o": "case",
+   "quote": "Colavito suggests that these similarities to Barney Hill's own biography go \"beyond coincidental\" and encouraged him to mingle the more fantastical elements of the story into his hypnosis-induced recollections."
+  },
+  {
+   "s": "spider",
+   "p": "part_of",
+   "o": "outerlimits",
+   "quote": "In 2012 Jason Colavito pointed out that in fact \"The Bellero Shield\" was \"the least important\" of the three Outer Limits episodes that aired in the weeks prior to Barney Hill's February 22, 1964, recovery of \"grey alien\" memories."
+  },
+  {
+   "s": "spider",
+   "p": "broadcast_date",
+   "v": "1964-02-17",
+   "quote": "The episode of February 17, 1964, titled \"The Children of Spider County\", featured a storyline involving the abduction of four men by an alien with wraparound eyes, which glow menacingly."
+  },
+  {
+   "s": "spider",
+   "p": "content",
+   "v": "abduction of four men by an alien with wraparound eyes, which glow menacingly",
+   "quote": "The episode of February 17, 1964, titled \"The Children of Spider County\", featured a storyline involving the abduction of four men by an alien with wraparound eyes, which glow menacingly."
+  },
+  {
+   "s": "spider",
+   "p": "timing",
+   "v": "aired five days before Hill's February 22 hypnosis session",
+   "quote": "\"The Children of Spider County\" aired five days before Hill's February 22 hypnosis session."
+  },
+  {
+   "s": "twilight",
+   "p": "compared_to",
+   "o": "case",
+   "quote": "Meanwhile, Colavito also relates the Hills' recovered memories of aliens in \"shiny black jackets\" to the Twilight Zone episode of January 31, 1964, titled \"Black Leather Jackets\", in which three aliens disguised as humans in black leather jackets come to Earth"
+  },
+  {
+   "s": "leather",
+   "p": "compared_to",
+   "o": "case",
+   "quote": "Meanwhile, Colavito also relates the Hills' recovered memories of aliens in \"shiny black jackets\" to the Twilight Zone episode of January 31, 1964, titled \"Black Leather Jackets\", in which three aliens disguised as humans in black leather jackets come to Earth"
+  },
+  {
+   "s": "leather",
+   "p": "part_of",
+   "o": "twilight",
+   "quote": "Meanwhile, Colavito also relates the Hills' recovered memories of aliens in \"shiny black jackets\" to the Twilight Zone episode of January 31, 1964, titled \"Black Leather Jackets\", in which three aliens disguised as humans in black leather jackets come to Earth"
+  },
+  {
+   "s": "leather",
+   "p": "broadcast_date",
+   "v": "1964-01-31",
+   "quote": "Meanwhile, Colavito also relates the Hills' recovered memories of aliens in \"shiny black jackets\" to the Twilight Zone episode of January 31, 1964, titled \"Black Leather Jackets\", in which three aliens disguised as humans in black leather jackets come to Earth"
+  },
+  {
+   "s": "invaders",
+   "p": "compared_to",
+   "o": "case",
+   "quote": "Kottmeyer also pointed out that some motifs in the Hills' account were present in the film Invaders from Mars (1953)."
+  },
+  {
+   "s": "invaders",
+   "p": "year",
+   "v": "1953",
+   "quote": "Kottmeyer also pointed out that some motifs in the Hills' account were present in the film Invaders from Mars (1953)."
+  },
+  {
+   "s": "baker",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "A person familiar with Barney's sketch in The Interrupted Journey and the sketch done in collaboration with the artist David Baker"
+  },
+  {
+   "s": "baker",
+   "p": "authored",
+   "o": "bakersketch",
+   "quote": "A person familiar with Barney's sketch in The Interrupted Journey and the sketch done in collaboration with the artist David Baker"
+  },
+  {
+   "s": "baker",
+   "p": "occupation",
+   "v": "artist",
+   "quote": "A person familiar with Barney's sketch in The Interrupted Journey and the sketch done in collaboration with the artist David Baker"
+  },
+  {
+   "s": "kottmeyer",
+   "p": "statement",
+   "v": "The resemblance is much abetted by an absence of ears, hair, and nose on both aliens.",
+   "quote": "The resemblance is much abetted by an absence of ears, hair, and nose on both aliens."
+  },
+  {
+   "s": "kottmeyer",
+   "p": "statement",
+   "v": "some motifs in the Hills' account were present in the film Invaders from Mars (1953)",
+   "quote": "Kottmeyer also pointed out that some motifs in the Hills' account were present in the film Invaders from Mars (1953)."
+  },
+  {
+   "s": "colavito",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "In 2012 Jason Colavito pointed out that in fact \"The Bellero Shield\" was \"the least important\" of the three Outer Limits episodes that aired in the weeks prior to Barney Hill's February 22, 1964, recovery of \"grey alien\" memories."
+  },
+  {
+   "s": "colavito",
+   "p": "statement",
+   "v": "\"The Bellero Shield\" was \"the least important\" of the three Outer Limits episodes that aired in the weeks prior",
+   "quote": "In 2012 Jason Colavito pointed out that in fact \"The Bellero Shield\" was \"the least important\" of the three Outer Limits episodes that aired in the weeks prior to Barney Hill's February 22, 1964, recovery of \"grey alien\" memories."
+  },
+  {
+   "s": "colavito",
+   "p": "statement",
+   "v": "the episodes of February 3 and February 17 were even more reminiscent of Hill's story",
+   "quote": "The episodes of February 3 and February 17 were even more reminiscent of Hill's story."
+  },
+  {
+   "s": "colavito",
+   "p": "statement",
+   "v": "the surgical scenes, including the partial nudity, recall the [anal] alien probing described by Barney Hill",
+   "quote": "Colavito states that \"[t]he surgical scenes, including the partial nudity, recall the [anal] alien probing described by Barney Hill.\""
+  },
+  {
+   "s": "colavito",
+   "p": "statement",
+   "v": "similarities to Barney Hill's own biography go \"beyond coincidental\"",
+   "quote": "Colavito suggests that these similarities to Barney Hill's own biography go \"beyond coincidental\" and encouraged him to mingle the more fantastical elements of the story into his hypnosis-induced recollections."
+  },
+  {
+   "s": "colavito",
+   "p": "year",
+   "v": "2012",
+   "quote": "In 2012 Jason Colavito pointed out that in fact \"The Bellero Shield\" was \"the least important\" of the three Outer Limits episodes that aired in the weeks prior to Barney Hill's February 22, 1964, recovery of \"grey alien\" memories."
+  },
+  {
+   "s": "kinsolving",
+   "p": "acted_in",
+   "o": "spider",
+   "quote": "Coincidentally, Lee Kinsolving plays the alien in love with a human in both \"The Children of Spider County\" and \"Black Leather Jackets\"."
+  },
+  {
+   "s": "kinsolving",
+   "p": "acted_in",
+   "o": "leather",
+   "quote": "Coincidentally, Lee Kinsolving plays the alien in love with a human in both \"The Children of Spider County\" and \"Black Leather Jackets\"."
+  },
+  {
+   "s": "dean",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Twentieth century academics such as Jodi Dean observed that accounts of the incident tended to downplay the Hills' interracial relationship, which had only recently become legal in 1961 and was still very unusual at that time."
+  },
+  {
+   "s": "drysdale",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Sociologist David Drysdale has suggested that the abduction account serves to provide a new social perception of the Hills' relationship."
+  },
+  {
+   "s": "drysdale",
+   "p": "occupation",
+   "v": "sociologist",
+   "quote": "Sociologist David Drysdale has suggested that the abduction account serves to provide a new social perception of the Hills' relationship."
+  },
+  {
+   "s": "drysdale",
+   "p": "statement",
+   "v": "the abduction account serves to provide a new social perception of the Hills' relationship",
+   "quote": "Sociologist David Drysdale has suggested that the abduction account serves to provide a new social perception of the Hills' relationship."
+  },
+  {
+   "s": "rose",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Researcher Dell Rose has expanded Drysdale's analysis to compare other UFO abduction stories to slave narratives."
+  },
+  {
+   "s": "rose",
+   "p": "occupation",
+   "v": "researcher",
+   "quote": "Researcher Dell Rose has expanded Drysdale's analysis to compare other UFO abduction stories to slave narratives."
+  },
+  {
+   "s": "bowman",
+   "p": "commentator",
+   "o": "case",
+   "quote": "As historian Matthew Bowman points out, Hill was concerned that mockery of his experiences would make his work for the NAACP and for the integration of his Unitarian church more difficult; in fact, he did experience such backlash."
+  },
+  {
+   "s": "bowman",
+   "p": "occupation",
+   "v": "historian",
+   "quote": "As historian Matthew Bowman points out, Hill was concerned that mockery of his experiences would make his work for the NAACP and for the integration of his Unitarian church more difficult; in fact, he did experience such backlash."
+  },
+  {
+   "s": "watson",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Watson, Nigel. \"On the Credibility of the Barney and Betty Hill Abduction Case\" in Ballester-Olmos, V.J. and Heiden, Richard W. (Eds.), The Reliability of UFO Witness Testimony."
+  },
+  {
+   "s": "watsonart",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Watson, Nigel. \"On the Credibility of the Barney and Betty Hill Abduction Case\" in Ballester-Olmos, V.J. and Heiden, Richard W. (Eds.), The Reliability of UFO Witness Testimony."
+  },
+  {
+   "s": "watson",
+   "p": "authored",
+   "o": "watsonart",
+   "quote": "Watson, Nigel. \"On the Credibility of the Barney and Betty Hill Abduction Case\" in Ballester-Olmos, V.J. and Heiden, Richard W. (Eds.), The Reliability of UFO Witness Testimony."
+  },
+  {
+   "s": "watsonart",
+   "p": "published_in",
+   "v": "The Reliability of UFO Witness Testimony, eds. V.J. Ballester-Olmos and Richard W. Heiden",
+   "quote": "Watson, Nigel. \"On the Credibility of the Barney and Betty Hill Abduction Case\" in Ballester-Olmos, V.J. and Heiden, Richard W. (Eds.), The Reliability of UFO Witness Testimony."
+  },
+  {
+   "s": "ufoincident",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The 1975 film The UFO Incident is a television dramatization of the Hills' abduction and its aftermath, in which the Hills are played by James Earl Jones and Estelle Parsons."
+  },
+  {
+   "s": "nbc",
+   "p": "published",
+   "o": "ufoincident",
+   "quote": "Their story was adapted into the best-selling 1966 book The Interrupted Journey and NBC's 1975 television film The UFO Incident."
+  },
+  {
+   "s": "ufoincident",
+   "p": "year",
+   "v": "1975",
+   "quote": "The 1975 film The UFO Incident is a television dramatization of the Hills' abduction and its aftermath, in which the Hills are played by James Earl Jones and Estelle Parsons."
+  },
+  {
+   "s": "jones",
+   "p": "acted_in",
+   "o": "ufoincident",
+   "quote": "The 1975 film The UFO Incident is a television dramatization of the Hills' abduction and its aftermath, in which the Hills are played by James Earl Jones and Estelle Parsons."
+  },
+  {
+   "s": "parsons",
+   "p": "acted_in",
+   "o": "ufoincident",
+   "quote": "The 1975 film The UFO Incident is a television dramatization of the Hills' abduction and its aftermath, in which the Hills are played by James Earl Jones and Estelle Parsons."
+  },
+  {
+   "s": "tttt",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Barney Hill appeared in an episode of To Tell the Truth, episode airdate December 12, 1966."
+  },
+  {
+   "s": "tttt",
+   "p": "episode_airdate",
+   "v": "1966-12-12",
+   "quote": "Barney Hill appeared in an episode of To Tell the Truth, episode airdate December 12, 1966."
+  },
+  {
+   "s": "worship",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2021, the melodic death metal band Hypocrisy on their full-length album Worship featured a song called \"Bug in the Net\" based on this event."
+  },
+  {
+   "s": "hypocrisy",
+   "p": "authored",
+   "o": "worship",
+   "quote": "In 2021, the melodic death metal band Hypocrisy on their full-length album Worship featured a song called \"Bug in the Net\" based on this event."
+  },
+  {
+   "s": "worship",
+   "p": "year",
+   "v": "2021",
+   "quote": "In 2021, the melodic death metal band Hypocrisy on their full-length album Worship featured a song called \"Bug in the Net\" based on this event."
+  },
+  {
+   "s": "bugnet",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2021, the melodic death metal band Hypocrisy on their full-length album Worship featured a song called \"Bug in the Net\" based on this event."
+  },
+  {
+   "s": "bugnet",
+   "p": "part_of",
+   "o": "worship",
+   "quote": "In 2021, the melodic death metal band Hypocrisy on their full-length album Worship featured a song called \"Bug in the Net\" based on this event."
+  },
+  {
+   "s": "hypocrisy",
+   "p": "genre",
+   "v": "melodic death metal band",
+   "quote": "In 2021, the melodic death metal band Hypocrisy on their full-length album Worship featured a song called \"Bug in the Net\" based on this event."
+  },
+  {
+   "s": "bluebook1961",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "A fact-based account appears in the 2023 Dark Horse Comics series Blue Book: 1961, written by James Tynion IV with art by Michael Avon Oeming."
+  },
+  {
+   "s": "darkhorse",
+   "p": "published",
+   "o": "bluebook1961",
+   "quote": "A fact-based account appears in the 2023 Dark Horse Comics series Blue Book: 1961, written by James Tynion IV with art by Michael Avon Oeming."
+  },
+  {
+   "s": "bluebook1961",
+   "p": "year",
+   "v": "2023",
+   "quote": "A fact-based account appears in the 2023 Dark Horse Comics series Blue Book: 1961, written by James Tynion IV with art by Michael Avon Oeming."
+  },
+  {
+   "s": "tynion",
+   "p": "authored",
+   "o": "bluebook1961",
+   "quote": "A fact-based account appears in the 2023 Dark Horse Comics series Blue Book: 1961, written by James Tynion IV with art by Michael Avon Oeming."
+  },
+  {
+   "s": "oeming",
+   "p": "authored",
+   "o": "bluebook1961",
+   "quote": "A fact-based account appears in the 2023 Dark Horse Comics series Blue Book: 1961, written by James Tynion IV with art by Michael Avon Oeming."
+  },
+  {
+   "s": "oeming",
+   "p": "role",
+   "v": "art",
+   "quote": "A fact-based account appears in the 2023 Dark Horse Comics series Blue Book: 1961, written by James Tynion IV with art by Michael Avon Oeming."
+  },
+  {
+   "s": "saucer",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The purported event as well as other UFO lore figures into the 2012 comic book series Saucer Country scripted by Paul Cornell."
+  },
+  {
+   "s": "saucer",
+   "p": "year",
+   "v": "2012",
+   "quote": "The purported event as well as other UFO lore figures into the 2012 comic book series Saucer Country scripted by Paul Cornell."
+  },
+  {
+   "s": "cornell",
+   "p": "authored",
+   "o": "saucer",
+   "quote": "The purported event as well as other UFO lore figures into the 2012 comic book series Saucer Country scripted by Paul Cornell."
+  },
+  {
+   "s": "prometheus",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The ancient star maps shown at the beginning of the 2012 film Prometheus are based on the star map drawn by Betty Hill and depicted the Zeta Reticuli system."
+  },
+  {
+   "s": "prometheus",
+   "p": "year",
+   "v": "2012",
+   "quote": "The ancient star maps shown at the beginning of the 2012 film Prometheus are based on the star map drawn by Betty Hill and depicted the Zeta Reticuli system."
+  },
+  {
+   "s": "dinner",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2018, the story formed the basis of the \"Dinner Party\" virtual reality exhibit at the traveling art show Wonderspaces."
+  },
+  {
+   "s": "wonderspaces",
+   "p": "published",
+   "o": "dinner",
+   "quote": "In 2018, the story formed the basis of the \"Dinner Party\" virtual reality exhibit at the traveling art show Wonderspaces."
+  },
+  {
+   "s": "dinner",
+   "p": "year",
+   "v": "2018",
+   "quote": "In 2018, the story formed the basis of the \"Dinner Party\" virtual reality exhibit at the traveling art show Wonderspaces."
+  },
+  {
+   "s": "pbbseries",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The ninth episode of the 2019 History Channel television series Project Blue Book, entitled \"Abduction\", is based on the Betty and Barney Hill UFO incident."
+  },
+  {
+   "s": "history",
+   "p": "published",
+   "o": "pbbseries",
+   "quote": "The ninth episode of the 2019 History Channel television series Project Blue Book, entitled \"Abduction\", is based on the Betty and Barney Hill UFO incident."
+  },
+  {
+   "s": "pbbseries",
+   "p": "year",
+   "v": "2019",
+   "quote": "The ninth episode of the 2019 History Channel television series Project Blue Book, entitled \"Abduction\", is based on the Betty and Barney Hill UFO incident."
+  },
+  {
+   "s": "pbbseries",
+   "p": "episode",
+   "v": "ninth episode, entitled \"Abduction\"",
+   "quote": "The ninth episode of the 2019 History Channel television series Project Blue Book, entitled \"Abduction\", is based on the Betty and Barney Hill UFO incident."
+  },
+  {
+   "s": "ballad",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The track \"The Ballad of Betty and Barney Hill\", from Angelo De Augustine's 2023 album Toil and Trouble, recounts the incident from the point-of-view of an alien"
+  },
+  {
+   "s": "ballad",
+   "p": "part_of",
+   "o": "toil",
+   "quote": "The track \"The Ballad of Betty and Barney Hill\", from Angelo De Augustine's 2023 album Toil and Trouble, recounts the incident from the point-of-view of an alien"
+  },
+  {
+   "s": "toil",
+   "p": "year",
+   "v": "2023",
+   "quote": "The track \"The Ballad of Betty and Barney Hill\", from Angelo De Augustine's 2023 album Toil and Trouble, recounts the incident from the point-of-view of an alien"
+  },
+  {
+   "s": "deaugustine",
+   "p": "authored",
+   "o": "toil",
+   "quote": "The track \"The Ballad of Betty and Barney Hill\", from Angelo De Augustine's 2023 album Toil and Trouble, recounts the incident from the point-of-view of an alien"
+  },
+  {
+   "s": "deaugustine",
+   "p": "authored",
+   "o": "ballad",
+   "quote": "The track \"The Ballad of Betty and Barney Hill\", from Angelo De Augustine's 2023 album Toil and Trouble, recounts the incident from the point-of-view of an alien"
+  },
+  {
+   "s": "strange",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Actors Demi Moore and Colman Domingo are set to portray Betty and Barney in the upcoming film Strange Arrivals, directed by Roger Ross Williams, based on case."
+  },
+  {
+   "s": "moore",
+   "p": "acted_in",
+   "o": "strange",
+   "quote": "Actors Demi Moore and Colman Domingo are set to portray Betty and Barney in the upcoming film Strange Arrivals, directed by Roger Ross Williams, based on case."
+  },
+  {
+   "s": "domingo",
+   "p": "acted_in",
+   "o": "strange",
+   "quote": "Actors Demi Moore and Colman Domingo are set to portray Betty and Barney in the upcoming film Strange Arrivals, directed by Roger Ross Williams, based on case."
+  },
+  {
+   "s": "williams",
+   "p": "directed",
+   "o": "strange",
+   "quote": "Actors Demi Moore and Colman Domingo are set to portray Betty and Barney in the upcoming film Strange Arrivals, directed by Roger Ross Williams, based on case."
+  },
+  {
+   "s": "beings",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The 2025 novel Beings by Ilana Masad is centered around a fictionalized depiction of Betty and Barney Hill, presented through a fictional archivist who investigates and comments on their experience of alien abduction."
+  },
+  {
+   "s": "beings",
+   "p": "year",
+   "v": "2025",
+   "quote": "The 2025 novel Beings by Ilana Masad is centered around a fictionalized depiction of Betty and Barney Hill, presented through a fictional archivist who investigates and comments on their experience of alien abduction."
+  },
+  {
+   "s": "masad",
+   "p": "authored",
+   "o": "beings",
+   "quote": "The 2025 novel Beings by Ilana Masad is centered around a fictionalized depiction of Betty and Barney Hill, presented through a fictional archivist who investigates and comments on their experience of alien abduction."
+  },
+  {
+   "s": "f_abduct",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Barney and Betty Hill were an American couple and civil rights activists who claimed they were abducted by extraterrestrials in a rural portion of the state of New Hampshire from September 19 to 20, 1961."
+  },
+  {
+   "s": "f_missing",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "When Hohman and Jackson noted this discrepancy to the Hills, the couple had no explanation (a phenomenon ufologists call \"missing time\")."
+  },
+  {
+   "s": "f_hypnosis",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Under hypnosis with Boston psychiatrist Benjamin Simon, Barney reported that the binocular strap had broken when he ran from the UFO back to his car, as was consistent with his conscious recall."
+  },
+  {
+   "s": "f_occupants",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Using the binoculars, he claimed to have seen eight to eleven humanoid figures, who were peering out of the craft's windows, seemingly in his direction."
+  },
+  {
+   "s": "f_hover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The huge, silent craft hovered about 80 to 100 feet (24 to 30 m) above the Hills' 1957 Chevrolet Bel Air and filled the entire field of view in the windshield."
+  },
+  {
+   "s": "f_silent",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The couple watched as the silent, illuminated craft moved erratically and bounced back and forth in the night sky."
+  },
+  {
+   "s": "f_sound",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "As the Hills sped away, they heard a strange beeping sound and fell into a daze."
+  },
+  {
+   "s": "f_disc",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "It reminded Barney of a huge pancake."
+  },
+  {
+   "s": "f_shapeother",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Betty, looking through binoculars, observed an \"odd-shaped\" craft flashing multicolored lights travelling across the face of the Moon."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Barney and Betty Hill were an American couple and civil rights activists who claimed they were abducted by extraterrestrials in a rural portion of the state of New Hampshire from September 19 to 20, 1961."
+  },
+  {
+   "s": "f_traces",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "There were shiny, concentric circles on their car's trunk that had not been there the previous day."
+  },
+  {
+   "s": "f_traces",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "observing that the dress was torn at the hem, zipper, and lining"
+  },
+  {
+   "s": "f_material",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Later, when she retrieved the items from her closet, she noted a pinkish powder on her dress."
+  },
+  {
+   "s": "f_emi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Betty and Barney experimented with a compass, noting that when they moved it close to the spots, the needle would whirl rapidly."
+  },
+  {
+   "s": "f_emi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Their watches would never work again."
+  },
+  {
+   "s": "f_physio",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "As the Hills sped away, they heard a strange beeping sound and fell into a daze."
+  },
+  {
+   "s": "f_maneuver",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The couple watched as the silent, illuminated craft moved erratically and bounced back and forth in the night sky."
+  },
+  {
+   "s": "f_maneuver",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "However, he soon changed his mind, because without looking as if it had turned, the craft rapidly descended in his direction."
+  },
+  {
+   "s": "f_landing",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Both claimed to recall an image of a fiery orb sitting on the ground."
+  },
+  {
+   "s": "f_starmap",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The incident came to be called the \"Hill Abduction\" and the \"Zeta Reticuli Incident\" because two ufologists connected the star map allegedly shown to Betty Hill with the Zeta Reticuli system."
+  },
+  {
+   "s": "f_telepathy",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The few times they communicated with him, Barney said it seemed to be \"thought transference\" (at that time, he was unfamiliar with the word \"telepathy\")."
+  },
+  {
+   "s": "f_dreams",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Ten days after the alleged UFO encounter, Betty began having a series of vivid dreams, which continued for five successive nights."
+  },
+  {
+   "s": "x_misp",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Jim Macdonald, a resident of the area in which the Hills claimed to have been abducted, has produced a detailed analysis of their journey which concludes that the episode was provoked by their misperceiving an aircraft warning beacon on Cannon Mountain as a UFO."
+  },
+  {
+   "s": "macdonald",
+   "p": "proposed",
+   "o": "x_misp",
+   "quote": "Jim Macdonald, a resident of the area in which the Hills claimed to have been abducted, has produced a detailed analysis of their journey which concludes that the episode was provoked by their misperceiving an aircraft warning beacon on Cannon Mountain as a UFO."
+  },
+  {
+   "s": "x_misp",
+   "p": "detail",
+   "v": "aircraft warning beacon on Cannon Mountain",
+   "quote": "Jim Macdonald, a resident of the area in which the Hills claimed to have been abducted, has produced a detailed analysis of their journey which concludes that the episode was provoked by their misperceiving an aircraft warning beacon on Cannon Mountain as a UFO."
+  },
+  {
+   "s": "x_psych",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "When the series of hypnosis sessions were complete, Simon wrote an article about the Hills for the journal Psychiatric Opinion, explaining his conclusion that the case was a singular psychological aberration."
+  },
+  {
+   "s": "simon",
+   "p": "proposed",
+   "o": "x_psych",
+   "quote": "When the series of hypnosis sessions were complete, Simon wrote an article about the Hills for the journal Psychiatric Opinion, explaining his conclusion that the case was a singular psychological aberration."
+  },
+  {
+   "s": "x_psych",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The remainder of the experience is ascribed to stress, sleep deprivation, and false memories \"recovered\" under hypnosis."
+  },
+  {
+   "s": "macdonald",
+   "p": "proposed",
+   "o": "x_psych",
+   "quote": "The remainder of the experience is ascribed to stress, sleep deprivation, and false memories \"recovered\" under hypnosis."
+  },
+  {
+   "s": "x_psych",
+   "p": "detail",
+   "v": "stress, sleep deprivation, and false memories \"recovered\" under hypnosis",
+   "quote": "The remainder of the experience is ascribed to stress, sleep deprivation, and false memories \"recovered\" under hypnosis."
+  },
+  {
+   "s": "x_meteor",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "While Barney navigated U.S. Route 3, Betty reasoned that she was observing a falling star, only it moved upward."
+  },
+  {
+   "s": "betty",
+   "p": "proposed",
+   "o": "x_meteor",
+   "quote": "While Barney navigated U.S. Route 3, Betty reasoned that she was observing a falling star, only it moved upward."
+  },
+  {
+   "s": "x_aircraft",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Through binoculars, Barney observed what he reasoned was a commercial airliner traveling toward Vermont on its way to Montreal."
+  },
+  {
+   "s": "barney",
+   "p": "proposed",
+   "o": "x_aircraft",
+   "quote": "Through binoculars, Barney observed what he reasoned was a commercial airliner traveling toward Vermont on its way to Montreal."
+  },
+  {
+   "s": "x_aircraft",
+   "p": "status",
+   "v": "Barney soon changed his mind",
+   "quote": "However, he soon changed his mind, because without looking as if it had turned, the craft rapidly descended in his direction."
+  },
+  {
+   "s": "x_moon",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Betty and Barney reasoned that it must have been the moon, but Hohmann and Jackson informed them that the moon had set earlier in the evening."
+  },
+  {
+   "s": "betty",
+   "p": "proposed",
+   "o": "x_moon",
+   "quote": "Betty and Barney reasoned that it must have been the moon, but Hohmann and Jackson informed them that the moon had set earlier in the evening."
+  },
+  {
+   "s": "barney",
+   "p": "proposed",
+   "o": "x_moon",
+   "quote": "Betty and Barney reasoned that it must have been the moon, but Hohmann and Jackson informed them that the moon had set earlier in the evening."
+  },
+  {
+   "s": "hohmann",
+   "p": "disputed",
+   "o": "x_moon",
+   "quote": "Betty and Barney reasoned that it must have been the moon, but Hohmann and Jackson informed them that the moon had set earlier in the evening."
+  },
+  {
+   "s": "jackson",
+   "p": "disputed",
+   "o": "x_moon",
+   "quote": "Betty and Barney reasoned that it must have been the moon, but Hohmann and Jackson informed them that the moon had set earlier in the evening."
+  },
+  {
+   "s": "x_tv",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "In his 1990 article \"Entirely Unpredisposed\", Martin Kottmeyer suggested that Barney's memories revealed under hypnosis might have been influenced by \"The Bellero Shield\", an episode of the science fiction anthology series The Outer Limits which had been broadcast on February 10, 1964"
+  },
+  {
+   "s": "kottmeyer",
+   "p": "proposed",
+   "o": "x_tv",
+   "quote": "In his 1990 article \"Entirely Unpredisposed\", Martin Kottmeyer suggested that Barney's memories revealed under hypnosis might have been influenced by \"The Bellero Shield\", an episode of the science fiction anthology series The Outer Limits which had been broadcast on February 10, 1964"
+  },
+  {
+   "s": "colavito",
+   "p": "proposed",
+   "o": "x_tv",
+   "quote": "Colavito suggests that these similarities to Barney Hill's own biography go \"beyond coincidental\" and encouraged him to mingle the more fantastical elements of the story into his hypnosis-induced recollections."
+  }
+ ]
+}

@@ -1,0 +1,1787 @@
+{
+ "slug": "pascagoula-incident",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Pascagoula incident",
+   "aliases": [
+    "Pascagoula Abduction"
+   ],
+   "description": "Alleged 1973 close encounter in which Charles Hickson and Calvin Parker claimed they were taken aboard a UFO and examined while fishing near Pascagoula, Mississippi."
+  },
+  {
+   "key": "hickson",
+   "type": "person",
+   "name": "Charles Hickson",
+   "description": "Primary claimant of the Pascagoula incident, later a UFO celebrity"
+  },
+  {
+   "key": "parker",
+   "type": "person",
+   "name": "Calvin Parker",
+   "description": "Second claimant, 17-year-old relative of Hickson"
+  },
+  {
+   "key": "booth",
+   "type": "person",
+   "name": "Larry Booth",
+   "description": "Service station operator who reported a strange craft earlier that evening"
+  },
+  {
+   "key": "ryder",
+   "type": "person",
+   "name": "Glenn Ryder",
+   "aliases": [
+    "Captain Glenn Ryder",
+    "Capt. Glen Ryder",
+    "Glen Ryder"
+   ],
+   "description": "Jackson County sheriff's captain who took the men's report"
+  },
+  {
+   "key": "harder",
+   "type": "person",
+   "name": "James Harder",
+   "description": "Ufologist who interviewed the two men under hypnosis"
+  },
+  {
+   "key": "hynek",
+   "type": "person",
+   "name": "J. Allen Hynek",
+   "description": "Debunker-turned-ufologist who interviewed the two men under hypnosis"
+  },
+  {
+   "key": "daniken",
+   "type": "person",
+   "name": "Eric von Däniken",
+   "description": "\"Ancient astronauts\" proponent who met Hickson"
+  },
+  {
+   "key": "klass",
+   "type": "person",
+   "name": "Philip J. Klass",
+   "description": "Aviation journalist and UFO skeptic"
+  },
+  {
+   "key": "nickell",
+   "type": "person",
+   "name": "Joe Nickell",
+   "aliases": [
+    "Nickell, Joe"
+   ],
+   "description": "Skeptical investigator"
+  },
+  {
+   "key": "pascagoula",
+   "type": "place",
+   "name": "Pascagoula, Mississippi",
+   "aliases": [
+    "Pascagoula",
+    "City of Pascagoula"
+   ],
+   "description": "City near which the encounter was reported"
+  },
+  {
+   "key": "river",
+   "type": "place",
+   "name": "Pascagoula River",
+   "description": "River where the two men were fishing off a pier"
+  },
+  {
+   "key": "jackson_county",
+   "type": "place",
+   "name": "Jackson County, Mississippi",
+   "aliases": [
+    "Jackson County"
+   ],
+   "description": "County whose sheriff's office received the report"
+  },
+  {
+   "key": "mississippi",
+   "type": "place",
+   "name": "Mississippi",
+   "description": "US state"
+  },
+  {
+   "key": "louisiana",
+   "type": "place",
+   "name": "Louisiana",
+   "description": "US state named in the 1973 UFO flap"
+  },
+  {
+   "key": "us_south",
+   "type": "place",
+   "name": "Southern United States",
+   "aliases": [
+    "US South"
+   ],
+   "description": "Region of the 1973 UFO flap"
+  },
+  {
+   "key": "keesler",
+   "type": "place",
+   "name": "Keesler Air Force Base",
+   "description": "Base where the two men were examined"
+  },
+  {
+   "key": "biloxi",
+   "type": "place",
+   "name": "Biloxi, Mississippi",
+   "aliases": [
+    "Biloxi"
+   ],
+   "description": "Where an artist's conception of a creature was published"
+  },
+  {
+   "key": "detroit",
+   "type": "place",
+   "name": "Detroit, Michigan",
+   "aliases": [
+    "Detroit"
+   ],
+   "description": "City where Hickson addressed a UFO group"
+  },
+  {
+   "key": "los_angeles",
+   "type": "place",
+   "name": "Los Angeles, California",
+   "aliases": [
+    "Los Angeles"
+   ],
+   "description": "City of a radio station that advertised an interview with the men"
+  },
+  {
+   "key": "washington",
+   "type": "place",
+   "name": "Washington, D.C.",
+   "aliases": [
+    "Washington"
+   ],
+   "description": "Where Hickson said he would relay the beings' message"
+  },
+  {
+   "key": "marker",
+   "type": "place",
+   "name": "Pascagoula incident historical marker",
+   "aliases": [
+    "historical marker",
+    "plaque"
+   ],
+   "description": "Historical marker unveiled in 2019 at the site of the alleged abduction"
+  },
+  {
+   "key": "sheriff",
+   "type": "organization",
+   "name": "Jackson County Sheriff's Office",
+   "aliases": [
+    "Jackson County, Mississippi sheriff's office",
+    "the sheriff's office"
+   ],
+   "description": "Sheriff's office where the men reported the encounter"
+  },
+  {
+   "key": "mspress",
+   "type": "organization",
+   "name": "The Mississippi Press",
+   "description": "Pascagoula newspaper"
+  },
+  {
+   "key": "ap",
+   "type": "organization",
+   "name": "Associated Press",
+   "description": "Wire service"
+  },
+  {
+   "key": "upi",
+   "type": "organization",
+   "name": "United Press International",
+   "description": "Wire service"
+  },
+  {
+   "key": "rotary",
+   "type": "organization",
+   "name": "Rotary Club",
+   "aliases": [
+    "local Rotary Club"
+   ],
+   "description": "Local club the pair agreed to address"
+  },
+  {
+   "key": "nbc",
+   "type": "organization",
+   "name": "NBC",
+   "description": "Television network"
+  },
+  {
+   "key": "wapo",
+   "type": "organization",
+   "name": "The Washington Post",
+   "description": "Newspaper"
+  },
+  {
+   "key": "ufo_inv",
+   "type": "organization",
+   "name": "UFO Investigations",
+   "description": "Company started by Parker in 1993"
+  },
+  {
+   "key": "netflix",
+   "type": "organization",
+   "name": "Netflix",
+   "description": "Streaming service"
+  },
+  {
+   "key": "nicap",
+   "type": "organization",
+   "name": "National Investigations Committee on Aerial Phenomena",
+   "aliases": [
+    "NICAP"
+   ],
+   "description": "UFO group credited with an interview transcript"
+  },
+  {
+   "key": "flap",
+   "type": "case",
+   "name": "1973 UFO flap",
+   "description": "Spate of UFO reports in the US South in 1973"
+  },
+  {
+   "key": "hill",
+   "type": "case",
+   "name": "Betty and Barney Hill abduction",
+   "description": "Abduction case the press compared to Pascagoula"
+  },
+  {
+   "key": "craft",
+   "type": "craft",
+   "name": "oval-shaped object reported by Hickson and Parker",
+   "description": "Object the men said they were taken aboard"
+  },
+  {
+   "key": "booth_craft",
+   "type": "craft",
+   "name": "strange craft with a blinking, colored light reported by Larry Booth",
+   "description": "Craft reported passing overhead around 8:00 pm on October 11"
+  },
+  {
+   "key": "underwater",
+   "type": "craft",
+   "name": "illuminated underwater object reported in the Pascagoula River",
+   "description": "Object a fisherman and his son claimed to have seen underwater"
+  },
+  {
+   "key": "recording",
+   "type": "document",
+   "name": "Secret sheriff's office recording of Hickson and Parker",
+   "description": "Recording made by officers who left the two men alone in a room"
+  },
+  {
+   "key": "press_report",
+   "type": "document",
+   "name": "The Mississippi Press report of October 12, 1973",
+   "description": "First newspaper report of the men's claim"
+  },
+  {
+   "key": "pair_article",
+   "type": "document",
+   "name": "Article under Hickson and Parker's name in the local paper",
+   "description": "Article arguing the creatures were robotic and friendly"
+  },
+  {
+   "key": "artist",
+   "type": "document",
+   "name": "Artist's conception of a \"creature\"",
+   "description": "Illustration published in Biloxi"
+  },
+  {
+   "key": "polygraph",
+   "type": "document",
+   "name": "Polygraph examination of Charles Hickson",
+   "description": "Examination by a local polygraph examiner"
+  },
+  {
+   "key": "cavett",
+   "type": "work",
+   "name": "The Dick Cavett Show",
+   "description": "Television show"
+  },
+  {
+   "key": "douglas",
+   "type": "work",
+   "name": "The Mike Douglas Show",
+   "description": "Television show"
+  },
+  {
+   "key": "carson",
+   "type": "work",
+   "name": "The Tonight Show Starring Johnny Carson",
+   "aliases": [
+    "Tonight Show Starring Johnny Carson"
+   ],
+   "description": "Television show"
+  },
+  {
+   "key": "tttt",
+   "type": "work",
+   "name": "To Tell the Truth",
+   "aliases": [
+    "To Tell The Truth"
+   ],
+   "description": "Game show"
+  },
+  {
+   "key": "nbc_doc",
+   "type": "work",
+   "name": "NBC documentary (1974)",
+   "description": "Upcoming NBC documentary that would feature Hickson"
+  },
+  {
+   "key": "book83",
+   "type": "work",
+   "name": "UFO Contact at Pascagoula",
+   "description": "Self-published 1983 book by Hickson"
+  },
+  {
+   "key": "book18",
+   "type": "work",
+   "name": "Pascagoula: The Closest Encounter, My Story",
+   "description": "2018 book by Parker"
+  },
+  {
+   "key": "files",
+   "type": "work",
+   "name": "Files of the Unexplained",
+   "description": "Netflix series that covered the incident in 2024"
+  },
+  {
+   "key": "fishing",
+   "type": "work",
+   "name": "All They Meant to Do Was Go Fishing",
+   "description": "NICAP transcript of an interview with Hickson and Parker"
+  },
+  {
+   "key": "chapter",
+   "type": "work",
+   "name": "The Pascagoula Abduction: A Case of Hypnagogia?",
+   "description": "Chapter 9 by Joe Nickell in The Reliability of UFO Witness Testimony (2023)"
+  },
+  {
+   "key": "reliability",
+   "type": "work",
+   "name": "The Reliability of UFO Witness Testimony",
+   "description": "2023 edited volume containing Nickell's chapter"
+  },
+  {
+   "key": "f_oval",
+   "type": "feature",
+   "name": "shape-oval-egg"
+  },
+  {
+   "key": "f_abd",
+   "type": "feature",
+   "name": "abduction-claim"
+  },
+  {
+   "key": "f_occ",
+   "type": "feature",
+   "name": "occupants-reported"
+  },
+  {
+   "key": "f_hyp",
+   "type": "feature",
+   "name": "hypnosis-used"
+  },
+  {
+   "key": "f_poly",
+   "type": "feature",
+   "name": "polygraph-used"
+  },
+  {
+   "key": "f_sound",
+   "type": "feature",
+   "name": "sound-reported"
+  },
+  {
+   "key": "f_water",
+   "type": "feature",
+   "name": "water-related"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses"
+  },
+  {
+   "key": "f_hoax",
+   "type": "feature",
+   "name": "hoax-alleged"
+  },
+  {
+   "key": "f_phys",
+   "type": "feature",
+   "name": "physiological-effects"
+  },
+  {
+   "key": "f_inv",
+   "type": "feature",
+   "name": "official-investigation"
+  },
+  {
+   "key": "x_hoax",
+   "type": "explanation",
+   "name": "hoax"
+  },
+  {
+   "key": "x_psych",
+   "type": "explanation",
+   "name": "psychological"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1973-10-11",
+   "quote": "On October 12, 1973, The Mississippi Press reported on the two men who claimed to have been taken on board a UFO by strange creatures the previous night."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "20:00",
+   "quote": "Around 8:00 pm on October 11, service station operator Larry Booth called the sheriff to report seeing a strange craft with a blinking, colored light pass overhead."
+  },
+  {
+   "s": "case",
+   "p": "report_time",
+   "v": "around 11:00 pm",
+   "quote": "Around 11:00 pm, 45-year-old Charles Hickson and his 17-year-old relative Calvin Parker arrived at the Jackson County, Mississippi sheriff's office to report a strange encounter."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "The Pascagoula incident took place amid the 1973 UFO flap – a spate of UFO reports in the US South, particularly Louisiana and Mississippi."
+  },
+  {
+   "s": "case",
+   "p": "witness_count",
+   "v": "2",
+   "quote": "On October 12, 1973, The Mississippi Press reported on the two men who claimed to have been taken on board a UFO by strange creatures the previous night."
+  },
+  {
+   "s": "case",
+   "p": "description",
+   "v": "alleged UFO close encounter",
+   "quote": "The Pascagoula incident was an alleged UFO close encounter reported by Charles Hickson and Calvin Parker, who claimed that while fishing near Pascagoula, Mississippi, they were taken aboard a UFO and examined by aliens before being released."
+  },
+  {
+   "s": "case",
+   "p": "location_detail",
+   "v": "pier on the west bank of the Pascagoula River",
+   "quote": "According to Hickson, the pair had been fishing off a pier on the west bank of the Pascagoula River when they heard a whirring/whizzing sound, saw two flashing blue lights, and observed an oval-shaped object 30–40 feet (9–12 m) across and 8–10 feet (2–3 m) high."
+  },
+  {
+   "s": "case",
+   "p": "occupant_count",
+   "v": "3",
+   "quote": "Hickson claimed three \"creatures\" with \"pincers\" took them aboard the object and subjected them to an examination, before returning them to the wharf."
+  },
+  {
+   "s": "case",
+   "p": "occupant_description",
+   "v": "\"creatures\" with \"pincers\"",
+   "quote": "Hickson claimed three \"creatures\" with \"pincers\" took them aboard the object and subjected them to an examination, before returning them to the wharf."
+  },
+  {
+   "s": "case",
+   "p": "occupant_description",
+   "v": "robotic and friendly",
+   "quote": "Two days later, an article under the pair's name appeared in the local paper, which argued the creatures were robotic and friendly."
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "three creatures took them aboard the object, examined them, and returned them to the wharf",
+   "quote": "Hickson claimed three \"creatures\" with \"pincers\" took them aboard the object and subjected them to an examination, before returning them to the wharf."
+  },
+  {
+   "s": "case",
+   "p": "action",
+   "v": "the pair first went to the office of The Mississippi Press instead of reporting the incident",
+   "quote": "According to the pair, they initially decided not to report the incident but instead went to the office of The Mississippi Press of Pascagoula to share their story."
+  },
+  {
+   "s": "case",
+   "p": "action",
+   "v": "on learning no newsmen were present, the pair went on to the sheriff's office",
+   "quote": "On learning no newsmen were present, the pair continued on to the sheriff's office to make a report."
+  },
+  {
+   "s": "case",
+   "p": "event",
+   "v": "press conference scheduled for 11:15 am on October 12 was cancelled",
+   "quote": "The two men scheduled a press conference for 11:15 am on October 12, but it was cancelled."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "the two men were cleared of radiation exposure",
+   "quote": "The two men were examined at Keesler Air Force Base, cleared of radiation exposure, and released."
+  },
+  {
+   "s": "case",
+   "p": "reaction",
+   "v": "locals called for federal officials to investigate",
+   "quote": "Locals called for federal officials to investigate."
+  },
+  {
+   "s": "case",
+   "p": "event",
+   "v": "by October 17 the press documented subsequent UFO reports",
+   "quote": "By October 17, the press documented subsequent UFO reports in the wake of nationwide attention."
+  },
+  {
+   "s": "case",
+   "p": "event",
+   "v": "the pair were slated to take lie detector tests",
+   "quote": "It was also reported the pair were slated to take lie detector tests."
+  },
+  {
+   "s": "case",
+   "p": "rumor",
+   "v": "speculation the two men were being paid to tell their story after not being seen at their workplace",
+   "quote": "According to local journalists, the two men had not been seen at their workplace, prompting speculation they were being paid to tell their story."
+  },
+  {
+   "s": "case",
+   "p": "note",
+   "v": "use of the polygraph as a lie detector was discredited by the 1980s",
+   "quote": "The use of the polygraph as a lie detector was discredited by the 1980s."
+  },
+  {
+   "s": "case",
+   "p": "event",
+   "v": "a Los Angeles radio station advertised an exclusive interview with the two men",
+   "quote": "Hickson appeared on the November 2 episode of The Dick Cavett Show, three days after a Los Angeles radio station advertised an exclusive interview with the two men."
+  },
+  {
+   "s": "case",
+   "p": "related_report",
+   "v": "a fisherman and his 14-year-old son claimed to have seen an illuminated object underwater in the same river",
+   "quote": "On November 8, The Mississippi Press reported that a fisherman and his 14-year-old son claimed to have seen an illuminated object underwater in the same river."
+  },
+  {
+   "s": "case",
+   "p": "commemoration",
+   "v": "City of Pascagoula hosts a festival every October to mark the anniversary",
+   "quote": "The City of Pascagoula hosts a festival every year in October to mark the anniversary of the incident."
+  },
+  {
+   "s": "case",
+   "p": "conclusion",
+   "v": "Harder and Hynek told the press the accounts were likely based on fact",
+   "quote": "They told the press that the accounts were likely based on fact."
+  },
+  {
+   "s": "hickson",
+   "p": "witness",
+   "o": "case",
+   "quote": "The Pascagoula incident was an alleged UFO close encounter reported by Charles Hickson and Calvin Parker, who claimed that while fishing near Pascagoula, Mississippi, they were taken aboard a UFO and examined by aliens before being released."
+  },
+  {
+   "s": "hickson",
+   "p": "role",
+   "v": "primary claimant",
+   "quote": "The primary claimant, Charles Hickson, would go on to become a UFO celebrity, alleging ongoing contact with the beings and appearing on national television."
+  },
+  {
+   "s": "hickson",
+   "p": "reputation",
+   "v": "UFO celebrity",
+   "quote": "The primary claimant, Charles Hickson, would go on to become a UFO celebrity, alleging ongoing contact with the beings and appearing on national television."
+  },
+  {
+   "s": "hickson",
+   "p": "later_claim",
+   "v": "ongoing contact with the beings",
+   "quote": "The primary claimant, Charles Hickson, would go on to become a UFO celebrity, alleging ongoing contact with the beings and appearing on national television."
+  },
+  {
+   "s": "hickson",
+   "p": "age",
+   "v": "45",
+   "quote": "Around 11:00 pm, 45-year-old Charles Hickson and his 17-year-old relative Calvin Parker arrived at the Jackson County, Mississippi sheriff's office to report a strange encounter."
+  },
+  {
+   "s": "hickson",
+   "p": "relative_of",
+   "o": "parker",
+   "quote": "Around 11:00 pm, 45-year-old Charles Hickson and his 17-year-old relative Calvin Parker arrived at the Jackson County, Mississippi sheriff's office to report a strange encounter."
+  },
+  {
+   "s": "hickson",
+   "p": "described",
+   "o": "craft",
+   "quote": "According to Hickson, the pair had been fishing off a pier on the west bank of the Pascagoula River when they heard a whirring/whizzing sound, saw two flashing blue lights, and observed an oval-shaped object 30–40 feet (9–12 m) across and 8–10 feet (2–3 m) high."
+  },
+  {
+   "s": "hickson",
+   "p": "statement",
+   "v": "the pair had been fishing off a pier on the west bank of the Pascagoula River",
+   "quote": "According to Hickson, the pair had been fishing off a pier on the west bank of the Pascagoula River when they heard a whirring/whizzing sound, saw two flashing blue lights, and observed an oval-shaped object 30–40 feet (9–12 m) across and 8–10 feet (2–3 m) high."
+  },
+  {
+   "s": "hickson",
+   "p": "statement",
+   "v": "Parker fainted and remained unconscious during the examination",
+   "quote": "Hickson explained that the young Parker fainted and remained unconscious during the examination."
+  },
+  {
+   "s": "hickson",
+   "p": "statement",
+   "v": "three \"creatures\" with \"pincers\" took them aboard the object and examined them",
+   "quote": "Hickson claimed three \"creatures\" with \"pincers\" took them aboard the object and subjected them to an examination, before returning them to the wharf."
+  },
+  {
+   "s": "hickson",
+   "p": "statement",
+   "v": "he had only drunk whiskey after being released",
+   "quote": "Ryder smelled alcohol on Hickson's breath, but Hickson explained he had only drunk whiskey after being released."
+  },
+  {
+   "s": "hickson",
+   "p": "polygraph_result",
+   "v": "local examiner concluded he \"told the truth as to what he believed\"",
+   "quote": "Sixteen days after the original event, the press confirmed an upcoming polygraph, and four days later, it was reported that a local polygraph examiner had concluded Hickson \"told the truth as to what he believed\", cautioning \"we do not say a space ship landed or that creatures emerged from it.\""
+  },
+  {
+   "s": "hickson",
+   "p": "action",
+   "v": "appeared on the November 2 episode of The Dick Cavett Show",
+   "quote": "Hickson appeared on the November 2 episode of The Dick Cavett Show, three days after a Los Angeles radio station advertised an exclusive interview with the two men."
+  },
+  {
+   "s": "hickson",
+   "p": "action",
+   "v": "appeared at a taping of The Mike Douglas Show on November 29",
+   "quote": "On November 29, Hickson appeared at a taping of The Mike Douglas Show; the episode aired in syndication in late December."
+  },
+  {
+   "s": "hickson",
+   "p": "action",
+   "v": "appeared on the Tonight Show Starring Johnny Carson",
+   "quote": "Hickson also appeared on the Tonight Show Starring Johnny Carson."
+  },
+  {
+   "s": "hickson",
+   "p": "event",
+   "v": "arrested in January for public drunkenness after being found wandering along a highway",
+   "quote": "In January, Hickson was arrested for public drunkenness after being found wandering along a highway."
+  },
+  {
+   "s": "hickson",
+   "p": "action",
+   "v": "traveled to Detroit in April to address a UFO group",
+   "quote": "In April, Hickson traveled to Detroit to address a UFO group."
+  },
+  {
+   "s": "hickson",
+   "p": "later_claim",
+   "v": "in ongoing contact with the beings, having had three different encounters",
+   "quote": "That month, Hickson told the press that he was in ongoing contact with the beings, having had three different encounters."
+  },
+  {
+   "s": "hickson",
+   "p": "later_claim",
+   "v": "the being would soon provide a message and proof of their existence, which he would relay to Washington",
+   "quote": "Hickson teased that the being would soon provide a message along with proof of their existence which he would relay to Washington."
+  },
+  {
+   "s": "hickson",
+   "p": "action",
+   "v": "met Eric von Däniken later in April",
+   "quote": "Later in April, Hickson met with \"ancient astronauts\" proponent Eric von Däniken."
+  },
+  {
+   "s": "hickson",
+   "p": "action",
+   "v": "gave interviews and lectures and appeared on television, including the game show To Tell The Truth",
+   "quote": "Hickson gave interviews and lectures, and appeared on television (including an episode of the game show To Tell The Truth)."
+  },
+  {
+   "s": "hickson",
+   "p": "later_claim",
+   "v": "additional encounters with aliens in 1974",
+   "quote": "In 1974, Hickson claimed additional encounters with aliens."
+  },
+  {
+   "s": "hickson",
+   "p": "reputation",
+   "v": "described in October 1974 as a \"UFO celebrity\"",
+   "quote": "In October 1974, Hickson was described as a \"UFO celebrity\" who would be featured in an upcoming NBC documentary."
+  },
+  {
+   "s": "hickson",
+   "p": "authored",
+   "o": "book83",
+   "quote": "In 1983, Hickson authored a self-published book, UFO Contact at Pascagoula."
+  },
+  {
+   "s": "hickson",
+   "p": "death_date",
+   "v": "2011-09",
+   "quote": "In September 2011, Hickson died of a heart attack at the age of 80."
+  },
+  {
+   "s": "hickson",
+   "p": "cause_of_death",
+   "v": "heart attack",
+   "quote": "In September 2011, Hickson died of a heart attack at the age of 80."
+  },
+  {
+   "s": "hickson",
+   "p": "age_at_death",
+   "v": "80",
+   "quote": "In September 2011, Hickson died of a heart attack at the age of 80."
+  },
+  {
+   "s": "hickson",
+   "p": "family",
+   "v": "his son and family attended the 2019 marker unveiling",
+   "quote": "Parker attended the unveiling, as did Hickson's son and family."
+  },
+  {
+   "s": "hickson",
+   "p": "statement",
+   "v": "supported the claim that Parker had temporarily lapsed into unconsciousness, during his To Tell the Truth appearance",
+   "quote": "The claim that Parker had temporarily lapsed into unconsciousness was supported by Hickson during his To Tell the Truth appearance."
+  },
+  {
+   "s": "hickson",
+   "p": "action",
+   "v": "refused to take a polygraph exam conducted by an experienced examiner, according to Klass",
+   "quote": "Aviation journalist and UFO skeptic Philip J. Klass found \"discrepancies\" in Hickson's story, noted that Hickson refused to take a polygraph exam conducted by an experienced examiner, and concluded that the case was a hoax."
+  },
+  {
+   "s": "parker",
+   "p": "witness",
+   "o": "case",
+   "quote": "The Pascagoula incident was an alleged UFO close encounter reported by Charles Hickson and Calvin Parker, who claimed that while fishing near Pascagoula, Mississippi, they were taken aboard a UFO and examined by aliens before being released."
+  },
+  {
+   "s": "parker",
+   "p": "age",
+   "v": "17",
+   "quote": "Around 11:00 pm, 45-year-old Charles Hickson and his 17-year-old relative Calvin Parker arrived at the Jackson County, Mississippi sheriff's office to report a strange encounter."
+  },
+  {
+   "s": "parker",
+   "p": "relative_of",
+   "o": "hickson",
+   "quote": "Around 11:00 pm, 45-year-old Charles Hickson and his 17-year-old relative Calvin Parker arrived at the Jackson County, Mississippi sheriff's office to report a strange encounter."
+  },
+  {
+   "s": "parker",
+   "p": "condition",
+   "v": "fainted and remained unconscious during the examination, according to Hickson",
+   "quote": "Hickson explained that the young Parker fainted and remained unconscious during the examination."
+  },
+  {
+   "s": "parker",
+   "p": "action",
+   "v": "declined, through an attorney, to take a polygraph unless requested by Hickson",
+   "quote": "Through an attorney, Parker declined to take a polygraph unless requested by Hickson."
+  },
+  {
+   "s": "parker",
+   "p": "condition",
+   "v": "recently hospitalized, according to his attorney",
+   "quote": "The attorney said Parker had recently been hospitalized."
+  },
+  {
+   "s": "parker",
+   "p": "action",
+   "v": "later attended UFO conventions",
+   "quote": "Parker later attended UFO conventions."
+  },
+  {
+   "s": "parker",
+   "p": "owned",
+   "o": "ufo_inv",
+   "quote": "In 1993, he started a company called \"UFO Investigations\" to produce television stories about UFOs."
+  },
+  {
+   "s": "parker",
+   "p": "authored",
+   "o": "book18",
+   "quote": "In 2018, Parker released his book, entitled Pascagoula: The Closest Encounter, My Story, which is \"the first full account of the event given by Parker along with how it affected his life\"."
+  },
+  {
+   "s": "parker",
+   "p": "action",
+   "v": "attended the unveiling of the historical marker",
+   "quote": "Parker attended the unveiling, as did Hickson's son and family."
+  },
+  {
+   "s": "parker",
+   "p": "statement",
+   "v": "It is emotional for me. I wish when I died I could be buried right here underneath this plaque. It is quite an honor.",
+   "quote": "Parker stated, \"It is emotional for me. I can't really describe it because I would break out in tears if I do. I wish when I died I could be buried right here underneath this plaque, that would explain it the best. It is quite an honor.\""
+  },
+  {
+   "s": "parker",
+   "p": "death_date",
+   "v": "2023-08",
+   "quote": "Parker died from kidney cancer in August 2023 at the age of 68."
+  },
+  {
+   "s": "parker",
+   "p": "cause_of_death",
+   "v": "kidney cancer",
+   "quote": "Parker died from kidney cancer in August 2023 at the age of 68."
+  },
+  {
+   "s": "parker",
+   "p": "age_at_death",
+   "v": "68",
+   "quote": "Parker died from kidney cancer in August 2023 at the age of 68."
+  },
+  {
+   "s": "parker",
+   "p": "statement",
+   "v": "initially told police he had \"passed out at the beginning of the incident and failed to regain consciousness until it was over\"",
+   "quote": "Nickell speculated that Hickson may have fantasized the alien encounter during a hypnagogic \"waking dream state\", and suggested that Parker's corroboration of the tale was likely due to suggestibility because he initially told police he had \"passed out at the beginning of the incident and failed to regain consciousness until it was over\"."
+  },
+  {
+   "s": "booth",
+   "p": "witness",
+   "o": "case",
+   "quote": "Around 8:00 pm on October 11, service station operator Larry Booth called the sheriff to report seeing a strange craft with a blinking, colored light pass overhead."
+  },
+  {
+   "s": "booth",
+   "p": "occupation",
+   "v": "service station operator",
+   "quote": "Around 8:00 pm on October 11, service station operator Larry Booth called the sheriff to report seeing a strange craft with a blinking, colored light pass overhead."
+  },
+  {
+   "s": "booth",
+   "p": "described",
+   "o": "booth_craft",
+   "quote": "Around 8:00 pm on October 11, service station operator Larry Booth called the sheriff to report seeing a strange craft with a blinking, colored light pass overhead."
+  },
+  {
+   "s": "booth",
+   "p": "action",
+   "v": "called the sheriff around 8:00 pm on October 11",
+   "quote": "Around 8:00 pm on October 11, service station operator Larry Booth called the sheriff to report seeing a strange craft with a blinking, colored light pass overhead."
+  },
+  {
+   "s": "ryder",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Captain Glenn Ryder later told the press that he was initially skeptical and suspected a prank but soon came to believe the men were sincere."
+  },
+  {
+   "s": "ryder",
+   "p": "rank",
+   "v": "Captain",
+   "quote": "Captain Glenn Ryder later told the press that he was initially skeptical and suspected a prank but soon came to believe the men were sincere."
+  },
+  {
+   "s": "ryder",
+   "p": "employed_by",
+   "o": "sheriff",
+   "quote": "\"We did everything we knew to try to break their stories,\" Jackson County sheriff's Capt. Glen Ryder told The Washington Post in 1975."
+  },
+  {
+   "s": "ryder",
+   "p": "statement",
+   "v": "initially skeptical and suspected a prank but soon came to believe the men were sincere",
+   "quote": "Captain Glenn Ryder later told the press that he was initially skeptical and suspected a prank but soon came to believe the men were sincere."
+  },
+  {
+   "s": "ryder",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "Captain Glenn Ryder later told the press that he was initially skeptical and suspected a prank but soon came to believe the men were sincere."
+  },
+  {
+   "s": "ryder",
+   "p": "observation",
+   "v": "smelled alcohol on Hickson's breath",
+   "quote": "Ryder smelled alcohol on Hickson's breath, but Hickson explained he had only drunk whiskey after being released."
+  },
+  {
+   "s": "ryder",
+   "p": "statement",
+   "v": "the men were not drunk",
+   "quote": "Ryder told the press that the men were not drunk."
+  },
+  {
+   "s": "ryder",
+   "p": "statement",
+   "v": "We did everything we knew to try to break their stories",
+   "quote": "\"We did everything we knew to try to break their stories,\" Jackson County sheriff's Capt. Glen Ryder told The Washington Post in 1975."
+  },
+  {
+   "s": "ryder",
+   "p": "statement",
+   "v": "If they were lying to me, they should be in Hollywood.",
+   "quote": "\"If they were lying to me, they should be in Hollywood.\""
+  },
+  {
+   "s": "harder",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Ufologist James Harder and debunker-turned-ufologist J. Allen Hynek traveled to Mississippi and interviewed the two men, separately, under hypnosis."
+  },
+  {
+   "s": "harder",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "Ufologist James Harder and debunker-turned-ufologist J. Allen Hynek traveled to Mississippi and interviewed the two men, separately, under hypnosis."
+  },
+  {
+   "s": "harder",
+   "p": "interviewed",
+   "o": "hickson",
+   "quote": "Ufologist James Harder and debunker-turned-ufologist J. Allen Hynek traveled to Mississippi and interviewed the two men, separately, under hypnosis."
+  },
+  {
+   "s": "harder",
+   "p": "interviewed",
+   "o": "parker",
+   "quote": "Ufologist James Harder and debunker-turned-ufologist J. Allen Hynek traveled to Mississippi and interviewed the two men, separately, under hypnosis."
+  },
+  {
+   "s": "harder",
+   "p": "colleague_of",
+   "o": "hynek",
+   "quote": "Ufologist James Harder and debunker-turned-ufologist J. Allen Hynek traveled to Mississippi and interviewed the two men, separately, under hypnosis."
+  },
+  {
+   "s": "harder",
+   "p": "conclusion",
+   "v": "the accounts were likely based on fact",
+   "quote": "They told the press that the accounts were likely based on fact."
+  },
+  {
+   "s": "hynek",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Ufologist James Harder and debunker-turned-ufologist J. Allen Hynek traveled to Mississippi and interviewed the two men, separately, under hypnosis."
+  },
+  {
+   "s": "hynek",
+   "p": "description",
+   "v": "debunker-turned-ufologist",
+   "quote": "Ufologist James Harder and debunker-turned-ufologist J. Allen Hynek traveled to Mississippi and interviewed the two men, separately, under hypnosis."
+  },
+  {
+   "s": "hynek",
+   "p": "interviewed",
+   "o": "hickson",
+   "quote": "Ufologist James Harder and debunker-turned-ufologist J. Allen Hynek traveled to Mississippi and interviewed the two men, separately, under hypnosis."
+  },
+  {
+   "s": "hynek",
+   "p": "interviewed",
+   "o": "parker",
+   "quote": "Ufologist James Harder and debunker-turned-ufologist J. Allen Hynek traveled to Mississippi and interviewed the two men, separately, under hypnosis."
+  },
+  {
+   "s": "hynek",
+   "p": "conclusion",
+   "v": "the accounts were likely based on fact",
+   "quote": "They told the press that the accounts were likely based on fact."
+  },
+  {
+   "s": "daniken",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Later in April, Hickson met with \"ancient astronauts\" proponent Eric von Däniken."
+  },
+  {
+   "s": "daniken",
+   "p": "description",
+   "v": "\"ancient astronauts\" proponent",
+   "quote": "Later in April, Hickson met with \"ancient astronauts\" proponent Eric von Däniken."
+  },
+  {
+   "s": "klass",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Aviation journalist and UFO skeptic Philip J. Klass found \"discrepancies\" in Hickson's story, noted that Hickson refused to take a polygraph exam conducted by an experienced examiner, and concluded that the case was a hoax."
+  },
+  {
+   "s": "klass",
+   "p": "occupation",
+   "v": "aviation journalist",
+   "quote": "Aviation journalist and UFO skeptic Philip J. Klass found \"discrepancies\" in Hickson's story, noted that Hickson refused to take a polygraph exam conducted by an experienced examiner, and concluded that the case was a hoax."
+  },
+  {
+   "s": "klass",
+   "p": "description",
+   "v": "UFO skeptic",
+   "quote": "Aviation journalist and UFO skeptic Philip J. Klass found \"discrepancies\" in Hickson's story, noted that Hickson refused to take a polygraph exam conducted by an experienced examiner, and concluded that the case was a hoax."
+  },
+  {
+   "s": "klass",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "Aviation journalist and UFO skeptic Philip J. Klass found \"discrepancies\" in Hickson's story, noted that Hickson refused to take a polygraph exam conducted by an experienced examiner, and concluded that the case was a hoax."
+  },
+  {
+   "s": "klass",
+   "p": "finding",
+   "v": "found \"discrepancies\" in Hickson's story",
+   "quote": "Aviation journalist and UFO skeptic Philip J. Klass found \"discrepancies\" in Hickson's story, noted that Hickson refused to take a polygraph exam conducted by an experienced examiner, and concluded that the case was a hoax."
+  },
+  {
+   "s": "klass",
+   "p": "conclusion",
+   "v": "the case was a hoax",
+   "quote": "Aviation journalist and UFO skeptic Philip J. Klass found \"discrepancies\" in Hickson's story, noted that Hickson refused to take a polygraph exam conducted by an experienced examiner, and concluded that the case was a hoax."
+  },
+  {
+   "s": "nickell",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Skeptical investigator Joe Nickell wrote that Hickson's behavior was \"questionable\" and that Hickson later altered or embellished his claims."
+  },
+  {
+   "s": "nickell",
+   "p": "occupation",
+   "v": "skeptical investigator",
+   "quote": "Skeptical investigator Joe Nickell wrote that Hickson's behavior was \"questionable\" and that Hickson later altered or embellished his claims."
+  },
+  {
+   "s": "nickell",
+   "p": "statement",
+   "v": "Hickson's behavior was \"questionable\" and Hickson later altered or embellished his claims",
+   "quote": "Skeptical investigator Joe Nickell wrote that Hickson's behavior was \"questionable\" and that Hickson later altered or embellished his claims."
+  },
+  {
+   "s": "nickell",
+   "p": "proposed",
+   "o": "x_psych",
+   "quote": "Nickell speculated that Hickson may have fantasized the alien encounter during a hypnagogic \"waking dream state\", and suggested that Parker's corroboration of the tale was likely due to suggestibility because he initially told police he had \"passed out at the beginning of the incident and failed to regain consciousness until it was over\"."
+  },
+  {
+   "s": "nickell",
+   "p": "statement",
+   "v": "Hickson may have fantasized the encounter during a hypnagogic \"waking dream state\"",
+   "quote": "Nickell speculated that Hickson may have fantasized the alien encounter during a hypnagogic \"waking dream state\", and suggested that Parker's corroboration of the tale was likely due to suggestibility because he initially told police he had \"passed out at the beginning of the incident and failed to regain consciousness until it was over\"."
+  },
+  {
+   "s": "nickell",
+   "p": "statement",
+   "v": "Parker's corroboration was likely due to suggestibility",
+   "quote": "Nickell speculated that Hickson may have fantasized the alien encounter during a hypnagogic \"waking dream state\", and suggested that Parker's corroboration of the tale was likely due to suggestibility because he initially told police he had \"passed out at the beginning of the incident and failed to regain consciousness until it was over\"."
+  },
+  {
+   "s": "nickell",
+   "p": "authored",
+   "o": "chapter",
+   "quote": "Nickell, Joe (2023). \"Chapter 9: The Pascagoula Abduction: A Case of Hypnagogia?\" In Ballester-Olmos, V.J., and Heiden, Richard W. (eds.). The Reliability of UFO Witness Testimony."
+  },
+  {
+   "s": "pascagoula",
+   "p": "near",
+   "o": "case",
+   "quote": "The Pascagoula incident was an alleged UFO close encounter reported by Charles Hickson and Calvin Parker, who claimed that while fishing near Pascagoula, Mississippi, they were taken aboard a UFO and examined by aliens before being released."
+  },
+  {
+   "s": "pascagoula",
+   "p": "located_in",
+   "o": "mississippi",
+   "quote": "The Pascagoula incident was an alleged UFO close encounter reported by Charles Hickson and Calvin Parker, who claimed that while fishing near Pascagoula, Mississippi, they were taken aboard a UFO and examined by aliens before being released."
+  },
+  {
+   "s": "pascagoula",
+   "p": "commemoration",
+   "v": "hosts a festival every year in October to mark the anniversary of the incident",
+   "quote": "The City of Pascagoula hosts a festival every year in October to mark the anniversary of the incident."
+  },
+  {
+   "s": "pascagoula",
+   "p": "action",
+   "v": "the city approved placement of the historical marker",
+   "quote": "On June 22, 2019, a historical marker was unveiled at the site of the alleged abduction, funded by the historical society and with placement approved by the city."
+  },
+  {
+   "s": "river",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "According to Hickson, the pair had been fishing off a pier on the west bank of the Pascagoula River when they heard a whirring/whizzing sound, saw two flashing blue lights, and observed an oval-shaped object 30–40 feet (9–12 m) across and 8–10 feet (2–3 m) high."
+  },
+  {
+   "s": "jackson_county",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Around 11:00 pm, 45-year-old Charles Hickson and his 17-year-old relative Calvin Parker arrived at the Jackson County, Mississippi sheriff's office to report a strange encounter."
+  },
+  {
+   "s": "jackson_county",
+   "p": "located_in",
+   "o": "mississippi",
+   "quote": "Around 11:00 pm, 45-year-old Charles Hickson and his 17-year-old relative Calvin Parker arrived at the Jackson County, Mississippi sheriff's office to report a strange encounter."
+  },
+  {
+   "s": "mississippi",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Ufologist James Harder and debunker-turned-ufologist J. Allen Hynek traveled to Mississippi and interviewed the two men, separately, under hypnosis."
+  },
+  {
+   "s": "mississippi",
+   "p": "part_of",
+   "o": "us_south",
+   "quote": "The Pascagoula incident took place amid the 1973 UFO flap – a spate of UFO reports in the US South, particularly Louisiana and Mississippi."
+  },
+  {
+   "s": "louisiana",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Pascagoula incident took place amid the 1973 UFO flap – a spate of UFO reports in the US South, particularly Louisiana and Mississippi."
+  },
+  {
+   "s": "louisiana",
+   "p": "part_of",
+   "o": "us_south",
+   "quote": "The Pascagoula incident took place amid the 1973 UFO flap – a spate of UFO reports in the US South, particularly Louisiana and Mississippi."
+  },
+  {
+   "s": "us_south",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Pascagoula incident took place amid the 1973 UFO flap – a spate of UFO reports in the US South, particularly Louisiana and Mississippi."
+  },
+  {
+   "s": "keesler",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The two men were examined at Keesler Air Force Base, cleared of radiation exposure, and released."
+  },
+  {
+   "s": "keesler",
+   "p": "event",
+   "v": "the two men were examined there, cleared of radiation exposure, and released",
+   "quote": "The two men were examined at Keesler Air Force Base, cleared of radiation exposure, and released."
+  },
+  {
+   "s": "biloxi",
+   "p": "related_place",
+   "o": "case",
+   "quote": "An artist's conception of a \"creature\" was published in Biloxi the following day."
+  },
+  {
+   "s": "detroit",
+   "p": "related_place",
+   "o": "case",
+   "quote": "In April, Hickson traveled to Detroit to address a UFO group."
+  },
+  {
+   "s": "los_angeles",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Hickson appeared on the November 2 episode of The Dick Cavett Show, three days after a Los Angeles radio station advertised an exclusive interview with the two men."
+  },
+  {
+   "s": "washington",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Hickson teased that the being would soon provide a message along with proof of their existence which he would relay to Washington."
+  },
+  {
+   "s": "marker",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On June 22, 2019, a historical marker was unveiled at the site of the alleged abduction, funded by the historical society and with placement approved by the city."
+  },
+  {
+   "s": "marker",
+   "p": "date",
+   "v": "2019-06-22",
+   "quote": "On June 22, 2019, a historical marker was unveiled at the site of the alleged abduction, funded by the historical society and with placement approved by the city."
+  },
+  {
+   "s": "marker",
+   "p": "location",
+   "v": "at the site of the alleged abduction",
+   "quote": "On June 22, 2019, a historical marker was unveiled at the site of the alleged abduction, funded by the historical society and with placement approved by the city."
+  },
+  {
+   "s": "marker",
+   "p": "funding",
+   "v": "funded by the historical society",
+   "quote": "On June 22, 2019, a historical marker was unveiled at the site of the alleged abduction, funded by the historical society and with placement approved by the city."
+  },
+  {
+   "s": "sheriff",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "Officers left Hickson and Parker alone in a room, secretly recording the conversation between the two hoping to catch them in a lie, but their stories remained consistent with their original testimony."
+  },
+  {
+   "s": "sheriff",
+   "p": "located_in",
+   "o": "jackson_county",
+   "quote": "Around 11:00 pm, 45-year-old Charles Hickson and his 17-year-old relative Calvin Parker arrived at the Jackson County, Mississippi sheriff's office to report a strange encounter."
+  },
+  {
+   "s": "sheriff",
+   "p": "event",
+   "v": "Hickson and Parker arrived around 11:00 pm to report a strange encounter",
+   "quote": "Around 11:00 pm, 45-year-old Charles Hickson and his 17-year-old relative Calvin Parker arrived at the Jackson County, Mississippi sheriff's office to report a strange encounter."
+  },
+  {
+   "s": "sheriff",
+   "p": "action",
+   "v": "officers secretly recorded the two men alone in a room hoping to catch them in a lie",
+   "quote": "Officers left Hickson and Parker alone in a room, secretly recording the conversation between the two hoping to catch them in a lie, but their stories remained consistent with their original testimony."
+  },
+  {
+   "s": "mspress",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "According to the pair, they initially decided not to report the incident but instead went to the office of The Mississippi Press of Pascagoula to share their story."
+  },
+  {
+   "s": "mspress",
+   "p": "located_in",
+   "o": "pascagoula",
+   "quote": "According to the pair, they initially decided not to report the incident but instead went to the office of The Mississippi Press of Pascagoula to share their story."
+  },
+  {
+   "s": "mspress",
+   "p": "published",
+   "o": "press_report",
+   "quote": "On October 12, 1973, The Mississippi Press reported on the two men who claimed to have been taken on board a UFO by strange creatures the previous night."
+  },
+  {
+   "s": "mspress",
+   "p": "action",
+   "v": "reported on November 8 that a fisherman and his 14-year-old son claimed to have seen an illuminated object underwater",
+   "quote": "On November 8, The Mississippi Press reported that a fisherman and his 14-year-old son claimed to have seen an illuminated object underwater in the same river."
+  },
+  {
+   "s": "ap",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "That same day, the Associated Press and United Press International wire services picked up the story, which was covered in papers nationwide."
+  },
+  {
+   "s": "ap",
+   "p": "action",
+   "v": "picked up the story on October 12",
+   "quote": "That same day, the Associated Press and United Press International wire services picked up the story, which was covered in papers nationwide."
+  },
+  {
+   "s": "upi",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "That same day, the Associated Press and United Press International wire services picked up the story, which was covered in papers nationwide."
+  },
+  {
+   "s": "upi",
+   "p": "action",
+   "v": "picked up the story on October 12",
+   "quote": "That same day, the Associated Press and United Press International wire services picked up the story, which was covered in papers nationwide."
+  },
+  {
+   "s": "rotary",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Meanwhile, the pair agreed to tell their story to the local Rotary Club."
+  },
+  {
+   "s": "nbc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In October 1974, Hickson was described as a \"UFO celebrity\" who would be featured in an upcoming NBC documentary."
+  },
+  {
+   "s": "nbc",
+   "p": "published",
+   "o": "nbc_doc",
+   "quote": "In October 1974, Hickson was described as a \"UFO celebrity\" who would be featured in an upcoming NBC documentary."
+  },
+  {
+   "s": "wapo",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "\"We did everything we knew to try to break their stories,\" Jackson County sheriff's Capt. Glen Ryder told The Washington Post in 1975."
+  },
+  {
+   "s": "wapo",
+   "p": "interviewed",
+   "o": "ryder",
+   "quote": "\"We did everything we knew to try to break their stories,\" Jackson County sheriff's Capt. Glen Ryder told The Washington Post in 1975."
+  },
+  {
+   "s": "ufo_inv",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 1993, he started a company called \"UFO Investigations\" to produce television stories about UFOs."
+  },
+  {
+   "s": "ufo_inv",
+   "p": "year",
+   "v": "1993",
+   "quote": "In 1993, he started a company called \"UFO Investigations\" to produce television stories about UFOs."
+  },
+  {
+   "s": "ufo_inv",
+   "p": "purpose",
+   "v": "to produce television stories about UFOs",
+   "quote": "In 1993, he started a company called \"UFO Investigations\" to produce television stories about UFOs."
+  },
+  {
+   "s": "netflix",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 2024, Netflix's Files of the Unexplained covered the incident."
+  },
+  {
+   "s": "netflix",
+   "p": "published",
+   "o": "files",
+   "quote": "In 2024, Netflix's Files of the Unexplained covered the incident."
+  },
+  {
+   "s": "nicap",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "\"All They Meant to Do Was Go Fishing\" (NICAP transcript of an interview with Hickson and Parker)"
+  },
+  {
+   "s": "nicap",
+   "p": "published",
+   "o": "fishing",
+   "quote": "\"All They Meant to Do Was Go Fishing\" (NICAP transcript of an interview with Hickson and Parker)"
+  },
+  {
+   "s": "flap",
+   "p": "related_case",
+   "o": "case",
+   "quote": "The Pascagoula incident took place amid the 1973 UFO flap – a spate of UFO reports in the US South, particularly Louisiana and Mississippi."
+  },
+  {
+   "s": "flap",
+   "p": "year",
+   "v": "1973",
+   "quote": "The Pascagoula incident took place amid the 1973 UFO flap – a spate of UFO reports in the US South, particularly Louisiana and Mississippi."
+  },
+  {
+   "s": "flap",
+   "p": "description",
+   "v": "a spate of UFO reports in the US South, particularly Louisiana and Mississippi",
+   "quote": "The Pascagoula incident took place amid the 1973 UFO flap – a spate of UFO reports in the US South, particularly Louisiana and Mississippi."
+  },
+  {
+   "s": "flap",
+   "p": "occurred_at",
+   "o": "us_south",
+   "quote": "The Pascagoula incident took place amid the 1973 UFO flap – a spate of UFO reports in the US South, particularly Louisiana and Mississippi."
+  },
+  {
+   "s": "hill",
+   "p": "related_case",
+   "o": "case",
+   "quote": "By October 24, the press was comparing the case to the Betty and Barney Hill abduction."
+  },
+  {
+   "s": "hill",
+   "p": "note",
+   "v": "by October 24 the press was comparing the Pascagoula case to it",
+   "quote": "By October 24, the press was comparing the case to the Betty and Barney Hill abduction."
+  },
+  {
+   "s": "craft",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "According to Hickson, the pair had been fishing off a pier on the west bank of the Pascagoula River when they heard a whirring/whizzing sound, saw two flashing blue lights, and observed an oval-shaped object 30–40 feet (9–12 m) across and 8–10 feet (2–3 m) high."
+  },
+  {
+   "s": "craft",
+   "p": "shape",
+   "v": "oval-shaped",
+   "quote": "According to Hickson, the pair had been fishing off a pier on the west bank of the Pascagoula River when they heard a whirring/whizzing sound, saw two flashing blue lights, and observed an oval-shaped object 30–40 feet (9–12 m) across and 8–10 feet (2–3 m) high."
+  },
+  {
+   "s": "craft",
+   "p": "size",
+   "v": "30–40 feet (9–12 m) across",
+   "quote": "According to Hickson, the pair had been fishing off a pier on the west bank of the Pascagoula River when they heard a whirring/whizzing sound, saw two flashing blue lights, and observed an oval-shaped object 30–40 feet (9–12 m) across and 8–10 feet (2–3 m) high."
+  },
+  {
+   "s": "craft",
+   "p": "height",
+   "v": "8–10 feet (2–3 m) high",
+   "quote": "According to Hickson, the pair had been fishing off a pier on the west bank of the Pascagoula River when they heard a whirring/whizzing sound, saw two flashing blue lights, and observed an oval-shaped object 30–40 feet (9–12 m) across and 8–10 feet (2–3 m) high."
+  },
+  {
+   "s": "craft",
+   "p": "sound",
+   "v": "whirring/whizzing",
+   "quote": "According to Hickson, the pair had been fishing off a pier on the west bank of the Pascagoula River when they heard a whirring/whizzing sound, saw two flashing blue lights, and observed an oval-shaped object 30–40 feet (9–12 m) across and 8–10 feet (2–3 m) high."
+  },
+  {
+   "s": "craft",
+   "p": "lights",
+   "v": "two flashing blue lights",
+   "quote": "According to Hickson, the pair had been fishing off a pier on the west bank of the Pascagoula River when they heard a whirring/whizzing sound, saw two flashing blue lights, and observed an oval-shaped object 30–40 feet (9–12 m) across and 8–10 feet (2–3 m) high."
+  },
+  {
+   "s": "craft",
+   "p": "color",
+   "v": "blue lights",
+   "quote": "According to Hickson, the pair had been fishing off a pier on the west bank of the Pascagoula River when they heard a whirring/whizzing sound, saw two flashing blue lights, and observed an oval-shaped object 30–40 feet (9–12 m) across and 8–10 feet (2–3 m) high."
+  },
+  {
+   "s": "booth_craft",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Around 8:00 pm on October 11, service station operator Larry Booth called the sheriff to report seeing a strange craft with a blinking, colored light pass overhead."
+  },
+  {
+   "s": "booth_craft",
+   "p": "lights",
+   "v": "a blinking, colored light",
+   "quote": "Around 8:00 pm on October 11, service station operator Larry Booth called the sheriff to report seeing a strange craft with a blinking, colored light pass overhead."
+  },
+  {
+   "s": "booth_craft",
+   "p": "motion",
+   "v": "passed overhead",
+   "quote": "Around 8:00 pm on October 11, service station operator Larry Booth called the sheriff to report seeing a strange craft with a blinking, colored light pass overhead."
+  },
+  {
+   "s": "booth_craft",
+   "p": "time",
+   "v": "around 8:00 pm on October 11",
+   "quote": "Around 8:00 pm on October 11, service station operator Larry Booth called the sheriff to report seeing a strange craft with a blinking, colored light pass overhead."
+  },
+  {
+   "s": "underwater",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "On November 8, The Mississippi Press reported that a fisherman and his 14-year-old son claimed to have seen an illuminated object underwater in the same river."
+  },
+  {
+   "s": "underwater",
+   "p": "description",
+   "v": "illuminated object underwater",
+   "quote": "On November 8, The Mississippi Press reported that a fisherman and his 14-year-old son claimed to have seen an illuminated object underwater in the same river."
+  },
+  {
+   "s": "underwater",
+   "p": "witnesses",
+   "v": "a fisherman and his 14-year-old son",
+   "quote": "On November 8, The Mississippi Press reported that a fisherman and his 14-year-old son claimed to have seen an illuminated object underwater in the same river."
+  },
+  {
+   "s": "underwater",
+   "p": "located_in",
+   "o": "river",
+   "quote": "On November 8, The Mississippi Press reported that a fisherman and his 14-year-old son claimed to have seen an illuminated object underwater in the same river."
+  },
+  {
+   "s": "recording",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Officers left Hickson and Parker alone in a room, secretly recording the conversation between the two hoping to catch them in a lie, but their stories remained consistent with their original testimony."
+  },
+  {
+   "s": "recording",
+   "p": "content",
+   "v": "their stories remained consistent with their original testimony",
+   "quote": "Officers left Hickson and Parker alone in a room, secretly recording the conversation between the two hoping to catch them in a lie, but their stories remained consistent with their original testimony."
+  },
+  {
+   "s": "press_report",
+   "p": "key_document",
+   "o": "case",
+   "quote": "On October 12, 1973, The Mississippi Press reported on the two men who claimed to have been taken on board a UFO by strange creatures the previous night."
+  },
+  {
+   "s": "press_report",
+   "p": "date",
+   "v": "1973-10-12",
+   "quote": "On October 12, 1973, The Mississippi Press reported on the two men who claimed to have been taken on board a UFO by strange creatures the previous night."
+  },
+  {
+   "s": "pair_article",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Two days later, an article under the pair's name appeared in the local paper, which argued the creatures were robotic and friendly."
+  },
+  {
+   "s": "pair_article",
+   "p": "content",
+   "v": "argued the creatures were robotic and friendly",
+   "quote": "Two days later, an article under the pair's name appeared in the local paper, which argued the creatures were robotic and friendly."
+  },
+  {
+   "s": "hickson",
+   "p": "authored",
+   "o": "pair_article",
+   "quote": "Two days later, an article under the pair's name appeared in the local paper, which argued the creatures were robotic and friendly."
+  },
+  {
+   "s": "parker",
+   "p": "authored",
+   "o": "pair_article",
+   "quote": "Two days later, an article under the pair's name appeared in the local paper, which argued the creatures were robotic and friendly."
+  },
+  {
+   "s": "artist",
+   "p": "key_document",
+   "o": "case",
+   "quote": "An artist's conception of a \"creature\" was published in Biloxi the following day."
+  },
+  {
+   "s": "artist",
+   "p": "location",
+   "v": "published in Biloxi",
+   "quote": "An artist's conception of a \"creature\" was published in Biloxi the following day."
+  },
+  {
+   "s": "polygraph",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Sixteen days after the original event, the press confirmed an upcoming polygraph, and four days later, it was reported that a local polygraph examiner had concluded Hickson \"told the truth as to what he believed\", cautioning \"we do not say a space ship landed or that creatures emerged from it.\""
+  },
+  {
+   "s": "polygraph",
+   "p": "conclusion",
+   "v": "Hickson \"told the truth as to what he believed\"",
+   "quote": "Sixteen days after the original event, the press confirmed an upcoming polygraph, and four days later, it was reported that a local polygraph examiner had concluded Hickson \"told the truth as to what he believed\", cautioning \"we do not say a space ship landed or that creatures emerged from it.\""
+  },
+  {
+   "s": "polygraph",
+   "p": "caveat",
+   "v": "we do not say a space ship landed or that creatures emerged from it.",
+   "quote": "Sixteen days after the original event, the press confirmed an upcoming polygraph, and four days later, it was reported that a local polygraph examiner had concluded Hickson \"told the truth as to what he believed\", cautioning \"we do not say a space ship landed or that creatures emerged from it.\""
+  },
+  {
+   "s": "polygraph",
+   "p": "examiner",
+   "v": "a local polygraph examiner",
+   "quote": "Sixteen days after the original event, the press confirmed an upcoming polygraph, and four days later, it was reported that a local polygraph examiner had concluded Hickson \"told the truth as to what he believed\", cautioning \"we do not say a space ship landed or that creatures emerged from it.\""
+  },
+  {
+   "s": "cavett",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Hickson appeared on the November 2 episode of The Dick Cavett Show, three days after a Los Angeles radio station advertised an exclusive interview with the two men."
+  },
+  {
+   "s": "cavett",
+   "p": "date",
+   "v": "November 2 episode",
+   "quote": "Hickson appeared on the November 2 episode of The Dick Cavett Show, three days after a Los Angeles radio station advertised an exclusive interview with the two men."
+  },
+  {
+   "s": "douglas",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "On November 29, Hickson appeared at a taping of The Mike Douglas Show; the episode aired in syndication in late December."
+  },
+  {
+   "s": "douglas",
+   "p": "date",
+   "v": "taped November 29; aired in syndication in late December",
+   "quote": "On November 29, Hickson appeared at a taping of The Mike Douglas Show; the episode aired in syndication in late December."
+  },
+  {
+   "s": "carson",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Hickson also appeared on the Tonight Show Starring Johnny Carson."
+  },
+  {
+   "s": "tttt",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Hickson gave interviews and lectures, and appeared on television (including an episode of the game show To Tell The Truth)."
+  },
+  {
+   "s": "tttt",
+   "p": "format",
+   "v": "game show",
+   "quote": "Hickson gave interviews and lectures, and appeared on television (including an episode of the game show To Tell The Truth)."
+  },
+  {
+   "s": "nbc_doc",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In October 1974, Hickson was described as a \"UFO celebrity\" who would be featured in an upcoming NBC documentary."
+  },
+  {
+   "s": "book83",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 1983, Hickson authored a self-published book, UFO Contact at Pascagoula."
+  },
+  {
+   "s": "book83",
+   "p": "year",
+   "v": "1983",
+   "quote": "In 1983, Hickson authored a self-published book, UFO Contact at Pascagoula."
+  },
+  {
+   "s": "book83",
+   "p": "format",
+   "v": "self-published book",
+   "quote": "In 1983, Hickson authored a self-published book, UFO Contact at Pascagoula."
+  },
+  {
+   "s": "book18",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2018, Parker released his book, entitled Pascagoula: The Closest Encounter, My Story, which is \"the first full account of the event given by Parker along with how it affected his life\"."
+  },
+  {
+   "s": "book18",
+   "p": "year",
+   "v": "2018",
+   "quote": "In 2018, Parker released his book, entitled Pascagoula: The Closest Encounter, My Story, which is \"the first full account of the event given by Parker along with how it affected his life\"."
+  },
+  {
+   "s": "book18",
+   "p": "description",
+   "v": "the first full account of the event given by Parker along with how it affected his life",
+   "quote": "In 2018, Parker released his book, entitled Pascagoula: The Closest Encounter, My Story, which is \"the first full account of the event given by Parker along with how it affected his life\"."
+  },
+  {
+   "s": "files",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2024, Netflix's Files of the Unexplained covered the incident."
+  },
+  {
+   "s": "files",
+   "p": "year",
+   "v": "2024",
+   "quote": "In 2024, Netflix's Files of the Unexplained covered the incident."
+  },
+  {
+   "s": "fishing",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "\"All They Meant to Do Was Go Fishing\" (NICAP transcript of an interview with Hickson and Parker)"
+  },
+  {
+   "s": "fishing",
+   "p": "format",
+   "v": "transcript of an interview with Hickson and Parker",
+   "quote": "\"All They Meant to Do Was Go Fishing\" (NICAP transcript of an interview with Hickson and Parker)"
+  },
+  {
+   "s": "chapter",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Nickell, Joe (2023). \"Chapter 9: The Pascagoula Abduction: A Case of Hypnagogia?\" In Ballester-Olmos, V.J., and Heiden, Richard W. (eds.). The Reliability of UFO Witness Testimony."
+  },
+  {
+   "s": "chapter",
+   "p": "year",
+   "v": "2023",
+   "quote": "Nickell, Joe (2023). \"Chapter 9: The Pascagoula Abduction: A Case of Hypnagogia?\" In Ballester-Olmos, V.J., and Heiden, Richard W. (eds.). The Reliability of UFO Witness Testimony."
+  },
+  {
+   "s": "chapter",
+   "p": "part_of",
+   "o": "reliability",
+   "quote": "Nickell, Joe (2023). \"Chapter 9: The Pascagoula Abduction: A Case of Hypnagogia?\" In Ballester-Olmos, V.J., and Heiden, Richard W. (eds.). The Reliability of UFO Witness Testimony."
+  },
+  {
+   "s": "reliability",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Nickell, Joe (2023). \"Chapter 9: The Pascagoula Abduction: A Case of Hypnagogia?\" In Ballester-Olmos, V.J., and Heiden, Richard W. (eds.). The Reliability of UFO Witness Testimony."
+  },
+  {
+   "s": "f_oval",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to Hickson, the pair had been fishing off a pier on the west bank of the Pascagoula River when they heard a whirring/whizzing sound, saw two flashing blue lights, and observed an oval-shaped object 30–40 feet (9–12 m) across and 8–10 feet (2–3 m) high."
+  },
+  {
+   "s": "f_abd",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Pascagoula incident was an alleged UFO close encounter reported by Charles Hickson and Calvin Parker, who claimed that while fishing near Pascagoula, Mississippi, they were taken aboard a UFO and examined by aliens before being released."
+  },
+  {
+   "s": "f_occ",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Hickson claimed three \"creatures\" with \"pincers\" took them aboard the object and subjected them to an examination, before returning them to the wharf."
+  },
+  {
+   "s": "f_hyp",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Ufologist James Harder and debunker-turned-ufologist J. Allen Hynek traveled to Mississippi and interviewed the two men, separately, under hypnosis."
+  },
+  {
+   "s": "f_poly",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Sixteen days after the original event, the press confirmed an upcoming polygraph, and four days later, it was reported that a local polygraph examiner had concluded Hickson \"told the truth as to what he believed\", cautioning \"we do not say a space ship landed or that creatures emerged from it.\""
+  },
+  {
+   "s": "f_sound",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to Hickson, the pair had been fishing off a pier on the west bank of the Pascagoula River when they heard a whirring/whizzing sound, saw two flashing blue lights, and observed an oval-shaped object 30–40 feet (9–12 m) across and 8–10 feet (2–3 m) high."
+  },
+  {
+   "s": "f_water",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "On November 8, The Mississippi Press reported that a fisherman and his 14-year-old son claimed to have seen an illuminated object underwater in the same river."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "On October 12, 1973, The Mississippi Press reported on the two men who claimed to have been taken on board a UFO by strange creatures the previous night."
+  },
+  {
+   "s": "f_hoax",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Aviation journalist and UFO skeptic Philip J. Klass found \"discrepancies\" in Hickson's story, noted that Hickson refused to take a polygraph exam conducted by an experienced examiner, and concluded that the case was a hoax."
+  },
+  {
+   "s": "f_phys",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Hickson explained that the young Parker fainted and remained unconscious during the examination."
+  },
+  {
+   "s": "f_inv",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Officers left Hickson and Parker alone in a room, secretly recording the conversation between the two hoping to catch them in a lie, but their stories remained consistent with their original testimony."
+  },
+  {
+   "s": "x_hoax",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Aviation journalist and UFO skeptic Philip J. Klass found \"discrepancies\" in Hickson's story, noted that Hickson refused to take a polygraph exam conducted by an experienced examiner, and concluded that the case was a hoax."
+  },
+  {
+   "s": "x_psych",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Nickell speculated that Hickson may have fantasized the alien encounter during a hypnagogic \"waking dream state\", and suggested that Parker's corroboration of the tale was likely due to suggestibility because he initially told police he had \"passed out at the beginning of the incident and failed to regain consciousness until it was over\"."
+  }
+ ]
+}

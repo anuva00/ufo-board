@@ -1,0 +1,1295 @@
+{
+ "slug": "robert-taylor-incident",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Robert Taylor incident",
+   "description": "Claimed 9 November 1979 encounter of forester Robert Taylor with a 'flying dome' on Dechmont Law, Livingston, Scotland, recorded by police as an assault.",
+   "aliases": [
+    "Taylor Incident",
+    "Livingston Incident",
+    "Dechmont Woods Encounter"
+   ]
+  },
+  {
+   "key": "taylor",
+   "type": "person",
+   "name": "Robert Taylor",
+   "description": "Forestry worker for the Livingston Development Corporation who claimed the encounter.",
+   "aliases": [
+    "Bob Taylor",
+    "Robert \"Bob\" Taylor",
+    "Taylor"
+   ]
+  },
+  {
+   "key": "mary",
+   "type": "person",
+   "name": "Mary Taylor",
+   "description": "Robert Taylor's wife, who called the police and a doctor when he came home.",
+   "aliases": [
+    "Mary"
+   ]
+  },
+  {
+   "key": "drummond",
+   "type": "person",
+   "name": "Malcolm Drummond",
+   "description": "Head of the Livingston Development Corporation, telephoned by Taylor's wife."
+  },
+  {
+   "key": "robinson",
+   "type": "person",
+   "name": "Malcolm Robinson",
+   "description": "Ufologist and author who accepts Taylor's story."
+  },
+  {
+   "key": "campbell",
+   "type": "person",
+   "name": "Steuart Campbell",
+   "description": "UFO sceptic who visited the site with police in 1979 and proposed conventional explanations.",
+   "aliases": [
+    "Campbell"
+   ]
+  },
+  {
+   "key": "hannaford",
+   "type": "person",
+   "name": "Patricia Hannaford",
+   "description": "Founder of the Edinburgh University UFO Research Society and qualified physician who advised Campbell on medical aspects."
+  },
+  {
+   "key": "donnelly",
+   "type": "person",
+   "name": "Steve Donnelly",
+   "description": "Physicist and editor for The Skeptic who considered the incident explained by an epileptic attack."
+  },
+  {
+   "key": "fenton",
+   "type": "person",
+   "name": "Phill Fenton",
+   "description": "Local businessman who published a 2013 report speculating on the cause of the incident."
+  },
+  {
+   "key": "ldc",
+   "type": "organization",
+   "name": "Livingston Development Corporation",
+   "description": "Taylor's employer, which agreed to add a commemorative plaque.",
+   "aliases": [
+    "LDC"
+   ]
+  },
+  {
+   "key": "eu_ufo",
+   "type": "organization",
+   "name": "Edinburgh University UFO Research Society",
+   "description": "UFO research society founded by Patricia Hannaford."
+  },
+  {
+   "key": "skeptic_mag",
+   "type": "organization",
+   "name": "The Skeptic",
+   "description": "Publication for which Steve Donnelly was an editor."
+  },
+  {
+   "key": "lufc",
+   "type": "organization",
+   "name": "Livingston United F.C.",
+   "description": "Football club near which Taylor's home stood."
+  },
+  {
+   "key": "dechmont",
+   "type": "place",
+   "name": "Dechmont Law",
+   "description": "Hill in Livingston where Taylor claimed the encounter took place."
+  },
+  {
+   "key": "deans_forest",
+   "type": "place",
+   "name": "Deans Forest",
+   "description": "Forest where Taylor rounded a corner and saw the object."
+  },
+  {
+   "key": "livingston",
+   "type": "place",
+   "name": "Livingston, Scotland",
+   "description": "Town in West Lothian where Dechmont Law lies and where Taylor lived.",
+   "aliases": [
+    "Livingston",
+    "Livingston, West Lothian"
+   ]
+  },
+  {
+   "key": "westlothian",
+   "type": "place",
+   "name": "West Lothian",
+   "description": "Area of Scotland containing Livingston."
+  },
+  {
+   "key": "scotland",
+   "type": "place",
+   "name": "Scotland",
+   "description": "Country of the incident."
+  },
+  {
+   "key": "m8",
+   "type": "place",
+   "name": "M8 motorway",
+   "description": "Motorway near which Taylor parked his pickup truck."
+  },
+  {
+   "key": "livstation",
+   "type": "place",
+   "name": "Livingston Station, Scotland",
+   "description": "Locality (now Deans, West Lothian) where Taylor lived at 4 Broomyknowe Drive.",
+   "aliases": [
+    "Livingston Station",
+    "Deans, West Lothian",
+    "Deans"
+   ]
+  },
+  {
+   "key": "blairgowrie",
+   "type": "place",
+   "name": "Blairgowrie and Rattray, Scotland",
+   "description": "Town to which Taylor later moved.",
+   "aliases": [
+    "Blairgowrie and Rattray"
+   ]
+  },
+  {
+   "key": "dome",
+   "type": "craft",
+   "name": "\"flying dome\" seen by Robert Taylor on 9 November 1979",
+   "description": "Large dark metallic dome or sphere about 7 yards across, hovering in a forest clearing."
+  },
+  {
+   "key": "spheres",
+   "type": "craft",
+   "name": "smaller mine-like spheres seen by Robert Taylor on 9 November 1979",
+   "description": "Smaller spheres 'similar to sea mines' that Taylor said seized and dragged him."
+  },
+  {
+   "key": "truck",
+   "type": "vehicle",
+   "name": "Robert Taylor's pickup truck",
+   "description": "Pickup truck Taylor parked near the M8 motorway and could not start afterwards."
+  },
+  {
+   "key": "fenton_report",
+   "type": "work",
+   "name": "Phill Fenton's report (2013)",
+   "description": "Report published in 2013 by Phill Fenton speculating on a mini-stroke, chemical exposure and a water tower.",
+   "aliases": [
+    "Phill Fenton's report"
+   ]
+  },
+  {
+   "key": "acc_mw",
+   "type": "work",
+   "name": "Arthur C. Clarke's Mysterious World",
+   "description": "Television series whose 10th episode showed an interview with Taylor and the investigating detectives."
+  },
+  {
+   "key": "f_sphere",
+   "type": "feature",
+   "name": "shape-sphere",
+   "description": "Object described as a large circular sphere."
+  },
+  {
+   "key": "f_dome",
+   "type": "feature",
+   "name": "other:dome-shaped object",
+   "description": "Object described as a 'flying dome'."
+  },
+  {
+   "key": "f_hover",
+   "type": "feature",
+   "name": "hovering",
+   "description": "Object hovering above the forest floor."
+  },
+  {
+   "key": "f_traces",
+   "type": "feature",
+   "name": "physical-traces",
+   "description": "Ladder-shaped and other marks found in the ground."
+  },
+  {
+   "key": "f_phys",
+   "type": "feature",
+   "name": "physiological-effects",
+   "description": "Loss of consciousness, grazes, headache, dry throat, leg paralysis."
+  },
+  {
+   "key": "f_animal",
+   "type": "feature",
+   "name": "animal-reaction",
+   "description": "Taylor's dog was barking furiously when he awoke."
+  },
+  {
+   "key": "f_em",
+   "type": "feature",
+   "name": "electromagnetic-interference",
+   "description": "Taylor could not start his truck after the encounter."
+  },
+  {
+   "key": "f_abd",
+   "type": "feature",
+   "name": "other:attempted abduction",
+   "description": "Taylor claimed the object tried to pull him aboard."
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Police recorded the matter as an assault and investigated."
+  },
+  {
+   "key": "f_odor",
+   "type": "feature",
+   "name": "other:odor-reported",
+   "description": "Foul odour 'like burning brakes'."
+  },
+  {
+   "key": "f_small",
+   "type": "feature",
+   "name": "other:smaller secondary objects",
+   "description": "Smaller spheres accompanying the large object."
+  },
+  {
+   "key": "x_epilepsy",
+   "type": "explanation",
+   "name": "other:temporal lobe epilepsy",
+   "description": "Collapse as an epileptic attack with the objects as resultant hallucinations."
+  },
+  {
+   "key": "x_venus",
+   "type": "explanation",
+   "name": "venus-or-planet",
+   "description": "Attack possibly stimulated by a mirage of Venus."
+  },
+  {
+   "key": "x_mirage",
+   "type": "explanation",
+   "name": "other:mirage",
+   "description": "Mirage (of Venus) suggested as stimulus for the attack."
+  },
+  {
+   "key": "x_pipes",
+   "type": "explanation",
+   "name": "other:stacked pipes caused ground marks",
+   "description": "Stacks of pipes stored in the clearing were responsible for the ground markings."
+  },
+  {
+   "key": "x_stroke",
+   "type": "explanation",
+   "name": "other:mini-stroke and chemical exposure",
+   "description": "Taylor may have suffered a mini-stroke and been exposed to harmful chemicals."
+  },
+  {
+   "key": "x_tower",
+   "type": "explanation",
+   "name": "misperception",
+   "description": "The UFO could have been a saucer-shaped water tower nearby."
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1979-11-09",
+   "quote": "According to Taylor, a forestry worker for the Livingston Development Corporation, on 9 November 1979 he parked his pickup truck at the side of a road near the M8 motorway and walked along a forest path up the side of Dechmont Law with his dog, red setter Lara."
+  },
+  {
+   "s": "case",
+   "p": "year",
+   "v": "1979",
+   "quote": "the Taylor Incident, a.k.a. Livingston Incident or Dechmont Woods Encounter, is the name given to a claimed 1979 sighting of an unidentified flying object (UFO) by forester Robert \"Bob\" Taylor on Dechmont Law in Livingston, West Lothian, Scotland"
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "10 a.m.",
+   "quote": "At 10 a.m., he rounded a corner in Deans Forest and saw the object."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "Scotland",
+   "quote": "the Taylor Incident, a.k.a. Livingston Incident or Dechmont Woods Encounter, is the name given to a claimed 1979 sighting of an unidentified flying object (UFO) by forester Robert \"Bob\" Taylor on Dechmont Law in Livingston, West Lothian, Scotland"
+  },
+  {
+   "s": "case",
+   "p": "alternate_name",
+   "v": "Taylor Incident",
+   "quote": "the Taylor Incident, a.k.a. Livingston Incident or Dechmont Woods Encounter, is the name given to a claimed 1979 sighting of an unidentified flying object (UFO) by forester Robert \"Bob\" Taylor on Dechmont Law in Livingston, West Lothian, Scotland"
+  },
+  {
+   "s": "case",
+   "p": "alternate_name",
+   "v": "Livingston Incident",
+   "quote": "the Taylor Incident, a.k.a. Livingston Incident or Dechmont Woods Encounter, is the name given to a claimed 1979 sighting of an unidentified flying object (UFO) by forester Robert \"Bob\" Taylor on Dechmont Law in Livingston, West Lothian, Scotland"
+  },
+  {
+   "s": "case",
+   "p": "alternate_name",
+   "v": "Dechmont Woods Encounter",
+   "quote": "the Taylor Incident, a.k.a. Livingston Incident or Dechmont Woods Encounter, is the name given to a claimed 1979 sighting of an unidentified flying object (UFO) by forester Robert \"Bob\" Taylor on Dechmont Law in Livingston, West Lothian, Scotland"
+  },
+  {
+   "s": "case",
+   "p": "summary",
+   "v": "claimed 1979 sighting of a UFO by forester Robert \"Bob\" Taylor on Dechmont Law",
+   "quote": "the Taylor Incident, a.k.a. Livingston Incident or Dechmont Woods Encounter, is the name given to a claimed 1979 sighting of an unidentified flying object (UFO) by forester Robert \"Bob\" Taylor on Dechmont Law in Livingston, West Lothian, Scotland"
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "Taylor claimed he had encountered a \"flying dome\" which tried to pull him aboard",
+   "quote": "When Taylor returned home from a trip to Dechmont Law dishevelled, his clothes torn and with grazes to his chin and thighs, he claimed he had encountered a \"flying dome\" which tried to pull him aboard."
+  },
+  {
+   "s": "case",
+   "p": "witness_injuries",
+   "v": "grazes to his chin and thighs; clothes torn",
+   "quote": "When Taylor returned home from a trip to Dechmont Law dishevelled, his clothes torn and with grazes to his chin and thighs, he claimed he had encountered a \"flying dome\" which tried to pull him aboard."
+  },
+  {
+   "s": "case",
+   "p": "police_classification",
+   "v": "common assault",
+   "quote": "Due to his injuries, the police recorded the matter as a common assault and the incident is popularly promoted as the \"only example of an alien sighting becoming the subject of a criminal investigation\"."
+  },
+  {
+   "s": "case",
+   "p": "police_classification",
+   "v": "criminal assault",
+   "quote": "Police recorded the matter as a criminal assault."
+  },
+  {
+   "s": "case",
+   "p": "significance",
+   "v": "popularly promoted as the \"only example of an alien sighting becoming the subject of a criminal investigation\"",
+   "quote": "Due to his injuries, the police recorded the matter as a common assault and the incident is popularly promoted as the \"only example of an alien sighting becoming the subject of a criminal investigation\"."
+  },
+  {
+   "s": "case",
+   "p": "significance",
+   "v": "\"the only UFO sighting that was subject to a criminal investigation\"",
+   "quote": "The story drew attention from ufologists, and Taylor became notable among UFO enthusiasts as having experienced \"the only UFO sighting that was subject to a criminal investigation\"."
+  },
+  {
+   "s": "case",
+   "p": "odour",
+   "v": "foul odour \"like burning brakes\"",
+   "quote": "Taylor claims he experienced a foul odour \"like burning brakes\" and that smaller spheres \"similar to sea mines\" seized him and were dragging him in the direction of the larger object when he lost consciousness."
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "smaller spheres seized him and were dragging him towards the larger object when he lost consciousness",
+   "quote": "Taylor claims he experienced a foul odour \"like burning brakes\" and that smaller spheres \"similar to sea mines\" seized him and were dragging him in the direction of the larger object when he lost consciousness."
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "when he awoke his dog was barking furiously and the objects were gone",
+   "quote": "According to Taylor, when he later awoke, his dog was barking furiously and the objects were gone, but he could not start his truck, so he walked back to his home in Livingston."
+  },
+  {
+   "s": "case",
+   "p": "aftermath",
+   "v": "he could not start his truck, so he walked back to his home in Livingston",
+   "quote": "According to Taylor, when he later awoke, his dog was barking furiously and the objects were gone, but he could not start his truck, so he walked back to his home in Livingston."
+  },
+  {
+   "s": "case",
+   "p": "distance_from_truck",
+   "v": "about 530 yards (1,590 ft; 480 m)",
+   "quote": "Taylor reported seeing what he described as a \"flying dome\" or a large circular sphere approximately 7 yards (6.4 m; 21 ft) in diameter, hovering above the forest floor in a clearing about 530 yards (1,590 ft; 480 m) away from his truck."
+  },
+  {
+   "s": "case",
+   "p": "setting",
+   "v": "a clearing in the forest",
+   "quote": "Taylor reported seeing what he described as a \"flying dome\" or a large circular sphere approximately 7 yards (6.4 m; 21 ft) in diameter, hovering above the forest floor in a clearing about 530 yards (1,590 ft; 480 m) away from his truck."
+  },
+  {
+   "s": "case",
+   "p": "medical_treatment",
+   "v": "a doctor treated him for grazes to his chin and thighs",
+   "quote": "She called the police and a doctor, who treated him for grazes to his chin and thighs."
+  },
+  {
+   "s": "case",
+   "p": "police_action",
+   "v": "police accompanied Taylor to the site where he claimed he had received his injuries",
+   "quote": "Police accompanied Taylor to the site where he claimed he had received his injuries."
+  },
+  {
+   "s": "case",
+   "p": "ground_marks",
+   "v": "\"ladder-shaped marks\" where Taylor said he had seen the large spherical object",
+   "quote": "They found \"ladder-shaped marks\" in the ground where Taylor said he had seen the large spherical object and other marks that Taylor said had been made by the smaller mine-like objects."
+  },
+  {
+   "s": "case",
+   "p": "ground_marks",
+   "v": "other marks that Taylor said had been made by the smaller mine-like objects",
+   "quote": "They found \"ladder-shaped marks\" in the ground where Taylor said he had seen the large spherical object and other marks that Taylor said had been made by the smaller mine-like objects."
+  },
+  {
+   "s": "case",
+   "p": "commemoration",
+   "v": "commemorative plaque, installed in January 1992",
+   "quote": "Livingston Development Corporation (LDC) agreed to add a commemorative plaque, installed in January 1992."
+  },
+  {
+   "s": "case",
+   "p": "plaque_installed",
+   "v": "1992-01",
+   "quote": "Livingston Development Corporation (LDC) agreed to add a commemorative plaque, installed in January 1992."
+  },
+  {
+   "s": "case",
+   "p": "reception",
+   "v": "the story drew attention from ufologists",
+   "quote": "The story drew attention from ufologists, and Taylor became notable among UFO enthusiasts as having experienced \"the only UFO sighting that was subject to a criminal investigation\"."
+  },
+  {
+   "s": "case",
+   "p": "pipes_observed",
+   "v": "PVC pipes in an adjoining field",
+   "quote": "On his second visit to the site, he stated that he had observed some PVC pipes in an adjoining field."
+  },
+  {
+   "s": "case",
+   "p": "cable_duct_distance",
+   "v": "within 100 m (330 ft) of the clearing",
+   "quote": "He discovered that the local water authority had laid a cable duct within 100 m (330 ft) of the clearing."
+  },
+  {
+   "s": "case",
+   "p": "cable_duct_laid_by",
+   "v": "the local water authority",
+   "quote": "He discovered that the local water authority had laid a cable duct within 100 m (330 ft) of the clearing."
+  },
+  {
+   "s": "case",
+   "p": "reported_symptoms",
+   "v": "strong smell which nobody else could detect, headache, dry throat, paralysis of his legs, period of unconsciousness",
+   "quote": "Symptoms such as Taylor's previous meningitis, his report of a strong smell which nobody else could detect, his headache, dry throat, paralysis of his legs, and period of unconsciousness suggested this cause."
+  },
+  {
+   "s": "case",
+   "p": "police_interview",
+   "v": "detectives investigating the case were interviewed alongside Taylor",
+   "quote": "Interview with Robert Taylor and Detectives investigating the case on YouTube. as shown on the 10th episode of Arthur C. Clarke's Mysterious World, originally broadcast 4 November 1980"
+  },
+  {
+   "s": "taylor",
+   "p": "witness",
+   "o": "case",
+   "quote": "the Taylor Incident, a.k.a. Livingston Incident or Dechmont Woods Encounter, is the name given to a claimed 1979 sighting of an unidentified flying object (UFO) by forester Robert \"Bob\" Taylor on Dechmont Law in Livingston, West Lothian, Scotland"
+  },
+  {
+   "s": "taylor",
+   "p": "nickname",
+   "v": "Bob",
+   "quote": "the Taylor Incident, a.k.a. Livingston Incident or Dechmont Woods Encounter, is the name given to a claimed 1979 sighting of an unidentified flying object (UFO) by forester Robert \"Bob\" Taylor on Dechmont Law in Livingston, West Lothian, Scotland"
+  },
+  {
+   "s": "taylor",
+   "p": "occupation",
+   "v": "forester",
+   "quote": "the Taylor Incident, a.k.a. Livingston Incident or Dechmont Woods Encounter, is the name given to a claimed 1979 sighting of an unidentified flying object (UFO) by forester Robert \"Bob\" Taylor on Dechmont Law in Livingston, West Lothian, Scotland"
+  },
+  {
+   "s": "taylor",
+   "p": "occupation",
+   "v": "forestry worker",
+   "quote": "According to Taylor, a forestry worker for the Livingston Development Corporation, on 9 November 1979 he parked his pickup truck at the side of a road near the M8 motorway and walked along a forest path up the side of Dechmont Law with his dog, red setter Lara."
+  },
+  {
+   "s": "taylor",
+   "p": "employed_by",
+   "o": "ldc",
+   "quote": "According to Taylor, a forestry worker for the Livingston Development Corporation, on 9 November 1979 he parked his pickup truck at the side of a road near the M8 motorway and walked along a forest path up the side of Dechmont Law with his dog, red setter Lara."
+  },
+  {
+   "s": "taylor",
+   "p": "years_as_forestry_worker",
+   "v": "15 years",
+   "quote": "He had been a forestry worker for 15 years."
+  },
+  {
+   "s": "taylor",
+   "p": "dog_name",
+   "v": "Lara",
+   "quote": "According to Taylor, a forestry worker for the Livingston Development Corporation, on 9 November 1979 he parked his pickup truck at the side of a road near the M8 motorway and walked along a forest path up the side of Dechmont Law with his dog, red setter Lara."
+  },
+  {
+   "s": "taylor",
+   "p": "dog_breed",
+   "v": "red setter",
+   "quote": "According to Taylor, a forestry worker for the Livingston Development Corporation, on 9 November 1979 he parked his pickup truck at the side of a road near the M8 motorway and walked along a forest path up the side of Dechmont Law with his dog, red setter Lara."
+  },
+  {
+   "s": "taylor",
+   "p": "home_address",
+   "v": "4 Broomyknowe Drive, Livingston Station (now Deans, West Lothian)",
+   "quote": "He lived at 4 Broomyknowe Drive, at Livingston Station (now Deans, West Lothian), near Livingston United F.C."
+  },
+  {
+   "s": "taylor",
+   "p": "home_near",
+   "v": "Livingston United F.C.",
+   "quote": "He lived at 4 Broomyknowe Drive, at Livingston Station (now Deans, West Lothian), near Livingston United F.C."
+  },
+  {
+   "s": "taylor",
+   "p": "later_residence",
+   "v": "Berrydale Road in Blairgowrie and Rattray",
+   "quote": "Later he moved to Berrydale Road in Blairgowrie and Rattray."
+  },
+  {
+   "s": "taylor",
+   "p": "medical_history",
+   "v": "previous meningitis",
+   "quote": "Symptoms such as Taylor's previous meningitis, his report of a strong smell which nobody else could detect, his headache, dry throat, paralysis of his legs, and period of unconsciousness suggested this cause."
+  },
+  {
+   "s": "taylor",
+   "p": "injuries",
+   "v": "grazes to his chin and thighs",
+   "quote": "She called the police and a doctor, who treated him for grazes to his chin and thighs."
+  },
+  {
+   "s": "taylor",
+   "p": "appearance_on_return",
+   "v": "dishevelled and muddy with torn clothing and ripped trousers",
+   "quote": "Taylor's wife, Mary, reported that when he arrived home on foot, he appeared dishevelled and muddy with torn clothing and ripped trousers."
+  },
+  {
+   "s": "taylor",
+   "p": "statement",
+   "v": "lost consciousness while smaller spheres dragged him towards the larger object",
+   "quote": "Taylor claims he experienced a foul odour \"like burning brakes\" and that smaller spheres \"similar to sea mines\" seized him and were dragging him in the direction of the larger object when he lost consciousness."
+  },
+  {
+   "s": "taylor",
+   "p": "statement",
+   "v": "experienced a foul odour \"like burning brakes\"",
+   "quote": "Taylor claims he experienced a foul odour \"like burning brakes\" and that smaller spheres \"similar to sea mines\" seized him and were dragging him in the direction of the larger object when he lost consciousness."
+  },
+  {
+   "s": "taylor",
+   "p": "reputation",
+   "v": "notable among UFO enthusiasts",
+   "quote": "The story drew attention from ufologists, and Taylor became notable among UFO enthusiasts as having experienced \"the only UFO sighting that was subject to a criminal investigation\"."
+  },
+  {
+   "s": "taylor",
+   "p": "described",
+   "o": "dome",
+   "quote": "Taylor reported seeing what he described as a \"flying dome\" or a large circular sphere approximately 7 yards (6.4 m; 21 ft) in diameter, hovering above the forest floor in a clearing about 530 yards (1,590 ft; 480 m) away from his truck."
+  },
+  {
+   "s": "taylor",
+   "p": "described",
+   "o": "dome",
+   "quote": "Taylor described the object as made of \"a dark metallic material with a rough texture like sandpaper\", and featuring an outer rim \"set with small propellers\"."
+  },
+  {
+   "s": "taylor",
+   "p": "described",
+   "o": "spheres",
+   "quote": "Taylor claims he experienced a foul odour \"like burning brakes\" and that smaller spheres \"similar to sea mines\" seized him and were dragging him in the direction of the larger object when he lost consciousness."
+  },
+  {
+   "s": "taylor",
+   "p": "piloted",
+   "o": "truck",
+   "quote": "According to Taylor, a forestry worker for the Livingston Development Corporation, on 9 November 1979 he parked his pickup truck at the side of a road near the M8 motorway and walked along a forest path up the side of Dechmont Law with his dog, red setter Lara."
+  },
+  {
+   "s": "taylor",
+   "p": "stationed_at",
+   "o": "livstation",
+   "quote": "He lived at 4 Broomyknowe Drive, at Livingston Station (now Deans, West Lothian), near Livingston United F.C."
+  },
+  {
+   "s": "taylor",
+   "p": "interviewed_in",
+   "o": "acc_mw",
+   "quote": "Interview with Robert Taylor and Detectives investigating the case on YouTube. as shown on the 10th episode of Arthur C. Clarke's Mysterious World, originally broadcast 4 November 1980"
+  },
+  {
+   "s": "mary",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Taylor's wife, Mary, reported that when he arrived home on foot, he appeared dishevelled and muddy with torn clothing and ripped trousers."
+  },
+  {
+   "s": "mary",
+   "p": "relative_of",
+   "o": "taylor",
+   "quote": "Taylor's wife, Mary, reported that when he arrived home on foot, he appeared dishevelled and muddy with torn clothing and ripped trousers."
+  },
+  {
+   "s": "mary",
+   "p": "relationship",
+   "v": "wife of Robert Taylor",
+   "quote": "Taylor's wife, Mary, reported that when he arrived home on foot, he appeared dishevelled and muddy with torn clothing and ripped trousers."
+  },
+  {
+   "s": "mary",
+   "p": "statement",
+   "v": "he appeared dishevelled and muddy with torn clothing and ripped trousers when he arrived home on foot",
+   "quote": "Taylor's wife, Mary, reported that when he arrived home on foot, he appeared dishevelled and muddy with torn clothing and ripped trousers."
+  },
+  {
+   "s": "mary",
+   "p": "action",
+   "v": "called the police and a doctor",
+   "quote": "She called the police and a doctor, who treated him for grazes to his chin and thighs."
+  },
+  {
+   "s": "mary",
+   "p": "action",
+   "v": "telephoned Malcolm Drummond",
+   "quote": "His wife telephoned Malcolm Drummond, the head of the Livingston Development Corporation."
+  },
+  {
+   "s": "drummond",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "His wife telephoned Malcolm Drummond, the head of the Livingston Development Corporation."
+  },
+  {
+   "s": "drummond",
+   "p": "employed_by",
+   "o": "ldc",
+   "quote": "His wife telephoned Malcolm Drummond, the head of the Livingston Development Corporation."
+  },
+  {
+   "s": "drummond",
+   "p": "position",
+   "v": "head of the Livingston Development Corporation",
+   "quote": "His wife telephoned Malcolm Drummond, the head of the Livingston Development Corporation."
+  },
+  {
+   "s": "robinson",
+   "p": "proponent",
+   "o": "case",
+   "quote": "Ufologist and author Malcolm Robinson accepts Taylor's story, saying he believes \"it could be one of the few genuine cases of a UFO encounter\"."
+  },
+  {
+   "s": "robinson",
+   "p": "occupation",
+   "v": "ufologist and author",
+   "quote": "Ufologist and author Malcolm Robinson accepts Taylor's story, saying he believes \"it could be one of the few genuine cases of a UFO encounter\"."
+  },
+  {
+   "s": "robinson",
+   "p": "statement",
+   "v": "\"it could be one of the few genuine cases of a UFO encounter\"",
+   "quote": "Ufologist and author Malcolm Robinson accepts Taylor's story, saying he believes \"it could be one of the few genuine cases of a UFO encounter\"."
+  },
+  {
+   "s": "campbell",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "In 1979, UFO sceptic Steuart Campbell visited the scene of the incident with the police."
+  },
+  {
+   "s": "campbell",
+   "p": "investigator",
+   "o": "case",
+   "quote": "In 1979, UFO sceptic Steuart Campbell visited the scene of the incident with the police."
+  },
+  {
+   "s": "campbell",
+   "p": "occupation",
+   "v": "UFO sceptic",
+   "quote": "In 1979, UFO sceptic Steuart Campbell visited the scene of the incident with the police."
+  },
+  {
+   "s": "campbell",
+   "p": "site_visit",
+   "v": "visited the scene of the incident with the police in 1979",
+   "quote": "In 1979, UFO sceptic Steuart Campbell visited the scene of the incident with the police."
+  },
+  {
+   "s": "campbell",
+   "p": "statement",
+   "v": "was convinced that a simple explanation would be found",
+   "quote": "Campbell was convinced that a simple explanation would be found."
+  },
+  {
+   "s": "campbell",
+   "p": "statement",
+   "v": "on his second visit to the site he observed some PVC pipes in an adjoining field",
+   "quote": "On his second visit to the site, he stated that he had observed some PVC pipes in an adjoining field."
+  },
+  {
+   "s": "campbell",
+   "p": "finding",
+   "v": "the local water authority had laid a cable duct within 100 m (330 ft) of the clearing",
+   "quote": "He discovered that the local water authority had laid a cable duct within 100 m (330 ft) of the clearing."
+  },
+  {
+   "s": "campbell",
+   "p": "proposed",
+   "o": "x_pipes",
+   "quote": "He came to the conclusion that stacks of pipes might have been stored in the clearing and were responsible for the ground markings."
+  },
+  {
+   "s": "campbell",
+   "p": "proposed",
+   "o": "x_venus",
+   "quote": "Campbell suggested Taylor's attack might have been stimulated by a mirage of Venus."
+  },
+  {
+   "s": "campbell",
+   "p": "proposed",
+   "o": "x_mirage",
+   "quote": "Campbell suggested Taylor's attack might have been stimulated by a mirage of Venus."
+  },
+  {
+   "s": "hannaford",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Patricia Hannaford, founder of the Edinburgh University UFO Research Society and a qualified physician, advised Campbell on medical aspects of the case."
+  },
+  {
+   "s": "hannaford",
+   "p": "member_of",
+   "o": "eu_ufo",
+   "quote": "Patricia Hannaford, founder of the Edinburgh University UFO Research Society and a qualified physician, advised Campbell on medical aspects of the case."
+  },
+  {
+   "s": "hannaford",
+   "p": "role",
+   "v": "founder of the Edinburgh University UFO Research Society",
+   "quote": "Patricia Hannaford, founder of the Edinburgh University UFO Research Society and a qualified physician, advised Campbell on medical aspects of the case."
+  },
+  {
+   "s": "hannaford",
+   "p": "occupation",
+   "v": "qualified physician",
+   "quote": "Patricia Hannaford, founder of the Edinburgh University UFO Research Society and a qualified physician, advised Campbell on medical aspects of the case."
+  },
+  {
+   "s": "hannaford",
+   "p": "advised",
+   "o": "campbell",
+   "quote": "Patricia Hannaford, founder of the Edinburgh University UFO Research Society and a qualified physician, advised Campbell on medical aspects of the case."
+  },
+  {
+   "s": "hannaford",
+   "p": "proposed",
+   "o": "x_epilepsy",
+   "quote": "She suggested that Taylor's collapse was an isolated attack of temporal lobe epilepsy, with the reported objects explainable as resultant hallucinations."
+  },
+  {
+   "s": "hannaford",
+   "p": "statement",
+   "v": "Taylor's collapse was an isolated attack of temporal lobe epilepsy, with the reported objects explainable as resultant hallucinations",
+   "quote": "She suggested that Taylor's collapse was an isolated attack of temporal lobe epilepsy, with the reported objects explainable as resultant hallucinations."
+  },
+  {
+   "s": "donnelly",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Steve Donnelly, a physicist and editor for The Skeptic, also considered the incident to be explained by an epileptic attack."
+  },
+  {
+   "s": "donnelly",
+   "p": "occupation",
+   "v": "physicist",
+   "quote": "Steve Donnelly, a physicist and editor for The Skeptic, also considered the incident to be explained by an epileptic attack."
+  },
+  {
+   "s": "donnelly",
+   "p": "occupation",
+   "v": "editor for The Skeptic",
+   "quote": "Steve Donnelly, a physicist and editor for The Skeptic, also considered the incident to be explained by an epileptic attack."
+  },
+  {
+   "s": "donnelly",
+   "p": "employed_by",
+   "o": "skeptic_mag",
+   "quote": "Steve Donnelly, a physicist and editor for The Skeptic, also considered the incident to be explained by an epileptic attack."
+  },
+  {
+   "s": "donnelly",
+   "p": "proposed",
+   "o": "x_epilepsy",
+   "quote": "Steve Donnelly, a physicist and editor for The Skeptic, also considered the incident to be explained by an epileptic attack."
+  },
+  {
+   "s": "fenton",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Local businessman Phill Fenton published a report in 2013, speculating that Taylor \"may have suffered a mini-stroke and been exposed to harmful chemicals which left him confused and disoriented\" and that \"the UFO he believes he saw could have been a saucer-shaped water tower nearby\"."
+  },
+  {
+   "s": "fenton",
+   "p": "occupation",
+   "v": "local businessman",
+   "quote": "Local businessman Phill Fenton published a report in 2013, speculating that Taylor \"may have suffered a mini-stroke and been exposed to harmful chemicals which left him confused and disoriented\" and that \"the UFO he believes he saw could have been a saucer-shaped water tower nearby\"."
+  },
+  {
+   "s": "fenton",
+   "p": "authored",
+   "o": "fenton_report",
+   "quote": "Local businessman Phill Fenton published a report in 2013, speculating that Taylor \"may have suffered a mini-stroke and been exposed to harmful chemicals which left him confused and disoriented\" and that \"the UFO he believes he saw could have been a saucer-shaped water tower nearby\"."
+  },
+  {
+   "s": "fenton",
+   "p": "proposed",
+   "o": "x_stroke",
+   "quote": "Local businessman Phill Fenton published a report in 2013, speculating that Taylor \"may have suffered a mini-stroke and been exposed to harmful chemicals which left him confused and disoriented\" and that \"the UFO he believes he saw could have been a saucer-shaped water tower nearby\"."
+  },
+  {
+   "s": "fenton",
+   "p": "proposed",
+   "o": "x_tower",
+   "quote": "Local businessman Phill Fenton published a report in 2013, speculating that Taylor \"may have suffered a mini-stroke and been exposed to harmful chemicals which left him confused and disoriented\" and that \"the UFO he believes he saw could have been a saucer-shaped water tower nearby\"."
+  },
+  {
+   "s": "fenton",
+   "p": "statement",
+   "v": "Taylor \"may have suffered a mini-stroke and been exposed to harmful chemicals which left him confused and disoriented\"",
+   "quote": "Local businessman Phill Fenton published a report in 2013, speculating that Taylor \"may have suffered a mini-stroke and been exposed to harmful chemicals which left him confused and disoriented\" and that \"the UFO he believes he saw could have been a saucer-shaped water tower nearby\"."
+  },
+  {
+   "s": "fenton",
+   "p": "statement",
+   "v": "\"the UFO he believes he saw could have been a saucer-shaped water tower nearby\"",
+   "quote": "Local businessman Phill Fenton published a report in 2013, speculating that Taylor \"may have suffered a mini-stroke and been exposed to harmful chemicals which left him confused and disoriented\" and that \"the UFO he believes he saw could have been a saucer-shaped water tower nearby\"."
+  },
+  {
+   "s": "ldc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "According to Taylor, a forestry worker for the Livingston Development Corporation, on 9 November 1979 he parked his pickup truck at the side of a road near the M8 motorway and walked along a forest path up the side of Dechmont Law with his dog, red setter Lara."
+  },
+  {
+   "s": "ldc",
+   "p": "abbreviation",
+   "v": "LDC",
+   "quote": "Livingston Development Corporation (LDC) agreed to add a commemorative plaque, installed in January 1992."
+  },
+  {
+   "s": "ldc",
+   "p": "action",
+   "v": "agreed to add a commemorative plaque, installed in January 1992",
+   "quote": "Livingston Development Corporation (LDC) agreed to add a commemorative plaque, installed in January 1992."
+  },
+  {
+   "s": "lufc",
+   "p": "near",
+   "o": "livstation",
+   "quote": "He lived at 4 Broomyknowe Drive, at Livingston Station (now Deans, West Lothian), near Livingston United F.C."
+  },
+  {
+   "s": "dechmont",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "the Taylor Incident, a.k.a. Livingston Incident or Dechmont Woods Encounter, is the name given to a claimed 1979 sighting of an unidentified flying object (UFO) by forester Robert \"Bob\" Taylor on Dechmont Law in Livingston, West Lothian, Scotland"
+  },
+  {
+   "s": "dechmont",
+   "p": "located_in",
+   "o": "livingston",
+   "quote": "the Taylor Incident, a.k.a. Livingston Incident or Dechmont Woods Encounter, is the name given to a claimed 1979 sighting of an unidentified flying object (UFO) by forester Robert \"Bob\" Taylor on Dechmont Law in Livingston, West Lothian, Scotland"
+  },
+  {
+   "s": "deans_forest",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "At 10 a.m., he rounded a corner in Deans Forest and saw the object."
+  },
+  {
+   "s": "livingston",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "the Taylor Incident, a.k.a. Livingston Incident or Dechmont Woods Encounter, is the name given to a claimed 1979 sighting of an unidentified flying object (UFO) by forester Robert \"Bob\" Taylor on Dechmont Law in Livingston, West Lothian, Scotland"
+  },
+  {
+   "s": "livingston",
+   "p": "located_in",
+   "o": "westlothian",
+   "quote": "the Taylor Incident, a.k.a. Livingston Incident or Dechmont Woods Encounter, is the name given to a claimed 1979 sighting of an unidentified flying object (UFO) by forester Robert \"Bob\" Taylor on Dechmont Law in Livingston, West Lothian, Scotland"
+  },
+  {
+   "s": "westlothian",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "the Taylor Incident, a.k.a. Livingston Incident or Dechmont Woods Encounter, is the name given to a claimed 1979 sighting of an unidentified flying object (UFO) by forester Robert \"Bob\" Taylor on Dechmont Law in Livingston, West Lothian, Scotland"
+  },
+  {
+   "s": "westlothian",
+   "p": "located_in",
+   "o": "scotland",
+   "quote": "the Taylor Incident, a.k.a. Livingston Incident or Dechmont Woods Encounter, is the name given to a claimed 1979 sighting of an unidentified flying object (UFO) by forester Robert \"Bob\" Taylor on Dechmont Law in Livingston, West Lothian, Scotland"
+  },
+  {
+   "s": "scotland",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "the Taylor Incident, a.k.a. Livingston Incident or Dechmont Woods Encounter, is the name given to a claimed 1979 sighting of an unidentified flying object (UFO) by forester Robert \"Bob\" Taylor on Dechmont Law in Livingston, West Lothian, Scotland"
+  },
+  {
+   "s": "m8",
+   "p": "near",
+   "o": "case",
+   "quote": "According to Taylor, a forestry worker for the Livingston Development Corporation, on 9 November 1979 he parked his pickup truck at the side of a road near the M8 motorway and walked along a forest path up the side of Dechmont Law with his dog, red setter Lara."
+  },
+  {
+   "s": "livstation",
+   "p": "related_place",
+   "o": "case",
+   "quote": "He lived at 4 Broomyknowe Drive, at Livingston Station (now Deans, West Lothian), near Livingston United F.C."
+  },
+  {
+   "s": "livstation",
+   "p": "located_in",
+   "o": "westlothian",
+   "quote": "He lived at 4 Broomyknowe Drive, at Livingston Station (now Deans, West Lothian), near Livingston United F.C."
+  },
+  {
+   "s": "livstation",
+   "p": "current_name",
+   "v": "Deans, West Lothian",
+   "quote": "He lived at 4 Broomyknowe Drive, at Livingston Station (now Deans, West Lothian), near Livingston United F.C."
+  },
+  {
+   "s": "livingston",
+   "p": "role",
+   "v": "Taylor walked back to his home in Livingston",
+   "quote": "According to Taylor, when he later awoke, his dog was barking furiously and the objects were gone, but he could not start his truck, so he walked back to his home in Livingston."
+  },
+  {
+   "s": "blairgowrie",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Later he moved to Berrydale Road in Blairgowrie and Rattray."
+  },
+  {
+   "s": "blairgowrie",
+   "p": "role",
+   "v": "Taylor later moved to Berrydale Road there",
+   "quote": "Later he moved to Berrydale Road in Blairgowrie and Rattray."
+  },
+  {
+   "s": "dome",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Taylor reported seeing what he described as a \"flying dome\" or a large circular sphere approximately 7 yards (6.4 m; 21 ft) in diameter, hovering above the forest floor in a clearing about 530 yards (1,590 ft; 480 m) away from his truck."
+  },
+  {
+   "s": "dome",
+   "p": "shape",
+   "v": "\"flying dome\" or a large circular sphere",
+   "quote": "Taylor reported seeing what he described as a \"flying dome\" or a large circular sphere approximately 7 yards (6.4 m; 21 ft) in diameter, hovering above the forest floor in a clearing about 530 yards (1,590 ft; 480 m) away from his truck."
+  },
+  {
+   "s": "dome",
+   "p": "size",
+   "v": "approximately 7 yards (6.4 m; 21 ft) in diameter",
+   "quote": "Taylor reported seeing what he described as a \"flying dome\" or a large circular sphere approximately 7 yards (6.4 m; 21 ft) in diameter, hovering above the forest floor in a clearing about 530 yards (1,590 ft; 480 m) away from his truck."
+  },
+  {
+   "s": "dome",
+   "p": "behaviour",
+   "v": "hovering above the forest floor in a clearing",
+   "quote": "Taylor reported seeing what he described as a \"flying dome\" or a large circular sphere approximately 7 yards (6.4 m; 21 ft) in diameter, hovering above the forest floor in a clearing about 530 yards (1,590 ft; 480 m) away from his truck."
+  },
+  {
+   "s": "dome",
+   "p": "distance_from_truck",
+   "v": "about 530 yards (1,590 ft; 480 m)",
+   "quote": "Taylor reported seeing what he described as a \"flying dome\" or a large circular sphere approximately 7 yards (6.4 m; 21 ft) in diameter, hovering above the forest floor in a clearing about 530 yards (1,590 ft; 480 m) away from his truck."
+  },
+  {
+   "s": "dome",
+   "p": "material",
+   "v": "a dark metallic material with a rough texture like sandpaper",
+   "quote": "Taylor described the object as made of \"a dark metallic material with a rough texture like sandpaper\", and featuring an outer rim \"set with small propellers\"."
+  },
+  {
+   "s": "dome",
+   "p": "color",
+   "v": "dark metallic",
+   "quote": "Taylor described the object as made of \"a dark metallic material with a rough texture like sandpaper\", and featuring an outer rim \"set with small propellers\"."
+  },
+  {
+   "s": "dome",
+   "p": "texture",
+   "v": "rough, like sandpaper",
+   "quote": "Taylor described the object as made of \"a dark metallic material with a rough texture like sandpaper\", and featuring an outer rim \"set with small propellers\"."
+  },
+  {
+   "s": "dome",
+   "p": "rim",
+   "v": "outer rim \"set with small propellers\"",
+   "quote": "Taylor described the object as made of \"a dark metallic material with a rough texture like sandpaper\", and featuring an outer rim \"set with small propellers\"."
+  },
+  {
+   "s": "dome",
+   "p": "behaviour",
+   "v": "tried to pull him aboard",
+   "quote": "When Taylor returned home from a trip to Dechmont Law dishevelled, his clothes torn and with grazes to his chin and thighs, he claimed he had encountered a \"flying dome\" which tried to pull him aboard."
+  },
+  {
+   "s": "dome",
+   "p": "ground_marks",
+   "v": "\"ladder-shaped marks\" in the ground",
+   "quote": "They found \"ladder-shaped marks\" in the ground where Taylor said he had seen the large spherical object and other marks that Taylor said had been made by the smaller mine-like objects."
+  },
+  {
+   "s": "dome",
+   "p": "shape",
+   "v": "large spherical object",
+   "quote": "They found \"ladder-shaped marks\" in the ground where Taylor said he had seen the large spherical object and other marks that Taylor said had been made by the smaller mine-like objects."
+  },
+  {
+   "s": "spheres",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Taylor claims he experienced a foul odour \"like burning brakes\" and that smaller spheres \"similar to sea mines\" seized him and were dragging him in the direction of the larger object when he lost consciousness."
+  },
+  {
+   "s": "spheres",
+   "p": "shape",
+   "v": "spheres \"similar to sea mines\"",
+   "quote": "Taylor claims he experienced a foul odour \"like burning brakes\" and that smaller spheres \"similar to sea mines\" seized him and were dragging him in the direction of the larger object when he lost consciousness."
+  },
+  {
+   "s": "spheres",
+   "p": "size",
+   "v": "smaller than the main object",
+   "quote": "Taylor claims he experienced a foul odour \"like burning brakes\" and that smaller spheres \"similar to sea mines\" seized him and were dragging him in the direction of the larger object when he lost consciousness."
+  },
+  {
+   "s": "spheres",
+   "p": "behaviour",
+   "v": "seized him and were dragging him in the direction of the larger object",
+   "quote": "Taylor claims he experienced a foul odour \"like burning brakes\" and that smaller spheres \"similar to sea mines\" seized him and were dragging him in the direction of the larger object when he lost consciousness."
+  },
+  {
+   "s": "spheres",
+   "p": "ground_marks",
+   "v": "other marks that Taylor said had been made by the smaller mine-like objects",
+   "quote": "They found \"ladder-shaped marks\" in the ground where Taylor said he had seen the large spherical object and other marks that Taylor said had been made by the smaller mine-like objects."
+  },
+  {
+   "s": "spheres",
+   "p": "description",
+   "v": "mine-like objects",
+   "quote": "They found \"ladder-shaped marks\" in the ground where Taylor said he had seen the large spherical object and other marks that Taylor said had been made by the smaller mine-like objects."
+  },
+  {
+   "s": "truck",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "According to Taylor, a forestry worker for the Livingston Development Corporation, on 9 November 1979 he parked his pickup truck at the side of a road near the M8 motorway and walked along a forest path up the side of Dechmont Law with his dog, red setter Lara."
+  },
+  {
+   "s": "truck",
+   "p": "vehicle_type",
+   "v": "pickup truck",
+   "quote": "According to Taylor, a forestry worker for the Livingston Development Corporation, on 9 November 1979 he parked his pickup truck at the side of a road near the M8 motorway and walked along a forest path up the side of Dechmont Law with his dog, red setter Lara."
+  },
+  {
+   "s": "truck",
+   "p": "parked_at",
+   "v": "the side of a road near the M8 motorway",
+   "quote": "According to Taylor, a forestry worker for the Livingston Development Corporation, on 9 November 1979 he parked his pickup truck at the side of a road near the M8 motorway and walked along a forest path up the side of Dechmont Law with his dog, red setter Lara."
+  },
+  {
+   "s": "truck",
+   "p": "malfunction",
+   "v": "he could not start his truck",
+   "quote": "According to Taylor, when he later awoke, his dog was barking furiously and the objects were gone, but he could not start his truck, so he walked back to his home in Livingston."
+  },
+  {
+   "s": "fenton_report",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Local businessman Phill Fenton published a report in 2013, speculating that Taylor \"may have suffered a mini-stroke and been exposed to harmful chemicals which left him confused and disoriented\" and that \"the UFO he believes he saw could have been a saucer-shaped water tower nearby\"."
+  },
+  {
+   "s": "fenton_report",
+   "p": "year",
+   "v": "2013",
+   "quote": "Local businessman Phill Fenton published a report in 2013, speculating that Taylor \"may have suffered a mini-stroke and been exposed to harmful chemicals which left him confused and disoriented\" and that \"the UFO he believes he saw could have been a saucer-shaped water tower nearby\"."
+  },
+  {
+   "s": "fenton_report",
+   "p": "listed_as",
+   "v": "Phill Fenton's report",
+   "quote": "Phill Fenton's report"
+  },
+  {
+   "s": "acc_mw",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Interview with Robert Taylor and Detectives investigating the case on YouTube. as shown on the 10th episode of Arthur C. Clarke's Mysterious World, originally broadcast 4 November 1980"
+  },
+  {
+   "s": "acc_mw",
+   "p": "episode",
+   "v": "10th episode",
+   "quote": "Interview with Robert Taylor and Detectives investigating the case on YouTube. as shown on the 10th episode of Arthur C. Clarke's Mysterious World, originally broadcast 4 November 1980"
+  },
+  {
+   "s": "acc_mw",
+   "p": "broadcast_date",
+   "v": "1980-11-04",
+   "quote": "Interview with Robert Taylor and Detectives investigating the case on YouTube. as shown on the 10th episode of Arthur C. Clarke's Mysterious World, originally broadcast 4 November 1980"
+  },
+  {
+   "s": "acc_mw",
+   "p": "content",
+   "v": "interview with Robert Taylor and detectives investigating the case",
+   "quote": "Interview with Robert Taylor and Detectives investigating the case on YouTube. as shown on the 10th episode of Arthur C. Clarke's Mysterious World, originally broadcast 4 November 1980"
+  },
+  {
+   "s": "f_sphere",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Taylor reported seeing what he described as a \"flying dome\" or a large circular sphere approximately 7 yards (6.4 m; 21 ft) in diameter, hovering above the forest floor in a clearing about 530 yards (1,590 ft; 480 m) away from his truck."
+  },
+  {
+   "s": "f_dome",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Taylor reported seeing what he described as a \"flying dome\" or a large circular sphere approximately 7 yards (6.4 m; 21 ft) in diameter, hovering above the forest floor in a clearing about 530 yards (1,590 ft; 480 m) away from his truck."
+  },
+  {
+   "s": "f_hover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Taylor reported seeing what he described as a \"flying dome\" or a large circular sphere approximately 7 yards (6.4 m; 21 ft) in diameter, hovering above the forest floor in a clearing about 530 yards (1,590 ft; 480 m) away from his truck."
+  },
+  {
+   "s": "f_traces",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "They found \"ladder-shaped marks\" in the ground where Taylor said he had seen the large spherical object and other marks that Taylor said had been made by the smaller mine-like objects."
+  },
+  {
+   "s": "f_phys",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Taylor claims he experienced a foul odour \"like burning brakes\" and that smaller spheres \"similar to sea mines\" seized him and were dragging him in the direction of the larger object when he lost consciousness."
+  },
+  {
+   "s": "f_phys",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Symptoms such as Taylor's previous meningitis, his report of a strong smell which nobody else could detect, his headache, dry throat, paralysis of his legs, and period of unconsciousness suggested this cause."
+  },
+  {
+   "s": "f_animal",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to Taylor, when he later awoke, his dog was barking furiously and the objects were gone, but he could not start his truck, so he walked back to his home in Livingston."
+  },
+  {
+   "s": "f_em",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to Taylor, when he later awoke, his dog was barking furiously and the objects were gone, but he could not start his truck, so he walked back to his home in Livingston."
+  },
+  {
+   "s": "f_abd",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "When Taylor returned home from a trip to Dechmont Law dishevelled, his clothes torn and with grazes to his chin and thighs, he claimed he had encountered a \"flying dome\" which tried to pull him aboard."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Due to his injuries, the police recorded the matter as a common assault and the incident is popularly promoted as the \"only example of an alien sighting becoming the subject of a criminal investigation\"."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Police recorded the matter as a criminal assault."
+  },
+  {
+   "s": "f_odor",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Taylor claims he experienced a foul odour \"like burning brakes\" and that smaller spheres \"similar to sea mines\" seized him and were dragging him in the direction of the larger object when he lost consciousness."
+  },
+  {
+   "s": "f_small",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Taylor claims he experienced a foul odour \"like burning brakes\" and that smaller spheres \"similar to sea mines\" seized him and were dragging him in the direction of the larger object when he lost consciousness."
+  },
+  {
+   "s": "x_epilepsy",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "She suggested that Taylor's collapse was an isolated attack of temporal lobe epilepsy, with the reported objects explainable as resultant hallucinations."
+  },
+  {
+   "s": "x_epilepsy",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Steve Donnelly, a physicist and editor for The Skeptic, also considered the incident to be explained by an epileptic attack."
+  },
+  {
+   "s": "x_epilepsy",
+   "p": "supporting_symptoms",
+   "v": "previous meningitis, strong smell nobody else could detect, headache, dry throat, paralysis of legs, period of unconsciousness",
+   "quote": "Symptoms such as Taylor's previous meningitis, his report of a strong smell which nobody else could detect, his headache, dry throat, paralysis of his legs, and period of unconsciousness suggested this cause."
+  },
+  {
+   "s": "x_venus",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Campbell suggested Taylor's attack might have been stimulated by a mirage of Venus."
+  },
+  {
+   "s": "x_mirage",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Campbell suggested Taylor's attack might have been stimulated by a mirage of Venus."
+  },
+  {
+   "s": "x_pipes",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "He came to the conclusion that stacks of pipes might have been stored in the clearing and were responsible for the ground markings."
+  },
+  {
+   "s": "x_stroke",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Local businessman Phill Fenton published a report in 2013, speculating that Taylor \"may have suffered a mini-stroke and been exposed to harmful chemicals which left him confused and disoriented\" and that \"the UFO he believes he saw could have been a saucer-shaped water tower nearby\"."
+  },
+  {
+   "s": "x_tower",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Local businessman Phill Fenton published a report in 2013, speculating that Taylor \"may have suffered a mini-stroke and been exposed to harmful chemicals which left him confused and disoriented\" and that \"the UFO he believes he saw could have been a saucer-shaped water tower nearby\"."
+  },
+  {
+   "s": "x_tower",
+   "p": "detail",
+   "v": "a saucer-shaped water tower nearby",
+   "quote": "Local businessman Phill Fenton published a report in 2013, speculating that Taylor \"may have suffered a mini-stroke and been exposed to harmful chemicals which left him confused and disoriented\" and that \"the UFO he believes he saw could have been a saucer-shaped water tower nearby\"."
+  }
+ ]
+}

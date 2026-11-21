@@ -1,0 +1,2117 @@
+{
+ "slug": "mariana-ufo-film",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Mariana UFO incident",
+   "aliases": [
+    "Mariana UFO film",
+    "Mariana film",
+    "Montana Movie",
+    "Montana film",
+    "Mariana's sighting"
+   ],
+   "description": "1950 sighting and 16 mm film of two bright objects over Great Falls, Montana by Nick Mariana."
+  },
+  {
+   "key": "mariana",
+   "type": "person",
+   "name": "Nick Mariana",
+   "description": "General manager of the Great Falls Electrics baseball team who filmed the objects"
+  },
+  {
+   "key": "raunig",
+   "type": "person",
+   "name": "Virginia Raunig",
+   "aliases": [
+    "Ms. Raunig"
+   ],
+   "description": "Mariana's nineteen-year-old secretary and second witness"
+  },
+  {
+   "key": "brynildsen",
+   "type": "person",
+   "name": "John P. Brynildsen",
+   "aliases": [
+    "Capt. Brynildsen",
+    "Captain John P. Brynildsen"
+   ],
+   "description": "USAF captain who interviewed Mariana and forwarded the film"
+  },
+  {
+   "key": "clark",
+   "type": "person",
+   "name": "Jerome Clark",
+   "description": "UFO historian"
+  },
+  {
+   "key": "taylor",
+   "type": "person",
+   "name": "Ray W. Taylor",
+   "aliases": [
+    "Lt. Col. Ray W. Taylor"
+   ],
+   "description": "USAF lieutenant colonel who returned the film to Mariana"
+  },
+  {
+   "key": "ruppelt",
+   "type": "person",
+   "name": "Edward J. Ruppelt",
+   "aliases": [
+    "Captain Ruppelt"
+   ],
+   "description": "Air Force officer, later supervisor of Project Blue Book"
+  },
+  {
+   "key": "considine",
+   "type": "person",
+   "name": "Bob Considine",
+   "description": "Writer and UFO skeptic"
+  },
+  {
+   "key": "robertson",
+   "type": "person",
+   "name": "H.P. Robertson",
+   "description": "Physicist, chairman of the Robertson Panel"
+  },
+  {
+   "key": "baker",
+   "type": "person",
+   "name": "Robert M.L. Baker, Jr.",
+   "aliases": [
+    "Baker"
+   ],
+   "description": "Scientist and engineer for Douglas Aircraft who analyzed the film"
+  },
+  {
+   "key": "page",
+   "type": "person",
+   "name": "Thornton Page",
+   "description": "Co-organizer of the 1969 AAAS UFO panel"
+  },
+  {
+   "key": "sagan",
+   "type": "person",
+   "name": "Carl Sagan",
+   "description": "Co-organizer of the 1969 AAAS UFO panel"
+  },
+  {
+   "key": "condon",
+   "type": "person",
+   "name": "Edward U. Condon",
+   "description": "Physicist who chaired the University of Colorado UFO study"
+  },
+  {
+   "key": "craig",
+   "type": "person",
+   "name": "Roy Craig",
+   "description": "Physicist and Condon Committee investigator"
+  },
+  {
+   "key": "saunders",
+   "type": "person",
+   "name": "David Saunders",
+   "aliases": [
+    "Dr. Saunders"
+   ],
+   "description": "Psychologist and Condon Committee investigator"
+  },
+  {
+   "key": "hartmann",
+   "type": "person",
+   "name": "William Hartmann",
+   "description": "University of Arizona astronomer who analyzed the film for the Condon Report"
+  },
+  {
+   "key": "keyhoe",
+   "type": "person",
+   "name": "Donald Keyhoe",
+   "aliases": [
+    "Keyhoe, Donald"
+   ],
+   "description": "Author of Flying Saucers from Outer Space"
+  },
+  {
+   "key": "menzel",
+   "type": "person",
+   "name": "Donald H. Menzel",
+   "aliases": [
+    "H. Menzel, Donald"
+   ],
+   "description": "Co-author of The UFO Enigma"
+  },
+  {
+   "key": "taves",
+   "type": "person",
+   "name": "Ernest H. Taves",
+   "aliases": [
+    "H. Taves, Ernest"
+   ],
+   "description": "Co-author of The UFO Enigma"
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "aliases": [
+    "U.S. Air Force",
+    "the Air Force"
+   ],
+   "description": "US military air service that investigated the film"
+  },
+  {
+   "key": "electrics",
+   "type": "organization",
+   "name": "Great Falls Electrics",
+   "description": "Minor league baseball team in Great Falls"
+  },
+  {
+   "key": "voyagers",
+   "type": "organization",
+   "name": "Great Falls Voyagers",
+   "description": "Name given to the Great Falls minor league baseball team in 2008"
+  },
+  {
+   "key": "tribune",
+   "type": "organization",
+   "name": "Great Falls Tribune",
+   "description": "Great Falls' daily newspaper"
+  },
+  {
+   "key": "club",
+   "type": "organization",
+   "name": "Central Roundtable Athletic Club",
+   "description": "Local community group shown the film"
+  },
+  {
+   "key": "cosmo",
+   "type": "organization",
+   "name": "Cosmopolitan",
+   "description": "Magazine that published Considine's article"
+  },
+  {
+   "key": "cia",
+   "type": "organization",
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ],
+   "description": "US intelligence agency"
+  },
+  {
+   "key": "greene",
+   "type": "organization",
+   "name": "Greene-Rouse productions",
+   "description": "Production company that made a UFO documentary using the footage"
+  },
+  {
+   "key": "douglas",
+   "type": "organization",
+   "name": "Douglas Aircraft",
+   "aliases": [
+    "Douglas Aircraft company",
+    "Douglas"
+   ],
+   "description": "Aircraft company employing Baker"
+  },
+  {
+   "key": "ucla",
+   "type": "organization",
+   "name": "University of California, Los Angeles",
+   "aliases": [
+    "UCLA"
+   ],
+   "description": "University where film-measuring equipment was used"
+  },
+  {
+   "key": "aaas",
+   "type": "organization",
+   "name": "American Association for the Advancement of Science",
+   "aliases": [
+    "AAAS"
+   ],
+   "description": "Body whose 1969 UFO panel heard Baker's paper"
+  },
+  {
+   "key": "colorado",
+   "type": "organization",
+   "name": "University of Colorado",
+   "aliases": [
+    "University of Colorado at Boulder"
+   ],
+   "description": "University hosting the Condon Committee"
+  },
+  {
+   "key": "arizona",
+   "type": "organization",
+   "name": "University of Arizona",
+   "description": "University employing William Hartmann"
+  },
+  {
+   "key": "archives",
+   "type": "organization",
+   "name": "United States National Archives",
+   "aliases": [
+    "US National Archives"
+   ],
+   "description": "Archive holding copies of the film"
+  },
+  {
+   "key": "usgov",
+   "type": "organization",
+   "name": "United States government",
+   "aliases": [
+    "U.S. government"
+   ],
+   "description": "Established and funded the 1966 UFO study"
+  },
+  {
+   "key": "congress",
+   "type": "organization",
+   "name": "United States Congress",
+   "aliases": [
+    "Congressional hearing on UFOs"
+   ],
+   "description": "Held a 1968 hearing on UFOs"
+  },
+  {
+   "key": "bluebook",
+   "type": "program",
+   "name": "Project Blue Book",
+   "description": "Air Force investigation into UFO reports"
+  },
+  {
+   "key": "grudge",
+   "type": "program",
+   "name": "Project Grudge",
+   "description": "Air Force UFO project that wrote the film off in 1950"
+  },
+  {
+   "key": "rpanel",
+   "type": "program",
+   "name": "Robertson Panel",
+   "description": "1953 committee of scientists convened by the Air Force and CIA"
+  },
+  {
+   "key": "condoncom",
+   "type": "program",
+   "name": "Condon Committee",
+   "aliases": [
+    "Colorado Project"
+   ],
+   "description": "University of Colorado UFO study established in 1966"
+  },
+  {
+   "key": "greatfalls",
+   "type": "place",
+   "name": "Great Falls, Montana",
+   "aliases": [
+    "Great Falls"
+   ],
+   "description": "City where the sighting occurred"
+  },
+  {
+   "key": "montana",
+   "type": "place",
+   "name": "Montana",
+   "description": "US state"
+  },
+  {
+   "key": "stadium",
+   "type": "place",
+   "name": "Legion Stadium",
+   "description": "Baseball stadium where Mariana and Raunig were standing"
+  },
+  {
+   "key": "wpafb",
+   "type": "place",
+   "name": "Wright-Patterson Air Force Base",
+   "aliases": [
+    "Wright-Patterson AFB",
+    "Wright-Patterson"
+   ],
+   "description": "Air Force base in Ohio where the film was analyzed"
+  },
+  {
+   "key": "ohio",
+   "type": "place",
+   "name": "Ohio",
+   "description": "US state"
+  },
+  {
+   "key": "malmstrom",
+   "type": "place",
+   "name": "Malmstrom Air Force Base",
+   "aliases": [
+    "Malmstrom AFB"
+   ],
+   "description": "Air Force base outside Great Falls"
+  },
+  {
+   "key": "usa",
+   "type": "place",
+   "name": "United States",
+   "description": "Country of the sighting"
+  },
+  {
+   "key": "namerica",
+   "type": "place",
+   "name": "North America",
+   "description": "Continent"
+  },
+  {
+   "key": "objects",
+   "type": "craft",
+   "name": "Two rotating bright silvery objects filmed by Mariana",
+   "description": "The two objects Mariana reported and filmed over Great Falls"
+  },
+  {
+   "key": "f94",
+   "type": "vehicle",
+   "name": "F-94 jet fighters",
+   "aliases": [
+    "two F-94 jet fighters",
+    "F-94 jets"
+   ],
+   "description": "Two Air Force jets flying over Great Falls at the time"
+  },
+  {
+   "key": "film",
+   "type": "document",
+   "name": "Mariana UFO film",
+   "aliases": [
+    "Mariana's film",
+    "Montana Movie",
+    "Montana film"
+   ],
+   "description": "16 mm color film of the objects shot by Nick Mariana"
+  },
+  {
+   "key": "letter",
+   "type": "document",
+   "name": "Ray W. Taylor cover letter to Mariana",
+   "description": "Cover letter returned with the film"
+  },
+  {
+   "key": "tribart",
+   "type": "document",
+   "name": "Great Falls Tribune article on the sighting",
+   "description": "Article published the day after the sighting"
+  },
+  {
+   "key": "agreement",
+   "type": "document",
+   "name": "Air Force agreement not to remove frames from the film",
+   "description": "Agreement Mariana required in 1952"
+  },
+  {
+   "key": "bakeran",
+   "type": "document",
+   "name": "Baker analysis of the Mariana film",
+   "description": "Analysis completed in early 1956"
+  },
+  {
+   "key": "bakerpaper",
+   "type": "document",
+   "name": "Baker paper presented at the 1969 AAAS UFO panel",
+   "description": "Paper discussing the Mariana film and other UFO films and photographs"
+  },
+  {
+   "key": "condonrep",
+   "type": "document",
+   "name": "Condon Report",
+   "description": "Report of the Condon Committee"
+  },
+  {
+   "key": "hoaxart",
+   "type": "work",
+   "name": "The Disgraceful Flying Saucer Hoax",
+   "description": "January 1951 Cosmopolitan article by Bob Considine"
+  },
+  {
+   "key": "greenedoc",
+   "type": "work",
+   "name": "Greene-Rouse documentary film about the UFO phenomenon",
+   "description": "Documentary that used Mariana's footage"
+  },
+  {
+   "key": "fsfos",
+   "type": "work",
+   "name": "Flying Saucers from Outer Space",
+   "description": "Book by Donald Keyhoe"
+  },
+  {
+   "key": "enigma",
+   "type": "work",
+   "name": "The UFO Enigma: the Definitive Explanation of the UFO Phenomenon",
+   "aliases": [
+    "The UFO Enigma"
+   ],
+   "description": "Book by Menzel and Taves"
+  },
+  {
+   "key": "utah",
+   "type": "case",
+   "name": "Utah film",
+   "aliases": [
+    "The Utah Pictures"
+   ],
+   "description": "Another UFO film analyzed by Baker"
+  },
+  {
+   "key": "rhodes",
+   "type": "case",
+   "name": "Rhodes UFO photographs",
+   "description": "1947 UFO photographs"
+  },
+  {
+   "key": "mcminn",
+   "type": "case",
+   "name": "McMinnville UFO photographs",
+   "description": "May 1950 UFO photographs"
+  },
+  {
+   "key": "passaic",
+   "type": "case",
+   "name": "Passaic UFO photographs",
+   "description": "1952 UFO photographs"
+  },
+  {
+   "key": "malmcase",
+   "type": "case",
+   "name": "Malmstrom UFO incident",
+   "description": "1967 UFO incident"
+  },
+  {
+   "key": "f_film",
+   "type": "feature",
+   "name": "film-or-video"
+  },
+  {
+   "key": "f_disc",
+   "type": "feature",
+   "name": "shape-disc"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses"
+  },
+  {
+   "key": "f_base",
+   "type": "feature",
+   "name": "military-base-proximity"
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation"
+  },
+  {
+   "key": "f_cover",
+   "type": "feature",
+   "name": "alleged-cover-up"
+  },
+  {
+   "key": "f_congress",
+   "type": "feature",
+   "name": "congressional-hearing"
+  },
+  {
+   "key": "f_hoax",
+   "type": "feature",
+   "name": "hoax-alleged"
+  },
+  {
+   "key": "f_lawsuit",
+   "type": "feature",
+   "name": "other:civil lawsuit"
+  },
+  {
+   "key": "f_flash",
+   "type": "feature",
+   "name": "other:bright-flashes"
+  },
+  {
+   "key": "x_aircraft",
+   "type": "explanation",
+   "name": "conventional-aircraft",
+   "description": "Sun reflections from two F-94 jet fighters"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1950-08-15",
+   "quote": "The Mariana UFO incident was a well-publicized UFO sighting that occurred in Great Falls, Montana on August 15, 1950."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "The Mariana UFO incident was a well-publicized UFO sighting that occurred in Great Falls, Montana on August 15, 1950."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "11:29 am",
+   "quote": "At 11:29 am on August 15, 1950, Nick Mariana, the general manager of the Great Falls Electrics minor league baseball team, and his nineteen-year-old secretary, Virginia Raunig, were inspecting the baseball field at empty Legion Stadium shortly before a game."
+  },
+  {
+   "s": "case",
+   "p": "duration",
+   "v": "sixteen seconds (filmed)",
+   "quote": "Mariana ran to his car to retrieve his 16 mm movie camera and filmed the UFOs for sixteen seconds."
+  },
+  {
+   "s": "case",
+   "p": "date_uncertainty",
+   "v": "August 5 or August 15, 1950",
+   "quote": "Saunders and Craig soon added a new problem to the case: they were not sure whether the film had been taken on August 5 or August 15, 1950."
+  },
+  {
+   "s": "case",
+   "p": "significance",
+   "v": "believed to be among the earliest motion picture footage of a UFO",
+   "quote": "The sighting, filmed by local baseball coach Nick Mariana, is believed to be among the earliest motion picture footage of what would soon come to be called an unidentified flying object (UFO)."
+  },
+  {
+   "s": "case",
+   "p": "investigation_outcome",
+   "v": "inconclusive",
+   "quote": "The results of multiple investigations of the incident have been inconclusive."
+  },
+  {
+   "s": "case",
+   "p": "publicity",
+   "v": "Tribune article picked up by other media outlets around the nation",
+   "quote": "The day after Mariana's sighting, the Great Falls Tribune, the city's daily newspaper, described his sighting and the film in an article, which was picked up by other media outlets around the nation."
+  },
+  {
+   "s": "case",
+   "p": "condon_report_case_number",
+   "v": "47",
+   "quote": "Condon Report Case 47 Great Falls, Montana"
+  },
+  {
+   "s": "case",
+   "p": "legacy",
+   "v": "baseball team renamed Great Falls Voyagers in 2008 in honor of the incident",
+   "quote": "In 2008, the minor league baseball team in Great Falls was renamed the Great Falls Voyagers in honor of the Mariana UFO incident."
+  },
+  {
+   "s": "case",
+   "p": "status",
+   "v": "film continues to be debated",
+   "quote": "The film continues to be debated."
+  },
+  {
+   "s": "mariana",
+   "p": "witness",
+   "o": "case",
+   "quote": "The sighting, filmed by local baseball coach Nick Mariana, is believed to be among the earliest motion picture footage of what would soon come to be called an unidentified flying object (UFO)."
+  },
+  {
+   "s": "mariana",
+   "p": "occupation",
+   "v": "general manager of the Great Falls Electrics minor league baseball team",
+   "quote": "At 11:29 am on August 15, 1950, Nick Mariana, the general manager of the Great Falls Electrics minor league baseball team, and his nineteen-year-old secretary, Virginia Raunig, were inspecting the baseball field at empty Legion Stadium shortly before a game."
+  },
+  {
+   "s": "mariana",
+   "p": "occupation",
+   "v": "local baseball coach",
+   "quote": "The sighting, filmed by local baseball coach Nick Mariana, is believed to be among the earliest motion picture footage of what would soon come to be called an unidentified flying object (UFO)."
+  },
+  {
+   "s": "mariana",
+   "p": "employed_by",
+   "o": "electrics",
+   "quote": "At 11:29 am on August 15, 1950, Nick Mariana, the general manager of the Great Falls Electrics minor league baseball team, and his nineteen-year-old secretary, Virginia Raunig, were inspecting the baseball field at empty Legion Stadium shortly before a game."
+  },
+  {
+   "s": "mariana",
+   "p": "described",
+   "o": "objects",
+   "quote": "A bright flash caught Mariana's eye and, according to his reports, he saw two rotating bright silvery objects, flying over Great Falls at a speed he estimated to be around 200 to 400 miles per hour (320 to 640 km/h)."
+  },
+  {
+   "s": "mariana",
+   "p": "authored",
+   "o": "film",
+   "quote": "Mariana ran to his car to retrieve his 16 mm movie camera and filmed the UFOs for sixteen seconds."
+  },
+  {
+   "s": "mariana",
+   "p": "statement",
+   "v": "saw two rotating bright silvery objects after a bright flash caught his eye",
+   "quote": "A bright flash caught Mariana's eye and, according to his reports, he saw two rotating bright silvery objects, flying over Great Falls at a speed he estimated to be around 200 to 400 miles per hour (320 to 640 km/h)."
+  },
+  {
+   "s": "mariana",
+   "p": "statement",
+   "v": "two jet fighters passed over the baseball stadium shortly after the sighting",
+   "quote": "When Mariana and Ms. Raunig both told him that they had seen two jet fighters pass over the baseball stadium shortly after the sighting, Brynildsen felt that perhaps the jets were the objects Mariana had seen and captured on film."
+  },
+  {
+   "s": "mariana",
+   "p": "later_claim",
+   "v": "first thirty-five frames of his film, most clearly showing the UFOs as rotating disks, were missing",
+   "quote": "Controversy soon arose when Mariana claimed that the first thirty-five frames of his film – which he said most clearly showed the UFOs as rotating disks – were missing."
+  },
+  {
+   "s": "mariana",
+   "p": "action",
+   "v": "ran to his car to retrieve his 16 mm movie camera",
+   "quote": "Mariana ran to his car to retrieve his 16 mm movie camera and filmed the UFOs for sixteen seconds."
+  },
+  {
+   "s": "mariana",
+   "p": "action",
+   "v": "showed his film to local community groups for several weeks",
+   "quote": "For several weeks after the sighting, Mariana showed his film to local community groups, including the Central Roundtable Athletic Club."
+  },
+  {
+   "s": "mariana",
+   "p": "lawsuit",
+   "v": "filed a lawsuit for slander against Bob Considine",
+   "quote": "Claiming that Considine's article implied that he was \"a liar, prankster, half-wit, crank, publicity hound and fanatic\", Mariana filed a lawsuit for slander against Considine."
+  },
+  {
+   "s": "mariana",
+   "p": "lawsuit_dropped",
+   "v": "September 1955",
+   "quote": "The lawsuit was eventually dropped in September 1955."
+  },
+  {
+   "s": "mariana",
+   "p": "action",
+   "v": "required the Air Force to sign an agreement not to remove any frames",
+   "quote": "Mariana reluctantly agreed, but only after requiring the Air Force to sign an agreement that they would not remove any frames of the film."
+  },
+  {
+   "s": "mariana",
+   "p": "action",
+   "v": "gave Greene-Rouse productions the rights to use his footage",
+   "quote": "They asked Nick Mariana for the rights to use his footage in the documentary, and Mariana agreed."
+  },
+  {
+   "s": "mariana",
+   "p": "characterization",
+   "v": "described by his ex-secretary as 'a promoter'",
+   "quote": "The very hesitant comment was, 'What you have to remember in all this is... that Nick Mariana is a promoter'."
+  },
+  {
+   "s": "raunig",
+   "p": "witness",
+   "o": "case",
+   "quote": "Raunig also witnessed the objects."
+  },
+  {
+   "s": "raunig",
+   "p": "age",
+   "v": "nineteen",
+   "quote": "At 11:29 am on August 15, 1950, Nick Mariana, the general manager of the Great Falls Electrics minor league baseball team, and his nineteen-year-old secretary, Virginia Raunig, were inspecting the baseball field at empty Legion Stadium shortly before a game."
+  },
+  {
+   "s": "raunig",
+   "p": "occupation",
+   "v": "Nick Mariana's secretary",
+   "quote": "At 11:29 am on August 15, 1950, Nick Mariana, the general manager of the Great Falls Electrics minor league baseball team, and his nineteen-year-old secretary, Virginia Raunig, were inspecting the baseball field at empty Legion Stadium shortly before a game."
+  },
+  {
+   "s": "raunig",
+   "p": "colleague_of",
+   "o": "mariana",
+   "quote": "At 11:29 am on August 15, 1950, Nick Mariana, the general manager of the Great Falls Electrics minor league baseball team, and his nineteen-year-old secretary, Virginia Raunig, were inspecting the baseball field at empty Legion Stadium shortly before a game."
+  },
+  {
+   "s": "raunig",
+   "p": "statement",
+   "v": "two jet fighters passed over the baseball stadium shortly after the sighting",
+   "quote": "When Mariana and Ms. Raunig both told him that they had seen two jet fighters pass over the baseball stadium shortly after the sighting, Brynildsen felt that perhaps the jets were the objects Mariana had seen and captured on film."
+  },
+  {
+   "s": "brynildsen",
+   "p": "investigator",
+   "o": "case",
+   "quote": "U.S. Air Force Captain John P. Brynildsen interviewed Mariana at nearby Malmstrom AFB outside of Great Falls."
+  },
+  {
+   "s": "brynildsen",
+   "p": "rank",
+   "v": "Captain",
+   "quote": "U.S. Air Force Captain John P. Brynildsen interviewed Mariana at nearby Malmstrom AFB outside of Great Falls."
+  },
+  {
+   "s": "brynildsen",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "U.S. Air Force Captain John P. Brynildsen interviewed Mariana at nearby Malmstrom AFB outside of Great Falls."
+  },
+  {
+   "s": "brynildsen",
+   "p": "interviewed",
+   "o": "mariana",
+   "quote": "U.S. Air Force Captain John P. Brynildsen interviewed Mariana at nearby Malmstrom AFB outside of Great Falls."
+  },
+  {
+   "s": "brynildsen",
+   "p": "interviewed",
+   "o": "raunig",
+   "quote": "When Mariana and Ms. Raunig both told him that they had seen two jet fighters pass over the baseball stadium shortly after the sighting, Brynildsen felt that perhaps the jets were the objects Mariana had seen and captured on film."
+  },
+  {
+   "s": "brynildsen",
+   "p": "proposed",
+   "o": "x_aircraft",
+   "quote": "When Mariana and Ms. Raunig both told him that they had seen two jet fighters pass over the baseball stadium shortly after the sighting, Brynildsen felt that perhaps the jets were the objects Mariana had seen and captured on film."
+  },
+  {
+   "s": "brynildsen",
+   "p": "action",
+   "v": "sent the film to Wright-Patterson AFB for analysis with Mariana's permission",
+   "quote": "With Mariana's permission, Capt. Brynildsen sent the film to Wright-Patterson AFB for analysis."
+  },
+  {
+   "s": "brynildsen",
+   "p": "statement",
+   "v": "told a reporter he had received approximately eight feet (2.4 m) of film",
+   "quote": "He told a reporter in Great Falls that he had received approximately eight feet (2.4 m) of film from Mariana."
+  },
+  {
+   "s": "brynildsen",
+   "p": "statement",
+   "v": "said in his message he was sending roughly fifteen feet (4.6 m) of film",
+   "quote": "In his message to Wright-Patterson, however, he said that he was sending roughly fifteen feet (4.6 m) to the base for study."
+  },
+  {
+   "s": "clark",
+   "p": "commentator",
+   "o": "case",
+   "quote": "According to UFO historian Jerome Clark, this discrepancy was never cleared up."
+  },
+  {
+   "s": "clark",
+   "p": "occupation",
+   "v": "UFO historian",
+   "quote": "According to UFO historian Jerome Clark, this discrepancy was never cleared up."
+  },
+  {
+   "s": "clark",
+   "p": "statement",
+   "v": "the discrepancy over the film length was never cleared up",
+   "quote": "According to UFO historian Jerome Clark, this discrepancy was never cleared up."
+  },
+  {
+   "s": "taylor",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Lt. Col. Ray W. Taylor returned the film to Mariana with a cover letter stating that \"our photoanalysts were unable to find anything identifiable of an unusual nature\"."
+  },
+  {
+   "s": "taylor",
+   "p": "rank",
+   "v": "Lieutenant Colonel",
+   "quote": "Lt. Col. Ray W. Taylor returned the film to Mariana with a cover letter stating that \"our photoanalysts were unable to find anything identifiable of an unusual nature\"."
+  },
+  {
+   "s": "taylor",
+   "p": "authored",
+   "o": "letter",
+   "quote": "Lt. Col. Ray W. Taylor returned the film to Mariana with a cover letter stating that \"our photoanalysts were unable to find anything identifiable of an unusual nature\"."
+  },
+  {
+   "s": "taylor",
+   "p": "action",
+   "v": "returned the film to Mariana",
+   "quote": "Lt. Col. Ray W. Taylor returned the film to Mariana with a cover letter stating that \"our photoanalysts were unable to find anything identifiable of an unusual nature\"."
+  },
+  {
+   "s": "ruppelt",
+   "p": "investigator",
+   "o": "case",
+   "quote": "In July 1952, Captain Ruppelt was able to convince Mariana to let the Air Force see the film again for a more detailed analysis."
+  },
+  {
+   "s": "ruppelt",
+   "p": "rank",
+   "v": "Captain",
+   "quote": "In July 1952, Captain Ruppelt was able to convince Mariana to let the Air Force see the film again for a more detailed analysis."
+  },
+  {
+   "s": "ruppelt",
+   "p": "occupation",
+   "v": "Air Force officer",
+   "quote": "However, according to Air Force officer Edward J. Ruppelt, who would become the supervisor of the Air Force's Project Blue Book investigation into UFO reports in 1951"
+  },
+  {
+   "s": "ruppelt",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "However, according to Air Force officer Edward J. Ruppelt, who would become the supervisor of the Air Force's Project Blue Book investigation into UFO reports in 1951"
+  },
+  {
+   "s": "ruppelt",
+   "p": "commanded",
+   "o": "bluebook",
+   "quote": "However, according to Air Force officer Edward J. Ruppelt, who would become the supervisor of the Air Force's Project Blue Book investigation into UFO reports in 1951"
+  },
+  {
+   "s": "ruppelt",
+   "p": "became_blue_book_supervisor",
+   "v": "1951",
+   "quote": "However, according to Air Force officer Edward J. Ruppelt, who would become the supervisor of the Air Force's Project Blue Book investigation into UFO reports in 1951"
+  },
+  {
+   "s": "ruppelt",
+   "p": "statement",
+   "v": "in 1950 there was no interest by the Air Force in the UFO; Project Grudge wrote the objects off after a quick viewing",
+   "quote": "\"in 1950 there was no interest [by the Air Force] in the UFO, so after a quick viewing, Project Grudge had written them off as the reflections from two F-94 jet fighters that were in the area\""
+  },
+  {
+   "s": "ruppelt",
+   "p": "statement",
+   "v": "the two jets weren't anywhere close to where the two UFOs had been; both lights appeared too steady to be reflections; it was an unknown",
+   "quote": "In his memoirs, Ruppelt wrote: \"The two jets weren't anywhere close to where the two UFOs had been... we studied each individual light and both appeared too steady to be reflections. We drew a blank on the Montana Movie, it was an unknown\"."
+  },
+  {
+   "s": "ruppelt",
+   "p": "disputed",
+   "o": "x_aircraft",
+   "quote": "In his memoirs, Ruppelt wrote: \"The two jets weren't anywhere close to where the two UFOs had been... we studied each individual light and both appeared too steady to be reflections. We drew a blank on the Montana Movie, it was an unknown\"."
+  },
+  {
+   "s": "ruppelt",
+   "p": "action",
+   "v": "convinced Mariana in July 1952 to let the Air Force see the film again",
+   "quote": "In July 1952, Captain Ruppelt was able to convince Mariana to let the Air Force see the film again for a more detailed analysis."
+  },
+  {
+   "s": "considine",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "In January 1951, Bob Considine, a writer and UFO skeptic, wrote an article for Cosmopolitan entitled \"The Disgraceful Flying Saucer Hoax\", intended to debunk the most famous UFO sightings to that date, including Mariana's sighting and film."
+  },
+  {
+   "s": "considine",
+   "p": "occupation",
+   "v": "writer and UFO skeptic",
+   "quote": "In January 1951, Bob Considine, a writer and UFO skeptic, wrote an article for Cosmopolitan entitled \"The Disgraceful Flying Saucer Hoax\", intended to debunk the most famous UFO sightings to that date, including Mariana's sighting and film."
+  },
+  {
+   "s": "considine",
+   "p": "authored",
+   "o": "hoaxart",
+   "quote": "In January 1951, Bob Considine, a writer and UFO skeptic, wrote an article for Cosmopolitan entitled \"The Disgraceful Flying Saucer Hoax\", intended to debunk the most famous UFO sightings to that date, including Mariana's sighting and film."
+  },
+  {
+   "s": "considine",
+   "p": "sued_by",
+   "v": "Nick Mariana, for slander",
+   "quote": "Claiming that Considine's article implied that he was \"a liar, prankster, half-wit, crank, publicity hound and fanatic\", Mariana filed a lawsuit for slander against Considine."
+  },
+  {
+   "s": "robertson",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Called the Robertson Panel, after its chairman, physicist H.P. Robertson, it viewed Mariana's UFO film."
+  },
+  {
+   "s": "robertson",
+   "p": "occupation",
+   "v": "physicist",
+   "quote": "Called the Robertson Panel, after its chairman, physicist H.P. Robertson, it viewed Mariana's UFO film."
+  },
+  {
+   "s": "robertson",
+   "p": "commanded",
+   "o": "rpanel",
+   "quote": "Called the Robertson Panel, after its chairman, physicist H.P. Robertson, it viewed Mariana's UFO film."
+  },
+  {
+   "s": "baker",
+   "p": "investigator",
+   "o": "case",
+   "quote": "To analyze the film, they hired Robert M.L. Baker, Jr., a scientist and engineer for the Douglas Aircraft company."
+  },
+  {
+   "s": "baker",
+   "p": "occupation",
+   "v": "scientist and engineer",
+   "quote": "To analyze the film, they hired Robert M.L. Baker, Jr., a scientist and engineer for the Douglas Aircraft company."
+  },
+  {
+   "s": "baker",
+   "p": "employed_by",
+   "o": "douglas",
+   "quote": "To analyze the film, they hired Robert M.L. Baker, Jr., a scientist and engineer for the Douglas Aircraft company."
+  },
+  {
+   "s": "baker",
+   "p": "authored",
+   "o": "bakeran",
+   "quote": "Baker completed his analysis of Mariana's film in early 1956."
+  },
+  {
+   "s": "baker",
+   "p": "authored",
+   "o": "bakerpaper",
+   "quote": "In 1969, Baker presented a paper at an AAAS UFO panel organized by Thornton Page and Carl Sagan."
+  },
+  {
+   "s": "baker",
+   "p": "disputed",
+   "o": "x_aircraft",
+   "quote": "He concluded that the explanation that the objects were simply reflections from F-94 jets was \"quite strained\"."
+  },
+  {
+   "s": "baker",
+   "p": "statement",
+   "v": "the explanation that the objects were reflections from F-94 jets was \"quite strained\"",
+   "quote": "He concluded that the explanation that the objects were simply reflections from F-94 jets was \"quite strained\"."
+  },
+  {
+   "s": "baker",
+   "p": "testimony",
+   "v": "testified before a Congressional hearing on UFOs in 1968",
+   "quote": "In 1968, Baker testified before a Congressional hearing on UFOs. He commented on his analysis of the Mariana film:"
+  },
+  {
+   "s": "baker",
+   "p": "statement",
+   "v": "neither birds in flight (Utah film) nor airplane fuselage reflections of the sun (Montana film) had merit as explanations",
+   "quote": "After about 18 months of rather detailed, albeit not continuous, study using various film-measuring equipments [sic] at Douglas and at UCLA, as well as analysis of a photogrammetric experiment, it appeared that neither of these hypothesized natural phenomena explanations had merit."
+  },
+  {
+   "s": "baker",
+   "p": "statement",
+   "v": "concluded that the Mariana film was unidentifiable",
+   "quote": "Baker concluded that the Mariana film was unidentifiable."
+  },
+  {
+   "s": "baker",
+   "p": "statement",
+   "v": "emphasized improving the quality of photographic data before speculating about the nature of UFOs",
+   "quote": "He emphasized the importance of improving the quality of photographic data before speculating about the nature of UFOs."
+  },
+  {
+   "s": "baker",
+   "p": "hired_by",
+   "v": "Greene-Rouse productions",
+   "quote": "To analyze the film, they hired Robert M.L. Baker, Jr., a scientist and engineer for the Douglas Aircraft company."
+  },
+  {
+   "s": "page",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "In 1969, Baker presented a paper at an AAAS UFO panel organized by Thornton Page and Carl Sagan."
+  },
+  {
+   "s": "page",
+   "p": "role",
+   "v": "organized the 1969 AAAS UFO panel",
+   "quote": "In 1969, Baker presented a paper at an AAAS UFO panel organized by Thornton Page and Carl Sagan."
+  },
+  {
+   "s": "page",
+   "p": "colleague_of",
+   "o": "sagan",
+   "quote": "In 1969, Baker presented a paper at an AAAS UFO panel organized by Thornton Page and Carl Sagan."
+  },
+  {
+   "s": "sagan",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "In 1969, Baker presented a paper at an AAAS UFO panel organized by Thornton Page and Carl Sagan."
+  },
+  {
+   "s": "sagan",
+   "p": "role",
+   "v": "organized the 1969 AAAS UFO panel",
+   "quote": "In 1969, Baker presented a paper at an AAAS UFO panel organized by Thornton Page and Carl Sagan."
+  },
+  {
+   "s": "condon",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Located at the University of Colorado at Boulder and chaired by prominent physicist Edward U. Condon, the committee's researchers decided to \"reinvestigate\" Mariana's UFO film."
+  },
+  {
+   "s": "condon",
+   "p": "occupation",
+   "v": "physicist",
+   "quote": "Located at the University of Colorado at Boulder and chaired by prominent physicist Edward U. Condon, the committee's researchers decided to \"reinvestigate\" Mariana's UFO film."
+  },
+  {
+   "s": "condon",
+   "p": "commanded",
+   "o": "condoncom",
+   "quote": "Located at the University of Colorado at Boulder and chaired by prominent physicist Edward U. Condon, the committee's researchers decided to \"reinvestigate\" Mariana's UFO film."
+  },
+  {
+   "s": "craig",
+   "p": "investigator",
+   "o": "case",
+   "quote": "The Condon Committee assigned two investigators to study the case: Roy Craig, a physicist who was generally skeptical of UFOs, and David Saunders, a psychologist who had long been interested in the Mariana UFO incident."
+  },
+  {
+   "s": "craig",
+   "p": "occupation",
+   "v": "physicist",
+   "quote": "The Condon Committee assigned two investigators to study the case: Roy Craig, a physicist who was generally skeptical of UFOs, and David Saunders, a psychologist who had long been interested in the Mariana UFO incident."
+  },
+  {
+   "s": "craig",
+   "p": "attitude",
+   "v": "generally skeptical of UFOs",
+   "quote": "The Condon Committee assigned two investigators to study the case: Roy Craig, a physicist who was generally skeptical of UFOs, and David Saunders, a psychologist who had long been interested in the Mariana UFO incident."
+  },
+  {
+   "s": "craig",
+   "p": "member_of",
+   "o": "condoncom",
+   "quote": "The Condon Committee assigned two investigators to study the case: Roy Craig, a physicist who was generally skeptical of UFOs, and David Saunders, a psychologist who had long been interested in the Mariana UFO incident."
+  },
+  {
+   "s": "craig",
+   "p": "interviewed",
+   "o": "mariana",
+   "quote": "After interviewing Mariana, the two researchers came to different conclusions about the film."
+  },
+  {
+   "s": "craig",
+   "p": "colleague_of",
+   "o": "saunders",
+   "quote": "The Condon Committee assigned two investigators to study the case: Roy Craig, a physicist who was generally skeptical of UFOs, and David Saunders, a psychologist who had long been interested in the Mariana UFO incident."
+  },
+  {
+   "s": "craig",
+   "p": "statement",
+   "v": "remained skeptical of Mariana's claims that 35 frames had been removed",
+   "quote": "Craig remained skeptical of Mariana's claims that 35 frames had been removed from the footage"
+  },
+  {
+   "s": "craig",
+   "p": "statement",
+   "v": "considered most significant the ex-secretary's telephone comment made when pressed about clipping of the film by the Air Force",
+   "quote": "\"the comment I considered most significant, which Mariana's ex-secretary made to me during a telephone interview...when I pressed for information or beliefs regarding clipping of the film by the Air Force."
+  },
+  {
+   "s": "craig",
+   "p": "statement",
+   "v": "would not like to have to defend Saunders's conviction that the film is strong evidence of extraterrestrial visitors",
+   "quote": "In his memoirs, Craig also wrote that: \"I would not like to have to defend Dr. Saunders's conviction that the Mariana film is strong evidence that we have extraterrestrial visitors\"."
+  },
+  {
+   "s": "craig",
+   "p": "date_doubt",
+   "v": "not sure whether the film was taken on August 5 or August 15, 1950",
+   "quote": "Saunders and Craig soon added a new problem to the case: they were not sure whether the film had been taken on August 5 or August 15, 1950."
+  },
+  {
+   "s": "saunders",
+   "p": "investigator",
+   "o": "case",
+   "quote": "The Condon Committee assigned two investigators to study the case: Roy Craig, a physicist who was generally skeptical of UFOs, and David Saunders, a psychologist who had long been interested in the Mariana UFO incident."
+  },
+  {
+   "s": "saunders",
+   "p": "occupation",
+   "v": "psychologist",
+   "quote": "The Condon Committee assigned two investigators to study the case: Roy Craig, a physicist who was generally skeptical of UFOs, and David Saunders, a psychologist who had long been interested in the Mariana UFO incident."
+  },
+  {
+   "s": "saunders",
+   "p": "member_of",
+   "o": "condoncom",
+   "quote": "The Condon Committee assigned two investigators to study the case: Roy Craig, a physicist who was generally skeptical of UFOs, and David Saunders, a psychologist who had long been interested in the Mariana UFO incident."
+  },
+  {
+   "s": "saunders",
+   "p": "interviewed",
+   "o": "mariana",
+   "quote": "After interviewing Mariana, the two researchers came to different conclusions about the film."
+  },
+  {
+   "s": "saunders",
+   "p": "statement",
+   "v": "thought the Mariana film was a crucial case in the Colorado Project's case files",
+   "quote": "However, Saunders thought the Mariana film was a crucial case in the Colorado Project's case files."
+  },
+  {
+   "s": "saunders",
+   "p": "statement",
+   "v": "suspicious of the discrepancy over the missing frames; impressed by Baker's analysis",
+   "quote": "Impressed by Baker's analysis, Saunders was suspicious of the discrepancy over the missing frames at the beginning of the Mariana film."
+  },
+  {
+   "s": "saunders",
+   "p": "statement",
+   "v": "concerned by reports that the missing first three seconds clearly indicated spinning discs",
+   "quote": "He was particularly concerned with reports that the first three seconds of the film that were missing clearly indicated the objects were spinning discs."
+  },
+  {
+   "s": "saunders",
+   "p": "statement",
+   "v": "the film \"was the one sighting of all time that did more than any other single case to convince me that there is something to the UFO problem\"",
+   "quote": "He came to the conclusion that Mariana's film \"was the one sighting of all time that did more than any other single case to convince me that there is something to the UFO problem\"."
+  },
+  {
+   "s": "saunders",
+   "p": "belief",
+   "v": "film is strong evidence of extraterrestrial visitors (as characterized by Craig)",
+   "quote": "In his memoirs, Craig also wrote that: \"I would not like to have to defend Dr. Saunders's conviction that the Mariana film is strong evidence that we have extraterrestrial visitors\"."
+  },
+  {
+   "s": "hartmann",
+   "p": "investigator",
+   "o": "case",
+   "quote": "William Hartmann, an astronomer for the University of Arizona, analyzed the Mariana UFO film for the Condon Report."
+  },
+  {
+   "s": "hartmann",
+   "p": "occupation",
+   "v": "astronomer",
+   "quote": "William Hartmann, an astronomer for the University of Arizona, analyzed the Mariana UFO film for the Condon Report."
+  },
+  {
+   "s": "hartmann",
+   "p": "employed_by",
+   "o": "arizona",
+   "quote": "William Hartmann, an astronomer for the University of Arizona, analyzed the Mariana UFO film for the Condon Report."
+  },
+  {
+   "s": "hartmann",
+   "p": "statement",
+   "v": "it strains credibility to suppose these were airplanes, but the possibility cannot be entirely ruled out; several independent arguments against airplane reflections",
+   "quote": "His conclusion was that \"past investigations have left airplanes as the principal working hypothesis. The data at hand indicate that while it strains credibility to suppose that these were airplanes, the possibility nonetheless cannot be entirely ruled out. There are several independent arguments against airplane reflections.\""
+  },
+  {
+   "s": "keyhoe",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Keyhoe, Donald (1973). \"IX: The Utah Pictures\". Flying Saucers from Outer Space (paperback ed.). Tandem. pp. 150–168."
+  },
+  {
+   "s": "keyhoe",
+   "p": "authored",
+   "o": "fsfos",
+   "quote": "Keyhoe, Donald (1973). \"IX: The Utah Pictures\". Flying Saucers from Outer Space (paperback ed.). Tandem. pp. 150–168."
+  },
+  {
+   "s": "menzel",
+   "p": "commentator",
+   "o": "case",
+   "quote": "H. Menzel, Donald; H. Taves, Ernest (1977). The UFO Enigma: the Definitive Explanation of the UFO Phenomenon. Doubleday. pp. 110–111."
+  },
+  {
+   "s": "menzel",
+   "p": "authored",
+   "o": "enigma",
+   "quote": "H. Menzel, Donald; H. Taves, Ernest (1977). The UFO Enigma: the Definitive Explanation of the UFO Phenomenon. Doubleday. pp. 110–111."
+  },
+  {
+   "s": "taves",
+   "p": "commentator",
+   "o": "case",
+   "quote": "H. Menzel, Donald; H. Taves, Ernest (1977). The UFO Enigma: the Definitive Explanation of the UFO Phenomenon. Doubleday. pp. 110–111."
+  },
+  {
+   "s": "taves",
+   "p": "authored",
+   "o": "enigma",
+   "quote": "H. Menzel, Donald; H. Taves, Ernest (1977). The UFO Enigma: the Definitive Explanation of the UFO Phenomenon. Doubleday. pp. 110–111."
+  },
+  {
+   "s": "usaf",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The U.S. Air Force, after a short investigation, concluded that what Mariana had actually filmed were sun reflections of two F-94 jet fighters, a claim that the Air Force later retracted, and then eventually endorsed again."
+  },
+  {
+   "s": "usaf",
+   "p": "conclusion",
+   "v": "sun reflections of two F-94 jet fighters; later retracted, then endorsed again",
+   "quote": "The U.S. Air Force, after a short investigation, concluded that what Mariana had actually filmed were sun reflections of two F-94 jet fighters, a claim that the Air Force later retracted, and then eventually endorsed again."
+  },
+  {
+   "s": "usaf",
+   "p": "statement",
+   "v": "denied removing 35 frames; said only a single frame damaged in the analysis was removed",
+   "quote": "The Air Force personnel denied this accusation, and insisted that they had removed only a single frame of film which was damaged in the analysis."
+  },
+  {
+   "s": "usaf",
+   "p": "second_analysis",
+   "v": "July 1952",
+   "quote": "In July 1952, Captain Ruppelt was able to convince Mariana to let the Air Force see the film again for a more detailed analysis."
+  },
+  {
+   "s": "usaf",
+   "p": "proposed",
+   "o": "x_aircraft",
+   "quote": "The U.S. Air Force, after a short investigation, concluded that what Mariana had actually filmed were sun reflections of two F-94 jet fighters, a claim that the Air Force later retracted, and then eventually endorsed again."
+  },
+  {
+   "s": "electrics",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "At 11:29 am on August 15, 1950, Nick Mariana, the general manager of the Great Falls Electrics minor league baseball team, and his nineteen-year-old secretary, Virginia Raunig, were inspecting the baseball field at empty Legion Stadium shortly before a game."
+  },
+  {
+   "s": "electrics",
+   "p": "type",
+   "v": "minor league baseball team",
+   "quote": "At 11:29 am on August 15, 1950, Nick Mariana, the general manager of the Great Falls Electrics minor league baseball team, and his nineteen-year-old secretary, Virginia Raunig, were inspecting the baseball field at empty Legion Stadium shortly before a game."
+  },
+  {
+   "s": "electrics",
+   "p": "located_in",
+   "o": "greatfalls",
+   "quote": "In 2008, the minor league baseball team in Great Falls was renamed the Great Falls Voyagers in honor of the Mariana UFO incident."
+  },
+  {
+   "s": "voyagers",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 2008, the minor league baseball team in Great Falls was renamed the Great Falls Voyagers in honor of the Mariana UFO incident."
+  },
+  {
+   "s": "voyagers",
+   "p": "renamed_year",
+   "v": "2008",
+   "quote": "In 2008, the minor league baseball team in Great Falls was renamed the Great Falls Voyagers in honor of the Mariana UFO incident."
+  },
+  {
+   "s": "voyagers",
+   "p": "located_in",
+   "o": "greatfalls",
+   "quote": "In 2008, the minor league baseball team in Great Falls was renamed the Great Falls Voyagers in honor of the Mariana UFO incident."
+  },
+  {
+   "s": "tribune",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The day after Mariana's sighting, the Great Falls Tribune, the city's daily newspaper, described his sighting and the film in an article, which was picked up by other media outlets around the nation."
+  },
+  {
+   "s": "tribune",
+   "p": "type",
+   "v": "the city's daily newspaper",
+   "quote": "The day after Mariana's sighting, the Great Falls Tribune, the city's daily newspaper, described his sighting and the film in an article, which was picked up by other media outlets around the nation."
+  },
+  {
+   "s": "tribune",
+   "p": "published",
+   "o": "tribart",
+   "quote": "The day after Mariana's sighting, the Great Falls Tribune, the city's daily newspaper, described his sighting and the film in an article, which was picked up by other media outlets around the nation."
+  },
+  {
+   "s": "tribune",
+   "p": "action",
+   "v": "a reporter called Wright-Patterson Air Force Base to inform them of the sighting and film",
+   "quote": "After seeing the film, a reporter for the Great Falls Tribune called Wright-Patterson Air Force Base in Ohio and informed them of Mariana's sighting and film."
+  },
+  {
+   "s": "tribune",
+   "p": "located_in",
+   "o": "greatfalls",
+   "quote": "The day after Mariana's sighting, the Great Falls Tribune, the city's daily newspaper, described his sighting and the film in an article, which was picked up by other media outlets around the nation."
+  },
+  {
+   "s": "club",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "For several weeks after the sighting, Mariana showed his film to local community groups, including the Central Roundtable Athletic Club."
+  },
+  {
+   "s": "club",
+   "p": "role",
+   "v": "local community group shown the film by Mariana",
+   "quote": "For several weeks after the sighting, Mariana showed his film to local community groups, including the Central Roundtable Athletic Club."
+  },
+  {
+   "s": "cosmo",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In January 1951, Bob Considine, a writer and UFO skeptic, wrote an article for Cosmopolitan entitled \"The Disgraceful Flying Saucer Hoax\", intended to debunk the most famous UFO sightings to that date, including Mariana's sighting and film."
+  },
+  {
+   "s": "cosmo",
+   "p": "published",
+   "o": "hoaxart",
+   "quote": "In January 1951, Bob Considine, a writer and UFO skeptic, wrote an article for Cosmopolitan entitled \"The Disgraceful Flying Saucer Hoax\", intended to debunk the most famous UFO sightings to that date, including Mariana's sighting and film."
+  },
+  {
+   "s": "cia",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In January 1953, the Air Force and CIA convened a committee of prominent scientists to examine the \"best\" cases collected by Project Blue Book."
+  },
+  {
+   "s": "cia",
+   "p": "role",
+   "v": "convened the Robertson Panel with the Air Force in January 1953",
+   "quote": "In January 1953, the Air Force and CIA convened a committee of prominent scientists to examine the \"best\" cases collected by Project Blue Book."
+  },
+  {
+   "s": "greene",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 1954, Greene-Rouse productions decided to make a documentary film about the UFO phenomenon."
+  },
+  {
+   "s": "greene",
+   "p": "action",
+   "v": "hired Robert M.L. Baker, Jr. to analyze the film",
+   "quote": "To analyze the film, they hired Robert M.L. Baker, Jr., a scientist and engineer for the Douglas Aircraft company."
+  },
+  {
+   "s": "greene",
+   "p": "published",
+   "o": "greenedoc",
+   "quote": "In 1954, Greene-Rouse productions decided to make a documentary film about the UFO phenomenon."
+  },
+  {
+   "s": "douglas",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "To analyze the film, they hired Robert M.L. Baker, Jr., a scientist and engineer for the Douglas Aircraft company."
+  },
+  {
+   "s": "douglas",
+   "p": "role",
+   "v": "film-measuring equipment used in the study",
+   "quote": "After about 18 months of rather detailed, albeit not continuous, study using various film-measuring equipments [sic] at Douglas and at UCLA, as well as analysis of a photogrammetric experiment, it appeared that neither of these hypothesized natural phenomena explanations had merit."
+  },
+  {
+   "s": "ucla",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "After about 18 months of rather detailed, albeit not continuous, study using various film-measuring equipments [sic] at Douglas and at UCLA, as well as analysis of a photogrammetric experiment, it appeared that neither of these hypothesized natural phenomena explanations had merit."
+  },
+  {
+   "s": "ucla",
+   "p": "role",
+   "v": "film-measuring equipment used in the study",
+   "quote": "After about 18 months of rather detailed, albeit not continuous, study using various film-measuring equipments [sic] at Douglas and at UCLA, as well as analysis of a photogrammetric experiment, it appeared that neither of these hypothesized natural phenomena explanations had merit."
+  },
+  {
+   "s": "aaas",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 1969, Baker presented a paper at an AAAS UFO panel organized by Thornton Page and Carl Sagan."
+  },
+  {
+   "s": "aaas",
+   "p": "ufo_panel_year",
+   "v": "1969",
+   "quote": "In 1969, Baker presented a paper at an AAAS UFO panel organized by Thornton Page and Carl Sagan."
+  },
+  {
+   "s": "colorado",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Located at the University of Colorado at Boulder and chaired by prominent physicist Edward U. Condon, the committee's researchers decided to \"reinvestigate\" Mariana's UFO film."
+  },
+  {
+   "s": "arizona",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "William Hartmann, an astronomer for the University of Arizona, analyzed the Mariana UFO film for the Condon Report."
+  },
+  {
+   "s": "archives",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Copies of Mariana's film currently reside in the US National Archives."
+  },
+  {
+   "s": "archives",
+   "p": "holds",
+   "v": "copies of Mariana's film",
+   "quote": "Copies of Mariana's film currently reside in the US National Archives."
+  },
+  {
+   "s": "usgov",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 1966, the U.S. government established and funded a study of the UFO phenomenon."
+  },
+  {
+   "s": "usgov",
+   "p": "action",
+   "v": "established and funded a study of the UFO phenomenon in 1966",
+   "quote": "In 1966, the U.S. government established and funded a study of the UFO phenomenon."
+  },
+  {
+   "s": "congress",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 1968, Baker testified before a Congressional hearing on UFOs. He commented on his analysis of the Mariana film:"
+  },
+  {
+   "s": "congress",
+   "p": "hearing_year",
+   "v": "1968",
+   "quote": "In 1968, Baker testified before a Congressional hearing on UFOs. He commented on his analysis of the Mariana film:"
+  },
+  {
+   "s": "bluebook",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "In January 1953, the Air Force and CIA convened a committee of prominent scientists to examine the \"best\" cases collected by Project Blue Book."
+  },
+  {
+   "s": "bluebook",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "However, according to Air Force officer Edward J. Ruppelt, who would become the supervisor of the Air Force's Project Blue Book investigation into UFO reports in 1951"
+  },
+  {
+   "s": "grudge",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "\"in 1950 there was no interest [by the Air Force] in the UFO, so after a quick viewing, Project Grudge had written them off as the reflections from two F-94 jet fighters that were in the area\""
+  },
+  {
+   "s": "grudge",
+   "p": "proposed",
+   "o": "x_aircraft",
+   "quote": "\"in 1950 there was no interest [by the Air Force] in the UFO, so after a quick viewing, Project Grudge had written them off as the reflections from two F-94 jet fighters that were in the area\""
+  },
+  {
+   "s": "grudge",
+   "p": "conclusion",
+   "v": "reflections from two F-94 jet fighters, after a quick viewing",
+   "quote": "\"in 1950 there was no interest [by the Air Force] in the UFO, so after a quick viewing, Project Grudge had written them off as the reflections from two F-94 jet fighters that were in the area\""
+  },
+  {
+   "s": "rpanel",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "Called the Robertson Panel, after its chairman, physicist H.P. Robertson, it viewed Mariana's UFO film."
+  },
+  {
+   "s": "rpanel",
+   "p": "convened",
+   "v": "January 1953, by the Air Force and CIA",
+   "quote": "In January 1953, the Air Force and CIA convened a committee of prominent scientists to examine the \"best\" cases collected by Project Blue Book."
+  },
+  {
+   "s": "rpanel",
+   "p": "conclusion",
+   "v": "objects were \"reflections of aircraft known to have been in the area\"",
+   "quote": "The scientists judged that the objects in the film were \"reflections of aircraft known to have been in the area\"."
+  },
+  {
+   "s": "rpanel",
+   "p": "proposed",
+   "o": "x_aircraft",
+   "quote": "The scientists judged that the objects in the film were \"reflections of aircraft known to have been in the area\"."
+  },
+  {
+   "s": "rpanel",
+   "p": "purpose",
+   "v": "examine the \"best\" cases collected by Project Blue Book",
+   "quote": "In January 1953, the Air Force and CIA convened a committee of prominent scientists to examine the \"best\" cases collected by Project Blue Book."
+  },
+  {
+   "s": "condoncom",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The Condon Committee assigned two investigators to study the case: Roy Craig, a physicist who was generally skeptical of UFOs, and David Saunders, a psychologist who had long been interested in the Mariana UFO incident."
+  },
+  {
+   "s": "condoncom",
+   "p": "located_in",
+   "o": "colorado",
+   "quote": "Located at the University of Colorado at Boulder and chaired by prominent physicist Edward U. Condon, the committee's researchers decided to \"reinvestigate\" Mariana's UFO film."
+  },
+  {
+   "s": "condoncom",
+   "p": "established",
+   "v": "1966",
+   "quote": "In 1966, the U.S. government established and funded a study of the UFO phenomenon."
+  },
+  {
+   "s": "condoncom",
+   "p": "investigators_assigned",
+   "v": "two",
+   "quote": "The Condon Committee assigned two investigators to study the case: Roy Craig, a physicist who was generally skeptical of UFOs, and David Saunders, a psychologist who had long been interested in the Mariana UFO incident."
+  },
+  {
+   "s": "greatfalls",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Mariana UFO incident was a well-publicized UFO sighting that occurred in Great Falls, Montana on August 15, 1950."
+  },
+  {
+   "s": "greatfalls",
+   "p": "located_in",
+   "o": "montana",
+   "quote": "The Mariana UFO incident was a well-publicized UFO sighting that occurred in Great Falls, Montana on August 15, 1950."
+  },
+  {
+   "s": "greatfalls",
+   "p": "later_sightings",
+   "v": "over 100 other UFO sightings since Mariana's",
+   "quote": "Since Mariana's sighting, over 100 other UFO sightings have been made in Great Falls, Montana, making it one of the most active locations for UFO sightings in North America."
+  },
+  {
+   "s": "greatfalls",
+   "p": "reputation",
+   "v": "one of the most active locations for UFO sightings in North America",
+   "quote": "Since Mariana's sighting, over 100 other UFO sightings have been made in Great Falls, Montana, making it one of the most active locations for UFO sightings in North America."
+  },
+  {
+   "s": "greatfalls",
+   "p": "located_in",
+   "o": "namerica",
+   "quote": "Since Mariana's sighting, over 100 other UFO sightings have been made in Great Falls, Montana, making it one of the most active locations for UFO sightings in North America."
+  },
+  {
+   "s": "montana",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Mariana UFO incident was a well-publicized UFO sighting that occurred in Great Falls, Montana on August 15, 1950."
+  },
+  {
+   "s": "montana",
+   "p": "located_in",
+   "o": "usa",
+   "quote": "The Mariana UFO incident was a well-publicized UFO sighting that occurred in Great Falls, Montana on August 15, 1950."
+  },
+  {
+   "s": "stadium",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "At 11:29 am on August 15, 1950, Nick Mariana, the general manager of the Great Falls Electrics minor league baseball team, and his nineteen-year-old secretary, Virginia Raunig, were inspecting the baseball field at empty Legion Stadium shortly before a game."
+  },
+  {
+   "s": "stadium",
+   "p": "condition",
+   "v": "empty, shortly before a game",
+   "quote": "At 11:29 am on August 15, 1950, Nick Mariana, the general manager of the Great Falls Electrics minor league baseball team, and his nineteen-year-old secretary, Virginia Raunig, were inspecting the baseball field at empty Legion Stadium shortly before a game."
+  },
+  {
+   "s": "wpafb",
+   "p": "related_place",
+   "o": "case",
+   "quote": "After seeing the film, a reporter for the Great Falls Tribune called Wright-Patterson Air Force Base in Ohio and informed them of Mariana's sighting and film."
+  },
+  {
+   "s": "wpafb",
+   "p": "located_in",
+   "o": "ohio",
+   "quote": "After seeing the film, a reporter for the Great Falls Tribune called Wright-Patterson Air Force Base in Ohio and informed them of Mariana's sighting and film."
+  },
+  {
+   "s": "wpafb",
+   "p": "role",
+   "v": "film briefly examined there",
+   "quote": "At Wright-Patterson AFB, the film was briefly examined and determined to be the reflections from two F-94 jet fighters that were known to be flying over Great Falls at the time of Mariana's sighting."
+  },
+  {
+   "s": "wpafb",
+   "p": "conclusion_1952",
+   "v": "objects were not \"birds, balloons, or meteors\"",
+   "quote": "The film analysts at Wright-Patterson AFB concluded that the objects in Mariana's film were not \"birds, balloons, or meteors\"."
+  },
+  {
+   "s": "ohio",
+   "p": "related_place",
+   "o": "case",
+   "quote": "After seeing the film, a reporter for the Great Falls Tribune called Wright-Patterson Air Force Base in Ohio and informed them of Mariana's sighting and film."
+  },
+  {
+   "s": "malmstrom",
+   "p": "near",
+   "o": "case",
+   "quote": "U.S. Air Force Captain John P. Brynildsen interviewed Mariana at nearby Malmstrom AFB outside of Great Falls."
+  },
+  {
+   "s": "malmstrom",
+   "p": "location",
+   "v": "outside of Great Falls",
+   "quote": "U.S. Air Force Captain John P. Brynildsen interviewed Mariana at nearby Malmstrom AFB outside of Great Falls."
+  },
+  {
+   "s": "malmstrom",
+   "p": "role",
+   "v": "Brynildsen interviewed Mariana there",
+   "quote": "U.S. Air Force Captain John P. Brynildsen interviewed Mariana at nearby Malmstrom AFB outside of Great Falls."
+  },
+  {
+   "s": "usa",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The day after Mariana's sighting, the Great Falls Tribune, the city's daily newspaper, described his sighting and the film in an article, which was picked up by other media outlets around the nation."
+  },
+  {
+   "s": "namerica",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Since Mariana's sighting, over 100 other UFO sightings have been made in Great Falls, Montana, making it one of the most active locations for UFO sightings in North America."
+  },
+  {
+   "s": "objects",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "A bright flash caught Mariana's eye and, according to his reports, he saw two rotating bright silvery objects, flying over Great Falls at a speed he estimated to be around 200 to 400 miles per hour (320 to 640 km/h)."
+  },
+  {
+   "s": "objects",
+   "p": "count",
+   "v": "two",
+   "quote": "A bright flash caught Mariana's eye and, according to his reports, he saw two rotating bright silvery objects, flying over Great Falls at a speed he estimated to be around 200 to 400 miles per hour (320 to 640 km/h)."
+  },
+  {
+   "s": "objects",
+   "p": "color",
+   "v": "bright silvery",
+   "quote": "A bright flash caught Mariana's eye and, according to his reports, he saw two rotating bright silvery objects, flying over Great Falls at a speed he estimated to be around 200 to 400 miles per hour (320 to 640 km/h)."
+  },
+  {
+   "s": "objects",
+   "p": "motion",
+   "v": "rotating",
+   "quote": "A bright flash caught Mariana's eye and, according to his reports, he saw two rotating bright silvery objects, flying over Great Falls at a speed he estimated to be around 200 to 400 miles per hour (320 to 640 km/h)."
+  },
+  {
+   "s": "objects",
+   "p": "speed",
+   "v": "200 to 400 miles per hour (320 to 640 km/h)",
+   "quote": "A bright flash caught Mariana's eye and, according to his reports, he saw two rotating bright silvery objects, flying over Great Falls at a speed he estimated to be around 200 to 400 miles per hour (320 to 640 km/h)."
+  },
+  {
+   "s": "objects",
+   "p": "size",
+   "v": "roughly 50 feet (15 m) wide",
+   "quote": "He believed that they were roughly 50 feet (15 m) wide and 150 feet (46 m) apart."
+  },
+  {
+   "s": "objects",
+   "p": "separation",
+   "v": "150 feet (46 m) apart",
+   "quote": "He believed that they were roughly 50 feet (15 m) wide and 150 feet (46 m) apart."
+  },
+  {
+   "s": "objects",
+   "p": "shape",
+   "v": "rotating disks",
+   "quote": "Controversy soon arose when Mariana claimed that the first thirty-five frames of his film – which he said most clearly showed the UFOs as rotating disks – were missing."
+  },
+  {
+   "s": "objects",
+   "p": "description",
+   "v": "spinning, metallic disks with a \"notch or band\" along their outer edges",
+   "quote": "They claimed that the missing frames clearly showed the UFOs as spinning, metallic disks with a \"notch or band\" along their outer edges."
+  },
+  {
+   "s": "objects",
+   "p": "description",
+   "v": "both lights appeared too steady to be reflections",
+   "quote": "In his memoirs, Ruppelt wrote: \"The two jets weren't anywhere close to where the two UFOs had been... we studied each individual light and both appeared too steady to be reflections. We drew a blank on the Montana Movie, it was an unknown\"."
+  },
+  {
+   "s": "objects",
+   "p": "ruled_out",
+   "v": "birds, balloons, or meteors",
+   "quote": "The film analysts at Wright-Patterson AFB concluded that the objects in Mariana's film were not \"birds, balloons, or meteors\"."
+  },
+  {
+   "s": "f94",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "At Wright-Patterson AFB, the film was briefly examined and determined to be the reflections from two F-94 jet fighters that were known to be flying over Great Falls at the time of Mariana's sighting."
+  },
+  {
+   "s": "f94",
+   "p": "count",
+   "v": "two",
+   "quote": "At Wright-Patterson AFB, the film was briefly examined and determined to be the reflections from two F-94 jet fighters that were known to be flying over Great Falls at the time of Mariana's sighting."
+  },
+  {
+   "s": "f94",
+   "p": "statement",
+   "v": "witnesses saw two jet fighters pass over the stadium shortly after the sighting",
+   "quote": "When Mariana and Ms. Raunig both told him that they had seen two jet fighters pass over the baseball stadium shortly after the sighting, Brynildsen felt that perhaps the jets were the objects Mariana had seen and captured on film."
+  },
+  {
+   "s": "f94",
+   "p": "position",
+   "v": "not anywhere close to where the two UFOs had been, per Ruppelt",
+   "quote": "In his memoirs, Ruppelt wrote: \"The two jets weren't anywhere close to where the two UFOs had been... we studied each individual light and both appeared too steady to be reflections. We drew a blank on the Montana Movie, it was an unknown\"."
+  },
+  {
+   "s": "film",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The sighting, filmed by local baseball coach Nick Mariana, is believed to be among the earliest motion picture footage of what would soon come to be called an unidentified flying object (UFO)."
+  },
+  {
+   "s": "film",
+   "p": "format",
+   "v": "16 mm",
+   "quote": "Mariana ran to his car to retrieve his 16 mm movie camera and filmed the UFOs for sixteen seconds."
+  },
+  {
+   "s": "film",
+   "p": "duration",
+   "v": "sixteen seconds",
+   "quote": "Mariana ran to his car to retrieve his 16 mm movie camera and filmed the UFOs for sixteen seconds."
+  },
+  {
+   "s": "film",
+   "p": "color",
+   "v": "color, no sound",
+   "quote": "The camera could film the objects in color, but was unable to record sound."
+  },
+  {
+   "s": "film",
+   "p": "length",
+   "v": "approximately eight feet (2.4 m) received from Mariana",
+   "quote": "He told a reporter in Great Falls that he had received approximately eight feet (2.4 m) of film from Mariana."
+  },
+  {
+   "s": "film",
+   "p": "length",
+   "v": "roughly fifteen feet (4.6 m) sent to Wright-Patterson",
+   "quote": "In his message to Wright-Patterson, however, he said that he was sending roughly fifteen feet (4.6 m) to the base for study."
+  },
+  {
+   "s": "film",
+   "p": "missing_frames",
+   "v": "first thirty-five frames, according to Mariana",
+   "quote": "Controversy soon arose when Mariana claimed that the first thirty-five frames of his film – which he said most clearly showed the UFOs as rotating disks – were missing."
+  },
+  {
+   "s": "film",
+   "p": "missing_frames",
+   "v": "a single damaged frame, according to Air Force personnel",
+   "quote": "The Air Force personnel denied this accusation, and insisted that they had removed only a single frame of film which was damaged in the analysis."
+  },
+  {
+   "s": "film",
+   "p": "missing_duration",
+   "v": "first three seconds",
+   "quote": "He was particularly concerned with reports that the first three seconds of the film that were missing clearly indicated the objects were spinning discs."
+  },
+  {
+   "s": "film",
+   "p": "location",
+   "v": "copies reside in the US National Archives",
+   "quote": "Copies of Mariana's film currently reside in the US National Archives."
+  },
+  {
+   "s": "film",
+   "p": "usage",
+   "v": "still featured in documentaries, television programs, and shared online",
+   "quote": "It is still featured in documentaries, television programs, and shared online."
+  },
+  {
+   "s": "film",
+   "p": "analysis_1950",
+   "v": "briefly examined; determined to be reflections from two F-94 jet fighters",
+   "quote": "At Wright-Patterson AFB, the film was briefly examined and determined to be the reflections from two F-94 jet fighters that were known to be flying over Great Falls at the time of Mariana's sighting."
+  },
+  {
+   "s": "film",
+   "p": "analysis_1952",
+   "v": "original conclusion of reflections from the F-94 jets ruled out",
+   "quote": "The original conclusion that the objects were reflections from the F-94 jets was also ruled out."
+  },
+  {
+   "s": "film",
+   "p": "viewed_by",
+   "v": "Robertson Panel",
+   "quote": "Called the Robertson Panel, after its chairman, physicist H.P. Robertson, it viewed Mariana's UFO film."
+  },
+  {
+   "s": "film",
+   "p": "shown_to",
+   "v": "local community groups including the Central Roundtable Athletic Club",
+   "quote": "For several weeks after the sighting, Mariana showed his film to local community groups, including the Central Roundtable Athletic Club."
+  },
+  {
+   "s": "letter",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Lt. Col. Ray W. Taylor returned the film to Mariana with a cover letter stating that \"our photoanalysts were unable to find anything identifiable of an unusual nature\"."
+  },
+  {
+   "s": "letter",
+   "p": "statement",
+   "v": "\"our photoanalysts were unable to find anything identifiable of an unusual nature\"",
+   "quote": "Lt. Col. Ray W. Taylor returned the film to Mariana with a cover letter stating that \"our photoanalysts were unable to find anything identifiable of an unusual nature\"."
+  },
+  {
+   "s": "tribart",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The day after Mariana's sighting, the Great Falls Tribune, the city's daily newspaper, described his sighting and the film in an article, which was picked up by other media outlets around the nation."
+  },
+  {
+   "s": "tribart",
+   "p": "published",
+   "v": "the day after the sighting",
+   "quote": "The day after Mariana's sighting, the Great Falls Tribune, the city's daily newspaper, described his sighting and the film in an article, which was picked up by other media outlets around the nation."
+  },
+  {
+   "s": "agreement",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Mariana reluctantly agreed, but only after requiring the Air Force to sign an agreement that they would not remove any frames of the film."
+  },
+  {
+   "s": "agreement",
+   "p": "terms",
+   "v": "Air Force would not remove any frames of the film",
+   "quote": "Mariana reluctantly agreed, but only after requiring the Air Force to sign an agreement that they would not remove any frames of the film."
+  },
+  {
+   "s": "bakeran",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Baker completed his analysis of Mariana's film in early 1956."
+  },
+  {
+   "s": "bakeran",
+   "p": "completed",
+   "v": "early 1956",
+   "quote": "Baker completed his analysis of Mariana's film in early 1956."
+  },
+  {
+   "s": "bakeran",
+   "p": "duration",
+   "v": "about 18 months of study",
+   "quote": "After about 18 months of rather detailed, albeit not continuous, study using various film-measuring equipments [sic] at Douglas and at UCLA, as well as analysis of a photogrammetric experiment, it appeared that neither of these hypothesized natural phenomena explanations had merit."
+  },
+  {
+   "s": "bakeran",
+   "p": "finding",
+   "v": "preliminary analysis excluded most natural phenomena",
+   "quote": "Preliminary analysis excluded most natural phenomena."
+  },
+  {
+   "s": "bakerpaper",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In 1969, Baker presented a paper at an AAAS UFO panel organized by Thornton Page and Carl Sagan."
+  },
+  {
+   "s": "bakerpaper",
+   "p": "year",
+   "v": "1969",
+   "quote": "In 1969, Baker presented a paper at an AAAS UFO panel organized by Thornton Page and Carl Sagan."
+  },
+  {
+   "s": "bakerpaper",
+   "p": "content",
+   "v": "discussed the Mariana film and other films and photographs of UFOs",
+   "quote": "He discussed the Mariana film as well as other films and photographs of UFOs."
+  },
+  {
+   "s": "condonrep",
+   "p": "key_document",
+   "o": "case",
+   "quote": "William Hartmann, an astronomer for the University of Arizona, analyzed the Mariana UFO film for the Condon Report."
+  },
+  {
+   "s": "condonrep",
+   "p": "case_number",
+   "v": "47",
+   "quote": "Condon Report Case 47 Great Falls, Montana"
+  },
+  {
+   "s": "hoaxart",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In January 1951, Bob Considine, a writer and UFO skeptic, wrote an article for Cosmopolitan entitled \"The Disgraceful Flying Saucer Hoax\", intended to debunk the most famous UFO sightings to that date, including Mariana's sighting and film."
+  },
+  {
+   "s": "hoaxart",
+   "p": "published",
+   "v": "January 1951",
+   "quote": "In January 1951, Bob Considine, a writer and UFO skeptic, wrote an article for Cosmopolitan entitled \"The Disgraceful Flying Saucer Hoax\", intended to debunk the most famous UFO sightings to that date, including Mariana's sighting and film."
+  },
+  {
+   "s": "hoaxart",
+   "p": "purpose",
+   "v": "intended to debunk the most famous UFO sightings to that date",
+   "quote": "In January 1951, Bob Considine, a writer and UFO skeptic, wrote an article for Cosmopolitan entitled \"The Disgraceful Flying Saucer Hoax\", intended to debunk the most famous UFO sightings to that date, including Mariana's sighting and film."
+  },
+  {
+   "s": "greenedoc",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "They asked Nick Mariana for the rights to use his footage in the documentary, and Mariana agreed."
+  },
+  {
+   "s": "greenedoc",
+   "p": "year_begun",
+   "v": "1954",
+   "quote": "In 1954, Greene-Rouse productions decided to make a documentary film about the UFO phenomenon."
+  },
+  {
+   "s": "fsfos",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Keyhoe, Donald (1973). \"IX: The Utah Pictures\". Flying Saucers from Outer Space (paperback ed.). Tandem. pp. 150–168."
+  },
+  {
+   "s": "fsfos",
+   "p": "edition",
+   "v": "1973 paperback, chapter \"IX: The Utah Pictures\", pp. 150–168",
+   "quote": "Keyhoe, Donald (1973). \"IX: The Utah Pictures\". Flying Saucers from Outer Space (paperback ed.). Tandem. pp. 150–168."
+  },
+  {
+   "s": "enigma",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "H. Menzel, Donald; H. Taves, Ernest (1977). The UFO Enigma: the Definitive Explanation of the UFO Phenomenon. Doubleday. pp. 110–111."
+  },
+  {
+   "s": "enigma",
+   "p": "published",
+   "v": "1977, pp. 110–111",
+   "quote": "H. Menzel, Donald; H. Taves, Ernest (1977). The UFO Enigma: the Definitive Explanation of the UFO Phenomenon. Doubleday. pp. 110–111."
+  },
+  {
+   "s": "utah",
+   "p": "related_case",
+   "o": "case",
+   "quote": "More detailed study indicated that the only remaining natural phenomenon candidate for the Utah film was birds in flight, and for the Montana film it was airplane fuselage reflections of the sun."
+  },
+  {
+   "s": "utah",
+   "p": "candidate_explanation",
+   "v": "birds in flight",
+   "quote": "More detailed study indicated that the only remaining natural phenomenon candidate for the Utah film was birds in flight, and for the Montana film it was airplane fuselage reflections of the sun."
+  },
+  {
+   "s": "rhodes",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Rhodes UFO photographs (1947)"
+  },
+  {
+   "s": "rhodes",
+   "p": "year",
+   "v": "1947",
+   "quote": "Rhodes UFO photographs (1947)"
+  },
+  {
+   "s": "mcminn",
+   "p": "related_case",
+   "o": "case",
+   "quote": "McMinnville UFO photographs (May 1950)"
+  },
+  {
+   "s": "mcminn",
+   "p": "date",
+   "v": "May 1950",
+   "quote": "McMinnville UFO photographs (May 1950)"
+  },
+  {
+   "s": "passaic",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Passaic UFO photographs (1952)"
+  },
+  {
+   "s": "passaic",
+   "p": "year",
+   "v": "1952",
+   "quote": "Passaic UFO photographs (1952)"
+  },
+  {
+   "s": "malmcase",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Malmstrom UFO incident (1967)"
+  },
+  {
+   "s": "malmcase",
+   "p": "year",
+   "v": "1967",
+   "quote": "Malmstrom UFO incident (1967)"
+  },
+  {
+   "s": "f_film",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Mariana ran to his car to retrieve his 16 mm movie camera and filmed the UFOs for sixteen seconds."
+  },
+  {
+   "s": "f_disc",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "They claimed that the missing frames clearly showed the UFOs as spinning, metallic disks with a \"notch or band\" along their outer edges."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Raunig also witnessed the objects."
+  },
+  {
+   "s": "f_base",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "U.S. Air Force Captain John P. Brynildsen interviewed Mariana at nearby Malmstrom AFB outside of Great Falls."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The U.S. Air Force, after a short investigation, concluded that what Mariana had actually filmed were sun reflections of two F-94 jet fighters, a claim that the Air Force later retracted, and then eventually endorsed again."
+  },
+  {
+   "s": "f_cover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Controversy soon arose when Mariana claimed that the first thirty-five frames of his film – which he said most clearly showed the UFOs as rotating disks – were missing."
+  },
+  {
+   "s": "f_congress",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In 1968, Baker testified before a Congressional hearing on UFOs. He commented on his analysis of the Mariana film:"
+  },
+  {
+   "s": "f_hoax",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In January 1951, Bob Considine, a writer and UFO skeptic, wrote an article for Cosmopolitan entitled \"The Disgraceful Flying Saucer Hoax\", intended to debunk the most famous UFO sightings to that date, including Mariana's sighting and film."
+  },
+  {
+   "s": "f_lawsuit",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Claiming that Considine's article implied that he was \"a liar, prankster, half-wit, crank, publicity hound and fanatic\", Mariana filed a lawsuit for slander against Considine."
+  },
+  {
+   "s": "f_flash",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "A bright flash caught Mariana's eye and, according to his reports, he saw two rotating bright silvery objects, flying over Great Falls at a speed he estimated to be around 200 to 400 miles per hour (320 to 640 km/h)."
+  },
+  {
+   "s": "x_aircraft",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The U.S. Air Force, after a short investigation, concluded that what Mariana had actually filmed were sun reflections of two F-94 jet fighters, a claim that the Air Force later retracted, and then eventually endorsed again."
+  },
+  {
+   "s": "x_aircraft",
+   "p": "status",
+   "v": "retracted by the Air Force, then eventually endorsed again",
+   "quote": "The U.S. Air Force, after a short investigation, concluded that what Mariana had actually filmed were sun reflections of two F-94 jet fighters, a claim that the Air Force later retracted, and then eventually endorsed again."
+  }
+ ]
+}

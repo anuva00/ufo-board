@@ -1,0 +1,2507 @@
+{
+ "slug": "ghost-rockets",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Ghost rockets",
+   "aliases": [
+    "Spökraketer",
+    "Scandinavian ghost rockets",
+    "ghost rocket",
+    "ghost bombs"
+   ],
+   "description": "Wave of rocket- or missile-shaped unidentified flying objects sighted in 1946, primarily over Sweden and other Scandinavian countries."
+  },
+  {
+   "key": "craft",
+   "type": "craft",
+   "name": "Ghost rockets (rocket- or missile-shaped objects)",
+   "aliases": [
+    "ghost rockets",
+    "ghost bombs"
+   ],
+   "description": "Fast-flying rocket-, missile- or cigar-shaped objects reported over Scandinavia in 1946."
+  },
+  {
+   "key": "kolm_obj",
+   "type": "craft",
+   "name": "Kölmjärv object",
+   "aliases": [
+    "the Kölmjärv object"
+   ],
+   "description": "Gray, rocket-shaped winged object reported crashing into Lake Kölmjärv on July 19, 1946."
+  },
+  {
+   "key": "sweden",
+   "type": "place",
+   "name": "Sweden",
+   "description": "Country where most ghost rocket sightings occurred."
+  },
+  {
+   "key": "finland",
+   "type": "place",
+   "name": "Finland",
+   "description": "Country where ghost rockets were also sighted and from which the first reports came."
+  },
+  {
+   "key": "scandinavia",
+   "type": "place",
+   "name": "Scandinavia",
+   "aliases": [
+    "Scandinavian countries"
+   ],
+   "description": "Region where the ghost rockets were primarily sighted."
+  },
+  {
+   "key": "peenemunde",
+   "type": "place",
+   "name": "Peenemünde",
+   "aliases": [
+    "Peneemünde",
+    "former German rocket facility at Peenemünde"
+   ],
+   "description": "Former German rocket facility widely believed in 1946 to be the origin of the ghost rockets."
+  },
+  {
+   "key": "oie",
+   "type": "place",
+   "name": "Greifswalder Oie",
+   "aliases": [
+    "the Greifswalder Oie"
+   ],
+   "description": "Location named alongside Peenemünde as having no reported rocket launches after February 21, 1945."
+  },
+  {
+   "key": "ussr",
+   "type": "place",
+   "name": "Soviet Union",
+   "aliases": [
+    "the Soviets",
+    "Soviet"
+   ],
+   "description": "Nation believed in 1946 to be conducting the missile tests."
+  },
+  {
+   "key": "germany",
+   "type": "place",
+   "name": "Germany",
+   "aliases": [
+    "German"
+   ],
+   "description": "Country whose former rocket facility and captured missiles were tied to the ghost rockets."
+  },
+  {
+   "key": "kolmjarv",
+   "type": "place",
+   "name": "Lake Kölmjärv",
+   "aliases": [
+    "Kölmjärv"
+   ],
+   "description": "Swedish lake where the best-known ghost rocket crash was reported on July 19, 1946."
+  },
+  {
+   "key": "bothnia",
+   "type": "place",
+   "name": "Gulf of Bothnia",
+   "description": "Body of water at which CIG speculated the missiles were being aimed for test purposes."
+  },
+  {
+   "key": "stockholm",
+   "type": "place",
+   "name": "Stockholm, Sweden",
+   "aliases": [
+    "Stockholm"
+   ],
+   "description": "City where Doolittle and Sarnoff arrived in August 1946."
+  },
+  {
+   "key": "moscow",
+   "type": "place",
+   "name": "Moscow, Soviet Union",
+   "aliases": [
+    "Moscow"
+   ],
+   "description": "City where the US military attaché was told of the radar course-plotting."
+  },
+  {
+   "key": "europe",
+   "type": "place",
+   "name": "Europe",
+   "description": "Continent where Doolittle was said to be inspecting Shell branch offices."
+  },
+  {
+   "key": "london",
+   "type": "place",
+   "name": "London, United Kingdom",
+   "aliases": [
+    "London"
+   ],
+   "description": "City of Eisenhower's staff, of which Sarnoff was a former member."
+  },
+  {
+   "key": "neubiberg",
+   "type": "place",
+   "name": "Neubiberg Air Base",
+   "description": "Air base over which a flying saucer was reported hovering in 1948, per the USAFE document."
+  },
+  {
+   "key": "greece",
+   "type": "place",
+   "name": "Greece",
+   "description": "Country where similar objects were reported in September 1946."
+  },
+  {
+   "key": "thessaloniki",
+   "type": "place",
+   "name": "Thessaloniki, Greece",
+   "aliases": [
+    "Thessaloniki"
+   ],
+   "description": "Greek city around which British Army units reported similar objects."
+  },
+  {
+   "key": "macedonia",
+   "type": "place",
+   "name": "Macedonia",
+   "description": "Region over which projectiles were seen on September 1, 1946."
+  },
+  {
+   "key": "portugal",
+   "type": "place",
+   "name": "Portugal",
+   "description": "Country where the objects were seen in mid-September 1946."
+  },
+  {
+   "key": "belgium",
+   "type": "place",
+   "name": "Belgium",
+   "description": "Country where the objects were seen after Portugal."
+  },
+  {
+   "key": "italy",
+   "type": "place",
+   "name": "Italy",
+   "aliases": [
+    "northern Italy"
+   ],
+   "description": "Country in whose north the objects were seen."
+  },
+  {
+   "key": "washington",
+   "type": "place",
+   "name": "Washington",
+   "description": "Place from which foreign scientists flew to Greece for secret talks with Santorini."
+  },
+  {
+   "key": "swe_army",
+   "type": "organization",
+   "name": "Swedish Army",
+   "description": "Issued a directive restricting newspaper reporting of ghost rocket sightings."
+  },
+  {
+   "key": "swe_mil",
+   "type": "organization",
+   "name": "Swedish Armed Forces",
+   "aliases": [
+    "Swedish military",
+    "the Swedish military"
+   ],
+   "description": "Swedish military, which searched lakes after reported crashes."
+  },
+  {
+   "key": "swe_af",
+   "type": "organization",
+   "name": "Swedish Air Force",
+   "description": "Service of the officer who led the Lake Kölmjärv search."
+  },
+  {
+   "key": "defstaff",
+   "type": "organization",
+   "name": "Swedish Defense Staff",
+   "aliases": [
+    "Defense Staff"
+   ],
+   "description": "Swedish military staff that received the reports and issued a public statement on October 10, 1946."
+  },
+  {
+   "key": "airdef",
+   "type": "organization",
+   "name": "Swedish Defense Staff Air Defense Division",
+   "aliases": [
+    "Defense Staff's Air Defense Division",
+    "Air Defense Division"
+   ],
+   "description": "Division of the Swedish Defense Staff to which Lt. Lennart Neckman belonged."
+  },
+  {
+   "key": "committee",
+   "type": "organization",
+   "name": "Swedish Ghost Rocket committee",
+   "aliases": [
+    "Ghost Rocket committee"
+   ],
+   "description": "Swedish committee for which a memo on impacts and debris was drafted on December 3, 1946."
+  },
+  {
+   "key": "foa",
+   "type": "organization",
+   "name": "Swedish National Defence Research Institute",
+   "aliases": [
+    "FOA",
+    "Swedish National Defence Research Institute (FOA)"
+   ],
+   "description": "Institute (FOA) that received and examined thirty pieces of debris."
+  },
+  {
+   "key": "nyt",
+   "type": "organization",
+   "name": "The New York Times",
+   "aliases": [
+    "the Times",
+    "N.Y. Times"
+   ],
+   "description": "Newspaper that reported U.S. interest in the ghost rockets in August and September 1946."
+  },
+  {
+   "key": "usaaf",
+   "type": "organization",
+   "name": "United States Army Air Forces",
+   "aliases": [
+    "U.S. Army Air Forces",
+    "U.S. Army Air Forces intelligence"
+   ],
+   "description": "U.S. service whose intelligence was interested in the ghost rocket reports."
+  },
+  {
+   "key": "rca",
+   "type": "organization",
+   "name": "RCA",
+   "description": "Company of which David Sarnoff was president."
+  },
+  {
+   "key": "shell",
+   "type": "organization",
+   "name": "Shell Oil Company",
+   "aliases": [
+    "Shell"
+   ],
+   "description": "Company of which Doolittle was a vice-president."
+  },
+  {
+   "key": "cig",
+   "type": "organization",
+   "name": "Central Intelligence Group",
+   "aliases": [
+    "CIG",
+    "Central Intelligence Group (CIG)"
+   ],
+   "description": "U.S. intelligence body (CIG) whose director wrote a Top Secret memo to President Truman on the ghost rockets."
+  },
+  {
+   "key": "usafe",
+   "type": "organization",
+   "name": "United States Air Force Europe",
+   "aliases": [
+    "USAFE"
+   ],
+   "description": "U.S. Air Force command (USAFE) that produced a Top Secret document on 4 November 1948."
+  },
+  {
+   "key": "sais",
+   "type": "organization",
+   "name": "Swedish Air Intelligence Service",
+   "aliases": [
+    "the Swedes"
+   ],
+   "description": "Swedish service visited by USAFE officers, who were told of a possible origin outside the earth."
+  },
+  {
+   "key": "usmil",
+   "type": "organization",
+   "name": "United States Armed Forces",
+   "aliases": [
+    "U.S. military"
+   ],
+   "description": "U.S. military, whose investigators rejected the Soviet origins theory."
+  },
+  {
+   "key": "britarmy",
+   "type": "organization",
+   "name": "British Army",
+   "aliases": [
+    "British Army units"
+   ],
+   "description": "Army whose units in Greece reported similar objects."
+  },
+  {
+   "key": "greekgov",
+   "type": "organization",
+   "name": "Greek government",
+   "description": "Government that conducted its own investigation under Paul Santorini."
+  },
+  {
+   "key": "greekarmy",
+   "type": "organization",
+   "name": "Greek Army",
+   "aliases": [
+    "the Army"
+   ],
+   "description": "Army that supplied Santorini with a team of engineers and later ordered the investigation stopped."
+  },
+  {
+   "key": "gas",
+   "type": "organization",
+   "name": "Greek Astronomical Society",
+   "description": "Society to which Santorini lectured in 1967."
+  },
+  {
+   "key": "athensradio",
+   "type": "organization",
+   "name": "Athens Radio",
+   "description": "Broadcaster of Santorini's 1967 lecture."
+  },
+  {
+   "key": "dod",
+   "type": "organization",
+   "name": "United States Department of Defense",
+   "aliases": [
+    "U.S. Defense Dept."
+   ],
+   "description": "U.S. department presumed to be the foreign officials consulted before the Greek investigation was stopped."
+  },
+  {
+   "key": "bartoll",
+   "type": "person",
+   "name": "Karl-Gösta Bartoll",
+   "aliases": [
+    "Bartoll"
+   ],
+   "description": "Swedish Air Force officer who led the Lake Kölmjärv search."
+  },
+  {
+   "key": "svahn",
+   "type": "person",
+   "name": "Clas Svahn",
+   "description": "Swedish researcher who interviewed Bartoll in 1984."
+  },
+  {
+   "key": "neckman",
+   "type": "person",
+   "name": "Lennart Neckman",
+   "aliases": [
+    "Lt. Lennart Neckman"
+   ],
+   "description": "Swedish lieutenant of the Defense Staff's Air Defense Division who saw an object in early August 1946."
+  },
+  {
+   "key": "acheson",
+   "type": "person",
+   "name": "Dean Acheson",
+   "description": "U.S. Undersecretary of State reported to be very much interested in the ghost rocket reports."
+  },
+  {
+   "key": "doolittle",
+   "type": "person",
+   "name": "James Doolittle",
+   "aliases": [
+    "General James Doolittle",
+    "Doolittle"
+   ],
+   "description": "U.S. general and Shell Oil vice-president who arrived in Stockholm in August 1946 and was briefed on the ghost rockets."
+  },
+  {
+   "key": "sarnoff",
+   "type": "person",
+   "name": "David Sarnoff",
+   "aliases": [
+    "General David Sarnoff",
+    "Sarnoff"
+   ],
+   "description": "U.S. general and president of RCA who arrived in Stockholm in August 1946 and was briefed on the ghost rockets."
+  },
+  {
+   "key": "eisenhower",
+   "type": "person",
+   "name": "Dwight D. Eisenhower",
+   "aliases": [
+    "General Dwight D. Eisenhower"
+   ],
+   "description": "General on whose London staff Sarnoff had served."
+  },
+  {
+   "key": "vandenberg",
+   "type": "person",
+   "name": "Hoyt Vandenberg",
+   "aliases": [
+    "Lt. Gen. Hoyt Vandenberg",
+    "Vandenberg"
+   ],
+   "description": "Director of the Central Intelligence Group who wrote a Top Secret memo to President Truman on August 22, 1946."
+  },
+  {
+   "key": "truman",
+   "type": "person",
+   "name": "Truman",
+   "aliases": [
+    "President Truman"
+   ],
+   "description": "U.S. President to whom Vandenberg addressed his Top Secret memo."
+  },
+  {
+   "key": "tsaldaris",
+   "type": "person",
+   "name": "Konstantinos Tsaldaris",
+   "description": "Greek Prime Minister who reported projectiles seen over Macedonia and Thessaloniki."
+  },
+  {
+   "key": "santorini",
+   "type": "person",
+   "name": "Paul Santorini",
+   "aliases": [
+    "Santorini",
+    "Santorinis"
+   ],
+   "description": "Greek physicist in charge of the Greek government's investigation."
+  },
+  {
+   "key": "fowler",
+   "type": "person",
+   "name": "Raymond Fowler",
+   "description": "UFO researcher whom Santorini told about the reasons for secrecy."
+  },
+  {
+   "key": "clark",
+   "type": "person",
+   "name": "Clark",
+   "description": "Author cited as the source for U.S. Army Air Forces intelligence interest (Clark, 246)."
+  },
+  {
+   "key": "carpenter",
+   "type": "person",
+   "name": "Joel Carpenter",
+   "aliases": [
+    "Carpenter"
+   ],
+   "description": "Author of an extensive ghost rocket chronology on the Project 1947 website."
+  },
+  {
+   "key": "stankievech",
+   "type": "person",
+   "name": "Charles Stankievech",
+   "description": "Creator of the Ghost Rockets World Tour project."
+  },
+  {
+   "key": "directive",
+   "type": "document",
+   "name": "Swedish Army directive to newspapers",
+   "description": "Directive that newspapers were not to report exact location, direction or speed of ghost rocket sightings."
+  },
+  {
+   "key": "bartoll_report",
+   "type": "document",
+   "name": "Bartoll report on the Lake Kölmjärv search",
+   "description": "Report submitted by Karl-Gösta Bartoll immediately after the Lake Kölmjärv investigation."
+  },
+  {
+   "key": "ds_statement",
+   "type": "document",
+   "name": "Swedish Defense Staff public statement of October 10, 1946",
+   "description": "Public statement that most observations were vague but some could not be explained."
+  },
+  {
+   "key": "dec3memo",
+   "type": "document",
+   "name": "Memo for the Swedish Ghost Rocket committee, December 3, 1946",
+   "description": "Memo stating nearly one hundred impacts reported and thirty pieces of debris examined by FOA."
+  },
+  {
+   "key": "vandmemo",
+   "type": "document",
+   "name": "Vandenberg Top Secret memo to President Truman, August 22, 1946",
+   "description": "Top Secret memo from the CIG director stating the weight of evidence pointed to Peenemünde."
+  },
+  {
+   "key": "usafedoc",
+   "type": "document",
+   "name": "USAFE Top Secret document of 4 November 1948",
+   "description": "Top Secret United States Air Force Europe document indicating some investigators believed in extraterrestrial origins; declassified 1997."
+  },
+  {
+   "key": "lecture",
+   "type": "document",
+   "name": "Santorini 1967 lecture to the Greek Astronomical Society",
+   "description": "Lecture broadcast on Athens Radio in which Santorini first publicly revealed his 1947 investigation findings."
+  },
+  {
+   "key": "v1",
+   "type": "vehicle",
+   "name": "V-1 missile",
+   "aliases": [
+    "V-1"
+   ],
+   "description": "German missile type believed in 1946 to be tested by the Soviets as the ghost rockets."
+  },
+  {
+   "key": "v2",
+   "type": "vehicle",
+   "name": "V-2 missile",
+   "aliases": [
+    "V-2"
+   ],
+   "description": "German missile type believed in 1946 to be tested by the Soviets as the ghost rockets."
+  },
+  {
+   "key": "nike",
+   "type": "program",
+   "name": "Nike missiles",
+   "aliases": [
+    "Nike"
+   ],
+   "description": "Missiles for whose guidance systems Santorini held patents."
+  },
+  {
+   "key": "neub_case",
+   "type": "case",
+   "name": "Neubiberg Air Base flying saucer sighting",
+   "description": "Flying saucer reported hovering over Neubiberg Air Base for about thirty minutes, per the 4 November 1948 USAFE document."
+  },
+  {
+   "key": "foo",
+   "type": "case",
+   "name": "Foo fighter",
+   "description": "Related UFO phenomenon listed under See also."
+  },
+  {
+   "key": "w_carp",
+   "type": "work",
+   "name": "Ghost Rocket chronology",
+   "aliases": [
+    "Carpenter chronology"
+   ],
+   "description": "Extensive ghost rocket chronology by Joel Carpenter on the Project 1947 website."
+  },
+  {
+   "key": "w_snu",
+   "type": "work",
+   "name": "The Ghost Rockets of 1946",
+   "description": "Article on the ghost rockets from Saturday Night Uforia."
+  },
+  {
+   "key": "w_tour",
+   "type": "work",
+   "name": "Ghost Rockets World Tour",
+   "description": "Project by Charles Stankievech mapping the history of ballistics by staging rocket launches at historic sites."
+  },
+  {
+   "key": "w_greek",
+   "type": "work",
+   "name": "The Greek Ghost Rockets of 1946",
+   "description": "Article on the sightings in Greece and Santorini's involvement."
+  },
+  {
+   "key": "f_cyl",
+   "type": "feature",
+   "name": "shape-cylinder",
+   "description": "Rocket-, missile- or cigar-shaped objects."
+  },
+  {
+   "key": "f_radar",
+   "type": "feature",
+   "name": "radar-contact",
+   "description": "Two hundred sightings verified with radar returns."
+  },
+  {
+   "key": "f_debris",
+   "type": "feature",
+   "name": "debris-or-material",
+   "description": "Fragments and debris recovered and examined."
+  },
+  {
+   "key": "f_traces",
+   "type": "feature",
+   "name": "physical-traces",
+   "description": "Craters in lake bottoms and torn off aquatic plants."
+  },
+  {
+   "key": "f_water",
+   "type": "feature",
+   "name": "water-related",
+   "description": "Crashes almost always in lakes."
+  },
+  {
+   "key": "f_crash",
+   "type": "feature",
+   "name": "crash-retrieval-claim",
+   "description": "Crashes reported and fragments recovered by authorities."
+  },
+  {
+   "key": "f_fast",
+   "type": "feature",
+   "name": "high-speed-maneuvers",
+   "description": "Fast-flying objects seen to maneuver."
+  },
+  {
+   "key": "f_silent",
+   "type": "feature",
+   "name": "silent",
+   "description": "Some objects appeared to be silent."
+  },
+  {
+   "key": "f_sound",
+   "type": "feature",
+   "name": "sound-reported",
+   "description": "Hissing or rumbling sound sometimes reported."
+  },
+  {
+   "key": "f_mass",
+   "type": "feature",
+   "name": "mass-sighting",
+   "description": "About 2,000 sightings logged."
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "Multiple witnesses to individual events such as the Kölmjärv crash."
+  },
+  {
+   "key": "f_mil",
+   "type": "feature",
+   "name": "military-witnesses",
+   "description": "Sightings by military personnel."
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Investigated by Swedish, U.S. and Greek authorities."
+  },
+  {
+   "key": "f_cover",
+   "type": "feature",
+   "name": "alleged-cover-up",
+   "description": "Santorini said secrecy was invoked and the investigation ordered stopped."
+  },
+  {
+   "key": "f_formation",
+   "type": "feature",
+   "name": "other:formation flight",
+   "description": "Objects reported traveling and maneuvering in formation."
+  },
+  {
+   "key": "f_press",
+   "type": "feature",
+   "name": "other:press restrictions",
+   "description": "Newspapers directed not to report exact location, direction or speed of sightings."
+  },
+  {
+   "key": "x_meteor",
+   "type": "explanation",
+   "name": "meteor-or-fireball",
+   "description": "Investigations concluded many sightings were probably meteors; debris later said to be meteorite fragments."
+  },
+  {
+   "key": "x_test",
+   "type": "explanation",
+   "name": "military-test-or-exercise",
+   "description": "Soviet long-range tests of captured German V-1 or V-2 missiles launched from Peenemünde."
+  },
+  {
+   "key": "x_rocket",
+   "type": "explanation",
+   "name": "satellite-or-rocket",
+   "description": "Belief that the objects were real rockets or missiles."
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1946-02-26",
+   "quote": "The first reports of ghost rockets were made on February 26, 1946, by Finnish observers."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1946-12",
+   "quote": "About 2,000 sightings were logged between May and December 1946, with peaks on 9 and 11 August 1946."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "Sweden",
+   "quote": "Ghost rockets (Swedish: Spökraketer, also called Scandinavian ghost rockets) were rocket or missile shaped unidentified flying objects first sighted in 1946, primarily in Sweden and other Scandinavian countries, including Finland."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "Finland",
+   "quote": "Ghost rockets (Swedish: Spökraketer, also called Scandinavian ghost rockets) were rocket or missile shaped unidentified flying objects first sighted in 1946, primarily in Sweden and other Scandinavian countries, including Finland."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "Greece",
+   "quote": "Similar objects were also reported early the following month by British Army units in Greece, especially around Thessaloniki."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "Portugal",
+   "quote": "In mid-September, they were also seen in Portugal, and then in Belgium and northern Italy."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "Belgium",
+   "quote": "In mid-September, they were also seen in Portugal, and then in Belgium and northern Italy."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "Italy",
+   "quote": "In mid-September, they were also seen in Portugal, and then in Belgium and northern Italy."
+  },
+  {
+   "s": "case",
+   "p": "swedish_name",
+   "v": "Spökraketer",
+   "quote": "Ghost rockets (Swedish: Spökraketer, also called Scandinavian ghost rockets) were rocket or missile shaped unidentified flying objects first sighted in 1946, primarily in Sweden and other Scandinavian countries, including Finland."
+  },
+  {
+   "s": "case",
+   "p": "first_sighted_year",
+   "v": "1946",
+   "quote": "Ghost rockets (Swedish: Spökraketer, also called Scandinavian ghost rockets) were rocket or missile shaped unidentified flying objects first sighted in 1946, primarily in Sweden and other Scandinavian countries, including Finland."
+  },
+  {
+   "s": "case",
+   "p": "first_reports_by",
+   "v": "Finnish observers",
+   "quote": "The first reports of ghost rockets were made on February 26, 1946, by Finnish observers."
+  },
+  {
+   "s": "case",
+   "p": "sightings_count",
+   "v": "About 2,000 logged between May and December 1946",
+   "quote": "About 2,000 sightings were logged between May and December 1946, with peaks on 9 and 11 August 1946."
+  },
+  {
+   "s": "case",
+   "p": "sightings_period",
+   "v": "May to December 1946",
+   "quote": "About 2,000 sightings were logged between May and December 1946, with peaks on 9 and 11 August 1946."
+  },
+  {
+   "s": "case",
+   "p": "peak_dates",
+   "v": "9 and 11 August 1946",
+   "quote": "About 2,000 sightings were logged between May and December 1946, with peaks on 9 and 11 August 1946."
+  },
+  {
+   "s": "case",
+   "p": "radar_verified_sightings",
+   "v": "200",
+   "quote": "Two hundred sightings were verified with radar returns, and authorities recovered physical fragments which were attributed to ghost rockets."
+  },
+  {
+   "s": "case",
+   "p": "fragments_recovered",
+   "v": "authorities recovered physical fragments attributed to ghost rockets",
+   "quote": "Two hundred sightings were verified with radar returns, and authorities recovered physical fragments which were attributed to ghost rockets."
+  },
+  {
+   "s": "case",
+   "p": "investigation_conclusion",
+   "v": "many sightings were probably caused by meteors",
+   "quote": "Investigations concluded that many ghost rocket sightings were probably caused by meteors."
+  },
+  {
+   "s": "case",
+   "p": "peaks_coincide_with",
+   "v": "peak of the annual Perseid meteor shower",
+   "quote": "the peaks of the sightings, on 9 and 11 August 1946, also fall within the peak of the annual Perseid meteor shower"
+  },
+  {
+   "s": "case",
+   "p": "meteor_explanation_objection",
+   "v": "most sightings did not occur during meteor shower activity and showed characteristics inconsistent with meteors, such as reported maneuverability",
+   "quote": "However, most ghost rocket sightings did not occur during meteor shower activity; furthermore they displayed characteristics inconsistent with meteors, such as reported maneuverability."
+  },
+  {
+   "s": "case",
+   "p": "origin_status",
+   "v": "debate continues as to the origins",
+   "quote": "Debate continues as to the origins of the unidentified ghost rockets."
+  },
+  {
+   "s": "case",
+   "p": "belief_in_1946",
+   "v": "originated from Peenemünde; long-range Soviet tests of captured German V-1 or V-2 missiles",
+   "quote": "it was widely  believed that they originated from the former German rocket facility at Peenemünde, and were long-range tests conducted by the Soviets of captured German V-1 or V-2 missiles"
+  },
+  {
+   "s": "case",
+   "p": "belief_in_1946",
+   "v": "perhaps another early form of cruise missile, because of the ways they were sometimes seen to maneuver",
+   "quote": "or perhaps another early form of cruise missile because of the ways they were sometimes seen to maneuver"
+  },
+  {
+   "s": "case",
+   "p": "press_restriction",
+   "v": "Swedish Army directive: newspapers not to report the exact location, direction or speed of any ghost rocket sightings",
+   "quote": "This prompted the Swedish Army to issue a directive stating that newspapers were not to report the exact location, direction or speed of any ghost rocket sightings"
+  },
+  {
+   "s": "case",
+   "p": "press_restriction_reason",
+   "v": "information was vital for evaluation purposes to the nation or nations assumed to be performing the tests",
+   "quote": "this information they reasoned, was vital for evaluation purposes to the nation or nations assumed to be performing the tests"
+  },
+  {
+   "s": "case",
+   "p": "soviet_theory_rejected_by",
+   "v": "Swedish, British, and U.S. military investigators",
+   "quote": "The early Soviet origins theory was rejected by Swedish, British, and U.S. military investigators because no recognizable rocket fragments were ever found"
+  },
+  {
+   "s": "case",
+   "p": "soviet_theory_rejection_reason",
+   "v": "no recognizable rocket fragments were ever found",
+   "quote": "The early Soviet origins theory was rejected by Swedish, British, and U.S. military investigators because no recognizable rocket fragments were ever found"
+  },
+  {
+   "s": "case",
+   "p": "crash_locations",
+   "v": "almost always in lakes",
+   "quote": "Crashes were not uncommon, and occurred almost always in lakes."
+  },
+  {
+   "s": "case",
+   "p": "crash_behavior",
+   "v": "objects crashing into a lake, sometimes propelling themselves across the surface before sinking",
+   "quote": "Reports were made of objects crashing into a lake, sometimes then propelling themselves across the surface before sinking."
+  },
+  {
+   "s": "case",
+   "p": "dive_search_result",
+   "v": "several dives found nothing other than occasional craters in the lake bottom or torn off aquatic plants",
+   "quote": "The Swedish military performed several dives in the affected lakes shortly after the crashes, but found nothing other than occasional craters in the lake bottom or torn off aquatic plants."
+  },
+  {
+   "s": "case",
+   "p": "impacts_reported",
+   "v": "nearly one hundred",
+   "quote": "On December 3, 1946, a memo was drafted for the Swedish Ghost Rocket committee stating \"nearly one hundred impacts have been reported and thirty pieces of debris have been received and examined by Swedish National Defence Research Institute (FOA)\"."
+  },
+  {
+   "s": "case",
+   "p": "debris_pieces_examined",
+   "v": "thirty",
+   "quote": "On December 3, 1946, a memo was drafted for the Swedish Ghost Rocket committee stating \"nearly one hundred impacts have been reported and thirty pieces of debris have been received and examined by Swedish National Defence Research Institute (FOA)\"."
+  },
+  {
+   "s": "case",
+   "p": "debris_identified_as",
+   "v": "ordinary coke or slag",
+   "quote": "It was also stated that fragments alleged to have come from the missiles were nothing more than ordinary coke or slag."
+  },
+  {
+   "s": "case",
+   "p": "debris_identified_as",
+   "v": "meteorite fragments (later said)",
+   "quote": "The debris was later said to be meteorite fragments."
+  },
+  {
+   "s": "case",
+   "p": "reports_received_by_defense_staff",
+   "v": "nearly 1,000 to November 29",
+   "quote": "Of the nearly 1,000 reports that had been received by the Swedish Defense Staff to November 29, 225 were considered observations of \"real physical objects\" and every one had been seen in broad daylight."
+  },
+  {
+   "s": "case",
+   "p": "real_physical_object_observations",
+   "v": "225",
+   "quote": "Of the nearly 1,000 reports that had been received by the Swedish Defense Staff to November 29, 225 were considered observations of \"real physical objects\" and every one had been seen in broad daylight."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "broad daylight (all 225 'real physical objects' observations)",
+   "quote": "Of the nearly 1,000 reports that had been received by the Swedish Defense Staff to November 29, 225 were considered observations of \"real physical objects\" and every one had been seen in broad daylight."
+  },
+  {
+   "s": "case",
+   "p": "official_opinion",
+   "v": "official opinion of the Swedish and U.S. military remains unclear",
+   "quote": "Although the official opinion of the Swedish and U.S. military remains unclear"
+  },
+  {
+   "s": "case",
+   "p": "extraterrestrial_hypothesis",
+   "v": "at least some investigators believed the ghost rockets and later \"flying saucers\" had extraterrestrial origins",
+   "quote": "a Top Secret USAFE (United States Air Force Europe) document from 4 November 1948 indicates that at least some investigators believed the ghost rockets and later \"flying saucers\" had extraterrestrial origins"
+  },
+  {
+   "s": "case",
+   "p": "spread_beyond_scandinavia",
+   "v": "reports were not confined to Scandinavian countries",
+   "quote": "The \"ghost rocket\" reports were not confined to Scandinavian countries."
+  },
+  {
+   "s": "case",
+   "p": "greek_sightings",
+   "v": "reported early September 1946 by British Army units in Greece, especially around Thessaloniki",
+   "quote": "Similar objects were also reported early the following month by British Army units in Greece, especially around Thessaloniki."
+  },
+  {
+   "s": "case",
+   "p": "greek_sighting_date",
+   "v": "1946-09-01",
+   "quote": "In an interview on September 5, 1946, the Greek Prime Minister, Konstantinos Tsaldaris, likewise reported a number of projectiles had been seen over Macedonia and Thessaloniki on September 1."
+  },
+  {
+   "s": "case",
+   "p": "later_sightings",
+   "v": "mid-September 1946 in Portugal, then Belgium and northern Italy",
+   "quote": "In mid-September, they were also seen in Portugal, and then in Belgium and northern Italy."
+  },
+  {
+   "s": "case",
+   "p": "greek_belief",
+   "v": "believed to be Soviet missiles flying over Greece",
+   "quote": "Santorini was supplied by the Greek Army with a team of engineers to investigate what again were believed to be Soviet missiles flying over Greece."
+  },
+  {
+   "s": "case",
+   "p": "us_experts_arrival",
+   "v": "two U.S. experts on aerial warfare arrived in Stockholm, ostensibly on private business and independently of each other",
+   "quote": "Then on August 20, the Times reported that two U.S. experts on aerial warfare, aviation legend General James Doolittle and General David Sarnoff, president of RCA, arrived in Stockholm, ostensibly on private business and independently of each other."
+  },
+  {
+   "s": "case",
+   "p": "radar_tracking",
+   "v": "on several occasions the ghost rockets had been tracked on radar",
+   "quote": "Doolittle and Sarnoff were briefed that on several occasions the ghost rockets had been tracked on radar."
+  },
+  {
+   "s": "case",
+   "p": "no_launch_reports",
+   "v": "no reports of rocket launches at Peenemünde or the Greifswalder Oie after February 21, 1945",
+   "quote": "Nevertheless, there are no reports of rocket launches at Peenemünde or the Greifswalder Oie after February 21, 1945"
+  },
+  {
+   "s": "craft",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Ghost rockets (Swedish: Spökraketer, also called Scandinavian ghost rockets) were rocket or missile shaped unidentified flying objects first sighted in 1946, primarily in Sweden and other Scandinavian countries, including Finland."
+  },
+  {
+   "s": "craft",
+   "p": "shape",
+   "v": "rocket or missile shaped",
+   "quote": "Ghost rockets (Swedish: Spökraketer, also called Scandinavian ghost rockets) were rocket or missile shaped unidentified flying objects first sighted in 1946, primarily in Sweden and other Scandinavian countries, including Finland."
+  },
+  {
+   "s": "craft",
+   "p": "shape",
+   "v": "rocket- or missile-shaped, with or without wings",
+   "quote": "The sightings most often consisted of fast-flying rocket- or missile-shaped objects, with or without wings, visible for mere seconds."
+  },
+  {
+   "s": "craft",
+   "p": "shape",
+   "v": "cigar-shaped (slower moving instances)",
+   "quote": "Instances of slower moving, cigar-shaped objects are also known."
+  },
+  {
+   "s": "craft",
+   "p": "wings",
+   "v": "with or without wings",
+   "quote": "The sightings most often consisted of fast-flying rocket- or missile-shaped objects, with or without wings, visible for mere seconds."
+  },
+  {
+   "s": "craft",
+   "p": "speed",
+   "v": "fast-flying",
+   "quote": "The sightings most often consisted of fast-flying rocket- or missile-shaped objects, with or without wings, visible for mere seconds."
+  },
+  {
+   "s": "craft",
+   "p": "speed",
+   "v": "slower moving (cigar-shaped objects)",
+   "quote": "Instances of slower moving, cigar-shaped objects are also known."
+  },
+  {
+   "s": "craft",
+   "p": "speed",
+   "v": "moving too slowly (some sightings)",
+   "quote": "the objects displayed some combination of leaving no exhaust trail, moving too slowly, flying horizontally, traveling and maneuvering in formation, and appearing to be silent"
+  },
+  {
+   "s": "craft",
+   "p": "duration_visible",
+   "v": "mere seconds",
+   "quote": "The sightings most often consisted of fast-flying rocket- or missile-shaped objects, with or without wings, visible for mere seconds."
+  },
+  {
+   "s": "craft",
+   "p": "sound",
+   "v": "hissing or rumbling sound sometimes reported",
+   "quote": "A hissing or rumbling sound was sometimes reported."
+  },
+  {
+   "s": "craft",
+   "p": "sound",
+   "v": "appearing to be silent (some sightings)",
+   "quote": "the objects displayed some combination of leaving no exhaust trail, moving too slowly, flying horizontally, traveling and maneuvering in formation, and appearing to be silent"
+  },
+  {
+   "s": "craft",
+   "p": "exhaust_trail",
+   "v": "leaving no exhaust trail (some sightings)",
+   "quote": "the objects displayed some combination of leaving no exhaust trail, moving too slowly, flying horizontally, traveling and maneuvering in formation, and appearing to be silent"
+  },
+  {
+   "s": "craft",
+   "p": "flight_path",
+   "v": "flying horizontally",
+   "quote": "the objects displayed some combination of leaving no exhaust trail, moving too slowly, flying horizontally, traveling and maneuvering in formation, and appearing to be silent"
+  },
+  {
+   "s": "craft",
+   "p": "formation",
+   "v": "traveling and maneuvering in formation",
+   "quote": "the objects displayed some combination of leaving no exhaust trail, moving too slowly, flying horizontally, traveling and maneuvering in formation, and appearing to be silent"
+  },
+  {
+   "s": "craft",
+   "p": "maneuverability",
+   "v": "reported maneuverability, inconsistent with meteors",
+   "quote": "However, most ghost rocket sightings did not occur during meteor shower activity; furthermore they displayed characteristics inconsistent with meteors, such as reported maneuverability."
+  },
+  {
+   "s": "craft",
+   "p": "behavior",
+   "v": "crashing into lakes, sometimes propelling themselves across the surface before sinking",
+   "quote": "Reports were made of objects crashing into a lake, sometimes then propelling themselves across the surface before sinking."
+  },
+  {
+   "s": "craft",
+   "p": "self_destruct",
+   "v": "self-destruct by small demolition charge or burning (CIG speculation)",
+   "quote": "CIG speculates that the missiles are extended-range developments of V-1 being aimed for the Gulf of Bothnia for test purposes and do not overfly Swedish territory specifically for intimidation; self-destruct by small demolition charge or burning"
+  },
+  {
+   "s": "craft",
+   "p": "nickname",
+   "v": "ghost bombs",
+   "quote": "Sarnoff was quoted by the N.Y. Times on September 30 saying that he was \"convinced that the 'ghost bombs' are no myth but real missiles\"."
+  },
+  {
+   "s": "kolm_obj",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Witnesses reported a gray, rocket-shaped object with wings crashing in the lake."
+  },
+  {
+   "s": "kolm_obj",
+   "p": "color",
+   "v": "gray",
+   "quote": "Witnesses reported a gray, rocket-shaped object with wings crashing in the lake."
+  },
+  {
+   "s": "kolm_obj",
+   "p": "shape",
+   "v": "rocket-shaped with wings",
+   "quote": "Witnesses reported a gray, rocket-shaped object with wings crashing in the lake."
+  },
+  {
+   "s": "kolm_obj",
+   "p": "crash_date",
+   "v": "1946-07-19",
+   "quote": "The best known of these crashes occurred on July 19, 1946, into Lake Kölmjärv, Sweden."
+  },
+  {
+   "s": "kolm_obj",
+   "p": "sound",
+   "v": "a thunderclap heard by one witness, possibly the object exploding",
+   "quote": "One witness interviewed heard a thunderclap, possibly the object exploding."
+  },
+  {
+   "s": "kolm_obj",
+   "p": "search_duration",
+   "v": "three weeks",
+   "quote": "However, a three-week military search reported nothing."
+  },
+  {
+   "s": "kolm_obj",
+   "p": "search_result",
+   "v": "military search reported nothing",
+   "quote": "However, a three-week military search reported nothing."
+  },
+  {
+   "s": "kolm_obj",
+   "p": "material",
+   "v": "probably a lightweight material, possibly a kind of magnesium alloy that would disintegrate easily (Bartoll's report)",
+   "quote": "there are many indications that the Kölmjärv object disintegrated itself...the object was probably manufactured in a lightweight material, possibly a kind of magnesium alloy that would disintegrate easily, and not give indications on our instruments"
+  },
+  {
+   "s": "kolm_obj",
+   "p": "fate",
+   "v": "disintegrated itself (Bartoll's report)",
+   "quote": "there are many indications that the Kölmjärv object disintegrated itself...the object was probably manufactured in a lightweight material, possibly a kind of magnesium alloy that would disintegrate easily, and not give indications on our instruments"
+  },
+  {
+   "s": "kolm_obj",
+   "p": "fate",
+   "v": "largely disintegrated in flight (Bartoll, 1984 interview)",
+   "quote": "When Bartoll was later interviewed in 1984 by Swedish researcher Clas Svahn, he again said their investigation suggested the object largely disintegrated in flight and insisted that \"what people saw were real, physical objects\"."
+  },
+  {
+   "s": "kolm_obj",
+   "p": "notability",
+   "v": "best known of the crashes",
+   "quote": "The best known of these crashes occurred on July 19, 1946, into Lake Kölmjärv, Sweden."
+  },
+  {
+   "s": "sweden",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Ghost rockets (Swedish: Spökraketer, also called Scandinavian ghost rockets) were rocket or missile shaped unidentified flying objects first sighted in 1946, primarily in Sweden and other Scandinavian countries, including Finland."
+  },
+  {
+   "s": "finland",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Ghost rockets (Swedish: Spökraketer, also called Scandinavian ghost rockets) were rocket or missile shaped unidentified flying objects first sighted in 1946, primarily in Sweden and other Scandinavian countries, including Finland."
+  },
+  {
+   "s": "finland",
+   "p": "first_reports",
+   "v": "first reports made on February 26, 1946, by Finnish observers",
+   "quote": "The first reports of ghost rockets were made on February 26, 1946, by Finnish observers."
+  },
+  {
+   "s": "scandinavia",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Ghost rockets (Swedish: Spökraketer, also called Scandinavian ghost rockets) were rocket or missile shaped unidentified flying objects first sighted in 1946, primarily in Sweden and other Scandinavian countries, including Finland."
+  },
+  {
+   "s": "sweden",
+   "p": "located_in",
+   "o": "scandinavia",
+   "quote": "Ghost rockets (Swedish: Spökraketer, also called Scandinavian ghost rockets) were rocket or missile shaped unidentified flying objects first sighted in 1946, primarily in Sweden and other Scandinavian countries, including Finland."
+  },
+  {
+   "s": "finland",
+   "p": "located_in",
+   "o": "scandinavia",
+   "quote": "Ghost rockets (Swedish: Spökraketer, also called Scandinavian ghost rockets) were rocket or missile shaped unidentified flying objects first sighted in 1946, primarily in Sweden and other Scandinavian countries, including Finland."
+  },
+  {
+   "s": "peenemunde",
+   "p": "related_place",
+   "o": "case",
+   "quote": "it was widely  believed that they originated from the former German rocket facility at Peenemünde, and were long-range tests conducted by the Soviets of captured German V-1 or V-2 missiles"
+  },
+  {
+   "s": "peenemunde",
+   "p": "description",
+   "v": "former German rocket facility",
+   "quote": "it was widely  believed that they originated from the former German rocket facility at Peenemünde, and were long-range tests conducted by the Soviets of captured German V-1 or V-2 missiles"
+  },
+  {
+   "s": "peenemunde",
+   "p": "alleged_role",
+   "v": "launch site, according to radar course-plotting reported in Vandenberg's memo",
+   "quote": "Vandenberg stated that the \"weight of evidence pointed to Peenemünde as origin of the missiles, that US MA [military attaché] in Moscow had been told by 'key Swedish Air Officer' that radar course-plotting had led to conclusion that Peenemünde was the launch site."
+  },
+  {
+   "s": "peenemunde",
+   "p": "last_reported_launch",
+   "v": "no reports of rocket launches after February 21, 1945",
+   "quote": "Nevertheless, there are no reports of rocket launches at Peenemünde or the Greifswalder Oie after February 21, 1945"
+  },
+  {
+   "s": "oie",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Nevertheless, there are no reports of rocket launches at Peenemünde or the Greifswalder Oie after February 21, 1945"
+  },
+  {
+   "s": "ussr",
+   "p": "related_place",
+   "o": "case",
+   "quote": "it was widely  believed that they originated from the former German rocket facility at Peenemünde, and were long-range tests conducted by the Soviets of captured German V-1 or V-2 missiles"
+  },
+  {
+   "s": "ussr",
+   "p": "alleged_role",
+   "v": "conducting long-range tests of captured German V-1 or V-2 missiles",
+   "quote": "it was widely  believed that they originated from the former German rocket facility at Peenemünde, and were long-range tests conducted by the Soviets of captured German V-1 or V-2 missiles"
+  },
+  {
+   "s": "germany",
+   "p": "related_place",
+   "o": "case",
+   "quote": "it was widely  believed that they originated from the former German rocket facility at Peenemünde, and were long-range tests conducted by the Soviets of captured German V-1 or V-2 missiles"
+  },
+  {
+   "s": "peenemunde",
+   "p": "located_in",
+   "o": "germany",
+   "quote": "it was widely  believed that they originated from the former German rocket facility at Peenemünde, and were long-range tests conducted by the Soviets of captured German V-1 or V-2 missiles"
+  },
+  {
+   "s": "kolmjarv",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The best known of these crashes occurred on July 19, 1946, into Lake Kölmjärv, Sweden."
+  },
+  {
+   "s": "kolmjarv",
+   "p": "located_in",
+   "o": "sweden",
+   "quote": "The best known of these crashes occurred on July 19, 1946, into Lake Kölmjärv, Sweden."
+  },
+  {
+   "s": "kolmjarv",
+   "p": "search_finding",
+   "v": "bottom of the lake had been disturbed but nothing was recovered",
+   "quote": "the Swedish Air Force officer who led the search, Karl-Gösta Bartoll submitted a report in which he stated that the bottom of the lake had been disturbed but nothing was recovered"
+  },
+  {
+   "s": "bothnia",
+   "p": "related_place",
+   "o": "case",
+   "quote": "CIG speculates that the missiles are extended-range developments of V-1 being aimed for the Gulf of Bothnia for test purposes and do not overfly Swedish territory specifically for intimidation; self-destruct by small demolition charge or burning"
+  },
+  {
+   "s": "stockholm",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Then on August 20, the Times reported that two U.S. experts on aerial warfare, aviation legend General James Doolittle and General David Sarnoff, president of RCA, arrived in Stockholm, ostensibly on private business and independently of each other."
+  },
+  {
+   "s": "moscow",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Vandenberg stated that the \"weight of evidence pointed to Peenemünde as origin of the missiles, that US MA [military attaché] in Moscow had been told by 'key Swedish Air Officer' that radar course-plotting had led to conclusion that Peenemünde was the launch site."
+  },
+  {
+   "s": "europe",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The official explanation was that Doolittle, who was now a vice-president of the Shell Oil Company, was inspecting Shell branch offices in Europe"
+  },
+  {
+   "s": "london",
+   "p": "related_place",
+   "o": "case",
+   "quote": "while Sarnoff, a former member of General Dwight D. Eisenhower's London staff, was studying the market for radio equipment"
+  },
+  {
+   "s": "neubiberg",
+   "p": "related_place",
+   "o": "case",
+   "quote": "during the last week, one was observed hovering over Neubiberg Air Base for about thirty minutes"
+  },
+  {
+   "s": "greece",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Similar objects were also reported early the following month by British Army units in Greece, especially around Thessaloniki."
+  },
+  {
+   "s": "thessaloniki",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Similar objects were also reported early the following month by British Army units in Greece, especially around Thessaloniki."
+  },
+  {
+   "s": "thessaloniki",
+   "p": "located_in",
+   "o": "greece",
+   "quote": "Similar objects were also reported early the following month by British Army units in Greece, especially around Thessaloniki."
+  },
+  {
+   "s": "macedonia",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "In an interview on September 5, 1946, the Greek Prime Minister, Konstantinos Tsaldaris, likewise reported a number of projectiles had been seen over Macedonia and Thessaloniki on September 1."
+  },
+  {
+   "s": "portugal",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "In mid-September, they were also seen in Portugal, and then in Belgium and northern Italy."
+  },
+  {
+   "s": "belgium",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "In mid-September, they were also seen in Portugal, and then in Belgium and northern Italy."
+  },
+  {
+   "s": "italy",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "In mid-September, they were also seen in Portugal, and then in Belgium and northern Italy."
+  },
+  {
+   "s": "washington",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Foreign scientists [from Washington] flew to Greece for secret talks with me"
+  },
+  {
+   "s": "swe_army",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "This prompted the Swedish Army to issue a directive stating that newspapers were not to report the exact location, direction or speed of any ghost rocket sightings"
+  },
+  {
+   "s": "swe_mil",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The Swedish military performed several dives in the affected lakes shortly after the crashes, but found nothing other than occasional craters in the lake bottom or torn off aquatic plants."
+  },
+  {
+   "s": "swe_mil",
+   "p": "action",
+   "v": "performed several dives in the affected lakes shortly after the crashes",
+   "quote": "The Swedish military performed several dives in the affected lakes shortly after the crashes, but found nothing other than occasional craters in the lake bottom or torn off aquatic plants."
+  },
+  {
+   "s": "swe_mil",
+   "p": "action",
+   "v": "three-week military search of Lake Kölmjärv reported nothing",
+   "quote": "However, a three-week military search reported nothing."
+  },
+  {
+   "s": "swe_af",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "the Swedish Air Force officer who led the search, Karl-Gösta Bartoll submitted a report in which he stated that the bottom of the lake had been disturbed but nothing was recovered"
+  },
+  {
+   "s": "defstaff",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "Of the nearly 1,000 reports that had been received by the Swedish Defense Staff to November 29, 225 were considered observations of \"real physical objects\" and every one had been seen in broad daylight."
+  },
+  {
+   "s": "defstaff",
+   "p": "statement",
+   "v": "Most observations are vague and must be treated very skeptically.",
+   "quote": "On October 10, 1946, the Swedish Defense Staff publicly stated, \"Most observations are vague and must be treated very skeptically."
+  },
+  {
+   "s": "defstaff",
+   "p": "statement",
+   "v": "clear, unambiguous observations have been made that cannot be explained as natural phenomena, Swedish aircraft, or imagination on the part of the observer",
+   "quote": "In some cases, however, clear, unambiguous observations have been made that cannot be explained as natural phenomena, Swedish aircraft, or imagination on the part of the observer."
+  },
+  {
+   "s": "defstaff",
+   "p": "statement",
+   "v": "Echo, radar, and other equipment registered readings but gave no clue as to the nature of the objects",
+   "quote": "Echo, radar, and other equipment registered readings but gave no clue as to the nature of the objects"
+  },
+  {
+   "s": "defstaff",
+   "p": "statement",
+   "v": "fragments alleged to have come from the missiles were nothing more than ordinary coke or slag",
+   "quote": "It was also stated that fragments alleged to have come from the missiles were nothing more than ordinary coke or slag."
+  },
+  {
+   "s": "defstaff",
+   "p": "statement_date",
+   "v": "1946-10-10",
+   "quote": "On October 10, 1946, the Swedish Defense Staff publicly stated, \"Most observations are vague and must be treated very skeptically."
+  },
+  {
+   "s": "defstaff",
+   "p": "reports_received",
+   "v": "nearly 1,000 to November 29",
+   "quote": "Of the nearly 1,000 reports that had been received by the Swedish Defense Staff to November 29, 225 were considered observations of \"real physical objects\" and every one had been seen in broad daylight."
+  },
+  {
+   "s": "defstaff",
+   "p": "chief_statement",
+   "v": "Chief of the Swedish Defense Staff was extremely interested in asking the two generals' advice and would place all available reports before them",
+   "quote": "the Times story indicated that the Chief of the Swedish Defense Staff made no secret that he \"was extremely interested in asking the two generals' advice and, if possible, would place all available reports before them\""
+  },
+  {
+   "s": "airdef",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In early August 1946, Swedish Lt. Lennart Neckman of the Defense Staff's Air Defense Division saw something that was \"without a doubt ... a rocket projectile\"."
+  },
+  {
+   "s": "airdef",
+   "p": "part_of",
+   "o": "defstaff",
+   "quote": "In early August 1946, Swedish Lt. Lennart Neckman of the Defense Staff's Air Defense Division saw something that was \"without a doubt ... a rocket projectile\"."
+  },
+  {
+   "s": "committee",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "On December 3, 1946, a memo was drafted for the Swedish Ghost Rocket committee stating \"nearly one hundred impacts have been reported and thirty pieces of debris have been received and examined by Swedish National Defence Research Institute (FOA)\"."
+  },
+  {
+   "s": "foa",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "On December 3, 1946, a memo was drafted for the Swedish Ghost Rocket committee stating \"nearly one hundred impacts have been reported and thirty pieces of debris have been received and examined by Swedish National Defence Research Institute (FOA)\"."
+  },
+  {
+   "s": "foa",
+   "p": "debris_pieces_examined",
+   "v": "thirty",
+   "quote": "On December 3, 1946, a memo was drafted for the Swedish Ghost Rocket committee stating \"nearly one hundred impacts have been reported and thirty pieces of debris have been received and examined by Swedish National Defence Research Institute (FOA)\"."
+  },
+  {
+   "s": "nyt",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On August 14, 1946, The New York Times reported that Undersecretary of State Dean Acheson was \"very much interested\" in the ghost rocket reports, as was U.S. Army Air Forces intelligence as indicated nonpublicly by later documents (Clark, 246)."
+  },
+  {
+   "s": "nyt",
+   "p": "report",
+   "v": "August 14, 1946: Acheson \"very much interested\" in the ghost rocket reports",
+   "quote": "On August 14, 1946, The New York Times reported that Undersecretary of State Dean Acheson was \"very much interested\" in the ghost rocket reports, as was U.S. Army Air Forces intelligence as indicated nonpublicly by later documents (Clark, 246)."
+  },
+  {
+   "s": "nyt",
+   "p": "report",
+   "v": "August 20, 1946: Doolittle and Sarnoff arrived in Stockholm",
+   "quote": "Then on August 20, the Times reported that two U.S. experts on aerial warfare, aviation legend General James Doolittle and General David Sarnoff, president of RCA, arrived in Stockholm, ostensibly on private business and independently of each other."
+  },
+  {
+   "s": "nyt",
+   "p": "report",
+   "v": "September 30, 1946: Sarnoff convinced the 'ghost bombs' are no myth but real missiles",
+   "quote": "Sarnoff was quoted by the N.Y. Times on September 30 saying that he was \"convinced that the 'ghost bombs' are no myth but real missiles\"."
+  },
+  {
+   "s": "usaaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On August 14, 1946, The New York Times reported that Undersecretary of State Dean Acheson was \"very much interested\" in the ghost rocket reports, as was U.S. Army Air Forces intelligence as indicated nonpublicly by later documents (Clark, 246)."
+  },
+  {
+   "s": "usaaf",
+   "p": "interest",
+   "v": "intelligence was interested in the reports, as indicated nonpublicly by later documents",
+   "quote": "On August 14, 1946, The New York Times reported that Undersecretary of State Dean Acheson was \"very much interested\" in the ghost rocket reports, as was U.S. Army Air Forces intelligence as indicated nonpublicly by later documents (Clark, 246)."
+  },
+  {
+   "s": "rca",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Then on August 20, the Times reported that two U.S. experts on aerial warfare, aviation legend General James Doolittle and General David Sarnoff, president of RCA, arrived in Stockholm, ostensibly on private business and independently of each other."
+  },
+  {
+   "s": "shell",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The official explanation was that Doolittle, who was now a vice-president of the Shell Oil Company, was inspecting Shell branch offices in Europe"
+  },
+  {
+   "s": "cig",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "On August 22, 1946, the director of the Central Intelligence Group (CIG), Lt. Gen. Hoyt Vandenberg, wrote a Top Secret memo to President Truman, perhaps based in part on information from Doolittle and Sarnoff."
+  },
+  {
+   "s": "cig",
+   "p": "speculation",
+   "v": "missiles are extended-range developments of V-1 aimed for the Gulf of Bothnia for test purposes, not overflying Swedish territory specifically for intimidation",
+   "quote": "CIG speculates that the missiles are extended-range developments of V-1 being aimed for the Gulf of Bothnia for test purposes and do not overfly Swedish territory specifically for intimidation; self-destruct by small demolition charge or burning"
+  },
+  {
+   "s": "usafe",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "a Top Secret USAFE (United States Air Force Europe) document from 4 November 1948 indicates that at least some investigators believed the ghost rockets and later \"flying saucers\" had extraterrestrial origins"
+  },
+  {
+   "s": "sais",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "When officers of this Directorate recently visited the Swedish Air Intelligence Service, this question was put to the Swedes."
+  },
+  {
+   "s": "sais",
+   "p": "statement",
+   "v": "some reliable and fully technically qualified people concluded the phenomena are the result of a high technical skill which cannot be credited to any presently known culture on earth",
+   "quote": "some reliable and fully technically qualified people have reached the conclusion that 'these phenomena are obviously the result of a high technical skill which cannot be credited to any presently known culture on earth'"
+  },
+  {
+   "s": "sais",
+   "p": "assumption",
+   "v": "objects originate from some previously unknown or unidentified technology, possibly outside the earth",
+   "quote": "They are therefore assuming that these objects originate from some previously unknown or unidentified technology, possibly outside the earth"
+  },
+  {
+   "s": "usmil",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The early Soviet origins theory was rejected by Swedish, British, and U.S. military investigators because no recognizable rocket fragments were ever found"
+  },
+  {
+   "s": "usmil",
+   "p": "official_opinion",
+   "v": "remains unclear",
+   "quote": "Although the official opinion of the Swedish and U.S. military remains unclear"
+  },
+  {
+   "s": "britarmy",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Similar objects were also reported early the following month by British Army units in Greece, especially around Thessaloniki."
+  },
+  {
+   "s": "britarmy",
+   "p": "report",
+   "v": "units in Greece reported similar objects, especially around Thessaloniki",
+   "quote": "Similar objects were also reported early the following month by British Army units in Greece, especially around Thessaloniki."
+  },
+  {
+   "s": "greekgov",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The Greek government conducted their own investigation, with their leading scientist, physicist Paul Santorini, in charge."
+  },
+  {
+   "s": "greekarmy",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Santorini was supplied by the Greek Army with a team of engineers to investigate what again were believed to be Soviet missiles flying over Greece."
+  },
+  {
+   "s": "greekarmy",
+   "p": "action",
+   "v": "supplied Santorini with a team of engineers",
+   "quote": "Santorini was supplied by the Greek Army with a team of engineers to investigate what again were believed to be Soviet missiles flying over Greece."
+  },
+  {
+   "s": "greekarmy",
+   "p": "action",
+   "v": "ordered the investigation stopped after conferring with foreign officials",
+   "quote": "We soon established that they were not missiles. But, before we could do any more, the Army, after conferring with foreign officials (presumably U.S. Defense Dept.), ordered the investigation stopped."
+  },
+  {
+   "s": "gas",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In a 1967 lecture to the Greek Astronomical Society, broadcast on Athens Radio, Santorini first publicly revealed what had been found in his 1947 investigation."
+  },
+  {
+   "s": "athensradio",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In a 1967 lecture to the Greek Astronomical Society, broadcast on Athens Radio, Santorini first publicly revealed what had been found in his 1947 investigation."
+  },
+  {
+   "s": "dod",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "We soon established that they were not missiles. But, before we could do any more, the Army, after conferring with foreign officials (presumably U.S. Defense Dept.), ordered the investigation stopped."
+  },
+  {
+   "s": "bartoll",
+   "p": "investigator",
+   "o": "case",
+   "quote": "the Swedish Air Force officer who led the search, Karl-Gösta Bartoll submitted a report in which he stated that the bottom of the lake had been disturbed but nothing was recovered"
+  },
+  {
+   "s": "bartoll",
+   "p": "member_of",
+   "o": "swe_af",
+   "quote": "the Swedish Air Force officer who led the search, Karl-Gösta Bartoll submitted a report in which he stated that the bottom of the lake had been disturbed but nothing was recovered"
+  },
+  {
+   "s": "bartoll",
+   "p": "occupation",
+   "v": "Swedish Air Force officer",
+   "quote": "the Swedish Air Force officer who led the search, Karl-Gösta Bartoll submitted a report in which he stated that the bottom of the lake had been disturbed but nothing was recovered"
+  },
+  {
+   "s": "bartoll",
+   "p": "role",
+   "v": "led the search of Lake Kölmjärv",
+   "quote": "the Swedish Air Force officer who led the search, Karl-Gösta Bartoll submitted a report in which he stated that the bottom of the lake had been disturbed but nothing was recovered"
+  },
+  {
+   "s": "bartoll",
+   "p": "statement",
+   "v": "there are many indications that the Kölmjärv object disintegrated itself",
+   "quote": "there are many indications that the Kölmjärv object disintegrated itself...the object was probably manufactured in a lightweight material, possibly a kind of magnesium alloy that would disintegrate easily, and not give indications on our instruments"
+  },
+  {
+   "s": "bartoll",
+   "p": "later_claim",
+   "v": "investigation suggested the object largely disintegrated in flight; \"what people saw were real, physical objects\"",
+   "quote": "When Bartoll was later interviewed in 1984 by Swedish researcher Clas Svahn, he again said their investigation suggested the object largely disintegrated in flight and insisted that \"what people saw were real, physical objects\"."
+  },
+  {
+   "s": "bartoll",
+   "p": "described",
+   "o": "kolm_obj",
+   "quote": "there are many indications that the Kölmjärv object disintegrated itself...the object was probably manufactured in a lightweight material, possibly a kind of magnesium alloy that would disintegrate easily, and not give indications on our instruments"
+  },
+  {
+   "s": "svahn",
+   "p": "investigator",
+   "o": "case",
+   "quote": "When Bartoll was later interviewed in 1984 by Swedish researcher Clas Svahn, he again said their investigation suggested the object largely disintegrated in flight and insisted that \"what people saw were real, physical objects\"."
+  },
+  {
+   "s": "svahn",
+   "p": "interviewed",
+   "o": "bartoll",
+   "quote": "When Bartoll was later interviewed in 1984 by Swedish researcher Clas Svahn, he again said their investigation suggested the object largely disintegrated in flight and insisted that \"what people saw were real, physical objects\"."
+  },
+  {
+   "s": "svahn",
+   "p": "occupation",
+   "v": "Swedish researcher",
+   "quote": "When Bartoll was later interviewed in 1984 by Swedish researcher Clas Svahn, he again said their investigation suggested the object largely disintegrated in flight and insisted that \"what people saw were real, physical objects\"."
+  },
+  {
+   "s": "svahn",
+   "p": "interview_year",
+   "v": "1984",
+   "quote": "When Bartoll was later interviewed in 1984 by Swedish researcher Clas Svahn, he again said their investigation suggested the object largely disintegrated in flight and insisted that \"what people saw were real, physical objects\"."
+  },
+  {
+   "s": "neckman",
+   "p": "witness",
+   "o": "case",
+   "quote": "In early August 1946, Swedish Lt. Lennart Neckman of the Defense Staff's Air Defense Division saw something that was \"without a doubt ... a rocket projectile\"."
+  },
+  {
+   "s": "neckman",
+   "p": "member_of",
+   "o": "airdef",
+   "quote": "In early August 1946, Swedish Lt. Lennart Neckman of the Defense Staff's Air Defense Division saw something that was \"without a doubt ... a rocket projectile\"."
+  },
+  {
+   "s": "neckman",
+   "p": "rank",
+   "v": "Lieutenant",
+   "quote": "In early August 1946, Swedish Lt. Lennart Neckman of the Defense Staff's Air Defense Division saw something that was \"without a doubt ... a rocket projectile\"."
+  },
+  {
+   "s": "neckman",
+   "p": "sighting_date",
+   "v": "early August 1946",
+   "quote": "In early August 1946, Swedish Lt. Lennart Neckman of the Defense Staff's Air Defense Division saw something that was \"without a doubt ... a rocket projectile\"."
+  },
+  {
+   "s": "neckman",
+   "p": "statement",
+   "v": "without a doubt ... a rocket projectile",
+   "quote": "In early August 1946, Swedish Lt. Lennart Neckman of the Defense Staff's Air Defense Division saw something that was \"without a doubt ... a rocket projectile\"."
+  },
+  {
+   "s": "neckman",
+   "p": "described",
+   "o": "craft",
+   "quote": "In early August 1946, Swedish Lt. Lennart Neckman of the Defense Staff's Air Defense Division saw something that was \"without a doubt ... a rocket projectile\"."
+  },
+  {
+   "s": "acheson",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "On August 14, 1946, The New York Times reported that Undersecretary of State Dean Acheson was \"very much interested\" in the ghost rocket reports, as was U.S. Army Air Forces intelligence as indicated nonpublicly by later documents (Clark, 246)."
+  },
+  {
+   "s": "acheson",
+   "p": "occupation",
+   "v": "Undersecretary of State",
+   "quote": "On August 14, 1946, The New York Times reported that Undersecretary of State Dean Acheson was \"very much interested\" in the ghost rocket reports, as was U.S. Army Air Forces intelligence as indicated nonpublicly by later documents (Clark, 246)."
+  },
+  {
+   "s": "acheson",
+   "p": "statement",
+   "v": "\"very much interested\" in the ghost rocket reports",
+   "quote": "On August 14, 1946, The New York Times reported that Undersecretary of State Dean Acheson was \"very much interested\" in the ghost rocket reports, as was U.S. Army Air Forces intelligence as indicated nonpublicly by later documents (Clark, 246)."
+  },
+  {
+   "s": "doolittle",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Then on August 20, the Times reported that two U.S. experts on aerial warfare, aviation legend General James Doolittle and General David Sarnoff, president of RCA, arrived in Stockholm, ostensibly on private business and independently of each other."
+  },
+  {
+   "s": "doolittle",
+   "p": "rank",
+   "v": "General",
+   "quote": "Then on August 20, the Times reported that two U.S. experts on aerial warfare, aviation legend General James Doolittle and General David Sarnoff, president of RCA, arrived in Stockholm, ostensibly on private business and independently of each other."
+  },
+  {
+   "s": "doolittle",
+   "p": "description",
+   "v": "U.S. expert on aerial warfare; aviation legend",
+   "quote": "Then on August 20, the Times reported that two U.S. experts on aerial warfare, aviation legend General James Doolittle and General David Sarnoff, president of RCA, arrived in Stockholm, ostensibly on private business and independently of each other."
+  },
+  {
+   "s": "doolittle",
+   "p": "occupation",
+   "v": "vice-president of the Shell Oil Company",
+   "quote": "The official explanation was that Doolittle, who was now a vice-president of the Shell Oil Company, was inspecting Shell branch offices in Europe"
+  },
+  {
+   "s": "doolittle",
+   "p": "official_reason_for_visit",
+   "v": "inspecting Shell branch offices in Europe",
+   "quote": "The official explanation was that Doolittle, who was now a vice-president of the Shell Oil Company, was inspecting Shell branch offices in Europe"
+  },
+  {
+   "s": "doolittle",
+   "p": "employed_by",
+   "o": "shell",
+   "quote": "The official explanation was that Doolittle, who was now a vice-president of the Shell Oil Company, was inspecting Shell branch offices in Europe"
+  },
+  {
+   "s": "doolittle",
+   "p": "briefing",
+   "v": "briefed that on several occasions the ghost rockets had been tracked on radar",
+   "quote": "Doolittle and Sarnoff were briefed that on several occasions the ghost rockets had been tracked on radar."
+  },
+  {
+   "s": "sarnoff",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Then on August 20, the Times reported that two U.S. experts on aerial warfare, aviation legend General James Doolittle and General David Sarnoff, president of RCA, arrived in Stockholm, ostensibly on private business and independently of each other."
+  },
+  {
+   "s": "sarnoff",
+   "p": "rank",
+   "v": "General",
+   "quote": "Then on August 20, the Times reported that two U.S. experts on aerial warfare, aviation legend General James Doolittle and General David Sarnoff, president of RCA, arrived in Stockholm, ostensibly on private business and independently of each other."
+  },
+  {
+   "s": "sarnoff",
+   "p": "occupation",
+   "v": "president of RCA",
+   "quote": "Then on August 20, the Times reported that two U.S. experts on aerial warfare, aviation legend General James Doolittle and General David Sarnoff, president of RCA, arrived in Stockholm, ostensibly on private business and independently of each other."
+  },
+  {
+   "s": "sarnoff",
+   "p": "employed_by",
+   "o": "rca",
+   "quote": "Then on August 20, the Times reported that two U.S. experts on aerial warfare, aviation legend General James Doolittle and General David Sarnoff, president of RCA, arrived in Stockholm, ostensibly on private business and independently of each other."
+  },
+  {
+   "s": "sarnoff",
+   "p": "former_position",
+   "v": "member of General Dwight D. Eisenhower's London staff",
+   "quote": "while Sarnoff, a former member of General Dwight D. Eisenhower's London staff, was studying the market for radio equipment"
+  },
+  {
+   "s": "sarnoff",
+   "p": "official_reason_for_visit",
+   "v": "studying the market for radio equipment",
+   "quote": "while Sarnoff, a former member of General Dwight D. Eisenhower's London staff, was studying the market for radio equipment"
+  },
+  {
+   "s": "sarnoff",
+   "p": "briefing",
+   "v": "briefed that on several occasions the ghost rockets had been tracked on radar",
+   "quote": "Doolittle and Sarnoff were briefed that on several occasions the ghost rockets had been tracked on radar."
+  },
+  {
+   "s": "sarnoff",
+   "p": "statement",
+   "v": "convinced that the 'ghost bombs' are no myth but real missiles",
+   "quote": "Sarnoff was quoted by the N.Y. Times on September 30 saying that he was \"convinced that the 'ghost bombs' are no myth but real missiles\"."
+  },
+  {
+   "s": "eisenhower",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "while Sarnoff, a former member of General Dwight D. Eisenhower's London staff, was studying the market for radio equipment"
+  },
+  {
+   "s": "eisenhower",
+   "p": "rank",
+   "v": "General",
+   "quote": "while Sarnoff, a former member of General Dwight D. Eisenhower's London staff, was studying the market for radio equipment"
+  },
+  {
+   "s": "sarnoff",
+   "p": "colleague_of",
+   "o": "eisenhower",
+   "quote": "while Sarnoff, a former member of General Dwight D. Eisenhower's London staff, was studying the market for radio equipment"
+  },
+  {
+   "s": "vandenberg",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "On August 22, 1946, the director of the Central Intelligence Group (CIG), Lt. Gen. Hoyt Vandenberg, wrote a Top Secret memo to President Truman, perhaps based in part on information from Doolittle and Sarnoff."
+  },
+  {
+   "s": "vandenberg",
+   "p": "rank",
+   "v": "Lieutenant General",
+   "quote": "On August 22, 1946, the director of the Central Intelligence Group (CIG), Lt. Gen. Hoyt Vandenberg, wrote a Top Secret memo to President Truman, perhaps based in part on information from Doolittle and Sarnoff."
+  },
+  {
+   "s": "vandenberg",
+   "p": "occupation",
+   "v": "director of the Central Intelligence Group",
+   "quote": "On August 22, 1946, the director of the Central Intelligence Group (CIG), Lt. Gen. Hoyt Vandenberg, wrote a Top Secret memo to President Truman, perhaps based in part on information from Doolittle and Sarnoff."
+  },
+  {
+   "s": "vandenberg",
+   "p": "employed_by",
+   "o": "cig",
+   "quote": "On August 22, 1946, the director of the Central Intelligence Group (CIG), Lt. Gen. Hoyt Vandenberg, wrote a Top Secret memo to President Truman, perhaps based in part on information from Doolittle and Sarnoff."
+  },
+  {
+   "s": "vandenberg",
+   "p": "statement",
+   "v": "weight of evidence pointed to Peenemünde as origin of the missiles",
+   "quote": "Vandenberg stated that the \"weight of evidence pointed to Peenemünde as origin of the missiles, that US MA [military attaché] in Moscow had been told by 'key Swedish Air Officer' that radar course-plotting had led to conclusion that Peenemünde was the launch site."
+  },
+  {
+   "s": "truman",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "On August 22, 1946, the director of the Central Intelligence Group (CIG), Lt. Gen. Hoyt Vandenberg, wrote a Top Secret memo to President Truman, perhaps based in part on information from Doolittle and Sarnoff."
+  },
+  {
+   "s": "truman",
+   "p": "occupation",
+   "v": "President",
+   "quote": "On August 22, 1946, the director of the Central Intelligence Group (CIG), Lt. Gen. Hoyt Vandenberg, wrote a Top Secret memo to President Truman, perhaps based in part on information from Doolittle and Sarnoff."
+  },
+  {
+   "s": "tsaldaris",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "In an interview on September 5, 1946, the Greek Prime Minister, Konstantinos Tsaldaris, likewise reported a number of projectiles had been seen over Macedonia and Thessaloniki on September 1."
+  },
+  {
+   "s": "tsaldaris",
+   "p": "occupation",
+   "v": "Greek Prime Minister",
+   "quote": "In an interview on September 5, 1946, the Greek Prime Minister, Konstantinos Tsaldaris, likewise reported a number of projectiles had been seen over Macedonia and Thessaloniki on September 1."
+  },
+  {
+   "s": "tsaldaris",
+   "p": "statement",
+   "v": "a number of projectiles had been seen over Macedonia and Thessaloniki on September 1",
+   "quote": "In an interview on September 5, 1946, the Greek Prime Minister, Konstantinos Tsaldaris, likewise reported a number of projectiles had been seen over Macedonia and Thessaloniki on September 1."
+  },
+  {
+   "s": "tsaldaris",
+   "p": "interview_date",
+   "v": "1946-09-05",
+   "quote": "In an interview on September 5, 1946, the Greek Prime Minister, Konstantinos Tsaldaris, likewise reported a number of projectiles had been seen over Macedonia and Thessaloniki on September 1."
+  },
+  {
+   "s": "santorini",
+   "p": "investigator",
+   "o": "case",
+   "quote": "The Greek government conducted their own investigation, with their leading scientist, physicist Paul Santorini, in charge."
+  },
+  {
+   "s": "santorini",
+   "p": "occupation",
+   "v": "physicist; Greece's leading scientist",
+   "quote": "The Greek government conducted their own investigation, with their leading scientist, physicist Paul Santorini, in charge."
+  },
+  {
+   "s": "santorini",
+   "p": "background",
+   "v": "developer of the proximity fuze on the first A-bomb",
+   "quote": "Santorini had been a developer of the proximity fuze on the first A-bomb and held patents on guidance systems for Nike missiles and radar systems."
+  },
+  {
+   "s": "santorini",
+   "p": "background",
+   "v": "held patents on guidance systems for Nike missiles and radar systems",
+   "quote": "Santorini had been a developer of the proximity fuze on the first A-bomb and held patents on guidance systems for Nike missiles and radar systems."
+  },
+  {
+   "s": "santorini",
+   "p": "investigation_year",
+   "v": "1947",
+   "quote": "In a 1967 lecture to the Greek Astronomical Society, broadcast on Athens Radio, Santorini first publicly revealed what had been found in his 1947 investigation."
+  },
+  {
+   "s": "santorini",
+   "p": "statement",
+   "v": "We soon established that they were not missiles.",
+   "quote": "We soon established that they were not missiles. But, before we could do any more, the Army, after conferring with foreign officials (presumably U.S. Defense Dept.), ordered the investigation stopped."
+  },
+  {
+   "s": "santorini",
+   "p": "statement",
+   "v": "the Army, after conferring with foreign officials, ordered the investigation stopped",
+   "quote": "We soon established that they were not missiles. But, before we could do any more, the Army, after conferring with foreign officials (presumably U.S. Defense Dept.), ordered the investigation stopped."
+  },
+  {
+   "s": "santorini",
+   "p": "statement",
+   "v": "Foreign scientists [from Washington] flew to Greece for secret talks with me",
+   "quote": "Foreign scientists [from Washington] flew to Greece for secret talks with me"
+  },
+  {
+   "s": "santorini",
+   "p": "later_claim",
+   "v": "secrecy was invoked because officials were afraid to admit of a superior technology against which we have \"no possibility of defense\"",
+   "quote": "Later Santorini told UFO researchers such as Raymond Fowler that secrecy was invoked because officials were afraid to admit of a superior technology against which we have \"no possibility of defense\"."
+  },
+  {
+   "s": "santorini",
+   "p": "employed_by",
+   "o": "greekgov",
+   "quote": "The Greek government conducted their own investigation, with their leading scientist, physicist Paul Santorini, in charge."
+  },
+  {
+   "s": "fowler",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Later Santorini told UFO researchers such as Raymond Fowler that secrecy was invoked because officials were afraid to admit of a superior technology against which we have \"no possibility of defense\"."
+  },
+  {
+   "s": "fowler",
+   "p": "occupation",
+   "v": "UFO researcher",
+   "quote": "Later Santorini told UFO researchers such as Raymond Fowler that secrecy was invoked because officials were afraid to admit of a superior technology against which we have \"no possibility of defense\"."
+  },
+  {
+   "s": "fowler",
+   "p": "interviewed",
+   "o": "santorini",
+   "quote": "Later Santorini told UFO researchers such as Raymond Fowler that secrecy was invoked because officials were afraid to admit of a superior technology against which we have \"no possibility of defense\"."
+  },
+  {
+   "s": "clark",
+   "p": "commentator",
+   "o": "case",
+   "quote": "On August 14, 1946, The New York Times reported that Undersecretary of State Dean Acheson was \"very much interested\" in the ghost rocket reports, as was U.S. Army Air Forces intelligence as indicated nonpublicly by later documents (Clark, 246)."
+  },
+  {
+   "s": "clark",
+   "p": "citation",
+   "v": "Clark, 246",
+   "quote": "On August 14, 1946, The New York Times reported that Undersecretary of State Dean Acheson was \"very much interested\" in the ghost rocket reports, as was U.S. Army Air Forces intelligence as indicated nonpublicly by later documents (Clark, 246)."
+  },
+  {
+   "s": "carpenter",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Extensive Ghost Rocket chronology by Joel Carpenter on Project 1947 website, many documents and photos."
+  },
+  {
+   "s": "stankievech",
+   "p": "commentator",
+   "o": "case",
+   "quote": "See Ghost Rockets World Tour by Charles Stankievech for a project that maps the history of ballistics by staging rocket launches at historic sites including Peneemünde, Helsinki, Berlin, Russia, California, Alaska and others."
+  },
+  {
+   "s": "directive",
+   "p": "key_document",
+   "o": "case",
+   "quote": "This prompted the Swedish Army to issue a directive stating that newspapers were not to report the exact location, direction or speed of any ghost rocket sightings"
+  },
+  {
+   "s": "swe_army",
+   "p": "authored",
+   "o": "directive",
+   "quote": "This prompted the Swedish Army to issue a directive stating that newspapers were not to report the exact location, direction or speed of any ghost rocket sightings"
+  },
+  {
+   "s": "bartoll_report",
+   "p": "key_document",
+   "o": "case",
+   "quote": "the Swedish Air Force officer who led the search, Karl-Gösta Bartoll submitted a report in which he stated that the bottom of the lake had been disturbed but nothing was recovered"
+  },
+  {
+   "s": "bartoll",
+   "p": "authored",
+   "o": "bartoll_report",
+   "quote": "the Swedish Air Force officer who led the search, Karl-Gösta Bartoll submitted a report in which he stated that the bottom of the lake had been disturbed but nothing was recovered"
+  },
+  {
+   "s": "bartoll_report",
+   "p": "content",
+   "v": "bottom of the lake had been disturbed but nothing was recovered",
+   "quote": "the Swedish Air Force officer who led the search, Karl-Gösta Bartoll submitted a report in which he stated that the bottom of the lake had been disturbed but nothing was recovered"
+  },
+  {
+   "s": "ds_statement",
+   "p": "key_document",
+   "o": "case",
+   "quote": "On October 10, 1946, the Swedish Defense Staff publicly stated, \"Most observations are vague and must be treated very skeptically."
+  },
+  {
+   "s": "defstaff",
+   "p": "authored",
+   "o": "ds_statement",
+   "quote": "On October 10, 1946, the Swedish Defense Staff publicly stated, \"Most observations are vague and must be treated very skeptically."
+  },
+  {
+   "s": "ds_statement",
+   "p": "date",
+   "v": "1946-10-10",
+   "quote": "On October 10, 1946, the Swedish Defense Staff publicly stated, \"Most observations are vague and must be treated very skeptically."
+  },
+  {
+   "s": "dec3memo",
+   "p": "key_document",
+   "o": "case",
+   "quote": "On December 3, 1946, a memo was drafted for the Swedish Ghost Rocket committee stating \"nearly one hundred impacts have been reported and thirty pieces of debris have been received and examined by Swedish National Defence Research Institute (FOA)\"."
+  },
+  {
+   "s": "dec3memo",
+   "p": "date",
+   "v": "1946-12-03",
+   "quote": "On December 3, 1946, a memo was drafted for the Swedish Ghost Rocket committee stating \"nearly one hundred impacts have been reported and thirty pieces of debris have been received and examined by Swedish National Defence Research Institute (FOA)\"."
+  },
+  {
+   "s": "dec3memo",
+   "p": "content",
+   "v": "nearly one hundred impacts have been reported and thirty pieces of debris have been received and examined",
+   "quote": "On December 3, 1946, a memo was drafted for the Swedish Ghost Rocket committee stating \"nearly one hundred impacts have been reported and thirty pieces of debris have been received and examined by Swedish National Defence Research Institute (FOA)\"."
+  },
+  {
+   "s": "vandmemo",
+   "p": "key_document",
+   "o": "case",
+   "quote": "On August 22, 1946, the director of the Central Intelligence Group (CIG), Lt. Gen. Hoyt Vandenberg, wrote a Top Secret memo to President Truman, perhaps based in part on information from Doolittle and Sarnoff."
+  },
+  {
+   "s": "vandenberg",
+   "p": "authored",
+   "o": "vandmemo",
+   "quote": "On August 22, 1946, the director of the Central Intelligence Group (CIG), Lt. Gen. Hoyt Vandenberg, wrote a Top Secret memo to President Truman, perhaps based in part on information from Doolittle and Sarnoff."
+  },
+  {
+   "s": "vandmemo",
+   "p": "date",
+   "v": "1946-08-22",
+   "quote": "On August 22, 1946, the director of the Central Intelligence Group (CIG), Lt. Gen. Hoyt Vandenberg, wrote a Top Secret memo to President Truman, perhaps based in part on information from Doolittle and Sarnoff."
+  },
+  {
+   "s": "vandmemo",
+   "p": "classification",
+   "v": "Top Secret",
+   "quote": "On August 22, 1946, the director of the Central Intelligence Group (CIG), Lt. Gen. Hoyt Vandenberg, wrote a Top Secret memo to President Truman, perhaps based in part on information from Doolittle and Sarnoff."
+  },
+  {
+   "s": "vandmemo",
+   "p": "recipient",
+   "v": "President Truman",
+   "quote": "On August 22, 1946, the director of the Central Intelligence Group (CIG), Lt. Gen. Hoyt Vandenberg, wrote a Top Secret memo to President Truman, perhaps based in part on information from Doolittle and Sarnoff."
+  },
+  {
+   "s": "vandmemo",
+   "p": "basis",
+   "v": "perhaps based in part on information from Doolittle and Sarnoff",
+   "quote": "On August 22, 1946, the director of the Central Intelligence Group (CIG), Lt. Gen. Hoyt Vandenberg, wrote a Top Secret memo to President Truman, perhaps based in part on information from Doolittle and Sarnoff."
+  },
+  {
+   "s": "vandmemo",
+   "p": "content",
+   "v": "US military attaché in Moscow told by 'key Swedish Air Officer' that radar course-plotting led to conclusion that Peenemünde was the launch site",
+   "quote": "Vandenberg stated that the \"weight of evidence pointed to Peenemünde as origin of the missiles, that US MA [military attaché] in Moscow had been told by 'key Swedish Air Officer' that radar course-plotting had led to conclusion that Peenemünde was the launch site."
+  },
+  {
+   "s": "usafedoc",
+   "p": "key_document",
+   "o": "case",
+   "quote": "a Top Secret USAFE (United States Air Force Europe) document from 4 November 1948 indicates that at least some investigators believed the ghost rockets and later \"flying saucers\" had extraterrestrial origins"
+  },
+  {
+   "s": "usafe",
+   "p": "authored",
+   "o": "usafedoc",
+   "quote": "a Top Secret USAFE (United States Air Force Europe) document from 4 November 1948 indicates that at least some investigators believed the ghost rockets and later \"flying saucers\" had extraterrestrial origins"
+  },
+  {
+   "s": "usafedoc",
+   "p": "date",
+   "v": "1948-11-04",
+   "quote": "a Top Secret USAFE (United States Air Force Europe) document from 4 November 1948 indicates that at least some investigators believed the ghost rockets and later \"flying saucers\" had extraterrestrial origins"
+  },
+  {
+   "s": "usafedoc",
+   "p": "classification",
+   "v": "Top Secret",
+   "quote": "a Top Secret USAFE (United States Air Force Europe) document from 4 November 1948 indicates that at least some investigators believed the ghost rockets and later \"flying saucers\" had extraterrestrial origins"
+  },
+  {
+   "s": "usafedoc",
+   "p": "declassified",
+   "v": "1997",
+   "quote": "Declassified only in 1997, the document states:"
+  },
+  {
+   "s": "usafedoc",
+   "p": "content",
+   "v": "concerned by the recurring reports on flying saucers",
+   "quote": "For some time we have been concerned by the recurring reports on flying saucers."
+  },
+  {
+   "s": "usafedoc",
+   "p": "content",
+   "v": "convinced that they cannot be disregarded and must be explained on some basis perhaps slightly beyond the scope of present intelligence thinking",
+   "quote": "we are convinced that they cannot be disregarded and must be explained on some basis which is perhaps slightly beyond the scope of our present intelligence thinking"
+  },
+  {
+   "s": "usafedoc",
+   "p": "content",
+   "v": "mentioned a search for an object crashing in a Swedish lake by a Swedish naval salvage team, with discovery of a previously unknown crater on the lake floor",
+   "quote": "The document also mentioned a search for an object crashing in a Swedish lake conducted by a Swedish naval salvage team, with the discovery of a previously unknown crater on the lake floor believed caused by the object"
+  },
+  {
+   "s": "usafedoc",
+   "p": "content",
+   "v": "possibly referencing the Lake Kölmjärv search, though the date is unclear",
+   "quote": "possibly referencing the Lake Kölmjärv search for a ghost rocket discussed above, though the date is unclear"
+  },
+  {
+   "s": "usafedoc",
+   "p": "conclusion",
+   "v": "inclined not to discredit entirely this somewhat spectacular theory [extraterrestrial origins], meantime keeping an open mind on the subject",
+   "quote": "The document ends with the statement that \"we are inclined not to discredit entirely this somewhat spectacular theory [extraterrestrial origins], meantime keeping an open mind on the subject\"."
+  },
+  {
+   "s": "lecture",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In a 1967 lecture to the Greek Astronomical Society, broadcast on Athens Radio, Santorini first publicly revealed what had been found in his 1947 investigation."
+  },
+  {
+   "s": "santorini",
+   "p": "authored",
+   "o": "lecture",
+   "quote": "In a 1967 lecture to the Greek Astronomical Society, broadcast on Athens Radio, Santorini first publicly revealed what had been found in his 1947 investigation."
+  },
+  {
+   "s": "lecture",
+   "p": "year",
+   "v": "1967",
+   "quote": "In a 1967 lecture to the Greek Astronomical Society, broadcast on Athens Radio, Santorini first publicly revealed what had been found in his 1947 investigation."
+  },
+  {
+   "s": "lecture",
+   "p": "broadcast_on",
+   "v": "Athens Radio",
+   "quote": "In a 1967 lecture to the Greek Astronomical Society, broadcast on Athens Radio, Santorini first publicly revealed what had been found in his 1947 investigation."
+  },
+  {
+   "s": "craft",
+   "p": "identified_as",
+   "o": "v1",
+   "quote": "it was widely  believed that they originated from the former German rocket facility at Peenemünde, and were long-range tests conducted by the Soviets of captured German V-1 or V-2 missiles"
+  },
+  {
+   "s": "v1",
+   "p": "alleged_role",
+   "v": "CIG speculated the missiles were extended-range developments of V-1",
+   "quote": "CIG speculates that the missiles are extended-range developments of V-1 being aimed for the Gulf of Bothnia for test purposes and do not overfly Swedish territory specifically for intimidation; self-destruct by small demolition charge or burning"
+  },
+  {
+   "s": "v1",
+   "p": "alleged_role",
+   "v": "captured German missiles believed tested by the Soviets",
+   "quote": "it was widely  believed that they originated from the former German rocket facility at Peenemünde, and were long-range tests conducted by the Soviets of captured German V-1 or V-2 missiles"
+  },
+  {
+   "s": "craft",
+   "p": "identified_as",
+   "o": "v2",
+   "quote": "it was widely  believed that they originated from the former German rocket facility at Peenemünde, and were long-range tests conducted by the Soviets of captured German V-1 or V-2 missiles"
+  },
+  {
+   "s": "v2",
+   "p": "alleged_role",
+   "v": "captured German missiles believed tested by the Soviets",
+   "quote": "it was widely  believed that they originated from the former German rocket facility at Peenemünde, and were long-range tests conducted by the Soviets of captured German V-1 or V-2 missiles"
+  },
+  {
+   "s": "santorini",
+   "p": "held_patents_for",
+   "o": "nike",
+   "quote": "Santorini had been a developer of the proximity fuze on the first A-bomb and held patents on guidance systems for Nike missiles and radar systems."
+  },
+  {
+   "s": "neub_case",
+   "p": "related_case",
+   "o": "case",
+   "quote": "during the last week, one was observed hovering over Neubiberg Air Base for about thirty minutes"
+  },
+  {
+   "s": "neubiberg",
+   "p": "occurred_at",
+   "o": "neub_case",
+   "quote": "during the last week, one was observed hovering over Neubiberg Air Base for about thirty minutes"
+  },
+  {
+   "s": "neub_case",
+   "p": "duration",
+   "v": "about thirty minutes",
+   "quote": "during the last week, one was observed hovering over Neubiberg Air Base for about thirty minutes"
+  },
+  {
+   "s": "neub_case",
+   "p": "behavior",
+   "v": "hovering",
+   "quote": "during the last week, one was observed hovering over Neubiberg Air Base for about thirty minutes"
+  },
+  {
+   "s": "foo",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Foo fighter"
+  },
+  {
+   "s": "w_carp",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Extensive Ghost Rocket chronology by Joel Carpenter on Project 1947 website, many documents and photos."
+  },
+  {
+   "s": "carpenter",
+   "p": "authored",
+   "o": "w_carp",
+   "quote": "Extensive Ghost Rocket chronology by Joel Carpenter on Project 1947 website, many documents and photos."
+  },
+  {
+   "s": "w_carp",
+   "p": "cited_for",
+   "v": "Times story on the Chief of the Swedish Defense Staff's interest in the two generals' advice",
+   "quote": "would place all available reports before them\". (Carpenter chronology)"
+  },
+  {
+   "s": "w_snu",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The Ghost Rockets of 1946 - Saturday Night Uforia"
+  },
+  {
+   "s": "w_tour",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "See Ghost Rockets World Tour by Charles Stankievech for a project that maps the history of ballistics by staging rocket launches at historic sites including Peneemünde, Helsinki, Berlin, Russia, California, Alaska and others."
+  },
+  {
+   "s": "stankievech",
+   "p": "authored",
+   "o": "w_tour",
+   "quote": "See Ghost Rockets World Tour by Charles Stankievech for a project that maps the history of ballistics by staging rocket launches at historic sites including Peneemünde, Helsinki, Berlin, Russia, California, Alaska and others."
+  },
+  {
+   "s": "w_greek",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The Greek Ghost Rockets of 1946 The sightings in Greece and Santorinis' involvement."
+  },
+  {
+   "s": "f_cyl",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The sightings most often consisted of fast-flying rocket- or missile-shaped objects, with or without wings, visible for mere seconds."
+  },
+  {
+   "s": "f_cyl",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Instances of slower moving, cigar-shaped objects are also known."
+  },
+  {
+   "s": "f_radar",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Two hundred sightings were verified with radar returns, and authorities recovered physical fragments which were attributed to ghost rockets."
+  },
+  {
+   "s": "f_radar",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Doolittle and Sarnoff were briefed that on several occasions the ghost rockets had been tracked on radar."
+  },
+  {
+   "s": "f_debris",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "On December 3, 1946, a memo was drafted for the Swedish Ghost Rocket committee stating \"nearly one hundred impacts have been reported and thirty pieces of debris have been received and examined by Swedish National Defence Research Institute (FOA)\"."
+  },
+  {
+   "s": "f_debris",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Two hundred sightings were verified with radar returns, and authorities recovered physical fragments which were attributed to ghost rockets."
+  },
+  {
+   "s": "f_traces",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Swedish military performed several dives in the affected lakes shortly after the crashes, but found nothing other than occasional craters in the lake bottom or torn off aquatic plants."
+  },
+  {
+   "s": "f_water",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Crashes were not uncommon, and occurred almost always in lakes."
+  },
+  {
+   "s": "f_crash",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Two hundred sightings were verified with radar returns, and authorities recovered physical fragments which were attributed to ghost rockets."
+  },
+  {
+   "s": "f_fast",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The sightings most often consisted of fast-flying rocket- or missile-shaped objects, with or without wings, visible for mere seconds."
+  },
+  {
+   "s": "f_fast",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "However, most ghost rocket sightings did not occur during meteor shower activity; furthermore they displayed characteristics inconsistent with meteors, such as reported maneuverability."
+  },
+  {
+   "s": "f_silent",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "the objects displayed some combination of leaving no exhaust trail, moving too slowly, flying horizontally, traveling and maneuvering in formation, and appearing to be silent"
+  },
+  {
+   "s": "f_sound",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "A hissing or rumbling sound was sometimes reported."
+  },
+  {
+   "s": "f_mass",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "About 2,000 sightings were logged between May and December 1946, with peaks on 9 and 11 August 1946."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Witnesses reported a gray, rocket-shaped object with wings crashing in the lake."
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In early August 1946, Swedish Lt. Lennart Neckman of the Defense Staff's Air Defense Division saw something that was \"without a doubt ... a rocket projectile\"."
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Similar objects were also reported early the following month by British Army units in Greece, especially around Thessaloniki."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Investigations concluded that many ghost rocket sightings were probably caused by meteors."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Greek government conducted their own investigation, with their leading scientist, physicist Paul Santorini, in charge."
+  },
+  {
+   "s": "f_cover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Later Santorini told UFO researchers such as Raymond Fowler that secrecy was invoked because officials were afraid to admit of a superior technology against which we have \"no possibility of defense\"."
+  },
+  {
+   "s": "f_cover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "We soon established that they were not missiles. But, before we could do any more, the Army, after conferring with foreign officials (presumably U.S. Defense Dept.), ordered the investigation stopped."
+  },
+  {
+   "s": "f_formation",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "the objects displayed some combination of leaving no exhaust trail, moving too slowly, flying horizontally, traveling and maneuvering in formation, and appearing to be silent"
+  },
+  {
+   "s": "f_press",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "This prompted the Swedish Army to issue a directive stating that newspapers were not to report the exact location, direction or speed of any ghost rocket sightings"
+  },
+  {
+   "s": "x_meteor",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Investigations concluded that many ghost rocket sightings were probably caused by meteors."
+  },
+  {
+   "s": "x_meteor",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The debris was later said to be meteorite fragments."
+  },
+  {
+   "s": "x_test",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "it was widely  believed that they originated from the former German rocket facility at Peenemünde, and were long-range tests conducted by the Soviets of captured German V-1 or V-2 missiles"
+  },
+  {
+   "s": "cig",
+   "p": "proposed",
+   "o": "x_test",
+   "quote": "CIG speculates that the missiles are extended-range developments of V-1 being aimed for the Gulf of Bothnia for test purposes and do not overfly Swedish territory specifically for intimidation; self-destruct by small demolition charge or burning"
+  },
+  {
+   "s": "vandenberg",
+   "p": "proposed",
+   "o": "x_test",
+   "quote": "Vandenberg stated that the \"weight of evidence pointed to Peenemünde as origin of the missiles, that US MA [military attaché] in Moscow had been told by 'key Swedish Air Officer' that radar course-plotting had led to conclusion that Peenemünde was the launch site."
+  },
+  {
+   "s": "x_rocket",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "it was widely  believed that they originated from the former German rocket facility at Peenemünde, and were long-range tests conducted by the Soviets of captured German V-1 or V-2 missiles"
+  },
+  {
+   "s": "sarnoff",
+   "p": "proposed",
+   "o": "x_rocket",
+   "quote": "Sarnoff was quoted by the N.Y. Times on September 30 saying that he was \"convinced that the 'ghost bombs' are no myth but real missiles\"."
+  },
+  {
+   "s": "santorini",
+   "p": "disputed",
+   "o": "x_rocket",
+   "quote": "We soon established that they were not missiles. But, before we could do any more, the Army, after conferring with foreign officials (presumably U.S. Defense Dept.), ordered the investigation stopped."
+  },
+  {
+   "s": "x_meteor",
+   "p": "supporting_detail",
+   "v": "sighting peaks of 9 and 11 August 1946 fall within the peak of the annual Perseid meteor shower",
+   "quote": "the peaks of the sightings, on 9 and 11 August 1946, also fall within the peak of the annual Perseid meteor shower"
+  }
+ ]
+}

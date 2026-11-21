@@ -1,0 +1,1296 @@
+{
+ "slug": "malmstrom-ufo-incident",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Malmstrom UFO incident",
+   "aliases": [
+    "Echo Flight Incident"
+   ],
+   "description": "Claims, first made publicly in 1996, that a 1967 shutdown of nuclear missiles at Echo Flight, Malmstrom Air Force Base, Montana, was connected to a UFO sighting."
+  },
+  {
+   "key": "salas",
+   "type": "person",
+   "name": "Robert Salas",
+   "aliases": [
+    "Salas"
+   ],
+   "description": "Former Air Force lieutenant who publicly claimed a UFO report was associated with the Echo Flight malfunction; later author of UFO books"
+  },
+  {
+   "key": "hastings",
+   "type": "person",
+   "name": "Robert Hastings",
+   "description": "UFO author who discussed the incident in his book UFOs and Nukes"
+  },
+  {
+   "key": "west",
+   "type": "person",
+   "name": "Mick West",
+   "description": "Science writer who wrote about the incident"
+  },
+  {
+   "key": "dunning",
+   "type": "person",
+   "name": "Brian Dunning",
+   "aliases": [
+    "Dunning"
+   ],
+   "description": "Writer who compared Salas's memories with 341st Strategic Missile Wing records"
+  },
+  {
+   "key": "shermer",
+   "type": "person",
+   "name": "Michael Shermer",
+   "aliases": [
+    "Shermer"
+   ],
+   "description": "Skeptic who appeared on CNN with Salas in 2008"
+  },
+  {
+   "key": "sheaffer",
+   "type": "person",
+   "name": "Robert Sheaffer",
+   "description": "Skeptic who argued the UFO sighted was likely Mars"
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "aliases": [
+    "Air Force"
+   ],
+   "description": "Military branch whose personnel operated the missile complex and which reported on the malfunction"
+  },
+  {
+   "key": "pentagon",
+   "type": "organization",
+   "name": "The Pentagon",
+   "aliases": [
+    "Pentagon"
+   ],
+   "description": "Reported in 2025 that the incident was caused by an electromagnetic pulse device test"
+  },
+  {
+   "key": "smw341",
+   "type": "organization",
+   "name": "341st Strategic Missile Wing",
+   "description": "Unit whose records show nobody reported anything unusual on the night in question"
+  },
+  {
+   "key": "mst",
+   "type": "organization",
+   "name": "Mobile Strike Team",
+   "description": "Team that checked November Flight's launch facilities on the morning of 16 March 1967 and was questioned"
+  },
+  {
+   "key": "gft",
+   "type": "organization",
+   "name": "Great Falls Tribune",
+   "description": "Newspaper that published the August 1996 article about Salas"
+  },
+  {
+   "key": "missoula",
+   "type": "organization",
+   "name": "Missoula Independent",
+   "aliases": [
+    "The Independent"
+   ],
+   "description": "Newspaper that featured the incident in 2001 and returned to it the following year"
+  },
+  {
+   "key": "cnn",
+   "type": "organization",
+   "name": "CNN",
+   "description": "Network on which Salas appeared with Michael Shermer in 2008"
+  },
+  {
+   "key": "npc",
+   "type": "organization",
+   "name": "National Press Club",
+   "description": "Washington venue where Salas appeared on September 27, 2010"
+  },
+  {
+   "key": "usgov",
+   "type": "organization",
+   "name": "United States government",
+   "aliases": [
+    "the government"
+   ],
+   "description": "Body Salas speculated was covering up evidence of extraterrestrials"
+  },
+  {
+   "key": "malmstrom",
+   "type": "place",
+   "name": "Malmstrom Air Force Base",
+   "aliases": [
+    "Malmstrom AFB",
+    "Malmstrom"
+   ],
+   "description": "Air Force base whose personnel operated the Echo Flight missile complex"
+  },
+  {
+   "key": "montana",
+   "type": "place",
+   "name": "Montana",
+   "description": "State in which the nuclear missile complex was located"
+  },
+  {
+   "key": "echo",
+   "type": "place",
+   "name": "Echo Flight",
+   "aliases": [
+    "Echo (E) Flight",
+    "E Flight"
+   ],
+   "description": "Underground missile complex between Hilger and Winifred whose missiles shut down on 16 March 1967"
+  },
+  {
+   "key": "november",
+   "type": "place",
+   "name": "November Flight",
+   "description": "Missile flight whose launch facilities a Mobile Strike Team checked on the morning of 16 March 1967"
+  },
+  {
+   "key": "oscar",
+   "type": "place",
+   "name": "Oscar Flight",
+   "description": "Missile flight where, per Sheaffer, a UFO was sighted but no missiles went offline"
+  },
+  {
+   "key": "hilger",
+   "type": "place",
+   "name": "Hilger, Montana",
+   "aliases": [
+    "Hilger"
+   ],
+   "description": "Locality; the missile complex lay between it and Winifred"
+  },
+  {
+   "key": "winifred",
+   "type": "place",
+   "name": "Winifred, Montana",
+   "aliases": [
+    "Winifred"
+   ],
+   "description": "Locality; the missile complex lay between Hilger and it"
+  },
+  {
+   "key": "dc",
+   "type": "place",
+   "name": "Washington, D.C.",
+   "aliases": [
+    "Washington D.C."
+   ],
+   "description": "City where the National Press Club appearance took place"
+  },
+  {
+   "key": "redobj",
+   "type": "craft",
+   "name": "Glowing red object above the front gate",
+   "description": "Glowing red object guards reportedly saw hovering above the front gate, per Salas"
+  },
+  {
+   "key": "objs",
+   "type": "craft",
+   "name": "Flying objects in the distance",
+   "description": "Flying objects doing strange maneuvers that a security guard reportedly reported to Salas"
+  },
+  {
+   "key": "missiles",
+   "type": "vehicle",
+   "name": "Minuteman nuclear missiles of Echo Flight",
+   "aliases": [
+    "Minutemen nuclear missiles"
+   ],
+   "description": "The complex's ten nuclear missiles that went offline"
+  },
+  {
+   "key": "afreport",
+   "type": "document",
+   "name": "Air Force report on the Echo Flight shutdown",
+   "description": "Air Force report describing the 16 March 1967 shutdown and stating UFO rumors were disproven"
+  },
+  {
+   "key": "afdocs",
+   "type": "document",
+   "name": "Air Force documents released under the Freedom of Information Act",
+   "description": "Air Force documents on the incident released in 2001"
+  },
+  {
+   "key": "pentreport",
+   "type": "document",
+   "name": "2025 Pentagon report",
+   "description": "Report that attributed the incident to a classified test of an electromagnetic pulse device"
+  },
+  {
+   "key": "salasletter",
+   "type": "document",
+   "name": "Salas letter to the editor",
+   "description": "Letter to the editor by Salas defending UFOs and Nukes from criticism by skeptics"
+  },
+  {
+   "key": "foia",
+   "type": "program",
+   "name": "Freedom of Information Act",
+   "description": "Law under which Air Force documents on the incident were released"
+  },
+  {
+   "key": "gftart",
+   "type": "work",
+   "name": "Great Falls Tribune article of August 13, 1996",
+   "aliases": [
+    "the August 1996 piece"
+   ],
+   "description": "Newspaper article about Robert Salas and his story of a UFO report"
+  },
+  {
+   "key": "faded",
+   "type": "work",
+   "name": "Faded Giant",
+   "description": "2005 book by Salas on the topic of UFOs"
+  },
+  {
+   "key": "nukes",
+   "type": "work",
+   "name": "UFOs and Nukes",
+   "description": "2008 book by Robert Hastings discussing the incident"
+  },
+  {
+   "key": "unid",
+   "type": "work",
+   "name": "Unidentified: The UFO Phenomenon",
+   "description": "2014 second book by Salas"
+  },
+  {
+   "key": "uaps",
+   "type": "work",
+   "name": "UAPs and the Nuclear Puzzle",
+   "description": "2023 third book by Salas"
+  },
+  {
+   "key": "bigsur",
+   "type": "case",
+   "name": "Big Sur UFO",
+   "description": "Other UFO case listed under See also"
+  },
+  {
+   "key": "f_hover",
+   "type": "feature",
+   "name": "hovering",
+   "description": "Object reported hovering above the front gate"
+  },
+  {
+   "key": "f_mil",
+   "type": "feature",
+   "name": "military-witnesses",
+   "description": "Security guards and an Air Force lieutenant"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "Guards (plural) reported the object"
+  },
+  {
+   "key": "f_nuke",
+   "type": "feature",
+   "name": "nuclear-site-proximity",
+   "description": "Nuclear missile complex"
+  },
+  {
+   "key": "f_base",
+   "type": "feature",
+   "name": "military-base-proximity",
+   "description": "Sighting reported over Malmstrom Air Force Base"
+  },
+  {
+   "key": "f_inv",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Military investigation at the time"
+  },
+  {
+   "key": "f_cover",
+   "type": "feature",
+   "name": "alleged-cover-up",
+   "description": "Salas speculated about a government cover-up"
+  },
+  {
+   "key": "f_emi",
+   "type": "feature",
+   "name": "electromagnetic-interference",
+   "description": "Missiles went offline minutes after the reported object, per Salas"
+  },
+  {
+   "key": "x_mars",
+   "type": "explanation",
+   "name": "venus-or-planet",
+   "description": "The UFO was likely the planet Mars"
+  },
+  {
+   "key": "x_emp",
+   "type": "explanation",
+   "name": "military-test-or-exercise",
+   "description": "Classified test of an electromagnetic pulse device"
+  },
+  {
+   "key": "x_power",
+   "type": "explanation",
+   "name": "other:commercial power failure",
+   "description": "Commonplace commercial power failure preceding the missile restart"
+  },
+  {
+   "key": "x_glitch",
+   "type": "explanation",
+   "name": "other:equipment malfunction",
+   "description": "Electronic glitch took the missiles offline"
+  },
+  {
+   "key": "x_misp",
+   "type": "explanation",
+   "name": "misperception",
+   "description": "Observers honestly misunderstand or misperceive things"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1967-03-16",
+   "quote": "An Air Force report noted that \"On 16 March 1967 at 0845, all sites in Echo (E) Flight, Malmstrom AFB, shut-down with No-Go indications..."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "08:45",
+   "quote": "An Air Force report noted that \"On 16 March 1967 at 0845, all sites in Echo (E) Flight, Malmstrom AFB, shut-down with No-Go indications..."
+  },
+  {
+   "s": "case",
+   "p": "sighting_time_per_salas",
+   "v": "night",
+   "quote": "According to Salas, on the night of the malfunction, he was assigned to the underground capsule at the complex."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "In 1996, retired Air Force personnel claimed that a weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over Malmstrom Air Force Base."
+  },
+  {
+   "s": "case",
+   "p": "year_claims_made",
+   "v": "1996",
+   "quote": "In 1996, retired Air Force personnel claimed that a weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over Malmstrom Air Force Base."
+  },
+  {
+   "s": "case",
+   "p": "claimants",
+   "v": "retired Air Force personnel",
+   "quote": "In 1996, retired Air Force personnel claimed that a weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over Malmstrom Air Force Base."
+  },
+  {
+   "s": "case",
+   "p": "name_origin",
+   "v": "claims became known in ufology and popular culture as the Malmstrom UFO incident",
+   "quote": "The claims became known in ufology and popular culture as the Malmstrom UFO incident."
+  },
+  {
+   "s": "case",
+   "p": "also_termed",
+   "v": "Echo Flight Incident",
+   "quote": "The malfunction, termed the \"Echo Flight Incident\", required maintenance crews to be dispatched to the complex."
+  },
+  {
+   "s": "case",
+   "p": "malfunction_description",
+   "v": "all sites in Echo Flight shut down with No-Go indications",
+   "quote": "An Air Force report noted that \"On 16 March 1967 at 0845, all sites in Echo (E) Flight, Malmstrom AFB, shut-down with No-Go indications..."
+  },
+  {
+   "s": "case",
+   "p": "malfunction_description",
+   "v": "all launch facilities in E Flight lost strategic alert nearly simultaneously; no other Wing I configuration lost strategic alert",
+   "quote": "All [launch facilities] in E Flight lost strategic alert nearly simultaneously. No other Wing I configuration lost strategic alert at that time."
+  },
+  {
+   "s": "case",
+   "p": "rumor",
+   "v": "UFOs around the area of Echo Flight during the time of the fault (stated disproven by the Air Force report)",
+   "quote": "The report continued: \"Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during the time of the fault were disproven."
+  },
+  {
+   "s": "case",
+   "p": "military_finding",
+   "v": "no connection to any UFO sighting",
+   "quote": "A military investigation found no connection to any UFO sighting."
+  },
+  {
+   "s": "case",
+   "p": "response",
+   "v": "maintenance crews dispatched to the complex",
+   "quote": "The malfunction, termed the \"Echo Flight Incident\", required maintenance crews to be dispatched to the complex."
+  },
+  {
+   "s": "case",
+   "p": "restoration_time",
+   "v": "missiles brought back online within a day",
+   "quote": "The missiles were brought back online within a day."
+  },
+  {
+   "s": "case",
+   "p": "restoration_time",
+   "v": "maintenance crews took a full day to restore the system",
+   "quote": "The red object reportedly disappeared and maintenance crews took a full day to restore the system to operational status."
+  },
+  {
+   "s": "case",
+   "p": "missiles_offline_count",
+   "v": "10",
+   "quote": "According to Salas, minutes later the complex's ten Minutemen nuclear missiles went offline."
+  },
+  {
+   "s": "case",
+   "p": "skeptic_view",
+   "v": "UFO was likely the planet Mars and entirely unrelated to the malfunction",
+   "quote": "Skeptics argue the UFO was likely the planet Mars and entirely unrelated to the malfunction."
+  },
+  {
+   "s": "case",
+   "p": "skeptic_view",
+   "v": "skeptical investigators found numerous issues with Salas's account",
+   "quote": "Skeptical investigators maintain they have found numerous issues with Robert Salas’s account."
+  },
+  {
+   "s": "case",
+   "p": "official_cause",
+   "v": "classified test of an electromagnetic pulse device",
+   "quote": "A 2025 Pentagon report revealed the incident had been caused by a classified test of an electromagnetic pulse device."
+  },
+  {
+   "s": "case",
+   "p": "official_cause",
+   "v": "test of a nuclear electromagnetic pulse device",
+   "quote": "In 2025, the Pentagon reported that incident had actually been caused by a test of a nuclear electromagnetic pulse device."
+  },
+  {
+   "s": "case",
+   "p": "media_coverage",
+   "v": "from 2000 the story began to be covered in papers through the region",
+   "quote": "In 2000, the story began to be covered in papers through the region."
+  },
+  {
+   "s": "case",
+   "p": "documents_released_year",
+   "v": "2001",
+   "quote": "That year, Air Force documents on the incident were released under the Freedom of Information Act."
+  },
+  {
+   "s": "case",
+   "p": "newspaper_ufo_report",
+   "v": "eight days later some people reported a UFO to the newspapers in a town 50km away",
+   "quote": "\"and eight days later, some people reported a UFO to the newspapers in a town 50km away. There is no rational reason to conclude one thing had anything to do with the other\"."
+  },
+  {
+   "s": "case",
+   "p": "records_finding",
+   "v": "nobody had reported anything unusual on the night Salas claims UFOs were seen",
+   "quote": "According to Brian Dunning, Salas memories differ from records of the 341st Strategic Missile Wing, which show that nobody had reported anything unusual on the night he claims UFOs were seen."
+  },
+  {
+   "s": "case",
+   "p": "anniversary_coverage",
+   "v": "Great Falls Tribune marked the 50th anniversary in 2017",
+   "quote": "In 2017, the Great Falls Tribune marked the event's 50th anniversary."
+  },
+  {
+   "s": "salas",
+   "p": "witness",
+   "o": "case",
+   "quote": "According to Salas, on the night of the malfunction, he was assigned to the underground capsule at the complex."
+  },
+  {
+   "s": "salas",
+   "p": "proponent",
+   "o": "case",
+   "quote": "Science writer Mick West wrote that the military investigated at the time and found no connection to any UFO sighting, but the story has remained in UFO culture largely due to the promotional efforts of Salas."
+  },
+  {
+   "s": "salas",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "Robert Salas had been a 26-year-old Air Force lieutenant during the 1967 malfunction."
+  },
+  {
+   "s": "salas",
+   "p": "rank",
+   "v": "Lieutenant",
+   "quote": "Robert Salas had been a 26-year-old Air Force lieutenant during the 1967 malfunction."
+  },
+  {
+   "s": "salas",
+   "p": "age",
+   "v": "26",
+   "quote": "Robert Salas had been a 26-year-old Air Force lieutenant during the 1967 malfunction."
+  },
+  {
+   "s": "salas",
+   "p": "occupation",
+   "v": "Air Force lieutenant",
+   "quote": "Robert Salas had been a 26-year-old Air Force lieutenant during the 1967 malfunction."
+  },
+  {
+   "s": "salas",
+   "p": "duty_location",
+   "v": "underground capsule at the complex",
+   "quote": "According to Salas, on the night of the malfunction, he was assigned to the underground capsule at the complex."
+  },
+  {
+   "s": "salas",
+   "p": "stationed_at",
+   "o": "echo",
+   "quote": "According to Salas, on the night of the malfunction, he was assigned to the underground capsule at the complex."
+  },
+  {
+   "s": "salas",
+   "p": "statement",
+   "v": "a security guard on the surface contacted him to report flying objects in the distance doing strange maneuvers",
+   "quote": "According to him, a security guard on the surface contacted him to report flying objects in the distance doing strange maneuvers;"
+  },
+  {
+   "s": "salas",
+   "p": "statement",
+   "v": "guards reported seeing a glowing red object hovering above the front gate",
+   "quote": "later, guards reported seeing a glowing red object hovering above the front gate."
+  },
+  {
+   "s": "salas",
+   "p": "statement",
+   "v": "minutes later the complex's ten Minuteman nuclear missiles went offline",
+   "quote": "According to Salas, minutes later the complex's ten Minutemen nuclear missiles went offline."
+  },
+  {
+   "s": "salas",
+   "p": "statement",
+   "v": "denies being a \"UFO junkie\" and doesn't suggest extra-terrestrial involvement; wants to find answers and asks anyone with information to contact him",
+   "quote": "In the August 1996 piece, Salas denies being a \"UFO junkie\" and doesn't suggest extra-terrestrial involvement; he further says he wants to find answers to the mystery, requesting anyone with information to contact him."
+  },
+  {
+   "s": "salas",
+   "p": "later_claim",
+   "v": "by 2005 speculated the government was covering up evidence of extraterrestrials in order to exploit their technology for weaponry",
+   "quote": "By 2005, Salas speculated the government was covering up evidence of extraterrestrials in order to exploit their technology for weaponry."
+  },
+  {
+   "s": "salas",
+   "p": "described",
+   "o": "redobj",
+   "quote": "later, guards reported seeing a glowing red object hovering above the front gate."
+  },
+  {
+   "s": "salas",
+   "p": "described",
+   "o": "objs",
+   "quote": "According to him, a security guard on the surface contacted him to report flying objects in the distance doing strange maneuvers;"
+  },
+  {
+   "s": "salas",
+   "p": "authored",
+   "o": "faded",
+   "quote": "In 2005, Salas authored Faded Giant on the topic of UFOs."
+  },
+  {
+   "s": "salas",
+   "p": "authored",
+   "o": "unid",
+   "quote": "In 2014, Salas authored a second book Unidentified: The UFO Phenomenon."
+  },
+  {
+   "s": "salas",
+   "p": "authored",
+   "o": "uaps",
+   "quote": "In 2023, Salas authored a third book: UAPs and the Nuclear Puzzle."
+  },
+  {
+   "s": "salas",
+   "p": "authored",
+   "o": "salasletter",
+   "quote": "Salas authored a letter to the editor defending the book from criticism by skeptics."
+  },
+  {
+   "s": "salas",
+   "p": "public_appearance",
+   "v": "National Press Club, Washington D.C., September 27, 2010, along with other UFO speakers",
+   "quote": "On September 27, 2010, Salas appeared at the National Press Club in Washington D.C., along with other UFO speakers."
+  },
+  {
+   "s": "salas",
+   "p": "public_appearance",
+   "v": "CNN in 2008 along with skeptic Michael Shermer",
+   "quote": "In 2008, Salas appeared on CNN along with skeptic Michael Shermer."
+  },
+  {
+   "s": "salas",
+   "p": "books_authored_count",
+   "v": "3",
+   "quote": "In 2023, Salas authored a third book: UAPs and the Nuclear Puzzle."
+  },
+  {
+   "s": "hastings",
+   "p": "commentator",
+   "o": "case",
+   "quote": "In 2008, UFO author Robert Hastings discussed the incident in his book UFOs and Nukes."
+  },
+  {
+   "s": "hastings",
+   "p": "authored",
+   "o": "nukes",
+   "quote": "In 2008, UFO author Robert Hastings discussed the incident in his book UFOs and Nukes."
+  },
+  {
+   "s": "hastings",
+   "p": "occupation",
+   "v": "UFO author",
+   "quote": "In 2008, UFO author Robert Hastings discussed the incident in his book UFOs and Nukes."
+  },
+  {
+   "s": "west",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Science writer Mick West wrote that the military investigated at the time and found no connection to any UFO sighting, but the story has remained in UFO culture largely due to the promotional efforts of Salas."
+  },
+  {
+   "s": "west",
+   "p": "occupation",
+   "v": "science writer",
+   "quote": "Science writer Mick West wrote that the military investigated at the time and found no connection to any UFO sighting, but the story has remained in UFO culture largely due to the promotional efforts of Salas."
+  },
+  {
+   "s": "west",
+   "p": "statement",
+   "v": "the military investigated at the time and found no connection to any UFO sighting, but the story has remained in UFO culture largely due to the promotional efforts of Salas",
+   "quote": "Science writer Mick West wrote that the military investigated at the time and found no connection to any UFO sighting, but the story has remained in UFO culture largely due to the promotional efforts of Salas."
+  },
+  {
+   "s": "dunning",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "According to Brian Dunning, Salas memories differ from records of the 341st Strategic Missile Wing, which show that nobody had reported anything unusual on the night he claims UFOs were seen."
+  },
+  {
+   "s": "dunning",
+   "p": "disputed",
+   "o": "salas",
+   "quote": "According to Brian Dunning, Salas memories differ from records of the 341st Strategic Missile Wing, which show that nobody had reported anything unusual on the night he claims UFOs were seen."
+  },
+  {
+   "s": "dunning",
+   "p": "proposed",
+   "o": "x_power",
+   "quote": "Dunning wrote that on March 16, Echo Flight missiles were restarted following a commonplace commercial power failure,"
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "Salas's memories differ from records of the 341st Strategic Missile Wing, which show nobody reported anything unusual on the night he claims UFOs were seen",
+   "quote": "According to Brian Dunning, Salas memories differ from records of the 341st Strategic Missile Wing, which show that nobody had reported anything unusual on the night he claims UFOs were seen."
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "eight days later, some people reported a UFO to the newspapers in a town 50km away; there is no rational reason to conclude one thing had anything to do with the other",
+   "quote": "\"and eight days later, some people reported a UFO to the newspapers in a town 50km away. There is no rational reason to conclude one thing had anything to do with the other\"."
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "Salas was honestly mistaken in piecing together certain memories, has become invested in his version and erred on the side of confirmation bias",
+   "quote": "Dunning speculated that Salas was \"honestly mistaken in piecing together certain memories, and I also believe he's become invested in his version of the recollection and has erred on the side of confirmation bias\"."
+  },
+  {
+   "s": "shermer",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "In 2008, Salas appeared on CNN along with skeptic Michael Shermer."
+  },
+  {
+   "s": "shermer",
+   "p": "proposed",
+   "o": "x_misp",
+   "quote": "When asked if he believed Salas was lying, Shermer replied \"No, not at all. I think we're not always reliable observers. It's hard to say. We misunderstand, honestly misunderstand or misperceive things."
+  },
+  {
+   "s": "shermer",
+   "p": "statement",
+   "v": "does not believe Salas was lying; we're not always reliable observers and honestly misunderstand or misperceive things",
+   "quote": "When asked if he believed Salas was lying, Shermer replied \"No, not at all. I think we're not always reliable observers. It's hard to say. We misunderstand, honestly misunderstand or misperceive things."
+  },
+  {
+   "s": "shermer",
+   "p": "statement",
+   "v": "before we say something is out of this world, let's first make sure that it's not in it; not being able to explain something doesn't mean it's extraterrestrial",
+   "quote": "I think before we say something is out of this world, let's first make sure that it's not in it. And just because we can't explain something doesn't mean it's, you know, extraterrestrial."
+  },
+  {
+   "s": "sheaffer",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Skeptic Robert Sheaffer argued the UFO sighted was likely Mars, writing:  \"So, in the case of Oscar Flight, a UFO was sighted [very likely Mars], but no missiles went offline."
+  },
+  {
+   "s": "sheaffer",
+   "p": "proposed",
+   "o": "x_mars",
+   "quote": "Skeptic Robert Sheaffer argued the UFO sighted was likely Mars, writing:  \"So, in the case of Oscar Flight, a UFO was sighted [very likely Mars], but no missiles went offline."
+  },
+  {
+   "s": "sheaffer",
+   "p": "proposed",
+   "o": "x_glitch",
+   "quote": "In the case of Echo Flight, missiles did go offline due to an electronic glitch, but UFOs had nothing to do with it. I can't un-complicate it any more than that."
+  },
+  {
+   "s": "sheaffer",
+   "p": "statement",
+   "v": "at Oscar Flight a UFO was sighted (very likely Mars) but no missiles went offline",
+   "quote": "Skeptic Robert Sheaffer argued the UFO sighted was likely Mars, writing:  \"So, in the case of Oscar Flight, a UFO was sighted [very likely Mars], but no missiles went offline."
+  },
+  {
+   "s": "sheaffer",
+   "p": "statement",
+   "v": "at Echo Flight missiles did go offline due to an electronic glitch, but UFOs had nothing to do with it",
+   "quote": "In the case of Echo Flight, missiles did go offline due to an electronic glitch, but UFOs had nothing to do with it. I can't un-complicate it any more than that."
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 1996, retired Air Force personnel claimed that a weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over Malmstrom Air Force Base."
+  },
+  {
+   "s": "usaf",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "Science writer Mick West wrote that the military investigated at the time and found no connection to any UFO sighting, but the story has remained in UFO culture largely due to the promotional efforts of Salas."
+  },
+  {
+   "s": "usaf",
+   "p": "authored",
+   "o": "afreport",
+   "quote": "An Air Force report noted that \"On 16 March 1967 at 0845, all sites in Echo (E) Flight, Malmstrom AFB, shut-down with No-Go indications..."
+  },
+  {
+   "s": "pentagon",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "In 2025, the Pentagon reported that incident had actually been caused by a test of a nuclear electromagnetic pulse device."
+  },
+  {
+   "s": "pentagon",
+   "p": "authored",
+   "o": "pentreport",
+   "quote": "A 2025 Pentagon report revealed the incident had been caused by a classified test of an electromagnetic pulse device."
+  },
+  {
+   "s": "pentagon",
+   "p": "proposed",
+   "o": "x_emp",
+   "quote": "In 2025, the Pentagon reported that incident had actually been caused by a test of a nuclear electromagnetic pulse device."
+  },
+  {
+   "s": "smw341",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "According to Brian Dunning, Salas memories differ from records of the 341st Strategic Missile Wing, which show that nobody had reported anything unusual on the night he claims UFOs were seen."
+  },
+  {
+   "s": "smw341",
+   "p": "records_show",
+   "v": "nobody had reported anything unusual on the night Salas claims UFOs were seen",
+   "quote": "According to Brian Dunning, Salas memories differ from records of the 341st Strategic Missile Wing, which show that nobody had reported anything unusual on the night he claims UFOs were seen."
+  },
+  {
+   "s": "mst",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "A Mobile Strike Team, which had checked all November Flight's [launch facilities] on the morning of 16 March 67, were question[ed] and stated that no unusual activity or sightings were observed."
+  },
+  {
+   "s": "mst",
+   "p": "statement",
+   "v": "no unusual activity or sightings were observed",
+   "quote": "A Mobile Strike Team, which had checked all November Flight's [launch facilities] on the morning of 16 March 67, were question[ed] and stated that no unusual activity or sightings were observed."
+  },
+  {
+   "s": "mst",
+   "p": "activity",
+   "v": "checked all November Flight's launch facilities on the morning of 16 March 1967",
+   "quote": "A Mobile Strike Team, which had checked all November Flight's [launch facilities] on the morning of 16 March 67, were question[ed] and stated that no unusual activity or sightings were observed."
+  },
+  {
+   "s": "gft",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On August 13, 1996, the Great Falls Tribune published an article about Robert Salas and his story of a UFO report associated with the Echo Flight malfunction."
+  },
+  {
+   "s": "gft",
+   "p": "published",
+   "o": "gftart",
+   "quote": "On August 13, 1996, the Great Falls Tribune published an article about Robert Salas and his story of a UFO report associated with the Echo Flight malfunction."
+  },
+  {
+   "s": "gft",
+   "p": "coverage",
+   "v": "marked the event's 50th anniversary in 2017",
+   "quote": "In 2017, the Great Falls Tribune marked the event's 50th anniversary."
+  },
+  {
+   "s": "missoula",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 2001, the incident was featured in the Missoula Independent."
+  },
+  {
+   "s": "missoula",
+   "p": "coverage",
+   "v": "featured the incident in 2001",
+   "quote": "In 2001, the incident was featured in the Missoula Independent."
+  },
+  {
+   "s": "missoula",
+   "p": "coverage",
+   "v": "returned to the topic the following year",
+   "quote": "The Independent returned to the topic the following year."
+  },
+  {
+   "s": "cnn",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 2008, Salas appeared on CNN along with skeptic Michael Shermer."
+  },
+  {
+   "s": "npc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On September 27, 2010, Salas appeared at the National Press Club in Washington D.C., along with other UFO speakers."
+  },
+  {
+   "s": "npc",
+   "p": "located_in",
+   "o": "dc",
+   "quote": "On September 27, 2010, Salas appeared at the National Press Club in Washington D.C., along with other UFO speakers."
+  },
+  {
+   "s": "usgov",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "By 2005, Salas speculated the government was covering up evidence of extraterrestrials in order to exploit their technology for weaponry."
+  },
+  {
+   "s": "malmstrom",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "In 1996, retired Air Force personnel claimed that a weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over Malmstrom Air Force Base."
+  },
+  {
+   "s": "echo",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "An Air Force report noted that \"On 16 March 1967 at 0845, all sites in Echo (E) Flight, Malmstrom AFB, shut-down with No-Go indications..."
+  },
+  {
+   "s": "echo",
+   "p": "part_of",
+   "o": "malmstrom",
+   "quote": "An Air Force report noted that \"On 16 March 1967 at 0845, all sites in Echo (E) Flight, Malmstrom AFB, shut-down with No-Go indications..."
+  },
+  {
+   "s": "echo",
+   "p": "located_in",
+   "o": "montana",
+   "quote": "In 1996, retired Air Force personnel claimed that a weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over Malmstrom Air Force Base."
+  },
+  {
+   "s": "echo",
+   "p": "near",
+   "o": "hilger",
+   "quote": "In 1967, personnel from Malmstrom operated  an underground missile complex that was located between Hilger and Winifred, given the designation \"Echo Flight\"."
+  },
+  {
+   "s": "echo",
+   "p": "near",
+   "o": "winifred",
+   "quote": "In 1967, personnel from Malmstrom operated  an underground missile complex that was located between Hilger and Winifred, given the designation \"Echo Flight\"."
+  },
+  {
+   "s": "echo",
+   "p": "facility_type",
+   "v": "underground missile complex",
+   "quote": "In 1967, personnel from Malmstrom operated  an underground missile complex that was located between Hilger and Winifred, given the designation \"Echo Flight\"."
+  },
+  {
+   "s": "echo",
+   "p": "missile_count",
+   "v": "10",
+   "quote": "According to Salas, minutes later the complex's ten Minutemen nuclear missiles went offline."
+  },
+  {
+   "s": "echo",
+   "p": "shutdown_time",
+   "v": "0845 on 16 March 1967",
+   "quote": "An Air Force report noted that \"On 16 March 1967 at 0845, all sites in Echo (E) Flight, Malmstrom AFB, shut-down with No-Go indications..."
+  },
+  {
+   "s": "montana",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "In 1996, retired Air Force personnel claimed that a weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over Malmstrom Air Force Base."
+  },
+  {
+   "s": "hilger",
+   "p": "near",
+   "o": "case",
+   "quote": "In 1967, personnel from Malmstrom operated  an underground missile complex that was located between Hilger and Winifred, given the designation \"Echo Flight\"."
+  },
+  {
+   "s": "winifred",
+   "p": "near",
+   "o": "case",
+   "quote": "In 1967, personnel from Malmstrom operated  an underground missile complex that was located between Hilger and Winifred, given the designation \"Echo Flight\"."
+  },
+  {
+   "s": "november",
+   "p": "related_place",
+   "o": "case",
+   "quote": "A Mobile Strike Team, which had checked all November Flight's [launch facilities] on the morning of 16 March 67, were question[ed] and stated that no unusual activity or sightings were observed."
+  },
+  {
+   "s": "oscar",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Skeptic Robert Sheaffer argued the UFO sighted was likely Mars, writing:  \"So, in the case of Oscar Flight, a UFO was sighted [very likely Mars], but no missiles went offline."
+  },
+  {
+   "s": "oscar",
+   "p": "statement_by_sheaffer",
+   "v": "a UFO was sighted (very likely Mars), but no missiles went offline",
+   "quote": "Skeptic Robert Sheaffer argued the UFO sighted was likely Mars, writing:  \"So, in the case of Oscar Flight, a UFO was sighted [very likely Mars], but no missiles went offline."
+  },
+  {
+   "s": "dc",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On September 27, 2010, Salas appeared at the National Press Club in Washington D.C., along with other UFO speakers."
+  },
+  {
+   "s": "redobj",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "later, guards reported seeing a glowing red object hovering above the front gate."
+  },
+  {
+   "s": "redobj",
+   "p": "color",
+   "v": "red",
+   "quote": "later, guards reported seeing a glowing red object hovering above the front gate."
+  },
+  {
+   "s": "redobj",
+   "p": "appearance",
+   "v": "glowing",
+   "quote": "later, guards reported seeing a glowing red object hovering above the front gate."
+  },
+  {
+   "s": "redobj",
+   "p": "behavior",
+   "v": "hovering above the front gate",
+   "quote": "later, guards reported seeing a glowing red object hovering above the front gate."
+  },
+  {
+   "s": "redobj",
+   "p": "departure",
+   "v": "reportedly disappeared",
+   "quote": "The red object reportedly disappeared and maintenance crews took a full day to restore the system to operational status."
+  },
+  {
+   "s": "redobj",
+   "p": "reported_by",
+   "v": "guards",
+   "quote": "later, guards reported seeing a glowing red object hovering above the front gate."
+  },
+  {
+   "s": "objs",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "According to him, a security guard on the surface contacted him to report flying objects in the distance doing strange maneuvers;"
+  },
+  {
+   "s": "objs",
+   "p": "behavior",
+   "v": "strange maneuvers in the distance",
+   "quote": "According to him, a security guard on the surface contacted him to report flying objects in the distance doing strange maneuvers;"
+  },
+  {
+   "s": "objs",
+   "p": "reported_by",
+   "v": "a security guard on the surface",
+   "quote": "According to him, a security guard on the surface contacted him to report flying objects in the distance doing strange maneuvers;"
+  },
+  {
+   "s": "missiles",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "According to Salas, minutes later the complex's ten Minutemen nuclear missiles went offline."
+  },
+  {
+   "s": "missiles",
+   "p": "count",
+   "v": "10",
+   "quote": "According to Salas, minutes later the complex's ten Minutemen nuclear missiles went offline."
+  },
+  {
+   "s": "missiles",
+   "p": "type",
+   "v": "Minuteman nuclear missiles",
+   "quote": "According to Salas, minutes later the complex's ten Minutemen nuclear missiles went offline."
+  },
+  {
+   "s": "missiles",
+   "p": "status",
+   "v": "went offline; brought back online within a day",
+   "quote": "The missiles were brought back online within a day."
+  },
+  {
+   "s": "afreport",
+   "p": "key_document",
+   "o": "case",
+   "quote": "An Air Force report noted that \"On 16 March 1967 at 0845, all sites in Echo (E) Flight, Malmstrom AFB, shut-down with No-Go indications..."
+  },
+  {
+   "s": "afreport",
+   "p": "statement",
+   "v": "On 16 March 1967 at 0845, all sites in Echo (E) Flight, Malmstrom AFB, shut down with No-Go indications",
+   "quote": "An Air Force report noted that \"On 16 March 1967 at 0845, all sites in Echo (E) Flight, Malmstrom AFB, shut-down with No-Go indications..."
+  },
+  {
+   "s": "afreport",
+   "p": "statement",
+   "v": "All launch facilities in E Flight lost strategic alert nearly simultaneously; no other Wing I configuration lost strategic alert at that time",
+   "quote": "All [launch facilities] in E Flight lost strategic alert nearly simultaneously. No other Wing I configuration lost strategic alert at that time."
+  },
+  {
+   "s": "afreport",
+   "p": "statement",
+   "v": "Rumors of UFOs around the area of Echo Flight during the time of the fault were disproven",
+   "quote": "The report continued: \"Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during the time of the fault were disproven."
+  },
+  {
+   "s": "afreport",
+   "p": "statement",
+   "v": "A Mobile Strike Team that checked November Flight's launch facilities that morning stated no unusual activity or sightings were observed",
+   "quote": "A Mobile Strike Team, which had checked all November Flight's [launch facilities] on the morning of 16 March 67, were question[ed] and stated that no unusual activity or sightings were observed."
+  },
+  {
+   "s": "afdocs",
+   "p": "key_document",
+   "o": "case",
+   "quote": "That year, Air Force documents on the incident were released under the Freedom of Information Act."
+  },
+  {
+   "s": "afdocs",
+   "p": "release_year",
+   "v": "2001",
+   "quote": "That year, Air Force documents on the incident were released under the Freedom of Information Act."
+  },
+  {
+   "s": "afdocs",
+   "p": "released_under",
+   "v": "Freedom of Information Act",
+   "quote": "That year, Air Force documents on the incident were released under the Freedom of Information Act."
+  },
+  {
+   "s": "foia",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "That year, Air Force documents on the incident were released under the Freedom of Information Act."
+  },
+  {
+   "s": "pentreport",
+   "p": "key_document",
+   "o": "case",
+   "quote": "A 2025 Pentagon report revealed the incident had been caused by a classified test of an electromagnetic pulse device."
+  },
+  {
+   "s": "pentreport",
+   "p": "year",
+   "v": "2025",
+   "quote": "A 2025 Pentagon report revealed the incident had been caused by a classified test of an electromagnetic pulse device."
+  },
+  {
+   "s": "pentreport",
+   "p": "finding",
+   "v": "incident caused by a classified test of an electromagnetic pulse device",
+   "quote": "A 2025 Pentagon report revealed the incident had been caused by a classified test of an electromagnetic pulse device."
+  },
+  {
+   "s": "salasletter",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Salas authored a letter to the editor defending the book from criticism by skeptics."
+  },
+  {
+   "s": "salasletter",
+   "p": "content",
+   "v": "defended UFOs and Nukes from criticism by skeptics",
+   "quote": "Salas authored a letter to the editor defending the book from criticism by skeptics."
+  },
+  {
+   "s": "gftart",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "On August 13, 1996, the Great Falls Tribune published an article about Robert Salas and his story of a UFO report associated with the Echo Flight malfunction."
+  },
+  {
+   "s": "gftart",
+   "p": "publication_date",
+   "v": "1996-08-13",
+   "quote": "On August 13, 1996, the Great Falls Tribune published an article about Robert Salas and his story of a UFO report associated with the Echo Flight malfunction."
+  },
+  {
+   "s": "faded",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2005, Salas authored Faded Giant on the topic of UFOs."
+  },
+  {
+   "s": "faded",
+   "p": "publication_year",
+   "v": "2005",
+   "quote": "In 2005, Salas authored Faded Giant on the topic of UFOs."
+  },
+  {
+   "s": "nukes",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2008, UFO author Robert Hastings discussed the incident in his book UFOs and Nukes."
+  },
+  {
+   "s": "nukes",
+   "p": "publication_year",
+   "v": "2008",
+   "quote": "In 2008, UFO author Robert Hastings discussed the incident in his book UFOs and Nukes."
+  },
+  {
+   "s": "unid",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2014, Salas authored a second book Unidentified: The UFO Phenomenon."
+  },
+  {
+   "s": "unid",
+   "p": "publication_year",
+   "v": "2014",
+   "quote": "In 2014, Salas authored a second book Unidentified: The UFO Phenomenon."
+  },
+  {
+   "s": "uaps",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2023, Salas authored a third book: UAPs and the Nuclear Puzzle."
+  },
+  {
+   "s": "uaps",
+   "p": "publication_year",
+   "v": "2023",
+   "quote": "In 2023, Salas authored a third book: UAPs and the Nuclear Puzzle."
+  },
+  {
+   "s": "bigsur",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Big Sur UFO"
+  },
+  {
+   "s": "f_hover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "later, guards reported seeing a glowing red object hovering above the front gate."
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to him, a security guard on the surface contacted him to report flying objects in the distance doing strange maneuvers;"
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "later, guards reported seeing a glowing red object hovering above the front gate."
+  },
+  {
+   "s": "f_nuke",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In 1996, retired Air Force personnel claimed that a weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over Malmstrom Air Force Base."
+  },
+  {
+   "s": "f_base",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In 1996, retired Air Force personnel claimed that a weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over Malmstrom Air Force Base."
+  },
+  {
+   "s": "f_inv",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "A military investigation found no connection to any UFO sighting."
+  },
+  {
+   "s": "f_cover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "By 2005, Salas speculated the government was covering up evidence of extraterrestrials in order to exploit their technology for weaponry."
+  },
+  {
+   "s": "f_emi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to Salas, minutes later the complex's ten Minutemen nuclear missiles went offline."
+  },
+  {
+   "s": "x_mars",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Skeptics argue the UFO was likely the planet Mars and entirely unrelated to the malfunction."
+  },
+  {
+   "s": "x_emp",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "A 2025 Pentagon report revealed the incident had been caused by a classified test of an electromagnetic pulse device."
+  },
+  {
+   "s": "x_power",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Dunning wrote that on March 16, Echo Flight missiles were restarted following a commonplace commercial power failure,"
+  },
+  {
+   "s": "x_glitch",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "In the case of Echo Flight, missiles did go offline due to an electronic glitch, but UFOs had nothing to do with it. I can't un-complicate it any more than that."
+  },
+  {
+   "s": "x_misp",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "When asked if he believed Salas was lying, Shermer replied \"No, not at all. I think we're not always reliable observers. It's hard to say. We misunderstand, honestly misunderstand or misperceive things."
+  }
+ ]
+}

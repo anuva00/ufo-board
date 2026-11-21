@@ -1,0 +1,1483 @@
+{
+ "slug": "manises-ufo-incident",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Manises UFO incident",
+   "description": "11 November 1979 incident in which a Spanish commercial flight made an emergency landing at Manises Airport after its crew reported red lights, followed by a Spanish Air Force Mirage F1 pursuit."
+  },
+  {
+   "key": "cavanilles",
+   "type": "person",
+   "name": "Javier Cavanilles",
+   "description": "Journalist and author who called it the most famous UFO case in Spain"
+  },
+  {
+   "key": "lerdo",
+   "type": "person",
+   "name": "Francisco Javier Lerdo de Tejada",
+   "aliases": [
+    "Captain Francisco Javier Lerdo de Tejada"
+   ],
+   "description": "Captain and pilot of Supercaravelle Flight JK-297"
+  },
+  {
+   "key": "camara",
+   "type": "person",
+   "name": "Fernando Cámara",
+   "aliases": [
+    "Captain Fernando Cámara",
+    "Captain Cámara"
+   ],
+   "description": "Spanish Air Force captain who piloted the Mirage F1 sent to intercept the object"
+  },
+  {
+   "key": "mugica",
+   "type": "person",
+   "name": "Enrique Múgica Herzog",
+   "description": "High Chamber representative who publicly asked for an official explanation"
+  },
+  {
+   "key": "peris",
+   "type": "person",
+   "name": "Juan Antonio Fernández Peris",
+   "description": "Agricultural engineer who wrote a 200-page report based on the case file"
+  },
+  {
+   "key": "tae",
+   "type": "organization",
+   "name": "Transportes Aéreos Españoles",
+   "aliases": [
+    "TAE"
+   ],
+   "description": "Spanish airline whose commercial flight made the emergency landing"
+  },
+  {
+   "key": "saf",
+   "type": "organization",
+   "name": "Spanish Air Force",
+   "aliases": [
+    "the Air Force"
+   ],
+   "description": "Air force that sent a Mirage F1 to intercept the object and later prepared the case file"
+  },
+  {
+   "key": "torrejon_radar",
+   "type": "organization",
+   "name": "Torrejón de Ardoz military radar",
+   "aliases": [
+    "military radar of Torrejón de Ardoz"
+   ],
+   "description": "Military radar in Madrid that could not explain the lights"
+  },
+  {
+   "key": "bcn_fcc",
+   "type": "organization",
+   "name": "Barcelona flight control center",
+   "aliases": [
+    "flight control center in Barcelona"
+   ],
+   "description": "Flight control center that could not explain the lights"
+  },
+  {
+   "key": "manises_atc",
+   "type": "organization",
+   "name": "Manises Air Traffic Control",
+   "description": "Air traffic control at Manises, named in the Fernández Peris report as possibly misled"
+  },
+  {
+   "key": "cortes",
+   "type": "organization",
+   "name": "Cortes Generales",
+   "aliases": [
+    "Spanish Parliament"
+   ],
+   "description": "The Spanish Parliament, which the incident reached by September 1980"
+  },
+  {
+   "key": "highchamber",
+   "type": "organization",
+   "name": "High Chamber",
+   "description": "Chamber of which Enrique Múgica Herzog was a representative"
+  },
+  {
+   "key": "sixthfleet",
+   "type": "organization",
+   "name": "United States Sixth Fleet",
+   "aliases": [
+    "Sixth Fleet"
+   ],
+   "description": "US fleet stationed in the area and using electronic warfare equipment"
+  },
+  {
+   "key": "airport",
+   "type": "place",
+   "name": "Manises Airport",
+   "description": "Airport in Valencia, Spain, where the flight made its emergency landing"
+  },
+  {
+   "key": "manises",
+   "type": "place",
+   "name": "Manises, Spain",
+   "aliases": [
+    "Manises"
+   ],
+   "description": "Locality used as the reference point for the distance to the chemical industry complex"
+  },
+  {
+   "key": "valencia",
+   "type": "place",
+   "name": "Valencia, Spain",
+   "aliases": [
+    "Valencia"
+   ],
+   "description": "Location of Manises Airport and of Sagunto"
+  },
+  {
+   "key": "spain",
+   "type": "place",
+   "name": "Spain",
+   "description": "Country of the incident"
+  },
+  {
+   "key": "ibiza",
+   "type": "place",
+   "name": "Ibiza",
+   "description": "Island the flight was over when the object appeared"
+  },
+  {
+   "key": "losllanos",
+   "type": "place",
+   "name": "Los Llanos Air Base",
+   "aliases": [
+    "airbase of Los Llanos"
+   ],
+   "description": "Air base in Albacete from which the Mirage F1 took off"
+  },
+  {
+   "key": "albacete",
+   "type": "place",
+   "name": "Albacete, Spain",
+   "aliases": [
+    "Albacete"
+   ],
+   "description": "Location of Los Llanos Air Base"
+  },
+  {
+   "key": "salzburg",
+   "type": "place",
+   "name": "Salzburg, Austria",
+   "aliases": [
+    "Salzburg"
+   ],
+   "description": "Departure point of Flight JK-297"
+  },
+  {
+   "key": "austria",
+   "type": "place",
+   "name": "Austria",
+   "description": "Country of Salzburg"
+  },
+  {
+   "key": "mallorca",
+   "type": "place",
+   "name": "Mallorca",
+   "description": "Island where the flight made a refuelling stop"
+  },
+  {
+   "key": "laspalmas",
+   "type": "place",
+   "name": "Las Palmas",
+   "description": "Destination the flight was heading towards"
+  },
+  {
+   "key": "torrejon",
+   "type": "place",
+   "name": "Torrejón de Ardoz, Spain",
+   "aliases": [
+    "Torrejón de Ardoz"
+   ],
+   "description": "Location of the military radar consulted by the captain"
+  },
+  {
+   "key": "madrid",
+   "type": "place",
+   "name": "Madrid, Spain",
+   "aliases": [
+    "Madrid"
+   ],
+   "description": "Location given for the Torrejón de Ardoz military radar"
+  },
+  {
+   "key": "barcelona",
+   "type": "place",
+   "name": "Barcelona, Spain",
+   "aliases": [
+    "Barcelona"
+   ],
+   "description": "Location of the flight control center consulted by the captain"
+  },
+  {
+   "key": "sagunto",
+   "type": "place",
+   "name": "Sagunto, Spain",
+   "aliases": [
+    "Sagunto, Valencia",
+    "Sagunto"
+   ],
+   "description": "Town in Valencia near which a new radar echo indicated another object"
+  },
+  {
+   "key": "africa",
+   "type": "place",
+   "name": "Africa",
+   "description": "Direction in which the UFO finally disappeared"
+  },
+  {
+   "key": "flight",
+   "type": "vehicle",
+   "name": "TAE Supercaravelle Flight JK-297",
+   "aliases": [
+    "Flight JK-297",
+    "Supercaravelle JK-297",
+    "TAE Supercaravelle"
+   ],
+   "description": "Commercial airliner with 109 passengers that made the emergency landing"
+  },
+  {
+   "key": "mirage",
+   "type": "vehicle",
+   "name": "Spanish Air Force Dassault Mirage F1",
+   "aliases": [
+    "Dassault Mirage F1",
+    "Mirage F1",
+    "F1"
+   ],
+   "description": "Fighter that took off from Los Llanos to intercept the object"
+  },
+  {
+   "key": "lights",
+   "type": "craft",
+   "name": "set of red lights that approached Flight JK-297 on 11 November 1979",
+   "description": "Red lights that appeared on a collision course with the airliner and mirrored its course"
+  },
+  {
+   "key": "radar_objs",
+   "type": "craft",
+   "name": "three UFO signals detected by radar near Manises Airport",
+   "description": "Three radar signals, each with an estimated diameter of 200 metres, seen by several witnesses"
+  },
+  {
+   "key": "cone",
+   "type": "craft",
+   "name": "truncated cone-shaped object pursued by the Mirage F1",
+   "description": "Object of bright changing color that the fighter pilot pursued for an hour and a half"
+  },
+  {
+   "key": "casefile",
+   "type": "document",
+   "name": "Spanish Air Force case file on the Manises incident",
+   "aliases": [
+    "case file"
+   ],
+   "description": "Case file prepared in 1994 and declassified in 1996"
+  },
+  {
+   "key": "report",
+   "type": "document",
+   "name": "Fernández Peris 200-page report",
+   "description": "Report based on the case file suggesting the witnesses were misled by industrial flashes, stars and planets"
+  },
+  {
+   "key": "f_lights",
+   "type": "feature",
+   "name": "lights-only",
+   "description": "Crew saw a set of red lights"
+  },
+  {
+   "key": "f_radar",
+   "type": "feature",
+   "name": "radar-contact",
+   "description": "Three UFO signals and a later echo were detected by radar"
+  },
+  {
+   "key": "f_pursuit",
+   "type": "feature",
+   "name": "aircraft-pursuit",
+   "description": "A Mirage F1 was sent to intercept the object"
+  },
+  {
+   "key": "f_emi",
+   "type": "feature",
+   "name": "electromagnetic-interference",
+   "description": "The fighter's avionics were scrambled and electronic flight systems jammed"
+  },
+  {
+   "key": "f_pilot",
+   "type": "feature",
+   "name": "pilot-witnesses",
+   "description": "Airline captain and crew and a fighter pilot reported the objects"
+  },
+  {
+   "key": "f_mil",
+   "type": "feature",
+   "name": "military-witnesses",
+   "description": "A Spanish Air Force captain got visual contact"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "The objects were seen by several witnesses"
+  },
+  {
+   "key": "f_speed",
+   "type": "feature",
+   "name": "high-speed-maneuvers",
+   "description": "Lights fast approaching; object accelerated and disappeared"
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Spanish Air Force prepared a case file; parliament asked for an explanation"
+  },
+  {
+   "key": "f_base",
+   "type": "feature",
+   "name": "military-base-proximity",
+   "description": "Fighter took off from the nearby airbase of Los Llanos"
+  },
+  {
+   "key": "f_shape",
+   "type": "feature",
+   "name": "shape-other",
+   "description": "Truncated cone shape"
+  },
+  {
+   "key": "f_landing",
+   "type": "feature",
+   "name": "other:forced emergency landing of commercial flight",
+   "description": "Commercial flight forced to make an emergency landing because of a UFO"
+  },
+  {
+   "key": "x_misp",
+   "type": "explanation",
+   "name": "misperception",
+   "description": "Incident attributed to a series of freak optical illusions"
+  },
+  {
+   "key": "x_chem",
+   "type": "explanation",
+   "name": "other:flashes from a distant chemical industry complex",
+   "description": "Flashes emitted from a chemical industry complex about 100 miles from Manises"
+  },
+  {
+   "key": "x_star",
+   "type": "explanation",
+   "name": "star",
+   "description": "Some stars"
+  },
+  {
+   "key": "x_planet",
+   "type": "explanation",
+   "name": "venus-or-planet",
+   "description": "Some planets"
+  },
+  {
+   "key": "x_ew",
+   "type": "explanation",
+   "name": "other:electronic warfare equipment of the United States Sixth Fleet",
+   "description": "Proposed cause of the Mirage F1's electronic system failure"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1979-11-11",
+   "quote": "The Manises UFO incident took place on 11 November 1979, during which an alleged unidentified flying object forced a commercial flight of the Spanish company Transportes Aéreos Españoles, with 109 passengers, to make an emergency landing at the Manises Airport in Valencia, Spain, when they were flying over Ibiza."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1979-11-11",
+   "quote": "The Manises UFO incident took place on 11 November 1979, during which an alleged unidentified flying object forced a commercial flight of the Spanish company Transportes Aéreos Españoles, with 109 passengers, to make an emergency landing at the Manises Airport in Valencia, Spain, when they were flying over Ibiza."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "23:00",
+   "quote": "Halfway through the flight, at about 23:00, Captain Francisco Javier Lerdo de Tejada and his crew noticed a set of red lights that were fast approaching the aircraft."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "Spain",
+   "quote": "The Manises UFO incident took place on 11 November 1979, during which an alleged unidentified flying object forced a commercial flight of the Spanish company Transportes Aéreos Españoles, with 109 passengers, to make an emergency landing at the Manises Airport in Valencia, Spain, when they were flying over Ibiza."
+  },
+  {
+   "s": "case",
+   "p": "passenger_count",
+   "v": "109",
+   "quote": "The Manises UFO incident took place on 11 November 1979, during which an alleged unidentified flying object forced a commercial flight of the Spanish company Transportes Aéreos Españoles, with 109 passengers, to make an emergency landing at the Manises Airport in Valencia, Spain, when they were flying over Ibiza."
+  },
+  {
+   "s": "case",
+   "p": "summary",
+   "v": "an alleged unidentified flying object forced a commercial flight to make an emergency landing",
+   "quote": "The Manises UFO incident took place on 11 November 1979, during which an alleged unidentified flying object forced a commercial flight of the Spanish company Transportes Aéreos Españoles, with 109 passengers, to make an emergency landing at the Manises Airport in Valencia, Spain, when they were flying over Ibiza."
+  },
+  {
+   "s": "case",
+   "p": "reputation",
+   "v": "the most famous UFO case in Spain",
+   "quote": "Journalist and author Javier Cavanilles has called it \"the most famous UFO case in Spain\"."
+  },
+  {
+   "s": "case",
+   "p": "first_aircraft_involved",
+   "v": "TAE Supercaravelle",
+   "quote": "A TAE Supercaravelle was the first aircraft involved in the incident."
+  },
+  {
+   "s": "case",
+   "p": "crew_reaction",
+   "v": "lights appeared to be on a collision course with the plane, alarming the crew",
+   "quote": "These lights appeared to be on a collision course with the plane, alarming the crew."
+  },
+  {
+   "s": "case",
+   "p": "radar_centers_response",
+   "v": "neither the military radar of Torrejón de Ardoz nor the flight control center in Barcelona could provide any explanation",
+   "quote": "He requested information about the inexplicable lights, but neither the military radar of Torrejón de Ardoz in Madrid nor the flight control center in Barcelona could provide any explanation for this phenomenon."
+  },
+  {
+   "s": "case",
+   "p": "crew_assessment",
+   "v": "object was violating safety rules and an evasive maneuver was deemed impossible by the crew",
+   "quote": "Since the object was violating safety rules and an evasive maneuver was deemed impossible by the crew, the captain decided to go off course and make an emergency landing at Manises Airport."
+  },
+  {
+   "s": "case",
+   "p": "historical_first",
+   "v": "first time in history a commercial flight was forced to make an emergency landing because of a UFO",
+   "quote": "This was the first time in history in which a commercial flight was forced to make an emergency landing because of a UFO."
+  },
+  {
+   "s": "case",
+   "p": "crew_report",
+   "v": "the lights abandoned the pursuit just before the landing took place",
+   "quote": "The flight crew reported the lights abandoning the pursuit just before the landing took place."
+  },
+  {
+   "s": "case",
+   "p": "radar_signal_count",
+   "v": "3",
+   "quote": "However, three new UFO signals were detected by the radar, each one with an estimated diameter of 200 metres (660 ft)."
+  },
+  {
+   "s": "case",
+   "p": "witnesses",
+   "v": "the objects were seen by several witnesses",
+   "quote": "The objects were seen by several witnesses."
+  },
+  {
+   "s": "case",
+   "p": "airport_response",
+   "v": "emergency lights were lit in case the object happened to be an unregistered flight experiencing difficulties",
+   "quote": "One of the UFOs passed very close to the airport runway, and emergency lights were lit in case the object happened to be an unregistered flight experiencing difficulties."
+  },
+  {
+   "s": "case",
+   "p": "communication_attempts",
+   "v": "lack of a response to all communication attempts",
+   "quote": "Given the lack of a response to all communication attempts, a Mirage F1 took off from the nearby airbase of Los Llanos in Albacete to identify the phenomenon."
+  },
+  {
+   "s": "case",
+   "p": "pursuit_duration",
+   "v": "an hour and a half",
+   "quote": "After an hour and a half of pursuit, low fuel forced the pilot to return to base."
+  },
+  {
+   "s": "case",
+   "p": "contact_attempt_count",
+   "v": "3",
+   "quote": "After a third contact attempt, the UFO finally disappeared, heading for Africa."
+  },
+  {
+   "s": "case",
+   "p": "pursuit_end_reason",
+   "v": "low fuel forced the pilot to return to base",
+   "quote": "After an hour and a half of pursuit, low fuel forced the pilot to return to base."
+  },
+  {
+   "s": "case",
+   "p": "reached_parliament_by",
+   "v": "1980-09",
+   "quote": "By September 1980, the public impact of the incident was such that it had reached the Cortes Generales (the Spanish Parliament)."
+  },
+  {
+   "s": "case",
+   "p": "official_response",
+   "v": "a UFO sighting was dismissed and the incident was attributed to a series of freak optical illusions",
+   "quote": "The High Chamber representative Enrique Múgica Herzog publicly asked for an official explanation, but a UFO sighting was dismissed and the incident was attributed to a series of freak optical illusions."
+  },
+  {
+   "s": "case",
+   "p": "official_explanation",
+   "v": "witnesses might have been misled by flashes from a distant chemical industry complex and some stars and planets; it represents the official non-UFO-related explanation",
+   "quote": "Although this possibility has been much debated and repeatedly rejected by the witnesses, it represents the official non-UFO-related explanation."
+  },
+  {
+   "s": "case",
+   "p": "witness_response_to_explanation",
+   "v": "much debated and repeatedly rejected by the witnesses",
+   "quote": "Although this possibility has been much debated and repeatedly rejected by the witnesses, it represents the official non-UFO-related explanation."
+  },
+  {
+   "s": "case",
+   "p": "public_release_omission",
+   "v": "the in-flight difficulties experienced by the fighter were not mentioned in the public release",
+   "quote": "The in-flight difficulties experienced by the fighter were not mentioned in the public release."
+  },
+  {
+   "s": "case",
+   "p": "context_event",
+   "v": "Iran hostage crisis, whose outcome the United States Sixth Fleet was awaiting",
+   "quote": "The electronic system failure on board the Mirage F1 could nevertheless be explained by the fact that the United States Sixth Fleet was stationed in the area, and was making use of powerful electronic warfare equipment while awaiting the outcome of the Iran hostage crisis."
+  },
+  {
+   "s": "cavanilles",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Journalist and author Javier Cavanilles has called it \"the most famous UFO case in Spain\"."
+  },
+  {
+   "s": "cavanilles",
+   "p": "occupation",
+   "v": "journalist and author",
+   "quote": "Journalist and author Javier Cavanilles has called it \"the most famous UFO case in Spain\"."
+  },
+  {
+   "s": "cavanilles",
+   "p": "statement",
+   "v": "the most famous UFO case in Spain",
+   "quote": "Journalist and author Javier Cavanilles has called it \"the most famous UFO case in Spain\"."
+  },
+  {
+   "s": "lerdo",
+   "p": "witness",
+   "o": "case",
+   "quote": "Halfway through the flight, at about 23:00, Captain Francisco Javier Lerdo de Tejada and his crew noticed a set of red lights that were fast approaching the aircraft."
+  },
+  {
+   "s": "lerdo",
+   "p": "rank",
+   "v": "Captain",
+   "quote": "Halfway through the flight, at about 23:00, Captain Francisco Javier Lerdo de Tejada and his crew noticed a set of red lights that were fast approaching the aircraft."
+  },
+  {
+   "s": "lerdo",
+   "p": "occupation",
+   "v": "Supercaravelle JK-297 pilot",
+   "quote": "Several years later, agricultural engineer Juan Antonio Fernández Peris used the case file as a basis for a 200-page report that suggested Supercaravelle JK-297 pilot Francisco Javier Lerdo de Tejada, Manises Air Traffic Control, and the Air Force Captain Fernando Cámara might have been misled by"
+  },
+  {
+   "s": "lerdo",
+   "p": "piloted",
+   "o": "flight",
+   "quote": "Several years later, agricultural engineer Juan Antonio Fernández Peris used the case file as a basis for a 200-page report that suggested Supercaravelle JK-297 pilot Francisco Javier Lerdo de Tejada, Manises Air Traffic Control, and the Air Force Captain Fernando Cámara might have been misled by"
+  },
+  {
+   "s": "lerdo",
+   "p": "described",
+   "o": "lights",
+   "quote": "Halfway through the flight, at about 23:00, Captain Francisco Javier Lerdo de Tejada and his crew noticed a set of red lights that were fast approaching the aircraft."
+  },
+  {
+   "s": "lerdo",
+   "p": "action",
+   "v": "requested information about the inexplicable lights",
+   "quote": "He requested information about the inexplicable lights, but neither the military radar of Torrejón de Ardoz in Madrid nor the flight control center in Barcelona could provide any explanation for this phenomenon."
+  },
+  {
+   "s": "lerdo",
+   "p": "action",
+   "v": "changed altitude to avoid a possible collision",
+   "quote": "In order to avoid a possible collision, the captain changed altitude."
+  },
+  {
+   "s": "lerdo",
+   "p": "action",
+   "v": "decided to go off course and make an emergency landing at Manises Airport",
+   "quote": "Since the object was violating safety rules and an evasive maneuver was deemed impossible by the crew, the captain decided to go off course and make an emergency landing at Manises Airport."
+  },
+  {
+   "s": "lerdo",
+   "p": "suggested_misled_by",
+   "v": "flashes emitted from a distant chemical industry complex, and some stars and planets",
+   "quote": "a 200-page report that suggested Supercaravelle JK-297 pilot Francisco Javier Lerdo de Tejada, Manises Air Traffic Control, and the Air Force Captain Fernando Cámara might have been misled by \"flashes emitted from a distant chemical industry complex\" about 100 miles (160 km) away from Manises, as well as \"some stars and planets\"."
+  },
+  {
+   "s": "camara",
+   "p": "witness",
+   "o": "case",
+   "quote": "The pilot, Captain Fernando Cámara of the Spanish Air Force, had to increase his speed to Mach 1.4 just to be able to get visual contact with what he perceived to be a truncated cone shape displaying a bright changing color."
+  },
+  {
+   "s": "camara",
+   "p": "rank",
+   "v": "Captain",
+   "quote": "The pilot, Captain Fernando Cámara of the Spanish Air Force, had to increase his speed to Mach 1.4 just to be able to get visual contact with what he perceived to be a truncated cone shape displaying a bright changing color."
+  },
+  {
+   "s": "camara",
+   "p": "occupation",
+   "v": "F1 combat pilot",
+   "quote": "The F1 combat pilot, Fernando Cámara, rejected such a possibility, saying that the Sixth Fleet was too far and that his systems were jammed when he tried to lock onto the UFO with an IR missile."
+  },
+  {
+   "s": "camara",
+   "p": "member_of",
+   "o": "saf",
+   "quote": "The pilot, Captain Fernando Cámara of the Spanish Air Force, had to increase his speed to Mach 1.4 just to be able to get visual contact with what he perceived to be a truncated cone shape displaying a bright changing color."
+  },
+  {
+   "s": "camara",
+   "p": "piloted",
+   "o": "mirage",
+   "quote": "The pilot, Captain Fernando Cámara of the Spanish Air Force, had to increase his speed to Mach 1.4 just to be able to get visual contact with what he perceived to be a truncated cone shape displaying a bright changing color."
+  },
+  {
+   "s": "camara",
+   "p": "described",
+   "o": "cone",
+   "quote": "The pilot, Captain Fernando Cámara of the Spanish Air Force, had to increase his speed to Mach 1.4 just to be able to get visual contact with what he perceived to be a truncated cone shape displaying a bright changing color."
+  },
+  {
+   "s": "camara",
+   "p": "disputed",
+   "o": "x_ew",
+   "quote": "The F1 combat pilot, Fernando Cámara, rejected such a possibility, saying that the Sixth Fleet was too far and that his systems were jammed when he tried to lock onto the UFO with an IR missile."
+  },
+  {
+   "s": "camara",
+   "p": "statement",
+   "v": "the Sixth Fleet was too far and his systems were jammed when he tried to lock onto the UFO with an IR missile",
+   "quote": "The F1 combat pilot, Fernando Cámara, rejected such a possibility, saying that the Sixth Fleet was too far and that his systems were jammed when he tried to lock onto the UFO with an IR missile."
+  },
+  {
+   "s": "camara",
+   "p": "action",
+   "v": "increased his speed to Mach 1.4 to get visual contact",
+   "quote": "The pilot, Captain Fernando Cámara of the Spanish Air Force, had to increase his speed to Mach 1.4 just to be able to get visual contact with what he perceived to be a truncated cone shape displaying a bright changing color."
+  },
+  {
+   "s": "camara",
+   "p": "action",
+   "v": "tried to lock onto the UFO with an IR missile",
+   "quote": "The F1 combat pilot, Fernando Cámara, rejected such a possibility, saying that the Sixth Fleet was too far and that his systems were jammed when he tried to lock onto the UFO with an IR missile."
+  },
+  {
+   "s": "camara",
+   "p": "warning_received",
+   "v": "on-board warning system alerted him as though he were being locked-on by a continuous wave missile radar",
+   "quote": "the on-board warning system in the F1 alerted Captain Cámara as though he were being locked-on by a [[ Continuous-wave radar|continuous wave missile radar]]"
+  },
+  {
+   "s": "camara",
+   "p": "suggested_misled_by",
+   "v": "flashes emitted from a distant chemical industry complex, and some stars and planets",
+   "quote": "a 200-page report that suggested Supercaravelle JK-297 pilot Francisco Javier Lerdo de Tejada, Manises Air Traffic Control, and the Air Force Captain Fernando Cámara might have been misled by \"flashes emitted from a distant chemical industry complex\" about 100 miles (160 km) away from Manises, as well as \"some stars and planets\"."
+  },
+  {
+   "s": "mugica",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "The High Chamber representative Enrique Múgica Herzog publicly asked for an official explanation, but a UFO sighting was dismissed and the incident was attributed to a series of freak optical illusions."
+  },
+  {
+   "s": "mugica",
+   "p": "position",
+   "v": "High Chamber representative",
+   "quote": "The High Chamber representative Enrique Múgica Herzog publicly asked for an official explanation, but a UFO sighting was dismissed and the incident was attributed to a series of freak optical illusions."
+  },
+  {
+   "s": "mugica",
+   "p": "member_of",
+   "o": "highchamber",
+   "quote": "The High Chamber representative Enrique Múgica Herzog publicly asked for an official explanation, but a UFO sighting was dismissed and the incident was attributed to a series of freak optical illusions."
+  },
+  {
+   "s": "mugica",
+   "p": "action",
+   "v": "publicly asked for an official explanation",
+   "quote": "The High Chamber representative Enrique Múgica Herzog publicly asked for an official explanation, but a UFO sighting was dismissed and the incident was attributed to a series of freak optical illusions."
+  },
+  {
+   "s": "peris",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Several years later, agricultural engineer Juan Antonio Fernández Peris used the case file as a basis for a 200-page report that suggested Supercaravelle JK-297 pilot Francisco Javier Lerdo de Tejada, Manises Air Traffic Control, and the Air Force Captain Fernando Cámara might have been misled by"
+  },
+  {
+   "s": "peris",
+   "p": "occupation",
+   "v": "agricultural engineer",
+   "quote": "Several years later, agricultural engineer Juan Antonio Fernández Peris used the case file as a basis for a 200-page report that suggested Supercaravelle JK-297 pilot Francisco Javier Lerdo de Tejada, Manises Air Traffic Control, and the Air Force Captain Fernando Cámara might have been misled by"
+  },
+  {
+   "s": "peris",
+   "p": "authored",
+   "o": "report",
+   "quote": "Several years later, agricultural engineer Juan Antonio Fernández Peris used the case file as a basis for a 200-page report that suggested Supercaravelle JK-297 pilot Francisco Javier Lerdo de Tejada, Manises Air Traffic Control, and the Air Force Captain Fernando Cámara might have been misled by"
+  },
+  {
+   "s": "peris",
+   "p": "proposed",
+   "o": "x_chem",
+   "quote": "a 200-page report that suggested Supercaravelle JK-297 pilot Francisco Javier Lerdo de Tejada, Manises Air Traffic Control, and the Air Force Captain Fernando Cámara might have been misled by \"flashes emitted from a distant chemical industry complex\" about 100 miles (160 km) away from Manises, as well as \"some stars and planets\"."
+  },
+  {
+   "s": "peris",
+   "p": "proposed",
+   "o": "x_star",
+   "quote": "a 200-page report that suggested Supercaravelle JK-297 pilot Francisco Javier Lerdo de Tejada, Manises Air Traffic Control, and the Air Force Captain Fernando Cámara might have been misled by \"flashes emitted from a distant chemical industry complex\" about 100 miles (160 km) away from Manises, as well as \"some stars and planets\"."
+  },
+  {
+   "s": "peris",
+   "p": "proposed",
+   "o": "x_planet",
+   "quote": "a 200-page report that suggested Supercaravelle JK-297 pilot Francisco Javier Lerdo de Tejada, Manises Air Traffic Control, and the Air Force Captain Fernando Cámara might have been misled by \"flashes emitted from a distant chemical industry complex\" about 100 miles (160 km) away from Manises, as well as \"some stars and planets\"."
+  },
+  {
+   "s": "peris",
+   "p": "proposed",
+   "o": "x_misp",
+   "quote": "a 200-page report that suggested Supercaravelle JK-297 pilot Francisco Javier Lerdo de Tejada, Manises Air Traffic Control, and the Air Force Captain Fernando Cámara might have been misled by \"flashes emitted from a distant chemical industry complex\" about 100 miles (160 km) away from Manises, as well as \"some stars and planets\"."
+  },
+  {
+   "s": "tae",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Manises UFO incident took place on 11 November 1979, during which an alleged unidentified flying object forced a commercial flight of the Spanish company Transportes Aéreos Españoles, with 109 passengers, to make an emergency landing at the Manises Airport in Valencia, Spain, when they were flying over Ibiza."
+  },
+  {
+   "s": "tae",
+   "p": "nationality",
+   "v": "Spanish company",
+   "quote": "The Manises UFO incident took place on 11 November 1979, during which an alleged unidentified flying object forced a commercial flight of the Spanish company Transportes Aéreos Españoles, with 109 passengers, to make an emergency landing at the Manises Airport in Valencia, Spain, when they were flying over Ibiza."
+  },
+  {
+   "s": "tae",
+   "p": "owned",
+   "o": "flight",
+   "quote": "A TAE Supercaravelle was the first aircraft involved in the incident."
+  },
+  {
+   "s": "saf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "After the emergency landing, a Spanish Air Force Dassault Mirage F1 took off from Los Llanos Air Base in order to intercept the mysterious object."
+  },
+  {
+   "s": "saf",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The case file was prepared in 1994 by the Spanish Air Force and declassified in 1996."
+  },
+  {
+   "s": "saf",
+   "p": "owned",
+   "o": "mirage",
+   "quote": "After the emergency landing, a Spanish Air Force Dassault Mirage F1 took off from Los Llanos Air Base in order to intercept the mysterious object."
+  },
+  {
+   "s": "saf",
+   "p": "authored",
+   "o": "casefile",
+   "quote": "The case file was prepared in 1994 by the Spanish Air Force and declassified in 1996."
+  },
+  {
+   "s": "torrejon_radar",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "He requested information about the inexplicable lights, but neither the military radar of Torrejón de Ardoz in Madrid nor the flight control center in Barcelona could provide any explanation for this phenomenon."
+  },
+  {
+   "s": "torrejon_radar",
+   "p": "located_in",
+   "o": "torrejon",
+   "quote": "He requested information about the inexplicable lights, but neither the military radar of Torrejón de Ardoz in Madrid nor the flight control center in Barcelona could provide any explanation for this phenomenon."
+  },
+  {
+   "s": "torrejon_radar",
+   "p": "response",
+   "v": "could not provide any explanation for the phenomenon",
+   "quote": "He requested information about the inexplicable lights, but neither the military radar of Torrejón de Ardoz in Madrid nor the flight control center in Barcelona could provide any explanation for this phenomenon."
+  },
+  {
+   "s": "bcn_fcc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "He requested information about the inexplicable lights, but neither the military radar of Torrejón de Ardoz in Madrid nor the flight control center in Barcelona could provide any explanation for this phenomenon."
+  },
+  {
+   "s": "bcn_fcc",
+   "p": "located_in",
+   "o": "barcelona",
+   "quote": "He requested information about the inexplicable lights, but neither the military radar of Torrejón de Ardoz in Madrid nor the flight control center in Barcelona could provide any explanation for this phenomenon."
+  },
+  {
+   "s": "bcn_fcc",
+   "p": "response",
+   "v": "could not provide any explanation for the phenomenon",
+   "quote": "He requested information about the inexplicable lights, but neither the military radar of Torrejón de Ardoz in Madrid nor the flight control center in Barcelona could provide any explanation for this phenomenon."
+  },
+  {
+   "s": "manises_atc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Several years later, agricultural engineer Juan Antonio Fernández Peris used the case file as a basis for a 200-page report that suggested Supercaravelle JK-297 pilot Francisco Javier Lerdo de Tejada, Manises Air Traffic Control, and the Air Force Captain Fernando Cámara might have been misled by"
+  },
+  {
+   "s": "manises_atc",
+   "p": "suggested_misled_by",
+   "v": "flashes emitted from a distant chemical industry complex, and some stars and planets",
+   "quote": "a 200-page report that suggested Supercaravelle JK-297 pilot Francisco Javier Lerdo de Tejada, Manises Air Traffic Control, and the Air Force Captain Fernando Cámara might have been misled by \"flashes emitted from a distant chemical industry complex\" about 100 miles (160 km) away from Manises, as well as \"some stars and planets\"."
+  },
+  {
+   "s": "cortes",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "By September 1980, the public impact of the incident was such that it had reached the Cortes Generales (the Spanish Parliament)."
+  },
+  {
+   "s": "cortes",
+   "p": "description",
+   "v": "the Spanish Parliament",
+   "quote": "By September 1980, the public impact of the incident was such that it had reached the Cortes Generales (the Spanish Parliament)."
+  },
+  {
+   "s": "cortes",
+   "p": "date_incident_reached",
+   "v": "by September 1980",
+   "quote": "By September 1980, the public impact of the incident was such that it had reached the Cortes Generales (the Spanish Parliament)."
+  },
+  {
+   "s": "highchamber",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The High Chamber representative Enrique Múgica Herzog publicly asked for an official explanation, but a UFO sighting was dismissed and the incident was attributed to a series of freak optical illusions."
+  },
+  {
+   "s": "sixthfleet",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The electronic system failure on board the Mirage F1 could nevertheless be explained by the fact that the United States Sixth Fleet was stationed in the area, and was making use of powerful electronic warfare equipment while awaiting the outcome of the Iran hostage crisis."
+  },
+  {
+   "s": "sixthfleet",
+   "p": "location",
+   "v": "stationed in the area",
+   "quote": "The electronic system failure on board the Mirage F1 could nevertheless be explained by the fact that the United States Sixth Fleet was stationed in the area, and was making use of powerful electronic warfare equipment while awaiting the outcome of the Iran hostage crisis."
+  },
+  {
+   "s": "sixthfleet",
+   "p": "activity",
+   "v": "making use of powerful electronic warfare equipment while awaiting the outcome of the Iran hostage crisis",
+   "quote": "The electronic system failure on board the Mirage F1 could nevertheless be explained by the fact that the United States Sixth Fleet was stationed in the area, and was making use of powerful electronic warfare equipment while awaiting the outcome of the Iran hostage crisis."
+  },
+  {
+   "s": "sixthfleet",
+   "p": "distance_per_camara",
+   "v": "too far",
+   "quote": "The F1 combat pilot, Fernando Cámara, rejected such a possibility, saying that the Sixth Fleet was too far and that his systems were jammed when he tried to lock onto the UFO with an IR missile."
+  },
+  {
+   "s": "airport",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Manises UFO incident took place on 11 November 1979, during which an alleged unidentified flying object forced a commercial flight of the Spanish company Transportes Aéreos Españoles, with 109 passengers, to make an emergency landing at the Manises Airport in Valencia, Spain, when they were flying over Ibiza."
+  },
+  {
+   "s": "airport",
+   "p": "located_in",
+   "o": "valencia",
+   "quote": "The Manises UFO incident took place on 11 November 1979, during which an alleged unidentified flying object forced a commercial flight of the Spanish company Transportes Aéreos Españoles, with 109 passengers, to make an emergency landing at the Manises Airport in Valencia, Spain, when they were flying over Ibiza."
+  },
+  {
+   "s": "airport",
+   "p": "event",
+   "v": "emergency landing of the commercial flight",
+   "quote": "Since the object was violating safety rules and an evasive maneuver was deemed impossible by the crew, the captain decided to go off course and make an emergency landing at Manises Airport."
+  },
+  {
+   "s": "airport",
+   "p": "event",
+   "v": "one of the UFOs passed very close to the airport runway",
+   "quote": "One of the UFOs passed very close to the airport runway, and emergency lights were lit in case the object happened to be an unregistered flight experiencing difficulties."
+  },
+  {
+   "s": "manises",
+   "p": "related_place",
+   "o": "case",
+   "quote": "might have been misled by \"flashes emitted from a distant chemical industry complex\" about 100 miles (160 km) away from Manises, as well as \"some stars and planets\"."
+  },
+  {
+   "s": "valencia",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Manises UFO incident took place on 11 November 1979, during which an alleged unidentified flying object forced a commercial flight of the Spanish company Transportes Aéreos Españoles, with 109 passengers, to make an emergency landing at the Manises Airport in Valencia, Spain, when they were flying over Ibiza."
+  },
+  {
+   "s": "valencia",
+   "p": "located_in",
+   "o": "spain",
+   "quote": "The Manises UFO incident took place on 11 November 1979, during which an alleged unidentified flying object forced a commercial flight of the Spanish company Transportes Aéreos Españoles, with 109 passengers, to make an emergency landing at the Manises Airport in Valencia, Spain, when they were flying over Ibiza."
+  },
+  {
+   "s": "spain",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Manises UFO incident took place on 11 November 1979, during which an alleged unidentified flying object forced a commercial flight of the Spanish company Transportes Aéreos Españoles, with 109 passengers, to make an emergency landing at the Manises Airport in Valencia, Spain, when they were flying over Ibiza."
+  },
+  {
+   "s": "ibiza",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Manises UFO incident took place on 11 November 1979, during which an alleged unidentified flying object forced a commercial flight of the Spanish company Transportes Aéreos Españoles, with 109 passengers, to make an emergency landing at the Manises Airport in Valencia, Spain, when they were flying over Ibiza."
+  },
+  {
+   "s": "losllanos",
+   "p": "near",
+   "o": "case",
+   "quote": "Given the lack of a response to all communication attempts, a Mirage F1 took off from the nearby airbase of Los Llanos in Albacete to identify the phenomenon."
+  },
+  {
+   "s": "losllanos",
+   "p": "located_in",
+   "o": "albacete",
+   "quote": "Given the lack of a response to all communication attempts, a Mirage F1 took off from the nearby airbase of Los Llanos in Albacete to identify the phenomenon."
+  },
+  {
+   "s": "albacete",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Given the lack of a response to all communication attempts, a Mirage F1 took off from the nearby airbase of Los Llanos in Albacete to identify the phenomenon."
+  },
+  {
+   "s": "salzburg",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Flight JK-297 had taken off from Salzburg (Austria) with 109 passengers on board, and had made a refuelling stop on the island Mallorca before setting course towards Las Palmas."
+  },
+  {
+   "s": "salzburg",
+   "p": "located_in",
+   "o": "austria",
+   "quote": "Flight JK-297 had taken off from Salzburg (Austria) with 109 passengers on board, and had made a refuelling stop on the island Mallorca before setting course towards Las Palmas."
+  },
+  {
+   "s": "austria",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Flight JK-297 had taken off from Salzburg (Austria) with 109 passengers on board, and had made a refuelling stop on the island Mallorca before setting course towards Las Palmas."
+  },
+  {
+   "s": "mallorca",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Flight JK-297 had taken off from Salzburg (Austria) with 109 passengers on board, and had made a refuelling stop on the island Mallorca before setting course towards Las Palmas."
+  },
+  {
+   "s": "mallorca",
+   "p": "role",
+   "v": "refuelling stop",
+   "quote": "Flight JK-297 had taken off from Salzburg (Austria) with 109 passengers on board, and had made a refuelling stop on the island Mallorca before setting course towards Las Palmas."
+  },
+  {
+   "s": "laspalmas",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Flight JK-297 had taken off from Salzburg (Austria) with 109 passengers on board, and had made a refuelling stop on the island Mallorca before setting course towards Las Palmas."
+  },
+  {
+   "s": "laspalmas",
+   "p": "role",
+   "v": "destination the flight was setting course towards",
+   "quote": "Flight JK-297 had taken off from Salzburg (Austria) with 109 passengers on board, and had made a refuelling stop on the island Mallorca before setting course towards Las Palmas."
+  },
+  {
+   "s": "torrejon",
+   "p": "related_place",
+   "o": "case",
+   "quote": "He requested information about the inexplicable lights, but neither the military radar of Torrejón de Ardoz in Madrid nor the flight control center in Barcelona could provide any explanation for this phenomenon."
+  },
+  {
+   "s": "torrejon",
+   "p": "located_in",
+   "o": "madrid",
+   "quote": "He requested information about the inexplicable lights, but neither the military radar of Torrejón de Ardoz in Madrid nor the flight control center in Barcelona could provide any explanation for this phenomenon."
+  },
+  {
+   "s": "madrid",
+   "p": "related_place",
+   "o": "case",
+   "quote": "He requested information about the inexplicable lights, but neither the military radar of Torrejón de Ardoz in Madrid nor the flight control center in Barcelona could provide any explanation for this phenomenon."
+  },
+  {
+   "s": "barcelona",
+   "p": "related_place",
+   "o": "case",
+   "quote": "He requested information about the inexplicable lights, but neither the military radar of Torrejón de Ardoz in Madrid nor the flight control center in Barcelona could provide any explanation for this phenomenon."
+  },
+  {
+   "s": "sagunto",
+   "p": "near",
+   "o": "case",
+   "quote": "The pilot was informed of a new radar echo, which indicated that another object might be near Sagunto, Valencia."
+  },
+  {
+   "s": "sagunto",
+   "p": "located_in",
+   "o": "valencia",
+   "quote": "The pilot was informed of a new radar echo, which indicated that another object might be near Sagunto, Valencia."
+  },
+  {
+   "s": "africa",
+   "p": "related_place",
+   "o": "case",
+   "quote": "After a third contact attempt, the UFO finally disappeared, heading for Africa."
+  },
+  {
+   "s": "flight",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "A TAE Supercaravelle was the first aircraft involved in the incident."
+  },
+  {
+   "s": "flight",
+   "p": "aircraft_type",
+   "v": "Supercaravelle",
+   "quote": "A TAE Supercaravelle was the first aircraft involved in the incident."
+  },
+  {
+   "s": "flight",
+   "p": "flight_number",
+   "v": "JK-297",
+   "quote": "Flight JK-297 had taken off from Salzburg (Austria) with 109 passengers on board, and had made a refuelling stop on the island Mallorca before setting course towards Las Palmas."
+  },
+  {
+   "s": "flight",
+   "p": "passenger_count",
+   "v": "109",
+   "quote": "Flight JK-297 had taken off from Salzburg (Austria) with 109 passengers on board, and had made a refuelling stop on the island Mallorca before setting course towards Las Palmas."
+  },
+  {
+   "s": "flight",
+   "p": "origin",
+   "v": "Salzburg (Austria)",
+   "quote": "Flight JK-297 had taken off from Salzburg (Austria) with 109 passengers on board, and had made a refuelling stop on the island Mallorca before setting course towards Las Palmas."
+  },
+  {
+   "s": "flight",
+   "p": "stopover",
+   "v": "refuelling stop on the island Mallorca",
+   "quote": "Flight JK-297 had taken off from Salzburg (Austria) with 109 passengers on board, and had made a refuelling stop on the island Mallorca before setting course towards Las Palmas."
+  },
+  {
+   "s": "flight",
+   "p": "destination",
+   "v": "Las Palmas",
+   "quote": "Flight JK-297 had taken off from Salzburg (Austria) with 109 passengers on board, and had made a refuelling stop on the island Mallorca before setting course towards Las Palmas."
+  },
+  {
+   "s": "flight",
+   "p": "maneuver",
+   "v": "captain changed altitude",
+   "quote": "In order to avoid a possible collision, the captain changed altitude."
+  },
+  {
+   "s": "flight",
+   "p": "outcome",
+   "v": "emergency landing at Manises Airport",
+   "quote": "Since the object was violating safety rules and an evasive maneuver was deemed impossible by the crew, the captain decided to go off course and make an emergency landing at Manises Airport."
+  },
+  {
+   "s": "flight",
+   "p": "position_at_sighting",
+   "v": "flying over Ibiza",
+   "quote": "The Manises UFO incident took place on 11 November 1979, during which an alleged unidentified flying object forced a commercial flight of the Spanish company Transportes Aéreos Españoles, with 109 passengers, to make an emergency landing at the Manises Airport in Valencia, Spain, when they were flying over Ibiza."
+  },
+  {
+   "s": "mirage",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "After the emergency landing, a Spanish Air Force Dassault Mirage F1 took off from Los Llanos Air Base in order to intercept the mysterious object."
+  },
+  {
+   "s": "mirage",
+   "p": "stationed_at",
+   "o": "losllanos",
+   "quote": "Given the lack of a response to all communication attempts, a Mirage F1 took off from the nearby airbase of Los Llanos in Albacete to identify the phenomenon."
+  },
+  {
+   "s": "mirage",
+   "p": "mission",
+   "v": "intercept the mysterious object",
+   "quote": "After the emergency landing, a Spanish Air Force Dassault Mirage F1 took off from Los Llanos Air Base in order to intercept the mysterious object."
+  },
+  {
+   "s": "mirage",
+   "p": "speed",
+   "v": "Mach 1.4",
+   "quote": "The pilot, Captain Fernando Cámara of the Spanish Air Force, had to increase his speed to Mach 1.4 just to be able to get visual contact with what he perceived to be a truncated cone shape displaying a bright changing color."
+  },
+  {
+   "s": "mirage",
+   "p": "effect",
+   "v": "avionics scrambled; electronic flight systems jammed",
+   "quote": "When the pilot was close enough, the object accelerated and disappeared again; however, this time the UFO seemed to respond and the fighter had its avionics scrambled – its electronic flight systems were jammed"
+  },
+  {
+   "s": "mirage",
+   "p": "effect",
+   "v": "on-board warning system alerted as though locked-on by a continuous wave missile radar",
+   "quote": "the on-board warning system in the F1 alerted Captain Cámara as though he were being locked-on by a [[ Continuous-wave radar|continuous wave missile radar]]"
+  },
+  {
+   "s": "mirage",
+   "p": "fuel",
+   "v": "low fuel forced the pilot to return to base",
+   "quote": "After an hour and a half of pursuit, low fuel forced the pilot to return to base."
+  },
+  {
+   "s": "mirage",
+   "p": "proposed_cause_of_failure",
+   "v": "United States Sixth Fleet's powerful electronic warfare equipment",
+   "quote": "The electronic system failure on board the Mirage F1 could nevertheless be explained by the fact that the United States Sixth Fleet was stationed in the area, and was making use of powerful electronic warfare equipment while awaiting the outcome of the Iran hostage crisis."
+  },
+  {
+   "s": "lights",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Halfway through the flight, at about 23:00, Captain Francisco Javier Lerdo de Tejada and his crew noticed a set of red lights that were fast approaching the aircraft."
+  },
+  {
+   "s": "lights",
+   "p": "color",
+   "v": "red",
+   "quote": "Halfway through the flight, at about 23:00, Captain Francisco Javier Lerdo de Tejada and his crew noticed a set of red lights that were fast approaching the aircraft."
+  },
+  {
+   "s": "lights",
+   "p": "appearance",
+   "v": "a set of red lights",
+   "quote": "Halfway through the flight, at about 23:00, Captain Francisco Javier Lerdo de Tejada and his crew noticed a set of red lights that were fast approaching the aircraft."
+  },
+  {
+   "s": "lights",
+   "p": "behavior",
+   "v": "fast approaching the aircraft",
+   "quote": "Halfway through the flight, at about 23:00, Captain Francisco Javier Lerdo de Tejada and his crew noticed a set of red lights that were fast approaching the aircraft."
+  },
+  {
+   "s": "lights",
+   "p": "behavior",
+   "v": "appeared to be on a collision course with the plane",
+   "quote": "These lights appeared to be on a collision course with the plane, alarming the crew."
+  },
+  {
+   "s": "lights",
+   "p": "behavior",
+   "v": "mirrored the new course",
+   "quote": "However, the lights mirrored the new course and stayed about half a kilometer (0.31 mi) away from the plane."
+  },
+  {
+   "s": "lights",
+   "p": "distance",
+   "v": "about half a kilometer (0.31 mi) away from the plane",
+   "quote": "However, the lights mirrored the new course and stayed about half a kilometer (0.31 mi) away from the plane."
+  },
+  {
+   "s": "lights",
+   "p": "behavior",
+   "v": "abandoned the pursuit just before the landing took place",
+   "quote": "The flight crew reported the lights abandoning the pursuit just before the landing took place."
+  },
+  {
+   "s": "radar_objs",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "However, three new UFO signals were detected by the radar, each one with an estimated diameter of 200 metres (660 ft)."
+  },
+  {
+   "s": "radar_objs",
+   "p": "count",
+   "v": "3",
+   "quote": "However, three new UFO signals were detected by the radar, each one with an estimated diameter of 200 metres (660 ft)."
+  },
+  {
+   "s": "radar_objs",
+   "p": "size",
+   "v": "estimated diameter of 200 metres (660 ft) each",
+   "quote": "However, three new UFO signals were detected by the radar, each one with an estimated diameter of 200 metres (660 ft)."
+  },
+  {
+   "s": "radar_objs",
+   "p": "detected_by",
+   "v": "radar",
+   "quote": "However, three new UFO signals were detected by the radar, each one with an estimated diameter of 200 metres (660 ft)."
+  },
+  {
+   "s": "radar_objs",
+   "p": "seen_by",
+   "v": "several witnesses",
+   "quote": "The objects were seen by several witnesses."
+  },
+  {
+   "s": "radar_objs",
+   "p": "behavior",
+   "v": "one passed very close to the airport runway",
+   "quote": "One of the UFOs passed very close to the airport runway, and emergency lights were lit in case the object happened to be an unregistered flight experiencing difficulties."
+  },
+  {
+   "s": "radar_objs",
+   "p": "behavior",
+   "v": "no response to all communication attempts",
+   "quote": "Given the lack of a response to all communication attempts, a Mirage F1 took off from the nearby airbase of Los Llanos in Albacete to identify the phenomenon."
+  },
+  {
+   "s": "cone",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "The pilot, Captain Fernando Cámara of the Spanish Air Force, had to increase his speed to Mach 1.4 just to be able to get visual contact with what he perceived to be a truncated cone shape displaying a bright changing color."
+  },
+  {
+   "s": "cone",
+   "p": "shape",
+   "v": "truncated cone",
+   "quote": "The pilot, Captain Fernando Cámara of the Spanish Air Force, had to increase his speed to Mach 1.4 just to be able to get visual contact with what he perceived to be a truncated cone shape displaying a bright changing color."
+  },
+  {
+   "s": "cone",
+   "p": "color",
+   "v": "bright changing color",
+   "quote": "The pilot, Captain Fernando Cámara of the Spanish Air Force, had to increase his speed to Mach 1.4 just to be able to get visual contact with what he perceived to be a truncated cone shape displaying a bright changing color."
+  },
+  {
+   "s": "cone",
+   "p": "behavior",
+   "v": "quickly disappeared from sight",
+   "quote": "Despite his initial efforts, the object quickly disappeared from sight."
+  },
+  {
+   "s": "cone",
+   "p": "radar_echo",
+   "v": "new radar echo indicated another object might be near Sagunto, Valencia",
+   "quote": "The pilot was informed of a new radar echo, which indicated that another object might be near Sagunto, Valencia."
+  },
+  {
+   "s": "cone",
+   "p": "behavior",
+   "v": "accelerated and disappeared again when the pilot was close enough",
+   "quote": "When the pilot was close enough, the object accelerated and disappeared again; however, this time the UFO seemed to respond and the fighter had its avionics scrambled – its electronic flight systems were jammed"
+  },
+  {
+   "s": "cone",
+   "p": "behavior",
+   "v": "seemed to respond; the fighter had its avionics scrambled",
+   "quote": "When the pilot was close enough, the object accelerated and disappeared again; however, this time the UFO seemed to respond and the fighter had its avionics scrambled – its electronic flight systems were jammed"
+  },
+  {
+   "s": "cone",
+   "p": "behavior",
+   "v": "finally disappeared after a third contact attempt, heading for Africa",
+   "quote": "After a third contact attempt, the UFO finally disappeared, heading for Africa."
+  },
+  {
+   "s": "cone",
+   "p": "heading",
+   "v": "Africa",
+   "quote": "After a third contact attempt, the UFO finally disappeared, heading for Africa."
+  },
+  {
+   "s": "casefile",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The case file was prepared in 1994 by the Spanish Air Force and declassified in 1996."
+  },
+  {
+   "s": "casefile",
+   "p": "date_prepared",
+   "v": "1994",
+   "quote": "The case file was prepared in 1994 by the Spanish Air Force and declassified in 1996."
+  },
+  {
+   "s": "casefile",
+   "p": "date_declassified",
+   "v": "1996",
+   "quote": "The case file was prepared in 1994 by the Spanish Air Force and declassified in 1996."
+  },
+  {
+   "s": "report",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Several years later, agricultural engineer Juan Antonio Fernández Peris used the case file as a basis for a 200-page report that suggested Supercaravelle JK-297 pilot Francisco Javier Lerdo de Tejada, Manises Air Traffic Control, and the Air Force Captain Fernando Cámara might have been misled by"
+  },
+  {
+   "s": "report",
+   "p": "length",
+   "v": "200 pages",
+   "quote": "Several years later, agricultural engineer Juan Antonio Fernández Peris used the case file as a basis for a 200-page report that suggested Supercaravelle JK-297 pilot Francisco Javier Lerdo de Tejada, Manises Air Traffic Control, and the Air Force Captain Fernando Cámara might have been misled by"
+  },
+  {
+   "s": "report",
+   "p": "based_on",
+   "o": "casefile",
+   "quote": "Several years later, agricultural engineer Juan Antonio Fernández Peris used the case file as a basis for a 200-page report that suggested Supercaravelle JK-297 pilot Francisco Javier Lerdo de Tejada, Manises Air Traffic Control, and the Air Force Captain Fernando Cámara might have been misled by"
+  },
+  {
+   "s": "report",
+   "p": "conclusion",
+   "v": "witnesses might have been misled by flashes emitted from a distant chemical industry complex about 100 miles (160 km) away from Manises, as well as some stars and planets",
+   "quote": "a 200-page report that suggested Supercaravelle JK-297 pilot Francisco Javier Lerdo de Tejada, Manises Air Traffic Control, and the Air Force Captain Fernando Cámara might have been misled by \"flashes emitted from a distant chemical industry complex\" about 100 miles (160 km) away from Manises, as well as \"some stars and planets\"."
+  },
+  {
+   "s": "f_lights",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Halfway through the flight, at about 23:00, Captain Francisco Javier Lerdo de Tejada and his crew noticed a set of red lights that were fast approaching the aircraft."
+  },
+  {
+   "s": "f_radar",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "However, three new UFO signals were detected by the radar, each one with an estimated diameter of 200 metres (660 ft)."
+  },
+  {
+   "s": "f_pursuit",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "After the emergency landing, a Spanish Air Force Dassault Mirage F1 took off from Los Llanos Air Base in order to intercept the mysterious object."
+  },
+  {
+   "s": "f_emi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "When the pilot was close enough, the object accelerated and disappeared again; however, this time the UFO seemed to respond and the fighter had its avionics scrambled – its electronic flight systems were jammed"
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Halfway through the flight, at about 23:00, Captain Francisco Javier Lerdo de Tejada and his crew noticed a set of red lights that were fast approaching the aircraft."
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The pilot, Captain Fernando Cámara of the Spanish Air Force, had to increase his speed to Mach 1.4 just to be able to get visual contact with what he perceived to be a truncated cone shape displaying a bright changing color."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The objects were seen by several witnesses."
+  },
+  {
+   "s": "f_speed",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "When the pilot was close enough, the object accelerated and disappeared again; however, this time the UFO seemed to respond and the fighter had its avionics scrambled – its electronic flight systems were jammed"
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The case file was prepared in 1994 by the Spanish Air Force and declassified in 1996."
+  },
+  {
+   "s": "f_base",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Given the lack of a response to all communication attempts, a Mirage F1 took off from the nearby airbase of Los Llanos in Albacete to identify the phenomenon."
+  },
+  {
+   "s": "f_shape",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The pilot, Captain Fernando Cámara of the Spanish Air Force, had to increase his speed to Mach 1.4 just to be able to get visual contact with what he perceived to be a truncated cone shape displaying a bright changing color."
+  },
+  {
+   "s": "f_landing",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "This was the first time in history in which a commercial flight was forced to make an emergency landing because of a UFO."
+  },
+  {
+   "s": "x_misp",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The High Chamber representative Enrique Múgica Herzog publicly asked for an official explanation, but a UFO sighting was dismissed and the incident was attributed to a series of freak optical illusions."
+  },
+  {
+   "s": "x_misp",
+   "p": "wording",
+   "v": "a series of freak optical illusions",
+   "quote": "The High Chamber representative Enrique Múgica Herzog publicly asked for an official explanation, but a UFO sighting was dismissed and the incident was attributed to a series of freak optical illusions."
+  },
+  {
+   "s": "x_chem",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "might have been misled by \"flashes emitted from a distant chemical industry complex\" about 100 miles (160 km) away from Manises, as well as \"some stars and planets\"."
+  },
+  {
+   "s": "x_chem",
+   "p": "distance",
+   "v": "about 100 miles (160 km) away from Manises",
+   "quote": "might have been misled by \"flashes emitted from a distant chemical industry complex\" about 100 miles (160 km) away from Manises, as well as \"some stars and planets\"."
+  },
+  {
+   "s": "x_chem",
+   "p": "status",
+   "v": "official non-UFO-related explanation; much debated and repeatedly rejected by the witnesses",
+   "quote": "Although this possibility has been much debated and repeatedly rejected by the witnesses, it represents the official non-UFO-related explanation."
+  },
+  {
+   "s": "x_star",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "might have been misled by \"flashes emitted from a distant chemical industry complex\" about 100 miles (160 km) away from Manises, as well as \"some stars and planets\"."
+  },
+  {
+   "s": "x_planet",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "might have been misled by \"flashes emitted from a distant chemical industry complex\" about 100 miles (160 km) away from Manises, as well as \"some stars and planets\"."
+  },
+  {
+   "s": "x_ew",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The electronic system failure on board the Mirage F1 could nevertheless be explained by the fact that the United States Sixth Fleet was stationed in the area, and was making use of powerful electronic warfare equipment while awaiting the outcome of the Iran hostage crisis."
+  },
+  {
+   "s": "x_ew",
+   "p": "scope",
+   "v": "electronic system failure on board the Mirage F1",
+   "quote": "The electronic system failure on board the Mirage F1 could nevertheless be explained by the fact that the United States Sixth Fleet was stationed in the area, and was making use of powerful electronic warfare equipment while awaiting the outcome of the Iran hostage crisis."
+  },
+  {
+   "s": "x_ew",
+   "p": "rejected_by_pilot",
+   "v": "Sixth Fleet was too far; systems were jammed when he tried to lock onto the UFO with an IR missile",
+   "quote": "The F1 combat pilot, Fernando Cámara, rejected such a possibility, saying that the Sixth Fleet was too far and that his systems were jammed when he tried to lock onto the UFO with an IR missile."
+  }
+ ]
+}

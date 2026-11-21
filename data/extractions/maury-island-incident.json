@@ -1,0 +1,2071 @@
+{
+ "slug": "maury-island-incident",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Maury Island incident",
+   "aliases": [
+    "Maury Island Mystery",
+    "Maury Island Hoax",
+    "The Maury Island incident"
+   ],
+   "description": "Alleged June 21, 1947 UFO sighting over Maury Island, Washington, widely regarded as a hoax."
+  },
+  {
+   "key": "craft",
+   "type": "craft",
+   "name": "Six doughnut-shaped objects reported over Maury Island on June 21, 1947",
+   "aliases": [
+    "six unidentified flying objects",
+    "six very large doughnut-shaped aircraft"
+   ],
+   "description": "The six unidentified flying objects Harold Dahl claimed to have seen, one of which expelled debris."
+  },
+  {
+   "key": "craft_crisman",
+   "type": "craft",
+   "name": "Unusual craft reported by Fred Crisman at Maury Island",
+   "aliases": [
+    "unusual craft"
+   ],
+   "description": "Craft Crisman said he witnessed when recovering debris from Maury Island."
+  },
+  {
+   "key": "boat",
+   "type": "vehicle",
+   "name": "Harold Dahl's patrol boat",
+   "aliases": [
+    "patrol boat"
+   ],
+   "description": "Patrol boat Dahl said he was steering close to the shore of Maury Island."
+  },
+  {
+   "key": "b25",
+   "type": "vehicle",
+   "name": "B-25 Mitchell",
+   "aliases": [
+    "B-25"
+   ],
+   "description": "Aircraft piloted by Brown and Davidson that crashed outside Kelso, Washington on August 1."
+  },
+  {
+   "key": "dahl",
+   "type": "person",
+   "name": "Harold Dahl",
+   "aliases": [
+    "Dahl"
+   ],
+   "description": "Man who claimed to have seen six unidentified flying objects above Maury Island."
+  },
+  {
+   "key": "crisman",
+   "type": "person",
+   "name": "Fred Crisman",
+   "aliases": [
+    "Crisman"
+   ],
+   "description": "Dahl's superior officer, who claimed to have recovered debris samples."
+  },
+  {
+   "key": "ruppelt",
+   "type": "person",
+   "name": "Edward J. Ruppelt",
+   "aliases": [
+    "Ruppelt"
+   ],
+   "description": "Project Blue Book chief and Air Force officer who called the story a hoax."
+  },
+  {
+   "key": "arnold",
+   "type": "person",
+   "name": "Kenneth Arnold",
+   "aliases": [
+    "Arnold"
+   ],
+   "description": "Private pilot who reported nine objects near Mount Rainier and then investigated the Maury Island story."
+  },
+  {
+   "key": "smith",
+   "type": "person",
+   "name": "E. J. Smith",
+   "aliases": [
+    "Capt. E.J. Smith",
+    "E.J. Smith",
+    "Captain E. J. Smith",
+    "Smith"
+   ],
+   "description": "United Airlines captain who had reported a flying disc and was recruited by Arnold."
+  },
+  {
+   "key": "palmer",
+   "type": "person",
+   "name": "Raymond A. Palmer",
+   "aliases": [
+    "Palmer"
+   ],
+   "description": "Editor of Amazing Stories who asked Arnold to investigate and funded him."
+  },
+  {
+   "key": "brown",
+   "type": "person",
+   "name": "Frank Brown",
+   "aliases": [
+    "Lieutenant Frank Brown",
+    "Brown"
+   ],
+   "description": "Military Intelligence lieutenant who investigated and died in the B-25 crash."
+  },
+  {
+   "key": "davidson",
+   "type": "person",
+   "name": "William L. Davidson",
+   "aliases": [
+    "Captain William L. Davidson",
+    "Davidson"
+   ],
+   "description": "Captain who investigated with Brown and died in the B-25 crash."
+  },
+  {
+   "key": "barker",
+   "type": "person",
+   "name": "Gray Barker",
+   "description": "Author of the 1956 book They Knew Too Much About Flying Saucers."
+  },
+  {
+   "key": "glenday",
+   "type": "person",
+   "name": "Craig Glenday",
+   "description": "Author of The UFO Investigator's Handbook."
+  },
+  {
+   "key": "white",
+   "type": "person",
+   "name": "John White",
+   "description": "Art patron who commissioned a mural depicting the incident."
+  },
+  {
+   "key": "npahl",
+   "type": "person",
+   "name": "Nancy Pahl",
+   "aliases": [
+    "Nancy"
+   ],
+   "description": "Co-artist of the mural depicting the incident."
+  },
+  {
+   "key": "zpahl",
+   "type": "person",
+   "name": "Zach Pahl",
+   "description": "Co-artist of the mural depicting the incident."
+  },
+  {
+   "key": "dunning",
+   "type": "person",
+   "name": "Brian Dunning",
+   "aliases": [
+    "Dunning, Brian"
+   ],
+   "description": "Author of the Skeptoid episode on Maury Island."
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "aliases": [
+    "Air Force",
+    "the Air Force"
+   ],
+   "description": "Service of the two investigating officers and of Ruppelt."
+  },
+  {
+   "key": "fourth_af",
+   "type": "organization",
+   "name": "Fourth Air Force",
+   "aliases": [
+    "Military Intelligence, Fourth Air Force"
+   ],
+   "description": "Air force whose Military Intelligence at Hamilton Field Lieutenant Brown belonged to."
+  },
+  {
+   "key": "fbi",
+   "type": "organization",
+   "name": "Federal Bureau of Investigation",
+   "aliases": [
+    "FBI",
+    "the FBI"
+   ],
+   "description": "Agency that formally investigated the claims and determined they were false."
+  },
+  {
+   "key": "cia",
+   "type": "organization",
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA",
+    "the CIA"
+   ],
+   "description": "Agency to which the Majestic 12 documents claimed the fragments were turned over."
+  },
+  {
+   "key": "senate",
+   "type": "organization",
+   "name": "Washington State Senate",
+   "description": "State senate that acknowledged the 70th anniversary in 2017."
+  },
+  {
+   "key": "amazing",
+   "type": "organization",
+   "name": "Amazing Stories",
+   "description": "Science fiction magazine edited by Raymond A. Palmer."
+  },
+  {
+   "key": "united",
+   "type": "organization",
+   "name": "United Airlines",
+   "description": "Airline of Captain E. J. Smith."
+  },
+  {
+   "key": "fantasy",
+   "type": "organization",
+   "name": "Fantasy Magazine",
+   "aliases": [
+    "Fantasy Magazine of Chicago, Illinois"
+   ],
+   "description": "Chicago magazine with which Dahl and Crisman hoped to make a profitable deal."
+  },
+  {
+   "key": "government",
+   "type": "organization",
+   "name": "United States government",
+   "aliases": [
+    "the government"
+   ],
+   "description": "Government that considered prosecuting the two men."
+  },
+  {
+   "key": "maury",
+   "type": "place",
+   "name": "Maury Island, Washington",
+   "aliases": [
+    "Maury Island"
+   ],
+   "description": "Island over which the sighting allegedly took place."
+  },
+  {
+   "key": "eastbay",
+   "type": "place",
+   "name": "East bay of Maury Island",
+   "aliases": [
+    "the east bay of Maury Island"
+   ],
+   "description": "Bay Dahl said he was patrolling."
+  },
+  {
+   "key": "wa",
+   "type": "place",
+   "name": "Washington",
+   "description": "US state of the incident."
+  },
+  {
+   "key": "us",
+   "type": "place",
+   "name": "United States",
+   "description": "Country of the incident."
+  },
+  {
+   "key": "kelso",
+   "type": "place",
+   "name": "Kelso, Washington",
+   "description": "Town outside which the B-25 crashed."
+  },
+  {
+   "key": "desmoines",
+   "type": "place",
+   "name": "Des Moines, Washington",
+   "aliases": [
+    "Des Moines",
+    "city of Des Moines"
+   ],
+   "description": "City east of Maury Island with a mural and local celebrations."
+  },
+  {
+   "key": "rainier",
+   "type": "place",
+   "name": "Mount Rainier",
+   "description": "Mountain past which Arnold saw nine objects."
+  },
+  {
+   "key": "pnw",
+   "type": "place",
+   "name": "Pacific Northwest",
+   "description": "Region where Smith reported unidentified objects."
+  },
+  {
+   "key": "tacoma",
+   "type": "place",
+   "name": "Tacoma, Washington",
+   "aliases": [
+    "Tacoma"
+   ],
+   "description": "City of the two harbor patrolmen and of Arnold's hotel."
+  },
+  {
+   "key": "hamilton",
+   "type": "place",
+   "name": "Hamilton Field",
+   "aliases": [
+    "Hamilton Field, California"
+   ],
+   "description": "Fourth Air Force field in California where Brown was based."
+  },
+  {
+   "key": "california",
+   "type": "place",
+   "name": "California",
+   "description": "State to which Brown and Davidson were returning."
+  },
+  {
+   "key": "mcchord",
+   "type": "place",
+   "name": "McChord Field",
+   "description": "Field from which the return flight departed."
+  },
+  {
+   "key": "chicago",
+   "type": "place",
+   "name": "Chicago, Illinois",
+   "description": "City of Fantasy Magazine."
+  },
+  {
+   "key": "puget",
+   "type": "place",
+   "name": "Puget Sound",
+   "description": "Body of water between Maury Island and Des Moines."
+  },
+  {
+   "key": "bluebook",
+   "type": "program",
+   "name": "Project Blue Book",
+   "description": "Air Force UFO study of which Ruppelt was chief."
+  },
+  {
+   "key": "fbi_files",
+   "type": "document",
+   "name": "FBI files on the Maury Island incident",
+   "aliases": [
+    "FBI files"
+   ],
+   "description": "FBI files detailing alternate stories and the men's motives."
+  },
+  {
+   "key": "mj12",
+   "type": "document",
+   "name": "Majestic 12 documents",
+   "aliases": [
+    "Majestic 12"
+   ],
+   "description": "Debunked documents that referenced the story."
+  },
+  {
+   "key": "resolution",
+   "type": "document",
+   "name": "Washington State Senate resolution on the 70th anniversary of the Maury Island incident",
+   "description": "2017 resolution acknowledging the anniversary of the alleged event."
+  },
+  {
+   "key": "tktm",
+   "type": "work",
+   "name": "They Knew Too Much About Flying Saucers",
+   "description": "Gray Barker's 1956 book, which cited the event."
+  },
+  {
+   "key": "handbook",
+   "type": "work",
+   "name": "The UFO Investigator's Handbook",
+   "description": "1999 book by Craig Glenday."
+  },
+  {
+   "key": "film",
+   "type": "work",
+   "name": "The Maury Island Incident",
+   "aliases": [
+    "The Maury Island Incident (2014 short film)"
+   ],
+   "description": "2014 short film depicting the hoax from Dahl's point of view."
+  },
+  {
+   "key": "mural",
+   "type": "work",
+   "name": "Mural of the Maury Island incident by Nancy and Zach Pahl",
+   "aliases": [
+    "The artwork"
+   ],
+   "description": "Mural in Des Moines, Washington commissioned by John White."
+  },
+  {
+   "key": "skeptoid",
+   "type": "work",
+   "name": "Skeptoid #820: Maury Island: The Government's Alien Artifacts",
+   "description": "2022 Skeptoid episode by Brian Dunning."
+  },
+  {
+   "key": "ruppelt_1956",
+   "type": "work",
+   "name": "Edward J. Ruppelt's 1956 writing on the Maury Island hoax",
+   "description": "Ruppelt's 1956 account concluding the incident was a hoax."
+  },
+  {
+   "key": "arnold_case",
+   "type": "case",
+   "name": "Kenneth Arnold UFO sighting",
+   "aliases": [
+    "Arnold's sighting",
+    "Arnold's report"
+   ],
+   "description": "June 24, 1947 report of nine objects flying past Mount Rainier."
+  },
+  {
+   "key": "smith_case",
+   "type": "case",
+   "name": "E. J. Smith flying disc sighting of July 4, 1947",
+   "description": "Report by United Airlines Captain E. J. Smith, his co-pilot and a stewardess of unidentified objects in the Pacific Northwest."
+  },
+  {
+   "key": "f_shape",
+   "type": "feature",
+   "name": "shape-other"
+  },
+  {
+   "key": "f_debris",
+   "type": "feature",
+   "name": "debris-or-material"
+  },
+  {
+   "key": "f_mib",
+   "type": "feature",
+   "name": "men-in-black"
+  },
+  {
+   "key": "f_hoax",
+   "type": "feature",
+   "name": "hoax-alleged"
+  },
+  {
+   "key": "f_death",
+   "type": "feature",
+   "name": "death-or-disappearance"
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation"
+  },
+  {
+   "key": "f_water",
+   "type": "feature",
+   "name": "water-related"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses"
+  },
+  {
+   "key": "f_physio",
+   "type": "feature",
+   "name": "physiological-effects"
+  },
+  {
+   "key": "x_hoax",
+   "type": "explanation",
+   "name": "hoax"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1947-06-21",
+   "quote": "The Maury Island incident was an alleged UFO sighting over Maury Island, Washington, United States, on June 21, 1947."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1947-06-21",
+   "quote": "The Maury Island incident was an alleged UFO sighting over Maury Island, Washington, United States, on June 21, 1947."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "about two o'clock in the afternoon",
+   "quote": "On June 21, 1947 in the afternoon about two o'clock, I was patrolling the east bay of Maury Island"
+  },
+  {
+   "s": "case",
+   "p": "debris_possessed_by",
+   "v": "Crisman showed \"white metal\" debris to Arnold and Smith",
+   "quote": "Crisman showed \"white metal\" debris to Arnold and Smith, who interpreted it as mundane and inconsistent with Dahl's description."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "The Maury Island incident was an alleged UFO sighting over Maury Island, Washington, United States, on June 21, 1947."
+  },
+  {
+   "s": "case",
+   "p": "description",
+   "v": "alleged UFO sighting over Maury Island, Washington",
+   "quote": "The Maury Island incident was an alleged UFO sighting over Maury Island, Washington, United States, on June 21, 1947."
+  },
+  {
+   "s": "case",
+   "p": "object_count",
+   "v": "6",
+   "quote": "Harold Dahl claimed he had seen six unidentified flying objects above the island, and that one of them had expelled debris, which Fred Crisman claimed to have recovered samples of."
+  },
+  {
+   "s": "case",
+   "p": "status",
+   "v": "widely regarded as a hoax, even by believers of flying saucers and UFOs",
+   "quote": "The incident is widely regarded as a hoax, even by believers of flying saucers and UFOs."
+  },
+  {
+   "s": "case",
+   "p": "nickname",
+   "v": "Maury Island Mystery",
+   "quote": "Writing in 1956, Air Force officer Edward J. Ruppelt concluded, \"The whole Maury Island Mystery was a hoax."
+  },
+  {
+   "s": "case",
+   "p": "nickname",
+   "v": "Maury Island Hoax",
+   "quote": "The reason for the thorough investigation of the Maury Island Hoax was that the government had thought seriously of prosecuting the men."
+  },
+  {
+   "s": "case",
+   "p": "people_on_board",
+   "v": "Dahl as captain, two crewmen, his fifteen-year-old son and the son's dog",
+   "quote": "On board were two crewmen, my fifteen-year-old son and his dog."
+  },
+  {
+   "s": "case",
+   "p": "injury",
+   "v": "a substance resembling lava rocks fell onto the boat, breaking a worker's arm",
+   "quote": "According to Dahl, a substance resembling lava rocks fell onto their boat, breaking a worker's arm and killing a dog."
+  },
+  {
+   "s": "case",
+   "p": "animal_death",
+   "v": "a dog was killed by the falling substance",
+   "quote": "According to Dahl, a substance resembling lava rocks fell onto their boat, breaking a worker's arm and killing a dog."
+  },
+  {
+   "s": "case",
+   "p": "investigator_deaths",
+   "v": "two Air Force officers investigating the claims died in a plane crash on August 1",
+   "quote": "On August 1, two Air Force officers tasked with investigating the claims died in a plane crash outside of Kelso, Washington."
+  },
+  {
+   "s": "case",
+   "p": "crash_date",
+   "v": "1947-08-01",
+   "quote": "On August 1, two Air Force officers tasked with investigating the claims died in a plane crash outside of Kelso, Washington."
+  },
+  {
+   "s": "case",
+   "p": "crash_time",
+   "v": "early hours of August 1",
+   "quote": "In the early hours of August 1, the B-25 Mitchell the two officers were piloting crashed outside of Kelso, Washington, killing both men."
+  },
+  {
+   "s": "case",
+   "p": "crash_death_count",
+   "v": "2",
+   "quote": "In the early hours of August 1, the B-25 Mitchell the two officers were piloting crashed outside of Kelso, Washington, killing both men."
+  },
+  {
+   "s": "case",
+   "p": "investigation_funding",
+   "v": "$200 wired by Palmer to Arnold on July 28",
+   "quote": "Palmer requested that Arnold fly to Tacoma to investigate, and on July 28, Palmer wired $200 to Arnold to fund the investigation."
+  },
+  {
+   "s": "case",
+   "p": "initial_story",
+   "v": "two harbor patrolmen in Tacoma reportedly possessed fragments of a \"flying saucer\"",
+   "quote": "Palmer relayed to Arnold the story of two harbor patrolmen in Tacoma who reportedly possessed fragments of a \"flying saucer\"."
+  },
+  {
+   "s": "case",
+   "p": "interview_date",
+   "v": "July 29 (Arnold interviewed Dahl)",
+   "quote": "On July 29,  Arnold interviewed Harold Dahl, who reported:"
+  },
+  {
+   "s": "case",
+   "p": "fbi_finding",
+   "v": "claims quickly determined to be false",
+   "quote": "The FBI then began a formal investigation into Dahl and Crisman's claims, and quickly determined that they were false"
+  },
+  {
+   "s": "case",
+   "p": "fbi_finding",
+   "v": "the entire incident was a hoax",
+   "quote": "Despite the FBI promptly determining that the entire incident was a hoax, the tale has been retold numerous times."
+  },
+  {
+   "s": "case",
+   "p": "alternate_stories",
+   "v": "a few alternate stories were communicated by Crisman and Dahl to local newspapers and other media outlets",
+   "quote": "FBI files also detail a few alternate stories communicated by Crisman and Dahl to local newspapers and other media outlets"
+  },
+  {
+   "s": "case",
+   "p": "hoax_motive",
+   "v": "building up their story through publicity to make a profitable deal with Fantasy Magazine of Chicago, Illinois",
+   "quote": "conclude that the two men had contacted a variety of publications \"in the hope of building up their story through publicity to a point where they could make a profitable deal with Fantasy Magazine of Chicago, Illinois.\""
+  },
+  {
+   "s": "case",
+   "p": "prosecution",
+   "v": "the government thought seriously of prosecuting the men but decided the hoax was a harmless joke that had mushroomed",
+   "quote": "At the last minute it was decided, after talking to the two men, that the hoax was a harmless joke that had mushroomed, and that the loss of two lives and a B-25 could not be directly blamed on the two men."
+  },
+  {
+   "s": "case",
+   "p": "prosecution",
+   "v": "the government never openly exposed or prosecuted either of the two hoaxers",
+   "quote": "The majority of the writers of saucer lore have played this sighting to the hilt, pointing out as their main premise the fact that the story must be true because the government never openly exposed or prosecuted either of the two hoaxers."
+  },
+  {
+   "s": "case",
+   "p": "legacy",
+   "v": "the tale has been retold numerous times",
+   "quote": "Despite the FBI promptly determining that the entire incident was a hoax, the tale has been retold numerous times."
+  },
+  {
+   "s": "case",
+   "p": "legacy",
+   "v": "inspiration for an eponymous film, artwork, and local celebrations in Des Moines, Washington",
+   "quote": "It has served as the inspiration for an eponymous film, artwork, and local celebrations in Des Moines, Washington."
+  },
+  {
+   "s": "case",
+   "p": "legacy",
+   "v": "the story continues to be noted locally",
+   "quote": "The story continues to be noted locally as well."
+  },
+  {
+   "s": "case",
+   "p": "anniversary",
+   "v": "70th anniversary acknowledged by the Washington State Senate in 2017",
+   "quote": "In 2017, the Washington State Senate acknowledged the 70th anniversary of the date of the incident."
+  },
+  {
+   "s": "case",
+   "p": "commemoration",
+   "v": "third annual \"Men in Black Birthday Bash\" held by the city of Des Moines on June 22, 2024",
+   "quote": "The city of Des Moines held their third annual \"Men in Black Birthday Bash\" on June 22, 2024."
+  },
+  {
+   "s": "case",
+   "p": "later_claim",
+   "v": "Majestic 12 documents claimed the metal fragments were part of a nuclear reactor and had been turned over to the CIA",
+   "quote": "The debunked Majestic 12 documents also referenced the story, claiming that the metal fragments were part of a nuclear reactor, and had been turned over to the CIA."
+  },
+  {
+   "s": "case",
+   "p": "men_in_black",
+   "v": "Dahl said a man in a dark suit told him not to speak of what he saw",
+   "quote": "Dahl later said he was told not to speak of what he saw by a man in a dark suit."
+  },
+  {
+   "s": "craft",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Harold Dahl claimed he had seen six unidentified flying objects above the island, and that one of them had expelled debris, which Fred Crisman claimed to have recovered samples of."
+  },
+  {
+   "s": "craft",
+   "p": "count",
+   "v": "6",
+   "quote": "Harold Dahl claimed he had seen six unidentified flying objects above the island, and that one of them had expelled debris, which Fred Crisman claimed to have recovered samples of."
+  },
+  {
+   "s": "craft",
+   "p": "count",
+   "v": "6",
+   "quote": "As I looked up from the wheel on my boat I noticed six very large doughnut-shaped aircraft."
+  },
+  {
+   "s": "craft",
+   "p": "shape",
+   "v": "doughnut-shaped",
+   "quote": "As I looked up from the wheel on my boat I noticed six very large doughnut-shaped aircraft."
+  },
+  {
+   "s": "craft",
+   "p": "size",
+   "v": "very large",
+   "quote": "As I looked up from the wheel on my boat I noticed six very large doughnut-shaped aircraft."
+  },
+  {
+   "s": "craft",
+   "p": "behavior",
+   "v": "one of them expelled debris",
+   "quote": "Harold Dahl claimed he had seen six unidentified flying objects above the island, and that one of them had expelled debris, which Fred Crisman claimed to have recovered samples of."
+  },
+  {
+   "s": "craft",
+   "p": "behavior",
+   "v": "one object began spewing forth what seemed like thousands of newspapers from somewhere on the inside of its center",
+   "quote": "Dahl said that one of the objects \"began spewing forth what seemed like thousands of newspapers from somewhere on the inside of its center."
+  },
+  {
+   "s": "craft",
+   "p": "debris_description",
+   "v": "a white type of very lightweight metal that fluttered to earth",
+   "quote": "These newspapers, which turned out to be a white type of very lightweight metal, fluttered to earth"
+  },
+  {
+   "s": "craft",
+   "p": "debris_description",
+   "v": "a substance resembling lava rocks",
+   "quote": "According to Dahl, a substance resembling lava rocks fell onto their boat, breaking a worker's arm and killing a dog."
+  },
+  {
+   "s": "craft",
+   "p": "location",
+   "v": "above Maury Island",
+   "quote": "Harold Dahl claimed he had seen six unidentified flying objects above the island, and that one of them had expelled debris, which Fred Crisman claimed to have recovered samples of."
+  },
+  {
+   "s": "dahl",
+   "p": "described",
+   "o": "craft",
+   "quote": "As I looked up from the wheel on my boat I noticed six very large doughnut-shaped aircraft."
+  },
+  {
+   "s": "craft_crisman",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Crisman, when interviewed, reported having recovered debris from Maury Island and having witnessed an unusual craft."
+  },
+  {
+   "s": "craft_crisman",
+   "p": "description",
+   "v": "unusual craft",
+   "quote": "Crisman, when interviewed, reported having recovered debris from Maury Island and having witnessed an unusual craft."
+  },
+  {
+   "s": "crisman",
+   "p": "described",
+   "o": "craft_crisman",
+   "quote": "Crisman, when interviewed, reported having recovered debris from Maury Island and having witnessed an unusual craft."
+  },
+  {
+   "s": "boat",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "I, as captain, was steering my patrol boat close to the shore of a bay on Maury Island."
+  },
+  {
+   "s": "boat",
+   "p": "vehicle_type",
+   "v": "patrol boat",
+   "quote": "I, as captain, was steering my patrol boat close to the shore of a bay on Maury Island."
+  },
+  {
+   "s": "boat",
+   "p": "position",
+   "v": "close to the shore of a bay on Maury Island",
+   "quote": "I, as captain, was steering my patrol boat close to the shore of a bay on Maury Island."
+  },
+  {
+   "s": "boat",
+   "p": "occupants",
+   "v": "two crewmen, Dahl's fifteen-year-old son and his dog",
+   "quote": "On board were two crewmen, my fifteen-year-old son and his dog."
+  },
+  {
+   "s": "boat",
+   "p": "damage_event",
+   "v": "a substance resembling lava rocks fell onto the boat",
+   "quote": "According to Dahl, a substance resembling lava rocks fell onto their boat, breaking a worker's arm and killing a dog."
+  },
+  {
+   "s": "dahl",
+   "p": "piloted",
+   "o": "boat",
+   "quote": "I, as captain, was steering my patrol boat close to the shore of a bay on Maury Island."
+  },
+  {
+   "s": "b25",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "In the early hours of August 1, the B-25 Mitchell the two officers were piloting crashed outside of Kelso, Washington, killing both men."
+  },
+  {
+   "s": "b25",
+   "p": "aircraft_type",
+   "v": "B-25 Mitchell",
+   "quote": "In the early hours of August 1, the B-25 Mitchell the two officers were piloting crashed outside of Kelso, Washington, killing both men."
+  },
+  {
+   "s": "b25",
+   "p": "fate",
+   "v": "crashed outside of Kelso, Washington in the early hours of August 1, killing both officers",
+   "quote": "In the early hours of August 1, the B-25 Mitchell the two officers were piloting crashed outside of Kelso, Washington, killing both men."
+  },
+  {
+   "s": "b25",
+   "p": "loss",
+   "v": "the loss of two lives and a B-25",
+   "quote": "At the last minute it was decided, after talking to the two men, that the hoax was a harmless joke that had mushroomed, and that the loss of two lives and a B-25 could not be directly blamed on the two men."
+  },
+  {
+   "s": "brown",
+   "p": "piloted",
+   "o": "b25",
+   "quote": "In the early hours of August 1, the B-25 Mitchell the two officers were piloting crashed outside of Kelso, Washington, killing both men."
+  },
+  {
+   "s": "davidson",
+   "p": "piloted",
+   "o": "b25",
+   "quote": "In the early hours of August 1, the B-25 Mitchell the two officers were piloting crashed outside of Kelso, Washington, killing both men."
+  },
+  {
+   "s": "b25",
+   "p": "located_in",
+   "o": "kelso",
+   "quote": "In the early hours of August 1, the B-25 Mitchell the two officers were piloting crashed outside of Kelso, Washington, killing both men."
+  },
+  {
+   "s": "dahl",
+   "p": "witness",
+   "o": "case",
+   "quote": "Harold Dahl claimed he had seen six unidentified flying objects above the island, and that one of them had expelled debris, which Fred Crisman claimed to have recovered samples of."
+  },
+  {
+   "s": "dahl",
+   "p": "statement",
+   "v": "he had seen six unidentified flying objects above the island, and one of them had expelled debris",
+   "quote": "Harold Dahl claimed he had seen six unidentified flying objects above the island, and that one of them had expelled debris, which Fred Crisman claimed to have recovered samples of."
+  },
+  {
+   "s": "dahl",
+   "p": "statement",
+   "v": "on June 21, 1947 about two o'clock in the afternoon he was patrolling the east bay of Maury Island",
+   "quote": "On June 21, 1947 in the afternoon about two o'clock, I was patrolling the east bay of Maury Island"
+  },
+  {
+   "s": "dahl",
+   "p": "role",
+   "v": "captain of the patrol boat",
+   "quote": "I, as captain, was steering my patrol boat close to the shore of a bay on Maury Island."
+  },
+  {
+   "s": "dahl",
+   "p": "statement",
+   "v": "on board were two crewmen, his fifteen-year-old son and his dog",
+   "quote": "On board were two crewmen, my fifteen-year-old son and his dog."
+  },
+  {
+   "s": "dahl",
+   "p": "son_age",
+   "v": "15",
+   "quote": "On board were two crewmen, my fifteen-year-old son and his dog."
+  },
+  {
+   "s": "dahl",
+   "p": "statement",
+   "v": "he noticed six very large doughnut-shaped aircraft",
+   "quote": "As I looked up from the wheel on my boat I noticed six very large doughnut-shaped aircraft."
+  },
+  {
+   "s": "dahl",
+   "p": "statement",
+   "v": "one of the objects began spewing forth what seemed like thousands of newspapers from the inside of its center",
+   "quote": "Dahl said that one of the objects \"began spewing forth what seemed like thousands of newspapers from somewhere on the inside of its center."
+  },
+  {
+   "s": "dahl",
+   "p": "statement",
+   "v": "the newspapers turned out to be a white type of very lightweight metal",
+   "quote": "These newspapers, which turned out to be a white type of very lightweight metal, fluttered to earth"
+  },
+  {
+   "s": "dahl",
+   "p": "statement",
+   "v": "a substance resembling lava rocks fell onto their boat, breaking a worker's arm and killing a dog",
+   "quote": "According to Dahl, a substance resembling lava rocks fell onto their boat, breaking a worker's arm and killing a dog."
+  },
+  {
+   "s": "dahl",
+   "p": "statement",
+   "v": "his superior officer, Fred Crisman, investigated the incident",
+   "quote": "Dahl said his superior officer, Fred Crisman, investigated the incident."
+  },
+  {
+   "s": "dahl",
+   "p": "later_claim",
+   "v": "he was told not to speak of what he saw by a man in a dark suit",
+   "quote": "Dahl later said he was told not to speak of what he saw by a man in a dark suit."
+  },
+  {
+   "s": "dahl",
+   "p": "later_claim",
+   "v": "he was later approached by a man in a dark suit and told not to talk about the event",
+   "quote": "Dahl also claimed he was later approached by a man in a dark suit and told not to talk about the event."
+  },
+  {
+   "s": "dahl",
+   "p": "statement",
+   "v": "if questioned by the authorities he was going to say it was a hoax because he did not want any further trouble over the matter",
+   "quote": "noting that Dahl stated \"if questioned by the authorities he was going to say it was a hoax because he did not want any further trouble over the matter.\""
+  },
+  {
+   "s": "dahl",
+   "p": "action",
+   "v": "communicated a few alternate stories to local newspapers and other media outlets",
+   "quote": "FBI files also detail a few alternate stories communicated by Crisman and Dahl to local newspapers and other media outlets"
+  },
+  {
+   "s": "dahl",
+   "p": "motive",
+   "v": "hoped to build up the story through publicity to make a profitable deal with Fantasy Magazine",
+   "quote": "conclude that the two men had contacted a variety of publications \"in the hope of building up their story through publicity to a point where they could make a profitable deal with Fantasy Magazine of Chicago, Illinois.\""
+  },
+  {
+   "s": "dahl",
+   "p": "characterization",
+   "v": "one of the two hoaxers, according to Ruppelt",
+   "quote": "The majority of the writers of saucer lore have played this sighting to the hilt, pointing out as their main premise the fact that the story must be true because the government never openly exposed or prosecuted either of the two hoaxers."
+  },
+  {
+   "s": "dahl",
+   "p": "colleague_of",
+   "o": "crisman",
+   "quote": "Dahl said his superior officer, Fred Crisman, investigated the incident."
+  },
+  {
+   "s": "arnold",
+   "p": "interviewed",
+   "o": "dahl",
+   "quote": "On July 29,  Arnold interviewed Harold Dahl, who reported:"
+  },
+  {
+   "s": "crisman",
+   "p": "witness",
+   "o": "case",
+   "quote": "Crisman, when interviewed, reported having recovered debris from Maury Island and having witnessed an unusual craft."
+  },
+  {
+   "s": "crisman",
+   "p": "role",
+   "v": "Dahl's superior officer",
+   "quote": "Dahl said his superior officer, Fred Crisman, investigated the incident."
+  },
+  {
+   "s": "crisman",
+   "p": "statement",
+   "v": "claimed to have recovered samples of the expelled debris",
+   "quote": "Harold Dahl claimed he had seen six unidentified flying objects above the island, and that one of them had expelled debris, which Fred Crisman claimed to have recovered samples of."
+  },
+  {
+   "s": "crisman",
+   "p": "statement",
+   "v": "reported having recovered debris from Maury Island and having witnessed an unusual craft",
+   "quote": "Crisman, when interviewed, reported having recovered debris from Maury Island and having witnessed an unusual craft."
+  },
+  {
+   "s": "crisman",
+   "p": "action",
+   "v": "investigated the incident, according to Dahl",
+   "quote": "Dahl said his superior officer, Fred Crisman, investigated the incident."
+  },
+  {
+   "s": "crisman",
+   "p": "action",
+   "v": "showed \"white metal\" debris to Arnold and Smith",
+   "quote": "Crisman showed \"white metal\" debris to Arnold and Smith, who interpreted it as mundane and inconsistent with Dahl's description."
+  },
+  {
+   "s": "crisman",
+   "p": "action",
+   "v": "communicated a few alternate stories to local newspapers and other media outlets",
+   "quote": "FBI files also detail a few alternate stories communicated by Crisman and Dahl to local newspapers and other media outlets"
+  },
+  {
+   "s": "crisman",
+   "p": "motive",
+   "v": "hoped to build up the story through publicity to make a profitable deal with Fantasy Magazine",
+   "quote": "conclude that the two men had contacted a variety of publications \"in the hope of building up their story through publicity to a point where they could make a profitable deal with Fantasy Magazine of Chicago, Illinois.\""
+  },
+  {
+   "s": "crisman",
+   "p": "characterization",
+   "v": "one of the two hoaxers, according to Ruppelt",
+   "quote": "The majority of the writers of saucer lore have played this sighting to the hilt, pointing out as their main premise the fact that the story must be true because the government never openly exposed or prosecuted either of the two hoaxers."
+  },
+  {
+   "s": "ruppelt",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Project Blue Book chief Edward J. Ruppelt characterized the story as \"the dirtiest hoax in the UFO history.\""
+  },
+  {
+   "s": "ruppelt",
+   "p": "position",
+   "v": "Project Blue Book chief",
+   "quote": "Project Blue Book chief Edward J. Ruppelt characterized the story as \"the dirtiest hoax in the UFO history.\""
+  },
+  {
+   "s": "ruppelt",
+   "p": "occupation",
+   "v": "Air Force officer",
+   "quote": "Writing in 1956, Air Force officer Edward J. Ruppelt concluded, \"The whole Maury Island Mystery was a hoax."
+  },
+  {
+   "s": "ruppelt",
+   "p": "member_of",
+   "o": "bluebook",
+   "quote": "Project Blue Book chief Edward J. Ruppelt characterized the story as \"the dirtiest hoax in the UFO history.\""
+  },
+  {
+   "s": "ruppelt",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "Writing in 1956, Air Force officer Edward J. Ruppelt concluded, \"The whole Maury Island Mystery was a hoax."
+  },
+  {
+   "s": "ruppelt",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "Writing in 1956, Air Force officer Edward J. Ruppelt concluded, \"The whole Maury Island Mystery was a hoax."
+  },
+  {
+   "s": "ruppelt",
+   "p": "statement",
+   "v": "the story was \"the dirtiest hoax in the UFO history\"",
+   "quote": "Project Blue Book chief Edward J. Ruppelt characterized the story as \"the dirtiest hoax in the UFO history.\""
+  },
+  {
+   "s": "ruppelt",
+   "p": "statement",
+   "v": "The whole Maury Island Mystery was a hoax",
+   "quote": "Writing in 1956, Air Force officer Edward J. Ruppelt concluded, \"The whole Maury Island Mystery was a hoax."
+  },
+  {
+   "s": "ruppelt",
+   "p": "statement",
+   "v": "the first, possibly the second-best, and the dirtiest hoax in the UFO history",
+   "quote": "The first, possibly the second-best, and the dirtiest hoax in the UFO history."
+  },
+  {
+   "s": "ruppelt",
+   "p": "statement",
+   "v": "writers of saucer lore argue the story must be true because the government never openly exposed or prosecuted the two hoaxers",
+   "quote": "The majority of the writers of saucer lore have played this sighting to the hilt, pointing out as their main premise the fact that the story must be true because the government never openly exposed or prosecuted either of the two hoaxers."
+  },
+  {
+   "s": "ruppelt",
+   "p": "statement",
+   "v": "the investigation was thorough because the government had thought seriously of prosecuting the men",
+   "quote": "The reason for the thorough investigation of the Maury Island Hoax was that the government had thought seriously of prosecuting the men."
+  },
+  {
+   "s": "ruppelt",
+   "p": "statement",
+   "v": "it was decided the hoax was a harmless joke that had mushroomed and the loss of two lives and a B-25 could not be directly blamed on the two men",
+   "quote": "At the last minute it was decided, after talking to the two men, that the hoax was a harmless joke that had mushroomed, and that the loss of two lives and a B-25 could not be directly blamed on the two men."
+  },
+  {
+   "s": "ruppelt",
+   "p": "authored",
+   "o": "ruppelt_1956",
+   "quote": "Writing in 1956, Air Force officer Edward J. Ruppelt concluded, \"The whole Maury Island Mystery was a hoax."
+  },
+  {
+   "s": "ruppelt_1956",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Writing in 1956, Air Force officer Edward J. Ruppelt concluded, \"The whole Maury Island Mystery was a hoax."
+  },
+  {
+   "s": "ruppelt_1956",
+   "p": "year",
+   "v": "1956",
+   "quote": "Writing in 1956, Air Force officer Edward J. Ruppelt concluded, \"The whole Maury Island Mystery was a hoax."
+  },
+  {
+   "s": "bluebook",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Project Blue Book chief Edward J. Ruppelt characterized the story as \"the dirtiest hoax in the UFO history.\""
+  },
+  {
+   "s": "arnold",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Palmer requested that Arnold fly to Tacoma to investigate, and on July 28, Palmer wired $200 to Arnold to fund the investigation."
+  },
+  {
+   "s": "arnold",
+   "p": "occupation",
+   "v": "private pilot",
+   "quote": "On June 24, 1947, private pilot Kenneth Arnold reported that he saw a string of nine shiny unidentified flying objects flying past Mount Rainier at speeds that Arnold estimated at a minimum of 1,200 miles an hour (1,932 km/h)."
+  },
+  {
+   "s": "arnold",
+   "p": "witness",
+   "o": "arnold_case",
+   "quote": "On June 24, 1947, private pilot Kenneth Arnold reported that he saw a string of nine shiny unidentified flying objects flying past Mount Rainier at speeds that Arnold estimated at a minimum of 1,200 miles an hour (1,932 km/h)."
+  },
+  {
+   "s": "arnold",
+   "p": "action",
+   "v": "interviewed Harold Dahl on July 29",
+   "quote": "On July 29,  Arnold interviewed Harold Dahl, who reported:"
+  },
+  {
+   "s": "arnold",
+   "p": "action",
+   "v": "recruited Captain E. J. Smith of United Airlines",
+   "quote": "Arnold first recruited Captain E. J. Smith of United Airlines, who had reported witnessing a flying disc on July 4."
+  },
+  {
+   "s": "arnold",
+   "p": "action",
+   "v": "decided to contact Lieutenant Frank Brown of Military Intelligence",
+   "quote": "Arnold then decided to contact Lieutenant Frank Brown of Military Intelligence, Fourth Air Force, Hamilton Field, California."
+  },
+  {
+   "s": "arnold",
+   "p": "assessment",
+   "v": "interpreted the \"white metal\" debris as mundane and inconsistent with Dahl's description",
+   "quote": "Crisman showed \"white metal\" debris to Arnold and Smith, who interpreted it as mundane and inconsistent with Dahl's description."
+  },
+  {
+   "s": "arnold",
+   "p": "funding",
+   "v": "$200 wired by Palmer on July 28",
+   "quote": "Palmer requested that Arnold fly to Tacoma to investigate, and on July 28, Palmer wired $200 to Arnold to fund the investigation."
+  },
+  {
+   "s": "arnold",
+   "p": "lodging",
+   "v": "hotel in Tacoma",
+   "quote": "Brown arrived at Arnold's hotel in Tacoma along with Captain William L. Davidson."
+  },
+  {
+   "s": "arnold",
+   "p": "colleague_of",
+   "o": "smith",
+   "quote": "Arnold first recruited Captain E. J. Smith of United Airlines, who had reported witnessing a flying disc on July 4."
+  },
+  {
+   "s": "arnold_case",
+   "p": "related_case",
+   "o": "case",
+   "quote": "In The UFO Investigator's Handbook, published in 1999, Craig Glenday gives the Maury Island incident and Arnold's sighting as examples of notable UFO encounters in the area of Mount Rainier, which he describes as a \"UFO laborator[y]\"."
+  },
+  {
+   "s": "arnold_case",
+   "p": "date",
+   "v": "1947-06-24",
+   "quote": "On June 24, 1947, private pilot Kenneth Arnold reported that he saw a string of nine shiny unidentified flying objects flying past Mount Rainier at speeds that Arnold estimated at a minimum of 1,200 miles an hour (1,932 km/h)."
+  },
+  {
+   "s": "arnold_case",
+   "p": "object_count",
+   "v": "9",
+   "quote": "On June 24, 1947, private pilot Kenneth Arnold reported that he saw a string of nine shiny unidentified flying objects flying past Mount Rainier at speeds that Arnold estimated at a minimum of 1,200 miles an hour (1,932 km/h)."
+  },
+  {
+   "s": "arnold_case",
+   "p": "object_description",
+   "v": "a string of nine shiny unidentified flying objects",
+   "quote": "On June 24, 1947, private pilot Kenneth Arnold reported that he saw a string of nine shiny unidentified flying objects flying past Mount Rainier at speeds that Arnold estimated at a minimum of 1,200 miles an hour (1,932 km/h)."
+  },
+  {
+   "s": "arnold_case",
+   "p": "speed",
+   "v": "a minimum of 1,200 miles an hour (1,932 km/h)",
+   "quote": "On June 24, 1947, private pilot Kenneth Arnold reported that he saw a string of nine shiny unidentified flying objects flying past Mount Rainier at speeds that Arnold estimated at a minimum of 1,200 miles an hour (1,932 km/h)."
+  },
+  {
+   "s": "arnold_case",
+   "p": "impact",
+   "v": "garnered nationwide news coverage and led the press to coin the terms flying saucer and flying disc",
+   "quote": "Arnold's report garnered nationwide news coverage and his description of the objects also led to the press quickly coining the terms flying saucer and flying disc as popular descriptive terms for UFOs."
+  },
+  {
+   "s": "arnold_case",
+   "p": "located_in",
+   "o": "rainier",
+   "quote": "On June 24, 1947, private pilot Kenneth Arnold reported that he saw a string of nine shiny unidentified flying objects flying past Mount Rainier at speeds that Arnold estimated at a minimum of 1,200 miles an hour (1,932 km/h)."
+  },
+  {
+   "s": "smith",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Arnold first recruited Captain E. J. Smith of United Airlines, who had reported witnessing a flying disc on July 4."
+  },
+  {
+   "s": "smith",
+   "p": "rank",
+   "v": "Captain",
+   "quote": "Arnold first recruited Captain E. J. Smith of United Airlines, who had reported witnessing a flying disc on July 4."
+  },
+  {
+   "s": "smith",
+   "p": "occupation",
+   "v": "airline captain with United Airlines",
+   "quote": "Arnold first recruited Captain E. J. Smith of United Airlines, who had reported witnessing a flying disc on July 4."
+  },
+  {
+   "s": "smith",
+   "p": "employed_by",
+   "o": "united",
+   "quote": "Arnold first recruited Captain E. J. Smith of United Airlines, who had reported witnessing a flying disc on July 4."
+  },
+  {
+   "s": "smith",
+   "p": "witness",
+   "o": "smith_case",
+   "quote": "Ten days later, Capt. E.J. Smith, his co-pilot, and a stewardess reported witnessing unidentified objects in the Pacific Northwest."
+  },
+  {
+   "s": "smith",
+   "p": "assessment",
+   "v": "interpreted the \"white metal\" debris as mundane and inconsistent with Dahl's description",
+   "quote": "Crisman showed \"white metal\" debris to Arnold and Smith, who interpreted it as mundane and inconsistent with Dahl's description."
+  },
+  {
+   "s": "smith_case",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Arnold first recruited Captain E. J. Smith of United Airlines, who had reported witnessing a flying disc on July 4."
+  },
+  {
+   "s": "smith_case",
+   "p": "date",
+   "v": "July 4",
+   "quote": "Arnold first recruited Captain E. J. Smith of United Airlines, who had reported witnessing a flying disc on July 4."
+  },
+  {
+   "s": "smith_case",
+   "p": "timing",
+   "v": "ten days after Arnold's June 24, 1947 report",
+   "quote": "Ten days later, Capt. E.J. Smith, his co-pilot, and a stewardess reported witnessing unidentified objects in the Pacific Northwest."
+  },
+  {
+   "s": "smith_case",
+   "p": "witnesses",
+   "v": "Capt. E.J. Smith, his co-pilot, and a stewardess",
+   "quote": "Ten days later, Capt. E.J. Smith, his co-pilot, and a stewardess reported witnessing unidentified objects in the Pacific Northwest."
+  },
+  {
+   "s": "smith_case",
+   "p": "object_description",
+   "v": "unidentified objects; a flying disc",
+   "quote": "Arnold first recruited Captain E. J. Smith of United Airlines, who had reported witnessing a flying disc on July 4."
+  },
+  {
+   "s": "smith_case",
+   "p": "located_in",
+   "o": "pnw",
+   "quote": "Ten days later, Capt. E.J. Smith, his co-pilot, and a stewardess reported witnessing unidentified objects in the Pacific Northwest."
+  },
+  {
+   "s": "united",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Arnold first recruited Captain E. J. Smith of United Airlines, who had reported witnessing a flying disc on July 4."
+  },
+  {
+   "s": "pnw",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Ten days later, Capt. E.J. Smith, his co-pilot, and a stewardess reported witnessing unidentified objects in the Pacific Northwest."
+  },
+  {
+   "s": "palmer",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Palmer relayed to Arnold the story of two harbor patrolmen in Tacoma who reportedly possessed fragments of a \"flying saucer\"."
+  },
+  {
+   "s": "palmer",
+   "p": "occupation",
+   "v": "editor of the science fiction magazine Amazing Stories",
+   "quote": "After his story was publicized, Arnold was contacted by Raymond A. Palmer, the editor of the science fiction magazine Amazing Stories, who is sometimes associated with the coining of the descriptive term, \"UFO\"."
+  },
+  {
+   "s": "palmer",
+   "p": "employed_by",
+   "o": "amazing",
+   "quote": "After his story was publicized, Arnold was contacted by Raymond A. Palmer, the editor of the science fiction magazine Amazing Stories, who is sometimes associated with the coining of the descriptive term, \"UFO\"."
+  },
+  {
+   "s": "palmer",
+   "p": "note",
+   "v": "sometimes associated with the coining of the descriptive term \"UFO\"",
+   "quote": "After his story was publicized, Arnold was contacted by Raymond A. Palmer, the editor of the science fiction magazine Amazing Stories, who is sometimes associated with the coining of the descriptive term, \"UFO\"."
+  },
+  {
+   "s": "palmer",
+   "p": "action",
+   "v": "contacted Arnold after his story was publicized",
+   "quote": "After his story was publicized, Arnold was contacted by Raymond A. Palmer, the editor of the science fiction magazine Amazing Stories, who is sometimes associated with the coining of the descriptive term, \"UFO\"."
+  },
+  {
+   "s": "palmer",
+   "p": "action",
+   "v": "relayed to Arnold the story of two harbor patrolmen in Tacoma who reportedly possessed fragments of a \"flying saucer\"",
+   "quote": "Palmer relayed to Arnold the story of two harbor patrolmen in Tacoma who reportedly possessed fragments of a \"flying saucer\"."
+  },
+  {
+   "s": "palmer",
+   "p": "action",
+   "v": "requested that Arnold fly to Tacoma to investigate and wired $200 to Arnold on July 28",
+   "quote": "Palmer requested that Arnold fly to Tacoma to investigate, and on July 28, Palmer wired $200 to Arnold to fund the investigation."
+  },
+  {
+   "s": "amazing",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "After his story was publicized, Arnold was contacted by Raymond A. Palmer, the editor of the science fiction magazine Amazing Stories, who is sometimes associated with the coining of the descriptive term, \"UFO\"."
+  },
+  {
+   "s": "amazing",
+   "p": "publication_type",
+   "v": "science fiction magazine",
+   "quote": "After his story was publicized, Arnold was contacted by Raymond A. Palmer, the editor of the science fiction magazine Amazing Stories, who is sometimes associated with the coining of the descriptive term, \"UFO\"."
+  },
+  {
+   "s": "brown",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Davidson and Brown conducted interviews, collected fragments, and prepared for the return flight to California out of McChord Field."
+  },
+  {
+   "s": "brown",
+   "p": "rank",
+   "v": "Lieutenant",
+   "quote": "Arnold then decided to contact Lieutenant Frank Brown of Military Intelligence, Fourth Air Force, Hamilton Field, California."
+  },
+  {
+   "s": "brown",
+   "p": "member_of",
+   "o": "fourth_af",
+   "quote": "Arnold then decided to contact Lieutenant Frank Brown of Military Intelligence, Fourth Air Force, Hamilton Field, California."
+  },
+  {
+   "s": "brown",
+   "p": "stationed_at",
+   "o": "hamilton",
+   "quote": "Arnold then decided to contact Lieutenant Frank Brown of Military Intelligence, Fourth Air Force, Hamilton Field, California."
+  },
+  {
+   "s": "brown",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "On August 1, two Air Force officers tasked with investigating the claims died in a plane crash outside of Kelso, Washington."
+  },
+  {
+   "s": "brown",
+   "p": "unit",
+   "v": "Military Intelligence, Fourth Air Force",
+   "quote": "Arnold then decided to contact Lieutenant Frank Brown of Military Intelligence, Fourth Air Force, Hamilton Field, California."
+  },
+  {
+   "s": "brown",
+   "p": "action",
+   "v": "arrived at Arnold's hotel in Tacoma along with Captain William L. Davidson",
+   "quote": "Brown arrived at Arnold's hotel in Tacoma along with Captain William L. Davidson."
+  },
+  {
+   "s": "brown",
+   "p": "action",
+   "v": "conducted interviews, collected fragments, and prepared for the return flight to California",
+   "quote": "Davidson and Brown conducted interviews, collected fragments, and prepared for the return flight to California out of McChord Field."
+  },
+  {
+   "s": "brown",
+   "p": "death",
+   "v": "killed when the B-25 Mitchell crashed outside of Kelso, Washington in the early hours of August 1",
+   "quote": "In the early hours of August 1, the B-25 Mitchell the two officers were piloting crashed outside of Kelso, Washington, killing both men."
+  },
+  {
+   "s": "brown",
+   "p": "colleague_of",
+   "o": "davidson",
+   "quote": "Brown arrived at Arnold's hotel in Tacoma along with Captain William L. Davidson."
+  },
+  {
+   "s": "davidson",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Davidson and Brown conducted interviews, collected fragments, and prepared for the return flight to California out of McChord Field."
+  },
+  {
+   "s": "davidson",
+   "p": "rank",
+   "v": "Captain",
+   "quote": "Brown arrived at Arnold's hotel in Tacoma along with Captain William L. Davidson."
+  },
+  {
+   "s": "davidson",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "On August 1, two Air Force officers tasked with investigating the claims died in a plane crash outside of Kelso, Washington."
+  },
+  {
+   "s": "davidson",
+   "p": "action",
+   "v": "arrived at Arnold's hotel in Tacoma with Brown",
+   "quote": "Brown arrived at Arnold's hotel in Tacoma along with Captain William L. Davidson."
+  },
+  {
+   "s": "davidson",
+   "p": "action",
+   "v": "conducted interviews, collected fragments, and prepared for the return flight to California",
+   "quote": "Davidson and Brown conducted interviews, collected fragments, and prepared for the return flight to California out of McChord Field."
+  },
+  {
+   "s": "davidson",
+   "p": "death",
+   "v": "killed when the B-25 Mitchell crashed outside of Kelso, Washington in the early hours of August 1",
+   "quote": "In the early hours of August 1, the B-25 Mitchell the two officers were piloting crashed outside of Kelso, Washington, killing both men."
+  },
+  {
+   "s": "usaf",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "On August 1, two Air Force officers tasked with investigating the claims died in a plane crash outside of Kelso, Washington."
+  },
+  {
+   "s": "usaf",
+   "p": "role",
+   "v": "two Air Force officers were tasked with investigating the claims",
+   "quote": "On August 1, two Air Force officers tasked with investigating the claims died in a plane crash outside of Kelso, Washington."
+  },
+  {
+   "s": "fourth_af",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "Arnold then decided to contact Lieutenant Frank Brown of Military Intelligence, Fourth Air Force, Hamilton Field, California."
+  },
+  {
+   "s": "fourth_af",
+   "p": "located_in",
+   "o": "hamilton",
+   "quote": "Arnold then decided to contact Lieutenant Frank Brown of Military Intelligence, Fourth Air Force, Hamilton Field, California."
+  },
+  {
+   "s": "fourth_af",
+   "p": "branch",
+   "v": "Military Intelligence",
+   "quote": "Arnold then decided to contact Lieutenant Frank Brown of Military Intelligence, Fourth Air Force, Hamilton Field, California."
+  },
+  {
+   "s": "fbi",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The FBI then began a formal investigation into Dahl and Crisman's claims, and quickly determined that they were false"
+  },
+  {
+   "s": "fbi",
+   "p": "finding",
+   "v": "quickly determined that Dahl and Crisman's claims were false",
+   "quote": "The FBI then began a formal investigation into Dahl and Crisman's claims, and quickly determined that they were false"
+  },
+  {
+   "s": "fbi",
+   "p": "finding",
+   "v": "promptly determined that the entire incident was a hoax",
+   "quote": "Despite the FBI promptly determining that the entire incident was a hoax, the tale has been retold numerous times."
+  },
+  {
+   "s": "fbi",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "Despite the FBI promptly determining that the entire incident was a hoax, the tale has been retold numerous times."
+  },
+  {
+   "s": "fbi",
+   "p": "authored",
+   "o": "fbi_files",
+   "quote": "FBI files also detail a few alternate stories communicated by Crisman and Dahl to local newspapers and other media outlets"
+  },
+  {
+   "s": "fbi_files",
+   "p": "key_document",
+   "o": "case",
+   "quote": "FBI files also detail a few alternate stories communicated by Crisman and Dahl to local newspapers and other media outlets"
+  },
+  {
+   "s": "fbi_files",
+   "p": "content",
+   "v": "detail a few alternate stories communicated by Crisman and Dahl to local newspapers and other media outlets",
+   "quote": "FBI files also detail a few alternate stories communicated by Crisman and Dahl to local newspapers and other media outlets"
+  },
+  {
+   "s": "fbi_files",
+   "p": "conclusion",
+   "v": "the two men contacted a variety of publications hoping to make a profitable deal with Fantasy Magazine of Chicago, Illinois",
+   "quote": "conclude that the two men had contacted a variety of publications \"in the hope of building up their story through publicity to a point where they could make a profitable deal with Fantasy Magazine of Chicago, Illinois.\""
+  },
+  {
+   "s": "fbi_files",
+   "p": "content",
+   "v": "Dahl stated that if questioned by the authorities he was going to say it was a hoax",
+   "quote": "noting that Dahl stated \"if questioned by the authorities he was going to say it was a hoax because he did not want any further trouble over the matter.\""
+  },
+  {
+   "s": "cia",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The debunked Majestic 12 documents also referenced the story, claiming that the metal fragments were part of a nuclear reactor, and had been turned over to the CIA."
+  },
+  {
+   "s": "cia",
+   "p": "alleged_role",
+   "v": "Majestic 12 documents claimed the metal fragments had been turned over to the CIA",
+   "quote": "The debunked Majestic 12 documents also referenced the story, claiming that the metal fragments were part of a nuclear reactor, and had been turned over to the CIA."
+  },
+  {
+   "s": "senate",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 2017, the Washington State Senate acknowledged the 70th anniversary of the date of the incident."
+  },
+  {
+   "s": "senate",
+   "p": "action",
+   "v": "acknowledged the 70th anniversary of the date of the incident in 2017",
+   "quote": "In 2017, the Washington State Senate acknowledged the 70th anniversary of the date of the incident."
+  },
+  {
+   "s": "senate",
+   "p": "authored",
+   "o": "resolution",
+   "quote": "In 2017, the Washington State Senate passed a resolution acknowledging the 70th anniversary of the alleged event."
+  },
+  {
+   "s": "resolution",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In 2017, the Washington State Senate passed a resolution acknowledging the 70th anniversary of the alleged event."
+  },
+  {
+   "s": "resolution",
+   "p": "year",
+   "v": "2017",
+   "quote": "In 2017, the Washington State Senate passed a resolution acknowledging the 70th anniversary of the alleged event."
+  },
+  {
+   "s": "resolution",
+   "p": "content",
+   "v": "acknowledged the 70th anniversary of the alleged event",
+   "quote": "In 2017, the Washington State Senate passed a resolution acknowledging the 70th anniversary of the alleged event."
+  },
+  {
+   "s": "fantasy",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "conclude that the two men had contacted a variety of publications \"in the hope of building up their story through publicity to a point where they could make a profitable deal with Fantasy Magazine of Chicago, Illinois.\""
+  },
+  {
+   "s": "fantasy",
+   "p": "located_in",
+   "o": "chicago",
+   "quote": "conclude that the two men had contacted a variety of publications \"in the hope of building up their story through publicity to a point where they could make a profitable deal with Fantasy Magazine of Chicago, Illinois.\""
+  },
+  {
+   "s": "fantasy",
+   "p": "role",
+   "v": "publication with which the two men hoped to make a profitable deal",
+   "quote": "conclude that the two men had contacted a variety of publications \"in the hope of building up their story through publicity to a point where they could make a profitable deal with Fantasy Magazine of Chicago, Illinois.\""
+  },
+  {
+   "s": "chicago",
+   "p": "related_place",
+   "o": "case",
+   "quote": "conclude that the two men had contacted a variety of publications \"in the hope of building up their story through publicity to a point where they could make a profitable deal with Fantasy Magazine of Chicago, Illinois.\""
+  },
+  {
+   "s": "government",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The reason for the thorough investigation of the Maury Island Hoax was that the government had thought seriously of prosecuting the men."
+  },
+  {
+   "s": "government",
+   "p": "action",
+   "v": "thought seriously of prosecuting the men",
+   "quote": "The reason for the thorough investigation of the Maury Island Hoax was that the government had thought seriously of prosecuting the men."
+  },
+  {
+   "s": "government",
+   "p": "action",
+   "v": "never openly exposed or prosecuted either of the two hoaxers",
+   "quote": "The majority of the writers of saucer lore have played this sighting to the hilt, pointing out as their main premise the fact that the story must be true because the government never openly exposed or prosecuted either of the two hoaxers."
+  },
+  {
+   "s": "maury",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Maury Island incident was an alleged UFO sighting over Maury Island, Washington, United States, on June 21, 1947."
+  },
+  {
+   "s": "maury",
+   "p": "located_in",
+   "o": "wa",
+   "quote": "The Maury Island incident was an alleged UFO sighting over Maury Island, Washington, United States, on June 21, 1947."
+  },
+  {
+   "s": "eastbay",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "On June 21, 1947 in the afternoon about two o'clock, I was patrolling the east bay of Maury Island"
+  },
+  {
+   "s": "eastbay",
+   "p": "part_of",
+   "o": "maury",
+   "quote": "On June 21, 1947 in the afternoon about two o'clock, I was patrolling the east bay of Maury Island"
+  },
+  {
+   "s": "wa",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Maury Island incident was an alleged UFO sighting over Maury Island, Washington, United States, on June 21, 1947."
+  },
+  {
+   "s": "wa",
+   "p": "located_in",
+   "o": "us",
+   "quote": "The Maury Island incident was an alleged UFO sighting over Maury Island, Washington, United States, on June 21, 1947."
+  },
+  {
+   "s": "us",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Maury Island incident was an alleged UFO sighting over Maury Island, Washington, United States, on June 21, 1947."
+  },
+  {
+   "s": "kelso",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On August 1, two Air Force officers tasked with investigating the claims died in a plane crash outside of Kelso, Washington."
+  },
+  {
+   "s": "kelso",
+   "p": "located_in",
+   "o": "wa",
+   "quote": "On August 1, two Air Force officers tasked with investigating the claims died in a plane crash outside of Kelso, Washington."
+  },
+  {
+   "s": "kelso",
+   "p": "event",
+   "v": "plane crash that killed the two investigating Air Force officers on August 1",
+   "quote": "On August 1, two Air Force officers tasked with investigating the claims died in a plane crash outside of Kelso, Washington."
+  },
+  {
+   "s": "desmoines",
+   "p": "near",
+   "o": "case",
+   "quote": "The artwork is in Des Moines, Washington, which is East of Maury Island, on the opposite side of Puget Sound."
+  },
+  {
+   "s": "desmoines",
+   "p": "located_in",
+   "o": "wa",
+   "quote": "The artwork is in Des Moines, Washington, which is East of Maury Island, on the opposite side of Puget Sound."
+  },
+  {
+   "s": "desmoines",
+   "p": "position",
+   "v": "East of Maury Island, on the opposite side of Puget Sound",
+   "quote": "The artwork is in Des Moines, Washington, which is East of Maury Island, on the opposite side of Puget Sound."
+  },
+  {
+   "s": "desmoines",
+   "p": "event",
+   "v": "local celebrations inspired by the incident",
+   "quote": "It has served as the inspiration for an eponymous film, artwork, and local celebrations in Des Moines, Washington."
+  },
+  {
+   "s": "desmoines",
+   "p": "event",
+   "v": "third annual \"Men in Black Birthday Bash\" on June 22, 2024",
+   "quote": "The city of Des Moines held their third annual \"Men in Black Birthday Bash\" on June 22, 2024."
+  },
+  {
+   "s": "puget",
+   "p": "near",
+   "o": "case",
+   "quote": "The artwork is in Des Moines, Washington, which is East of Maury Island, on the opposite side of Puget Sound."
+  },
+  {
+   "s": "rainier",
+   "p": "related_place",
+   "o": "case",
+   "quote": "In The UFO Investigator's Handbook, published in 1999, Craig Glenday gives the Maury Island incident and Arnold's sighting as examples of notable UFO encounters in the area of Mount Rainier, which he describes as a \"UFO laborator[y]\"."
+  },
+  {
+   "s": "rainier",
+   "p": "description",
+   "v": "described by Craig Glenday as a \"UFO laborator[y]\"",
+   "quote": "In The UFO Investigator's Handbook, published in 1999, Craig Glenday gives the Maury Island incident and Arnold's sighting as examples of notable UFO encounters in the area of Mount Rainier, which he describes as a \"UFO laborator[y]\"."
+  },
+  {
+   "s": "tacoma",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Palmer relayed to Arnold the story of two harbor patrolmen in Tacoma who reportedly possessed fragments of a \"flying saucer\"."
+  },
+  {
+   "s": "tacoma",
+   "p": "role",
+   "v": "home of the two harbor patrolmen; Arnold flew there to investigate",
+   "quote": "Palmer requested that Arnold fly to Tacoma to investigate, and on July 28, Palmer wired $200 to Arnold to fund the investigation."
+  },
+  {
+   "s": "tacoma",
+   "p": "role",
+   "v": "location of Arnold's hotel where Brown and Davidson arrived",
+   "quote": "Brown arrived at Arnold's hotel in Tacoma along with Captain William L. Davidson."
+  },
+  {
+   "s": "hamilton",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Arnold then decided to contact Lieutenant Frank Brown of Military Intelligence, Fourth Air Force, Hamilton Field, California."
+  },
+  {
+   "s": "hamilton",
+   "p": "located_in",
+   "o": "california",
+   "quote": "Arnold then decided to contact Lieutenant Frank Brown of Military Intelligence, Fourth Air Force, Hamilton Field, California."
+  },
+  {
+   "s": "california",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Davidson and Brown conducted interviews, collected fragments, and prepared for the return flight to California out of McChord Field."
+  },
+  {
+   "s": "california",
+   "p": "role",
+   "v": "destination of Davidson and Brown's return flight",
+   "quote": "Davidson and Brown conducted interviews, collected fragments, and prepared for the return flight to California out of McChord Field."
+  },
+  {
+   "s": "mcchord",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Davidson and Brown conducted interviews, collected fragments, and prepared for the return flight to California out of McChord Field."
+  },
+  {
+   "s": "mcchord",
+   "p": "role",
+   "v": "departure field for the return flight to California",
+   "quote": "Davidson and Brown conducted interviews, collected fragments, and prepared for the return flight to California out of McChord Field."
+  },
+  {
+   "s": "mj12",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The debunked Majestic 12 documents also referenced the story, claiming that the metal fragments were part of a nuclear reactor, and had been turned over to the CIA."
+  },
+  {
+   "s": "mj12",
+   "p": "status",
+   "v": "debunked",
+   "quote": "The debunked Majestic 12 documents also referenced the story, claiming that the metal fragments were part of a nuclear reactor, and had been turned over to the CIA."
+  },
+  {
+   "s": "mj12",
+   "p": "claim",
+   "v": "the metal fragments were part of a nuclear reactor, and had been turned over to the CIA",
+   "quote": "The debunked Majestic 12 documents also referenced the story, claiming that the metal fragments were part of a nuclear reactor, and had been turned over to the CIA."
+  },
+  {
+   "s": "case",
+   "p": "debris_color",
+   "v": "white",
+   "quote": "These newspapers, which turned out to be a white type of very lightweight metal, fluttered to earth"
+  },
+  {
+   "s": "case",
+   "p": "debris_material",
+   "v": "a white type of very lightweight metal",
+   "quote": "These newspapers, which turned out to be a white type of very lightweight metal, fluttered to earth"
+  },
+  {
+   "s": "case",
+   "p": "debris_material",
+   "v": "a substance resembling lava rocks",
+   "quote": "According to Dahl, a substance resembling lava rocks fell onto their boat, breaking a worker's arm and killing a dog."
+  },
+  {
+   "s": "case",
+   "p": "debris_assessment",
+   "v": "\"white metal\" debris interpreted by Arnold and Smith as mundane and inconsistent with Dahl's description",
+   "quote": "Crisman showed \"white metal\" debris to Arnold and Smith, who interpreted it as mundane and inconsistent with Dahl's description."
+  },
+  {
+   "s": "case",
+   "p": "debris_collected_by",
+   "v": "Davidson and Brown collected fragments",
+   "quote": "Davidson and Brown conducted interviews, collected fragments, and prepared for the return flight to California out of McChord Field."
+  },
+  {
+   "s": "case",
+   "p": "debris_later_claim",
+   "v": "claimed in the Majestic 12 documents to be part of a nuclear reactor",
+   "quote": "The debunked Majestic 12 documents also referenced the story, claiming that the metal fragments were part of a nuclear reactor, and had been turned over to the CIA."
+  },
+  {
+   "s": "tktm",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Gray Barker's 1956 book They Knew Too Much About Flying Saucers, which helped to popularize the concept of \"men in black\", cited the supposed event."
+  },
+  {
+   "s": "tktm",
+   "p": "year",
+   "v": "1956",
+   "quote": "Gray Barker's 1956 book They Knew Too Much About Flying Saucers, which helped to popularize the concept of \"men in black\", cited the supposed event."
+  },
+  {
+   "s": "tktm",
+   "p": "note",
+   "v": "helped to popularize the concept of \"men in black\"",
+   "quote": "Gray Barker's 1956 book They Knew Too Much About Flying Saucers, which helped to popularize the concept of \"men in black\", cited the supposed event."
+  },
+  {
+   "s": "barker",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Gray Barker's 1956 book They Knew Too Much About Flying Saucers, which helped to popularize the concept of \"men in black\", cited the supposed event."
+  },
+  {
+   "s": "barker",
+   "p": "authored",
+   "o": "tktm",
+   "quote": "Gray Barker's 1956 book They Knew Too Much About Flying Saucers, which helped to popularize the concept of \"men in black\", cited the supposed event."
+  },
+  {
+   "s": "handbook",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In The UFO Investigator's Handbook, published in 1999, Craig Glenday gives the Maury Island incident and Arnold's sighting as examples of notable UFO encounters in the area of Mount Rainier, which he describes as a \"UFO laborator[y]\"."
+  },
+  {
+   "s": "handbook",
+   "p": "year",
+   "v": "1999",
+   "quote": "In The UFO Investigator's Handbook, published in 1999, Craig Glenday gives the Maury Island incident and Arnold's sighting as examples of notable UFO encounters in the area of Mount Rainier, which he describes as a \"UFO laborator[y]\"."
+  },
+  {
+   "s": "glenday",
+   "p": "commentator",
+   "o": "case",
+   "quote": "In The UFO Investigator's Handbook, published in 1999, Craig Glenday gives the Maury Island incident and Arnold's sighting as examples of notable UFO encounters in the area of Mount Rainier, which he describes as a \"UFO laborator[y]\"."
+  },
+  {
+   "s": "glenday",
+   "p": "authored",
+   "o": "handbook",
+   "quote": "In The UFO Investigator's Handbook, published in 1999, Craig Glenday gives the Maury Island incident and Arnold's sighting as examples of notable UFO encounters in the area of Mount Rainier, which he describes as a \"UFO laborator[y]\"."
+  },
+  {
+   "s": "glenday",
+   "p": "statement",
+   "v": "gives the Maury Island incident and Arnold's sighting as examples of notable UFO encounters in the area of Mount Rainier, a \"UFO laborator[y]\"",
+   "quote": "In The UFO Investigator's Handbook, published in 1999, Craig Glenday gives the Maury Island incident and Arnold's sighting as examples of notable UFO encounters in the area of Mount Rainier, which he describes as a \"UFO laborator[y]\"."
+  },
+  {
+   "s": "film",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The 2014 short film The Maury Island Incident depicts the hoax and resulting events from Dahl's point of view."
+  },
+  {
+   "s": "film",
+   "p": "year",
+   "v": "2014",
+   "quote": "The 2014 short film The Maury Island Incident depicts the hoax and resulting events from Dahl's point of view."
+  },
+  {
+   "s": "film",
+   "p": "format",
+   "v": "short film",
+   "quote": "The 2014 short film The Maury Island Incident depicts the hoax and resulting events from Dahl's point of view."
+  },
+  {
+   "s": "film",
+   "p": "perspective",
+   "v": "depicts the hoax and resulting events from Dahl's point of view",
+   "quote": "The 2014 short film The Maury Island Incident depicts the hoax and resulting events from Dahl's point of view."
+  },
+  {
+   "s": "mural",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Art patron John White commissioned a mural by Nancy and Zach Pahl depicting the incident."
+  },
+  {
+   "s": "mural",
+   "p": "located_in",
+   "o": "desmoines",
+   "quote": "The artwork is in Des Moines, Washington, which is East of Maury Island, on the opposite side of Puget Sound."
+  },
+  {
+   "s": "mural",
+   "p": "format",
+   "v": "mural",
+   "quote": "Art patron John White commissioned a mural by Nancy and Zach Pahl depicting the incident."
+  },
+  {
+   "s": "white",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Art patron John White commissioned a mural by Nancy and Zach Pahl depicting the incident."
+  },
+  {
+   "s": "white",
+   "p": "occupation",
+   "v": "art patron",
+   "quote": "Art patron John White commissioned a mural by Nancy and Zach Pahl depicting the incident."
+  },
+  {
+   "s": "white",
+   "p": "action",
+   "v": "commissioned a mural by Nancy and Zach Pahl depicting the incident",
+   "quote": "Art patron John White commissioned a mural by Nancy and Zach Pahl depicting the incident."
+  },
+  {
+   "s": "npahl",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Art patron John White commissioned a mural by Nancy and Zach Pahl depicting the incident."
+  },
+  {
+   "s": "npahl",
+   "p": "authored",
+   "o": "mural",
+   "quote": "Art patron John White commissioned a mural by Nancy and Zach Pahl depicting the incident."
+  },
+  {
+   "s": "zpahl",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Art patron John White commissioned a mural by Nancy and Zach Pahl depicting the incident."
+  },
+  {
+   "s": "zpahl",
+   "p": "authored",
+   "o": "mural",
+   "quote": "Art patron John White commissioned a mural by Nancy and Zach Pahl depicting the incident."
+  },
+  {
+   "s": "npahl",
+   "p": "colleague_of",
+   "o": "zpahl",
+   "quote": "Art patron John White commissioned a mural by Nancy and Zach Pahl depicting the incident."
+  },
+  {
+   "s": "skeptoid",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Dunning, Brian (2 February 2022). \"Skeptoid #820: Maury Island: The Government's Alien Artifacts\". Skeptoid."
+  },
+  {
+   "s": "skeptoid",
+   "p": "date",
+   "v": "2022-02-02",
+   "quote": "Dunning, Brian (2 February 2022). \"Skeptoid #820: Maury Island: The Government's Alien Artifacts\". Skeptoid."
+  },
+  {
+   "s": "dunning",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Dunning, Brian (2 February 2022). \"Skeptoid #820: Maury Island: The Government's Alien Artifacts\". Skeptoid."
+  },
+  {
+   "s": "dunning",
+   "p": "authored",
+   "o": "skeptoid",
+   "quote": "Dunning, Brian (2 February 2022). \"Skeptoid #820: Maury Island: The Government's Alien Artifacts\". Skeptoid."
+  },
+  {
+   "s": "f_shape",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "As I looked up from the wheel on my boat I noticed six very large doughnut-shaped aircraft."
+  },
+  {
+   "s": "f_debris",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Harold Dahl claimed he had seen six unidentified flying objects above the island, and that one of them had expelled debris, which Fred Crisman claimed to have recovered samples of."
+  },
+  {
+   "s": "f_mib",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Dahl also claimed he was later approached by a man in a dark suit and told not to talk about the event."
+  },
+  {
+   "s": "f_hoax",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The incident is widely regarded as a hoax, even by believers of flying saucers and UFOs."
+  },
+  {
+   "s": "f_death",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In the early hours of August 1, the B-25 Mitchell the two officers were piloting crashed outside of Kelso, Washington, killing both men."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The FBI then began a formal investigation into Dahl and Crisman's claims, and quickly determined that they were false"
+  },
+  {
+   "s": "f_water",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "I, as captain, was steering my patrol boat close to the shore of a bay on Maury Island."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "On board were two crewmen, my fifteen-year-old son and his dog."
+  },
+  {
+   "s": "f_physio",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to Dahl, a substance resembling lava rocks fell onto their boat, breaking a worker's arm and killing a dog."
+  },
+  {
+   "s": "x_hoax",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The incident is widely regarded as a hoax, even by believers of flying saucers and UFOs."
+  }
+ ]
+}

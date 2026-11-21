@@ -1,0 +1,726 @@
+{
+ "slug": "trans-en-provence-case",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Trans-en-Provence case",
+   "aliases": [
+    "Trans-en-Provence Case"
+   ],
+   "description": "Alleged 8 January 1981 landing of a saucer-shaped object on a farmer's property outside Trans-en-Provence, France, said to have left physical traces on the ground."
+  },
+  {
+   "key": "nicolai",
+   "type": "person",
+   "name": "Renato Nicolaï",
+   "aliases": [
+    "Nicolaï"
+   ],
+   "description": "55-year-old farmer and sole witness, who said a saucer-shaped object landed on his property."
+  },
+  {
+   "key": "maillot",
+   "type": "person",
+   "name": "Éric Maillot",
+   "description": "Author of a French-language skeptical explanation of the case."
+  },
+  {
+   "key": "tep",
+   "type": "place",
+   "name": "Trans-en-Provence, France",
+   "aliases": [
+    "Trans-en-Provence"
+   ],
+   "description": "Town in the French department of Var outside which the event took place."
+  },
+  {
+   "key": "var",
+   "type": "place",
+   "name": "Var",
+   "aliases": [
+    "French department of Var"
+   ],
+   "description": "French department containing Trans-en-Provence."
+  },
+  {
+   "key": "france",
+   "type": "place",
+   "name": "France",
+   "description": "Country in which the case occurred."
+  },
+  {
+   "key": "canjuers",
+   "type": "place",
+   "name": "Canjuers military base",
+   "aliases": [
+    "Canjuers"
+   ],
+   "description": "Military base in close proximity to the site."
+  },
+  {
+   "key": "gepan",
+   "type": "organization",
+   "name": "Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés",
+   "aliases": [
+    "GEPAN"
+   ],
+   "description": "French body to which the case was sent for review and which analysed the traces."
+  },
+  {
+   "key": "gendarmerie",
+   "type": "organization",
+   "name": "National Gendarmerie",
+   "aliases": [
+    "gendarmerie",
+    "the local gendarmerie",
+    "the gendarmerie"
+   ],
+   "description": "French gendarmerie; the local gendarmerie interviewed the witness, photographed the scene and collected samples."
+  },
+  {
+   "key": "popmech",
+   "type": "organization",
+   "name": "Popular Mechanics",
+   "description": "Magazine that described the case as perhaps the most completely and carefully documented sighting of all time."
+  },
+  {
+   "key": "craft",
+   "type": "craft",
+   "name": "saucer-shaped object seen by Renato Nicolaï on 8 January 1981",
+   "description": "Lead-coloured object shaped like two saucers, about 2.5 m in diameter, said to have landed and taken off almost immediately."
+  },
+  {
+   "key": "police_report",
+   "type": "document",
+   "name": "Police report on the Trans-en-Provence traces",
+   "aliases": [
+    "The police report"
+   ],
+   "description": "Police report saying the traces looked like those made by a car tyre."
+  },
+  {
+   "key": "photos",
+   "type": "document",
+   "name": "Gendarmerie photographs of the Trans-en-Provence scene",
+   "aliases": [
+    "the picture"
+   ],
+   "description": "Photographs of the scene and its physical traces taken by the gendarmerie."
+  },
+  {
+   "key": "f_traces",
+   "type": "feature",
+   "name": "physical-traces",
+   "description": "Burn marks, compressed and heated ground, and altered plants at the site."
+  },
+  {
+   "key": "f_landing",
+   "type": "feature",
+   "name": "landing-reported",
+   "description": "The witness said the object landed about 50 m away."
+  },
+  {
+   "key": "f_disc",
+   "type": "feature",
+   "name": "shape-disc",
+   "description": "Saucer-shaped object."
+  },
+  {
+   "key": "f_sound",
+   "type": "feature",
+   "name": "sound-reported",
+   "description": "A strange whistling sound."
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Two-year joint investigation by GEPAN and the gendarmerie."
+  },
+  {
+   "key": "f_milbase",
+   "type": "feature",
+   "name": "military-base-proximity",
+   "description": "Site close to the Canjuers military base."
+  },
+  {
+   "key": "x_secret",
+   "type": "explanation",
+   "name": "secret-aircraft",
+   "description": "Experimental military device, as the witness initially believed."
+  },
+  {
+   "key": "x_tyre",
+   "type": "explanation",
+   "name": "other:car tyre tracks",
+   "description": "Police report said the traces looked like ones made by a car tyre."
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1981-01-08",
+   "quote": "The event took place on 8 January 1981, outside the town of Trans-en-Provence in the French department of Var."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1981-01-08",
+   "quote": "The event took place on 8 January 1981, outside the town of Trans-en-Provence in the French department of Var."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "5 p.m.",
+   "quote": "The case began on 8 January 1981 at 5 p.m."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "France",
+   "quote": "The event took place on 8 January 1981, outside the town of Trans-en-Provence in the French department of Var."
+  },
+  {
+   "s": "case",
+   "p": "witness_count",
+   "v": "1",
+   "quote": "This explanation was dismissed by GEPAN because of the sole witness said otherwise."
+  },
+  {
+   "s": "case",
+   "p": "summary",
+   "v": "An unidentified flying object is claimed to have left physical evidence in the form of burnt residue on a field",
+   "quote": "In the Trans-en-Provence case, an unidentified flying object is claimed to have left physical evidence in the form of burnt residue on a field."
+  },
+  {
+   "s": "case",
+   "p": "location_detail",
+   "v": "outside the town of Trans-en-Provence in the French department of Var",
+   "quote": "The event took place on 8 January 1981, outside the town of Trans-en-Provence in the French department of Var."
+  },
+  {
+   "s": "case",
+   "p": "location_detail",
+   "v": "the witness's own property, where he was performing agricultural work",
+   "quote": "Renato Nicolaï, a 55-year-old farmer, heard a strange whistling sound while performing agricultural work on his property."
+  },
+  {
+   "s": "case",
+   "p": "reputation",
+   "v": "described in Popular Mechanics as \"perhaps the most completely and carefully documented sighting of all time\"",
+   "quote": "It was described in Popular Mechanics as \"perhaps the most completely and carefully documented sighting of all time.\""
+  },
+  {
+   "s": "case",
+   "p": "reported_to_authorities",
+   "v": "the following day (local gendarmerie)",
+   "quote": "Nicolaï notified the local gendarmerie the following day."
+  },
+  {
+   "s": "case",
+   "p": "evidence_collected",
+   "v": "soil and plant samples collected from the field; scene photographed",
+   "quote": "They interviewed him, photographed the scene, and collected soil and plant samples from the field."
+  },
+  {
+   "s": "case",
+   "p": "ground_pressure",
+   "v": "ground compressed by a mechanical pressure of about 4 or 5 tons",
+   "quote": "GEPAN analysis noted that the ground had been compressed by a mechanical pressure of about 4 or 5 tons, and heated to between 300 and 600 °C (572 and 1,112 °F)."
+  },
+  {
+   "s": "case",
+   "p": "ground_temperature",
+   "v": "heated to between 300 and 600 °C (572 and 1,112 °F)",
+   "quote": "GEPAN analysis noted that the ground had been compressed by a mechanical pressure of about 4 or 5 tons, and heated to between 300 and 600 °C (572 and 1,112 °F)."
+  },
+  {
+   "s": "case",
+   "p": "trace_substances",
+   "v": "trace amounts of phosphate and zinc in the sample material",
+   "quote": "Trace amounts of phosphate and zinc were found in the sample material, and analysis of resident alfalfa near the landing site showed chlorophyll levels between 30% and 50% lower than expected."
+  },
+  {
+   "s": "case",
+   "p": "plant_effect",
+   "v": "alfalfa near the landing site showed chlorophyll levels between 30% and 50% lower than expected",
+   "quote": "Trace amounts of phosphate and zinc were found in the sample material, and analysis of resident alfalfa near the landing site showed chlorophyll levels between 30% and 50% lower than expected."
+  },
+  {
+   "s": "case",
+   "p": "trace_description",
+   "v": "burn marks on the ground where the object had supposedly sat",
+   "quote": "It left burn marks on the ground where it had supposedly sat."
+  },
+  {
+   "s": "case",
+   "p": "trace_description",
+   "v": "not perfect circles; two more-or-less semicircles crossing over each other",
+   "quote": "The physical traces shown on the picture are not perfect circles, in fact there are two more-or-less semicircles crossing over each other."
+  },
+  {
+   "s": "case",
+   "p": "trace_location",
+   "v": "the traces appeared on an active road",
+   "quote": "The police report said that the traces, which appeared on an active road, looked like some made by the tyre of a car."
+  },
+  {
+   "s": "case",
+   "p": "investigation_duration",
+   "v": "two years",
+   "quote": "Despite a joint investigation by GEPAN and the gendarmerie, which lasted for two years, no plausible explanation was found."
+  },
+  {
+   "s": "case",
+   "p": "investigation_outcome",
+   "v": "no plausible explanation was found",
+   "quote": "Despite a joint investigation by GEPAN and the gendarmerie, which lasted for two years, no plausible explanation was found."
+  },
+  {
+   "s": "case",
+   "p": "criticism",
+   "v": "Some French scientists insist the GEPAN investigation was flawed, especially the study of the physical traces",
+   "quote": "Some French scientists insist that the GEPAN investigation was flawed, especially the study of the physical traces."
+  },
+  {
+   "s": "case",
+   "p": "criticism",
+   "v": "a circular shape does not coincide with Nicolaï's description of the UFO",
+   "quote": "Also, a circular shape does not coincide with the description of the UFO made by Nicolaï."
+  },
+  {
+   "s": "case",
+   "p": "media_coverage",
+   "v": "Nicolaï was interviewed for French television",
+   "quote": "In an interview for French television, Nicolaï confirmed that there were vehicles passing by on the road at the time of the sighting."
+  },
+  {
+   "s": "nicolai",
+   "p": "witness",
+   "o": "case",
+   "quote": "He then saw a saucer-shaped object about 2.5 m (8 ft) in diameter land about 50 m (160 ft) away at a lower elevation."
+  },
+  {
+   "s": "nicolai",
+   "p": "age",
+   "v": "55",
+   "quote": "Renato Nicolaï, a 55-year-old farmer, heard a strange whistling sound while performing agricultural work on his property."
+  },
+  {
+   "s": "nicolai",
+   "p": "occupation",
+   "v": "farmer",
+   "quote": "Renato Nicolaï, a 55-year-old farmer, heard a strange whistling sound while performing agricultural work on his property."
+  },
+  {
+   "s": "nicolai",
+   "p": "activity_at_time",
+   "v": "performing agricultural work on his property",
+   "quote": "Renato Nicolaï, a 55-year-old farmer, heard a strange whistling sound while performing agricultural work on his property."
+  },
+  {
+   "s": "nicolai",
+   "p": "statement",
+   "v": "heard a strange whistling sound",
+   "quote": "Renato Nicolaï, a 55-year-old farmer, heard a strange whistling sound while performing agricultural work on his property."
+  },
+  {
+   "s": "nicolai",
+   "p": "statement",
+   "v": "saw a saucer-shaped object about 2.5 m in diameter land about 50 m away at a lower elevation",
+   "quote": "He then saw a saucer-shaped object about 2.5 m (8 ft) in diameter land about 50 m (160 ft) away at a lower elevation."
+  },
+  {
+   "s": "nicolai",
+   "p": "statement",
+   "v": "Under the machine I saw two kinds of pieces as it was lifting off. They could be reactors or feet.",
+   "quote": "Under the machine I saw two kinds of pieces as it was lifting off. They could be reactors or feet."
+  },
+  {
+   "s": "nicolai",
+   "p": "statement",
+   "v": "the object took off almost immediately, rising above the treeline and departing to the northeast",
+   "quote": "Nicolaï claimed the object took off almost immediately, rising above the treeline and departing to the northeast."
+  },
+  {
+   "s": "nicolai",
+   "p": "initial_belief",
+   "v": "believed the object to be an experimental military device",
+   "quote": "Nicolaï had initially believed the object to be an experimental military device."
+  },
+  {
+   "s": "nicolai",
+   "p": "later_claim",
+   "v": "confirmed in a French television interview that vehicles were passing by on the road at the time of the sighting",
+   "quote": "In an interview for French television, Nicolaï confirmed that there were vehicles passing by on the road at the time of the sighting."
+  },
+  {
+   "s": "nicolai",
+   "p": "role",
+   "v": "sole witness",
+   "quote": "This explanation was dismissed by GEPAN because of the sole witness said otherwise."
+  },
+  {
+   "s": "nicolai",
+   "p": "described",
+   "o": "craft",
+   "quote": "The device had the shape of two saucers, one inverted on top of the other."
+  },
+  {
+   "s": "nicolai",
+   "p": "proposed",
+   "o": "x_secret",
+   "quote": "Nicolaï had initially believed the object to be an experimental military device."
+  },
+  {
+   "s": "nicolai",
+   "p": "reported_to",
+   "o": "gendarmerie",
+   "quote": "Nicolaï notified the local gendarmerie the following day."
+  },
+  {
+   "s": "maillot",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "(in French) Skeptical explanation of this case, by Éric Maillot"
+  },
+  {
+   "s": "maillot",
+   "p": "authored_work",
+   "v": "Skeptical explanation of this case (in French)",
+   "quote": "(in French) Skeptical explanation of this case, by Éric Maillot"
+  },
+  {
+   "s": "tep",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The event took place on 8 January 1981, outside the town of Trans-en-Provence in the French department of Var."
+  },
+  {
+   "s": "tep",
+   "p": "located_in",
+   "o": "var",
+   "quote": "The event took place on 8 January 1981, outside the town of Trans-en-Provence in the French department of Var."
+  },
+  {
+   "s": "var",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The event took place on 8 January 1981, outside the town of Trans-en-Provence in the French department of Var."
+  },
+  {
+   "s": "var",
+   "p": "located_in",
+   "o": "france",
+   "quote": "The event took place on 8 January 1981, outside the town of Trans-en-Provence in the French department of Var."
+  },
+  {
+   "s": "var",
+   "p": "place_type",
+   "v": "French department",
+   "quote": "The event took place on 8 January 1981, outside the town of Trans-en-Provence in the French department of Var."
+  },
+  {
+   "s": "france",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The event took place on 8 January 1981, outside the town of Trans-en-Provence in the French department of Var."
+  },
+  {
+   "s": "canjuers",
+   "p": "near",
+   "o": "case",
+   "quote": "The close proximity of the site to the Canjuers military base makes such a theory generally plausible."
+  },
+  {
+   "s": "canjuers",
+   "p": "place_type",
+   "v": "military base",
+   "quote": "The close proximity of the site to the Canjuers military base makes such a theory generally plausible."
+  },
+  {
+   "s": "gepan",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The case was later sent to GEPAN (Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés) for review."
+  },
+  {
+   "s": "gepan",
+   "p": "abbreviation",
+   "v": "GEPAN",
+   "quote": "The case was later sent to GEPAN (Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés) for review."
+  },
+  {
+   "s": "gepan",
+   "p": "finding",
+   "v": "ground compressed by a mechanical pressure of about 4 or 5 tons and heated to between 300 and 600 °C",
+   "quote": "GEPAN analysis noted that the ground had been compressed by a mechanical pressure of about 4 or 5 tons, and heated to between 300 and 600 °C (572 and 1,112 °F)."
+  },
+  {
+   "s": "gepan",
+   "p": "investigation_focus",
+   "v": "conventional explanations, such as atmospheric or terrain causes of a terrestrial nature",
+   "quote": "However, GEPAN's investigation focused on conventional explanations, such as atmospheric or terrain causes of a terrestrial nature."
+  },
+  {
+   "s": "gepan",
+   "p": "colleague_of",
+   "o": "gendarmerie",
+   "quote": "Despite a joint investigation by GEPAN and the gendarmerie, which lasted for two years, no plausible explanation was found."
+  },
+  {
+   "s": "gepan",
+   "p": "disputed",
+   "o": "x_tyre",
+   "quote": "This explanation was dismissed by GEPAN because of the sole witness said otherwise."
+  },
+  {
+   "s": "gepan",
+   "p": "criticism",
+   "v": "Some French scientists insist the GEPAN investigation was flawed, especially the study of the physical traces",
+   "quote": "Some French scientists insist that the GEPAN investigation was flawed, especially the study of the physical traces."
+  },
+  {
+   "s": "gendarmerie",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "Despite a joint investigation by GEPAN and the gendarmerie, which lasted for two years, no plausible explanation was found."
+  },
+  {
+   "s": "gendarmerie",
+   "p": "interviewed",
+   "o": "nicolai",
+   "quote": "They interviewed him, photographed the scene, and collected soil and plant samples from the field."
+  },
+  {
+   "s": "gendarmerie",
+   "p": "authored",
+   "o": "photos",
+   "quote": "They interviewed him, photographed the scene, and collected soil and plant samples from the field."
+  },
+  {
+   "s": "gendarmerie",
+   "p": "action",
+   "v": "interviewed the witness, photographed the scene, and collected soil and plant samples from the field",
+   "quote": "They interviewed him, photographed the scene, and collected soil and plant samples from the field."
+  },
+  {
+   "s": "gendarmerie",
+   "p": "notified_on",
+   "v": "the day after the sighting",
+   "quote": "Nicolaï notified the local gendarmerie the following day."
+  },
+  {
+   "s": "popmech",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "It was described in Popular Mechanics as \"perhaps the most completely and carefully documented sighting of all time.\""
+  },
+  {
+   "s": "popmech",
+   "p": "statement",
+   "v": "perhaps the most completely and carefully documented sighting of all time",
+   "quote": "It was described in Popular Mechanics as \"perhaps the most completely and carefully documented sighting of all time.\""
+  },
+  {
+   "s": "craft",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "He then saw a saucer-shaped object about 2.5 m (8 ft) in diameter land about 50 m (160 ft) away at a lower elevation."
+  },
+  {
+   "s": "craft",
+   "p": "shape",
+   "v": "saucer-shaped",
+   "quote": "He then saw a saucer-shaped object about 2.5 m (8 ft) in diameter land about 50 m (160 ft) away at a lower elevation."
+  },
+  {
+   "s": "craft",
+   "p": "shape",
+   "v": "two saucers, one inverted on top of the other",
+   "quote": "The device had the shape of two saucers, one inverted on top of the other."
+  },
+  {
+   "s": "craft",
+   "p": "size",
+   "v": "about 2.5 m (8 ft) in diameter",
+   "quote": "He then saw a saucer-shaped object about 2.5 m (8 ft) in diameter land about 50 m (160 ft) away at a lower elevation."
+  },
+  {
+   "s": "craft",
+   "p": "height",
+   "v": "about 1.5 metres",
+   "quote": "It must have measured about 1.5 metres in height."
+  },
+  {
+   "s": "craft",
+   "p": "color",
+   "v": "the color of lead",
+   "quote": "It was the color of lead."
+  },
+  {
+   "s": "craft",
+   "p": "distance_from_witness",
+   "v": "about 50 m (160 ft) away, at a lower elevation",
+   "quote": "He then saw a saucer-shaped object about 2.5 m (8 ft) in diameter land about 50 m (160 ft) away at a lower elevation."
+  },
+  {
+   "s": "craft",
+   "p": "sound",
+   "v": "strange whistling sound",
+   "quote": "Renato Nicolaï, a 55-year-old farmer, heard a strange whistling sound while performing agricultural work on his property."
+  },
+  {
+   "s": "craft",
+   "p": "structure",
+   "v": "a ridge all the way around its circumference",
+   "quote": "This device had a ridge all the way around its circumference."
+  },
+  {
+   "s": "craft",
+   "p": "structure",
+   "v": "two kinds of pieces underneath that could be reactors or feet",
+   "quote": "Under the machine I saw two kinds of pieces as it was lifting off. They could be reactors or feet."
+  },
+  {
+   "s": "craft",
+   "p": "structure",
+   "v": "two other circles which looked like trapdoors",
+   "quote": "There were also two other circles which looked like trapdoors."
+  },
+  {
+   "s": "craft",
+   "p": "structure",
+   "v": "the two reactors, or feet, extended about 20 cm (8 in) below the body",
+   "quote": "The two reactors, or feet, extended about 20 cm (8 in) below the body of the machine."
+  },
+  {
+   "s": "craft",
+   "p": "underside_feature_count",
+   "v": "2 reactors or feet",
+   "quote": "Under the machine I saw two kinds of pieces as it was lifting off. They could be reactors or feet."
+  },
+  {
+   "s": "craft",
+   "p": "underside_feature_count",
+   "v": "2 circles resembling trapdoors",
+   "quote": "There were also two other circles which looked like trapdoors."
+  },
+  {
+   "s": "craft",
+   "p": "behavior",
+   "v": "landed",
+   "quote": "He then saw a saucer-shaped object about 2.5 m (8 ft) in diameter land about 50 m (160 ft) away at a lower elevation."
+  },
+  {
+   "s": "craft",
+   "p": "behavior",
+   "v": "took off almost immediately, rising above the treeline",
+   "quote": "Nicolaï claimed the object took off almost immediately, rising above the treeline and departing to the northeast."
+  },
+  {
+   "s": "craft",
+   "p": "departure_direction",
+   "v": "northeast",
+   "quote": "Nicolaï claimed the object took off almost immediately, rising above the treeline and departing to the northeast."
+  },
+  {
+   "s": "craft",
+   "p": "effect",
+   "v": "left burn marks on the ground where it had supposedly sat",
+   "quote": "It left burn marks on the ground where it had supposedly sat."
+  },
+  {
+   "s": "police_report",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The police report said that the traces, which appeared on an active road, looked like some made by the tyre of a car."
+  },
+  {
+   "s": "police_report",
+   "p": "statement",
+   "v": "the traces, which appeared on an active road, looked like some made by the tyre of a car",
+   "quote": "The police report said that the traces, which appeared on an active road, looked like some made by the tyre of a car."
+  },
+  {
+   "s": "police_report",
+   "p": "proposed",
+   "o": "x_tyre",
+   "quote": "The police report said that the traces, which appeared on an active road, looked like some made by the tyre of a car."
+  },
+  {
+   "s": "photos",
+   "p": "key_document",
+   "o": "case",
+   "quote": "They interviewed him, photographed the scene, and collected soil and plant samples from the field."
+  },
+  {
+   "s": "photos",
+   "p": "content",
+   "v": "physical traces that are not perfect circles but two more-or-less semicircles crossing over each other",
+   "quote": "The physical traces shown on the picture are not perfect circles, in fact there are two more-or-less semicircles crossing over each other."
+  },
+  {
+   "s": "f_traces",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "It left burn marks on the ground where it had supposedly sat."
+  },
+  {
+   "s": "f_landing",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "He then saw a saucer-shaped object about 2.5 m (8 ft) in diameter land about 50 m (160 ft) away at a lower elevation."
+  },
+  {
+   "s": "f_disc",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The device had the shape of two saucers, one inverted on top of the other."
+  },
+  {
+   "s": "f_sound",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Renato Nicolaï, a 55-year-old farmer, heard a strange whistling sound while performing agricultural work on his property."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Despite a joint investigation by GEPAN and the gendarmerie, which lasted for two years, no plausible explanation was found."
+  },
+  {
+   "s": "f_milbase",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The close proximity of the site to the Canjuers military base makes such a theory generally plausible."
+  },
+  {
+   "s": "x_secret",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Nicolaï had initially believed the object to be an experimental military device."
+  },
+  {
+   "s": "x_secret",
+   "p": "plausibility",
+   "v": "generally plausible given the close proximity of the site to the Canjuers military base",
+   "quote": "The close proximity of the site to the Canjuers military base makes such a theory generally plausible."
+  },
+  {
+   "s": "x_tyre",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The police report said that the traces, which appeared on an active road, looked like some made by the tyre of a car."
+  },
+  {
+   "s": "x_tyre",
+   "p": "status",
+   "v": "dismissed by GEPAN because the sole witness said otherwise",
+   "quote": "This explanation was dismissed by GEPAN because of the sole witness said otherwise."
+  }
+ ]
+}

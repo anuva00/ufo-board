@@ -1,0 +1,1234 @@
+{
+ "slug": "lonnie-zamora-incident",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Lonnie Zamora incident",
+   "aliases": [
+    "Socorro UFO",
+    "Socorro, New Mexico Landing"
+   ],
+   "description": "Alleged 1964 UFO sighting near Socorro, New Mexico, in which police officer Lonnie Zamora claimed to see two figures beside an egg shaped object that rose on a flame."
+  },
+  {
+   "key": "zamora",
+   "type": "person",
+   "name": "Lonnie Zamora",
+   "aliases": [
+    "Sergeant Lonnie Zamora",
+    "Zamora"
+   ],
+   "description": "Socorro police sergeant who claimed to see the object and two people beside it"
+  },
+  {
+   "key": "lopez",
+   "type": "person",
+   "name": "Nep Lopez",
+   "aliases": [
+    "Lopez"
+   ],
+   "description": "Socorro Police radio dispatcher who took Zamora's radio calls"
+  },
+  {
+   "key": "chavez",
+   "type": "person",
+   "name": "Chavez",
+   "aliases": [
+    "Sergeant Chavez"
+   ],
+   "description": "New Mexico State Police sergeant whom Zamora asked to meet him at the scene"
+  },
+  {
+   "key": "campbell",
+   "type": "person",
+   "name": "Steuart Campbell",
+   "description": "UFO skeptic who suggested a mirage of the star Canopus"
+  },
+  {
+   "key": "sheaffer",
+   "type": "person",
+   "name": "Robert Sheaffer",
+   "description": "Skeptic who suggested a hoax by New Mexico Tech students"
+  },
+  {
+   "key": "colgate",
+   "type": "person",
+   "name": "Stirling Colgate",
+   "description": "Then-president of New Mexico Tech who supported the student hoax theory"
+  },
+  {
+   "key": "klass",
+   "type": "person",
+   "name": "Philip J. Klass",
+   "description": "Skeptic who claimed the event was a municipal plan to increase tourism"
+  },
+  {
+   "key": "ridings",
+   "type": "person",
+   "name": "Paul Ridings",
+   "description": "President of the Socorro County Chamber of Commerce who proposed developing the site for tourists in 1966"
+  },
+  {
+   "key": "bhasker",
+   "type": "person",
+   "name": "Ravi Bhasker",
+   "description": "Socorro city official who co-commissioned a commemorative mural in 2012"
+  },
+  {
+   "key": "salome",
+   "type": "person",
+   "name": "Pat Salome",
+   "description": "Socorro city official who co-commissioned a commemorative mural in 2012"
+  },
+  {
+   "key": "burleigh",
+   "type": "person",
+   "name": "Erika Burleigh",
+   "description": "Local artist commissioned to paint the commemorative mural"
+  },
+  {
+   "key": "steiger",
+   "type": "person",
+   "name": "Brad Steiger",
+   "description": "Author of the 1976 book Project Blue Book"
+  },
+  {
+   "key": "hynek",
+   "type": "person",
+   "name": "J. Allen Hynek",
+   "description": "Person whose reports are contained in Steiger's Project Blue Book"
+  },
+  {
+   "key": "dunning",
+   "type": "person",
+   "name": "Brian Dunning",
+   "aliases": [
+    "Dunning, Brian"
+   ],
+   "description": "Author of the Skeptoid episode on the case"
+  },
+  {
+   "key": "socorro_police",
+   "type": "organization",
+   "name": "Socorro Police",
+   "aliases": [
+    "Socorro police"
+   ],
+   "description": "Police force of Socorro, New Mexico, employer of Zamora and Lopez"
+  },
+  {
+   "key": "nmsp",
+   "type": "organization",
+   "name": "New Mexico State Police",
+   "description": "State police force whose Sergeant Chavez met Zamora at the scene"
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "aliases": [
+    "U.S. Air Force",
+    "Air Force"
+   ],
+   "description": "US military branch whose Project Blue Book listed the case as unknown"
+  },
+  {
+   "key": "nmt",
+   "type": "organization",
+   "name": "New Mexico Tech",
+   "description": "College in Socorro whose students were suggested to have staged a hoax"
+  },
+  {
+   "key": "chamber",
+   "type": "organization",
+   "name": "Socorro County Chamber of Commerce",
+   "aliases": [
+    "Socorro County's Chamber of Commerce"
+   ],
+   "description": "Chamber of commerce whose president proposed developing the sighting site"
+  },
+  {
+   "key": "bluebook",
+   "type": "program",
+   "name": "Project Blue Book",
+   "description": "US Air Force UFO study that investigated Zamora's claims and listed the case as unknown"
+  },
+  {
+   "key": "socorro",
+   "type": "place",
+   "name": "Socorro, New Mexico",
+   "aliases": [
+    "Socorro"
+   ],
+   "description": "Town near which the sighting occurred"
+  },
+  {
+   "key": "new_mexico",
+   "type": "place",
+   "name": "New Mexico",
+   "description": "US state in which the incident occurred"
+  },
+  {
+   "key": "wsmr",
+   "type": "place",
+   "name": "White Sands Missile Range",
+   "description": "Military range suggested as the source of a lunar lander test"
+  },
+  {
+   "key": "park_street",
+   "type": "place",
+   "name": "Park Street",
+   "description": "Street in Socorro faced by the spillway bearing the commemorative mural"
+  },
+  {
+   "key": "craft",
+   "type": "craft",
+   "name": "Shiny egg shaped object seen by Zamora",
+   "description": "Whitish aluminum-like object that Zamora said rose on a blue and orange flame"
+  },
+  {
+   "key": "mural",
+   "type": "work",
+   "name": "Mural commemorating Zamora's alleged UFO sighting",
+   "description": "Mural painted by Erika Burleigh on a spillway facing Park Street, commissioned in 2012"
+  },
+  {
+   "key": "steiger_book",
+   "type": "work",
+   "name": "Project Blue Book (1976 book)",
+   "aliases": [
+    "Project Blue Book"
+   ],
+   "description": "Book by Brad Steiger containing the Air Force's account, Zamora's account and reports of J. Allen Hynek"
+  },
+  {
+   "key": "skeptoid",
+   "type": "work",
+   "name": "Skeptoid #582: Lonnie Zamora and the Socorro UFO",
+   "description": "Skeptoid episode by Brian Dunning dated August 1, 2017"
+  },
+  {
+   "key": "ksrc_interview",
+   "type": "document",
+   "name": "Lonnie Zamora interview on KSRC Radio",
+   "description": "Radio interview with Lonnie Zamora listed in external links"
+  },
+  {
+   "key": "eagle_river",
+   "type": "case",
+   "name": "Eagle River encounter",
+   "description": "Case where men in an unidentified aircraft allegedly landed, taking water and giving pancakes"
+  },
+  {
+   "key": "f_egg",
+   "type": "feature",
+   "name": "shape-oval-egg",
+   "description": "Object described as egg shaped / shaped like the letter O"
+  },
+  {
+   "key": "f_occupants",
+   "type": "feature",
+   "name": "occupants-reported",
+   "description": "Two people in white overalls reported beside the object"
+  },
+  {
+   "key": "f_landing",
+   "type": "feature",
+   "name": "landing-reported",
+   "description": "Object said to have landed, leaving holes"
+  },
+  {
+   "key": "f_traces",
+   "type": "feature",
+   "name": "physical-traces",
+   "description": "Smoldering brush and shallow holes in the ground"
+  },
+  {
+   "key": "f_sound",
+   "type": "feature",
+   "name": "sound-reported",
+   "description": "Roar heard"
+  },
+  {
+   "key": "f_police",
+   "type": "feature",
+   "name": "police-witnesses",
+   "description": "Witness was a police sergeant"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "Source refers to Zamora and fellow witnesses"
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Investigated by Project Blue Book"
+  },
+  {
+   "key": "f_hoax",
+   "type": "feature",
+   "name": "hoax-alleged",
+   "description": "Skeptics suggested a hoax"
+  },
+  {
+   "key": "f_flame",
+   "type": "feature",
+   "name": "other:flame beneath object",
+   "description": "Blue and orange flame under the object"
+  },
+  {
+   "key": "x_test",
+   "type": "explanation",
+   "name": "military-test-or-exercise",
+   "description": "Lunar lander test by White Sands Missile Range"
+  },
+  {
+   "key": "x_hoax",
+   "type": "explanation",
+   "name": "hoax",
+   "description": "Hoax by New Mexico Tech students, or a municipal tourism plan"
+  },
+  {
+   "key": "x_star",
+   "type": "explanation",
+   "name": "star",
+   "description": "Mirage of the star Canopus"
+  },
+  {
+   "key": "x_balloon",
+   "type": "explanation",
+   "name": "balloon",
+   "description": "A candle in a balloon"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1964-04-24",
+   "quote": "The Lonnie Zamora incident was an alleged UFO sighting that occurred on April 24, 1964 near Socorro, New Mexico"
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "17:45",
+   "quote": "On April 24, 1964 at approximately 17:45, Socorro Police radio dispatcher Nep Lopez received a radio call from Sergeant Lonnie Zamora reporting a possible motor vehicle accident."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "The Lonnie Zamora incident was an alleged UFO sighting that occurred on April 24, 1964 near Socorro, New Mexico"
+  },
+  {
+   "s": "case",
+   "p": "summary",
+   "v": "Zamora claimed he saw two people dressed in white beside a shiny egg shaped object that later rose into the air accompanied by a roaring blue and orange flame",
+   "quote": "The Lonnie Zamora incident was an alleged UFO sighting that occurred on April 24, 1964 near Socorro, New Mexico, when Socorro police officer Lonnie Zamora claimed that he saw two people dressed in white beside a shiny egg shaped object that later rose into the air accompanied by a roaring blue and orange flame."
+  },
+  {
+   "s": "case",
+   "p": "initial_report",
+   "v": "radio call reporting a possible motor vehicle accident",
+   "quote": "On April 24, 1964 at approximately 17:45, Socorro Police radio dispatcher Nep Lopez received a radio call from Sergeant Lonnie Zamora reporting a possible motor vehicle accident."
+  },
+  {
+   "s": "case",
+   "p": "attention",
+   "v": "news media and UFO investigators and organizations",
+   "quote": "Zamora's claims were subject to attention from news media and UFO investigators and organizations, and the U.S. Air Force's Project Blue Book listed the case as \"unknown\"."
+  },
+  {
+   "s": "case",
+   "p": "blue_book_classification",
+   "v": "unknown",
+   "quote": "Zamora's claims were subject to attention from news media and UFO investigators and organizations, and the U.S. Air Force's Project Blue Book listed the case as \"unknown\"."
+  },
+  {
+   "s": "case",
+   "p": "press_coverage",
+   "v": "reported in the popular press",
+   "quote": "Zamora's claims were investigated by Project Blue Book and ufologists, and have been reported in the popular press."
+  },
+  {
+   "s": "case",
+   "p": "investigated_by_unnamed",
+   "v": "ufologists",
+   "quote": "Zamora's claims were investigated by Project Blue Book and ufologists, and have been reported in the popular press."
+  },
+  {
+   "s": "case",
+   "p": "trace_evidence",
+   "v": "burning brush examined by Chavez",
+   "quote": "When Chavez arrived, he asked Zamora what the trouble was. Zamora led him to examine some burning brush."
+  },
+  {
+   "s": "case",
+   "p": "trace_evidence",
+   "v": "patches of smoldering grass and brush noted by other police officers",
+   "quote": "When other police officers arrived, they noted patches of smoldering grass and brush."
+  },
+  {
+   "s": "case",
+   "p": "trace_evidence",
+   "v": "shallow holes in the ground, which Zamora said was from the object landing",
+   "quote": "There were also shallow holes in the ground, which Zamora said was from the object landing."
+  },
+  {
+   "s": "case",
+   "p": "location_detail",
+   "v": "south of Socorro, New Mexico",
+   "quote": "Zamora told authorities he was pursuing a speeding car south of Socorro, New Mexico, when he \"heard a roar and saw a flame in the sky to southwest some distance away\", which he approximated as being between a half mile to a mile away (0.80–1.61 km)."
+  },
+  {
+   "s": "case",
+   "p": "location_detail",
+   "v": "arroyo below a mesa top",
+   "quote": "Consequently, stone walkways and steps were built into the arroyo from the mesa top, with a rock walkway circling the supposed landing site that included  some wooden benches."
+  },
+  {
+   "s": "case",
+   "p": "proposed_explanation",
+   "v": "lunar lander test by White Sands Missile Range",
+   "quote": "Conventional explanations of Zamora's claims include a lunar lander test by White Sands Missile Range and a hoax by New Mexico Tech students."
+  },
+  {
+   "s": "case",
+   "p": "proposed_explanation",
+   "v": "hoax by New Mexico Tech students",
+   "quote": "Conventional explanations of Zamora's claims include a lunar lander test by White Sands Missile Range and a hoax by New Mexico Tech students."
+  },
+  {
+   "s": "case",
+   "p": "proposed_explanation",
+   "v": "mirage of the star Canopus",
+   "quote": "UFO skeptic Steuart Campbell has suggested that everything seen and heard by Zamora and fellow witnesses was \"almost certainly\" a mirage of the star Canopus."
+  },
+  {
+   "s": "case",
+   "p": "proposed_explanation",
+   "v": "plan by the municipal government to increase tourism",
+   "quote": "Skeptic Philip J. Klass, who visited Socorro several years after the incident, claimed that the entire event was part of a plan by the municipal government to increase tourism."
+  },
+  {
+   "s": "case",
+   "p": "site_development_proposed",
+   "v": "1966",
+   "quote": "In 1966, the president of the Socorro County's Chamber of Commerce, Paul Ridings, proposed developing the site of Zamora’s claimed UFO encounter to make it more accessible to tourists."
+  },
+  {
+   "s": "case",
+   "p": "site_development",
+   "v": "stone walkways and steps built into the arroyo from the mesa top, with a rock walkway circling the supposed landing site and some wooden benches",
+   "quote": "Consequently, stone walkways and steps were built into the arroyo from the mesa top, with a rock walkway circling the supposed landing site that included  some wooden benches."
+  },
+  {
+   "s": "case",
+   "p": "site_development_distance",
+   "v": "approximately a quarter mile (0.40 km) from the actual site",
+   "quote": "However these were built approximately a quarter mile (0.40 km) from the actual site of Zamora’s alleged sighting, due to local rumors that the original site was contaminated by radioactivity."
+  },
+  {
+   "s": "case",
+   "p": "rumor",
+   "v": "local rumors that the original site was contaminated by radioactivity",
+   "quote": "However these were built approximately a quarter mile (0.40 km) from the actual site of Zamora’s alleged sighting, due to local rumors that the original site was contaminated by radioactivity."
+  },
+  {
+   "s": "case",
+   "p": "commemoration",
+   "v": "mural on a spillway facing Park Street, commissioned 2012",
+   "quote": "In 2012, Socorro city officials Ravi Bhasker and Pat Salome commissioned local artist Erika Burleigh to paint a mural on a spillway facing Park Street to commemorate Zamora's alleged UFO sighting."
+  },
+  {
+   "s": "zamora",
+   "p": "witness",
+   "o": "case",
+   "quote": "Socorro police officer Lonnie Zamora claimed that he saw two people dressed in white beside a shiny egg shaped object that later rose into the air accompanied by a roaring blue and orange flame"
+  },
+  {
+   "s": "zamora",
+   "p": "employed_by",
+   "o": "socorro_police",
+   "quote": "Socorro police officer Lonnie Zamora claimed that he saw two people dressed in white beside a shiny egg shaped object that later rose into the air accompanied by a roaring blue and orange flame"
+  },
+  {
+   "s": "zamora",
+   "p": "described",
+   "o": "craft",
+   "quote": "Zamora claimed to have observed a shiny object, \"to south about 150 to 200 yards (450 to 600 ft; 140 to 180 m)\", that he initially believed to be an \"overturned white car ... up on radiator or on trunk\"."
+  },
+  {
+   "s": "zamora",
+   "p": "occupation",
+   "v": "Socorro police officer",
+   "quote": "Socorro police officer Lonnie Zamora claimed that he saw two people dressed in white beside a shiny egg shaped object that later rose into the air accompanied by a roaring blue and orange flame"
+  },
+  {
+   "s": "zamora",
+   "p": "rank",
+   "v": "Sergeant",
+   "quote": "On April 24, 1964 at approximately 17:45, Socorro Police radio dispatcher Nep Lopez received a radio call from Sergeant Lonnie Zamora reporting a possible motor vehicle accident."
+  },
+  {
+   "s": "zamora",
+   "p": "statement",
+   "v": "checking the car down in the arroyo",
+   "quote": "Zamora advised Lopez that he would be “checking the car down in the arroyo\"."
+  },
+  {
+   "s": "zamora",
+   "p": "statement",
+   "v": "it looks like a balloon",
+   "quote": "When Lopez asked Zamora to describe it, Zamora said \"it looks like a balloon” and requested New Mexico State Police Sergeant Chavez meet him at his location."
+  },
+  {
+   "s": "zamora",
+   "p": "statement",
+   "v": "asked Lopez to look through his window to see if he could see an object",
+   "quote": "Shortly after, Lopez received another radio call from Zamora asking Lopez to look through his window to see if he could see an object."
+  },
+  {
+   "s": "zamora",
+   "p": "statement",
+   "v": "was pursuing a speeding car south of Socorro when he heard a roar and saw a flame in the sky to southwest some distance away",
+   "quote": "Zamora told authorities he was pursuing a speeding car south of Socorro, New Mexico, when he \"heard a roar and saw a flame in the sky to southwest some distance away\", which he approximated as being between a half mile to a mile away (0.80–1.61 km)."
+  },
+  {
+   "s": "zamora",
+   "p": "estimated_distance_of_flame",
+   "v": "between a half mile to a mile away (0.80-1.61 km)",
+   "quote": "Zamora told authorities he was pursuing a speeding car south of Socorro, New Mexico, when he \"heard a roar and saw a flame in the sky to southwest some distance away\", which he approximated as being between a half mile to a mile away (0.80–1.61 km)."
+  },
+  {
+   "s": "zamora",
+   "p": "statement",
+   "v": "believed a local dynamite shack might have exploded; discontinued the pursuit and investigated the potential explosion",
+   "quote": "Believing a local dynamite shack might have exploded, Zamora said he discontinued the pursuit and investigated the potential explosion."
+  },
+  {
+   "s": "zamora",
+   "p": "statement",
+   "v": "shallow holes in the ground were from the object landing",
+   "quote": "There were also shallow holes in the ground, which Zamora said was from the object landing."
+  },
+  {
+   "s": "zamora",
+   "p": "statement",
+   "v": "briefly observed two people in white overalls beside the object",
+   "quote": "Zamora claimed to have briefly observed two people in white overalls beside the object, whom he later described as \"normal in shape—but possibly they were small adults or large kids.\""
+  },
+  {
+   "s": "zamora",
+   "p": "statement",
+   "v": "heard a roar and saw a blue and orange flame under the object, which then rose and quickly moved away",
+   "quote": "Zamora claimed to hear a roar and see a blue and orange flame under the object, which then rose and quickly moved away."
+  },
+  {
+   "s": "zamora",
+   "p": "death_date",
+   "v": "2009-11-02",
+   "quote": "Zamora died on November 2, 2009, in Socorro; he was 76 years old."
+  },
+  {
+   "s": "zamora",
+   "p": "death_place",
+   "v": "Socorro",
+   "quote": "Zamora died on November 2, 2009, in Socorro; he was 76 years old."
+  },
+  {
+   "s": "zamora",
+   "p": "age_at_death",
+   "v": "76",
+   "quote": "Zamora died on November 2, 2009, in Socorro; he was 76 years old."
+  },
+  {
+   "s": "craft",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Socorro police officer Lonnie Zamora claimed that he saw two people dressed in white beside a shiny egg shaped object that later rose into the air accompanied by a roaring blue and orange flame"
+  },
+  {
+   "s": "craft",
+   "p": "shape",
+   "v": "egg shaped",
+   "quote": "Socorro police officer Lonnie Zamora claimed that he saw two people dressed in white beside a shiny egg shaped object that later rose into the air accompanied by a roaring blue and orange flame"
+  },
+  {
+   "s": "craft",
+   "p": "shape",
+   "v": "shaped like the letter \"O\"",
+   "quote": "The object was \"like aluminum—it was whitish against the mesa background, but not chrome\", and shaped like the letter \"O\"."
+  },
+  {
+   "s": "craft",
+   "p": "appearance",
+   "v": "shiny",
+   "quote": "Zamora claimed to have observed a shiny object, \"to south about 150 to 200 yards (450 to 600 ft; 140 to 180 m)\", that he initially believed to be an \"overturned white car ... up on radiator or on trunk\"."
+  },
+  {
+   "s": "craft",
+   "p": "color",
+   "v": "like aluminum; whitish against the mesa background, but not chrome",
+   "quote": "The object was \"like aluminum—it was whitish against the mesa background, but not chrome\", and shaped like the letter \"O\"."
+  },
+  {
+   "s": "craft",
+   "p": "distance",
+   "v": "to south about 150 to 200 yards (450 to 600 ft; 140 to 180 m)",
+   "quote": "Zamora claimed to have observed a shiny object, \"to south about 150 to 200 yards (450 to 600 ft; 140 to 180 m)\", that he initially believed to be an \"overturned white car ... up on radiator or on trunk\"."
+  },
+  {
+   "s": "craft",
+   "p": "initial_impression",
+   "v": "overturned white car ... up on radiator or on trunk",
+   "quote": "Zamora claimed to have observed a shiny object, \"to south about 150 to 200 yards (450 to 600 ft; 140 to 180 m)\", that he initially believed to be an \"overturned white car ... up on radiator or on trunk\"."
+  },
+  {
+   "s": "craft",
+   "p": "initial_impression",
+   "v": "it looks like a balloon",
+   "quote": "When Lopez asked Zamora to describe it, Zamora said \"it looks like a balloon” and requested New Mexico State Police Sergeant Chavez meet him at his location."
+  },
+  {
+   "s": "craft",
+   "p": "occupant_count",
+   "v": "2",
+   "quote": "Zamora claimed to have briefly observed two people in white overalls beside the object, whom he later described as \"normal in shape—but possibly they were small adults or large kids.\""
+  },
+  {
+   "s": "craft",
+   "p": "occupant_clothing",
+   "v": "white overalls",
+   "quote": "Zamora claimed to have briefly observed two people in white overalls beside the object, whom he later described as \"normal in shape—but possibly they were small adults or large kids.\""
+  },
+  {
+   "s": "craft",
+   "p": "occupant_clothing",
+   "v": "dressed in white",
+   "quote": "Socorro police officer Lonnie Zamora claimed that he saw two people dressed in white beside a shiny egg shaped object that later rose into the air accompanied by a roaring blue and orange flame"
+  },
+  {
+   "s": "craft",
+   "p": "occupant_description",
+   "v": "normal in shape, but possibly small adults or large kids",
+   "quote": "Zamora claimed to have briefly observed two people in white overalls beside the object, whom he later described as \"normal in shape—but possibly they were small adults or large kids.\""
+  },
+  {
+   "s": "craft",
+   "p": "flame_color",
+   "v": "blue and orange",
+   "quote": "Zamora claimed to hear a roar and see a blue and orange flame under the object, which then rose and quickly moved away."
+  },
+  {
+   "s": "craft",
+   "p": "flame_position",
+   "v": "under the object",
+   "quote": "Zamora claimed to hear a roar and see a blue and orange flame under the object, which then rose and quickly moved away."
+  },
+  {
+   "s": "craft",
+   "p": "sound",
+   "v": "roar",
+   "quote": "Zamora claimed to hear a roar and see a blue and orange flame under the object, which then rose and quickly moved away."
+  },
+  {
+   "s": "craft",
+   "p": "movement",
+   "v": "rose and quickly moved away",
+   "quote": "Zamora claimed to hear a roar and see a blue and orange flame under the object, which then rose and quickly moved away."
+  },
+  {
+   "s": "craft",
+   "p": "movement",
+   "v": "rose into the air accompanied by a roaring blue and orange flame",
+   "quote": "Socorro police officer Lonnie Zamora claimed that he saw two people dressed in white beside a shiny egg shaped object that later rose into the air accompanied by a roaring blue and orange flame"
+  },
+  {
+   "s": "lopez",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "On April 24, 1964 at approximately 17:45, Socorro Police radio dispatcher Nep Lopez received a radio call from Sergeant Lonnie Zamora reporting a possible motor vehicle accident."
+  },
+  {
+   "s": "lopez",
+   "p": "employed_by",
+   "o": "socorro_police",
+   "quote": "On April 24, 1964 at approximately 17:45, Socorro Police radio dispatcher Nep Lopez received a radio call from Sergeant Lonnie Zamora reporting a possible motor vehicle accident."
+  },
+  {
+   "s": "lopez",
+   "p": "occupation",
+   "v": "Socorro Police radio dispatcher",
+   "quote": "On April 24, 1964 at approximately 17:45, Socorro Police radio dispatcher Nep Lopez received a radio call from Sergeant Lonnie Zamora reporting a possible motor vehicle accident."
+  },
+  {
+   "s": "lopez",
+   "p": "action",
+   "v": "received a second radio call from Zamora asking him to look through his window to see if he could see an object",
+   "quote": "Shortly after, Lopez received another radio call from Zamora asking Lopez to look through his window to see if he could see an object."
+  },
+  {
+   "s": "lopez",
+   "p": "action",
+   "v": "asked Zamora to describe the object",
+   "quote": "When Lopez asked Zamora to describe it, Zamora said \"it looks like a balloon” and requested New Mexico State Police Sergeant Chavez meet him at his location."
+  },
+  {
+   "s": "chavez",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "When Lopez asked Zamora to describe it, Zamora said \"it looks like a balloon” and requested New Mexico State Police Sergeant Chavez meet him at his location."
+  },
+  {
+   "s": "chavez",
+   "p": "employed_by",
+   "o": "nmsp",
+   "quote": "When Lopez asked Zamora to describe it, Zamora said \"it looks like a balloon” and requested New Mexico State Police Sergeant Chavez meet him at his location."
+  },
+  {
+   "s": "chavez",
+   "p": "rank",
+   "v": "Sergeant",
+   "quote": "When Lopez asked Zamora to describe it, Zamora said \"it looks like a balloon” and requested New Mexico State Police Sergeant Chavez meet him at his location."
+  },
+  {
+   "s": "chavez",
+   "p": "action",
+   "v": "arrived, asked Zamora what the trouble was, and was led to examine some burning brush",
+   "quote": "When Chavez arrived, he asked Zamora what the trouble was. Zamora led him to examine some burning brush."
+  },
+  {
+   "s": "campbell",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "UFO skeptic Steuart Campbell has suggested that everything seen and heard by Zamora and fellow witnesses was \"almost certainly\" a mirage of the star Canopus."
+  },
+  {
+   "s": "campbell",
+   "p": "proposed",
+   "o": "x_star",
+   "quote": "UFO skeptic Steuart Campbell has suggested that everything seen and heard by Zamora and fellow witnesses was \"almost certainly\" a mirage of the star Canopus."
+  },
+  {
+   "s": "campbell",
+   "p": "occupation",
+   "v": "UFO skeptic",
+   "quote": "UFO skeptic Steuart Campbell has suggested that everything seen and heard by Zamora and fellow witnesses was \"almost certainly\" a mirage of the star Canopus."
+  },
+  {
+   "s": "campbell",
+   "p": "statement",
+   "v": "everything seen and heard by Zamora and fellow witnesses was \"almost certainly\" a mirage of the star Canopus",
+   "quote": "UFO skeptic Steuart Campbell has suggested that everything seen and heard by Zamora and fellow witnesses was \"almost certainly\" a mirage of the star Canopus."
+  },
+  {
+   "s": "sheaffer",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Skeptic Robert Sheaffer suggested that the incident was a hoax perpetrated by students at New Mexico Tech."
+  },
+  {
+   "s": "sheaffer",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "Skeptic Robert Sheaffer suggested that the incident was a hoax perpetrated by students at New Mexico Tech."
+  },
+  {
+   "s": "sheaffer",
+   "p": "statement",
+   "v": "the incident was a hoax perpetrated by students at New Mexico Tech",
+   "quote": "Skeptic Robert Sheaffer suggested that the incident was a hoax perpetrated by students at New Mexico Tech."
+  },
+  {
+   "s": "colgate",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Then-president of New Mexico Tech Stirling Colgate supported this theory, and wrote that the object observed by Zamora was: \"A candle in a balloon. Not sophisticated.\""
+  },
+  {
+   "s": "colgate",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "Then-president of New Mexico Tech Stirling Colgate supported this theory, and wrote that the object observed by Zamora was: \"A candle in a balloon. Not sophisticated.\""
+  },
+  {
+   "s": "colgate",
+   "p": "proposed",
+   "o": "x_balloon",
+   "quote": "Then-president of New Mexico Tech Stirling Colgate supported this theory, and wrote that the object observed by Zamora was: \"A candle in a balloon. Not sophisticated.\""
+  },
+  {
+   "s": "colgate",
+   "p": "employed_by",
+   "o": "nmt",
+   "quote": "Then-president of New Mexico Tech Stirling Colgate supported this theory, and wrote that the object observed by Zamora was: \"A candle in a balloon. Not sophisticated.\""
+  },
+  {
+   "s": "colgate",
+   "p": "occupation",
+   "v": "Then-president of New Mexico Tech",
+   "quote": "Then-president of New Mexico Tech Stirling Colgate supported this theory, and wrote that the object observed by Zamora was: \"A candle in a balloon. Not sophisticated.\""
+  },
+  {
+   "s": "colgate",
+   "p": "statement",
+   "v": "A candle in a balloon. Not sophisticated.",
+   "quote": "Then-president of New Mexico Tech Stirling Colgate supported this theory, and wrote that the object observed by Zamora was: \"A candle in a balloon. Not sophisticated.\""
+  },
+  {
+   "s": "klass",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Skeptic Philip J. Klass, who visited Socorro several years after the incident, claimed that the entire event was part of a plan by the municipal government to increase tourism."
+  },
+  {
+   "s": "klass",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "Skeptic Philip J. Klass, who visited Socorro several years after the incident, claimed that the entire event was part of a plan by the municipal government to increase tourism."
+  },
+  {
+   "s": "klass",
+   "p": "statement",
+   "v": "the entire event was part of a plan by the municipal government to increase tourism",
+   "quote": "Skeptic Philip J. Klass, who visited Socorro several years after the incident, claimed that the entire event was part of a plan by the municipal government to increase tourism."
+  },
+  {
+   "s": "klass",
+   "p": "visited",
+   "v": "Socorro, several years after the incident",
+   "quote": "Skeptic Philip J. Klass, who visited Socorro several years after the incident, claimed that the entire event was part of a plan by the municipal government to increase tourism."
+  },
+  {
+   "s": "ridings",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "In 1966, the president of the Socorro County's Chamber of Commerce, Paul Ridings, proposed developing the site of Zamora’s claimed UFO encounter to make it more accessible to tourists."
+  },
+  {
+   "s": "ridings",
+   "p": "member_of",
+   "o": "chamber",
+   "quote": "In 1966, the president of the Socorro County's Chamber of Commerce, Paul Ridings, proposed developing the site of Zamora’s claimed UFO encounter to make it more accessible to tourists."
+  },
+  {
+   "s": "ridings",
+   "p": "occupation",
+   "v": "president of the Socorro County Chamber of Commerce",
+   "quote": "In 1966, the president of the Socorro County's Chamber of Commerce, Paul Ridings, proposed developing the site of Zamora’s claimed UFO encounter to make it more accessible to tourists."
+  },
+  {
+   "s": "ridings",
+   "p": "proposal",
+   "v": "in 1966 proposed developing the site of Zamora's claimed UFO encounter to make it more accessible to tourists",
+   "quote": "In 1966, the president of the Socorro County's Chamber of Commerce, Paul Ridings, proposed developing the site of Zamora’s claimed UFO encounter to make it more accessible to tourists."
+  },
+  {
+   "s": "bhasker",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "In 2012, Socorro city officials Ravi Bhasker and Pat Salome commissioned local artist Erika Burleigh to paint a mural on a spillway facing Park Street to commemorate Zamora's alleged UFO sighting."
+  },
+  {
+   "s": "bhasker",
+   "p": "commissioned",
+   "o": "mural",
+   "quote": "In 2012, Socorro city officials Ravi Bhasker and Pat Salome commissioned local artist Erika Burleigh to paint a mural on a spillway facing Park Street to commemorate Zamora's alleged UFO sighting."
+  },
+  {
+   "s": "bhasker",
+   "p": "occupation",
+   "v": "Socorro city official",
+   "quote": "In 2012, Socorro city officials Ravi Bhasker and Pat Salome commissioned local artist Erika Burleigh to paint a mural on a spillway facing Park Street to commemorate Zamora's alleged UFO sighting."
+  },
+  {
+   "s": "salome",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "In 2012, Socorro city officials Ravi Bhasker and Pat Salome commissioned local artist Erika Burleigh to paint a mural on a spillway facing Park Street to commemorate Zamora's alleged UFO sighting."
+  },
+  {
+   "s": "salome",
+   "p": "commissioned",
+   "o": "mural",
+   "quote": "In 2012, Socorro city officials Ravi Bhasker and Pat Salome commissioned local artist Erika Burleigh to paint a mural on a spillway facing Park Street to commemorate Zamora's alleged UFO sighting."
+  },
+  {
+   "s": "salome",
+   "p": "occupation",
+   "v": "Socorro city official",
+   "quote": "In 2012, Socorro city officials Ravi Bhasker and Pat Salome commissioned local artist Erika Burleigh to paint a mural on a spillway facing Park Street to commemorate Zamora's alleged UFO sighting."
+  },
+  {
+   "s": "bhasker",
+   "p": "colleague_of",
+   "o": "salome",
+   "quote": "In 2012, Socorro city officials Ravi Bhasker and Pat Salome commissioned local artist Erika Burleigh to paint a mural on a spillway facing Park Street to commemorate Zamora's alleged UFO sighting."
+  },
+  {
+   "s": "burleigh",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "In 2012, Socorro city officials Ravi Bhasker and Pat Salome commissioned local artist Erika Burleigh to paint a mural on a spillway facing Park Street to commemorate Zamora's alleged UFO sighting."
+  },
+  {
+   "s": "burleigh",
+   "p": "authored",
+   "o": "mural",
+   "quote": "In 2012, Socorro city officials Ravi Bhasker and Pat Salome commissioned local artist Erika Burleigh to paint a mural on a spillway facing Park Street to commemorate Zamora's alleged UFO sighting."
+  },
+  {
+   "s": "burleigh",
+   "p": "occupation",
+   "v": "local artist",
+   "quote": "In 2012, Socorro city officials Ravi Bhasker and Pat Salome commissioned local artist Erika Burleigh to paint a mural on a spillway facing Park Street to commemorate Zamora's alleged UFO sighting."
+  },
+  {
+   "s": "steiger",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Brad Steiger, Project Blue Book, 1976, Ballantine Books, ISBN 0345260910 (contains Air Force's account with maps, Zamora's account, reports of J. Allen Hynek)"
+  },
+  {
+   "s": "steiger",
+   "p": "authored",
+   "o": "steiger_book",
+   "quote": "Brad Steiger, Project Blue Book, 1976, Ballantine Books, ISBN 0345260910 (contains Air Force's account with maps, Zamora's account, reports of J. Allen Hynek)"
+  },
+  {
+   "s": "hynek",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Brad Steiger, Project Blue Book, 1976, Ballantine Books, ISBN 0345260910 (contains Air Force's account with maps, Zamora's account, reports of J. Allen Hynek)"
+  },
+  {
+   "s": "hynek",
+   "p": "mentioned_by",
+   "o": "steiger_book",
+   "quote": "Brad Steiger, Project Blue Book, 1976, Ballantine Books, ISBN 0345260910 (contains Air Force's account with maps, Zamora's account, reports of J. Allen Hynek)"
+  },
+  {
+   "s": "hynek",
+   "p": "authored_reports",
+   "v": "reports contained in Brad Steiger's Project Blue Book",
+   "quote": "Brad Steiger, Project Blue Book, 1976, Ballantine Books, ISBN 0345260910 (contains Air Force's account with maps, Zamora's account, reports of J. Allen Hynek)"
+  },
+  {
+   "s": "dunning",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Dunning, Brian (August 1, 2017). \"Skeptoid #582: Lonnie Zamora and the Socorro UFO\". Skeptoid."
+  },
+  {
+   "s": "dunning",
+   "p": "authored",
+   "o": "skeptoid",
+   "quote": "Dunning, Brian (August 1, 2017). \"Skeptoid #582: Lonnie Zamora and the Socorro UFO\". Skeptoid."
+  },
+  {
+   "s": "socorro_police",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On April 24, 1964 at approximately 17:45, Socorro Police radio dispatcher Nep Lopez received a radio call from Sergeant Lonnie Zamora reporting a possible motor vehicle accident."
+  },
+  {
+   "s": "socorro_police",
+   "p": "located_in",
+   "o": "socorro",
+   "quote": "Socorro police officer Lonnie Zamora claimed that he saw two people dressed in white beside a shiny egg shaped object that later rose into the air accompanied by a roaring blue and orange flame"
+  },
+  {
+   "s": "nmsp",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "When Lopez asked Zamora to describe it, Zamora said \"it looks like a balloon” and requested New Mexico State Police Sergeant Chavez meet him at his location."
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Zamora's claims were subject to attention from news media and UFO investigators and organizations, and the U.S. Air Force's Project Blue Book listed the case as \"unknown\"."
+  },
+  {
+   "s": "bluebook",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "Zamora's claims were investigated by Project Blue Book and ufologists, and have been reported in the popular press."
+  },
+  {
+   "s": "bluebook",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "Zamora's claims were subject to attention from news media and UFO investigators and organizations, and the U.S. Air Force's Project Blue Book listed the case as \"unknown\"."
+  },
+  {
+   "s": "bluebook",
+   "p": "classification_of_case",
+   "v": "unknown",
+   "quote": "Zamora's claims were subject to attention from news media and UFO investigators and organizations, and the U.S. Air Force's Project Blue Book listed the case as \"unknown\"."
+  },
+  {
+   "s": "nmt",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Conventional explanations of Zamora's claims include a lunar lander test by White Sands Missile Range and a hoax by New Mexico Tech students."
+  },
+  {
+   "s": "nmt",
+   "p": "alleged_role",
+   "v": "students suggested to have perpetrated a hoax",
+   "quote": "Skeptic Robert Sheaffer suggested that the incident was a hoax perpetrated by students at New Mexico Tech."
+  },
+  {
+   "s": "chamber",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 1966, the president of the Socorro County's Chamber of Commerce, Paul Ridings, proposed developing the site of Zamora’s claimed UFO encounter to make it more accessible to tourists."
+  },
+  {
+   "s": "socorro",
+   "p": "near",
+   "o": "case",
+   "quote": "The Lonnie Zamora incident was an alleged UFO sighting that occurred on April 24, 1964 near Socorro, New Mexico"
+  },
+  {
+   "s": "socorro",
+   "p": "located_in",
+   "o": "new_mexico",
+   "quote": "The Lonnie Zamora incident was an alleged UFO sighting that occurred on April 24, 1964 near Socorro, New Mexico"
+  },
+  {
+   "s": "new_mexico",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Lonnie Zamora incident was an alleged UFO sighting that occurred on April 24, 1964 near Socorro, New Mexico"
+  },
+  {
+   "s": "wsmr",
+   "p": "related_place",
+   "o": "case",
+   "quote": "It has also been suggested Zamora witnessed the testing of a lunar landing device by personnel from the White Sands Missile Range."
+  },
+  {
+   "s": "wsmr",
+   "p": "alleged_role",
+   "v": "testing of a lunar landing device by personnel from the range",
+   "quote": "It has also been suggested Zamora witnessed the testing of a lunar landing device by personnel from the White Sands Missile Range."
+  },
+  {
+   "s": "park_street",
+   "p": "related_place",
+   "o": "case",
+   "quote": "In 2012, Socorro city officials Ravi Bhasker and Pat Salome commissioned local artist Erika Burleigh to paint a mural on a spillway facing Park Street to commemorate Zamora's alleged UFO sighting."
+  },
+  {
+   "s": "park_street",
+   "p": "located_in",
+   "o": "socorro",
+   "quote": "In 2012, Socorro city officials Ravi Bhasker and Pat Salome commissioned local artist Erika Burleigh to paint a mural on a spillway facing Park Street to commemorate Zamora's alleged UFO sighting."
+  },
+  {
+   "s": "mural",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2012, Socorro city officials Ravi Bhasker and Pat Salome commissioned local artist Erika Burleigh to paint a mural on a spillway facing Park Street to commemorate Zamora's alleged UFO sighting."
+  },
+  {
+   "s": "mural",
+   "p": "year",
+   "v": "2012",
+   "quote": "In 2012, Socorro city officials Ravi Bhasker and Pat Salome commissioned local artist Erika Burleigh to paint a mural on a spillway facing Park Street to commemorate Zamora's alleged UFO sighting."
+  },
+  {
+   "s": "mural",
+   "p": "location",
+   "v": "on a spillway facing Park Street",
+   "quote": "In 2012, Socorro city officials Ravi Bhasker and Pat Salome commissioned local artist Erika Burleigh to paint a mural on a spillway facing Park Street to commemorate Zamora's alleged UFO sighting."
+  },
+  {
+   "s": "steiger_book",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Brad Steiger, Project Blue Book, 1976, Ballantine Books, ISBN 0345260910 (contains Air Force's account with maps, Zamora's account, reports of J. Allen Hynek)"
+  },
+  {
+   "s": "steiger_book",
+   "p": "year",
+   "v": "1976",
+   "quote": "Brad Steiger, Project Blue Book, 1976, Ballantine Books, ISBN 0345260910 (contains Air Force's account with maps, Zamora's account, reports of J. Allen Hynek)"
+  },
+  {
+   "s": "steiger_book",
+   "p": "publisher",
+   "v": "Ballantine Books",
+   "quote": "Brad Steiger, Project Blue Book, 1976, Ballantine Books, ISBN 0345260910 (contains Air Force's account with maps, Zamora's account, reports of J. Allen Hynek)"
+  },
+  {
+   "s": "steiger_book",
+   "p": "isbn",
+   "v": "0345260910",
+   "quote": "Brad Steiger, Project Blue Book, 1976, Ballantine Books, ISBN 0345260910 (contains Air Force's account with maps, Zamora's account, reports of J. Allen Hynek)"
+  },
+  {
+   "s": "steiger_book",
+   "p": "contents",
+   "v": "Air Force's account with maps, Zamora's account, reports of J. Allen Hynek",
+   "quote": "Brad Steiger, Project Blue Book, 1976, Ballantine Books, ISBN 0345260910 (contains Air Force's account with maps, Zamora's account, reports of J. Allen Hynek)"
+  },
+  {
+   "s": "skeptoid",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Dunning, Brian (August 1, 2017). \"Skeptoid #582: Lonnie Zamora and the Socorro UFO\". Skeptoid."
+  },
+  {
+   "s": "skeptoid",
+   "p": "date",
+   "v": "2017-08-01",
+   "quote": "Dunning, Brian (August 1, 2017). \"Skeptoid #582: Lonnie Zamora and the Socorro UFO\". Skeptoid."
+  },
+  {
+   "s": "skeptoid",
+   "p": "published_in",
+   "v": "Skeptoid",
+   "quote": "Dunning, Brian (August 1, 2017). \"Skeptoid #582: Lonnie Zamora and the Socorro UFO\". Skeptoid."
+  },
+  {
+   "s": "ksrc_interview",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Lonnie Zamora interview on KSRC Radio"
+  },
+  {
+   "s": "ksrc_interview",
+   "p": "broadcaster",
+   "v": "KSRC Radio",
+   "quote": "Lonnie Zamora interview on KSRC Radio"
+  },
+  {
+   "s": "zamora",
+   "p": "interviewed_in",
+   "o": "ksrc_interview",
+   "quote": "Lonnie Zamora interview on KSRC Radio"
+  },
+  {
+   "s": "eagle_river",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Eagle River encounter, where men in an unidentified aircraft allegedly landed, taking water and giving pancakes"
+  },
+  {
+   "s": "eagle_river",
+   "p": "description",
+   "v": "men in an unidentified aircraft allegedly landed, taking water and giving pancakes",
+   "quote": "Eagle River encounter, where men in an unidentified aircraft allegedly landed, taking water and giving pancakes"
+  },
+  {
+   "s": "f_egg",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Socorro police officer Lonnie Zamora claimed that he saw two people dressed in white beside a shiny egg shaped object that later rose into the air accompanied by a roaring blue and orange flame"
+  },
+  {
+   "s": "f_occupants",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Zamora claimed to have briefly observed two people in white overalls beside the object, whom he later described as \"normal in shape—but possibly they were small adults or large kids.\""
+  },
+  {
+   "s": "f_landing",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "There were also shallow holes in the ground, which Zamora said was from the object landing."
+  },
+  {
+   "s": "f_traces",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "When other police officers arrived, they noted patches of smoldering grass and brush."
+  },
+  {
+   "s": "f_traces",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "There were also shallow holes in the ground, which Zamora said was from the object landing."
+  },
+  {
+   "s": "f_sound",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Zamora claimed to hear a roar and see a blue and orange flame under the object, which then rose and quickly moved away."
+  },
+  {
+   "s": "f_police",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Socorro police officer Lonnie Zamora claimed that he saw two people dressed in white beside a shiny egg shaped object that later rose into the air accompanied by a roaring blue and orange flame"
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "UFO skeptic Steuart Campbell has suggested that everything seen and heard by Zamora and fellow witnesses was \"almost certainly\" a mirage of the star Canopus."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Zamora's claims were investigated by Project Blue Book and ufologists, and have been reported in the popular press."
+  },
+  {
+   "s": "f_hoax",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Skeptic Robert Sheaffer suggested that the incident was a hoax perpetrated by students at New Mexico Tech."
+  },
+  {
+   "s": "f_flame",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Zamora claimed to hear a roar and see a blue and orange flame under the object, which then rose and quickly moved away."
+  },
+  {
+   "s": "x_test",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "It has also been suggested Zamora witnessed the testing of a lunar landing device by personnel from the White Sands Missile Range."
+  },
+  {
+   "s": "x_test",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Conventional explanations of Zamora's claims include a lunar lander test by White Sands Missile Range and a hoax by New Mexico Tech students."
+  },
+  {
+   "s": "x_hoax",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Skeptic Robert Sheaffer suggested that the incident was a hoax perpetrated by students at New Mexico Tech."
+  },
+  {
+   "s": "x_hoax",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Skeptic Philip J. Klass, who visited Socorro several years after the incident, claimed that the entire event was part of a plan by the municipal government to increase tourism."
+  },
+  {
+   "s": "x_star",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "UFO skeptic Steuart Campbell has suggested that everything seen and heard by Zamora and fellow witnesses was \"almost certainly\" a mirage of the star Canopus."
+  },
+  {
+   "s": "x_balloon",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Then-president of New Mexico Tech Stirling Colgate supported this theory, and wrote that the object observed by Zamora was: \"A candle in a balloon. Not sophisticated.\""
+  }
+ ]
+}

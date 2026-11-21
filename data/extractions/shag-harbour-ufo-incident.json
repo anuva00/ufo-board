@@ -1,0 +1,2402 @@
+{
+ "slug": "shag-harbour-ufo-incident",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Shag Harbour UFO incident",
+   "aliases": [
+    "Shag Harbour incident",
+    "The Shag Harbour UFO"
+   ],
+   "description": "Reported impact of a large, unknown object into waters near Shag Harbour, Nova Scotia, on 4 October 1967."
+  },
+  {
+   "key": "ralph",
+   "type": "person",
+   "name": "Robert Ralph",
+   "aliases": [
+    "First Officer Robert Ralph"
+   ],
+   "description": "Air Canada First Officer on Flight 305 who pointed out the object"
+  },
+  {
+   "key": "charbonneau",
+   "type": "person",
+   "name": "Pierre Charbonneau",
+   "aliases": [
+    "Captain Pierre Charbonneau"
+   ],
+   "description": "Captain of Air Canada Flight 305 who reported the object"
+  },
+  {
+   "key": "dorey",
+   "type": "person",
+   "name": "Darrel Dorey",
+   "description": "Mahone Bay resident who saw a large object and wrote to RCAF Greenwood"
+  },
+  {
+   "key": "kaykay",
+   "type": "person",
+   "name": "Kaykay Dorey",
+   "aliases": [
+    "Kaykay"
+   ],
+   "description": "Sister of Darrel Dorey, saw the object from Mahone Bay"
+  },
+  {
+   "key": "mersey",
+   "type": "person",
+   "name": "Leo Howard Mersey",
+   "aliases": [
+    "Captain Leo Howard Mersey",
+    "Mersey"
+   ],
+   "description": "Captain of the MV Nickerson who saw four objects on radar and visually"
+  },
+  {
+   "key": "wickens",
+   "type": "person",
+   "name": "Laurie Wickens",
+   "aliases": [
+    "Wickens"
+   ],
+   "description": "Local resident who made the initial report of the crash"
+  },
+  {
+   "key": "macleod",
+   "type": "person",
+   "name": "Ray MacLeod",
+   "description": "Author of the 7 October Chronicle-Herald article"
+  },
+  {
+   "key": "bain",
+   "type": "person",
+   "name": "Bain",
+   "aliases": [
+    "Squadron Leader Bain"
+   ],
+   "description": "Squadron Leader, head of the Air Force's Air Desk in Ottawa"
+  },
+  {
+   "key": "dunning",
+   "type": "person",
+   "name": "Brian Dunning",
+   "aliases": [
+    "Dunning, Brian"
+   ],
+   "description": "Author of the Skeptoid episode on the case"
+  },
+  {
+   "key": "rcmp",
+   "type": "organization",
+   "name": "Royal Canadian Mounted Police",
+   "aliases": [
+    "RCMP"
+   ],
+   "description": "Canadian police force that responded to and investigated the reports"
+  },
+  {
+   "key": "rcmp_barrington",
+   "type": "organization",
+   "name": "RCMP detachment in Barrington Passage",
+   "aliases": [
+    "the RCMP detachment"
+   ],
+   "description": "RCMP detachment Wickens contacted"
+  },
+  {
+   "key": "rcmp_lunenburg",
+   "type": "organization",
+   "name": "Lunenburg RCMP",
+   "description": "RCMP office where Mersey filed his report"
+  },
+  {
+   "key": "ccg",
+   "type": "organization",
+   "name": "Canadian Coast Guard",
+   "description": "Civilian agency whose cutter searched the crash site"
+  },
+  {
+   "key": "canforces",
+   "type": "organization",
+   "name": "Canadian Forces",
+   "aliases": [
+    "Canadian military",
+    "The Canadian military"
+   ],
+   "description": "Canadian military, involved in the rescue/recovery effort"
+  },
+  {
+   "key": "navy",
+   "type": "organization",
+   "name": "Royal Canadian Navy",
+   "aliases": [
+    "Canadian Forces Navy",
+    "the Navy",
+    "Navy"
+   ],
+   "description": "Navy that mounted the underwater search"
+  },
+  {
+   "key": "rcaf",
+   "type": "organization",
+   "name": "Royal Canadian Air Force",
+   "aliases": [
+    "RCAF",
+    "Air Force",
+    "the Air Force"
+   ],
+   "description": "Air force whose Air Desk handled UFO sightings"
+  },
+  {
+   "key": "airdesk",
+   "type": "organization",
+   "name": "Royal Canadian Air Force Air Desk",
+   "aliases": [
+    "Air Desk"
+   ],
+   "description": "Desk at RCAF headquarters in Ottawa that handled all civilian and military UFO sightings"
+  },
+  {
+   "key": "rcc",
+   "type": "organization",
+   "name": "Rescue Coordination Centre Halifax",
+   "aliases": [
+    "RCC Halifax",
+    "Rescue Coordination Centre (RCC)",
+    "RCC",
+    "rescue coordination centre"
+   ],
+   "description": "Rescue coordination centre in Halifax"
+  },
+  {
+   "key": "fdu",
+   "type": "organization",
+   "name": "Fleet Diving Unit Atlantic",
+   "description": "Navy diving unit tasked with the underwater search"
+  },
+  {
+   "key": "aircanada",
+   "type": "organization",
+   "name": "Air Canada",
+   "description": "Airline operating Flight 305"
+  },
+  {
+   "key": "herald",
+   "type": "organization",
+   "name": "The Chronicle-Herald",
+   "aliases": [
+    "Chronicle-Herald"
+   ],
+   "description": "Newspaper that gave the reports front page coverage"
+  },
+  {
+   "key": "cp",
+   "type": "organization",
+   "name": "The Canadian Press",
+   "description": "News agency that carried the story of the search being called off"
+  },
+  {
+   "key": "gov",
+   "type": "organization",
+   "name": "Government of Canada",
+   "description": "Government whose documents refer to the object as a UFO"
+  },
+  {
+   "key": "dnd",
+   "type": "organization",
+   "name": "Department of National Defence",
+   "description": "Department whose files hold a summary of the event"
+  },
+  {
+   "key": "lac",
+   "type": "organization",
+   "name": "Library and Archives Canada",
+   "aliases": [
+    "national Library and Archives",
+    "Library and Archives"
+   ],
+   "description": "National archive where the Department of National Defence files are located"
+  },
+  {
+   "key": "condon",
+   "type": "program",
+   "name": "Condon Committee",
+   "aliases": [
+    "U.S. Condon Committee"
+   ],
+   "description": "U.S. study that investigated the reports"
+  },
+  {
+   "key": "shag",
+   "type": "place",
+   "name": "Shag Harbour, Canada",
+   "aliases": [
+    "Shag Harbour, Nova Scotia",
+    "Shag Harbour"
+   ],
+   "description": "Small fishing village on the Atlantic coast of Nova Scotia"
+  },
+  {
+   "key": "ns",
+   "type": "place",
+   "name": "Nova Scotia",
+   "description": "Canadian province"
+  },
+  {
+   "key": "canada",
+   "type": "place",
+   "name": "Canada",
+   "description": "Country of the incident"
+  },
+  {
+   "key": "gulf",
+   "type": "place",
+   "name": "Gulf of Maine",
+   "description": "Body of water off Shag Harbour where the crash site was searched"
+  },
+  {
+   "key": "hwy3",
+   "type": "place",
+   "name": "Highway 3",
+   "description": "Road through Shag Harbour on which Wickens was driving"
+  },
+  {
+   "key": "barrington",
+   "type": "place",
+   "name": "Barrington Passage, Canada",
+   "aliases": [
+    "Barrington Passage"
+   ],
+   "description": "Location of the RCMP detachment Wickens contacted"
+  },
+  {
+   "key": "clarks",
+   "type": "place",
+   "name": "Clark's Harbour, Canada",
+   "aliases": [
+    "Clark's Harbour"
+   ],
+   "description": "Nearby harbour from which the Coast Guard cutter came"
+  },
+  {
+   "key": "halifax",
+   "type": "place",
+   "name": "Halifax, Canada",
+   "aliases": [
+    "Halifax"
+   ],
+   "description": "City with the Rescue Coordination Centre; glowing objects reported around it"
+  },
+  {
+   "key": "halifax_harbour",
+   "type": "place",
+   "name": "Halifax Harbour",
+   "description": "Location named for the glowing object sightings"
+  },
+  {
+   "key": "hia",
+   "type": "place",
+   "name": "Halifax International Airport",
+   "description": "Departure airport of Flight 305"
+  },
+  {
+   "key": "toronto",
+   "type": "place",
+   "name": "Toronto, Canada",
+   "aliases": [
+    "Toronto"
+   ],
+   "description": "Destination of Flight 305"
+  },
+  {
+   "key": "sherbrooke",
+   "type": "place",
+   "name": "Sherbrooke, Canada",
+   "aliases": [
+    "Sherbrooke",
+    "Sherbrooke, Quebec"
+   ],
+   "description": "Town in Quebec overflown by Flight 305 at the time of the sighting"
+  },
+  {
+   "key": "stjean",
+   "type": "place",
+   "name": "Saint-Jean, Canada",
+   "aliases": [
+    "Saint-Jean",
+    "Saint-Jean, Quebec"
+   ],
+   "description": "Town in Quebec overflown by Flight 305 at the time of the sighting"
+  },
+  {
+   "key": "quebec",
+   "type": "place",
+   "name": "Quebec",
+   "description": "Canadian province"
+  },
+  {
+   "key": "mahone",
+   "type": "place",
+   "name": "Mahone Bay, Canada",
+   "aliases": [
+    "Mahone Bay"
+   ],
+   "description": "Where the Dorey family saw a large object"
+  },
+  {
+   "key": "greenwood",
+   "type": "place",
+   "name": "RCAF Greenwood",
+   "description": "Air force base whose commander Dorey wrote to"
+  },
+  {
+   "key": "sambro",
+   "type": "place",
+   "name": "Sambro, Canada",
+   "aliases": [
+    "Sambro, Nova Scotia",
+    "Sambro"
+   ],
+   "description": "Home port named for the MV Nickerson"
+  },
+  {
+   "key": "lunenburg",
+   "type": "place",
+   "name": "Lunenburg, Canada",
+   "aliases": [
+    "Lunenburg"
+   ],
+   "description": "Location of the RCMP office where Mersey filed a report"
+  },
+  {
+   "key": "ottawa",
+   "type": "place",
+   "name": "Ottawa, Canada",
+   "aliases": [
+    "Ottawa"
+   ],
+   "description": "Location of Royal Canadian Air Force headquarters and the Air Desk"
+  },
+  {
+   "key": "seaboard",
+   "type": "place",
+   "name": "Eastern seaboard",
+   "aliases": [
+    "eastern seaboard"
+   ],
+   "description": "Region along which all aircraft were accounted for"
+  },
+  {
+   "key": "atlprov",
+   "type": "place",
+   "name": "Atlantic provinces",
+   "description": "Canadian region where all aircraft were accounted for"
+  },
+  {
+   "key": "newengland",
+   "type": "place",
+   "name": "New England",
+   "description": "US region where all aircraft were accounted for"
+  },
+  {
+   "key": "craft_main",
+   "type": "craft",
+   "name": "Object reported crashing into the waters of Shag Harbour",
+   "aliases": [
+    "the flying object",
+    "mysterious dark object"
+   ],
+   "description": "Low-flying lit object seen descending into the water, floating, then sinking"
+  },
+  {
+   "key": "craft_305",
+   "type": "craft",
+   "name": "Rectangular object seen from Air Canada Flight 305",
+   "description": "Brilliantly lit rectangular object with trailing lights, seen at 7:15 pm"
+  },
+  {
+   "key": "craft_mahone",
+   "type": "craft",
+   "name": "Large object seen from Mahone Bay",
+   "aliases": [
+    "Yellow object"
+   ],
+   "description": "Large object manoeuvring above the southwestern horizon"
+  },
+  {
+   "key": "craft_nick",
+   "type": "craft",
+   "name": "Four bright objects seen from the MV Nickerson",
+   "description": "Four stationary radar blips and bright objects in a roughly rectangular formation"
+  },
+  {
+   "key": "craft_halifax",
+   "type": "craft",
+   "name": "Glowing objects reported around Halifax",
+   "description": "Strange glowing objects flying around Halifax at around 10:00 pm"
+  },
+  {
+   "key": "flight305",
+   "type": "vehicle",
+   "name": "Air Canada Flight 305",
+   "aliases": [
+    "Flight 305",
+    "Air Canada flight 305"
+   ],
+   "description": "Plane bound from Halifax International Airport to Toronto"
+  },
+  {
+   "key": "nickerson",
+   "type": "vehicle",
+   "name": "MV Nickerson",
+   "description": "Fishing vessel of Sambro, Nova Scotia, captained by Leo Howard Mersey"
+  },
+  {
+   "key": "cutter",
+   "type": "vehicle",
+   "name": "Canadian Coast Guard search and rescue cutter",
+   "aliases": [
+    "Canadian Coast Guard cutter"
+   ],
+   "description": "Cutter from Clark's Harbour that searched the crash site"
+  },
+  {
+   "key": "boats",
+   "type": "vehicle",
+   "name": "Local fishing boats",
+   "description": "Boats that went out to the crash site to look for survivors"
+  },
+  {
+   "key": "doc_charb",
+   "type": "document",
+   "name": "Captain Charbonneau's report",
+   "description": "Report by the captain of Flight 305 on the object"
+  },
+  {
+   "key": "doc_dorey",
+   "type": "document",
+   "name": "Darrel Dorey's letter to the RCAF Greenwood Base Commander",
+   "description": "Letter asking what was flying over the water that evening"
+  },
+  {
+   "key": "doc_mersey",
+   "type": "document",
+   "name": "Mersey's report to the Lunenburg RCMP",
+   "description": "Report outlining Mersey's sighting"
+  },
+  {
+   "key": "doc_telex_rcc",
+   "type": "document",
+   "name": "RCC Halifax priority telex to the Air Desk",
+   "aliases": [
+    "UFO Report"
+   ],
+   "description": "Telex informing RCAF headquarters of the crash, labelled a \"UFO Report\""
+  },
+  {
+   "key": "doc_telex_airdesk",
+   "type": "document",
+   "name": "Air Desk priority telex to Royal Canadian Navy headquarters",
+   "description": "Telex recommending an underwater search"
+  },
+  {
+   "key": "doc_telex_navy",
+   "type": "document",
+   "name": "Navy priority telex tasking Fleet Diving Unit Atlantic",
+   "description": "Telex tasking the diving unit with the search"
+  },
+  {
+   "key": "doc_radio",
+   "type": "document",
+   "name": "RCC Halifax radio message to the Coast Guard cutter",
+   "description": "Message that all aircraft were accounted for"
+  },
+  {
+   "key": "doc_final",
+   "type": "document",
+   "name": "Final report of the underwater search",
+   "description": "Report stating no trace of an object had been found"
+  },
+  {
+   "key": "doc_dnd",
+   "type": "document",
+   "name": "Department of National Defence summary of the event",
+   "description": "Summary held at the national Library and Archives"
+  },
+  {
+   "key": "doc_gov",
+   "type": "document",
+   "name": "Government of Canada documents",
+   "description": "Documents referring to the object as an unidentified flying object"
+  },
+  {
+   "key": "art1",
+   "type": "work",
+   "name": "Could Be Something Concrete in Shag Harbour UFO – RCAF",
+   "description": "7 October Chronicle-Herald headline story by Ray MacLeod"
+  },
+  {
+   "key": "art2",
+   "type": "work",
+   "name": "UFO Search Called Off",
+   "description": "9 October Chronicle-Herald story on the end of the Navy search"
+  },
+  {
+   "key": "skeptoid",
+   "type": "work",
+   "name": "Skeptoid #565: The Shag Harbour UFO",
+   "aliases": [
+    "Skeptoid"
+   ],
+   "description": "2017 Skeptoid episode by Brian Dunning"
+  },
+  {
+   "key": "f_water",
+   "type": "feature",
+   "name": "water-related"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses"
+  },
+  {
+   "key": "f_sound",
+   "type": "feature",
+   "name": "sound-reported"
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation"
+  },
+  {
+   "key": "f_radar",
+   "type": "feature",
+   "name": "radar-contact"
+  },
+  {
+   "key": "f_pilot",
+   "type": "feature",
+   "name": "pilot-witnesses"
+  },
+  {
+   "key": "f_shape",
+   "type": "feature",
+   "name": "shape-other"
+  },
+  {
+   "key": "f_crash",
+   "type": "feature",
+   "name": "crash-retrieval-claim"
+  },
+  {
+   "key": "x_aircraft",
+   "type": "explanation",
+   "name": "conventional-aircraft"
+  },
+  {
+   "key": "x_flares",
+   "type": "explanation",
+   "name": "flares"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1967-10-04",
+   "quote": "On the night of 4 October 1967, at about 11:20 pm Atlantic Daylight Time, it was reported that something had crashed into the waters of Shag Harbour."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1967-10-04",
+   "quote": "The Shag Harbour UFO incident was the reported impact of a large, unknown object into waters near Shag Harbour, Nova Scotia, a small fishing village on the Atlantic coast, on 4 October 1967."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "about 11:20 pm Atlantic Daylight Time",
+   "quote": "On the night of 4 October 1967, at about 11:20 pm Atlantic Daylight Time, it was reported that something had crashed into the waters of Shag Harbour."
+  },
+  {
+   "s": "case",
+   "p": "day_of_week",
+   "v": "Wednesday",
+   "quote": "The Chronicle-Herald ran another story on 9 October titled \"UFO Search Called Off,\" stating that the Navy had ended \"an intensive undersea search for the mysterious unidentified flying object that disappeared into the ocean here Wednesday night.\""
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "Canada",
+   "quote": "The reports were investigated by various Canadian civilian (RCMP and Canadian Coast Guard) and military (Canadian Forces Navy and Air Force) agencies as well as the U.S. Condon Committee."
+  },
+  {
+   "s": "case",
+   "p": "witness_count",
+   "v": "at least 11",
+   "quote": "At least eleven people saw a low-flying lit object head towards the harbour."
+  },
+  {
+   "s": "case",
+   "p": "summary",
+   "v": "reported impact of a large, unknown object into waters near Shag Harbour",
+   "quote": "The Shag Harbour UFO incident was the reported impact of a large, unknown object into waters near Shag Harbour, Nova Scotia, a small fishing village on the Atlantic coast, on 4 October 1967."
+  },
+  {
+   "s": "case",
+   "p": "initial_report",
+   "v": "something had crashed into the waters of Shag Harbour",
+   "quote": "On the night of 4 October 1967, at about 11:20 pm Atlantic Daylight Time, it was reported that something had crashed into the waters of Shag Harbour."
+  },
+  {
+   "s": "case",
+   "p": "initial_report_by",
+   "v": "local resident Laurie Wickens and four of his friends",
+   "quote": "The initial report was made by local resident Laurie Wickens and four of his friends."
+  },
+  {
+   "s": "case",
+   "p": "sounds_heard",
+   "v": "whistling sound \"like a bomb\", then a \"whoosh\", and finally a loud bang",
+   "quote": "Multiple witnesses reported hearing a whistling sound \"like a bomb,\" then a \"whoosh,\" and finally a loud bang."
+  },
+  {
+   "s": "case",
+   "p": "identification_status",
+   "v": "object never officially identified; referred to as an unidentified flying object in Government of Canada documents",
+   "quote": "The object was never officially identified, and was therefore referred to as an unidentified flying object (UFO) in Government of Canada documents."
+  },
+  {
+   "s": "case",
+   "p": "official_label",
+   "v": "UFO Report",
+   "quote": "Therefore, this was labelled a \"UFO Report\"."
+  },
+  {
+   "s": "case",
+   "p": "military_involvement",
+   "v": "Canadian military became involved in a subsequent rescue/recovery effort",
+   "quote": "The Canadian military became involved in a subsequent rescue/recovery effort."
+  },
+  {
+   "s": "case",
+   "p": "rcmp_response_time",
+   "v": "within about 15 minutes",
+   "quote": "Within about 15 minutes, two RCMP officers arrived at the scene, having assumed an aircraft had crashed."
+  },
+  {
+   "s": "case",
+   "p": "rcmp_officers_at_scene",
+   "v": "2",
+   "quote": "Within about 15 minutes, two RCMP officers arrived at the scene, having assumed an aircraft had crashed."
+  },
+  {
+   "s": "case",
+   "p": "rcmp_assumption",
+   "v": "an aircraft had crashed",
+   "quote": "Within about 15 minutes, two RCMP officers arrived at the scene, having assumed an aircraft had crashed."
+  },
+  {
+   "s": "case",
+   "p": "rcmp_inquiry",
+   "v": "RCMP detachment contacted the Rescue Coordination Centre in Halifax to advise them and ask if any aircraft were missing",
+   "quote": "Concerned for survivors, the RCMP detachment contacted the Rescue Coordination Centre (RCC) in Halifax to advise them of the situation and ask if any aircraft were missing."
+  },
+  {
+   "s": "case",
+   "p": "rescue_mission",
+   "v": "a rescue mission was quickly assembled",
+   "quote": "A rescue mission was quickly assembled."
+  },
+  {
+   "s": "case",
+   "p": "fishing_boat_search",
+   "v": "within half an hour of the crash, local fishing boats went out to the crash site to look for survivors",
+   "quote": "Within half an hour of the crash, local fishing boats went out to the crash site in the waters of the Gulf of Maine off Shag Harbour to look for survivors."
+  },
+  {
+   "s": "case",
+   "p": "search_result",
+   "v": "no survivors, bodies, or debris were taken by the fishermen or the Coast Guard cutter",
+   "quote": "No survivors, bodies, or debris were taken, either by the fishermen or by a Canadian Coast Guard search and rescue cutter, which arrived about an hour later from nearby Clark's Harbour."
+  },
+  {
+   "s": "case",
+   "p": "cutter_arrival",
+   "v": "about an hour later, from nearby Clark's Harbour",
+   "quote": "No survivors, bodies, or debris were taken, either by the fishermen or by a Canadian Coast Guard search and rescue cutter, which arrived about an hour later from nearby Clark's Harbour."
+  },
+  {
+   "s": "case",
+   "p": "missing_aircraft_check",
+   "v": "by the next morning RCC Halifax had determined that no aircraft were missing",
+   "quote": "By the next morning, RCC Halifax had determined that no aircraft were missing."
+  },
+  {
+   "s": "case",
+   "p": "aircraft_accounted_for",
+   "v": "all commercial, private and military aircraft accounted for along the eastern seaboard, in both the Atlantic provinces and New England",
+   "quote": "While still tasked with the search, the captain of the Canadian Coast Guard cutter received a radio message from RCC Halifax indicating that all commercial, private and military aircraft were accounted for along the eastern seaboard, in both the Atlantic provinces and New England."
+  },
+  {
+   "s": "case",
+   "p": "explanations_dismissed",
+   "v": "all conventional explanations such as aircraft, flares, etc. had been dismissed",
+   "quote": "The same morning, RCC Halifax also sent a priority telex to the \"Air Desk\" at the Royal Canadian Air Force headquarters in Ottawa, which handled all civilian and military UFO sightings, informing them of the crash and that all conventional explanations such as aircraft, flares, etc. had been dismissed."
+  },
+  {
+   "s": "case",
+   "p": "telex_chain",
+   "v": "RCC Halifax to the Air Desk; Air Desk to Royal Canadian Navy headquarters; Navy to Fleet Diving Unit Atlantic",
+   "quote": "The Navy, in turn, sent another priority telex tasking Fleet Diving Unit Atlantic with carrying out the search."
+  },
+  {
+   "s": "case",
+   "p": "underwater_search_recommended_by",
+   "v": "head of the Air Desk",
+   "quote": "The head of the Air Desk then sent another priority telex to the Royal Canadian Navy headquarters concerning the \"UFO Report\" and recommended an underwater search be mounted."
+  },
+  {
+   "s": "case",
+   "p": "underwater_search_start",
+   "v": "two days after the incident had been observed",
+   "quote": "Two days after the incident had been observed, a detachment of Navy divers from Fleet Diving Unit Atlantic was assembled and for the next three days they combed the seafloor of the Gulf of Maine off Shag Harbour looking for an object."
+  },
+  {
+   "s": "case",
+   "p": "underwater_search_duration",
+   "v": "three days",
+   "quote": "Two days after the incident had been observed, a detachment of Navy divers from Fleet Diving Unit Atlantic was assembled and for the next three days they combed the seafloor of the Gulf of Maine off Shag Harbour looking for an object."
+  },
+  {
+   "s": "case",
+   "p": "underwater_search_area",
+   "v": "seafloor of the Gulf of Maine off Shag Harbour",
+   "quote": "Two days after the incident had been observed, a detachment of Navy divers from Fleet Diving Unit Atlantic was assembled and for the next three days they combed the seafloor of the Gulf of Maine off Shag Harbour looking for an object."
+  },
+  {
+   "s": "case",
+   "p": "underwater_search_result",
+   "v": "no trace of an object had been found",
+   "quote": "The final report said no trace of an object had been found."
+  },
+  {
+   "s": "case",
+   "p": "additional_divers",
+   "v": "three additional divers from Fleet Diving Unit Atlantic",
+   "quote": "The article, by Ray MacLeod, included witness descriptions of an alleged object and crash, the Air Force's search and rescue effort, and the Navy's underwater search that was underway, including three additional divers from Fleet Diving Unit Atlantic."
+  },
+  {
+   "s": "case",
+   "p": "navy_statement",
+   "v": "Not a trace... not a clue... not a bit of anything.",
+   "quote": "As to what was found, the Navy stated, \"Not a trace... not a clue... not a bit of anything.\""
+  },
+  {
+   "s": "case",
+   "p": "search_called_off_reported",
+   "v": "9 October",
+   "quote": "The Chronicle-Herald ran another story on 9 October titled \"UFO Search Called Off,\" stating that the Navy had ended \"an intensive undersea search for the mysterious unidentified flying object that disappeared into the ocean here Wednesday night.\""
+  },
+  {
+   "s": "case",
+   "p": "press_coverage",
+   "v": "extensive front page coverage in The Chronicle-Herald",
+   "quote": "The Shag Harbour reports received extensive front page coverage in The Chronicle-Herald."
+  },
+  {
+   "s": "case",
+   "p": "press_headline_date",
+   "v": "7 October",
+   "quote": "The paper ran a headline story on 7 October titled, \"Could Be Something Concrete in Shag Harbour UFO – RCAF.\""
+  },
+  {
+   "s": "case",
+   "p": "preceding_reports",
+   "v": "UFO reports immediately preceded the incident, including one from a woman in Halifax around 10:00 pm",
+   "quote": "The article also mentioned UFO reports that immediately preceded the incident, including the above-mentioned one from a woman in Halifax around 10:00 pm."
+  },
+  {
+   "s": "case",
+   "p": "air_desk_role",
+   "v": "handled all civilian and military UFO sightings",
+   "quote": "The same morning, RCC Halifax also sent a priority telex to the \"Air Desk\" at the Royal Canadian Air Force headquarters in Ottawa, which handled all civilian and military UFO sightings, informing them of the crash and that all conventional explanations such as aircraft, flares, etc. had been dismissed."
+  },
+  {
+   "s": "case",
+   "p": "air_force_report_volume",
+   "v": "hundreds of reports every week",
+   "quote": "\"We get hundreds of reports every week, but the Shag Harbour incident is one of the few where we may get something concrete on it.”"
+  },
+  {
+   "s": "case",
+   "p": "documents_location",
+   "v": "summary of the event in Department of National Defence files at the national Library and Archives",
+   "quote": "There is a summary of the event from the Department of National Defence files located at the national Library and Archives."
+  },
+  {
+   "s": "case",
+   "p": "pre_incident_flight_305_sighting_time",
+   "v": "7:15 pm",
+   "quote": "While flying over Sherbrooke and Saint-Jean, Quebec at 3,658 metres (12,001 ft), Air Canada First Officer Robert Ralph pointed out to Captain Pierre Charbonneau that there was something strange out the left side of the aircraft at 7:15 pm."
+  },
+  {
+   "s": "case",
+   "p": "pre_incident_halifax_sighting_time",
+   "v": "around 10:00 pm",
+   "quote": "They described strange glowing objects flying around Halifax at around 10:00 pm."
+  },
+  {
+   "s": "case",
+   "p": "pre_incident_nickerson_witnesses",
+   "v": "entire crew of nearly twenty fishermen",
+   "quote": "The entire crew of nearly twenty fishermen stood on deck and watched the object in the northeastern sky."
+  },
+  {
+   "s": "case",
+   "p": "pre_incident_mahone_bay_witnesses",
+   "v": "Darrel Dorey, his sister Kaykay, and his mother",
+   "quote": "Darrel Dorey, his sister Kaykay, and his mother were sitting on their front porch in Mahone Bay, when they noticed a large object manoeuvring above the southwestern horizon."
+  },
+  {
+   "s": "case",
+   "p": "pre_incident_halifax_witnesses",
+   "v": "various witnesses who called into newsrooms of The Chronicle-Herald and local radio stations",
+   "quote": "The Chronicle-Herald and local radio stations reported a glowing object that was observed by various witnesses who called into their newsrooms."
+  },
+  {
+   "s": "ralph",
+   "p": "witness",
+   "o": "case",
+   "quote": "While flying over Sherbrooke and Saint-Jean, Quebec at 3,658 metres (12,001 ft), Air Canada First Officer Robert Ralph pointed out to Captain Pierre Charbonneau that there was something strange out the left side of the aircraft at 7:15 pm."
+  },
+  {
+   "s": "ralph",
+   "p": "occupation",
+   "v": "First Officer",
+   "quote": "While flying over Sherbrooke and Saint-Jean, Quebec at 3,658 metres (12,001 ft), Air Canada First Officer Robert Ralph pointed out to Captain Pierre Charbonneau that there was something strange out the left side of the aircraft at 7:15 pm."
+  },
+  {
+   "s": "ralph",
+   "p": "employed_by",
+   "o": "aircanada",
+   "quote": "While flying over Sherbrooke and Saint-Jean, Quebec at 3,658 metres (12,001 ft), Air Canada First Officer Robert Ralph pointed out to Captain Pierre Charbonneau that there was something strange out the left side of the aircraft at 7:15 pm."
+  },
+  {
+   "s": "ralph",
+   "p": "colleague_of",
+   "o": "charbonneau",
+   "quote": "While flying over Sherbrooke and Saint-Jean, Quebec at 3,658 metres (12,001 ft), Air Canada First Officer Robert Ralph pointed out to Captain Pierre Charbonneau that there was something strange out the left side of the aircraft at 7:15 pm."
+  },
+  {
+   "s": "ralph",
+   "p": "piloted",
+   "o": "flight305",
+   "quote": "At 7:19 pm, the pilots noticed a sizeable silent explosion near the large object."
+  },
+  {
+   "s": "ralph",
+   "p": "statement",
+   "v": "pointed out to the captain that there was something strange out the left side of the aircraft",
+   "quote": "While flying over Sherbrooke and Saint-Jean, Quebec at 3,658 metres (12,001 ft), Air Canada First Officer Robert Ralph pointed out to Captain Pierre Charbonneau that there was something strange out the left side of the aircraft at 7:15 pm."
+  },
+  {
+   "s": "charbonneau",
+   "p": "witness",
+   "o": "case",
+   "quote": "In his report, the captain reported an object tracking along on a parallel course a few miles away."
+  },
+  {
+   "s": "charbonneau",
+   "p": "occupation",
+   "v": "Captain",
+   "quote": "While flying over Sherbrooke and Saint-Jean, Quebec at 3,658 metres (12,001 ft), Air Canada First Officer Robert Ralph pointed out to Captain Pierre Charbonneau that there was something strange out the left side of the aircraft at 7:15 pm."
+  },
+  {
+   "s": "charbonneau",
+   "p": "employed_by",
+   "o": "aircanada",
+   "quote": "While flying over Sherbrooke and Saint-Jean, Quebec at 3,658 metres (12,001 ft), Air Canada First Officer Robert Ralph pointed out to Captain Pierre Charbonneau that there was something strange out the left side of the aircraft at 7:15 pm."
+  },
+  {
+   "s": "charbonneau",
+   "p": "piloted",
+   "o": "flight305",
+   "quote": "While flying over Sherbrooke and Saint-Jean, Quebec at 3,658 metres (12,001 ft), Air Canada First Officer Robert Ralph pointed out to Captain Pierre Charbonneau that there was something strange out the left side of the aircraft at 7:15 pm."
+  },
+  {
+   "s": "charbonneau",
+   "p": "authored",
+   "o": "doc_charb",
+   "quote": "In his report, the captain reported an object tracking along on a parallel course a few miles away."
+  },
+  {
+   "s": "charbonneau",
+   "p": "described",
+   "o": "craft_305",
+   "quote": "He described it as a brilliantly lit, rectangular object with a string of smaller lights trailing behind it."
+  },
+  {
+   "s": "charbonneau",
+   "p": "statement",
+   "v": "reported an object tracking along on a parallel course a few miles away",
+   "quote": "In his report, the captain reported an object tracking along on a parallel course a few miles away."
+  },
+  {
+   "s": "dorey",
+   "p": "witness",
+   "o": "case",
+   "quote": "Darrel Dorey, his sister Kaykay, and his mother were sitting on their front porch in Mahone Bay, when they noticed a large object manoeuvring above the southwestern horizon."
+  },
+  {
+   "s": "dorey",
+   "p": "described",
+   "o": "craft_mahone",
+   "quote": "Darrel Dorey, his sister Kaykay, and his mother were sitting on their front porch in Mahone Bay, when they noticed a large object manoeuvring above the southwestern horizon."
+  },
+  {
+   "s": "dorey",
+   "p": "authored",
+   "o": "doc_dorey",
+   "quote": "The next day, he wrote a letter to RCAF Greenwood Base Commander asking what was flying over the water that evening, as he had never seen anything like it."
+  },
+  {
+   "s": "dorey",
+   "p": "statement",
+   "v": "he had never seen anything like it",
+   "quote": "The next day, he wrote a letter to RCAF Greenwood Base Commander asking what was flying over the water that evening, as he had never seen anything like it."
+  },
+  {
+   "s": "dorey",
+   "p": "location_at_sighting",
+   "v": "front porch in Mahone Bay",
+   "quote": "Darrel Dorey, his sister Kaykay, and his mother were sitting on their front porch in Mahone Bay, when they noticed a large object manoeuvring above the southwestern horizon."
+  },
+  {
+   "s": "dorey",
+   "p": "fellow_witnesses",
+   "v": "his sister Kaykay and his mother",
+   "quote": "Darrel Dorey, his sister Kaykay, and his mother were sitting on their front porch in Mahone Bay, when they noticed a large object manoeuvring above the southwestern horizon."
+  },
+  {
+   "s": "kaykay",
+   "p": "witness",
+   "o": "case",
+   "quote": "Darrel Dorey, his sister Kaykay, and his mother were sitting on their front porch in Mahone Bay, when they noticed a large object manoeuvring above the southwestern horizon."
+  },
+  {
+   "s": "kaykay",
+   "p": "relative_of",
+   "o": "dorey",
+   "quote": "Darrel Dorey, his sister Kaykay, and his mother were sitting on their front porch in Mahone Bay, when they noticed a large object manoeuvring above the southwestern horizon."
+  },
+  {
+   "s": "kaykay",
+   "p": "relationship",
+   "v": "sister of Darrel Dorey",
+   "quote": "Darrel Dorey, his sister Kaykay, and his mother were sitting on their front porch in Mahone Bay, when they noticed a large object manoeuvring above the southwestern horizon."
+  },
+  {
+   "s": "mersey",
+   "p": "witness",
+   "o": "case",
+   "quote": "While standing at the wheelhouse of his vessel, Captain Leo Howard Mersey was looking at four blips on his Decca radar that were stationary."
+  },
+  {
+   "s": "mersey",
+   "p": "occupation",
+   "v": "Captain of the MV Nickerson",
+   "quote": "While standing at the wheelhouse of his vessel, Captain Leo Howard Mersey was looking at four blips on his Decca radar that were stationary."
+  },
+  {
+   "s": "mersey",
+   "p": "commanded",
+   "o": "nickerson",
+   "quote": "While standing at the wheelhouse of his vessel, Captain Leo Howard Mersey was looking at four blips on his Decca radar that were stationary."
+  },
+  {
+   "s": "mersey",
+   "p": "described",
+   "o": "craft_nick",
+   "quote": "When he looked up about 28 kilometres (17 mi) from the vessel's windows, he could see the four bright objects situated in a roughly rectangular formation."
+  },
+  {
+   "s": "mersey",
+   "p": "authored",
+   "o": "doc_mersey",
+   "quote": "Mersey radioed the rescue coordination centre and the harbour master in Halifax asking for an explanation and filed a report with the Lunenburg RCMP outlining his sighting when they returned to port."
+  },
+  {
+   "s": "mersey",
+   "p": "location_at_sighting",
+   "v": "wheelhouse of his vessel",
+   "quote": "While standing at the wheelhouse of his vessel, Captain Leo Howard Mersey was looking at four blips on his Decca radar that were stationary."
+  },
+  {
+   "s": "mersey",
+   "p": "action",
+   "v": "radioed the rescue coordination centre and the harbour master in Halifax asking for an explanation",
+   "quote": "Mersey radioed the rescue coordination centre and the harbour master in Halifax asking for an explanation and filed a report with the Lunenburg RCMP outlining his sighting when they returned to port."
+  },
+  {
+   "s": "wickens",
+   "p": "witness",
+   "o": "case",
+   "quote": "The initial report was made by local resident Laurie Wickens and four of his friends."
+  },
+  {
+   "s": "wickens",
+   "p": "role",
+   "v": "local resident who made the initial report",
+   "quote": "The initial report was made by local resident Laurie Wickens and four of his friends."
+  },
+  {
+   "s": "wickens",
+   "p": "companions",
+   "v": "four of his friends",
+   "quote": "The initial report was made by local resident Laurie Wickens and four of his friends."
+  },
+  {
+   "s": "wickens",
+   "p": "described",
+   "o": "craft_main",
+   "quote": "Attaining a better vantage point, Wickens and his friends saw an object floating 250 to 300 m (820 to 980 ft) offshore in the waters of Shag Harbour."
+  },
+  {
+   "s": "wickens",
+   "p": "proposed",
+   "o": "x_aircraft",
+   "quote": "Wickens contacted the RCMP detachment in Barrington Passage and reported he had seen a large airplane or small airliner crash into the waters off Shag Harbour."
+  },
+  {
+   "s": "wickens",
+   "p": "statement",
+   "v": "reported he had seen a large airplane or small airliner crash into the waters off Shag Harbour",
+   "quote": "Wickens contacted the RCMP detachment in Barrington Passage and reported he had seen a large airplane or small airliner crash into the waters off Shag Harbour."
+  },
+  {
+   "s": "wickens",
+   "p": "action",
+   "v": "contacted the RCMP detachment in Barrington Passage",
+   "quote": "Wickens contacted the RCMP detachment in Barrington Passage and reported he had seen a large airplane or small airliner crash into the waters off Shag Harbour."
+  },
+  {
+   "s": "wickens",
+   "p": "location_at_sighting",
+   "v": "driving through Shag Harbour on Highway 3",
+   "quote": "Driving through Shag Harbour, on Highway 3, they spotted a large object descending into the waters off the harbour."
+  },
+  {
+   "s": "macleod",
+   "p": "journalist",
+   "o": "case",
+   "quote": "The article, by Ray MacLeod, included witness descriptions of an alleged object and crash, the Air Force's search and rescue effort, and the Navy's underwater search that was underway, including three additional divers from Fleet Diving Unit Atlantic."
+  },
+  {
+   "s": "macleod",
+   "p": "authored",
+   "o": "art1",
+   "quote": "The article, by Ray MacLeod, included witness descriptions of an alleged object and crash, the Air Force's search and rescue effort, and the Navy's underwater search that was underway, including three additional divers from Fleet Diving Unit Atlantic."
+  },
+  {
+   "s": "bain",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "The head of the Air Force's \"Air Desk\" in Ottawa, Squadron Leader Bain, who recommended the Navy undertake an underwater search, was also quoted, saying the Air Force was \"very interested\" in the matter."
+  },
+  {
+   "s": "bain",
+   "p": "rank",
+   "v": "Squadron Leader",
+   "quote": "The head of the Air Force's \"Air Desk\" in Ottawa, Squadron Leader Bain, who recommended the Navy undertake an underwater search, was also quoted, saying the Air Force was \"very interested\" in the matter."
+  },
+  {
+   "s": "bain",
+   "p": "position",
+   "v": "head of the Air Force's \"Air Desk\" in Ottawa",
+   "quote": "The head of the Air Force's \"Air Desk\" in Ottawa, Squadron Leader Bain, who recommended the Navy undertake an underwater search, was also quoted, saying the Air Force was \"very interested\" in the matter."
+  },
+  {
+   "s": "bain",
+   "p": "commanded",
+   "o": "airdesk",
+   "quote": "The head of the Air Force's \"Air Desk\" in Ottawa, Squadron Leader Bain, who recommended the Navy undertake an underwater search, was also quoted, saying the Air Force was \"very interested\" in the matter."
+  },
+  {
+   "s": "bain",
+   "p": "member_of",
+   "o": "rcaf",
+   "quote": "The head of the Air Force's \"Air Desk\" in Ottawa, Squadron Leader Bain, who recommended the Navy undertake an underwater search, was also quoted, saying the Air Force was \"very interested\" in the matter."
+  },
+  {
+   "s": "bain",
+   "p": "action",
+   "v": "recommended the Navy undertake an underwater search",
+   "quote": "The head of the Air Force's \"Air Desk\" in Ottawa, Squadron Leader Bain, who recommended the Navy undertake an underwater search, was also quoted, saying the Air Force was \"very interested\" in the matter."
+  },
+  {
+   "s": "bain",
+   "p": "statement",
+   "v": "the Air Force was \"very interested\" in the matter",
+   "quote": "The head of the Air Force's \"Air Desk\" in Ottawa, Squadron Leader Bain, who recommended the Navy undertake an underwater search, was also quoted, saying the Air Force was \"very interested\" in the matter."
+  },
+  {
+   "s": "bain",
+   "p": "statement",
+   "v": "We get hundreds of reports every week, but the Shag Harbour incident is one of the few where we may get something concrete on it.",
+   "quote": "\"We get hundreds of reports every week, but the Shag Harbour incident is one of the few where we may get something concrete on it.”"
+  },
+  {
+   "s": "bain",
+   "p": "authored",
+   "o": "doc_telex_airdesk",
+   "quote": "The head of the Air Desk then sent another priority telex to the Royal Canadian Navy headquarters concerning the \"UFO Report\" and recommended an underwater search be mounted."
+  },
+  {
+   "s": "dunning",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Dunning, Brian (4 April 2017). \"Skeptoid #565: The Shag Harbour UFO\". Skeptoid."
+  },
+  {
+   "s": "dunning",
+   "p": "authored",
+   "o": "skeptoid",
+   "quote": "Dunning, Brian (4 April 2017). \"Skeptoid #565: The Shag Harbour UFO\". Skeptoid."
+  },
+  {
+   "s": "rcmp",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The reports were investigated by various Canadian civilian (RCMP and Canadian Coast Guard) and military (Canadian Forces Navy and Air Force) agencies as well as the U.S. Condon Committee."
+  },
+  {
+   "s": "rcmp",
+   "p": "agency_type",
+   "v": "Canadian civilian agency",
+   "quote": "The reports were investigated by various Canadian civilian (RCMP and Canadian Coast Guard) and military (Canadian Forces Navy and Air Force) agencies as well as the U.S. Condon Committee."
+  },
+  {
+   "s": "rcmp",
+   "p": "proposed",
+   "o": "x_aircraft",
+   "quote": "Within about 15 minutes, two RCMP officers arrived at the scene, having assumed an aircraft had crashed."
+  },
+  {
+   "s": "rcmp_barrington",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Wickens contacted the RCMP detachment in Barrington Passage and reported he had seen a large airplane or small airliner crash into the waters off Shag Harbour."
+  },
+  {
+   "s": "rcmp_barrington",
+   "p": "part_of",
+   "o": "rcmp",
+   "quote": "Wickens contacted the RCMP detachment in Barrington Passage and reported he had seen a large airplane or small airliner crash into the waters off Shag Harbour."
+  },
+  {
+   "s": "rcmp_barrington",
+   "p": "located_in",
+   "o": "barrington",
+   "quote": "Wickens contacted the RCMP detachment in Barrington Passage and reported he had seen a large airplane or small airliner crash into the waters off Shag Harbour."
+  },
+  {
+   "s": "rcmp_barrington",
+   "p": "action",
+   "v": "contacted the Rescue Coordination Centre in Halifax to ask if any aircraft were missing",
+   "quote": "Concerned for survivors, the RCMP detachment contacted the Rescue Coordination Centre (RCC) in Halifax to advise them of the situation and ask if any aircraft were missing."
+  },
+  {
+   "s": "rcmp_lunenburg",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Mersey radioed the rescue coordination centre and the harbour master in Halifax asking for an explanation and filed a report with the Lunenburg RCMP outlining his sighting when they returned to port."
+  },
+  {
+   "s": "rcmp_lunenburg",
+   "p": "part_of",
+   "o": "rcmp",
+   "quote": "Mersey radioed the rescue coordination centre and the harbour master in Halifax asking for an explanation and filed a report with the Lunenburg RCMP outlining his sighting when they returned to port."
+  },
+  {
+   "s": "rcmp_lunenburg",
+   "p": "located_in",
+   "o": "lunenburg",
+   "quote": "Mersey radioed the rescue coordination centre and the harbour master in Halifax asking for an explanation and filed a report with the Lunenburg RCMP outlining his sighting when they returned to port."
+  },
+  {
+   "s": "ccg",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The reports were investigated by various Canadian civilian (RCMP and Canadian Coast Guard) and military (Canadian Forces Navy and Air Force) agencies as well as the U.S. Condon Committee."
+  },
+  {
+   "s": "ccg",
+   "p": "agency_type",
+   "v": "Canadian civilian agency",
+   "quote": "The reports were investigated by various Canadian civilian (RCMP and Canadian Coast Guard) and military (Canadian Forces Navy and Air Force) agencies as well as the U.S. Condon Committee."
+  },
+  {
+   "s": "ccg",
+   "p": "owned",
+   "o": "cutter",
+   "quote": "No survivors, bodies, or debris were taken, either by the fishermen or by a Canadian Coast Guard search and rescue cutter, which arrived about an hour later from nearby Clark's Harbour."
+  },
+  {
+   "s": "canforces",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Canadian military became involved in a subsequent rescue/recovery effort."
+  },
+  {
+   "s": "navy",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The reports were investigated by various Canadian civilian (RCMP and Canadian Coast Guard) and military (Canadian Forces Navy and Air Force) agencies as well as the U.S. Condon Committee."
+  },
+  {
+   "s": "navy",
+   "p": "part_of",
+   "o": "canforces",
+   "quote": "The reports were investigated by various Canadian civilian (RCMP and Canadian Coast Guard) and military (Canadian Forces Navy and Air Force) agencies as well as the U.S. Condon Committee."
+  },
+  {
+   "s": "navy",
+   "p": "agency_type",
+   "v": "Canadian military agency",
+   "quote": "The reports were investigated by various Canadian civilian (RCMP and Canadian Coast Guard) and military (Canadian Forces Navy and Air Force) agencies as well as the U.S. Condon Committee."
+  },
+  {
+   "s": "navy",
+   "p": "action",
+   "v": "ended an intensive undersea search for the object",
+   "quote": "The Chronicle-Herald ran another story on 9 October titled \"UFO Search Called Off,\" stating that the Navy had ended \"an intensive undersea search for the mysterious unidentified flying object that disappeared into the ocean here Wednesday night.\""
+  },
+  {
+   "s": "navy",
+   "p": "statement",
+   "v": "Not a trace... not a clue... not a bit of anything.",
+   "quote": "As to what was found, the Navy stated, \"Not a trace... not a clue... not a bit of anything.\""
+  },
+  {
+   "s": "navy",
+   "p": "authored",
+   "o": "doc_telex_navy",
+   "quote": "The Navy, in turn, sent another priority telex tasking Fleet Diving Unit Atlantic with carrying out the search."
+  },
+  {
+   "s": "rcaf",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The reports were investigated by various Canadian civilian (RCMP and Canadian Coast Guard) and military (Canadian Forces Navy and Air Force) agencies as well as the U.S. Condon Committee."
+  },
+  {
+   "s": "rcaf",
+   "p": "part_of",
+   "o": "canforces",
+   "quote": "The reports were investigated by various Canadian civilian (RCMP and Canadian Coast Guard) and military (Canadian Forces Navy and Air Force) agencies as well as the U.S. Condon Committee."
+  },
+  {
+   "s": "rcaf",
+   "p": "agency_type",
+   "v": "Canadian military agency",
+   "quote": "The reports were investigated by various Canadian civilian (RCMP and Canadian Coast Guard) and military (Canadian Forces Navy and Air Force) agencies as well as the U.S. Condon Committee."
+  },
+  {
+   "s": "rcaf",
+   "p": "headquarters",
+   "v": "Ottawa",
+   "quote": "The same morning, RCC Halifax also sent a priority telex to the \"Air Desk\" at the Royal Canadian Air Force headquarters in Ottawa, which handled all civilian and military UFO sightings, informing them of the crash and that all conventional explanations such as aircraft, flares, etc. had been dismissed."
+  },
+  {
+   "s": "rcaf",
+   "p": "action",
+   "v": "search and rescue effort",
+   "quote": "The article, by Ray MacLeod, included witness descriptions of an alleged object and crash, the Air Force's search and rescue effort, and the Navy's underwater search that was underway, including three additional divers from Fleet Diving Unit Atlantic."
+  },
+  {
+   "s": "rcaf",
+   "p": "statement",
+   "v": "\"very interested\" in the matter",
+   "quote": "The head of the Air Force's \"Air Desk\" in Ottawa, Squadron Leader Bain, who recommended the Navy undertake an underwater search, was also quoted, saying the Air Force was \"very interested\" in the matter."
+  },
+  {
+   "s": "airdesk",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The same morning, RCC Halifax also sent a priority telex to the \"Air Desk\" at the Royal Canadian Air Force headquarters in Ottawa, which handled all civilian and military UFO sightings, informing them of the crash and that all conventional explanations such as aircraft, flares, etc. had been dismissed."
+  },
+  {
+   "s": "airdesk",
+   "p": "part_of",
+   "o": "rcaf",
+   "quote": "The same morning, RCC Halifax also sent a priority telex to the \"Air Desk\" at the Royal Canadian Air Force headquarters in Ottawa, which handled all civilian and military UFO sightings, informing them of the crash and that all conventional explanations such as aircraft, flares, etc. had been dismissed."
+  },
+  {
+   "s": "airdesk",
+   "p": "located_in",
+   "o": "ottawa",
+   "quote": "The head of the Air Force's \"Air Desk\" in Ottawa, Squadron Leader Bain, who recommended the Navy undertake an underwater search, was also quoted, saying the Air Force was \"very interested\" in the matter."
+  },
+  {
+   "s": "airdesk",
+   "p": "function",
+   "v": "handled all civilian and military UFO sightings",
+   "quote": "The same morning, RCC Halifax also sent a priority telex to the \"Air Desk\" at the Royal Canadian Air Force headquarters in Ottawa, which handled all civilian and military UFO sightings, informing them of the crash and that all conventional explanations such as aircraft, flares, etc. had been dismissed."
+  },
+  {
+   "s": "airdesk",
+   "p": "authored",
+   "o": "doc_telex_airdesk",
+   "quote": "The head of the Air Desk then sent another priority telex to the Royal Canadian Navy headquarters concerning the \"UFO Report\" and recommended an underwater search be mounted."
+  },
+  {
+   "s": "rcc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Concerned for survivors, the RCMP detachment contacted the Rescue Coordination Centre (RCC) in Halifax to advise them of the situation and ask if any aircraft were missing."
+  },
+  {
+   "s": "rcc",
+   "p": "located_in",
+   "o": "halifax",
+   "quote": "Concerned for survivors, the RCMP detachment contacted the Rescue Coordination Centre (RCC) in Halifax to advise them of the situation and ask if any aircraft were missing."
+  },
+  {
+   "s": "rcc",
+   "p": "authored",
+   "o": "doc_telex_rcc",
+   "quote": "The same morning, RCC Halifax also sent a priority telex to the \"Air Desk\" at the Royal Canadian Air Force headquarters in Ottawa, which handled all civilian and military UFO sightings, informing them of the crash and that all conventional explanations such as aircraft, flares, etc. had been dismissed."
+  },
+  {
+   "s": "rcc",
+   "p": "authored",
+   "o": "doc_radio",
+   "quote": "While still tasked with the search, the captain of the Canadian Coast Guard cutter received a radio message from RCC Halifax indicating that all commercial, private and military aircraft were accounted for along the eastern seaboard, in both the Atlantic provinces and New England."
+  },
+  {
+   "s": "rcc",
+   "p": "disputed",
+   "o": "x_aircraft",
+   "quote": "By the next morning, RCC Halifax had determined that no aircraft were missing."
+  },
+  {
+   "s": "rcc",
+   "p": "disputed",
+   "o": "x_flares",
+   "quote": "The same morning, RCC Halifax also sent a priority telex to the \"Air Desk\" at the Royal Canadian Air Force headquarters in Ottawa, which handled all civilian and military UFO sightings, informing them of the crash and that all conventional explanations such as aircraft, flares, etc. had been dismissed."
+  },
+  {
+   "s": "rcc",
+   "p": "finding",
+   "v": "no aircraft were missing",
+   "quote": "By the next morning, RCC Halifax had determined that no aircraft were missing."
+  },
+  {
+   "s": "rcc",
+   "p": "contacted_by",
+   "v": "Mersey radioed the rescue coordination centre asking for an explanation",
+   "quote": "Mersey radioed the rescue coordination centre and the harbour master in Halifax asking for an explanation and filed a report with the Lunenburg RCMP outlining his sighting when they returned to port."
+  },
+  {
+   "s": "fdu",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "Two days after the incident had been observed, a detachment of Navy divers from Fleet Diving Unit Atlantic was assembled and for the next three days they combed the seafloor of the Gulf of Maine off Shag Harbour looking for an object."
+  },
+  {
+   "s": "fdu",
+   "p": "part_of",
+   "o": "navy",
+   "quote": "Two days after the incident had been observed, a detachment of Navy divers from Fleet Diving Unit Atlantic was assembled and for the next three days they combed the seafloor of the Gulf of Maine off Shag Harbour looking for an object."
+  },
+  {
+   "s": "fdu",
+   "p": "task",
+   "v": "carrying out the underwater search",
+   "quote": "The Navy, in turn, sent another priority telex tasking Fleet Diving Unit Atlantic with carrying out the search."
+  },
+  {
+   "s": "fdu",
+   "p": "action",
+   "v": "divers combed the seafloor of the Gulf of Maine off Shag Harbour for three days",
+   "quote": "Two days after the incident had been observed, a detachment of Navy divers from Fleet Diving Unit Atlantic was assembled and for the next three days they combed the seafloor of the Gulf of Maine off Shag Harbour looking for an object."
+  },
+  {
+   "s": "aircanada",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "While flying over Sherbrooke and Saint-Jean, Quebec at 3,658 metres (12,001 ft), Air Canada First Officer Robert Ralph pointed out to Captain Pierre Charbonneau that there was something strange out the left side of the aircraft at 7:15 pm."
+  },
+  {
+   "s": "aircanada",
+   "p": "owned",
+   "o": "flight305",
+   "quote": "Air Canada flight 305"
+  },
+  {
+   "s": "herald",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Shag Harbour reports received extensive front page coverage in The Chronicle-Herald."
+  },
+  {
+   "s": "herald",
+   "p": "published",
+   "o": "art1",
+   "quote": "The paper ran a headline story on 7 October titled, \"Could Be Something Concrete in Shag Harbour UFO – RCAF.\""
+  },
+  {
+   "s": "herald",
+   "p": "published",
+   "o": "art2",
+   "quote": "The Chronicle-Herald ran another story on 9 October titled \"UFO Search Called Off,\" stating that the Navy had ended \"an intensive undersea search for the mysterious unidentified flying object that disappeared into the ocean here Wednesday night.\""
+  },
+  {
+   "s": "herald",
+   "p": "coverage",
+   "v": "extensive front page coverage of the Shag Harbour reports",
+   "quote": "The Shag Harbour reports received extensive front page coverage in The Chronicle-Herald."
+  },
+  {
+   "s": "herald",
+   "p": "reported",
+   "v": "a glowing object observed by various witnesses who called into its newsroom",
+   "quote": "The Chronicle-Herald and local radio stations reported a glowing object that was observed by various witnesses who called into their newsrooms."
+  },
+  {
+   "s": "cp",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The story of the search being called off for an alleged \"mysterious dark object\" was also carried by The Canadian Press in other newspapers."
+  },
+  {
+   "s": "cp",
+   "p": "coverage",
+   "v": "carried the story of the search being called off in other newspapers",
+   "quote": "The story of the search being called off for an alleged \"mysterious dark object\" was also carried by The Canadian Press in other newspapers."
+  },
+  {
+   "s": "gov",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The object was never officially identified, and was therefore referred to as an unidentified flying object (UFO) in Government of Canada documents."
+  },
+  {
+   "s": "gov",
+   "p": "authored",
+   "o": "doc_gov",
+   "quote": "The object was never officially identified, and was therefore referred to as an unidentified flying object (UFO) in Government of Canada documents."
+  },
+  {
+   "s": "dnd",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "There is a summary of the event from the Department of National Defence files located at the national Library and Archives."
+  },
+  {
+   "s": "dnd",
+   "p": "owned",
+   "o": "doc_dnd",
+   "quote": "There is a summary of the event from the Department of National Defence files located at the national Library and Archives."
+  },
+  {
+   "s": "lac",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "There is a summary of the event from the Department of National Defence files located at the national Library and Archives."
+  },
+  {
+   "s": "lac",
+   "p": "holds",
+   "v": "Department of National Defence files with a summary of the event",
+   "quote": "There is a summary of the event from the Department of National Defence files located at the national Library and Archives."
+  },
+  {
+   "s": "lac",
+   "p": "further_reading",
+   "v": "Canada's Unidentified Flying Objects: The Search for the Unknown",
+   "quote": "Canada's Unidentified Flying Objects: The Search for the Unknown at Library and Archives Canada"
+  },
+  {
+   "s": "condon",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The reports were investigated by various Canadian civilian (RCMP and Canadian Coast Guard) and military (Canadian Forces Navy and Air Force) agencies as well as the U.S. Condon Committee."
+  },
+  {
+   "s": "condon",
+   "p": "country",
+   "v": "United States",
+   "quote": "The reports were investigated by various Canadian civilian (RCMP and Canadian Coast Guard) and military (Canadian Forces Navy and Air Force) agencies as well as the U.S. Condon Committee."
+  },
+  {
+   "s": "shag",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Shag Harbour UFO incident was the reported impact of a large, unknown object into waters near Shag Harbour, Nova Scotia, a small fishing village on the Atlantic coast, on 4 October 1967."
+  },
+  {
+   "s": "shag",
+   "p": "located_in",
+   "o": "ns",
+   "quote": "The Shag Harbour UFO incident was the reported impact of a large, unknown object into waters near Shag Harbour, Nova Scotia, a small fishing village on the Atlantic coast, on 4 October 1967."
+  },
+  {
+   "s": "shag",
+   "p": "description",
+   "v": "a small fishing village on the Atlantic coast",
+   "quote": "The Shag Harbour UFO incident was the reported impact of a large, unknown object into waters near Shag Harbour, Nova Scotia, a small fishing village on the Atlantic coast, on 4 October 1967."
+  },
+  {
+   "s": "ns",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Shag Harbour UFO incident was the reported impact of a large, unknown object into waters near Shag Harbour, Nova Scotia, a small fishing village on the Atlantic coast, on 4 October 1967."
+  },
+  {
+   "s": "canada",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The reports were investigated by various Canadian civilian (RCMP and Canadian Coast Guard) and military (Canadian Forces Navy and Air Force) agencies as well as the U.S. Condon Committee."
+  },
+  {
+   "s": "gulf",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Within half an hour of the crash, local fishing boats went out to the crash site in the waters of the Gulf of Maine off Shag Harbour to look for survivors."
+  },
+  {
+   "s": "gulf",
+   "p": "role",
+   "v": "crash site waters off Shag Harbour; seafloor combed by Navy divers",
+   "quote": "Two days after the incident had been observed, a detachment of Navy divers from Fleet Diving Unit Atlantic was assembled and for the next three days they combed the seafloor of the Gulf of Maine off Shag Harbour looking for an object."
+  },
+  {
+   "s": "hwy3",
+   "p": "near",
+   "o": "case",
+   "quote": "Driving through Shag Harbour, on Highway 3, they spotted a large object descending into the waters off the harbour."
+  },
+  {
+   "s": "hwy3",
+   "p": "located_in",
+   "o": "shag",
+   "quote": "Driving through Shag Harbour, on Highway 3, they spotted a large object descending into the waters off the harbour."
+  },
+  {
+   "s": "barrington",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Wickens contacted the RCMP detachment in Barrington Passage and reported he had seen a large airplane or small airliner crash into the waters off Shag Harbour."
+  },
+  {
+   "s": "clarks",
+   "p": "near",
+   "o": "case",
+   "quote": "No survivors, bodies, or debris were taken, either by the fishermen or by a Canadian Coast Guard search and rescue cutter, which arrived about an hour later from nearby Clark's Harbour."
+  },
+  {
+   "s": "halifax",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Concerned for survivors, the RCMP detachment contacted the Rescue Coordination Centre (RCC) in Halifax to advise them of the situation and ask if any aircraft were missing."
+  },
+  {
+   "s": "halifax",
+   "p": "sighting",
+   "v": "strange glowing objects flying around Halifax at around 10:00 pm",
+   "quote": "They described strange glowing objects flying around Halifax at around 10:00 pm."
+  },
+  {
+   "s": "halifax_harbour",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Halifax Harbour sightings"
+  },
+  {
+   "s": "hia",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Flight 305 was serviced by a plane bound from the Halifax International Airport to Toronto."
+  },
+  {
+   "s": "toronto",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Flight 305 was serviced by a plane bound from the Halifax International Airport to Toronto."
+  },
+  {
+   "s": "sherbrooke",
+   "p": "related_place",
+   "o": "case",
+   "quote": "While flying over Sherbrooke and Saint-Jean, Quebec at 3,658 metres (12,001 ft), Air Canada First Officer Robert Ralph pointed out to Captain Pierre Charbonneau that there was something strange out the left side of the aircraft at 7:15 pm."
+  },
+  {
+   "s": "sherbrooke",
+   "p": "located_in",
+   "o": "quebec",
+   "quote": "While flying over Sherbrooke and Saint-Jean, Quebec at 3,658 metres (12,001 ft), Air Canada First Officer Robert Ralph pointed out to Captain Pierre Charbonneau that there was something strange out the left side of the aircraft at 7:15 pm."
+  },
+  {
+   "s": "stjean",
+   "p": "related_place",
+   "o": "case",
+   "quote": "While flying over Sherbrooke and Saint-Jean, Quebec at 3,658 metres (12,001 ft), Air Canada First Officer Robert Ralph pointed out to Captain Pierre Charbonneau that there was something strange out the left side of the aircraft at 7:15 pm."
+  },
+  {
+   "s": "stjean",
+   "p": "located_in",
+   "o": "quebec",
+   "quote": "While flying over Sherbrooke and Saint-Jean, Quebec at 3,658 metres (12,001 ft), Air Canada First Officer Robert Ralph pointed out to Captain Pierre Charbonneau that there was something strange out the left side of the aircraft at 7:15 pm."
+  },
+  {
+   "s": "quebec",
+   "p": "related_place",
+   "o": "case",
+   "quote": "While flying over Sherbrooke and Saint-Jean, Quebec at 3,658 metres (12,001 ft), Air Canada First Officer Robert Ralph pointed out to Captain Pierre Charbonneau that there was something strange out the left side of the aircraft at 7:15 pm."
+  },
+  {
+   "s": "mahone",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Darrel Dorey, his sister Kaykay, and his mother were sitting on their front porch in Mahone Bay, when they noticed a large object manoeuvring above the southwestern horizon."
+  },
+  {
+   "s": "greenwood",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The next day, he wrote a letter to RCAF Greenwood Base Commander asking what was flying over the water that evening, as he had never seen anything like it."
+  },
+  {
+   "s": "sambro",
+   "p": "related_place",
+   "o": "case",
+   "quote": "MV Nickerson of Sambro, Nova Scotia"
+  },
+  {
+   "s": "sambro",
+   "p": "located_in",
+   "o": "ns",
+   "quote": "MV Nickerson of Sambro, Nova Scotia"
+  },
+  {
+   "s": "lunenburg",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Mersey radioed the rescue coordination centre and the harbour master in Halifax asking for an explanation and filed a report with the Lunenburg RCMP outlining his sighting when they returned to port."
+  },
+  {
+   "s": "ottawa",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The same morning, RCC Halifax also sent a priority telex to the \"Air Desk\" at the Royal Canadian Air Force headquarters in Ottawa, which handled all civilian and military UFO sightings, informing them of the crash and that all conventional explanations such as aircraft, flares, etc. had been dismissed."
+  },
+  {
+   "s": "seaboard",
+   "p": "related_place",
+   "o": "case",
+   "quote": "While still tasked with the search, the captain of the Canadian Coast Guard cutter received a radio message from RCC Halifax indicating that all commercial, private and military aircraft were accounted for along the eastern seaboard, in both the Atlantic provinces and New England."
+  },
+  {
+   "s": "atlprov",
+   "p": "related_place",
+   "o": "case",
+   "quote": "While still tasked with the search, the captain of the Canadian Coast Guard cutter received a radio message from RCC Halifax indicating that all commercial, private and military aircraft were accounted for along the eastern seaboard, in both the Atlantic provinces and New England."
+  },
+  {
+   "s": "atlprov",
+   "p": "part_of",
+   "o": "seaboard",
+   "quote": "While still tasked with the search, the captain of the Canadian Coast Guard cutter received a radio message from RCC Halifax indicating that all commercial, private and military aircraft were accounted for along the eastern seaboard, in both the Atlantic provinces and New England."
+  },
+  {
+   "s": "newengland",
+   "p": "related_place",
+   "o": "case",
+   "quote": "While still tasked with the search, the captain of the Canadian Coast Guard cutter received a radio message from RCC Halifax indicating that all commercial, private and military aircraft were accounted for along the eastern seaboard, in both the Atlantic provinces and New England."
+  },
+  {
+   "s": "newengland",
+   "p": "part_of",
+   "o": "seaboard",
+   "quote": "While still tasked with the search, the captain of the Canadian Coast Guard cutter received a radio message from RCC Halifax indicating that all commercial, private and military aircraft were accounted for along the eastern seaboard, in both the Atlantic provinces and New England."
+  },
+  {
+   "s": "craft_main",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "The Shag Harbour UFO incident was the reported impact of a large, unknown object into waters near Shag Harbour, Nova Scotia, a small fishing village on the Atlantic coast, on 4 October 1967."
+  },
+  {
+   "s": "craft_main",
+   "p": "size",
+   "v": "large",
+   "quote": "The Shag Harbour UFO incident was the reported impact of a large, unknown object into waters near Shag Harbour, Nova Scotia, a small fishing village on the Atlantic coast, on 4 October 1967."
+  },
+  {
+   "s": "craft_main",
+   "p": "description",
+   "v": "low-flying lit object heading towards the harbour",
+   "quote": "At least eleven people saw a low-flying lit object head towards the harbour."
+  },
+  {
+   "s": "craft_main",
+   "p": "lights",
+   "v": "lit; lights still showing as it started to sink",
+   "quote": "Before any attempt at rescue could be made, the flying object, with lights still showing, started to sink and disappeared from view."
+  },
+  {
+   "s": "craft_main",
+   "p": "sound",
+   "v": "whistling sound \"like a bomb\", then a \"whoosh\", and finally a loud bang",
+   "quote": "Multiple witnesses reported hearing a whistling sound \"like a bomb,\" then a \"whoosh,\" and finally a loud bang."
+  },
+  {
+   "s": "craft_main",
+   "p": "behavior",
+   "v": "large object descending into the waters off the harbour",
+   "quote": "Driving through Shag Harbour, on Highway 3, they spotted a large object descending into the waters off the harbour."
+  },
+  {
+   "s": "craft_main",
+   "p": "behavior",
+   "v": "floating offshore in the waters of Shag Harbour",
+   "quote": "Attaining a better vantage point, Wickens and his friends saw an object floating 250 to 300 m (820 to 980 ft) offshore in the waters of Shag Harbour."
+  },
+  {
+   "s": "craft_main",
+   "p": "distance_offshore",
+   "v": "250 to 300 m (820 to 980 ft)",
+   "quote": "Attaining a better vantage point, Wickens and his friends saw an object floating 250 to 300 m (820 to 980 ft) offshore in the waters of Shag Harbour."
+  },
+  {
+   "s": "craft_main",
+   "p": "behavior",
+   "v": "started to sink and disappeared from view before any rescue attempt",
+   "quote": "Before any attempt at rescue could be made, the flying object, with lights still showing, started to sink and disappeared from view."
+  },
+  {
+   "s": "craft_main",
+   "p": "press_description",
+   "v": "mysterious dark object",
+   "quote": "The story of the search being called off for an alleged \"mysterious dark object\" was also carried by The Canadian Press in other newspapers."
+  },
+  {
+   "s": "craft_main",
+   "p": "press_description",
+   "v": "mysterious unidentified flying object that disappeared into the ocean",
+   "quote": "The Chronicle-Herald ran another story on 9 October titled \"UFO Search Called Off,\" stating that the Navy had ended \"an intensive undersea search for the mysterious unidentified flying object that disappeared into the ocean here Wednesday night.\""
+  },
+  {
+   "s": "craft_main",
+   "p": "identification",
+   "v": "never officially identified",
+   "quote": "The object was never officially identified, and was therefore referred to as an unidentified flying object (UFO) in Government of Canada documents."
+  },
+  {
+   "s": "craft_main",
+   "p": "initially_reported_as",
+   "v": "a large airplane or small airliner",
+   "quote": "Wickens contacted the RCMP detachment in Barrington Passage and reported he had seen a large airplane or small airliner crash into the waters off Shag Harbour."
+  },
+  {
+   "s": "craft_305",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "In his report, the captain reported an object tracking along on a parallel course a few miles away."
+  },
+  {
+   "s": "craft_305",
+   "p": "shape",
+   "v": "rectangular",
+   "quote": "He described it as a brilliantly lit, rectangular object with a string of smaller lights trailing behind it."
+  },
+  {
+   "s": "craft_305",
+   "p": "lights",
+   "v": "brilliantly lit, with a string of smaller lights trailing behind it",
+   "quote": "He described it as a brilliantly lit, rectangular object with a string of smaller lights trailing behind it."
+  },
+  {
+   "s": "craft_305",
+   "p": "size",
+   "v": "large",
+   "quote": "At 7:19 pm, the pilots noticed a sizeable silent explosion near the large object."
+  },
+  {
+   "s": "craft_305",
+   "p": "course",
+   "v": "tracking along on a parallel course a few miles away",
+   "quote": "In his report, the captain reported an object tracking along on a parallel course a few miles away."
+  },
+  {
+   "s": "craft_305",
+   "p": "position",
+   "v": "out the left side of the aircraft",
+   "quote": "While flying over Sherbrooke and Saint-Jean, Quebec at 3,658 metres (12,001 ft), Air Canada First Officer Robert Ralph pointed out to Captain Pierre Charbonneau that there was something strange out the left side of the aircraft at 7:15 pm."
+  },
+  {
+   "s": "craft_305",
+   "p": "time_first_seen",
+   "v": "7:15 pm",
+   "quote": "While flying over Sherbrooke and Saint-Jean, Quebec at 3,658 metres (12,001 ft), Air Canada First Officer Robert Ralph pointed out to Captain Pierre Charbonneau that there was something strange out the left side of the aircraft at 7:15 pm."
+  },
+  {
+   "s": "craft_305",
+   "p": "explosion",
+   "v": "sizeable silent explosion near the object at 7:19 pm",
+   "quote": "At 7:19 pm, the pilots noticed a sizeable silent explosion near the large object."
+  },
+  {
+   "s": "craft_305",
+   "p": "second_explosion",
+   "v": "two minutes later; faded to a blue cloud around the object",
+   "quote": "Two minutes later, a second explosion occurred which faded to a blue cloud around the object."
+  },
+  {
+   "s": "craft_305",
+   "p": "color",
+   "v": "blue cloud around the object after the second explosion",
+   "quote": "Two minutes later, a second explosion occurred which faded to a blue cloud around the object."
+  },
+  {
+   "s": "craft_305",
+   "p": "observed_over",
+   "v": "Sherbrooke and Saint-Jean, Quebec",
+   "quote": "While flying over Sherbrooke and Saint-Jean, Quebec at 3,658 metres (12,001 ft), Air Canada First Officer Robert Ralph pointed out to Captain Pierre Charbonneau that there was something strange out the left side of the aircraft at 7:15 pm."
+  },
+  {
+   "s": "craft_mahone",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Darrel Dorey, his sister Kaykay, and his mother were sitting on their front porch in Mahone Bay, when they noticed a large object manoeuvring above the southwestern horizon."
+  },
+  {
+   "s": "craft_mahone",
+   "p": "size",
+   "v": "large",
+   "quote": "Darrel Dorey, his sister Kaykay, and his mother were sitting on their front porch in Mahone Bay, when they noticed a large object manoeuvring above the southwestern horizon."
+  },
+  {
+   "s": "craft_mahone",
+   "p": "color",
+   "v": "yellow",
+   "quote": "Yellow object"
+  },
+  {
+   "s": "craft_mahone",
+   "p": "behavior",
+   "v": "manoeuvring above the southwestern horizon",
+   "quote": "Darrel Dorey, his sister Kaykay, and his mother were sitting on their front porch in Mahone Bay, when they noticed a large object manoeuvring above the southwestern horizon."
+  },
+  {
+   "s": "craft_mahone",
+   "p": "location",
+   "v": "flying over the water",
+   "quote": "The next day, he wrote a letter to RCAF Greenwood Base Commander asking what was flying over the water that evening, as he had never seen anything like it."
+  },
+  {
+   "s": "craft_mahone",
+   "p": "direction",
+   "v": "southwestern horizon",
+   "quote": "Darrel Dorey, his sister Kaykay, and his mother were sitting on their front porch in Mahone Bay, when they noticed a large object manoeuvring above the southwestern horizon."
+  },
+  {
+   "s": "craft_nick",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "When he looked up about 28 kilometres (17 mi) from the vessel's windows, he could see the four bright objects situated in a roughly rectangular formation."
+  },
+  {
+   "s": "craft_nick",
+   "p": "count",
+   "v": "4",
+   "quote": "When he looked up about 28 kilometres (17 mi) from the vessel's windows, he could see the four bright objects situated in a roughly rectangular formation."
+  },
+  {
+   "s": "craft_nick",
+   "p": "radar",
+   "v": "four stationary blips on Decca radar",
+   "quote": "While standing at the wheelhouse of his vessel, Captain Leo Howard Mersey was looking at four blips on his Decca radar that were stationary."
+  },
+  {
+   "s": "craft_nick",
+   "p": "brightness",
+   "v": "bright",
+   "quote": "When he looked up about 28 kilometres (17 mi) from the vessel's windows, he could see the four bright objects situated in a roughly rectangular formation."
+  },
+  {
+   "s": "craft_nick",
+   "p": "formation",
+   "v": "roughly rectangular formation",
+   "quote": "When he looked up about 28 kilometres (17 mi) from the vessel's windows, he could see the four bright objects situated in a roughly rectangular formation."
+  },
+  {
+   "s": "craft_nick",
+   "p": "distance",
+   "v": "about 28 kilometres (17 mi)",
+   "quote": "When he looked up about 28 kilometres (17 mi) from the vessel's windows, he could see the four bright objects situated in a roughly rectangular formation."
+  },
+  {
+   "s": "craft_nick",
+   "p": "direction",
+   "v": "northeastern sky",
+   "quote": "The entire crew of nearly twenty fishermen stood on deck and watched the object in the northeastern sky."
+  },
+  {
+   "s": "craft_nick",
+   "p": "motion",
+   "v": "stationary",
+   "quote": "While standing at the wheelhouse of his vessel, Captain Leo Howard Mersey was looking at four blips on his Decca radar that were stationary."
+  },
+  {
+   "s": "craft_nick",
+   "p": "witnesses",
+   "v": "entire crew of nearly twenty fishermen",
+   "quote": "The entire crew of nearly twenty fishermen stood on deck and watched the object in the northeastern sky."
+  },
+  {
+   "s": "craft_halifax",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "They described strange glowing objects flying around Halifax at around 10:00 pm."
+  },
+  {
+   "s": "craft_halifax",
+   "p": "description",
+   "v": "strange glowing objects flying around Halifax",
+   "quote": "They described strange glowing objects flying around Halifax at around 10:00 pm."
+  },
+  {
+   "s": "craft_halifax",
+   "p": "time",
+   "v": "around 10:00 pm",
+   "quote": "They described strange glowing objects flying around Halifax at around 10:00 pm."
+  },
+  {
+   "s": "craft_halifax",
+   "p": "reported_by",
+   "v": "The Chronicle-Herald and local radio stations, from witnesses who called into their newsrooms",
+   "quote": "The Chronicle-Herald and local radio stations reported a glowing object that was observed by various witnesses who called into their newsrooms."
+  },
+  {
+   "s": "craft_halifax",
+   "p": "witness",
+   "v": "a woman in Halifax",
+   "quote": "The article also mentioned UFO reports that immediately preceded the incident, including the above-mentioned one from a woman in Halifax around 10:00 pm."
+  },
+  {
+   "s": "flight305",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "Flight 305 was serviced by a plane bound from the Halifax International Airport to Toronto."
+  },
+  {
+   "s": "flight305",
+   "p": "route",
+   "v": "Halifax International Airport to Toronto",
+   "quote": "Flight 305 was serviced by a plane bound from the Halifax International Airport to Toronto."
+  },
+  {
+   "s": "flight305",
+   "p": "altitude",
+   "v": "3,658 metres (12,001 ft)",
+   "quote": "While flying over Sherbrooke and Saint-Jean, Quebec at 3,658 metres (12,001 ft), Air Canada First Officer Robert Ralph pointed out to Captain Pierre Charbonneau that there was something strange out the left side of the aircraft at 7:15 pm."
+  },
+  {
+   "s": "flight305",
+   "p": "position",
+   "v": "over Sherbrooke and Saint-Jean, Quebec",
+   "quote": "While flying over Sherbrooke and Saint-Jean, Quebec at 3,658 metres (12,001 ft), Air Canada First Officer Robert Ralph pointed out to Captain Pierre Charbonneau that there was something strange out the left side of the aircraft at 7:15 pm."
+  },
+  {
+   "s": "nickerson",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "While standing at the wheelhouse of his vessel, Captain Leo Howard Mersey was looking at four blips on his Decca radar that were stationary."
+  },
+  {
+   "s": "nickerson",
+   "p": "home_port",
+   "v": "Sambro, Nova Scotia",
+   "quote": "MV Nickerson of Sambro, Nova Scotia"
+  },
+  {
+   "s": "nickerson",
+   "p": "crew",
+   "v": "nearly twenty fishermen",
+   "quote": "The entire crew of nearly twenty fishermen stood on deck and watched the object in the northeastern sky."
+  },
+  {
+   "s": "nickerson",
+   "p": "equipment",
+   "v": "Decca radar",
+   "quote": "While standing at the wheelhouse of his vessel, Captain Leo Howard Mersey was looking at four blips on his Decca radar that were stationary."
+  },
+  {
+   "s": "cutter",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "No survivors, bodies, or debris were taken, either by the fishermen or by a Canadian Coast Guard search and rescue cutter, which arrived about an hour later from nearby Clark's Harbour."
+  },
+  {
+   "s": "cutter",
+   "p": "origin",
+   "v": "nearby Clark's Harbour",
+   "quote": "No survivors, bodies, or debris were taken, either by the fishermen or by a Canadian Coast Guard search and rescue cutter, which arrived about an hour later from nearby Clark's Harbour."
+  },
+  {
+   "s": "cutter",
+   "p": "arrival",
+   "v": "about an hour later",
+   "quote": "No survivors, bodies, or debris were taken, either by the fishermen or by a Canadian Coast Guard search and rescue cutter, which arrived about an hour later from nearby Clark's Harbour."
+  },
+  {
+   "s": "cutter",
+   "p": "radio_message",
+   "v": "captain told by RCC Halifax that all commercial, private and military aircraft were accounted for",
+   "quote": "While still tasked with the search, the captain of the Canadian Coast Guard cutter received a radio message from RCC Halifax indicating that all commercial, private and military aircraft were accounted for along the eastern seaboard, in both the Atlantic provinces and New England."
+  },
+  {
+   "s": "boats",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "Within half an hour of the crash, local fishing boats went out to the crash site in the waters of the Gulf of Maine off Shag Harbour to look for survivors."
+  },
+  {
+   "s": "boats",
+   "p": "action",
+   "v": "went out to the crash site within half an hour of the crash to look for survivors",
+   "quote": "Within half an hour of the crash, local fishing boats went out to the crash site in the waters of the Gulf of Maine off Shag Harbour to look for survivors."
+  },
+  {
+   "s": "boats",
+   "p": "result",
+   "v": "no survivors, bodies, or debris were taken",
+   "quote": "No survivors, bodies, or debris were taken, either by the fishermen or by a Canadian Coast Guard search and rescue cutter, which arrived about an hour later from nearby Clark's Harbour."
+  },
+  {
+   "s": "doc_charb",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In his report, the captain reported an object tracking along on a parallel course a few miles away."
+  },
+  {
+   "s": "doc_charb",
+   "p": "content",
+   "v": "an object tracking along on a parallel course a few miles away",
+   "quote": "In his report, the captain reported an object tracking along on a parallel course a few miles away."
+  },
+  {
+   "s": "doc_dorey",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The next day, he wrote a letter to RCAF Greenwood Base Commander asking what was flying over the water that evening, as he had never seen anything like it."
+  },
+  {
+   "s": "doc_dorey",
+   "p": "written",
+   "v": "the next day",
+   "quote": "The next day, he wrote a letter to RCAF Greenwood Base Commander asking what was flying over the water that evening, as he had never seen anything like it."
+  },
+  {
+   "s": "doc_dorey",
+   "p": "content",
+   "v": "asked what was flying over the water that evening",
+   "quote": "The next day, he wrote a letter to RCAF Greenwood Base Commander asking what was flying over the water that evening, as he had never seen anything like it."
+  },
+  {
+   "s": "doc_dorey",
+   "p": "addressed_to",
+   "o": "greenwood",
+   "quote": "The next day, he wrote a letter to RCAF Greenwood Base Commander asking what was flying over the water that evening, as he had never seen anything like it."
+  },
+  {
+   "s": "doc_mersey",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Mersey radioed the rescue coordination centre and the harbour master in Halifax asking for an explanation and filed a report with the Lunenburg RCMP outlining his sighting when they returned to port."
+  },
+  {
+   "s": "doc_mersey",
+   "p": "filed_with",
+   "o": "rcmp_lunenburg",
+   "quote": "Mersey radioed the rescue coordination centre and the harbour master in Halifax asking for an explanation and filed a report with the Lunenburg RCMP outlining his sighting when they returned to port."
+  },
+  {
+   "s": "doc_mersey",
+   "p": "filed",
+   "v": "when they returned to port",
+   "quote": "Mersey radioed the rescue coordination centre and the harbour master in Halifax asking for an explanation and filed a report with the Lunenburg RCMP outlining his sighting when they returned to port."
+  },
+  {
+   "s": "doc_telex_rcc",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The same morning, RCC Halifax also sent a priority telex to the \"Air Desk\" at the Royal Canadian Air Force headquarters in Ottawa, which handled all civilian and military UFO sightings, informing them of the crash and that all conventional explanations such as aircraft, flares, etc. had been dismissed."
+  },
+  {
+   "s": "doc_telex_rcc",
+   "p": "priority",
+   "v": "priority telex",
+   "quote": "The same morning, RCC Halifax also sent a priority telex to the \"Air Desk\" at the Royal Canadian Air Force headquarters in Ottawa, which handled all civilian and military UFO sightings, informing them of the crash and that all conventional explanations such as aircraft, flares, etc. had been dismissed."
+  },
+  {
+   "s": "doc_telex_rcc",
+   "p": "sent",
+   "v": "the morning after the crash",
+   "quote": "The same morning, RCC Halifax also sent a priority telex to the \"Air Desk\" at the Royal Canadian Air Force headquarters in Ottawa, which handled all civilian and military UFO sightings, informing them of the crash and that all conventional explanations such as aircraft, flares, etc. had been dismissed."
+  },
+  {
+   "s": "doc_telex_rcc",
+   "p": "content",
+   "v": "informed of the crash and that all conventional explanations such as aircraft, flares, etc. had been dismissed",
+   "quote": "The same morning, RCC Halifax also sent a priority telex to the \"Air Desk\" at the Royal Canadian Air Force headquarters in Ottawa, which handled all civilian and military UFO sightings, informing them of the crash and that all conventional explanations such as aircraft, flares, etc. had been dismissed."
+  },
+  {
+   "s": "doc_telex_rcc",
+   "p": "label",
+   "v": "UFO Report",
+   "quote": "Therefore, this was labelled a \"UFO Report\"."
+  },
+  {
+   "s": "doc_telex_rcc",
+   "p": "addressed_to",
+   "o": "airdesk",
+   "quote": "The same morning, RCC Halifax also sent a priority telex to the \"Air Desk\" at the Royal Canadian Air Force headquarters in Ottawa, which handled all civilian and military UFO sightings, informing them of the crash and that all conventional explanations such as aircraft, flares, etc. had been dismissed."
+  },
+  {
+   "s": "doc_telex_airdesk",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The head of the Air Desk then sent another priority telex to the Royal Canadian Navy headquarters concerning the \"UFO Report\" and recommended an underwater search be mounted."
+  },
+  {
+   "s": "doc_telex_airdesk",
+   "p": "content",
+   "v": "concerned the \"UFO Report\" and recommended an underwater search be mounted",
+   "quote": "The head of the Air Desk then sent another priority telex to the Royal Canadian Navy headquarters concerning the \"UFO Report\" and recommended an underwater search be mounted."
+  },
+  {
+   "s": "doc_telex_airdesk",
+   "p": "addressed_to",
+   "o": "navy",
+   "quote": "The head of the Air Desk then sent another priority telex to the Royal Canadian Navy headquarters concerning the \"UFO Report\" and recommended an underwater search be mounted."
+  },
+  {
+   "s": "doc_telex_navy",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The Navy, in turn, sent another priority telex tasking Fleet Diving Unit Atlantic with carrying out the search."
+  },
+  {
+   "s": "doc_telex_navy",
+   "p": "addressed_to",
+   "o": "fdu",
+   "quote": "The Navy, in turn, sent another priority telex tasking Fleet Diving Unit Atlantic with carrying out the search."
+  },
+  {
+   "s": "doc_radio",
+   "p": "key_document",
+   "o": "case",
+   "quote": "While still tasked with the search, the captain of the Canadian Coast Guard cutter received a radio message from RCC Halifax indicating that all commercial, private and military aircraft were accounted for along the eastern seaboard, in both the Atlantic provinces and New England."
+  },
+  {
+   "s": "doc_radio",
+   "p": "content",
+   "v": "all commercial, private and military aircraft were accounted for along the eastern seaboard",
+   "quote": "While still tasked with the search, the captain of the Canadian Coast Guard cutter received a radio message from RCC Halifax indicating that all commercial, private and military aircraft were accounted for along the eastern seaboard, in both the Atlantic provinces and New England."
+  },
+  {
+   "s": "doc_final",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The final report said no trace of an object had been found."
+  },
+  {
+   "s": "doc_final",
+   "p": "conclusion",
+   "v": "no trace of an object had been found",
+   "quote": "The final report said no trace of an object had been found."
+  },
+  {
+   "s": "doc_dnd",
+   "p": "key_document",
+   "o": "case",
+   "quote": "There is a summary of the event from the Department of National Defence files located at the national Library and Archives."
+  },
+  {
+   "s": "doc_dnd",
+   "p": "held_by",
+   "o": "lac",
+   "quote": "There is a summary of the event from the Department of National Defence files located at the national Library and Archives."
+  },
+  {
+   "s": "doc_gov",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The object was never officially identified, and was therefore referred to as an unidentified flying object (UFO) in Government of Canada documents."
+  },
+  {
+   "s": "doc_gov",
+   "p": "content",
+   "v": "refer to the object as an unidentified flying object (UFO)",
+   "quote": "The object was never officially identified, and was therefore referred to as an unidentified flying object (UFO) in Government of Canada documents."
+  },
+  {
+   "s": "art1",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The paper ran a headline story on 7 October titled, \"Could Be Something Concrete in Shag Harbour UFO – RCAF.\""
+  },
+  {
+   "s": "art1",
+   "p": "publication_date",
+   "v": "7 October",
+   "quote": "The paper ran a headline story on 7 October titled, \"Could Be Something Concrete in Shag Harbour UFO – RCAF.\""
+  },
+  {
+   "s": "art1",
+   "p": "type",
+   "v": "headline story",
+   "quote": "The paper ran a headline story on 7 October titled, \"Could Be Something Concrete in Shag Harbour UFO – RCAF.\""
+  },
+  {
+   "s": "art1",
+   "p": "content",
+   "v": "witness descriptions of an alleged object and crash, the Air Force's search and rescue effort, and the Navy's underwater search",
+   "quote": "The article, by Ray MacLeod, included witness descriptions of an alleged object and crash, the Air Force's search and rescue effort, and the Navy's underwater search that was underway, including three additional divers from Fleet Diving Unit Atlantic."
+  },
+  {
+   "s": "art1",
+   "p": "content",
+   "v": "mentioned UFO reports that immediately preceded the incident, including one from a woman in Halifax around 10:00 pm",
+   "quote": "The article also mentioned UFO reports that immediately preceded the incident, including the above-mentioned one from a woman in Halifax around 10:00 pm."
+  },
+  {
+   "s": "art1",
+   "p": "quoted",
+   "v": "Squadron Leader Bain",
+   "quote": "The head of the Air Force's \"Air Desk\" in Ottawa, Squadron Leader Bain, who recommended the Navy undertake an underwater search, was also quoted, saying the Air Force was \"very interested\" in the matter."
+  },
+  {
+   "s": "art2",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The Chronicle-Herald ran another story on 9 October titled \"UFO Search Called Off,\" stating that the Navy had ended \"an intensive undersea search for the mysterious unidentified flying object that disappeared into the ocean here Wednesday night.\""
+  },
+  {
+   "s": "art2",
+   "p": "publication_date",
+   "v": "9 October",
+   "quote": "The Chronicle-Herald ran another story on 9 October titled \"UFO Search Called Off,\" stating that the Navy had ended \"an intensive undersea search for the mysterious unidentified flying object that disappeared into the ocean here Wednesday night.\""
+  },
+  {
+   "s": "art2",
+   "p": "content",
+   "v": "the Navy had ended \"an intensive undersea search for the mysterious unidentified flying object that disappeared into the ocean here Wednesday night\"",
+   "quote": "The Chronicle-Herald ran another story on 9 October titled \"UFO Search Called Off,\" stating that the Navy had ended \"an intensive undersea search for the mysterious unidentified flying object that disappeared into the ocean here Wednesday night.\""
+  },
+  {
+   "s": "skeptoid",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Dunning, Brian (4 April 2017). \"Skeptoid #565: The Shag Harbour UFO\". Skeptoid."
+  },
+  {
+   "s": "skeptoid",
+   "p": "publication_date",
+   "v": "2017-04-04",
+   "quote": "Dunning, Brian (4 April 2017). \"Skeptoid #565: The Shag Harbour UFO\". Skeptoid."
+  },
+  {
+   "s": "f_water",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "On the night of 4 October 1967, at about 11:20 pm Atlantic Daylight Time, it was reported that something had crashed into the waters of Shag Harbour."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "At least eleven people saw a low-flying lit object head towards the harbour."
+  },
+  {
+   "s": "f_sound",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Multiple witnesses reported hearing a whistling sound \"like a bomb,\" then a \"whoosh,\" and finally a loud bang."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The reports were investigated by various Canadian civilian (RCMP and Canadian Coast Guard) and military (Canadian Forces Navy and Air Force) agencies as well as the U.S. Condon Committee."
+  },
+  {
+   "s": "f_radar",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "While standing at the wheelhouse of his vessel, Captain Leo Howard Mersey was looking at four blips on his Decca radar that were stationary."
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "At 7:19 pm, the pilots noticed a sizeable silent explosion near the large object."
+  },
+  {
+   "s": "f_shape",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "He described it as a brilliantly lit, rectangular object with a string of smaller lights trailing behind it."
+  },
+  {
+   "s": "f_shape",
+   "p": "shape",
+   "v": "rectangular",
+   "quote": "He described it as a brilliantly lit, rectangular object with a string of smaller lights trailing behind it."
+  },
+  {
+   "s": "f_crash",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Canadian military became involved in a subsequent rescue/recovery effort."
+  },
+  {
+   "s": "f_crash",
+   "p": "outcome",
+   "v": "no survivors, bodies, or debris were taken; no trace of an object found",
+   "quote": "No survivors, bodies, or debris were taken, either by the fishermen or by a Canadian Coast Guard search and rescue cutter, which arrived about an hour later from nearby Clark's Harbour."
+  },
+  {
+   "s": "x_aircraft",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Wickens contacted the RCMP detachment in Barrington Passage and reported he had seen a large airplane or small airliner crash into the waters off Shag Harbour."
+  },
+  {
+   "s": "x_aircraft",
+   "p": "status",
+   "v": "dismissed: no aircraft were missing",
+   "quote": "By the next morning, RCC Halifax had determined that no aircraft were missing."
+  },
+  {
+   "s": "x_flares",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The same morning, RCC Halifax also sent a priority telex to the \"Air Desk\" at the Royal Canadian Air Force headquarters in Ottawa, which handled all civilian and military UFO sightings, informing them of the crash and that all conventional explanations such as aircraft, flares, etc. had been dismissed."
+  },
+  {
+   "s": "x_flares",
+   "p": "status",
+   "v": "dismissed",
+   "quote": "The same morning, RCC Halifax also sent a priority telex to the \"Air Desk\" at the Royal Canadian Air Force headquarters in Ottawa, which handled all civilian and military UFO sightings, informing them of the crash and that all conventional explanations such as aircraft, flares, etc. had been dismissed."
+  }
+ ]
+}

@@ -1698,8 +1698,8 @@
   },
   {
    "s": "clark",
-   "p": "mentioned_by",
-   "o": "case",
+   "p": "cited",
+   "v": "a 1970 study by Herbert Strentz on the origin of the term 'flying saucer'",
    "quote": "Jerome Clark cites a 1970 study by Herbert Strentz, who reviewed U.S. newspaper accounts of the Arnold UFO sighting, and concluded that the term was probably due to an editor or headline writer: the body of the early Arnold news stories did not use the term \"flying saucer\" or \"flying disc.\""
   },
   {
@@ -1928,7 +1928,7 @@
    "s": "brown",
    "p": "authored",
    "o": "d_brown",
-   "quote": "It is the present opinion of the interviewer that Mr. Arnold actually saw what he stated he saw."
+   "quote": "The first investigation of Arnold's claims came from Lt. Frank Brown and Capt. William Davidson of Hamilton Field in California, who interviewed Arnold on July 12."
   },
   {
    "s": "wdavidson",
@@ -1958,7 +1958,7 @@
    "s": "wdavidson",
    "p": "authored",
    "o": "d_brown",
-   "quote": "It is the present opinion of the interviewer that Mr. Arnold actually saw what he stated he saw."
+   "quote": "The first investigation of Arnold's claims came from Lt. Frank Brown and Capt. William Davidson of Hamilton Field in California, who interviewed Arnold on July 12."
   },
   {
    "s": "eustace",
@@ -2993,9 +2993,9 @@
    "quote": "Jerome Clark cites a 1970 study by Herbert Strentz, who reviewed U.S. newspaper accounts of the Arnold UFO sighting, and concluded that the term was probably due to an editor or headline writer: the body of the early Arnold news stories did not use the term \"flying saucer\" or \"flying disc.\""
   },
   {
-   "s": "clark",
+   "s": "w_strentz",
    "p": "mentioned_by",
-   "o": "w_strentz",
+   "o": "clark",
    "quote": "Jerome Clark cites a 1970 study by Herbert Strentz, who reviewed U.S. newspaper accounts of the Arnold UFO sighting, and concluded that the term was probably due to an editor or headline writer: the body of the early Arnold news stories did not use the term \"flying saucer\" or \"flying disc.\""
   },
   {
@@ -3127,12 +3127,6 @@
   {
    "s": "portland",
    "p": "occurred_at",
-   "o": "c_portland",
-   "quote": "When police officers and others in Portland, Oregon reported \"flying disks\" on the Fourth of July, Army officials responded \"by pointing out that 24 P-80 fighters and six bombers flew over the city about the time the 'discs' were reported.\""
-  },
-  {
-   "s": "p80",
-   "p": "identified_as",
    "o": "c_portland",
    "quote": "When police officers and others in Portland, Oregon reported \"flying disks\" on the Fourth of July, Army officials responded \"by pointing out that 24 P-80 fighters and six bombers flew over the city about the time the 'discs' were reported.\""
   },

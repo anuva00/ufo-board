@@ -1,0 +1,2253 @@
+{
+ "slug": "belgian-ufo-wave",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Belgian UFO wave",
+   "aliases": [
+    "Belgian wave",
+    "the wave"
+   ],
+   "description": "Series of sightings of triangular UFOs in Belgium from 29 November 1989 to April 1990, peaking with an F-16 scramble on 30 March 1990."
+  },
+  {
+   "key": "dunning",
+   "type": "person",
+   "name": "Brian Dunning",
+   "aliases": [
+    "Dunning"
+   ],
+   "description": "Skeptic and author who discussed the wave in a 2016 Skeptoid podcast episode"
+  },
+  {
+   "key": "pinson",
+   "type": "person",
+   "name": "Pinson",
+   "aliases": [
+    "Captain Pinson"
+   ],
+   "description": "Captain with the Wavre gendarmerie patrol who described four lights in a square formation"
+  },
+  {
+   "key": "marechal",
+   "type": "person",
+   "name": "Patrick Maréchal",
+   "description": "Man who said in 2011 that he made the Petit-Rechain photo as a hoax"
+  },
+  {
+   "key": "hallet",
+   "type": "person",
+   "name": "Marc Hallet",
+   "aliases": [
+    "Hallet"
+   ],
+   "description": "Author of a 1992 essay criticizing SOBEPS and calling the wave mostly a mass delusion"
+  },
+  {
+   "key": "klass",
+   "type": "person",
+   "name": "Philip J. Klass",
+   "description": "Person whose 'law' on media-driven UFO flaps is cited by Hallet's thesis"
+  },
+  {
+   "key": "magain",
+   "type": "person",
+   "name": "Pierre Magain",
+   "description": "Co-author of a 1993 Physicalia Magazine article whose conclusions deviated from SOBEPS"
+  },
+  {
+   "key": "remy",
+   "type": "person",
+   "name": "Marc Remy",
+   "description": "Co-author of a 1993 Physicalia Magazine article whose conclusions deviated from SOBEPS"
+  },
+  {
+   "key": "leclet",
+   "type": "person",
+   "name": "Renaud Leclet",
+   "aliases": [
+    "Renaud Leclet et al."
+   ],
+   "description": "Lead author of a report arguing some sightings could be explained by helicopters"
+  },
+  {
+   "key": "abrassart",
+   "type": "person",
+   "name": "Jean-Michel Abrassart",
+   "description": "Author who argued the beginning of the wave did not contradict the psychosocial hypothesis"
+  },
+  {
+   "key": "meessen",
+   "type": "person",
+   "name": "Auguste Meessen",
+   "aliases": [
+    "Meessen",
+    "the Belgian physicist"
+   ],
+   "description": "Belgian physicist who argued the wave was completely unexplained"
+  },
+  {
+   "key": "paquay",
+   "type": "person",
+   "name": "Roger Paquay",
+   "description": "Critic of Meessen who wrote a rebuttal to his 2011 article"
+  },
+  {
+   "key": "debrouwer",
+   "type": "person",
+   "name": "Wilfried De Brouwer",
+   "aliases": [
+    "General Wilfried De Brouwer"
+   ],
+   "description": "General, Chief of Operations of the Air Staff at the time of the wave"
+  },
+  {
+   "key": "printy",
+   "type": "person",
+   "name": "Tim Printy",
+   "description": "Author of 'Belgium 1990: A Case for Radar-Visual UFOS?'"
+  },
+  {
+   "key": "vanutrecht",
+   "type": "person",
+   "name": "Wim Van Utrecht",
+   "description": "Author of 'Triangles over Belgium'"
+  },
+  {
+   "key": "baf",
+   "type": "organization",
+   "name": "Belgian Air Force",
+   "aliases": [
+    "the Air Force"
+   ],
+   "description": "Air force that scrambled two F-16s on 30 March 1990 and released a report on the events"
+  },
+  {
+   "key": "crc",
+   "type": "organization",
+   "name": "Control Reporting Center at Glons",
+   "aliases": [
+    "Control Reporting Center (CRC) at Glons",
+    "Glons CRC",
+    "CRC"
+   ],
+   "description": "Radar control centre whose supervisor received the reports of unusual lights on 30 March 1990"
+  },
+  {
+   "key": "gend",
+   "type": "organization",
+   "name": "Wavre gendarmerie",
+   "aliases": [
+    "gendarmerie in Wavre"
+   ],
+   "description": "Gendarmerie asked to send a patrol to confirm the 30 March 1990 sighting"
+  },
+  {
+   "key": "tcc",
+   "type": "organization",
+   "name": "Traffic Center Control at Semmerzake",
+   "description": "Radar facility that tracked one object on 30 March 1990"
+  },
+  {
+   "key": "nasa",
+   "type": "organization",
+   "name": "NASA",
+   "description": "One of the sources that examined the Petit-Rechain photograph"
+  },
+  {
+   "key": "cnrs",
+   "type": "organization",
+   "name": "French National Centre for Scientific Research",
+   "description": "One of the sources that examined the Petit-Rechain photograph"
+  },
+  {
+   "key": "rma",
+   "type": "organization",
+   "name": "Belgian Royal Military Academy",
+   "aliases": [
+    "Royal Military Academy"
+   ],
+   "description": "One of the sources that examined the Petit-Rechain photograph"
+  },
+  {
+   "key": "sobeps",
+   "type": "organization",
+   "name": "Société belge d'étude des phénomènes spatiaux",
+   "aliases": [
+    "SOBEPS"
+   ],
+   "description": "Belgian ufological organization that collected reports on the wave and defended the Petit-Rechain photo"
+  },
+  {
+   "key": "repas",
+   "type": "organization",
+   "name": "Les repas ufologiques parisiens",
+   "description": "Group that was not sure the Petit-Rechain photo was genuine"
+  },
+  {
+   "key": "rtl",
+   "type": "organization",
+   "name": "RTL",
+   "aliases": [
+    "Belgian TV channel RTL"
+   ],
+   "description": "Belgian TV channel that interviewed Patrick Maréchal in 2011"
+  },
+  {
+   "key": "physicalia",
+   "type": "organization",
+   "name": "Physicalia Magazine",
+   "description": "Magazine that published the 1993 Magain and Remy article"
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "aliases": [
+    "USAF"
+   ],
+   "description": "Air force whose stealth aircraft American authorities said were not operating in the area"
+  },
+  {
+   "key": "belgium",
+   "type": "place",
+   "name": "Belgium",
+   "description": "Country where the wave took place"
+  },
+  {
+   "key": "eupen",
+   "type": "place",
+   "name": "Eupen, Belgium",
+   "aliases": [
+    "Eupen"
+   ],
+   "description": "City where the wave began in November 1989"
+  },
+  {
+   "key": "glons",
+   "type": "place",
+   "name": "Glons, Belgium",
+   "aliases": [
+    "Glons"
+   ],
+   "description": "Location of the Control Reporting Center"
+  },
+  {
+   "key": "thorembais",
+   "type": "place",
+   "name": "Thorembais-Gembloux, Belgium",
+   "aliases": [
+    "Thorembais-Gembloux"
+   ],
+   "description": "Direction in which three unusual lights were seen on 30 March 1990; southeast of Brussels"
+  },
+  {
+   "key": "brussels",
+   "type": "place",
+   "name": "Brussels, Belgium",
+   "aliases": [
+    "Brussels"
+   ],
+   "description": "City northwest of Thorembais-Gembloux"
+  },
+  {
+   "key": "wavre",
+   "type": "place",
+   "name": "Wavre, Belgium",
+   "aliases": [
+    "Wavre"
+   ],
+   "description": "Town whose gendarmerie sent a patrol to confirm the sighting"
+  },
+  {
+   "key": "semmerzake",
+   "type": "place",
+   "name": "Semmerzake, Belgium",
+   "aliases": [
+    "Semmerzake"
+   ],
+   "description": "Location of Traffic Center Control radar"
+  },
+  {
+   "key": "beauvechain",
+   "type": "place",
+   "name": "Beauvechain Air Base",
+   "description": "Air base from which two F-16s were scrambled"
+  },
+  {
+   "key": "craft_tri",
+   "type": "craft",
+   "name": "triangular objects reported during the Belgian UFO wave",
+   "description": "Large, flat, triangular objects with lights underneath reported flying at low altitude"
+  },
+  {
+   "key": "craft_nov29",
+   "type": "craft",
+   "name": "object reported on 29 November 1989",
+   "description": "Object of the original report, which Dunning says had a protruding stick with a turbine and a low engine noise"
+  },
+  {
+   "key": "lights3",
+   "type": "craft",
+   "name": "three unusual lights seen towards Thorembais-Gembloux on 30 March 1990",
+   "description": "Lights reported to the Glons CRC at around 23:00, later joined by a second set of lights"
+  },
+  {
+   "key": "radar_obj",
+   "type": "craft",
+   "name": "unknown object tracked on radar on 30 March 1990",
+   "description": "Radar target that led to the F-16 scramble"
+  },
+  {
+   "key": "lights4",
+   "type": "craft",
+   "name": "four lights in square formation seen by the Wavre gendarmerie",
+   "description": "Lights described by Captain Pinson that made short jerky movements and disappeared at around 01:30"
+  },
+  {
+   "key": "f16",
+   "type": "vehicle",
+   "name": "F-16",
+   "aliases": [
+    "F-16s",
+    "F-16 fighters"
+   ],
+   "description": "Two Belgian Air Force fighters scrambled from Beauvechain Air Base on 30 March 1990"
+  },
+  {
+   "key": "huey",
+   "type": "vehicle",
+   "name": "Bell UH-1 Huey",
+   "aliases": [
+    "Bell UH-1 Huey helicopter"
+   ],
+   "description": "Helicopter that many concluded was the object of the original 29 November report"
+  },
+  {
+   "key": "af_report",
+   "type": "document",
+   "name": "Belgian Air Force report on the events of 30 March 1990",
+   "aliases": [
+    "the Air Force report"
+   ],
+   "description": "Report released by the Belgian Air Force detailing the night of the F-16 scramble"
+  },
+  {
+   "key": "photo",
+   "type": "document",
+   "name": "Petit-Rechain photo",
+   "aliases": [
+    "Patrick Maréchal hoax photograph"
+   ],
+   "description": "April 1990 photograph of a black triangular object with three lights, revealed as a hoax in 2011"
+  },
+  {
+   "key": "w_skeptoid",
+   "type": "work",
+   "name": "Skeptoid",
+   "aliases": [
+    "Skeptoid podcast"
+   ],
+   "description": "Podcast by Brian Dunning"
+  },
+  {
+   "key": "w_episode",
+   "type": "work",
+   "name": "The Belgian UFO Wave (Skeptoid podcast episode)",
+   "aliases": [
+    "The Belgian UFO Wave"
+   ],
+   "description": "27 September 2016 Skeptoid episode by Brian Dunning"
+  },
+  {
+   "key": "w_hallet",
+   "type": "work",
+   "name": "La Vague OVNI Belge ou le triomphe de la désinformation",
+   "description": "1992 essay by Marc Hallet criticizing the work of SOBEPS"
+  },
+  {
+   "key": "w_magain",
+   "type": "work",
+   "name": "1993 Physicalia Magazine article by Pierre Magain and Marc Remy",
+   "description": "Article whose conclusions deviated from those of SOBEPS"
+  },
+  {
+   "key": "w_leclet",
+   "type": "work",
+   "name": "The Belgian UFO Wave of 1989–1992 – A Neglected Hypothesis",
+   "description": "Report by Renaud Leclet et al. on helicopters as an explanation for some sightings"
+  },
+  {
+   "key": "w_abrassart",
+   "type": "work",
+   "name": "The Beginning of the Belgian UFO wave",
+   "description": "Article by Jean-Michel Abrassart on the psychosocial hypothesis"
+  },
+  {
+   "key": "w_meessen",
+   "type": "work",
+   "name": "The Belgian Wave and the photos of Ramillies",
+   "description": "2011 website article by Auguste Meessen replying to critics"
+  },
+  {
+   "key": "w_sobeps",
+   "type": "work",
+   "name": "Vague OVNI sur la Belgique",
+   "aliases": [
+    "UFO wave over Belgium"
+   ],
+   "description": "SOBEPS publication listed as further reading"
+  },
+  {
+   "key": "w_printy",
+   "type": "work",
+   "name": "Belgium 1990: A Case for Radar-Visual UFOS?",
+   "description": "Article by Tim Printy listed in external links"
+  },
+  {
+   "key": "w_vanutrecht",
+   "type": "work",
+   "name": "Triangles over Belgium",
+   "description": "Article by Wim Van Utrecht listed in external links"
+  },
+  {
+   "key": "f_triangle",
+   "type": "feature",
+   "name": "shape-triangle",
+   "description": "Feature: shape-triangle"
+  },
+  {
+   "key": "f_radar",
+   "type": "feature",
+   "name": "radar-contact",
+   "description": "Feature: radar-contact"
+  },
+  {
+   "key": "f_photo",
+   "type": "feature",
+   "name": "photograph",
+   "description": "Feature: photograph"
+  },
+  {
+   "key": "f_pursuit",
+   "type": "feature",
+   "name": "aircraft-pursuit",
+   "description": "Feature: aircraft-pursuit"
+  },
+  {
+   "key": "f_mass",
+   "type": "feature",
+   "name": "mass-sighting",
+   "description": "Feature: mass-sighting"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "Feature: multiple-witnesses"
+  },
+  {
+   "key": "f_police",
+   "type": "feature",
+   "name": "police-witnesses",
+   "description": "Feature: police-witnesses"
+  },
+  {
+   "key": "f_hoaxconf",
+   "type": "feature",
+   "name": "hoax-confessed",
+   "description": "Feature: hoax-confessed"
+  },
+  {
+   "key": "f_hoaxall",
+   "type": "feature",
+   "name": "hoax-alleged",
+   "description": "Feature: hoax-alleged"
+  },
+  {
+   "key": "f_silent",
+   "type": "feature",
+   "name": "silent",
+   "description": "Feature: silent"
+  },
+  {
+   "key": "f_sound",
+   "type": "feature",
+   "name": "sound-reported",
+   "description": "Feature: sound-reported"
+  },
+  {
+   "key": "f_lights",
+   "type": "feature",
+   "name": "lights-only",
+   "description": "Feature: lights-only"
+  },
+  {
+   "key": "f_maneuver",
+   "type": "feature",
+   "name": "high-speed-maneuvers",
+   "description": "Feature: high-speed-maneuvers"
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Feature: official-investigation"
+  },
+  {
+   "key": "x_aircraft",
+   "type": "explanation",
+   "name": "conventional-aircraft",
+   "description": "Explanation: conventional-aircraft"
+  },
+  {
+   "key": "x_psych",
+   "type": "explanation",
+   "name": "psychological",
+   "description": "Explanation: psychological"
+  },
+  {
+   "key": "x_hoax",
+   "type": "explanation",
+   "name": "hoax",
+   "description": "Explanation: hoax"
+  },
+  {
+   "key": "x_secret",
+   "type": "explanation",
+   "name": "secret-aircraft",
+   "description": "Explanation: secret-aircraft"
+  },
+  {
+   "key": "x_misperc",
+   "type": "explanation",
+   "name": "misperception",
+   "description": "Explanation: misperception"
+  },
+  {
+   "key": "x_bragg",
+   "type": "explanation",
+   "name": "other:Bragg scattering (atmospheric radar interference)",
+   "description": "Explanation: other:Bragg scattering (atmospheric radar interference)"
+  },
+  {
+   "key": "x_lockeach",
+   "type": "explanation",
+   "name": "other:F-16 radar locks on each other",
+   "description": "Explanation: other:F-16 radar locks on each other"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1989-11-29",
+   "quote": "The Belgian UFO wave was a series of sightings of triangular UFOs in Belgium, which lasted from 29 November 1989 to April 1990."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1990-04",
+   "quote": "The Belgian UFO wave was a series of sightings of triangular UFOs in Belgium, which lasted from 29 November 1989 to April 1990."
+  },
+  {
+   "s": "case",
+   "p": "duration",
+   "v": "29 November 1989 to April 1990",
+   "quote": "The Belgian UFO wave was a series of sightings of triangular UFOs in Belgium, which lasted from 29 November 1989 to April 1990."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "Belgium",
+   "quote": "The Belgian UFO wave was a series of sightings of triangular UFOs in Belgium, which lasted from 29 November 1989 to April 1990."
+  },
+  {
+   "s": "case",
+   "p": "object_shape",
+   "v": "triangular",
+   "quote": "The Belgian UFO wave was a series of sightings of triangular UFOs in Belgium, which lasted from 29 November 1989 to April 1990."
+  },
+  {
+   "s": "case",
+   "p": "began",
+   "v": "November 1989, in the city of Eupen",
+   "quote": "The Belgian UFO wave began in November 1989, in the city of Eupen."
+  },
+  {
+   "s": "case",
+   "p": "witness_count",
+   "v": "143",
+   "quote": "Reports were filed, and 143 people claimed to have witnessed an unidentified flying object, though most of these reports were submitted over a week after the purported event and also following media coverage."
+  },
+  {
+   "s": "case",
+   "p": "report_timing",
+   "v": "most reports were submitted over a week after the purported event and following media coverage",
+   "quote": "Reports were filed, and 143 people claimed to have witnessed an unidentified flying object, though most of these reports were submitted over a week after the purported event and also following media coverage."
+  },
+  {
+   "s": "case",
+   "p": "peak_date",
+   "v": "1990-03-30",
+   "quote": "The Belgian UFO wave peaked with the events of the night of 30 March 1990, wherein an unknown object was tracked on radar, and two Belgian Air Force F-16s were sent to investigate."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "around 23:00",
+   "quote": "At around 23:00 on 30 March 1990, the supervisor for the Control Reporting Center (CRC) at Glons received reports that three unusual lights were seen in the direction of Thorembais-Gembloux, which lies southeast of Brussels."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "night",
+   "quote": "The Belgian UFO wave peaked with the events of the night of 30 March 1990, wherein an unknown object was tracked on radar, and two Belgian Air Force F-16s were sent to investigate."
+  },
+  {
+   "s": "case",
+   "p": "first_report_30_march",
+   "v": "CRC supervisor at Glons received reports of three unusual lights at around 23:00",
+   "quote": "At around 23:00 on 30 March 1990, the supervisor for the Control Reporting Center (CRC) at Glons received reports that three unusual lights were seen in the direction of Thorembais-Gembloux, which lies southeast of Brussels."
+  },
+  {
+   "s": "case",
+   "p": "second_lights_reported_after",
+   "v": "approximately 10 minutes",
+   "quote": "A second set of lights was reported having moved towards the first triangle approximately 10 minutes later."
+  },
+  {
+   "s": "case",
+   "p": "interception_attempts",
+   "v": "nine",
+   "quote": "Over the next hour, the two scrambled F-16s attempted nine separate interceptions of the targets."
+  },
+  {
+   "s": "case",
+   "p": "pursuit_duration",
+   "v": "the next hour",
+   "quote": "Over the next hour, the two scrambled F-16s attempted nine separate interceptions of the targets."
+  },
+  {
+   "s": "case",
+   "p": "radar_lock_count",
+   "v": "three",
+   "quote": "On three occasions, they managed to obtain a radar lock for a few seconds, but these were later asserted by Dunning to be locks on each other."
+  },
+  {
+   "s": "case",
+   "p": "radar_lock_duration",
+   "v": "a few seconds",
+   "quote": "On three occasions, they managed to obtain a radar lock for a few seconds, but these were later asserted by Dunning to be locks on each other."
+  },
+  {
+   "s": "case",
+   "p": "pilot_visual_confirmation",
+   "v": "neither pilot reported visual confirmation of the object",
+   "quote": "However, neither pilot reported visual confirmation of the object."
+  },
+  {
+   "s": "case",
+   "p": "pilot_visual_confirmation",
+   "v": "pilots never reported visually confirming the alleged objects or their anomalous manoeuvres",
+   "quote": "The pilots never reported visually confirming the alleged objects or their anomalous manoeuvres."
+  },
+  {
+   "s": "case",
+   "p": "radar_contact_sporadic_after",
+   "v": "00:30",
+   "quote": "After 00:30, radar contact became much more sporadic and the final confirmed radar lock took place at 00:40."
+  },
+  {
+   "s": "case",
+   "p": "final_confirmed_radar_lock_time",
+   "v": "00:40",
+   "quote": "After 00:30, radar contact became much more sporadic and the final confirmed radar lock took place at 00:40."
+  },
+  {
+   "s": "case",
+   "p": "f16s_returned_to_base",
+   "v": "shortly after 01:00",
+   "quote": "Following several further unconfirmed contacts, the F-16s eventually returned to base shortly after 01:00."
+  },
+  {
+   "s": "case",
+   "p": "lights_disappeared_time",
+   "v": "around 01:30",
+   "quote": "Members of the Wavre gendarmerie were sent to confirm the original report from earlier in the night, and Captain Pinson described four lights being arranged in a square formation, all making short jerky movements, before gradually losing their luminosity and disappearing in four separate directions at around 01:30."
+  },
+  {
+   "s": "case",
+   "p": "ground_witnesses",
+   "v": "multiple witnesses claimed the phenomenon was visible from the ground",
+   "quote": "Multiple witnesses claimed that the phenomenon was visible from the ground; the Air Force report further states: \"Their respective position does not change. The whole formation seems to move slowly in comparison with the stars.\""
+  },
+  {
+   "s": "case",
+   "p": "public_report_timing",
+   "v": "all reports from the public were received after the date of the incident (per Dunning)",
+   "quote": "According to Dunning, all reports from the public were received after the date of the incident."
+  },
+  {
+   "s": "case",
+   "p": "radar_locks_reported_by_belgian_military",
+   "v": "three",
+   "quote": "SOBEPS reported that they obtained radar lock on targets nine times; but the Belgian military only reported three such locks, and upon analyzing the data, all three radar locks were on each other."
+  },
+  {
+   "s": "case",
+   "p": "radar_locks_reported_by_sobeps",
+   "v": "nine",
+   "quote": "SOBEPS reported that they obtained radar lock on targets nine times; but the Belgian military only reported three such locks, and upon analyzing the data, all three radar locks were on each other."
+  },
+  {
+   "s": "case",
+   "p": "total_reports_received",
+   "v": "as many as 2,600",
+   "quote": "With so many articles over a period of years in a small country, it's no great surprise that SOBEPS reported they eventually received as many as 2,600 in all."
+  },
+  {
+   "s": "case",
+   "p": "initial_reports_29_november",
+   "v": "143, received only after more than a week of solicitation in the mass media",
+   "quote": "The 143 reports Meessen claims for the original 29 November incident were indeed received, but only after more than a week of aggressive and repeated solicitation in the mass media."
+  },
+  {
+   "s": "case",
+   "p": "witness_total_cited_by_dunning",
+   "v": "13,500",
+   "quote": "If 13,500 people did all actually see something that they took for a UFO at the time, I guarantee you that more than just a single photograph would have resulted."
+  },
+  {
+   "s": "case",
+   "p": "report_solicitation",
+   "v": "reports were made after prompting and solicitation by SOBEPS and the media",
+   "quote": "All the reports were after the fact, and were only made after prompting and solicitation by SOBEPS and the media."
+  },
+  {
+   "s": "case",
+   "p": "photographic_evidence",
+   "v": "only the one questionable photograph",
+   "quote": "It was simply a psychosocial phenomenon, which is why there is no evidence and only the one questionable photograph."
+  },
+  {
+   "s": "case",
+   "p": "us_authorities_statement",
+   "v": "no USAF stealth aircraft were operating in the area during the periods in question",
+   "quote": "General Wilfried De Brouwer, who was Chief of Operations of the Air Staff at the time, initially interpreted the sightings as being caused by experimental American craft, to which American authorities \"confirmed that 'no USAF stealth aircraft were operating in the ... area during the periods in question.'\""
+  },
+  {
+   "s": "case",
+   "p": "helicopter_noise_argument",
+   "v": "lack of noise could have been due to engine noise in witnesses' automobiles or strong natural wind blowing away from the witnesses",
+   "quote": "Though most witnesses reported that the objects were silent, this report argued that the lack of noise could have been due to the engine noise in the witnesses' automobiles, or strong natural wind blowing away from the witnesses."
+  },
+  {
+   "s": "belgium",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Belgian UFO wave was a series of sightings of triangular UFOs in Belgium, which lasted from 29 November 1989 to April 1990."
+  },
+  {
+   "s": "eupen",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Belgian UFO wave began in November 1989, in the city of Eupen."
+  },
+  {
+   "s": "eupen",
+   "p": "place_type",
+   "v": "city",
+   "quote": "The Belgian UFO wave began in November 1989, in the city of Eupen."
+  },
+  {
+   "s": "eupen",
+   "p": "located_in",
+   "o": "belgium",
+   "quote": "The Belgian UFO wave began in November 1989, in the city of Eupen."
+  },
+  {
+   "s": "glons",
+   "p": "related_place",
+   "o": "case",
+   "quote": "At around 23:00 on 30 March 1990, the supervisor for the Control Reporting Center (CRC) at Glons received reports that three unusual lights were seen in the direction of Thorembais-Gembloux, which lies southeast of Brussels."
+  },
+  {
+   "s": "thorembais",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "At around 23:00 on 30 March 1990, the supervisor for the Control Reporting Center (CRC) at Glons received reports that three unusual lights were seen in the direction of Thorembais-Gembloux, which lies southeast of Brussels."
+  },
+  {
+   "s": "thorembais",
+   "p": "direction_from_brussels",
+   "v": "southeast",
+   "quote": "At around 23:00 on 30 March 1990, the supervisor for the Control Reporting Center (CRC) at Glons received reports that three unusual lights were seen in the direction of Thorembais-Gembloux, which lies southeast of Brussels."
+  },
+  {
+   "s": "brussels",
+   "p": "near",
+   "o": "case",
+   "quote": "At around 23:00 on 30 March 1990, the supervisor for the Control Reporting Center (CRC) at Glons received reports that three unusual lights were seen in the direction of Thorembais-Gembloux, which lies southeast of Brussels."
+  },
+  {
+   "s": "wavre",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Glons CRC requested the gendarmerie in Wavre send a patrol to confirm the sighting."
+  },
+  {
+   "s": "semmerzake",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Traffic Center Control at Semmerzake tracked one object on its radar, and an order to scramble two F-16 fighters from Beauvechain Air Base was given."
+  },
+  {
+   "s": "beauvechain",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Traffic Center Control at Semmerzake tracked one object on its radar, and an order to scramble two F-16 fighters from Beauvechain Air Base was given."
+  },
+  {
+   "s": "baf",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The Belgian UFO wave peaked with the events of the night of 30 March 1990, wherein an unknown object was tracked on radar, and two Belgian Air Force F-16s were sent to investigate."
+  },
+  {
+   "s": "baf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Following the encounter, the Belgian Air Force released a report detailing the events of that night."
+  },
+  {
+   "s": "baf",
+   "p": "authored",
+   "o": "af_report",
+   "quote": "Following the encounter, the Belgian Air Force released a report detailing the events of that night."
+  },
+  {
+   "s": "baf",
+   "p": "owned",
+   "o": "f16",
+   "quote": "The Belgian UFO wave peaked with the events of the night of 30 March 1990, wherein an unknown object was tracked on radar, and two Belgian Air Force F-16s were sent to investigate."
+  },
+  {
+   "s": "crc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "At around 23:00 on 30 March 1990, the supervisor for the Control Reporting Center (CRC) at Glons received reports that three unusual lights were seen in the direction of Thorembais-Gembloux, which lies southeast of Brussels."
+  },
+  {
+   "s": "crc",
+   "p": "located_in",
+   "o": "glons",
+   "quote": "At around 23:00 on 30 March 1990, the supervisor for the Control Reporting Center (CRC) at Glons received reports that three unusual lights were seen in the direction of Thorembais-Gembloux, which lies southeast of Brussels."
+  },
+  {
+   "s": "crc",
+   "p": "action",
+   "v": "requested the gendarmerie in Wavre send a patrol to confirm the sighting",
+   "quote": "Glons CRC requested the gendarmerie in Wavre send a patrol to confirm the sighting."
+  },
+  {
+   "s": "crc",
+   "p": "report_received",
+   "v": "three unusual lights seen in the direction of Thorembais-Gembloux",
+   "quote": "At around 23:00 on 30 March 1990, the supervisor for the Control Reporting Center (CRC) at Glons received reports that three unusual lights were seen in the direction of Thorembais-Gembloux, which lies southeast of Brussels."
+  },
+  {
+   "s": "gend",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Glons CRC requested the gendarmerie in Wavre send a patrol to confirm the sighting."
+  },
+  {
+   "s": "gend",
+   "p": "located_in",
+   "o": "wavre",
+   "quote": "Glons CRC requested the gendarmerie in Wavre send a patrol to confirm the sighting."
+  },
+  {
+   "s": "gend",
+   "p": "action",
+   "v": "sent to confirm the original report from earlier in the night",
+   "quote": "Members of the Wavre gendarmerie were sent to confirm the original report from earlier in the night, and Captain Pinson described four lights being arranged in a square formation, all making short jerky movements, before gradually losing their luminosity and disappearing in four separate directions at around 01:30."
+  },
+  {
+   "s": "tcc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Traffic Center Control at Semmerzake tracked one object on its radar, and an order to scramble two F-16 fighters from Beauvechain Air Base was given."
+  },
+  {
+   "s": "tcc",
+   "p": "located_in",
+   "o": "semmerzake",
+   "quote": "Traffic Center Control at Semmerzake tracked one object on its radar, and an order to scramble two F-16 fighters from Beauvechain Air Base was given."
+  },
+  {
+   "s": "tcc",
+   "p": "radar_tracking",
+   "v": "tracked one object on its radar",
+   "quote": "Traffic Center Control at Semmerzake tracked one object on its radar, and an order to scramble two F-16 fighters from Beauvechain Air Base was given."
+  },
+  {
+   "s": "nasa",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The photograph was examined by a number of sources, including NASA, the French National Centre for Scientific Research, and the Belgian Royal Military Academy, but none could positively identify it or find obvious signs of fakery."
+  },
+  {
+   "s": "nasa",
+   "p": "examined",
+   "o": "photo",
+   "quote": "The photograph was examined by a number of sources, including NASA, the French National Centre for Scientific Research, and the Belgian Royal Military Academy, but none could positively identify it or find obvious signs of fakery."
+  },
+  {
+   "s": "nasa",
+   "p": "finding",
+   "v": "could not positively identify the photograph or find obvious signs of fakery",
+   "quote": "The photograph was examined by a number of sources, including NASA, the French National Centre for Scientific Research, and the Belgian Royal Military Academy, but none could positively identify it or find obvious signs of fakery."
+  },
+  {
+   "s": "cnrs",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The photograph was examined by a number of sources, including NASA, the French National Centre for Scientific Research, and the Belgian Royal Military Academy, but none could positively identify it or find obvious signs of fakery."
+  },
+  {
+   "s": "cnrs",
+   "p": "examined",
+   "o": "photo",
+   "quote": "The photograph was examined by a number of sources, including NASA, the French National Centre for Scientific Research, and the Belgian Royal Military Academy, but none could positively identify it or find obvious signs of fakery."
+  },
+  {
+   "s": "cnrs",
+   "p": "finding",
+   "v": "could not positively identify the photograph or find obvious signs of fakery",
+   "quote": "The photograph was examined by a number of sources, including NASA, the French National Centre for Scientific Research, and the Belgian Royal Military Academy, but none could positively identify it or find obvious signs of fakery."
+  },
+  {
+   "s": "rma",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The photograph was examined by a number of sources, including NASA, the French National Centre for Scientific Research, and the Belgian Royal Military Academy, but none could positively identify it or find obvious signs of fakery."
+  },
+  {
+   "s": "rma",
+   "p": "examined",
+   "o": "photo",
+   "quote": "The photograph was examined by a number of sources, including NASA, the French National Centre for Scientific Research, and the Belgian Royal Military Academy, but none could positively identify it or find obvious signs of fakery."
+  },
+  {
+   "s": "rma",
+   "p": "finding",
+   "v": "could not positively identify the photograph or find obvious signs of fakery",
+   "quote": "The photograph was examined by a number of sources, including NASA, the French National Centre for Scientific Research, and the Belgian Royal Military Academy, but none could positively identify it or find obvious signs of fakery."
+  },
+  {
+   "s": "sobeps",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "You and I might not necessarily make that connection, but it's perfectly reasonable that a lot of people will; and so they follow the instructions in the newspaper article and send a report to SOBEPS."
+  },
+  {
+   "s": "sobeps",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "For 20 years, the ufological organization Société belge d'étude des phénomènes spatiaux (SOBEPS) claimed that this picture was genuine, while others like Les repas ufologiques parisiens were not sure, pointing to apparent anomalies wherein the motion blur seemed mathematically inconsistent with what would be expected in three-dimensional space."
+  },
+  {
+   "s": "sobeps",
+   "p": "organization_type",
+   "v": "ufological organization",
+   "quote": "For 20 years, the ufological organization Société belge d'étude des phénomènes spatiaux (SOBEPS) claimed that this picture was genuine, while others like Les repas ufologiques parisiens were not sure, pointing to apparent anomalies wherein the motion blur seemed mathematically inconsistent with what would be expected in three-dimensional space."
+  },
+  {
+   "s": "sobeps",
+   "p": "claim",
+   "v": "claimed for 20 years that the Petit-Rechain picture was genuine",
+   "quote": "For 20 years, the ufological organization Société belge d'étude des phénomènes spatiaux (SOBEPS) claimed that this picture was genuine, while others like Les repas ufologiques parisiens were not sure, pointing to apparent anomalies wherein the motion blur seemed mathematically inconsistent with what would be expected in three-dimensional space."
+  },
+  {
+   "s": "sobeps",
+   "p": "reports_received",
+   "v": "as many as 2,600",
+   "quote": "With so many articles over a period of years in a small country, it's no great surprise that SOBEPS reported they eventually received as many as 2,600 in all."
+  },
+  {
+   "s": "sobeps",
+   "p": "radar_locks_reported",
+   "v": "nine",
+   "quote": "SOBEPS reported that they obtained radar lock on targets nine times; but the Belgian military only reported three such locks, and upon analyzing the data, all three radar locks were on each other."
+  },
+  {
+   "s": "sobeps",
+   "p": "accusation",
+   "v": "spreading misinformation in the media (per Hallet)",
+   "quote": "In 1992, about three years after the first sighting, Marc Hallet wrote an essay about the Belgian UFO wave criticizing the work done by SOBEPS: La Vague OVNI Belge ou le triomphe de la désinformation, arguing that this ufological organisation was spreading misinformation in the media."
+  },
+  {
+   "s": "sobeps",
+   "p": "role_in_reports",
+   "v": "prompting and solicitation of reports",
+   "quote": "All the reports were after the fact, and were only made after prompting and solicitation by SOBEPS and the media."
+  },
+  {
+   "s": "sobeps",
+   "p": "authored",
+   "o": "w_sobeps",
+   "quote": "SOBEPS: Vague OVNI sur la Belgique (UFO wave over Belgium)"
+  },
+  {
+   "s": "repas",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "For 20 years, the ufological organization Société belge d'étude des phénomènes spatiaux (SOBEPS) claimed that this picture was genuine, while others like Les repas ufologiques parisiens were not sure, pointing to apparent anomalies wherein the motion blur seemed mathematically inconsistent with what would be expected in three-dimensional space."
+  },
+  {
+   "s": "repas",
+   "p": "position",
+   "v": "not sure the photo was genuine; motion blur seemed mathematically inconsistent with three-dimensional space",
+   "quote": "For 20 years, the ufological organization Société belge d'étude des phénomènes spatiaux (SOBEPS) claimed that this picture was genuine, while others like Les repas ufologiques parisiens were not sure, pointing to apparent anomalies wherein the motion blur seemed mathematically inconsistent with what would be expected in three-dimensional space."
+  },
+  {
+   "s": "repas",
+   "p": "disputed",
+   "o": "photo",
+   "quote": "For 20 years, the ufological organization Société belge d'étude des phénomènes spatiaux (SOBEPS) claimed that this picture was genuine, while others like Les repas ufologiques parisiens were not sure, pointing to apparent anomalies wherein the motion blur seemed mathematically inconsistent with what would be expected in three-dimensional space."
+  },
+  {
+   "s": "rtl",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On 26 July 2011, in an interview for the Belgian TV channel RTL, Patrick Maréchal explained that it was a hoax that he had constructed to fool his workmates."
+  },
+  {
+   "s": "rtl",
+   "p": "organization_type",
+   "v": "Belgian TV channel",
+   "quote": "On 26 July 2011, in an interview for the Belgian TV channel RTL, Patrick Maréchal explained that it was a hoax that he had constructed to fool his workmates."
+  },
+  {
+   "s": "rtl",
+   "p": "interviewed",
+   "o": "marechal",
+   "quote": "On 26 July 2011, in an interview for the Belgian TV channel RTL, Patrick Maréchal explained that it was a hoax that he had constructed to fool his workmates."
+  },
+  {
+   "s": "physicalia",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 1993, Pierre Magain and Marc Remy published an article in Physicalia Magazine, in which their conclusions deviated from those of SOBEPS."
+  },
+  {
+   "s": "physicalia",
+   "p": "published",
+   "o": "w_magain",
+   "quote": "In 1993, Pierre Magain and Marc Remy published an article in Physicalia Magazine, in which their conclusions deviated from those of SOBEPS."
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "General Wilfried De Brouwer, who was Chief of Operations of the Air Staff at the time, initially interpreted the sightings as being caused by experimental American craft, to which American authorities \"confirmed that 'no USAF stealth aircraft were operating in the ... area during the periods in question.'\""
+  },
+  {
+   "s": "usaf",
+   "p": "statement_about",
+   "v": "no USAF stealth aircraft were operating in the area during the periods in question",
+   "quote": "General Wilfried De Brouwer, who was Chief of Operations of the Air Staff at the time, initially interpreted the sightings as being caused by experimental American craft, to which American authorities \"confirmed that 'no USAF stealth aircraft were operating in the ... area during the periods in question.'\""
+  },
+  {
+   "s": "craft_tri",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Some reports also stated that the craft was of a flat, triangular shape, with lights underneath."
+  },
+  {
+   "s": "craft_tri",
+   "p": "shape",
+   "v": "flat, triangular",
+   "quote": "Some reports also stated that the craft was of a flat, triangular shape, with lights underneath."
+  },
+  {
+   "s": "craft_tri",
+   "p": "lights",
+   "v": "lights underneath",
+   "quote": "Some reports also stated that the craft was of a flat, triangular shape, with lights underneath."
+  },
+  {
+   "s": "craft_tri",
+   "p": "size",
+   "v": "large",
+   "quote": "Many of the reports alleged the existence of a large object flying at low altitude."
+  },
+  {
+   "s": "craft_tri",
+   "p": "altitude",
+   "v": "low altitude",
+   "quote": "Many of the reports alleged the existence of a large object flying at low altitude."
+  },
+  {
+   "s": "craft_tri",
+   "p": "sound",
+   "v": "silent (most witnesses)",
+   "quote": "Though most witnesses reported that the objects were silent, this report argued that the lack of noise could have been due to the engine noise in the witnesses' automobiles, or strong natural wind blowing away from the witnesses."
+  },
+  {
+   "s": "craft_nov29",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Skeptic Brian Dunning asserts that the original 29 November report was actually an object with a stick protruding from one end with a turbine, accompanied by a low engine noise; this has led many to conclude the object was a Bell UH-1 Huey helicopter."
+  },
+  {
+   "s": "craft_nov29",
+   "p": "description",
+   "v": "object with a stick protruding from one end with a turbine (per Dunning)",
+   "quote": "Skeptic Brian Dunning asserts that the original 29 November report was actually an object with a stick protruding from one end with a turbine, accompanied by a low engine noise; this has led many to conclude the object was a Bell UH-1 Huey helicopter."
+  },
+  {
+   "s": "craft_nov29",
+   "p": "sound",
+   "v": "low engine noise",
+   "quote": "Skeptic Brian Dunning asserts that the original 29 November report was actually an object with a stick protruding from one end with a turbine, accompanied by a low engine noise; this has led many to conclude the object was a Bell UH-1 Huey helicopter."
+  },
+  {
+   "s": "craft_nov29",
+   "p": "report_date",
+   "v": "1989-11-29",
+   "quote": "Skeptic Brian Dunning asserts that the original 29 November report was actually an object with a stick protruding from one end with a turbine, accompanied by a low engine noise; this has led many to conclude the object was a Bell UH-1 Huey helicopter."
+  },
+  {
+   "s": "craft_nov29",
+   "p": "identified_as",
+   "o": "huey",
+   "quote": "Skeptic Brian Dunning asserts that the original 29 November report was actually an object with a stick protruding from one end with a turbine, accompanied by a low engine noise; this has led many to conclude the object was a Bell UH-1 Huey helicopter."
+  },
+  {
+   "s": "lights3",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "At around 23:00 on 30 March 1990, the supervisor for the Control Reporting Center (CRC) at Glons received reports that three unusual lights were seen in the direction of Thorembais-Gembloux, which lies southeast of Brussels."
+  },
+  {
+   "s": "lights3",
+   "p": "count",
+   "v": "three",
+   "quote": "At around 23:00 on 30 March 1990, the supervisor for the Control Reporting Center (CRC) at Glons received reports that three unusual lights were seen in the direction of Thorembais-Gembloux, which lies southeast of Brussels."
+  },
+  {
+   "s": "lights3",
+   "p": "direction",
+   "v": "in the direction of Thorembais-Gembloux",
+   "quote": "At around 23:00 on 30 March 1990, the supervisor for the Control Reporting Center (CRC) at Glons received reports that three unusual lights were seen in the direction of Thorembais-Gembloux, which lies southeast of Brussels."
+  },
+  {
+   "s": "lights3",
+   "p": "formation",
+   "v": "triangle; a second set of lights moved towards the first triangle",
+   "quote": "A second set of lights was reported having moved towards the first triangle approximately 10 minutes later."
+  },
+  {
+   "s": "lights3",
+   "p": "movement",
+   "v": "respective position does not change; whole formation seems to move slowly in comparison with the stars",
+   "quote": "Multiple witnesses claimed that the phenomenon was visible from the ground; the Air Force report further states: \"Their respective position does not change. The whole formation seems to move slowly in comparison with the stars.\""
+  },
+  {
+   "s": "radar_obj",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "The Belgian UFO wave peaked with the events of the night of 30 March 1990, wherein an unknown object was tracked on radar, and two Belgian Air Force F-16s were sent to investigate."
+  },
+  {
+   "s": "radar_obj",
+   "p": "count",
+   "v": "one object tracked by Semmerzake",
+   "quote": "Traffic Center Control at Semmerzake tracked one object on its radar, and an order to scramble two F-16 fighters from Beauvechain Air Base was given."
+  },
+  {
+   "s": "radar_obj",
+   "p": "radar_behaviour",
+   "v": "intermittent contacts appeared and disappeared and moved up and down too fast, including going underground",
+   "quote": "The pilots also got intermittent contact with objects, but they appeared and disappeared and moved up and down too fast, including going underground."
+  },
+  {
+   "s": "radar_obj",
+   "p": "radar_contact",
+   "v": "became much more sporadic after 00:30",
+   "quote": "After 00:30, radar contact became much more sporadic and the final confirmed radar lock took place at 00:40."
+  },
+  {
+   "s": "lights4",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Members of the Wavre gendarmerie were sent to confirm the original report from earlier in the night, and Captain Pinson described four lights being arranged in a square formation, all making short jerky movements, before gradually losing their luminosity and disappearing in four separate directions at around 01:30."
+  },
+  {
+   "s": "lights4",
+   "p": "count",
+   "v": "four",
+   "quote": "Members of the Wavre gendarmerie were sent to confirm the original report from earlier in the night, and Captain Pinson described four lights being arranged in a square formation, all making short jerky movements, before gradually losing their luminosity and disappearing in four separate directions at around 01:30."
+  },
+  {
+   "s": "lights4",
+   "p": "formation",
+   "v": "square",
+   "quote": "Members of the Wavre gendarmerie were sent to confirm the original report from earlier in the night, and Captain Pinson described four lights being arranged in a square formation, all making short jerky movements, before gradually losing their luminosity and disappearing in four separate directions at around 01:30."
+  },
+  {
+   "s": "lights4",
+   "p": "movement",
+   "v": "short jerky movements",
+   "quote": "Members of the Wavre gendarmerie were sent to confirm the original report from earlier in the night, and Captain Pinson described four lights being arranged in a square formation, all making short jerky movements, before gradually losing their luminosity and disappearing in four separate directions at around 01:30."
+  },
+  {
+   "s": "lights4",
+   "p": "disappearance",
+   "v": "gradually lost luminosity and disappeared in four separate directions at around 01:30",
+   "quote": "Members of the Wavre gendarmerie were sent to confirm the original report from earlier in the night, and Captain Pinson described four lights being arranged in a square formation, all making short jerky movements, before gradually losing their luminosity and disappearing in four separate directions at around 01:30."
+  },
+  {
+   "s": "f16",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "The Belgian UFO wave peaked with the events of the night of 30 March 1990, wherein an unknown object was tracked on radar, and two Belgian Air Force F-16s were sent to investigate."
+  },
+  {
+   "s": "f16",
+   "p": "count",
+   "v": "two",
+   "quote": "The Belgian UFO wave peaked with the events of the night of 30 March 1990, wherein an unknown object was tracked on radar, and two Belgian Air Force F-16s were sent to investigate."
+  },
+  {
+   "s": "f16",
+   "p": "stationed_at",
+   "o": "beauvechain",
+   "quote": "Traffic Center Control at Semmerzake tracked one object on its radar, and an order to scramble two F-16 fighters from Beauvechain Air Base was given."
+  },
+  {
+   "s": "f16",
+   "p": "interceptions_attempted",
+   "v": "nine",
+   "quote": "Over the next hour, the two scrambled F-16s attempted nine separate interceptions of the targets."
+  },
+  {
+   "s": "f16",
+   "p": "radar_locks",
+   "v": "three, for a few seconds",
+   "quote": "On three occasions, they managed to obtain a radar lock for a few seconds, but these were later asserted by Dunning to be locks on each other."
+  },
+  {
+   "s": "f16",
+   "p": "returned_to_base",
+   "v": "shortly after 01:00",
+   "quote": "Following several further unconfirmed contacts, the F-16s eventually returned to base shortly after 01:00."
+  },
+  {
+   "s": "f16",
+   "p": "radar_lock_target",
+   "v": "each other (per Dunning)",
+   "quote": "Per Dunning, not only did neither F-16 ever lock onto any objects apart from the other fighter, he further asserted that the other contacts were all found to be the result of a well-known atmospheric interference called Bragg scattering."
+  },
+  {
+   "s": "huey",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "Skeptic Brian Dunning asserts that the original 29 November report was actually an object with a stick protruding from one end with a turbine, accompanied by a low engine noise; this has led many to conclude the object was a Bell UH-1 Huey helicopter."
+  },
+  {
+   "s": "huey",
+   "p": "vehicle_type",
+   "v": "helicopter",
+   "quote": "Skeptic Brian Dunning asserts that the original 29 November report was actually an object with a stick protruding from one end with a turbine, accompanied by a low engine noise; this has led many to conclude the object was a Bell UH-1 Huey helicopter."
+  },
+  {
+   "s": "af_report",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Following the encounter, the Belgian Air Force released a report detailing the events of that night."
+  },
+  {
+   "s": "af_report",
+   "p": "statement",
+   "v": "Their respective position does not change. The whole formation seems to move slowly in comparison with the stars.",
+   "quote": "Multiple witnesses claimed that the phenomenon was visible from the ground; the Air Force report further states: \"Their respective position does not change. The whole formation seems to move slowly in comparison with the stars.\""
+  },
+  {
+   "s": "photo",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Published at the height of the wave, the photo was widely seen in newspapers and other sources, known as the \"Petit-Rechain photo\"."
+  },
+  {
+   "s": "photo",
+   "p": "release_date",
+   "v": "1990-04",
+   "quote": "In April 1990, a photo of a black triangular object with three lights at its corners was released by an anonymous photographer."
+  },
+  {
+   "s": "photo",
+   "p": "photographer",
+   "v": "anonymous",
+   "quote": "In April 1990, a photo of a black triangular object with three lights at its corners was released by an anonymous photographer."
+  },
+  {
+   "s": "photo",
+   "p": "object_color",
+   "v": "black",
+   "quote": "In April 1990, a photo of a black triangular object with three lights at its corners was released by an anonymous photographer."
+  },
+  {
+   "s": "photo",
+   "p": "object_shape",
+   "v": "triangular",
+   "quote": "In April 1990, a photo of a black triangular object with three lights at its corners was released by an anonymous photographer."
+  },
+  {
+   "s": "photo",
+   "p": "object_lights",
+   "v": "three lights at its corners",
+   "quote": "In April 1990, a photo of a black triangular object with three lights at its corners was released by an anonymous photographer."
+  },
+  {
+   "s": "photo",
+   "p": "publicity",
+   "v": "widely seen in newspapers and other sources",
+   "quote": "Published at the height of the wave, the photo was widely seen in newspapers and other sources, known as the \"Petit-Rechain photo\"."
+  },
+  {
+   "s": "photo",
+   "p": "examination_result",
+   "v": "none could positively identify it or find obvious signs of fakery",
+   "quote": "The photograph was examined by a number of sources, including NASA, the French National Centre for Scientific Research, and the Belgian Royal Military Academy, but none could positively identify it or find obvious signs of fakery."
+  },
+  {
+   "s": "photo",
+   "p": "authenticity_concerns",
+   "v": "lack of reference objects in frame; reportedly reproducible with practical effects early on",
+   "quote": "There were concerns about its authenticity, not only due to the lack of reference objects in frame, but also since it was reportedly shown to be reproducible with practical effects early on."
+  },
+  {
+   "s": "photo",
+   "p": "authenticity_concerns",
+   "v": "questioned due to the anonymous release",
+   "quote": "It was also questioned due to the anonymous release, but these concerns were rejected by proponents and the debate lingered."
+  },
+  {
+   "s": "photo",
+   "p": "anomaly",
+   "v": "motion blur seemed mathematically inconsistent with three-dimensional space",
+   "quote": "For 20 years, the ufological organization Société belge d'étude des phénomènes spatiaux (SOBEPS) claimed that this picture was genuine, while others like Les repas ufologiques parisiens were not sure, pointing to apparent anomalies wherein the motion blur seemed mathematically inconsistent with what would be expected in three-dimensional space."
+  },
+  {
+   "s": "photo",
+   "p": "hoax_revealed",
+   "v": "2011-07-26",
+   "quote": "On 26 July 2011, in an interview for the Belgian TV channel RTL, Patrick Maréchal explained that it was a hoax that he had constructed to fool his workmates."
+  },
+  {
+   "s": "photo",
+   "p": "hoax_construction",
+   "v": "styrofoam cut into a triangle, painted black, a flashlight embedded in each corner, hung from a string",
+   "quote": "He demonstrated how he had created the hoax UFO, by cutting a piece of styrofoam into a triangle, painting it black, embedding a flashlight in each corner, and hanging it from a string."
+  },
+  {
+   "s": "photo",
+   "p": "also_known_as",
+   "v": "Patrick Maréchal hoax photograph",
+   "quote": "Patrick Maréchal hoax photograph"
+  },
+  {
+   "s": "photo",
+   "p": "identified_as",
+   "o": "x_hoax",
+   "quote": "On 26 July 2011, in an interview for the Belgian TV channel RTL, Patrick Maréchal explained that it was a hoax that he had constructed to fool his workmates."
+  },
+  {
+   "s": "w_skeptoid",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In his 27 September 2016 Skeptoid podcast episode titled \"The Belgian UFO Wave,\" author Brian Dunning discussed the photographic evidence and said that the single photograph is emblematic of the quality of all the evidence that characterized the Belgian UFO wave."
+  },
+  {
+   "s": "w_skeptoid",
+   "p": "work_type",
+   "v": "podcast",
+   "quote": "In his 27 September 2016 Skeptoid podcast episode titled \"The Belgian UFO Wave,\" author Brian Dunning discussed the photographic evidence and said that the single photograph is emblematic of the quality of all the evidence that characterized the Belgian UFO wave."
+  },
+  {
+   "s": "w_episode",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In his 27 September 2016 Skeptoid podcast episode titled \"The Belgian UFO Wave,\" author Brian Dunning discussed the photographic evidence and said that the single photograph is emblematic of the quality of all the evidence that characterized the Belgian UFO wave."
+  },
+  {
+   "s": "w_episode",
+   "p": "part_of",
+   "o": "w_skeptoid",
+   "quote": "In his 27 September 2016 Skeptoid podcast episode titled \"The Belgian UFO Wave,\" author Brian Dunning discussed the photographic evidence and said that the single photograph is emblematic of the quality of all the evidence that characterized the Belgian UFO wave."
+  },
+  {
+   "s": "w_episode",
+   "p": "date",
+   "v": "2016-09-27",
+   "quote": "In his 27 September 2016 Skeptoid podcast episode titled \"The Belgian UFO Wave,\" author Brian Dunning discussed the photographic evidence and said that the single photograph is emblematic of the quality of all the evidence that characterized the Belgian UFO wave."
+  },
+  {
+   "s": "w_episode",
+   "p": "content",
+   "v": "discussed the F-16 chase",
+   "quote": "In \"The Belgian UFO Wave\" Skeptoid podcast episode, Brian Dunning discussed the F-16 chase and reported that:"
+  },
+  {
+   "s": "w_hallet",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 1992, about three years after the first sighting, Marc Hallet wrote an essay about the Belgian UFO wave criticizing the work done by SOBEPS: La Vague OVNI Belge ou le triomphe de la désinformation, arguing that this ufological organisation was spreading misinformation in the media."
+  },
+  {
+   "s": "w_hallet",
+   "p": "year",
+   "v": "1992",
+   "quote": "In 1992, about three years after the first sighting, Marc Hallet wrote an essay about the Belgian UFO wave criticizing the work done by SOBEPS: La Vague OVNI Belge ou le triomphe de la désinformation, arguing that this ufological organisation was spreading misinformation in the media."
+  },
+  {
+   "s": "w_hallet",
+   "p": "work_type",
+   "v": "essay",
+   "quote": "In 1992, about three years after the first sighting, Marc Hallet wrote an essay about the Belgian UFO wave criticizing the work done by SOBEPS: La Vague OVNI Belge ou le triomphe de la désinformation, arguing that this ufological organisation was spreading misinformation in the media."
+  },
+  {
+   "s": "w_magain",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 1993, Pierre Magain and Marc Remy published an article in Physicalia Magazine, in which their conclusions deviated from those of SOBEPS."
+  },
+  {
+   "s": "w_magain",
+   "p": "year",
+   "v": "1993",
+   "quote": "In 1993, Pierre Magain and Marc Remy published an article in Physicalia Magazine, in which their conclusions deviated from those of SOBEPS."
+  },
+  {
+   "s": "w_magain",
+   "p": "statement",
+   "v": "the wave would have been better studied by people in the human sciences than by physicists",
+   "quote": "They also stated that the Belgian UFO wave would have been better studied by people in the human sciences than by physicists."
+  },
+  {
+   "s": "w_leclet",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In The Belgian UFO Wave of 1989–1992 – A Neglected Hypothesis, Renaud Leclet et al. discussed the fact that some sightings could be explained by helicopters."
+  },
+  {
+   "s": "w_leclet",
+   "p": "argument",
+   "v": "some sightings could be explained by helicopters",
+   "quote": "In The Belgian UFO Wave of 1989–1992 – A Neglected Hypothesis, Renaud Leclet et al. discussed the fact that some sightings could be explained by helicopters."
+  },
+  {
+   "s": "w_abrassart",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In his article The Beginning of the Belgian UFO wave, Jean-Michel Abrassart argued that the events surrounding the beginning of the wave did not contradict the psychosocial hypothesis, contrary to what SOBEPS claimed in its work."
+  },
+  {
+   "s": "w_abrassart",
+   "p": "work_type",
+   "v": "article",
+   "quote": "In his article The Beginning of the Belgian UFO wave, Jean-Michel Abrassart argued that the events surrounding the beginning of the wave did not contradict the psychosocial hypothesis, contrary to what SOBEPS claimed in its work."
+  },
+  {
+   "s": "w_meessen",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In an article published on his website in 2011, The Belgian Wave and the photos of Ramillies, Auguste Meessen replied to several criticisms by Roger Paquay and Jean-Michel Abrassart and argued that, according to him, the Belgian UFO wave was completely unexplained."
+  },
+  {
+   "s": "w_meessen",
+   "p": "year",
+   "v": "2011",
+   "quote": "In an article published on his website in 2011, The Belgian Wave and the photos of Ramillies, Auguste Meessen replied to several criticisms by Roger Paquay and Jean-Michel Abrassart and argued that, according to him, the Belgian UFO wave was completely unexplained."
+  },
+  {
+   "s": "w_meessen",
+   "p": "published_on",
+   "v": "his website",
+   "quote": "In an article published on his website in 2011, The Belgian Wave and the photos of Ramillies, Auguste Meessen replied to several criticisms by Roger Paquay and Jean-Michel Abrassart and argued that, according to him, the Belgian UFO wave was completely unexplained."
+  },
+  {
+   "s": "w_sobeps",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "SOBEPS: Vague OVNI sur la Belgique (UFO wave over Belgium)"
+  },
+  {
+   "s": "w_printy",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Belgium 1990: A Case for Radar-Visual UFOS? – Tim Printy"
+  },
+  {
+   "s": "w_vanutrecht",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Triangles over Belgium (Wim Van Utrecht)"
+  },
+  {
+   "s": "dunning",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Skeptic Brian Dunning asserts that the original 29 November report was actually an object with a stick protruding from one end with a turbine, accompanied by a low engine noise; this has led many to conclude the object was a Bell UH-1 Huey helicopter."
+  },
+  {
+   "s": "dunning",
+   "p": "occupation",
+   "v": "author",
+   "quote": "In his 27 September 2016 Skeptoid podcast episode titled \"The Belgian UFO Wave,\" author Brian Dunning discussed the photographic evidence and said that the single photograph is emblematic of the quality of all the evidence that characterized the Belgian UFO wave."
+  },
+  {
+   "s": "dunning",
+   "p": "description",
+   "v": "skeptic",
+   "quote": "Skeptic Brian Dunning asserts that the original 29 November report was actually an object with a stick protruding from one end with a turbine, accompanied by a low engine noise; this has led many to conclude the object was a Bell UH-1 Huey helicopter."
+  },
+  {
+   "s": "dunning",
+   "p": "authored",
+   "o": "w_episode",
+   "quote": "In his 27 September 2016 Skeptoid podcast episode titled \"The Belgian UFO Wave,\" author Brian Dunning discussed the photographic evidence and said that the single photograph is emblematic of the quality of all the evidence that characterized the Belgian UFO wave."
+  },
+  {
+   "s": "dunning",
+   "p": "described",
+   "o": "craft_nov29",
+   "quote": "Skeptic Brian Dunning asserts that the original 29 November report was actually an object with a stick protruding from one end with a turbine, accompanied by a low engine noise; this has led many to conclude the object was a Bell UH-1 Huey helicopter."
+  },
+  {
+   "s": "dunning",
+   "p": "proposed",
+   "o": "x_psych",
+   "quote": "It was simply a psychosocial phenomenon, which is why there is no evidence and only the one questionable photograph."
+  },
+  {
+   "s": "dunning",
+   "p": "proposed",
+   "o": "x_bragg",
+   "quote": "Per Dunning, not only did neither F-16 ever lock onto any objects apart from the other fighter, he further asserted that the other contacts were all found to be the result of a well-known atmospheric interference called Bragg scattering."
+  },
+  {
+   "s": "dunning",
+   "p": "proposed",
+   "o": "x_lockeach",
+   "quote": "On three occasions, they managed to obtain a radar lock for a few seconds, but these were later asserted by Dunning to be locks on each other."
+  },
+  {
+   "s": "dunning",
+   "p": "proposed",
+   "o": "x_misperc",
+   "quote": "You remember that you saw something you took for a bright star or an airplane, thought nothing of it at the time, but this amazing new story makes you realize that what you saw must have been this UFO."
+  },
+  {
+   "s": "dunning",
+   "p": "disputed",
+   "o": "sobeps",
+   "quote": "SOBEPS reported that they obtained radar lock on targets nine times; but the Belgian military only reported three such locks, and upon analyzing the data, all three radar locks were on each other."
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "the original 29 November report was an object with a stick protruding from one end with a turbine, accompanied by a low engine noise",
+   "quote": "Skeptic Brian Dunning asserts that the original 29 November report was actually an object with a stick protruding from one end with a turbine, accompanied by a low engine noise; this has led many to conclude the object was a Bell UH-1 Huey helicopter."
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "all reports from the public were received after the date of the incident",
+   "quote": "According to Dunning, all reports from the public were received after the date of the incident."
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "the single photograph is emblematic of the quality of all the evidence that characterized the Belgian UFO wave",
+   "quote": "In his 27 September 2016 Skeptoid podcast episode titled \"The Belgian UFO Wave,\" author Brian Dunning discussed the photographic evidence and said that the single photograph is emblematic of the quality of all the evidence that characterized the Belgian UFO wave."
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "The pilots never saw anything at all.",
+   "quote": "The pilots never saw anything at all."
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "all three radar locks were on each other",
+   "quote": "SOBEPS reported that they obtained radar lock on targets nine times; but the Belgian military only reported three such locks, and upon analyzing the data, all three radar locks were on each other."
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "The other contacts were all found to be the result of a well-known atmospheric interference called Bragg scattering.",
+   "quote": "The other contacts were all found to be the result of a well-known atmospheric interference called Bragg scattering."
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "It was simply a psychosocial phenomenon, which is why there is no evidence and only the one questionable photograph.",
+   "quote": "It was simply a psychosocial phenomenon, which is why there is no evidence and only the one questionable photograph."
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "If 13,500 people did all actually see something that they took for a UFO at the time, more than just a single photograph would have resulted",
+   "quote": "If 13,500 people did all actually see something that they took for a UFO at the time, I guarantee you that more than just a single photograph would have resulted."
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "later retellings wrongly assume all 2,600 were reported as people were watching the F-16s chase the UFOs, or that all 143 initial reports came independently on that first night",
+   "quote": "It is only much later retellings of the story that wrongly assume all 2,600 were reported as people were watching the F-16s chase the UFOs, or that all 143 initial reports came independently on that first night."
+  },
+  {
+   "s": "dunning",
+   "p": "conclusion_topic",
+   "v": "the \"wave\" of eyewitness reports and lack of photographic evidence",
+   "quote": "Regarding the \"wave\" of eyewitness reports and lack of photographic evidence, Dunning concluded:"
+  },
+  {
+   "s": "pinson",
+   "p": "witness",
+   "o": "case",
+   "quote": "Members of the Wavre gendarmerie were sent to confirm the original report from earlier in the night, and Captain Pinson described four lights being arranged in a square formation, all making short jerky movements, before gradually losing their luminosity and disappearing in four separate directions at around 01:30."
+  },
+  {
+   "s": "pinson",
+   "p": "rank",
+   "v": "Captain",
+   "quote": "Members of the Wavre gendarmerie were sent to confirm the original report from earlier in the night, and Captain Pinson described four lights being arranged in a square formation, all making short jerky movements, before gradually losing their luminosity and disappearing in four separate directions at around 01:30."
+  },
+  {
+   "s": "pinson",
+   "p": "member_of",
+   "o": "gend",
+   "quote": "Members of the Wavre gendarmerie were sent to confirm the original report from earlier in the night, and Captain Pinson described four lights being arranged in a square formation, all making short jerky movements, before gradually losing their luminosity and disappearing in four separate directions at around 01:30."
+  },
+  {
+   "s": "pinson",
+   "p": "described",
+   "o": "lights4",
+   "quote": "Members of the Wavre gendarmerie were sent to confirm the original report from earlier in the night, and Captain Pinson described four lights being arranged in a square formation, all making short jerky movements, before gradually losing their luminosity and disappearing in four separate directions at around 01:30."
+  },
+  {
+   "s": "pinson",
+   "p": "statement",
+   "v": "four lights arranged in a square formation, making short jerky movements, gradually losing luminosity and disappearing in four separate directions at around 01:30",
+   "quote": "Members of the Wavre gendarmerie were sent to confirm the original report from earlier in the night, and Captain Pinson described four lights being arranged in a square formation, all making short jerky movements, before gradually losing their luminosity and disappearing in four separate directions at around 01:30."
+  },
+  {
+   "s": "marechal",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "On 26 July 2011, in an interview for the Belgian TV channel RTL, Patrick Maréchal explained that it was a hoax that he had constructed to fool his workmates."
+  },
+  {
+   "s": "marechal",
+   "p": "role",
+   "v": "creator of the hoax Petit-Rechain photograph",
+   "quote": "On 26 July 2011, in an interview for the Belgian TV channel RTL, Patrick Maréchal explained that it was a hoax that he had constructed to fool his workmates."
+  },
+  {
+   "s": "marechal",
+   "p": "authored",
+   "o": "photo",
+   "quote": "On 26 July 2011, in an interview for the Belgian TV channel RTL, Patrick Maréchal explained that it was a hoax that he had constructed to fool his workmates."
+  },
+  {
+   "s": "marechal",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "On 26 July 2011, in an interview for the Belgian TV channel RTL, Patrick Maréchal explained that it was a hoax that he had constructed to fool his workmates."
+  },
+  {
+   "s": "marechal",
+   "p": "later_claim",
+   "v": "explained on 26 July 2011 that the photo was a hoax he had constructed to fool his workmates",
+   "quote": "On 26 July 2011, in an interview for the Belgian TV channel RTL, Patrick Maréchal explained that it was a hoax that he had constructed to fool his workmates."
+  },
+  {
+   "s": "marechal",
+   "p": "motive",
+   "v": "to fool his workmates",
+   "quote": "On 26 July 2011, in an interview for the Belgian TV channel RTL, Patrick Maréchal explained that it was a hoax that he had constructed to fool his workmates."
+  },
+  {
+   "s": "marechal",
+   "p": "method",
+   "v": "cut a piece of styrofoam into a triangle, painted it black, embedded a flashlight in each corner, and hung it from a string",
+   "quote": "He demonstrated how he had created the hoax UFO, by cutting a piece of styrofoam into a triangle, painting it black, embedding a flashlight in each corner, and hanging it from a string."
+  },
+  {
+   "s": "marechal",
+   "p": "interview_date",
+   "v": "2011-07-26",
+   "quote": "On 26 July 2011, in an interview for the Belgian TV channel RTL, Patrick Maréchal explained that it was a hoax that he had constructed to fool his workmates."
+  },
+  {
+   "s": "hallet",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "In 1992, about three years after the first sighting, Marc Hallet wrote an essay about the Belgian UFO wave criticizing the work done by SOBEPS: La Vague OVNI Belge ou le triomphe de la désinformation, arguing that this ufological organisation was spreading misinformation in the media."
+  },
+  {
+   "s": "hallet",
+   "p": "authored",
+   "o": "w_hallet",
+   "quote": "In 1992, about three years after the first sighting, Marc Hallet wrote an essay about the Belgian UFO wave criticizing the work done by SOBEPS: La Vague OVNI Belge ou le triomphe de la désinformation, arguing that this ufological organisation was spreading misinformation in the media."
+  },
+  {
+   "s": "hallet",
+   "p": "disputed",
+   "o": "sobeps",
+   "quote": "In 1992, about three years after the first sighting, Marc Hallet wrote an essay about the Belgian UFO wave criticizing the work done by SOBEPS: La Vague OVNI Belge ou le triomphe de la désinformation, arguing that this ufological organisation was spreading misinformation in the media."
+  },
+  {
+   "s": "hallet",
+   "p": "proposed",
+   "o": "x_psych",
+   "quote": "Hallet's thesis was that the Belgian UFO wave was mostly a mass delusion, boosted by the work done by SOBEPS."
+  },
+  {
+   "s": "hallet",
+   "p": "proposed",
+   "o": "x_misperc",
+   "quote": "This mass delusion would have followed Philip J. Klass' law:"
+  },
+  {
+   "s": "hallet",
+   "p": "statement",
+   "v": "the Belgian UFO wave was mostly a mass delusion, boosted by the work done by SOBEPS",
+   "quote": "Hallet's thesis was that the Belgian UFO wave was mostly a mass delusion, boosted by the work done by SOBEPS."
+  },
+  {
+   "s": "hallet",
+   "p": "statement",
+   "v": "SOBEPS was spreading misinformation in the media",
+   "quote": "In 1992, about three years after the first sighting, Marc Hallet wrote an essay about the Belgian UFO wave criticizing the work done by SOBEPS: La Vague OVNI Belge ou le triomphe de la désinformation, arguing that this ufological organisation was spreading misinformation in the media."
+  },
+  {
+   "s": "klass",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "This mass delusion would have followed Philip J. Klass' law:"
+  },
+  {
+   "s": "klass",
+   "p": "mentioned_by",
+   "o": "hallet",
+   "quote": "This mass delusion would have followed Philip J. Klass' law:"
+  },
+  {
+   "s": "klass",
+   "p": "statement",
+   "v": "Once news coverage leads the public to believe that UFOs may be in the vicinity, there are numerous natural and man-made objects which, especially seen at night, can take on unusual characteristics in the minds of hopeful viewers.",
+   "quote": "Once news coverage leads the public to believe that UFOs may be in the vicinity, there are numerous natural and man-made objects which, especially seen at night, can take on unusual characteristics in the minds of hopeful viewers."
+  },
+  {
+   "s": "klass",
+   "p": "statement",
+   "v": "Their UFO reports in turn add to the mass excitement, which encourages still more observers to watch for UFOs.",
+   "quote": "Their UFO reports in turn add to the mass excitement, which encourages still more observers to watch for UFOs."
+  },
+  {
+   "s": "klass",
+   "p": "statement",
+   "v": "This situation feeds upon itself until such time as the media lose interest in the subject, and then the flap quickly runs out of steam.",
+   "quote": "This situation feeds upon itself until such time as the media lose interest in the subject, and then the flap quickly runs out of steam."
+  },
+  {
+   "s": "magain",
+   "p": "commentator",
+   "o": "case",
+   "quote": "In 1993, Pierre Magain and Marc Remy published an article in Physicalia Magazine, in which their conclusions deviated from those of SOBEPS."
+  },
+  {
+   "s": "magain",
+   "p": "authored",
+   "o": "w_magain",
+   "quote": "In 1993, Pierre Magain and Marc Remy published an article in Physicalia Magazine, in which their conclusions deviated from those of SOBEPS."
+  },
+  {
+   "s": "magain",
+   "p": "disputed",
+   "o": "sobeps",
+   "quote": "In 1993, Pierre Magain and Marc Remy published an article in Physicalia Magazine, in which their conclusions deviated from those of SOBEPS."
+  },
+  {
+   "s": "magain",
+   "p": "colleague_of",
+   "o": "remy",
+   "quote": "In 1993, Pierre Magain and Marc Remy published an article in Physicalia Magazine, in which their conclusions deviated from those of SOBEPS."
+  },
+  {
+   "s": "magain",
+   "p": "statement",
+   "v": "the Belgian UFO wave would have been better studied by people in the human sciences than by physicists",
+   "quote": "They also stated that the Belgian UFO wave would have been better studied by people in the human sciences than by physicists."
+  },
+  {
+   "s": "remy",
+   "p": "commentator",
+   "o": "case",
+   "quote": "In 1993, Pierre Magain and Marc Remy published an article in Physicalia Magazine, in which their conclusions deviated from those of SOBEPS."
+  },
+  {
+   "s": "remy",
+   "p": "authored",
+   "o": "w_magain",
+   "quote": "In 1993, Pierre Magain and Marc Remy published an article in Physicalia Magazine, in which their conclusions deviated from those of SOBEPS."
+  },
+  {
+   "s": "remy",
+   "p": "disputed",
+   "o": "sobeps",
+   "quote": "In 1993, Pierre Magain and Marc Remy published an article in Physicalia Magazine, in which their conclusions deviated from those of SOBEPS."
+  },
+  {
+   "s": "remy",
+   "p": "colleague_of",
+   "o": "magain",
+   "quote": "In 1993, Pierre Magain and Marc Remy published an article in Physicalia Magazine, in which their conclusions deviated from those of SOBEPS."
+  },
+  {
+   "s": "remy",
+   "p": "statement",
+   "v": "the Belgian UFO wave would have been better studied by people in the human sciences than by physicists",
+   "quote": "They also stated that the Belgian UFO wave would have been better studied by people in the human sciences than by physicists."
+  },
+  {
+   "s": "leclet",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "In The Belgian UFO Wave of 1989–1992 – A Neglected Hypothesis, Renaud Leclet et al. discussed the fact that some sightings could be explained by helicopters."
+  },
+  {
+   "s": "leclet",
+   "p": "authored",
+   "o": "w_leclet",
+   "quote": "In The Belgian UFO Wave of 1989–1992 – A Neglected Hypothesis, Renaud Leclet et al. discussed the fact that some sightings could be explained by helicopters."
+  },
+  {
+   "s": "leclet",
+   "p": "proposed",
+   "o": "x_aircraft",
+   "quote": "In The Belgian UFO Wave of 1989–1992 – A Neglected Hypothesis, Renaud Leclet et al. discussed the fact that some sightings could be explained by helicopters."
+  },
+  {
+   "s": "leclet",
+   "p": "statement",
+   "v": "lack of noise could have been due to engine noise in the witnesses' automobiles, or strong natural wind blowing away from the witnesses",
+   "quote": "Though most witnesses reported that the objects were silent, this report argued that the lack of noise could have been due to the engine noise in the witnesses' automobiles, or strong natural wind blowing away from the witnesses."
+  },
+  {
+   "s": "abrassart",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "In his article The Beginning of the Belgian UFO wave, Jean-Michel Abrassart argued that the events surrounding the beginning of the wave did not contradict the psychosocial hypothesis, contrary to what SOBEPS claimed in its work."
+  },
+  {
+   "s": "abrassart",
+   "p": "authored",
+   "o": "w_abrassart",
+   "quote": "In his article The Beginning of the Belgian UFO wave, Jean-Michel Abrassart argued that the events surrounding the beginning of the wave did not contradict the psychosocial hypothesis, contrary to what SOBEPS claimed in its work."
+  },
+  {
+   "s": "abrassart",
+   "p": "proposed",
+   "o": "x_psych",
+   "quote": "In his article The Beginning of the Belgian UFO wave, Jean-Michel Abrassart argued that the events surrounding the beginning of the wave did not contradict the psychosocial hypothesis, contrary to what SOBEPS claimed in its work."
+  },
+  {
+   "s": "abrassart",
+   "p": "disputed",
+   "o": "sobeps",
+   "quote": "In his article The Beginning of the Belgian UFO wave, Jean-Michel Abrassart argued that the events surrounding the beginning of the wave did not contradict the psychosocial hypothesis, contrary to what SOBEPS claimed in its work."
+  },
+  {
+   "s": "abrassart",
+   "p": "disputed",
+   "o": "meessen",
+   "quote": "Roger Paquay and Jean-Michel Abrassart both wrote rebuttals to the Belgian physicist's article."
+  },
+  {
+   "s": "abrassart",
+   "p": "colleague_of",
+   "o": "paquay",
+   "quote": "Roger Paquay and Jean-Michel Abrassart both wrote rebuttals to the Belgian physicist's article."
+  },
+  {
+   "s": "abrassart",
+   "p": "statement",
+   "v": "the events surrounding the beginning of the wave did not contradict the psychosocial hypothesis",
+   "quote": "In his article The Beginning of the Belgian UFO wave, Jean-Michel Abrassart argued that the events surrounding the beginning of the wave did not contradict the psychosocial hypothesis, contrary to what SOBEPS claimed in its work."
+  },
+  {
+   "s": "abrassart",
+   "p": "later_action",
+   "v": "wrote a rebuttal to Meessen's article",
+   "quote": "Roger Paquay and Jean-Michel Abrassart both wrote rebuttals to the Belgian physicist's article."
+  },
+  {
+   "s": "meessen",
+   "p": "proponent",
+   "o": "case",
+   "quote": "In an article published on his website in 2011, The Belgian Wave and the photos of Ramillies, Auguste Meessen replied to several criticisms by Roger Paquay and Jean-Michel Abrassart and argued that, according to him, the Belgian UFO wave was completely unexplained."
+  },
+  {
+   "s": "meessen",
+   "p": "authored",
+   "o": "w_meessen",
+   "quote": "In an article published on his website in 2011, The Belgian Wave and the photos of Ramillies, Auguste Meessen replied to several criticisms by Roger Paquay and Jean-Michel Abrassart and argued that, according to him, the Belgian UFO wave was completely unexplained."
+  },
+  {
+   "s": "meessen",
+   "p": "disputed",
+   "o": "paquay",
+   "quote": "In an article published on his website in 2011, The Belgian Wave and the photos of Ramillies, Auguste Meessen replied to several criticisms by Roger Paquay and Jean-Michel Abrassart and argued that, according to him, the Belgian UFO wave was completely unexplained."
+  },
+  {
+   "s": "meessen",
+   "p": "disputed",
+   "o": "abrassart",
+   "quote": "In an article published on his website in 2011, The Belgian Wave and the photos of Ramillies, Auguste Meessen replied to several criticisms by Roger Paquay and Jean-Michel Abrassart and argued that, according to him, the Belgian UFO wave was completely unexplained."
+  },
+  {
+   "s": "meessen",
+   "p": "occupation",
+   "v": "physicist",
+   "quote": "Roger Paquay and Jean-Michel Abrassart both wrote rebuttals to the Belgian physicist's article."
+  },
+  {
+   "s": "meessen",
+   "p": "nationality",
+   "v": "Belgian",
+   "quote": "Roger Paquay and Jean-Michel Abrassart both wrote rebuttals to the Belgian physicist's article."
+  },
+  {
+   "s": "meessen",
+   "p": "statement",
+   "v": "the Belgian UFO wave was completely unexplained",
+   "quote": "In an article published on his website in 2011, The Belgian Wave and the photos of Ramillies, Auguste Meessen replied to several criticisms by Roger Paquay and Jean-Michel Abrassart and argued that, according to him, the Belgian UFO wave was completely unexplained."
+  },
+  {
+   "s": "meessen",
+   "p": "claim",
+   "v": "143 reports for the original 29 November incident",
+   "quote": "The 143 reports Meessen claims for the original 29 November incident were indeed received, but only after more than a week of aggressive and repeated solicitation in the mass media."
+  },
+  {
+   "s": "paquay",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "In an article published on his website in 2011, The Belgian Wave and the photos of Ramillies, Auguste Meessen replied to several criticisms by Roger Paquay and Jean-Michel Abrassart and argued that, according to him, the Belgian UFO wave was completely unexplained."
+  },
+  {
+   "s": "paquay",
+   "p": "disputed",
+   "o": "meessen",
+   "quote": "Roger Paquay and Jean-Michel Abrassart both wrote rebuttals to the Belgian physicist's article."
+  },
+  {
+   "s": "paquay",
+   "p": "later_action",
+   "v": "wrote a rebuttal to Meessen's article",
+   "quote": "Roger Paquay and Jean-Michel Abrassart both wrote rebuttals to the Belgian physicist's article."
+  },
+  {
+   "s": "debrouwer",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "General Wilfried De Brouwer, who was Chief of Operations of the Air Staff at the time, initially interpreted the sightings as being caused by experimental American craft, to which American authorities \"confirmed that 'no USAF stealth aircraft were operating in the ... area during the periods in question.'\""
+  },
+  {
+   "s": "debrouwer",
+   "p": "rank",
+   "v": "General",
+   "quote": "General Wilfried De Brouwer, who was Chief of Operations of the Air Staff at the time, initially interpreted the sightings as being caused by experimental American craft, to which American authorities \"confirmed that 'no USAF stealth aircraft were operating in the ... area during the periods in question.'\""
+  },
+  {
+   "s": "debrouwer",
+   "p": "position",
+   "v": "Chief of Operations of the Air Staff",
+   "quote": "General Wilfried De Brouwer, who was Chief of Operations of the Air Staff at the time, initially interpreted the sightings as being caused by experimental American craft, to which American authorities \"confirmed that 'no USAF stealth aircraft were operating in the ... area during the periods in question.'\""
+  },
+  {
+   "s": "debrouwer",
+   "p": "proposed",
+   "o": "x_secret",
+   "quote": "General Wilfried De Brouwer, who was Chief of Operations of the Air Staff at the time, initially interpreted the sightings as being caused by experimental American craft, to which American authorities \"confirmed that 'no USAF stealth aircraft were operating in the ... area during the periods in question.'\""
+  },
+  {
+   "s": "debrouwer",
+   "p": "statement",
+   "v": "initially interpreted the sightings as being caused by experimental American craft",
+   "quote": "General Wilfried De Brouwer, who was Chief of Operations of the Air Staff at the time, initially interpreted the sightings as being caused by experimental American craft, to which American authorities \"confirmed that 'no USAF stealth aircraft were operating in the ... area during the periods in question.'\""
+  },
+  {
+   "s": "printy",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Belgium 1990: A Case for Radar-Visual UFOS? – Tim Printy"
+  },
+  {
+   "s": "printy",
+   "p": "authored",
+   "o": "w_printy",
+   "quote": "Belgium 1990: A Case for Radar-Visual UFOS? – Tim Printy"
+  },
+  {
+   "s": "vanutrecht",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Triangles over Belgium (Wim Van Utrecht)"
+  },
+  {
+   "s": "vanutrecht",
+   "p": "authored",
+   "o": "w_vanutrecht",
+   "quote": "Triangles over Belgium (Wim Van Utrecht)"
+  },
+  {
+   "s": "f_triangle",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Some reports also stated that the craft was of a flat, triangular shape, with lights underneath."
+  },
+  {
+   "s": "f_radar",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Belgian UFO wave peaked with the events of the night of 30 March 1990, wherein an unknown object was tracked on radar, and two Belgian Air Force F-16s were sent to investigate."
+  },
+  {
+   "s": "f_photo",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In April 1990, a photo of a black triangular object with three lights at its corners was released by an anonymous photographer."
+  },
+  {
+   "s": "f_pursuit",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Over the next hour, the two scrambled F-16s attempted nine separate interceptions of the targets."
+  },
+  {
+   "s": "f_mass",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Reports were filed, and 143 people claimed to have witnessed an unidentified flying object, though most of these reports were submitted over a week after the purported event and also following media coverage."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Multiple witnesses claimed that the phenomenon was visible from the ground; the Air Force report further states: \"Their respective position does not change. The whole formation seems to move slowly in comparison with the stars.\""
+  },
+  {
+   "s": "f_police",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Members of the Wavre gendarmerie were sent to confirm the original report from earlier in the night, and Captain Pinson described four lights being arranged in a square formation, all making short jerky movements, before gradually losing their luminosity and disappearing in four separate directions at around 01:30."
+  },
+  {
+   "s": "f_hoaxconf",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "On 26 July 2011, in an interview for the Belgian TV channel RTL, Patrick Maréchal explained that it was a hoax that he had constructed to fool his workmates."
+  },
+  {
+   "s": "f_hoaxall",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "There were concerns about its authenticity, not only due to the lack of reference objects in frame, but also since it was reportedly shown to be reproducible with practical effects early on."
+  },
+  {
+   "s": "f_silent",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Though most witnesses reported that the objects were silent, this report argued that the lack of noise could have been due to the engine noise in the witnesses' automobiles, or strong natural wind blowing away from the witnesses."
+  },
+  {
+   "s": "f_sound",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Skeptic Brian Dunning asserts that the original 29 November report was actually an object with a stick protruding from one end with a turbine, accompanied by a low engine noise; this has led many to conclude the object was a Bell UH-1 Huey helicopter."
+  },
+  {
+   "s": "f_lights",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "At around 23:00 on 30 March 1990, the supervisor for the Control Reporting Center (CRC) at Glons received reports that three unusual lights were seen in the direction of Thorembais-Gembloux, which lies southeast of Brussels."
+  },
+  {
+   "s": "f_maneuver",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The pilots also got intermittent contact with objects, but they appeared and disappeared and moved up and down too fast, including going underground."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Following the encounter, the Belgian Air Force released a report detailing the events of that night."
+  },
+  {
+   "s": "f_triangle",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Belgian UFO wave was a series of sightings of triangular UFOs in Belgium, which lasted from 29 November 1989 to April 1990."
+  },
+  {
+   "s": "f_radar",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Traffic Center Control at Semmerzake tracked one object on its radar, and an order to scramble two F-16 fighters from Beauvechain Air Base was given."
+  },
+  {
+   "s": "f_radar",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "On three occasions, they managed to obtain a radar lock for a few seconds, but these were later asserted by Dunning to be locks on each other."
+  },
+  {
+   "s": "f_pursuit",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Traffic Center Control at Semmerzake tracked one object on its radar, and an order to scramble two F-16 fighters from Beauvechain Air Base was given."
+  },
+  {
+   "s": "f_lights",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Members of the Wavre gendarmerie were sent to confirm the original report from earlier in the night, and Captain Pinson described four lights being arranged in a square formation, all making short jerky movements, before gradually losing their luminosity and disappearing in four separate directions at around 01:30."
+  },
+  {
+   "s": "f_photo",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Published at the height of the wave, the photo was widely seen in newspapers and other sources, known as the \"Petit-Rechain photo\"."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Belgian UFO wave peaked with the events of the night of 30 March 1990, wherein an unknown object was tracked on radar, and two Belgian Air Force F-16s were sent to investigate."
+  },
+  {
+   "s": "f_hoaxconf",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "He demonstrated how he had created the hoax UFO, by cutting a piece of styrofoam into a triangle, painting it black, embedding a flashlight in each corner, and hanging it from a string."
+  },
+  {
+   "s": "x_aircraft",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "In The Belgian UFO Wave of 1989–1992 – A Neglected Hypothesis, Renaud Leclet et al. discussed the fact that some sightings could be explained by helicopters."
+  },
+  {
+   "s": "x_psych",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Hallet's thesis was that the Belgian UFO wave was mostly a mass delusion, boosted by the work done by SOBEPS."
+  },
+  {
+   "s": "x_hoax",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "On 26 July 2011, in an interview for the Belgian TV channel RTL, Patrick Maréchal explained that it was a hoax that he had constructed to fool his workmates."
+  },
+  {
+   "s": "x_secret",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "General Wilfried De Brouwer, who was Chief of Operations of the Air Staff at the time, initially interpreted the sightings as being caused by experimental American craft, to which American authorities \"confirmed that 'no USAF stealth aircraft were operating in the ... area during the periods in question.'\""
+  },
+  {
+   "s": "x_misperc",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Once news coverage leads the public to believe that UFOs may be in the vicinity, there are numerous natural and man-made objects which, especially seen at night, can take on unusual characteristics in the minds of hopeful viewers."
+  },
+  {
+   "s": "x_bragg",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Per Dunning, not only did neither F-16 ever lock onto any objects apart from the other fighter, he further asserted that the other contacts were all found to be the result of a well-known atmospheric interference called Bragg scattering."
+  },
+  {
+   "s": "x_lockeach",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "On three occasions, they managed to obtain a radar lock for a few seconds, but these were later asserted by Dunning to be locks on each other."
+  },
+  {
+   "s": "x_aircraft",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Skeptic Brian Dunning asserts that the original 29 November report was actually an object with a stick protruding from one end with a turbine, accompanied by a low engine noise; this has led many to conclude the object was a Bell UH-1 Huey helicopter."
+  },
+  {
+   "s": "x_psych",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "It was simply a psychosocial phenomenon, which is why there is no evidence and only the one questionable photograph."
+  },
+  {
+   "s": "x_psych",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "In his article The Beginning of the Belgian UFO wave, Jean-Michel Abrassart argued that the events surrounding the beginning of the wave did not contradict the psychosocial hypothesis, contrary to what SOBEPS claimed in its work."
+  },
+  {
+   "s": "x_misperc",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "You remember that you saw something you took for a bright star or an airplane, thought nothing of it at the time, but this amazing new story makes you realize that what you saw must have been this UFO."
+  },
+  {
+   "s": "x_bragg",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The other contacts were all found to be the result of a well-known atmospheric interference called Bragg scattering."
+  },
+  {
+   "s": "x_lockeach",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "SOBEPS reported that they obtained radar lock on targets nine times; but the Belgian military only reported three such locks, and upon analyzing the data, all three radar locks were on each other."
+  },
+  {
+   "s": "x_secret",
+   "p": "response",
+   "v": "American authorities confirmed that no USAF stealth aircraft were operating in the area during the periods in question",
+   "quote": "General Wilfried De Brouwer, who was Chief of Operations of the Air Staff at the time, initially interpreted the sightings as being caused by experimental American craft, to which American authorities \"confirmed that 'no USAF stealth aircraft were operating in the ... area during the periods in question.'\""
+  },
+  {
+   "s": "x_bragg",
+   "p": "description",
+   "v": "well-known atmospheric interference",
+   "quote": "Per Dunning, not only did neither F-16 ever lock onto any objects apart from the other fighter, he further asserted that the other contacts were all found to be the result of a well-known atmospheric interference called Bragg scattering."
+  },
+  {
+   "s": "x_aircraft",
+   "p": "aircraft_type",
+   "v": "helicopters",
+   "quote": "In The Belgian UFO Wave of 1989–1992 – A Neglected Hypothesis, Renaud Leclet et al. discussed the fact that some sightings could be explained by helicopters."
+  }
+ ]
+}

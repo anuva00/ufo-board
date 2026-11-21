@@ -1,0 +1,2302 @@
+{
+ "slug": "battle-of-los-angeles",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Battle of Los Angeles",
+   "aliases": [
+    "Great Los Angeles Air Raid",
+    "The Battle of Los Angeles",
+    "The Great Los Angeles Air Raid",
+    "The Great LA Air Raid of 1942"
+   ],
+   "description": "Rumored Japanese air attack and anti-aircraft barrage over Los Angeles on the night of 24-25 February 1942, later featured in UFO conspiracy theories."
+  },
+  {
+   "key": "planes",
+   "type": "craft",
+   "name": "reported enemy aircraft over Los Angeles, 25 February 1942",
+   "aliases": [
+    "reported aircraft",
+    "enemy planes"
+   ],
+   "description": "Aircraft (or balloons) reported over Los Angeles and fired on by anti-aircraft batteries; no enemy planes were ever confirmed."
+  },
+  {
+   "key": "balloon",
+   "type": "craft",
+   "name": "balloon carrying a red flare seen over Santa Monica",
+   "aliases": [
+    "meteorological balloon",
+    "lost weather balloon"
+   ],
+   "description": "Meteorological balloon identified as the object that started the shooting."
+  },
+  {
+   "key": "knox",
+   "type": "person",
+   "name": "Frank Knox",
+   "aliases": [
+    "Secretary of the Navy Frank Knox",
+    "Knox"
+   ],
+   "description": "United States Secretary of the Navy who called the incident a false alarm"
+  },
+  {
+   "key": "roosevelt",
+   "type": "person",
+   "name": "Franklin D. Roosevelt",
+   "aliases": [
+    "President Franklin D. Roosevelt"
+   ],
+   "description": "President of the United States, giving a fireside chat when Ellwood was shelled"
+  },
+  {
+   "key": "marshall",
+   "type": "person",
+   "name": "George C. Marshall",
+   "aliases": [
+    "General George C. Marshall"
+   ],
+   "description": "General who supposed the incident might have been caused by enemy agents using commercial airplanes"
+  },
+  {
+   "key": "ford",
+   "type": "person",
+   "name": "Leland M. Ford",
+   "aliases": [
+    "Representative Leland M. Ford"
+   ],
+   "description": "Representative of Santa Monica who called for a Congressional investigation"
+  },
+  {
+   "key": "lotchin",
+   "type": "person",
+   "name": "Roger Lotchin",
+   "description": "Historian who commented on the incident's derisive naming"
+  },
+  {
+   "key": "harnisch",
+   "type": "person",
+   "name": "Larry Harnisch",
+   "aliases": [
+    "Harnisch"
+   ],
+   "description": "Los Angeles Times writer who commented on the retouched photo's use in film trailers"
+  },
+  {
+   "key": "spielberg",
+   "type": "person",
+   "name": "Steven Spielberg",
+   "description": "Director of the 1979 film 1941"
+  },
+  {
+   "key": "ellroy",
+   "type": "person",
+   "name": "James Ellroy",
+   "description": "Author of the 2019 novel This Storm"
+  },
+  {
+   "key": "dunning",
+   "type": "person",
+   "name": "Brian Dunning",
+   "aliases": [
+    "Dunning, Brian"
+   ],
+   "description": "Author of Skeptoid #171: The Battle of Los Angeles"
+  },
+  {
+   "key": "ijn",
+   "type": "organization",
+   "name": "Imperial Japanese Navy",
+   "description": "Japanese navy that attacked Pearl Harbor"
+  },
+  {
+   "key": "usn",
+   "type": "organization",
+   "name": "United States Navy",
+   "aliases": [
+    "the Navy",
+    "The Navy"
+   ],
+   "description": "US Navy, which insisted there was no evidence of enemy planes"
+  },
+  {
+   "key": "usarmy",
+   "type": "organization",
+   "name": "United States Army",
+   "aliases": [
+    "the Army"
+   ],
+   "description": "US Army, which issued statements the day after Knox's comments"
+  },
+  {
+   "key": "caa",
+   "type": "organization",
+   "name": "United States Coast Artillery Association",
+   "description": "Association that documented the incident in 1949 and identified a meteorological balloon as the trigger"
+  },
+  {
+   "key": "oafh",
+   "type": "organization",
+   "name": "U.S. Office of Air Force History",
+   "aliases": [
+    "Office of Air Force History"
+   ],
+   "description": "US Air Force history office that in 1983 attributed the event to war nerves triggered by a lost weather balloon"
+  },
+  {
+   "key": "oni",
+   "type": "organization",
+   "name": "Office of Naval Intelligence",
+   "description": "Naval intelligence office that warned of an attack on mainland California"
+  },
+  {
+   "key": "b37",
+   "type": "organization",
+   "name": "37th Coast Artillery Brigade",
+   "description": "Coast artillery brigade that fired on reported aircraft"
+  },
+  {
+   "key": "ic4",
+   "type": "organization",
+   "name": "4th Interceptor Command",
+   "description": "Interceptor command whose pilots were alerted but stayed grounded"
+  },
+  {
+   "key": "opd",
+   "type": "organization",
+   "name": "Oakland Police Department",
+   "description": "Police department whose patrol cars carried civil defense sirens during an earlier Oakland blackout"
+  },
+  {
+   "key": "lbi",
+   "type": "organization",
+   "name": "Long Beach Independent",
+   "description": "Newspaper whose editorial alleged censorship of the affair"
+  },
+  {
+   "key": "lat",
+   "type": "organization",
+   "name": "Los Angeles Times",
+   "aliases": [
+    "Times"
+   ],
+   "description": "Newspaper that published the retouched searchlight photo on February 26, 1942"
+  },
+  {
+   "key": "jgov",
+   "type": "organization",
+   "name": "Government of Japan",
+   "aliases": [
+    "Japanese government"
+   ],
+   "description": "Japanese government, which after the war denied flying any airplanes over Los Angeles"
+  },
+  {
+   "key": "museum",
+   "type": "organization",
+   "name": "Fort MacArthur Museum",
+   "description": "Museum at the entrance to Los Angeles Harbor that hosts an annual commemoration event"
+  },
+  {
+   "key": "la",
+   "type": "place",
+   "name": "Los Angeles, California",
+   "aliases": [
+    "Los Angeles"
+   ],
+   "description": "City over which the barrage took place"
+  },
+  {
+   "key": "california",
+   "type": "place",
+   "name": "California",
+   "aliases": [
+    "mainland California"
+   ],
+   "description": "US state"
+  },
+  {
+   "key": "usa",
+   "type": "place",
+   "name": "United States",
+   "aliases": [
+    "continental United States",
+    "U.S.",
+    "the U.S. continent"
+   ],
+   "description": "Country"
+  },
+  {
+   "key": "japan",
+   "type": "place",
+   "name": "Japan",
+   "aliases": [
+    "Imperial Japan"
+   ],
+   "description": "Country rumored to have attacked"
+  },
+  {
+   "key": "pearl",
+   "type": "place",
+   "name": "Pearl Harbor",
+   "description": "Site of the Imperial Japanese Navy's surprise attack on December 7, 1941"
+  },
+  {
+   "key": "hawaii",
+   "type": "place",
+   "name": "Hawaii",
+   "description": "Location of Pearl Harbor"
+  },
+  {
+   "key": "ellwood",
+   "type": "place",
+   "name": "Ellwood Oil Field",
+   "aliases": [
+    "Ellwood",
+    "Ellwood Oil field"
+   ],
+   "description": "Oil field in Goleta shelled by Japanese submarine I-17 on 23 February 1942"
+  },
+  {
+   "key": "goleta",
+   "type": "place",
+   "name": "Goleta, California",
+   "aliases": [
+    "Goleta"
+   ],
+   "description": "Town containing Ellwood Oil field"
+  },
+  {
+   "key": "sb",
+   "type": "place",
+   "name": "Santa Barbara, California",
+   "aliases": [
+    "Santa Barbara"
+   ],
+   "description": "City near which submarine I-17 surfaced"
+  },
+  {
+   "key": "westcoast",
+   "type": "place",
+   "name": "West Coast of the United States",
+   "aliases": [
+    "West Coast"
+   ],
+   "description": "Region where fears of Japanese attack were strongest"
+  },
+  {
+   "key": "juneau",
+   "type": "place",
+   "name": "Juneau, Alaska",
+   "aliases": [
+    "Juneau"
+   ],
+   "description": "Town where residents were told to black out windows after submarine rumors"
+  },
+  {
+   "key": "alaska",
+   "type": "place",
+   "name": "Alaska",
+   "aliases": [
+    "southeast Alaskan coast"
+   ],
+   "description": "Territory with rumored Japanese submarines off its southeast coast"
+  },
+  {
+   "key": "sfbay",
+   "type": "place",
+   "name": "San Francisco Bay Area",
+   "description": "Region off whose coast a Japanese aircraft carrier was rumored to be cruising"
+  },
+  {
+   "key": "oakland",
+   "type": "place",
+   "name": "Oakland, California",
+   "aliases": [
+    "Oakland",
+    "city of Oakland"
+   ],
+   "description": "City that closed schools and issued a blackout after carrier rumors"
+  },
+  {
+   "key": "seattle",
+   "type": "place",
+   "name": "Seattle, Washington",
+   "aliases": [
+    "Seattle",
+    "city of Seattle"
+   ],
+   "description": "City that imposed a blackout enforced by a mob"
+  },
+  {
+   "key": "disney",
+   "type": "place",
+   "name": "Walt Disney Studios",
+   "aliases": [
+    "Walt Disney Studios lot"
+   ],
+   "description": "Studio lot in Burbank occupied by 500 US Army troops"
+  },
+  {
+   "key": "burbank",
+   "type": "place",
+   "name": "Burbank, California",
+   "aliases": [
+    "Burbank"
+   ],
+   "description": "City containing the Walt Disney Studios lot"
+  },
+  {
+   "key": "hollywood",
+   "type": "place",
+   "name": "Hollywood, California",
+   "aliases": [
+    "Hollywood"
+   ],
+   "description": "Los Angeles district where one plane was supposed to have landed in flames"
+  },
+  {
+   "key": "dutch",
+   "type": "place",
+   "name": "Dutch Harbor",
+   "description": "Harbor in Unalaska, Alaska, bombed by Japanese forces less than four months later"
+  },
+  {
+   "key": "unalaska",
+   "type": "place",
+   "name": "Unalaska, Alaska",
+   "aliases": [
+    "Unalaska"
+   ],
+   "description": "Location of Dutch Harbor"
+  },
+  {
+   "key": "aleutians",
+   "type": "place",
+   "name": "Aleutian Islands",
+   "description": "Island chain where Japanese forces landed troops"
+  },
+  {
+   "key": "kiska",
+   "type": "place",
+   "name": "Kiska",
+   "description": "Aleutian island where Japanese troops landed"
+  },
+  {
+   "key": "attu",
+   "type": "place",
+   "name": "Attu",
+   "description": "Aleutian island where Japanese troops landed"
+  },
+  {
+   "key": "lacounty",
+   "type": "place",
+   "name": "Los Angeles County, California",
+   "aliases": [
+    "Los Angeles County"
+   ],
+   "description": "County throughout which air raid sirens sounded"
+  },
+  {
+   "key": "sm",
+   "type": "place",
+   "name": "Santa Monica, California",
+   "aliases": [
+    "Santa Monica"
+   ],
+   "description": "City over which the balloon with a red flare was seen"
+  },
+  {
+   "key": "mexico",
+   "type": "place",
+   "name": "Mexico",
+   "aliases": [
+    "northern Mexico"
+   ],
+   "description": "Country where a secret enemy base was theorized"
+  },
+  {
+   "key": "socal",
+   "type": "place",
+   "name": "Southern California",
+   "description": "Region whose war industries Ford said might be taken away"
+  },
+  {
+   "key": "laharbor",
+   "type": "place",
+   "name": "Los Angeles Harbor",
+   "description": "Harbor at whose entrance the Fort MacArthur Museum is located"
+  },
+  {
+   "key": "i17",
+   "type": "vehicle",
+   "name": "Japanese submarine I-17",
+   "aliases": [
+    "I-17"
+   ],
+   "description": "Submarine that shelled Ellwood Oil field on 23 February 1942"
+  },
+  {
+   "key": "agwiworld",
+   "type": "vehicle",
+   "name": "SS Agwiworld",
+   "description": "American merchant ship attacked by Japanese submarines off the West Coast, December 1941 - February 1942"
+  },
+  {
+   "key": "emidio",
+   "type": "vehicle",
+   "name": "SS Emidio",
+   "description": "American merchant ship attacked by Japanese submarines off the West Coast, December 1941 - February 1942"
+  },
+  {
+   "key": "samoa",
+   "type": "vehicle",
+   "name": "SS Samoa",
+   "description": "American merchant ship attacked by Japanese submarines off the West Coast, December 1941 - February 1942"
+  },
+  {
+   "key": "doheny",
+   "type": "vehicle",
+   "name": "SS Larry Doheny",
+   "description": "American merchant ship attacked by Japanese submarines off the West Coast, December 1941 - February 1942"
+  },
+  {
+   "key": "phillips",
+   "type": "vehicle",
+   "name": "SS Dorothy Phillips",
+   "description": "American merchant ship attacked by Japanese submarines off the West Coast, December 1941 - February 1942"
+  },
+  {
+   "key": "storey",
+   "type": "vehicle",
+   "name": "SS H.M. Storey",
+   "description": "American merchant ship attacked by Japanese submarines off the West Coast, December 1941 - February 1942"
+  },
+  {
+   "key": "colson",
+   "type": "vehicle",
+   "name": "SS Cynthia Olson",
+   "description": "American merchant ship attacked by Japanese submarines off the West Coast, December 1941 - February 1942"
+  },
+  {
+   "key": "camden",
+   "type": "vehicle",
+   "name": "SS Camden",
+   "description": "American merchant ship attacked by Japanese submarines off the West Coast, December 1941 - February 1942"
+  },
+  {
+   "key": "absaroka",
+   "type": "vehicle",
+   "name": "SS Absaroka",
+   "description": "American merchant ship attacked by Japanese submarines off the West Coast, December 1941 - February 1942"
+  },
+  {
+   "key": "coasttrader",
+   "type": "vehicle",
+   "name": "Coast Trader",
+   "description": "American merchant ship attacked by Japanese submarines off the West Coast, December 1941 - February 1942"
+  },
+  {
+   "key": "montebello",
+   "type": "vehicle",
+   "name": "SS Montebello",
+   "description": "American merchant ship attacked by Japanese submarines off the West Coast, December 1941 - February 1942"
+  },
+  {
+   "key": "bolson",
+   "type": "vehicle",
+   "name": "SS Barbara Olson",
+   "description": "American merchant ship attacked by Japanese submarines off the West Coast, December 1941 - February 1942"
+  },
+  {
+   "key": "connecticut",
+   "type": "vehicle",
+   "name": "SS Connecticut",
+   "description": "American merchant ship attacked by Japanese submarines off the West Coast, December 1941 - February 1942"
+  },
+  {
+   "key": "idaho",
+   "type": "vehicle",
+   "name": "SS Idaho",
+   "description": "American merchant ship attacked by Japanese submarines off the West Coast, December 1941 - February 1942"
+  },
+  {
+   "key": "photo",
+   "type": "document",
+   "name": "Los Angeles Times photograph published February 26, 1942",
+   "description": "Retouched newspaper photo of searchlights converging over Los Angeles, featured in UFO conspiracy theories"
+  },
+  {
+   "key": "editorial",
+   "type": "document",
+   "name": "Long Beach Independent editorial",
+   "description": "Editorial alleging a mysterious reticence and censorship about the affair"
+  },
+  {
+   "key": "w1941",
+   "type": "work",
+   "name": "1941",
+   "aliases": [
+    "1941 (film)"
+   ],
+   "description": "1979 film by Steven Spielberg loosely based on the Battle of Los Angeles"
+  },
+  {
+   "key": "storm",
+   "type": "work",
+   "name": "This Storm",
+   "description": "2019 novel by James Ellroy set in 1942 that chronicles the Battle of Los Angeles"
+  },
+  {
+   "key": "bla",
+   "type": "work",
+   "name": "Battle: Los Angeles",
+   "description": "2011 American science fiction film whose trailers used the retouched photo"
+  },
+  {
+   "key": "skeptoid",
+   "type": "work",
+   "name": "Skeptoid #171: The Battle of Los Angeles",
+   "description": "Skeptoid episode by Brian Dunning, 15 September 2009"
+  },
+  {
+   "key": "contrail",
+   "type": "case",
+   "name": "2010 California contrail incident",
+   "description": "Aviation and aerial phenomenon-related incident listed alongside this case"
+  },
+  {
+   "key": "f_photo",
+   "type": "feature",
+   "name": "photograph",
+   "description": "A newspaper photograph is cited as evidence"
+  },
+  {
+   "key": "f_cover",
+   "type": "feature",
+   "name": "alleged-cover-up",
+   "description": "Contemporary press suspected a cover-up"
+  },
+  {
+   "key": "f_death",
+   "type": "feature",
+   "name": "death-or-disappearance",
+   "description": "Five civilians died as an indirect result of the barrage"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "Many conflicting reports of planes were made"
+  },
+  {
+   "key": "f_mil",
+   "type": "feature",
+   "name": "military-witnesses",
+   "description": "Anti-aircraft batteries fired at reported aircraft"
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "The U.S. Office of Air Force History analysed the evidence in 1983"
+  },
+  {
+   "key": "f_shot",
+   "type": "feature",
+   "name": "other:fired upon by anti-aircraft artillery",
+   "description": "Reported objects were fired on by anti-aircraft guns"
+  },
+  {
+   "key": "f_retouch",
+   "type": "feature",
+   "name": "other:retouched photograph",
+   "description": "The key photo was heavily retouched before publication"
+  },
+  {
+   "key": "x_balloon",
+   "type": "explanation",
+   "name": "balloon",
+   "description": "Meteorological / weather balloon"
+  },
+  {
+   "key": "x_psych",
+   "type": "explanation",
+   "name": "psychological",
+   "description": "Anxiety and 'war nerves'"
+  },
+  {
+   "key": "x_misp",
+   "type": "explanation",
+   "name": "misperception",
+   "description": "Imagined targets; shell bursts mistaken for enemy planes"
+  },
+  {
+   "key": "x_flares",
+   "type": "explanation",
+   "name": "flares",
+   "description": "Stray flares"
+  },
+  {
+   "key": "x_aircraft",
+   "type": "explanation",
+   "name": "conventional-aircraft",
+   "description": "Commercial airplanes flown by enemy agents"
+  },
+  {
+   "key": "x_exercise",
+   "type": "explanation",
+   "name": "military-test-or-exercise",
+   "description": "A practice raid"
+  },
+  {
+   "key": "x_search",
+   "type": "explanation",
+   "name": "searchlight",
+   "description": "Converging searchlights in the photo, highlighted with white paint, misread as a UFO"
+  },
+  {
+   "key": "x_retouch",
+   "type": "explanation",
+   "name": "other:photo retouching",
+   "description": "The 'UFO' in the photo is white paint added during retouching"
+  },
+  {
+   "key": "x_false",
+   "type": "explanation",
+   "name": "other:false alarm",
+   "description": "Knox and the Navy called the raid a false alarm"
+  },
+  {
+   "key": "x_staged",
+   "type": "explanation",
+   "name": "other:staged or exaggerated incident",
+   "description": "Speculation that the incident was staged or exaggerated to justify moving defense industries inland"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1942-02-24",
+   "quote": "anti-aircraft artillery barrage which took place from late February 24, to early February 25, 1942, over Los Angeles, California"
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1942-02-25",
+   "quote": "anti-aircraft artillery barrage which took place from late February 24, to early February 25, 1942, over Los Angeles, California"
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "19:18",
+   "quote": "An alert was called at 7:18 pm, and was lifted at 10:23 pm."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "The Battle of Los Angeles, also known as the Great Los Angeles Air Raid, is the name given by contemporary sources to a rumored attack on the continental United States by Imperial Japan and the subsequent anti-aircraft artillery barrage which took place from late February 24, to early February 25, 1942, over Los Angeles, California."
+  },
+  {
+   "s": "case",
+   "p": "duration",
+   "v": "hour-long action (firing from 3:16 am to 4:14 am)",
+   "quote": "Several buildings and vehicles were damaged by shell fragments, and five civilians died as an indirect result of the anti-aircraft fire: three were killed in car crashes in the ensuing chaos and two of heart attacks attributed to the stress of the hour-long action."
+  },
+  {
+   "s": "case",
+   "p": "also_known_as",
+   "v": "Great Los Angeles Air Raid",
+   "quote": "The Battle of Los Angeles, also known as the Great Los Angeles Air Raid, is the name given by contemporary sources to a rumored attack on the continental United States by Imperial Japan and the subsequent anti-aircraft artillery barrage which took place from late February 24, to early February 25, 1942, over Los Angeles, California."
+  },
+  {
+   "s": "case",
+   "p": "nature_of_event",
+   "v": "rumored attack on the continental United States by Imperial Japan and subsequent anti-aircraft artillery barrage",
+   "quote": "The Battle of Los Angeles, also known as the Great Los Angeles Air Raid, is the name given by contemporary sources to a rumored attack on the continental United States by Imperial Japan and the subsequent anti-aircraft artillery barrage which took place from late February 24, to early February 25, 1942, over Los Angeles, California."
+  },
+  {
+   "s": "case",
+   "p": "civilian_deaths",
+   "v": "5",
+   "quote": "Five civilians died during the barrage and four Japanese aircraft were erroneously reported shot down."
+  },
+  {
+   "s": "case",
+   "p": "aircraft_erroneously_reported_shot_down",
+   "v": "4 Japanese aircraft",
+   "quote": "Five civilians died during the barrage and four Japanese aircraft were erroneously reported shot down."
+  },
+  {
+   "s": "case",
+   "p": "timing_context",
+   "v": "less than three months after the U.S. entered World War II",
+   "quote": "The incident occurred less than three months after the U.S. entered World War II in response to the Imperial Japanese Navy's surprise attack on Pearl Harbor, and one day after the bombardment of Ellwood near Santa Barbara on 23 February."
+  },
+  {
+   "s": "case",
+   "p": "timing_context",
+   "v": "one day after the bombardment of Ellwood on 23 February",
+   "quote": "The incident occurred less than three months after the U.S. entered World War II in response to the Imperial Japanese Navy's surprise attack on Pearl Harbor, and one day after the bombardment of Ellwood near Santa Barbara on 23 February."
+  },
+  {
+   "s": "case",
+   "p": "initial_assumed_target",
+   "v": "an attacking force from Japan",
+   "quote": "Initially, the target of the aerial barrage was thought to be an attacking force from Japan"
+  },
+  {
+   "s": "case",
+   "p": "press_speculation",
+   "v": "cover-up to conceal an actual invasion by enemy airplanes",
+   "quote": "Newspapers of the time published a number of reports and speculations of a cover-up to conceal an actual invasion by enemy airplanes."
+  },
+  {
+   "s": "case",
+   "p": "derisive_name",
+   "v": "\"Battle of Los Angeles\" or \"Great Los Angeles Air Raid\", as an example of incompetence",
+   "quote": "As an example of incompetence, the incident was derisively referred to as the \"Battle of Los Angeles\" or the \"Great Los Angeles Air Raid\"."
+  },
+  {
+   "s": "case",
+   "p": "background",
+   "v": "public outrage and paranoia intensified across the country and especially on the West Coast after Pearl Harbor",
+   "quote": "In the months following the Imperial Japanese Navy's attack on Pearl Harbor in Hawaii on December 7, 1941, and the United States' entry into World War II the next day, public outrage and paranoia intensified across the country and especially on the West Coast"
+  },
+  {
+   "s": "case",
+   "p": "background",
+   "v": "anti-aircraft guns installed, bunkers built, air raid precautions drilled into the populace",
+   "quote": "As the U.S. began mobilizing for the war, anti-aircraft guns were installed, bunkers were built, and air raid precautions were drilled into the populace all over the country."
+  },
+  {
+   "s": "case",
+   "p": "background",
+   "v": "many American merchant ships attacked by Japanese submarines off the West Coast, last half of December 1941 through February 1942",
+   "quote": "many American merchant ships were indeed attacked by Japanese submarines in waters off the West Coast, especially from the last half of December 1941 through February 1942"
+  },
+  {
+   "s": "case",
+   "p": "warning_date",
+   "v": "1942-02-24",
+   "quote": "On 24 February 1942, the Office of Naval Intelligence issued a warning that an attack on mainland California could be expected within the next ten hours."
+  },
+  {
+   "s": "case",
+   "p": "warning",
+   "v": "attack on mainland California could be expected within the next ten hours",
+   "quote": "On 24 February 1942, the Office of Naval Intelligence issued a warning that an attack on mainland California could be expected within the next ten hours."
+  },
+  {
+   "s": "case",
+   "p": "preceding_reports",
+   "v": "many flares and blinking lights reported from the vicinity of defense plants on the evening of 24 February",
+   "quote": "That evening, many flares and blinking lights were reported from the vicinity of defense plants."
+  },
+  {
+   "s": "case",
+   "p": "first_alert_called",
+   "v": "7:18 pm",
+   "quote": "An alert was called at 7:18 pm, and was lifted at 10:23 pm."
+  },
+  {
+   "s": "case",
+   "p": "first_alert_lifted",
+   "v": "10:23 pm",
+   "quote": "An alert was called at 7:18 pm, and was lifted at 10:23 pm."
+  },
+  {
+   "s": "case",
+   "p": "renewed_activity",
+   "v": "early in the morning of 25 February",
+   "quote": "Renewed activity began early in the morning of 25 February."
+  },
+  {
+   "s": "case",
+   "p": "air_raid_sirens_time",
+   "v": "2:25 am",
+   "quote": "Air raid sirens sounded at 2:25 am throughout Los Angeles County."
+  },
+  {
+   "s": "case",
+   "p": "blackout",
+   "v": "total blackout ordered; thousands of air raid wardens summoned to their positions",
+   "quote": "A total blackout was ordered and thousands of air raid wardens were summoned to their positions."
+  },
+  {
+   "s": "case",
+   "p": "firing_start_time",
+   "v": "3:16 am",
+   "quote": "At 3:16 am, the 37th Coast Artillery Brigade began firing .50-caliber machine guns and 12.8-pound (5.8 kg) anti-aircraft shells into the air at reported aircraft; over 1,400 shells were eventually fired."
+  },
+  {
+   "s": "case",
+   "p": "weapons_fired",
+   "v": ".50-caliber machine guns and 12.8-pound (5.8 kg) anti-aircraft shells",
+   "quote": "At 3:16 am, the 37th Coast Artillery Brigade began firing .50-caliber machine guns and 12.8-pound (5.8 kg) anti-aircraft shells into the air at reported aircraft; over 1,400 shells were eventually fired."
+  },
+  {
+   "s": "case",
+   "p": "shells_fired",
+   "v": "over 1,400",
+   "quote": "At 3:16 am, the 37th Coast Artillery Brigade began firing .50-caliber machine guns and 12.8-pound (5.8 kg) anti-aircraft shells into the air at reported aircraft; over 1,400 shells were eventually fired."
+  },
+  {
+   "s": "case",
+   "p": "rounds_fired",
+   "v": "1,440 rounds of anti-aircraft ammunition",
+   "quote": "These mysterious forces dropped no bombs and, despite the fact that 1,440 rounds of anti-aircraft ammunition were directed against them, suffered no losses."
+  },
+  {
+   "s": "case",
+   "p": "firing_end_time",
+   "v": "4:14 am",
+   "quote": "The artillery fire continued sporadically until 4:14 am."
+  },
+  {
+   "s": "case",
+   "p": "all_clear_time",
+   "v": "7:21 am",
+   "quote": "The \"all clear\" was sounded and the blackout order was lifted at 7:21 am."
+  },
+  {
+   "s": "case",
+   "p": "blackout_lifted_time",
+   "v": "7:21 am",
+   "quote": "The \"all clear\" was sounded and the blackout order was lifted at 7:21 am."
+  },
+  {
+   "s": "case",
+   "p": "damage",
+   "v": "several buildings and vehicles damaged by shell fragments",
+   "quote": "Several buildings and vehicles were damaged by shell fragments, and five civilians died as an indirect result of the anti-aircraft fire: three were killed in car crashes in the ensuing chaos and two of heart attacks attributed to the stress of the hour-long action."
+  },
+  {
+   "s": "case",
+   "p": "civilian_deaths",
+   "v": "5, as an indirect result of the anti-aircraft fire",
+   "quote": "Several buildings and vehicles were damaged by shell fragments, and five civilians died as an indirect result of the anti-aircraft fire: three were killed in car crashes in the ensuing chaos and two of heart attacks attributed to the stress of the hour-long action."
+  },
+  {
+   "s": "case",
+   "p": "deaths_in_car_crashes",
+   "v": "3",
+   "quote": "Several buildings and vehicles were damaged by shell fragments, and five civilians died as an indirect result of the anti-aircraft fire: three were killed in car crashes in the ensuing chaos and two of heart attacks attributed to the stress of the hour-long action."
+  },
+  {
+   "s": "case",
+   "p": "deaths_from_heart_attacks",
+   "v": "2",
+   "quote": "Several buildings and vehicles were damaged by shell fragments, and five civilians died as an indirect result of the anti-aircraft fire: three were killed in car crashes in the ensuing chaos and two of heart attacks attributed to the stress of the hour-long action."
+  },
+  {
+   "s": "case",
+   "p": "deaths_from_heart_failure",
+   "v": "at least one (Office of Air Force History account)",
+   "quote": "The dawn, which ended the shooting and the fantasy, also proved that the only damage which resulted to the city was such as had been caused by the excitement (there was at least one death from heart failure), by traffic accidents in the blacked-out streets, or by shell fragments from the artillery barrage."
+  },
+  {
+   "s": "case",
+   "p": "damage",
+   "v": "caused only by the excitement, traffic accidents in the blacked-out streets, or shell fragments from the artillery barrage",
+   "quote": "The dawn, which ended the shooting and the fantasy, also proved that the only damage which resulted to the city was such as had been caused by the excitement (there was at least one death from heart failure), by traffic accidents in the blacked-out streets, or by shell fragments from the artillery barrage."
+  },
+  {
+   "s": "case",
+   "p": "press_coverage",
+   "v": "front-page news across the nation",
+   "quote": "The incident was front-page news across the nation."
+  },
+  {
+   "s": "case",
+   "p": "press_reaction",
+   "v": "some contemporary press outlets suspected a cover-up of the truth",
+   "quote": "Some contemporary press outlets suspected a cover-up of the truth."
+  },
+  {
+   "s": "case",
+   "p": "press_speculation",
+   "v": "invading airplanes and their bases",
+   "quote": "Speculation was rampant as to invading airplanes and their bases."
+  },
+  {
+   "s": "case",
+   "p": "theory",
+   "v": "a secret base in northern Mexico",
+   "quote": "Theories included a secret base in northern Mexico as well as Japanese submarines stationed offshore with the capability of carrying planes."
+  },
+  {
+   "s": "case",
+   "p": "theory",
+   "v": "Japanese submarines stationed offshore with the capability of carrying planes",
+   "quote": "Theories included a secret base in northern Mexico as well as Japanese submarines stationed offshore with the capability of carrying planes."
+  },
+  {
+   "s": "case",
+   "p": "theory",
+   "v": "incident staged or exaggerated to give coastal defense industries an excuse to move further inland",
+   "quote": "Others speculated that the incident was either staged or exaggerated to give coastal defense industries an excuse to move further inland."
+  },
+  {
+   "s": "case",
+   "p": "batteries_opening_fire",
+   "v": "four batteries of anti-aircraft artillery",
+   "quote": "At 0306 a balloon carrying a red flare was seen over Santa Monica and four batteries of anti-aircraft artillery opened fire, whereupon \"the air over Los Angeles erupted like a volcano.\""
+  },
+  {
+   "s": "case",
+   "p": "first_sighting_time",
+   "v": "03:06",
+   "quote": "At 0306 a balloon carrying a red flare was seen over Santa Monica and four batteries of anti-aircraft artillery opened fire, whereupon \"the air over Los Angeles erupted like a volcano.\""
+  },
+  {
+   "s": "case",
+   "p": "reports",
+   "v": "hopelessly at variance",
+   "quote": "From this point on reports were hopelessly at variance."
+  },
+  {
+   "s": "case",
+   "p": "reporting_duration",
+   "v": "the next three hours",
+   "quote": "In any case, the next three hours produced some of the most imaginative reporting of the war"
+  },
+  {
+   "s": "case",
+   "p": "report",
+   "v": "four enemy planes had been shot down",
+   "quote": "There were reports, to be sure, that four enemy planes had been shot down, and one was supposed to have landed in flames at a Hollywood intersection."
+  },
+  {
+   "s": "case",
+   "p": "report",
+   "v": "one plane supposed to have landed in flames at a Hollywood intersection",
+   "quote": "There were reports, to be sure, that four enemy planes had been shot down, and one was supposed to have landed in flames at a Hollywood intersection."
+  },
+  {
+   "s": "case",
+   "p": "shooting_ended",
+   "v": "at dawn",
+   "quote": "The dawn, which ended the shooting and the fantasy, also proved that the only damage which resulted to the city was such as had been caused by the excitement (there was at least one death from heart failure), by traffic accidents in the blacked-out streets, or by shell fragments from the artillery barrage."
+  },
+  {
+   "s": "case",
+   "p": "explanation_attempts",
+   "v": "quickly became as involved and mysterious as the \"battle\" itself",
+   "quote": "Attempts to arrive at an explanation of the incident quickly became as involved and mysterious as the \"battle\" itself."
+  },
+  {
+   "s": "case",
+   "p": "ufology_claim",
+   "v": "Los Angeles Times photo featured in UFO conspiracy theories as evidence of an extraterrestrial visitation",
+   "quote": "A photo published in the Los Angeles Times on February 26, 1942, has been featured in UFO conspiracy theories as evidence of an extraterrestrial visitation."
+  },
+  {
+   "s": "case",
+   "p": "commemoration",
+   "v": "annual February entertainment event \"The Great LA Air Raid of 1942\" at the Fort MacArthur Museum",
+   "quote": "Every February, the Fort MacArthur Museum, located at the entrance to Los Angeles Harbor, hosts an entertainment event called \"The Great LA Air Raid of 1942\"."
+  },
+  {
+   "s": "planes",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "At 3:16 am, the 37th Coast Artillery Brigade began firing .50-caliber machine guns and 12.8-pound (5.8 kg) anti-aircraft shells into the air at reported aircraft; over 1,400 shells were eventually fired."
+  },
+  {
+   "s": "planes",
+   "p": "description",
+   "v": "\"swarms\" of planes (or, sometimes, balloons)",
+   "quote": "\"swarms\" of planes (or, sometimes, balloons) of all possible sizes, numbering from one to several hundred, traveling at altitudes which ranged from a few thousand feet to more than 20,000 and flying at speeds which were said to have varied from \"very slow\" to over 200 miles per hour, were observed to parade across the skies."
+  },
+  {
+   "s": "planes",
+   "p": "size",
+   "v": "all possible sizes",
+   "quote": "\"swarms\" of planes (or, sometimes, balloons) of all possible sizes, numbering from one to several hundred, traveling at altitudes which ranged from a few thousand feet to more than 20,000 and flying at speeds which were said to have varied from \"very slow\" to over 200 miles per hour, were observed to parade across the skies."
+  },
+  {
+   "s": "planes",
+   "p": "count",
+   "v": "from one to several hundred",
+   "quote": "\"swarms\" of planes (or, sometimes, balloons) of all possible sizes, numbering from one to several hundred, traveling at altitudes which ranged from a few thousand feet to more than 20,000 and flying at speeds which were said to have varied from \"very slow\" to over 200 miles per hour, were observed to parade across the skies."
+  },
+  {
+   "s": "planes",
+   "p": "altitude",
+   "v": "a few thousand feet to more than 20,000",
+   "quote": "\"swarms\" of planes (or, sometimes, balloons) of all possible sizes, numbering from one to several hundred, traveling at altitudes which ranged from a few thousand feet to more than 20,000 and flying at speeds which were said to have varied from \"very slow\" to over 200 miles per hour, were observed to parade across the skies."
+  },
+  {
+   "s": "planes",
+   "p": "speed",
+   "v": "\"very slow\" to over 200 miles per hour",
+   "quote": "\"swarms\" of planes (or, sometimes, balloons) of all possible sizes, numbering from one to several hundred, traveling at altitudes which ranged from a few thousand feet to more than 20,000 and flying at speeds which were said to have varied from \"very slow\" to over 200 miles per hour, were observed to parade across the skies."
+  },
+  {
+   "s": "planes",
+   "p": "behavior",
+   "v": "dropped no bombs and suffered no losses",
+   "quote": "These mysterious forces dropped no bombs and, despite the fact that 1,440 rounds of anti-aircraft ammunition were directed against them, suffered no losses."
+  },
+  {
+   "s": "planes",
+   "p": "reported_shot_down",
+   "v": "four (erroneously reported)",
+   "quote": "Five civilians died during the barrage and four Japanese aircraft were erroneously reported shot down."
+  },
+  {
+   "s": "planes",
+   "p": "rumored_origin",
+   "v": "attacking force from Japan",
+   "quote": "Initially, the target of the aerial barrage was thought to be an attacking force from Japan"
+  },
+  {
+   "s": "planes",
+   "p": "official_finding",
+   "v": "no evidence of the presence of enemy planes (Navy)",
+   "quote": "The Navy immediately insisted that there was no evidence of the presence of enemy planes, and [Secretary of the Navy], Frank Knox announced at a press conference on 25 February that the raid was just a false alarm."
+  },
+  {
+   "s": "planes",
+   "p": "japanese_denial",
+   "v": "Japanese government declared it had flown no airplanes over Los Angeles during the war",
+   "quote": "After the war ended in 1945, the Japanese government declared that they had flown no airplanes over Los Angeles during the war."
+  },
+  {
+   "s": "balloon",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "At 0306 a balloon carrying a red flare was seen over Santa Monica and four batteries of anti-aircraft artillery opened fire, whereupon \"the air over Los Angeles erupted like a volcano.\""
+  },
+  {
+   "s": "balloon",
+   "p": "color",
+   "v": "red flare",
+   "quote": "At 0306 a balloon carrying a red flare was seen over Santa Monica and four batteries of anti-aircraft artillery opened fire, whereupon \"the air over Los Angeles erupted like a volcano.\""
+  },
+  {
+   "s": "balloon",
+   "p": "time_seen",
+   "v": "03:06",
+   "quote": "At 0306 a balloon carrying a red flare was seen over Santa Monica and four batteries of anti-aircraft artillery opened fire, whereupon \"the air over Los Angeles erupted like a volcano.\""
+  },
+  {
+   "s": "balloon",
+   "p": "time_sent_aloft",
+   "v": "1:00 am",
+   "quote": "When documenting the incident in 1949, the United States Coast Artillery Association identified a meteorological balloon sent aloft at 1:00 am as having \"started all the shooting\" and concluded that \"once the firing started, imagination created all kinds of targets in the sky and everyone joined in\"."
+  },
+  {
+   "s": "balloon",
+   "p": "type",
+   "v": "meteorological balloon",
+   "quote": "When documenting the incident in 1949, the United States Coast Artillery Association identified a meteorological balloon sent aloft at 1:00 am as having \"started all the shooting\" and concluded that \"once the firing started, imagination created all kinds of targets in the sky and everyone joined in\"."
+  },
+  {
+   "s": "balloon",
+   "p": "description",
+   "v": "lost weather balloon",
+   "quote": "In 1983, the U.S. Office of Air Force History attributed the event to a case of \"war nerves\" triggered by a lost weather balloon and exacerbated by stray flares and shell bursts from adjoining batteries."
+  },
+  {
+   "s": "knox",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "speaking at a press conference shortly afterward, Secretary of the Navy Frank Knox called the purported attack a \"false alarm\""
+  },
+  {
+   "s": "knox",
+   "p": "occupation",
+   "v": "Secretary of the Navy",
+   "quote": "speaking at a press conference shortly afterward, Secretary of the Navy Frank Knox called the purported attack a \"false alarm\""
+  },
+  {
+   "s": "knox",
+   "p": "statement",
+   "v": "called the purported attack a \"false alarm\"",
+   "quote": "speaking at a press conference shortly afterward, Secretary of the Navy Frank Knox called the purported attack a \"false alarm\""
+  },
+  {
+   "s": "knox",
+   "p": "statement",
+   "v": "the entire incident had been a false alarm due to anxiety and \"war nerves\"",
+   "quote": "Within hours of the end of the air raid, Secretary of the Navy Frank Knox held a press conference, saying the entire incident had been a false alarm due to anxiety and \"war nerves\"."
+  },
+  {
+   "s": "knox",
+   "p": "press_conference",
+   "v": "within hours of the end of the air raid",
+   "quote": "Within hours of the end of the air raid, Secretary of the Navy Frank Knox held a press conference, saying the entire incident had been a false alarm due to anxiety and \"war nerves\"."
+  },
+  {
+   "s": "knox",
+   "p": "press_conference_date",
+   "v": "25 February",
+   "quote": "The Navy immediately insisted that there was no evidence of the presence of enemy planes, and [Secretary of the Navy], Frank Knox announced at a press conference on 25 February that the raid was just a false alarm."
+  },
+  {
+   "s": "knox",
+   "p": "statement",
+   "v": "the raid was just a false alarm",
+   "quote": "The Navy immediately insisted that there was no evidence of the presence of enemy planes, and [Secretary of the Navy], Frank Knox announced at a press conference on 25 February that the raid was just a false alarm."
+  },
+  {
+   "s": "roosevelt",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "on 23 February 1942, at 7:15 pm, during one of President Franklin D. Roosevelt's fireside chats, Japanese submarine I-17 surfaced near Santa Barbara, California, and shelled Ellwood Oil field in Goleta"
+  },
+  {
+   "s": "roosevelt",
+   "p": "occupation",
+   "v": "President",
+   "quote": "on 23 February 1942, at 7:15 pm, during one of President Franklin D. Roosevelt's fireside chats, Japanese submarine I-17 surfaced near Santa Barbara, California, and shelled Ellwood Oil field in Goleta"
+  },
+  {
+   "s": "roosevelt",
+   "p": "activity",
+   "v": "giving a fireside chat when submarine I-17 shelled Ellwood on 23 February 1942 at 7:15 pm",
+   "quote": "on 23 February 1942, at 7:15 pm, during one of President Franklin D. Roosevelt's fireside chats, Japanese submarine I-17 surfaced near Santa Barbara, California, and shelled Ellwood Oil field in Goleta"
+  },
+  {
+   "s": "marshall",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Knox's comments were followed by statements from the Army the next day that reflected General George C. Marshall's supposition that the incident might have been caused by enemy agents using commercial airplanes in a psychological warfare campaign to generate mass panic."
+  },
+  {
+   "s": "marshall",
+   "p": "rank",
+   "v": "General",
+   "quote": "Knox's comments were followed by statements from the Army the next day that reflected General George C. Marshall's supposition that the incident might have been caused by enemy agents using commercial airplanes in a psychological warfare campaign to generate mass panic."
+  },
+  {
+   "s": "marshall",
+   "p": "statement",
+   "v": "supposed the incident might have been caused by enemy agents using commercial airplanes in a psychological warfare campaign to generate mass panic",
+   "quote": "Knox's comments were followed by statements from the Army the next day that reflected General George C. Marshall's supposition that the incident might have been caused by enemy agents using commercial airplanes in a psychological warfare campaign to generate mass panic."
+  },
+  {
+   "s": "ford",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Representative Leland M. Ford of Santa Monica called for a Congressional investigation, saying \"none of the explanations so far offered removed the episode from the category of 'complete mystification'"
+  },
+  {
+   "s": "ford",
+   "p": "occupation",
+   "v": "Representative",
+   "quote": "Representative Leland M. Ford of Santa Monica called for a Congressional investigation, saying \"none of the explanations so far offered removed the episode from the category of 'complete mystification'"
+  },
+  {
+   "s": "ford",
+   "p": "action",
+   "v": "called for a Congressional investigation",
+   "quote": "Representative Leland M. Ford of Santa Monica called for a Congressional investigation, saying \"none of the explanations so far offered removed the episode from the category of 'complete mystification'"
+  },
+  {
+   "s": "ford",
+   "p": "statement",
+   "v": "none of the explanations so far offered removed the episode from the category of 'complete mystification'",
+   "quote": "Representative Leland M. Ford of Santa Monica called for a Congressional investigation, saying \"none of the explanations so far offered removed the episode from the category of 'complete mystification'"
+  },
+  {
+   "s": "ford",
+   "p": "statement",
+   "v": "either a practice raid, a raid to throw a scare into 2,000,000 people, a mistaken identity raid, or a raid to lay a political foundation to take away Southern California's war industries",
+   "quote": "this was either a practice raid, or a raid to throw a scare into 2,000,000 people, or a mistaken identity raid, or a raid to lay a political foundation to take away Southern California's war industries."
+  },
+  {
+   "s": "lotchin",
+   "p": "commentator",
+   "o": "case",
+   "quote": "According to historian Roger Lotchin, \"the incident became derisively termed 'The Battle of Los Angeles' or 'The Great Los Angeles Air Raid' and is often cited as an example of the buffoonery that suffused the war effort in the state\"."
+  },
+  {
+   "s": "lotchin",
+   "p": "occupation",
+   "v": "historian",
+   "quote": "According to historian Roger Lotchin, \"the incident became derisively termed 'The Battle of Los Angeles' or 'The Great Los Angeles Air Raid' and is often cited as an example of the buffoonery that suffused the war effort in the state\"."
+  },
+  {
+   "s": "lotchin",
+   "p": "statement",
+   "v": "the incident is often cited as an example of the buffoonery that suffused the war effort in the state",
+   "quote": "According to historian Roger Lotchin, \"the incident became derisively termed 'The Battle of Los Angeles' or 'The Great Los Angeles Air Raid' and is often cited as an example of the buffoonery that suffused the war effort in the state\"."
+  },
+  {
+   "s": "harnisch",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Times writer Larry Harnisch noted that the retouched photo along with faked newspaper headlines were presented as true historical material in trailers for the 2011 film Battle: Los Angeles."
+  },
+  {
+   "s": "harnisch",
+   "p": "occupation",
+   "v": "Times writer",
+   "quote": "Times writer Larry Harnisch noted that the retouched photo along with faked newspaper headlines were presented as true historical material in trailers for the 2011 film Battle: Los Angeles."
+  },
+  {
+   "s": "harnisch",
+   "p": "statement",
+   "v": "the retouched photo along with faked newspaper headlines were presented as true historical material in trailers for the 2011 film Battle: Los Angeles",
+   "quote": "Times writer Larry Harnisch noted that the retouched photo along with faked newspaper headlines were presented as true historical material in trailers for the 2011 film Battle: Los Angeles."
+  },
+  {
+   "s": "harnisch",
+   "p": "statement",
+   "v": "[I]f the publicity campaign wanted to establish UFO research as nothing but lies and fakery, it couldn't have done a better job.",
+   "quote": "Harnisch commented, \"[I]f the publicity campaign wanted to establish UFO research as nothing but lies and fakery, it couldn't have done a better job.\""
+  },
+  {
+   "s": "spielberg",
+   "p": "commentator",
+   "o": "case",
+   "quote": "1941 – A 1979 film by Steven Spielberg, loosely based on the Battle of Los Angeles"
+  },
+  {
+   "s": "ellroy",
+   "p": "commentator",
+   "o": "case",
+   "quote": "This Storm – A 2019 novel by James Ellroy set in 1942, chronicles the Battle of Los Angeles."
+  },
+  {
+   "s": "dunning",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Dunning, Brian (15 September 2009). \"Skeptoid #171: The Battle of Los Angeles\". Skeptoid."
+  },
+  {
+   "s": "ijn",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The incident occurred less than three months after the U.S. entered World War II in response to the Imperial Japanese Navy's surprise attack on Pearl Harbor, and one day after the bombardment of Ellwood near Santa Barbara on 23 February."
+  },
+  {
+   "s": "ijn",
+   "p": "action",
+   "v": "surprise attack on Pearl Harbor on December 7, 1941",
+   "quote": "In the months following the Imperial Japanese Navy's attack on Pearl Harbor in Hawaii on December 7, 1941, and the United States' entry into World War II the next day, public outrage and paranoia intensified across the country and especially on the West Coast"
+  },
+  {
+   "s": "usn",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Navy immediately insisted that there was no evidence of the presence of enemy planes, and [Secretary of the Navy], Frank Knox announced at a press conference on 25 February that the raid was just a false alarm."
+  },
+  {
+   "s": "usn",
+   "p": "statement",
+   "v": "immediately insisted that there was no evidence of the presence of enemy planes",
+   "quote": "The Navy immediately insisted that there was no evidence of the presence of enemy planes, and [Secretary of the Navy], Frank Knox announced at a press conference on 25 February that the raid was just a false alarm."
+  },
+  {
+   "s": "usarmy",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Knox's comments were followed by statements from the Army the next day that reflected General George C. Marshall's supposition that the incident might have been caused by enemy agents using commercial airplanes in a psychological warfare campaign to generate mass panic."
+  },
+  {
+   "s": "usarmy",
+   "p": "statement",
+   "v": "statements the next day reflecting Marshall's supposition about enemy agents using commercial airplanes",
+   "quote": "Knox's comments were followed by statements from the Army the next day that reflected General George C. Marshall's supposition that the incident might have been caused by enemy agents using commercial airplanes in a psychological warfare campaign to generate mass panic."
+  },
+  {
+   "s": "usarmy",
+   "p": "troops_deployed",
+   "v": "500 troops moved into the Walt Disney Studios lot in Burbank",
+   "quote": "The rumors were taken so seriously that 500 United States Army troops moved into the Walt Disney Studios lot in Burbank, California, to defend the famed Hollywood facility and nearby factories against enemy sabotage or air attacks."
+  },
+  {
+   "s": "caa",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "When documenting the incident in 1949, the United States Coast Artillery Association identified a meteorological balloon sent aloft at 1:00 am as having \"started all the shooting\" and concluded that \"once the firing started, imagination created all kinds of targets in the sky and everyone joined in\"."
+  },
+  {
+   "s": "caa",
+   "p": "year_documented",
+   "v": "1949",
+   "quote": "When documenting the incident in 1949, the United States Coast Artillery Association identified a meteorological balloon sent aloft at 1:00 am as having \"started all the shooting\" and concluded that \"once the firing started, imagination created all kinds of targets in the sky and everyone joined in\"."
+  },
+  {
+   "s": "caa",
+   "p": "conclusion",
+   "v": "a meteorological balloon sent aloft at 1:00 am \"started all the shooting\"",
+   "quote": "When documenting the incident in 1949, the United States Coast Artillery Association identified a meteorological balloon sent aloft at 1:00 am as having \"started all the shooting\" and concluded that \"once the firing started, imagination created all kinds of targets in the sky and everyone joined in\"."
+  },
+  {
+   "s": "caa",
+   "p": "conclusion",
+   "v": "once the firing started, imagination created all kinds of targets in the sky and everyone joined in",
+   "quote": "When documenting the incident in 1949, the United States Coast Artillery Association identified a meteorological balloon sent aloft at 1:00 am as having \"started all the shooting\" and concluded that \"once the firing started, imagination created all kinds of targets in the sky and everyone joined in\"."
+  },
+  {
+   "s": "oafh",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "In 1983, the U.S. Office of Air Force History concluded that an analysis of the evidence points to meteorological balloons as the cause of the initial alarm"
+  },
+  {
+   "s": "oafh",
+   "p": "year_of_conclusion",
+   "v": "1983",
+   "quote": "In 1983, the U.S. Office of Air Force History attributed the event to a case of \"war nerves\" triggered by a lost weather balloon and exacerbated by stray flares and shell bursts from adjoining batteries."
+  },
+  {
+   "s": "oafh",
+   "p": "conclusion",
+   "v": "a case of \"war nerves\" triggered by a lost weather balloon and exacerbated by stray flares and shell bursts from adjoining batteries",
+   "quote": "In 1983, the U.S. Office of Air Force History attributed the event to a case of \"war nerves\" triggered by a lost weather balloon and exacerbated by stray flares and shell bursts from adjoining batteries."
+  },
+  {
+   "s": "oafh",
+   "p": "conclusion",
+   "v": "analysis of the evidence points to meteorological balloons as the cause of the initial alarm",
+   "quote": "In 1983, the U.S. Office of Air Force History concluded that an analysis of the evidence points to meteorological balloons as the cause of the initial alarm"
+  },
+  {
+   "s": "oafh",
+   "p": "conclusion",
+   "v": "anti-aircraft shell bursts, caught by the searchlights, were themselves mistaken for enemy planes",
+   "quote": "Probably much of the confusion came from the fact that anti-aircraft shell bursts, caught by the searchlights, were themselves mistaken for enemy planes."
+  },
+  {
+   "s": "oni",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On 24 February 1942, the Office of Naval Intelligence issued a warning that an attack on mainland California could be expected within the next ten hours."
+  },
+  {
+   "s": "oni",
+   "p": "warning",
+   "v": "an attack on mainland California could be expected within the next ten hours (issued 24 February 1942)",
+   "quote": "On 24 February 1942, the Office of Naval Intelligence issued a warning that an attack on mainland California could be expected within the next ten hours."
+  },
+  {
+   "s": "b37",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "At 3:16 am, the 37th Coast Artillery Brigade began firing .50-caliber machine guns and 12.8-pound (5.8 kg) anti-aircraft shells into the air at reported aircraft; over 1,400 shells were eventually fired."
+  },
+  {
+   "s": "b37",
+   "p": "action",
+   "v": "began firing .50-caliber machine guns and 12.8-pound anti-aircraft shells at reported aircraft at 3:16 am",
+   "quote": "At 3:16 am, the 37th Coast Artillery Brigade began firing .50-caliber machine guns and 12.8-pound (5.8 kg) anti-aircraft shells into the air at reported aircraft; over 1,400 shells were eventually fired."
+  },
+  {
+   "s": "ic4",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Pilots of the 4th Interceptor Command were alerted but their aircraft remained grounded."
+  },
+  {
+   "s": "ic4",
+   "p": "action",
+   "v": "pilots were alerted but their aircraft remained grounded",
+   "quote": "Pilots of the 4th Interceptor Command were alerted but their aircraft remained grounded."
+  },
+  {
+   "s": "opd",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Rumors that a Japanese aircraft carrier was cruising off the coast of the San Francisco Bay Area resulted in the city of Oakland closing its schools and issuing a blackout; civil defense sirens mounted on patrol cars from the Oakland Police Department blared through the city, and radio silence was ordered."
+  },
+  {
+   "s": "opd",
+   "p": "located_in",
+   "o": "oakland",
+   "quote": "Rumors that a Japanese aircraft carrier was cruising off the coast of the San Francisco Bay Area resulted in the city of Oakland closing its schools and issuing a blackout; civil defense sirens mounted on patrol cars from the Oakland Police Department blared through the city, and radio silence was ordered."
+  },
+  {
+   "s": "opd",
+   "p": "action",
+   "v": "civil defense sirens mounted on its patrol cars blared through Oakland",
+   "quote": "Rumors that a Japanese aircraft carrier was cruising off the coast of the San Francisco Bay Area resulted in the city of Oakland closing its schools and issuing a blackout; civil defense sirens mounted on patrol cars from the Oakland Police Department blared through the city, and radio silence was ordered."
+  },
+  {
+   "s": "lbi",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "An editorial in the Long Beach Independent wrote, \"There is a mysterious reticence about the whole affair and it appears that some form of censorship is trying to halt discussion on the matter.\""
+  },
+  {
+   "s": "lbi",
+   "p": "published",
+   "o": "editorial",
+   "quote": "An editorial in the Long Beach Independent wrote, \"There is a mysterious reticence about the whole affair and it appears that some form of censorship is trying to halt discussion on the matter.\""
+  },
+  {
+   "s": "lat",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "A photo published in the Los Angeles Times on February 26, 1942, has been featured in UFO conspiracy theories as evidence of an extraterrestrial visitation."
+  },
+  {
+   "s": "lat",
+   "p": "published",
+   "o": "photo",
+   "quote": "A photo published in the Los Angeles Times on February 26, 1942, has been featured in UFO conspiracy theories as evidence of an extraterrestrial visitation."
+  },
+  {
+   "s": "harnisch",
+   "p": "employed_by",
+   "o": "lat",
+   "quote": "Times writer Larry Harnisch noted that the retouched photo along with faked newspaper headlines were presented as true historical material in trailers for the 2011 film Battle: Los Angeles."
+  },
+  {
+   "s": "jgov",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "After the war ended in 1945, the Japanese government declared that they had flown no airplanes over Los Angeles during the war."
+  },
+  {
+   "s": "jgov",
+   "p": "statement",
+   "v": "declared after the war ended in 1945 that they had flown no airplanes over Los Angeles during the war",
+   "quote": "After the war ended in 1945, the Japanese government declared that they had flown no airplanes over Los Angeles during the war."
+  },
+  {
+   "s": "museum",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Every February, the Fort MacArthur Museum, located at the entrance to Los Angeles Harbor, hosts an entertainment event called \"The Great LA Air Raid of 1942\"."
+  },
+  {
+   "s": "museum",
+   "p": "located_in",
+   "o": "laharbor",
+   "quote": "Every February, the Fort MacArthur Museum, located at the entrance to Los Angeles Harbor, hosts an entertainment event called \"The Great LA Air Raid of 1942\"."
+  },
+  {
+   "s": "museum",
+   "p": "hosts_event",
+   "v": "\"The Great LA Air Raid of 1942\", an entertainment event held every February",
+   "quote": "Every February, the Fort MacArthur Museum, located at the entrance to Los Angeles Harbor, hosts an entertainment event called \"The Great LA Air Raid of 1942\"."
+  },
+  {
+   "s": "la",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "anti-aircraft artillery barrage which took place from late February 24, to early February 25, 1942, over Los Angeles, California"
+  },
+  {
+   "s": "california",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On 24 February 1942, the Office of Naval Intelligence issued a warning that an attack on mainland California could be expected within the next ten hours."
+  },
+  {
+   "s": "la",
+   "p": "located_in",
+   "o": "california",
+   "quote": "anti-aircraft artillery barrage which took place from late February 24, to early February 25, 1942, over Los Angeles, California"
+  },
+  {
+   "s": "usa",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Battle of Los Angeles, also known as the Great Los Angeles Air Raid, is the name given by contemporary sources to a rumored attack on the continental United States by Imperial Japan and the subsequent anti-aircraft artillery barrage which took place from late February 24, to early February 25, 1942, over Los Angeles, California."
+  },
+  {
+   "s": "japan",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Battle of Los Angeles, also known as the Great Los Angeles Air Raid, is the name given by contemporary sources to a rumored attack on the continental United States by Imperial Japan and the subsequent anti-aircraft artillery barrage which took place from late February 24, to early February 25, 1942, over Los Angeles, California."
+  },
+  {
+   "s": "pearl",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The incident occurred less than three months after the U.S. entered World War II in response to the Imperial Japanese Navy's surprise attack on Pearl Harbor, and one day after the bombardment of Ellwood near Santa Barbara on 23 February."
+  },
+  {
+   "s": "pearl",
+   "p": "located_in",
+   "o": "hawaii",
+   "quote": "In the months following the Imperial Japanese Navy's attack on Pearl Harbor in Hawaii on December 7, 1941, and the United States' entry into World War II the next day, public outrage and paranoia intensified across the country and especially on the West Coast"
+  },
+  {
+   "s": "pearl",
+   "p": "attack_date",
+   "v": "1941-12-07",
+   "quote": "In the months following the Imperial Japanese Navy's attack on Pearl Harbor in Hawaii on December 7, 1941, and the United States' entry into World War II the next day, public outrage and paranoia intensified across the country and especially on the West Coast"
+  },
+  {
+   "s": "hawaii",
+   "p": "related_place",
+   "o": "case",
+   "quote": "In the months following the Imperial Japanese Navy's attack on Pearl Harbor in Hawaii on December 7, 1941, and the United States' entry into World War II the next day, public outrage and paranoia intensified across the country and especially on the West Coast"
+  },
+  {
+   "s": "ellwood",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The incident occurred less than three months after the U.S. entered World War II in response to the Imperial Japanese Navy's surprise attack on Pearl Harbor, and one day after the bombardment of Ellwood near Santa Barbara on 23 February."
+  },
+  {
+   "s": "ellwood",
+   "p": "located_in",
+   "o": "goleta",
+   "quote": "on 23 February 1942, at 7:15 pm, during one of President Franklin D. Roosevelt's fireside chats, Japanese submarine I-17 surfaced near Santa Barbara, California, and shelled Ellwood Oil field in Goleta"
+  },
+  {
+   "s": "ellwood",
+   "p": "bombardment_date",
+   "v": "1942-02-23",
+   "quote": "The incident occurred less than three months after the U.S. entered World War II in response to the Imperial Japanese Navy's surprise attack on Pearl Harbor, and one day after the bombardment of Ellwood near Santa Barbara on 23 February."
+  },
+  {
+   "s": "ellwood",
+   "p": "bombardment_time",
+   "v": "7:15 pm",
+   "quote": "on 23 February 1942, at 7:15 pm, during one of President Franklin D. Roosevelt's fireside chats, Japanese submarine I-17 surfaced near Santa Barbara, California, and shelled Ellwood Oil field in Goleta"
+  },
+  {
+   "s": "ellwood",
+   "p": "property_damage",
+   "v": "$500 (equivalent to $9,900 in 2025)",
+   "quote": "Although damage was minimal (only $500 in property damage (equivalent to $9,900 in 2025) and no injuries) the attack had a profound effect on the public imagination, as West Coast residents came to believe that the Japanese could storm their beaches at any moment."
+  },
+  {
+   "s": "ellwood",
+   "p": "injuries",
+   "v": "none",
+   "quote": "Although damage was minimal (only $500 in property damage (equivalent to $9,900 in 2025) and no injuries) the attack had a profound effect on the public imagination, as West Coast residents came to believe that the Japanese could storm their beaches at any moment."
+  },
+  {
+   "s": "ellwood",
+   "p": "effect",
+   "v": "profound effect on the public imagination; West Coast residents came to believe the Japanese could storm their beaches at any moment",
+   "quote": "Although damage was minimal (only $500 in property damage (equivalent to $9,900 in 2025) and no injuries) the attack had a profound effect on the public imagination, as West Coast residents came to believe that the Japanese could storm their beaches at any moment."
+  },
+  {
+   "s": "goleta",
+   "p": "related_place",
+   "o": "case",
+   "quote": "on 23 February 1942, at 7:15 pm, during one of President Franklin D. Roosevelt's fireside chats, Japanese submarine I-17 surfaced near Santa Barbara, California, and shelled Ellwood Oil field in Goleta"
+  },
+  {
+   "s": "sb",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The incident occurred less than three months after the U.S. entered World War II in response to the Imperial Japanese Navy's surprise attack on Pearl Harbor, and one day after the bombardment of Ellwood near Santa Barbara on 23 February."
+  },
+  {
+   "s": "ellwood",
+   "p": "near",
+   "o": "sb",
+   "quote": "The incident occurred less than three months after the U.S. entered World War II in response to the Imperial Japanese Navy's surprise attack on Pearl Harbor, and one day after the bombardment of Ellwood near Santa Barbara on 23 February."
+  },
+  {
+   "s": "westcoast",
+   "p": "related_place",
+   "o": "case",
+   "quote": "especially on the West Coast, where fears of a Japanese attack on or invasion of the U.S. continent were acknowledged as realistic possibilities"
+  },
+  {
+   "s": "juneau",
+   "p": "related_place",
+   "o": "case",
+   "quote": "In Juneau, Alaska, residents were told to cover their windows for a nightly blackout after rumors spread that Japanese submarines were lurking along the southeast Alaskan coast."
+  },
+  {
+   "s": "juneau",
+   "p": "event",
+   "v": "residents told to cover windows for a nightly blackout after rumors of Japanese submarines along the southeast Alaskan coast",
+   "quote": "In Juneau, Alaska, residents were told to cover their windows for a nightly blackout after rumors spread that Japanese submarines were lurking along the southeast Alaskan coast."
+  },
+  {
+   "s": "alaska",
+   "p": "related_place",
+   "o": "case",
+   "quote": "In Juneau, Alaska, residents were told to cover their windows for a nightly blackout after rumors spread that Japanese submarines were lurking along the southeast Alaskan coast."
+  },
+  {
+   "s": "juneau",
+   "p": "located_in",
+   "o": "alaska",
+   "quote": "In Juneau, Alaska, residents were told to cover their windows for a nightly blackout after rumors spread that Japanese submarines were lurking along the southeast Alaskan coast."
+  },
+  {
+   "s": "sfbay",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Rumors that a Japanese aircraft carrier was cruising off the coast of the San Francisco Bay Area resulted in the city of Oakland closing its schools and issuing a blackout; civil defense sirens mounted on patrol cars from the Oakland Police Department blared through the city, and radio silence was ordered."
+  },
+  {
+   "s": "sfbay",
+   "p": "rumor",
+   "v": "a Japanese aircraft carrier was cruising off the coast",
+   "quote": "Rumors that a Japanese aircraft carrier was cruising off the coast of the San Francisco Bay Area resulted in the city of Oakland closing its schools and issuing a blackout; civil defense sirens mounted on patrol cars from the Oakland Police Department blared through the city, and radio silence was ordered."
+  },
+  {
+   "s": "oakland",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Rumors that a Japanese aircraft carrier was cruising off the coast of the San Francisco Bay Area resulted in the city of Oakland closing its schools and issuing a blackout; civil defense sirens mounted on patrol cars from the Oakland Police Department blared through the city, and radio silence was ordered."
+  },
+  {
+   "s": "oakland",
+   "p": "event",
+   "v": "closed its schools and issued a blackout; radio silence was ordered",
+   "quote": "Rumors that a Japanese aircraft carrier was cruising off the coast of the San Francisco Bay Area resulted in the city of Oakland closing its schools and issuing a blackout; civil defense sirens mounted on patrol cars from the Oakland Police Department blared through the city, and radio silence was ordered."
+  },
+  {
+   "s": "seattle",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The city of Seattle also imposed a blackout of all buildings and vehicles, and owners who left the lights on in their buildings had their businesses smashed by a mob of 2,000 residents."
+  },
+  {
+   "s": "seattle",
+   "p": "event",
+   "v": "imposed a blackout of all buildings and vehicles; a mob of 2,000 residents smashed businesses that left lights on",
+   "quote": "The city of Seattle also imposed a blackout of all buildings and vehicles, and owners who left the lights on in their buildings had their businesses smashed by a mob of 2,000 residents."
+  },
+  {
+   "s": "seattle",
+   "p": "mob_size",
+   "v": "2,000 residents",
+   "quote": "The city of Seattle also imposed a blackout of all buildings and vehicles, and owners who left the lights on in their buildings had their businesses smashed by a mob of 2,000 residents."
+  },
+  {
+   "s": "disney",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The rumors were taken so seriously that 500 United States Army troops moved into the Walt Disney Studios lot in Burbank, California, to defend the famed Hollywood facility and nearby factories against enemy sabotage or air attacks."
+  },
+  {
+   "s": "disney",
+   "p": "located_in",
+   "o": "burbank",
+   "quote": "The rumors were taken so seriously that 500 United States Army troops moved into the Walt Disney Studios lot in Burbank, California, to defend the famed Hollywood facility and nearby factories against enemy sabotage or air attacks."
+  },
+  {
+   "s": "disney",
+   "p": "troops_stationed",
+   "v": "500 United States Army troops",
+   "quote": "The rumors were taken so seriously that 500 United States Army troops moved into the Walt Disney Studios lot in Burbank, California, to defend the famed Hollywood facility and nearby factories against enemy sabotage or air attacks."
+  },
+  {
+   "s": "burbank",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The rumors were taken so seriously that 500 United States Army troops moved into the Walt Disney Studios lot in Burbank, California, to defend the famed Hollywood facility and nearby factories against enemy sabotage or air attacks."
+  },
+  {
+   "s": "hollywood",
+   "p": "related_place",
+   "o": "case",
+   "quote": "There were reports, to be sure, that four enemy planes had been shot down, and one was supposed to have landed in flames at a Hollywood intersection."
+  },
+  {
+   "s": "hollywood",
+   "p": "report",
+   "v": "one enemy plane was supposed to have landed in flames at a Hollywood intersection",
+   "quote": "There were reports, to be sure, that four enemy planes had been shot down, and one was supposed to have landed in flames at a Hollywood intersection."
+  },
+  {
+   "s": "dutch",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Less than four months later, Japanese forces bombed Dutch Harbor in Unalaska, Alaska, and landed troops in the Aleutian Islands of Kiska and Attu"
+  },
+  {
+   "s": "dutch",
+   "p": "located_in",
+   "o": "unalaska",
+   "quote": "Less than four months later, Japanese forces bombed Dutch Harbor in Unalaska, Alaska, and landed troops in the Aleutian Islands of Kiska and Attu"
+  },
+  {
+   "s": "unalaska",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Less than four months later, Japanese forces bombed Dutch Harbor in Unalaska, Alaska, and landed troops in the Aleutian Islands of Kiska and Attu"
+  },
+  {
+   "s": "unalaska",
+   "p": "located_in",
+   "o": "alaska",
+   "quote": "Less than four months later, Japanese forces bombed Dutch Harbor in Unalaska, Alaska, and landed troops in the Aleutian Islands of Kiska and Attu"
+  },
+  {
+   "s": "aleutians",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Less than four months later, Japanese forces bombed Dutch Harbor in Unalaska, Alaska, and landed troops in the Aleutian Islands of Kiska and Attu"
+  },
+  {
+   "s": "kiska",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Less than four months later, Japanese forces bombed Dutch Harbor in Unalaska, Alaska, and landed troops in the Aleutian Islands of Kiska and Attu"
+  },
+  {
+   "s": "kiska",
+   "p": "part_of",
+   "o": "aleutians",
+   "quote": "Less than four months later, Japanese forces bombed Dutch Harbor in Unalaska, Alaska, and landed troops in the Aleutian Islands of Kiska and Attu"
+  },
+  {
+   "s": "attu",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Less than four months later, Japanese forces bombed Dutch Harbor in Unalaska, Alaska, and landed troops in the Aleutian Islands of Kiska and Attu"
+  },
+  {
+   "s": "attu",
+   "p": "part_of",
+   "o": "aleutians",
+   "quote": "Less than four months later, Japanese forces bombed Dutch Harbor in Unalaska, Alaska, and landed troops in the Aleutian Islands of Kiska and Attu"
+  },
+  {
+   "s": "lacounty",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Air raid sirens sounded at 2:25 am throughout Los Angeles County."
+  },
+  {
+   "s": "sm",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "At 0306 a balloon carrying a red flare was seen over Santa Monica and four batteries of anti-aircraft artillery opened fire, whereupon \"the air over Los Angeles erupted like a volcano.\""
+  },
+  {
+   "s": "ford",
+   "p": "located_in",
+   "o": "sm",
+   "quote": "Representative Leland M. Ford of Santa Monica called for a Congressional investigation, saying \"none of the explanations so far offered removed the episode from the category of 'complete mystification'"
+  },
+  {
+   "s": "mexico",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Theories included a secret base in northern Mexico as well as Japanese submarines stationed offshore with the capability of carrying planes."
+  },
+  {
+   "s": "socal",
+   "p": "related_place",
+   "o": "case",
+   "quote": "this was either a practice raid, or a raid to throw a scare into 2,000,000 people, or a mistaken identity raid, or a raid to lay a political foundation to take away Southern California's war industries."
+  },
+  {
+   "s": "laharbor",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Every February, the Fort MacArthur Museum, located at the entrance to Los Angeles Harbor, hosts an entertainment event called \"The Great LA Air Raid of 1942\"."
+  },
+  {
+   "s": "i17",
+   "p": "related_vehicle",
+   "o": "case",
+   "quote": "on 23 February 1942, at 7:15 pm, during one of President Franklin D. Roosevelt's fireside chats, Japanese submarine I-17 surfaced near Santa Barbara, California, and shelled Ellwood Oil field in Goleta"
+  },
+  {
+   "s": "i17",
+   "p": "action",
+   "v": "surfaced near Santa Barbara, California, and shelled Ellwood Oil field in Goleta on 23 February 1942 at 7:15 pm",
+   "quote": "on 23 February 1942, at 7:15 pm, during one of President Franklin D. Roosevelt's fireside chats, Japanese submarine I-17 surfaced near Santa Barbara, California, and shelled Ellwood Oil field in Goleta"
+  },
+  {
+   "s": "agwiworld",
+   "p": "related_vehicle",
+   "o": "case",
+   "quote": "SS Agwiworld (escaped)"
+  },
+  {
+   "s": "agwiworld",
+   "p": "fate",
+   "v": "escaped",
+   "quote": "SS Agwiworld (escaped)"
+  },
+  {
+   "s": "emidio",
+   "p": "related_vehicle",
+   "o": "case",
+   "quote": "SS Emidio (damaged)"
+  },
+  {
+   "s": "emidio",
+   "p": "fate",
+   "v": "damaged",
+   "quote": "SS Emidio (damaged)"
+  },
+  {
+   "s": "samoa",
+   "p": "related_vehicle",
+   "o": "case",
+   "quote": "SS Samoa (escaped)"
+  },
+  {
+   "s": "samoa",
+   "p": "fate",
+   "v": "escaped",
+   "quote": "SS Samoa (escaped)"
+  },
+  {
+   "s": "doheny",
+   "p": "related_vehicle",
+   "o": "case",
+   "quote": "SS Larry Doheny (sank)"
+  },
+  {
+   "s": "doheny",
+   "p": "fate",
+   "v": "sank",
+   "quote": "SS Larry Doheny (sank)"
+  },
+  {
+   "s": "phillips",
+   "p": "related_vehicle",
+   "o": "case",
+   "quote": "SS Dorothy Phillips (damaged)"
+  },
+  {
+   "s": "phillips",
+   "p": "fate",
+   "v": "damaged",
+   "quote": "SS Dorothy Phillips (damaged)"
+  },
+  {
+   "s": "storey",
+   "p": "related_vehicle",
+   "o": "case",
+   "quote": "SS H.M. Storey (escaped, sank later)"
+  },
+  {
+   "s": "storey",
+   "p": "fate",
+   "v": "escaped, sank later",
+   "quote": "SS H.M. Storey (escaped, sank later)"
+  },
+  {
+   "s": "colson",
+   "p": "related_vehicle",
+   "o": "case",
+   "quote": "SS Cynthia Olson (sank)"
+  },
+  {
+   "s": "colson",
+   "p": "fate",
+   "v": "sank",
+   "quote": "SS Cynthia Olson (sank)"
+  },
+  {
+   "s": "camden",
+   "p": "related_vehicle",
+   "o": "case",
+   "quote": "SS Camden (sank)"
+  },
+  {
+   "s": "camden",
+   "p": "fate",
+   "v": "sank",
+   "quote": "SS Camden (sank)"
+  },
+  {
+   "s": "absaroka",
+   "p": "related_vehicle",
+   "o": "case",
+   "quote": "SS Absaroka (damaged)"
+  },
+  {
+   "s": "absaroka",
+   "p": "fate",
+   "v": "damaged",
+   "quote": "SS Absaroka (damaged)"
+  },
+  {
+   "s": "coasttrader",
+   "p": "related_vehicle",
+   "o": "case",
+   "quote": "Coast Trader (sank)"
+  },
+  {
+   "s": "coasttrader",
+   "p": "fate",
+   "v": "sank",
+   "quote": "Coast Trader (sank)"
+  },
+  {
+   "s": "montebello",
+   "p": "related_vehicle",
+   "o": "case",
+   "quote": "SS Montebello (sank)"
+  },
+  {
+   "s": "montebello",
+   "p": "fate",
+   "v": "sank",
+   "quote": "SS Montebello (sank)"
+  },
+  {
+   "s": "bolson",
+   "p": "related_vehicle",
+   "o": "case",
+   "quote": "SS Barbara Olson (escaped)"
+  },
+  {
+   "s": "bolson",
+   "p": "fate",
+   "v": "escaped",
+   "quote": "SS Barbara Olson (escaped)"
+  },
+  {
+   "s": "connecticut",
+   "p": "related_vehicle",
+   "o": "case",
+   "quote": "SS Connecticut  (damaged)"
+  },
+  {
+   "s": "connecticut",
+   "p": "fate",
+   "v": "damaged",
+   "quote": "SS Connecticut  (damaged)"
+  },
+  {
+   "s": "idaho",
+   "p": "related_vehicle",
+   "o": "case",
+   "quote": "SS Idaho (minor damage)"
+  },
+  {
+   "s": "idaho",
+   "p": "fate",
+   "v": "minor damage",
+   "quote": "SS Idaho (minor damage)"
+  },
+  {
+   "s": "photo",
+   "p": "key_document",
+   "o": "case",
+   "quote": "A photo published in the Los Angeles Times on February 26, 1942, has been featured in UFO conspiracy theories as evidence of an extraterrestrial visitation."
+  },
+  {
+   "s": "photo",
+   "p": "publication_date",
+   "v": "1942-02-26",
+   "quote": "A photo published in the Los Angeles Times on February 26, 1942, has been featured in UFO conspiracy theories as evidence of an extraterrestrial visitation."
+  },
+  {
+   "s": "photo",
+   "p": "ufology_claim",
+   "v": "clearly shows searchlights focused on an alleged alien spaceship",
+   "quote": "They assert that the photo clearly shows searchlights focused on an alleged alien spaceship; however, the photo was heavily modified by photo retouching prior to publication, a routine practice in graphic arts of the time intended to improve contrast in black and white photos."
+  },
+  {
+   "s": "photo",
+   "p": "alteration",
+   "v": "heavily modified by photo retouching prior to publication, to improve contrast",
+   "quote": "They assert that the photo clearly shows searchlights focused on an alleged alien spaceship; however, the photo was heavily modified by photo retouching prior to publication, a routine practice in graphic arts of the time intended to improve contrast in black and white photos."
+  },
+  {
+   "s": "photo",
+   "p": "color",
+   "v": "black and white",
+   "quote": "They assert that the photo clearly shows searchlights focused on an alleged alien spaceship; however, the photo was heavily modified by photo retouching prior to publication, a routine practice in graphic arts of the time intended to improve contrast in black and white photos."
+  },
+  {
+   "s": "photo",
+   "p": "alteration",
+   "v": "white paint added to define where the searchlights converged, later misinterpreted by UFOlogists as a UFO",
+   "quote": "White paint added to define where the searchlights converged was misinterpreted by UFOlogists many years later as a UFO."
+  },
+  {
+   "s": "photo",
+   "p": "later_use",
+   "v": "presented with faked newspaper headlines as true historical material in trailers for the 2011 film Battle: Los Angeles",
+   "quote": "Times writer Larry Harnisch noted that the retouched photo along with faked newspaper headlines were presented as true historical material in trailers for the 2011 film Battle: Los Angeles."
+  },
+  {
+   "s": "editorial",
+   "p": "key_document",
+   "o": "case",
+   "quote": "An editorial in the Long Beach Independent wrote, \"There is a mysterious reticence about the whole affair and it appears that some form of censorship is trying to halt discussion on the matter.\""
+  },
+  {
+   "s": "editorial",
+   "p": "statement",
+   "v": "There is a mysterious reticence about the whole affair and it appears that some form of censorship is trying to halt discussion on the matter.",
+   "quote": "An editorial in the Long Beach Independent wrote, \"There is a mysterious reticence about the whole affair and it appears that some form of censorship is trying to halt discussion on the matter.\""
+  },
+  {
+   "s": "w1941",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "1941 – A 1979 film by Steven Spielberg, loosely based on the Battle of Los Angeles"
+  },
+  {
+   "s": "spielberg",
+   "p": "authored",
+   "o": "w1941",
+   "quote": "1941 – A 1979 film by Steven Spielberg, loosely based on the Battle of Los Angeles"
+  },
+  {
+   "s": "w1941",
+   "p": "year",
+   "v": "1979",
+   "quote": "1941 – A 1979 film by Steven Spielberg, loosely based on the Battle of Los Angeles"
+  },
+  {
+   "s": "w1941",
+   "p": "medium",
+   "v": "film",
+   "quote": "1941 – A 1979 film by Steven Spielberg, loosely based on the Battle of Los Angeles"
+  },
+  {
+   "s": "storm",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "This Storm – A 2019 novel by James Ellroy set in 1942, chronicles the Battle of Los Angeles."
+  },
+  {
+   "s": "ellroy",
+   "p": "authored",
+   "o": "storm",
+   "quote": "This Storm – A 2019 novel by James Ellroy set in 1942, chronicles the Battle of Los Angeles."
+  },
+  {
+   "s": "storm",
+   "p": "year",
+   "v": "2019",
+   "quote": "This Storm – A 2019 novel by James Ellroy set in 1942, chronicles the Battle of Los Angeles."
+  },
+  {
+   "s": "storm",
+   "p": "medium",
+   "v": "novel",
+   "quote": "This Storm – A 2019 novel by James Ellroy set in 1942, chronicles the Battle of Los Angeles."
+  },
+  {
+   "s": "bla",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Times writer Larry Harnisch noted that the retouched photo along with faked newspaper headlines were presented as true historical material in trailers for the 2011 film Battle: Los Angeles."
+  },
+  {
+   "s": "bla",
+   "p": "year",
+   "v": "2011",
+   "quote": "Battle: Los Angeles – a 2011 American science fiction film about a fictional alien invasion in modern Los Angeles"
+  },
+  {
+   "s": "bla",
+   "p": "medium",
+   "v": "American science fiction film about a fictional alien invasion in modern Los Angeles",
+   "quote": "Battle: Los Angeles – a 2011 American science fiction film about a fictional alien invasion in modern Los Angeles"
+  },
+  {
+   "s": "bla",
+   "p": "trailers",
+   "v": "presented the retouched photo and faked newspaper headlines as true historical material",
+   "quote": "Times writer Larry Harnisch noted that the retouched photo along with faked newspaper headlines were presented as true historical material in trailers for the 2011 film Battle: Los Angeles."
+  },
+  {
+   "s": "skeptoid",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Dunning, Brian (15 September 2009). \"Skeptoid #171: The Battle of Los Angeles\". Skeptoid."
+  },
+  {
+   "s": "dunning",
+   "p": "authored",
+   "o": "skeptoid",
+   "quote": "Dunning, Brian (15 September 2009). \"Skeptoid #171: The Battle of Los Angeles\". Skeptoid."
+  },
+  {
+   "s": "skeptoid",
+   "p": "date",
+   "v": "2009-09-15",
+   "quote": "Dunning, Brian (15 September 2009). \"Skeptoid #171: The Battle of Los Angeles\". Skeptoid."
+  },
+  {
+   "s": "contrail",
+   "p": "related_case",
+   "o": "case",
+   "quote": "2010 California contrail incident – Aviation and aerial phenomenon-related incident"
+  },
+  {
+   "s": "f_photo",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "A photo published in the Los Angeles Times on February 26, 1942, has been featured in UFO conspiracy theories as evidence of an extraterrestrial visitation."
+  },
+  {
+   "s": "f_cover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Newspapers of the time published a number of reports and speculations of a cover-up to conceal an actual invasion by enemy airplanes."
+  },
+  {
+   "s": "f_cover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Some contemporary press outlets suspected a cover-up of the truth."
+  },
+  {
+   "s": "f_death",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Several buildings and vehicles were damaged by shell fragments, and five civilians died as an indirect result of the anti-aircraft fire: three were killed in car crashes in the ensuing chaos and two of heart attacks attributed to the stress of the hour-long action."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "\"swarms\" of planes (or, sometimes, balloons) of all possible sizes, numbering from one to several hundred, traveling at altitudes which ranged from a few thousand feet to more than 20,000 and flying at speeds which were said to have varied from \"very slow\" to over 200 miles per hour, were observed to parade across the skies."
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "At 0306 a balloon carrying a red flare was seen over Santa Monica and four batteries of anti-aircraft artillery opened fire, whereupon \"the air over Los Angeles erupted like a volcano.\""
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In 1983, the U.S. Office of Air Force History concluded that an analysis of the evidence points to meteorological balloons as the cause of the initial alarm"
+  },
+  {
+   "s": "f_shot",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "At 3:16 am, the 37th Coast Artillery Brigade began firing .50-caliber machine guns and 12.8-pound (5.8 kg) anti-aircraft shells into the air at reported aircraft; over 1,400 shells were eventually fired."
+  },
+  {
+   "s": "f_retouch",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "They assert that the photo clearly shows searchlights focused on an alleged alien spaceship; however, the photo was heavily modified by photo retouching prior to publication, a routine practice in graphic arts of the time intended to improve contrast in black and white photos."
+  },
+  {
+   "s": "x_balloon",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "In 1983, the U.S. Office of Air Force History concluded that an analysis of the evidence points to meteorological balloons as the cause of the initial alarm"
+  },
+  {
+   "s": "caa",
+   "p": "proposed",
+   "o": "x_balloon",
+   "quote": "When documenting the incident in 1949, the United States Coast Artillery Association identified a meteorological balloon sent aloft at 1:00 am as having \"started all the shooting\" and concluded that \"once the firing started, imagination created all kinds of targets in the sky and everyone joined in\"."
+  },
+  {
+   "s": "oafh",
+   "p": "proposed",
+   "o": "x_balloon",
+   "quote": "In 1983, the U.S. Office of Air Force History concluded that an analysis of the evidence points to meteorological balloons as the cause of the initial alarm"
+  },
+  {
+   "s": "x_psych",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Within hours of the end of the air raid, Secretary of the Navy Frank Knox held a press conference, saying the entire incident had been a false alarm due to anxiety and \"war nerves\"."
+  },
+  {
+   "s": "knox",
+   "p": "proposed",
+   "o": "x_psych",
+   "quote": "Within hours of the end of the air raid, Secretary of the Navy Frank Knox held a press conference, saying the entire incident had been a false alarm due to anxiety and \"war nerves\"."
+  },
+  {
+   "s": "oafh",
+   "p": "proposed",
+   "o": "x_psych",
+   "quote": "In 1983, the U.S. Office of Air Force History attributed the event to a case of \"war nerves\" triggered by a lost weather balloon and exacerbated by stray flares and shell bursts from adjoining batteries."
+  },
+  {
+   "s": "x_misp",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Probably much of the confusion came from the fact that anti-aircraft shell bursts, caught by the searchlights, were themselves mistaken for enemy planes."
+  },
+  {
+   "s": "caa",
+   "p": "proposed",
+   "o": "x_misp",
+   "quote": "When documenting the incident in 1949, the United States Coast Artillery Association identified a meteorological balloon sent aloft at 1:00 am as having \"started all the shooting\" and concluded that \"once the firing started, imagination created all kinds of targets in the sky and everyone joined in\"."
+  },
+  {
+   "s": "oafh",
+   "p": "proposed",
+   "o": "x_misp",
+   "quote": "Probably much of the confusion came from the fact that anti-aircraft shell bursts, caught by the searchlights, were themselves mistaken for enemy planes."
+  },
+  {
+   "s": "x_flares",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "In 1983, the U.S. Office of Air Force History attributed the event to a case of \"war nerves\" triggered by a lost weather balloon and exacerbated by stray flares and shell bursts from adjoining batteries."
+  },
+  {
+   "s": "oafh",
+   "p": "proposed",
+   "o": "x_flares",
+   "quote": "In 1983, the U.S. Office of Air Force History attributed the event to a case of \"war nerves\" triggered by a lost weather balloon and exacerbated by stray flares and shell bursts from adjoining batteries."
+  },
+  {
+   "s": "x_aircraft",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Knox's comments were followed by statements from the Army the next day that reflected General George C. Marshall's supposition that the incident might have been caused by enemy agents using commercial airplanes in a psychological warfare campaign to generate mass panic."
+  },
+  {
+   "s": "marshall",
+   "p": "proposed",
+   "o": "x_aircraft",
+   "quote": "Knox's comments were followed by statements from the Army the next day that reflected General George C. Marshall's supposition that the incident might have been caused by enemy agents using commercial airplanes in a psychological warfare campaign to generate mass panic."
+  },
+  {
+   "s": "x_exercise",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "this was either a practice raid, or a raid to throw a scare into 2,000,000 people, or a mistaken identity raid, or a raid to lay a political foundation to take away Southern California's war industries."
+  },
+  {
+   "s": "ford",
+   "p": "proposed",
+   "o": "x_exercise",
+   "quote": "this was either a practice raid, or a raid to throw a scare into 2,000,000 people, or a mistaken identity raid, or a raid to lay a political foundation to take away Southern California's war industries."
+  },
+  {
+   "s": "x_search",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "White paint added to define where the searchlights converged was misinterpreted by UFOlogists many years later as a UFO."
+  },
+  {
+   "s": "x_retouch",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "White paint added to define where the searchlights converged was misinterpreted by UFOlogists many years later as a UFO."
+  },
+  {
+   "s": "x_false",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The Navy immediately insisted that there was no evidence of the presence of enemy planes, and [Secretary of the Navy], Frank Knox announced at a press conference on 25 February that the raid was just a false alarm."
+  },
+  {
+   "s": "knox",
+   "p": "proposed",
+   "o": "x_false",
+   "quote": "speaking at a press conference shortly afterward, Secretary of the Navy Frank Knox called the purported attack a \"false alarm\""
+  },
+  {
+   "s": "x_staged",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Others speculated that the incident was either staged or exaggerated to give coastal defense industries an excuse to move further inland."
+  }
+ ]
+}

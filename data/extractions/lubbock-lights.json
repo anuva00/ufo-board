@@ -1,0 +1,2085 @@
+{
+ "slug": "lubbock-lights",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Lubbock Lights",
+   "aliases": [
+    "Lubbock Lights incident",
+    "The Lubbock Lights"
+   ],
+   "description": "Formation of lights seen over Lubbock, Texas in August and September 1951, photographed by Carl Hart, Jr. and investigated by the U.S. Air Force."
+  },
+  {
+   "key": "lubbock",
+   "type": "place",
+   "name": "Lubbock, Texas",
+   "aliases": [
+    "Lubbock",
+    "city of Lubbock"
+   ],
+   "description": "City over which the lights were seen"
+  },
+  {
+   "key": "texas",
+   "type": "place",
+   "name": "Texas",
+   "description": "U.S. state in which Lubbock and Dallas are located"
+  },
+  {
+   "key": "usa",
+   "type": "place",
+   "name": "United States",
+   "description": "Country in which the incident received national publicity"
+  },
+  {
+   "key": "wpafb",
+   "type": "place",
+   "name": "Wright-Patterson Air Force Base",
+   "description": "Air Force base in Ohio whose physics laboratory analyzed the Hart photographs"
+  },
+  {
+   "key": "ohio",
+   "type": "place",
+   "name": "Ohio",
+   "description": "State in which Wright-Patterson Air Force Base is located"
+  },
+  {
+   "key": "dallas",
+   "type": "place",
+   "name": "Dallas, Texas",
+   "aliases": [
+    "Dallas"
+   ],
+   "description": "City where television station KDFW is based"
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "aliases": [
+    "U.S. Air Force",
+    "US Air Force",
+    "Air Force"
+   ],
+   "description": "Military branch that investigated the Lubbock Lights"
+  },
+  {
+   "key": "bluebook",
+   "type": "program",
+   "name": "Project Blue Book",
+   "description": "Air Force project, supervised by Ruppelt, under which the lights were investigated"
+  },
+  {
+   "key": "ttu",
+   "type": "organization",
+   "name": "Texas Tech University",
+   "aliases": [
+    "Texas Technological College",
+    "Texas Tech"
+   ],
+   "description": "College in Lubbock whose professors and student reported the lights"
+  },
+  {
+   "key": "ttu_bio",
+   "type": "organization",
+   "name": "Texas Tech biology department",
+   "aliases": [
+    "Texas Tech's biology department"
+   ],
+   "description": "Department headed by J.C. Cross"
+  },
+  {
+   "key": "avalanche",
+   "type": "organization",
+   "name": "Lubbock Avalanche-Journal",
+   "description": "Local Lubbock newspaper that received the professors' report and bought and published the Hart photographs"
+  },
+  {
+   "key": "life",
+   "type": "organization",
+   "name": "Life",
+   "aliases": [
+    "Life magazine"
+   ],
+   "description": "Magazine that reprinted the Hart photographs and published an April 1952 article featuring the Lubbock Lights"
+  },
+  {
+   "key": "kdfw",
+   "type": "organization",
+   "name": "KDFW",
+   "description": "Dallas, Texas-based television station that aired a 1999 news story about the Lubbock Lights"
+  },
+  {
+   "key": "scifi",
+   "type": "organization",
+   "name": "Sci Fi Channel",
+   "aliases": [
+    "Sci-Fi Channel"
+   ],
+   "description": "Channel of the 2002 miniseries Taken"
+  },
+  {
+   "key": "history",
+   "type": "organization",
+   "name": "History Channel",
+   "description": "Channel of the 2019 television series Project Blue Book"
+  },
+  {
+   "key": "tsc",
+   "type": "organization",
+   "name": "Thrift Store Cowboys",
+   "description": "Lubbock-based alternative country band that recorded a song titled \"Lubbock Lights\""
+  },
+  {
+   "key": "ruppelt",
+   "type": "person",
+   "name": "Edward J. Ruppelt",
+   "aliases": [
+    "Captain Edward J. Ruppelt",
+    "Ruppelt"
+   ],
+   "description": "Air Force captain and supervisor of Project Blue Book who investigated the Lubbock Lights"
+  },
+  {
+   "key": "oberg",
+   "type": "person",
+   "name": "A. G. Oberg",
+   "aliases": [
+    "Oberg"
+   ],
+   "description": "Texas Tech professor and chemical engineer, one of the three professors who reported the first sighting"
+  },
+  {
+   "key": "ducker",
+   "type": "person",
+   "name": "W. L. Ducker",
+   "aliases": [
+    "Ducker"
+   ],
+   "description": "Texas Tech department head and petroleum engineer, one of the three professors who reported the first sighting"
+  },
+  {
+   "key": "robinson",
+   "type": "person",
+   "name": "W. I. Robinson",
+   "aliases": [
+    "Robinson"
+   ],
+   "description": "Texas Tech geologist who reported the professors' sighting to the Lubbock Avalanche-Journal"
+  },
+  {
+   "key": "clark",
+   "type": "person",
+   "name": "Jerome Clark",
+   "aliases": [
+    "Clark"
+   ],
+   "description": "UFO author who wrote about the Lubbock Lights"
+  },
+  {
+   "key": "hemminger",
+   "type": "person",
+   "name": "Carl Hemminger",
+   "description": "Professor of German at Texas Tech who reported flashing lights on the night of the first sighting"
+  },
+  {
+   "key": "heineman",
+   "type": "person",
+   "name": "E. Richard Heineman",
+   "description": "Mathematics professor present at the September 5, 1951 sighting"
+  },
+  {
+   "key": "mead",
+   "type": "person",
+   "name": "Grayson Mead",
+   "aliases": [
+    "Mead"
+   ],
+   "description": "Professor who observed the lights and disputed the plover explanation"
+  },
+  {
+   "key": "hart",
+   "type": "person",
+   "name": "Carl Hart, Jr.",
+   "aliases": [
+    "Carl Hart",
+    "Hart"
+   ],
+   "description": "Texas Tech freshman who photographed the lights on August 30, 1951"
+  },
+  {
+   "key": "harris",
+   "type": "person",
+   "name": "Jay Harris",
+   "description": "Editor of the Lubbock Avalanche-Journal who bought the Hart photographs"
+  },
+  {
+   "key": "snider",
+   "type": "person",
+   "name": "T. E. Snider",
+   "aliases": [
+    "Snider"
+   ],
+   "description": "Local farmer who observed birds flying over a drive-in movie theater on August 31, 1951"
+  },
+  {
+   "key": "bryant",
+   "type": "person",
+   "name": "Joe Bryant",
+   "aliases": [
+    "the Bryants"
+   ],
+   "description": "Witness who, with his wife, identified lights circling his home as plovers"
+  },
+  {
+   "key": "hynek",
+   "type": "person",
+   "name": "J. Allen Hynek",
+   "aliases": [
+    "Hynek"
+   ],
+   "description": "Astronomer and Project Blue Book scientific consultant who later contacted one of the professors"
+  },
+  {
+   "key": "cross",
+   "type": "person",
+   "name": "J.C. Cross",
+   "aliases": [
+    "J. C. Cross"
+   ],
+   "description": "Head of Texas Tech's biology department who said the sightings could not have been birds"
+  },
+  {
+   "key": "hams",
+   "type": "person",
+   "name": "William Hams",
+   "description": "Chief photographer for the Lubbock Avalanche-Journal who tried to duplicate Hart's photos"
+  },
+  {
+   "key": "ray",
+   "type": "person",
+   "name": "Richard Ray",
+   "description": "Reporter who interviewed Carl Hart, Jr. for KDFW's 1999 news story"
+  },
+  {
+   "key": "lights",
+   "type": "craft",
+   "name": "Formations of lights seen over Lubbock in August and September 1951",
+   "description": "Groups of lights reported flying overhead by the professors, Hart and others"
+  },
+  {
+   "key": "wing",
+   "type": "craft",
+   "name": "\"Flying wing\" seen over Lubbock",
+   "description": "Huge, soundless flying wing reported by several people in and around Lubbock, including Ducker's wife"
+  },
+  {
+   "key": "photos",
+   "type": "document",
+   "name": "Hart photographs",
+   "aliases": [
+    "Hart photos",
+    "the Hart photographs"
+   ],
+   "description": "Five photographs of the lights taken by Carl Hart, Jr. on August 30, 1951"
+  },
+  {
+   "key": "statement",
+   "type": "document",
+   "name": "Ruppelt's written statement to the press on the Hart photographs",
+   "description": "Statement that the photos were never proven to be a hoax nor proven genuine"
+  },
+  {
+   "key": "hams_photos",
+   "type": "document",
+   "name": "William Hams's nighttime photos of birds over Lubbock's street lights",
+   "description": "Test photographs taken to try to duplicate Hart's photos"
+  },
+  {
+   "key": "life_article",
+   "type": "work",
+   "name": "Life magazine article about the UFO phenomenon (April 1952)",
+   "description": "Article that featured the Lubbock Lights"
+  },
+  {
+   "key": "ruppelt_book",
+   "type": "work",
+   "name": "The Report on Unidentified Flying Objects",
+   "description": "Ruppelt's 1956 book, which devotes a chapter to the incident"
+  },
+  {
+   "key": "ufo_book",
+   "type": "work",
+   "name": "The UFO Book",
+   "description": "1998 book by Jerome Clark containing the entry \"The Lubbock Lights\""
+  },
+  {
+   "key": "mars",
+   "type": "work",
+   "name": "Invaders From Mars",
+   "description": "1953 film whose British release includes a scene discussing the Lubbock Lights"
+  },
+  {
+   "key": "kdfw_story",
+   "type": "work",
+   "name": "KDFW news story about the Lubbock Lights (November 1999)",
+   "description": "Television news story featuring an interview with Carl Hart, Jr."
+  },
+  {
+   "key": "taken",
+   "type": "work",
+   "name": "Taken",
+   "description": "2002 Sci Fi Channel miniseries that featured the Lubbock Lights"
+  },
+  {
+   "key": "film2005",
+   "type": "work",
+   "name": "Lubbock Lights (2005 film)",
+   "aliases": [
+    "Lubbock Lights"
+   ],
+   "description": "Film about the music scene in Lubbock that describes musicians' theories about the lights"
+  },
+  {
+   "key": "song",
+   "type": "work",
+   "name": "Lubbock Lights (Thrift Store Cowboys song)",
+   "aliases": [
+    "Lubbock Lights"
+   ],
+   "description": "2006 song by Thrift Store Cowboys"
+  },
+  {
+   "key": "album",
+   "type": "work",
+   "name": "Lay Low While Crawling or Creeping",
+   "description": "Third album by Thrift Store Cowboys, containing the song \"Lubbock Lights\""
+  },
+  {
+   "key": "pbb_series",
+   "type": "work",
+   "name": "Project Blue Book (TV series)",
+   "aliases": [
+    "Project Blue Book (2019 History Channel series)"
+   ],
+   "description": "2019 History Channel television series whose third episode is based on the incident"
+  },
+  {
+   "key": "pbb_episode",
+   "type": "work",
+   "name": "The Lubbock Lights (Project Blue Book episode)",
+   "aliases": [
+    "The Lubbock Lights"
+   ],
+   "description": "Third episode of the 2019 series Project Blue Book, based on the incident"
+  },
+  {
+   "key": "marfa",
+   "type": "case",
+   "name": "Marfa lights",
+   "description": "Other case listed under See also"
+  },
+  {
+   "key": "levelland",
+   "type": "case",
+   "name": "Levelland UFO case",
+   "description": "1957 report about 30 miles west of Lubbock"
+  },
+  {
+   "key": "f_lights",
+   "type": "feature",
+   "name": "lights-only",
+   "description": "Feature: lights-only"
+  },
+  {
+   "key": "f_photo",
+   "type": "feature",
+   "name": "photograph",
+   "description": "Feature: photograph"
+  },
+  {
+   "key": "f_radar",
+   "type": "feature",
+   "name": "radar-contact",
+   "description": "Feature: radar-contact"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "Feature: multiple-witnesses"
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Feature: official-investigation"
+  },
+  {
+   "key": "f_silent",
+   "type": "feature",
+   "name": "silent",
+   "description": "Feature: silent"
+  },
+  {
+   "key": "f_speed",
+   "type": "feature",
+   "name": "high-speed-maneuvers",
+   "description": "Feature: high-speed-maneuvers"
+  },
+  {
+   "key": "x_bird",
+   "type": "explanation",
+   "name": "bird-or-animal",
+   "description": "Migrating plovers reflecting Lubbock's new vapor street lights"
+  },
+  {
+   "key": "x_aircraft",
+   "type": "explanation",
+   "name": "conventional-aircraft",
+   "description": "US Air Force \"flying wing\" jet bomber, for at least some of the flying wing sightings"
+  },
+  {
+   "key": "x_natural",
+   "type": "explanation",
+   "name": "other:unspecified commonplace natural phenomenon",
+   "description": "Ruppelt's later statement that the lights were a commonplace natural phenomenon he could not divulge"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1951-08-25",
+   "quote": "Edward J. Ruppelt wrote that the first sighting was reported by three professors from Texas Technological College (now Texas Tech University), located in Lubbock on August 25, 1951, at around 9 pm."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1951-09",
+   "quote": "The Lubbock Lights were an unusual formation of lights seen over the city of Lubbock, Texas in August and September 1951."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "around 9 pm",
+   "quote": "Edward J. Ruppelt wrote that the first sighting was reported by three professors from Texas Technological College (now Texas Tech University), located in Lubbock on August 25, 1951, at around 9 pm."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "The Lubbock Lights incident received national publicity in the United States as a UFO sighting, and was investigated by the U.S. Air Force."
+  },
+  {
+   "s": "case",
+   "p": "description",
+   "v": "an unusual formation of lights seen over the city of Lubbock, Texas",
+   "quote": "The Lubbock Lights were an unusual formation of lights seen over the city of Lubbock, Texas in August and September 1951."
+  },
+  {
+   "s": "case",
+   "p": "publicity",
+   "v": "received national publicity in the United States as a UFO sighting",
+   "quote": "The Lubbock Lights incident received national publicity in the United States as a UFO sighting, and was investigated by the U.S. Air Force."
+  },
+  {
+   "s": "case",
+   "p": "official_status",
+   "v": "all of the sightings, except the UFO picked up on radar, are officially unknowns",
+   "quote": "According to Captain Edward J. Ruppelt, \"Officially all of the sightings, except the UFO that was picked up on radar, are unknowns.\""
+  },
+  {
+   "s": "case",
+   "p": "first_sighting_date",
+   "v": "1951-08-25",
+   "quote": "Edward J. Ruppelt wrote that the first sighting was reported by three professors from Texas Technological College (now Texas Tech University), located in Lubbock on August 25, 1951, at around 9 pm."
+  },
+  {
+   "s": "case",
+   "p": "first_sighting_witnesses",
+   "v": "three professors from Texas Technological College",
+   "quote": "Edward J. Ruppelt wrote that the first sighting was reported by three professors from Texas Technological College (now Texas Tech University), located in Lubbock on August 25, 1951, at around 9 pm."
+  },
+  {
+   "s": "case",
+   "p": "first_sighting_location",
+   "v": "the backyard of one of the professor's homes",
+   "quote": "they were sitting in the backyard of one of the professor's homes when they observed a total of 20–30 lights, as bright as stars but larger in size, flying overhead"
+  },
+  {
+   "s": "case",
+   "p": "meteors_ruled_out",
+   "v": "the professors immediately ruled out meteors as a possible cause",
+   "quote": "Ruppelt wrote that the professors immediately ruled out meteors as a possible cause for the sightings, and as they discussed their sighting a second, similar, group of lights flew overhead."
+  },
+  {
+   "s": "case",
+   "p": "second_group_of_lights",
+   "v": "a second, similar group of lights flew overhead as the professors discussed their sighting",
+   "quote": "Ruppelt wrote that the professors immediately ruled out meteors as a possible cause for the sightings, and as they discussed their sighting a second, similar, group of lights flew overhead."
+  },
+  {
+   "s": "case",
+   "p": "other_witnesses",
+   "v": "three women in Lubbock reported \"peculiar flashing lights\" in the sky on the same night as the professors' sighting",
+   "quote": "According to UFO author Jerome Clark, three women in Lubbock reported that they had observed \"peculiar flashing lights\" in the sky on the same night as the professors' sightings, as well as Carl Hemminger, a professor of German at Texas Tech."
+  },
+  {
+   "s": "case",
+   "p": "sighting_date",
+   "v": "1951-09-05",
+   "quote": "Clark writes that on September 5, 1951, all three men, along with E. Richard Heineman, a mathematics professor, and one other professor from Texas Tech, were sitting in Robinson's front yard when the lights flew overhead."
+  },
+  {
+   "s": "case",
+   "p": "september_5_sighting_location",
+   "v": "Robinson's front yard",
+   "quote": "Clark writes that on September 5, 1951, all three men, along with E. Richard Heineman, a mathematics professor, and one other professor from Texas Tech, were sitting in Robinson's front yard when the lights flew overhead."
+  },
+  {
+   "s": "case",
+   "p": "september_5_witnesses",
+   "v": "Oberg, Ducker, Robinson, E. Richard Heineman and one other professor from Texas Tech",
+   "quote": "Clark writes that on September 5, 1951, all three men, along with E. Richard Heineman, a mathematics professor, and one other professor from Texas Tech, were sitting in Robinson's front yard when the lights flew overhead."
+  },
+  {
+   "s": "case",
+   "p": "sighting_date",
+   "v": "1951-08-30",
+   "quote": "On the evening of August 30, 1951, Carl Hart, Jr., a freshman at Texas Tech, observed a group of 18–20 white lights in a \"v\" formation flying overhead."
+  },
+  {
+   "s": "case",
+   "p": "sighting_date",
+   "v": "1951-08-31",
+   "quote": "Witnesses who supported this assertion included T. E. Snider, a local farmer who on August 31, 1951, had observed birds flying over a drive-in movie theater; the birds' undersides were reflected in the light."
+  },
+  {
+   "s": "case",
+   "p": "street_lights",
+   "v": "the city of Lubbock had installed new vapor street lights in 1951",
+   "quote": "The city of Lubbock had installed new vapor street lights in 1951, and Ruppelt believed migrating plovers were reflecting the new street lights."
+  },
+  {
+   "s": "case",
+   "p": "investigation_start",
+   "v": "late September 1951",
+   "quote": "In late September 1951, Ruppelt learned about the Lubbock Lights and investigated them as part of Project Blue Book."
+  },
+  {
+   "s": "case",
+   "p": "game_warden_statement",
+   "v": "a game warden interviewed by Ruppelt claimed the sightings could not have been birds",
+   "quote": "J.C. Cross, the head of Texas Tech's biology department, and a game warden interviewed by Ruppelt both claimed the sightings could not have been birds."
+  },
+  {
+   "s": "case",
+   "p": "professor_statement_to_hynek",
+   "v": "one of the professors later told Hynek the lights were plovers",
+   "quote": "J. Allen Hynek, an astronomer and one of Project Blue Book's scientific consultants, later contacted one of the professors and learned that the professor claimed the lights were plovers."
+  },
+  {
+   "s": "case",
+   "p": "anonymous_scientist",
+   "v": "a scientist set up complete instrumentation to track down the lights and spent several months testing theories until he hit upon the answer",
+   "quote": "it is an interesting story of how a scientist set up complete instrumentation to track down the lights and how he spent several months testing theory after theory until he finally hit upon the answer"
+  },
+  {
+   "s": "case",
+   "p": "anonymous_scientist",
+   "v": "Ruppelt promised the scientist complete anonymity",
+   "quote": "Telling the story would lead to his identity and, in exchange for his story, I promised the man complete anonymity."
+  },
+  {
+   "s": "case",
+   "p": "flying_wing_reports",
+   "v": "several people in and around Lubbock claimed to have seen a \"flying wing\" moving over the city",
+   "quote": "While investigating the Lubbock Lights, Ruppelt also learned that several people in and around Lubbock claimed to have seen a \"flying wing\" moving over the city."
+  },
+  {
+   "s": "case",
+   "p": "flying_wing_witness",
+   "v": "the wife of Ducker reported that in August 1951 she observed a \"huge, soundless flying wing\" pass over her house",
+   "quote": "Among the witnesses was the wife of Ducker, who reported that in August 1951 she had observed a \"huge, soundless flying wing\" pass over her house."
+  },
+  {
+   "s": "case",
+   "p": "bryant_wife",
+   "v": "Joe Bryant's wife observed the groups of lights with him on August 25",
+   "quote": "Another pair of witnesses, Joe Bryant and his wife, on August 25 observed groups of lights flying overhead."
+  },
+  {
+   "s": "lubbock",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Lubbock Lights were an unusual formation of lights seen over the city of Lubbock, Texas in August and September 1951."
+  },
+  {
+   "s": "lubbock",
+   "p": "located_in",
+   "o": "texas",
+   "quote": "The Lubbock Lights were an unusual formation of lights seen over the city of Lubbock, Texas in August and September 1951."
+  },
+  {
+   "s": "texas",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Lubbock Lights were an unusual formation of lights seen over the city of Lubbock, Texas in August and September 1951."
+  },
+  {
+   "s": "usa",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Lubbock Lights incident received national publicity in the United States as a UFO sighting, and was investigated by the U.S. Air Force."
+  },
+  {
+   "s": "wpafb",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The physics laboratory at Wright-Patterson Air Force Base in Ohio analyzed the Hart photographs."
+  },
+  {
+   "s": "wpafb",
+   "p": "located_in",
+   "o": "ohio",
+   "quote": "The physics laboratory at Wright-Patterson Air Force Base in Ohio analyzed the Hart photographs."
+  },
+  {
+   "s": "ohio",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The physics laboratory at Wright-Patterson Air Force Base in Ohio analyzed the Hart photographs."
+  },
+  {
+   "s": "wpafb",
+   "p": "role",
+   "v": "its physics laboratory analyzed the Hart photographs",
+   "quote": "The physics laboratory at Wright-Patterson Air Force Base in Ohio analyzed the Hart photographs."
+  },
+  {
+   "s": "dallas",
+   "p": "related_place",
+   "o": "case",
+   "quote": "In November 1999, Dallas, Texas-based television station KDFW aired a news story about the Lubbock Lights."
+  },
+  {
+   "s": "dallas",
+   "p": "located_in",
+   "o": "texas",
+   "quote": "In November 1999, Dallas, Texas-based television station KDFW aired a news story about the Lubbock Lights."
+  },
+  {
+   "s": "usaf",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The Lubbock Lights incident received national publicity in the United States as a UFO sighting, and was investigated by the U.S. Air Force."
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Lubbock Lights incident received national publicity in the United States as a UFO sighting, and was investigated by the U.S. Air Force."
+  },
+  {
+   "s": "usaf",
+   "p": "possessed",
+   "v": "a \"flying wing\" jet bomber",
+   "quote": "Ruppelt knew that the US Air Force did possess a \"flying wing\" jet bomber, and he felt that at least some of the sightings had been caused by the bomber"
+  },
+  {
+   "s": "bluebook",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "In late September 1951, Ruppelt learned about the Lubbock Lights and investigated them as part of Project Blue Book."
+  },
+  {
+   "s": "bluebook",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "Edward J. Ruppelt, the supervisor of the Air Force's Project Blue Book, released a written statement to the press that \"the [Hart] photos were never proven to be a hoax, but neither were they proven to be genuine.\""
+  },
+  {
+   "s": "ttu",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Edward J. Ruppelt wrote that the first sighting was reported by three professors from Texas Technological College (now Texas Tech University), located in Lubbock on August 25, 1951, at around 9 pm."
+  },
+  {
+   "s": "ttu",
+   "p": "located_in",
+   "o": "lubbock",
+   "quote": "Edward J. Ruppelt wrote that the first sighting was reported by three professors from Texas Technological College (now Texas Tech University), located in Lubbock on August 25, 1951, at around 9 pm."
+  },
+  {
+   "s": "ttu",
+   "p": "former_name",
+   "v": "Texas Technological College",
+   "quote": "Edward J. Ruppelt wrote that the first sighting was reported by three professors from Texas Technological College (now Texas Tech University), located in Lubbock on August 25, 1951, at around 9 pm."
+  },
+  {
+   "s": "ttu_bio",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "J.C. Cross, the head of Texas Tech's biology department, and a game warden interviewed by Ruppelt both claimed the sightings could not have been birds."
+  },
+  {
+   "s": "ttu_bio",
+   "p": "part_of",
+   "o": "ttu",
+   "quote": "J.C. Cross, the head of Texas Tech's biology department, and a game warden interviewed by Ruppelt both claimed the sightings could not have been birds."
+  },
+  {
+   "s": "avalanche",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Ruppelt said the names of the three professors were A. G. Oberg, chemical engineer; W. L. Ducker, a department head and petroleum engineer; and W. I. Robinson, a geologist who reported their sighting to the local newspaper, the Lubbock Avalanche-Journal."
+  },
+  {
+   "s": "avalanche",
+   "p": "located_in",
+   "o": "lubbock",
+   "quote": "Ruppelt said the names of the three professors were A. G. Oberg, chemical engineer; W. L. Ducker, a department head and petroleum engineer; and W. I. Robinson, a geologist who reported their sighting to the local newspaper, the Lubbock Avalanche-Journal."
+  },
+  {
+   "s": "avalanche",
+   "p": "published",
+   "o": "photos",
+   "quote": "Hart took them to the offices of the Lubbock Avalanche-Journal where the newspaper's editor, Jay Harris, told Hart that the photos would be purchased for $10 and published in the paper"
+  },
+  {
+   "s": "avalanche",
+   "p": "description",
+   "v": "the local newspaper",
+   "quote": "Ruppelt said the names of the three professors were A. G. Oberg, chemical engineer; W. L. Ducker, a department head and petroleum engineer; and W. I. Robinson, a geologist who reported their sighting to the local newspaper, the Lubbock Avalanche-Journal."
+  },
+  {
+   "s": "avalanche",
+   "p": "price_paid_for_photos",
+   "v": "$10",
+   "quote": "Hart took them to the offices of the Lubbock Avalanche-Journal where the newspaper's editor, Jay Harris, told Hart that the photos would be purchased for $10 and published in the paper"
+  },
+  {
+   "s": "life",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The photographs were soon reprinted in newspapers around the nation and in Life magazine."
+  },
+  {
+   "s": "life",
+   "p": "published",
+   "o": "photos",
+   "quote": "The photographs were soon reprinted in newspapers around the nation and in Life magazine."
+  },
+  {
+   "s": "life",
+   "p": "published",
+   "o": "life_article",
+   "quote": "In April 1952 Life magazine published an article about the UFO phenomenon that featured the Lubbock Lights."
+  },
+  {
+   "s": "kdfw",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In November 1999, Dallas, Texas-based television station KDFW aired a news story about the Lubbock Lights."
+  },
+  {
+   "s": "kdfw",
+   "p": "located_in",
+   "o": "dallas",
+   "quote": "In November 1999, Dallas, Texas-based television station KDFW aired a news story about the Lubbock Lights."
+  },
+  {
+   "s": "kdfw",
+   "p": "published",
+   "o": "kdfw_story",
+   "quote": "In November 1999, Dallas, Texas-based television station KDFW aired a news story about the Lubbock Lights."
+  },
+  {
+   "s": "kdfw",
+   "p": "description",
+   "v": "Dallas, Texas-based television station",
+   "quote": "In November 1999, Dallas, Texas-based television station KDFW aired a news story about the Lubbock Lights."
+  },
+  {
+   "s": "scifi",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Lubbock Lights were featured in the 2002 Sci Fi Channel miniseries Taken, in which one alien poses as a human in the Lubbock area."
+  },
+  {
+   "s": "scifi",
+   "p": "published",
+   "o": "taken",
+   "quote": "The Lubbock Lights were featured in the 2002 Sci Fi Channel miniseries Taken, in which one alien poses as a human in the Lubbock area."
+  },
+  {
+   "s": "history",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The third episode of the 2019 History Channel television series Project Blue Book is titled \"The Lubbock Lights\", and is based on the Lubbock Lights incident."
+  },
+  {
+   "s": "history",
+   "p": "published",
+   "o": "pbb_series",
+   "quote": "The third episode of the 2019 History Channel television series Project Blue Book is titled \"The Lubbock Lights\", and is based on the Lubbock Lights incident."
+  },
+  {
+   "s": "tsc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 2006, Lubbock-based alternative country band Thrift Store Cowboys wrote and recorded a song titled \"Lubbock Lights\" on their third album, Lay Low While Crawling or Creeping."
+  },
+  {
+   "s": "tsc",
+   "p": "authored",
+   "o": "song",
+   "quote": "In 2006, Lubbock-based alternative country band Thrift Store Cowboys wrote and recorded a song titled \"Lubbock Lights\" on their third album, Lay Low While Crawling or Creeping."
+  },
+  {
+   "s": "tsc",
+   "p": "authored",
+   "o": "album",
+   "quote": "In 2006, Lubbock-based alternative country band Thrift Store Cowboys wrote and recorded a song titled \"Lubbock Lights\" on their third album, Lay Low While Crawling or Creeping."
+  },
+  {
+   "s": "tsc",
+   "p": "located_in",
+   "o": "lubbock",
+   "quote": "In 2006, Lubbock-based alternative country band Thrift Store Cowboys wrote and recorded a song titled \"Lubbock Lights\" on their third album, Lay Low While Crawling or Creeping."
+  },
+  {
+   "s": "tsc",
+   "p": "description",
+   "v": "Lubbock-based alternative country band",
+   "quote": "In 2006, Lubbock-based alternative country band Thrift Store Cowboys wrote and recorded a song titled \"Lubbock Lights\" on their third album, Lay Low While Crawling or Creeping."
+  },
+  {
+   "s": "ruppelt",
+   "p": "investigator",
+   "o": "case",
+   "quote": "In late September 1951, Ruppelt learned about the Lubbock Lights and investigated them as part of Project Blue Book."
+  },
+  {
+   "s": "ruppelt",
+   "p": "rank",
+   "v": "Captain",
+   "quote": "According to Captain Edward J. Ruppelt, \"Officially all of the sightings, except the UFO that was picked up on radar, are unknowns.\""
+  },
+  {
+   "s": "ruppelt",
+   "p": "position",
+   "v": "supervisor of the Air Force's Project Blue Book",
+   "quote": "Edward J. Ruppelt, the supervisor of the Air Force's Project Blue Book, released a written statement to the press that \"the [Hart] photos were never proven to be a hoax, but neither were they proven to be genuine.\""
+  },
+  {
+   "s": "ruppelt",
+   "p": "member_of",
+   "o": "bluebook",
+   "quote": "Edward J. Ruppelt, the supervisor of the Air Force's Project Blue Book, released a written statement to the press that \"the [Hart] photos were never proven to be a hoax, but neither were they proven to be genuine.\""
+  },
+  {
+   "s": "ruppelt",
+   "p": "employed_by",
+   "o": "usaf",
+   "quote": "Edward J. Ruppelt, the supervisor of the Air Force's Project Blue Book, released a written statement to the press that \"the [Hart] photos were never proven to be a hoax, but neither were they proven to be genuine.\""
+  },
+  {
+   "s": "ruppelt",
+   "p": "statement",
+   "v": "Officially all of the sightings, except the UFO that was picked up on radar, are unknowns.",
+   "quote": "According to Captain Edward J. Ruppelt, \"Officially all of the sightings, except the UFO that was picked up on radar, are unknowns.\""
+  },
+  {
+   "s": "ruppelt",
+   "p": "learned_of_case",
+   "v": "late September 1951",
+   "quote": "In late September 1951, Ruppelt learned about the Lubbock Lights and investigated them as part of Project Blue Book."
+  },
+  {
+   "s": "ruppelt",
+   "p": "action",
+   "v": "traveled to Lubbock and interviewed the professors, Carl Hart, and others who claimed to have witnessed the lights",
+   "quote": "Ruppelt traveled to Lubbock and interviewed the professors, Carl Hart, and others who claimed to have witnessed the lights."
+  },
+  {
+   "s": "ruppelt",
+   "p": "interviewed",
+   "o": "hart",
+   "quote": "Ruppelt traveled to Lubbock and interviewed the professors, Carl Hart, and others who claimed to have witnessed the lights."
+  },
+  {
+   "s": "ruppelt",
+   "p": "interviewed",
+   "o": "oberg",
+   "quote": "Ruppelt traveled to Lubbock and interviewed the professors, Carl Hart, and others who claimed to have witnessed the lights."
+  },
+  {
+   "s": "ruppelt",
+   "p": "interviewed",
+   "o": "ducker",
+   "quote": "Ruppelt traveled to Lubbock and interviewed the professors, Carl Hart, and others who claimed to have witnessed the lights."
+  },
+  {
+   "s": "ruppelt",
+   "p": "interviewed",
+   "o": "robinson",
+   "quote": "Ruppelt traveled to Lubbock and interviewed the professors, Carl Hart, and others who claimed to have witnessed the lights."
+  },
+  {
+   "s": "ruppelt",
+   "p": "interviewed_unnamed",
+   "v": "a game warden",
+   "quote": "J.C. Cross, the head of Texas Tech's biology department, and a game warden interviewed by Ruppelt both claimed the sightings could not have been birds."
+  },
+  {
+   "s": "ruppelt",
+   "p": "proposed",
+   "o": "x_bird",
+   "quote": "Ruppelt's conclusion at the time was that the professors had seen a type of bird called a plover."
+  },
+  {
+   "s": "ruppelt",
+   "p": "conclusion_at_the_time",
+   "v": "the professors had seen a type of bird called a plover",
+   "quote": "Ruppelt's conclusion at the time was that the professors had seen a type of bird called a plover."
+  },
+  {
+   "s": "ruppelt",
+   "p": "belief",
+   "v": "migrating plovers were reflecting the new street lights",
+   "quote": "The city of Lubbock had installed new vapor street lights in 1951, and Ruppelt believed migrating plovers were reflecting the new street lights."
+  },
+  {
+   "s": "ruppelt",
+   "p": "authored",
+   "o": "statement",
+   "quote": "Edward J. Ruppelt, the supervisor of the Air Force's Project Blue Book, released a written statement to the press that \"the [Hart] photos were never proven to be a hoax, but neither were they proven to be genuine.\""
+  },
+  {
+   "s": "ruppelt",
+   "p": "statement",
+   "v": "the [Hart] photos were never proven to be a hoax, but neither were they proven to be genuine",
+   "quote": "Edward J. Ruppelt, the supervisor of the Air Force's Project Blue Book, released a written statement to the press that \"the [Hart] photos were never proven to be a hoax, but neither were they proven to be genuine.\""
+  },
+  {
+   "s": "ruppelt",
+   "p": "proposed",
+   "o": "x_natural",
+   "quote": "They weren't birds, they weren't refracted light, but they weren't spaceships [...] [they were] positively identified as a very commonplace and easily explainable natural phenomenon"
+  },
+  {
+   "s": "ruppelt",
+   "p": "later_claim",
+   "v": "They weren't birds, they weren't refracted light, but they weren't spaceships; positively identified as a very commonplace and easily explainable natural phenomenon",
+   "quote": "They weren't birds, they weren't refracted light, but they weren't spaceships [...] [they were] positively identified as a very commonplace and easily explainable natural phenomenon"
+  },
+  {
+   "s": "ruppelt",
+   "p": "later_claim",
+   "v": "could not divulge how the answer was found because he promised the scientist complete anonymity",
+   "quote": "Telling the story would lead to his identity and, in exchange for his story, I promised the man complete anonymity."
+  },
+  {
+   "s": "ruppelt",
+   "p": "later_claim",
+   "v": "he fully convinced me that he had the answer, and after having heard hundreds of explanations of UFO's, I don't convince easily",
+   "quote": "But he fully convinced me that he had the answer, and after having heard hundreds of explanations of UFO's, I don't convince easily."
+  },
+  {
+   "s": "ruppelt",
+   "p": "proposed",
+   "o": "x_aircraft",
+   "quote": "Ruppelt knew that the US Air Force did possess a \"flying wing\" jet bomber, and he felt that at least some of the sightings had been caused by the bomber"
+  },
+  {
+   "s": "ruppelt",
+   "p": "belief",
+   "v": "at least some of the flying wing sightings had been caused by the US Air Force's \"flying wing\" jet bomber",
+   "quote": "Ruppelt knew that the US Air Force did possess a \"flying wing\" jet bomber, and he felt that at least some of the sightings had been caused by the bomber"
+  },
+  {
+   "s": "ruppelt",
+   "p": "unexplained",
+   "v": "could not explain why, according to the witnesses, the wing made no sound as it flew overhead",
+   "quote": "although he could not explain why, according to the witnesses, the wing made no sound as it flew overhead"
+  },
+  {
+   "s": "ruppelt",
+   "p": "authored",
+   "o": "ruppelt_book",
+   "quote": "Ruppelt, Edward J. (1956). The Report on Unidentified Flying Objects."
+  },
+  {
+   "s": "oberg",
+   "p": "witness",
+   "o": "case",
+   "quote": "Ruppelt said the names of the three professors were A. G. Oberg, chemical engineer; W. L. Ducker, a department head and petroleum engineer; and W. I. Robinson, a geologist who reported their sighting to the local newspaper, the Lubbock Avalanche-Journal."
+  },
+  {
+   "s": "oberg",
+   "p": "employed_by",
+   "o": "ttu",
+   "quote": "Edward J. Ruppelt wrote that the first sighting was reported by three professors from Texas Technological College (now Texas Tech University), located in Lubbock on August 25, 1951, at around 9 pm."
+  },
+  {
+   "s": "oberg",
+   "p": "sighting_date",
+   "v": "1951-08-25",
+   "quote": "Edward J. Ruppelt wrote that the first sighting was reported by three professors from Texas Technological College (now Texas Tech University), located in Lubbock on August 25, 1951, at around 9 pm."
+  },
+  {
+   "s": "oberg",
+   "p": "sighting_date",
+   "v": "1951-09-05",
+   "quote": "Clark writes that on September 5, 1951, all three men, along with E. Richard Heineman, a mathematics professor, and one other professor from Texas Tech, were sitting in Robinson's front yard when the lights flew overhead."
+  },
+  {
+   "s": "oberg",
+   "p": "statement",
+   "v": "the Hart photos did not represent what they had observed, because their objects had flown in a \"u\", rather than a \"v\", formation",
+   "quote": "The Texas Tech professors claimed that the photos did not represent what they had observed, because their objects had flown in a \"u\", rather than a \"v\", formation."
+  },
+  {
+   "s": "ducker",
+   "p": "witness",
+   "o": "case",
+   "quote": "Ruppelt said the names of the three professors were A. G. Oberg, chemical engineer; W. L. Ducker, a department head and petroleum engineer; and W. I. Robinson, a geologist who reported their sighting to the local newspaper, the Lubbock Avalanche-Journal."
+  },
+  {
+   "s": "ducker",
+   "p": "employed_by",
+   "o": "ttu",
+   "quote": "Edward J. Ruppelt wrote that the first sighting was reported by three professors from Texas Technological College (now Texas Tech University), located in Lubbock on August 25, 1951, at around 9 pm."
+  },
+  {
+   "s": "ducker",
+   "p": "sighting_date",
+   "v": "1951-08-25",
+   "quote": "Edward J. Ruppelt wrote that the first sighting was reported by three professors from Texas Technological College (now Texas Tech University), located in Lubbock on August 25, 1951, at around 9 pm."
+  },
+  {
+   "s": "ducker",
+   "p": "sighting_date",
+   "v": "1951-09-05",
+   "quote": "Clark writes that on September 5, 1951, all three men, along with E. Richard Heineman, a mathematics professor, and one other professor from Texas Tech, were sitting in Robinson's front yard when the lights flew overhead."
+  },
+  {
+   "s": "ducker",
+   "p": "statement",
+   "v": "the Hart photos did not represent what they had observed, because their objects had flown in a \"u\", rather than a \"v\", formation",
+   "quote": "The Texas Tech professors claimed that the photos did not represent what they had observed, because their objects had flown in a \"u\", rather than a \"v\", formation."
+  },
+  {
+   "s": "robinson",
+   "p": "witness",
+   "o": "case",
+   "quote": "Ruppelt said the names of the three professors were A. G. Oberg, chemical engineer; W. L. Ducker, a department head and petroleum engineer; and W. I. Robinson, a geologist who reported their sighting to the local newspaper, the Lubbock Avalanche-Journal."
+  },
+  {
+   "s": "robinson",
+   "p": "employed_by",
+   "o": "ttu",
+   "quote": "Edward J. Ruppelt wrote that the first sighting was reported by three professors from Texas Technological College (now Texas Tech University), located in Lubbock on August 25, 1951, at around 9 pm."
+  },
+  {
+   "s": "robinson",
+   "p": "sighting_date",
+   "v": "1951-08-25",
+   "quote": "Edward J. Ruppelt wrote that the first sighting was reported by three professors from Texas Technological College (now Texas Tech University), located in Lubbock on August 25, 1951, at around 9 pm."
+  },
+  {
+   "s": "robinson",
+   "p": "sighting_date",
+   "v": "1951-09-05",
+   "quote": "Clark writes that on September 5, 1951, all three men, along with E. Richard Heineman, a mathematics professor, and one other professor from Texas Tech, were sitting in Robinson's front yard when the lights flew overhead."
+  },
+  {
+   "s": "robinson",
+   "p": "statement",
+   "v": "the Hart photos did not represent what they had observed, because their objects had flown in a \"u\", rather than a \"v\", formation",
+   "quote": "The Texas Tech professors claimed that the photos did not represent what they had observed, because their objects had flown in a \"u\", rather than a \"v\", formation."
+  },
+  {
+   "s": "oberg",
+   "p": "occupation",
+   "v": "chemical engineer; professor",
+   "quote": "Ruppelt said the names of the three professors were A. G. Oberg, chemical engineer; W. L. Ducker, a department head and petroleum engineer; and W. I. Robinson, a geologist who reported their sighting to the local newspaper, the Lubbock Avalanche-Journal."
+  },
+  {
+   "s": "ducker",
+   "p": "occupation",
+   "v": "department head and petroleum engineer; professor",
+   "quote": "Ruppelt said the names of the three professors were A. G. Oberg, chemical engineer; W. L. Ducker, a department head and petroleum engineer; and W. I. Robinson, a geologist who reported their sighting to the local newspaper, the Lubbock Avalanche-Journal."
+  },
+  {
+   "s": "robinson",
+   "p": "occupation",
+   "v": "geologist; professor",
+   "quote": "Ruppelt said the names of the three professors were A. G. Oberg, chemical engineer; W. L. Ducker, a department head and petroleum engineer; and W. I. Robinson, a geologist who reported their sighting to the local newspaper, the Lubbock Avalanche-Journal."
+  },
+  {
+   "s": "oberg",
+   "p": "colleague_of",
+   "o": "ducker",
+   "quote": "Ruppelt said the names of the three professors were A. G. Oberg, chemical engineer; W. L. Ducker, a department head and petroleum engineer; and W. I. Robinson, a geologist who reported their sighting to the local newspaper, the Lubbock Avalanche-Journal."
+  },
+  {
+   "s": "oberg",
+   "p": "colleague_of",
+   "o": "robinson",
+   "quote": "Ruppelt said the names of the three professors were A. G. Oberg, chemical engineer; W. L. Ducker, a department head and petroleum engineer; and W. I. Robinson, a geologist who reported their sighting to the local newspaper, the Lubbock Avalanche-Journal."
+  },
+  {
+   "s": "ducker",
+   "p": "colleague_of",
+   "o": "robinson",
+   "quote": "Ruppelt said the names of the three professors were A. G. Oberg, chemical engineer; W. L. Ducker, a department head and petroleum engineer; and W. I. Robinson, a geologist who reported their sighting to the local newspaper, the Lubbock Avalanche-Journal."
+  },
+  {
+   "s": "robinson",
+   "p": "action",
+   "v": "reported their sighting to the local newspaper, the Lubbock Avalanche-Journal",
+   "quote": "Ruppelt said the names of the three professors were A. G. Oberg, chemical engineer; W. L. Ducker, a department head and petroleum engineer; and W. I. Robinson, a geologist who reported their sighting to the local newspaper, the Lubbock Avalanche-Journal."
+  },
+  {
+   "s": "robinson",
+   "p": "residence_detail",
+   "v": "the September 5, 1951 sighting took place in his front yard",
+   "quote": "Clark writes that on September 5, 1951, all three men, along with E. Richard Heineman, a mathematics professor, and one other professor from Texas Tech, were sitting in Robinson's front yard when the lights flew overhead."
+  },
+  {
+   "s": "ducker",
+   "p": "relative",
+   "v": "his wife reported a \"huge, soundless flying wing\" passing over her house in August 1951",
+   "quote": "Among the witnesses was the wife of Ducker, who reported that in August 1951 she had observed a \"huge, soundless flying wing\" pass over her house."
+  },
+  {
+   "s": "oberg",
+   "p": "described",
+   "o": "lights",
+   "quote": "they were sitting in the backyard of one of the professor's homes when they observed a total of 20–30 lights, as bright as stars but larger in size, flying overhead"
+  },
+  {
+   "s": "ducker",
+   "p": "described",
+   "o": "lights",
+   "quote": "they were sitting in the backyard of one of the professor's homes when they observed a total of 20–30 lights, as bright as stars but larger in size, flying overhead"
+  },
+  {
+   "s": "robinson",
+   "p": "described",
+   "o": "lights",
+   "quote": "they were sitting in the backyard of one of the professor's homes when they observed a total of 20–30 lights, as bright as stars but larger in size, flying overhead"
+  },
+  {
+   "s": "clark",
+   "p": "commentator",
+   "o": "case",
+   "quote": "According to UFO author Jerome Clark, three women in Lubbock reported that they had observed \"peculiar flashing lights\" in the sky on the same night as the professors' sightings, as well as Carl Hemminger, a professor of German at Texas Tech."
+  },
+  {
+   "s": "clark",
+   "p": "occupation",
+   "v": "UFO author",
+   "quote": "According to UFO author Jerome Clark, three women in Lubbock reported that they had observed \"peculiar flashing lights\" in the sky on the same night as the professors' sightings, as well as Carl Hemminger, a professor of German at Texas Tech."
+  },
+  {
+   "s": "clark",
+   "p": "authored",
+   "o": "ufo_book",
+   "quote": "Clark, Jerome (1998). \"The Lubbock Lights\". The UFO Book."
+  },
+  {
+   "s": "clark",
+   "p": "statement",
+   "v": "the professors observed one formation flying above a thin cloud at about 2,000 feet, allowing them to calculate that the lights were traveling at over 600 miles per hour",
+   "quote": "Clark wrote that the professors observed one formation of lights flying above a thin cloud at about 2,000 feet (610 m) which he says allowed them to calculate that the lights were traveling at over 600 miles per hour (970 km/h)."
+  },
+  {
+   "s": "hemminger",
+   "p": "witness",
+   "o": "case",
+   "quote": "According to UFO author Jerome Clark, three women in Lubbock reported that they had observed \"peculiar flashing lights\" in the sky on the same night as the professors' sightings, as well as Carl Hemminger, a professor of German at Texas Tech."
+  },
+  {
+   "s": "hemminger",
+   "p": "occupation",
+   "v": "professor of German",
+   "quote": "According to UFO author Jerome Clark, three women in Lubbock reported that they had observed \"peculiar flashing lights\" in the sky on the same night as the professors' sightings, as well as Carl Hemminger, a professor of German at Texas Tech."
+  },
+  {
+   "s": "hemminger",
+   "p": "employed_by",
+   "o": "ttu",
+   "quote": "According to UFO author Jerome Clark, three women in Lubbock reported that they had observed \"peculiar flashing lights\" in the sky on the same night as the professors' sightings, as well as Carl Hemminger, a professor of German at Texas Tech."
+  },
+  {
+   "s": "hemminger",
+   "p": "sighting_date",
+   "v": "1951-08-25",
+   "quote": "According to UFO author Jerome Clark, three women in Lubbock reported that they had observed \"peculiar flashing lights\" in the sky on the same night as the professors' sightings, as well as Carl Hemminger, a professor of German at Texas Tech."
+  },
+  {
+   "s": "heineman",
+   "p": "witness",
+   "o": "case",
+   "quote": "Clark writes that on September 5, 1951, all three men, along with E. Richard Heineman, a mathematics professor, and one other professor from Texas Tech, were sitting in Robinson's front yard when the lights flew overhead."
+  },
+  {
+   "s": "heineman",
+   "p": "occupation",
+   "v": "mathematics professor",
+   "quote": "Clark writes that on September 5, 1951, all three men, along with E. Richard Heineman, a mathematics professor, and one other professor from Texas Tech, were sitting in Robinson's front yard when the lights flew overhead."
+  },
+  {
+   "s": "heineman",
+   "p": "sighting_date",
+   "v": "1951-09-05",
+   "quote": "Clark writes that on September 5, 1951, all three men, along with E. Richard Heineman, a mathematics professor, and one other professor from Texas Tech, were sitting in Robinson's front yard when the lights flew overhead."
+  },
+  {
+   "s": "heineman",
+   "p": "colleague_of",
+   "o": "robinson",
+   "quote": "Clark writes that on September 5, 1951, all three men, along with E. Richard Heineman, a mathematics professor, and one other professor from Texas Tech, were sitting in Robinson's front yard when the lights flew overhead."
+  },
+  {
+   "s": "mead",
+   "p": "witness",
+   "o": "case",
+   "quote": "Mead, who had observed the lights, also disputed the plover explanation: \"these objects were too large for any bird."
+  },
+  {
+   "s": "mead",
+   "p": "occupation",
+   "v": "professor",
+   "quote": "According to one of the professors named Grayson Mead, the lights \"appeared to be about the size of a dinner plate and they were greenish-blue, slightly fluorescent in color."
+  },
+  {
+   "s": "mead",
+   "p": "described",
+   "o": "lights",
+   "quote": "According to one of the professors named Grayson Mead, the lights \"appeared to be about the size of a dinner plate and they were greenish-blue, slightly fluorescent in color."
+  },
+  {
+   "s": "mead",
+   "p": "statement",
+   "v": "the lights appeared to be about the size of a dinner plate and were greenish-blue, slightly fluorescent in color",
+   "quote": "According to one of the professors named Grayson Mead, the lights \"appeared to be about the size of a dinner plate and they were greenish-blue, slightly fluorescent in color."
+  },
+  {
+   "s": "mead",
+   "p": "statement",
+   "v": "it gave all of us an extremely eerie feeling",
+   "quote": "There were about a dozen to fifteen of these lights... they were absolutely circular... it gave all of us... an extremely eerie feeling."
+  },
+  {
+   "s": "mead",
+   "p": "statement",
+   "v": "the lights could not have been birds",
+   "quote": "Mead said that the lights could not have been birds, but he also stated that they \"went over so fast... that we wished we could have had a better look.\""
+  },
+  {
+   "s": "mead",
+   "p": "statement",
+   "v": "went over so fast... that we wished we could have had a better look",
+   "quote": "Mead said that the lights could not have been birds, but he also stated that they \"went over so fast... that we wished we could have had a better look.\""
+  },
+  {
+   "s": "mead",
+   "p": "disputed",
+   "o": "x_bird",
+   "quote": "Mead, who had observed the lights, also disputed the plover explanation: \"these objects were too large for any bird."
+  },
+  {
+   "s": "mead",
+   "p": "statement",
+   "v": "these objects were too large for any bird",
+   "quote": "Mead, who had observed the lights, also disputed the plover explanation: \"these objects were too large for any bird."
+  },
+  {
+   "s": "mead",
+   "p": "statement",
+   "v": "I have had enough experience hunting and I don't know of any bird that could go this fast we would not be able to hear",
+   "quote": "I have had enough experience hunting and I don't know of any bird that could go this fast we would not be able to hear"
+  },
+  {
+   "s": "mead",
+   "p": "statement",
+   "v": "to be birds, they would have to have been exceedingly low to disappear quite so quickly",
+   "quote": "to have gone as fast as this, to be birds, they would have to have been exceedingly low to disappear quite so quickly."
+  },
+  {
+   "s": "mead",
+   "p": "hobby",
+   "v": "hunting",
+   "quote": "I have had enough experience hunting and I don't know of any bird that could go this fast we would not be able to hear"
+  },
+  {
+   "s": "hart",
+   "p": "witness",
+   "o": "case",
+   "quote": "On the evening of August 30, 1951, Carl Hart, Jr., a freshman at Texas Tech, observed a group of 18–20 white lights in a \"v\" formation flying overhead."
+  },
+  {
+   "s": "hart",
+   "p": "occupation",
+   "v": "freshman at Texas Tech",
+   "quote": "On the evening of August 30, 1951, Carl Hart, Jr., a freshman at Texas Tech, observed a group of 18–20 white lights in a \"v\" formation flying overhead."
+  },
+  {
+   "s": "hart",
+   "p": "member_of",
+   "o": "ttu",
+   "quote": "On the evening of August 30, 1951, Carl Hart, Jr., a freshman at Texas Tech, observed a group of 18–20 white lights in a \"v\" formation flying overhead."
+  },
+  {
+   "s": "hart",
+   "p": "sighting_date",
+   "v": "1951-08-30",
+   "quote": "On the evening of August 30, 1951, Carl Hart, Jr., a freshman at Texas Tech, observed a group of 18–20 white lights in a \"v\" formation flying overhead."
+  },
+  {
+   "s": "hart",
+   "p": "sighting_time",
+   "v": "evening",
+   "quote": "On the evening of August 30, 1951, Carl Hart, Jr., a freshman at Texas Tech, observed a group of 18–20 white lights in a \"v\" formation flying overhead."
+  },
+  {
+   "s": "hart",
+   "p": "described",
+   "o": "lights",
+   "quote": "On the evening of August 30, 1951, Carl Hart, Jr., a freshman at Texas Tech, observed a group of 18–20 white lights in a \"v\" formation flying overhead."
+  },
+  {
+   "s": "hart",
+   "p": "authored",
+   "o": "photos",
+   "quote": "Two more lights passed overhead, and Hart captured five photos before they disappeared."
+  },
+  {
+   "s": "hart",
+   "p": "camera",
+   "v": "35-mm Kodak camera",
+   "quote": "Hart took a 35-mm Kodak camera and walked to the backyard of his parents’ home to see if the lights would return."
+  },
+  {
+   "s": "hart",
+   "p": "location",
+   "v": "the backyard of his parents' home",
+   "quote": "Hart took a 35-mm Kodak camera and walked to the backyard of his parents’ home to see if the lights would return."
+  },
+  {
+   "s": "hart",
+   "p": "action",
+   "v": "took the developed photos to the offices of the Lubbock Avalanche-Journal",
+   "quote": "Hart took them to the offices of the Lubbock Avalanche-Journal where the newspaper's editor, Jay Harris, told Hart that the photos would be purchased for $10 and published in the paper"
+  },
+  {
+   "s": "hart",
+   "p": "later_interview",
+   "v": "interviewed by reporter Richard Ray about taking the famous photos and being investigated by the U.S. Air Force",
+   "quote": "Reporter Richard Ray interviewed Carl Hart, Jr. about taking the famous photos and being investigated by the U.S. Air Force."
+  },
+  {
+   "s": "harris",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Hart took them to the offices of the Lubbock Avalanche-Journal where the newspaper's editor, Jay Harris, told Hart that the photos would be purchased for $10 and published in the paper"
+  },
+  {
+   "s": "harris",
+   "p": "occupation",
+   "v": "editor of the Lubbock Avalanche-Journal",
+   "quote": "Hart took them to the offices of the Lubbock Avalanche-Journal where the newspaper's editor, Jay Harris, told Hart that the photos would be purchased for $10 and published in the paper"
+  },
+  {
+   "s": "harris",
+   "p": "employed_by",
+   "o": "avalanche",
+   "quote": "Hart took them to the offices of the Lubbock Avalanche-Journal where the newspaper's editor, Jay Harris, told Hart that the photos would be purchased for $10 and published in the paper"
+  },
+  {
+   "s": "harris",
+   "p": "statement",
+   "v": "the photos would be purchased for $10 and published in the paper",
+   "quote": "Hart took them to the offices of the Lubbock Avalanche-Journal where the newspaper's editor, Jay Harris, told Hart that the photos would be purchased for $10 and published in the paper"
+  },
+  {
+   "s": "harris",
+   "p": "statement",
+   "v": "he would \"run him (Hart) out of town\" if the photos were fake",
+   "quote": "but that he would \"run him (Hart) out of town\" if the photos were fake"
+  },
+  {
+   "s": "snider",
+   "p": "witness",
+   "o": "case",
+   "quote": "Witnesses who supported this assertion included T. E. Snider, a local farmer who on August 31, 1951, had observed birds flying over a drive-in movie theater; the birds' undersides were reflected in the light."
+  },
+  {
+   "s": "snider",
+   "p": "occupation",
+   "v": "local farmer",
+   "quote": "Witnesses who supported this assertion included T. E. Snider, a local farmer who on August 31, 1951, had observed birds flying over a drive-in movie theater; the birds' undersides were reflected in the light."
+  },
+  {
+   "s": "snider",
+   "p": "sighting_date",
+   "v": "1951-08-31",
+   "quote": "Witnesses who supported this assertion included T. E. Snider, a local farmer who on August 31, 1951, had observed birds flying over a drive-in movie theater; the birds' undersides were reflected in the light."
+  },
+  {
+   "s": "snider",
+   "p": "statement",
+   "v": "observed birds flying over a drive-in movie theater; the birds' undersides were reflected in the light",
+   "quote": "Witnesses who supported this assertion included T. E. Snider, a local farmer who on August 31, 1951, had observed birds flying over a drive-in movie theater; the birds' undersides were reflected in the light."
+  },
+  {
+   "s": "snider",
+   "p": "supported",
+   "v": "Ruppelt's plover explanation",
+   "quote": "Witnesses who supported this assertion included T. E. Snider, a local farmer who on August 31, 1951, had observed birds flying over a drive-in movie theater; the birds' undersides were reflected in the light."
+  },
+  {
+   "s": "bryant",
+   "p": "witness",
+   "o": "case",
+   "quote": "Another pair of witnesses, Joe Bryant and his wife, on August 25 observed groups of lights flying overhead."
+  },
+  {
+   "s": "bryant",
+   "p": "sighting_date",
+   "v": "August 25",
+   "quote": "Another pair of witnesses, Joe Bryant and his wife, on August 25 observed groups of lights flying overhead."
+  },
+  {
+   "s": "bryant",
+   "p": "co_witness",
+   "v": "his wife",
+   "quote": "Another pair of witnesses, Joe Bryant and his wife, on August 25 observed groups of lights flying overhead."
+  },
+  {
+   "s": "bryant",
+   "p": "statement",
+   "v": "a third group of lights began to circle the Bryants' home and were identified by sight and sound as plovers",
+   "quote": "When a third group of lights passed overhead they began to circle the Bryants' home, and were identified by sight and sound as plovers."
+  },
+  {
+   "s": "bryant",
+   "p": "groups_of_lights_seen",
+   "v": "3",
+   "quote": "When a third group of lights passed overhead they began to circle the Bryants' home, and were identified by sight and sound as plovers."
+  },
+  {
+   "s": "hynek",
+   "p": "investigator",
+   "o": "case",
+   "quote": "J. Allen Hynek, an astronomer and one of Project Blue Book's scientific consultants, later contacted one of the professors and learned that the professor claimed the lights were plovers."
+  },
+  {
+   "s": "hynek",
+   "p": "occupation",
+   "v": "astronomer",
+   "quote": "J. Allen Hynek, an astronomer and one of Project Blue Book's scientific consultants, later contacted one of the professors and learned that the professor claimed the lights were plovers."
+  },
+  {
+   "s": "hynek",
+   "p": "position",
+   "v": "one of Project Blue Book's scientific consultants",
+   "quote": "J. Allen Hynek, an astronomer and one of Project Blue Book's scientific consultants, later contacted one of the professors and learned that the professor claimed the lights were plovers."
+  },
+  {
+   "s": "hynek",
+   "p": "member_of",
+   "o": "bluebook",
+   "quote": "J. Allen Hynek, an astronomer and one of Project Blue Book's scientific consultants, later contacted one of the professors and learned that the professor claimed the lights were plovers."
+  },
+  {
+   "s": "hynek",
+   "p": "action",
+   "v": "later contacted one of the professors and learned that the professor claimed the lights were plovers",
+   "quote": "J. Allen Hynek, an astronomer and one of Project Blue Book's scientific consultants, later contacted one of the professors and learned that the professor claimed the lights were plovers."
+  },
+  {
+   "s": "cross",
+   "p": "commentator",
+   "o": "case",
+   "quote": "J.C. Cross, the head of Texas Tech's biology department, and a game warden interviewed by Ruppelt both claimed the sightings could not have been birds."
+  },
+  {
+   "s": "cross",
+   "p": "position",
+   "v": "head of Texas Tech's biology department",
+   "quote": "J.C. Cross, the head of Texas Tech's biology department, and a game warden interviewed by Ruppelt both claimed the sightings could not have been birds."
+  },
+  {
+   "s": "cross",
+   "p": "employed_by",
+   "o": "ttu",
+   "quote": "J.C. Cross, the head of Texas Tech's biology department, and a game warden interviewed by Ruppelt both claimed the sightings could not have been birds."
+  },
+  {
+   "s": "cross",
+   "p": "member_of",
+   "o": "ttu_bio",
+   "quote": "J.C. Cross, the head of Texas Tech's biology department, and a game warden interviewed by Ruppelt both claimed the sightings could not have been birds."
+  },
+  {
+   "s": "cross",
+   "p": "disputed",
+   "o": "x_bird",
+   "quote": "J.C. Cross, the head of Texas Tech's biology department, and a game warden interviewed by Ruppelt both claimed the sightings could not have been birds."
+  },
+  {
+   "s": "cross",
+   "p": "statement",
+   "v": "the sightings could not have been birds",
+   "quote": "J.C. Cross, the head of Texas Tech's biology department, and a game warden interviewed by Ruppelt both claimed the sightings could not have been birds."
+  },
+  {
+   "s": "hams",
+   "p": "investigator",
+   "o": "case",
+   "quote": "William Hams, chief photographer for the Lubbock Avalanche-Journal, took several nighttime photos of birds flying over Lubbock's street lights and could not duplicate Hart's photos."
+  },
+  {
+   "s": "hams",
+   "p": "occupation",
+   "v": "chief photographer for the Lubbock Avalanche-Journal",
+   "quote": "William Hams, chief photographer for the Lubbock Avalanche-Journal, took several nighttime photos of birds flying over Lubbock's street lights and could not duplicate Hart's photos."
+  },
+  {
+   "s": "hams",
+   "p": "employed_by",
+   "o": "avalanche",
+   "quote": "William Hams, chief photographer for the Lubbock Avalanche-Journal, took several nighttime photos of birds flying over Lubbock's street lights and could not duplicate Hart's photos."
+  },
+  {
+   "s": "hams",
+   "p": "authored",
+   "o": "hams_photos",
+   "quote": "William Hams, chief photographer for the Lubbock Avalanche-Journal, took several nighttime photos of birds flying over Lubbock's street lights and could not duplicate Hart's photos."
+  },
+  {
+   "s": "hams",
+   "p": "result",
+   "v": "could not duplicate Hart's photos",
+   "quote": "William Hams, chief photographer for the Lubbock Avalanche-Journal, took several nighttime photos of birds flying over Lubbock's street lights and could not duplicate Hart's photos."
+  },
+  {
+   "s": "ray",
+   "p": "journalist",
+   "o": "case",
+   "quote": "Reporter Richard Ray interviewed Carl Hart, Jr. about taking the famous photos and being investigated by the U.S. Air Force."
+  },
+  {
+   "s": "ray",
+   "p": "occupation",
+   "v": "reporter",
+   "quote": "Reporter Richard Ray interviewed Carl Hart, Jr. about taking the famous photos and being investigated by the U.S. Air Force."
+  },
+  {
+   "s": "ray",
+   "p": "interviewed",
+   "o": "hart",
+   "quote": "Reporter Richard Ray interviewed Carl Hart, Jr. about taking the famous photos and being investigated by the U.S. Air Force."
+  },
+  {
+   "s": "lights",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "The Lubbock Lights were an unusual formation of lights seen over the city of Lubbock, Texas in August and September 1951."
+  },
+  {
+   "s": "lights",
+   "p": "count",
+   "v": "20–30 (first sighting, August 25, 1951)",
+   "quote": "they were sitting in the backyard of one of the professor's homes when they observed a total of 20–30 lights, as bright as stars but larger in size, flying overhead"
+  },
+  {
+   "s": "lights",
+   "p": "brightness",
+   "v": "as bright as stars but larger in size",
+   "quote": "they were sitting in the backyard of one of the professor's homes when they observed a total of 20–30 lights, as bright as stars but larger in size, flying overhead"
+  },
+  {
+   "s": "lights",
+   "p": "count",
+   "v": "about a dozen to fifteen (per Mead)",
+   "quote": "There were about a dozen to fifteen of these lights... they were absolutely circular... it gave all of us... an extremely eerie feeling."
+  },
+  {
+   "s": "lights",
+   "p": "size",
+   "v": "about the size of a dinner plate",
+   "quote": "According to one of the professors named Grayson Mead, the lights \"appeared to be about the size of a dinner plate and they were greenish-blue, slightly fluorescent in color."
+  },
+  {
+   "s": "lights",
+   "p": "size",
+   "v": "smaller than the full moon at the horizon",
+   "quote": "They were smaller than the full moon at the horizon."
+  },
+  {
+   "s": "lights",
+   "p": "color",
+   "v": "greenish-blue, slightly fluorescent",
+   "quote": "According to one of the professors named Grayson Mead, the lights \"appeared to be about the size of a dinner plate and they were greenish-blue, slightly fluorescent in color."
+  },
+  {
+   "s": "lights",
+   "p": "shape",
+   "v": "absolutely circular",
+   "quote": "There were about a dozen to fifteen of these lights... they were absolutely circular... it gave all of us... an extremely eerie feeling."
+  },
+  {
+   "s": "lights",
+   "p": "altitude",
+   "v": "above a thin cloud at about 2,000 feet (610 m)",
+   "quote": "Clark wrote that the professors observed one formation of lights flying above a thin cloud at about 2,000 feet (610 m) which he says allowed them to calculate that the lights were traveling at over 600 miles per hour (970 km/h)."
+  },
+  {
+   "s": "lights",
+   "p": "speed",
+   "v": "over 600 miles per hour (970 km/h)",
+   "quote": "Clark wrote that the professors observed one formation of lights flying above a thin cloud at about 2,000 feet (610 m) which he says allowed them to calculate that the lights were traveling at over 600 miles per hour (970 km/h)."
+  },
+  {
+   "s": "lights",
+   "p": "count",
+   "v": "18–20 (Hart sighting, August 30, 1951)",
+   "quote": "On the evening of August 30, 1951, Carl Hart, Jr., a freshman at Texas Tech, observed a group of 18–20 white lights in a \"v\" formation flying overhead."
+  },
+  {
+   "s": "lights",
+   "p": "color",
+   "v": "white (Hart sighting)",
+   "quote": "On the evening of August 30, 1951, Carl Hart, Jr., a freshman at Texas Tech, observed a group of 18–20 white lights in a \"v\" formation flying overhead."
+  },
+  {
+   "s": "lights",
+   "p": "formation",
+   "v": "\"v\" formation (Hart sighting)",
+   "quote": "On the evening of August 30, 1951, Carl Hart, Jr., a freshman at Texas Tech, observed a group of 18–20 white lights in a \"v\" formation flying overhead."
+  },
+  {
+   "s": "lights",
+   "p": "formation",
+   "v": "\"u\" formation (professors' sightings)",
+   "quote": "The Texas Tech professors claimed that the photos did not represent what they had observed, because their objects had flown in a \"u\", rather than a \"v\", formation."
+  },
+  {
+   "s": "lights",
+   "p": "count",
+   "v": "two more lights passed overhead before Hart photographed them",
+   "quote": "Two more lights passed overhead, and Hart captured five photos before they disappeared."
+  },
+  {
+   "s": "lights",
+   "p": "description",
+   "v": "peculiar flashing lights (three women in Lubbock)",
+   "quote": "According to UFO author Jerome Clark, three women in Lubbock reported that they had observed \"peculiar flashing lights\" in the sky on the same night as the professors' sightings, as well as Carl Hemminger, a professor of German at Texas Tech."
+  },
+  {
+   "s": "lights",
+   "p": "radar",
+   "v": "one UFO was picked up on radar",
+   "quote": "According to Captain Edward J. Ruppelt, \"Officially all of the sightings, except the UFO that was picked up on radar, are unknowns.\""
+  },
+  {
+   "s": "wing",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "While investigating the Lubbock Lights, Ruppelt also learned that several people in and around Lubbock claimed to have seen a \"flying wing\" moving over the city."
+  },
+  {
+   "s": "wing",
+   "p": "shape",
+   "v": "flying wing",
+   "quote": "While investigating the Lubbock Lights, Ruppelt also learned that several people in and around Lubbock claimed to have seen a \"flying wing\" moving over the city."
+  },
+  {
+   "s": "wing",
+   "p": "size",
+   "v": "huge",
+   "quote": "Among the witnesses was the wife of Ducker, who reported that in August 1951 she had observed a \"huge, soundless flying wing\" pass over her house."
+  },
+  {
+   "s": "wing",
+   "p": "sound",
+   "v": "soundless; made no sound as it flew overhead",
+   "quote": "Among the witnesses was the wife of Ducker, who reported that in August 1951 she had observed a \"huge, soundless flying wing\" pass over her house."
+  },
+  {
+   "s": "wing",
+   "p": "sighting_date",
+   "v": "August 1951",
+   "quote": "Among the witnesses was the wife of Ducker, who reported that in August 1951 she had observed a \"huge, soundless flying wing\" pass over her house."
+  },
+  {
+   "s": "wing",
+   "p": "identified_as",
+   "o": "x_aircraft",
+   "quote": "Ruppelt knew that the US Air Force did possess a \"flying wing\" jet bomber, and he felt that at least some of the sightings had been caused by the bomber"
+  },
+  {
+   "s": "photos",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Two more lights passed overhead, and Hart captured five photos before they disappeared."
+  },
+  {
+   "s": "photos",
+   "p": "count",
+   "v": "5",
+   "quote": "Two more lights passed overhead, and Hart captured five photos before they disappeared."
+  },
+  {
+   "s": "photos",
+   "p": "date_taken",
+   "v": "1951-08-30",
+   "quote": "On the evening of August 30, 1951, Carl Hart, Jr., a freshman at Texas Tech, observed a group of 18–20 white lights in a \"v\" formation flying overhead."
+  },
+  {
+   "s": "photos",
+   "p": "camera",
+   "v": "35-mm Kodak camera",
+   "quote": "Hart took a 35-mm Kodak camera and walked to the backyard of his parents’ home to see if the lights would return."
+  },
+  {
+   "s": "photos",
+   "p": "purchase_price",
+   "v": "$10",
+   "quote": "Hart took them to the offices of the Lubbock Avalanche-Journal where the newspaper's editor, Jay Harris, told Hart that the photos would be purchased for $10 and published in the paper"
+  },
+  {
+   "s": "photos",
+   "p": "publication",
+   "v": "reprinted in newspapers around the nation and in Life magazine",
+   "quote": "The photographs were soon reprinted in newspapers around the nation and in Life magazine."
+  },
+  {
+   "s": "photos",
+   "p": "analysis",
+   "v": "analyzed by the physics laboratory at Wright-Patterson Air Force Base in Ohio",
+   "quote": "The physics laboratory at Wright-Patterson Air Force Base in Ohio analyzed the Hart photographs."
+  },
+  {
+   "s": "photos",
+   "p": "assessment",
+   "v": "never proven to be a hoax, but neither were they proven to be genuine",
+   "quote": "Edward J. Ruppelt, the supervisor of the Air Force's Project Blue Book, released a written statement to the press that \"the [Hart] photos were never proven to be a hoax, but neither were they proven to be genuine.\""
+  },
+  {
+   "s": "photos",
+   "p": "disputed_by",
+   "v": "the Texas Tech professors claimed the photos did not represent what they had observed",
+   "quote": "The Texas Tech professors claimed that the photos did not represent what they had observed, because their objects had flown in a \"u\", rather than a \"v\", formation."
+  },
+  {
+   "s": "photos",
+   "p": "replication_attempt",
+   "v": "William Hams could not duplicate them with nighttime photos of birds over Lubbock's street lights",
+   "quote": "William Hams, chief photographer for the Lubbock Avalanche-Journal, took several nighttime photos of birds flying over Lubbock's street lights and could not duplicate Hart's photos."
+  },
+  {
+   "s": "statement",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Edward J. Ruppelt, the supervisor of the Air Force's Project Blue Book, released a written statement to the press that \"the [Hart] photos were never proven to be a hoax, but neither were they proven to be genuine.\""
+  },
+  {
+   "s": "statement",
+   "p": "content",
+   "v": "the [Hart] photos were never proven to be a hoax, but neither were they proven to be genuine",
+   "quote": "Edward J. Ruppelt, the supervisor of the Air Force's Project Blue Book, released a written statement to the press that \"the [Hart] photos were never proven to be a hoax, but neither were they proven to be genuine.\""
+  },
+  {
+   "s": "hams_photos",
+   "p": "key_document",
+   "o": "case",
+   "quote": "William Hams, chief photographer for the Lubbock Avalanche-Journal, took several nighttime photos of birds flying over Lubbock's street lights and could not duplicate Hart's photos."
+  },
+  {
+   "s": "hams_photos",
+   "p": "subject",
+   "v": "birds flying over Lubbock's street lights at night",
+   "quote": "William Hams, chief photographer for the Lubbock Avalanche-Journal, took several nighttime photos of birds flying over Lubbock's street lights and could not duplicate Hart's photos."
+  },
+  {
+   "s": "life_article",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In April 1952 Life magazine published an article about the UFO phenomenon that featured the Lubbock Lights."
+  },
+  {
+   "s": "life_article",
+   "p": "date",
+   "v": "1952-04",
+   "quote": "In April 1952 Life magazine published an article about the UFO phenomenon that featured the Lubbock Lights."
+  },
+  {
+   "s": "ruppelt_book",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Ruppelt devoted a chapter of his 1956 book to the incident."
+  },
+  {
+   "s": "ruppelt_book",
+   "p": "year",
+   "v": "1956",
+   "quote": "Ruppelt, Edward J. (1956). The Report on Unidentified Flying Objects."
+  },
+  {
+   "s": "ruppelt_book",
+   "p": "coverage",
+   "v": "a chapter devoted to the incident",
+   "quote": "Ruppelt devoted a chapter of his 1956 book to the incident."
+  },
+  {
+   "s": "ufo_book",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Clark, Jerome (1998). \"The Lubbock Lights\". The UFO Book."
+  },
+  {
+   "s": "ufo_book",
+   "p": "year",
+   "v": "1998",
+   "quote": "Clark, Jerome (1998). \"The Lubbock Lights\". The UFO Book."
+  },
+  {
+   "s": "ufo_book",
+   "p": "entry_title",
+   "v": "The Lubbock Lights",
+   "quote": "Clark, Jerome (1998). \"The Lubbock Lights\". The UFO Book."
+  },
+  {
+   "s": "mars",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The British release of the 1953 film Invaders From Mars contained an expanded observatory scene which included the protagonists discussing the Lubbock Lights as evidence for alien visitation to Earth."
+  },
+  {
+   "s": "mars",
+   "p": "year",
+   "v": "1953",
+   "quote": "The British release of the 1953 film Invaders From Mars contained an expanded observatory scene which included the protagonists discussing the Lubbock Lights as evidence for alien visitation to Earth."
+  },
+  {
+   "s": "mars",
+   "p": "detail",
+   "v": "the British release contained an expanded observatory scene in which the protagonists discuss the Lubbock Lights as evidence for alien visitation to Earth",
+   "quote": "The British release of the 1953 film Invaders From Mars contained an expanded observatory scene which included the protagonists discussing the Lubbock Lights as evidence for alien visitation to Earth."
+  },
+  {
+   "s": "kdfw_story",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In November 1999, Dallas, Texas-based television station KDFW aired a news story about the Lubbock Lights."
+  },
+  {
+   "s": "kdfw_story",
+   "p": "date",
+   "v": "1999-11",
+   "quote": "In November 1999, Dallas, Texas-based television station KDFW aired a news story about the Lubbock Lights."
+  },
+  {
+   "s": "taken",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The Lubbock Lights were featured in the 2002 Sci Fi Channel miniseries Taken, in which one alien poses as a human in the Lubbock area."
+  },
+  {
+   "s": "taken",
+   "p": "year",
+   "v": "2002",
+   "quote": "The Lubbock Lights were featured in the 2002 Sci Fi Channel miniseries Taken, in which one alien poses as a human in the Lubbock area."
+  },
+  {
+   "s": "taken",
+   "p": "format",
+   "v": "Sci Fi Channel miniseries",
+   "quote": "The Lubbock Lights were featured in the 2002 Sci Fi Channel miniseries Taken, in which one alien poses as a human in the Lubbock area."
+  },
+  {
+   "s": "taken",
+   "p": "detail",
+   "v": "one alien poses as a human in the Lubbock area",
+   "quote": "The Lubbock Lights were featured in the 2002 Sci Fi Channel miniseries Taken, in which one alien poses as a human in the Lubbock area."
+  },
+  {
+   "s": "film2005",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2005, a film called Lubbock Lights was released about the music scene in Lubbock which describes some theories about the lights by the musicians from the area."
+  },
+  {
+   "s": "film2005",
+   "p": "year",
+   "v": "2005",
+   "quote": "In 2005, a film called Lubbock Lights was released about the music scene in Lubbock which describes some theories about the lights by the musicians from the area."
+  },
+  {
+   "s": "film2005",
+   "p": "subject",
+   "v": "the music scene in Lubbock; describes some theories about the lights by musicians from the area",
+   "quote": "In 2005, a film called Lubbock Lights was released about the music scene in Lubbock which describes some theories about the lights by the musicians from the area."
+  },
+  {
+   "s": "song",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2006, Lubbock-based alternative country band Thrift Store Cowboys wrote and recorded a song titled \"Lubbock Lights\" on their third album, Lay Low While Crawling or Creeping."
+  },
+  {
+   "s": "song",
+   "p": "year",
+   "v": "2006",
+   "quote": "In 2006, Lubbock-based alternative country band Thrift Store Cowboys wrote and recorded a song titled \"Lubbock Lights\" on their third album, Lay Low While Crawling or Creeping."
+  },
+  {
+   "s": "song",
+   "p": "part_of",
+   "o": "album",
+   "quote": "In 2006, Lubbock-based alternative country band Thrift Store Cowboys wrote and recorded a song titled \"Lubbock Lights\" on their third album, Lay Low While Crawling or Creeping."
+  },
+  {
+   "s": "album",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2006, Lubbock-based alternative country band Thrift Store Cowboys wrote and recorded a song titled \"Lubbock Lights\" on their third album, Lay Low While Crawling or Creeping."
+  },
+  {
+   "s": "album",
+   "p": "detail",
+   "v": "third album of Thrift Store Cowboys",
+   "quote": "In 2006, Lubbock-based alternative country band Thrift Store Cowboys wrote and recorded a song titled \"Lubbock Lights\" on their third album, Lay Low While Crawling or Creeping."
+  },
+  {
+   "s": "pbb_series",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The third episode of the 2019 History Channel television series Project Blue Book is titled \"The Lubbock Lights\", and is based on the Lubbock Lights incident."
+  },
+  {
+   "s": "pbb_series",
+   "p": "year",
+   "v": "2019",
+   "quote": "The third episode of the 2019 History Channel television series Project Blue Book is titled \"The Lubbock Lights\", and is based on the Lubbock Lights incident."
+  },
+  {
+   "s": "pbb_episode",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The third episode of the 2019 History Channel television series Project Blue Book is titled \"The Lubbock Lights\", and is based on the Lubbock Lights incident."
+  },
+  {
+   "s": "pbb_episode",
+   "p": "part_of",
+   "o": "pbb_series",
+   "quote": "The third episode of the 2019 History Channel television series Project Blue Book is titled \"The Lubbock Lights\", and is based on the Lubbock Lights incident."
+  },
+  {
+   "s": "pbb_episode",
+   "p": "episode_number",
+   "v": "3",
+   "quote": "The third episode of the 2019 History Channel television series Project Blue Book is titled \"The Lubbock Lights\", and is based on the Lubbock Lights incident."
+  },
+  {
+   "s": "marfa",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Marfa lights"
+  },
+  {
+   "s": "levelland",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Levelland UFO case, 1957 report about 30 miles west of Lubbock"
+  },
+  {
+   "s": "levelland",
+   "p": "year",
+   "v": "1957",
+   "quote": "Levelland UFO case, 1957 report about 30 miles west of Lubbock"
+  },
+  {
+   "s": "levelland",
+   "p": "location",
+   "v": "about 30 miles west of Lubbock",
+   "quote": "Levelland UFO case, 1957 report about 30 miles west of Lubbock"
+  },
+  {
+   "s": "f_lights",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Lubbock Lights were an unusual formation of lights seen over the city of Lubbock, Texas in August and September 1951."
+  },
+  {
+   "s": "f_photo",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Two more lights passed overhead, and Hart captured five photos before they disappeared."
+  },
+  {
+   "s": "f_radar",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to Captain Edward J. Ruppelt, \"Officially all of the sightings, except the UFO that was picked up on radar, are unknowns.\""
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Ruppelt traveled to Lubbock and interviewed the professors, Carl Hart, and others who claimed to have witnessed the lights."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Lubbock Lights incident received national publicity in the United States as a UFO sighting, and was investigated by the U.S. Air Force."
+  },
+  {
+   "s": "f_silent",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Among the witnesses was the wife of Ducker, who reported that in August 1951 she had observed a \"huge, soundless flying wing\" pass over her house."
+  },
+  {
+   "s": "f_speed",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Clark wrote that the professors observed one formation of lights flying above a thin cloud at about 2,000 feet (610 m) which he says allowed them to calculate that the lights were traveling at over 600 miles per hour (970 km/h)."
+  },
+  {
+   "s": "x_bird",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Ruppelt's conclusion at the time was that the professors had seen a type of bird called a plover."
+  },
+  {
+   "s": "x_bird",
+   "p": "detail",
+   "v": "migrating plovers reflecting Lubbock's new vapor street lights",
+   "quote": "The city of Lubbock had installed new vapor street lights in 1951, and Ruppelt believed migrating plovers were reflecting the new street lights."
+  },
+  {
+   "s": "x_aircraft",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Ruppelt knew that the US Air Force did possess a \"flying wing\" jet bomber, and he felt that at least some of the sightings had been caused by the bomber"
+  },
+  {
+   "s": "x_natural",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "They weren't birds, they weren't refracted light, but they weren't spaceships [...] [they were] positively identified as a very commonplace and easily explainable natural phenomenon"
+  }
+ ]
+}

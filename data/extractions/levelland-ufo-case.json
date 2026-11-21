@@ -1,0 +1,2807 @@
+{
+ "slug": "levelland-ufo-case",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Levelland UFO case",
+   "aliases": [
+    "Levelland case",
+    "Levelland sightings"
+   ],
+   "description": "UFOs reportedly seen around highways near Levelland, Texas on 2-3 November 1957, with numerous reports of stalled vehicle engines and lights."
+  },
+  {
+   "key": "levelland",
+   "type": "place",
+   "name": "Levelland, Texas",
+   "aliases": [
+    "Levelland"
+   ],
+   "description": "Texas town around which the sightings were reported"
+  },
+  {
+   "key": "texas",
+   "type": "place",
+   "name": "Texas",
+   "description": "US state of the sightings"
+  },
+  {
+   "key": "lubbock",
+   "type": "place",
+   "name": "Lubbock, Texas",
+   "aliases": [
+    "Lubbock"
+   ],
+   "description": "City east of Levelland"
+  },
+  {
+   "key": "south_plains",
+   "type": "place",
+   "name": "Texas South Plains",
+   "aliases": [
+    "South Plains"
+   ],
+   "description": "Flat prairie region where Levelland is located"
+  },
+  {
+   "key": "new_mexico",
+   "type": "place",
+   "name": "New Mexico",
+   "description": "Nearby state where similar reports were made"
+  },
+  {
+   "key": "white_sands",
+   "type": "place",
+   "name": "White Sands Proving Ground",
+   "description": "Military site in New Mexico where military police patrols reported an egg-shaped object"
+  },
+  {
+   "key": "trinity",
+   "type": "place",
+   "name": "Trinity Site",
+   "description": "Site of the first A-bomb explosion, over whose bunker the White Sands object reportedly hovered"
+  },
+  {
+   "key": "alamogordo",
+   "type": "place",
+   "name": "Alamogordo, New Mexico",
+   "aliases": [
+    "Alamogordo"
+   ],
+   "description": "Home of James Stokes"
+  },
+  {
+   "key": "el_paso",
+   "type": "place",
+   "name": "El Paso, Texas",
+   "aliases": [
+    "El Paso"
+   ],
+   "description": "Destination of James Stokes's drive"
+  },
+  {
+   "key": "hwy54",
+   "type": "place",
+   "name": "Highway 54",
+   "description": "Highway along which Stokes reported cars stranded"
+  },
+  {
+   "key": "orogrande",
+   "type": "place",
+   "name": "Orogrande, New Mexico",
+   "aliases": [
+    "Orogrande"
+   ],
+   "description": "Locality north of the stretch of Highway 54 where Stokes reported his sighting"
+  },
+  {
+   "key": "kearney",
+   "type": "place",
+   "name": "Kearney, Nebraska",
+   "aliases": [
+    "Kearney"
+   ],
+   "description": "Town near which Reinhold O. Schmidt claimed his encounter"
+  },
+  {
+   "key": "nebraska",
+   "type": "place",
+   "name": "Nebraska",
+   "description": "US state of the Schmidt claim"
+  },
+  {
+   "key": "hastings",
+   "type": "place",
+   "name": "Hastings State Hospital",
+   "description": "Hospital to which Schmidt was transferred for psychiatric evaluation"
+  },
+  {
+   "key": "venus",
+   "type": "place",
+   "name": "Venus",
+   "aliases": [
+    "the planet Venus"
+   ],
+   "description": "Planet the occupants in Schmidt's story claimed to be from"
+  },
+  {
+   "key": "dallas",
+   "type": "place",
+   "name": "Dallas, Texas",
+   "aliases": [
+    "Dallas"
+   ],
+   "description": "City where television station KDFW is based"
+  },
+  {
+   "key": "saucedo",
+   "type": "person",
+   "name": "Pedro Saucedo",
+   "aliases": [
+    "Saucedo"
+   ],
+   "description": "Immigrant farm worker who made the first report to Levelland police"
+  },
+  {
+   "key": "salaz",
+   "type": "person",
+   "name": "Joe Salaz",
+   "aliases": [
+    "Joe"
+   ],
+   "description": "Immigrant farm worker in the truck with Saucedo"
+  },
+  {
+   "key": "fowler",
+   "type": "person",
+   "name": "A. J. Fowler",
+   "aliases": [
+    "Officer Fowler",
+    "Fowler"
+   ],
+   "description": "Levelland police officer working the night desk who took the calls"
+  },
+  {
+   "key": "wheeler",
+   "type": "person",
+   "name": "Jim Wheeler",
+   "aliases": [
+    "Wheeler"
+   ],
+   "description": "Motorist who reported an egg-shaped object in the road east of Levelland"
+  },
+  {
+   "key": "alvarez",
+   "type": "person",
+   "name": "Jose Alvarez",
+   "description": "Reported a strange object on the road north of Levelland"
+  },
+  {
+   "key": "wright",
+   "type": "person",
+   "name": "Newell Wright",
+   "aliases": [
+    "Wright"
+   ],
+   "description": "Texas Technological College student who reported an egg-shaped object in the road"
+  },
+  {
+   "key": "williams",
+   "type": "person",
+   "name": "Frank Williams",
+   "description": "Farmer who reported a brightly glowing object in the road"
+  },
+  {
+   "key": "martin",
+   "type": "person",
+   "name": "Ronald Martin",
+   "description": "Caller at 12:45 a.m. who reported a brightly lit object in the road"
+  },
+  {
+   "key": "long",
+   "type": "person",
+   "name": "James Long",
+   "description": "Caller at 1:15 a.m. who reported a brightly lit object in the road"
+  },
+  {
+   "key": "clem",
+   "type": "person",
+   "name": "Weir Clem",
+   "aliases": [
+    "Sheriff Weir Clem"
+   ],
+   "description": "Sheriff who saw a brilliant red object moving across the sky"
+  },
+  {
+   "key": "jones",
+   "type": "person",
+   "name": "Ray Jones",
+   "description": "Levelland's Fire Chief, who also saw an object"
+  },
+  {
+   "key": "ruppelt",
+   "type": "person",
+   "name": "Edward J. Ruppelt",
+   "description": "Air Force UFO investigator who connected the Levelland case with New Mexico reports"
+  },
+  {
+   "key": "stokes",
+   "type": "person",
+   "name": "James Stokes",
+   "aliases": [
+    "Stokes"
+   ],
+   "description": "Military technician who reported a similar sighting on Highway 54 on November 4"
+  },
+  {
+   "key": "schmidt",
+   "type": "person",
+   "name": "Reinhold O. Schmidt",
+   "aliases": [
+    "Schmidt"
+   ],
+   "description": "Claimed contact with occupants of a blimp-shaped object near Kearney, Nebraska"
+  },
+  {
+   "key": "peebles",
+   "type": "person",
+   "name": "Curtis Peebles",
+   "aliases": [
+    "Peebles, Curtis"
+   ],
+   "description": "UFO historian quoted on the Air Force investigation"
+  },
+  {
+   "key": "menzel",
+   "type": "person",
+   "name": "Donald H. Menzel",
+   "aliases": [
+    "Menzel",
+    "Donald Menzel",
+    "Menzel, Donald"
+   ],
+   "description": "Harvard University astronomer and prominent UFO skeptic"
+  },
+  {
+   "key": "mcdonald",
+   "type": "person",
+   "name": "James E. McDonald",
+   "aliases": [
+    "McDonald"
+   ],
+   "description": "Ufologist who disputed the Air Force explanation and testified in 1968"
+  },
+  {
+   "key": "hynek",
+   "type": "person",
+   "name": "J. Allen Hynek",
+   "aliases": [
+    "Hynek",
+    "Hynek, J. Allen"
+   ],
+   "description": "Ufologist who disputed the ball lightning explanation he had earlier concurred in"
+  },
+  {
+   "key": "ray",
+   "type": "person",
+   "name": "Richard Ray",
+   "description": "KDFW reporter who interviewed Sheriff Weir Clem's widow and friends"
+  },
+  {
+   "key": "dudding",
+   "type": "person",
+   "name": "George Dudding",
+   "aliases": [
+    "Dudding, George"
+   ],
+   "description": "Author of the book The Levelland UFO Case"
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "aliases": [
+    "US Air Force",
+    "the Air Force",
+    "Air Force"
+   ],
+   "description": "Investigated the sightings through Project Blue Book and attributed them to an electrical storm"
+  },
+  {
+   "key": "lpd",
+   "type": "organization",
+   "name": "Levelland police department",
+   "aliases": [
+    "Levelland police"
+   ],
+   "description": "Received a total of 15 UFO-related reports during the night"
+  },
+  {
+   "key": "ttc",
+   "type": "organization",
+   "name": "Texas Technological College",
+   "aliases": [
+    "Texas Tech University"
+   ],
+   "description": "College where Newell Wright was a student"
+  },
+  {
+   "key": "mp",
+   "type": "organization",
+   "name": "White Sands Proving Ground military police",
+   "aliases": [
+    "military police"
+   ],
+   "description": "Two military police patrols that reported an egg-shaped object"
+  },
+  {
+   "key": "time",
+   "type": "organization",
+   "name": "Time Magazine",
+   "aliases": [
+    "Time"
+   ],
+   "description": "Covered the cases in its November 17 edition"
+  },
+  {
+   "key": "harvard",
+   "type": "organization",
+   "name": "Harvard University",
+   "description": "University where Donald H. Menzel was an astronomer"
+  },
+  {
+   "key": "house",
+   "type": "organization",
+   "name": "United States House of Representatives",
+   "aliases": [
+    "US House of Representatives"
+   ],
+   "description": "A committee of the House heard McDonald's 1968 testimony"
+  },
+  {
+   "key": "kdfw",
+   "type": "organization",
+   "name": "KDFW",
+   "description": "Dallas-based television station that aired a report on the case in March 2002"
+  },
+  {
+   "key": "bluebook",
+   "type": "program",
+   "name": "Project Blue Book",
+   "aliases": [
+    "Blue Book"
+   ],
+   "description": "Official US Air Force research group assigned to investigate UFO reports"
+  },
+  {
+   "key": "sign",
+   "type": "program",
+   "name": "Project Sign",
+   "description": "Name under which Project Blue Book was started in 1947"
+  },
+  {
+   "key": "c_saucedo",
+   "type": "craft",
+   "name": "rocket-shaped object reported by Pedro Saucedo and Joe Salaz",
+   "description": "Object that reportedly rose up and passed over Saucedo's truck west of Levelland"
+  },
+  {
+   "key": "c_wheeler",
+   "type": "craft",
+   "name": "egg-shaped object reported by Jim Wheeler",
+   "description": "Brilliantly lit object reportedly sitting in the road east of Levelland"
+  },
+  {
+   "key": "c_wright",
+   "type": "craft",
+   "name": "egg-shaped object reported by Newell Wright",
+   "description": "100-foot-long object reportedly sitting in the road east of Levelland"
+  },
+  {
+   "key": "c_williams",
+   "type": "craft",
+   "name": "brightly glowing object reported by Frank Williams",
+   "description": "Object reportedly sitting in the road"
+  },
+  {
+   "key": "c_clem",
+   "type": "craft",
+   "name": "brilliant red object seen by Sheriff Weir Clem",
+   "description": "Object seen moving across the sky at 1:30 a.m."
+  },
+  {
+   "key": "c_ws",
+   "type": "craft",
+   "name": "egg-shaped object reported at White Sands Proving Ground",
+   "description": "Bright object reported by two military police patrols"
+  },
+  {
+   "key": "c_stokes",
+   "type": "craft",
+   "name": "egg-shaped craft reported by James Stokes",
+   "description": "Craft about 500 feet long reported travelling Mach 2"
+  },
+  {
+   "key": "c_schmidt",
+   "type": "craft",
+   "name": "blimp-shaped object claimed by Reinhold O. Schmidt",
+   "description": "Large object Schmidt claimed to have seen on the ground in a field near Kearney"
+  },
+  {
+   "key": "v_truck",
+   "type": "vehicle",
+   "name": "Pedro Saucedo's truck",
+   "aliases": [
+    "my big truck"
+   ],
+   "description": "Truck whose engine reportedly died as the object approached"
+  },
+  {
+   "key": "v_wheeler",
+   "type": "vehicle",
+   "name": "Jim Wheeler's car",
+   "description": "Car that reportedly died near the object and restarted when it left"
+  },
+  {
+   "key": "v_alvarez",
+   "type": "vehicle",
+   "name": "Jose Alvarez's vehicle",
+   "description": "Vehicle whose engine reportedly died until the object departed"
+  },
+  {
+   "key": "v_wright",
+   "type": "vehicle",
+   "name": "Newell Wright's car",
+   "description": "Car whose engine and headlights reportedly failed"
+  },
+  {
+   "key": "v_williams",
+   "type": "vehicle",
+   "name": "Frank Williams's car",
+   "description": "Car whose lights and motor reportedly stopped near the object"
+  },
+  {
+   "key": "v_jones",
+   "type": "vehicle",
+   "name": "Ray Jones's vehicle",
+   "description": "Vehicle whose headlights and engine experienced temporary issues"
+  },
+  {
+   "key": "v_stokes",
+   "type": "vehicle",
+   "name": "James Stokes's car",
+   "description": "Automobile whose radio malfunctioned and engine lost power"
+  },
+  {
+   "key": "sputnik",
+   "type": "vehicle",
+   "name": "Sputnik",
+   "aliases": [
+    "Soviet satellite Sputnik"
+   ],
+   "description": "New Soviet satellite whose tracking Hynek was responsible for"
+  },
+  {
+   "key": "d_report",
+   "type": "document",
+   "name": "Project Blue Book final report on the Levelland incident",
+   "aliases": [
+    "Blue Book's final report"
+   ],
+   "description": "Blue Book's final report, said not to mention nine of the fifteen witnesses"
+  },
+  {
+   "key": "d_testimony",
+   "type": "document",
+   "name": "James E. McDonald's 1968 testimony before a committee of the US House of Representatives",
+   "description": "Testimony in which McDonald described the Levelland case"
+  },
+  {
+   "key": "w_time",
+   "type": "work",
+   "name": "Time Magazine coverage, November 17 edition",
+   "description": "Magazine coverage of the cases"
+  },
+  {
+   "key": "w_kdfw",
+   "type": "work",
+   "name": "KDFW report about the Levelland UFO case (March 2002)",
+   "description": "Television report featuring interviews with Sheriff Weir Clem's widow and friends"
+  },
+  {
+   "key": "w_dudding",
+   "type": "work",
+   "name": "The Levelland UFO Case",
+   "description": "Book by George Dudding, 15 March 2016"
+  },
+  {
+   "key": "k_ws",
+   "type": "case",
+   "name": "White Sands sightings",
+   "aliases": [
+    "White Sands Proving Ground sightings"
+   ],
+   "description": "Reports of an egg-shaped object by two military police patrols at White Sands Proving Ground, hours after the Levelland sightings"
+  },
+  {
+   "key": "k_stokes",
+   "type": "case",
+   "name": "James Stokes sighting",
+   "description": "November 4 report by military technician James Stokes of an egg-shaped craft and stalled cars on Highway 54 south of Orogrande"
+  },
+  {
+   "key": "k_schmidt",
+   "type": "case",
+   "name": "Reinhold O. Schmidt controversy",
+   "description": "November 5, 1957 contact claim near Kearney, Nebraska, widely deemed a hoax by ufologists"
+  },
+  {
+   "key": "k_lubbock",
+   "type": "case",
+   "name": "Lubbock Lights",
+   "description": "Unusual light formation over Lubbock, Texas, between August and September 1951"
+  },
+  {
+   "key": "f_em",
+   "type": "feature",
+   "name": "electromagnetic-interference"
+  },
+  {
+   "key": "f_egg",
+   "type": "feature",
+   "name": "shape-oval-egg"
+  },
+  {
+   "key": "f_shape_other",
+   "type": "feature",
+   "name": "shape-other"
+  },
+  {
+   "key": "f_land",
+   "type": "feature",
+   "name": "landing-reported"
+  },
+  {
+   "key": "f_sound",
+   "type": "feature",
+   "name": "sound-reported"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses"
+  },
+  {
+   "key": "f_police",
+   "type": "feature",
+   "name": "police-witnesses"
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation"
+  },
+  {
+   "key": "f_congress",
+   "type": "feature",
+   "name": "congressional-hearing"
+  },
+  {
+   "key": "f_heat",
+   "type": "feature",
+   "name": "other:heat-felt"
+  },
+  {
+   "key": "f_wave",
+   "type": "feature",
+   "name": "other:sighting-wave"
+  },
+  {
+   "key": "x_ball",
+   "type": "explanation",
+   "name": "ball-lightning-or-plasma"
+  },
+  {
+   "key": "x_storm",
+   "type": "explanation",
+   "name": "other:electrical-storm"
+  },
+  {
+   "key": "x_elmo",
+   "type": "explanation",
+   "name": "other:st-elmos-fire"
+  },
+  {
+   "key": "x_wet",
+   "type": "explanation",
+   "name": "other:wet-electrical-circuits"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1957-11-02",
+   "quote": "The Levelland UFO case refers to UFOs reportedly seen around highways near Levelland, Texas on 2–3 November 1957."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1957-11-03",
+   "quote": "The Levelland UFO case refers to UFOs reportedly seen around highways near Levelland, Texas on 2–3 November 1957."
+  },
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1957-11-02",
+   "quote": "On the evening of 2 November 1957, two immigrant farm workers, Pedro Saucedo and Joe Salaz, called the Levelland police department to report a UFO sighting."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1957-11-03",
+   "quote": "During the night of 2–3 November, the Levelland police department received a total of 15 UFO-related reports, and Officer Fowler noted that \"everybody who called was very excited.\""
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "evening",
+   "quote": "On the evening of 2 November 1957, two immigrant farm workers, Pedro Saucedo and Joe Salaz, called the Levelland police department to report a UFO sighting."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "The Levelland UFO case refers to UFOs reportedly seen around highways near Levelland, Texas on 2–3 November 1957."
+  },
+  {
+   "s": "case",
+   "p": "witness_count",
+   "v": "15",
+   "quote": "Ufologists have also argued that the Air Force investigator did not interview nine of the fifteen witnesses, nor were they mentioned in Blue Book's final report on the incident."
+  },
+  {
+   "s": "case",
+   "p": "report_count",
+   "v": "15 UFO-related reports received by the Levelland police department",
+   "quote": "During the night of 2–3 November, the Levelland police department received a total of 15 UFO-related reports, and Officer Fowler noted that \"everybody who called was very excited.\""
+  },
+  {
+   "s": "case",
+   "p": "setting",
+   "v": "around highways near Levelland, Texas",
+   "quote": "The Levelland UFO case refers to UFOs reportedly seen around highways near Levelland, Texas on 2–3 November 1957."
+  },
+  {
+   "s": "case",
+   "p": "official_conclusion",
+   "v": "reports were caused by either ball lightning or a severe electrical storm",
+   "quote": "Both the US Air Force and UFO skeptics concluded that the reports were caused by either ball lightning or a severe electrical storm."
+  },
+  {
+   "s": "case",
+   "p": "ufologist_assessment",
+   "v": "the most impressive case in UFO history, mainly because of the large number of witnesses over a relatively short period of time",
+   "quote": "Ufologists believe it represents the most impressive case in UFO history, mainly because of the large number of witnesses involved over a relatively short period of time."
+  },
+  {
+   "s": "case",
+   "p": "report",
+   "v": "at 10:55 p.m. a married couple driving northeast of Levelland saw a bright flash of light moving across the sky; their headlights and radio died for three seconds",
+   "quote": "At 10:55 p.m., a married couple driving northeast of Levelland reported that they saw a bright flash of light moving across the sky and their headlights and radio died for three seconds."
+  },
+  {
+   "s": "case",
+   "p": "report_time",
+   "v": "10:55 p.m.",
+   "quote": "At 10:55 p.m., a married couple driving northeast of Levelland reported that they saw a bright flash of light moving across the sky and their headlights and radio died for three seconds."
+  },
+  {
+   "s": "case",
+   "p": "interference_duration",
+   "v": "three seconds (married couple's headlights and radio)",
+   "quote": "At 10:55 p.m., a married couple driving northeast of Levelland reported that they saw a bright flash of light moving across the sky and their headlights and radio died for three seconds."
+  },
+  {
+   "s": "case",
+   "p": "police_response",
+   "v": "several Levelland police officers were investigating the reports",
+   "quote": "By this time, several Levelland police officers were investigating the reports."
+  },
+  {
+   "s": "case",
+   "p": "end_of_reports",
+   "v": "the reports apparently ended soon after Ray Jones's sighting",
+   "quote": "The reports apparently ended soon after."
+  },
+  {
+   "s": "case",
+   "p": "caller_demeanor",
+   "v": "everybody who called was very excited",
+   "quote": "During the night of 2–3 November, the Levelland police department received a total of 15 UFO-related reports, and Officer Fowler noted that \"everybody who called was very excited.\""
+  },
+  {
+   "s": "case",
+   "p": "publicity",
+   "v": "received national publicity",
+   "quote": "The Levelland sightings received national publicity and were soon investigated by Project Blue Book."
+  },
+  {
+   "s": "case",
+   "p": "investigation",
+   "v": "an Air Force sergeant was sent to Levelland and spent seven hours in the city",
+   "quote": "An Air Force sergeant was sent to Levelland and spent seven hours in the city investigating the incident."
+  },
+  {
+   "s": "case",
+   "p": "investigation_duration",
+   "v": "seven hours",
+   "quote": "An Air Force sergeant was sent to Levelland and spent seven hours in the city investigating the incident."
+  },
+  {
+   "s": "case",
+   "p": "investigator_rank",
+   "v": "Air Force sergeant",
+   "quote": "An Air Force sergeant was sent to Levelland and spent seven hours in the city investigating the incident."
+  },
+  {
+   "s": "case",
+   "p": "witnesses_interviewed",
+   "v": "three of the eyewitnesses: Saucedo, Wheeler, and Wright",
+   "quote": "After interviewing three of the eyewitnesses – Saucedo, Wheeler, and Wright – and after learning that thunderstorms were present in the area earlier in the day, the Air Force investigator concluded that a severe electrical storm – most probably ball lightning or St. Elmo's fire – was the major cause for the sightings and reported auto failures."
+  },
+  {
+   "s": "case",
+   "p": "weather",
+   "v": "thunderstorms were present in the area earlier in the day",
+   "quote": "After interviewing three of the eyewitnesses – Saucedo, Wheeler, and Wright – and after learning that thunderstorms were present in the area earlier in the day, the Air Force investigator concluded that a severe electrical storm – most probably ball lightning or St. Elmo's fire – was the major cause for the sightings and reported auto failures."
+  },
+  {
+   "s": "case",
+   "p": "weather",
+   "v": "rain, thunderstorms and lightning on the night in question, after several days of freak weather (Menzel)",
+   "quote": "Menzel argued that \"in Levelland on the night of November 2 conditions were ideal for the formation of ball lightning. For several days the area had been experiencing freak weather, and on the night in question had been visited by rain, thunderstorms and lightning.\""
+  },
+  {
+   "s": "case",
+   "p": "weather",
+   "v": "no lightning or thunderstorm, and only a trace of rain (McDonald)",
+   "quote": "In testimony before a committee of the US House of Representatives in 1968, McDonald said that \"One famous [UFO] case was at Levelland, Texas...ten vehicles were stopped within a short area, all independently in a 2-hour period. There was no lightning or thunderstorm, and only a trace of rain.\""
+  },
+  {
+   "s": "case",
+   "p": "weather",
+   "v": "observers reported overcast and mist but no lightning (Hynek)",
+   "quote": "This was shown not to be the case. Observers reported overcast and mist but no lightning."
+  },
+  {
+   "s": "case",
+   "p": "vehicles_stopped",
+   "v": "ten vehicles stopped within a short area, all independently in a 2-hour period (McDonald)",
+   "quote": "In testimony before a committee of the US House of Representatives in 1968, McDonald said that \"One famous [UFO] case was at Levelland, Texas...ten vehicles were stopped within a short area, all independently in a 2-hour period. There was no lightning or thunderstorm, and only a trace of rain.\""
+  },
+  {
+   "s": "case",
+   "p": "duration",
+   "v": "2-hour period (McDonald)",
+   "quote": "In testimony before a committee of the US House of Representatives in 1968, McDonald said that \"One famous [UFO] case was at Levelland, Texas...ten vehicles were stopped within a short area, all independently in a 2-hour period. There was no lightning or thunderstorm, and only a trace of rain.\""
+  },
+  {
+   "s": "case",
+   "p": "engine_failure_explanation",
+   "v": "wet electrical circuits",
+   "quote": "The engine failures mentioned by the eyewitnesses were blamed on \"wet electrical circuits.\""
+  },
+  {
+   "s": "case",
+   "p": "criticism",
+   "v": "the Air Force investigator did not interview nine of the fifteen witnesses, nor were they mentioned in Blue Book's final report",
+   "quote": "Ufologists have also argued that the Air Force investigator did not interview nine of the fifteen witnesses, nor were they mentioned in Blue Book's final report on the incident."
+  },
+  {
+   "s": "case",
+   "p": "criticism",
+   "v": "civilian saucer groups complained the investigator had spent only seven hours in the area",
+   "quote": "\"members of civilian saucer groups complained that, since [the Air Force investigator] had spent only seven hours in the area, he had obviously not taken the problem seriously and could not have found the correct solution."
+  },
+  {
+   "s": "case",
+   "p": "media_connection",
+   "v": "press and others connected the Levelland case with similar reports in nearby New Mexico",
+   "quote": "Press and others, including Air Force UFO investigator Edward J. Ruppelt, connected the Levelland case with similar reports in nearby New Mexico."
+  },
+  {
+   "s": "case",
+   "p": "media_coverage",
+   "v": "KDFW aired a report about the case in March 2002",
+   "quote": "In March 2002, Dallas-based television station KDFW aired a report about the Levelland UFO case in which reporter Richard Ray (now retired) interviewed Sheriff Weir Clem's widow and friends."
+  },
+  {
+   "s": "levelland",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Levelland UFO case refers to UFOs reportedly seen around highways near Levelland, Texas on 2–3 November 1957."
+  },
+  {
+   "s": "levelland",
+   "p": "located_in",
+   "o": "texas",
+   "quote": "The Levelland UFO case refers to UFOs reportedly seen around highways near Levelland, Texas on 2–3 November 1957."
+  },
+  {
+   "s": "levelland",
+   "p": "located_in",
+   "o": "south_plains",
+   "quote": "Levelland, which in 1957 had a population of about 10,000, is located west of Lubbock on the flat prairie of the Texas South Plains."
+  },
+  {
+   "s": "levelland",
+   "p": "population",
+   "v": "about 10,000 in 1957",
+   "quote": "Levelland, which in 1957 had a population of about 10,000, is located west of Lubbock on the flat prairie of the Texas South Plains."
+  },
+  {
+   "s": "levelland",
+   "p": "location",
+   "v": "west of Lubbock on the flat prairie of the Texas South Plains",
+   "quote": "Levelland, which in 1957 had a population of about 10,000, is located west of Lubbock on the flat prairie of the Texas South Plains."
+  },
+  {
+   "s": "texas",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Levelland UFO case refers to UFOs reportedly seen around highways near Levelland, Texas on 2–3 November 1957."
+  },
+  {
+   "s": "lubbock",
+   "p": "near",
+   "o": "case",
+   "quote": "Levelland, which in 1957 had a population of about 10,000, is located west of Lubbock on the flat prairie of the Texas South Plains."
+  },
+  {
+   "s": "lubbock",
+   "p": "located_in",
+   "o": "texas",
+   "quote": "Lubbock Lights – Unusual light formation over Lubbock, Texas, between August and September 1951"
+  },
+  {
+   "s": "south_plains",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Levelland, which in 1957 had a population of about 10,000, is located west of Lubbock on the flat prairie of the Texas South Plains."
+  },
+  {
+   "s": "south_plains",
+   "p": "located_in",
+   "o": "texas",
+   "quote": "Levelland, which in 1957 had a population of about 10,000, is located west of Lubbock on the flat prairie of the Texas South Plains."
+  },
+  {
+   "s": "south_plains",
+   "p": "terrain",
+   "v": "flat prairie",
+   "quote": "Levelland, which in 1957 had a population of about 10,000, is located west of Lubbock on the flat prairie of the Texas South Plains."
+  },
+  {
+   "s": "new_mexico",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Press and others, including Air Force UFO investigator Edward J. Ruppelt, connected the Levelland case with similar reports in nearby New Mexico."
+  },
+  {
+   "s": "new_mexico",
+   "p": "relation",
+   "v": "nearby; similar reports connected with the Levelland case",
+   "quote": "Press and others, including Air Force UFO investigator Edward J. Ruppelt, connected the Levelland case with similar reports in nearby New Mexico."
+  },
+  {
+   "s": "white_sands",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Hours after the sightings in Levelland, at 2:30 a.m., two different military police patrols at the White Sands Proving Ground reported a bright, unidentified egg-shaped object they estimated to be 100 yards (91 m) in diameter."
+  },
+  {
+   "s": "white_sands",
+   "p": "occurred_at",
+   "o": "k_ws",
+   "quote": "Hours after the sightings in Levelland, at 2:30 a.m., two different military police patrols at the White Sands Proving Ground reported a bright, unidentified egg-shaped object they estimated to be 100 yards (91 m) in diameter."
+  },
+  {
+   "s": "trinity",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The object was described as being \"nearly as bright as the sun\" and was reportedly hovering \"over the bunker used in the first A-bomb explosion at Trinity Site\"."
+  },
+  {
+   "s": "trinity",
+   "p": "near",
+   "o": "k_ws",
+   "quote": "The object was described as being \"nearly as bright as the sun\" and was reportedly hovering \"over the bunker used in the first A-bomb explosion at Trinity Site\"."
+  },
+  {
+   "s": "trinity",
+   "p": "significance",
+   "v": "bunker used in the first A-bomb explosion",
+   "quote": "The object was described as being \"nearly as bright as the sun\" and was reportedly hovering \"over the bunker used in the first A-bomb explosion at Trinity Site\"."
+  },
+  {
+   "s": "alamogordo",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On November 4, military technician James Stokes reported a similar sighting while driving from his home in Alamogordo to El Paso."
+  },
+  {
+   "s": "alamogordo",
+   "p": "related_place",
+   "o": "k_stokes",
+   "quote": "On November 4, military technician James Stokes reported a similar sighting while driving from his home in Alamogordo to El Paso."
+  },
+  {
+   "s": "el_paso",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On November 4, military technician James Stokes reported a similar sighting while driving from his home in Alamogordo to El Paso."
+  },
+  {
+   "s": "el_paso",
+   "p": "related_place",
+   "o": "k_stokes",
+   "quote": "On November 4, military technician James Stokes reported a similar sighting while driving from his home in Alamogordo to El Paso."
+  },
+  {
+   "s": "hwy54",
+   "p": "related_place",
+   "o": "case",
+   "quote": "He reported being one of \"six to ten\" such cars stranded along Highway 54 about eight to ten miles (13 to 16 km) south of Orogrande."
+  },
+  {
+   "s": "hwy54",
+   "p": "occurred_at",
+   "o": "k_stokes",
+   "quote": "He reported being one of \"six to ten\" such cars stranded along Highway 54 about eight to ten miles (13 to 16 km) south of Orogrande."
+  },
+  {
+   "s": "orogrande",
+   "p": "related_place",
+   "o": "case",
+   "quote": "He reported being one of \"six to ten\" such cars stranded along Highway 54 about eight to ten miles (13 to 16 km) south of Orogrande."
+  },
+  {
+   "s": "orogrande",
+   "p": "near",
+   "o": "k_stokes",
+   "quote": "He reported being one of \"six to ten\" such cars stranded along Highway 54 about eight to ten miles (13 to 16 km) south of Orogrande."
+  },
+  {
+   "s": "orogrande",
+   "p": "distance_from_sighting",
+   "v": "about eight to ten miles (13 to 16 km) north of the stranded cars",
+   "quote": "He reported being one of \"six to ten\" such cars stranded along Highway 54 about eight to ten miles (13 to 16 km) south of Orogrande."
+  },
+  {
+   "s": "kearney",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Reinhold O. Schmidt claimed that while driving through a rural area near Kearney, Nebraska, on November 5, 1957, he saw a large, blimp-shaped object on the ground in a field."
+  },
+  {
+   "s": "kearney",
+   "p": "near",
+   "o": "k_schmidt",
+   "quote": "Reinhold O. Schmidt claimed that while driving through a rural area near Kearney, Nebraska, on November 5, 1957, he saw a large, blimp-shaped object on the ground in a field."
+  },
+  {
+   "s": "kearney",
+   "p": "located_in",
+   "o": "nebraska",
+   "quote": "Reinhold O. Schmidt claimed that while driving through a rural area near Kearney, Nebraska, on November 5, 1957, he saw a large, blimp-shaped object on the ground in a field."
+  },
+  {
+   "s": "nebraska",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Reinhold O. Schmidt claimed that while driving through a rural area near Kearney, Nebraska, on November 5, 1957, he saw a large, blimp-shaped object on the ground in a field."
+  },
+  {
+   "s": "nebraska",
+   "p": "occurred_at",
+   "o": "k_schmidt",
+   "quote": "Reinhold O. Schmidt claimed that while driving through a rural area near Kearney, Nebraska, on November 5, 1957, he saw a large, blimp-shaped object on the ground in a field."
+  },
+  {
+   "s": "hastings",
+   "p": "related_place",
+   "o": "case",
+   "quote": "After uncovering a prior embezzlement conviction and finding a can of green motor oil near the alleged contact site, Schmidt was transferred to the Hastings State Hospital for a psychiatric evaluation."
+  },
+  {
+   "s": "hastings",
+   "p": "related_place",
+   "o": "k_schmidt",
+   "quote": "After uncovering a prior embezzlement conviction and finding a can of green motor oil near the alleged contact site, Schmidt was transferred to the Hastings State Hospital for a psychiatric evaluation."
+  },
+  {
+   "s": "venus",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The group claimed to be from the planet Venus, and a thirty minute discussion ensued."
+  },
+  {
+   "s": "venus",
+   "p": "related_place",
+   "o": "k_schmidt",
+   "quote": "The group claimed to be from the planet Venus, and a thirty minute discussion ensued."
+  },
+  {
+   "s": "dallas",
+   "p": "related_place",
+   "o": "case",
+   "quote": "In March 2002, Dallas-based television station KDFW aired a report about the Levelland UFO case in which reporter Richard Ray (now retired) interviewed Sheriff Weir Clem's widow and friends."
+  },
+  {
+   "s": "kdfw",
+   "p": "located_in",
+   "o": "dallas",
+   "quote": "In March 2002, Dallas-based television station KDFW aired a report about the Levelland UFO case in which reporter Richard Ray (now retired) interviewed Sheriff Weir Clem's widow and friends."
+  },
+  {
+   "s": "saucedo",
+   "p": "witness",
+   "o": "case",
+   "quote": "On the evening of 2 November 1957, two immigrant farm workers, Pedro Saucedo and Joe Salaz, called the Levelland police department to report a UFO sighting."
+  },
+  {
+   "s": "salaz",
+   "p": "witness",
+   "o": "case",
+   "quote": "On the evening of 2 November 1957, two immigrant farm workers, Pedro Saucedo and Joe Salaz, called the Levelland police department to report a UFO sighting."
+  },
+  {
+   "s": "saucedo",
+   "p": "occupation",
+   "v": "immigrant farm worker",
+   "quote": "On the evening of 2 November 1957, two immigrant farm workers, Pedro Saucedo and Joe Salaz, called the Levelland police department to report a UFO sighting."
+  },
+  {
+   "s": "salaz",
+   "p": "occupation",
+   "v": "immigrant farm worker",
+   "quote": "On the evening of 2 November 1957, two immigrant farm workers, Pedro Saucedo and Joe Salaz, called the Levelland police department to report a UFO sighting."
+  },
+  {
+   "s": "saucedo",
+   "p": "colleague_of",
+   "o": "salaz",
+   "quote": "On the evening of 2 November 1957, two immigrant farm workers, Pedro Saucedo and Joe Salaz, called the Levelland police department to report a UFO sighting."
+  },
+  {
+   "s": "fowler",
+   "p": "interviewed",
+   "o": "saucedo",
+   "quote": "Saucedo told police officer A. J. Fowler, who was working the night desk at the police station, that they had been driving four miles (6.4 km) west of Levelland when they saw a blue flash of light near the road."
+  },
+  {
+   "s": "saucedo",
+   "p": "location_of_sighting",
+   "v": "four miles (6.4 km) west of Levelland",
+   "quote": "Saucedo told police officer A. J. Fowler, who was working the night desk at the police station, that they had been driving four miles (6.4 km) west of Levelland when they saw a blue flash of light near the road."
+  },
+  {
+   "s": "saucedo",
+   "p": "statement",
+   "v": "they saw a blue flash of light near the road",
+   "quote": "Saucedo told police officer A. J. Fowler, who was working the night desk at the police station, that they had been driving four miles (6.4 km) west of Levelland when they saw a blue flash of light near the road."
+  },
+  {
+   "s": "saucedo",
+   "p": "statement",
+   "v": "their truck's engine died, and a rocket-shaped object rose up and approached the truck",
+   "quote": "They claimed their truck's engine died, and a rocket-shaped object rose up and approached the truck."
+  },
+  {
+   "s": "saucedo",
+   "p": "statement",
+   "v": "I jumped out of the truck and hit the dirt because I was afraid. I called out to Joe but he didn't get out.",
+   "quote": "According to Saucedo, \"I jumped out of the truck and hit the dirt because I was afraid. I called out to Joe but he didn't get out. The thing passed directly over my big truck with a great sound and rush of wind. It sounded like thunder and my truck rocked from the flash...I felt a lot of heat.\""
+  },
+  {
+   "s": "saucedo",
+   "p": "statement",
+   "v": "The thing passed directly over my big truck with a great sound and rush of wind. It sounded like thunder and my truck rocked from the flash...I felt a lot of heat.",
+   "quote": "According to Saucedo, \"I jumped out of the truck and hit the dirt because I was afraid. I called out to Joe but he didn't get out. The thing passed directly over my big truck with a great sound and rush of wind. It sounded like thunder and my truck rocked from the flash...I felt a lot of heat.\""
+  },
+  {
+   "s": "saucedo",
+   "p": "reaction",
+   "v": "jumped out of the truck and hit the dirt because he was afraid",
+   "quote": "According to Saucedo, \"I jumped out of the truck and hit the dirt because I was afraid. I called out to Joe but he didn't get out. The thing passed directly over my big truck with a great sound and rush of wind. It sounded like thunder and my truck rocked from the flash...I felt a lot of heat.\""
+  },
+  {
+   "s": "salaz",
+   "p": "reaction",
+   "v": "did not get out of the truck",
+   "quote": "According to Saucedo, \"I jumped out of the truck and hit the dirt because I was afraid. I called out to Joe but he didn't get out. The thing passed directly over my big truck with a great sound and rush of wind. It sounded like thunder and my truck rocked from the flash...I felt a lot of heat.\""
+  },
+  {
+   "s": "saucedo",
+   "p": "education",
+   "v": "only a grade school education (Project Blue Book)",
+   "quote": "Additionally, Project Blue Book believed that \"Saucedo's account could not be relied upon – he had only a grade school education and had no concept of direction and was conflicting in his answers...in view of the stormy weather conditions, an electrical phenomenon such as ball lightning or St. Elmo's fire seemed to be the most probable cause.\""
+  },
+  {
+   "s": "saucedo",
+   "p": "credibility_assessment",
+   "v": "Project Blue Book believed his account could not be relied upon; no concept of direction and conflicting in his answers",
+   "quote": "Additionally, Project Blue Book believed that \"Saucedo's account could not be relied upon – he had only a grade school education and had no concept of direction and was conflicting in his answers...in view of the stormy weather conditions, an electrical phenomenon such as ball lightning or St. Elmo's fire seemed to be the most probable cause.\""
+  },
+  {
+   "s": "saucedo",
+   "p": "described",
+   "o": "c_saucedo",
+   "quote": "They claimed their truck's engine died, and a rocket-shaped object rose up and approached the truck."
+  },
+  {
+   "s": "saucedo",
+   "p": "owned",
+   "o": "v_truck",
+   "quote": "According to Saucedo, \"I jumped out of the truck and hit the dirt because I was afraid. I called out to Joe but he didn't get out. The thing passed directly over my big truck with a great sound and rush of wind. It sounded like thunder and my truck rocked from the flash...I felt a lot of heat.\""
+  },
+  {
+   "s": "c_saucedo",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "They claimed their truck's engine died, and a rocket-shaped object rose up and approached the truck."
+  },
+  {
+   "s": "c_saucedo",
+   "p": "shape",
+   "v": "rocket-shaped",
+   "quote": "They claimed their truck's engine died, and a rocket-shaped object rose up and approached the truck."
+  },
+  {
+   "s": "c_saucedo",
+   "p": "color",
+   "v": "blue flash of light",
+   "quote": "Saucedo told police officer A. J. Fowler, who was working the night desk at the police station, that they had been driving four miles (6.4 km) west of Levelland when they saw a blue flash of light near the road."
+  },
+  {
+   "s": "c_saucedo",
+   "p": "color",
+   "v": "blue light",
+   "quote": "According to UFO historian Curtis Peebles, \"the Air Force found only three persons who had witnessed the 'blue light'...there was no uniform description of the object.\""
+  },
+  {
+   "s": "c_saucedo",
+   "p": "behavior",
+   "v": "rose up and approached the truck",
+   "quote": "They claimed their truck's engine died, and a rocket-shaped object rose up and approached the truck."
+  },
+  {
+   "s": "c_saucedo",
+   "p": "behavior",
+   "v": "passed directly over the truck",
+   "quote": "According to Saucedo, \"I jumped out of the truck and hit the dirt because I was afraid. I called out to Joe but he didn't get out. The thing passed directly over my big truck with a great sound and rush of wind. It sounded like thunder and my truck rocked from the flash...I felt a lot of heat.\""
+  },
+  {
+   "s": "c_saucedo",
+   "p": "sound",
+   "v": "a great sound and rush of wind; sounded like thunder",
+   "quote": "According to Saucedo, \"I jumped out of the truck and hit the dirt because I was afraid. I called out to Joe but he didn't get out. The thing passed directly over my big truck with a great sound and rush of wind. It sounded like thunder and my truck rocked from the flash...I felt a lot of heat.\""
+  },
+  {
+   "s": "c_saucedo",
+   "p": "heat",
+   "v": "Saucedo felt a lot of heat",
+   "quote": "According to Saucedo, \"I jumped out of the truck and hit the dirt because I was afraid. I called out to Joe but he didn't get out. The thing passed directly over my big truck with a great sound and rush of wind. It sounded like thunder and my truck rocked from the flash...I felt a lot of heat.\""
+  },
+  {
+   "s": "c_saucedo",
+   "p": "location",
+   "v": "near the road four miles (6.4 km) west of Levelland",
+   "quote": "Saucedo told police officer A. J. Fowler, who was working the night desk at the police station, that they had been driving four miles (6.4 km) west of Levelland when they saw a blue flash of light near the road."
+  },
+  {
+   "s": "v_truck",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "They claimed their truck's engine died, and a rocket-shaped object rose up and approached the truck."
+  },
+  {
+   "s": "v_truck",
+   "p": "effect",
+   "v": "engine died",
+   "quote": "They claimed their truck's engine died, and a rocket-shaped object rose up and approached the truck."
+  },
+  {
+   "s": "v_truck",
+   "p": "effect",
+   "v": "rocked from the flash",
+   "quote": "According to Saucedo, \"I jumped out of the truck and hit the dirt because I was afraid. I called out to Joe but he didn't get out. The thing passed directly over my big truck with a great sound and rush of wind. It sounded like thunder and my truck rocked from the flash...I felt a lot of heat.\""
+  },
+  {
+   "s": "v_truck",
+   "p": "recovery",
+   "v": "engine restarted and worked normally as the object moved away",
+   "quote": "As the object moved away the truck's engine restarted and worked normally."
+  },
+  {
+   "s": "fowler",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Saucedo told police officer A. J. Fowler, who was working the night desk at the police station, that they had been driving four miles (6.4 km) west of Levelland when they saw a blue flash of light near the road."
+  },
+  {
+   "s": "fowler",
+   "p": "occupation",
+   "v": "police officer",
+   "quote": "Saucedo told police officer A. J. Fowler, who was working the night desk at the police station, that they had been driving four miles (6.4 km) west of Levelland when they saw a blue flash of light near the road."
+  },
+  {
+   "s": "fowler",
+   "p": "duty",
+   "v": "working the night desk at the police station",
+   "quote": "Saucedo told police officer A. J. Fowler, who was working the night desk at the police station, that they had been driving four miles (6.4 km) west of Levelland when they saw a blue flash of light near the road."
+  },
+  {
+   "s": "fowler",
+   "p": "member_of",
+   "o": "lpd",
+   "quote": "Saucedo told police officer A. J. Fowler, who was working the night desk at the police station, that they had been driving four miles (6.4 km) west of Levelland when they saw a blue flash of light near the road."
+  },
+  {
+   "s": "fowler",
+   "p": "initial_reaction",
+   "v": "believed the story to be a joke and ignored it",
+   "quote": "Believing the story to be a joke, Fowler ignored it."
+  },
+  {
+   "s": "fowler",
+   "p": "statement",
+   "v": "everybody who called was very excited",
+   "quote": "During the night of 2–3 November, the Levelland police department received a total of 15 UFO-related reports, and Officer Fowler noted that \"everybody who called was very excited.\""
+  },
+  {
+   "s": "fowler",
+   "p": "interviewed",
+   "o": "williams",
+   "quote": "At 12:15 a.m., Officer Fowler received another call, this time from a farmer named Frank Williams who claimed he had encountered a brightly glowing object sitting in the road, and \"as his car approached it, its lights went out and its motor stopped.\""
+  },
+  {
+   "s": "wheeler",
+   "p": "witness",
+   "o": "case",
+   "quote": "An hour later, motorist Jim Wheeler reported a \"brilliantly lit, egg-shaped object\" that he estimated at a length of approximately 200 feet (61 meters) sitting in the road four miles (6.4 km) east of Levelland, blocking his path."
+  },
+  {
+   "s": "wheeler",
+   "p": "occupation",
+   "v": "motorist",
+   "quote": "An hour later, motorist Jim Wheeler reported a \"brilliantly lit, egg-shaped object\" that he estimated at a length of approximately 200 feet (61 meters) sitting in the road four miles (6.4 km) east of Levelland, blocking his path."
+  },
+  {
+   "s": "wheeler",
+   "p": "time_of_report",
+   "v": "an hour after Saucedo's report",
+   "quote": "An hour later, motorist Jim Wheeler reported a \"brilliantly lit, egg-shaped object\" that he estimated at a length of approximately 200 feet (61 meters) sitting in the road four miles (6.4 km) east of Levelland, blocking his path."
+  },
+  {
+   "s": "wheeler",
+   "p": "location_of_sighting",
+   "v": "four miles (6.4 km) east of Levelland",
+   "quote": "An hour later, motorist Jim Wheeler reported a \"brilliantly lit, egg-shaped object\" that he estimated at a length of approximately 200 feet (61 meters) sitting in the road four miles (6.4 km) east of Levelland, blocking his path."
+  },
+  {
+   "s": "wheeler",
+   "p": "statement",
+   "v": "his vehicle died, and as he got out of his car the object took off and its lights went out",
+   "quote": "He claimed his vehicle died, and as he got out of his car, the object took off and its lights went out."
+  },
+  {
+   "s": "wheeler",
+   "p": "described",
+   "o": "c_wheeler",
+   "quote": "An hour later, motorist Jim Wheeler reported a \"brilliantly lit, egg-shaped object\" that he estimated at a length of approximately 200 feet (61 meters) sitting in the road four miles (6.4 km) east of Levelland, blocking his path."
+  },
+  {
+   "s": "wheeler",
+   "p": "owned",
+   "o": "v_wheeler",
+   "quote": "As it moved away, Wheeler's car restarted and worked normally."
+  },
+  {
+   "s": "c_wheeler",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "An hour later, motorist Jim Wheeler reported a \"brilliantly lit, egg-shaped object\" that he estimated at a length of approximately 200 feet (61 meters) sitting in the road four miles (6.4 km) east of Levelland, blocking his path."
+  },
+  {
+   "s": "c_wheeler",
+   "p": "shape",
+   "v": "egg-shaped",
+   "quote": "An hour later, motorist Jim Wheeler reported a \"brilliantly lit, egg-shaped object\" that he estimated at a length of approximately 200 feet (61 meters) sitting in the road four miles (6.4 km) east of Levelland, blocking his path."
+  },
+  {
+   "s": "c_wheeler",
+   "p": "brightness",
+   "v": "brilliantly lit",
+   "quote": "An hour later, motorist Jim Wheeler reported a \"brilliantly lit, egg-shaped object\" that he estimated at a length of approximately 200 feet (61 meters) sitting in the road four miles (6.4 km) east of Levelland, blocking his path."
+  },
+  {
+   "s": "c_wheeler",
+   "p": "size",
+   "v": "approximately 200 feet (61 meters) long",
+   "quote": "An hour later, motorist Jim Wheeler reported a \"brilliantly lit, egg-shaped object\" that he estimated at a length of approximately 200 feet (61 meters) sitting in the road four miles (6.4 km) east of Levelland, blocking his path."
+  },
+  {
+   "s": "c_wheeler",
+   "p": "position",
+   "v": "sitting in the road, blocking his path",
+   "quote": "An hour later, motorist Jim Wheeler reported a \"brilliantly lit, egg-shaped object\" that he estimated at a length of approximately 200 feet (61 meters) sitting in the road four miles (6.4 km) east of Levelland, blocking his path."
+  },
+  {
+   "s": "c_wheeler",
+   "p": "behavior",
+   "v": "took off and its lights went out",
+   "quote": "He claimed his vehicle died, and as he got out of his car, the object took off and its lights went out."
+  },
+  {
+   "s": "v_wheeler",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "He claimed his vehicle died, and as he got out of his car, the object took off and its lights went out."
+  },
+  {
+   "s": "v_wheeler",
+   "p": "effect",
+   "v": "vehicle died",
+   "quote": "He claimed his vehicle died, and as he got out of his car, the object took off and its lights went out."
+  },
+  {
+   "s": "v_wheeler",
+   "p": "recovery",
+   "v": "restarted and worked normally as the object moved away",
+   "quote": "As it moved away, Wheeler's car restarted and worked normally."
+  },
+  {
+   "s": "alvarez",
+   "p": "witness",
+   "o": "case",
+   "quote": "Five minutes later, Jose Alvarez claimed he met a strange object sitting on the road 11 miles (18 km) north of Levelland, and his vehicle's engine died until the object departed."
+  },
+  {
+   "s": "alvarez",
+   "p": "time_of_report",
+   "v": "five minutes after 10:55 p.m.",
+   "quote": "Five minutes later, Jose Alvarez claimed he met a strange object sitting on the road 11 miles (18 km) north of Levelland, and his vehicle's engine died until the object departed."
+  },
+  {
+   "s": "alvarez",
+   "p": "location_of_sighting",
+   "v": "11 miles (18 km) north of Levelland",
+   "quote": "Five minutes later, Jose Alvarez claimed he met a strange object sitting on the road 11 miles (18 km) north of Levelland, and his vehicle's engine died until the object departed."
+  },
+  {
+   "s": "alvarez",
+   "p": "statement",
+   "v": "he met a strange object sitting on the road, and his vehicle's engine died until the object departed",
+   "quote": "Five minutes later, Jose Alvarez claimed he met a strange object sitting on the road 11 miles (18 km) north of Levelland, and his vehicle's engine died until the object departed."
+  },
+  {
+   "s": "alvarez",
+   "p": "owned",
+   "o": "v_alvarez",
+   "quote": "Five minutes later, Jose Alvarez claimed he met a strange object sitting on the road 11 miles (18 km) north of Levelland, and his vehicle's engine died until the object departed."
+  },
+  {
+   "s": "v_alvarez",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "Five minutes later, Jose Alvarez claimed he met a strange object sitting on the road 11 miles (18 km) north of Levelland, and his vehicle's engine died until the object departed."
+  },
+  {
+   "s": "v_alvarez",
+   "p": "effect",
+   "v": "engine died until the object departed",
+   "quote": "Five minutes later, Jose Alvarez claimed he met a strange object sitting on the road 11 miles (18 km) north of Levelland, and his vehicle's engine died until the object departed."
+  },
+  {
+   "s": "wright",
+   "p": "witness",
+   "o": "case",
+   "quote": "At 12:05 a.m. (3 November), a Texas Technological College (now Texas Tech University) student named Newell Wright was surprised when, driving 10 miles (16 km) east of Levelland"
+  },
+  {
+   "s": "wright",
+   "p": "occupation",
+   "v": "Texas Technological College student",
+   "quote": "At 12:05 a.m. (3 November), a Texas Technological College (now Texas Tech University) student named Newell Wright was surprised when, driving 10 miles (16 km) east of Levelland"
+  },
+  {
+   "s": "wright",
+   "p": "member_of",
+   "o": "ttc",
+   "quote": "At 12:05 a.m. (3 November), a Texas Technological College (now Texas Tech University) student named Newell Wright was surprised when, driving 10 miles (16 km) east of Levelland"
+  },
+  {
+   "s": "wright",
+   "p": "time_of_sighting",
+   "v": "12:05 a.m. (3 November)",
+   "quote": "At 12:05 a.m. (3 November), a Texas Technological College (now Texas Tech University) student named Newell Wright was surprised when, driving 10 miles (16 km) east of Levelland"
+  },
+  {
+   "s": "wright",
+   "p": "location_of_sighting",
+   "v": "10 miles (16 km) east of Levelland",
+   "quote": "At 12:05 a.m. (3 November), a Texas Technological College (now Texas Tech University) student named Newell Wright was surprised when, driving 10 miles (16 km) east of Levelland"
+  },
+  {
+   "s": "wright",
+   "p": "statement",
+   "v": "car engine began to sputter, the ammeter on the dash jumped to discharge and then back to normal, and the motor started cutting out like it was out of gas",
+   "quote": "his \"car engine began to sputter, the ammeter on the dash jumped to discharge and then back to normal, and the motor started cutting out like it was out of gas...the car rolled to a stop; then the headlights dimmed and several seconds later went out.\""
+  },
+  {
+   "s": "wright",
+   "p": "statement",
+   "v": "the car rolled to a stop; then the headlights dimmed and several seconds later went out",
+   "quote": "his \"car engine began to sputter, the ammeter on the dash jumped to discharge and then back to normal, and the motor started cutting out like it was out of gas...the car rolled to a stop; then the headlights dimmed and several seconds later went out.\""
+  },
+  {
+   "s": "wright",
+   "p": "described",
+   "o": "c_wright",
+   "quote": "When he got out to check on the problem, he saw a \"100-foot-long\" [30-meter-long] egg-shaped object sitting in the road."
+  },
+  {
+   "s": "wright",
+   "p": "owned",
+   "o": "v_wright",
+   "quote": "his \"car engine began to sputter, the ammeter on the dash jumped to discharge and then back to normal, and the motor started cutting out like it was out of gas...the car rolled to a stop; then the headlights dimmed and several seconds later went out.\""
+  },
+  {
+   "s": "c_wright",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "When he got out to check on the problem, he saw a \"100-foot-long\" [30-meter-long] egg-shaped object sitting in the road."
+  },
+  {
+   "s": "c_wright",
+   "p": "shape",
+   "v": "egg-shaped",
+   "quote": "When he got out to check on the problem, he saw a \"100-foot-long\" [30-meter-long] egg-shaped object sitting in the road."
+  },
+  {
+   "s": "c_wright",
+   "p": "size",
+   "v": "100-foot-long (30-meter-long)",
+   "quote": "When he got out to check on the problem, he saw a \"100-foot-long\" [30-meter-long] egg-shaped object sitting in the road."
+  },
+  {
+   "s": "c_wright",
+   "p": "position",
+   "v": "sitting in the road",
+   "quote": "When he got out to check on the problem, he saw a \"100-foot-long\" [30-meter-long] egg-shaped object sitting in the road."
+  },
+  {
+   "s": "c_wright",
+   "p": "behavior",
+   "v": "took off",
+   "quote": "It took off, and his engine started running again."
+  },
+  {
+   "s": "v_wright",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "his \"car engine began to sputter, the ammeter on the dash jumped to discharge and then back to normal, and the motor started cutting out like it was out of gas...the car rolled to a stop; then the headlights dimmed and several seconds later went out.\""
+  },
+  {
+   "s": "v_wright",
+   "p": "effect",
+   "v": "engine sputtered and cut out; ammeter jumped to discharge and back to normal; headlights dimmed and went out",
+   "quote": "his \"car engine began to sputter, the ammeter on the dash jumped to discharge and then back to normal, and the motor started cutting out like it was out of gas...the car rolled to a stop; then the headlights dimmed and several seconds later went out.\""
+  },
+  {
+   "s": "v_wright",
+   "p": "recovery",
+   "v": "engine started running again when the object took off",
+   "quote": "It took off, and his engine started running again."
+  },
+  {
+   "s": "ttc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "At 12:05 a.m. (3 November), a Texas Technological College (now Texas Tech University) student named Newell Wright was surprised when, driving 10 miles (16 km) east of Levelland"
+  },
+  {
+   "s": "ttc",
+   "p": "later_name",
+   "v": "Texas Tech University",
+   "quote": "At 12:05 a.m. (3 November), a Texas Technological College (now Texas Tech University) student named Newell Wright was surprised when, driving 10 miles (16 km) east of Levelland"
+  },
+  {
+   "s": "williams",
+   "p": "witness",
+   "o": "case",
+   "quote": "At 12:15 a.m., Officer Fowler received another call, this time from a farmer named Frank Williams who claimed he had encountered a brightly glowing object sitting in the road, and \"as his car approached it, its lights went out and its motor stopped.\""
+  },
+  {
+   "s": "williams",
+   "p": "occupation",
+   "v": "farmer",
+   "quote": "At 12:15 a.m., Officer Fowler received another call, this time from a farmer named Frank Williams who claimed he had encountered a brightly glowing object sitting in the road, and \"as his car approached it, its lights went out and its motor stopped.\""
+  },
+  {
+   "s": "williams",
+   "p": "time_of_report",
+   "v": "12:15 a.m.",
+   "quote": "At 12:15 a.m., Officer Fowler received another call, this time from a farmer named Frank Williams who claimed he had encountered a brightly glowing object sitting in the road, and \"as his car approached it, its lights went out and its motor stopped.\""
+  },
+  {
+   "s": "williams",
+   "p": "statement",
+   "v": "he had encountered a brightly glowing object sitting in the road; as his car approached it, its lights went out and its motor stopped",
+   "quote": "At 12:15 a.m., Officer Fowler received another call, this time from a farmer named Frank Williams who claimed he had encountered a brightly glowing object sitting in the road, and \"as his car approached it, its lights went out and its motor stopped.\""
+  },
+  {
+   "s": "williams",
+   "p": "described",
+   "o": "c_williams",
+   "quote": "At 12:15 a.m., Officer Fowler received another call, this time from a farmer named Frank Williams who claimed he had encountered a brightly glowing object sitting in the road, and \"as his car approached it, its lights went out and its motor stopped.\""
+  },
+  {
+   "s": "williams",
+   "p": "owned",
+   "o": "v_williams",
+   "quote": "At 12:15 a.m., Officer Fowler received another call, this time from a farmer named Frank Williams who claimed he had encountered a brightly glowing object sitting in the road, and \"as his car approached it, its lights went out and its motor stopped.\""
+  },
+  {
+   "s": "c_williams",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "At 12:15 a.m., Officer Fowler received another call, this time from a farmer named Frank Williams who claimed he had encountered a brightly glowing object sitting in the road, and \"as his car approached it, its lights went out and its motor stopped.\""
+  },
+  {
+   "s": "c_williams",
+   "p": "brightness",
+   "v": "brightly glowing",
+   "quote": "At 12:15 a.m., Officer Fowler received another call, this time from a farmer named Frank Williams who claimed he had encountered a brightly glowing object sitting in the road, and \"as his car approached it, its lights went out and its motor stopped.\""
+  },
+  {
+   "s": "c_williams",
+   "p": "position",
+   "v": "sitting in the road",
+   "quote": "At 12:15 a.m., Officer Fowler received another call, this time from a farmer named Frank Williams who claimed he had encountered a brightly glowing object sitting in the road, and \"as his car approached it, its lights went out and its motor stopped.\""
+  },
+  {
+   "s": "c_williams",
+   "p": "behavior",
+   "v": "flew away",
+   "quote": "The object flew away, and his car's lights and the motor started working again."
+  },
+  {
+   "s": "v_williams",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "At 12:15 a.m., Officer Fowler received another call, this time from a farmer named Frank Williams who claimed he had encountered a brightly glowing object sitting in the road, and \"as his car approached it, its lights went out and its motor stopped.\""
+  },
+  {
+   "s": "v_williams",
+   "p": "effect",
+   "v": "lights went out and motor stopped as the car approached the object",
+   "quote": "At 12:15 a.m., Officer Fowler received another call, this time from a farmer named Frank Williams who claimed he had encountered a brightly glowing object sitting in the road, and \"as his car approached it, its lights went out and its motor stopped.\""
+  },
+  {
+   "s": "v_williams",
+   "p": "recovery",
+   "v": "lights and motor started working again when the object flew away",
+   "quote": "The object flew away, and his car's lights and the motor started working again."
+  },
+  {
+   "s": "martin",
+   "p": "witness",
+   "o": "case",
+   "quote": "Other callers were Ronald Martin at 12:45 a.m. and James Long at 1:15 a.m., and they both reported seeing a brightly lit object sitting in the road in front of them."
+  },
+  {
+   "s": "long",
+   "p": "witness",
+   "o": "case",
+   "quote": "Other callers were Ronald Martin at 12:45 a.m. and James Long at 1:15 a.m., and they both reported seeing a brightly lit object sitting in the road in front of them."
+  },
+  {
+   "s": "martin",
+   "p": "time_of_report",
+   "v": "12:45 a.m.",
+   "quote": "Other callers were Ronald Martin at 12:45 a.m. and James Long at 1:15 a.m., and they both reported seeing a brightly lit object sitting in the road in front of them."
+  },
+  {
+   "s": "long",
+   "p": "time_of_report",
+   "v": "1:15 a.m.",
+   "quote": "Other callers were Ronald Martin at 12:45 a.m. and James Long at 1:15 a.m., and they both reported seeing a brightly lit object sitting in the road in front of them."
+  },
+  {
+   "s": "martin",
+   "p": "statement",
+   "v": "saw a brightly lit object sitting in the road in front of him",
+   "quote": "Other callers were Ronald Martin at 12:45 a.m. and James Long at 1:15 a.m., and they both reported seeing a brightly lit object sitting in the road in front of them."
+  },
+  {
+   "s": "long",
+   "p": "statement",
+   "v": "saw a brightly lit object sitting in the road in front of him",
+   "quote": "Other callers were Ronald Martin at 12:45 a.m. and James Long at 1:15 a.m., and they both reported seeing a brightly lit object sitting in the road in front of them."
+  },
+  {
+   "s": "martin",
+   "p": "statement",
+   "v": "engine and headlights died until the object flew away",
+   "quote": "They also claimed that their engines and headlights had died until the object flew away."
+  },
+  {
+   "s": "long",
+   "p": "statement",
+   "v": "engine and headlights died until the object flew away",
+   "quote": "They also claimed that their engines and headlights had died until the object flew away."
+  },
+  {
+   "s": "clem",
+   "p": "witness",
+   "o": "case",
+   "quote": "Among them was Sheriff Weir Clem who, at 1:30 a.m., saw a brilliant red object moving across the sky."
+  },
+  {
+   "s": "clem",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Among them was Sheriff Weir Clem who, at 1:30 a.m., saw a brilliant red object moving across the sky."
+  },
+  {
+   "s": "clem",
+   "p": "occupation",
+   "v": "Sheriff",
+   "quote": "Among them was Sheriff Weir Clem who, at 1:30 a.m., saw a brilliant red object moving across the sky."
+  },
+  {
+   "s": "clem",
+   "p": "time_of_sighting",
+   "v": "1:30 a.m.",
+   "quote": "Among them was Sheriff Weir Clem who, at 1:30 a.m., saw a brilliant red object moving across the sky."
+  },
+  {
+   "s": "clem",
+   "p": "described",
+   "o": "c_clem",
+   "quote": "Among them was Sheriff Weir Clem who, at 1:30 a.m., saw a brilliant red object moving across the sky."
+  },
+  {
+   "s": "clem",
+   "p": "widow_interviewed",
+   "v": "his widow and friends were interviewed by KDFW reporter Richard Ray in a March 2002 report",
+   "quote": "In March 2002, Dallas-based television station KDFW aired a report about the Levelland UFO case in which reporter Richard Ray (now retired) interviewed Sheriff Weir Clem's widow and friends."
+  },
+  {
+   "s": "c_clem",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Among them was Sheriff Weir Clem who, at 1:30 a.m., saw a brilliant red object moving across the sky."
+  },
+  {
+   "s": "c_clem",
+   "p": "color",
+   "v": "brilliant red",
+   "quote": "Among them was Sheriff Weir Clem who, at 1:30 a.m., saw a brilliant red object moving across the sky."
+  },
+  {
+   "s": "c_clem",
+   "p": "behavior",
+   "v": "moving across the sky",
+   "quote": "Among them was Sheriff Weir Clem who, at 1:30 a.m., saw a brilliant red object moving across the sky."
+  },
+  {
+   "s": "jones",
+   "p": "witness",
+   "o": "case",
+   "quote": "Fifteen minutes later, Levelland's Fire Chief, Ray Jones, also saw an object."
+  },
+  {
+   "s": "jones",
+   "p": "occupation",
+   "v": "Levelland's Fire Chief",
+   "quote": "Fifteen minutes later, Levelland's Fire Chief, Ray Jones, also saw an object."
+  },
+  {
+   "s": "jones",
+   "p": "time_of_sighting",
+   "v": "fifteen minutes after 1:30 a.m.",
+   "quote": "Fifteen minutes later, Levelland's Fire Chief, Ray Jones, also saw an object."
+  },
+  {
+   "s": "jones",
+   "p": "statement",
+   "v": "also saw an object",
+   "quote": "Fifteen minutes later, Levelland's Fire Chief, Ray Jones, also saw an object."
+  },
+  {
+   "s": "jones",
+   "p": "owned",
+   "o": "v_jones",
+   "quote": "His vehicle's headlights and engine likewise experienced temporary issues."
+  },
+  {
+   "s": "v_jones",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "His vehicle's headlights and engine likewise experienced temporary issues."
+  },
+  {
+   "s": "v_jones",
+   "p": "effect",
+   "v": "headlights and engine experienced temporary issues",
+   "quote": "His vehicle's headlights and engine likewise experienced temporary issues."
+  },
+  {
+   "s": "lpd",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On the evening of 2 November 1957, two immigrant farm workers, Pedro Saucedo and Joe Salaz, called the Levelland police department to report a UFO sighting."
+  },
+  {
+   "s": "lpd",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "By this time, several Levelland police officers were investigating the reports."
+  },
+  {
+   "s": "lpd",
+   "p": "reports_received",
+   "v": "a total of 15 UFO-related reports during the night of 2-3 November",
+   "quote": "During the night of 2–3 November, the Levelland police department received a total of 15 UFO-related reports, and Officer Fowler noted that \"everybody who called was very excited.\""
+  },
+  {
+   "s": "lpd",
+   "p": "located_in",
+   "o": "levelland",
+   "quote": "During the night of 2–3 November, the Levelland police department received a total of 15 UFO-related reports, and Officer Fowler noted that \"everybody who called was very excited.\""
+  },
+  {
+   "s": "ruppelt",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Press and others, including Air Force UFO investigator Edward J. Ruppelt, connected the Levelland case with similar reports in nearby New Mexico."
+  },
+  {
+   "s": "ruppelt",
+   "p": "occupation",
+   "v": "Air Force UFO investigator",
+   "quote": "Press and others, including Air Force UFO investigator Edward J. Ruppelt, connected the Levelland case with similar reports in nearby New Mexico."
+  },
+  {
+   "s": "ruppelt",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "Press and others, including Air Force UFO investigator Edward J. Ruppelt, connected the Levelland case with similar reports in nearby New Mexico."
+  },
+  {
+   "s": "ruppelt",
+   "p": "statement",
+   "v": "connected the Levelland case with similar reports in nearby New Mexico",
+   "quote": "Press and others, including Air Force UFO investigator Edward J. Ruppelt, connected the Levelland case with similar reports in nearby New Mexico."
+  },
+  {
+   "s": "k_ws",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Hours after the sightings in Levelland, at 2:30 a.m., two different military police patrols at the White Sands Proving Ground reported a bright, unidentified egg-shaped object they estimated to be 100 yards (91 m) in diameter."
+  },
+  {
+   "s": "k_ws",
+   "p": "time_of_day",
+   "v": "2:30 a.m.",
+   "quote": "Hours after the sightings in Levelland, at 2:30 a.m., two different military police patrols at the White Sands Proving Ground reported a bright, unidentified egg-shaped object they estimated to be 100 yards (91 m) in diameter."
+  },
+  {
+   "s": "k_ws",
+   "p": "timing",
+   "v": "hours after the sightings in Levelland",
+   "quote": "Hours after the sightings in Levelland, at 2:30 a.m., two different military police patrols at the White Sands Proving Ground reported a bright, unidentified egg-shaped object they estimated to be 100 yards (91 m) in diameter."
+  },
+  {
+   "s": "k_ws",
+   "p": "witnesses",
+   "v": "two different military police patrols",
+   "quote": "Hours after the sightings in Levelland, at 2:30 a.m., two different military police patrols at the White Sands Proving Ground reported a bright, unidentified egg-shaped object they estimated to be 100 yards (91 m) in diameter."
+  },
+  {
+   "s": "k_ws",
+   "p": "located_in",
+   "o": "new_mexico",
+   "quote": "Press and others, including Air Force UFO investigator Edward J. Ruppelt, connected the Levelland case with similar reports in nearby New Mexico."
+  },
+  {
+   "s": "mp",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Hours after the sightings in Levelland, at 2:30 a.m., two different military police patrols at the White Sands Proving Ground reported a bright, unidentified egg-shaped object they estimated to be 100 yards (91 m) in diameter."
+  },
+  {
+   "s": "mp",
+   "p": "stationed_at",
+   "o": "white_sands",
+   "quote": "Hours after the sightings in Levelland, at 2:30 a.m., two different military police patrols at the White Sands Proving Ground reported a bright, unidentified egg-shaped object they estimated to be 100 yards (91 m) in diameter."
+  },
+  {
+   "s": "mp",
+   "p": "patrol_count",
+   "v": "two different patrols",
+   "quote": "Hours after the sightings in Levelland, at 2:30 a.m., two different military police patrols at the White Sands Proving Ground reported a bright, unidentified egg-shaped object they estimated to be 100 yards (91 m) in diameter."
+  },
+  {
+   "s": "mp",
+   "p": "described",
+   "o": "c_ws",
+   "quote": "Hours after the sightings in Levelland, at 2:30 a.m., two different military police patrols at the White Sands Proving Ground reported a bright, unidentified egg-shaped object they estimated to be 100 yards (91 m) in diameter."
+  },
+  {
+   "s": "c_ws",
+   "p": "reported_object",
+   "o": "k_ws",
+   "quote": "Hours after the sightings in Levelland, at 2:30 a.m., two different military police patrols at the White Sands Proving Ground reported a bright, unidentified egg-shaped object they estimated to be 100 yards (91 m) in diameter."
+  },
+  {
+   "s": "c_ws",
+   "p": "shape",
+   "v": "egg-shaped",
+   "quote": "Hours after the sightings in Levelland, at 2:30 a.m., two different military police patrols at the White Sands Proving Ground reported a bright, unidentified egg-shaped object they estimated to be 100 yards (91 m) in diameter."
+  },
+  {
+   "s": "c_ws",
+   "p": "size",
+   "v": "100 yards (91 m) in diameter",
+   "quote": "Hours after the sightings in Levelland, at 2:30 a.m., two different military police patrols at the White Sands Proving Ground reported a bright, unidentified egg-shaped object they estimated to be 100 yards (91 m) in diameter."
+  },
+  {
+   "s": "c_ws",
+   "p": "brightness",
+   "v": "nearly as bright as the sun",
+   "quote": "The object was described as being \"nearly as bright as the sun\" and was reportedly hovering \"over the bunker used in the first A-bomb explosion at Trinity Site\"."
+  },
+  {
+   "s": "c_ws",
+   "p": "behavior",
+   "v": "hovering over the bunker used in the first A-bomb explosion at Trinity Site",
+   "quote": "The object was described as being \"nearly as bright as the sun\" and was reportedly hovering \"over the bunker used in the first A-bomb explosion at Trinity Site\"."
+  },
+  {
+   "s": "k_stokes",
+   "p": "related_case",
+   "o": "case",
+   "quote": "On November 4, military technician James Stokes reported a similar sighting while driving from his home in Alamogordo to El Paso."
+  },
+  {
+   "s": "k_stokes",
+   "p": "date_start",
+   "v": "1957-11-04",
+   "quote": "On November 4, military technician James Stokes reported a similar sighting while driving from his home in Alamogordo to El Paso."
+  },
+  {
+   "s": "k_stokes",
+   "p": "location",
+   "v": "along Highway 54 about eight to ten miles (13 to 16 km) south of Orogrande",
+   "quote": "He reported being one of \"six to ten\" such cars stranded along Highway 54 about eight to ten miles (13 to 16 km) south of Orogrande."
+  },
+  {
+   "s": "k_stokes",
+   "p": "stranded_cars",
+   "v": "six to ten",
+   "quote": "He reported being one of \"six to ten\" such cars stranded along Highway 54 about eight to ten miles (13 to 16 km) south of Orogrande."
+  },
+  {
+   "s": "stokes",
+   "p": "witness",
+   "o": "k_stokes",
+   "quote": "On November 4, military technician James Stokes reported a similar sighting while driving from his home in Alamogordo to El Paso."
+  },
+  {
+   "s": "stokes",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "On November 4, military technician James Stokes reported a similar sighting while driving from his home in Alamogordo to El Paso."
+  },
+  {
+   "s": "stokes",
+   "p": "occupation",
+   "v": "military technician",
+   "quote": "On November 4, military technician James Stokes reported a similar sighting while driving from his home in Alamogordo to El Paso."
+  },
+  {
+   "s": "stokes",
+   "p": "residence",
+   "v": "Alamogordo",
+   "quote": "On November 4, military technician James Stokes reported a similar sighting while driving from his home in Alamogordo to El Paso."
+  },
+  {
+   "s": "stokes",
+   "p": "route",
+   "v": "driving from his home in Alamogordo to El Paso",
+   "quote": "On November 4, military technician James Stokes reported a similar sighting while driving from his home in Alamogordo to El Paso."
+  },
+  {
+   "s": "stokes",
+   "p": "statement",
+   "v": "his car radio malfunctioned, followed by his automobile's engine losing power",
+   "quote": "According to Stokes, his car radio malfunctioned, followed by his automobile's engine losing power."
+  },
+  {
+   "s": "stokes",
+   "p": "statement",
+   "v": "he was one of six to ten such cars stranded along Highway 54",
+   "quote": "He reported being one of \"six to ten\" such cars stranded along Highway 54 about eight to ten miles (13 to 16 km) south of Orogrande."
+  },
+  {
+   "s": "stokes",
+   "p": "physiological_effect",
+   "v": "reported a tan or sunburn from the object",
+   "quote": "He further reported a tan or sunburn from the object and observed \"it felt like the radiation of a giant sun lamp\"."
+  },
+  {
+   "s": "stokes",
+   "p": "statement",
+   "v": "it felt like the radiation of a giant sun lamp",
+   "quote": "He further reported a tan or sunburn from the object and observed \"it felt like the radiation of a giant sun lamp\"."
+  },
+  {
+   "s": "stokes",
+   "p": "described",
+   "o": "c_stokes",
+   "quote": "Stokes described an egg-shaped craft about 500 feet (150 m) in length travelling Mach 2."
+  },
+  {
+   "s": "stokes",
+   "p": "owned",
+   "o": "v_stokes",
+   "quote": "According to Stokes, his car radio malfunctioned, followed by his automobile's engine losing power."
+  },
+  {
+   "s": "c_stokes",
+   "p": "reported_object",
+   "o": "k_stokes",
+   "quote": "Stokes described an egg-shaped craft about 500 feet (150 m) in length travelling Mach 2."
+  },
+  {
+   "s": "c_stokes",
+   "p": "shape",
+   "v": "egg-shaped",
+   "quote": "Stokes described an egg-shaped craft about 500 feet (150 m) in length travelling Mach 2."
+  },
+  {
+   "s": "c_stokes",
+   "p": "size",
+   "v": "about 500 feet (150 m) in length",
+   "quote": "Stokes described an egg-shaped craft about 500 feet (150 m) in length travelling Mach 2."
+  },
+  {
+   "s": "c_stokes",
+   "p": "speed",
+   "v": "Mach 2",
+   "quote": "Stokes described an egg-shaped craft about 500 feet (150 m) in length travelling Mach 2."
+  },
+  {
+   "s": "v_stokes",
+   "p": "involved_vehicle",
+   "o": "k_stokes",
+   "quote": "According to Stokes, his car radio malfunctioned, followed by his automobile's engine losing power."
+  },
+  {
+   "s": "v_stokes",
+   "p": "effect",
+   "v": "car radio malfunctioned, followed by the engine losing power",
+   "quote": "According to Stokes, his car radio malfunctioned, followed by his automobile's engine losing power."
+  },
+  {
+   "s": "time",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Time Magazine covered the cases in its November 17 edition."
+  },
+  {
+   "s": "time",
+   "p": "published",
+   "o": "w_time",
+   "quote": "Time Magazine covered the cases in its November 17 edition."
+  },
+  {
+   "s": "w_time",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Time Magazine covered the cases in its November 17 edition."
+  },
+  {
+   "s": "w_time",
+   "p": "edition",
+   "v": "November 17",
+   "quote": "Time Magazine covered the cases in its November 17 edition."
+  },
+  {
+   "s": "k_schmidt",
+   "p": "related_case",
+   "o": "case",
+   "quote": "The 1957 UFO flap concluded with a case widely deemed a hoax by ufologists."
+  },
+  {
+   "s": "k_schmidt",
+   "p": "date_start",
+   "v": "1957-11-05",
+   "quote": "Reinhold O. Schmidt claimed that while driving through a rural area near Kearney, Nebraska, on November 5, 1957, he saw a large, blimp-shaped object on the ground in a field."
+  },
+  {
+   "s": "k_schmidt",
+   "p": "assessment",
+   "v": "widely deemed a hoax by ufologists",
+   "quote": "The 1957 UFO flap concluded with a case widely deemed a hoax by ufologists."
+  },
+  {
+   "s": "k_schmidt",
+   "p": "context",
+   "v": "concluded the 1957 UFO flap",
+   "quote": "The 1957 UFO flap concluded with a case widely deemed a hoax by ufologists."
+  },
+  {
+   "s": "k_schmidt",
+   "p": "location",
+   "v": "a rural area near Kearney, Nebraska; object on the ground in a field",
+   "quote": "Reinhold O. Schmidt claimed that while driving through a rural area near Kearney, Nebraska, on November 5, 1957, he saw a large, blimp-shaped object on the ground in a field."
+  },
+  {
+   "s": "k_schmidt",
+   "p": "occupants",
+   "v": "two men left the object and escorted him inside; four men and two women inside",
+   "quote": "He claimed two men left the object and escorted him inside, wherein he witnessed four men and two women speaking a language he described as \"High German\"."
+  },
+  {
+   "s": "k_schmidt",
+   "p": "occupant_count",
+   "v": "four men and two women",
+   "quote": "He claimed two men left the object and escorted him inside, wherein he witnessed four men and two women speaking a language he described as \"High German\"."
+  },
+  {
+   "s": "k_schmidt",
+   "p": "occupant_language",
+   "v": "High German",
+   "quote": "He claimed two men left the object and escorted him inside, wherein he witnessed four men and two women speaking a language he described as \"High German\"."
+  },
+  {
+   "s": "k_schmidt",
+   "p": "occupant_origin_claim",
+   "v": "the planet Venus",
+   "quote": "The group claimed to be from the planet Venus, and a thirty minute discussion ensued."
+  },
+  {
+   "s": "k_schmidt",
+   "p": "duration",
+   "v": "thirty minute discussion",
+   "quote": "The group claimed to be from the planet Venus, and a thirty minute discussion ensued."
+  },
+  {
+   "s": "k_schmidt",
+   "p": "trace",
+   "v": "a greasy, greenish substance observed at the supposed landing site",
+   "quote": "Following this alleged experience, Schmidt contacted the local sheriff and brought two local police officers to view the supposed landing site, where a greasy, greenish substance was observed."
+  },
+  {
+   "s": "k_schmidt",
+   "p": "police_finding",
+   "v": "a can of green motor oil found near the alleged contact site",
+   "quote": "After uncovering a prior embezzlement conviction and finding a can of green motor oil near the alleged contact site, Schmidt was transferred to the Hastings State Hospital for a psychiatric evaluation."
+  },
+  {
+   "s": "k_schmidt",
+   "p": "police_response",
+   "v": "police were skeptical and held him overnight in jail while they continued their investigation",
+   "quote": "The police were skeptical and held him overnight in jail while they continued their investigation."
+  },
+  {
+   "s": "schmidt",
+   "p": "witness",
+   "o": "k_schmidt",
+   "quote": "Reinhold O. Schmidt claimed that while driving through a rural area near Kearney, Nebraska, on November 5, 1957, he saw a large, blimp-shaped object on the ground in a field."
+  },
+  {
+   "s": "schmidt",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Reinhold O. Schmidt claimed that while driving through a rural area near Kearney, Nebraska, on November 5, 1957, he saw a large, blimp-shaped object on the ground in a field."
+  },
+  {
+   "s": "schmidt",
+   "p": "statement",
+   "v": "while driving near Kearney, Nebraska, he saw a large, blimp-shaped object on the ground in a field",
+   "quote": "Reinhold O. Schmidt claimed that while driving through a rural area near Kearney, Nebraska, on November 5, 1957, he saw a large, blimp-shaped object on the ground in a field."
+  },
+  {
+   "s": "schmidt",
+   "p": "statement",
+   "v": "two men left the object and escorted him inside, where he saw four men and two women speaking a language he described as High German",
+   "quote": "He claimed two men left the object and escorted him inside, wherein he witnessed four men and two women speaking a language he described as \"High German\"."
+  },
+  {
+   "s": "schmidt",
+   "p": "action",
+   "v": "contacted the local sheriff and brought two local police officers to view the supposed landing site",
+   "quote": "Following this alleged experience, Schmidt contacted the local sheriff and brought two local police officers to view the supposed landing site, where a greasy, greenish substance was observed."
+  },
+  {
+   "s": "schmidt",
+   "p": "publicity",
+   "v": "publicized his story via telephone, radio interviews, and a television appearance that same evening",
+   "quote": "That same evening, Schmidt began publicizing his story via telephone, radio interviews, and a television appearance."
+  },
+  {
+   "s": "schmidt",
+   "p": "detention",
+   "v": "held overnight in jail",
+   "quote": "The police were skeptical and held him overnight in jail while they continued their investigation."
+  },
+  {
+   "s": "schmidt",
+   "p": "prior_conviction",
+   "v": "embezzlement",
+   "quote": "After uncovering a prior embezzlement conviction and finding a can of green motor oil near the alleged contact site, Schmidt was transferred to the Hastings State Hospital for a psychiatric evaluation."
+  },
+  {
+   "s": "schmidt",
+   "p": "psychiatric_evaluation",
+   "v": "transferred to the Hastings State Hospital for a psychiatric evaluation",
+   "quote": "After uncovering a prior embezzlement conviction and finding a can of green motor oil near the alleged contact site, Schmidt was transferred to the Hastings State Hospital for a psychiatric evaluation."
+  },
+  {
+   "s": "schmidt",
+   "p": "later_conviction",
+   "v": "grand theft; charged with using the story about extraterrestrials to defraud a woman out of $5,000",
+   "quote": "Schmidt was later convicted of grand theft stemming from charges alleging that he used the story about extraterrestrials to defraud a woman out of $5,000."
+  },
+  {
+   "s": "schmidt",
+   "p": "fraud_amount",
+   "v": "$5,000",
+   "quote": "Schmidt was later convicted of grand theft stemming from charges alleging that he used the story about extraterrestrials to defraud a woman out of $5,000."
+  },
+  {
+   "s": "schmidt",
+   "p": "described",
+   "o": "c_schmidt",
+   "quote": "Reinhold O. Schmidt claimed that while driving through a rural area near Kearney, Nebraska, on November 5, 1957, he saw a large, blimp-shaped object on the ground in a field."
+  },
+  {
+   "s": "c_schmidt",
+   "p": "reported_object",
+   "o": "k_schmidt",
+   "quote": "Reinhold O. Schmidt claimed that while driving through a rural area near Kearney, Nebraska, on November 5, 1957, he saw a large, blimp-shaped object on the ground in a field."
+  },
+  {
+   "s": "c_schmidt",
+   "p": "shape",
+   "v": "blimp-shaped",
+   "quote": "Reinhold O. Schmidt claimed that while driving through a rural area near Kearney, Nebraska, on November 5, 1957, he saw a large, blimp-shaped object on the ground in a field."
+  },
+  {
+   "s": "c_schmidt",
+   "p": "size",
+   "v": "large",
+   "quote": "Reinhold O. Schmidt claimed that while driving through a rural area near Kearney, Nebraska, on November 5, 1957, he saw a large, blimp-shaped object on the ground in a field."
+  },
+  {
+   "s": "c_schmidt",
+   "p": "position",
+   "v": "on the ground in a field",
+   "quote": "Reinhold O. Schmidt claimed that while driving through a rural area near Kearney, Nebraska, on November 5, 1957, he saw a large, blimp-shaped object on the ground in a field."
+  },
+  {
+   "s": "c_schmidt",
+   "p": "behavior",
+   "v": "ascended into the air",
+   "quote": "Upon departing the craft, the ship ascended into the air, revealing large propellers at each end."
+  },
+  {
+   "s": "c_schmidt",
+   "p": "detail",
+   "v": "large propellers at each end",
+   "quote": "Upon departing the craft, the ship ascended into the air, revealing large propellers at each end."
+  },
+  {
+   "s": "usaf",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "An Air Force sergeant was sent to Levelland and spent seven hours in the city investigating the incident."
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Both the US Air Force and UFO skeptics concluded that the reports were caused by either ball lightning or a severe electrical storm."
+  },
+  {
+   "s": "usaf",
+   "p": "proposed",
+   "o": "x_ball",
+   "quote": "Both the US Air Force and UFO skeptics concluded that the reports were caused by either ball lightning or a severe electrical storm."
+  },
+  {
+   "s": "usaf",
+   "p": "proposed",
+   "o": "x_storm",
+   "quote": "Both the US Air Force and UFO skeptics concluded that the reports were caused by either ball lightning or a severe electrical storm."
+  },
+  {
+   "s": "usaf",
+   "p": "proposed",
+   "o": "x_elmo",
+   "quote": "After interviewing three of the eyewitnesses – Saucedo, Wheeler, and Wright – and after learning that thunderstorms were present in the area earlier in the day, the Air Force investigator concluded that a severe electrical storm – most probably ball lightning or St. Elmo's fire – was the major cause for the sightings and reported auto failures."
+  },
+  {
+   "s": "usaf",
+   "p": "proposed",
+   "o": "x_wet",
+   "quote": "The engine failures mentioned by the eyewitnesses were blamed on \"wet electrical circuits.\""
+  },
+  {
+   "s": "usaf",
+   "p": "conclusion",
+   "v": "a severe electrical storm, most probably ball lightning or St. Elmo's fire, was the major cause for the sightings and reported auto failures",
+   "quote": "After interviewing three of the eyewitnesses – Saucedo, Wheeler, and Wright – and after learning that thunderstorms were present in the area earlier in the day, the Air Force investigator concluded that a severe electrical storm – most probably ball lightning or St. Elmo's fire – was the major cause for the sightings and reported auto failures."
+  },
+  {
+   "s": "bluebook",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The Levelland sightings received national publicity and were soon investigated by Project Blue Book."
+  },
+  {
+   "s": "bluebook",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "Started in 1947 as Project Sign, Project Blue Book was the official US Air Force research group assigned to investigate UFO reports."
+  },
+  {
+   "s": "bluebook",
+   "p": "description",
+   "v": "official US Air Force research group assigned to investigate UFO reports",
+   "quote": "Started in 1947 as Project Sign, Project Blue Book was the official US Air Force research group assigned to investigate UFO reports."
+  },
+  {
+   "s": "bluebook",
+   "p": "started",
+   "v": "1947, as Project Sign",
+   "quote": "Started in 1947 as Project Sign, Project Blue Book was the official US Air Force research group assigned to investigate UFO reports."
+  },
+  {
+   "s": "bluebook",
+   "p": "assessment",
+   "v": "Saucedo's account could not be relied upon; an electrical phenomenon such as ball lightning or St. Elmo's fire seemed the most probable cause",
+   "quote": "Additionally, Project Blue Book believed that \"Saucedo's account could not be relied upon – he had only a grade school education and had no concept of direction and was conflicting in his answers...in view of the stormy weather conditions, an electrical phenomenon such as ball lightning or St. Elmo's fire seemed to be the most probable cause.\""
+  },
+  {
+   "s": "bluebook",
+   "p": "proposed",
+   "o": "x_ball",
+   "quote": "Additionally, Project Blue Book believed that \"Saucedo's account could not be relied upon – he had only a grade school education and had no concept of direction and was conflicting in his answers...in view of the stormy weather conditions, an electrical phenomenon such as ball lightning or St. Elmo's fire seemed to be the most probable cause.\""
+  },
+  {
+   "s": "bluebook",
+   "p": "proposed",
+   "o": "x_elmo",
+   "quote": "Additionally, Project Blue Book believed that \"Saucedo's account could not be relied upon – he had only a grade school education and had no concept of direction and was conflicting in his answers...in view of the stormy weather conditions, an electrical phenomenon such as ball lightning or St. Elmo's fire seemed to be the most probable cause.\""
+  },
+  {
+   "s": "bluebook",
+   "p": "authored",
+   "o": "d_report",
+   "quote": "Ufologists have also argued that the Air Force investigator did not interview nine of the fifteen witnesses, nor were they mentioned in Blue Book's final report on the incident."
+  },
+  {
+   "s": "sign",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "Started in 1947 as Project Sign, Project Blue Book was the official US Air Force research group assigned to investigate UFO reports."
+  },
+  {
+   "s": "sign",
+   "p": "year_started",
+   "v": "1947",
+   "quote": "Started in 1947 as Project Sign, Project Blue Book was the official US Air Force research group assigned to investigate UFO reports."
+  },
+  {
+   "s": "sign",
+   "p": "successor",
+   "v": "Project Blue Book",
+   "quote": "Started in 1947 as Project Sign, Project Blue Book was the official US Air Force research group assigned to investigate UFO reports."
+  },
+  {
+   "s": "d_report",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Ufologists have also argued that the Air Force investigator did not interview nine of the fifteen witnesses, nor were they mentioned in Blue Book's final report on the incident."
+  },
+  {
+   "s": "d_report",
+   "p": "omission",
+   "v": "nine of the fifteen witnesses were not mentioned",
+   "quote": "Ufologists have also argued that the Air Force investigator did not interview nine of the fifteen witnesses, nor were they mentioned in Blue Book's final report on the incident."
+  },
+  {
+   "s": "x_ball",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Both the US Air Force and UFO skeptics concluded that the reports were caused by either ball lightning or a severe electrical storm."
+  },
+  {
+   "s": "x_ball",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Even seventy hours of labour, however, could not have produced a clearer picture...the evidence leads to an overwhelming probability: the fiery unknown at Levelland was ball lightning."
+  },
+  {
+   "s": "x_storm",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Both the US Air Force and UFO skeptics concluded that the reports were caused by either ball lightning or a severe electrical storm."
+  },
+  {
+   "s": "x_storm",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "After interviewing three of the eyewitnesses – Saucedo, Wheeler, and Wright – and after learning that thunderstorms were present in the area earlier in the day, the Air Force investigator concluded that a severe electrical storm – most probably ball lightning or St. Elmo's fire – was the major cause for the sightings and reported auto failures."
+  },
+  {
+   "s": "x_elmo",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "After interviewing three of the eyewitnesses – Saucedo, Wheeler, and Wright – and after learning that thunderstorms were present in the area earlier in the day, the Air Force investigator concluded that a severe electrical storm – most probably ball lightning or St. Elmo's fire – was the major cause for the sightings and reported auto failures."
+  },
+  {
+   "s": "x_wet",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The engine failures mentioned by the eyewitnesses were blamed on \"wet electrical circuits.\""
+  },
+  {
+   "s": "peebles",
+   "p": "commentator",
+   "o": "case",
+   "quote": "According to UFO historian Curtis Peebles, \"the Air Force found only three persons who had witnessed the 'blue light'...there was no uniform description of the object.\""
+  },
+  {
+   "s": "peebles",
+   "p": "occupation",
+   "v": "UFO historian",
+   "quote": "According to UFO historian Curtis Peebles, \"the Air Force found only three persons who had witnessed the 'blue light'...there was no uniform description of the object.\""
+  },
+  {
+   "s": "peebles",
+   "p": "statement",
+   "v": "the Air Force found only three persons who had witnessed the 'blue light'...there was no uniform description of the object",
+   "quote": "According to UFO historian Curtis Peebles, \"the Air Force found only three persons who had witnessed the 'blue light'...there was no uniform description of the object.\""
+  },
+  {
+   "s": "menzel",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Donald H. Menzel, an astronomer at Harvard University and a prominent UFO skeptic, agreed with the Air Force explanation"
+  },
+  {
+   "s": "menzel",
+   "p": "occupation",
+   "v": "astronomer",
+   "quote": "Donald H. Menzel, an astronomer at Harvard University and a prominent UFO skeptic, agreed with the Air Force explanation"
+  },
+  {
+   "s": "menzel",
+   "p": "employed_by",
+   "o": "harvard",
+   "quote": "Donald H. Menzel, an astronomer at Harvard University and a prominent UFO skeptic, agreed with the Air Force explanation"
+  },
+  {
+   "s": "menzel",
+   "p": "role",
+   "v": "prominent UFO skeptic",
+   "quote": "Donald H. Menzel, an astronomer at Harvard University and a prominent UFO skeptic, agreed with the Air Force explanation"
+  },
+  {
+   "s": "menzel",
+   "p": "position",
+   "v": "agreed with the Air Force explanation",
+   "quote": "Donald H. Menzel, an astronomer at Harvard University and a prominent UFO skeptic, agreed with the Air Force explanation"
+  },
+  {
+   "s": "menzel",
+   "p": "proposed",
+   "o": "x_ball",
+   "quote": "Even seventy hours of labour, however, could not have produced a clearer picture...the evidence leads to an overwhelming probability: the fiery unknown at Levelland was ball lightning."
+  },
+  {
+   "s": "menzel",
+   "p": "statement",
+   "v": "members of civilian saucer groups complained that, since the Air Force investigator had spent only seven hours in the area, he had obviously not taken the problem seriously",
+   "quote": "\"members of civilian saucer groups complained that, since [the Air Force investigator] had spent only seven hours in the area, he had obviously not taken the problem seriously and could not have found the correct solution."
+  },
+  {
+   "s": "menzel",
+   "p": "statement",
+   "v": "Even seventy hours of labour could not have produced a clearer picture...the fiery unknown at Levelland was ball lightning",
+   "quote": "Even seventy hours of labour, however, could not have produced a clearer picture...the evidence leads to an overwhelming probability: the fiery unknown at Levelland was ball lightning."
+  },
+  {
+   "s": "menzel",
+   "p": "statement",
+   "v": "in Levelland on the night of November 2 conditions were ideal for the formation of ball lightning",
+   "quote": "Menzel argued that \"in Levelland on the night of November 2 conditions were ideal for the formation of ball lightning. For several days the area had been experiencing freak weather, and on the night in question had been visited by rain, thunderstorms and lightning.\""
+  },
+  {
+   "s": "menzel",
+   "p": "statement",
+   "v": "since ball lightning is short-lived and cannot be preserved as tangible evidence, its appearance on the night of November 2 can never be absolutely proved",
+   "quote": "Menzel admitted that \"since ball lightning is short-lived and cannot be preserved as tangible evidence, its appearance on the night of November 2 can never be absolutely proved.\""
+  },
+  {
+   "s": "menzel",
+   "p": "statement",
+   "v": "only the saucer proponents could have converted so trivial a series of events - a few stalled automobiles, balls of flame in the sky at the end of the thunderstorm - into a national mystery",
+   "quote": "However, he also argued that \"only the saucer proponents could have converted so trivial a series of events – a few stalled automobiles, balls of flame in the sky at the end of the thunderstorm – into a national mystery.\""
+  },
+  {
+   "s": "harvard",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Donald H. Menzel, an astronomer at Harvard University and a prominent UFO skeptic, agreed with the Air Force explanation"
+  },
+  {
+   "s": "mcdonald",
+   "p": "proponent",
+   "o": "case",
+   "quote": "Two ufologists – James E. McDonald and J. Allen Hynek – disputed the Air Force ball lightning/electrical storm explanation."
+  },
+  {
+   "s": "hynek",
+   "p": "proponent",
+   "o": "case",
+   "quote": "Two ufologists – James E. McDonald and J. Allen Hynek – disputed the Air Force ball lightning/electrical storm explanation."
+  },
+  {
+   "s": "mcdonald",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "Two ufologists – James E. McDonald and J. Allen Hynek – disputed the Air Force ball lightning/electrical storm explanation."
+  },
+  {
+   "s": "hynek",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "Two ufologists – James E. McDonald and J. Allen Hynek – disputed the Air Force ball lightning/electrical storm explanation."
+  },
+  {
+   "s": "mcdonald",
+   "p": "disputed",
+   "o": "x_ball",
+   "quote": "Two ufologists – James E. McDonald and J. Allen Hynek – disputed the Air Force ball lightning/electrical storm explanation."
+  },
+  {
+   "s": "mcdonald",
+   "p": "disputed",
+   "o": "x_storm",
+   "quote": "Two ufologists – James E. McDonald and J. Allen Hynek – disputed the Air Force ball lightning/electrical storm explanation."
+  },
+  {
+   "s": "hynek",
+   "p": "disputed",
+   "o": "x_ball",
+   "quote": "Two ufologists – James E. McDonald and J. Allen Hynek – disputed the Air Force ball lightning/electrical storm explanation."
+  },
+  {
+   "s": "hynek",
+   "p": "disputed",
+   "o": "x_storm",
+   "quote": "Two ufologists – James E. McDonald and J. Allen Hynek – disputed the Air Force ball lightning/electrical storm explanation."
+  },
+  {
+   "s": "mcdonald",
+   "p": "statement",
+   "v": "there was no electrical storm in the area when the sightings occurred",
+   "quote": "Both men argued that there was no electrical storm in the area when the sightings occurred."
+  },
+  {
+   "s": "hynek",
+   "p": "statement",
+   "v": "there was no electrical storm in the area when the sightings occurred",
+   "quote": "Both men argued that there was no electrical storm in the area when the sightings occurred."
+  },
+  {
+   "s": "mcdonald",
+   "p": "statement",
+   "v": "One famous [UFO] case was at Levelland, Texas...ten vehicles were stopped within a short area, all independently in a 2-hour period. There was no lightning or thunderstorm, and only a trace of rain.",
+   "quote": "In testimony before a committee of the US House of Representatives in 1968, McDonald said that \"One famous [UFO] case was at Levelland, Texas...ten vehicles were stopped within a short area, all independently in a 2-hour period. There was no lightning or thunderstorm, and only a trace of rain.\""
+  },
+  {
+   "s": "mcdonald",
+   "p": "authored",
+   "o": "d_testimony",
+   "quote": "In testimony before a committee of the US House of Representatives in 1968, McDonald said that \"One famous [UFO] case was at Levelland, Texas...ten vehicles were stopped within a short area, all independently in a 2-hour period. There was no lightning or thunderstorm, and only a trace of rain.\""
+  },
+  {
+   "s": "d_testimony",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In testimony before a committee of the US House of Representatives in 1968, McDonald said that \"One famous [UFO] case was at Levelland, Texas...ten vehicles were stopped within a short area, all independently in a 2-hour period. There was no lightning or thunderstorm, and only a trace of rain.\""
+  },
+  {
+   "s": "d_testimony",
+   "p": "year",
+   "v": "1968",
+   "quote": "In testimony before a committee of the US House of Representatives in 1968, McDonald said that \"One famous [UFO] case was at Levelland, Texas...ten vehicles were stopped within a short area, all independently in a 2-hour period. There was no lightning or thunderstorm, and only a trace of rain.\""
+  },
+  {
+   "s": "house",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In testimony before a committee of the US House of Representatives in 1968, McDonald said that \"One famous [UFO] case was at Levelland, Texas...ten vehicles were stopped within a short area, all independently in a 2-hour period. There was no lightning or thunderstorm, and only a trace of rain.\""
+  },
+  {
+   "s": "house",
+   "p": "role",
+   "v": "a committee of the House heard McDonald's testimony in 1968",
+   "quote": "In testimony before a committee of the US House of Representatives in 1968, McDonald said that \"One famous [UFO] case was at Levelland, Texas...ten vehicles were stopped within a short area, all independently in a 2-hour period. There was no lightning or thunderstorm, and only a trace of rain.\""
+  },
+  {
+   "s": "hynek",
+   "p": "duty_at_the_time",
+   "v": "responsible for the tracking of the new Soviet satellite Sputnik; on virtual around-the-clock duty",
+   "quote": "Hynek wrote that \"as the person responsible for the tracking of the new Soviet satellite Sputnik, I was on a virtual around-the-clock duty and was unable to give it any attention whatever."
+  },
+  {
+   "s": "hynek",
+   "p": "statement",
+   "v": "was unable to give the case any attention whatever",
+   "quote": "Hynek wrote that \"as the person responsible for the tracking of the new Soviet satellite Sputnik, I was on a virtual around-the-clock duty and was unable to give it any attention whatever."
+  },
+  {
+   "s": "hynek",
+   "p": "earlier_position",
+   "v": "hastily concurred in the Air Force's evaluation as 'ball lightning'",
+   "quote": "I am not proud today that I hastily concurred in [the Air Force's] evaluation as 'ball lightning' on the basis of information that an electrical storm had been in progress in the Levelland area at the time."
+  },
+  {
+   "s": "hynek",
+   "p": "statement",
+   "v": "I am not proud today that I hastily concurred in [the Air Force's] evaluation as 'ball lightning'",
+   "quote": "I am not proud today that I hastily concurred in [the Air Force's] evaluation as 'ball lightning' on the basis of information that an electrical storm had been in progress in the Levelland area at the time."
+  },
+  {
+   "s": "hynek",
+   "p": "statement",
+   "v": "This was shown not to be the case. Observers reported overcast and mist but no lightning.",
+   "quote": "This was shown not to be the case. Observers reported overcast and mist but no lightning."
+  },
+  {
+   "s": "hynek",
+   "p": "statement",
+   "v": "had I given it any thought whatsoever, I would soon have recognized the absence of any evidence that ball lightning can stop cars and put out headlights",
+   "quote": "Hynek also noted that \"had I given it any thought whatsoever, I would soon have recognized the absence of any evidence that ball lightning can stop cars and put out headlights.\""
+  },
+  {
+   "s": "sputnik",
+   "p": "mentioned_by",
+   "o": "hynek",
+   "quote": "Hynek wrote that \"as the person responsible for the tracking of the new Soviet satellite Sputnik, I was on a virtual around-the-clock duty and was unable to give it any attention whatever."
+  },
+  {
+   "s": "sputnik",
+   "p": "description",
+   "v": "new Soviet satellite",
+   "quote": "Hynek wrote that \"as the person responsible for the tracking of the new Soviet satellite Sputnik, I was on a virtual around-the-clock duty and was unable to give it any attention whatever."
+  },
+  {
+   "s": "kdfw",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In March 2002, Dallas-based television station KDFW aired a report about the Levelland UFO case in which reporter Richard Ray (now retired) interviewed Sheriff Weir Clem's widow and friends."
+  },
+  {
+   "s": "kdfw",
+   "p": "description",
+   "v": "Dallas-based television station",
+   "quote": "In March 2002, Dallas-based television station KDFW aired a report about the Levelland UFO case in which reporter Richard Ray (now retired) interviewed Sheriff Weir Clem's widow and friends."
+  },
+  {
+   "s": "kdfw",
+   "p": "published",
+   "o": "w_kdfw",
+   "quote": "In March 2002, Dallas-based television station KDFW aired a report about the Levelland UFO case in which reporter Richard Ray (now retired) interviewed Sheriff Weir Clem's widow and friends."
+  },
+  {
+   "s": "w_kdfw",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In March 2002, Dallas-based television station KDFW aired a report about the Levelland UFO case in which reporter Richard Ray (now retired) interviewed Sheriff Weir Clem's widow and friends."
+  },
+  {
+   "s": "w_kdfw",
+   "p": "date",
+   "v": "March 2002",
+   "quote": "In March 2002, Dallas-based television station KDFW aired a report about the Levelland UFO case in which reporter Richard Ray (now retired) interviewed Sheriff Weir Clem's widow and friends."
+  },
+  {
+   "s": "ray",
+   "p": "journalist",
+   "o": "case",
+   "quote": "In March 2002, Dallas-based television station KDFW aired a report about the Levelland UFO case in which reporter Richard Ray (now retired) interviewed Sheriff Weir Clem's widow and friends."
+  },
+  {
+   "s": "ray",
+   "p": "occupation",
+   "v": "reporter (now retired)",
+   "quote": "In March 2002, Dallas-based television station KDFW aired a report about the Levelland UFO case in which reporter Richard Ray (now retired) interviewed Sheriff Weir Clem's widow and friends."
+  },
+  {
+   "s": "ray",
+   "p": "employed_by",
+   "o": "kdfw",
+   "quote": "In March 2002, Dallas-based television station KDFW aired a report about the Levelland UFO case in which reporter Richard Ray (now retired) interviewed Sheriff Weir Clem's widow and friends."
+  },
+  {
+   "s": "ray",
+   "p": "interviewed_persons",
+   "v": "Sheriff Weir Clem's widow and friends",
+   "quote": "In March 2002, Dallas-based television station KDFW aired a report about the Levelland UFO case in which reporter Richard Ray (now retired) interviewed Sheriff Weir Clem's widow and friends."
+  },
+  {
+   "s": "w_dudding",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Dudding, George. The Levelland UFO Case. GSD PUBLICATIONS, 15 March 2016"
+  },
+  {
+   "s": "dudding",
+   "p": "authored",
+   "o": "w_dudding",
+   "quote": "Dudding, George. The Levelland UFO Case. GSD PUBLICATIONS, 15 March 2016"
+  },
+  {
+   "s": "dudding",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Dudding, George. The Levelland UFO Case. GSD PUBLICATIONS, 15 March 2016"
+  },
+  {
+   "s": "w_dudding",
+   "p": "publication_date",
+   "v": "15 March 2016",
+   "quote": "Dudding, George. The Levelland UFO Case. GSD PUBLICATIONS, 15 March 2016"
+  },
+  {
+   "s": "k_lubbock",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Lubbock Lights – Unusual light formation over Lubbock, Texas, between August and September 1951"
+  },
+  {
+   "s": "k_lubbock",
+   "p": "description",
+   "v": "unusual light formation over Lubbock, Texas",
+   "quote": "Lubbock Lights – Unusual light formation over Lubbock, Texas, between August and September 1951"
+  },
+  {
+   "s": "k_lubbock",
+   "p": "date",
+   "v": "between August and September 1951",
+   "quote": "Lubbock Lights – Unusual light formation over Lubbock, Texas, between August and September 1951"
+  },
+  {
+   "s": "lubbock",
+   "p": "occurred_at",
+   "o": "k_lubbock",
+   "quote": "Lubbock Lights – Unusual light formation over Lubbock, Texas, between August and September 1951"
+  },
+  {
+   "s": "f_em",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "They claimed their truck's engine died, and a rocket-shaped object rose up and approached the truck."
+  },
+  {
+   "s": "f_em",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "At 10:55 p.m., a married couple driving northeast of Levelland reported that they saw a bright flash of light moving across the sky and their headlights and radio died for three seconds."
+  },
+  {
+   "s": "f_em",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "At 12:15 a.m., Officer Fowler received another call, this time from a farmer named Frank Williams who claimed he had encountered a brightly glowing object sitting in the road, and \"as his car approached it, its lights went out and its motor stopped.\""
+  },
+  {
+   "s": "f_em",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "They also claimed that their engines and headlights had died until the object flew away."
+  },
+  {
+   "s": "f_egg",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "An hour later, motorist Jim Wheeler reported a \"brilliantly lit, egg-shaped object\" that he estimated at a length of approximately 200 feet (61 meters) sitting in the road four miles (6.4 km) east of Levelland, blocking his path."
+  },
+  {
+   "s": "f_egg",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "When he got out to check on the problem, he saw a \"100-foot-long\" [30-meter-long] egg-shaped object sitting in the road."
+  },
+  {
+   "s": "f_shape_other",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "They claimed their truck's engine died, and a rocket-shaped object rose up and approached the truck."
+  },
+  {
+   "s": "f_land",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "An hour later, motorist Jim Wheeler reported a \"brilliantly lit, egg-shaped object\" that he estimated at a length of approximately 200 feet (61 meters) sitting in the road four miles (6.4 km) east of Levelland, blocking his path."
+  },
+  {
+   "s": "f_land",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Other callers were Ronald Martin at 12:45 a.m. and James Long at 1:15 a.m., and they both reported seeing a brightly lit object sitting in the road in front of them."
+  },
+  {
+   "s": "f_sound",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to Saucedo, \"I jumped out of the truck and hit the dirt because I was afraid. I called out to Joe but he didn't get out. The thing passed directly over my big truck with a great sound and rush of wind. It sounded like thunder and my truck rocked from the flash...I felt a lot of heat.\""
+  },
+  {
+   "s": "f_heat",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to Saucedo, \"I jumped out of the truck and hit the dirt because I was afraid. I called out to Joe but he didn't get out. The thing passed directly over my big truck with a great sound and rush of wind. It sounded like thunder and my truck rocked from the flash...I felt a lot of heat.\""
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Ufologists believe it represents the most impressive case in UFO history, mainly because of the large number of witnesses involved over a relatively short period of time."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "During the night of 2–3 November, the Levelland police department received a total of 15 UFO-related reports, and Officer Fowler noted that \"everybody who called was very excited.\""
+  },
+  {
+   "s": "f_police",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Among them was Sheriff Weir Clem who, at 1:30 a.m., saw a brilliant red object moving across the sky."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Levelland sightings received national publicity and were soon investigated by Project Blue Book."
+  },
+  {
+   "s": "f_congress",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In testimony before a committee of the US House of Representatives in 1968, McDonald said that \"One famous [UFO] case was at Levelland, Texas...ten vehicles were stopped within a short area, all independently in a 2-hour period. There was no lightning or thunderstorm, and only a trace of rain.\""
+  },
+  {
+   "s": "f_wave",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The 1957 UFO flap concluded with a case widely deemed a hoax by ufologists."
+  }
+ ]
+}
