@@ -1,0 +1,124 @@
+{
+ "_about": "Merges and non-merges confirmed by review of data/merge_candidates.txt. Names are matched against entity primary names.",
+ "merge": [
+  [
+   "Aviation Week",
+   "Aviation Week and Space Technology"
+  ],
+  [
+   "Senate Select Committee on Intelligence",
+   "United States Senate Select Committee on Intelligence"
+  ],
+  [
+   "U.S. Joint Chiefs of Staff",
+   "Joint Chiefs of Staff"
+  ],
+  [
+   "United States federal government",
+   "United States government"
+  ],
+  [
+   "Howard P. Robertson",
+   "H.P. Robertson"
+  ],
+  [
+   "Harry Truman",
+   "Truman"
+  ],
+  [
+   "Ray Craig",
+   "Roy Craig"
+  ],
+  [
+   "National Archives",
+   "United States National Archives"
+  ],
+  [
+   "University of Colorado",
+   "University of Colorado Boulder"
+  ],
+  [
+   "Project Blue Book (TV series)",
+   "Project Blue Book (2019 History Channel series)",
+   "Project Blue Book (2019 television series)"
+  ]
+ ],
+ "_merge_notes": {
+  "Ray Craig": "Falcon Lake source spells the Condon Committee investigator 'Ray Craig'; Mariana source has 'Roy Craig'. Same role, same committee.",
+  "Harry Truman": "Ghost rockets source: Vandenberg's memo 'to President Truman'.",
+  "National Archives": "Grusch source refers to the US agency, not the New Zealand one."
+ },
+ "distinct": [
+  [
+   "Steve Michalak",
+   "Stan Michalak"
+  ],
+  [
+   "Barney Hill",
+   "Betty Hill"
+  ],
+  [
+   "Felix Eugene Moncla Jr.",
+   "Felix Moncla Sr."
+  ],
+  [
+   "Scott Ramsey",
+   "Suzanne Ramsey"
+  ],
+  [
+   "Brenda Pollak",
+   "Buddy Pollak"
+  ],
+  [
+   "Shirley McConnell",
+   "Steve McConnell"
+  ],
+  [
+   "Jerry Wise",
+   "Jeff Wise"
+  ],
+  [
+   "James Oberg",
+   "A. G. Oberg"
+  ],
+  [
+   "Raymond E. Fowler",
+   "A. J. Fowler"
+  ],
+  [
+   "Royal Air Force",
+   "Royal Canadian Air Force"
+  ],
+  [
+   "Royal Air Force",
+   "Royal Australian Air Force"
+  ],
+  [
+   "Royal Air Force",
+   "Royal New Zealand Air Force"
+  ],
+  [
+   "United States Army",
+   "United States Army Air Forces"
+  ],
+  [
+   "United States Army",
+   "United States Army Air Corps"
+  ],
+  [
+   "United Press International",
+   "United Press"
+  ],
+  [
+   "National Archives",
+   "National Archives of New Zealand"
+  ]
+ ],
+ "split": [
+  {
+   "name": "Robert Taylor",
+   "source": "michigan-swamp-gas-ufo-reports",
+   "why": "Dexter, Michigan police chief (1966), not the Scottish forestry worker of the 1979 Robert Taylor incident."
+  }
+ ]
+}

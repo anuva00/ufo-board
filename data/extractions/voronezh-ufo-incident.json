@@ -1,0 +1,1219 @@
+{
+ "slug": "voronezh-ufo-incident",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Voronezh UFO incident",
+   "description": "Alleged sighting of a UFO and alien beings reported by a group of children in Voronezh, Soviet Union, on September 27, 1989, publicized by TASS."
+  },
+  {
+   "key": "ball",
+   "type": "craft",
+   "name": "Deep red ball seen over Voronezh park",
+   "aliases": [
+    "flying saucer",
+    "a body flying in the sky"
+   ],
+   "description": "Deep red ball about three metres in diameter that the children said circled, vanished, reappeared and hovered"
+  },
+  {
+   "key": "voronezh",
+   "type": "place",
+   "name": "Voronezh, Soviet Union",
+   "aliases": [
+    "Voronezh"
+   ],
+   "description": "City where the sighting was reported"
+  },
+  {
+   "key": "ussr",
+   "type": "place",
+   "name": "Soviet Union",
+   "description": "Country where the incident was reported"
+  },
+  {
+   "key": "moscow",
+   "type": "place",
+   "name": "Moscow, Soviet Union",
+   "aliases": [
+    "Moscow",
+    "south Moscow"
+   ],
+   "description": "City near which a patch of scorched ground was attributed by a ufologist to a UFO landing"
+  },
+  {
+   "key": "usa",
+   "type": "place",
+   "name": "United States",
+   "aliases": [
+    "America",
+    "U.S."
+   ],
+   "description": "Country whose UFO cases, magazine and TV show are compared or mentioned"
+  },
+  {
+   "key": "chernobyl",
+   "type": "place",
+   "name": "Chernobyl",
+   "description": "Cited by Sarotsev as the reason larger-than-normal cesium is found in many areas"
+  },
+  {
+   "key": "redstar",
+   "type": "place",
+   "name": "Red Star",
+   "description": "Claimed origin of alien beings a Komsomolskaya Pravda reporter said he had interviewed"
+  },
+  {
+   "key": "matveyev",
+   "type": "person",
+   "name": "Sergei A. Matveyev",
+   "aliases": [
+    "Lieutenant Sergei A. Matveyev"
+   ],
+   "description": "Lieutenant of the Voronezh district police station who claimed to have seen a body flying in the sky"
+  },
+  {
+   "key": "silanov",
+   "type": "person",
+   "name": "Genrikh Silanov",
+   "aliases": [
+    "Dr. Silanov"
+   ],
+   "description": "Of the Voronezh Geophysical Laboratory; quoted by TASS as confirming the landing site by biolocation, later said the rock was hematite and disowned parts of the TASS coverage"
+  },
+  {
+   "key": "kurtz",
+   "type": "person",
+   "name": "Paul Kurtz",
+   "aliases": [
+    "Kurtz"
+   ],
+   "description": "Writer in a 1990 volume of Skeptical Inquirer who commented sceptically on the case"
+  },
+  {
+   "key": "kuzovkin",
+   "type": "person",
+   "name": "A. Kuzovkin",
+   "description": "UFOlogist who attributed a scorched patch of ground near south Moscow to a UFO landing"
+  },
+  {
+   "key": "sarotsev",
+   "type": "person",
+   "name": "Igor Sarotsev",
+   "description": "Vice-rector of the University of Voronezh who called the cesium finding insignificant"
+  },
+  {
+   "key": "posner",
+   "type": "person",
+   "name": "Vladimir Posner",
+   "aliases": [
+    "Posner"
+   ],
+   "description": "Soviet evening news correspondent who sent a film crew to Voronezh"
+  },
+  {
+   "key": "tass",
+   "type": "organization",
+   "name": "TASS",
+   "aliases": [
+    "Tass"
+   ],
+   "description": "Soviet news agency whose reports publicized the incident"
+  },
+  {
+   "key": "police",
+   "type": "organization",
+   "name": "Voronezh district police station",
+   "description": "Police station of Lieutenant Sergei A. Matveyev"
+  },
+  {
+   "key": "interior",
+   "type": "organization",
+   "name": "Soviet Interior Ministry",
+   "aliases": [
+    "Interior Ministry"
+   ],
+   "description": "Ministry that said it would dispatch troops if the object reappeared"
+  },
+  {
+   "key": "geolab",
+   "type": "organization",
+   "name": "Voronezh Geophysical Laboratory",
+   "aliases": [
+    "Voronezh Geophysical Lab"
+   ],
+   "description": "Laboratory of Genrikh Silanov"
+  },
+  {
+   "key": "kp",
+   "type": "organization",
+   "name": "Komsomolskaya Pravda",
+   "description": "Newspaper whose reporter claimed an exclusive interview with alien beings from Red Star"
+  },
+  {
+   "key": "sk",
+   "type": "organization",
+   "name": "Sovietskaya Kultura",
+   "description": "Communist Party paper that publicized the children's claims"
+  },
+  {
+   "key": "cpsu",
+   "type": "organization",
+   "name": "Communist Party of the Soviet Union",
+   "aliases": [
+    "Communist Party"
+   ],
+   "description": "Party whose paper Sovietskaya Kultura publicized the claims"
+  },
+  {
+   "key": "saga",
+   "type": "organization",
+   "name": "Saga",
+   "aliases": [
+    "Saga magazine"
+   ],
+   "description": "American magazine whose stories the incident's description closely resembled"
+  },
+  {
+   "key": "si_ind",
+   "type": "organization",
+   "name": "Socialist Industry",
+   "description": "Publication to which Kuzovkin and Silanov spoke"
+  },
+  {
+   "key": "ssc",
+   "type": "organization",
+   "name": "Soviet Scientific Commission",
+   "description": "Body that ordered an inquiry into the alleged incident"
+  },
+  {
+   "key": "vasap",
+   "type": "organization",
+   "name": "Voronezh Amateur Section for the Study of Abnormal Phenomena",
+   "description": "Group whose members visited the site a week after the event and used a form of ESP dowsing"
+  },
+  {
+   "key": "si",
+   "type": "organization",
+   "name": "Skeptical Inquirer",
+   "description": "Publication in whose 1990 volume Paul Kurtz wrote about the case"
+  },
+  {
+   "key": "univ",
+   "type": "organization",
+   "name": "University of Voronezh",
+   "description": "University of which Igor Sarotsev was vice-rector"
+  },
+  {
+   "key": "afp",
+   "type": "organization",
+   "name": "Agence France-Presse",
+   "aliases": [
+    "French Press Agency"
+   ],
+   "description": "News agency whose October 28 report said there was no verifiable proof of a landing"
+  },
+  {
+   "key": "time",
+   "type": "organization",
+   "name": "Time",
+   "aliases": [
+    "Time magazine"
+   ],
+   "description": "Magazine whose October 23, 1989 issue Kurtz cited"
+  },
+  {
+   "key": "tassrep",
+   "type": "document",
+   "name": "TASS report of October 9, 1989",
+   "description": "TASS report that a correspondent had spoken to 10 or 12 youths who claimed to have seen a flying saucer"
+  },
+  {
+   "key": "afprep",
+   "type": "document",
+   "name": "French Press Agency report of October 28",
+   "description": "Report stating there exists no verifiable proof of a landing by aliens in Voronezh"
+  },
+  {
+   "key": "aca",
+   "type": "work",
+   "name": "A Current Affair",
+   "description": "U.S. show that sent a crew to report on the alleged event"
+  },
+  {
+   "key": "f_sphere",
+   "type": "feature",
+   "name": "shape-sphere",
+   "description": "Feature: shape-sphere"
+  },
+  {
+   "key": "f_hover",
+   "type": "feature",
+   "name": "hovering",
+   "description": "Feature: hovering"
+  },
+  {
+   "key": "f_occ",
+   "type": "feature",
+   "name": "occupants-reported",
+   "description": "Feature: occupants-reported"
+  },
+  {
+   "key": "f_land",
+   "type": "feature",
+   "name": "landing-reported",
+   "description": "Feature: landing-reported"
+  },
+  {
+   "key": "f_child",
+   "type": "feature",
+   "name": "child-witnesses",
+   "description": "Feature: child-witnesses"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "Feature: multiple-witnesses"
+  },
+  {
+   "key": "f_police",
+   "type": "feature",
+   "name": "police-witnesses",
+   "description": "Feature: police-witnesses"
+  },
+  {
+   "key": "f_rad",
+   "type": "feature",
+   "name": "radiation-reading",
+   "description": "Feature: radiation-reading"
+  },
+  {
+   "key": "f_debris",
+   "type": "feature",
+   "name": "debris-or-material",
+   "description": "Feature: debris-or-material"
+  },
+  {
+   "key": "f_offinv",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Feature: official-investigation"
+  },
+  {
+   "key": "f_disapp",
+   "type": "feature",
+   "name": "death-or-disappearance",
+   "description": "Feature: death-or-disappearance"
+  },
+  {
+   "key": "f_robot",
+   "type": "feature",
+   "name": "other:robot reported",
+   "description": "Feature: other:robot reported"
+  },
+  {
+   "key": "f_raygun",
+   "type": "feature",
+   "name": "other:ray gun",
+   "description": "Feature: other:ray gun"
+  },
+  {
+   "key": "f_dowsing",
+   "type": "feature",
+   "name": "other:dowsing (biolocation)",
+   "description": "Feature: other:dowsing (biolocation)"
+  },
+  {
+   "key": "x_psych",
+   "type": "explanation",
+   "name": "psychological",
+   "description": "Creative imagination of young children, suggested by Vladimir Posner"
+  },
+  {
+   "key": "x_hematite",
+   "type": "explanation",
+   "name": "other:rock was common hematite",
+   "description": "Silanov's statement that the supposedly extraterrestrial rock was hematite commonly found in the Soviet Union"
+  },
+  {
+   "key": "x_fallout",
+   "type": "explanation",
+   "name": "other:cesium from Chernobyl fallout",
+   "description": "Sarotsev's remark that elevated cesium has been found in many areas after Chernobyl"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1989-09-27",
+   "quote": "The Voronezh UFO incident was an alleged UFO and extra-terrestrial alien sighting reported by a group of children in Voronezh, Soviet Union, on September 27, 1989."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "Soviet Union",
+   "quote": "The Voronezh UFO incident was an alleged UFO and extra-terrestrial alien sighting reported by a group of children in Voronezh, Soviet Union, on September 27, 1989."
+  },
+  {
+   "s": "case",
+   "p": "witness_count",
+   "v": "10 or 12",
+   "quote": "On October 9, 1989, TASS reported that a correspondent had spoken to \"10 or 12 youths\" who claimed to have seen a flying saucer."
+  },
+  {
+   "s": "case",
+   "p": "witness_description",
+   "v": "a group of children; boys playing football in a city park",
+   "quote": "boys playing football in a city park \"saw a pink glow in the sky, then saw a deep red ball about three metres in diameter. The ball circled, vanished, then reappeared minutes later and hovered\""
+  },
+  {
+   "s": "case",
+   "p": "location_detail",
+   "v": "a city park",
+   "quote": "boys playing football in a city park \"saw a pink glow in the sky, then saw a deep red ball about three metres in diameter. The ball circled, vanished, then reappeared minutes later and hovered\""
+  },
+  {
+   "s": "case",
+   "p": "sequence_of_events",
+   "v": "pink glow in the sky, then a deep red ball that circled, vanished, reappeared minutes later and hovered",
+   "quote": "boys playing football in a city park \"saw a pink glow in the sky, then saw a deep red ball about three metres in diameter. The ball circled, vanished, then reappeared minutes later and hovered\""
+  },
+  {
+   "s": "case",
+   "p": "sky_glow_color",
+   "v": "pink",
+   "quote": "boys playing football in a city park \"saw a pink glow in the sky, then saw a deep red ball about three metres in diameter. The ball circled, vanished, then reappeared minutes later and hovered\""
+  },
+  {
+   "s": "case",
+   "p": "occupant_description",
+   "v": "a three-eyed alien wearing bronze coloured boots with a disk on the chest, and a robot, exiting the object",
+   "quote": "The children claimed to have seen \"a three-eyed alien\" wearing bronze coloured boots with a disk on the chest, and a robot, exiting the object."
+  },
+  {
+   "s": "case",
+   "p": "occupant_eye_count",
+   "v": "three",
+   "quote": "The children claimed to have seen \"a three-eyed alien\" wearing bronze coloured boots with a disk on the chest, and a robot, exiting the object."
+  },
+  {
+   "s": "case",
+   "p": "occupant_boots_color",
+   "v": "bronze",
+   "quote": "The children claimed to have seen \"a three-eyed alien\" wearing bronze coloured boots with a disk on the chest, and a robot, exiting the object."
+  },
+  {
+   "s": "case",
+   "p": "occupant_count",
+   "v": "an alien and a robot",
+   "quote": "The children claimed to have seen \"a three-eyed alien\" wearing bronze coloured boots with a disk on the chest, and a robot, exiting the object."
+  },
+  {
+   "s": "case",
+   "p": "occupant_action",
+   "v": "the alien used a ray gun to make a 16-year-old boy disappear until the object departed",
+   "quote": "According to the children, the alien used a ray gun to make a 16-year-old boy disappear until the object departed."
+  },
+  {
+   "s": "case",
+   "p": "vanished_boy_age",
+   "v": "16",
+   "quote": "According to the children, the alien used a ray gun to make a 16-year-old boy disappear until the object departed."
+  },
+  {
+   "s": "case",
+   "p": "occupant_behavior",
+   "v": "completely apolitical and did not even speak during their 'visit'",
+   "quote": "It was noted that, unlike in America, the reported beings were completely apolitical and did not even speak during their 'visit'."
+  },
+  {
+   "s": "case",
+   "p": "only_alien_witnesses",
+   "v": "the children were the only ones claiming to have witnessed the aliens",
+   "quote": "Though the children were the only ones claiming to have witnessed the aliens, Lieutenant Sergei A. Matveyev of the Voronezh district police station claimed to have seen \"a body flying in the sky\"."
+  },
+  {
+   "s": "case",
+   "p": "tourism",
+   "v": "The area has been popular with UFO-hunting tourists",
+   "quote": "The area has been popular with UFO-hunting tourists."
+  },
+  {
+   "s": "case",
+   "p": "tourism",
+   "v": "a private company was formed to sell tours of Voronezh, billed as \"land of the aliens\", for 59 rubles ($95) per person",
+   "quote": "Following the initial publicity, a private company was formed to sell tours of Voronezh, billed as \"land of the aliens\", for 59 rubles ($95) per person."
+  },
+  {
+   "s": "case",
+   "p": "tour_price",
+   "v": "59 rubles ($95) per person",
+   "quote": "Following the initial publicity, a private company was formed to sell tours of Voronezh, billed as \"land of the aliens\", for 59 rubles ($95) per person."
+  },
+  {
+   "s": "case",
+   "p": "publicity",
+   "v": "the most publicized of a series of UFO claims made by official government media, promoted as part of the government's new \"openness\"",
+   "quote": "The report was the most publicized of a series of UFO claims made by official government media, and were promoted as part of the government's new \"openness\"."
+  },
+  {
+   "s": "case",
+   "p": "aftermath",
+   "v": "hundreds of UFO reports began appearing in the immediate aftermath",
+   "quote": "In the immediate aftermath of the alleged incident, hundreds of UFO reports began appearing, with a reporter from Komsomolskaya Pravda even claiming to have an exclusive interview with alien beings from Red Star."
+  },
+  {
+   "s": "case",
+   "p": "similarity",
+   "v": "description very similar to stories that appeared in the American magazine Saga",
+   "quote": "The description of the incident was very similar to stories that appeared in the American magazine Saga, but TASS reporters stated that the witnesses \"probably haven't read it.\""
+  },
+  {
+   "s": "case",
+   "p": "investigation_method",
+   "v": "biolocation, described as a form of ESP dowsing",
+   "quote": "According to Paul Kurtz, \"the method of \"biolocation\" they used was \"a form of ESP dowsing\" — whose effectiveness most Westerners question\"."
+  },
+  {
+   "s": "case",
+   "p": "site_tests",
+   "v": "16 radiometric analyses, 19 checks of the ground, 9 tests for micro-organisms and 20 spectro-chemical measurements found no anomaly in the earth or surrounding vegetation",
+   "quote": "Sixteen radiometric analyses, 19 checks of the ground, 9 tests for micro-organisms, and 20 spectro-chemical measurements failed to uncover \"any anomaly either in the earth or surrounding vegetation\"."
+  },
+  {
+   "s": "case",
+   "p": "radiometric_analyses_count",
+   "v": "16",
+   "quote": "Sixteen radiometric analyses, 19 checks of the ground, 9 tests for micro-organisms, and 20 spectro-chemical measurements failed to uncover \"any anomaly either in the earth or surrounding vegetation\"."
+  },
+  {
+   "s": "case",
+   "p": "ground_checks_count",
+   "v": "19",
+   "quote": "Sixteen radiometric analyses, 19 checks of the ground, 9 tests for micro-organisms, and 20 spectro-chemical measurements failed to uncover \"any anomaly either in the earth or surrounding vegetation\"."
+  },
+  {
+   "s": "case",
+   "p": "microorganism_tests_count",
+   "v": "9",
+   "quote": "Sixteen radiometric analyses, 19 checks of the ground, 9 tests for micro-organisms, and 20 spectro-chemical measurements failed to uncover \"any anomaly either in the earth or surrounding vegetation\"."
+  },
+  {
+   "s": "case",
+   "p": "spectrochemical_measurements_count",
+   "v": "20",
+   "quote": "Sixteen radiometric analyses, 19 checks of the ground, 9 tests for micro-organisms, and 20 spectro-chemical measurements failed to uncover \"any anomaly either in the earth or surrounding vegetation\"."
+  },
+  {
+   "s": "case",
+   "p": "cesium_finding",
+   "v": "above-average presence of the radioactive isotope cesium in the area",
+   "quote": "Though the area was found to have an above-average presence of the radioactive isotope cesium, vice-rector of the University of Voronezh Igor Sarotsev stated it was insignificant"
+  },
+  {
+   "s": "case",
+   "p": "rock_claim",
+   "v": "initial TASS reports claimed extraterrestrial rock was found at the site; later stated to be a form of hematite",
+   "quote": "Regarding claims made in initial TASS reports of extraterrestrial rock found at the site, Genrikh Silanov of the Voronezh Geophysical Lab later stated it was a form of hematite commonly found in the Soviet Union"
+  },
+  {
+   "s": "case",
+   "p": "other_witness_search",
+   "v": "Posner's film crew could find no other witnesses except the children",
+   "quote": "Kurtz reported that Soviet evening news correspondent Vladimir Posner sent a film crew to Voronezh \"but they could find no other \"witnesses\" except the children\""
+  },
+  {
+   "s": "case",
+   "p": "commentary",
+   "v": "a disillusioned Soviet party member viewed the state sponsorship of psychic and UFO claims as \"a new opiate for the masses\"",
+   "quote": "who said, \"They've been feeding us rubbish about the dreams of communism for years\" and viewed the state sponsorship of psychic and UFO claims as \"a new opiate for the masses\"."
+  },
+  {
+   "s": "case",
+   "p": "context",
+   "v": "part of a wave of paranormal and UFO claims issuing from the Soviet Union in the 1980s and 1990s",
+   "quote": "Regarding the wave of paranormal and UFO claims issuing from the Soviet Union in the 1980s and 1990s such as those from Voronezh, Kurtz cited a Time magazine October 23, 1989 issue that quotes a disillusioned Soviet party member"
+  },
+  {
+   "s": "ball",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "boys playing football in a city park \"saw a pink glow in the sky, then saw a deep red ball about three metres in diameter. The ball circled, vanished, then reappeared minutes later and hovered\""
+  },
+  {
+   "s": "ball",
+   "p": "color",
+   "v": "deep red",
+   "quote": "boys playing football in a city park \"saw a pink glow in the sky, then saw a deep red ball about three metres in diameter. The ball circled, vanished, then reappeared minutes later and hovered\""
+  },
+  {
+   "s": "ball",
+   "p": "shape",
+   "v": "ball",
+   "quote": "boys playing football in a city park \"saw a pink glow in the sky, then saw a deep red ball about three metres in diameter. The ball circled, vanished, then reappeared minutes later and hovered\""
+  },
+  {
+   "s": "ball",
+   "p": "size",
+   "v": "about three metres in diameter",
+   "quote": "boys playing football in a city park \"saw a pink glow in the sky, then saw a deep red ball about three metres in diameter. The ball circled, vanished, then reappeared minutes later and hovered\""
+  },
+  {
+   "s": "ball",
+   "p": "behavior",
+   "v": "circled, vanished, then reappeared minutes later and hovered",
+   "quote": "boys playing football in a city park \"saw a pink glow in the sky, then saw a deep red ball about three metres in diameter. The ball circled, vanished, then reappeared minutes later and hovered\""
+  },
+  {
+   "s": "ball",
+   "p": "described_as",
+   "v": "a flying saucer",
+   "quote": "On October 9, 1989, TASS reported that a correspondent had spoken to \"10 or 12 youths\" who claimed to have seen a flying saucer."
+  },
+  {
+   "s": "ball",
+   "p": "described_as",
+   "v": "a body flying in the sky",
+   "quote": "Though the children were the only ones claiming to have witnessed the aliens, Lieutenant Sergei A. Matveyev of the Voronezh district police station claimed to have seen \"a body flying in the sky\"."
+  },
+  {
+   "s": "ball",
+   "p": "occupants",
+   "v": "a three-eyed alien and a robot exited the object",
+   "quote": "The children claimed to have seen \"a three-eyed alien\" wearing bronze coloured boots with a disk on the chest, and a robot, exiting the object."
+  },
+  {
+   "s": "voronezh",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Voronezh UFO incident was an alleged UFO and extra-terrestrial alien sighting reported by a group of children in Voronezh, Soviet Union, on September 27, 1989."
+  },
+  {
+   "s": "voronezh",
+   "p": "located_in",
+   "o": "ussr",
+   "quote": "The Voronezh UFO incident was an alleged UFO and extra-terrestrial alien sighting reported by a group of children in Voronezh, Soviet Union, on September 27, 1989."
+  },
+  {
+   "s": "voronezh",
+   "p": "billed_as",
+   "v": "land of the aliens",
+   "quote": "Following the initial publicity, a private company was formed to sell tours of Voronezh, billed as \"land of the aliens\", for 59 rubles ($95) per person."
+  },
+  {
+   "s": "ussr",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Voronezh UFO incident was an alleged UFO and extra-terrestrial alien sighting reported by a group of children in Voronezh, Soviet Union, on September 27, 1989."
+  },
+  {
+   "s": "moscow",
+   "p": "related_place",
+   "o": "case",
+   "quote": "A. Kuzovkin, a UFOlogist, told Socialist Industry he thought a 26-foot wide patch of scorched ground near to south Moscow was caused by UFO landing"
+  },
+  {
+   "s": "moscow",
+   "p": "scorched_ground",
+   "v": "26-foot wide patch of scorched ground near to south Moscow",
+   "quote": "A. Kuzovkin, a UFOlogist, told Socialist Industry he thought a 26-foot wide patch of scorched ground near to south Moscow was caused by UFO landing"
+  },
+  {
+   "s": "moscow",
+   "p": "scorched_ground_explanation",
+   "v": "firefighters considered it could have been caused by a haystack which ignited",
+   "quote": "TASS reports said firefighters considered the scorched ground could have been caused simply by a haystack which was caused to ignite."
+  },
+  {
+   "s": "usa",
+   "p": "related_place",
+   "o": "case",
+   "quote": "leading Posner to suggest \"that the creative imagination of young children was perhaps at work. If so, this is not unlike many UFO cases in the United States\"."
+  },
+  {
+   "s": "usa",
+   "p": "comparison",
+   "v": "unlike in America, the reported beings were completely apolitical",
+   "quote": "It was noted that, unlike in America, the reported beings were completely apolitical and did not even speak during their 'visit'."
+  },
+  {
+   "s": "chernobyl",
+   "p": "related_place",
+   "o": "case",
+   "quote": "noting that \"after Chernobyl, this kind of phenomenon has been found in many areas\"."
+  },
+  {
+   "s": "redstar",
+   "p": "related_place",
+   "o": "case",
+   "quote": "In the immediate aftermath of the alleged incident, hundreds of UFO reports began appearing, with a reporter from Komsomolskaya Pravda even claiming to have an exclusive interview with alien beings from Red Star."
+  },
+  {
+   "s": "matveyev",
+   "p": "witness",
+   "o": "case",
+   "quote": "Though the children were the only ones claiming to have witnessed the aliens, Lieutenant Sergei A. Matveyev of the Voronezh district police station claimed to have seen \"a body flying in the sky\"."
+  },
+  {
+   "s": "matveyev",
+   "p": "rank",
+   "v": "Lieutenant",
+   "quote": "Though the children were the only ones claiming to have witnessed the aliens, Lieutenant Sergei A. Matveyev of the Voronezh district police station claimed to have seen \"a body flying in the sky\"."
+  },
+  {
+   "s": "matveyev",
+   "p": "occupation",
+   "v": "police officer",
+   "quote": "Though the children were the only ones claiming to have witnessed the aliens, Lieutenant Sergei A. Matveyev of the Voronezh district police station claimed to have seen \"a body flying in the sky\"."
+  },
+  {
+   "s": "matveyev",
+   "p": "statement",
+   "v": "claimed to have seen \"a body flying in the sky\"",
+   "quote": "Though the children were the only ones claiming to have witnessed the aliens, Lieutenant Sergei A. Matveyev of the Voronezh district police station claimed to have seen \"a body flying in the sky\"."
+  },
+  {
+   "s": "matveyev",
+   "p": "employed_by",
+   "o": "police",
+   "quote": "Though the children were the only ones claiming to have witnessed the aliens, Lieutenant Sergei A. Matveyev of the Voronezh district police station claimed to have seen \"a body flying in the sky\"."
+  },
+  {
+   "s": "matveyev",
+   "p": "described",
+   "o": "ball",
+   "quote": "Though the children were the only ones claiming to have witnessed the aliens, Lieutenant Sergei A. Matveyev of the Voronezh district police station claimed to have seen \"a body flying in the sky\"."
+  },
+  {
+   "s": "silanov",
+   "p": "investigator",
+   "o": "case",
+   "quote": "The original article quoted Dr. Silanov, of the Voronezh Geophysical Laboratory, as confirming the location of the landing using \"biolocation\"."
+  },
+  {
+   "s": "silanov",
+   "p": "employed_by",
+   "o": "geolab",
+   "quote": "The original article quoted Dr. Silanov, of the Voronezh Geophysical Laboratory, as confirming the location of the landing using \"biolocation\"."
+  },
+  {
+   "s": "silanov",
+   "p": "title",
+   "v": "Dr.",
+   "quote": "The original article quoted Dr. Silanov, of the Voronezh Geophysical Laboratory, as confirming the location of the landing using \"biolocation\"."
+  },
+  {
+   "s": "silanov",
+   "p": "statement",
+   "v": "quoted as confirming the location of the landing using \"biolocation\"",
+   "quote": "The original article quoted Dr. Silanov, of the Voronezh Geophysical Laboratory, as confirming the location of the landing using \"biolocation\"."
+  },
+  {
+   "s": "silanov",
+   "p": "later_claim",
+   "v": "the supposed extraterrestrial rock was a form of hematite commonly found in the Soviet Union",
+   "quote": "Regarding claims made in initial TASS reports of extraterrestrial rock found at the site, Genrikh Silanov of the Voronezh Geophysical Lab later stated it was a form of hematite commonly found in the Soviet Union"
+  },
+  {
+   "s": "silanov",
+   "p": "later_claim",
+   "v": "\"don't believe all you hear from Tass. We never gave them part of what they published.\"",
+   "quote": "told Socialist Industry , \"don't believe all you hear from Tass. We never gave them part of what they published.\""
+  },
+  {
+   "s": "silanov",
+   "p": "disputed",
+   "o": "tass",
+   "quote": "told Socialist Industry , \"don't believe all you hear from Tass. We never gave them part of what they published.\""
+  },
+  {
+   "s": "silanov",
+   "p": "proposed",
+   "o": "x_hematite",
+   "quote": "Regarding claims made in initial TASS reports of extraterrestrial rock found at the site, Genrikh Silanov of the Voronezh Geophysical Lab later stated it was a form of hematite commonly found in the Soviet Union"
+  },
+  {
+   "s": "kurtz",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "According to Paul Kurtz, \"the method of \"biolocation\" they used was \"a form of ESP dowsing\" — whose effectiveness most Westerners question\"."
+  },
+  {
+   "s": "kurtz",
+   "p": "statement",
+   "v": "the method of \"biolocation\" they used was \"a form of ESP dowsing\" whose effectiveness most Westerners question",
+   "quote": "According to Paul Kurtz, \"the method of \"biolocation\" they used was \"a form of ESP dowsing\" — whose effectiveness most Westerners question\"."
+  },
+  {
+   "s": "kurtz",
+   "p": "wrote_in",
+   "v": "a 1990 volume of Skeptical Inquirer",
+   "quote": "According to Paul Kurtz, writing in a 1990 volume of Skeptical Inquirer, the scientists in the Soviet Union who had studied the evidence included members of the \"Voronezh Amateur Section for the Study of Abnormal Phenomena\", who visited the site a week after the alleged event and used \"a form of ESP dowsing\"."
+  },
+  {
+   "s": "kurtz",
+   "p": "wrote_for",
+   "o": "si",
+   "quote": "According to Paul Kurtz, writing in a 1990 volume of Skeptical Inquirer, the scientists in the Soviet Union who had studied the evidence included members of the \"Voronezh Amateur Section for the Study of Abnormal Phenomena\", who visited the site a week after the alleged event and used \"a form of ESP dowsing\"."
+  },
+  {
+   "s": "kuzovkin",
+   "p": "commentator",
+   "o": "case",
+   "quote": "A. Kuzovkin, a UFOlogist, told Socialist Industry he thought a 26-foot wide patch of scorched ground near to south Moscow was caused by UFO landing"
+  },
+  {
+   "s": "kuzovkin",
+   "p": "occupation",
+   "v": "UFOlogist",
+   "quote": "A. Kuzovkin, a UFOlogist, told Socialist Industry he thought a 26-foot wide patch of scorched ground near to south Moscow was caused by UFO landing"
+  },
+  {
+   "s": "kuzovkin",
+   "p": "statement",
+   "v": "thought a 26-foot wide patch of scorched ground near to south Moscow was caused by UFO landing",
+   "quote": "A. Kuzovkin, a UFOlogist, told Socialist Industry he thought a 26-foot wide patch of scorched ground near to south Moscow was caused by UFO landing"
+  },
+  {
+   "s": "sarotsev",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Though the area was found to have an above-average presence of the radioactive isotope cesium, vice-rector of the University of Voronezh Igor Sarotsev stated it was insignificant"
+  },
+  {
+   "s": "sarotsev",
+   "p": "occupation",
+   "v": "vice-rector of the University of Voronezh",
+   "quote": "Though the area was found to have an above-average presence of the radioactive isotope cesium, vice-rector of the University of Voronezh Igor Sarotsev stated it was insignificant"
+  },
+  {
+   "s": "sarotsev",
+   "p": "employed_by",
+   "o": "univ",
+   "quote": "Though the area was found to have an above-average presence of the radioactive isotope cesium, vice-rector of the University of Voronezh Igor Sarotsev stated it was insignificant"
+  },
+  {
+   "s": "sarotsev",
+   "p": "statement",
+   "v": "the presence of a larger than normal quantity of cesium did not constitute proof of a landing",
+   "quote": "\"the presence of a larger than normal quantity of the radioactive isotope cesium in the area of the alleged sighting did not constitute proof of a landing\""
+  },
+  {
+   "s": "sarotsev",
+   "p": "statement",
+   "v": "\"after Chernobyl, this kind of phenomenon has been found in many areas\"",
+   "quote": "noting that \"after Chernobyl, this kind of phenomenon has been found in many areas\"."
+  },
+  {
+   "s": "sarotsev",
+   "p": "proposed",
+   "o": "x_fallout",
+   "quote": "noting that \"after Chernobyl, this kind of phenomenon has been found in many areas\"."
+  },
+  {
+   "s": "posner",
+   "p": "journalist",
+   "o": "case",
+   "quote": "Kurtz reported that Soviet evening news correspondent Vladimir Posner sent a film crew to Voronezh \"but they could find no other \"witnesses\" except the children\""
+  },
+  {
+   "s": "posner",
+   "p": "occupation",
+   "v": "Soviet evening news correspondent",
+   "quote": "Kurtz reported that Soviet evening news correspondent Vladimir Posner sent a film crew to Voronezh \"but they could find no other \"witnesses\" except the children\""
+  },
+  {
+   "s": "posner",
+   "p": "action",
+   "v": "sent a film crew to Voronezh, which could find no other witnesses except the children",
+   "quote": "Kurtz reported that Soviet evening news correspondent Vladimir Posner sent a film crew to Voronezh \"but they could find no other \"witnesses\" except the children\""
+  },
+  {
+   "s": "posner",
+   "p": "statement",
+   "v": "suggested \"that the creative imagination of young children was perhaps at work\"",
+   "quote": "leading Posner to suggest \"that the creative imagination of young children was perhaps at work. If so, this is not unlike many UFO cases in the United States\"."
+  },
+  {
+   "s": "posner",
+   "p": "proposed",
+   "o": "x_psych",
+   "quote": "leading Posner to suggest \"that the creative imagination of young children was perhaps at work. If so, this is not unlike many UFO cases in the United States\"."
+  },
+  {
+   "s": "tass",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "boys playing football in a city park \"saw a pink glow in the sky, then saw a deep red ball about three metres in diameter. The ball circled, vanished, then reappeared minutes later and hovered\""
+  },
+  {
+   "s": "tass",
+   "p": "statement",
+   "v": "TASS reporters stated that the witnesses \"probably haven't read it\" (Saga magazine)",
+   "quote": "The description of the incident was very similar to stories that appeared in the American magazine Saga, but TASS reporters stated that the witnesses \"probably haven't read it.\""
+  },
+  {
+   "s": "tass",
+   "p": "published",
+   "o": "tassrep",
+   "quote": "On October 9, 1989, TASS reported that a correspondent had spoken to \"10 or 12 youths\" who claimed to have seen a flying saucer."
+  },
+  {
+   "s": "police",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Though the children were the only ones claiming to have witnessed the aliens, Lieutenant Sergei A. Matveyev of the Voronezh district police station claimed to have seen \"a body flying in the sky\"."
+  },
+  {
+   "s": "police",
+   "p": "located_in",
+   "o": "voronezh",
+   "quote": "Though the children were the only ones claiming to have witnessed the aliens, Lieutenant Sergei A. Matveyev of the Voronezh district police station claimed to have seen \"a body flying in the sky\"."
+  },
+  {
+   "s": "interior",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Interior Ministry said they would dispatch troops to the area should the object reappear."
+  },
+  {
+   "s": "interior",
+   "p": "statement",
+   "v": "would dispatch troops to the area should the object reappear",
+   "quote": "The Interior Ministry said they would dispatch troops to the area should the object reappear."
+  },
+  {
+   "s": "geolab",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The original article quoted Dr. Silanov, of the Voronezh Geophysical Laboratory, as confirming the location of the landing using \"biolocation\"."
+  },
+  {
+   "s": "kp",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In the immediate aftermath of the alleged incident, hundreds of UFO reports began appearing, with a reporter from Komsomolskaya Pravda even claiming to have an exclusive interview with alien beings from Red Star."
+  },
+  {
+   "s": "kp",
+   "p": "claim",
+   "v": "a reporter claimed to have an exclusive interview with alien beings from Red Star",
+   "quote": "In the immediate aftermath of the alleged incident, hundreds of UFO reports began appearing, with a reporter from Komsomolskaya Pravda even claiming to have an exclusive interview with alien beings from Red Star."
+  },
+  {
+   "s": "sk",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In addition to TASS, Sovietskaya Kultura, a Communist Party paper, publicized the children's claims, with the Communist newspaper defending its decision, saying: \"[I]ts coverage was motivated by 'the golden rule of journalism: the reader must know everything.\""
+  },
+  {
+   "s": "sk",
+   "p": "part_of",
+   "o": "cpsu",
+   "quote": "In addition to TASS, Sovietskaya Kultura, a Communist Party paper, publicized the children's claims, with the Communist newspaper defending its decision, saying: \"[I]ts coverage was motivated by 'the golden rule of journalism: the reader must know everything.\""
+  },
+  {
+   "s": "sk",
+   "p": "statement",
+   "v": "its coverage was motivated by 'the golden rule of journalism: the reader must know everything'",
+   "quote": "In addition to TASS, Sovietskaya Kultura, a Communist Party paper, publicized the children's claims, with the Communist newspaper defending its decision, saying: \"[I]ts coverage was motivated by 'the golden rule of journalism: the reader must know everything.\""
+  },
+  {
+   "s": "sk",
+   "p": "statement",
+   "v": "repeatedly asked whether the report was in jest and repeatedly assured it was not",
+   "quote": "The newspaper was repeatedly asked whether the report was in jest and repeatedly assured it was not."
+  },
+  {
+   "s": "cpsu",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In addition to TASS, Sovietskaya Kultura, a Communist Party paper, publicized the children's claims, with the Communist newspaper defending its decision, saying: \"[I]ts coverage was motivated by 'the golden rule of journalism: the reader must know everything.\""
+  },
+  {
+   "s": "saga",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The description of the incident was very similar to stories that appeared in the American magazine Saga, but TASS reporters stated that the witnesses \"probably haven't read it.\""
+  },
+  {
+   "s": "saga",
+   "p": "nationality",
+   "v": "American",
+   "quote": "The description of the incident was very similar to stories that appeared in the American magazine Saga, but TASS reporters stated that the witnesses \"probably haven't read it.\""
+  },
+  {
+   "s": "saga",
+   "p": "located_in",
+   "o": "usa",
+   "quote": "The description of the incident was very similar to stories that appeared in the American magazine Saga, but TASS reporters stated that the witnesses \"probably haven't read it.\""
+  },
+  {
+   "s": "si_ind",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "told Socialist Industry , \"don't believe all you hear from Tass. We never gave them part of what they published.\""
+  },
+  {
+   "s": "si_ind",
+   "p": "interviewed",
+   "o": "kuzovkin",
+   "quote": "A. Kuzovkin, a UFOlogist, told Socialist Industry he thought a 26-foot wide patch of scorched ground near to south Moscow was caused by UFO landing"
+  },
+  {
+   "s": "si_ind",
+   "p": "interviewed",
+   "o": "silanov",
+   "quote": "told Socialist Industry , \"don't believe all you hear from Tass. We never gave them part of what they published.\""
+  },
+  {
+   "s": "ssc",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The Soviet Scientific Commission ordered an inquiry into the alleged incident."
+  },
+  {
+   "s": "vasap",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "According to Paul Kurtz, writing in a 1990 volume of Skeptical Inquirer, the scientists in the Soviet Union who had studied the evidence included members of the \"Voronezh Amateur Section for the Study of Abnormal Phenomena\", who visited the site a week after the alleged event and used \"a form of ESP dowsing\"."
+  },
+  {
+   "s": "vasap",
+   "p": "site_visit",
+   "v": "visited the site a week after the alleged event",
+   "quote": "According to Paul Kurtz, writing in a 1990 volume of Skeptical Inquirer, the scientists in the Soviet Union who had studied the evidence included members of the \"Voronezh Amateur Section for the Study of Abnormal Phenomena\", who visited the site a week after the alleged event and used \"a form of ESP dowsing\"."
+  },
+  {
+   "s": "vasap",
+   "p": "method",
+   "v": "a form of ESP dowsing",
+   "quote": "According to Paul Kurtz, writing in a 1990 volume of Skeptical Inquirer, the scientists in the Soviet Union who had studied the evidence included members of the \"Voronezh Amateur Section for the Study of Abnormal Phenomena\", who visited the site a week after the alleged event and used \"a form of ESP dowsing\"."
+  },
+  {
+   "s": "si",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "According to Paul Kurtz, writing in a 1990 volume of Skeptical Inquirer, the scientists in the Soviet Union who had studied the evidence included members of the \"Voronezh Amateur Section for the Study of Abnormal Phenomena\", who visited the site a week after the alleged event and used \"a form of ESP dowsing\"."
+  },
+  {
+   "s": "si",
+   "p": "volume_year",
+   "v": "1990",
+   "quote": "According to Paul Kurtz, writing in a 1990 volume of Skeptical Inquirer, the scientists in the Soviet Union who had studied the evidence included members of the \"Voronezh Amateur Section for the Study of Abnormal Phenomena\", who visited the site a week after the alleged event and used \"a form of ESP dowsing\"."
+  },
+  {
+   "s": "univ",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Though the area was found to have an above-average presence of the radioactive isotope cesium, vice-rector of the University of Voronezh Igor Sarotsev stated it was insignificant"
+  },
+  {
+   "s": "afp",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Kurtz noted a French Press Agency report of October 28 stated, \"...There exists no verifiable proof of a landing by aliens in Voronezh."
+  },
+  {
+   "s": "afp",
+   "p": "published",
+   "o": "afprep",
+   "quote": "Kurtz noted a French Press Agency report of October 28 stated, \"...There exists no verifiable proof of a landing by aliens in Voronezh."
+  },
+  {
+   "s": "time",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Regarding the wave of paranormal and UFO claims issuing from the Soviet Union in the 1980s and 1990s such as those from Voronezh, Kurtz cited a Time magazine October 23, 1989 issue that quotes a disillusioned Soviet party member"
+  },
+  {
+   "s": "time",
+   "p": "issue_cited",
+   "v": "October 23, 1989",
+   "quote": "Regarding the wave of paranormal and UFO claims issuing from the Soviet Union in the 1980s and 1990s such as those from Voronezh, Kurtz cited a Time magazine October 23, 1989 issue that quotes a disillusioned Soviet party member"
+  },
+  {
+   "s": "time",
+   "p": "quoted",
+   "v": "a disillusioned Soviet party member: \"They've been feeding us rubbish about the dreams of communism for years\"",
+   "quote": "who said, \"They've been feeding us rubbish about the dreams of communism for years\" and viewed the state sponsorship of psychic and UFO claims as \"a new opiate for the masses\"."
+  },
+  {
+   "s": "tassrep",
+   "p": "key_document",
+   "o": "case",
+   "quote": "On October 9, 1989, TASS reported that a correspondent had spoken to \"10 or 12 youths\" who claimed to have seen a flying saucer."
+  },
+  {
+   "s": "tassrep",
+   "p": "date",
+   "v": "1989-10-09",
+   "quote": "On October 9, 1989, TASS reported that a correspondent had spoken to \"10 or 12 youths\" who claimed to have seen a flying saucer."
+  },
+  {
+   "s": "tassrep",
+   "p": "content",
+   "v": "a correspondent had spoken to \"10 or 12 youths\" who claimed to have seen a flying saucer",
+   "quote": "On October 9, 1989, TASS reported that a correspondent had spoken to \"10 or 12 youths\" who claimed to have seen a flying saucer."
+  },
+  {
+   "s": "afprep",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Kurtz noted a French Press Agency report of October 28 stated, \"...There exists no verifiable proof of a landing by aliens in Voronezh."
+  },
+  {
+   "s": "afprep",
+   "p": "date",
+   "v": "October 28",
+   "quote": "Kurtz noted a French Press Agency report of October 28 stated, \"...There exists no verifiable proof of a landing by aliens in Voronezh."
+  },
+  {
+   "s": "afprep",
+   "p": "content",
+   "v": "There exists no verifiable proof of a landing by aliens in Voronezh",
+   "quote": "Kurtz noted a French Press Agency report of October 28 stated, \"...There exists no verifiable proof of a landing by aliens in Voronezh."
+  },
+  {
+   "s": "kurtz",
+   "p": "cited",
+   "v": "a French Press Agency report of October 28",
+   "quote": "Kurtz noted a French Press Agency report of October 28 stated, \"...There exists no verifiable proof of a landing by aliens in Voronezh."
+  },
+  {
+   "s": "kurtz",
+   "p": "cited",
+   "v": "a Time magazine October 23, 1989 issue",
+   "quote": "Regarding the wave of paranormal and UFO claims issuing from the Soviet Union in the 1980s and 1990s such as those from Voronezh, Kurtz cited a Time magazine October 23, 1989 issue that quotes a disillusioned Soviet party member"
+  },
+  {
+   "s": "kurtz",
+   "p": "reported",
+   "v": "Posner sent a film crew to Voronezh",
+   "quote": "Kurtz reported that Soviet evening news correspondent Vladimir Posner sent a film crew to Voronezh \"but they could find no other \"witnesses\" except the children\""
+  },
+  {
+   "s": "aca",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Outside of print media, the U.S. show A Current Affair also sent a crew to report on the alleged event."
+  },
+  {
+   "s": "aca",
+   "p": "country",
+   "v": "United States",
+   "quote": "Outside of print media, the U.S. show A Current Affair also sent a crew to report on the alleged event."
+  },
+  {
+   "s": "aca",
+   "p": "action",
+   "v": "sent a crew to report on the alleged event",
+   "quote": "Outside of print media, the U.S. show A Current Affair also sent a crew to report on the alleged event."
+  },
+  {
+   "s": "f_sphere",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "boys playing football in a city park \"saw a pink glow in the sky, then saw a deep red ball about three metres in diameter. The ball circled, vanished, then reappeared minutes later and hovered\""
+  },
+  {
+   "s": "f_hover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "boys playing football in a city park \"saw a pink glow in the sky, then saw a deep red ball about three metres in diameter. The ball circled, vanished, then reappeared minutes later and hovered\""
+  },
+  {
+   "s": "f_occ",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The children claimed to have seen \"a three-eyed alien\" wearing bronze coloured boots with a disk on the chest, and a robot, exiting the object."
+  },
+  {
+   "s": "f_land",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The original article quoted Dr. Silanov, of the Voronezh Geophysical Laboratory, as confirming the location of the landing using \"biolocation\"."
+  },
+  {
+   "s": "f_child",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Voronezh UFO incident was an alleged UFO and extra-terrestrial alien sighting reported by a group of children in Voronezh, Soviet Union, on September 27, 1989."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "On October 9, 1989, TASS reported that a correspondent had spoken to \"10 or 12 youths\" who claimed to have seen a flying saucer."
+  },
+  {
+   "s": "f_police",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Though the children were the only ones claiming to have witnessed the aliens, Lieutenant Sergei A. Matveyev of the Voronezh district police station claimed to have seen \"a body flying in the sky\"."
+  },
+  {
+   "s": "f_rad",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Though the area was found to have an above-average presence of the radioactive isotope cesium, vice-rector of the University of Voronezh Igor Sarotsev stated it was insignificant"
+  },
+  {
+   "s": "f_debris",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Regarding claims made in initial TASS reports of extraterrestrial rock found at the site, Genrikh Silanov of the Voronezh Geophysical Lab later stated it was a form of hematite commonly found in the Soviet Union"
+  },
+  {
+   "s": "f_offinv",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Soviet Scientific Commission ordered an inquiry into the alleged incident."
+  },
+  {
+   "s": "f_disapp",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to the children, the alien used a ray gun to make a 16-year-old boy disappear until the object departed."
+  },
+  {
+   "s": "f_robot",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The children claimed to have seen \"a three-eyed alien\" wearing bronze coloured boots with a disk on the chest, and a robot, exiting the object."
+  },
+  {
+   "s": "f_raygun",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to the children, the alien used a ray gun to make a 16-year-old boy disappear until the object departed."
+  },
+  {
+   "s": "f_dowsing",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The original article quoted Dr. Silanov, of the Voronezh Geophysical Laboratory, as confirming the location of the landing using \"biolocation\"."
+  },
+  {
+   "s": "x_psych",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "leading Posner to suggest \"that the creative imagination of young children was perhaps at work. If so, this is not unlike many UFO cases in the United States\"."
+  },
+  {
+   "s": "x_hematite",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Regarding claims made in initial TASS reports of extraterrestrial rock found at the site, Genrikh Silanov of the Voronezh Geophysical Lab later stated it was a form of hematite commonly found in the Soviet Union"
+  },
+  {
+   "s": "x_fallout",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "noting that \"after Chernobyl, this kind of phenomenon has been found in many areas\"."
+  }
+ ]
+}

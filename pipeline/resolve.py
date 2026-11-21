@@ -5,7 +5,12 @@ Automatic merges are deliberately conservative (same normalised name or alias
 within a compatible type). Weaker matches are written to
 data/merge_candidates.txt for review; confirmed ones go in data/merges.json:
 
-  {"merge": [["Ed Ruppelt", "Edward J. Ruppelt"]], "distinct": [["John Smith", "John Smith"]]}
+  {"merge": [["Ed Ruppelt", "Edward J. Ruppelt"]],
+   "distinct": [["Steve Michalak", "Stan Michalak"]],
+   "split": [{"name": "Robert Taylor", "source": "michigan-swamp-gas-ufo-reports"}]}
+
+"distinct" silences a candidate; "split" undoes an automatic merge of two
+different things that share a name.
 
 Re-runnable: raw entities are never modified, only their canonical_id.
 """
@@ -87,26 +92,34 @@ def keys_for(etype, name):
     if not n:
         return set()
     if etype == "case":
-        core = " ".join(t for t in n.split() if t not in CASE_NOISE and not re.fullmatch(r"\d{4}", t))
+        core = " ".join(t for t in n.split() if t not in CASE_NOISE)   # the year stays: "1952 flap" is not "1973 flap"
         return {core or n}
     return {n}
 
 
-def usable_alias(etype, alias):
+def usable_alias(etype, alias, name=""):
     """A one-word alias ("Bureau", "Army", "Franklin") is too generic to merge
     on, unless it is an acronym (NICAP) or a known synonym (USAF)."""
     if etype == "person":
         return True                      # person_keys already needs two name tokens
     n = base_norm(alias)
-    if len(n.split()) >= 2 or n in SYNONYMS:
+    if n in SYNONYMS or (alias.isupper() and len(alias) >= 3):
         return True
-    return alias.isupper() and len(alias) >= 3
+    if len(n.split()) < 2:
+        return False
+    # A shortened form of the entity's own name ("National Archives" for
+    # "National Archives of New Zealand") is generic, unless it is the title
+    # before a subtitle or parenthetical.
+    own = base_norm(name)
+    if set(n.split()) < set(own.split()):
+        return bool(re.match(re.escape(alias.strip()) + r"\s*[:(]", name.strip(), re.I))
+    return True
 
 
 def main():
     db = sqlite3.connect(DB)
     db.row_factory = sqlite3.Row
-    ents = db.execute("SELECT id, source_id, type, name FROM entity").fetchall()
+    ents = db.execute("SELECT e.id, e.source_id, e.type, e.name, s.slug FROM entity e JOIN source s ON s.id = e.source_id").fetchall()
     aliases = defaultdict(list)
     for r in db.execute("SELECT entity_id, alias FROM alias"):
         aliases[r["entity_id"]].append(r["alias"])
@@ -124,14 +137,16 @@ def main():
     distinct = {frozenset(norm(n) for n in pair) for pair in manual.get("distinct", [])}
     by_key, by_alias, cands = defaultdict(list), defaultdict(list), []
     name_of = {e["id"]: e["name"] for e in ents}
+    # "split": same name, different real-world thing; keep this source's entity on its own.
+    split = {(norm(x["name"]), x["source"]) for x in manual.get("split", [])}
     for e in ents:
-        if e["type"] in NO_MERGE:
+        if e["type"] in NO_MERGE or (norm(e["name"]), e["slug"]) in split:
             continue
         g = GROUP.get(e["type"], e["type"])
         for k in keys_for(e["type"], e["name"]):
             by_key[(g, k)].append(e["id"])
         for a in aliases[e["id"]]:
-            if usable_alias(e["type"], a):
+            if usable_alias(e["type"], a, e["name"]):
                 for k in keys_for(e["type"], a):
                     by_alias[(g, k)].append(e["id"])
     # An alias merges an entity into something that carries that alias as its
@@ -145,7 +160,7 @@ def main():
             cands.extend(f"shared-alias\t{a}\t{b}" for i, a in enumerate(names) for b in names[i + 1:])
     for pair in manual.get("merge", []):
         ks = {norm(n) for n in pair}
-        ids = [e["id"] for e in ents if norm(e["name"]) in ks or any(norm(a) in ks for a in aliases[e["id"]])]
+        ids = [e["id"] for e in ents if norm(e["name"]) in ks]      # primary names only
         by_key[("manual", "|".join(sorted(ks)))] = ids
     for ids in by_key.values():
         for other in ids[1:]:

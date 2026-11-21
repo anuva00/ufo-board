@@ -1,0 +1,1475 @@
+{
+ "slug": "westall-ufo",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Westall UFO",
+   "aliases": [
+    "Westall UFO case",
+    "1966 Westall UFO Incident",
+    "Westall case"
+   ],
+   "description": "Reported sighting on 6 April 1966 of a flying object by students and teachers of Westall High School in Melbourne, Australia."
+  },
+  {
+   "key": "object",
+   "type": "craft",
+   "name": "Object reported at Westall High School on 6 April 1966",
+   "description": "Flying object described as round with a domed top and white, grey or silver in colour."
+  },
+  {
+   "key": "aircraft",
+   "type": "vehicle",
+   "name": "Five unidentified aircraft reported pursuing the Westall object",
+   "aliases": [
+    "small aeroplanes"
+   ],
+   "description": "Aircraft that some accounts say pursued or circled the object."
+  },
+  {
+   "key": "matthews",
+   "type": "person",
+   "name": "Shaun Matthews",
+   "description": "Witness on vacation at the Grange who reported an object with a slight purple hue."
+  },
+  {
+   "key": "basterfield",
+   "type": "person",
+   "name": "Keith Basterfield",
+   "aliases": [
+    "Basterfield"
+   ],
+   "description": "Researcher who proposed a runaway HIBAL balloon as the likely explanation."
+  },
+  {
+   "key": "dunning",
+   "type": "person",
+   "name": "Brian Dunning",
+   "aliases": [
+    "Dunning"
+   ],
+   "description": "Skeptic who called the weather balloon a likely explanation for the first half of the event and suggested a towed target drogue for the second."
+  },
+  {
+   "key": "saunders",
+   "type": "person",
+   "name": "Richard Saunders",
+   "aliases": [
+    "Saunders"
+   ],
+   "description": "Paranormal researcher who reviewed the case at its 60th anniversary and attributed it to false memory and memory contagion."
+  },
+  {
+   "key": "ryan",
+   "type": "person",
+   "name": "Shane Ryan",
+   "description": "Ufologist whose interviews with residents are the basis of the documentary Westall '66."
+  },
+  {
+   "key": "fox",
+   "type": "person",
+   "name": "James Fox",
+   "description": "Ufologist who directed and co-produced the documentary film The Phenomenon."
+  },
+  {
+   "key": "jones",
+   "type": "person",
+   "name": "Rosie Jones",
+   "description": "Writer of the film Westall '66: a suburban UFO mystery."
+  },
+  {
+   "key": "mcaloon",
+   "type": "person",
+   "name": "Carmel Mcaloon",
+   "description": "Producer of the film Westall '66: a suburban UFO mystery."
+  },
+  {
+   "key": "weise",
+   "type": "person",
+   "name": "Derek Weise",
+   "aliases": [
+    "Weise, Derek"
+   ],
+   "description": "Credited author of a 2018 YouTube video of a Westall missing witness interview."
+  },
+  {
+   "key": "gottschall",
+   "type": "person",
+   "name": "Sheryl Gottschall",
+   "description": "Person credited with UFO Research Queensland on the 2018 Westall missing witness interview video."
+  },
+  {
+   "key": "age",
+   "type": "organization",
+   "name": "The Age",
+   "description": "Melbourne newspaper whose article the following day downplayed the incident."
+  },
+  {
+   "key": "bureau",
+   "type": "organization",
+   "name": "Weather Bureau",
+   "description": "Bureau that released a balloon at Laverton at 8:30 am on the morning of the sighting."
+  },
+  {
+   "key": "raaf",
+   "type": "organization",
+   "name": "Royal Australian Air Force",
+   "aliases": [
+    "RAAF",
+    "air force"
+   ],
+   "description": "Australian air force; its personnel visited the field and it is said to have used target drogues locally."
+  },
+  {
+   "key": "archives",
+   "type": "organization",
+   "name": "National Archives",
+   "description": "Archive in which Basterfield located documents about a test balloon launched from Mildura."
+  },
+  {
+   "key": "supply",
+   "type": "organization",
+   "name": "Department of Supply",
+   "aliases": [
+    "former Department of Supply"
+   ],
+   "description": "Former department whose documents Basterfield located."
+  },
+  {
+   "key": "kingston",
+   "type": "organization",
+   "name": "City of Kingston",
+   "description": "Council that created the Grange Reserve UFO Park."
+  },
+  {
+   "key": "abc",
+   "type": "organization",
+   "name": "Australian Broadcasting Corporation",
+   "aliases": [
+    "ABC"
+   ],
+   "description": "Broadcaster of the Australian Story program that discussed the event in 2026."
+  },
+  {
+   "key": "ufo_rq",
+   "type": "organization",
+   "name": "UFO Research Queensland",
+   "description": "UFO group credited on a 2018 Westall missing witness interview video."
+  },
+  {
+   "key": "hibal",
+   "type": "program",
+   "name": "HIBAL",
+   "aliases": [
+    "HIBAL high-altitude balloon project"
+   ],
+   "description": "High-altitude balloon project used to monitor radiation levels after British nuclear tests at Maralinga."
+  },
+  {
+   "key": "nuketests",
+   "type": "program",
+   "name": "British nuclear tests at Maralinga",
+   "description": "British nuclear tests whose radiation levels the HIBAL project monitored."
+  },
+  {
+   "key": "australia",
+   "type": "place",
+   "name": "Australia",
+   "description": "Country in which the sighting occurred."
+  },
+  {
+   "key": "victoria",
+   "type": "place",
+   "name": "Victoria",
+   "description": "Australian state in which Melbourne lies."
+  },
+  {
+   "key": "melbourne",
+   "type": "place",
+   "name": "Melbourne, Australia",
+   "aliases": [
+    "Melbourne",
+    "Melbourne, Victoria"
+   ],
+   "description": "City in which the sighting occurred."
+  },
+  {
+   "key": "school",
+   "type": "place",
+   "name": "Westall High School",
+   "aliases": [
+    "Westall School"
+   ],
+   "description": "School whose students and teachers reported the object."
+  },
+  {
+   "key": "westall",
+   "type": "place",
+   "name": "Westall",
+   "description": "Locality named for the event."
+  },
+  {
+   "key": "grange",
+   "type": "place",
+   "name": "The Grange",
+   "aliases": [
+    "the Grange",
+    "The Grange Reserve",
+    "Grange Reserve"
+   ],
+   "description": "Open area south of the school into which the object reportedly descended; now The Grange Reserve."
+  },
+  {
+   "key": "clayton",
+   "type": "place",
+   "name": "Clayton, Australia",
+   "aliases": [
+    "Clayton"
+   ],
+   "description": "Area given by The Age as the location of Westall School."
+  },
+  {
+   "key": "moorabbin",
+   "type": "place",
+   "name": "Moorabbin, Australia",
+   "aliases": [
+    "Moorabbin",
+    "Clayton-Moorabbin area"
+   ],
+   "description": "Part of the Clayton-Moorabbin area over which the object was seen."
+  },
+  {
+   "key": "claytonsouth",
+   "type": "place",
+   "name": "Clayton South, Australia",
+   "aliases": [
+    "Clayton South"
+   ],
+   "description": "Locality where the balloon is said to have come down and where the Grange Reserve lies."
+  },
+  {
+   "key": "laverton",
+   "type": "place",
+   "name": "Laverton, Australia",
+   "aliases": [
+    "Laverton"
+   ],
+   "description": "Place where the Weather Bureau released a balloon at 8:30 am."
+  },
+  {
+   "key": "mildura",
+   "type": "place",
+   "name": "Mildura, Australia",
+   "aliases": [
+    "Mildura"
+   ],
+   "description": "Place from which a HIBAL test balloon was launched."
+  },
+  {
+   "key": "maralinga",
+   "type": "place",
+   "name": "Maralinga, Australia",
+   "aliases": [
+    "Maralinga"
+   ],
+   "description": "Site of British nuclear tests monitored by the HIBAL project."
+  },
+  {
+   "key": "tennis",
+   "type": "place",
+   "name": "Westall Tennis Club Hall",
+   "description": "Venue of the 40th-anniversary witness reunion on 8 April 2006."
+  },
+  {
+   "key": "park",
+   "type": "place",
+   "name": "Grange Reserve UFO Park",
+   "description": "Children's play space created by the City of Kingston at The Grange Reserve."
+  },
+  {
+   "key": "age_article",
+   "type": "document",
+   "name": "\"Object Perhaps Balloon\" article in The Age",
+   "aliases": [
+    "Object Perhaps Balloon"
+   ],
+   "description": "Article published the day after the sighting suggesting the object might have been a weather balloon."
+  },
+  {
+   "key": "hibal_docs",
+   "type": "document",
+   "name": "Documents on a HIBAL test balloon located by Keith Basterfield",
+   "description": "Documents in the National Archives and former Department of Supply indicating a test balloon launched from Mildura may have been blown off course."
+  },
+  {
+   "key": "westall66",
+   "type": "work",
+   "name": "Westall '66",
+   "aliases": [
+    "Westall '66: a suburban UFO mystery"
+   ],
+   "description": "Documentary focusing on the sighting, based on Shane Ryan's interviews with residents."
+  },
+  {
+   "key": "phenomenon",
+   "type": "work",
+   "name": "The Phenomenon",
+   "description": "Documentary film directed and co-produced by James Fox that includes content on the Westall case."
+  },
+  {
+   "key": "austory",
+   "type": "work",
+   "name": "Australian Story",
+   "description": "ABC program that discussed the event in 2026."
+  },
+  {
+   "key": "weise_video",
+   "type": "work",
+   "name": "Westall Missing Witness Interview with UFO Research Queensland",
+   "description": "YouTube video dated 27 October 2018 of an interview with a Westall witness."
+  },
+  {
+   "key": "ariel",
+   "type": "case",
+   "name": "Ariel School UFO incident",
+   "description": "Other UFO incident listed under See also."
+  },
+  {
+   "key": "valentich",
+   "type": "case",
+   "name": "Disappearance of Frederick Valentich",
+   "description": "Other UFO-related incident listed under See also."
+  },
+  {
+   "key": "f_shape_disc",
+   "type": "feature",
+   "name": "shape-disc",
+   "description": "Feature: shape-disc"
+  },
+  {
+   "key": "f_landing_reported",
+   "type": "feature",
+   "name": "landing-reported",
+   "description": "Feature: landing-reported"
+  },
+  {
+   "key": "f_hovering",
+   "type": "feature",
+   "name": "hovering",
+   "description": "Feature: hovering"
+  },
+  {
+   "key": "f_physical_traces",
+   "type": "feature",
+   "name": "physical-traces",
+   "description": "Feature: physical-traces"
+  },
+  {
+   "key": "f_aircraft_pursuit",
+   "type": "feature",
+   "name": "aircraft-pursuit",
+   "description": "Feature: aircraft-pursuit"
+  },
+  {
+   "key": "f_multiple_witnesses",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "Feature: multiple-witnesses"
+  },
+  {
+   "key": "f_mass_sighting",
+   "type": "feature",
+   "name": "mass-sighting",
+   "description": "Feature: mass-sighting"
+  },
+  {
+   "key": "f_child_witnesses",
+   "type": "feature",
+   "name": "child-witnesses",
+   "description": "Feature: child-witnesses"
+  },
+  {
+   "key": "f_men_in_black",
+   "type": "feature",
+   "name": "men-in-black",
+   "description": "Feature: men-in-black"
+  },
+  {
+   "key": "f_alleged_cover_up",
+   "type": "feature",
+   "name": "alleged-cover-up",
+   "description": "Feature: alleged-cover-up"
+  },
+  {
+   "key": "f_official_investigation",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Feature: official-investigation"
+  },
+  {
+   "key": "x_balloon",
+   "type": "explanation",
+   "name": "balloon",
+   "description": "Explanation: balloon"
+  },
+  {
+   "key": "x_exercise",
+   "type": "explanation",
+   "name": "military-test-or-exercise",
+   "description": "Explanation: military-test-or-exercise"
+  },
+  {
+   "key": "x_psych",
+   "type": "explanation",
+   "name": "psychological",
+   "description": "Explanation: psychological"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1966-04-06",
+   "quote": "The Westall UFO was a reported UFO sighting in Australia that occurred on 6 April 1966 in Melbourne, Victoria."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1966-04-06",
+   "quote": "On Wednesday, 6 April 1966, students and a teacher from Westall High School"
+  },
+  {
+   "s": "case",
+   "p": "day_of_week",
+   "v": "Wednesday",
+   "quote": "On Wednesday, 6 April 1966, students and a teacher from Westall High School"
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "Australia",
+   "quote": "The Westall UFO was a reported UFO sighting in Australia that occurred on 6 April 1966 in Melbourne, Victoria."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "morning",
+   "quote": "Object Perhaps Balloon – An unidentified flying object seen over the Clayton-Moorabbin area yesterday morning might have been a weather balloon."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "during morning break",
+   "quote": "Hundreds of children and a number of teachers at Westall School, Clayton, watched the object during morning break."
+  },
+  {
+   "s": "case",
+   "p": "witnesses_described",
+   "v": "hundreds of children and a number of teachers",
+   "quote": "Hundreds of children and a number of teachers at Westall School, Clayton, watched the object during morning break."
+  },
+  {
+   "s": "case",
+   "p": "witnesses_described",
+   "v": "students and a teacher from Westall High School",
+   "quote": "On Wednesday, 6 April 1966, students and a teacher from Westall High School"
+  },
+  {
+   "s": "case",
+   "p": "witnesses_described",
+   "v": "hundreds of eyewitnesses, including teachers and students",
+   "quote": "\"and came down in Clayton South in a paddock near Westall High School, alarming and baffling hundreds of eyewitnesses, including teachers and students\""
+  },
+  {
+   "s": "case",
+   "p": "witness_ages",
+   "v": "young teens",
+   "quote": "The students that say they witnessed something odd in 1966 were young teens and it took until the early 2000's to \"systemically interview them\", by that time memoires had been embellished, contaminated, forgotten and reshapened."
+  },
+  {
+   "s": "case",
+   "p": "account_consistency",
+   "v": "Specific details vary between accounts",
+   "quote": "Specific details vary between accounts, which increases the difficulty of identification."
+  },
+  {
+   "s": "case",
+   "p": "commemoration",
+   "v": "documentaries, reunions and a local UFO playground",
+   "quote": "The sighting has been commemorated with documentaries, reunions and a local UFO playground."
+  },
+  {
+   "s": "case",
+   "p": "landing_site_report",
+   "v": "some students who walked to the Grange reported a landing site, but details varied between reports",
+   "quote": "When students walked to the Grange after the sighting, some reported a landing site, but the details varied between reports."
+  },
+  {
+   "s": "case",
+   "p": "ground_trace_description",
+   "v": "circle of grass described variously as burnt, \"boiled\" or pressed down",
+   "quote": "Students variously described a circle of grass as burnt, \"boiled\" or pressed down."
+  },
+  {
+   "s": "case",
+   "p": "ground_trace_description",
+   "v": "vague circular area flattened by the wind, per one student interviewed by a local newspaper",
+   "quote": "One student interviewed by a local newspaper described a vague circular area flattened by the wind."
+  },
+  {
+   "s": "case",
+   "p": "ground_trace_count",
+   "v": "one to three circles",
+   "quote": "Students also reported varying numbers of circles from one to three."
+  },
+  {
+   "s": "case",
+   "p": "ground_trace_count",
+   "v": "some said one circle, others many circles",
+   "quote": "Different descriptions of the grass where some said they saw one circle, others many circles."
+  },
+  {
+   "s": "case",
+   "p": "site_visit",
+   "v": "9 April 1966: air force personnel and UFO enthusiasts visited the field but reported nothing of interest",
+   "quote": "On 9 April 1966, air force personnel and UFO enthusiasts visited the field but reported nothing of interest."
+  },
+  {
+   "s": "case",
+   "p": "site_visit_date",
+   "v": "1966-04-09",
+   "quote": "On 9 April 1966, air force personnel and UFO enthusiasts visited the field but reported nothing of interest."
+  },
+  {
+   "s": "case",
+   "p": "aftermath",
+   "v": "The landowner burned the field to discourage people from entering the property",
+   "quote": "The landowner burned the field to discourage people from entering the property."
+  },
+  {
+   "s": "case",
+   "p": "pilot_report_check",
+   "v": "no commercial, private or RAAF pilots had reported anything unusual in the area",
+   "quote": "However, a check later showed that no commercial, private or RAAF pilots had reported anything unusual in the area."
+  },
+  {
+   "s": "case",
+   "p": "rumor",
+   "v": "\"men in suits\" cautioned witnesses not to discuss details of the secret government exercise",
+   "quote": "There were also reports that after the incident, \"men in suits\" cautioned witnesses not to discuss details of the secret government exercise."
+  },
+  {
+   "s": "case",
+   "p": "reunion_date",
+   "v": "2006-04-08",
+   "quote": "A witness reunion was held at Westall Tennis Club Hall, on 8 April 2006, to commemorate the 40th anniversary of the incident."
+  },
+  {
+   "s": "case",
+   "p": "reunion",
+   "v": "witness reunion on 8 April 2006 to commemorate the 40th anniversary",
+   "quote": "A witness reunion was held at Westall Tennis Club Hall, on 8 April 2006, to commemorate the 40th anniversary of the incident."
+  },
+  {
+   "s": "case",
+   "p": "interview_timing",
+   "v": "witnesses not systematically interviewed until the early 2000's",
+   "quote": "The students that say they witnessed something odd in 1966 were young teens and it took until the early 2000's to \"systemically interview them\", by that time memoires had been embellished, contaminated, forgotten and reshapened."
+  },
+  {
+   "s": "case",
+   "p": "contemporary_reports",
+   "v": "some describe a weather balloon, others a \"round humped silver disc\"; some saw one, others five",
+   "quote": "Reports collected at the time tell a story of how different they were, some describe a weather balloon, others say a \"round humped silver disc\", some saw one, other say they saw five."
+  },
+  {
+   "s": "case",
+   "p": "tagline",
+   "v": "A MASS UFO SIGHTING A FORTY-FOUR YEAR CONSPIRACY",
+   "quote": "Westall '66: a suburban UFO mystery A MASS UFO SIGHTING A FORTY-FOUR YEAR CONSPIRACY. A MAN SEEKING THE TRUTH (archived from the original web site)."
+  },
+  {
+   "s": "object",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "On Wednesday, 6 April 1966, students and a teacher from Westall High School  reported seeing a flying object."
+  },
+  {
+   "s": "object",
+   "p": "shape",
+   "v": "round with a domed top",
+   "quote": "It was described as round with a domed top, and white, grey, or silver in colour."
+  },
+  {
+   "s": "object",
+   "p": "color",
+   "v": "white, grey, or silver",
+   "quote": "It was described as round with a domed top, and white, grey, or silver in colour."
+  },
+  {
+   "s": "object",
+   "p": "shape",
+   "v": "round humped silver disc",
+   "quote": "Reports collected at the time tell a story of how different they were, some describe a weather balloon, others say a \"round humped silver disc\", some saw one, other say they saw five."
+  },
+  {
+   "s": "object",
+   "p": "color",
+   "v": "slight purple hue",
+   "quote": "Shaun Matthews was on vacation at the Grange and reported seeing an object with a slight purple hue and about twice the size of a family car."
+  },
+  {
+   "s": "object",
+   "p": "size",
+   "v": "about twice the size of a family car",
+   "quote": "Shaun Matthews was on vacation at the Grange and reported seeing an object with a slight purple hue and about twice the size of a family car."
+  },
+  {
+   "s": "object",
+   "p": "movement",
+   "v": "descended behind a row of trees and into the Grange",
+   "quote": "According to the students, the object descended behind a row of trees and into the Grange, an open area south of the school."
+  },
+  {
+   "s": "object",
+   "p": "movement",
+   "v": "took off after landing, per some witnesses",
+   "quote": "Some witnesses reported seeing the object take off after landing, and some reported seeing it hover rather than land."
+  },
+  {
+   "s": "object",
+   "p": "movement",
+   "v": "hovered rather than landed, per some witnesses",
+   "quote": "Some witnesses reported seeing the object take off after landing, and some reported seeing it hover rather than land."
+  },
+  {
+   "s": "object",
+   "p": "count",
+   "v": "some saw one, others say they saw five",
+   "quote": "Reports collected at the time tell a story of how different they were, some describe a weather balloon, others say a \"round humped silver disc\", some saw one, other say they saw five."
+  },
+  {
+   "s": "object",
+   "p": "pursued_by",
+   "v": "five unidentified aircraft",
+   "quote": "Some accounts describe the object as being pursued by five unidentified aircraft."
+  },
+  {
+   "s": "aircraft",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "Some accounts describe the object as being pursued by five unidentified aircraft."
+  },
+  {
+   "s": "aircraft",
+   "p": "count",
+   "v": "five",
+   "quote": "Some accounts describe the object as being pursued by five unidentified aircraft."
+  },
+  {
+   "s": "aircraft",
+   "p": "description",
+   "v": "a number of small aeroplanes circled around the object, according to The Age",
+   "quote": "The newspaper also said a number of small aeroplanes circled around it."
+  },
+  {
+   "s": "matthews",
+   "p": "witness",
+   "o": "case",
+   "quote": "Shaun Matthews was on vacation at the Grange and reported seeing an object with a slight purple hue and about twice the size of a family car."
+  },
+  {
+   "s": "matthews",
+   "p": "described",
+   "o": "object",
+   "quote": "Shaun Matthews was on vacation at the Grange and reported seeing an object with a slight purple hue and about twice the size of a family car."
+  },
+  {
+   "s": "matthews",
+   "p": "circumstance",
+   "v": "on vacation at the Grange",
+   "quote": "Shaun Matthews was on vacation at the Grange and reported seeing an object with a slight purple hue and about twice the size of a family car."
+  },
+  {
+   "s": "matthews",
+   "p": "statement",
+   "v": "reported seeing an object with a slight purple hue and about twice the size of a family car",
+   "quote": "Shaun Matthews was on vacation at the Grange and reported seeing an object with a slight purple hue and about twice the size of a family car."
+  },
+  {
+   "s": "basterfield",
+   "p": "investigator",
+   "o": "case",
+   "quote": "According to Keith Basterfield, a runaway balloon from the HIBAL high-altitude balloon project used to monitor radiation levels after British nuclear tests at Maralinga is a likely explanation."
+  },
+  {
+   "s": "basterfield",
+   "p": "proposed",
+   "o": "x_balloon",
+   "quote": "According to Keith Basterfield, a runaway balloon from the HIBAL high-altitude balloon project used to monitor radiation levels after British nuclear tests at Maralinga is a likely explanation."
+  },
+  {
+   "s": "basterfield",
+   "p": "statement",
+   "v": "a runaway balloon from the HIBAL high-altitude balloon project is a likely explanation",
+   "quote": "According to Keith Basterfield, a runaway balloon from the HIBAL high-altitude balloon project used to monitor radiation levels after British nuclear tests at Maralinga is a likely explanation."
+  },
+  {
+   "s": "basterfield",
+   "p": "statement",
+   "v": "HIBAL balloons had a white silver appearance and featured a parachute and gas tube trailing from the top, consistent with witness descriptions",
+   "quote": "Basterfield said that HIBAL balloons had a white silver appearance and featured a parachute and gas tube trailing from the top, which is consistent with witness descriptions of the object."
+  },
+  {
+   "s": "basterfield",
+   "p": "statement",
+   "v": "a test balloon launched from Mildura may have been blown off course and came down in Clayton South in a paddock near Westall High School",
+   "quote": "Basterfield located documents in the National Archives and former Department of Supply indicating a test balloon launched from Mildura may have been blown off course"
+  },
+  {
+   "s": "dunning",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "According to skeptic Brian Dunning, \"the weather balloon is a likely explanation for the first half of the event\"."
+  },
+  {
+   "s": "dunning",
+   "p": "occupation",
+   "v": "skeptic",
+   "quote": "According to skeptic Brian Dunning, \"the weather balloon is a likely explanation for the first half of the event\"."
+  },
+  {
+   "s": "dunning",
+   "p": "proposed",
+   "o": "x_balloon",
+   "quote": "According to skeptic Brian Dunning, \"the weather balloon is a likely explanation for the first half of the event\"."
+  },
+  {
+   "s": "dunning",
+   "p": "proposed",
+   "o": "x_exercise",
+   "quote": "Dunning suggested a nylon target drogue, like a windsock, towed by one plane for the others to chase and known to be in use by the local RAAF at the time, was \"at least one very reasonable possibility for the second half\"."
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "the weather balloon is a likely explanation for the first half of the event",
+   "quote": "According to skeptic Brian Dunning, \"the weather balloon is a likely explanation for the first half of the event\"."
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "a nylon target drogue, like a windsock, towed by one plane for the others to chase was at least one very reasonable possibility for the second half",
+   "quote": "Dunning suggested a nylon target drogue, like a windsock, towed by one plane for the others to chase and known to be in use by the local RAAF at the time, was \"at least one very reasonable possibility for the second half\"."
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "descriptions of what was actually seen have become diluted with made-up descriptions by an unknown number of students who didn't see anything",
+   "quote": "Dunning added that, as years have passed, \"descriptions of what was actually seen have now become diluted with made-up descriptions by an unknown number of students who didn't see anything, and there's no way to know which is which\"."
+  },
+  {
+   "s": "saunders",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "At the 60th anniversary, paranormal researcher Richard Saunders reviewed the Westall case saying that he believes that \"something\" happened back in 1966, but thinks that it is a case of \"memory fragility, false memory, and memory contagion\"."
+  },
+  {
+   "s": "saunders",
+   "p": "occupation",
+   "v": "paranormal researcher",
+   "quote": "At the 60th anniversary, paranormal researcher Richard Saunders reviewed the Westall case saying that he believes that \"something\" happened back in 1966, but thinks that it is a case of \"memory fragility, false memory, and memory contagion\"."
+  },
+  {
+   "s": "saunders",
+   "p": "proposed",
+   "o": "x_psych",
+   "quote": "At the 60th anniversary, paranormal researcher Richard Saunders reviewed the Westall case saying that he believes that \"something\" happened back in 1966, but thinks that it is a case of \"memory fragility, false memory, and memory contagion\"."
+  },
+  {
+   "s": "saunders",
+   "p": "statement",
+   "v": "believes that \"something\" happened back in 1966, but thinks it is a case of \"memory fragility, false memory, and memory contagion\"",
+   "quote": "At the 60th anniversary, paranormal researcher Richard Saunders reviewed the Westall case saying that he believes that \"something\" happened back in 1966, but thinks that it is a case of \"memory fragility, false memory, and memory contagion\"."
+  },
+  {
+   "s": "saunders",
+   "p": "statement",
+   "v": "by the time witnesses were systematically interviewed, memories had been embellished, contaminated, forgotten and reshaped",
+   "quote": "The students that say they witnessed something odd in 1966 were young teens and it took until the early 2000's to \"systemically interview them\", by that time memoires had been embellished, contaminated, forgotten and reshapened."
+  },
+  {
+   "s": "saunders",
+   "p": "statement",
+   "v": "False memories seem real, and these people are not lying but believe that what they remember is true",
+   "quote": "False memories seem real, and these people are not lying but believe that what they remember is true."
+  },
+  {
+   "s": "saunders",
+   "p": "statement",
+   "v": "what happened at Westall in 1966 was conducive to produce false memories; flying saucers were very much part of the cultural imagination",
+   "quote": "What happened at Westall in 1966 was according to Saunders, \"conducive to produce false memories, ... in 1966 flying saucers were very much part of the cultural imagination, the space race was at its height, science fiction was flourishing and UFO sightings were a staple of newspaper coverage."
+  },
+  {
+   "s": "saunders",
+   "p": "statement",
+   "v": "the stories evolved as the students grew up, watched UFO documentaries and discussed it with each other",
+   "quote": "Over the years as the students grew up and watched UFO documentaries, discussed it with each other as they processed what had happened, the stories evolve."
+  },
+  {
+   "s": "saunders",
+   "p": "review_occasion",
+   "v": "60th anniversary",
+   "quote": "At the 60th anniversary, paranormal researcher Richard Saunders reviewed the Westall case saying that he believes that \"something\" happened back in 1966, but thinks that it is a case of \"memory fragility, false memory, and memory contagion\"."
+  },
+  {
+   "s": "ryan",
+   "p": "investigator",
+   "o": "case",
+   "quote": "It is based on interviews that ufologist Shane Ryan conducted with residents."
+  },
+  {
+   "s": "ryan",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "It is based on interviews that ufologist Shane Ryan conducted with residents."
+  },
+  {
+   "s": "ryan",
+   "p": "activity",
+   "v": "conducted interviews with residents",
+   "quote": "It is based on interviews that ufologist Shane Ryan conducted with residents."
+  },
+  {
+   "s": "ryan",
+   "p": "authored",
+   "o": "westall66",
+   "quote": "Film written by Rosie Jones, with Shane Ryan; Produced by Carmel Mcaloon"
+  },
+  {
+   "s": "fox",
+   "p": "commentator",
+   "o": "case",
+   "quote": "The Phenomenon, a documentary film directed and co-produced by ufologist James Fox, includes content related to the Westall UFO case."
+  },
+  {
+   "s": "fox",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "The Phenomenon, a documentary film directed and co-produced by ufologist James Fox, includes content related to the Westall UFO case."
+  },
+  {
+   "s": "fox",
+   "p": "authored",
+   "o": "phenomenon",
+   "quote": "The Phenomenon, a documentary film directed and co-produced by ufologist James Fox, includes content related to the Westall UFO case."
+  },
+  {
+   "s": "fox",
+   "p": "role",
+   "v": "directed and co-produced The Phenomenon",
+   "quote": "The Phenomenon, a documentary film directed and co-produced by ufologist James Fox, includes content related to the Westall UFO case."
+  },
+  {
+   "s": "jones",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Film written by Rosie Jones, with Shane Ryan; Produced by Carmel Mcaloon"
+  },
+  {
+   "s": "jones",
+   "p": "authored",
+   "o": "westall66",
+   "quote": "Film written by Rosie Jones, with Shane Ryan; Produced by Carmel Mcaloon"
+  },
+  {
+   "s": "jones",
+   "p": "role",
+   "v": "writer of Westall '66",
+   "quote": "Film written by Rosie Jones, with Shane Ryan; Produced by Carmel Mcaloon"
+  },
+  {
+   "s": "mcaloon",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Film written by Rosie Jones, with Shane Ryan; Produced by Carmel Mcaloon"
+  },
+  {
+   "s": "mcaloon",
+   "p": "authored",
+   "o": "westall66",
+   "quote": "Film written by Rosie Jones, with Shane Ryan; Produced by Carmel Mcaloon"
+  },
+  {
+   "s": "mcaloon",
+   "p": "role",
+   "v": "producer of Westall '66",
+   "quote": "Film written by Rosie Jones, with Shane Ryan; Produced by Carmel Mcaloon"
+  },
+  {
+   "s": "weise",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Weise, Derek (27 October 2018). \"Westall Missing Witness Interview with UFO Research Queensland - EXCLUSIVE\". www.youtube.com (Sheryl Gottschall, UFO Research Queensland)."
+  },
+  {
+   "s": "weise",
+   "p": "authored",
+   "o": "weise_video",
+   "quote": "Weise, Derek (27 October 2018). \"Westall Missing Witness Interview with UFO Research Queensland - EXCLUSIVE\". www.youtube.com (Sheryl Gottschall, UFO Research Queensland)."
+  },
+  {
+   "s": "gottschall",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Weise, Derek (27 October 2018). \"Westall Missing Witness Interview with UFO Research Queensland - EXCLUSIVE\". www.youtube.com (Sheryl Gottschall, UFO Research Queensland)."
+  },
+  {
+   "s": "gottschall",
+   "p": "member_of",
+   "o": "ufo_rq",
+   "quote": "Weise, Derek (27 October 2018). \"Westall Missing Witness Interview with UFO Research Queensland - EXCLUSIVE\". www.youtube.com (Sheryl Gottschall, UFO Research Queensland)."
+  },
+  {
+   "s": "age",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The following day, an article in Melbourne newspaper The Age downplayed the incident."
+  },
+  {
+   "s": "age",
+   "p": "located_in",
+   "o": "melbourne",
+   "quote": "The following day, an article in Melbourne newspaper The Age downplayed the incident."
+  },
+  {
+   "s": "age",
+   "p": "published",
+   "o": "age_article",
+   "quote": "The following day, an article in Melbourne newspaper The Age downplayed the incident."
+  },
+  {
+   "s": "age",
+   "p": "proposed",
+   "o": "x_balloon",
+   "quote": "Object Perhaps Balloon – An unidentified flying object seen over the Clayton-Moorabbin area yesterday morning might have been a weather balloon."
+  },
+  {
+   "s": "age",
+   "p": "type",
+   "v": "Melbourne newspaper",
+   "quote": "The following day, an article in Melbourne newspaper The Age downplayed the incident."
+  },
+  {
+   "s": "age",
+   "p": "statement",
+   "v": "a number of small aeroplanes circled around the object",
+   "quote": "The newspaper also said a number of small aeroplanes circled around it."
+  },
+  {
+   "s": "bureau",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Weather Bureau released a balloon at Laverton at 8:30 am and the westerly wind blowing at the time could have moved it into the area where the sighting was reported."
+  },
+  {
+   "s": "bureau",
+   "p": "action",
+   "v": "released a balloon at Laverton at 8:30 am",
+   "quote": "The Weather Bureau released a balloon at Laverton at 8:30 am and the westerly wind blowing at the time could have moved it into the area where the sighting was reported."
+  },
+  {
+   "s": "bureau",
+   "p": "balloon_release_time",
+   "v": "8:30 am",
+   "quote": "The Weather Bureau released a balloon at Laverton at 8:30 am and the westerly wind blowing at the time could have moved it into the area where the sighting was reported."
+  },
+  {
+   "s": "raaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On 9 April 1966, air force personnel and UFO enthusiasts visited the field but reported nothing of interest."
+  },
+  {
+   "s": "raaf",
+   "p": "action",
+   "v": "air force personnel visited the field on 9 April 1966 but reported nothing of interest",
+   "quote": "On 9 April 1966, air force personnel and UFO enthusiasts visited the field but reported nothing of interest."
+  },
+  {
+   "s": "raaf",
+   "p": "pilot_reports",
+   "v": "no RAAF pilots had reported anything unusual in the area",
+   "quote": "However, a check later showed that no commercial, private or RAAF pilots had reported anything unusual in the area."
+  },
+  {
+   "s": "raaf",
+   "p": "equipment",
+   "v": "nylon target drogue known to be in use by the local RAAF at the time",
+   "quote": "Dunning suggested a nylon target drogue, like a windsock, towed by one plane for the others to chase and known to be in use by the local RAAF at the time, was \"at least one very reasonable possibility for the second half\"."
+  },
+  {
+   "s": "archives",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Basterfield located documents in the National Archives and former Department of Supply indicating a test balloon launched from Mildura may have been blown off course"
+  },
+  {
+   "s": "supply",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Basterfield located documents in the National Archives and former Department of Supply indicating a test balloon launched from Mildura may have been blown off course"
+  },
+  {
+   "s": "kingston",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The City of Kingston created a children's play space, Grange Reserve UFO Park at The Grange Reserve in Clayton South."
+  },
+  {
+   "s": "kingston",
+   "p": "action",
+   "v": "created a children's play space, Grange Reserve UFO Park",
+   "quote": "The City of Kingston created a children's play space, Grange Reserve UFO Park at The Grange Reserve in Clayton South."
+  },
+  {
+   "s": "abc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 2026 the ABC Australian Story program discussed the event."
+  },
+  {
+   "s": "abc",
+   "p": "published",
+   "o": "austory",
+   "quote": "In 2026 the ABC Australian Story program discussed the event."
+  },
+  {
+   "s": "ufo_rq",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Weise, Derek (27 October 2018). \"Westall Missing Witness Interview with UFO Research Queensland - EXCLUSIVE\". www.youtube.com (Sheryl Gottschall, UFO Research Queensland)."
+  },
+  {
+   "s": "hibal",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "According to Keith Basterfield, a runaway balloon from the HIBAL high-altitude balloon project used to monitor radiation levels after British nuclear tests at Maralinga is a likely explanation."
+  },
+  {
+   "s": "hibal",
+   "p": "purpose",
+   "v": "monitor radiation levels after British nuclear tests at Maralinga",
+   "quote": "According to Keith Basterfield, a runaway balloon from the HIBAL high-altitude balloon project used to monitor radiation levels after British nuclear tests at Maralinga is a likely explanation."
+  },
+  {
+   "s": "hibal",
+   "p": "balloon_appearance",
+   "v": "white silver appearance with a parachute and gas tube trailing from the top",
+   "quote": "Basterfield said that HIBAL balloons had a white silver appearance and featured a parachute and gas tube trailing from the top, which is consistent with witness descriptions of the object."
+  },
+  {
+   "s": "hibal",
+   "p": "launch_site",
+   "v": "Mildura",
+   "quote": "Basterfield located documents in the National Archives and former Department of Supply indicating a test balloon launched from Mildura may have been blown off course"
+  },
+  {
+   "s": "nuketests",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "According to Keith Basterfield, a runaway balloon from the HIBAL high-altitude balloon project used to monitor radiation levels after British nuclear tests at Maralinga is a likely explanation."
+  },
+  {
+   "s": "nuketests",
+   "p": "located_in",
+   "o": "maralinga",
+   "quote": "According to Keith Basterfield, a runaway balloon from the HIBAL high-altitude balloon project used to monitor radiation levels after British nuclear tests at Maralinga is a likely explanation."
+  },
+  {
+   "s": "australia",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Westall UFO was a reported UFO sighting in Australia that occurred on 6 April 1966 in Melbourne, Victoria."
+  },
+  {
+   "s": "victoria",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Westall UFO was a reported UFO sighting in Australia that occurred on 6 April 1966 in Melbourne, Victoria."
+  },
+  {
+   "s": "victoria",
+   "p": "located_in",
+   "o": "australia",
+   "quote": "The Westall UFO was a reported UFO sighting in Australia that occurred on 6 April 1966 in Melbourne, Victoria."
+  },
+  {
+   "s": "melbourne",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Westall UFO was a reported UFO sighting in Australia that occurred on 6 April 1966 in Melbourne, Victoria."
+  },
+  {
+   "s": "melbourne",
+   "p": "located_in",
+   "o": "victoria",
+   "quote": "The Westall UFO was a reported UFO sighting in Australia that occurred on 6 April 1966 in Melbourne, Victoria."
+  },
+  {
+   "s": "school",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "On Wednesday, 6 April 1966, students and a teacher from Westall High School"
+  },
+  {
+   "s": "school",
+   "p": "located_in",
+   "o": "clayton",
+   "quote": "Hundreds of children and a number of teachers at Westall School, Clayton, watched the object during morning break."
+  },
+  {
+   "s": "westall",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "What happened at Westall in 1966 was according to Saunders, \"conducive to produce false memories, ... in 1966 flying saucers were very much part of the cultural imagination, the space race was at its height, science fiction was flourishing and UFO sightings were a staple of newspaper coverage."
+  },
+  {
+   "s": "grange",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "According to the students, the object descended behind a row of trees and into the Grange, an open area south of the school."
+  },
+  {
+   "s": "grange",
+   "p": "description",
+   "v": "an open area south of the school",
+   "quote": "According to the students, the object descended behind a row of trees and into the Grange, an open area south of the school."
+  },
+  {
+   "s": "grange",
+   "p": "located_in",
+   "o": "claytonsouth",
+   "quote": "The City of Kingston created a children's play space, Grange Reserve UFO Park at The Grange Reserve in Clayton South."
+  },
+  {
+   "s": "clayton",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Hundreds of children and a number of teachers at Westall School, Clayton, watched the object during morning break."
+  },
+  {
+   "s": "moorabbin",
+   "p": "near",
+   "o": "case",
+   "quote": "Object Perhaps Balloon – An unidentified flying object seen over the Clayton-Moorabbin area yesterday morning might have been a weather balloon."
+  },
+  {
+   "s": "claytonsouth",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "\"and came down in Clayton South in a paddock near Westall High School, alarming and baffling hundreds of eyewitnesses, including teachers and students\""
+  },
+  {
+   "s": "laverton",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Weather Bureau released a balloon at Laverton at 8:30 am and the westerly wind blowing at the time could have moved it into the area where the sighting was reported."
+  },
+  {
+   "s": "mildura",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Basterfield located documents in the National Archives and former Department of Supply indicating a test balloon launched from Mildura may have been blown off course"
+  },
+  {
+   "s": "maralinga",
+   "p": "related_place",
+   "o": "case",
+   "quote": "According to Keith Basterfield, a runaway balloon from the HIBAL high-altitude balloon project used to monitor radiation levels after British nuclear tests at Maralinga is a likely explanation."
+  },
+  {
+   "s": "tennis",
+   "p": "related_place",
+   "o": "case",
+   "quote": "A witness reunion was held at Westall Tennis Club Hall, on 8 April 2006, to commemorate the 40th anniversary of the incident."
+  },
+  {
+   "s": "park",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The City of Kingston created a children's play space, Grange Reserve UFO Park at The Grange Reserve in Clayton South."
+  },
+  {
+   "s": "park",
+   "p": "located_in",
+   "o": "grange",
+   "quote": "The City of Kingston created a children's play space, Grange Reserve UFO Park at The Grange Reserve in Clayton South."
+  },
+  {
+   "s": "park",
+   "p": "feature",
+   "v": "a silver UFO with red slides",
+   "quote": "The park features a silver UFO with red slides to reflect the 1966 Westall UFO Incident."
+  },
+  {
+   "s": "age_article",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The following day, an article in Melbourne newspaper The Age downplayed the incident."
+  },
+  {
+   "s": "age_article",
+   "p": "headline",
+   "v": "Object Perhaps Balloon",
+   "quote": "Object Perhaps Balloon – An unidentified flying object seen over the Clayton-Moorabbin area yesterday morning might have been a weather balloon."
+  },
+  {
+   "s": "age_article",
+   "p": "publication_timing",
+   "v": "the following day",
+   "quote": "The following day, an article in Melbourne newspaper The Age downplayed the incident."
+  },
+  {
+   "s": "age_article",
+   "p": "statement",
+   "v": "the object seen over the Clayton-Moorabbin area might have been a weather balloon",
+   "quote": "Object Perhaps Balloon – An unidentified flying object seen over the Clayton-Moorabbin area yesterday morning might have been a weather balloon."
+  },
+  {
+   "s": "age_article",
+   "p": "statement",
+   "v": "the westerly wind could have moved the balloon into the area where the sighting was reported",
+   "quote": "The Weather Bureau released a balloon at Laverton at 8:30 am and the westerly wind blowing at the time could have moved it into the area where the sighting was reported."
+  },
+  {
+   "s": "hibal_docs",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Basterfield located documents in the National Archives and former Department of Supply indicating a test balloon launched from Mildura may have been blown off course"
+  },
+  {
+   "s": "hibal_docs",
+   "p": "part_of",
+   "o": "archives",
+   "quote": "Basterfield located documents in the National Archives and former Department of Supply indicating a test balloon launched from Mildura may have been blown off course"
+  },
+  {
+   "s": "hibal_docs",
+   "p": "part_of",
+   "o": "supply",
+   "quote": "Basterfield located documents in the National Archives and former Department of Supply indicating a test balloon launched from Mildura may have been blown off course"
+  },
+  {
+   "s": "hibal_docs",
+   "p": "content",
+   "v": "a test balloon launched from Mildura may have been blown off course",
+   "quote": "Basterfield located documents in the National Archives and former Department of Supply indicating a test balloon launched from Mildura may have been blown off course"
+  },
+  {
+   "s": "westall66",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The documentary Westall '66 focuses on the sighting."
+  },
+  {
+   "s": "westall66",
+   "p": "type",
+   "v": "documentary",
+   "quote": "The documentary Westall '66 focuses on the sighting."
+  },
+  {
+   "s": "westall66",
+   "p": "basis",
+   "v": "interviews that ufologist Shane Ryan conducted with residents",
+   "quote": "It is based on interviews that ufologist Shane Ryan conducted with residents."
+  },
+  {
+   "s": "westall66",
+   "p": "use",
+   "v": "incorporated into the national history curriculum as a lesson on critical analysis of popular portrayals of historical events",
+   "quote": "Westall '66 was incorporated into the national history curriculum as a lesson on critical analysis of popular portrayals of historical events."
+  },
+  {
+   "s": "westall66",
+   "p": "subtitle",
+   "v": "a suburban UFO mystery",
+   "quote": "Westall '66: a suburban UFO mystery A MASS UFO SIGHTING A FORTY-FOUR YEAR CONSPIRACY. A MAN SEEKING THE TRUTH (archived from the original web site)."
+  },
+  {
+   "s": "phenomenon",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The Phenomenon, a documentary film directed and co-produced by ufologist James Fox, includes content related to the Westall UFO case."
+  },
+  {
+   "s": "phenomenon",
+   "p": "type",
+   "v": "documentary film",
+   "quote": "The Phenomenon, a documentary film directed and co-produced by ufologist James Fox, includes content related to the Westall UFO case."
+  },
+  {
+   "s": "austory",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2026 the ABC Australian Story program discussed the event."
+  },
+  {
+   "s": "austory",
+   "p": "year_discussed",
+   "v": "2026",
+   "quote": "In 2026 the ABC Australian Story program discussed the event."
+  },
+  {
+   "s": "weise_video",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Weise, Derek (27 October 2018). \"Westall Missing Witness Interview with UFO Research Queensland - EXCLUSIVE\". www.youtube.com (Sheryl Gottschall, UFO Research Queensland)."
+  },
+  {
+   "s": "weise_video",
+   "p": "date",
+   "v": "2018-10-27",
+   "quote": "Weise, Derek (27 October 2018). \"Westall Missing Witness Interview with UFO Research Queensland - EXCLUSIVE\". www.youtube.com (Sheryl Gottschall, UFO Research Queensland)."
+  },
+  {
+   "s": "ufo_rq",
+   "p": "published",
+   "o": "weise_video",
+   "quote": "Weise, Derek (27 October 2018). \"Westall Missing Witness Interview with UFO Research Queensland - EXCLUSIVE\". www.youtube.com (Sheryl Gottschall, UFO Research Queensland)."
+  },
+  {
+   "s": "ariel",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Ariel School UFO incident"
+  },
+  {
+   "s": "valentich",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Disappearance of Frederick Valentich"
+  },
+  {
+   "s": "f_shape_disc",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "It was described as round with a domed top, and white, grey, or silver in colour."
+  },
+  {
+   "s": "f_shape_disc",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Reports collected at the time tell a story of how different they were, some describe a weather balloon, others say a \"round humped silver disc\", some saw one, other say they saw five."
+  },
+  {
+   "s": "f_landing_reported",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Some witnesses reported seeing the object take off after landing, and some reported seeing it hover rather than land."
+  },
+  {
+   "s": "f_landing_reported",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "When students walked to the Grange after the sighting, some reported a landing site, but the details varied between reports."
+  },
+  {
+   "s": "f_hovering",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Some witnesses reported seeing the object take off after landing, and some reported seeing it hover rather than land."
+  },
+  {
+   "s": "f_physical_traces",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Students variously described a circle of grass as burnt, \"boiled\" or pressed down."
+  },
+  {
+   "s": "f_aircraft_pursuit",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Some accounts describe the object as being pursued by five unidentified aircraft."
+  },
+  {
+   "s": "f_multiple_witnesses",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The object was observed by multiple individuals, including students at Westall High School."
+  },
+  {
+   "s": "f_mass_sighting",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Hundreds of children and a number of teachers at Westall School, Clayton, watched the object during morning break."
+  },
+  {
+   "s": "f_mass_sighting",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Westall '66: a suburban UFO mystery A MASS UFO SIGHTING A FORTY-FOUR YEAR CONSPIRACY. A MAN SEEKING THE TRUTH (archived from the original web site)."
+  },
+  {
+   "s": "f_child_witnesses",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Hundreds of children and a number of teachers at Westall School, Clayton, watched the object during morning break."
+  },
+  {
+   "s": "f_child_witnesses",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The object was observed by multiple individuals, including students at Westall High School."
+  },
+  {
+   "s": "f_men_in_black",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "There were also reports that after the incident, \"men in suits\" cautioned witnesses not to discuss details of the secret government exercise."
+  },
+  {
+   "s": "f_alleged_cover_up",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "There were also reports that after the incident, \"men in suits\" cautioned witnesses not to discuss details of the secret government exercise."
+  },
+  {
+   "s": "f_official_investigation",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "On 9 April 1966, air force personnel and UFO enthusiasts visited the field but reported nothing of interest."
+  },
+  {
+   "s": "x_balloon",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Object Perhaps Balloon – An unidentified flying object seen over the Clayton-Moorabbin area yesterday morning might have been a weather balloon."
+  },
+  {
+   "s": "x_balloon",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "According to Keith Basterfield, a runaway balloon from the HIBAL high-altitude balloon project used to monitor radiation levels after British nuclear tests at Maralinga is a likely explanation."
+  },
+  {
+   "s": "x_balloon",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "According to skeptic Brian Dunning, \"the weather balloon is a likely explanation for the first half of the event\"."
+  },
+  {
+   "s": "x_exercise",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Dunning suggested a nylon target drogue, like a windsock, towed by one plane for the others to chase and known to be in use by the local RAAF at the time, was \"at least one very reasonable possibility for the second half\"."
+  },
+  {
+   "s": "x_psych",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "At the 60th anniversary, paranormal researcher Richard Saunders reviewed the Westall case saying that he believes that \"something\" happened back in 1966, but thinks that it is a case of \"memory fragility, false memory, and memory contagion\"."
+  }
+ ]
+}
