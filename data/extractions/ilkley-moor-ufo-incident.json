@@ -1,0 +1,922 @@
+{
+ "slug": "ilkley-moor-ufo-incident",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Ilkley Moor UFO incident",
+   "description": "Alleged 1 December 1987 abduction of a retired police officer on Ilkley Moor, with a disputed photograph of an alleged being.",
+   "aliases": [
+    "Ilkley Moor incident"
+   ]
+  },
+  {
+   "key": "spencer",
+   "type": "person",
+   "name": "Philip Spencer",
+   "description": "Pseudonym of the retired police officer who reported the encounter",
+   "aliases": [
+    "Spencer"
+   ]
+  },
+  {
+   "key": "moor",
+   "type": "place",
+   "name": "Ilkley Moor",
+   "description": "Moorland between Ilkley and Keighley in West Yorkshire, England"
+  },
+  {
+   "key": "ilkley",
+   "type": "place",
+   "name": "Ilkley, England",
+   "description": "Town bordering Ilkley Moor",
+   "aliases": [
+    "Ilkley"
+   ]
+  },
+  {
+   "key": "keighley",
+   "type": "place",
+   "name": "Keighley, England",
+   "description": "Town bordering Ilkley Moor",
+   "aliases": [
+    "Keighley"
+   ]
+  },
+  {
+   "key": "wyorks",
+   "type": "place",
+   "name": "West Yorkshire",
+   "description": "English county containing Ilkley Moor"
+  },
+  {
+   "key": "england",
+   "type": "place",
+   "name": "England",
+   "description": "Country"
+  },
+  {
+   "key": "uk",
+   "type": "place",
+   "name": "United Kingdom",
+   "description": "Country",
+   "aliases": [
+    "UK"
+   ]
+  },
+  {
+   "key": "menwith",
+   "type": "place",
+   "name": "RAF Menwith Hill",
+   "description": "RAF station near Ilkley Moor"
+  },
+  {
+   "key": "lba",
+   "type": "place",
+   "name": "Leeds Bradford Airport",
+   "description": "Airport near Ilkley Moor"
+  },
+  {
+   "key": "london",
+   "type": "place",
+   "name": "London",
+   "description": "City Spencer moved from"
+  },
+  {
+   "key": "eastmorton",
+   "type": "place",
+   "name": "East Morton, England",
+   "description": "Village where Spencer's father-in-law lived",
+   "aliases": [
+    "East Morton"
+   ]
+  },
+  {
+   "key": "randles",
+   "type": "person",
+   "name": "Jenny Randles",
+   "description": "UFO researcher contacted by Spencer"
+  },
+  {
+   "key": "hough",
+   "type": "person",
+   "name": "Peter Hough",
+   "description": "UFO researcher who investigated and received the photo's copyright",
+   "aliases": [
+    "Hough"
+   ]
+  },
+  {
+   "key": "kodak",
+   "type": "organization",
+   "name": "Kodak",
+   "description": "Company whose Hemel Hempstead laboratory examined the photograph",
+   "aliases": [
+    "Kodak laboratory"
+   ]
+  },
+  {
+   "key": "hemel",
+   "type": "place",
+   "name": "Hemel Hempstead, England",
+   "description": "Location of the Kodak laboratory",
+   "aliases": [
+    "Hemel Hempstead"
+   ]
+  },
+  {
+   "key": "maccabee",
+   "type": "person",
+   "name": "Bruce Maccabee",
+   "description": "US Navy optics expert and ufologist who assessed the photograph"
+  },
+  {
+   "key": "usn",
+   "type": "organization",
+   "name": "United States Navy",
+   "description": "US naval service",
+   "aliases": [
+    "US Navy"
+   ]
+  },
+  {
+   "key": "redfern",
+   "type": "person",
+   "name": "Nick Redfern",
+   "description": "Ufologist who said the MoD harassed Spencer"
+  },
+  {
+   "key": "mod",
+   "type": "organization",
+   "name": "Ministry of Defence",
+   "description": "UK defence ministry"
+  },
+  {
+   "key": "singleton",
+   "type": "person",
+   "name": "Jim Singleton",
+   "description": "Carried out Spencer's regressive hypnotherapy session",
+   "aliases": [
+    "Singleton"
+   ]
+  },
+  {
+   "key": "pope",
+   "type": "person",
+   "name": "Nick Pope",
+   "description": "Journalist who previously worked at the MoD 'UFO desk'"
+  },
+  {
+   "key": "top10",
+   "type": "work",
+   "name": "Top 10 UFO incidents in the UK",
+   "description": "2011 list by Nick Pope that included the incident"
+  },
+  {
+   "key": "photo",
+   "type": "document",
+   "name": "Ilkley Moor photograph",
+   "description": "Spencer's photograph allegedly showing one of the beings"
+  },
+  {
+   "key": "craft",
+   "type": "craft",
+   "name": "whitish double-saucer craft seen rising from Ilkley Moor",
+   "description": "Craft Spencer said rose from the moor"
+  },
+  {
+   "key": "compass",
+   "type": "document",
+   "name": "Spencer's compass",
+   "description": "Compass said to point the opposite direction after the incident"
+  },
+  {
+   "key": "f_abduction_claim",
+   "type": "feature",
+   "name": "abduction-claim",
+   "description": "abduction-claim"
+  },
+  {
+   "key": "f_police_witnesses",
+   "type": "feature",
+   "name": "police-witnesses",
+   "description": "police-witnesses"
+  },
+  {
+   "key": "f_photograph",
+   "type": "feature",
+   "name": "photograph",
+   "description": "photograph"
+  },
+  {
+   "key": "f_military_base_proximity",
+   "type": "feature",
+   "name": "military-base-proximity",
+   "description": "military-base-proximity"
+  },
+  {
+   "key": "f_occupants_reported",
+   "type": "feature",
+   "name": "occupants-reported",
+   "description": "occupants-reported"
+  },
+  {
+   "key": "f_landing_reported",
+   "type": "feature",
+   "name": "landing-reported",
+   "description": "landing-reported"
+  },
+  {
+   "key": "f_shape_disc",
+   "type": "feature",
+   "name": "shape-disc",
+   "description": "shape-disc"
+  },
+  {
+   "key": "f_sound_reported",
+   "type": "feature",
+   "name": "sound-reported",
+   "description": "sound-reported"
+  },
+  {
+   "key": "f_missing_time",
+   "type": "feature",
+   "name": "missing-time",
+   "description": "missing-time"
+  },
+  {
+   "key": "f_electromagnetic_interference",
+   "type": "feature",
+   "name": "electromagnetic-interference",
+   "description": "electromagnetic-interference"
+  },
+  {
+   "key": "f_men_in_black",
+   "type": "feature",
+   "name": "men-in-black",
+   "description": "men-in-black"
+  },
+  {
+   "key": "f_hypnosis_used",
+   "type": "feature",
+   "name": "hypnosis-used",
+   "description": "hypnosis-used"
+  },
+  {
+   "key": "f_physiological_effects",
+   "type": "feature",
+   "name": "physiological-effects",
+   "description": "physiological-effects"
+  },
+  {
+   "key": "f_hoax_alleged",
+   "type": "feature",
+   "name": "hoax-alleged",
+   "description": "hoax-alleged"
+  },
+  {
+   "key": "x_hoax",
+   "type": "explanation",
+   "name": "hoax",
+   "description": "hoax"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1987-12-01",
+   "quote": "The Ilkley Moor UFO incident refers to an alleged UFO encounter on Ilkley Moor on 1 December 1987."
+  },
+  {
+   "s": "moor",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Ilkley Moor UFO incident refers to an alleged UFO encounter on Ilkley Moor on 1 December 1987."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "morning",
+   "quote": "On the morning of 1 December 1987, Spencer walked across Ilkley Moor"
+  },
+  {
+   "s": "spencer",
+   "p": "witness",
+   "o": "case",
+   "quote": "On the morning of 1 December 1987, Spencer walked across Ilkley Moor to visit his father-in-law in East Morton."
+  },
+  {
+   "s": "spencer",
+   "p": "occupation",
+   "v": "retired police officer",
+   "quote": "A retired police officer reported being abducted by extraterrestrial beings during a morning walk, briefly detained aboard their craft and subsequently returned to the moor."
+  },
+  {
+   "s": "spencer",
+   "p": "name_is_pseudonym",
+   "v": "yes",
+   "quote": "Philip Spencer, a pseudonym, had moved with his wife and child from London to West Yorkshire"
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United Kingdom",
+   "quote": "The Ilkley Moor incident generated headlines in the UK at the time"
+  },
+  {
+   "s": "uk",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Ilkley Moor incident generated headlines in the UK at the time and remains one of the country's most famous UFO sightings."
+  },
+  {
+   "s": "f_abduction_claim",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "A retired police officer reported being abducted by extraterrestrial beings during a morning walk, briefly detained aboard their craft and subsequently returned to the moor."
+  },
+  {
+   "s": "f_police_witnesses",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "A retired police officer reported being abducted by extraterrestrial beings during a morning walk, briefly detained aboard their craft and subsequently returned to the moor."
+  },
+  {
+   "s": "f_photograph",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "He took a photograph of the surrounding landscape that he claimed depicted one of the beings involved in the abduction."
+  },
+  {
+   "s": "photo",
+   "p": "key_document",
+   "o": "case",
+   "quote": "He took a photograph of the surrounding landscape that he claimed depicted one of the beings involved in the abduction."
+  },
+  {
+   "s": "spencer",
+   "p": "authored",
+   "o": "photo",
+   "quote": "He took a photograph of the surrounding landscape that he claimed depicted one of the beings involved in the abduction."
+  },
+  {
+   "s": "photo",
+   "p": "media_coverage",
+   "v": "received coverage in the UK media; cited by some UFO researchers as evidence of extraterrestrial visitation",
+   "quote": "The photograph subsequently received coverage in the UK media and has been cited by some UFO researchers as evidence of extraterrestrial visitation."
+  },
+  {
+   "s": "photo",
+   "p": "assessment",
+   "v": "incredibly blurry",
+   "quote": "Other assessments have described the image as “incredibly blurry”, while sceptical interpretations have suggested that the figure may depict a person or a cardboard cut-out."
+  },
+  {
+   "s": "photo",
+   "p": "authenticity",
+   "v": "disputed",
+   "quote": "The authenticity of the photograph remains disputed."
+  },
+  {
+   "s": "moor",
+   "p": "located_in",
+   "o": "wyorks",
+   "quote": "Ilkley Moor is an area of moorland between Ilkley and Keighley in West Yorkshire, England."
+  },
+  {
+   "s": "ilkley",
+   "p": "near",
+   "o": "case",
+   "quote": "Ilkley Moor is an area of moorland between Ilkley and Keighley in West Yorkshire, England."
+  },
+  {
+   "s": "keighley",
+   "p": "near",
+   "o": "case",
+   "quote": "Ilkley Moor is an area of moorland between Ilkley and Keighley in West Yorkshire, England."
+  },
+  {
+   "s": "wyorks",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Ilkley Moor is an area of moorland between Ilkley and Keighley in West Yorkshire, England."
+  },
+  {
+   "s": "wyorks",
+   "p": "located_in",
+   "o": "england",
+   "quote": "Ilkley Moor is an area of moorland between Ilkley and Keighley in West Yorkshire, England."
+  },
+  {
+   "s": "england",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Ilkley Moor is an area of moorland between Ilkley and Keighley in West Yorkshire, England."
+  },
+  {
+   "s": "moor",
+   "p": "description",
+   "v": "moorland; site of numerous reported UFO sightings",
+   "quote": "The moor has been the site of numerous reported UFO sightings."
+  },
+  {
+   "s": "menwith",
+   "p": "near",
+   "o": "case",
+   "quote": "Sceptical explanations have attributed the frequency of such reports in part to the area's proximity to RAF Menwith Hill and Leeds Bradford Airport."
+  },
+  {
+   "s": "lba",
+   "p": "near",
+   "o": "case",
+   "quote": "Sceptical explanations have attributed the frequency of such reports in part to the area's proximity to RAF Menwith Hill and Leeds Bradford Airport."
+  },
+  {
+   "s": "f_military_base_proximity",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Sceptical explanations have attributed the frequency of such reports in part to the area's proximity to RAF Menwith Hill and Leeds Bradford Airport."
+  },
+  {
+   "s": "moor",
+   "p": "sceptical_explanation_for_sightings",
+   "v": "proximity to RAF Menwith Hill and Leeds Bradford Airport",
+   "quote": "Sceptical explanations have attributed the frequency of such reports in part to the area's proximity to RAF Menwith Hill and Leeds Bradford Airport."
+  },
+  {
+   "s": "london",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Philip Spencer, a pseudonym, had moved with his wife and child from London to West Yorkshire following his retirement from the police force, settling closer to his wife's family."
+  },
+  {
+   "s": "spencer",
+   "p": "background",
+   "v": "moved with his wife and child from London to West Yorkshire after retiring from the police force",
+   "quote": "Philip Spencer, a pseudonym, had moved with his wife and child from London to West Yorkshire following his retirement from the police force, settling closer to his wife's family."
+  },
+  {
+   "s": "eastmorton",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Spencer walked across Ilkley Moor to visit his father-in-law in East Morton."
+  },
+  {
+   "s": "spencer",
+   "p": "carried",
+   "v": "a camera and a compass, the latter intended for use in foggy conditions",
+   "quote": "He carried a camera and a compass, the latter intended for use in foggy conditions."
+  },
+  {
+   "s": "spencer",
+   "p": "statement",
+   "v": "was walking up a small hill when he noticed a figure on the trail ahead",
+   "quote": "According to Spencer's account, he was walking up a small hill when he noticed a figure on the trail ahead."
+  },
+  {
+   "s": "f_occupants_reported",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "He described it as approximately 1.2 metres (3.9 feet) tall, dark green, with a disproportionately large head and long, thin arms."
+  },
+  {
+   "s": "case",
+   "p": "occupant_height",
+   "v": "approximately 1.2 metres (3.9 feet)",
+   "quote": "He described it as approximately 1.2 metres (3.9 feet) tall, dark green, with a disproportionately large head and long, thin arms."
+  },
+  {
+   "s": "case",
+   "p": "occupant_color",
+   "v": "dark green",
+   "quote": "He described it as approximately 1.2 metres (3.9 feet) tall, dark green, with a disproportionately large head and long, thin arms."
+  },
+  {
+   "s": "case",
+   "p": "occupant_description",
+   "v": "disproportionately large head and long, thin arms",
+   "quote": "He described it as approximately 1.2 metres (3.9 feet) tall, dark green, with a disproportionately large head and long, thin arms."
+  },
+  {
+   "s": "spencer",
+   "p": "statement",
+   "v": "the figure gestured toward him, which he interpreted as a warning to keep away; he photographed it before it ran from the area",
+   "quote": "The figure reportedly gestured toward him, which Spencer interpreted as a warning to keep away, but he photographed it before it ran from the area."
+  },
+  {
+   "s": "case",
+   "p": "weather",
+   "v": "fog",
+   "quote": "Spencer followed but lost sight of the being in the fog."
+  },
+  {
+   "s": "craft",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "He then stated seeing an unidentified craft rise from the moor and disappear into the sky."
+  },
+  {
+   "s": "f_landing_reported",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "He then stated seeing an unidentified craft rise from the moor and disappear into the sky."
+  },
+  {
+   "s": "spencer",
+   "p": "described",
+   "o": "craft",
+   "quote": "He described the craft as whitish and composed of two saucer-shaped sections joined along their wider surfaces, accompanied by a loud humming sound."
+  },
+  {
+   "s": "craft",
+   "p": "color",
+   "v": "whitish",
+   "quote": "He described the craft as whitish and composed of two saucer-shaped sections joined along their wider surfaces, accompanied by a loud humming sound."
+  },
+  {
+   "s": "craft",
+   "p": "shape",
+   "v": "two saucer-shaped sections joined along their wider surfaces",
+   "quote": "He described the craft as whitish and composed of two saucer-shaped sections joined along their wider surfaces, accompanied by a loud humming sound."
+  },
+  {
+   "s": "craft",
+   "p": "sound",
+   "v": "loud humming",
+   "quote": "He described the craft as whitish and composed of two saucer-shaped sections joined along their wider surfaces, accompanied by a loud humming sound."
+  },
+  {
+   "s": "f_shape_disc",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "He described the craft as whitish and composed of two saucer-shaped sections joined along their wider surfaces, accompanied by a loud humming sound."
+  },
+  {
+   "s": "f_sound_reported",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "He described the craft as whitish and composed of two saucer-shaped sections joined along their wider surfaces, accompanied by a loud humming sound."
+  },
+  {
+   "s": "craft",
+   "p": "photographed",
+   "v": "no",
+   "quote": "Spencer did not photograph the craft."
+  },
+  {
+   "s": "spencer",
+   "p": "statement",
+   "v": "went to another town about 30 minutes away instead of continuing his planned route",
+   "quote": "Rather than continue along his planned route, Spencer went to another town about 30 minutes away."
+  },
+  {
+   "s": "f_missing_time",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "On arrival, he found that approximately two hours had elapsed."
+  },
+  {
+   "s": "case",
+   "p": "missing_time",
+   "v": "approximately two hours",
+   "quote": "On arrival, he found that approximately two hours had elapsed."
+  },
+  {
+   "s": "f_electromagnetic_interference",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "He also noted that his compass was pointing in the opposite direction from the one it should have."
+  },
+  {
+   "s": "compass",
+   "p": "key_document",
+   "o": "case",
+   "quote": "He also noted that his compass was pointing in the opposite direction from the one it should have."
+  },
+  {
+   "s": "compass",
+   "p": "condition",
+   "v": "pointing in the opposite direction from the one it should have",
+   "quote": "He also noted that his compass was pointing in the opposite direction from the one it should have."
+  },
+  {
+   "s": "randles",
+   "p": "investigator",
+   "o": "case",
+   "quote": "In the days following the alleged incident, Spencer made contact with UFO researchers Jenny Randles and Peter Hough."
+  },
+  {
+   "s": "hough",
+   "p": "investigator",
+   "o": "case",
+   "quote": "In the days following the alleged incident, Spencer made contact with UFO researchers Jenny Randles and Peter Hough."
+  },
+  {
+   "s": "randles",
+   "p": "occupation",
+   "v": "UFO researcher",
+   "quote": "In the days following the alleged incident, Spencer made contact with UFO researchers Jenny Randles and Peter Hough."
+  },
+  {
+   "s": "hough",
+   "p": "occupation",
+   "v": "UFO researcher",
+   "quote": "In the days following the alleged incident, Spencer made contact with UFO researchers Jenny Randles and Peter Hough."
+  },
+  {
+   "s": "randles",
+   "p": "colleague_of",
+   "o": "hough",
+   "quote": "In the days following the alleged incident, Spencer made contact with UFO researchers Jenny Randles and Peter Hough."
+  },
+  {
+   "s": "hough",
+   "p": "statement",
+   "v": "extremely sceptical at first but later came to believe Spencer",
+   "quote": "Hough claimed to have been “extremely sceptical” at first but later came to believe Spencer."
+  },
+  {
+   "s": "hough",
+   "p": "owned",
+   "o": "photo",
+   "quote": "Spencer handed over the copyright of the photo to Hough."
+  },
+  {
+   "s": "spencer",
+   "p": "anonymity",
+   "v": "insisted on keeping his anonymity",
+   "quote": "Although the story quickly made the news, Spencer insisted on keeping his anonymity."
+  },
+  {
+   "s": "spencer",
+   "p": "payment",
+   "v": "did not make any money from the story",
+   "quote": "Various write-ups of the case have made it clear that Spencer did not make any money from the story."
+  },
+  {
+   "s": "hough",
+   "p": "action",
+   "v": "examined the site and sent the photograph to a number of experts",
+   "quote": "As well as examining the site, Hough sent the photograph to a number of experts."
+  },
+  {
+   "s": "photo",
+   "p": "expert_opinion",
+   "v": "a wildlife photographer said that it was not from any known animal",
+   "quote": "A wildlife photographer who examined the photograph said that it was not from any known animal."
+  },
+  {
+   "s": "kodak",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Experts from the Kodak laboratory in Hemel Hempstead said that they could not detect any evidence of tampering."
+  },
+  {
+   "s": "kodak",
+   "p": "located_in",
+   "o": "hemel",
+   "quote": "Experts from the Kodak laboratory in Hemel Hempstead said that they could not detect any evidence of tampering."
+  },
+  {
+   "s": "hemel",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Experts from the Kodak laboratory in Hemel Hempstead said that they could not detect any evidence of tampering."
+  },
+  {
+   "s": "photo",
+   "p": "expert_opinion",
+   "v": "Kodak laboratory experts could not detect any evidence of tampering",
+   "quote": "Experts from the Kodak laboratory in Hemel Hempstead said that they could not detect any evidence of tampering."
+  },
+  {
+   "s": "maccabee",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Bruce Maccabee, a US Navy optics expert and ufologist, concluded that the photograph was “too grainy for proper testing”."
+  },
+  {
+   "s": "maccabee",
+   "p": "employed_by",
+   "o": "usn",
+   "quote": "Bruce Maccabee, a US Navy optics expert and ufologist, concluded that the photograph was “too grainy for proper testing”."
+  },
+  {
+   "s": "usn",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Bruce Maccabee, a US Navy optics expert and ufologist, concluded that the photograph was “too grainy for proper testing”."
+  },
+  {
+   "s": "maccabee",
+   "p": "occupation",
+   "v": "US Navy optics expert and ufologist",
+   "quote": "Bruce Maccabee, a US Navy optics expert and ufologist, concluded that the photograph was “too grainy for proper testing”."
+  },
+  {
+   "s": "maccabee",
+   "p": "statement",
+   "v": "the photograph was too grainy for proper testing",
+   "quote": "Bruce Maccabee, a US Navy optics expert and ufologist, concluded that the photograph was “too grainy for proper testing”."
+  },
+  {
+   "s": "redfern",
+   "p": "commentator",
+   "o": "case",
+   "quote": "According to ufologist Nick Redfern, Spencer was hassled by the Ministry of Defence a few days after the incident on the moor."
+  },
+  {
+   "s": "redfern",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "According to ufologist Nick Redfern, Spencer was hassled by the Ministry of Defence a few days after the incident on the moor."
+  },
+  {
+   "s": "mod",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "According to ufologist Nick Redfern, Spencer was hassled by the Ministry of Defence a few days after the incident on the moor."
+  },
+  {
+   "s": "f_men_in_black",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "He says that they opened a file on Spencer and sent two men in black to his home to intimidate him into silence."
+  },
+  {
+   "s": "redfern",
+   "p": "statement",
+   "v": "the Ministry of Defence opened a file on Spencer and sent two men in black to his home to intimidate him into silence",
+   "quote": "He says that they opened a file on Spencer and sent two men in black to his home to intimidate him into silence."
+  },
+  {
+   "s": "spencer",
+   "p": "later_claim",
+   "v": "experienced strange dreams while the photograph was being examined",
+   "quote": "While the photograph was being examined, Spencer claimed that he experienced strange dreams."
+  },
+  {
+   "s": "f_hypnosis_used",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Following Hough's advice, he attended a session of regressive hypnotherapy."
+  },
+  {
+   "s": "singleton",
+   "p": "hypnotist",
+   "o": "case",
+   "quote": "This was carried out by Jim Singleton on 16 March 1988."
+  },
+  {
+   "s": "case",
+   "p": "hypnosis_date",
+   "v": "1988-03-16",
+   "quote": "This was carried out by Jim Singleton on 16 March 1988."
+  },
+  {
+   "s": "singleton",
+   "p": "statement",
+   "v": "called it a genuine recall",
+   "quote": "Singleton has called it a “genuine recall”."
+  },
+  {
+   "s": "spencer",
+   "p": "account_changed",
+   "v": "original account of the incident changed under hypnosis",
+   "quote": "Under hypnosis, Spencer's original account of the incident changed."
+  },
+  {
+   "s": "f_physiological_effects",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Spencer now recalled that upon seeing the being on the hill, he was instantly paralysed."
+  },
+  {
+   "s": "spencer",
+   "p": "later_claim",
+   "v": "was instantly paralysed upon seeing the being",
+   "quote": "Spencer now recalled that upon seeing the being on the hill, he was instantly paralysed."
+  },
+  {
+   "s": "spencer",
+   "p": "later_claim",
+   "v": "was lifted up a few feet and pulled into the craft",
+   "quote": "He was then lifted up a few feet and pulled into the craft."
+  },
+  {
+   "s": "spencer",
+   "p": "later_claim",
+   "v": "a voice told him to be calm when he entered the craft",
+   "quote": "When he entered the craft, a voice told him to be calm."
+  },
+  {
+   "s": "spencer",
+   "p": "later_claim",
+   "v": "a group of green aliens performed medical experiments on him, inserting items into his nose and mouth",
+   "quote": "A group of green aliens then performed medical experiments on him, inserting items into his nose and mouth."
+  },
+  {
+   "s": "spencer",
+   "p": "later_claim",
+   "v": "was given a tour of the craft and shown a film of apocalyptic imagery including nuclear explosions, famines, and floods",
+   "quote": "The film showed apocalyptic imagery, including nuclear explosions, famines, and floods."
+  },
+  {
+   "s": "spencer",
+   "p": "later_claim",
+   "v": "was shown a second film whose contents he has never revealed, saying the aliens do not want humanity to know",
+   "quote": "He has never revealed the contents of the second film, saying that the aliens who abducted him do not want humanity to know."
+  },
+  {
+   "s": "spencer",
+   "p": "later_claim",
+   "v": "was returned to Ilkley Moor, where he then took the photograph",
+   "quote": "Following this, Spencer was returned to Ilkley Moor, where he then took the famous photograph."
+  },
+  {
+   "s": "spencer",
+   "p": "later_claim",
+   "v": "the alien was waving goodbye to him, not telling him to stay away",
+   "quote": "He claimed that the alien was actually waving goodbye to him, not telling him to stay away, as in his original account."
+  },
+  {
+   "s": "pope",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Nick Pope, a journalist who previously worked at the ‘UFO desk’ of the Ministry of Defence, included this event in a 2011 list of \"Top 10 UFO incidents in the UK\"."
+  },
+  {
+   "s": "pope",
+   "p": "employed_by",
+   "o": "mod",
+   "quote": "Nick Pope, a journalist who previously worked at the ‘UFO desk’ of the Ministry of Defence, included this event in a 2011 list of \"Top 10 UFO incidents in the UK\"."
+  },
+  {
+   "s": "pope",
+   "p": "occupation",
+   "v": "journalist; previously worked at the 'UFO desk' of the Ministry of Defence",
+   "quote": "Nick Pope, a journalist who previously worked at the ‘UFO desk’ of the Ministry of Defence, included this event in a 2011 list of \"Top 10 UFO incidents in the UK\"."
+  },
+  {
+   "s": "pope",
+   "p": "authored",
+   "o": "top10",
+   "quote": "Nick Pope, a journalist who previously worked at the ‘UFO desk’ of the Ministry of Defence, included this event in a 2011 list of \"Top 10 UFO incidents in the UK\"."
+  },
+  {
+   "s": "top10",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Nick Pope, a journalist who previously worked at the ‘UFO desk’ of the Ministry of Defence, included this event in a 2011 list of \"Top 10 UFO incidents in the UK\"."
+  },
+  {
+   "s": "top10",
+   "p": "year",
+   "v": "2011",
+   "quote": "Nick Pope, a journalist who previously worked at the ‘UFO desk’ of the Ministry of Defence, included this event in a 2011 list of \"Top 10 UFO incidents in the UK\"."
+  },
+  {
+   "s": "case",
+   "p": "reputation",
+   "v": "one of the UK's most famous UFO sightings; cited as one of the most persuasive UFO incidents",
+   "quote": "It has been cited as one of the most persuasive UFO incidents to ever occur."
+  },
+  {
+   "s": "f_hoax_alleged",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Sceptics have claimed that the whole incident is a hoax."
+  },
+  {
+   "s": "x_hoax",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Sceptics have claimed that the whole incident is a hoax."
+  },
+  {
+   "s": "case",
+   "p": "sceptic_argument",
+   "v": "the photograph is so blurry that it is far from proof of any alien visitors",
+   "quote": "They have said that the photograph is so blurry that it is far from proof of any alien visitors to Earth."
+  },
+  {
+   "s": "case",
+   "p": "sceptic_argument",
+   "v": "the 'alien' in the photograph could easily be a man or a cardboard cut-out",
+   "quote": "They have argued that the “alien” in the photograph could easily be a man or a cardboard cut-out."
+  },
+  {
+   "s": "case",
+   "p": "sceptic_argument",
+   "v": "asked why Spencer did not photograph the craft, which would be more difficult to fake",
+   "quote": "Sceptics have also asked why Spencer did not take a photograph of the craft, noting that such a photograph would be more difficult to fake."
+  },
+  {
+   "s": "compass",
+   "p": "sceptic_argument",
+   "v": "it is easy to manually wreck compasses",
+   "quote": "Sceptics have also dismissed the supposed physical evidence of the broken compass, saying that it is easy to manually wreck compasses."
+  }
+ ]
+}

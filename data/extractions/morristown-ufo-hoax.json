@@ -1,0 +1,2020 @@
+{
+ "slug": "morristown-ufo-hoax",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Morristown UFO hoax",
+   "aliases": [
+    "2009 Morristown UFO hoax",
+    "Morristown UFO",
+    "Morristown sightings"
+   ],
+   "description": "Series of red-light sightings over Morris County, New Jersey in January-February 2009, revealed as a hoax using flares on helium balloons."
+  },
+  {
+   "key": "rudy",
+   "type": "person",
+   "name": "Joe Rudy",
+   "aliases": [
+    "Rudy"
+   ],
+   "description": "Co-perpetrator of the hoax"
+  },
+  {
+   "key": "russo",
+   "type": "person",
+   "name": "Chris Russo",
+   "aliases": [
+    "Russo"
+   ],
+   "description": "Co-perpetrator of the hoax"
+  },
+  {
+   "key": "lights",
+   "type": "craft",
+   "name": "Floating red lights over Morris County",
+   "aliases": [
+    "red lights",
+    "the Morristown UFO"
+   ],
+   "description": "Red lights (flares on helium balloons) seen on five nights"
+  },
+  {
+   "key": "morristown",
+   "type": "place",
+   "name": "Morristown, New Jersey",
+   "aliases": [
+    "Morristown"
+   ]
+  },
+  {
+   "key": "morris_county",
+   "type": "place",
+   "name": "Morris County, New Jersey",
+   "aliases": [
+    "Morris County, NJ",
+    "Morris County"
+   ]
+  },
+  {
+   "key": "hanover",
+   "type": "place",
+   "name": "Hanover Township, New Jersey",
+   "aliases": [
+    "Hanover Township",
+    "Hanover"
+   ]
+  },
+  {
+   "key": "morris_plains",
+   "type": "place",
+   "name": "Morris Plains, New Jersey",
+   "aliases": [
+    "Morris Plains"
+   ]
+  },
+  {
+   "key": "madison",
+   "type": "place",
+   "name": "Madison, New Jersey",
+   "aliases": [
+    "Madison"
+   ]
+  },
+  {
+   "key": "florham",
+   "type": "place",
+   "name": "Florham Park, New Jersey",
+   "aliases": [
+    "Florham Park"
+   ]
+  },
+  {
+   "key": "morris_twp",
+   "type": "place",
+   "name": "Morris Township, New Jersey",
+   "aliases": [
+    "Morris Township"
+   ]
+  },
+  {
+   "key": "denville",
+   "type": "place",
+   "name": "Denville, New Jersey",
+   "aliases": [
+    "Denville"
+   ]
+  },
+  {
+   "key": "parsippany",
+   "type": "place",
+   "name": "Parsippany, New Jersey",
+   "aliases": [
+    "Parsippany"
+   ]
+  },
+  {
+   "key": "montville",
+   "type": "place",
+   "name": "Montville, New Jersey",
+   "aliases": [
+    "Montville"
+   ]
+  },
+  {
+   "key": "nj",
+   "type": "place",
+   "name": "New Jersey",
+   "aliases": [
+    "NJ"
+   ]
+  },
+  {
+   "key": "hanover_ave",
+   "type": "place",
+   "name": "Hanover Avenue",
+   "aliases": [
+    "Hanover"
+   ]
+  },
+  {
+   "key": "route80",
+   "type": "place",
+   "name": "Route 80"
+  },
+  {
+   "key": "airport",
+   "type": "place",
+   "name": "Morristown Airport"
+  },
+  {
+   "key": "newark",
+   "type": "place",
+   "name": "Newark Liberty International Airport"
+  },
+  {
+   "key": "hanover_pd",
+   "type": "organization",
+   "name": "Hanover Township Police Department",
+   "aliases": [
+    "Hanover Township police department",
+    "Hanover Township police"
+   ]
+  },
+  {
+   "key": "morristown_pd",
+   "type": "organization",
+   "name": "Morristown Police Department",
+   "aliases": [
+    "Morristown police department",
+    "Morristown Police"
+   ]
+  },
+  {
+   "key": "cullen",
+   "type": "person",
+   "name": "James Cullen",
+   "aliases": [
+    "Lt. Jim Cullen",
+    "Jim Cullen",
+    "Lt. James Cullen"
+   ],
+   "description": "Morristown Police lieutenant"
+  },
+  {
+   "key": "bergen",
+   "type": "organization",
+   "name": "Bergen Record"
+  },
+  {
+   "key": "mufon",
+   "type": "organization",
+   "name": "Mutual UFO Network",
+   "aliases": [
+    "MUFON"
+   ]
+  },
+  {
+   "key": "news12",
+   "type": "organization",
+   "name": "News 12 New Jersey",
+   "aliases": [
+    "News 12 NJ"
+   ]
+  },
+  {
+   "key": "kristin",
+   "type": "person",
+   "name": "Kristin Hurley",
+   "description": "11-year-old who first noticed the lights"
+  },
+  {
+   "key": "paul_h",
+   "type": "person",
+   "name": "Paul Hurley",
+   "aliases": [
+    "Hurley"
+   ],
+   "description": "Pilot who saw the lights from his home"
+  },
+  {
+   "key": "hurley_video",
+   "type": "document",
+   "name": "Hurley family video of the lights"
+  },
+  {
+   "key": "fox",
+   "type": "organization",
+   "name": "Fox News"
+  },
+  {
+   "key": "hoax_videos",
+   "type": "document",
+   "name": "Rudy and Russo videos and still photos of the lights",
+   "aliases": [
+    "Rudy and Russo's video"
+   ]
+  },
+  {
+   "key": "daily_record",
+   "type": "organization",
+   "name": "Daily Record",
+   "aliases": [
+    "Morris County newspaper Daily Record"
+   ]
+  },
+  {
+   "key": "davenport",
+   "type": "person",
+   "name": "Peter Davenport",
+   "aliases": [
+    "Davenport"
+   ],
+   "description": "Director of the National UFO Reporting Center"
+  },
+  {
+   "key": "nuforc",
+   "type": "organization",
+   "name": "National UFO Reporting Center"
+  },
+  {
+   "key": "faa",
+   "type": "organization",
+   "name": "Federal Aviation Administration",
+   "aliases": [
+    "FAA"
+   ]
+  },
+  {
+   "key": "jpaul",
+   "type": "person",
+   "name": "Jeff Paul",
+   "aliases": [
+    "Capt. Jeff Paul",
+    "Paul"
+   ],
+   "description": "Spokesman for the Morris County Prosecutor"
+  },
+  {
+   "key": "bianchi",
+   "type": "person",
+   "name": "Robert A. Bianchi",
+   "aliases": [
+    "Robert Bianchi",
+    "Bianchi"
+   ],
+   "description": "Morris County Prosecutor"
+  },
+  {
+   "key": "prosecutor",
+   "type": "organization",
+   "name": "Morris County Prosecutor's Office",
+   "aliases": [
+    "Morris County prosecutor's office",
+    "The prosecutor's office"
+   ]
+  },
+  {
+   "key": "dispatch",
+   "type": "organization",
+   "name": "Morris County Communications Dispatch center"
+  },
+  {
+   "key": "ohsp",
+   "type": "organization",
+   "name": "Office of Homeland Security and Preparedness"
+  },
+  {
+   "key": "roic",
+   "type": "organization",
+   "name": "New Jersey State Police Regional Operations Intelligence Center"
+  },
+  {
+   "key": "vicente",
+   "type": "person",
+   "name": "Dorian Vicente",
+   "description": "Witness on Route 80 on February 17"
+  },
+  {
+   "key": "vargas",
+   "type": "person",
+   "name": "Ray Vargas",
+   "description": "Witness to the lights on February 17"
+  },
+  {
+   "key": "skeptic_mag",
+   "type": "organization",
+   "name": "Skeptic Magazine"
+  },
+  {
+   "key": "article",
+   "type": "work",
+   "name": "Rudy and Russo article revealing the hoax (Skeptic Magazine)"
+  },
+  {
+   "key": "rec",
+   "type": "organization",
+   "name": "Hanover Recreation Commission"
+  },
+  {
+   "key": "newsweek",
+   "type": "organization",
+   "name": "Newsweek"
+  },
+  {
+   "key": "begley",
+   "type": "person",
+   "name": "Sharon Begley",
+   "description": "Newsweek writer"
+  },
+  {
+   "key": "filer",
+   "type": "person",
+   "name": "George Filer",
+   "description": "State director for the Mutual UFO Network of New Jersey"
+  },
+  {
+   "key": "cfi",
+   "type": "organization",
+   "name": "Center for Inquiry"
+  },
+  {
+   "key": "ufo_hunters",
+   "type": "work",
+   "name": "UFO Hunters",
+   "description": "American documentary television series"
+  },
+  {
+   "key": "birnes",
+   "type": "person",
+   "name": "Bill Birnes",
+   "description": "Host of UFO Hunters"
+  },
+  {
+   "key": "trutv",
+   "type": "organization",
+   "name": "truTV"
+  },
+  {
+   "key": "best_hoaxes",
+   "type": "work",
+   "name": "Best Hoaxes Ever",
+   "description": "truTV show recounting famous internet claims and hoaxes"
+  },
+  {
+   "key": "vice",
+   "type": "organization",
+   "name": "Vice Media"
+  },
+  {
+   "key": "ffs",
+   "type": "work",
+   "name": "Fakes, Frauds and Scammers",
+   "description": "Vice Media series"
+  },
+  {
+   "key": "ffs_ep",
+   "type": "work",
+   "name": "How We Staged a UFO Hoax",
+   "description": "Episode of Fakes, Frauds and Scammers narrated by Rudy and Russo"
+  },
+  {
+   "key": "f0",
+   "type": "feature",
+   "name": "lights-only"
+  },
+  {
+   "key": "f1",
+   "type": "feature",
+   "name": "hoax-confessed"
+  },
+  {
+   "key": "f2",
+   "type": "feature",
+   "name": "hoax-alleged"
+  },
+  {
+   "key": "f3",
+   "type": "feature",
+   "name": "film-or-video"
+  },
+  {
+   "key": "f4",
+   "type": "feature",
+   "name": "photograph"
+  },
+  {
+   "key": "f5",
+   "type": "feature",
+   "name": "multiple-witnesses"
+  },
+  {
+   "key": "f6",
+   "type": "feature",
+   "name": "pilot-witnesses"
+  },
+  {
+   "key": "f7",
+   "type": "feature",
+   "name": "child-witnesses"
+  },
+  {
+   "key": "f8",
+   "type": "feature",
+   "name": "official-investigation"
+  },
+  {
+   "key": "f9",
+   "type": "feature",
+   "name": "other:objects in formation"
+  },
+  {
+   "key": "f10",
+   "type": "feature",
+   "name": "other:sighting-wave"
+  },
+  {
+   "key": "x_hoax",
+   "type": "explanation",
+   "name": "hoax"
+  },
+  {
+   "key": "x_flares",
+   "type": "explanation",
+   "name": "flares"
+  },
+  {
+   "key": "x_balloon",
+   "type": "explanation",
+   "name": "balloon"
+  },
+  {
+   "key": "x_aircraft",
+   "type": "explanation",
+   "name": "conventional-aircraft"
+  },
+  {
+   "key": "x_mil",
+   "type": "explanation",
+   "name": "military-test-or-exercise"
+  },
+  {
+   "key": "x_lanterns",
+   "type": "explanation",
+   "name": "other:sky lanterns"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "2009-01-05",
+   "quote": "The 2009 Morristown UFO hoax was a series of aerial events involving mysterious floating red lights in the sky, that first occurred near Morristown, New Jersey, on Monday, January 5, 2009, between 8:15 pm and 9:00 pm."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "2009-02-17",
+   "quote": "The red lights were later observed on four other nights: January 26, January 29, February 7, and February 17, 2009."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "8:15 pm",
+   "quote": "The 2009 Morristown UFO hoax was a series of aerial events involving mysterious floating red lights in the sky, that first occurred near Morristown, New Jersey, on Monday, January 5, 2009, between 8:15 pm and 9:00 pm."
+  },
+  {
+   "s": "case",
+   "p": "time_window",
+   "v": "between 8:15 pm and 9:00 pm",
+   "quote": "The 2009 Morristown UFO hoax was a series of aerial events involving mysterious floating red lights in the sky, that first occurred near Morristown, New Jersey, on Monday, January 5, 2009, between 8:15 pm and 9:00 pm."
+  },
+  {
+   "s": "case",
+   "p": "day_of_week",
+   "v": "Monday",
+   "quote": "The 2009 Morristown UFO hoax was a series of aerial events involving mysterious floating red lights in the sky, that first occurred near Morristown, New Jersey, on Monday, January 5, 2009, between 8:15 pm and 9:00 pm."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "The 2009 Morristown UFO hoax was a series of aerial events involving mysterious floating red lights in the sky, that first occurred near Morristown, New Jersey, on Monday, January 5, 2009, between 8:15 pm and 9:00 pm."
+  },
+  {
+   "s": "case",
+   "p": "sighting_dates",
+   "v": "January 5, January 26, January 29, February 7, and February 17, 2009",
+   "quote": "The red lights were later observed on four other nights: January 26, January 29, February 7, and February 17, 2009."
+  },
+  {
+   "s": "case",
+   "p": "number_of_nights",
+   "v": "5",
+   "quote": "The red lights were later observed on four other nights: January 26, January 29, February 7, and February 17, 2009."
+  },
+  {
+   "s": "case",
+   "p": "subsequent_hoax_dates",
+   "v": "January 26, January 29, February 7, and February 17",
+   "quote": "The subsequent hoaxes and sightings took place on January 26, January 29, February 7, and February 17."
+  },
+  {
+   "s": "case",
+   "p": "hoax_repeated",
+   "v": "four more times over various parts of Morris County",
+   "quote": "After the initial January 5 incident, Rudy and Russo built up the media attention by repeating the hoax four more times over various parts of Morris County, NJ."
+  },
+  {
+   "s": "case",
+   "p": "hoax_revealed_date",
+   "v": "2009-04-01",
+   "quote": "On April 1, 2009, Rudy and Russo came forward with video evidence proving they were the perpetrators of this hoax, demonstrating how easy it is to fool the so-called UFO \"experts\"."
+  },
+  {
+   "s": "case",
+   "p": "hoax_revealed_date",
+   "v": "2009-04-01",
+   "quote": "On April 1, 2009, Rudy and Russo went public announcing that they had perpetrated this hoax to \"show everyone how unreliable eyewitness accounts are, along with investigators of UFOs\"."
+  },
+  {
+   "s": "case",
+   "p": "hoax_purpose",
+   "v": "social experiment to expose ufology as a pseudoscience and raise consciousness about unreliability of eyewitness claims",
+   "quote": "Rudy and Russo have described the hoax as a social experiment, with the ambition of exposing \"ufology\" as a pseudoscience and raising consciousness around unreliability of eyewitness claims."
+  },
+  {
+   "s": "case",
+   "p": "hoax_purpose",
+   "v": "show everyone how unreliable eyewitness accounts are, along with investigators of UFOs",
+   "quote": "On April 1, 2009, Rudy and Russo went public announcing that they had perpetrated this hoax to \"show everyone how unreliable eyewitness accounts are, along with investigators of UFOs\"."
+  },
+  {
+   "s": "case",
+   "p": "first_911_call_time",
+   "v": "8:28 pm on January 5, 2009",
+   "quote": "On January 5, 2009, at 8:28 pm, the Hanover Township police department received the first of several 9-1-1 calls."
+  },
+  {
+   "s": "case",
+   "p": "emergency_calls",
+   "v": "Neighboring police departments also received numerous phone calls",
+   "quote": "Neighboring police departments also received numerous phone calls in regard to the strange lights."
+  },
+  {
+   "s": "case",
+   "p": "airport_tower_observation",
+   "v": "control tower workers saw the lights but could not determine what they were",
+   "quote": "Airport control tower workers reported seeing the lights in the sky, but could not determine what they were."
+  },
+  {
+   "s": "case",
+   "p": "radar_result",
+   "v": "Morristown Airport was unable to pick up anything on radar",
+   "quote": "Hanover Township police also contacted the Morristown Airport to try to pick up the objects on radar, but they were unable to pick up anything."
+  },
+  {
+   "s": "case",
+   "p": "media_coverage",
+   "v": "Major and local news networks covered the story",
+   "quote": "Major and local news networks covered the story, and websites, including the Mutual UFO Network (MUFON), posted information about the incident."
+  },
+  {
+   "s": "case",
+   "p": "guilty_plea_date",
+   "v": "2009-04-07",
+   "quote": "On April 7, 2009, Russo and Rudy pleaded guilty to municipal ordinance charges of disorderly conduct and were sentenced to fines of $250 and 50 hours of community service."
+  },
+  {
+   "s": "case",
+   "p": "charge",
+   "v": "municipal ordinance charges of disorderly conduct",
+   "quote": "On April 7, 2009, Russo and Rudy pleaded guilty to municipal ordinance charges of disorderly conduct and were sentenced to fines of $250 and 50 hours of community service."
+  },
+  {
+   "s": "case",
+   "p": "sentence",
+   "v": "fines of $250 and 50 hours of community service",
+   "quote": "On April 7, 2009, Russo and Rudy pleaded guilty to municipal ordinance charges of disorderly conduct and were sentenced to fines of $250 and 50 hours of community service."
+  },
+  {
+   "s": "case",
+   "p": "sentence",
+   "v": "fine of $250 each and 50 hours of community service at the Hanover Recreation Commission",
+   "quote": "The defendants plea-bargained and received a sentence fine of $250 each and 50 hours of community service at the Hanover Recreation Commission."
+  },
+  {
+   "s": "case",
+   "p": "witness_report",
+   "v": "A family in Hanover Township reported seeing the lights from their home",
+   "quote": "A family in Hanover Township reported seeing the lights from their home."
+  },
+  {
+   "s": "case",
+   "p": "witness_report",
+   "v": "A Morristown resident saw an L-shaped formation oscillating in the sky",
+   "quote": "A Morristown resident said that he saw an L-shaped formation oscillating in the sky."
+  },
+  {
+   "s": "case",
+   "p": "witness_statement",
+   "v": "what he saw \"didn't seem man-made\"; \"No way this could have been weather balloons.\"",
+   "quote": "The man was interviewed by the Morris County newspaper Daily Record and stated that, what he saw \"didn't seem man-made\" and, \"No way this could have been weather balloons.\""
+  },
+  {
+   "s": "case",
+   "p": "witness_report",
+   "v": "Hanover Township's health officer saw the lights while walking his dog in Madison at 8:38 pm",
+   "quote": "Hanover Township's health officer said that he saw the lights while walking his dog in Madison at 8:38 pm."
+  },
+  {
+   "s": "case",
+   "p": "witness_statement",
+   "v": "lights did not appear to be flares because they \"did not leave trails\"",
+   "quote": "He stated the lights did not appear to be flares because they \"did not leave trails\"."
+  },
+  {
+   "s": "case",
+   "p": "witness_statement",
+   "v": "lights sometimes appeared to move against the wind",
+   "quote": "He also said that they sometimes appeared to move against the wind."
+  },
+  {
+   "s": "case",
+   "p": "witness_statement",
+   "v": "These things were moving fast, holding formation, and then moving in three different directions; I don't know what it was.",
+   "quote": "He was quoted as saying \"These things were moving fast, holding formation, and then moving in three different directions; I don't know what it was.\""
+  },
+  {
+   "s": "case",
+   "p": "initial_explanations",
+   "v": "extraterrestrial craft, supernatural and/or spiritual phenomena, helicopters carrying cargo, a surveillance blimp, a secret military project, or an elaborate hoax",
+   "quote": "These included extraterrestrial craft, supernatural and/or spiritual phenomena, helicopters carrying cargo, a surveillance blimp, a secret military project, or an elaborate hoax."
+  },
+  {
+   "s": "case",
+   "p": "largest_cluster_date",
+   "v": "2009-02-17",
+   "quote": "The largest cluster of lights occurred on February 17."
+  },
+  {
+   "s": "case",
+   "p": "emergency_calls",
+   "v": "\"numerous\" 911 calls on the evening of February 17",
+   "quote": "Paul said “numerous” 911 calls were received on the evening of February 17 in Morris Plains, Morristown, Morris Township, Hanover, Denville, Parsippany, Montville and the Morris County Communications Dispatch center."
+  },
+  {
+   "s": "case",
+   "p": "federal_concern",
+   "v": "objects might be a threat to flights on final approach to Newark Liberty International Airport",
+   "quote": "Shortly after that sighting, Capt. Jeff Paul, a spokesman for Morris County Prosecutor Robert A. Bianchi, said that federal authorities have expressed concern that the objects might be a threat to flights on their final approach to Newark Liberty International Airport."
+  },
+  {
+   "s": "case",
+   "p": "military_check",
+   "v": "prosecutor's office called the military and determined that no military flights were in the area",
+   "quote": "Officials with the Morris County prosecutor's office called the military and determined that no military flights were in the area, Paul said."
+  },
+  {
+   "s": "case",
+   "p": "traffic_effect",
+   "v": "lights caused traffic to slow on Route 80 in Denville at 8:40 p.m.",
+   "quote": "Dorian Vicente, 46, of Parsippany, said the lights caused traffic to slow on Route 80 in Denville at 8:40 p.m. as people watched them floating overhead."
+  },
+  {
+   "s": "case",
+   "p": "reactions",
+   "v": "mixed",
+   "quote": "Reactions were mixed about the hoax after Rudy and Russo revealed the details."
+  },
+  {
+   "s": "rudy",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "The events were later revealed to be a hoax, perpetrated by Joe Rudy and Chris Russo."
+  },
+  {
+   "s": "rudy",
+   "p": "role",
+   "v": "perpetrator of the hoax",
+   "quote": "The events were later revealed to be a hoax, perpetrated by Joe Rudy and Chris Russo."
+  },
+  {
+   "s": "rudy",
+   "p": "statement",
+   "v": "described the hoax as a social experiment",
+   "quote": "Rudy and Russo have described the hoax as a social experiment, with the ambition of exposing \"ufology\" as a pseudoscience and raising consciousness around unreliability of eyewitness claims."
+  },
+  {
+   "s": "rudy",
+   "p": "action",
+   "v": "released five flare lights attached to helium balloons",
+   "quote": "Five flare lights attached to helium balloons were released by Rudy and Russo and seen in the skies above Morris County, New Jersey."
+  },
+  {
+   "s": "rudy",
+   "p": "action",
+   "v": "came forward on April 1, 2009 with video evidence proving they were the perpetrators",
+   "quote": "On April 1, 2009, Rudy and Russo came forward with video evidence proving they were the perpetrators of this hoax, demonstrating how easy it is to fool the so-called UFO \"experts\"."
+  },
+  {
+   "s": "rudy",
+   "p": "pleaded_guilty",
+   "v": "disorderly conduct, April 7, 2009",
+   "quote": "On April 7, 2009, Russo and Rudy pleaded guilty to municipal ordinance charges of disorderly conduct and were sentenced to fines of $250 and 50 hours of community service."
+  },
+  {
+   "s": "rudy",
+   "p": "sentence",
+   "v": "$250 fine and 50 hours of community service",
+   "quote": "The defendants plea-bargained and received a sentence fine of $250 each and 50 hours of community service at the Hanover Recreation Commission."
+  },
+  {
+   "s": "rudy",
+   "p": "claimed_sighting",
+   "v": "claimed to see the lights while driving on Hanover Avenue in Morris Plains",
+   "quote": "Two men from the Morristown area claimed to see the lights while driving on Hanover Avenue in Morris Plains."
+  },
+  {
+   "s": "rudy",
+   "p": "action",
+   "v": "recorded several videos and still photos of the event",
+   "quote": "They recorded several videos and still photos of the event, which have been posted on news stations, websites, blogs, and YouTube."
+  },
+  {
+   "s": "rudy",
+   "p": "action",
+   "v": "gave a fictitious account of their sighting on News 12 New Jersey",
+   "quote": "Rudy and Russo were interviewed on News 12 New Jersey, where they offered what would later be revealed to be a fictitious account of their sighting."
+  },
+  {
+   "s": "rudy",
+   "p": "action",
+   "v": "repeated the hoax four more times",
+   "quote": "After the initial January 5 incident, Rudy and Russo built up the media attention by repeating the hoax four more times over various parts of Morris County, NJ."
+  },
+  {
+   "s": "rudy",
+   "p": "authored",
+   "o": "article",
+   "quote": "The reveal came in the form of an article written by the two men, and published online by Skeptic Magazine."
+  },
+  {
+   "s": "rudy",
+   "p": "action",
+   "v": "narrated the episode \"How We Staged a UFO Hoax\"",
+   "quote": "The episode, entitled \"How We Staged a UFO Hoax\", was narrated by Rudy and Russo."
+  },
+  {
+   "s": "rudy",
+   "p": "residence",
+   "v": "Morristown area",
+   "quote": "Two men from the Morristown area claimed to see the lights while driving on Hanover Avenue in Morris Plains."
+  },
+  {
+   "s": "russo",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "The events were later revealed to be a hoax, perpetrated by Joe Rudy and Chris Russo."
+  },
+  {
+   "s": "russo",
+   "p": "role",
+   "v": "perpetrator of the hoax",
+   "quote": "The events were later revealed to be a hoax, perpetrated by Joe Rudy and Chris Russo."
+  },
+  {
+   "s": "russo",
+   "p": "statement",
+   "v": "described the hoax as a social experiment",
+   "quote": "Rudy and Russo have described the hoax as a social experiment, with the ambition of exposing \"ufology\" as a pseudoscience and raising consciousness around unreliability of eyewitness claims."
+  },
+  {
+   "s": "russo",
+   "p": "action",
+   "v": "released five flare lights attached to helium balloons",
+   "quote": "Five flare lights attached to helium balloons were released by Rudy and Russo and seen in the skies above Morris County, New Jersey."
+  },
+  {
+   "s": "russo",
+   "p": "action",
+   "v": "came forward on April 1, 2009 with video evidence proving they were the perpetrators",
+   "quote": "On April 1, 2009, Rudy and Russo came forward with video evidence proving they were the perpetrators of this hoax, demonstrating how easy it is to fool the so-called UFO \"experts\"."
+  },
+  {
+   "s": "russo",
+   "p": "pleaded_guilty",
+   "v": "disorderly conduct, April 7, 2009",
+   "quote": "On April 7, 2009, Russo and Rudy pleaded guilty to municipal ordinance charges of disorderly conduct and were sentenced to fines of $250 and 50 hours of community service."
+  },
+  {
+   "s": "russo",
+   "p": "sentence",
+   "v": "$250 fine and 50 hours of community service",
+   "quote": "The defendants plea-bargained and received a sentence fine of $250 each and 50 hours of community service at the Hanover Recreation Commission."
+  },
+  {
+   "s": "russo",
+   "p": "claimed_sighting",
+   "v": "claimed to see the lights while driving on Hanover Avenue in Morris Plains",
+   "quote": "Two men from the Morristown area claimed to see the lights while driving on Hanover Avenue in Morris Plains."
+  },
+  {
+   "s": "russo",
+   "p": "action",
+   "v": "recorded several videos and still photos of the event",
+   "quote": "They recorded several videos and still photos of the event, which have been posted on news stations, websites, blogs, and YouTube."
+  },
+  {
+   "s": "russo",
+   "p": "action",
+   "v": "gave a fictitious account of their sighting on News 12 New Jersey",
+   "quote": "Rudy and Russo were interviewed on News 12 New Jersey, where they offered what would later be revealed to be a fictitious account of their sighting."
+  },
+  {
+   "s": "russo",
+   "p": "action",
+   "v": "repeated the hoax four more times",
+   "quote": "After the initial January 5 incident, Rudy and Russo built up the media attention by repeating the hoax four more times over various parts of Morris County, NJ."
+  },
+  {
+   "s": "russo",
+   "p": "authored",
+   "o": "article",
+   "quote": "The reveal came in the form of an article written by the two men, and published online by Skeptic Magazine."
+  },
+  {
+   "s": "russo",
+   "p": "action",
+   "v": "narrated the episode \"How We Staged a UFO Hoax\"",
+   "quote": "The episode, entitled \"How We Staged a UFO Hoax\", was narrated by Rudy and Russo."
+  },
+  {
+   "s": "russo",
+   "p": "residence",
+   "v": "Morristown area",
+   "quote": "Two men from the Morristown area claimed to see the lights while driving on Hanover Avenue in Morris Plains."
+  },
+  {
+   "s": "rudy",
+   "p": "colleague_of",
+   "o": "russo",
+   "quote": "The events were later revealed to be a hoax, perpetrated by Joe Rudy and Chris Russo."
+  },
+  {
+   "s": "russo",
+   "p": "statement",
+   "v": "We were driving on Hanover, when all of a sudden we see these lights literally zip over our car.",
+   "quote": "In the interview, Russo stated, \"We were driving on Hanover, when all of a sudden we see these lights literally zip over our car.\""
+  },
+  {
+   "s": "rudy",
+   "p": "statement",
+   "v": "The lights seemed to ascend and descend almost in a sequence. They would rise up slowly and dip down.",
+   "quote": "Rudy stated, \"The lights seemed to ascend and descend almost in a sequence. They would rise up slowly and dip down.\""
+  },
+  {
+   "s": "lights",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "The 2009 Morristown UFO hoax was a series of aerial events involving mysterious floating red lights in the sky, that first occurred near Morristown, New Jersey, on Monday, January 5, 2009, between 8:15 pm and 9:00 pm."
+  },
+  {
+   "s": "lights",
+   "p": "color",
+   "v": "red",
+   "quote": "The 2009 Morristown UFO hoax was a series of aerial events involving mysterious floating red lights in the sky, that first occurred near Morristown, New Jersey, on Monday, January 5, 2009, between 8:15 pm and 9:00 pm."
+  },
+  {
+   "s": "lights",
+   "p": "motion",
+   "v": "floating",
+   "quote": "The 2009 Morristown UFO hoax was a series of aerial events involving mysterious floating red lights in the sky, that first occurred near Morristown, New Jersey, on Monday, January 5, 2009, between 8:15 pm and 9:00 pm."
+  },
+  {
+   "s": "lights",
+   "p": "count",
+   "v": "5 (flare lights)",
+   "quote": "Five flare lights attached to helium balloons were released by Rudy and Russo and seen in the skies above Morris County, New Jersey."
+  },
+  {
+   "s": "lights",
+   "p": "count",
+   "v": "9 on February 17",
+   "quote": "Nine red lights were reported to be traveling in formation."
+  },
+  {
+   "s": "lights",
+   "p": "formation",
+   "v": "traveling in formation",
+   "quote": "Nine red lights were reported to be traveling in formation."
+  },
+  {
+   "s": "lights",
+   "p": "formation",
+   "v": "L-shaped formation oscillating",
+   "quote": "A Morristown resident said that he saw an L-shaped formation oscillating in the sky."
+  },
+  {
+   "s": "lights",
+   "p": "formation",
+   "v": "scattered at first, then aligned in a straight line",
+   "quote": "Then she said they aligned in a straight line."
+  },
+  {
+   "s": "lights",
+   "p": "direction",
+   "v": "north",
+   "quote": "The lights appeared to be traveling north, he said, and air traffic controllers at Morristown Airport reported that they appeared to be at an altitude of about 2,500 feet (760 m)."
+  },
+  {
+   "s": "lights",
+   "p": "altitude",
+   "v": "about 2,500 feet (760 m)",
+   "quote": "The lights appeared to be traveling north, he said, and air traffic controllers at Morristown Airport reported that they appeared to be at an altitude of about 2,500 feet (760 m)."
+  },
+  {
+   "s": "lights",
+   "p": "composition",
+   "v": "flare lights attached to helium balloons",
+   "quote": "Five flare lights attached to helium balloons were released by Rudy and Russo and seen in the skies above Morris County, New Jersey."
+  },
+  {
+   "s": "lights",
+   "p": "radar",
+   "v": "not picked up on radar",
+   "quote": "Hanover Township police also contacted the Morristown Airport to try to pick up the objects on radar, but they were unable to pick up anything."
+  },
+  {
+   "s": "rudy",
+   "p": "described",
+   "o": "lights",
+   "quote": "Rudy stated, \"The lights seemed to ascend and descend almost in a sequence. They would rise up slowly and dip down.\""
+  },
+  {
+   "s": "russo",
+   "p": "described",
+   "o": "lights",
+   "quote": "In the interview, Russo stated, \"We were driving on Hanover, when all of a sudden we see these lights literally zip over our car.\""
+  },
+  {
+   "s": "morristown",
+   "p": "near",
+   "o": "case",
+   "quote": "The 2009 Morristown UFO hoax was a series of aerial events involving mysterious floating red lights in the sky, that first occurred near Morristown, New Jersey, on Monday, January 5, 2009, between 8:15 pm and 9:00 pm."
+  },
+  {
+   "s": "morris_county",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Five flare lights attached to helium balloons were released by Rudy and Russo and seen in the skies above Morris County, New Jersey."
+  },
+  {
+   "s": "hanover",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Sighting reports were concentrated in the towns of Hanover Township, Morristown, Morris Plains, Madison, and Florham Park."
+  },
+  {
+   "s": "morris_plains",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Sighting reports were concentrated in the towns of Hanover Township, Morristown, Morris Plains, Madison, and Florham Park."
+  },
+  {
+   "s": "madison",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Sighting reports were concentrated in the towns of Hanover Township, Morristown, Morris Plains, Madison, and Florham Park."
+  },
+  {
+   "s": "florham",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Sighting reports were concentrated in the towns of Hanover Township, Morristown, Morris Plains, Madison, and Florham Park."
+  },
+  {
+   "s": "morris_twp",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Paul said “numerous” 911 calls were received on the evening of February 17 in Morris Plains, Morristown, Morris Township, Hanover, Denville, Parsippany, Montville and the Morris County Communications Dispatch center."
+  },
+  {
+   "s": "denville",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Paul said “numerous” 911 calls were received on the evening of February 17 in Morris Plains, Morristown, Morris Township, Hanover, Denville, Parsippany, Montville and the Morris County Communications Dispatch center."
+  },
+  {
+   "s": "parsippany",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Paul said “numerous” 911 calls were received on the evening of February 17 in Morris Plains, Morristown, Morris Township, Hanover, Denville, Parsippany, Montville and the Morris County Communications Dispatch center."
+  },
+  {
+   "s": "montville",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Paul said “numerous” 911 calls were received on the evening of February 17 in Morris Plains, Morristown, Morris Township, Hanover, Denville, Parsippany, Montville and the Morris County Communications Dispatch center."
+  },
+  {
+   "s": "morristown",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Sighting reports were concentrated in the towns of Hanover Township, Morristown, Morris Plains, Madison, and Florham Park."
+  },
+  {
+   "s": "nj",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The 2009 Morristown UFO hoax was a series of aerial events involving mysterious floating red lights in the sky, that first occurred near Morristown, New Jersey, on Monday, January 5, 2009, between 8:15 pm and 9:00 pm."
+  },
+  {
+   "s": "morris_county",
+   "p": "located_in",
+   "o": "nj",
+   "quote": "Five flare lights attached to helium balloons were released by Rudy and Russo and seen in the skies above Morris County, New Jersey."
+  },
+  {
+   "s": "morristown",
+   "p": "located_in",
+   "o": "nj",
+   "quote": "The 2009 Morristown UFO hoax was a series of aerial events involving mysterious floating red lights in the sky, that first occurred near Morristown, New Jersey, on Monday, January 5, 2009, between 8:15 pm and 9:00 pm."
+  },
+  {
+   "s": "morris_plains",
+   "p": "sighting_report",
+   "v": "\"numerous\" 911 calls on February 17",
+   "quote": "Paul said “numerous” 911 calls were received on the evening of February 17 in Morris Plains, Morristown, Morris Township, Hanover, Denville, Parsippany, Montville and the Morris County Communications Dispatch center."
+  },
+  {
+   "s": "hanover_ave",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Two men from the Morristown area claimed to see the lights while driving on Hanover Avenue in Morris Plains."
+  },
+  {
+   "s": "hanover_ave",
+   "p": "located_in",
+   "o": "morris_plains",
+   "quote": "Two men from the Morristown area claimed to see the lights while driving on Hanover Avenue in Morris Plains."
+  },
+  {
+   "s": "route80",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Dorian Vicente, 46, of Parsippany, said the lights caused traffic to slow on Route 80 in Denville at 8:40 p.m. as people watched them floating overhead."
+  },
+  {
+   "s": "route80",
+   "p": "located_in",
+   "o": "denville",
+   "quote": "Dorian Vicente, 46, of Parsippany, said the lights caused traffic to slow on Route 80 in Denville at 8:40 p.m. as people watched them floating overhead."
+  },
+  {
+   "s": "airport",
+   "p": "near",
+   "o": "case",
+   "quote": "Morristown Police Lt. Jim Cullen alerted Morristown Airport about a possible hazard to airplanes."
+  },
+  {
+   "s": "airport",
+   "p": "observation",
+   "v": "control tower workers reported seeing the lights",
+   "quote": "Airport control tower workers reported seeing the lights in the sky, but could not determine what they were."
+  },
+  {
+   "s": "airport",
+   "p": "radar_result",
+   "v": "unable to pick up anything",
+   "quote": "Hanover Township police also contacted the Morristown Airport to try to pick up the objects on radar, but they were unable to pick up anything."
+  },
+  {
+   "s": "airport",
+   "p": "observation",
+   "v": "air traffic controllers reported lights at an altitude of about 2,500 feet",
+   "quote": "The lights appeared to be traveling north, he said, and air traffic controllers at Morristown Airport reported that they appeared to be at an altitude of about 2,500 feet (760 m)."
+  },
+  {
+   "s": "newark",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Shortly after that sighting, Capt. Jeff Paul, a spokesman for Morris County Prosecutor Robert A. Bianchi, said that federal authorities have expressed concern that the objects might be a threat to flights on their final approach to Newark Liberty International Airport."
+  },
+  {
+   "s": "hanover_pd",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On January 5, 2009, at 8:28 pm, the Hanover Township police department received the first of several 9-1-1 calls."
+  },
+  {
+   "s": "hanover_pd",
+   "p": "action",
+   "v": "received the first of several 9-1-1 calls at 8:28 pm",
+   "quote": "On January 5, 2009, at 8:28 pm, the Hanover Township police department received the first of several 9-1-1 calls."
+  },
+  {
+   "s": "hanover_pd",
+   "p": "action",
+   "v": "contacted Morristown Airport to try to pick up the objects on radar",
+   "quote": "Hanover Township police also contacted the Morristown Airport to try to pick up the objects on radar, but they were unable to pick up anything."
+  },
+  {
+   "s": "hanover_pd",
+   "p": "located_in",
+   "o": "hanover",
+   "quote": "On January 5, 2009, at 8:28 pm, the Hanover Township police department received the first of several 9-1-1 calls."
+  },
+  {
+   "s": "morristown_pd",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Morristown police department had stated the lights were most likely road flares attached to helium balloons, although witnesses and many other Morris County residents did not agree with this claim."
+  },
+  {
+   "s": "morristown_pd",
+   "p": "statement",
+   "v": "lights were most likely road flares attached to helium balloons",
+   "quote": "The Morristown police department had stated the lights were most likely road flares attached to helium balloons, although witnesses and many other Morris County residents did not agree with this claim."
+  },
+  {
+   "s": "morristown_pd",
+   "p": "proposed",
+   "o": "x_flares",
+   "quote": "The Morristown police department had stated the lights were most likely road flares attached to helium balloons, although witnesses and many other Morris County residents did not agree with this claim."
+  },
+  {
+   "s": "cullen",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Morristown Police Lt. Jim Cullen alerted Morristown Airport about a possible hazard to airplanes."
+  },
+  {
+   "s": "cullen",
+   "p": "rank",
+   "v": "Lieutenant",
+   "quote": "Morristown Police Lt. Jim Cullen alerted Morristown Airport about a possible hazard to airplanes."
+  },
+  {
+   "s": "cullen",
+   "p": "employed_by",
+   "o": "morristown_pd",
+   "quote": "Morristown Police Lt. Jim Cullen alerted Morristown Airport about a possible hazard to airplanes."
+  },
+  {
+   "s": "cullen",
+   "p": "action",
+   "v": "alerted Morristown Airport about a possible hazard to airplanes",
+   "quote": "Morristown Police Lt. Jim Cullen alerted Morristown Airport about a possible hazard to airplanes."
+  },
+  {
+   "s": "cullen",
+   "p": "statement",
+   "v": "We are reasonably certain, from what we were able to observe, ...that they were red flares attached to a balloon.",
+   "quote": "\"We are reasonably certain, from what we were able to observe,\" Morristown Police Lt. James Cullen told the Bergen Record, \"...that they were red flares attached to a balloon.\""
+  },
+  {
+   "s": "cullen",
+   "p": "proposed",
+   "o": "x_flares",
+   "quote": "\"We are reasonably certain, from what we were able to observe,\" Morristown Police Lt. James Cullen told the Bergen Record, \"...that they were red flares attached to a balloon.\""
+  },
+  {
+   "s": "cullen",
+   "p": "proposed",
+   "o": "x_balloon",
+   "quote": "\"We are reasonably certain, from what we were able to observe,\" Morristown Police Lt. James Cullen told the Bergen Record, \"...that they were red flares attached to a balloon.\""
+  },
+  {
+   "s": "bergen",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "\"We are reasonably certain, from what we were able to observe,\" Morristown Police Lt. James Cullen told the Bergen Record, \"...that they were red flares attached to a balloon.\""
+  },
+  {
+   "s": "bergen",
+   "p": "interviewed",
+   "o": "cullen",
+   "quote": "\"We are reasonably certain, from what we were able to observe,\" Morristown Police Lt. James Cullen told the Bergen Record, \"...that they were red flares attached to a balloon.\""
+  },
+  {
+   "s": "mufon",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Major and local news networks covered the story, and websites, including the Mutual UFO Network (MUFON), posted information about the incident."
+  },
+  {
+   "s": "mufon",
+   "p": "action",
+   "v": "posted information about the incident",
+   "quote": "Major and local news networks covered the story, and websites, including the Mutual UFO Network (MUFON), posted information about the incident."
+  },
+  {
+   "s": "news12",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Rudy and Russo were interviewed on News 12 New Jersey, where they offered what would later be revealed to be a fictitious account of their sighting."
+  },
+  {
+   "s": "news12",
+   "p": "interviewed",
+   "o": "rudy",
+   "quote": "Rudy and Russo were interviewed on News 12 New Jersey, where they offered what would later be revealed to be a fictitious account of their sighting."
+  },
+  {
+   "s": "news12",
+   "p": "interviewed",
+   "o": "russo",
+   "quote": "Rudy and Russo were interviewed on News 12 New Jersey, where they offered what would later be revealed to be a fictitious account of their sighting."
+  },
+  {
+   "s": "news12",
+   "p": "interviewed",
+   "o": "davenport",
+   "quote": "Reporters from News 12 NJ contacted Peter Davenport who has been director of the National UFO Reporting Center since 1994."
+  },
+  {
+   "s": "kristin",
+   "p": "witness",
+   "o": "case",
+   "quote": "An 11-year-old, Kristin Hurley was the first to notice the lights."
+  },
+  {
+   "s": "kristin",
+   "p": "age",
+   "v": "11",
+   "quote": "An 11-year-old, Kristin Hurley was the first to notice the lights."
+  },
+  {
+   "s": "kristin",
+   "p": "statement",
+   "v": "was the first to notice the lights",
+   "quote": "An 11-year-old, Kristin Hurley was the first to notice the lights."
+  },
+  {
+   "s": "paul_h",
+   "p": "witness",
+   "o": "case",
+   "quote": "Paul Hurley, a pilot, saw the lights and said they were not planes."
+  },
+  {
+   "s": "paul_h",
+   "p": "occupation",
+   "v": "pilot",
+   "quote": "Paul Hurley, a pilot, saw the lights and said they were not planes."
+  },
+  {
+   "s": "paul_h",
+   "p": "statement",
+   "v": "said they were not planes",
+   "quote": "Paul Hurley, a pilot, saw the lights and said they were not planes."
+  },
+  {
+   "s": "paul_h",
+   "p": "statement",
+   "v": "I have been in the aviation industry for 20 years and have never seen anything like this, a little scary, little scary.",
+   "quote": "Hurley stated, \"I have been in the aviation industry for 20 years and have never seen anything like this, a little scary, little scary.\""
+  },
+  {
+   "s": "paul_h",
+   "p": "years_in_aviation",
+   "v": "20",
+   "quote": "Hurley stated, \"I have been in the aviation industry for 20 years and have never seen anything like this, a little scary, little scary.\""
+  },
+  {
+   "s": "paul_h",
+   "p": "relative_of",
+   "o": "kristin",
+   "quote": "The Hurley Family took video of the lights, which appeared on several news broadcasts, including cable news networks such as Fox News."
+  },
+  {
+   "s": "paul_h",
+   "p": "residence",
+   "v": "Hanover Township",
+   "quote": "A family in Hanover Township reported seeing the lights from their home."
+  },
+  {
+   "s": "hurley_video",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The Hurley Family took video of the lights, which appeared on several news broadcasts, including cable news networks such as Fox News."
+  },
+  {
+   "s": "hurley_video",
+   "p": "broadcast_on",
+   "v": "several news broadcasts, including cable news networks such as Fox News",
+   "quote": "The Hurley Family took video of the lights, which appeared on several news broadcasts, including cable news networks such as Fox News."
+  },
+  {
+   "s": "fox",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Hurley Family took video of the lights, which appeared on several news broadcasts, including cable news networks such as Fox News."
+  },
+  {
+   "s": "hoax_videos",
+   "p": "key_document",
+   "o": "case",
+   "quote": "They recorded several videos and still photos of the event, which have been posted on news stations, websites, blogs, and YouTube."
+  },
+  {
+   "s": "hoax_videos",
+   "p": "posted_on",
+   "v": "news stations, websites, blogs, and YouTube",
+   "quote": "They recorded several videos and still photos of the event, which have been posted on news stations, websites, blogs, and YouTube."
+  },
+  {
+   "s": "hoax_videos",
+   "p": "content",
+   "v": "videos showing their preparations, the launch, and subsequent media coverage and involvement",
+   "quote": "Rudy and Russo described in detail how and why they perpetrated this hoax, and provided links to videos showing their preparations, the launch, and subsequent media coverage and involvement."
+  },
+  {
+   "s": "rudy",
+   "p": "authored",
+   "o": "hoax_videos",
+   "quote": "They recorded several videos and still photos of the event, which have been posted on news stations, websites, blogs, and YouTube."
+  },
+  {
+   "s": "russo",
+   "p": "authored",
+   "o": "hoax_videos",
+   "quote": "They recorded several videos and still photos of the event, which have been posted on news stations, websites, blogs, and YouTube."
+  },
+  {
+   "s": "daily_record",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The man was interviewed by the Morris County newspaper Daily Record and stated that, what he saw \"didn't seem man-made\" and, \"No way this could have been weather balloons.\""
+  },
+  {
+   "s": "daily_record",
+   "p": "located_in",
+   "o": "morris_county",
+   "quote": "The man was interviewed by the Morris County newspaper Daily Record and stated that, what he saw \"didn't seem man-made\" and, \"No way this could have been weather balloons.\""
+  },
+  {
+   "s": "daily_record",
+   "p": "action",
+   "v": "interviewed a Morristown resident who saw an L-shaped formation",
+   "quote": "The man was interviewed by the Morris County newspaper Daily Record and stated that, what he saw \"didn't seem man-made\" and, \"No way this could have been weather balloons.\""
+  },
+  {
+   "s": "davenport",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Reporters from News 12 NJ contacted Peter Davenport who has been director of the National UFO Reporting Center since 1994."
+  },
+  {
+   "s": "davenport",
+   "p": "occupation",
+   "v": "director of the National UFO Reporting Center since 1994",
+   "quote": "Reporters from News 12 NJ contacted Peter Davenport who has been director of the National UFO Reporting Center since 1994."
+  },
+  {
+   "s": "davenport",
+   "p": "employed_by",
+   "o": "nuforc",
+   "quote": "Reporters from News 12 NJ contacted Peter Davenport who has been director of the National UFO Reporting Center since 1994."
+  },
+  {
+   "s": "davenport",
+   "p": "statement",
+   "v": "the FAA requires aircraft to have a single red light on the left tip of the wing",
+   "quote": "By telephone he told News 12 NJ that the Federal Aviation Administration (FAA) requires aircraft to have a single red light on the left tip of the wing."
+  },
+  {
+   "s": "davenport",
+   "p": "statement",
+   "v": "did not believe it was an aircraft",
+   "quote": "He did not believe it was an aircraft."
+  },
+  {
+   "s": "davenport",
+   "p": "disputed",
+   "o": "x_aircraft",
+   "quote": "He did not believe it was an aircraft."
+  },
+  {
+   "s": "davenport",
+   "p": "member_of",
+   "o": "mufon",
+   "quote": "In addition to serving as the director of the National UFO Reporting Center, Davenport has served as the director of investigations for the Washington Chapter of the Mutual UFO Network."
+  },
+  {
+   "s": "davenport",
+   "p": "position",
+   "v": "director of investigations for the Washington Chapter of the Mutual UFO Network",
+   "quote": "In addition to serving as the director of the National UFO Reporting Center, Davenport has served as the director of investigations for the Washington Chapter of the Mutual UFO Network."
+  },
+  {
+   "s": "nuforc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Reporters from News 12 NJ contacted Peter Davenport who has been director of the National UFO Reporting Center since 1994."
+  },
+  {
+   "s": "faa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Federal Aviation Administration advised Paul that they would issue an advisory to aircraft in the area."
+  },
+  {
+   "s": "faa",
+   "p": "action",
+   "v": "advised Paul that they would issue an advisory to aircraft in the area",
+   "quote": "The Federal Aviation Administration advised Paul that they would issue an advisory to aircraft in the area."
+  },
+  {
+   "s": "faa",
+   "p": "requirement",
+   "v": "aircraft to have a single red light on the left tip of the wing",
+   "quote": "By telephone he told News 12 NJ that the Federal Aviation Administration (FAA) requires aircraft to have a single red light on the left tip of the wing."
+  },
+  {
+   "s": "jpaul",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Shortly after that sighting, Capt. Jeff Paul, a spokesman for Morris County Prosecutor Robert A. Bianchi, said that federal authorities have expressed concern that the objects might be a threat to flights on their final approach to Newark Liberty International Airport."
+  },
+  {
+   "s": "jpaul",
+   "p": "rank",
+   "v": "Captain",
+   "quote": "Shortly after that sighting, Capt. Jeff Paul, a spokesman for Morris County Prosecutor Robert A. Bianchi, said that federal authorities have expressed concern that the objects might be a threat to flights on their final approach to Newark Liberty International Airport."
+  },
+  {
+   "s": "jpaul",
+   "p": "occupation",
+   "v": "spokesman for Morris County Prosecutor Robert A. Bianchi",
+   "quote": "Shortly after that sighting, Capt. Jeff Paul, a spokesman for Morris County Prosecutor Robert A. Bianchi, said that federal authorities have expressed concern that the objects might be a threat to flights on their final approach to Newark Liberty International Airport."
+  },
+  {
+   "s": "jpaul",
+   "p": "employed_by",
+   "o": "prosecutor",
+   "quote": "Shortly after that sighting, Capt. Jeff Paul, a spokesman for Morris County Prosecutor Robert A. Bianchi, said that federal authorities have expressed concern that the objects might be a threat to flights on their final approach to Newark Liberty International Airport."
+  },
+  {
+   "s": "jpaul",
+   "p": "statement",
+   "v": "federal authorities have expressed concern that the objects might be a threat to flights on their final approach to Newark Liberty International Airport",
+   "quote": "Shortly after that sighting, Capt. Jeff Paul, a spokesman for Morris County Prosecutor Robert A. Bianchi, said that federal authorities have expressed concern that the objects might be a threat to flights on their final approach to Newark Liberty International Airport."
+  },
+  {
+   "s": "jpaul",
+   "p": "statement",
+   "v": "\"numerous\" 911 calls were received on the evening of February 17",
+   "quote": "Paul said “numerous” 911 calls were received on the evening of February 17 in Morris Plains, Morristown, Morris Township, Hanover, Denville, Parsippany, Montville and the Morris County Communications Dispatch center."
+  },
+  {
+   "s": "jpaul",
+   "p": "statement",
+   "v": "lights appeared to be traveling north",
+   "quote": "The lights appeared to be traveling north, he said, and air traffic controllers at Morristown Airport reported that they appeared to be at an altitude of about 2,500 feet (760 m)."
+  },
+  {
+   "s": "jpaul",
+   "p": "statement",
+   "v": "no military flights were in the area",
+   "quote": "Officials with the Morris County prosecutor's office called the military and determined that no military flights were in the area, Paul said."
+  },
+  {
+   "s": "bianchi",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Prosecutor Robert Bianchi used what he called a \"measured approach\" and filed disorderly-person charges, rather than charges of indictable offenses."
+  },
+  {
+   "s": "bianchi",
+   "p": "occupation",
+   "v": "Morris County Prosecutor",
+   "quote": "Shortly after that sighting, Capt. Jeff Paul, a spokesman for Morris County Prosecutor Robert A. Bianchi, said that federal authorities have expressed concern that the objects might be a threat to flights on their final approach to Newark Liberty International Airport."
+  },
+  {
+   "s": "bianchi",
+   "p": "employed_by",
+   "o": "prosecutor",
+   "quote": "Shortly after that sighting, Capt. Jeff Paul, a spokesman for Morris County Prosecutor Robert A. Bianchi, said that federal authorities have expressed concern that the objects might be a threat to flights on their final approach to Newark Liberty International Airport."
+  },
+  {
+   "s": "bianchi",
+   "p": "action",
+   "v": "filed disorderly-person charges, rather than charges of indictable offenses",
+   "quote": "Prosecutor Robert Bianchi used what he called a \"measured approach\" and filed disorderly-person charges, rather than charges of indictable offenses."
+  },
+  {
+   "s": "bianchi",
+   "p": "statement",
+   "v": "\"measured approach\"",
+   "quote": "Prosecutor Robert Bianchi used what he called a \"measured approach\" and filed disorderly-person charges, rather than charges of indictable offenses."
+  },
+  {
+   "s": "bianchi",
+   "p": "statement",
+   "v": "criticized the defendants for wasting police resources, posing a fire threat, and posing an aviation threat",
+   "quote": "Bianchi criticized the defendants for wasting police resources, posing a fire threat, and posing an aviation threat."
+  },
+  {
+   "s": "prosecutor",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "Officials with the Morris County prosecutor's office called the military and determined that no military flights were in the area, Paul said."
+  },
+  {
+   "s": "prosecutor",
+   "p": "action",
+   "v": "called the military and determined that no military flights were in the area",
+   "quote": "Officials with the Morris County prosecutor's office called the military and determined that no military flights were in the area, Paul said."
+  },
+  {
+   "s": "prosecutor",
+   "p": "action",
+   "v": "contacted the FAA, the Office of Homeland Security and Preparedness, and the New Jersey State Police Regional Operations Intelligence Center",
+   "quote": "The prosecutor's office also contacted the FAA, the Office of Homeland Security and Preparedness, and the New Jersey State Police Regional Operations Intelligence Center."
+  },
+  {
+   "s": "dispatch",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Paul said “numerous” 911 calls were received on the evening of February 17 in Morris Plains, Morristown, Morris Township, Hanover, Denville, Parsippany, Montville and the Morris County Communications Dispatch center."
+  },
+  {
+   "s": "ohsp",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The prosecutor's office also contacted the FAA, the Office of Homeland Security and Preparedness, and the New Jersey State Police Regional Operations Intelligence Center."
+  },
+  {
+   "s": "roic",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The prosecutor's office also contacted the FAA, the Office of Homeland Security and Preparedness, and the New Jersey State Police Regional Operations Intelligence Center."
+  },
+  {
+   "s": "vicente",
+   "p": "witness",
+   "o": "case",
+   "quote": "Dorian Vicente, 46, of Parsippany, said the lights caused traffic to slow on Route 80 in Denville at 8:40 p.m. as people watched them floating overhead."
+  },
+  {
+   "s": "vicente",
+   "p": "age",
+   "v": "46",
+   "quote": "Dorian Vicente, 46, of Parsippany, said the lights caused traffic to slow on Route 80 in Denville at 8:40 p.m. as people watched them floating overhead."
+  },
+  {
+   "s": "vicente",
+   "p": "residence",
+   "v": "Parsippany",
+   "quote": "Dorian Vicente, 46, of Parsippany, said the lights caused traffic to slow on Route 80 in Denville at 8:40 p.m. as people watched them floating overhead."
+  },
+  {
+   "s": "vicente",
+   "p": "statement",
+   "v": "the lights caused traffic to slow on Route 80 in Denville at 8:40 p.m.",
+   "quote": "Dorian Vicente, 46, of Parsippany, said the lights caused traffic to slow on Route 80 in Denville at 8:40 p.m. as people watched them floating overhead."
+  },
+  {
+   "s": "vicente",
+   "p": "statement",
+   "v": "There were nine lights, scattered at first",
+   "quote": "There were nine lights, she said, and they were scattered at first."
+  },
+  {
+   "s": "vicente",
+   "p": "statement",
+   "v": "they aligned in a straight line",
+   "quote": "Then she said they aligned in a straight line."
+  },
+  {
+   "s": "vicente",
+   "p": "action",
+   "v": "she and several other cars pulled to the side of the highway to try to capture the lights on video",
+   "quote": "That is when she and several other cars pulled to the side of the highway to try to capture the lights on video."
+  },
+  {
+   "s": "vicente",
+   "p": "statement",
+   "v": "It was the weirdest thing",
+   "quote": "\"It was the weirdest thing\", she said."
+  },
+  {
+   "s": "vicente",
+   "p": "described",
+   "o": "lights",
+   "quote": "There were nine lights, she said, and they were scattered at first."
+  },
+  {
+   "s": "vargas",
+   "p": "witness",
+   "o": "case",
+   "quote": "Ray Vargas, a witness to the lights on February 17, was interviewed by the media and stated, \"If it's a hoax, it's a real good hoax. There were no flares, no streaks ... they were almost as if they were communicating with each other.\""
+  },
+  {
+   "s": "vargas",
+   "p": "statement",
+   "v": "If it's a hoax, it's a real good hoax. There were no flares, no streaks ... they were almost as if they were communicating with each other.",
+   "quote": "Ray Vargas, a witness to the lights on February 17, was interviewed by the media and stated, \"If it's a hoax, it's a real good hoax. There were no flares, no streaks ... they were almost as if they were communicating with each other.\""
+  },
+  {
+   "s": "skeptic_mag",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The reveal came in the form of an article written by the two men, and published online by Skeptic Magazine."
+  },
+  {
+   "s": "skeptic_mag",
+   "p": "published",
+   "o": "article",
+   "quote": "The reveal came in the form of an article written by the two men, and published online by Skeptic Magazine."
+  },
+  {
+   "s": "article",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The reveal came in the form of an article written by the two men, and published online by Skeptic Magazine."
+  },
+  {
+   "s": "article",
+   "p": "content",
+   "v": "described in detail how and why they perpetrated this hoax",
+   "quote": "Rudy and Russo described in detail how and why they perpetrated this hoax, and provided links to videos showing their preparations, the launch, and subsequent media coverage and involvement."
+  },
+  {
+   "s": "article",
+   "p": "publication_date",
+   "v": "2009-04-01",
+   "quote": "On April 1, 2009, Rudy and Russo went public announcing that they had perpetrated this hoax to \"show everyone how unreliable eyewitness accounts are, along with investigators of UFOs\"."
+  },
+  {
+   "s": "rec",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The defendants plea-bargained and received a sentence fine of $250 each and 50 hours of community service at the Hanover Recreation Commission."
+  },
+  {
+   "s": "newsweek",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Newsweek's Sharon Begley wrote an article praising the hoax for fooling UFO \"experts\" and believers, and praising the hoaxers by concluding her article with \"Nicely done, guys.\""
+  },
+  {
+   "s": "begley",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Newsweek's Sharon Begley wrote an article praising the hoax for fooling UFO \"experts\" and believers, and praising the hoaxers by concluding her article with \"Nicely done, guys.\""
+  },
+  {
+   "s": "begley",
+   "p": "employed_by",
+   "o": "newsweek",
+   "quote": "Newsweek's Sharon Begley wrote an article praising the hoax for fooling UFO \"experts\" and believers, and praising the hoaxers by concluding her article with \"Nicely done, guys.\""
+  },
+  {
+   "s": "begley",
+   "p": "statement",
+   "v": "Nicely done, guys.",
+   "quote": "Newsweek's Sharon Begley wrote an article praising the hoax for fooling UFO \"experts\" and believers, and praising the hoaxers by concluding her article with \"Nicely done, guys.\""
+  },
+  {
+   "s": "begley",
+   "p": "action",
+   "v": "wrote an article praising the hoax for fooling UFO \"experts\" and believers",
+   "quote": "Newsweek's Sharon Begley wrote an article praising the hoax for fooling UFO \"experts\" and believers, and praising the hoaxers by concluding her article with \"Nicely done, guys.\""
+  },
+  {
+   "s": "filer",
+   "p": "commentator",
+   "o": "case",
+   "quote": "George Filer, state director for the Mutual UFO Network of New Jersey, criticized the hoaxers for using flares which could have potentially started a fire."
+  },
+  {
+   "s": "filer",
+   "p": "occupation",
+   "v": "state director for the Mutual UFO Network of New Jersey",
+   "quote": "George Filer, state director for the Mutual UFO Network of New Jersey, criticized the hoaxers for using flares which could have potentially started a fire."
+  },
+  {
+   "s": "filer",
+   "p": "member_of",
+   "o": "mufon",
+   "quote": "George Filer, state director for the Mutual UFO Network of New Jersey, criticized the hoaxers for using flares which could have potentially started a fire."
+  },
+  {
+   "s": "filer",
+   "p": "statement",
+   "v": "criticized the hoaxers for using flares which could have potentially started a fire",
+   "quote": "George Filer, state director for the Mutual UFO Network of New Jersey, criticized the hoaxers for using flares which could have potentially started a fire."
+  },
+  {
+   "s": "cfi",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Center for Inquiry painted the hoax in a positive light, the question was asked \"should skeptics pull pranks and hoaxes, even to prove a skeptical point? Should skeptics hoax the public, or is that a breach of ethics that ultimately harm the skeptical position?\""
+  },
+  {
+   "s": "cfi",
+   "p": "statement",
+   "v": "should skeptics pull pranks and hoaxes, even to prove a skeptical point? Should skeptics hoax the public, or is that a breach of ethics that ultimately harm the skeptical position?",
+   "quote": "The Center for Inquiry painted the hoax in a positive light, the question was asked \"should skeptics pull pranks and hoaxes, even to prove a skeptical point? Should skeptics hoax the public, or is that a breach of ethics that ultimately harm the skeptical position?\""
+  },
+  {
+   "s": "cfi",
+   "p": "stance",
+   "v": "painted the hoax in a positive light",
+   "quote": "The Center for Inquiry painted the hoax in a positive light, the question was asked \"should skeptics pull pranks and hoaxes, even to prove a skeptical point? Should skeptics hoax the public, or is that a breach of ethics that ultimately harm the skeptical position?\""
+  },
+  {
+   "s": "ufo_hunters",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The Morristown UFO has been featured on the homepage of the American documentary television series UFO Hunters."
+  },
+  {
+   "s": "ufo_hunters",
+   "p": "format",
+   "v": "two-part mini-documentary",
+   "quote": "Throughout the two-part mini-documentary, Bill Birnes and his team do not accept previous skeptic claims that the lights could have been Chinese lanterns or flares."
+  },
+  {
+   "s": "birnes",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Host Bill Birnes investigated the January 5, 2009 sighting and interviewed several eyewitnesses."
+  },
+  {
+   "s": "birnes",
+   "p": "occupation",
+   "v": "host of UFO Hunters",
+   "quote": "Host Bill Birnes investigated the January 5, 2009 sighting and interviewed several eyewitnesses."
+  },
+  {
+   "s": "birnes",
+   "p": "action",
+   "v": "interviewed several eyewitnesses",
+   "quote": "Host Bill Birnes investigated the January 5, 2009 sighting and interviewed several eyewitnesses."
+  },
+  {
+   "s": "birnes",
+   "p": "statement",
+   "v": "did not accept skeptic claims that the lights could have been Chinese lanterns or flares",
+   "quote": "Throughout the two-part mini-documentary, Bill Birnes and his team do not accept previous skeptic claims that the lights could have been Chinese lanterns or flares."
+  },
+  {
+   "s": "birnes",
+   "p": "statement",
+   "v": "We know this couldn't be flares attached to a rigid structure.",
+   "quote": "\"We know this couldn't be flares attached to a rigid structure.\""
+  },
+  {
+   "s": "birnes",
+   "p": "disputed",
+   "o": "x_flares",
+   "quote": "Throughout the two-part mini-documentary, Bill Birnes and his team do not accept previous skeptic claims that the lights could have been Chinese lanterns or flares."
+  },
+  {
+   "s": "birnes",
+   "p": "disputed",
+   "o": "x_lanterns",
+   "quote": "Throughout the two-part mini-documentary, Bill Birnes and his team do not accept previous skeptic claims that the lights could have been Chinese lanterns or flares."
+  },
+  {
+   "s": "birnes",
+   "p": "proponent",
+   "o": "case",
+   "quote": "Throughout the two-part mini-documentary, Bill Birnes and his team do not accept previous skeptic claims that the lights could have been Chinese lanterns or flares."
+  },
+  {
+   "s": "trutv",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On April 1, 2015 truTV featured the Morristown UFO hoax on Best Hoaxes Ever, a show recounting famous internet claims and hoaxes."
+  },
+  {
+   "s": "best_hoaxes",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "On April 1, 2015 truTV featured the Morristown UFO hoax on Best Hoaxes Ever, a show recounting famous internet claims and hoaxes."
+  },
+  {
+   "s": "best_hoaxes",
+   "p": "air_date",
+   "v": "2015-04-01",
+   "quote": "On April 1, 2015 truTV featured the Morristown UFO hoax on Best Hoaxes Ever, a show recounting famous internet claims and hoaxes."
+  },
+  {
+   "s": "trutv",
+   "p": "published",
+   "o": "best_hoaxes",
+   "quote": "On April 1, 2015 truTV featured the Morristown UFO hoax on Best Hoaxes Ever, a show recounting famous internet claims and hoaxes."
+  },
+  {
+   "s": "vice",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In July 2021, the UFO hoax was spotlighted on an episode of Vice Media's \"Fakes, Frauds and Scammers\"."
+  },
+  {
+   "s": "ffs",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In July 2021, the UFO hoax was spotlighted on an episode of Vice Media's \"Fakes, Frauds and Scammers\"."
+  },
+  {
+   "s": "vice",
+   "p": "published",
+   "o": "ffs",
+   "quote": "In July 2021, the UFO hoax was spotlighted on an episode of Vice Media's \"Fakes, Frauds and Scammers\"."
+  },
+  {
+   "s": "ffs_ep",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The episode, entitled \"How We Staged a UFO Hoax\", was narrated by Rudy and Russo."
+  },
+  {
+   "s": "ffs_ep",
+   "p": "part_of",
+   "o": "ffs",
+   "quote": "The episode, entitled \"How We Staged a UFO Hoax\", was narrated by Rudy and Russo."
+  },
+  {
+   "s": "ffs_ep",
+   "p": "air_date",
+   "v": "2021-07",
+   "quote": "In July 2021, the UFO hoax was spotlighted on an episode of Vice Media's \"Fakes, Frauds and Scammers\"."
+  },
+  {
+   "s": "f0",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The 2009 Morristown UFO hoax was a series of aerial events involving mysterious floating red lights in the sky, that first occurred near Morristown, New Jersey, on Monday, January 5, 2009, between 8:15 pm and 9:00 pm."
+  },
+  {
+   "s": "f1",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "On April 1, 2009, Rudy and Russo came forward with video evidence proving they were the perpetrators of this hoax, demonstrating how easy it is to fool the so-called UFO \"experts\"."
+  },
+  {
+   "s": "f2",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "These included extraterrestrial craft, supernatural and/or spiritual phenomena, helicopters carrying cargo, a surveillance blimp, a secret military project, or an elaborate hoax."
+  },
+  {
+   "s": "f3",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Hurley Family took video of the lights, which appeared on several news broadcasts, including cable news networks such as Fox News."
+  },
+  {
+   "s": "f4",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "They recorded several videos and still photos of the event, which have been posted on news stations, websites, blogs, and YouTube."
+  },
+  {
+   "s": "f5",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Neighboring police departments also received numerous phone calls in regard to the strange lights."
+  },
+  {
+   "s": "f6",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Paul Hurley, a pilot, saw the lights and said they were not planes."
+  },
+  {
+   "s": "f7",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "An 11-year-old, Kristin Hurley was the first to notice the lights."
+  },
+  {
+   "s": "f8",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The prosecutor's office also contacted the FAA, the Office of Homeland Security and Preparedness, and the New Jersey State Police Regional Operations Intelligence Center."
+  },
+  {
+   "s": "f9",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Nine red lights were reported to be traveling in formation."
+  },
+  {
+   "s": "f10",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The red lights were later observed on four other nights: January 26, January 29, February 7, and February 17, 2009."
+  },
+  {
+   "s": "f2",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Ray Vargas, a witness to the lights on February 17, was interviewed by the media and stated, \"If it's a hoax, it's a real good hoax. There were no flares, no streaks ... they were almost as if they were communicating with each other.\""
+  },
+  {
+   "s": "f3",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "They recorded several videos and still photos of the event, which have been posted on news stations, websites, blogs, and YouTube."
+  },
+  {
+   "s": "x_hoax",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The events were later revealed to be a hoax, perpetrated by Joe Rudy and Chris Russo."
+  },
+  {
+   "s": "x_flares",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The Morristown police department had stated the lights were most likely road flares attached to helium balloons, although witnesses and many other Morris County residents did not agree with this claim."
+  },
+  {
+   "s": "x_balloon",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The Morristown police department had stated the lights were most likely road flares attached to helium balloons, although witnesses and many other Morris County residents did not agree with this claim."
+  },
+  {
+   "s": "x_aircraft",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "These included extraterrestrial craft, supernatural and/or spiritual phenomena, helicopters carrying cargo, a surveillance blimp, a secret military project, or an elaborate hoax."
+  },
+  {
+   "s": "x_mil",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "These included extraterrestrial craft, supernatural and/or spiritual phenomena, helicopters carrying cargo, a surveillance blimp, a secret military project, or an elaborate hoax."
+  },
+  {
+   "s": "x_lanterns",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "One source had speculated that the red lights may have been sky lanterns released during a celebration."
+  },
+  {
+   "s": "x_hoax",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "These included extraterrestrial craft, supernatural and/or spiritual phenomena, helicopters carrying cargo, a surveillance blimp, a secret military project, or an elaborate hoax."
+  },
+  {
+   "s": "x_balloon",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Five flare lights attached to helium balloons were released by Rudy and Russo and seen in the skies above Morris County, New Jersey."
+  },
+  {
+   "s": "x_flares",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Five flare lights attached to helium balloons were released by Rudy and Russo and seen in the skies above Morris County, New Jersey."
+  },
+  {
+   "s": "x_lanterns",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Throughout the two-part mini-documentary, Bill Birnes and his team do not accept previous skeptic claims that the lights could have been Chinese lanterns or flares."
+  },
+  {
+   "s": "rudy",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "On April 1, 2009, Rudy and Russo came forward with video evidence proving they were the perpetrators of this hoax, demonstrating how easy it is to fool the so-called UFO \"experts\"."
+  },
+  {
+   "s": "russo",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "On April 1, 2009, Rudy and Russo came forward with video evidence proving they were the perpetrators of this hoax, demonstrating how easy it is to fool the so-called UFO \"experts\"."
+  }
+ ]
+}

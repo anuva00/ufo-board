@@ -1,0 +1,1003 @@
+{
+ "slug": "ornl-metallic-specimen-analysis",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "ORNL Analysis of a Metallic Specimen",
+   "description": "Oak Ridge National Laboratory synopsis, sponsored by AARO, of materials analyses of a layered magnesium-zinc-bismuth specimen claimed to come from a 1947 UAP crash.",
+   "aliases": [
+    "Synopsis: Analysis of a Metallic Specimen",
+    "Analysis of a Metallic Specimen",
+    "Case Number: 330UAP000012"
+   ]
+  },
+  {
+   "key": "crash1947",
+   "type": "case",
+   "name": "1947 UAP crash incident",
+   "description": "Claimed unidentified anomalous phenomenon crash in or around 1947 from which the specimen is said to have been recovered.",
+   "aliases": [
+    "unidentified anomalous phenomenon (UAP) crash in or around 1947"
+   ]
+  },
+  {
+   "key": "specimen",
+   "type": "document",
+   "name": "layered magnesium-zinc-bismuth metallic specimen",
+   "description": "Layered material specimen, mainly magnesium and zinc with bismuth bands, analysed by ORNL as physical evidence.",
+   "aliases": [
+    "the metallic specimen",
+    "the specimen",
+    "material specimen",
+    "Sample A",
+    "the unknown material",
+    "historical specimen"
+   ]
+  },
+  {
+   "key": "aaro",
+   "type": "organization",
+   "name": "All-domain Anomaly Resolution Office",
+   "description": "US office that sponsored the ORNL measurements.",
+   "aliases": [
+    "AARO",
+    "All-Domain Anomaly Resolution Office"
+   ]
+  },
+  {
+   "key": "ornl",
+   "type": "organization",
+   "name": "Oak Ridge National Laboratory",
+   "description": "US Department of Energy national laboratory that analysed the specimen.",
+   "aliases": [
+    "ORNL",
+    "OAK RIDGE National Laboratory"
+   ]
+  },
+  {
+   "key": "doe",
+   "type": "organization",
+   "name": "United States Department of Energy",
+   "description": "Parent department of the national laboratories.",
+   "aliases": [
+    "US Department of Energy",
+    "Department of Energy"
+   ]
+  },
+  {
+   "key": "devcom",
+   "type": "organization",
+   "name": "United States Army Combat Capabilities Development Command",
+   "description": "US Army command that held a CRADA with To the Stars Academy over the specimen.",
+   "aliases": [
+    "DEVCOM",
+    "US Army Combat Capabilities Development Command"
+   ]
+  },
+  {
+   "key": "army",
+   "type": "organization",
+   "name": "United States Army",
+   "description": "US military branch of which DEVCOM is part.",
+   "aliases": [
+    "US Army"
+   ]
+  },
+  {
+   "key": "gvsc",
+   "type": "organization",
+   "name": "DEVCOM Ground Vehicle System Center",
+   "description": "DEVCOM centre that gave ORNL access to the specimen."
+  },
+  {
+   "key": "ttsa",
+   "type": "organization",
+   "name": "To the Stars Academy",
+   "description": "Organisation party to the CRADA with DEVCOM that authorised and oversaw analyses.",
+   "aliases": [
+    "TTSA"
+   ]
+  },
+  {
+   "key": "dod",
+   "type": "organization",
+   "name": "United States Department of Defense",
+   "description": "Department whose prepublication office cleared the synopsis.",
+   "aliases": [
+    "Department of Defense"
+   ]
+  },
+  {
+   "key": "dopsr",
+   "type": "organization",
+   "name": "Office of Prepublication and Security Review",
+   "description": "Department of Defense office that cleared the document for open publication.",
+   "aliases": [
+    "OFFICE OF PREPUBLICATION AND SECURITY REVIEW"
+   ]
+  },
+  {
+   "key": "nist",
+   "type": "organization",
+   "name": "National Institute of Standards and Technology",
+   "description": "US Department of Commerce institute that certifies standard reference materials.",
+   "aliases": [
+    "National Institute for Standards and Technology"
+   ]
+  },
+  {
+   "key": "commerce",
+   "type": "organization",
+   "name": "United States Department of Commerce",
+   "description": "Parent department of the National Institute for Standards and Technology.",
+   "aliases": [
+    "U.S. Department of Commerce"
+   ]
+  },
+  {
+   "key": "jsc",
+   "type": "organization",
+   "name": "NASA Johnson Space Center",
+   "description": "Source of a comparison metal plotted in the magnesium isotope figure.",
+   "aliases": [
+    "NASA JSC"
+   ]
+  },
+  {
+   "key": "crada",
+   "type": "document",
+   "name": "TTSA-DEVCOM Cooperative Research and Development Agreement",
+   "description": "Agreement between DEVCOM and To the Stars Academy to evaluate the specimen.",
+   "aliases": [
+    "TTSA-DEVCOM CRADA",
+    "DEVCOM CRADA",
+    "CRADA",
+    "Cooperative Research and Development Agreement"
+   ]
+  },
+  {
+   "key": "ndaa24",
+   "type": "document",
+   "name": "National Defense Authorization Act for Fiscal Year 2024",
+   "description": "Statute cited as release authority.",
+   "aliases": [
+    "FY24 NDAA",
+    "FY24 NDAA, Section 1841 (a)(1)(C)"
+   ]
+  },
+  {
+   "key": "devcom_analyses",
+   "type": "document",
+   "name": "previous DEVCOM analyses of the specimen",
+   "description": "Earlier DEVCOM analyses with which ORNL's results align."
+  },
+  {
+   "key": "sturrock",
+   "type": "person",
+   "name": "P. Sturrock",
+   "description": "Author of a cited 2001 paper on the Brazil magnesium.",
+   "aliases": [
+    "Sturrock, P."
+   ]
+  },
+  {
+   "key": "sturrock_paper",
+   "type": "work",
+   "name": "Composition analysis of the Brazil magnesium",
+   "description": "2001 Journal of Scientific Exploration article cited in the references."
+  },
+  {
+   "key": "jse",
+   "type": "organization",
+   "name": "Journal of Scientific Exploration",
+   "description": "Journal that published Sturrock's article."
+  },
+  {
+   "key": "brazil",
+   "type": "place",
+   "name": "Brazil",
+   "description": "Country associated with a comparison magnesium specimen."
+  },
+  {
+   "key": "f_debris",
+   "type": "feature",
+   "name": "debris-or-material",
+   "description": "Recovered material"
+  },
+  {
+   "key": "f_crash",
+   "type": "feature",
+   "name": "crash-retrieval-claim",
+   "description": "Crash retrieval claim"
+  },
+  {
+   "key": "f_inv",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Official investigation"
+  },
+  {
+   "key": "x_terr",
+   "type": "explanation",
+   "name": "other:terrestrially manufactured material",
+   "description": "ORNL conclusion that the specimen was manufactured on Earth."
+  }
+ ],
+ "claims": [
+  {
+   "s": "crash1947",
+   "p": "related_case",
+   "o": "case",
+   "quote": "is claimed to be recovered\nfrom an unidentified anomalous phenomenon (UAP) crash in or around 1947"
+  },
+  {
+   "s": "specimen",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The All-Domain Anomaly Resolution Office (AARO) sponsored a series of measurements on a layered material"
+  },
+  {
+   "s": "aaro",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The All-Domain Anomaly Resolution Office (AARO) sponsored a series of measurements on a layered material"
+  },
+  {
+   "s": "ornl",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "secured science and technology partner Oak Ridge\nNational Laboratory (ORNL), one of 17 US Department\nof Energy national laboratories, to independently\nassess and perform thorough characterization studies"
+  },
+  {
+   "s": "doe",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "secured science and technology partner Oak Ridge\nNational Laboratory (ORNL), one of 17 US Department\nof Energy national laboratories, to independently\nassess and perform thorough characterization studies"
+  },
+  {
+   "s": "devcom",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Command (DEVCOM) established a Cooperative\nResearch and Development Agreement (CRADA) with\nTo the Stars Academy (TTSA) to evaluate the feasibility\nof exploiting any potential disruptive technology"
+  },
+  {
+   "s": "army",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Previously, US Army Combat Capabilities Development\nCommand (DEVCOM) established"
+  },
+  {
+   "s": "gvsc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "DEVCOM Ground Vehicle System Center provided ORNL access\nto the metallic specimen-a single parent sample and three previously derived subsamples, all from the same\nmaterial-beginning in February 2023."
+  },
+  {
+   "s": "ttsa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Command (DEVCOM) established a Cooperative\nResearch and Development Agreement (CRADA) with\nTo the Stars Academy (TTSA) to evaluate the feasibility\nof exploiting any potential disruptive technology"
+  },
+  {
+   "s": "dod",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Department of Defense\nOFFICE OF PREPUBLICATION AND SECURITY REVIEW"
+  },
+  {
+   "s": "dopsr",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "For Open Publication\nJul 01, 2024\nDepartment of Defense\nOFFICE OF PREPUBLICATION AND SECURITY REVIEW"
+  },
+  {
+   "s": "nist",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "and certified by the U.S. Department of Commerce's National Institute for Standards and Technology."
+  },
+  {
+   "s": "commerce",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "and certified by the U.S. Department of Commerce's National Institute for Standards and Technology."
+  },
+  {
+   "s": "jsc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "NASA JSC metal"
+  },
+  {
+   "s": "crada",
+   "p": "key_document",
+   "o": "case",
+   "quote": "All analyses and materials utilization were authorized and overseen by TTSA via the DEVCOM CRADA, and all\nanalyses were preapproved by AARO and DEVCOM before ORNL received the specimen."
+  },
+  {
+   "s": "ndaa24",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Authority: FY24 NDAA, now codified at 44 U.S.C. 2107"
+  },
+  {
+   "s": "devcom_analyses",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Results align with previous DEVCOM\nanalyses"
+  },
+  {
+   "s": "sturrock_paper",
+   "p": "cited_in",
+   "o": "case",
+   "quote": "30. Sturrock, P., Composition analysis of the Brazil magnesium. Journal of Scientific Exploration 2001, 15 (1), 69-\n95."
+  },
+  {
+   "s": "sturrock",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "30. Sturrock, P., Composition analysis of the Brazil magnesium. Journal of Scientific Exploration 2001, 15 (1), 69-\n95."
+  },
+  {
+   "s": "brazil",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Brazilian specimen"
+  },
+  {
+   "s": "f_debris",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "is claimed to be recovered\nfrom an unidentified anomalous phenomenon (UAP) crash in or around 1947"
+  },
+  {
+   "s": "f_inv",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "AARO tasked ORNL with assessing whether (1) the specimen is of terrestrial origin and (2) the bismuth in the\nspecimen could act as a terahertz waveguide."
+  },
+  {
+   "s": "x_terr",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "ORNL has a high level of confidence that all data indicate the material was\nmanufactured terrestrially-albeit using an uncommon mixture of elements by today's standards-and then incurred\ndamage caused by mechanical and heat stressors."
+  },
+  {
+   "s": "f_debris",
+   "p": "has_feature",
+   "o": "crash1947",
+   "quote": "is claimed to be recovered\nfrom an unidentified anomalous phenomenon (UAP) crash in or around 1947"
+  },
+  {
+   "s": "f_crash",
+   "p": "has_feature",
+   "o": "crash1947",
+   "quote": "is claimed to be recovered\nfrom an unidentified anomalous phenomenon (UAP) crash in or around 1947"
+  },
+  {
+   "s": "x_terr",
+   "p": "explained_as",
+   "o": "crash1947",
+   "quote": "Furthermore, all data strongly support that the material is terrestrial\nin origin."
+  },
+  {
+   "s": "specimen",
+   "p": "key_document",
+   "o": "crash1947",
+   "quote": "is claimed to be recovered\nfrom an unidentified anomalous phenomenon (UAP) crash in or around 1947"
+  },
+  {
+   "s": "aaro",
+   "p": "investigated_by",
+   "o": "crash1947",
+   "quote": "AARO, founded in 2022, is congressionally mandated to\nexplore historical records of UAP incidents and publicly"
+  },
+  {
+   "s": "crash1947",
+   "p": "date_start",
+   "v": "1947",
+   "quote": "is claimed to be recovered\nfrom an unidentified anomalous phenomenon (UAP) crash in or around 1947"
+  },
+  {
+   "s": "ornl",
+   "p": "part_of",
+   "o": "doe",
+   "quote": "secured science and technology partner Oak Ridge\nNational Laboratory (ORNL), one of 17 US Department\nof Energy national laboratories, to independently\nassess and perform thorough characterization studies"
+  },
+  {
+   "s": "devcom",
+   "p": "part_of",
+   "o": "army",
+   "quote": "Previously, US Army Combat Capabilities Development\nCommand (DEVCOM) established"
+  },
+  {
+   "s": "gvsc",
+   "p": "part_of",
+   "o": "devcom",
+   "quote": "DEVCOM Ground Vehicle System Center provided ORNL access"
+  },
+  {
+   "s": "dopsr",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "Department of Defense\nOFFICE OF PREPUBLICATION AND SECURITY REVIEW"
+  },
+  {
+   "s": "nist",
+   "p": "part_of",
+   "o": "commerce",
+   "quote": "and certified by the U.S. Department of Commerce's National Institute for Standards and Technology."
+  },
+  {
+   "s": "devcom",
+   "p": "authored",
+   "o": "devcom_analyses",
+   "quote": "Results align with previous DEVCOM\nanalyses"
+  },
+  {
+   "s": "sturrock",
+   "p": "authored",
+   "o": "sturrock_paper",
+   "quote": "30. Sturrock, P., Composition analysis of the Brazil magnesium. Journal of Scientific Exploration 2001, 15 (1), 69-\n95."
+  },
+  {
+   "s": "jse",
+   "p": "published",
+   "o": "sturrock_paper",
+   "quote": "30. Sturrock, P., Composition analysis of the Brazil magnesium. Journal of Scientific Exploration 2001, 15 (1), 69-\n95."
+  },
+  {
+   "s": "jse",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "30. Sturrock, P., Composition analysis of the Brazil magnesium. Journal of Scientific Exploration 2001, 15 (1), 69-\n95."
+  },
+  {
+   "s": "ornl",
+   "p": "proposed",
+   "o": "x_terr",
+   "quote": "ORNL has a high level of confidence that all data indicate the material was\nmanufactured terrestrially-albeit using an uncommon mixture of elements by today's standards-and then incurred\ndamage caused by mechanical and heat stressors."
+  },
+  {
+   "s": "ornl",
+   "p": "authored",
+   "o": "case",
+   "quote": "AARO secured ORNL to independently assess the requirements necessary to confirm or contest public claims"
+  },
+  {
+   "s": "ttsa",
+   "p": "part_of",
+   "o": "crada",
+   "quote": "Command (DEVCOM) established a Cooperative\nResearch and Development Agreement (CRADA) with\nTo the Stars Academy (TTSA) to evaluate the feasibility\nof exploiting any potential disruptive technology"
+  },
+  {
+   "s": "devcom",
+   "p": "part_of",
+   "o": "crada",
+   "quote": "Command (DEVCOM) established a Cooperative\nResearch and Development Agreement (CRADA) with\nTo the Stars Academy (TTSA) to evaluate the feasibility\nof exploiting any potential disruptive technology"
+  },
+  {
+   "s": "specimen",
+   "p": "compared_to",
+   "o": "sturrock_paper",
+   "quote": "Brazilian specimen"
+  },
+  {
+   "s": "case",
+   "p": "case_number",
+   "v": "330UAP000012",
+   "quote": "Case Number: 330UAP000012"
+  },
+  {
+   "s": "case",
+   "p": "cleared_for_open_publication",
+   "v": "2024-07-01",
+   "quote": "For Open Publication\nJul 01, 2024"
+  },
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "2023-02",
+   "quote": "DEVCOM Ground Vehicle System Center provided ORNL access\nto the metallic specimen-a single parent sample and three previously derived subsamples, all from the same\nmaterial-beginning in February 2023."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "2024-07-01",
+   "quote": "For Open Publication\nJul 01, 2024"
+  },
+  {
+   "s": "case",
+   "p": "review_date",
+   "v": "2025-02-06",
+   "quote": "Reviewed by Chief of Staff, AARO\nDate: 02/06/2025"
+  },
+  {
+   "s": "case",
+   "p": "reviewed_by",
+   "v": "Chief of Staff, AARO",
+   "quote": "Page determined to be Unclassified\nAuthority: FY24 NDAA, now codified at 44 U.S.C. 2107\nReviewed by Chief of Staff, AARO"
+  },
+  {
+   "s": "case",
+   "p": "classification",
+   "v": "Unclassified",
+   "quote": "Page determined to be Unclassified"
+  },
+  {
+   "s": "case",
+   "p": "release_status",
+   "v": "Released in Full",
+   "quote": "Released in Full:\nX"
+  },
+  {
+   "s": "case",
+   "p": "release_authority",
+   "v": "FY24 NDAA, now codified at 44 U.S.C. 2107",
+   "quote": "Authority: FY24 NDAA, now codified at 44 U.S.C. 2107"
+  },
+  {
+   "s": "case",
+   "p": "tasking",
+   "v": "assess whether the specimen is of terrestrial origin and whether its bismuth could act as a terahertz waveguide",
+   "quote": "AARO tasked ORNL with assessing whether (1) the specimen is of terrestrial origin and (2) the bismuth in the\nspecimen could act as a terahertz waveguide."
+  },
+  {
+   "s": "case",
+   "p": "conclusion",
+   "v": "analysis does not indicate a non-terrestrial origin",
+   "quote": "a modern and robust analysis of its chemical and structural composition and properties does not indicate that its\norigin is non-terrestrial"
+  },
+  {
+   "s": "case",
+   "p": "conclusion",
+   "v": "material never had the pure single-crystalline bismuth layer that could have acted as a terahertz waveguide",
+   "quote": "nor do the data indicate that the material examined ever had the pure single-crystalline\nbismuth layer that could possibly have acted as a terahertz waveguide"
+  },
+  {
+   "s": "case",
+   "p": "conclusion",
+   "v": "material was manufactured terrestrially and then damaged by mechanical and heat stressors",
+   "quote": "ORNL has a high level of confidence that all data indicate the material was\nmanufactured terrestrially-albeit using an uncommon mixture of elements by today's standards-and then incurred\ndamage caused by mechanical and heat stressors."
+  },
+  {
+   "s": "case",
+   "p": "conclusion",
+   "v": "results align with previous DEVCOM analyses; bismuth layers do not meet terahertz waveguide requirements",
+   "quote": "Results align with previous DEVCOM\nanalyses, indicating that the structure and composition of the bismuth layers do not meet the requirements\nnecessary to serve as a terahertz waveguide."
+  },
+  {
+   "s": "case",
+   "p": "unresolved",
+   "v": "origin, chain of custody and ultimate purpose of the specimen remain unclear",
+   "quote": "Although the origin, chain of custody, and ultimate purpose of this specimen remain unclear"
+  },
+  {
+   "s": "case",
+   "p": "unresolved",
+   "v": "intended or actual past use of the material remains undetermined",
+   "quote": "The intended or actual past use of the\nmaterial remains undetermined"
+  },
+  {
+   "s": "case",
+   "p": "method",
+   "v": "optical microscopy",
+   "quote": "Optical microscopy: standard microscope analysis that allows imaging of microstructural features."
+  },
+  {
+   "s": "case",
+   "p": "method",
+   "v": "computerized tomography (CT scan)",
+   "quote": "Computerized tomography, aka CT scan: X-ray imaging procedure that produces a 3D image of a sample\nwithout damaging it"
+  },
+  {
+   "s": "case",
+   "p": "method",
+   "v": "scanning electron microscopy-energy dispersive x-ray spectroscopy (SEM-EDS)",
+   "quote": "Scanning electron microscopy-energy dispersive x-ray spectroscopy (SEM-EDS): technique that produces 2D\nimages at higher resolution"
+  },
+  {
+   "s": "case",
+   "p": "method",
+   "v": "(scanning) transmission electron microscopy-energy dispersive x-ray spectroscopy ([S]TEM-EDS)",
+   "quote": "(Scanning) transmission electron microscopy-energy dispersive x-ray spectroscopy ([S]TEM-EDS): a suite\nof techniques that pass a high-energy (e.g., 200 kV) electron beam through a thin (<200 nm) foil of sample"
+  },
+  {
+   "s": "case",
+   "p": "method",
+   "v": "mass spectrometry",
+   "quote": "Analyses of bulk chemical, elemental, and isotopic composition used mass spectrometry techniques"
+  },
+  {
+   "s": "case",
+   "p": "method",
+   "v": "inductively coupled plasma mass spectrometry (ICP-MS)",
+   "quote": "Inductively coupled plasma mass spectrometry (ICP-MS), the most sensitive analysis technique performed"
+  },
+  {
+   "s": "case",
+   "p": "method",
+   "v": "inductively coupled plasma optical emission spectroscopy (ICP-OES)",
+   "quote": "emission spectroscopy\nof the material, respectively. Minor elements detected\nBa\n0.0465\n(ICP-OES)"
+  },
+  {
+   "s": "case",
+   "p": "method",
+   "v": "laser ablation ICP-MS",
+   "quote": "Laser ablation ICP-MS revealed banding of the zinc components"
+  },
+  {
+   "s": "case",
+   "p": "method",
+   "v": "multicollector ICP-MS",
+   "quote": "Multicollector ICP-MS analysis showed that the specimen's magnesium and lead isotope composition is consistent\nwith other materials manufactured and used terrestrially"
+  },
+  {
+   "s": "case",
+   "p": "quality_control",
+   "v": "traceable quality control standards and method blanks run throughout all analyses",
+   "quote": "Traceable quality control standards and method blanks were run throughout all analyses to monitor sample integrity\nand instrument performance."
+  },
+  {
+   "s": "case",
+   "p": "reference_count",
+   "v": "40",
+   "quote": "40. Young, E. D.; Galy, A.; Nagahara, H., Kinetic and equilibrium mass-dependent isotope fractionation laws"
+  },
+  {
+   "s": "specimen",
+   "p": "composition",
+   "v": "primarily magnesium and zinc, with bands of bismuth and other co-located trace elements",
+   "quote": "specimen primarily composed of magnesium and zinc, with bands of bismuth and other co-located trace elements."
+  },
+  {
+   "s": "specimen",
+   "p": "claimed_origin",
+   "v": "recovered from a UAP crash in or around 1947",
+   "quote": "is claimed to be recovered\nfrom an unidentified anomalous phenomenon (UAP) crash in or around 1947"
+  },
+  {
+   "s": "specimen",
+   "p": "claimed_property",
+   "v": "inertial mass reduction (levitation or antigravity functionality)",
+   "quote": "physiochemical properties are claimed to make the material capable of \"inertial mass reduction\" (i.e., levitation or\nantigravity functionality)"
+  },
+  {
+   "s": "specimen",
+   "p": "claimed_property",
+   "v": "bismuth and magnesium layers acting as a terahertz waveguide",
+   "quote": "possibly attributable to the material's bismuth and magnesium layers acting as a terahertz\nwaveguide."
+  },
+  {
+   "s": "specimen",
+   "p": "history",
+   "v": "origin and purpose are of long and debated history",
+   "quote": "The material specimen, whose origin and purpose are of long and debated history"
+  },
+  {
+   "s": "specimen",
+   "p": "chain_of_custody",
+   "v": "cannot be verified",
+   "quote": "Although the long chain of custody\n2\nfor this specimen cannot be verified"
+  },
+  {
+   "s": "specimen",
+   "p": "sample_count",
+   "v": "a single parent sample and three previously derived subsamples",
+   "quote": "DEVCOM Ground Vehicle System Center provided ORNL access\nto the metallic specimen-a single parent sample and three previously derived subsamples, all from the same\nmaterial-beginning in February 2023."
+  },
+  {
+   "s": "specimen",
+   "p": "access_date",
+   "v": "2023-02",
+   "quote": "DEVCOM Ground Vehicle System Center provided ORNL access\nto the metallic specimen-a single parent sample and three previously derived subsamples, all from the same\nmaterial-beginning in February 2023."
+  },
+  {
+   "s": "specimen",
+   "p": "magnesium_content",
+   "v": "approximately 97.5%",
+   "quote": "specimen, comprising approximately 97.5% and 2%"
+  },
+  {
+   "s": "specimen",
+   "p": "zinc_content",
+   "v": "approximately 2%",
+   "quote": "specimen, comprising approximately 97.5% and 2%"
+  },
+  {
+   "s": "specimen",
+   "p": "minor_elements",
+   "v": "lead (Pb) and bismuth (Bi)",
+   "quote": "(Table 1) were lead (Pb) and bismuth (Bi) (Figure 3),"
+  },
+  {
+   "s": "specimen",
+   "p": "trace_elements",
+   "v": "iron (Fe) and manganese (Mn)",
+   "quote": "with lesser trace amounts of iron (Fe) and manganese"
+  },
+  {
+   "s": "specimen",
+   "p": "trace_elements",
+   "v": "cadmium, thallium, gold, molybdenum, tin and barium",
+   "quote": "additionally revealed the presence of small amounts of cadmium (Cd), thallium (TI), gold (Au), molybdenum (Mo),\ntin (Sn), and barium (Ba)."
+  },
+  {
+   "s": "specimen",
+   "p": "bismuth_ppm",
+   "v": "3813",
+   "quote": "composition of the\nBi\n3813"
+  },
+  {
+   "s": "specimen",
+   "p": "lead_ppm",
+   "v": "2859",
+   "quote": "Pb\n2859\nbulk magnesium-zinc"
+  },
+  {
+   "s": "specimen",
+   "p": "thallium_ppm",
+   "v": "215.13",
+   "quote": "TI\n215.13"
+  },
+  {
+   "s": "specimen",
+   "p": "iron_ppm",
+   "v": "55.1",
+   "quote": "Fe\n55.1\nAll are considered"
+  },
+  {
+   "s": "specimen",
+   "p": "cadmium_ppm",
+   "v": "36.96",
+   "quote": "Cd\n36.96"
+  },
+  {
+   "s": "specimen",
+   "p": "manganese_ppm",
+   "v": "28.99",
+   "quote": "Mn\n28.99"
+  },
+  {
+   "s": "specimen",
+   "p": "gold_ppm",
+   "v": "10.618",
+   "quote": "Au\n10.618"
+  },
+  {
+   "s": "specimen",
+   "p": "molybdenum_ppm",
+   "v": "0.5922",
+   "quote": "Mo\n0.5922"
+  },
+  {
+   "s": "specimen",
+   "p": "tin_ppm",
+   "v": "0.1328",
+   "quote": "Sn\n0.1328"
+  },
+  {
+   "s": "specimen",
+   "p": "barium_ppm",
+   "v": "0.0465",
+   "quote": "Ba\n0.0465"
+  },
+  {
+   "s": "specimen",
+   "p": "trace_threshold",
+   "v": "all trace elements at less than 0.1% abundance",
+   "quote": "All are considered\nCd\n36.96\n\"trace,\" at less than\nChemical Composition\nMn\n28.99\n0.1% abundance."
+  },
+  {
+   "s": "specimen",
+   "p": "structure",
+   "v": "distinct layers that merge and diverge at various points",
+   "quote": "showing that the material consists of distinct layers\nthat merge and diverge at various points throughout the\nmaterial."
+  },
+  {
+   "s": "specimen",
+   "p": "damage",
+   "v": "fractures consistent with a material originally whole but strained by heat exposure and mechanical forces, possibly for extended periods",
+   "quote": "Interfaces showed fractures and other features that\nORNL determined are consistent with a material that was\noriginally whole but was strained by heat exposure and\nmechanical forces, possibly for extended periods."
+  },
+  {
+   "s": "specimen",
+   "p": "damage",
+   "v": "edge with probable heat damage",
+   "quote": "and edge with probable heat damage (bottom right)."
+  },
+  {
+   "s": "specimen",
+   "p": "crystal_structure",
+   "v": "magnesium consistent with common magnesium alloy structures",
+   "quote": "TEM revealed that the crystalline structure of magnesium in the specimen was consistent with common magnesium\nalloy structures"
+  },
+  {
+   "s": "specimen",
+   "p": "lead_bismuth_ratio",
+   "v": "approximately 1:1 in co-located layers",
+   "quote": "location of lead and bismuth (in an approximate 1:1 ratio) in the bands."
+  },
+  {
+   "s": "specimen",
+   "p": "bismuth_structure",
+   "v": "no clear crystalline structure; highly nanocrystalline pockets in an otherwise amorphous matrix",
+   "quote": "lacked a clear crystalline structure, instead appearing to consist of highly nanocrystalline pockets in an otherwise\namorphous matrix"
+  },
+  {
+   "s": "specimen",
+   "p": "bismuth_structure",
+   "v": "bismuth layer is nanocrystalline and highly defective",
+   "quote": "indicates that the bismuth layer is nanocrystalline and highly defective."
+  },
+  {
+   "s": "specimen",
+   "p": "bismuth_distribution",
+   "v": "most concentrated at the top but present in many repeating layers",
+   "quote": "Bismuth is most\nconcentrated at the top but is present in many repeating layers."
+  },
+  {
+   "s": "specimen",
+   "p": "waveguide_finding",
+   "v": "a pure crystalline layer of bismuth was likely never present",
+   "quote": "likely indicates that a pure crystalline layer of bismuth\nwas never present within the material."
+  },
+  {
+   "s": "specimen",
+   "p": "waveguide_finding",
+   "v": "layered nature of the impure bismuth likely precludes it from acting as a waveguide",
+   "quote": "Thus, the layered nature of the impure bismuth within\nthe specimen likely precludes it from acting as a waveguide"
+  },
+  {
+   "s": "specimen",
+   "p": "waveguide_finding",
+   "v": "highly unlikely to have ever functioned as a bismuth-based terahertz waveguide",
+   "quote": "ORNL determined that this material is highly\nunlikely to have ever functioned as a bismuth-based terahertz waveguide."
+  },
+  {
+   "s": "specimen",
+   "p": "waveguide_finding",
+   "v": "bismuth is co-located and mixed with lead, disrupting required dielectric properties",
+   "quote": "function as a waveguide would have been disrupted in this material because the bismuth in the specimen is co-\nlocated and mixed with lead"
+  },
+  {
+   "s": "specimen",
+   "p": "magnesium_isotopes",
+   "v": "fractionated but within normal terrestrial compositions and expected fractionation trendlines",
+   "quote": "The magnesium isotopic signature of the specimen is fractionated (possibly owing to the mechanical and heat\nstrain that the material appears to have undergone) but falls within normal terrestrial compositions"
+  },
+  {
+   "s": "specimen",
+   "p": "lead_isotopes",
+   "v": "fully consistent with common lead compositions on Earth, distinct from lunar materials",
+   "quote": "the lead isotopic signature of this specimen is fully consistent with \"common lead\" compositions\nthat exist naturally on Earth and within terrestrial materials (Figure 7), distinctly separate from even lunar materials"
+  },
+  {
+   "s": "specimen",
+   "p": "origin_finding",
+   "v": "extremely likely that the material originated on Earth",
+   "quote": "indicating it is extremely likely that the material originated on Earth."
+  },
+  {
+   "s": "specimen",
+   "p": "origin_finding",
+   "v": "isotope composition consistent with materials manufactured and used terrestrially",
+   "quote": "Multicollector ICP-MS analysis showed that the specimen's magnesium and lead isotope composition is consistent\nwith other materials manufactured and used terrestrially"
+  },
+  {
+   "s": "specimen",
+   "p": "manufacture",
+   "v": "uncommon mixture of elements by today's standards",
+   "quote": "ORNL has a high level of confidence that all data indicate the material was\nmanufactured terrestrially-albeit using an uncommon mixture of elements by today's standards-and then incurred\ndamage caused by mechanical and heat stressors."
+  },
+  {
+   "s": "specimen",
+   "p": "comparison_materials",
+   "v": "meteorites, seawater, DOW metal, manufactured metal, NASA JSC metal, Earth, aerospace metal, Brazilian specimen",
+   "quote": "Meteorites\nSeawater\nDOW metal\nKinetic Fractionation\nSample A\nManufactured metal\nNASA JSC metal\nEarth\nAerospace metal\nBrazilian specimen"
+  },
+  {
+   "s": "specimen",
+   "p": "figure_1",
+   "v": "view of the as-received bulk specimen, tracking sticker edited out for public release",
+   "quote": "Figure 1. View of the as-received bulk specimen. Sticker"
+  },
+  {
+   "s": "aaro",
+   "p": "founded",
+   "v": "2022",
+   "quote": "AARO, founded in 2022, is congressionally mandated to\nexplore historical records of UAP incidents and publicly"
+  },
+  {
+   "s": "aaro",
+   "p": "mandate",
+   "v": "congressionally mandated to explore historical records of UAP incidents and publicly report its findings",
+   "quote": "AARO, founded in 2022, is congressionally mandated to\nexplore historical records of UAP incidents and publicly"
+  },
+  {
+   "s": "aaro",
+   "p": "statement",
+   "v": "public and media interest in the specimen warranted a transparent investigation that adhered to the scientific method",
+   "quote": "public and media\ninterest in the specimen warranted a transparent\ninvestigation that adhered to the scientific method."
+  },
+  {
+   "s": "aaro",
+   "p": "role",
+   "v": "sponsored the measurements and secured ORNL as science and technology partner",
+   "quote": "secured science and technology partner Oak Ridge\nNational Laboratory (ORNL), one of 17 US Department\nof Energy national laboratories, to independently\nassess and perform thorough characterization studies"
+  },
+  {
+   "s": "ornl",
+   "p": "description",
+   "v": "one of 17 US Department of Energy national laboratories",
+   "quote": "secured science and technology partner Oak Ridge\nNational Laboratory (ORNL), one of 17 US Department\nof Energy national laboratories, to independently\nassess and perform thorough characterization studies"
+  },
+  {
+   "s": "ornl",
+   "p": "expertise",
+   "v": "80-year history of materials science expertise",
+   "quote": "on the specimen, leveraging ORNL's 80-year history of"
+  },
+  {
+   "s": "ornl",
+   "p": "statement",
+   "v": "material was originally whole but strained by heat exposure and mechanical forces",
+   "quote": "ORNL determined are consistent with a material that was\noriginally whole but was strained by heat exposure and\nmechanical forces, possibly for extended periods."
+  },
+  {
+   "s": "ornl",
+   "p": "statement",
+   "v": "high level of confidence that the material was manufactured terrestrially",
+   "quote": "ORNL has a high level of confidence that all data indicate the material was\nmanufactured terrestrially-albeit using an uncommon mixture of elements by today's standards-and then incurred\ndamage caused by mechanical and heat stressors."
+  },
+  {
+   "s": "gvsc",
+   "p": "role",
+   "v": "provided ORNL access to the specimen beginning February 2023",
+   "quote": "DEVCOM Ground Vehicle System Center provided ORNL access\nto the metallic specimen-a single parent sample and three previously derived subsamples, all from the same\nmaterial-beginning in February 2023."
+  },
+  {
+   "s": "ttsa",
+   "p": "role",
+   "v": "authorized and oversaw all analyses and materials utilization via the DEVCOM CRADA",
+   "quote": "All analyses and materials utilization were authorized and overseen by TTSA via the DEVCOM CRADA, and all\nanalyses were preapproved by AARO and DEVCOM before ORNL received the specimen."
+  },
+  {
+   "s": "devcom",
+   "p": "role",
+   "v": "preapproved all analyses with AARO",
+   "quote": "All analyses and materials utilization were authorized and overseen by TTSA via the DEVCOM CRADA, and all\nanalyses were preapproved by AARO and DEVCOM before ORNL received the specimen."
+  },
+  {
+   "s": "crada",
+   "p": "purpose",
+   "v": "evaluate the feasibility of exploiting any potential disruptive technology associated with the specimen",
+   "quote": "Command (DEVCOM) established a Cooperative\nResearch and Development Agreement (CRADA) with\nTo the Stars Academy (TTSA) to evaluate the feasibility\nof exploiting any potential disruptive technology"
+  },
+  {
+   "s": "nist",
+   "p": "role",
+   "v": "certifies standard reference materials (SRM)",
+   "quote": "and certified by the U.S. Department of Commerce's National Institute for Standards and Technology."
+  },
+  {
+   "s": "sturrock_paper",
+   "p": "publication_year",
+   "v": "2001",
+   "quote": "30. Sturrock, P., Composition analysis of the Brazil magnesium. Journal of Scientific Exploration 2001, 15 (1), 69-\n95."
+  },
+  {
+   "s": "ndaa24",
+   "p": "section_cited",
+   "v": "Section 1841 (a)(1)(C)",
+   "quote": "IAW FY24 NDAA, Section 1841 (a)(1)(C)"
+  },
+  {
+   "s": "ndaa24",
+   "p": "codified_at",
+   "v": "44 U.S.C. 2107",
+   "quote": "Authority: FY24 NDAA, now codified at 44 U.S.C. 2107"
+  }
+ ]
+}

@@ -1,0 +1,1633 @@
+{
+ "slug": "aurora-texas-ufo-incident",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Aurora, Texas, UFO incident",
+   "description": "Reported 1897 crash of a UFO/airship on a farm near Aurora, Texas, with the pilot said to be buried in the local cemetery.",
+   "aliases": [
+    "Aurora incident"
+   ]
+  },
+  {
+   "key": "aurora",
+   "type": "place",
+   "name": "Aurora, Texas",
+   "description": "Texas town near which the crash reportedly occurred",
+   "aliases": [
+    "Aurora"
+   ]
+  },
+  {
+   "key": "cemetery",
+   "type": "place",
+   "name": "Aurora Cemetery",
+   "description": "Cemetery where the pilot was reportedly buried",
+   "aliases": [
+    "Aurora cemetery"
+   ]
+  },
+  {
+   "key": "fortworth",
+   "type": "place",
+   "name": "Fort Worth, Texas",
+   "description": "City near Aurora",
+   "aliases": [
+    "Fort Worth"
+   ]
+  },
+  {
+   "key": "dallas",
+   "type": "place",
+   "name": "Dallas, Texas",
+   "description": "City where TV station KDFW is based",
+   "aliases": [
+    "Dallas"
+   ]
+  },
+  {
+   "key": "texas",
+   "type": "place",
+   "name": "Texas",
+   "description": "US state; erected a historical plaque in Aurora",
+   "aliases": [
+    "State of Texas"
+   ]
+  },
+  {
+   "key": "roswell",
+   "type": "case",
+   "name": "Roswell incident",
+   "description": "More famous UFO incident 50 years later, to which the Aurora incident is compared",
+   "aliases": [
+    "Roswell UFO incident"
+   ]
+  },
+  {
+   "key": "airship_wave",
+   "type": "case",
+   "name": "Mystery airship",
+   "description": "Listed under See also"
+  },
+  {
+   "key": "craft",
+   "type": "craft",
+   "name": "UFO said to have crashed at Aurora on 1897",
+   "description": "Object described as a UFO/airship that hit a windmill and crashed",
+   "aliases": [
+    "the airship",
+    "the UFO"
+   ]
+  },
+  {
+   "key": "dmn",
+   "type": "organization",
+   "name": "Dallas Morning News",
+   "description": "Newspaper that printed the 1897 article"
+  },
+  {
+   "key": "haydon",
+   "type": "person",
+   "name": "S. E. Haydon",
+   "description": "Author of the 1897 Dallas Morning News article",
+   "aliases": [
+    "Haydon"
+   ]
+  },
+  {
+   "key": "article",
+   "type": "document",
+   "name": "Dallas Morning News article of April 17, 1897",
+   "description": "Article by S. E. Haydon describing the UFO crash"
+  },
+  {
+   "key": "proctor",
+   "type": "person",
+   "name": "J. S. Proctor",
+   "description": "Judge on whose property the UFO reportedly hit a windmill",
+   "aliases": [
+    "Judge J. S. Proctor",
+    "Judge Proctor"
+   ]
+  },
+  {
+   "key": "weems",
+   "type": "person",
+   "name": "T. J. Weems",
+   "description": "Reported Army Signal Service officer from Fort Worth"
+  },
+  {
+   "key": "signal",
+   "type": "organization",
+   "name": "Army Signal Service",
+   "description": "Service of which T. J. Weems was reportedly an officer"
+  },
+  {
+   "key": "thc",
+   "type": "organization",
+   "name": "Texas Historical Commission",
+   "description": "Body whose marker at the cemetery mentions the incident"
+  },
+  {
+   "key": "marker",
+   "type": "document",
+   "name": "Texas Historical Commission marker at Aurora Cemetery",
+   "description": "Historical marker mentioning the incident",
+   "aliases": [
+    "historical plaque"
+   ]
+  },
+  {
+   "key": "boates",
+   "type": "person",
+   "name": "Brawley Oates",
+   "description": "Bought Judge Proctor's property around 1935; blamed arthritis on well water",
+   "aliases": [
+    "Mr. Brawley Oates",
+    "Oates"
+   ]
+  },
+  {
+   "key": "toates",
+   "type": "person",
+   "name": "Tim Oates",
+   "description": "Grandson of Brawley Oates and later owner of the property"
+  },
+  {
+   "key": "pegues",
+   "type": "person",
+   "name": "Etta Pegues",
+   "description": "Aurora resident who said Haydon fabricated the story",
+   "aliases": [
+    "Ms. Pegues"
+   ]
+  },
+  {
+   "key": "time",
+   "type": "organization",
+   "name": "Time",
+   "description": "Magazine that interviewed Etta Pegues",
+   "aliases": [
+    "Time magazine"
+   ]
+  },
+  {
+   "key": "timeint",
+   "type": "document",
+   "name": "Time magazine interview with Etta Pegues",
+   "description": "Interview on which the hoax theory is primarily based",
+   "aliases": [
+    "1979 Time magazine article"
+   ]
+  },
+  {
+   "key": "kdfw",
+   "type": "organization",
+   "name": "KDFW",
+   "description": "Dallas-based television station",
+   "aliases": [
+    "KDFW FOX 4"
+   ]
+  },
+  {
+   "key": "kdfwrep",
+   "type": "work",
+   "name": "KDFW report on the Aurora incident (1998)",
+   "description": "Lengthy television report by Richard Ray"
+  },
+  {
+   "key": "ray",
+   "type": "person",
+   "name": "Richard Ray",
+   "description": "KDFW reporter"
+  },
+  {
+   "key": "marrs",
+   "type": "person",
+   "name": "Jim Marrs",
+   "description": "Former Fort Worth Star Telegram reporter interviewed by Ray"
+  },
+  {
+   "key": "fwst",
+   "type": "organization",
+   "name": "Fort Worth Star Telegram",
+   "description": "Newspaper for which Jim Marrs had been a reporter"
+  },
+  {
+   "key": "ufofiles",
+   "type": "work",
+   "name": "UFO Files",
+   "description": "Television series that aired an episode on the incident"
+  },
+  {
+   "key": "texroswell",
+   "type": "work",
+   "name": "Texas' Roswell",
+   "description": "UFO Files episode first aired December 19, 2005"
+  },
+  {
+   "key": "billcase",
+   "type": "person",
+   "name": "Bill Case",
+   "description": "Aviation writer and MUFON Texas state director who led a 1973 investigation"
+  },
+  {
+   "key": "dth",
+   "type": "organization",
+   "name": "Dallas Times Herald",
+   "description": "Newspaper for which Bill Case was aviation writer"
+  },
+  {
+   "key": "mufon",
+   "type": "organization",
+   "name": "Mutual UFO Network",
+   "description": "UFO organisation that investigated the incident",
+   "aliases": [
+    "MUFON"
+   ]
+  },
+  {
+   "key": "mufonrep",
+   "type": "document",
+   "name": "MUFON report on the Aurora incident",
+   "description": "Report stating the evidence was inconclusive"
+  },
+  {
+   "key": "evans",
+   "type": "person",
+   "name": "Mary Evans",
+   "description": "Eyewitness, aged 15 at the time",
+   "aliases": [
+    "Evans"
+   ]
+  },
+  {
+   "key": "stephens",
+   "type": "person",
+   "name": "Charlie Stephens",
+   "description": "Eyewitness, aged 10 at the time"
+  },
+  {
+   "key": "brammer",
+   "type": "person",
+   "name": "Brammer",
+   "description": "Mayor interviewed in the UFO Files episode",
+   "aliases": [
+    "Mayor Brammer"
+   ]
+  },
+  {
+   "key": "assoc",
+   "type": "organization",
+   "name": "Aurora Cemetery association",
+   "description": "Cemetery association that declined permission to exhume",
+   "aliases": [
+    "the cemetery association"
+   ]
+  },
+  {
+   "key": "ufohunters",
+   "type": "work",
+   "name": "UFO Hunters",
+   "description": "Television series that premiered a documentary on the incident"
+  },
+  {
+   "key": "firstcontact",
+   "type": "work",
+   "name": "First Contact",
+   "description": "UFO Hunters documentary premiered November 19, 2008"
+  },
+  {
+   "key": "encounter",
+   "type": "work",
+   "name": "The Aurora Encounter",
+   "description": "1986 film dramatizing the incident"
+  },
+  {
+   "key": "history",
+   "type": "organization",
+   "name": "History Channel",
+   "description": "Channel of Ancient Aliens"
+  },
+  {
+   "key": "aa",
+   "type": "work",
+   "name": "Ancient Aliens",
+   "description": "History Channel series that discussed the incident"
+  },
+  {
+   "key": "aaep",
+   "type": "work",
+   "name": "Aliens and the Old West",
+   "description": "Ancient Aliens third-season premiere"
+  },
+  {
+   "key": "negovan",
+   "type": "person",
+   "name": "Thomas Negovan",
+   "description": "Musician and historian, co-writer and co-director of the short movie Aurora"
+  },
+  {
+   "key": "shaps",
+   "type": "person",
+   "name": "Aaron Shaps",
+   "description": "Co-writer and co-director of the short movie Aurora"
+  },
+  {
+   "key": "aurorafilm",
+   "type": "work",
+   "name": "Aurora (short film)",
+   "description": "Independent short movie dramatizing the incident",
+   "aliases": [
+    "Aurora"
+   ]
+  },
+  {
+   "key": "firesign",
+   "type": "organization",
+   "name": "The Firesign Theatre",
+   "description": "Comedy group"
+  },
+  {
+   "key": "eykiw",
+   "type": "work",
+   "name": "Everything You Know Is Wrong",
+   "description": "1974 comedy LP satirizing the incident"
+  },
+  {
+   "key": "f_crash",
+   "type": "feature",
+   "name": "crash-retrieval-claim",
+   "description": "feature"
+  },
+  {
+   "key": "f_occ",
+   "type": "feature",
+   "name": "occupants-reported",
+   "description": "feature"
+  },
+  {
+   "key": "f_debris",
+   "type": "feature",
+   "name": "debris-or-material",
+   "description": "feature"
+  },
+  {
+   "key": "f_hoax",
+   "type": "feature",
+   "name": "hoax-alleged",
+   "description": "feature"
+  },
+  {
+   "key": "f_death",
+   "type": "feature",
+   "name": "death-or-disappearance",
+   "description": "feature"
+  },
+  {
+   "key": "f_phys",
+   "type": "feature",
+   "name": "physiological-effects",
+   "description": "feature"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "feature"
+  },
+  {
+   "key": "f_child",
+   "type": "feature",
+   "name": "child-witnesses",
+   "description": "feature"
+  },
+  {
+   "key": "f_disc",
+   "type": "feature",
+   "name": "shape-disc",
+   "description": "feature"
+  },
+  {
+   "key": "f_traces",
+   "type": "feature",
+   "name": "physical-traces",
+   "description": "feature"
+  },
+  {
+   "key": "f_tv",
+   "type": "feature",
+   "name": "other:television-investigation",
+   "description": "feature"
+  },
+  {
+   "key": "x_hoax",
+   "type": "explanation",
+   "name": "hoax",
+   "description": "Story fabricated by Haydon"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1897-04-17",
+   "quote": "The Aurora, Texas, UFO incident reportedly occurred on April 17, 1897, when, according to locals, a UFO crashed on a farm near Aurora, Texas."
+  },
+  {
+   "s": "case",
+   "p": "reported_date",
+   "v": "April 17, 1897",
+   "quote": "The Aurora, Texas, UFO incident reportedly occurred on April 17, 1897, when, according to locals, a UFO crashed on a farm near Aurora, Texas."
+  },
+  {
+   "s": "case",
+   "p": "crash_date",
+   "v": "two days earlier than April 17, 1897",
+   "quote": "The UFO was said to have hit a windmill on the property of a Judge J. S. Proctor two days earlier at around 6:00 am local time, resulting in its crash."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "6:00 am",
+   "quote": "The UFO was said to have hit a windmill on the property of a Judge J. S. Proctor two days earlier at around 6:00 am local time, resulting in its crash."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "The Aurora, Texas, UFO incident reportedly occurred on April 17, 1897, when, according to locals, a UFO crashed on a farm near Aurora, Texas."
+  },
+  {
+   "s": "case",
+   "p": "summary",
+   "v": "according to locals, a UFO crashed on a farm",
+   "quote": "The Aurora, Texas, UFO incident reportedly occurred on April 17, 1897, when, according to locals, a UFO crashed on a farm near Aurora, Texas."
+  },
+  {
+   "s": "case",
+   "p": "crash_location",
+   "v": "a farm near Aurora, Texas",
+   "quote": "The Aurora, Texas, UFO incident reportedly occurred on April 17, 1897, when, according to locals, a UFO crashed on a farm near Aurora, Texas."
+  },
+  {
+   "s": "case",
+   "p": "pilot_fate",
+   "v": "claimed to have resulted in the fatality of the pilot",
+   "quote": "The incident, similar to the more famous Roswell UFO incident 50 years later, is claimed to have resulted in the fatality of the pilot."
+  },
+  {
+   "s": "case",
+   "p": "pilot_description",
+   "v": "\"not of this world\" and was said to be an alien",
+   "quote": "The pilot was \"not of this world\" and was said to be an alien."
+  },
+  {
+   "s": "case",
+   "p": "pilot_origin_speculated",
+   "v": "a native of \"Mars\"",
+   "quote": "speculated to have been a native of \"Mars\" according to a reported Army Signal Service officer named T. J. Weems from nearby Fort Worth"
+  },
+  {
+   "s": "case",
+   "p": "pilot_burial",
+   "v": "buried \"with Christian rites\" at the nearby Aurora Cemetery",
+   "quote": "did not survive the crash and was buried \"with Christian rites\" at the nearby Aurora Cemetery"
+  },
+  {
+   "s": "case",
+   "p": "grave_marker",
+   "v": "A stone was placed as a marker for the grave, but has since been removed",
+   "quote": "A stone was placed as a marker for the grave, but has since been removed."
+  },
+  {
+   "s": "case",
+   "p": "cause_of_crash",
+   "v": "hit a windmill",
+   "quote": "The UFO was said to have hit a windmill on the property of a Judge J. S. Proctor two days earlier at around 6:00 am local time, resulting in its crash."
+  },
+  {
+   "s": "case",
+   "p": "wreckage_disposal",
+   "v": "dumped into a nearby well located under the damaged windmill, while some ended up with the pilot's body in the grave",
+   "quote": "Reportedly, wreckage from the crash site was dumped into a nearby well located under the damaged windmill, while some ended up with the pilot's body in the grave."
+  },
+  {
+   "s": "case",
+   "p": "well_sealed_year",
+   "v": "1957",
+   "quote": "According to writing on the slab, this was done in 1957."
+  },
+  {
+   "s": "case",
+   "p": "investigation_note",
+   "v": "investigated on numerous occasions",
+   "quote": "The incident has been investigated on numerous occasions."
+  },
+  {
+   "s": "case",
+   "p": "investigation_count",
+   "v": "One report by KDFW FOX 4 and two other reports on cable television",
+   "quote": "One report was broadcast by local television station KDFW FOX 4 and two other reports aired on cable television."
+  },
+  {
+   "s": "case",
+   "p": "new_eyewitnesses_found",
+   "v": "two",
+   "quote": "MUFON uncovered two new eyewitnesses to the crash."
+  },
+  {
+   "s": "case",
+   "p": "well_water_test",
+   "v": "significant concentration of aluminum; otherwise tested normal and contained no sign of substantial debris",
+   "quote": "Despite tests indicating that the well water had a significant concentration of aluminum, it otherwise tested normal and contained no sign of substantial debris."
+  },
+  {
+   "s": "case",
+   "p": "windmill_base_found",
+   "v": "remains of a windmill base were found near the well site",
+   "quote": "Further, the remains of a windmill base were found near the well site, which allegedly refuted Ms. Pegues' statements from the 1979 Time magazine article that Judge Proctor never had a windmill on his property."
+  },
+  {
+   "s": "case",
+   "p": "unmarked_grave_found",
+   "v": "an unmarked grave was found in the area near other 1890s graves",
+   "quote": "Although the cemetery association still did not permit exhumation, using ground-penetrating radar and photos from prior visits, an unmarked grave was found in the area near other 1890s graves."
+  },
+  {
+   "s": "case",
+   "p": "grave_condition",
+   "v": "badly deteriorated, and the radar could not conclusively prove what type of remains existed",
+   "quote": "However, the condition of the grave was badly deteriorated, and the radar could not conclusively prove what type of remains existed."
+  },
+  {
+   "s": "case",
+   "p": "metal_pieces",
+   "v": "land owner gave investigators pieces of metal that contained mostly aluminum and an unknown element",
+   "quote": "The land owner gave them pieces of metal that contained mostly aluminum and an unknown element."
+  },
+  {
+   "s": "case",
+   "p": "rumor",
+   "v": "any large pieces of metal had been removed from the well by a past owner of the property",
+   "quote": "It was stated in the episode that any large pieces of metal had been removed from the well by a past owner of the property."
+  },
+  {
+   "s": "case",
+   "p": "hoax_motive",
+   "v": "\"wrote it as a joke and to bring interest to Aurora. The railroad bypassed us, and the town was dying.\"",
+   "quote": "she stated that Haydon \"wrote it as a joke and to bring interest to Aurora. The railroad bypassed us, and the town was dying.\""
+  },
+  {
+   "s": "case",
+   "p": "labelled",
+   "v": "\"legend\"",
+   "quote": "Ray reported that the State of Texas erected a historical plaque in town that outlines the tale and labels it a \"legend\"."
+  },
+  {
+   "s": "case",
+   "p": "comparison",
+   "v": "similar to the more famous Roswell UFO incident 50 years later",
+   "quote": "The incident, similar to the more famous Roswell UFO incident 50 years later, is claimed to have resulted in the fatality of the pilot."
+  },
+  {
+   "s": "aurora",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Aurora, Texas, UFO incident reportedly occurred on April 17, 1897, when, according to locals, a UFO crashed on a farm near Aurora, Texas."
+  },
+  {
+   "s": "aurora",
+   "p": "located_in",
+   "o": "texas",
+   "quote": "The Aurora, Texas, UFO incident reportedly occurred on April 17, 1897, when, according to locals, a UFO crashed on a farm near Aurora, Texas."
+  },
+  {
+   "s": "cemetery",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The corpse was buried at the Aurora cemetery."
+  },
+  {
+   "s": "cemetery",
+   "p": "located_in",
+   "o": "aurora",
+   "quote": "did not survive the crash and was buried \"with Christian rites\" at the nearby Aurora Cemetery"
+  },
+  {
+   "s": "cemetery",
+   "p": "contains",
+   "v": "Texas Historical Commission marker mentioning the incident",
+   "quote": "The cemetery contains a Texas Historical Commission marker mentioning the incident."
+  },
+  {
+   "s": "cemetery",
+   "p": "grave_marker_found",
+   "v": "a grave marker that appeared to show a flying saucer of some sort",
+   "quote": "MUFON then investigated the Aurora Cemetery and uncovered a grave marker that appeared to show a flying saucer of some sort."
+  },
+  {
+   "s": "cemetery",
+   "p": "metal_detector",
+   "v": "returned positive readings",
+   "quote": "Their metal detector also returned positive readings."
+  },
+  {
+   "s": "cemetery",
+   "p": "marker_disappeared",
+   "v": "the marker mysteriously disappeared from the cemetery and a three-inch pipe was placed into the ground",
+   "quote": "After the MUFON investigation, the marker mysteriously disappeared from the cemetery and a three-inch pipe was placed into the ground; MUFON's metal detector no longer picked up readings from the grave, and it was presumed that the metal had been removed."
+  },
+  {
+   "s": "cemetery",
+   "p": "metal_detector_later",
+   "v": "no longer picked up readings from the grave; presumed that the metal had been removed",
+   "quote": "After the MUFON investigation, the marker mysteriously disappeared from the cemetery and a three-inch pipe was placed into the ground; MUFON's metal detector no longer picked up readings from the grave, and it was presumed that the metal had been removed."
+  },
+  {
+   "s": "cemetery",
+   "p": "ground_penetrating_radar",
+   "v": "an unmarked grave was found in the area near other 1890s graves",
+   "quote": "Although the cemetery association still did not permit exhumation, using ground-penetrating radar and photos from prior visits, an unmarked grave was found in the area near other 1890s graves."
+  },
+  {
+   "s": "fortworth",
+   "p": "near",
+   "o": "case",
+   "quote": "speculated to have been a native of \"Mars\" according to a reported Army Signal Service officer named T. J. Weems from nearby Fort Worth"
+  },
+  {
+   "s": "dallas",
+   "p": "related_place",
+   "o": "case",
+   "quote": "In 1998, Dallas-based TV station KDFW aired a lengthy report about the Aurora incident."
+  },
+  {
+   "s": "texas",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Ray reported that the State of Texas erected a historical plaque in town that outlines the tale and labels it a \"legend\"."
+  },
+  {
+   "s": "texas",
+   "p": "action",
+   "v": "erected a historical plaque in town that outlines the tale and labels it a \"legend\"",
+   "quote": "Ray reported that the State of Texas erected a historical plaque in town that outlines the tale and labels it a \"legend\"."
+  },
+  {
+   "s": "roswell",
+   "p": "related_case",
+   "o": "case",
+   "quote": "The incident, similar to the more famous Roswell UFO incident 50 years later, is claimed to have resulted in the fatality of the pilot."
+  },
+  {
+   "s": "airship_wave",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Mystery airship"
+  },
+  {
+   "s": "texroswell",
+   "p": "compared_to",
+   "o": "roswell",
+   "quote": "On December 19, 2005, UFO Files first aired an episode related to this incident, titled \"Texas' Roswell\"."
+  },
+  {
+   "s": "craft",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "The Aurora, Texas, UFO incident reportedly occurred on April 17, 1897, when, according to locals, a UFO crashed on a farm near Aurora, Texas."
+  },
+  {
+   "s": "craft",
+   "p": "event",
+   "v": "hit a windmill on the property of a Judge J. S. Proctor, resulting in its crash",
+   "quote": "The UFO was said to have hit a windmill on the property of a Judge J. S. Proctor two days earlier at around 6:00 am local time, resulting in its crash."
+  },
+  {
+   "s": "craft",
+   "p": "described_as",
+   "v": "airship trailing smoke",
+   "quote": "Charlie Stephens, who was age 10, recounted how he saw the airship trailing smoke as it headed north toward Aurora."
+  },
+  {
+   "s": "craft",
+   "p": "heading",
+   "v": "north toward Aurora",
+   "quote": "Charlie Stephens, who was age 10, recounted how he saw the airship trailing smoke as it headed north toward Aurora."
+  },
+  {
+   "s": "craft",
+   "p": "occupant",
+   "v": "a pilot \"not of this world\" who did not survive the crash",
+   "quote": "did not survive the crash and was buried \"with Christian rites\" at the nearby Aurora Cemetery"
+  },
+  {
+   "s": "craft",
+   "p": "wreckage",
+   "v": "dumped into a nearby well located under the damaged windmill",
+   "quote": "Reportedly, wreckage from the crash site was dumped into a nearby well located under the damaged windmill, while some ended up with the pilot's body in the grave."
+  },
+  {
+   "s": "dmn",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On April 17, 1897, an article in the Dallas Morning News written by S. E. Haydon described the UFO crash."
+  },
+  {
+   "s": "dmn",
+   "p": "published",
+   "o": "article",
+   "quote": "On April 17, 1897, an article in the Dallas Morning News written by S. E. Haydon described the UFO crash."
+  },
+  {
+   "s": "haydon",
+   "p": "journalist",
+   "o": "case",
+   "quote": "On April 17, 1897, an article in the Dallas Morning News written by S. E. Haydon described the UFO crash."
+  },
+  {
+   "s": "haydon",
+   "p": "authored",
+   "o": "article",
+   "quote": "On April 17, 1897, an article in the Dallas Morning News written by S. E. Haydon described the UFO crash."
+  },
+  {
+   "s": "article",
+   "p": "key_document",
+   "o": "case",
+   "quote": "On April 17, 1897, an article in the Dallas Morning News written by S. E. Haydon described the UFO crash."
+  },
+  {
+   "s": "article",
+   "p": "date",
+   "v": "1897-04-17",
+   "quote": "On April 17, 1897, an article in the Dallas Morning News written by S. E. Haydon described the UFO crash."
+  },
+  {
+   "s": "article",
+   "p": "content",
+   "v": "described the UFO crash",
+   "quote": "On April 17, 1897, an article in the Dallas Morning News written by S. E. Haydon described the UFO crash."
+  },
+  {
+   "s": "haydon",
+   "p": "alleged_motive",
+   "v": "\"wrote it as a joke and to bring interest to Aurora\"",
+   "quote": "she stated that Haydon \"wrote it as a joke and to bring interest to Aurora. The railroad bypassed us, and the town was dying.\""
+  },
+  {
+   "s": "proctor",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "The UFO was said to have hit a windmill on the property of a Judge J. S. Proctor two days earlier at around 6:00 am local time, resulting in its crash."
+  },
+  {
+   "s": "proctor",
+   "p": "title",
+   "v": "Judge",
+   "quote": "The UFO was said to have hit a windmill on the property of a Judge J. S. Proctor two days earlier at around 6:00 am local time, resulting in its crash."
+  },
+  {
+   "s": "proctor",
+   "p": "property",
+   "v": "windmill on his property reportedly hit by the UFO",
+   "quote": "The UFO was said to have hit a windmill on the property of a Judge J. S. Proctor two days earlier at around 6:00 am local time, resulting in its crash."
+  },
+  {
+   "s": "proctor",
+   "p": "disputed_detail",
+   "v": "Pegues stated that Judge Proctor never had a windmill on his property",
+   "quote": "Further, the remains of a windmill base were found near the well site, which allegedly refuted Ms. Pegues' statements from the 1979 Time magazine article that Judge Proctor never had a windmill on his property."
+  },
+  {
+   "s": "weems",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "speculated to have been a native of \"Mars\" according to a reported Army Signal Service officer named T. J. Weems from nearby Fort Worth"
+  },
+  {
+   "s": "weems",
+   "p": "member_of",
+   "o": "signal",
+   "quote": "speculated to have been a native of \"Mars\" according to a reported Army Signal Service officer named T. J. Weems from nearby Fort Worth"
+  },
+  {
+   "s": "weems",
+   "p": "located_in",
+   "o": "fortworth",
+   "quote": "speculated to have been a native of \"Mars\" according to a reported Army Signal Service officer named T. J. Weems from nearby Fort Worth"
+  },
+  {
+   "s": "weems",
+   "p": "occupation",
+   "v": "reported Army Signal Service officer",
+   "quote": "speculated to have been a native of \"Mars\" according to a reported Army Signal Service officer named T. J. Weems from nearby Fort Worth"
+  },
+  {
+   "s": "weems",
+   "p": "statement",
+   "v": "speculated the pilot to have been a native of \"Mars\"",
+   "quote": "speculated to have been a native of \"Mars\" according to a reported Army Signal Service officer named T. J. Weems from nearby Fort Worth"
+  },
+  {
+   "s": "signal",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "speculated to have been a native of \"Mars\" according to a reported Army Signal Service officer named T. J. Weems from nearby Fort Worth"
+  },
+  {
+   "s": "thc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The cemetery contains a Texas Historical Commission marker mentioning the incident."
+  },
+  {
+   "s": "marker",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The cemetery contains a Texas Historical Commission marker mentioning the incident."
+  },
+  {
+   "s": "thc",
+   "p": "authored",
+   "o": "marker",
+   "quote": "The cemetery contains a Texas Historical Commission marker mentioning the incident."
+  },
+  {
+   "s": "marker",
+   "p": "located_in",
+   "o": "cemetery",
+   "quote": "The cemetery contains a Texas Historical Commission marker mentioning the incident."
+  },
+  {
+   "s": "marker",
+   "p": "content",
+   "v": "outlines the tale and labels it a \"legend\"",
+   "quote": "Ray reported that the State of Texas erected a historical plaque in town that outlines the tale and labels it a \"legend\"."
+  },
+  {
+   "s": "boates",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Adding to the mystery was the story of Mr. Brawley Oates, who purchased Judge Proctor's property around 1935."
+  },
+  {
+   "s": "boates",
+   "p": "purchased_property",
+   "v": "Judge Proctor's property, around 1935",
+   "quote": "Adding to the mystery was the story of Mr. Brawley Oates, who purchased Judge Proctor's property around 1935."
+  },
+  {
+   "s": "boates",
+   "p": "action",
+   "v": "cleaned out the debris from the well in order to use it as a water source",
+   "quote": "Oates cleaned out the debris from the well in order to use it as a water source, but later developed an extremely severe case of arthritis, which he claimed to be the result of contaminated water from the wreckage dumped into the well."
+  },
+  {
+   "s": "boates",
+   "p": "illness",
+   "v": "an extremely severe case of arthritis",
+   "quote": "Oates cleaned out the debris from the well in order to use it as a water source, but later developed an extremely severe case of arthritis, which he claimed to be the result of contaminated water from the wreckage dumped into the well."
+  },
+  {
+   "s": "boates",
+   "p": "statement",
+   "v": "claimed arthritis to be the result of contaminated water from the wreckage dumped into the well",
+   "quote": "Oates cleaned out the debris from the well in order to use it as a water source, but later developed an extremely severe case of arthritis, which he claimed to be the result of contaminated water from the wreckage dumped into the well."
+  },
+  {
+   "s": "boates",
+   "p": "action",
+   "v": "sealed up the well with a concrete slab and placed an outbuilding atop the slab",
+   "quote": "As a result, Oates sealed up the well with a concrete slab and placed an outbuilding atop the slab."
+  },
+  {
+   "s": "toates",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Brawley Oates's grandson Tim Oates, now-owner of the property with the sealed well where the UFO wreckage was purportedly buried, allowed the investigators to unseal the well in order to examine it for possible debris."
+  },
+  {
+   "s": "toates",
+   "p": "relative_of",
+   "o": "boates",
+   "quote": "Brawley Oates's grandson Tim Oates, now-owner of the property with the sealed well where the UFO wreckage was purportedly buried, allowed the investigators to unseal the well in order to examine it for possible debris."
+  },
+  {
+   "s": "toates",
+   "p": "relationship",
+   "v": "Brawley Oates's grandson",
+   "quote": "Brawley Oates's grandson Tim Oates, now-owner of the property with the sealed well where the UFO wreckage was purportedly buried, allowed the investigators to unseal the well in order to examine it for possible debris."
+  },
+  {
+   "s": "toates",
+   "p": "role",
+   "v": "now-owner of the property with the sealed well",
+   "quote": "Brawley Oates's grandson Tim Oates, now-owner of the property with the sealed well where the UFO wreckage was purportedly buried, allowed the investigators to unseal the well in order to examine it for possible debris."
+  },
+  {
+   "s": "toates",
+   "p": "action",
+   "v": "allowed the investigators to unseal the well in order to examine it for possible debris",
+   "quote": "Brawley Oates's grandson Tim Oates, now-owner of the property with the sealed well where the UFO wreckage was purportedly buried, allowed the investigators to unseal the well in order to examine it for possible debris."
+  },
+  {
+   "s": "pegues",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "The hoax theory is primarily based on a 1980 Time magazine interview with Etta Pegues, an 86-year-old Aurora resident who claimed that Haydon had fabricated the entire story"
+  },
+  {
+   "s": "pegues",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "The hoax theory is primarily based on a 1980 Time magazine interview with Etta Pegues, an 86-year-old Aurora resident who claimed that Haydon had fabricated the entire story"
+  },
+  {
+   "s": "x_hoax",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The hoax theory is primarily based on a 1980 Time magazine interview with Etta Pegues, an 86-year-old Aurora resident who claimed that Haydon had fabricated the entire story"
+  },
+  {
+   "s": "pegues",
+   "p": "age",
+   "v": "86",
+   "quote": "The hoax theory is primarily based on a 1980 Time magazine interview with Etta Pegues, an 86-year-old Aurora resident who claimed that Haydon had fabricated the entire story"
+  },
+  {
+   "s": "pegues",
+   "p": "residence",
+   "v": "Aurora resident",
+   "quote": "The hoax theory is primarily based on a 1980 Time magazine interview with Etta Pegues, an 86-year-old Aurora resident who claimed that Haydon had fabricated the entire story"
+  },
+  {
+   "s": "pegues",
+   "p": "statement",
+   "v": "Haydon had fabricated the entire story",
+   "quote": "The hoax theory is primarily based on a 1980 Time magazine interview with Etta Pegues, an 86-year-old Aurora resident who claimed that Haydon had fabricated the entire story"
+  },
+  {
+   "s": "pegues",
+   "p": "statement",
+   "v": "Haydon \"wrote it as a joke and to bring interest to Aurora. The railroad bypassed us, and the town was dying.\"",
+   "quote": "she stated that Haydon \"wrote it as a joke and to bring interest to Aurora. The railroad bypassed us, and the town was dying.\""
+  },
+  {
+   "s": "pegues",
+   "p": "statement",
+   "v": "Judge Proctor never had a windmill on his property",
+   "quote": "Further, the remains of a windmill base were found near the well site, which allegedly refuted Ms. Pegues' statements from the 1979 Time magazine article that Judge Proctor never had a windmill on his property."
+  },
+  {
+   "s": "time",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The hoax theory is primarily based on a 1980 Time magazine interview with Etta Pegues, an 86-year-old Aurora resident who claimed that Haydon had fabricated the entire story"
+  },
+  {
+   "s": "time",
+   "p": "published",
+   "o": "timeint",
+   "quote": "The hoax theory is primarily based on a 1980 Time magazine interview with Etta Pegues, an 86-year-old Aurora resident who claimed that Haydon had fabricated the entire story"
+  },
+  {
+   "s": "time",
+   "p": "interviewed",
+   "o": "pegues",
+   "quote": "The hoax theory is primarily based on a 1980 Time magazine interview with Etta Pegues, an 86-year-old Aurora resident who claimed that Haydon had fabricated the entire story"
+  },
+  {
+   "s": "timeint",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The hoax theory is primarily based on a 1980 Time magazine interview with Etta Pegues, an 86-year-old Aurora resident who claimed that Haydon had fabricated the entire story"
+  },
+  {
+   "s": "timeint",
+   "p": "year",
+   "v": "1980",
+   "quote": "The hoax theory is primarily based on a 1980 Time magazine interview with Etta Pegues, an 86-year-old Aurora resident who claimed that Haydon had fabricated the entire story"
+  },
+  {
+   "s": "timeint",
+   "p": "year_as_also_given",
+   "v": "1979",
+   "quote": "Further, the remains of a windmill base were found near the well site, which allegedly refuted Ms. Pegues' statements from the 1979 Time magazine article that Judge Proctor never had a windmill on his property."
+  },
+  {
+   "s": "pegues",
+   "p": "disputed",
+   "o": "article",
+   "quote": "The hoax theory is primarily based on a 1980 Time magazine interview with Etta Pegues, an 86-year-old Aurora resident who claimed that Haydon had fabricated the entire story"
+  },
+  {
+   "s": "kdfw",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 1998, Dallas-based TV station KDFW aired a lengthy report about the Aurora incident."
+  },
+  {
+   "s": "kdfw",
+   "p": "located_in",
+   "o": "dallas",
+   "quote": "In 1998, Dallas-based TV station KDFW aired a lengthy report about the Aurora incident."
+  },
+  {
+   "s": "kdfw",
+   "p": "published",
+   "o": "kdfwrep",
+   "quote": "In 1998, Dallas-based TV station KDFW aired a lengthy report about the Aurora incident."
+  },
+  {
+   "s": "kdfw",
+   "p": "description",
+   "v": "local television station",
+   "quote": "One report was broadcast by local television station KDFW FOX 4 and two other reports aired on cable television."
+  },
+  {
+   "s": "kdfwrep",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 1998, Dallas-based TV station KDFW aired a lengthy report about the Aurora incident."
+  },
+  {
+   "s": "kdfwrep",
+   "p": "year",
+   "v": "1998",
+   "quote": "In 1998, Dallas-based TV station KDFW aired a lengthy report about the Aurora incident."
+  },
+  {
+   "s": "kdfwrep",
+   "p": "finding",
+   "v": "unable to find conclusive evidence of extraterrestrial life or technology",
+   "quote": "However, Ray's report was unable to find conclusive evidence of extraterrestrial life or technology."
+  },
+  {
+   "s": "ray",
+   "p": "journalist",
+   "o": "case",
+   "quote": "Reporter Richard Ray interviewed former Fort Worth Star Telegram reporter Jim Marrs and other locals, who said something crashed in Aurora."
+  },
+  {
+   "s": "ray",
+   "p": "employed_by",
+   "o": "kdfw",
+   "quote": "Reporter Richard Ray interviewed former Fort Worth Star Telegram reporter Jim Marrs and other locals, who said something crashed in Aurora."
+  },
+  {
+   "s": "ray",
+   "p": "interviewed",
+   "o": "marrs",
+   "quote": "Reporter Richard Ray interviewed former Fort Worth Star Telegram reporter Jim Marrs and other locals, who said something crashed in Aurora."
+  },
+  {
+   "s": "ray",
+   "p": "authored",
+   "o": "kdfwrep",
+   "quote": "However, Ray's report was unable to find conclusive evidence of extraterrestrial life or technology."
+  },
+  {
+   "s": "ray",
+   "p": "occupation",
+   "v": "Reporter",
+   "quote": "Reporter Richard Ray interviewed former Fort Worth Star Telegram reporter Jim Marrs and other locals, who said something crashed in Aurora."
+  },
+  {
+   "s": "ray",
+   "p": "statement",
+   "v": "the State of Texas erected a historical plaque in town that outlines the tale and labels it a \"legend\"",
+   "quote": "Ray reported that the State of Texas erected a historical plaque in town that outlines the tale and labels it a \"legend\"."
+  },
+  {
+   "s": "marrs",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Reporter Richard Ray interviewed former Fort Worth Star Telegram reporter Jim Marrs and other locals, who said something crashed in Aurora."
+  },
+  {
+   "s": "marrs",
+   "p": "employed_by",
+   "o": "fwst",
+   "quote": "Reporter Richard Ray interviewed former Fort Worth Star Telegram reporter Jim Marrs and other locals, who said something crashed in Aurora."
+  },
+  {
+   "s": "marrs",
+   "p": "occupation",
+   "v": "former Fort Worth Star Telegram reporter",
+   "quote": "Reporter Richard Ray interviewed former Fort Worth Star Telegram reporter Jim Marrs and other locals, who said something crashed in Aurora."
+  },
+  {
+   "s": "marrs",
+   "p": "statement",
+   "v": "said something crashed in Aurora",
+   "quote": "Reporter Richard Ray interviewed former Fort Worth Star Telegram reporter Jim Marrs and other locals, who said something crashed in Aurora."
+  },
+  {
+   "s": "fwst",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Reporter Richard Ray interviewed former Fort Worth Star Telegram reporter Jim Marrs and other locals, who said something crashed in Aurora."
+  },
+  {
+   "s": "ufofiles",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "On December 19, 2005, UFO Files first aired an episode related to this incident, titled \"Texas' Roswell\"."
+  },
+  {
+   "s": "texroswell",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "On December 19, 2005, UFO Files first aired an episode related to this incident, titled \"Texas' Roswell\"."
+  },
+  {
+   "s": "texroswell",
+   "p": "part_of",
+   "o": "ufofiles",
+   "quote": "On December 19, 2005, UFO Files first aired an episode related to this incident, titled \"Texas' Roswell\"."
+  },
+  {
+   "s": "texroswell",
+   "p": "air_date",
+   "v": "2005-12-19",
+   "quote": "On December 19, 2005, UFO Files first aired an episode related to this incident, titled \"Texas' Roswell\"."
+  },
+  {
+   "s": "texroswell",
+   "p": "content",
+   "v": "featured a 1973 investigation led by Bill Case",
+   "quote": "The episode featured a 1973 investigation led by Bill Case, an aviation writer for the Dallas Times Herald and the Texas state director of the Mutual UFO Network (MUFON)."
+  },
+  {
+   "s": "billcase",
+   "p": "investigator",
+   "o": "case",
+   "quote": "The episode featured a 1973 investigation led by Bill Case, an aviation writer for the Dallas Times Herald and the Texas state director of the Mutual UFO Network (MUFON)."
+  },
+  {
+   "s": "billcase",
+   "p": "employed_by",
+   "o": "dth",
+   "quote": "The episode featured a 1973 investigation led by Bill Case, an aviation writer for the Dallas Times Herald and the Texas state director of the Mutual UFO Network (MUFON)."
+  },
+  {
+   "s": "billcase",
+   "p": "member_of",
+   "o": "mufon",
+   "quote": "The episode featured a 1973 investigation led by Bill Case, an aviation writer for the Dallas Times Herald and the Texas state director of the Mutual UFO Network (MUFON)."
+  },
+  {
+   "s": "billcase",
+   "p": "occupation",
+   "v": "aviation writer for the Dallas Times Herald",
+   "quote": "The episode featured a 1973 investigation led by Bill Case, an aviation writer for the Dallas Times Herald and the Texas state director of the Mutual UFO Network (MUFON)."
+  },
+  {
+   "s": "billcase",
+   "p": "position",
+   "v": "Texas state director of the Mutual UFO Network",
+   "quote": "The episode featured a 1973 investigation led by Bill Case, an aviation writer for the Dallas Times Herald and the Texas state director of the Mutual UFO Network (MUFON)."
+  },
+  {
+   "s": "billcase",
+   "p": "investigation_year",
+   "v": "1973",
+   "quote": "The episode featured a 1973 investigation led by Bill Case, an aviation writer for the Dallas Times Herald and the Texas state director of the Mutual UFO Network (MUFON)."
+  },
+  {
+   "s": "dth",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The episode featured a 1973 investigation led by Bill Case, an aviation writer for the Dallas Times Herald and the Texas state director of the Mutual UFO Network (MUFON)."
+  },
+  {
+   "s": "mufon",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The episode featured a 1973 investigation led by Bill Case, an aviation writer for the Dallas Times Herald and the Texas state director of the Mutual UFO Network (MUFON)."
+  },
+  {
+   "s": "mufon",
+   "p": "authored",
+   "o": "mufonrep",
+   "quote": "MUFON's report eventually stated that the evidence was inconclusive, but did not rule out the possibility of a hoax."
+  },
+  {
+   "s": "mufon",
+   "p": "finding",
+   "v": "uncovered two new eyewitnesses to the crash",
+   "quote": "MUFON uncovered two new eyewitnesses to the crash."
+  },
+  {
+   "s": "mufon",
+   "p": "finding",
+   "v": "uncovered a grave marker that appeared to show a flying saucer of some sort",
+   "quote": "MUFON then investigated the Aurora Cemetery and uncovered a grave marker that appeared to show a flying saucer of some sort."
+  },
+  {
+   "s": "mufon",
+   "p": "request",
+   "v": "asked for permission to exhume the site, but the cemetery association declined permission",
+   "quote": "MUFON asked for permission to exhume the site, but the cemetery association declined permission."
+  },
+  {
+   "s": "mufonrep",
+   "p": "key_document",
+   "o": "case",
+   "quote": "MUFON's report eventually stated that the evidence was inconclusive, but did not rule out the possibility of a hoax."
+  },
+  {
+   "s": "mufonrep",
+   "p": "conclusion",
+   "v": "evidence was inconclusive, but did not rule out the possibility of a hoax",
+   "quote": "MUFON's report eventually stated that the evidence was inconclusive, but did not rule out the possibility of a hoax."
+  },
+  {
+   "s": "mufon",
+   "p": "interviewed",
+   "o": "evans",
+   "quote": "MUFON uncovered two new eyewitnesses to the crash."
+  },
+  {
+   "s": "mufon",
+   "p": "interviewed",
+   "o": "stephens",
+   "quote": "MUFON uncovered two new eyewitnesses to the crash."
+  },
+  {
+   "s": "evans",
+   "p": "witness",
+   "o": "case",
+   "quote": "Mary Evans, who was 15 at the time, described how her parents visited the crash site and also recounted that an alleged alien body was discovered."
+  },
+  {
+   "s": "evans",
+   "p": "age",
+   "v": "15",
+   "quote": "Mary Evans, who was 15 at the time, described how her parents visited the crash site and also recounted that an alleged alien body was discovered."
+  },
+  {
+   "s": "evans",
+   "p": "statement",
+   "v": "her parents visited the crash site; an alleged alien body was discovered",
+   "quote": "Mary Evans, who was 15 at the time, described how her parents visited the crash site and also recounted that an alleged alien body was discovered."
+  },
+  {
+   "s": "evans",
+   "p": "detail",
+   "v": "her parents had forbidden her from going",
+   "quote": "Evans' parents had forbidden her from going."
+  },
+  {
+   "s": "stephens",
+   "p": "witness",
+   "o": "case",
+   "quote": "Charlie Stephens, who was age 10, recounted how he saw the airship trailing smoke as it headed north toward Aurora."
+  },
+  {
+   "s": "stephens",
+   "p": "age",
+   "v": "10",
+   "quote": "Charlie Stephens, who was age 10, recounted how he saw the airship trailing smoke as it headed north toward Aurora."
+  },
+  {
+   "s": "stephens",
+   "p": "described",
+   "o": "craft",
+   "quote": "Charlie Stephens, who was age 10, recounted how he saw the airship trailing smoke as it headed north toward Aurora."
+  },
+  {
+   "s": "stephens",
+   "p": "statement",
+   "v": "saw the airship trailing smoke as it headed north toward Aurora",
+   "quote": "Charlie Stephens, who was age 10, recounted how he saw the airship trailing smoke as it headed north toward Aurora."
+  },
+  {
+   "s": "stephens",
+   "p": "detail",
+   "v": "wanted to see what happened, but his father made him finish his chores",
+   "quote": "He wanted to see what happened, but his father made him finish his chores."
+  },
+  {
+   "s": "stephens",
+   "p": "statement",
+   "v": "his father went to town the next day and observed wreckage from the crash",
+   "quote": "He claimed that his father went to town the next day and observed wreckage from the crash."
+  },
+  {
+   "s": "brammer",
+   "p": "commentator",
+   "o": "case",
+   "quote": "The episode featured an interview with Mayor Brammer, who discussed the town's tragic history."
+  },
+  {
+   "s": "brammer",
+   "p": "title",
+   "v": "Mayor",
+   "quote": "The episode featured an interview with Mayor Brammer, who discussed the town's tragic history."
+  },
+  {
+   "s": "brammer",
+   "p": "statement",
+   "v": "discussed the town's tragic history",
+   "quote": "The episode featured an interview with Mayor Brammer, who discussed the town's tragic history."
+  },
+  {
+   "s": "texroswell",
+   "p": "interviewed",
+   "o": "brammer",
+   "quote": "The episode featured an interview with Mayor Brammer, who discussed the town's tragic history."
+  },
+  {
+   "s": "assoc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "MUFON asked for permission to exhume the site, but the cemetery association declined permission."
+  },
+  {
+   "s": "assoc",
+   "p": "action",
+   "v": "declined permission to exhume the site",
+   "quote": "MUFON asked for permission to exhume the site, but the cemetery association declined permission."
+  },
+  {
+   "s": "assoc",
+   "p": "action",
+   "v": "still did not permit exhumation",
+   "quote": "Although the cemetery association still did not permit exhumation, using ground-penetrating radar and photos from prior visits, an unmarked grave was found in the area near other 1890s graves."
+  },
+  {
+   "s": "assoc",
+   "p": "part_of",
+   "o": "cemetery",
+   "quote": "MUFON asked for permission to exhume the site, but the cemetery association declined permission."
+  },
+  {
+   "s": "ufohunters",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "On November 19, 2008, UFO Hunters premiered another television documentary regarding the Aurora incident, titled \"First Contact\"."
+  },
+  {
+   "s": "firstcontact",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "On November 19, 2008, UFO Hunters premiered another television documentary regarding the Aurora incident, titled \"First Contact\"."
+  },
+  {
+   "s": "firstcontact",
+   "p": "part_of",
+   "o": "ufohunters",
+   "quote": "On November 19, 2008, UFO Hunters premiered another television documentary regarding the Aurora incident, titled \"First Contact\"."
+  },
+  {
+   "s": "firstcontact",
+   "p": "premiere_date",
+   "v": "2008-11-19",
+   "quote": "On November 19, 2008, UFO Hunters premiered another television documentary regarding the Aurora incident, titled \"First Contact\"."
+  },
+  {
+   "s": "firstcontact",
+   "p": "method",
+   "v": "ground-penetrating radar and photos from prior visits",
+   "quote": "Although the cemetery association still did not permit exhumation, using ground-penetrating radar and photos from prior visits, an unmarked grave was found in the area near other 1890s graves."
+  },
+  {
+   "s": "firstcontact",
+   "p": "finding",
+   "v": "well water had a significant concentration of aluminum",
+   "quote": "Despite tests indicating that the well water had a significant concentration of aluminum, it otherwise tested normal and contained no sign of substantial debris."
+  },
+  {
+   "s": "encounter",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The incident is dramatized in the 1986 film The Aurora Encounter"
+  },
+  {
+   "s": "encounter",
+   "p": "year",
+   "v": "1986",
+   "quote": "The incident is dramatized in the 1986 film The Aurora Encounter"
+  },
+  {
+   "s": "encounter",
+   "p": "format",
+   "v": "film",
+   "quote": "The incident is dramatized in the 1986 film The Aurora Encounter"
+  },
+  {
+   "s": "aa",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "as well as being discussed within the History Channel's Ancient Aliens third-season premiere (entitled Aliens and the Old West) that focuses on late 19th-century UFO sightings in western North America."
+  },
+  {
+   "s": "aaep",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "as well as being discussed within the History Channel's Ancient Aliens third-season premiere (entitled Aliens and the Old West) that focuses on late 19th-century UFO sightings in western North America."
+  },
+  {
+   "s": "aaep",
+   "p": "part_of",
+   "o": "aa",
+   "quote": "as well as being discussed within the History Channel's Ancient Aliens third-season premiere (entitled Aliens and the Old West) that focuses on late 19th-century UFO sightings in western North America."
+  },
+  {
+   "s": "history",
+   "p": "published",
+   "o": "aa",
+   "quote": "as well as being discussed within the History Channel's Ancient Aliens third-season premiere (entitled Aliens and the Old West) that focuses on late 19th-century UFO sightings in western North America."
+  },
+  {
+   "s": "history",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "as well as being discussed within the History Channel's Ancient Aliens third-season premiere (entitled Aliens and the Old West) that focuses on late 19th-century UFO sightings in western North America."
+  },
+  {
+   "s": "aaep",
+   "p": "focus",
+   "v": "late 19th-century UFO sightings in western North America",
+   "quote": "as well as being discussed within the History Channel's Ancient Aliens third-season premiere (entitled Aliens and the Old West) that focuses on late 19th-century UFO sightings in western North America."
+  },
+  {
+   "s": "aaep",
+   "p": "episode",
+   "v": "third-season premiere",
+   "quote": "as well as being discussed within the History Channel's Ancient Aliens third-season premiere (entitled Aliens and the Old West) that focuses on late 19th-century UFO sightings in western North America."
+  },
+  {
+   "s": "aurorafilm",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "An independent short movie co-written and co-directed by musician and historian Thomas Negovan and Aaron Shaps, Aurora, dramatizes the incident and combines it with the Nazi conspiracy theory of Die Glocke."
+  },
+  {
+   "s": "negovan",
+   "p": "authored",
+   "o": "aurorafilm",
+   "quote": "An independent short movie co-written and co-directed by musician and historian Thomas Negovan and Aaron Shaps, Aurora, dramatizes the incident and combines it with the Nazi conspiracy theory of Die Glocke."
+  },
+  {
+   "s": "shaps",
+   "p": "authored",
+   "o": "aurorafilm",
+   "quote": "An independent short movie co-written and co-directed by musician and historian Thomas Negovan and Aaron Shaps, Aurora, dramatizes the incident and combines it with the Nazi conspiracy theory of Die Glocke."
+  },
+  {
+   "s": "negovan",
+   "p": "commentator",
+   "o": "case",
+   "quote": "An independent short movie co-written and co-directed by musician and historian Thomas Negovan and Aaron Shaps, Aurora, dramatizes the incident and combines it with the Nazi conspiracy theory of Die Glocke."
+  },
+  {
+   "s": "shaps",
+   "p": "commentator",
+   "o": "case",
+   "quote": "An independent short movie co-written and co-directed by musician and historian Thomas Negovan and Aaron Shaps, Aurora, dramatizes the incident and combines it with the Nazi conspiracy theory of Die Glocke."
+  },
+  {
+   "s": "negovan",
+   "p": "colleague_of",
+   "o": "shaps",
+   "quote": "An independent short movie co-written and co-directed by musician and historian Thomas Negovan and Aaron Shaps, Aurora, dramatizes the incident and combines it with the Nazi conspiracy theory of Die Glocke."
+  },
+  {
+   "s": "negovan",
+   "p": "occupation",
+   "v": "musician and historian",
+   "quote": "An independent short movie co-written and co-directed by musician and historian Thomas Negovan and Aaron Shaps, Aurora, dramatizes the incident and combines it with the Nazi conspiracy theory of Die Glocke."
+  },
+  {
+   "s": "negovan",
+   "p": "role",
+   "v": "co-wrote and co-directed",
+   "quote": "An independent short movie co-written and co-directed by musician and historian Thomas Negovan and Aaron Shaps, Aurora, dramatizes the incident and combines it with the Nazi conspiracy theory of Die Glocke."
+  },
+  {
+   "s": "shaps",
+   "p": "role",
+   "v": "co-wrote and co-directed",
+   "quote": "An independent short movie co-written and co-directed by musician and historian Thomas Negovan and Aaron Shaps, Aurora, dramatizes the incident and combines it with the Nazi conspiracy theory of Die Glocke."
+  },
+  {
+   "s": "aurorafilm",
+   "p": "format",
+   "v": "independent short movie",
+   "quote": "An independent short movie co-written and co-directed by musician and historian Thomas Negovan and Aaron Shaps, Aurora, dramatizes the incident and combines it with the Nazi conspiracy theory of Die Glocke."
+  },
+  {
+   "s": "aurorafilm",
+   "p": "content",
+   "v": "combines the incident with the Nazi conspiracy theory of Die Glocke",
+   "quote": "An independent short movie co-written and co-directed by musician and historian Thomas Negovan and Aaron Shaps, Aurora, dramatizes the incident and combines it with the Nazi conspiracy theory of Die Glocke."
+  },
+  {
+   "s": "eykiw",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The incident is satirized in The Firesign Theatre's 1974 comedy LP Everything You Know Is Wrong, performed from about 3:00 to 4:42 on Side A."
+  },
+  {
+   "s": "firesign",
+   "p": "authored",
+   "o": "eykiw",
+   "quote": "The incident is satirized in The Firesign Theatre's 1974 comedy LP Everything You Know Is Wrong, performed from about 3:00 to 4:42 on Side A."
+  },
+  {
+   "s": "firesign",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The incident is satirized in The Firesign Theatre's 1974 comedy LP Everything You Know Is Wrong, performed from about 3:00 to 4:42 on Side A."
+  },
+  {
+   "s": "eykiw",
+   "p": "year",
+   "v": "1974",
+   "quote": "The incident is satirized in The Firesign Theatre's 1974 comedy LP Everything You Know Is Wrong, performed from about 3:00 to 4:42 on Side A."
+  },
+  {
+   "s": "eykiw",
+   "p": "format",
+   "v": "comedy LP",
+   "quote": "The incident is satirized in The Firesign Theatre's 1974 comedy LP Everything You Know Is Wrong, performed from about 3:00 to 4:42 on Side A."
+  },
+  {
+   "s": "eykiw",
+   "p": "segment",
+   "v": "from about 3:00 to 4:42 on Side A",
+   "quote": "The incident is satirized in The Firesign Theatre's 1974 comedy LP Everything You Know Is Wrong, performed from about 3:00 to 4:42 on Side A."
+  },
+  {
+   "s": "f_crash",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Aurora, Texas, UFO incident reportedly occurred on April 17, 1897, when, according to locals, a UFO crashed on a farm near Aurora, Texas."
+  },
+  {
+   "s": "f_occ",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The pilot was \"not of this world\" and was said to be an alien."
+  },
+  {
+   "s": "f_debris",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Reportedly, wreckage from the crash site was dumped into a nearby well located under the damaged windmill, while some ended up with the pilot's body in the grave."
+  },
+  {
+   "s": "f_hoax",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The hoax theory is primarily based on a 1980 Time magazine interview with Etta Pegues, an 86-year-old Aurora resident who claimed that Haydon had fabricated the entire story"
+  },
+  {
+   "s": "f_death",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The incident, similar to the more famous Roswell UFO incident 50 years later, is claimed to have resulted in the fatality of the pilot."
+  },
+  {
+   "s": "f_phys",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Oates cleaned out the debris from the well in order to use it as a water source, but later developed an extremely severe case of arthritis, which he claimed to be the result of contaminated water from the wreckage dumped into the well."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "MUFON uncovered two new eyewitnesses to the crash."
+  },
+  {
+   "s": "f_child",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Charlie Stephens, who was age 10, recounted how he saw the airship trailing smoke as it headed north toward Aurora."
+  },
+  {
+   "s": "f_disc",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "MUFON then investigated the Aurora Cemetery and uncovered a grave marker that appeared to show a flying saucer of some sort."
+  },
+  {
+   "s": "f_traces",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Further, the remains of a windmill base were found near the well site, which allegedly refuted Ms. Pegues' statements from the 1979 Time magazine article that Judge Proctor never had a windmill on his property."
+  },
+  {
+   "s": "f_tv",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "One report was broadcast by local television station KDFW FOX 4 and two other reports aired on cable television."
+  }
+ ]
+}

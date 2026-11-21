@@ -1,0 +1,1407 @@
+{
+ "slug": "jimmy-carter-ufo-incident",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Jimmy Carter UFO incident",
+   "description": "Jimmy Carter's reported 1969 sighting of an unidentified flying object at Leary, Georgia, before a Lions Club speech."
+  },
+  {
+   "key": "carter",
+   "type": "person",
+   "name": "Jimmy Carter",
+   "description": "United States president 1977-1981 and former governor of Georgia who reported the sighting",
+   "aliases": [
+    "Carter",
+    "President Carter",
+    "President Jimmy Carter"
+   ]
+  },
+  {
+   "key": "leary",
+   "type": "place",
+   "name": "Leary, Georgia",
+   "description": "Town where Carter reported the sighting",
+   "aliases": [
+    "Leary",
+    "Leary, GA"
+   ]
+  },
+  {
+   "key": "georgia",
+   "type": "place",
+   "name": "Georgia",
+   "description": "US state of which Carter was governor"
+  },
+  {
+   "key": "iufob",
+   "type": "organization",
+   "name": "International UFO Bureau",
+   "description": "Oklahoma City UFO group that asked Carter to file a sighting report"
+  },
+  {
+   "key": "okc",
+   "type": "place",
+   "name": "Oklahoma City, Oklahoma",
+   "description": "Location of the International UFO Bureau",
+   "aliases": [
+    "Oklahoma City"
+   ]
+  },
+  {
+   "key": "lions",
+   "type": "organization",
+   "name": "Lions Club",
+   "description": "Service club at whose Leary meeting Carter was to speak",
+   "aliases": [
+    "Leary Lions Club"
+   ]
+  },
+  {
+   "key": "obj",
+   "type": "craft",
+   "name": "bright white light seen by Jimmy Carter at Leary",
+   "description": "Self-illuminated, colour-changing light reported by Carter",
+   "aliases": [
+    "strange bright white object"
+   ]
+  },
+  {
+   "key": "report",
+   "type": "document",
+   "name": "Jimmy Carter's 1973 UFO report to the International UFO Bureau",
+   "description": "Handwritten sighting statement filed by Carter in September 1973",
+   "aliases": [
+    "Carter's official 1973 UFO report",
+    "Carter's original report"
+   ]
+  },
+  {
+   "key": "lionsreport",
+   "type": "document",
+   "name": "Carter's meeting report to the Lions Club",
+   "description": "Meeting report dating Carter's Leary speech to January 6, 1969",
+   "aliases": [
+    "Lions Club records"
+   ]
+  },
+  {
+   "key": "hart",
+   "type": "person",
+   "name": "Fred Hart",
+   "description": "Only guest contacted who remembered seeing the object"
+  },
+  {
+   "key": "sheaffer",
+   "type": "person",
+   "name": "Robert Sheaffer",
+   "description": "Ufologist who concluded the object was Venus"
+  },
+  {
+   "key": "hendry",
+   "type": "person",
+   "name": "Allan Hendry",
+   "description": "Ufologist whose calculations agreed with the Venus assessment"
+  },
+  {
+   "key": "sgu",
+   "type": "work",
+   "name": "The Skeptics' Guide to the Universe",
+   "description": "Podcast that interviewed Carter in 2007 and read Justus's letter in 2016",
+   "aliases": [
+    "Skepticast",
+    "The Skeptic's Guide to the Universe"
+   ]
+  },
+  {
+   "key": "justus",
+   "type": "person",
+   "name": "Carl G. \"Jere\" Justus",
+   "description": "Researcher on Air Force sponsored chemical-cloud releases who proposed a barium cloud explanation",
+   "aliases": [
+    "Justus",
+    "Jere Justus",
+    "Carl G. Justus"
+   ]
+  },
+  {
+   "key": "gml",
+   "type": "work",
+   "name": "Georgia Myths & Legends",
+   "description": "Book by Don Rhodes with a chapter on Carter and the UFO",
+   "aliases": [
+    "the Rhodes book"
+   ]
+  },
+  {
+   "key": "rhodes",
+   "type": "person",
+   "name": "Don Rhodes",
+   "description": "Augusta Chronicle columnist, author of Georgia Myths & Legends"
+  },
+  {
+   "key": "augchron",
+   "type": "organization",
+   "name": "Augusta Chronicle",
+   "description": "Newspaper for which Don Rhodes was a columnist"
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "description": "Sponsor of the upper-atmosphere chemical cloud project",
+   "aliases": [
+    "Air Force"
+   ]
+  },
+  {
+   "key": "eglin",
+   "type": "place",
+   "name": "Eglin Air Force Base",
+   "description": "Florida base whose rocket range launched barium clouds",
+   "aliases": [
+    "Eglin AFB",
+    "Eglin AFB, FL"
+   ]
+  },
+  {
+   "key": "florida",
+   "type": "place",
+   "name": "Florida",
+   "description": "US state where Eglin AFB is located"
+  },
+  {
+   "key": "cospar_rep",
+   "type": "document",
+   "name": "U.S. Space Science Program Report to COSPAR, 1970",
+   "description": "Report documenting a barium cloud release from Eglin AFB on January 6, 1969"
+  },
+  {
+   "key": "cospar",
+   "type": "organization",
+   "name": "Committee on Space Research",
+   "description": "Body to which the U.S. Space Science Program report was addressed",
+   "aliases": [
+    "COSPAR"
+   ]
+  },
+  {
+   "key": "justus_study",
+   "type": "document",
+   "name": "Justus's 2020 study of high-altitude barium release clouds",
+   "description": "Study concluding Carter's sighting was consistent with the Eglin launch"
+  },
+  {
+   "key": "library",
+   "type": "organization",
+   "name": "Jimmy Carter Library",
+   "description": "Archive to which Justus submitted his report"
+  },
+  {
+   "key": "cia",
+   "type": "organization",
+   "name": "Central Intelligence Agency",
+   "description": "Agency rumoured to have refused Carter UFO information",
+   "aliases": [
+    "CIA"
+   ]
+  },
+  {
+   "key": "raines",
+   "type": "person",
+   "name": "Howell Raines",
+   "description": "Author of 1973 Atlanta Constitution article on the sighting"
+  },
+  {
+   "key": "raines_art",
+   "type": "work",
+   "name": "Carter Once Saw a UFO on 'Very Sober Occasion'",
+   "description": "Atlanta Constitution article, Sept. 14, 1973"
+  },
+  {
+   "key": "atlconst",
+   "type": "organization",
+   "name": "Atlanta Constitution",
+   "description": "Newspaper that published Raines's article"
+  },
+  {
+   "key": "enquirer",
+   "type": "organization",
+   "name": "The National Enquirer",
+   "description": "Tabloid that ran Carter's story on June 8, 1976, with errors"
+  },
+  {
+   "key": "thomaston",
+   "type": "place",
+   "name": "Thomaston, Georgia",
+   "description": "Town incorrectly given as the location by The National Enquirer"
+  },
+  {
+   "key": "hughs",
+   "type": "person",
+   "name": "Hayden Hughs",
+   "description": "International UFO Bureau member who wrote an Argosy UFO article"
+  },
+  {
+   "key": "argosy",
+   "type": "work",
+   "name": "Argosy UFO",
+   "description": "Magazine, spin-off of Argosy, that carried Hughs's article in November 1976"
+  },
+  {
+   "key": "nicap",
+   "type": "organization",
+   "name": "National Investigations Committee on Aerial Phenomena",
+   "description": "UFO group that republished Carter's report in altered form",
+   "aliases": [
+    "NICAP"
+   ]
+  },
+  {
+   "key": "ufoinv",
+   "type": "work",
+   "name": "UFO Investigator",
+   "description": "NICAP publication that republished Carter's report in February 1977"
+  },
+  {
+   "key": "wapo",
+   "type": "organization",
+   "name": "The Washington Post",
+   "description": "Newspaper that ran the story on its front page on April 30, 1977"
+  },
+  {
+   "key": "sheaffer_art",
+   "type": "work",
+   "name": "President Carter's 'UFO' Is Identified as the Planet Venus",
+   "description": "Article by Robert Sheaffer in Humanist magazine, July-August 1977"
+  },
+  {
+   "key": "humanist",
+   "type": "organization",
+   "name": "Humanist",
+   "description": "Magazine that published Sheaffer's article",
+   "aliases": [
+    "Humanist magazine"
+   ]
+  },
+  {
+   "key": "tiede",
+   "type": "person",
+   "name": "Tom Tiede",
+   "description": "Author of 1978 newspaper article on Leary residents' recollections"
+  },
+  {
+   "key": "tiede_art",
+   "type": "work",
+   "name": "Learyites leery of Carter's encounter: No one recalls 1970 UFO spotting",
+   "description": "Article by Tom Tiede, Feb. 2, 1978"
+  },
+  {
+   "key": "mtpleasant",
+   "type": "organization",
+   "name": "Mt. Pleasant Daily Tribune",
+   "description": "Texas newspaper that ran Tiede's article"
+  },
+  {
+   "key": "texas",
+   "type": "place",
+   "name": "Texas",
+   "description": "US state of the Mt. Pleasant Daily Tribune"
+  },
+  {
+   "key": "f_lights",
+   "type": "feature",
+   "name": "lights-only",
+   "description": "Reported as a light without solid substance"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "Seen by other guests"
+  },
+  {
+   "key": "f_silent",
+   "type": "feature",
+   "name": "silent",
+   "description": "No sound"
+  },
+  {
+   "key": "f_hover",
+   "type": "feature",
+   "name": "hovering",
+   "description": "Stopped beyond pine trees"
+  },
+  {
+   "key": "f_inv",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "1976 investigation of attendees"
+  },
+  {
+   "key": "f_base",
+   "type": "feature",
+   "name": "military-base-proximity",
+   "description": "Carter assumed aircraft from nearby base"
+  },
+  {
+   "key": "x_venus",
+   "type": "explanation",
+   "name": "venus-or-planet",
+   "description": "Venus misidentification"
+  },
+  {
+   "key": "x_balloon",
+   "type": "explanation",
+   "name": "balloon",
+   "description": "Weather balloon, per Fred Hart"
+  },
+  {
+   "key": "x_aircraft",
+   "type": "explanation",
+   "name": "conventional-aircraft",
+   "description": "Military aircraft from a nearby base, Carter's assumption"
+  },
+  {
+   "key": "x_barium",
+   "type": "explanation",
+   "name": "other:barium cloud rocket release",
+   "description": "High-altitude barium cloud released from Eglin AFB"
+  },
+  {
+   "key": "x_rocket",
+   "type": "explanation",
+   "name": "satellite-or-rocket",
+   "description": "Rocket-launched chemical cloud from Eglin AFB"
+  }
+ ],
+ "claims": [
+  {
+   "s": "carter",
+   "p": "witness",
+   "o": "case",
+   "quote": "Jimmy Carter, United States president from 1977 until 1981, reported seeing an unidentified flying object while at Leary, Georgia, in 1969."
+  },
+  {
+   "s": "carter",
+   "p": "occupation",
+   "v": "United States president from 1977 until 1981",
+   "quote": "Jimmy Carter, United States president from 1977 until 1981, reported seeing an unidentified flying object while at Leary, Georgia, in 1969."
+  },
+  {
+   "s": "leary",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Jimmy Carter, United States president from 1977 until 1981, reported seeing an unidentified flying object while at Leary, Georgia, in 1969."
+  },
+  {
+   "s": "leary",
+   "p": "located_in",
+   "o": "georgia",
+   "quote": "Jimmy Carter, United States president from 1977 until 1981, reported seeing an unidentified flying object while at Leary, Georgia, in 1969."
+  },
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1969",
+   "quote": "Jimmy Carter, United States president from 1977 until 1981, reported seeing an unidentified flying object while at Leary, Georgia, in 1969."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "Jimmy Carter, United States president from 1977 until 1981, reported seeing an unidentified flying object while at Leary, Georgia, in 1969."
+  },
+  {
+   "s": "georgia",
+   "p": "related_place",
+   "o": "case",
+   "quote": "While serving as governor of Georgia, Carter was asked (on September 14, 1973) by the International UFO Bureau in Oklahoma City to file a report of the sighting, and he filed a statement on September 18, mailed September 20."
+  },
+  {
+   "s": "carter",
+   "p": "occupation",
+   "v": "governor of Georgia",
+   "quote": "While serving as governor of Georgia, Carter was asked (on September 14, 1973) by the International UFO Bureau in Oklahoma City to file a report of the sighting, and he filed a statement on September 18, mailed September 20."
+  },
+  {
+   "s": "iufob",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "While serving as governor of Georgia, Carter was asked (on September 14, 1973) by the International UFO Bureau in Oklahoma City to file a report of the sighting, and he filed a statement on September 18, mailed September 20."
+  },
+  {
+   "s": "iufob",
+   "p": "located_in",
+   "o": "okc",
+   "quote": "While serving as governor of Georgia, Carter was asked (on September 14, 1973) by the International UFO Bureau in Oklahoma City to file a report of the sighting, and he filed a statement on September 18, mailed September 20."
+  },
+  {
+   "s": "okc",
+   "p": "related_place",
+   "o": "case",
+   "quote": "While serving as governor of Georgia, Carter was asked (on September 14, 1973) by the International UFO Bureau in Oklahoma City to file a report of the sighting, and he filed a statement on September 18, mailed September 20."
+  },
+  {
+   "s": "report",
+   "p": "key_document",
+   "o": "case",
+   "quote": "While serving as governor of Georgia, Carter was asked (on September 14, 1973) by the International UFO Bureau in Oklahoma City to file a report of the sighting, and he filed a statement on September 18, mailed September 20."
+  },
+  {
+   "s": "carter",
+   "p": "authored",
+   "o": "report",
+   "quote": "While serving as governor of Georgia, Carter was asked (on September 14, 1973) by the International UFO Bureau in Oklahoma City to file a report of the sighting, and he filed a statement on September 18, mailed September 20."
+  },
+  {
+   "s": "report",
+   "p": "requested_date",
+   "v": "1973-09-14",
+   "quote": "While serving as governor of Georgia, Carter was asked (on September 14, 1973) by the International UFO Bureau in Oklahoma City to file a report of the sighting, and he filed a statement on September 18, mailed September 20."
+  },
+  {
+   "s": "report",
+   "p": "date_filed",
+   "v": "1973-09-18",
+   "quote": "While serving as governor of Georgia, Carter was asked (on September 14, 1973) by the International UFO Bureau in Oklahoma City to file a report of the sighting, and he filed a statement on September 18, mailed September 20."
+  },
+  {
+   "s": "report",
+   "p": "date_mailed",
+   "v": "1973-09-20",
+   "quote": "While serving as governor of Georgia, Carter was asked (on September 14, 1973) by the International UFO Bureau in Oklahoma City to file a report of the sighting, and he filed a statement on September 18, mailed September 20."
+  },
+  {
+   "s": "case",
+   "p": "aftermath",
+   "v": "report discussed several times by ufologists and mainstream media",
+   "quote": "Since its writing, the report has been discussed several times by both ufologists and by members of the mainstream media."
+  },
+  {
+   "s": "lions",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "One evening in 1969, two years before he became Governor of Georgia, Carter was preparing to give a speech at a Lions Club meeting."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "about 7:15 pm",
+   "quote": "He reported that at about 7:15 pm, one of the guests called his attention to a strange bright white object"
+  },
+  {
+   "s": "obj",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "He reported that at about 7:15 pm, one of the guests called his attention to a strange bright white object, about as bright as the moon, that was about 30 degrees above the horizon to the west of where they were standing."
+  },
+  {
+   "s": "carter",
+   "p": "described",
+   "o": "obj",
+   "quote": "He reported that at about 7:15 pm, one of the guests called his attention to a strange bright white object, about as bright as the moon, that was about 30 degrees above the horizon to the west of where they were standing."
+  },
+  {
+   "s": "obj",
+   "p": "color",
+   "v": "bright white",
+   "quote": "He reported that at about 7:15 pm, one of the guests called his attention to a strange bright white object, about as bright as the moon, that was about 30 degrees above the horizon to the west of where they were standing."
+  },
+  {
+   "s": "obj",
+   "p": "brightness",
+   "v": "about as bright as the moon",
+   "quote": "He reported that at about 7:15 pm, one of the guests called his attention to a strange bright white object, about as bright as the moon, that was about 30 degrees above the horizon to the west of where they were standing."
+  },
+  {
+   "s": "obj",
+   "p": "elevation",
+   "v": "about 30 degrees above the horizon",
+   "quote": "He reported that at about 7:15 pm, one of the guests called his attention to a strange bright white object, about as bright as the moon, that was about 30 degrees above the horizon to the west of where they were standing."
+  },
+  {
+   "s": "obj",
+   "p": "direction",
+   "v": "to the west",
+   "quote": "He reported that at about 7:15 pm, one of the guests called his attention to a strange bright white object, about as bright as the moon, that was about 30 degrees above the horizon to the west of where they were standing."
+  },
+  {
+   "s": "obj",
+   "p": "movement",
+   "v": "moved toward the witnesses, then stopped beyond a stand of pine trees",
+   "quote": "It moved toward their direction, but stopped beyond a stand of pine trees some distance from them."
+  },
+  {
+   "s": "f_hover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "It moved toward their direction, but stopped beyond a stand of pine trees some distance from them."
+  },
+  {
+   "s": "obj",
+   "p": "color_change",
+   "v": "white to blue, then red, then back to white",
+   "quote": "The object then changed color, first to blue, then to red, then back to white, before appearing to recede into the distance."
+  },
+  {
+   "s": "obj",
+   "p": "departure",
+   "v": "appeared to recede into the distance",
+   "quote": "The object then changed color, first to blue, then to red, then back to white, before appearing to recede into the distance."
+  },
+  {
+   "s": "obj",
+   "p": "appearance",
+   "v": "self-illuminated, not solid",
+   "quote": "Carter felt that the object was self-illuminated, and not solid in nature."
+  },
+  {
+   "s": "f_lights",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Carter felt that the object was self-illuminated, and not solid in nature."
+  },
+  {
+   "s": "case",
+   "p": "witness_count",
+   "v": "about 10 or 12 other people",
+   "quote": "Carter's report indicates that it was witnessed by about 10 or 12 other people, and was in view for 10 to 12 minutes before it passed out of sight."
+  },
+  {
+   "s": "case",
+   "p": "duration",
+   "v": "10 to 12 minutes",
+   "quote": "Carter's report indicates that it was witnessed by about 10 or 12 other people, and was in view for 10 to 12 minutes before it passed out of sight."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Carter's report indicates that it was witnessed by about 10 or 12 other people, and was in view for 10 to 12 minutes before it passed out of sight."
+  },
+  {
+   "s": "carter",
+   "p": "statement",
+   "v": "In 1973: about twenty of us were standing outside a little restaurant, a high school lunch room, and a kind of green light appeared in the western sky",
+   "quote": "There were about twenty of us standing outside of a little restaurant, I believe, a high school lunch room, and a kind of green light appeared in the western sky."
+  },
+  {
+   "s": "case",
+   "p": "witness_count",
+   "v": "about twenty (Carter, 1973)",
+   "quote": "There were about twenty of us standing outside of a little restaurant"
+  },
+  {
+   "s": "obj",
+   "p": "color",
+   "v": "green (Carter's 1973 account)",
+   "quote": "a kind of green light appeared in the western sky"
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "right after sundown",
+   "quote": "This was right after sundown."
+  },
+  {
+   "s": "carter",
+   "p": "statement",
+   "v": "It got brighter and brighter, then disappeared; it had no solid substance, just a very peculiar-looking light; none of us could understand what it was",
+   "quote": "It didn't have any solid substance to it, it was just a very peculiar-looking light. None of us could understand what it was."
+  },
+  {
+   "s": "carter",
+   "p": "statement",
+   "v": "2005 interview: one of the men said 'Look, over in the west!' and there was a bright light in the sky; we all saw it",
+   "quote": "All of a sudden, one of the men looked up and said, 'Look, over in the west!' And there was a bright light in the sky. We all saw it."
+  },
+  {
+   "s": "carter",
+   "p": "statement",
+   "v": "2005 interview: it stopped beyond the pine trees, changed color to blue, then red, then back to white, then receded into the distance",
+   "quote": "And all of a sudden it changed color to blue, and then it changed to red, then back to white."
+  },
+  {
+   "s": "carter",
+   "p": "interview_year",
+   "v": "2005",
+   "quote": "Speaking in a 2005 interview, Carter said:"
+  },
+  {
+   "s": "case",
+   "p": "date_disputed",
+   "v": "exact date called into question by investigators",
+   "quote": "The exact date on which the sighting occurred has been called into question by investigators."
+  },
+  {
+   "s": "report",
+   "p": "date_given_for_sighting",
+   "v": "October 1969",
+   "quote": "According to the report that he filed with the International UFO Bureau four years after the incident, Carter saw the UFO in October 1969."
+  },
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1969-10",
+   "quote": "According to the report that he filed with the International UFO Bureau four years after the incident, Carter saw the UFO in October 1969."
+  },
+  {
+   "s": "lionsreport",
+   "p": "key_document",
+   "o": "case",
+   "quote": "However, investigators have cited Lions Club records as evidence that it occurred nine months earlier."
+  },
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1969-01-06",
+   "quote": "According to a meeting report that he filed with the Lions Club, Carter gave his Leary speech on January 6, 1969, not in October."
+  },
+  {
+   "s": "carter",
+   "p": "authored",
+   "o": "lionsreport",
+   "quote": "According to a meeting report that he filed with the Lions Club, Carter gave his Leary speech on January 6, 1969, not in October."
+  },
+  {
+   "s": "lionsreport",
+   "p": "speech_date",
+   "v": "1969-01-06",
+   "quote": "According to a meeting report that he filed with the Lions Club, Carter gave his Leary speech on January 6, 1969, not in October."
+  },
+  {
+   "s": "lionsreport",
+   "p": "content",
+   "v": "made no mention of the sighting itself",
+   "quote": "His report to the Lions Club made no mention of the sighting itself."
+  },
+  {
+   "s": "lionsreport",
+   "p": "content",
+   "v": "setting of the January meeting matches the setting Carter later described to the media",
+   "quote": "The setting of his January meeting as described in his report to the Lions Club also matches the setting that he would later describe to the media when speaking about his sighting."
+  },
+  {
+   "s": "carter",
+   "p": "member_of",
+   "o": "lions",
+   "quote": "First, Carter visited the Leary Lions Club in his capacity as district governor of the Lions Club. His term ended in June 1969."
+  },
+  {
+   "s": "carter",
+   "p": "occupation",
+   "v": "district governor of the Lions Club (term ended June 1969)",
+   "quote": "First, Carter visited the Leary Lions Club in his capacity as district governor of the Lions Club. His term ended in June 1969."
+  },
+  {
+   "s": "lions",
+   "p": "disbanded",
+   "v": "Leary Lions Club disbanded several months before October 1969",
+   "quote": "Second, the Leary Lions Club disbanded several months before October 1969."
+  },
+  {
+   "s": "lions",
+   "p": "located_in",
+   "o": "leary",
+   "quote": "Second, the Leary Lions Club disbanded several months before October 1969."
+  },
+  {
+   "s": "f_inv",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to an investigation carried out in 1976, most of those present at the meeting either did not recall the event, or did not recall it as being anything important."
+  },
+  {
+   "s": "case",
+   "p": "investigation_finding",
+   "v": "1976 investigation: most of those present did not recall the event or did not recall it as important",
+   "quote": "According to an investigation carried out in 1976, most of those present at the meeting either did not recall the event, or did not recall it as being anything important."
+  },
+  {
+   "s": "hart",
+   "p": "witness",
+   "o": "case",
+   "quote": "According to Fred Hart, the only guest contacted who remembered seeing the object: \"It seems like there was a little—like a blue light or something or other in the sky that night—like some kind of weather balloon they send out or something ... it had been pretty far back in my mind.\""
+  },
+  {
+   "s": "hart",
+   "p": "statement",
+   "v": "It seems like there was a little, like a blue light or something in the sky that night, like some kind of weather balloon they send out; it had been pretty far back in my mind",
+   "quote": "According to Fred Hart, the only guest contacted who remembered seeing the object: \"It seems like there was a little—like a blue light or something or other in the sky that night—like some kind of weather balloon they send out or something ... it had been pretty far back in my mind.\""
+  },
+  {
+   "s": "hart",
+   "p": "described",
+   "o": "obj",
+   "quote": "According to Fred Hart, the only guest contacted who remembered seeing the object: \"It seems like there was a little—like a blue light or something or other in the sky that night—like some kind of weather balloon they send out or something ... it had been pretty far back in my mind.\""
+  },
+  {
+   "s": "obj",
+   "p": "color",
+   "v": "blue (Fred Hart)",
+   "quote": "According to Fred Hart, the only guest contacted who remembered seeing the object: \"It seems like there was a little—like a blue light or something or other in the sky that night—like some kind of weather balloon they send out or something ... it had been pretty far back in my mind.\""
+  },
+  {
+   "s": "x_balloon",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "According to Fred Hart, the only guest contacted who remembered seeing the object: \"It seems like there was a little—like a blue light or something or other in the sky that night—like some kind of weather balloon they send out or something ... it had been pretty far back in my mind.\""
+  },
+  {
+   "s": "hart",
+   "p": "proposed",
+   "o": "x_balloon",
+   "quote": "According to Fred Hart, the only guest contacted who remembered seeing the object: \"It seems like there was a little—like a blue light or something or other in the sky that night—like some kind of weather balloon they send out or something ... it had been pretty far back in my mind.\""
+  },
+  {
+   "s": "carter",
+   "p": "statement",
+   "v": "considered the object a UFO because it was unexplained, but his knowledge of physics meant he did not believe it was an alien spacecraft",
+   "quote": "Carter himself later said that, while he had considered the object to be a UFO—on the grounds it was unexplained—his knowledge of physics had meant he had not believed himself to be witnessing an alien spacecraft."
+  },
+  {
+   "s": "case",
+   "p": "weather",
+   "v": "sky was clear",
+   "quote": "On January 6, 1969, the sky was clear in Leary and the planet Venus was near its maximum brightness and in the direction described by Carter."
+  },
+  {
+   "s": "x_venus",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "On January 6, 1969, the sky was clear in Leary and the planet Venus was near its maximum brightness and in the direction described by Carter."
+  },
+  {
+   "s": "sheaffer",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Ufologist Robert Sheaffer concluded that the object that Carter witnessed was a misidentification of Venus."
+  },
+  {
+   "s": "sheaffer",
+   "p": "proposed",
+   "o": "x_venus",
+   "quote": "Ufologist Robert Sheaffer concluded that the object that Carter witnessed was a misidentification of Venus."
+  },
+  {
+   "s": "sheaffer",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "Ufologist Robert Sheaffer concluded that the object that Carter witnessed was a misidentification of Venus."
+  },
+  {
+   "s": "hendry",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Ufologist Allan Hendry did calculations and agrees with the assessment of it being Venus."
+  },
+  {
+   "s": "hendry",
+   "p": "proposed",
+   "o": "x_venus",
+   "quote": "Ufologist Allan Hendry did calculations and agrees with the assessment of it being Venus."
+  },
+  {
+   "s": "hendry",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "Ufologist Allan Hendry did calculations and agrees with the assessment of it being Venus."
+  },
+  {
+   "s": "sgu",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "This could also be the Venus \"halo\", as was discussed on The Skeptics' Guide to the Universe podcast #105 in a 2007 interview with Jimmy Carter."
+  },
+  {
+   "s": "sgu",
+   "p": "interviewed",
+   "o": "carter",
+   "quote": "This could also be the Venus \"halo\", as was discussed on The Skeptics' Guide to the Universe podcast #105 in a 2007 interview with Jimmy Carter."
+  },
+  {
+   "s": "sgu",
+   "p": "episode",
+   "v": "#105, 2007 interview with Jimmy Carter",
+   "quote": "This could also be the Venus \"halo\", as was discussed on The Skeptics' Guide to the Universe podcast #105 in a 2007 interview with Jimmy Carter."
+  },
+  {
+   "s": "carter",
+   "p": "disputed",
+   "o": "x_venus",
+   "quote": "In the interview Carter stated that he did not believe the object was Venus, explaining that he was an amateur astronomer and knew what Venus looked like."
+  },
+  {
+   "s": "carter",
+   "p": "statement",
+   "v": "did not believe the object was Venus; he was an amateur astronomer and knew what Venus looked like",
+   "quote": "In the interview Carter stated that he did not believe the object was Venus, explaining that he was an amateur astronomer and knew what Venus looked like."
+  },
+  {
+   "s": "carter",
+   "p": "occupation",
+   "v": "amateur astronomer",
+   "quote": "In the interview Carter stated that he did not believe the object was Venus, explaining that he was an amateur astronomer and knew what Venus looked like."
+  },
+  {
+   "s": "x_aircraft",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "He also said that as a scientist he did not believe it was an alien craft and at the time assumed it was probably a military aircraft from a nearby base."
+  },
+  {
+   "s": "carter",
+   "p": "proposed",
+   "o": "x_aircraft",
+   "quote": "He also said that as a scientist he did not believe it was an alien craft and at the time assumed it was probably a military aircraft from a nearby base."
+  },
+  {
+   "s": "f_base",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "He also said that as a scientist he did not believe it was an alien craft and at the time assumed it was probably a military aircraft from a nearby base."
+  },
+  {
+   "s": "carter",
+   "p": "statement",
+   "v": "as a scientist he did not believe it was an alien craft and at the time assumed it was probably a military aircraft from a nearby base",
+   "quote": "He also said that as a scientist he did not believe it was an alien craft and at the time assumed it was probably a military aircraft from a nearby base."
+  },
+  {
+   "s": "f_silent",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "However, he said that the object did not make any sound like a helicopter would do."
+  },
+  {
+   "s": "obj",
+   "p": "sound",
+   "v": "did not make any sound like a helicopter would",
+   "quote": "However, he said that the object did not make any sound like a helicopter would do."
+  },
+  {
+   "s": "carter",
+   "p": "statement",
+   "v": "did not believe that any extraterrestrials have visited Earth",
+   "quote": "Carter also said that he did not believe that any extraterrestrials have visited Earth."
+  },
+  {
+   "s": "carter",
+   "p": "statement",
+   "v": "knows of no government cover-up of extraterrestrial visits; rumors that the CIA refused to give him UFO information are not true",
+   "quote": "In the podcast interview, he also stated he knows of no government cover-up of extraterrestrial visits and that the rumors that the CIA refused to give him information about UFOs are not true."
+  },
+  {
+   "s": "cia",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In the podcast interview, he also stated he knows of no government cover-up of extraterrestrial visits and that the rumors that the CIA refused to give him information about UFOs are not true."
+  },
+  {
+   "s": "case",
+   "p": "rumor",
+   "v": "the CIA refused to give Carter information about UFOs (Carter said this is not true)",
+   "quote": "In the podcast interview, he also stated he knows of no government cover-up of extraterrestrial visits and that the rumors that the CIA refused to give him information about UFOs are not true."
+  },
+  {
+   "s": "justus",
+   "p": "commentator",
+   "o": "case",
+   "quote": "In 2016, the hosts of episode #561 of The Skeptics' Guide to the Universe podcast read a letter forwarded by a member of the Carter family from Carl G. \"Jere\" Justus, giving his explanation of Carter's UFO sighting:"
+  },
+  {
+   "s": "sgu",
+   "p": "episode",
+   "v": "#561 (2016), hosts read Justus's letter",
+   "quote": "In 2016, the hosts of episode #561 of The Skeptics' Guide to the Universe podcast read a letter forwarded by a member of the Carter family from Carl G. \"Jere\" Justus, giving his explanation of Carter's UFO sighting:"
+  },
+  {
+   "s": "gml",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "After recently reading the book Georgia Myths & Legends, by Augusta Chronicle columnist Don Rhodes, specifically Chapter 5, \"Jimmy Carter and the UFO\", I am virtually certain that I have identified the source of what it was that President Carter saw."
+  },
+  {
+   "s": "rhodes",
+   "p": "authored",
+   "o": "gml",
+   "quote": "After recently reading the book Georgia Myths & Legends, by Augusta Chronicle columnist Don Rhodes, specifically Chapter 5, \"Jimmy Carter and the UFO\", I am virtually certain that I have identified the source of what it was that President Carter saw."
+  },
+  {
+   "s": "rhodes",
+   "p": "commentator",
+   "o": "case",
+   "quote": "After recently reading the book Georgia Myths & Legends, by Augusta Chronicle columnist Don Rhodes, specifically Chapter 5, \"Jimmy Carter and the UFO\", I am virtually certain that I have identified the source of what it was that President Carter saw."
+  },
+  {
+   "s": "rhodes",
+   "p": "employed_by",
+   "o": "augchron",
+   "quote": "After recently reading the book Georgia Myths & Legends, by Augusta Chronicle columnist Don Rhodes, specifically Chapter 5, \"Jimmy Carter and the UFO\", I am virtually certain that I have identified the source of what it was that President Carter saw."
+  },
+  {
+   "s": "augchron",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "After recently reading the book Georgia Myths & Legends, by Augusta Chronicle columnist Don Rhodes, specifically Chapter 5, \"Jimmy Carter and the UFO\", I am virtually certain that I have identified the source of what it was that President Carter saw."
+  },
+  {
+   "s": "rhodes",
+   "p": "occupation",
+   "v": "Augusta Chronicle columnist",
+   "quote": "After recently reading the book Georgia Myths & Legends, by Augusta Chronicle columnist Don Rhodes, specifically Chapter 5, \"Jimmy Carter and the UFO\", I am virtually certain that I have identified the source of what it was that President Carter saw."
+  },
+  {
+   "s": "gml",
+   "p": "chapter",
+   "v": "Chapter 5, \"Jimmy Carter and the UFO\"",
+   "quote": "After recently reading the book Georgia Myths & Legends, by Augusta Chronicle columnist Don Rhodes, specifically Chapter 5, \"Jimmy Carter and the UFO\", I am virtually certain that I have identified the source of what it was that President Carter saw."
+  },
+  {
+   "s": "justus",
+   "p": "occupation",
+   "v": "worked in the 1960s and early 70s on an Air Force sponsored project studying the upper atmosphere with glowing chemical cloud releases",
+   "quote": "In the 1960s and early 70s, I worked on an Air Force sponsored project that studied the upper atmosphere using releases of glowing chemical clouds, produced by rockets launched from Eglin AFB rocket range in Florida."
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In the 1960s and early 70s, I worked on an Air Force sponsored project that studied the upper atmosphere using releases of glowing chemical clouds, produced by rockets launched from Eglin AFB rocket range in Florida."
+  },
+  {
+   "s": "eglin",
+   "p": "related_place",
+   "o": "case",
+   "quote": "In the 1960s and early 70s, I worked on an Air Force sponsored project that studied the upper atmosphere using releases of glowing chemical clouds, produced by rockets launched from Eglin AFB rocket range in Florida."
+  },
+  {
+   "s": "eglin",
+   "p": "located_in",
+   "o": "florida",
+   "quote": "In the 1960s and early 70s, I worked on an Air Force sponsored project that studied the upper atmosphere using releases of glowing chemical clouds, produced by rockets launched from Eglin AFB rocket range in Florida."
+  },
+  {
+   "s": "florida",
+   "p": "related_place",
+   "o": "case",
+   "quote": "In the 1960s and early 70s, I worked on an Air Force sponsored project that studied the upper atmosphere using releases of glowing chemical clouds, produced by rockets launched from Eglin AFB rocket range in Florida."
+  },
+  {
+   "s": "x_rocket",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "In the 1960s and early 70s, I worked on an Air Force sponsored project that studied the upper atmosphere using releases of glowing chemical clouds, produced by rockets launched from Eglin AFB rocket range in Florida."
+  },
+  {
+   "s": "justus",
+   "p": "statement",
+   "v": "sodium and barium clouds were visible by resonance scattering of sunlight and had to be launched not long after sunset or before sunrise",
+   "quote": "Some of these chemical clouds, notably sodium and barium, were visible by the process of resonance scattering of sunlight. Clouds of this type had to be launched not long after sunset or not long before sunrise."
+  },
+  {
+   "s": "report",
+   "p": "time_given",
+   "v": "7:15 pm EST",
+   "quote": "In Carter's official 1973 UFO report, as given in the Rhodes book, he stated that he had seen the phenomenon in October, 1969, at 7:15 pm EST."
+  },
+  {
+   "s": "cospar_rep",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The report \"U.S. Space Science Program Report to COSPAR, 1970\" (QB504.U54, Appendix I, page 154) documents that there was a barium cloud launched from Eglin AFB (Rocket Number AG7.626) and released on January 6, 1969 at 7:35 pm EST (January 7, 1969, 0035 UTC) [COSPAR stands for Committee on Space Research]."
+  },
+  {
+   "s": "cospar",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The report \"U.S. Space Science Program Report to COSPAR, 1970\" (QB504.U54, Appendix I, page 154) documents that there was a barium cloud launched from Eglin AFB (Rocket Number AG7.626) and released on January 6, 1969 at 7:35 pm EST (January 7, 1969, 0035 UTC) [COSPAR stands for Committee on Space Research]."
+  },
+  {
+   "s": "cospar_rep",
+   "p": "content",
+   "v": "barium cloud launched from Eglin AFB (Rocket Number AG7.626), released January 6, 1969 at 7:35 pm EST",
+   "quote": "The report \"U.S. Space Science Program Report to COSPAR, 1970\" (QB504.U54, Appendix I, page 154) documents that there was a barium cloud launched from Eglin AFB (Rocket Number AG7.626) and released on January 6, 1969 at 7:35 pm EST (January 7, 1969, 0035 UTC) [COSPAR stands for Committee on Space Research]."
+  },
+  {
+   "s": "cospar_rep",
+   "p": "reference",
+   "v": "QB504.U54, Appendix I, page 154",
+   "quote": "The report \"U.S. Space Science Program Report to COSPAR, 1970\" (QB504.U54, Appendix I, page 154) documents that there was a barium cloud launched from Eglin AFB (Rocket Number AG7.626) and released on January 6, 1969 at 7:35 pm EST (January 7, 1969, 0035 UTC) [COSPAR stands for Committee on Space Research]."
+  },
+  {
+   "s": "x_barium",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The report \"U.S. Space Science Program Report to COSPAR, 1970\" (QB504.U54, Appendix I, page 154) documents that there was a barium cloud launched from Eglin AFB (Rocket Number AG7.626) and released on January 6, 1969 at 7:35 pm EST (January 7, 1969, 0035 UTC) [COSPAR stands for Committee on Space Research]."
+  },
+  {
+   "s": "justus",
+   "p": "proposed",
+   "o": "x_barium",
+   "quote": "The report \"U.S. Space Science Program Report to COSPAR, 1970\" (QB504.U54, Appendix I, page 154) documents that there was a barium cloud launched from Eglin AFB (Rocket Number AG7.626) and released on January 6, 1969 at 7:35 pm EST (January 7, 1969, 0035 UTC) [COSPAR stands for Committee on Space Research]."
+  },
+  {
+   "s": "x_barium",
+   "p": "rocket_number",
+   "v": "AG7.626",
+   "quote": "The report \"U.S. Space Science Program Report to COSPAR, 1970\" (QB504.U54, Appendix I, page 154) documents that there was a barium cloud launched from Eglin AFB (Rocket Number AG7.626) and released on January 6, 1969 at 7:35 pm EST (January 7, 1969, 0035 UTC) [COSPAR stands for Committee on Space Research]."
+  },
+  {
+   "s": "x_barium",
+   "p": "release_time",
+   "v": "January 6, 1969 at 7:35 pm EST (January 7, 1969, 0035 UTC)",
+   "quote": "The report \"U.S. Space Science Program Report to COSPAR, 1970\" (QB504.U54, Appendix I, page 154) documents that there was a barium cloud launched from Eglin AFB (Rocket Number AG7.626) and released on January 6, 1969 at 7:35 pm EST (January 7, 1969, 0035 UTC) [COSPAR stands for Committee on Space Research]."
+  },
+  {
+   "s": "x_barium",
+   "p": "altitude",
+   "v": "152 km",
+   "quote": "The reported altitude for this cloud was 152 km."
+  },
+  {
+   "s": "eglin",
+   "p": "distance_from_leary",
+   "v": "about 234 km",
+   "quote": "With a distance between Leary, GA and Eglin AFB, FL of about 234 km, this cloud would have appeared in the sky at an elevation of 33 degrees (consistent with Carter's estimate of a 30 degree elevation)."
+  },
+  {
+   "s": "x_barium",
+   "p": "elevation_from_leary",
+   "v": "33 degrees",
+   "quote": "With a distance between Leary, GA and Eglin AFB, FL of about 234 km, this cloud would have appeared in the sky at an elevation of 33 degrees (consistent with Carter's estimate of a 30 degree elevation)."
+  },
+  {
+   "s": "report",
+   "p": "content",
+   "v": "stars were visible",
+   "quote": "Carter's report notes that stars were visible, so the night must have been clear."
+  },
+  {
+   "s": "report",
+   "p": "content",
+   "v": "UFO \"appeared from West\"",
+   "quote": "Carter reported the UFO \"appeared from West\". The direction of Eglin AFB from Leary, GA is approximately WSW."
+  },
+  {
+   "s": "eglin",
+   "p": "direction_from_leary",
+   "v": "approximately WSW",
+   "quote": "The direction of Eglin AFB from Leary, GA is approximately WSW."
+  },
+  {
+   "s": "report",
+   "p": "content",
+   "v": "bluish at first, then reddish, luminous, not solid",
+   "quote": "His report stated that it was \"bluish at first, then reddish, luminous, not solid\"."
+  },
+  {
+   "s": "obj",
+   "p": "color",
+   "v": "bluish at first, then reddish",
+   "quote": "His report stated that it was \"bluish at first, then reddish, luminous, not solid\"."
+  },
+  {
+   "s": "justus",
+   "p": "statement",
+   "v": "a neutral barium cloud would initially glow bluish or greenish, with parts turning reddish as the barium becomes ionized in high altitude sunlight",
+   "quote": "A neutral barium cloud would initially glow bluish or greenish, with parts of it taking on a reddish glow as some of the barium becomes ionized in the high altitude sunlight."
+  },
+  {
+   "s": "obj",
+   "p": "size",
+   "v": "about that of the moon",
+   "quote": "The size and brightness, reported as being about that of the moon, would also be consistent with a barium cloud at Eglin, as viewed from Leary, GA."
+  },
+  {
+   "s": "justus",
+   "p": "statement",
+   "v": "can verify from personal experience that under clear skies such a barium cloud would easily have been visible from Leary",
+   "quote": "I can verify from personal experience that under clear skies, a barium cloud such as this would easily have been visible from the distance of Leary, GA."
+  },
+  {
+   "s": "justus",
+   "p": "authored",
+   "o": "justus_study",
+   "quote": "In 2020, Justus completed an extensive study of the high-altitude barium release clouds, concluding that what Carter saw was \"totally consistent\" with what was launched that evening from Eglin AFB."
+  },
+  {
+   "s": "justus_study",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In 2020, Justus completed an extensive study of the high-altitude barium release clouds, concluding that what Carter saw was \"totally consistent\" with what was launched that evening from Eglin AFB."
+  },
+  {
+   "s": "justus_study",
+   "p": "year",
+   "v": "2020",
+   "quote": "In 2020, Justus completed an extensive study of the high-altitude barium release clouds, concluding that what Carter saw was \"totally consistent\" with what was launched that evening from Eglin AFB."
+  },
+  {
+   "s": "justus_study",
+   "p": "conclusion",
+   "v": "what Carter saw was \"totally consistent\" with what was launched that evening from Eglin AFB",
+   "quote": "In 2020, Justus completed an extensive study of the high-altitude barium release clouds, concluding that what Carter saw was \"totally consistent\" with what was launched that evening from Eglin AFB."
+  },
+  {
+   "s": "library",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Justus described several physical aspects supporting consistency, and submitted a copy of the report for archival at the Jimmy Carter Library."
+  },
+  {
+   "s": "justus_study",
+   "p": "archived_at",
+   "v": "Jimmy Carter Library",
+   "quote": "Justus described several physical aspects supporting consistency, and submitted a copy of the report for archival at the Jimmy Carter Library."
+  },
+  {
+   "s": "carter",
+   "p": "later_claim",
+   "v": "during his 1976 election campaign said he would institute a policy of openness if elected",
+   "quote": "During his 1976 election campaign, he is said to have told reporters that, as a result of it, he would institute a policy of openness if he were elected to office, saying:"
+  },
+  {
+   "s": "carter",
+   "p": "statement",
+   "v": "I'll never make fun of people who say they've seen unidentified objects in the sky",
+   "quote": "One thing's for sure, I'll never make fun of people who say they've seen unidentified objects in the sky."
+  },
+  {
+   "s": "carter",
+   "p": "statement",
+   "v": "If I become President, I'll make every piece of information this country has about UFO sightings available to the public and the scientists",
+   "quote": "If I become President, I'll make every piece of information this country has about UFO sightings available to the public and the scientists."
+  },
+  {
+   "s": "carter",
+   "p": "later_action",
+   "v": "once elected, distanced himself from disclosure, citing \"defense implications\"",
+   "quote": "Despite his earlier pledge, once elected, Carter distanced himself from disclosure, citing \"defense implications\" as being behind his decision."
+  },
+  {
+   "s": "case",
+   "p": "aftermath",
+   "v": "sighting said to have had a personal impact on Carter and his perception of UFOs",
+   "quote": "The sighting is said to have had a personal impact on Carter and his perception of UFOs and UFO sightings."
+  },
+  {
+   "s": "raines",
+   "p": "journalist",
+   "o": "case",
+   "quote": "\"Carter Once Saw a UFO on 'Very Sober Occasion'\", by Howell Raines, Atlanta Constitution, Sept. 14, 1973, p. 1D"
+  },
+  {
+   "s": "raines",
+   "p": "authored",
+   "o": "raines_art",
+   "quote": "\"Carter Once Saw a UFO on 'Very Sober Occasion'\", by Howell Raines, Atlanta Constitution, Sept. 14, 1973, p. 1D"
+  },
+  {
+   "s": "raines_art",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "\"Carter Once Saw a UFO on 'Very Sober Occasion'\", by Howell Raines, Atlanta Constitution, Sept. 14, 1973, p. 1D"
+  },
+  {
+   "s": "atlconst",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "\"Carter Once Saw a UFO on 'Very Sober Occasion'\", by Howell Raines, Atlanta Constitution, Sept. 14, 1973, p. 1D"
+  },
+  {
+   "s": "atlconst",
+   "p": "published",
+   "o": "raines_art",
+   "quote": "\"Carter Once Saw a UFO on 'Very Sober Occasion'\", by Howell Raines, Atlanta Constitution, Sept. 14, 1973, p. 1D"
+  },
+  {
+   "s": "raines_art",
+   "p": "date",
+   "v": "1973-09-14",
+   "quote": "\"Carter Once Saw a UFO on 'Very Sober Occasion'\", by Howell Raines, Atlanta Constitution, Sept. 14, 1973, p. 1D"
+  },
+  {
+   "s": "enquirer",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Carter's story appeared in the June 8, 1976, issue of The National Enquirer."
+  },
+  {
+   "s": "enquirer",
+   "p": "issue_date",
+   "v": "1976-06-08",
+   "quote": "Carter's story appeared in the June 8, 1976, issue of The National Enquirer."
+  },
+  {
+   "s": "thomaston",
+   "p": "related_place",
+   "o": "case",
+   "quote": "This account contained a number of errors, including incorrectly stating that the event occurred in Thomaston, Georgia in 1973, and that the sighting was after the club meeting."
+  },
+  {
+   "s": "enquirer",
+   "p": "errors",
+   "v": "incorrectly stated the event occurred in Thomaston, Georgia in 1973 and that the sighting was after the club meeting",
+   "quote": "This account contained a number of errors, including incorrectly stating that the event occurred in Thomaston, Georgia in 1973, and that the sighting was after the club meeting."
+  },
+  {
+   "s": "thomaston",
+   "p": "located_in",
+   "o": "georgia",
+   "quote": "This account contained a number of errors, including incorrectly stating that the event occurred in Thomaston, Georgia in 1973, and that the sighting was after the club meeting."
+  },
+  {
+   "s": "hughs",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Hayden Hughs of International UFO Bureau wrote an article that appeared in the November 1976 issue of Argosy UFO (a spin-off of Argosy)."
+  },
+  {
+   "s": "hughs",
+   "p": "member_of",
+   "o": "iufob",
+   "quote": "Hayden Hughs of International UFO Bureau wrote an article that appeared in the November 1976 issue of Argosy UFO (a spin-off of Argosy)."
+  },
+  {
+   "s": "argosy",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Hayden Hughs of International UFO Bureau wrote an article that appeared in the November 1976 issue of Argosy UFO (a spin-off of Argosy)."
+  },
+  {
+   "s": "argosy",
+   "p": "issue",
+   "v": "November 1976",
+   "quote": "Hayden Hughs of International UFO Bureau wrote an article that appeared in the November 1976 issue of Argosy UFO (a spin-off of Argosy)."
+  },
+  {
+   "s": "nicap",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In February 1977, NICAP republished Carter's original report in UFO Investigator, but altered his handwritten report to make it appear that it had been submitted directly to NICAP as a typed document."
+  },
+  {
+   "s": "ufoinv",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In February 1977, NICAP republished Carter's original report in UFO Investigator, but altered his handwritten report to make it appear that it had been submitted directly to NICAP as a typed document."
+  },
+  {
+   "s": "nicap",
+   "p": "published",
+   "o": "ufoinv",
+   "quote": "In February 1977, NICAP republished Carter's original report in UFO Investigator, but altered his handwritten report to make it appear that it had been submitted directly to NICAP as a typed document."
+  },
+  {
+   "s": "nicap",
+   "p": "action",
+   "v": "republished Carter's report in February 1977, altering the handwritten report to appear as a typed document submitted directly to NICAP",
+   "quote": "In February 1977, NICAP republished Carter's original report in UFO Investigator, but altered his handwritten report to make it appear that it had been submitted directly to NICAP as a typed document."
+  },
+  {
+   "s": "report",
+   "p": "format",
+   "v": "handwritten",
+   "quote": "In February 1977, NICAP republished Carter's original report in UFO Investigator, but altered his handwritten report to make it appear that it had been submitted directly to NICAP as a typed document."
+  },
+  {
+   "s": "wapo",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The April 30, 1977, edition of The Washington Post ran the story on the front page, incorrectly giving the date as 1973."
+  },
+  {
+   "s": "wapo",
+   "p": "coverage",
+   "v": "front page story April 30, 1977, incorrectly giving the date as 1973",
+   "quote": "The April 30, 1977, edition of The Washington Post ran the story on the front page, incorrectly giving the date as 1973."
+  },
+  {
+   "s": "wapo",
+   "p": "coverage",
+   "v": "identification as Venus ran in a small item May 9, 1977",
+   "quote": "The identification of the UFO as Venus ran in a small item in the May 9, 1977, issue."
+  },
+  {
+   "s": "sheaffer",
+   "p": "authored",
+   "o": "sheaffer_art",
+   "quote": "\"President Carter's 'UFO' Is Identified as the Planet Venus\", by Robert Sheaffer, Humanist magazine, July–August, 1977, p. 46"
+  },
+  {
+   "s": "sheaffer_art",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "\"President Carter's 'UFO' Is Identified as the Planet Venus\", by Robert Sheaffer, Humanist magazine, July–August, 1977, p. 46"
+  },
+  {
+   "s": "humanist",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "\"President Carter's 'UFO' Is Identified as the Planet Venus\", by Robert Sheaffer, Humanist magazine, July–August, 1977, p. 46"
+  },
+  {
+   "s": "humanist",
+   "p": "published",
+   "o": "sheaffer_art",
+   "quote": "\"President Carter's 'UFO' Is Identified as the Planet Venus\", by Robert Sheaffer, Humanist magazine, July–August, 1977, p. 46"
+  },
+  {
+   "s": "sheaffer_art",
+   "p": "date",
+   "v": "July-August 1977",
+   "quote": "\"President Carter's 'UFO' Is Identified as the Planet Venus\", by Robert Sheaffer, Humanist magazine, July–August, 1977, p. 46"
+  },
+  {
+   "s": "tiede",
+   "p": "journalist",
+   "o": "case",
+   "quote": "\"Learyites leery of Carter's encounter: No one recalls 1970 UFO spotting\", by Tom Tiede, Mt. Pleasant Daily Tribune (Texas), Feb. 2, 1978"
+  },
+  {
+   "s": "tiede",
+   "p": "authored",
+   "o": "tiede_art",
+   "quote": "\"Learyites leery of Carter's encounter: No one recalls 1970 UFO spotting\", by Tom Tiede, Mt. Pleasant Daily Tribune (Texas), Feb. 2, 1978"
+  },
+  {
+   "s": "tiede_art",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "\"Learyites leery of Carter's encounter: No one recalls 1970 UFO spotting\", by Tom Tiede, Mt. Pleasant Daily Tribune (Texas), Feb. 2, 1978"
+  },
+  {
+   "s": "mtpleasant",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "\"Learyites leery of Carter's encounter: No one recalls 1970 UFO spotting\", by Tom Tiede, Mt. Pleasant Daily Tribune (Texas), Feb. 2, 1978"
+  },
+  {
+   "s": "mtpleasant",
+   "p": "published",
+   "o": "tiede_art",
+   "quote": "\"Learyites leery of Carter's encounter: No one recalls 1970 UFO spotting\", by Tom Tiede, Mt. Pleasant Daily Tribune (Texas), Feb. 2, 1978"
+  },
+  {
+   "s": "mtpleasant",
+   "p": "located_in",
+   "o": "texas",
+   "quote": "\"Learyites leery of Carter's encounter: No one recalls 1970 UFO spotting\", by Tom Tiede, Mt. Pleasant Daily Tribune (Texas), Feb. 2, 1978"
+  },
+  {
+   "s": "texas",
+   "p": "related_place",
+   "o": "case",
+   "quote": "\"Learyites leery of Carter's encounter: No one recalls 1970 UFO spotting\", by Tom Tiede, Mt. Pleasant Daily Tribune (Texas), Feb. 2, 1978"
+  },
+  {
+   "s": "tiede_art",
+   "p": "date",
+   "v": "1978-02-02",
+   "quote": "\"Learyites leery of Carter's encounter: No one recalls 1970 UFO spotting\", by Tom Tiede, Mt. Pleasant Daily Tribune (Texas), Feb. 2, 1978"
+  }
+ ]
+}
