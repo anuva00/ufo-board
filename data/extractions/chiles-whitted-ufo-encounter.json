@@ -1,0 +1,1526 @@
+{
+ "slug": "chiles-whitted-ufo-encounter",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Chiles-Whitted UFO encounter",
+   "aliases": [
+    "Chiles-Whitted sighting",
+    "Chiles-Whitted incident",
+    "Chiles-Whitted case",
+    "The Chiles-Whitted Encounter"
+   ],
+   "description": "July 24, 1948 sighting by two Eastern Air Lines pilots of a glowing object near Montgomery, Alabama, later attributed to a meteor."
+  },
+  {
+   "key": "chiles",
+   "type": "person",
+   "name": "Clarence S. Chiles",
+   "aliases": [
+    "Clarence Chiles",
+    "Chiles"
+   ],
+   "description": "Eastern Air Lines chief pilot who reported the object."
+  },
+  {
+   "key": "whitted",
+   "type": "person",
+   "name": "John B. Whitted",
+   "aliases": [
+    "John Whitted",
+    "Whitted"
+   ],
+   "description": "Eastern Air Lines co-pilot who reported the object."
+  },
+  {
+   "key": "mckelvie",
+   "type": "person",
+   "name": "C. L. McKelvie",
+   "description": "Passenger on the DC-3, the only one who saw anything unusual."
+  },
+  {
+   "key": "ruppelt",
+   "type": "person",
+   "name": "Edward J. Ruppelt",
+   "aliases": [
+    "Edward Ruppelt",
+    "Captain Edward Ruppelt",
+    "Ruppelt"
+   ],
+   "description": "USAF officer and Project Blue Book supervisor who wrote about the case."
+  },
+  {
+   "key": "vandenberg",
+   "type": "person",
+   "name": "Hoyt S. Vandenberg",
+   "aliases": [
+    "Gen. Vandenberg",
+    "Vandenberg"
+   ],
+   "description": "Air Force Chief of Staff who rejected the Estimate of the Situation."
+  },
+  {
+   "key": "hynek",
+   "type": "person",
+   "name": "J. Allen Hynek",
+   "aliases": [
+    "Hynek"
+   ],
+   "description": "Ohio State University astronomer and scientific consultant to Project Sign."
+  },
+  {
+   "key": "menzel",
+   "type": "person",
+   "name": "Donald Menzel",
+   "aliases": [
+    "Menzel"
+   ],
+   "description": "Harvard University astronomer and UFO skeptic."
+  },
+  {
+   "key": "klass",
+   "type": "person",
+   "name": "Philip Klass",
+   "aliases": [
+    "Klass"
+   ],
+   "description": "Prominent UFO skeptic who agreed with the meteor explanation."
+  },
+  {
+   "key": "mcdonald",
+   "type": "person",
+   "name": "James E. McDonald",
+   "aliases": [
+    "McDonald"
+   ],
+   "description": "University of Arizona physicist and ufologist who interviewed the pilots in the 1960s."
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "aliases": [
+    "USAF",
+    "Air Force"
+   ],
+   "description": "US military air service that received and evaluated the report."
+  },
+  {
+   "key": "eastern",
+   "type": "organization",
+   "name": "Eastern Air Lines",
+   "description": "Airline operating the DC-3 flown by Chiles and Whitted."
+  },
+  {
+   "key": "atic",
+   "type": "organization",
+   "name": "Air Technical Intelligence Center",
+   "aliases": [
+    "ATIC"
+   ],
+   "description": "Air Force intelligence centre whose old-timers were shaken by the report."
+  },
+  {
+   "key": "army",
+   "type": "organization",
+   "name": "United States Army",
+   "aliases": [
+    "Army"
+   ],
+   "description": "Mentioned only in Chiles's first remark that the object was 'a new Army jet job'."
+  },
+  {
+   "key": "osu",
+   "type": "organization",
+   "name": "Ohio State University",
+   "description": "University where Hynek was an astronomer."
+  },
+  {
+   "key": "harvard",
+   "type": "organization",
+   "name": "Harvard University",
+   "description": "University where Menzel was an astronomer."
+  },
+  {
+   "key": "arizona",
+   "type": "organization",
+   "name": "University of Arizona",
+   "description": "University where McDonald was a physicist."
+  },
+  {
+   "key": "casebook",
+   "type": "organization",
+   "name": "UFO Casebook",
+   "aliases": [
+    "UFO casebook"
+   ],
+   "description": "Website listed as an external link for the case."
+  },
+  {
+   "key": "sign",
+   "type": "program",
+   "name": "Project Sign",
+   "description": "First Air Force research group assigned to investigate UFO sightings; predecessor of Project Blue Book."
+  },
+  {
+   "key": "bluebook",
+   "type": "program",
+   "name": "Project Blue Book",
+   "aliases": [
+    "Blue Book"
+   ],
+   "description": "Air Force UFO project that in 1959 attributed the incident to a meteor."
+  },
+  {
+   "key": "montgomery",
+   "type": "place",
+   "name": "Montgomery, Alabama",
+   "aliases": [
+    "Montgomery"
+   ],
+   "description": "City near which the encounter took place."
+  },
+  {
+   "key": "alabama",
+   "type": "place",
+   "name": "Alabama",
+   "description": "US state where the encounter took place."
+  },
+  {
+   "key": "us",
+   "type": "place",
+   "name": "United States",
+   "description": "Country of the encounter."
+  },
+  {
+   "key": "atlanta",
+   "type": "place",
+   "name": "Atlanta, Georgia",
+   "aliases": [
+    "Atlanta"
+   ],
+   "description": "City where the DC-3 landed and the pilots reported the sighting."
+  },
+  {
+   "key": "macon",
+   "type": "place",
+   "name": "Macon, Georgia",
+   "aliases": [
+    "Macon"
+   ],
+   "description": "City the object's plotted trajectory would have passed over."
+  },
+  {
+   "key": "georgia",
+   "type": "place",
+   "name": "Georgia",
+   "description": "US state containing Atlanta and Macon."
+  },
+  {
+   "key": "robins",
+   "type": "place",
+   "name": "Robins Air Force Base",
+   "description": "Air base near Macon where a crew chief reported a bright light the same night."
+  },
+  {
+   "key": "nc",
+   "type": "place",
+   "name": "North Carolina",
+   "description": "State over which a huge fireball flashed two days after the sighting."
+  },
+  {
+   "key": "tennessee",
+   "type": "place",
+   "name": "Tennessee",
+   "description": "State over which a huge fireball flashed two days after the sighting."
+  },
+  {
+   "key": "object",
+   "type": "craft",
+   "name": "glowing torpedo- or cigar-shaped object seen 24 July 1948",
+   "description": "Wingless, flame-trailing object with apparent lighted windows reported by Chiles and Whitted."
+  },
+  {
+   "key": "dc3",
+   "type": "vehicle",
+   "name": "Eastern Air Lines Douglas DC-3",
+   "aliases": [
+    "Douglas DC-3",
+    "DC-3"
+   ],
+   "description": "Passenger plane flown by Chiles and Whitted."
+  },
+  {
+   "key": "b29",
+   "type": "vehicle",
+   "name": "B-29",
+   "description": "Aircraft whose fuselage the pilots compared the object to."
+  },
+  {
+   "key": "estimate",
+   "type": "document",
+   "name": "Estimate of the Situation",
+   "description": "Top-secret Project Sign document concluding UFOs were interplanetary, sent to and rejected by Gen. Vandenberg."
+  },
+  {
+   "key": "trajmap",
+   "type": "document",
+   "name": "Project Sign map of the object's trajectory",
+   "description": "Map developed by Project Sign personnel showing the object would have passed over Macon, Georgia."
+  },
+  {
+   "key": "casebook_article",
+   "type": "work",
+   "name": "The Chiles-Whitted Encounter",
+   "description": "Article on the case at UFO Casebook (external link)."
+  },
+  {
+   "key": "mantell",
+   "type": "case",
+   "name": "Mantell UFO incident",
+   "aliases": [
+    "Mantell Incident"
+   ],
+   "description": "One of three 'classic' 1948 UFO incidents named by Ruppelt."
+  },
+  {
+   "key": "gorman",
+   "type": "case",
+   "name": "Gorman dogfight",
+   "description": "One of three 'classic' 1948 UFO incidents named by Ruppelt."
+  },
+  {
+   "key": "arnold",
+   "type": "case",
+   "name": "Kenneth Arnold UFO sighting",
+   "description": "UFO case listed under 'See also'."
+  },
+  {
+   "key": "f_cyl",
+   "type": "feature",
+   "name": "shape-cylinder",
+   "description": "Torpedo- or cigar-shaped object."
+  },
+  {
+   "key": "f_pilot",
+   "type": "feature",
+   "name": "pilot-witnesses",
+   "description": "Two commercial pilots."
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "Two pilots and one passenger."
+  },
+  {
+   "key": "f_speed",
+   "type": "feature",
+   "name": "high-speed-maneuvers",
+   "description": "Passed at high speed, then pulled up into the clouds."
+  },
+  {
+   "key": "f_silent",
+   "type": "feature",
+   "name": "silent",
+   "description": "Neither pilot heard any sound."
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Investigated by Project Sign and Project Blue Book."
+  },
+  {
+   "key": "f_mil",
+   "type": "feature",
+   "name": "military-witnesses",
+   "description": "Air Force crew chief at Robins AFB reported a bright light the same night."
+  },
+  {
+   "key": "f_windows",
+   "type": "feature",
+   "name": "other:windows-reported",
+   "description": "Rows of lighted windows reported on the object."
+  },
+  {
+   "key": "f_flame",
+   "type": "feature",
+   "name": "other:flame-exhaust",
+   "description": "Flames coming out of the object's tail."
+  },
+  {
+   "key": "x_meteor",
+   "type": "explanation",
+   "name": "meteor-or-fireball",
+   "description": "Very bright meteor, possibly a bolide."
+  },
+  {
+   "key": "x_misperception",
+   "type": "explanation",
+   "name": "misperception",
+   "description": "Pilots misinterpreted the appearance of a bright meteor."
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1948-07-24",
+   "quote": "The Chiles-Whitted UFO encounter occurred at approximately 2:45 am on July 24, 1948, in the skies near Montgomery, Alabama, United States."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "approximately 2:45 am",
+   "quote": "The Chiles-Whitted UFO encounter occurred at approximately 2:45 am on July 24, 1948, in the skies near Montgomery, Alabama, United States."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "early morning hours",
+   "quote": "In the early morning hours of July 24, 1948"
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "The Chiles-Whitted UFO encounter occurred at approximately 2:45 am on July 24, 1948, in the skies near Montgomery, Alabama, United States."
+  },
+  {
+   "s": "case",
+   "p": "witness_count",
+   "v": "2",
+   "quote": "Two commercial pilots, Clarence S. Chiles and John B. Whitted, claimed to have observed a \"glowing object\" pass by their plane before it appeared to pull up into a cloud and travel out of sight."
+  },
+  {
+   "s": "case",
+   "p": "duration",
+   "v": "ten to fifteen seconds",
+   "quote": "They observed the object for a total of ten to fifteen seconds."
+  },
+  {
+   "s": "case",
+   "p": "weather",
+   "v": "clear night sky with scattered clouds",
+   "quote": "The night sky was clear with \"the Moon, four days past full, shining through scattered clouds.\""
+  },
+  {
+   "s": "case",
+   "p": "moon_phase",
+   "v": "four days past full",
+   "quote": "The night sky was clear with \"the Moon, four days past full, shining through scattered clouds.\""
+  },
+  {
+   "s": "case",
+   "p": "passenger_witness_count",
+   "v": "1",
+   "quote": "Only one of the plane's passengers, C. L. McKelvie, saw anything unusual."
+  },
+  {
+   "s": "case",
+   "p": "ruppelt_assessment",
+   "v": "one of three \"classic\" UFO incidents in 1948",
+   "quote": "According to United States Air Force (USAF) officer and Project Blue Book supervisor Edward J. Ruppelt, the Chiles-Whitted sighting was one of three \"classic\" UFO incidents in 1948"
+  },
+  {
+   "s": "case",
+   "p": "effect_on_project_sign",
+   "v": "convinced Project Sign personnel \"that UFOs were real\"",
+   "quote": "convinced the personnel of Project Sign, Blue Book's predecessor, \"that UFOs were real\", along with the Mantell UFO incident and the Gorman dogfight."
+  },
+  {
+   "s": "case",
+   "p": "official_conclusion",
+   "v": "meteor",
+   "quote": "in 1959 Project Blue Book formally stated that a meteor was the cause of the incident."
+  },
+  {
+   "s": "case",
+   "p": "official_conclusion_year",
+   "v": "1959",
+   "quote": "in 1959 Project Blue Book formally stated that a meteor was the cause of the incident."
+  },
+  {
+   "s": "case",
+   "p": "official_conclusion",
+   "v": "caused by a fireball-type meteor",
+   "quote": "in 1959 the USAF, based on the analysis of Hynek, Menzel, and others, labeled the Chiles-Whitted incident as having been caused by a fireball-type meteor."
+  },
+  {
+   "s": "case",
+   "p": "later_studies_finding",
+   "v": "a meteor, possibly a bolide",
+   "quote": "later studies by Air Force and civilian researchers indicated that Chiles and Whitted had seen a meteor, possibly a bolide"
+  },
+  {
+   "s": "case",
+   "p": "disputed_claim",
+   "v": "some books and articles later claimed the plane was hit by turbulence from the object; pilots and passenger said the plane was not affected at all",
+   "quote": "although some books and articles would later claim the plane had been hit by turbulence from the object, both pilots and the passenger who saw the \"streak of light\" stated that the plane was not affected at all by the object."
+  },
+  {
+   "s": "case",
+   "p": "significance",
+   "v": "first time two reliable sources had been really close enough to a UFO to get a good look",
+   "quote": "this was the first time two reliable sources had been really close enough to a UFO to get a good look."
+  },
+  {
+   "s": "case",
+   "p": "atic_reaction",
+   "v": "the report shook the old-timers at ATIC worse than the Mantell Incident",
+   "quote": "USAF Captain Edward Ruppelt wrote that \"according to the old-timers at ATIC (Air Technical Intelligence Center), the [Chiles-Whitted] report shook them worse than the Mantell Incident"
+  },
+  {
+   "s": "case",
+   "p": "corroborating_report",
+   "v": "Air Force crew chief at Robins Air Force Base reported \"an extremely bright light pass overhead at high speed\" the same night",
+   "quote": "When an Air Force crew chief at Robins Air Force Base near Macon reported seeing \"an extremely bright light pass overhead at high speed\" on the same night as the Chiles-Whitted incident"
+  },
+  {
+   "s": "case",
+   "p": "corroborating_report_assessment",
+   "v": "seemed to confirm the sighting, per Ruppelt",
+   "quote": "it \"seemed to confirm the [Chiles-Whitted] sighting\", Ruppelt wrote."
+  },
+  {
+   "s": "case",
+   "p": "meteor_activity",
+   "v": "period of greatly increased meteor activity, Earth moving through the Aquarid streams",
+   "quote": "July 24 \"falls into a period of greatly increased meteor activity, when the Earth is moving through the Aquarid streams"
+  },
+  {
+   "s": "case",
+   "p": "meteor_activity",
+   "v": "an observer in Alabama counted fifteen meteors in one hour on the night of July 24",
+   "quote": "On the night of July 24, an observer in Alabama \"counted fifteen meteors in one hour's watching.\""
+  },
+  {
+   "s": "case",
+   "p": "meteor_activity",
+   "v": "large number of bright meteors observed by amateur astronomers on the night of July 23-24",
+   "quote": "He also stated that a large number of bright meteors had been observed by amateur astronomers on the night of July 23–24."
+  },
+  {
+   "s": "case",
+   "p": "related_event",
+   "v": "huge fireball over North Carolina and Tennessee two days after the sighting",
+   "quote": "Two days after the Chiles-Whitted sighting, a \"huge fireball flashed over North Carolina and Tennessee.\""
+  },
+  {
+   "s": "case",
+   "p": "later_researchers_view",
+   "v": "later researchers supported Hynek's meteor conclusion",
+   "quote": "Although a Project Sign officer disagreed with Hynek's explanation, arguing that \"it is obvious that this object was not a meteor\" and that the object should remain labeled as unidentified, later researchers supported Hynek's conclusion."
+  },
+  {
+   "s": "chiles",
+   "p": "witness",
+   "o": "case",
+   "quote": "Two commercial pilots, Clarence S. Chiles and John B. Whitted, claimed to have observed a \"glowing object\" pass by their plane before it appeared to pull up into a cloud and travel out of sight."
+  },
+  {
+   "s": "whitted",
+   "p": "witness",
+   "o": "case",
+   "quote": "Two commercial pilots, Clarence S. Chiles and John B. Whitted, claimed to have observed a \"glowing object\" pass by their plane before it appeared to pull up into a cloud and travel out of sight."
+  },
+  {
+   "s": "mckelvie",
+   "p": "witness",
+   "o": "case",
+   "quote": "Only one of the plane's passengers, C. L. McKelvie, saw anything unusual."
+  },
+  {
+   "s": "chiles",
+   "p": "occupation",
+   "v": "commercial pilot",
+   "quote": "Two commercial pilots, Clarence S. Chiles and John B. Whitted, claimed to have observed a \"glowing object\" pass by their plane before it appeared to pull up into a cloud and travel out of sight."
+  },
+  {
+   "s": "whitted",
+   "p": "occupation",
+   "v": "commercial pilot",
+   "quote": "Two commercial pilots, Clarence S. Chiles and John B. Whitted, claimed to have observed a \"glowing object\" pass by their plane before it appeared to pull up into a cloud and travel out of sight."
+  },
+  {
+   "s": "chiles",
+   "p": "role",
+   "v": "chief pilot",
+   "quote": "Clarence Chiles, chief pilot, and John Whitted, co-pilot, were flying an Eastern Air Lines Douglas DC-3 passenger plane near Montgomery, Alabama, at about 5,000 feet altitude."
+  },
+  {
+   "s": "whitted",
+   "p": "role",
+   "v": "co-pilot",
+   "quote": "Clarence Chiles, chief pilot, and John Whitted, co-pilot, were flying an Eastern Air Lines Douglas DC-3 passenger plane near Montgomery, Alabama, at about 5,000 feet altitude."
+  },
+  {
+   "s": "chiles",
+   "p": "employed_by",
+   "o": "eastern",
+   "quote": "Clarence Chiles, chief pilot, and John Whitted, co-pilot, were flying an Eastern Air Lines Douglas DC-3 passenger plane near Montgomery, Alabama, at about 5,000 feet altitude."
+  },
+  {
+   "s": "whitted",
+   "p": "employed_by",
+   "o": "eastern",
+   "quote": "Clarence Chiles, chief pilot, and John Whitted, co-pilot, were flying an Eastern Air Lines Douglas DC-3 passenger plane near Montgomery, Alabama, at about 5,000 feet altitude."
+  },
+  {
+   "s": "chiles",
+   "p": "piloted",
+   "o": "dc3",
+   "quote": "Clarence Chiles, chief pilot, and John Whitted, co-pilot, were flying an Eastern Air Lines Douglas DC-3 passenger plane near Montgomery, Alabama, at about 5,000 feet altitude."
+  },
+  {
+   "s": "whitted",
+   "p": "piloted",
+   "o": "dc3",
+   "quote": "Clarence Chiles, chief pilot, and John Whitted, co-pilot, were flying an Eastern Air Lines Douglas DC-3 passenger plane near Montgomery, Alabama, at about 5,000 feet altitude."
+  },
+  {
+   "s": "chiles",
+   "p": "colleague_of",
+   "o": "whitted",
+   "quote": "Clarence Chiles, chief pilot, and John Whitted, co-pilot, were flying an Eastern Air Lines Douglas DC-3 passenger plane near Montgomery, Alabama, at about 5,000 feet altitude."
+  },
+  {
+   "s": "chiles",
+   "p": "described",
+   "o": "object",
+   "quote": "Chiles and Whitted stated that the object \"looked like a wingless aircraft...it seemed to have two rows of windows through which glowed a very bright light, as brilliant as a magnesium flare.\""
+  },
+  {
+   "s": "whitted",
+   "p": "described",
+   "o": "object",
+   "quote": "Chiles and Whitted stated that the object \"looked like a wingless aircraft...it seemed to have two rows of windows through which glowed a very bright light, as brilliant as a magnesium flare.\""
+  },
+  {
+   "s": "chiles",
+   "p": "statement",
+   "v": "saw a dull red glow above and ahead of the aircraft",
+   "quote": "At about 2:45 am, Chiles \"saw a dull red glow above and ahead of the aircraft.\""
+  },
+  {
+   "s": "chiles",
+   "p": "statement",
+   "v": "Look, here comes a new Army jet job.",
+   "quote": "He told Whitted, \"Look, here comes a new Army jet job.\""
+  },
+  {
+   "s": "chiles",
+   "p": "statement",
+   "v": "saw a lighted cockpit, a long boom on the nose of the object, and a transparent center section",
+   "quote": "Chiles claimed to see a lighted cockpit, long boom on the nose of the object, and the center section was transparent."
+  },
+  {
+   "s": "whitted",
+   "p": "statement",
+   "v": "did not see a cockpit or boom; saw a series of rectangular windows instead of a transparent center section",
+   "quote": "Whitted did not see a cockpit or boom, and instead of the center section being transparent he claimed to see a series of rectangular windows."
+  },
+  {
+   "s": "chiles",
+   "p": "statement",
+   "v": "the plane was not affected at all by the object",
+   "quote": "although some books and articles would later claim the plane had been hit by turbulence from the object, both pilots and the passenger who saw the \"streak of light\" stated that the plane was not affected at all by the object."
+  },
+  {
+   "s": "whitted",
+   "p": "statement",
+   "v": "the plane was not affected at all by the object",
+   "quote": "although some books and articles would later claim the plane had been hit by turbulence from the object, both pilots and the passenger who saw the \"streak of light\" stated that the plane was not affected at all by the object."
+  },
+  {
+   "s": "chiles",
+   "p": "heard_sound",
+   "v": "no",
+   "quote": "Neither pilot had heard any sound"
+  },
+  {
+   "s": "whitted",
+   "p": "heard_sound",
+   "v": "no",
+   "quote": "Neither pilot had heard any sound"
+  },
+  {
+   "s": "chiles",
+   "p": "reported_to",
+   "v": "United States Air Force",
+   "quote": "Shortly after landing in Atlanta, Georgia, Chiles and Whitted reported their sighting to the United States Air Force (USAF)."
+  },
+  {
+   "s": "mckelvie",
+   "p": "role",
+   "v": "passenger on the plane",
+   "quote": "Only one of the plane's passengers, C. L. McKelvie, saw anything unusual."
+  },
+  {
+   "s": "mckelvie",
+   "p": "statement",
+   "v": "saw a \"bright streak of light\" that flashed by his window",
+   "quote": "He reported seeing a \"bright streak of light\" that flashed by his window."
+  },
+  {
+   "s": "mckelvie",
+   "p": "statement",
+   "v": "the plane was not affected at all by the object",
+   "quote": "although some books and articles would later claim the plane had been hit by turbulence from the object, both pilots and the passenger who saw the \"streak of light\" stated that the plane was not affected at all by the object."
+  },
+  {
+   "s": "object",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Two commercial pilots, Clarence S. Chiles and John B. Whitted, claimed to have observed a \"glowing object\" pass by their plane before it appeared to pull up into a cloud and travel out of sight."
+  },
+  {
+   "s": "object",
+   "p": "appearance",
+   "v": "glowing object",
+   "quote": "Two commercial pilots, Clarence S. Chiles and John B. Whitted, claimed to have observed a \"glowing object\" pass by their plane before it appeared to pull up into a cloud and travel out of sight."
+  },
+  {
+   "s": "object",
+   "p": "color",
+   "v": "dull red glow",
+   "quote": "At about 2:45 am, Chiles \"saw a dull red glow above and ahead of the aircraft.\""
+  },
+  {
+   "s": "object",
+   "p": "position",
+   "v": "above and ahead of the aircraft",
+   "quote": "At about 2:45 am, Chiles \"saw a dull red glow above and ahead of the aircraft.\""
+  },
+  {
+   "s": "object",
+   "p": "approach",
+   "v": "closed on the DC-3 in a matter of seconds",
+   "quote": "The object closed on their DC-3 in a matter of seconds"
+  },
+  {
+   "s": "object",
+   "p": "passed_side",
+   "v": "right side of the plane",
+   "quote": "both men later said they saw the object fly past the right side of their plane at high speed before it pulled \"up with a tremendous burst of flame out of its rear and zoomed up into the clouds.\""
+  },
+  {
+   "s": "object",
+   "p": "speed",
+   "v": "high speed",
+   "quote": "both men later said they saw the object fly past the right side of their plane at high speed before it pulled \"up with a tremendous burst of flame out of its rear and zoomed up into the clouds.\""
+  },
+  {
+   "s": "object",
+   "p": "departure",
+   "v": "pulled up with a tremendous burst of flame out of its rear and zoomed up into the clouds",
+   "quote": "both men later said they saw the object fly past the right side of their plane at high speed before it pulled \"up with a tremendous burst of flame out of its rear and zoomed up into the clouds.\""
+  },
+  {
+   "s": "object",
+   "p": "appearance",
+   "v": "looked like a wingless aircraft",
+   "quote": "Chiles and Whitted stated that the object \"looked like a wingless aircraft...it seemed to have two rows of windows through which glowed a very bright light, as brilliant as a magnesium flare.\""
+  },
+  {
+   "s": "object",
+   "p": "windows",
+   "v": "two rows of windows",
+   "quote": "Chiles and Whitted stated that the object \"looked like a wingless aircraft...it seemed to have two rows of windows through which glowed a very bright light, as brilliant as a magnesium flare.\""
+  },
+  {
+   "s": "object",
+   "p": "light",
+   "v": "very bright light glowing through the windows, as brilliant as a magnesium flare",
+   "quote": "Chiles and Whitted stated that the object \"looked like a wingless aircraft...it seemed to have two rows of windows through which glowed a very bright light, as brilliant as a magnesium flare.\""
+  },
+  {
+   "s": "object",
+   "p": "length",
+   "v": "100 feet (30 m)",
+   "quote": "Both pilots claimed the object was 100 feet (30 m) long and 25–30 feet (7.6–9.1 m) in diameter, torpedo- or cigar-shaped, \"similar to a B-29 fuselage\", with flames coming out of its tail."
+  },
+  {
+   "s": "object",
+   "p": "diameter",
+   "v": "25-30 feet (7.6-9.1 m)",
+   "quote": "Both pilots claimed the object was 100 feet (30 m) long and 25–30 feet (7.6–9.1 m) in diameter, torpedo- or cigar-shaped, \"similar to a B-29 fuselage\", with flames coming out of its tail."
+  },
+  {
+   "s": "object",
+   "p": "shape",
+   "v": "torpedo- or cigar-shaped",
+   "quote": "Both pilots claimed the object was 100 feet (30 m) long and 25–30 feet (7.6–9.1 m) in diameter, torpedo- or cigar-shaped, \"similar to a B-29 fuselage\", with flames coming out of its tail."
+  },
+  {
+   "s": "object",
+   "p": "exhaust",
+   "v": "flames coming out of its tail",
+   "quote": "Both pilots claimed the object was 100 feet (30 m) long and 25–30 feet (7.6–9.1 m) in diameter, torpedo- or cigar-shaped, \"similar to a B-29 fuselage\", with flames coming out of its tail."
+  },
+  {
+   "s": "object",
+   "p": "compared_to",
+   "o": "b29",
+   "quote": "Both pilots claimed the object was 100 feet (30 m) long and 25–30 feet (7.6–9.1 m) in diameter, torpedo- or cigar-shaped, \"similar to a B-29 fuselage\", with flames coming out of its tail."
+  },
+  {
+   "s": "object",
+   "p": "sound",
+   "v": "none heard by either pilot",
+   "quote": "Neither pilot had heard any sound"
+  },
+  {
+   "s": "object",
+   "p": "cockpit",
+   "v": "lighted cockpit (Chiles only)",
+   "quote": "Chiles claimed to see a lighted cockpit, long boom on the nose of the object, and the center section was transparent."
+  },
+  {
+   "s": "object",
+   "p": "nose_boom",
+   "v": "long boom on the nose (Chiles only)",
+   "quote": "Chiles claimed to see a lighted cockpit, long boom on the nose of the object, and the center section was transparent."
+  },
+  {
+   "s": "object",
+   "p": "center_section",
+   "v": "transparent (Chiles); series of rectangular windows (Whitted)",
+   "quote": "Whitted did not see a cockpit or boom, and instead of the center section being transparent he claimed to see a series of rectangular windows."
+  },
+  {
+   "s": "object",
+   "p": "plotted_trajectory",
+   "v": "would have passed over Macon, Georgia",
+   "quote": "Project Sign's personnel developed a map of the object's trajectory which showed that it would have passed over Macon, Georgia."
+  },
+  {
+   "s": "object",
+   "p": "project_sign_conclusion",
+   "v": "interplanetary spacecraft",
+   "quote": "Philip Klass, another prominent UFO skeptic, agreed with the meteor explanation, writing that the original Project Sign conclusion that the object was an interplanetary spacecraft was \"grossly in error.\""
+  },
+  {
+   "s": "dc3",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "Clarence Chiles, chief pilot, and John Whitted, co-pilot, were flying an Eastern Air Lines Douglas DC-3 passenger plane near Montgomery, Alabama, at about 5,000 feet altitude."
+  },
+  {
+   "s": "dc3",
+   "p": "aircraft_type",
+   "v": "Douglas DC-3 passenger plane",
+   "quote": "Clarence Chiles, chief pilot, and John Whitted, co-pilot, were flying an Eastern Air Lines Douglas DC-3 passenger plane near Montgomery, Alabama, at about 5,000 feet altitude."
+  },
+  {
+   "s": "dc3",
+   "p": "altitude",
+   "v": "about 5,000 feet",
+   "quote": "Clarence Chiles, chief pilot, and John Whitted, co-pilot, were flying an Eastern Air Lines Douglas DC-3 passenger plane near Montgomery, Alabama, at about 5,000 feet altitude."
+  },
+  {
+   "s": "eastern",
+   "p": "owned",
+   "o": "dc3",
+   "quote": "Clarence Chiles, chief pilot, and John Whitted, co-pilot, were flying an Eastern Air Lines Douglas DC-3 passenger plane near Montgomery, Alabama, at about 5,000 feet altitude."
+  },
+  {
+   "s": "dc3",
+   "p": "landed_at",
+   "o": "atlanta",
+   "quote": "Shortly after landing in Atlanta, Georgia, Chiles and Whitted reported their sighting to the United States Air Force (USAF)."
+  },
+  {
+   "s": "dc3",
+   "p": "effect_of_object",
+   "v": "not affected at all by the object",
+   "quote": "although some books and articles would later claim the plane had been hit by turbulence from the object, both pilots and the passenger who saw the \"streak of light\" stated that the plane was not affected at all by the object."
+  },
+  {
+   "s": "b29",
+   "p": "comparison",
+   "v": "the object was \"similar to a B-29 fuselage\"",
+   "quote": "Both pilots claimed the object was 100 feet (30 m) long and 25–30 feet (7.6–9.1 m) in diameter, torpedo- or cigar-shaped, \"similar to a B-29 fuselage\", with flames coming out of its tail."
+  },
+  {
+   "s": "montgomery",
+   "p": "near",
+   "o": "case",
+   "quote": "The Chiles-Whitted UFO encounter occurred at approximately 2:45 am on July 24, 1948, in the skies near Montgomery, Alabama, United States."
+  },
+  {
+   "s": "alabama",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Chiles-Whitted UFO encounter occurred at approximately 2:45 am on July 24, 1948, in the skies near Montgomery, Alabama, United States."
+  },
+  {
+   "s": "us",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Chiles-Whitted UFO encounter occurred at approximately 2:45 am on July 24, 1948, in the skies near Montgomery, Alabama, United States."
+  },
+  {
+   "s": "montgomery",
+   "p": "located_in",
+   "o": "alabama",
+   "quote": "The Chiles-Whitted UFO encounter occurred at approximately 2:45 am on July 24, 1948, in the skies near Montgomery, Alabama, United States."
+  },
+  {
+   "s": "alabama",
+   "p": "located_in",
+   "o": "us",
+   "quote": "The Chiles-Whitted UFO encounter occurred at approximately 2:45 am on July 24, 1948, in the skies near Montgomery, Alabama, United States."
+  },
+  {
+   "s": "atlanta",
+   "p": "sighting_reported_at",
+   "o": "case",
+   "quote": "Shortly after landing in Atlanta, Georgia, Chiles and Whitted reported their sighting to the United States Air Force (USAF)."
+  },
+  {
+   "s": "atlanta",
+   "p": "located_in",
+   "o": "georgia",
+   "quote": "Shortly after landing in Atlanta, Georgia, Chiles and Whitted reported their sighting to the United States Air Force (USAF)."
+  },
+  {
+   "s": "macon",
+   "p": "on_plotted_trajectory",
+   "o": "case",
+   "quote": "Project Sign's personnel developed a map of the object's trajectory which showed that it would have passed over Macon, Georgia."
+  },
+  {
+   "s": "macon",
+   "p": "located_in",
+   "o": "georgia",
+   "quote": "Project Sign's personnel developed a map of the object's trajectory which showed that it would have passed over Macon, Georgia."
+  },
+  {
+   "s": "robins",
+   "p": "corroborating_sighting_at",
+   "o": "case",
+   "quote": "When an Air Force crew chief at Robins Air Force Base near Macon reported seeing \"an extremely bright light pass overhead at high speed\" on the same night as the Chiles-Whitted incident"
+  },
+  {
+   "s": "robins",
+   "p": "near",
+   "o": "macon",
+   "quote": "When an Air Force crew chief at Robins Air Force Base near Macon reported seeing \"an extremely bright light pass overhead at high speed\" on the same night as the Chiles-Whitted incident"
+  },
+  {
+   "s": "nc",
+   "p": "later_fireball_over",
+   "o": "case",
+   "quote": "Two days after the Chiles-Whitted sighting, a \"huge fireball flashed over North Carolina and Tennessee.\""
+  },
+  {
+   "s": "tennessee",
+   "p": "later_fireball_over",
+   "o": "case",
+   "quote": "Two days after the Chiles-Whitted sighting, a \"huge fireball flashed over North Carolina and Tennessee.\""
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Shortly after landing in Atlanta, Georgia, Chiles and Whitted reported their sighting to the United States Air Force (USAF)."
+  },
+  {
+   "s": "usaf",
+   "p": "proposed",
+   "o": "x_meteor",
+   "quote": "in 1959 the USAF, based on the analysis of Hynek, Menzel, and others, labeled the Chiles-Whitted incident as having been caused by a fireball-type meteor."
+  },
+  {
+   "s": "eastern",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Clarence Chiles, chief pilot, and John Whitted, co-pilot, were flying an Eastern Air Lines Douglas DC-3 passenger plane near Montgomery, Alabama, at about 5,000 feet altitude."
+  },
+  {
+   "s": "atic",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "USAF Captain Edward Ruppelt wrote that \"according to the old-timers at ATIC (Air Technical Intelligence Center), the [Chiles-Whitted] report shook them worse than the Mantell Incident"
+  },
+  {
+   "s": "atic",
+   "p": "reaction",
+   "v": "the Chiles-Whitted report shook the old-timers worse than the Mantell Incident",
+   "quote": "USAF Captain Edward Ruppelt wrote that \"according to the old-timers at ATIC (Air Technical Intelligence Center), the [Chiles-Whitted] report shook them worse than the Mantell Incident"
+  },
+  {
+   "s": "army",
+   "p": "mentioned_in_statement",
+   "o": "case",
+   "quote": "He told Whitted, \"Look, here comes a new Army jet job.\""
+  },
+  {
+   "s": "sign",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "They were interviewed by personnel from Project Sign, the first Air Force research group assigned to investigate UFO sightings."
+  },
+  {
+   "s": "sign",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "They were interviewed by personnel from Project Sign, the first Air Force research group assigned to investigate UFO sightings."
+  },
+  {
+   "s": "sign",
+   "p": "description",
+   "v": "the first Air Force research group assigned to investigate UFO sightings",
+   "quote": "They were interviewed by personnel from Project Sign, the first Air Force research group assigned to investigate UFO sightings."
+  },
+  {
+   "s": "sign",
+   "p": "interviewed",
+   "o": "chiles",
+   "quote": "They were interviewed by personnel from Project Sign, the first Air Force research group assigned to investigate UFO sightings."
+  },
+  {
+   "s": "sign",
+   "p": "interviewed",
+   "o": "whitted",
+   "quote": "They were interviewed by personnel from Project Sign, the first Air Force research group assigned to investigate UFO sightings."
+  },
+  {
+   "s": "sign",
+   "p": "predecessor_of",
+   "o": "bluebook",
+   "quote": "convinced the personnel of Project Sign, Blue Book's predecessor, \"that UFOs were real\", along with the Mantell UFO incident and the Gorman dogfight."
+  },
+  {
+   "s": "sign",
+   "p": "authored",
+   "o": "estimate",
+   "quote": "as a result of the Chiles-Whitted incident and earlier sightings in 1947 and 1948, Project Sign's personnel decided to send an \"Estimate of the Situation\" to Air Force Chief of Staff Hoyt S. Vandenberg."
+  },
+  {
+   "s": "sign",
+   "p": "authored",
+   "o": "trajmap",
+   "quote": "Project Sign's personnel developed a map of the object's trajectory which showed that it would have passed over Macon, Georgia."
+  },
+  {
+   "s": "sign",
+   "p": "conclusion",
+   "v": "UFOs were interplanetary",
+   "quote": "Project Sign's conclusion \"was that [UFOs] were interplanetary!\""
+  },
+  {
+   "s": "sign",
+   "p": "finding",
+   "v": "the two pilots disagreed on some details",
+   "quote": "The personnel found that the two pilots did disagree on some details"
+  },
+  {
+   "s": "sign",
+   "p": "internal_dissent",
+   "v": "a Project Sign officer argued \"it is obvious that this object was not a meteor\" and that the object should remain labeled unidentified",
+   "quote": "Although a Project Sign officer disagreed with Hynek's explanation, arguing that \"it is obvious that this object was not a meteor\" and that the object should remain labeled as unidentified, later researchers supported Hynek's conclusion."
+  },
+  {
+   "s": "bluebook",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "in 1959 Project Blue Book formally stated that a meteor was the cause of the incident."
+  },
+  {
+   "s": "bluebook",
+   "p": "proposed",
+   "o": "x_meteor",
+   "quote": "in 1959 Project Blue Book formally stated that a meteor was the cause of the incident."
+  },
+  {
+   "s": "casebook",
+   "p": "published",
+   "o": "casebook_article",
+   "quote": "The Chiles-Whitted Encounter from UFO casebook"
+  },
+  {
+   "s": "ruppelt",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "According to United States Air Force (USAF) officer and Project Blue Book supervisor Edward J. Ruppelt, the Chiles-Whitted sighting was one of three \"classic\" UFO incidents in 1948"
+  },
+  {
+   "s": "ruppelt",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "According to United States Air Force (USAF) officer and Project Blue Book supervisor Edward J. Ruppelt, the Chiles-Whitted sighting was one of three \"classic\" UFO incidents in 1948"
+  },
+  {
+   "s": "ruppelt",
+   "p": "member_of",
+   "o": "bluebook",
+   "quote": "According to United States Air Force (USAF) officer and Project Blue Book supervisor Edward J. Ruppelt, the Chiles-Whitted sighting was one of three \"classic\" UFO incidents in 1948"
+  },
+  {
+   "s": "ruppelt",
+   "p": "role",
+   "v": "Project Blue Book supervisor",
+   "quote": "According to United States Air Force (USAF) officer and Project Blue Book supervisor Edward J. Ruppelt, the Chiles-Whitted sighting was one of three \"classic\" UFO incidents in 1948"
+  },
+  {
+   "s": "ruppelt",
+   "p": "occupation",
+   "v": "United States Air Force officer",
+   "quote": "According to United States Air Force (USAF) officer and Project Blue Book supervisor Edward J. Ruppelt, the Chiles-Whitted sighting was one of three \"classic\" UFO incidents in 1948"
+  },
+  {
+   "s": "ruppelt",
+   "p": "rank",
+   "v": "Captain",
+   "quote": "USAF Captain Edward Ruppelt wrote that \"according to the old-timers at ATIC (Air Technical Intelligence Center), the [Chiles-Whitted] report shook them worse than the Mantell Incident"
+  },
+  {
+   "s": "ruppelt",
+   "p": "statement",
+   "v": "according to the old-timers at ATIC, the report shook them worse than the Mantell Incident",
+   "quote": "USAF Captain Edward Ruppelt wrote that \"according to the old-timers at ATIC (Air Technical Intelligence Center), the [Chiles-Whitted] report shook them worse than the Mantell Incident"
+  },
+  {
+   "s": "ruppelt",
+   "p": "statement",
+   "v": "this was the first time two reliable sources had been really close enough to a UFO to get a good look",
+   "quote": "this was the first time two reliable sources had been really close enough to a UFO to get a good look."
+  },
+  {
+   "s": "ruppelt",
+   "p": "statement",
+   "v": "the Robins crew chief's report seemed to confirm the Chiles-Whitted sighting",
+   "quote": "it \"seemed to confirm the [Chiles-Whitted] sighting\", Ruppelt wrote."
+  },
+  {
+   "s": "ruppelt",
+   "p": "described",
+   "o": "estimate",
+   "quote": "According to Ruppelt, as a result of the Chiles-Whitted incident and earlier sightings in 1947 and 1948, Project Sign's personnel decided to send an \"Estimate of the Situation\""
+  },
+  {
+   "s": "vandenberg",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "as a result of the Chiles-Whitted incident and earlier sightings in 1947 and 1948, Project Sign's personnel decided to send an \"Estimate of the Situation\" to Air Force Chief of Staff Hoyt S. Vandenberg."
+  },
+  {
+   "s": "vandenberg",
+   "p": "position",
+   "v": "Air Force Chief of Staff",
+   "quote": "as a result of the Chiles-Whitted incident and earlier sightings in 1947 and 1948, Project Sign's personnel decided to send an \"Estimate of the Situation\" to Air Force Chief of Staff Hoyt S. Vandenberg."
+  },
+  {
+   "s": "vandenberg",
+   "p": "rank",
+   "v": "General",
+   "quote": "Gen. Vandenberg rejected the Estimate of the Situation in October 1948, citing that \"the report's evidence was insufficient to support its conclusions.\""
+  },
+  {
+   "s": "vandenberg",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "as a result of the Chiles-Whitted incident and earlier sightings in 1947 and 1948, Project Sign's personnel decided to send an \"Estimate of the Situation\" to Air Force Chief of Staff Hoyt S. Vandenberg."
+  },
+  {
+   "s": "vandenberg",
+   "p": "disputed",
+   "o": "estimate",
+   "quote": "Gen. Vandenberg rejected the Estimate of the Situation in October 1948, citing that \"the report's evidence was insufficient to support its conclusions.\""
+  },
+  {
+   "s": "vandenberg",
+   "p": "statement",
+   "v": "the report's evidence was insufficient to support its conclusions",
+   "quote": "Gen. Vandenberg rejected the Estimate of the Situation in October 1948, citing that \"the report's evidence was insufficient to support its conclusions.\""
+  },
+  {
+   "s": "hynek",
+   "p": "investigator",
+   "o": "case",
+   "quote": "J. Allen Hynek, an astronomer at Ohio State University and a scientific consultant to Project Sign, concluded that Chiles and Whitted had actually seen a very bright meteor."
+  },
+  {
+   "s": "hynek",
+   "p": "occupation",
+   "v": "astronomer",
+   "quote": "J. Allen Hynek, an astronomer at Ohio State University and a scientific consultant to Project Sign, concluded that Chiles and Whitted had actually seen a very bright meteor."
+  },
+  {
+   "s": "hynek",
+   "p": "role",
+   "v": "scientific consultant to Project Sign",
+   "quote": "J. Allen Hynek, an astronomer at Ohio State University and a scientific consultant to Project Sign, concluded that Chiles and Whitted had actually seen a very bright meteor."
+  },
+  {
+   "s": "hynek",
+   "p": "employed_by",
+   "o": "osu",
+   "quote": "J. Allen Hynek, an astronomer at Ohio State University and a scientific consultant to Project Sign, concluded that Chiles and Whitted had actually seen a very bright meteor."
+  },
+  {
+   "s": "hynek",
+   "p": "member_of",
+   "o": "sign",
+   "quote": "J. Allen Hynek, an astronomer at Ohio State University and a scientific consultant to Project Sign, concluded that Chiles and Whitted had actually seen a very bright meteor."
+  },
+  {
+   "s": "hynek",
+   "p": "proposed",
+   "o": "x_meteor",
+   "quote": "J. Allen Hynek, an astronomer at Ohio State University and a scientific consultant to Project Sign, concluded that Chiles and Whitted had actually seen a very bright meteor."
+  },
+  {
+   "s": "hynek",
+   "p": "proposed",
+   "o": "x_misperception",
+   "quote": "\"It will have to be left to the psychologists to tell us whether the immediate trail of a bright meteor could produce the subjective impression of a ship with lighted windows.\""
+  },
+  {
+   "s": "hynek",
+   "p": "statement",
+   "v": "the flaming tail and sudden disappearance were consistent with the brief passage of a meteor",
+   "quote": "Hynek noted that \"the flaming tail and sudden disappearance were consistent with the brief passage of a meteor.\""
+  },
+  {
+   "s": "hynek",
+   "p": "statement",
+   "v": "a large number of bright meteors had been observed by amateur astronomers on the night of July 23-24",
+   "quote": "He also stated that a large number of bright meteors had been observed by amateur astronomers on the night of July 23–24."
+  },
+  {
+   "s": "hynek",
+   "p": "statement",
+   "v": "It will have to be left to the psychologists to tell us whether the immediate trail of a bright meteor could produce the subjective impression of a ship with lighted windows.",
+   "quote": "\"It will have to be left to the psychologists to tell us whether the immediate trail of a bright meteor could produce the subjective impression of a ship with lighted windows.\""
+  },
+  {
+   "s": "menzel",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Menzel wrote that \"when Chiles and Whitted observed the UFO, its appearance and motion were identical with those of many other bright meteors but the pilots, startled by the sudden apparition [of the meteor] misinterpreted what they saw"
+  },
+  {
+   "s": "menzel",
+   "p": "occupation",
+   "v": "astronomer",
+   "quote": "Donald Menzel, an astronomer at Harvard University and a prominent UFO skeptic of that era"
+  },
+  {
+   "s": "menzel",
+   "p": "reputation",
+   "v": "prominent UFO skeptic of that era",
+   "quote": "Donald Menzel, an astronomer at Harvard University and a prominent UFO skeptic of that era"
+  },
+  {
+   "s": "menzel",
+   "p": "employed_by",
+   "o": "harvard",
+   "quote": "Donald Menzel, an astronomer at Harvard University and a prominent UFO skeptic of that era"
+  },
+  {
+   "s": "menzel",
+   "p": "proposed",
+   "o": "x_meteor",
+   "quote": "there can be no doubt that Chiles and Whitted misinterpreted the appearance of an unusually bright meteor, its body glowing to white and blue incandescence... shooting off flaming gases (the \"exhaust\") and vaporizing from the friction of the atmosphere."
+  },
+  {
+   "s": "menzel",
+   "p": "proposed",
+   "o": "x_misperception",
+   "quote": "Menzel wrote that \"when Chiles and Whitted observed the UFO, its appearance and motion were identical with those of many other bright meteors but the pilots, startled by the sudden apparition [of the meteor] misinterpreted what they saw"
+  },
+  {
+   "s": "menzel",
+   "p": "statement",
+   "v": "July 24 falls into a period of greatly increased meteor activity, when the Earth is moving through the Aquarid streams",
+   "quote": "July 24 \"falls into a period of greatly increased meteor activity, when the Earth is moving through the Aquarid streams"
+  },
+  {
+   "s": "menzel",
+   "p": "statement",
+   "v": "the object's appearance and motion were identical with those of many other bright meteors, but the startled pilots misinterpreted what they saw",
+   "quote": "Menzel wrote that \"when Chiles and Whitted observed the UFO, its appearance and motion were identical with those of many other bright meteors but the pilots, startled by the sudden apparition [of the meteor] misinterpreted what they saw"
+  },
+  {
+   "s": "menzel",
+   "p": "statement",
+   "v": "there can be no doubt that Chiles and Whitted misinterpreted the appearance of an unusually bright meteor, its body glowing to white and blue incandescence",
+   "quote": "there can be no doubt that Chiles and Whitted misinterpreted the appearance of an unusually bright meteor, its body glowing to white and blue incandescence... shooting off flaming gases (the \"exhaust\") and vaporizing from the friction of the atmosphere."
+  },
+  {
+   "s": "menzel",
+   "p": "recounted",
+   "v": "a pilot in 1959 described a very similar fiery object which he eventually recognized to be a brilliant meteor",
+   "quote": "Menzel also recounted the experience of a pilot in 1959 who described a fiery object very similar to the one experienced by Chiles and Whitted, but which the pilot eventually recognized to be a brilliant meteor."
+  },
+  {
+   "s": "klass",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Philip Klass, another prominent UFO skeptic, agreed with the meteor explanation, writing that the original Project Sign conclusion that the object was an interplanetary spacecraft was \"grossly in error.\""
+  },
+  {
+   "s": "klass",
+   "p": "reputation",
+   "v": "prominent UFO skeptic",
+   "quote": "Philip Klass, another prominent UFO skeptic, agreed with the meteor explanation, writing that the original Project Sign conclusion that the object was an interplanetary spacecraft was \"grossly in error.\""
+  },
+  {
+   "s": "klass",
+   "p": "proposed",
+   "o": "x_meteor",
+   "quote": "Philip Klass, another prominent UFO skeptic, agreed with the meteor explanation, writing that the original Project Sign conclusion that the object was an interplanetary spacecraft was \"grossly in error.\""
+  },
+  {
+   "s": "klass",
+   "p": "disputed",
+   "o": "sign",
+   "quote": "Philip Klass, another prominent UFO skeptic, agreed with the meteor explanation, writing that the original Project Sign conclusion that the object was an interplanetary spacecraft was \"grossly in error.\""
+  },
+  {
+   "s": "klass",
+   "p": "statement",
+   "v": "the original Project Sign conclusion that the object was an interplanetary spacecraft was \"grossly in error\"",
+   "quote": "Philip Klass, another prominent UFO skeptic, agreed with the meteor explanation, writing that the original Project Sign conclusion that the object was an interplanetary spacecraft was \"grossly in error.\""
+  },
+  {
+   "s": "mcdonald",
+   "p": "investigator",
+   "o": "case",
+   "quote": "James E. McDonald, a physicist at the University of Arizona and a prominent ufologist, interviewed Chiles and Whitted in the 1960s and concluded that they had not seen a meteor"
+  },
+  {
+   "s": "mcdonald",
+   "p": "occupation",
+   "v": "physicist",
+   "quote": "James E. McDonald, a physicist at the University of Arizona and a prominent ufologist, interviewed Chiles and Whitted in the 1960s and concluded that they had not seen a meteor"
+  },
+  {
+   "s": "mcdonald",
+   "p": "reputation",
+   "v": "prominent ufologist",
+   "quote": "James E. McDonald, a physicist at the University of Arizona and a prominent ufologist, interviewed Chiles and Whitted in the 1960s and concluded that they had not seen a meteor"
+  },
+  {
+   "s": "mcdonald",
+   "p": "employed_by",
+   "o": "arizona",
+   "quote": "James E. McDonald, a physicist at the University of Arizona and a prominent ufologist, interviewed Chiles and Whitted in the 1960s and concluded that they had not seen a meteor"
+  },
+  {
+   "s": "mcdonald",
+   "p": "interviewed",
+   "o": "chiles",
+   "quote": "James E. McDonald, a physicist at the University of Arizona and a prominent ufologist, interviewed Chiles and Whitted in the 1960s and concluded that they had not seen a meteor"
+  },
+  {
+   "s": "mcdonald",
+   "p": "interviewed",
+   "o": "whitted",
+   "quote": "James E. McDonald, a physicist at the University of Arizona and a prominent ufologist, interviewed Chiles and Whitted in the 1960s and concluded that they had not seen a meteor"
+  },
+  {
+   "s": "mcdonald",
+   "p": "interview_date",
+   "v": "1960s",
+   "quote": "James E. McDonald, a physicist at the University of Arizona and a prominent ufologist, interviewed Chiles and Whitted in the 1960s and concluded that they had not seen a meteor"
+  },
+  {
+   "s": "mcdonald",
+   "p": "disputed",
+   "o": "x_meteor",
+   "quote": "James E. McDonald, a physicist at the University of Arizona and a prominent ufologist, interviewed Chiles and Whitted in the 1960s and concluded that they had not seen a meteor"
+  },
+  {
+   "s": "mcdonald",
+   "p": "conclusion",
+   "v": "Chiles and Whitted had not seen a meteor",
+   "quote": "James E. McDonald, a physicist at the University of Arizona and a prominent ufologist, interviewed Chiles and Whitted in the 1960s and concluded that they had not seen a meteor"
+  },
+  {
+   "s": "estimate",
+   "p": "key_document",
+   "o": "case",
+   "quote": "as a result of the Chiles-Whitted incident and earlier sightings in 1947 and 1948, Project Sign's personnel decided to send an \"Estimate of the Situation\" to Air Force Chief of Staff Hoyt S. Vandenberg."
+  },
+  {
+   "s": "estimate",
+   "p": "addressed_to",
+   "o": "vandenberg",
+   "quote": "as a result of the Chiles-Whitted incident and earlier sightings in 1947 and 1948, Project Sign's personnel decided to send an \"Estimate of the Situation\" to Air Force Chief of Staff Hoyt S. Vandenberg."
+  },
+  {
+   "s": "estimate",
+   "p": "appearance",
+   "v": "a rather thick document with a black cover",
+   "quote": "The Estimate of the Situation \"was a rather thick document with a black cover... stamped across the front were the words TOP SECRET.\""
+  },
+  {
+   "s": "estimate",
+   "p": "classification",
+   "v": "TOP SECRET",
+   "quote": "The Estimate of the Situation \"was a rather thick document with a black cover... stamped across the front were the words TOP SECRET.\""
+  },
+  {
+   "s": "estimate",
+   "p": "conclusion",
+   "v": "UFOs were interplanetary",
+   "quote": "Project Sign's conclusion \"was that [UFOs] were interplanetary!\""
+  },
+  {
+   "s": "estimate",
+   "p": "rejected_date",
+   "v": "1948-10",
+   "quote": "Gen. Vandenberg rejected the Estimate of the Situation in October 1948, citing that \"the report's evidence was insufficient to support its conclusions.\""
+  },
+  {
+   "s": "estimate",
+   "p": "rejection_reason",
+   "v": "the report's evidence was insufficient to support its conclusions",
+   "quote": "Gen. Vandenberg rejected the Estimate of the Situation in October 1948, citing that \"the report's evidence was insufficient to support its conclusions.\""
+  },
+  {
+   "s": "estimate",
+   "p": "basis",
+   "v": "the Chiles-Whitted incident and earlier sightings in 1947 and 1948",
+   "quote": "as a result of the Chiles-Whitted incident and earlier sightings in 1947 and 1948, Project Sign's personnel decided to send an \"Estimate of the Situation\" to Air Force Chief of Staff Hoyt S. Vandenberg."
+  },
+  {
+   "s": "trajmap",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Project Sign's personnel developed a map of the object's trajectory which showed that it would have passed over Macon, Georgia."
+  },
+  {
+   "s": "trajmap",
+   "p": "finding",
+   "v": "the object would have passed over Macon, Georgia",
+   "quote": "Project Sign's personnel developed a map of the object's trajectory which showed that it would have passed over Macon, Georgia."
+  },
+  {
+   "s": "casebook_article",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The Chiles-Whitted Encounter from UFO casebook"
+  },
+  {
+   "s": "mantell",
+   "p": "related_case",
+   "o": "case",
+   "quote": "convinced the personnel of Project Sign, Blue Book's predecessor, \"that UFOs were real\", along with the Mantell UFO incident and the Gorman dogfight."
+  },
+  {
+   "s": "gorman",
+   "p": "related_case",
+   "o": "case",
+   "quote": "convinced the personnel of Project Sign, Blue Book's predecessor, \"that UFOs were real\", along with the Mantell UFO incident and the Gorman dogfight."
+  },
+  {
+   "s": "arnold",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Kenneth Arnold UFO sighting"
+  },
+  {
+   "s": "mantell",
+   "p": "date_start",
+   "v": "1948",
+   "quote": "According to United States Air Force (USAF) officer and Project Blue Book supervisor Edward J. Ruppelt, the Chiles-Whitted sighting was one of three \"classic\" UFO incidents in 1948 that convinced the personnel of Project Sign, Blue Book's predecessor, \"that UFOs were real\", along with the Mantell UFO incident and the Gorman dogfight."
+  },
+  {
+   "s": "gorman",
+   "p": "date_start",
+   "v": "1948",
+   "quote": "According to United States Air Force (USAF) officer and Project Blue Book supervisor Edward J. Ruppelt, the Chiles-Whitted sighting was one of three \"classic\" UFO incidents in 1948 that convinced the personnel of Project Sign, Blue Book's predecessor, \"that UFOs were real\", along with the Mantell UFO incident and the Gorman dogfight."
+  },
+  {
+   "s": "mantell",
+   "p": "comparison",
+   "v": "the Chiles-Whitted report shook ATIC's old-timers worse than the Mantell Incident",
+   "quote": "USAF Captain Edward Ruppelt wrote that \"according to the old-timers at ATIC (Air Technical Intelligence Center), the [Chiles-Whitted] report shook them worse than the Mantell Incident"
+  },
+  {
+   "s": "f_cyl",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Both pilots claimed the object was 100 feet (30 m) long and 25–30 feet (7.6–9.1 m) in diameter, torpedo- or cigar-shaped, \"similar to a B-29 fuselage\", with flames coming out of its tail."
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Two commercial pilots, Clarence S. Chiles and John B. Whitted, claimed to have observed a \"glowing object\" pass by their plane before it appeared to pull up into a cloud and travel out of sight."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "both pilots and the passenger who saw the \"streak of light\" stated that the plane was not affected at all by the object."
+  },
+  {
+   "s": "f_speed",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "both men later said they saw the object fly past the right side of their plane at high speed before it pulled \"up with a tremendous burst of flame out of its rear and zoomed up into the clouds.\""
+  },
+  {
+   "s": "f_silent",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Neither pilot had heard any sound"
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "They were interviewed by personnel from Project Sign, the first Air Force research group assigned to investigate UFO sightings."
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "When an Air Force crew chief at Robins Air Force Base near Macon reported seeing \"an extremely bright light pass overhead at high speed\" on the same night as the Chiles-Whitted incident"
+  },
+  {
+   "s": "f_windows",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Chiles and Whitted stated that the object \"looked like a wingless aircraft...it seemed to have two rows of windows through which glowed a very bright light, as brilliant as a magnesium flare.\""
+  },
+  {
+   "s": "f_windows",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "As for the rectangular windows and cockpit that Chiles and Whitted claimed to have seen on the object"
+  },
+  {
+   "s": "f_flame",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Both pilots claimed the object was 100 feet (30 m) long and 25–30 feet (7.6–9.1 m) in diameter, torpedo- or cigar-shaped, \"similar to a B-29 fuselage\", with flames coming out of its tail."
+  },
+  {
+   "s": "x_meteor",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "in 1959 Project Blue Book formally stated that a meteor was the cause of the incident."
+  },
+  {
+   "s": "x_meteor",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "in 1959 the USAF, based on the analysis of Hynek, Menzel, and others, labeled the Chiles-Whitted incident as having been caused by a fireball-type meteor."
+  },
+  {
+   "s": "x_misperception",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "there can be no doubt that Chiles and Whitted misinterpreted the appearance of an unusually bright meteor, its body glowing to white and blue incandescence... shooting off flaming gases (the \"exhaust\") and vaporizing from the friction of the atmosphere."
+  }
+ ]
+}

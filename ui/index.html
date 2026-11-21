@@ -1,0 +1,607 @@
+<meta charset="utf-8">
+<title>UFO Evidence Board</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&family=IBM+Plex+Sans:wght@400;500;600&family=Patrick+Hand&display=swap">
+<style>
+/* Layout: a cork board fills the screen; a filing-cabinet-grey case file sits
+   beside it (below it on phones). Cards are cases, sticky notes are the things
+   two or more cases share, red string is the one loud element. */
+:root {
+  --bg: #e6e9e4;          /* toolbar and page: government office grey-green */
+  --panel: #f2f4f0;
+  --fg: #1c221f;
+  --muted: #5b655f;
+  --line: #c5ccc5;
+  --cork: #b88958;
+  --cork-speck: #9c6f43;
+  --cork-light: #cfa272;
+  --card: #f7f3e6;
+  --card-ink: #1f1d19;
+  --card-rule: #b9cbdc;
+  --string: #b31f2a;
+  --pin: #d62b36;
+  --note-ink: #262118;
+  --n-person: #f6e27c;
+  --n-place: #f3a8b9;
+  --n-org: #9fcbee;
+  --n-doc: #b4dc9f;
+  --n-case: #efe9db;
+  --n-feature: #f5b877;
+  --n-expl: #d0c5e8;
+  --shadow: rgba(40, 24, 8, .38);
+  --display: "Courier Prime", "Courier New", Courier, monospace;
+  --hand: "Patrick Hand", "Comic Sans MS", "Segoe Print", cursive;
+  --body: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #161a18; --panel: #1d2220; --fg: #e3e8e2; --muted: #98a39c; --line: #353d38;
+    --cork: #6b4c31; --cork-speck: #523822; --cork-light: #7d5b3c;
+    --card: #ddd6c2; --card-ink: #1f1d19; --card-rule: #9fb3c6;
+    --string: #d3404a; --pin: #e2444e; --note-ink: #262118;
+    --n-person: #dccb6a; --n-place: #d993a4; --n-org: #8ab4d6; --n-doc: #9cc289;
+    --n-case: #d2ccbd; --n-feature: #d9a268; --n-expl: #b6abd0;
+    --shadow: rgba(0, 0, 0, .55);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #161a18; --panel: #1d2220; --fg: #e3e8e2; --muted: #98a39c; --line: #353d38;
+  --cork: #6b4c31; --cork-speck: #523822; --cork-light: #7d5b3c;
+  --card: #ddd6c2; --card-ink: #1f1d19; --card-rule: #9fb3c6;
+  --string: #d3404a; --pin: #e2444e; --note-ink: #262118;
+  --n-person: #dccb6a; --n-place: #d993a4; --n-org: #8ab4d6; --n-doc: #9cc289;
+  --n-case: #d2ccbd; --n-feature: #d9a268; --n-expl: #b6abd0;
+  --shadow: rgba(0, 0, 0, .55);
+  color-scheme: dark;
+}
+
+html, body { height: 100%; }
+body {
+  margin: 0;
+  background: var(--bg); color: var(--fg);
+  font: 14px/1.45 var(--body);
+  display: flex; flex-direction: column; overflow: hidden;
+}
+button, input { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--string); outline-offset: 2px; }
+
+/* ---------- toolbar ---------- */
+.bar {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px;
+  padding-block: 8px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  border-bottom: 1px solid var(--line);
+}
+.bar h1 { font: 700 17px/1.1 var(--display); margin: 0; letter-spacing: .02em; white-space: nowrap; }
+.bar h1 small { display: block; font: 400 11px/1.3 var(--body); color: var(--muted); letter-spacing: 0; }
+.search { position: relative; flex: 1 1 180px; min-width: 0; max-width: 300px; }
+.search input {
+  width: 100%; padding: 6px 10px; border: 1px solid var(--line); border-radius: 3px;
+  background: var(--panel);
+}
+.results {
+  position: absolute; z-index: 30; left: 0; right: 0; top: calc(100% + 4px);
+  background: var(--panel); border: 1px solid var(--line); border-radius: 3px;
+  box-shadow: 0 8px 20px var(--shadow); max-height: 300px; overflow: auto;
+}
+.results button {
+  display: flex; gap: 8px; align-items: baseline; width: 100%; text-align: left;
+  padding: 6px 10px; border: 0; background: none; cursor: pointer;
+}
+.results button:hover, .results button:focus-visible { background: var(--bg); }
+.results .kind { color: var(--muted); font-size: 11px; margin-left: auto; white-space: nowrap; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip {
+  display: inline-flex; align-items: center; gap: 6px; cursor: pointer;
+  padding: 3px 9px 3px 6px; border: 1px solid var(--line); border-radius: 3px;
+  background: var(--panel); font-size: 12px; user-select: none;
+}
+.chip i { width: 11px; height: 11px; background: var(--sw); box-shadow: 0 1px 1px var(--shadow); }
+.chip[aria-pressed="false"] { opacity: .5; background: none; }
+.chip[aria-pressed="false"] i { background: none; box-shadow: inset 0 0 0 1.5px var(--muted); }
+.rarity { display: flex; align-items: center; gap: 8px; font-size: 12px; color: var(--muted); }
+.rarity input { width: 110px; accent-color: var(--string); }
+.rarity b { color: var(--fg); font-weight: 600; font-variant-numeric: tabular-nums; }
+
+/* ---------- main split ---------- */
+.main { flex: 1; min-height: 0; display: flex; }
+.board {
+  position: relative; flex: 1; min-width: 0; overflow: hidden; touch-action: none; cursor: grab;
+  background-color: var(--cork);
+  background-image:
+    radial-gradient(var(--cork-speck) 1px, transparent 1.6px),
+    radial-gradient(var(--cork-light) 1px, transparent 1.8px),
+    radial-gradient(var(--cork-speck) .8px, transparent 1.3px);
+  background-size: 23px 19px, 31px 37px, 13px 17px;
+  background-position: 0 0, 11px 7px, 5px 13px;
+  box-shadow: inset 0 0 60px var(--shadow);
+}
+.board:active { cursor: grabbing; }
+.world { position: absolute; left: 0; top: 0; transform-origin: 0 0; }
+.world svg { position: absolute; left: 0; top: 0; width: 1px; height: 1px; overflow: visible; }
+.string { fill: none; stroke: var(--string); stroke-linecap: round; pointer-events: none; }
+.hit { fill: none; stroke: transparent; stroke-width: 12; cursor: pointer; }
+.has-sel .string:not(.on) { opacity: .1; }
+.string.on { stroke-width: 2.6; }
+
+.node {
+  position: absolute; left: 0; top: 0; cursor: pointer; border: 0; text-align: left;
+  transform: translate(var(--x), var(--y)) translate(-50%, -50%) rotate(var(--r));
+  box-shadow: 1px 3px 6px var(--shadow);
+}
+.node::before {             /* the pushpin */
+  content: ""; position: absolute; left: 50%; top: 3px; width: 9px; height: 9px; margin-left: -4.5px;
+  border-radius: 50%; background: var(--pin);
+  box-shadow: inset -1.5px -1.5px 2px rgba(0, 0, 0, .35), 1px 2px 2px var(--shadow);
+}
+.case {
+  width: 158px; padding: 16px 10px 8px; background: var(--card); color: var(--card-ink);
+  border-top: 3px solid var(--string);
+  background-image: repeating-linear-gradient(transparent 0 17px, var(--card-rule) 17px 18px);
+  background-position: 0 22px;
+}
+.case b { display: block; font: 700 13px/18px var(--display); overflow-wrap: anywhere; }
+.case span { display: block; font: 400 11px/18px var(--display); opacity: .75; }
+.note {
+  width: 108px; min-height: 58px; padding: 15px 8px 7px; background: var(--sw); color: var(--note-ink);
+  font: 400 15px/1.12 var(--hand); overflow-wrap: anywhere;
+}
+.note em {
+  position: absolute; right: 4px; bottom: 2px; font: 600 10px/1 var(--body); font-style: normal; opacity: .6;
+}
+.has-sel .node:not(.on) { opacity: .22; }
+.node.sel { outline: 2.5px solid var(--string); outline-offset: 3px; z-index: 5; }
+.node:hover { z-index: 6; }
+
+.zoom { position: absolute; left: 12px; bottom: 12px; display: flex; gap: 4px; z-index: 10; }
+.zoom button {
+  min-width: 32px; height: 32px; padding: 0 9px; border: 1px solid var(--line); border-radius: 3px;
+  background: var(--panel); cursor: pointer; font-weight: 600;
+}
+.caveat {
+  position: absolute; right: 12px; bottom: 12px; z-index: 10; max-width: min(360px, 60%);
+  background: var(--panel); border: 1px solid var(--line); border-radius: 3px;
+  padding: 5px 9px; font-size: 11px; color: var(--muted);
+}
+
+/* ---------- case file panel ---------- */
+.panel {
+  flex: 0 0 390px; min-width: 0; overflow-y: auto; background: var(--panel);
+  border-left: 1px solid var(--line);
+  padding: 14px 16px 28px;
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+.panel h2 { font: 700 18px/1.2 var(--display); margin: 0 0 4px; text-wrap: balance; }
+.panel h3 {
+  font: 600 11px/1.3 var(--body); text-transform: uppercase; letter-spacing: .08em; color: var(--muted);
+  margin: 20px 0 8px; padding-bottom: 4px; border-bottom: 1px solid var(--line);
+}
+.panel p { margin: 6px 0; }
+.meta { color: var(--muted); font-size: 12.5px; }
+.back { border: 0; background: none; padding: 0; margin: 0 0 10px; color: var(--muted); cursor: pointer; font-size: 12px; }
+.back:hover { color: var(--fg); }
+.tag {
+  display: inline-block; padding: 1px 7px; border-radius: 2px; font-size: 11px; font-weight: 500;
+  background: var(--sw, var(--bg)); color: var(--note-ink); margin: 0 4px 4px 0;
+}
+.tag.plain { background: var(--bg); color: var(--fg); border: 1px solid var(--line); }
+.rows { display: flex; flex-direction: column; gap: 2px; }
+.row {
+  display: flex; gap: 8px; align-items: baseline; width: 100%; text-align: left;
+  padding: 5px 6px; border: 0; border-radius: 3px; background: none; cursor: pointer;
+}
+.row:hover { background: var(--bg); }
+.row .sw { flex: 0 0 9px; height: 9px; background: var(--sw); align-self: center; }
+.row .nm { flex: 1; min-width: 0; overflow-wrap: anywhere; }
+.row .ct { color: var(--muted); font-size: 11.5px; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.row.solo .nm { color: var(--muted); }
+.lead { display: block; width: 100%; text-align: left; padding: 8px 6px; border: 0; border-bottom: 1px solid var(--line); background: none; cursor: pointer; }
+.lead:hover { background: var(--bg); }
+.lead .pair { font: 700 13px/1.3 var(--display); }
+.lead .via { color: var(--muted); font-size: 12px; margin-top: 2px; }
+.ev { margin: 8px 0 12px; }
+.ev .claim { font-size: 12.5px; }
+.ev .claim i { color: var(--muted); font-style: normal; }
+.ev blockquote {
+  margin: 4px 0 0; padding: 6px 10px; border-left: 3px solid var(--string);
+  background: var(--bg); font: 400 12.5px/1.45 var(--display);
+}
+.ev a, .panel a { color: inherit; text-decoration-color: var(--string); text-underline-offset: 2px; }
+.sub { font: 700 13.5px/1.3 var(--display); margin: 14px 0 2px; }
+details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
+.empty { color: var(--muted); }
+
+@media (max-width: 760px) {
+  .main { flex-direction: column; }
+  .panel {
+    flex: 0 0 44%; border-left: 0; border-top: 1px solid var(--line);
+    padding-left: max(16px, env(safe-area-inset-left, 0px));
+  }
+  .bar h1 small { display: none; }
+  .chips { flex-wrap: nowrap; overflow-x: auto; flex: 1 1 100%; min-width: 0; }
+  .chip { white-space: nowrap; }
+  .caveat { display: none; }
+  .search { max-width: none; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<header class="bar">
+  <h1>UFO EVIDENCE BOARD<small id="counts">loading the files…</small></h1>
+  <div class="search">
+    <input id="q" type="search" placeholder="Find a case, person, place…" autocomplete="off" aria-label="Search the board">
+    <div class="results" id="results" hidden></div>
+  </div>
+  <div class="chips" id="chips" role="group" aria-label="Kinds of note to show"></div>
+  <label class="rarity" for="maxdf">Shared by 2 to <b id="maxdfv">5</b> cases
+    <input id="maxdf" type="range" min="2" max="10" value="5">
+  </label>
+</header>
+
+<div class="main">
+  <div class="board" id="board">
+    <div class="world" id="world"><svg id="strings" aria-hidden="true"></svg></div>
+    <div class="zoom">
+      <button id="zin" aria-label="Zoom in">+</button>
+      <button id="zout" aria-label="Zoom out">−</button>
+      <button id="zfit">Fit</button>
+    </div>
+    <div class="caveat">A string means two sources mention the same thing. It is a lead to check, not a finding.</div>
+  </div>
+  <aside class="panel" id="panel" aria-live="polite"></aside>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script>
+(async function () {
+  const $ = (id) => document.getElementById(id);
+  const panel = $("panel");
+  function h(tag, attrs, ...kids) {
+    const el = document.createElement(tag);
+    for (const [k, v] of Object.entries(attrs || {})) {
+      if (k === "class") el.className = v;
+      else if (k === "on") for (const [ev, fn] of Object.entries(v)) el.addEventListener(ev, fn);
+      else if (k === "style") el.setAttribute("style", v);
+      else if (v !== null && v !== undefined && v !== false) el.setAttribute(k, v);
+    }
+    for (const kid of kids.flat(Infinity)) if (kid !== null && kid !== undefined && kid !== false) el.append(kid);
+    return el;
+  }
+
+  const put = (...kids) => panel.append(...kids.flat(Infinity).filter((k) => k !== null && k !== undefined && k !== false));
+  let data;
+  try {
+    data = await (await fetch("data.json")).json();
+  } catch (err) {
+    panel.replaceChildren(h("h2", {}, "The files did not load"), h("p", { class: "empty" }, "data.json could not be read. Reload the page to try again."));
+    return;
+  }
+
+  // ---------- indexes ----------
+  const GROUPS = [
+    { id: "person", label: "People", types: ["person"], color: "--n-person", on: true },
+    { id: "place", label: "Places", types: ["place"], color: "--n-place", on: true },
+    { id: "org", label: "Organisations", types: ["organization", "program"], color: "--n-org", on: true },
+    { id: "doc", label: "Documents & media", types: ["document", "work"], color: "--n-doc", on: true },
+    { id: "case", label: "Other incidents", types: ["case"], color: "--n-case", on: true },
+    { id: "feature", label: "Features", types: ["feature"], color: "--n-feature", on: false },
+    { id: "expl", label: "Explanations", types: ["explanation"], color: "--n-expl", on: false },
+  ];
+  const groupOf = {};
+  GROUPS.forEach((g) => g.types.forEach((t) => (groupOf[t] = g)));
+  const LOCAL = { craft: "Reported object", vehicle: "Vehicle" };
+  const cases = new Map(data.cases.map((c) => [c.id, c]));
+  const ents = new Map(data.entities.map((e) => [e.id, e]));
+  const linksByCase = new Map(), linksByEnt = new Map(), linkOf = new Map();
+  for (const l of data.links) {
+    (linksByCase.get(l.c) || linksByCase.set(l.c, []).get(l.c)).push(l);
+    (linksByEnt.get(l.e) || linksByEnt.set(l.e, []).get(l.e)).push(l);
+    linkOf.set(l.e + ":" + l.c, l);
+  }
+  const N = data.n_cases;
+  const sw = (e) => `--sw: var(${(groupOf[e.type] || { color: "--n-case" }).color})`;
+  const human = (p) => p.replace(/_/g, " ");
+  const year = (c) => (c.date ? String(c.date).slice(0, 4) : "");
+  const maxShared = Math.max(2, ...data.entities.filter((e) => e.case == null && groupOf[e.type]).map((e) => e.df));
+  $("maxdf").max = maxShared;
+  $("maxdf").value = Math.min(5, maxShared);
+  $("counts").textContent = `${N} cases · ${data.links.reduce((n, l) => n + l.ev.length, 0).toLocaleString()} quoted claims`;
+
+  // ---------- state ----------
+  const state = { groups: new Set(GROUPS.filter((g) => g.on).map((g) => g.id)), maxDf: +$("maxdf").value, sel: null };
+  const pos = new Map();      // node id -> {x, y, fx, fy} kept across filter changes
+  const els = new Map();      // node id -> element
+  let nodes = [], strings = [], sim = null;
+  const world = $("world"), board = $("board"), svg = d3.select("#strings");
+  const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const tilt = (id, max) => (((id * 2654435761) >>> 0) % 1000 / 1000 - 0.5) * 2 * max;
+
+  // ---------- graph ----------
+  function visibleEntity(e) {
+    const g = groupOf[e.type];
+    return g && e.case == null && e.df >= 2 && e.df <= state.maxDf && state.groups.has(g.id);
+  }
+  function build() {
+    const next = [];
+    for (const c of data.cases) next.push({ id: "c" + c.id, kind: "case", ref: c, r: 96 });
+    for (const e of data.entities) if (visibleEntity(e)) next.push({ id: "e" + e.id, kind: "ent", ref: e, r: 66 });
+    const have = new Set(next.map((n) => n.id));
+    const strs = [], seen = new Set();
+    for (const l of data.links) {
+      const e = ents.get(l.e);
+      if (e.case != null) {                        // one case naming another: card-to-card string
+        if (e.case === l.c) continue;
+        const a = Math.min(e.case, l.c), b = Math.max(e.case, l.c), key = `d${a}-${b}`;
+        if (seen.has(key)) continue;
+        seen.add(key);
+        strs.push({ id: key, source: "c" + a, target: "c" + b, w: 1, direct: [a, b] });
+      } else if (have.has("e" + l.e)) {
+        strs.push({ id: `s${l.e}-${l.c}`, source: "c" + l.c, target: "e" + l.e, w: e.w, link: l });
+      }
+    }
+    for (const n of next) {
+      const p = pos.get(n.id);
+      if (p) Object.assign(n, p);
+      else if (n.kind === "ent") {                 // new note: start between the cases it joins
+        const cs = (linksByEnt.get(n.ref.id) || []).map((l) => pos.get("c" + l.c)).filter(Boolean);
+        if (cs.length) { n.x = d3.mean(cs, (p) => p.x) + tilt(n.ref.id, 30); n.y = d3.mean(cs, (p) => p.y) + tilt(n.ref.id + 7, 30); }
+      }
+    }
+    nodes = next; strings = strs;
+    draw();
+    layout();
+  }
+
+  function draw() {
+    const keep = new Set(nodes.map((n) => n.id));
+    for (const [id, el] of els) if (!keep.has(id)) { el.remove(); els.delete(id); }
+    for (const n of nodes) {
+      if (els.has(n.id)) continue;
+      let el;
+      if (n.kind === "case") {
+        const c = n.ref;
+        el = h("button", { class: "node case", style: `--r: ${tilt(c.id, 2.2).toFixed(2)}deg` },
+          h("b", {}, c.name), h("span", {}, [year(c), c.country].filter(Boolean).join(" · ") || "date not stated"));
+      } else {
+        const e = n.ref;
+        el = h("button", { class: "node note", style: `${sw(e)}; --r: ${tilt(e.id, 4).toFixed(2)}deg`, title: `${e.name} — in ${e.df} cases` },
+          e.name.length > 46 ? e.name.slice(0, 44) + "…" : e.name, h("em", {}, "×" + e.df));
+      }
+      el.addEventListener("click", () => select(n.kind === "case" ? { kind: "case", id: n.ref.id } : { kind: "ent", id: n.ref.id }));
+      world.append(el);
+      els.set(n.id, el);
+      n.h = el.offsetHeight;
+      d3.select(el).call(d3.drag()
+        .on("start", () => { if (sim && !reduced) sim.alphaTarget(0.15).restart(); })
+        .on("drag", (ev) => { const k = d3.zoomTransform(board).k; n.fx = (n.fx ?? n.x) + ev.dx / k; n.fy = (n.fy ?? n.y) + ev.dy / k; if (reduced) { n.x = n.fx; n.y = n.fy; tick(); } })
+        .on("end", () => { if (sim) sim.alphaTarget(0); remember(); }));   // stays pinned where you drop it
+    }
+    for (const n of nodes) n.h = n.h || els.get(n.id).offsetHeight;
+    const g = svg.selectAll("g.s").data(strings, (d) => d.id);
+    g.exit().remove();
+    const enter = g.enter().append("g").attr("class", "s");
+    enter.append("path").attr("class", "string").attr("stroke-width", (d) => 1 + 1.3 * d.w).attr("opacity", (d) => 0.45 + 0.5 * d.w);
+    enter.append("path").attr("class", "hit").on("click", (ev, d) => {
+      ev.stopPropagation();
+      select(d.direct ? { kind: "pair", a: d.direct[0], b: d.direct[1] } : { kind: "string", e: d.link.e, c: d.link.c });
+    });
+    paint();
+  }
+
+  function tick() {
+    for (const n of nodes) {
+      const el = els.get(n.id);
+      el.style.setProperty("--x", n.x.toFixed(1) + "px");
+      el.style.setProperty("--y", n.y.toFixed(1) + "px");
+    }
+    svg.selectAll("g.s").each(function (d) {
+      const a = d.source, b = d.target;
+      const ax = a.x, ay = a.y - a.h / 2 + 8, bx = b.x, by = b.y - b.h / 2 + 8;
+      const sag = Math.min(34, Math.hypot(bx - ax, by - ay) * 0.1);
+      const path = `M${ax.toFixed(1)},${ay.toFixed(1)}Q${((ax + bx) / 2).toFixed(1)},${((ay + by) / 2 + sag).toFixed(1)} ${bx.toFixed(1)},${by.toFixed(1)}`;
+      for (const p of this.children) p.setAttribute("d", path);
+    });
+  }
+  function remember() { for (const n of nodes) pos.set(n.id, { x: n.x, y: n.y, fx: n.fx, fy: n.fy }); }
+
+  let fitted = false;
+  function layout() {
+    if (sim) sim.stop();
+    sim = d3.forceSimulation(nodes)
+      .force("link", d3.forceLink(strings).id((d) => d.id).distance((l) => (l.direct ? 260 : 150)).strength((l) => (l.direct ? 0.15 : 0.5)))
+      .force("charge", d3.forceManyBody().strength((d) => (d.kind === "case" ? -900 : -350)).distanceMax(900))
+      .force("collide", d3.forceCollide((d) => d.r).strength(0.9))
+      .force("x", d3.forceX(0).strength(0.035)).force("y", d3.forceY(0).strength(0.05))
+      .stop();
+    const first = !fitted;
+    if (first || reduced) {
+      sim.tick(first ? 320 : 160);
+      tick(); remember();
+      if (first) { fit(false); fitted = true; }
+    } else {
+      sim.alpha(0.6).on("tick", tick).on("end", remember).restart();
+    }
+  }
+
+  // ---------- pan and zoom ----------
+  const zoom = d3.zoom().scaleExtent([0.12, 2.5]).on("zoom", (ev) => {
+    world.style.transform = `translate(${ev.transform.x}px, ${ev.transform.y}px) scale(${ev.transform.k})`;
+  });
+  d3.select(board).call(zoom).on("dblclick.zoom", null);
+  board.addEventListener("click", (ev) => { if (ev.target === board || ev.target === world) select(null); });
+  function frame(list, animate = true, maxK = 1.1) {
+    if (!list.length) return;
+    const pad = 110, w = board.clientWidth, hgt = board.clientHeight;
+    const x0 = d3.min(list, (n) => n.x) - pad, x1 = d3.max(list, (n) => n.x) + pad;
+    const y0 = d3.min(list, (n) => n.y) - pad, y1 = d3.max(list, (n) => n.y) + pad;
+    const k = Math.max(0.12, Math.min(maxK, w / (x1 - x0), hgt / (y1 - y0)));
+    const t = d3.zoomIdentity.translate(w / 2 - k * (x0 + x1) / 2, hgt / 2 - k * (y0 + y1) / 2).scale(k);
+    (animate && !reduced ? d3.select(board).transition().duration(450) : d3.select(board)).call(zoom.transform, t);
+  }
+  const fit = (animate = true) => frame(nodes, animate, 1);
+  $("zfit").onclick = () => fit();
+  $("zin").onclick = () => d3.select(board).transition().duration(reduced ? 0 : 200).call(zoom.scaleBy, 1.4);
+  $("zout").onclick = () => d3.select(board).transition().duration(reduced ? 0 : 200).call(zoom.scaleBy, 1 / 1.4);
+
+  // ---------- selection ----------
+  function paint() {
+    const s = state.sel, on = new Set(), sel = new Set(), onStr = new Set();
+    if (s) {
+      const str = (pred) => strings.forEach((d) => { if (pred(d)) { onStr.add(d.id); on.add(d.source.id ?? d.source); on.add(d.target.id ?? d.target); } });
+      if (s.kind === "case") {
+        sel.add("c" + s.id); on.add("c" + s.id);
+        const mine = new Set((linksByCase.get(s.id) || []).map((l) => "e" + l.e));
+        str((d) => (d.direct ? d.direct.includes(s.id) : mine.has(d.target.id ?? d.target)));
+      } else if (s.kind === "ent" || s.kind === "string") {
+        const id = s.kind === "ent" ? s.id : s.e;
+        sel.add("e" + id); on.add("e" + id);
+        (linksByEnt.get(id) || []).forEach((l) => on.add("c" + l.c));
+        str((d) => !d.direct && d.link.e === id && (s.kind === "ent" || d.link.c === s.c));
+        if (s.kind === "string") { on.clear(); on.add("e" + id); on.add("c" + s.c); }
+      } else if (s.kind === "pair") {
+        sel.add("c" + s.a); sel.add("c" + s.b); on.add("c" + s.a); on.add("c" + s.b);
+        const p = pairOf(s.a, s.b), shared = new Set(p ? p.shared : []);
+        str((d) => (d.direct ? d.direct[0] === Math.min(s.a, s.b) && d.direct[1] === Math.max(s.a, s.b)
+          : shared.has(d.link.e) && (d.link.c === s.a || d.link.c === s.b)));
+      }
+    }
+    world.classList.toggle("has-sel", !!s);
+    for (const [id, el] of els) { el.classList.toggle("on", on.has(id)); el.classList.toggle("sel", sel.has(id)); }
+    svg.selectAll("g.s").select(".string").classed("on", (d) => onStr.has(d.id));
+    return on;
+  }
+  const pairOf = (a, b) => data.pairs.find((p) => p.a === Math.min(a, b) && p.b === Math.max(a, b));
+  function select(s, move = false) {
+    state.sel = s;
+    const on = paint();
+    render();
+    if (move && s) frame(nodes.filter((n) => on.has(n.id)));
+    panel.scrollTop = 0;
+  }
+
+  // ---------- case file panel ----------
+  const srcLink = (c) => h("a", { href: c.url, target: "_blank", rel: "noopener" }, "source");
+  function evidence(l, limit = 3) {
+    const c = cases.get(l.c);
+    const item = (ev) => h("div", { class: "ev" },
+      h("div", { class: "claim" }, ev.s, h("i", {}, ` · ${human(ev.p)} · `), ev.tocase ? "this case" : ev.o),
+      h("blockquote", {}, "“" + ev.q + "” ", srcLink(c)));
+    const out = l.ev.slice(0, limit).map(item);
+    if (l.ev.length > limit) out.push(h("details", {}, h("summary", {}, `${l.ev.length - limit} more quotes`), l.ev.slice(limit).map(item)));
+    if (!l.ev.length) out.push(h("p", { class: "empty" }, "This is the case itself; it has no quote about itself."));
+    return out;
+  }
+  const entRow = (e, extra) => h("button", { class: "row" + (e.df < 2 ? " solo" : ""), on: { click: () => select({ kind: "ent", id: e.id }, true) } },
+    h("span", { class: "sw", style: sw(e) }), h("span", { class: "nm" }, e.name),
+    h("span", { class: "ct" }, extra || (e.df > 1 ? `${e.df} cases` : "only here")));
+  const caseRow = (c, extra) => h("button", { class: "row", on: { click: () => select({ kind: "case", id: c.id }, true) } },
+    h("span", { class: "nm" }, c.name), h("span", { class: "ct" }, extra || year(c)));
+  function leadButton(p, from) {
+    const a = cases.get(p.a), b = cases.get(p.b);
+    const names = p.shared.filter((id) => ents.get(id).case == null).slice(0, 4).map((id) => ents.get(id).name);
+    return h("button", { class: "lead", on: { click: () => select({ kind: "pair", a: p.a, b: p.b }, true) } },
+      h("div", { class: "pair" }, from ? (from === p.a ? b.name : a.name) : `${a.name}  ↔  ${b.name}`),
+      h("div", { class: "via" }, (p.direct ? "One names the other. " : "") + (names.length ? "Both mention: " + names.join(", ") + (p.shared.length > 4 ? ` and ${p.shared.length - 4} more` : "") : "")));
+  }
+  const back = () => h("button", { class: "back", on: { click: () => select(null) } }, "← All leads");
+
+  function render() {
+    const s = state.sel;
+    panel.replaceChildren();
+    if (!s) {
+      put(h("h2", {}, "Strongest leads"),
+        h("p", { class: "meta" }, "Pairs of cases ranked by what they share. A name found in only two cases counts for far more than one found in thirty."),
+        data.pairs.length ? data.pairs.slice(0, 40).map((p) => leadButton(p)) : h("p", { class: "empty" }, "No two cases share anything yet."));
+      return;
+    }
+    if (s.kind === "case") {
+      const c = cases.get(s.id), links = linksByCase.get(c.id) || [];
+      put(back(), h("h2", {}, c.name),
+        h("p", { class: "meta" }, [c.date, c.country].filter(Boolean).join(" · "), " · ", h("a", { href: c.url, target: "_blank", rel: "noopener" }, "Wikipedia, this revision")),
+        c.description ? h("p", {}, c.description) : null);
+      const leads = data.pairs.filter((p) => p.a === c.id || p.b === c.id).slice(0, 12);
+      put(h("h3", {}, "Leads from this case"), leads.length ? leads.map((p) => leadButton(p, c.id)) : h("p", { class: "empty" }, "Nothing here is shared with another case yet."));
+      const byGroup = new Map();
+      for (const l of links) {
+        const e = ents.get(l.e);
+        if (e.case === c.id) continue;
+        const label = e.case != null || e.type === "case" ? "Other incidents" : (groupOf[e.type] || { label: LOCAL[e.type] || e.type }).label;
+        (byGroup.get(label) || byGroup.set(label, []).get(label)).push(e);
+      }
+      for (const [label, list] of byGroup) {
+        list.sort((x, y) => (y.df > 1) - (x.df > 1) || x.df - y.df || x.name.localeCompare(y.name));
+        put(h("h3", {}, `${label} (${list.length})`), h("div", { class: "rows" }, list.map((e) => entRow(e))));
+      }
+      return;
+    }
+    if (s.kind === "ent" || s.kind === "string") {
+      const e = ents.get(s.kind === "ent" ? s.id : s.e);
+      const links = (linksByEnt.get(e.id) || []).filter((l) => s.kind === "ent" || l.c === s.c);
+      const g = groupOf[e.type] || { label: LOCAL[e.type] || e.type };
+      put(back(), h("span", { class: "tag", style: sw(e) }, g.label), h("h2", {}, e.name),
+        h("p", { class: "meta" }, e.df > 1 ? `Mentioned in ${e.df} of ${N} cases.` : "Mentioned in one case only.",
+          s.kind === "string" ? [" ", h("button", { class: "back", on: { click: () => select({ kind: "ent", id: e.id }, true) } }, `Show all ${e.df}`)] : null));
+      for (const l of links) {
+        const c = cases.get(l.c);
+        put(h("div", { class: "sub" }, caseRow(c)),
+          l.roles.length ? h("div", {}, l.roles.map((r) => h("span", { class: "tag plain" }, human(r)))) : null, evidence(l, s.kind === "string" ? 8 : 3));
+      }
+      return;
+    }
+    if (s.kind === "pair") {
+      const a = cases.get(s.a), b = cases.get(s.b), p = pairOf(s.a, s.b);
+      put(back(), h("h2", {}, `${a.name}  ↔  ${b.name}`),
+        h("p", { class: "meta" }, p ? (p.shared.length === 1 ? "One thing in common." : `${p.shared.length} things in common, rarest first.`) : "Nothing in common on file."),
+        h("div", { class: "rows" }, caseRow(a), caseRow(b)));
+      for (const id of p ? p.shared : []) {
+        const e = ents.get(id);
+        put(h("h3", {}, e.case != null ? "One case names the other" : `${e.name} · in ${e.df} cases`));
+        if (e.case == null) put(h("div", { class: "rows" }, entRow(e, "open")));
+        for (const cid of [s.a, s.b]) {
+          const l = linkOf.get(id + ":" + cid);
+          if (l && l.ev.length) put(h("div", { class: "sub" }, cases.get(cid).name), evidence(l, 2));
+        }
+      }
+    }
+  }
+
+  // ---------- toolbar ----------
+  for (const g of GROUPS) {
+    const n = data.entities.filter((e) => g.types.includes(e.type) && e.case == null && e.df >= 2).length;
+    const b = h("button", { class: "chip", "aria-pressed": String(state.groups.has(g.id)), style: `--sw: var(${g.color})`, id: "chip-" + g.id },
+      h("i"), `${g.label} ${n}`);
+    b.addEventListener("click", () => {
+      state.groups.has(g.id) ? state.groups.delete(g.id) : state.groups.add(g.id);
+      b.setAttribute("aria-pressed", String(state.groups.has(g.id)));
+      remember(); build();
+    });
+    $("chips").append(b);
+  }
+  $("maxdfv").textContent = state.maxDf;
+  $("maxdf").addEventListener("input", (ev) => { state.maxDf = +ev.target.value; $("maxdfv").textContent = state.maxDf; remember(); build(); });
+
+  const q = $("q"), results = $("results");
+  function search() {
+    const term = q.value.trim().toLowerCase();
+    results.replaceChildren();
+    if (term.length < 2) { results.hidden = true; return; }
+    const hits = [];
+    for (const c of data.cases) if (c.name.toLowerCase().includes(term)) hits.push({ label: c.name, kind: "case", sel: { kind: "case", id: c.id }, rank: 0 });
+    for (const e of data.entities) if (e.case == null && e.name.toLowerCase().includes(term))
+      hits.push({ label: e.name, kind: `${(groupOf[e.type] || { label: LOCAL[e.type] || e.type }).label} · ${e.df} case${e.df > 1 ? "s" : ""}`, sel: { kind: "ent", id: e.id }, rank: 1 - e.df / 1000 });
+    hits.sort((x, y) => x.rank - y.rank);
+    for (const hit of hits.slice(0, 12))
+      results.append(h("button", { on: { click: () => { results.hidden = true; q.value = ""; select(hit.sel, true); } } }, h("span", {}, hit.label), h("span", { class: "kind" }, hit.kind)));
+    if (!hits.length) results.append(h("button", { disabled: "" }, "Nothing on file matches"));
+    results.hidden = false;
+  }
+  q.addEventListener("input", search);
+  q.addEventListener("keydown", (ev) => { if (ev.key === "Enter") results.querySelector("button:not([disabled])")?.click(); if (ev.key === "Escape") results.hidden = true; });
+  document.addEventListener("click", (ev) => { if (!ev.target.closest(".search")) results.hidden = true; });
+
+  build();
+  render();
+})();
+</script>
