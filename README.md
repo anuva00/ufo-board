@@ -61,3 +61,27 @@ the sum of the weights of everything they share, plus 1 if one names the other.
 Wikipedia text is CC BY-SA 4.0. US government documents are public domain.
 GEIPAN data is published by CNES; UK MoD reports are under the Open Government
 Licence. NUFORC reports are the property of the National UFO Reporting Center.
+
+## Run it with Docker
+
+On any machine with Docker (including a NAS):
+
+```bash
+git clone https://github.com/anuva00/ufo-board.git
+cd ufo-board
+docker compose up -d --build
+```
+
+Then open `http://<address-of-the-machine>:8080`. To use another port, change
+the left-hand number in `docker-compose.yml`. To update later:
+
+```bash
+git pull
+docker compose up -d --build
+```
+
+The container is a small nginx server holding the dashboard and its data
+(`ui/`). The two JavaScript libraries are downloaded once while the image is
+built, so the running dashboard needs no internet access apart from web fonts,
+which fall back to system fonts. The data pipeline is not in the image; it is
+run separately with Python when the data needs rebuilding.

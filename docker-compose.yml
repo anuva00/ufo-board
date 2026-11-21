@@ -1,0 +1,7 @@
+services:
+  ufo-board:
+    build: .
+    container_name: ufo-board
+    ports:
+      - "8080:80"        # change the left number if 8080 is taken on your NAS
+    restart: unless-stopped
