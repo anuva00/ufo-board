@@ -73,7 +73,7 @@
   {
    "key": "craft",
    "type": "craft",
-   "name": "UFO said to have crashed at Aurora on 1897",
+   "name": "UFO said to have crashed near Aurora, Texas, in 1897",
    "description": "Object described as a UFO/airship that hit a windmill and crashed",
    "aliases": [
     "the airship",
@@ -401,24 +401,6 @@
    "key": "f_child",
    "type": "feature",
    "name": "child-witnesses",
-   "description": "feature"
-  },
-  {
-   "key": "f_disc",
-   "type": "feature",
-   "name": "shape-disc",
-   "description": "feature"
-  },
-  {
-   "key": "f_traces",
-   "type": "feature",
-   "name": "physical-traces",
-   "description": "feature"
-  },
-  {
-   "key": "f_tv",
-   "type": "feature",
-   "name": "other:television-investigation",
    "description": "feature"
   },
   {
@@ -1610,24 +1592,6 @@
    "p": "has_feature",
    "o": "case",
    "quote": "Charlie Stephens, who was age 10, recounted how he saw the airship trailing smoke as it headed north toward Aurora."
-  },
-  {
-   "s": "f_disc",
-   "p": "has_feature",
-   "o": "case",
-   "quote": "MUFON then investigated the Aurora Cemetery and uncovered a grave marker that appeared to show a flying saucer of some sort."
-  },
-  {
-   "s": "f_traces",
-   "p": "has_feature",
-   "o": "case",
-   "quote": "Further, the remains of a windmill base were found near the well site, which allegedly refuted Ms. Pegues' statements from the 1979 Time magazine article that Judge Proctor never had a windmill on his property."
-  },
-  {
-   "s": "f_tv",
-   "p": "has_feature",
-   "o": "case",
-   "quote": "One report was broadcast by local television station KDFW FOX 4 and two other reports aired on cable television."
   }
  ]
 }

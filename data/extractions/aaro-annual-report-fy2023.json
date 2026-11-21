@@ -1621,7 +1621,7 @@
    "s": "dataset",
    "p": "data_gaps",
    "v": "insufficient radar and EO/IR data; sensor artifacts such as IR flare; optical effects such as parallax",
-   "quote": "insufficient data secured by radar, electro- optical (EO)/infrared (IR) sensors; the presence of sensor artifacts, such as IR flare; and optical effects, such as parallax, that can cause observational misperceptions"
+   "quote": "insufficient data secured by radar, electro- optical (EO)/infrared (IR) sensors; the presence of sensor artifacts, such as IR flare; and optical"
   },
   {
    "s": "dataset",
@@ -1873,7 +1873,7 @@
    "s": "west_inc",
    "p": "reason_reported",
    "v": "potential incursion into restricted military airspace",
-   "quote": "represented a potential incursion into restricted military airspace."
+   "quote": "represented a potential incursion into (U) Location: Western United States restricted military airspace."
   },
   {
    "s": "west_inc",
@@ -1999,13 +1999,13 @@
    "s": "f_air",
    "p": "has_feature",
    "o": "west_inc",
-   "quote": "represented a potential incursion into restricted military airspace."
+   "quote": "represented a potential incursion into (U) Location: Western United States restricted military airspace."
   },
   {
    "s": "f_base",
    "p": "has_feature",
    "o": "west_inc",
-   "quote": "represented a potential incursion into restricted military airspace."
+   "quote": "represented a potential incursion into (U) Location: Western United States restricted military airspace."
   },
   {
    "s": "f_off",
@@ -2143,7 +2143,7 @@
    "s": "x_mis",
    "p": "explained_as",
    "o": "west_inc",
-   "quote": "conclusion that the objects were significantly farther from the platform than originally estimated by the observers."
+   "quote": "farther from the platform than originally estimated by the observers."
   },
   {
    "s": "x_mis",

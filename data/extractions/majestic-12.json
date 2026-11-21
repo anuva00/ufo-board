@@ -1,0 +1,3091 @@
+{
+ "slug": "majestic-12",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Majestic 12",
+   "aliases": [
+    "Majic-12",
+    "MJ-12",
+    "MJ Twelve",
+    "MJ12",
+    "Operation Majestic-12",
+    "Majestic-12"
+   ],
+   "description": "Purported secret US government committee on alien spacecraft that appeared in fake documents circulated by ufologists from 1984."
+  },
+  {
+   "key": "roswell",
+   "type": "case",
+   "name": "Roswell incident",
+   "description": "Alleged 1947 crash of an alien spacecraft at Roswell whose supposed cover-up MJ-12 lore explains."
+  },
+  {
+   "key": "guerrero",
+   "type": "case",
+   "name": "1950 El Indio–Guerrero incident",
+   "aliases": [
+    "second crash in 1950",
+    "the Guerrero claim"
+   ],
+   "description": "Second alleged crash, in Mexico in 1950, mentioned in the Eisenhower Briefing Document."
+  },
+  {
+   "key": "bennewitz_affair",
+   "type": "case",
+   "name": "Paul Bennewitz",
+   "aliases": [
+    "Bennewitz"
+   ],
+   "description": "Disinformation campaign in which Air Force officials misled UFO researcher Paul Bennewitz; source of the earliest 'MJ Twelve' reference."
+  },
+  {
+   "key": "roswell_nm",
+   "type": "place",
+   "name": "Roswell, New Mexico",
+   "aliases": [
+    "Roswell"
+   ]
+  },
+  {
+   "key": "nm",
+   "type": "place",
+   "name": "New Mexico"
+  },
+  {
+   "key": "abq",
+   "type": "place",
+   "name": "Albuquerque, New Mexico",
+   "aliases": [
+    "Albuquerque"
+   ]
+  },
+  {
+   "key": "kirtland",
+   "type": "place",
+   "name": "Kirtland Air Force Base"
+  },
+  {
+   "key": "area51",
+   "type": "place",
+   "name": "Area 51",
+   "aliases": [
+    "Nevada's Area 51"
+   ]
+  },
+  {
+   "key": "nevada",
+   "type": "place",
+   "name": "Nevada"
+  },
+  {
+   "key": "mexico",
+   "type": "place",
+   "name": "Mexico"
+  },
+  {
+   "key": "elindio",
+   "type": "place",
+   "name": "El Indio"
+  },
+  {
+   "key": "guerrero_town",
+   "type": "place",
+   "name": "Guerrero, Mexico",
+   "aliases": [
+    "Guerrero"
+   ]
+  },
+  {
+   "key": "border",
+   "type": "place",
+   "name": "Mexico–United States border",
+   "aliases": [
+    "Mexico–US border"
+   ]
+  },
+  {
+   "key": "dallas",
+   "type": "place",
+   "name": "Dallas, Texas",
+   "aliases": [
+    "Dallas"
+   ]
+  },
+  {
+   "key": "zeta",
+   "type": "place",
+   "name": "Zeta Reticuli",
+   "aliases": [
+    "Zeta Reticuli star system"
+   ]
+  },
+  {
+   "key": "fbi",
+   "type": "organization",
+   "name": "Federal Bureau of Investigation",
+   "aliases": [
+    "FBI"
+   ]
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "aliases": [
+    "the Air Force",
+    "Air Force"
+   ]
+  },
+  {
+   "key": "osi",
+   "type": "organization",
+   "name": "United States Air Force Office of Special Investigations",
+   "aliases": [
+    "OSI",
+    "Air Force Office of Special Investigations"
+   ]
+  },
+  {
+   "key": "kpix",
+   "type": "organization",
+   "name": "KPIX-TV"
+  },
+  {
+   "key": "enquirer",
+   "type": "organization",
+   "name": "National Enquirer"
+  },
+  {
+   "key": "nara",
+   "type": "organization",
+   "name": "National Archives and Records Administration",
+   "aliases": [
+    "National Archives",
+    "the National Archives"
+   ]
+  },
+  {
+   "key": "mufon",
+   "type": "organization",
+   "name": "Mutual UFO Network",
+   "aliases": [
+    "MUFON"
+   ]
+  },
+  {
+   "key": "cia",
+   "type": "organization",
+   "name": "Central Intelligence Agency",
+   "aliases": [
+    "CIA"
+   ]
+  },
+  {
+   "key": "nsc",
+   "type": "organization",
+   "name": "National Security Council"
+  },
+  {
+   "key": "wh",
+   "type": "organization",
+   "name": "White House"
+  },
+  {
+   "key": "abc",
+   "type": "organization",
+   "name": "ABC",
+   "aliases": [
+    "ABC network"
+   ]
+  },
+  {
+   "key": "paranet",
+   "type": "organization",
+   "name": "ParaNet"
+  },
+  {
+   "key": "muckrock",
+   "type": "organization",
+   "name": "MuckRock"
+  },
+  {
+   "key": "si",
+   "type": "organization",
+   "name": "Skeptical Inquirer"
+  },
+  {
+   "key": "iur",
+   "type": "organization",
+   "name": "International UFO Reporter"
+  },
+  {
+   "key": "csicop",
+   "type": "organization",
+   "name": "CSICOP"
+  },
+  {
+   "key": "usgov",
+   "type": "organization",
+   "name": "United States government",
+   "aliases": [
+    "U.S. government",
+    "US government"
+   ]
+  },
+  {
+   "key": "magic",
+   "type": "program",
+   "name": "Operation Magic",
+   "aliases": [
+    "Magic"
+   ]
+  },
+  {
+   "key": "docs",
+   "type": "document",
+   "name": "MJ-12 documents",
+   "aliases": [
+    "Majestic 12 documents",
+    "Majestic-12 materials",
+    "MJ12 documents"
+   ],
+   "description": "Batches of purported government papers provided anonymously to UFO researchers."
+  },
+  {
+   "key": "memo81",
+   "type": "document",
+   "name": "1981 \"MJ Twelve\" memo",
+   "aliases": [
+    "original \"MJ Twelve\" memo"
+   ],
+   "description": "Earliest known document referring to 'MJ Twelve', used in disinformation targeting Paul Bennewitz."
+  },
+  {
+   "key": "tfmemo",
+   "type": "document",
+   "name": "Truman-Forrestal memo",
+   "aliases": [
+    "Truman-Forestall memo"
+   ],
+   "description": "Purported 'Top Secret' memorandum from Truman to Forrestal authorizing Operation Majestic-12."
+  },
+  {
+   "key": "ebd",
+   "type": "document",
+   "name": "Eisenhower Briefing Document",
+   "description": "Purported seven-page Majestic-12 briefing for President-Elect Eisenhower."
+  },
+  {
+   "key": "ctmemo",
+   "type": "document",
+   "name": "Cutler/Twining memo",
+   "aliases": [
+    "Cutler memo"
+   ],
+   "description": "Purported 1954 memorandum from Robert Cutler to Nathan Twining referring to Majestic 12, found in the National Archives in 1985."
+  },
+  {
+   "key": "som",
+   "type": "document",
+   "name": "MJ-12 Special Operations Manual",
+   "aliases": [
+    "Special Operations Manual"
+   ]
+  },
+  {
+   "key": "monroedoc",
+   "type": "document",
+   "name": "Marilyn Monroe MJ12-stamped document",
+   "description": "Cooper-provided document purporting to link Marilyn Monroe's death to knowledge of UFOs."
+  },
+  {
+   "key": "hillmemo",
+   "type": "document",
+   "name": "Hillenkoetter memo to President Truman, February 17, 1948"
+  },
+  {
+   "key": "marshall_letter",
+   "type": "document",
+   "name": "George Marshall's 1944 letter to Thomas Dewey"
+  },
+  {
+   "key": "marshall_fdr",
+   "type": "document",
+   "name": "Letter from Marshall to Roosevelt"
+  },
+  {
+   "key": "truman_letter",
+   "type": "document",
+   "name": "Truman letter to Vannevar Bush, October 1, 1947"
+  },
+  {
+   "key": "fbifile",
+   "type": "document",
+   "name": "FBI file on Majestic 12"
+  },
+  {
+   "key": "learstmt",
+   "type": "document",
+   "name": "John Lear statement to ParaNet, December 29, 1987"
+  },
+  {
+   "key": "prattsens",
+   "type": "document",
+   "name": "Pratt Sensitive",
+   "description": "Transcript of a tape-recorded conversation between Bill Moore and Bob Pratt."
+  },
+  {
+   "key": "w_roswell",
+   "type": "work",
+   "name": "The Roswell Incident"
+  },
+  {
+   "key": "w_aquarius",
+   "type": "work",
+   "name": "The Aquarius Project",
+   "aliases": [
+    "MAJIK-12"
+   ]
+  },
+  {
+   "key": "w_kpix",
+   "type": "work",
+   "name": "KPIX-TV UFO documentary"
+  },
+  {
+   "key": "w_ats",
+   "type": "work",
+   "name": "Above Top Secret: The Worldwide U.F.O. Cover-up",
+   "aliases": [
+    "Above Top Secret"
+   ]
+  },
+  {
+   "key": "w_nightline",
+   "type": "work",
+   "name": "Nightline"
+  },
+  {
+   "key": "w_live",
+   "type": "work",
+   "name": "UFO Coverup? Live"
+  },
+  {
+   "key": "w_majestic",
+   "type": "work",
+   "name": "Majestic (Whitley Strieber book)",
+   "aliases": [
+    "Majestic"
+   ]
+  },
+  {
+   "key": "w_mirage_book",
+   "type": "work",
+   "name": "Mirage Men (2010 book)",
+   "aliases": [
+    "Mirage Men"
+   ]
+  },
+  {
+   "key": "w_mirage_doc",
+   "type": "work",
+   "name": "Mirage Men (2013 documentary)",
+   "aliases": [
+    "Mirage Men"
+   ]
+  },
+  {
+   "key": "w_amagic",
+   "type": "work",
+   "name": "The American Magic: Codes, Ciphers and the Defeat of Japan"
+  },
+  {
+   "key": "w_skeptoid",
+   "type": "work",
+   "name": "The Secret History of Majestic 12",
+   "aliases": [
+    "Skeptoid"
+   ]
+  },
+  {
+   "key": "w_tsm",
+   "type": "work",
+   "name": "TOP SECRET/MAJIC"
+  },
+  {
+   "key": "w_k1",
+   "type": "work",
+   "name": "The MJ-12 Crashed Saucer Documents"
+  },
+  {
+   "key": "w_k2",
+   "type": "work",
+   "name": "The MJ-12 Papers – part 2"
+  },
+  {
+   "key": "w_k3",
+   "type": "work",
+   "name": "MJ-12 Papers \"Authenticated\"?"
+  },
+  {
+   "key": "w_k4",
+   "type": "work",
+   "name": "New Evidence of MJ-12 Hoax"
+  },
+  {
+   "key": "w_inv",
+   "type": "work",
+   "name": "The UFO Invasion"
+  },
+  {
+   "key": "w_outer",
+   "type": "work",
+   "name": "The Outer Edge: Classic Investigations of the Paranormal"
+  },
+  {
+   "key": "w_csf",
+   "type": "work",
+   "name": "The Crashed Saucer Forgeries"
+  },
+  {
+   "key": "w_wts",
+   "type": "work",
+   "name": "Watch the Skies!: A Chronicle of the Flying Saucer Myth"
+  },
+  {
+   "key": "w_dhw",
+   "type": "work",
+   "name": "The Demon-Haunted World: Science as a Candle in the Dark",
+   "aliases": [
+    "The Demon-Haunted World"
+   ]
+  },
+  {
+   "key": "w_pflock",
+   "type": "work",
+   "name": "Roswell: Inconvenient Facts and the Will to Believe"
+  },
+  {
+   "key": "w_olm",
+   "type": "work",
+   "name": "Real Enemies: Conspiracy Theories and American Democracy, World War I to 9/11"
+  },
+  {
+   "key": "truman",
+   "type": "person",
+   "name": "Harry S. Truman",
+   "aliases": [
+    "President Truman",
+    "President Harry Truman",
+    "Harry Truman",
+    "Truman"
+   ],
+   "description": "U.S. President said to have formed Majestic 12 by executive order"
+  },
+  {
+   "key": "moore",
+   "type": "person",
+   "name": "Bill Moore",
+   "aliases": [
+    "Moore"
+   ],
+   "description": "Ufologist and author of The Roswell Incident who confessed to feeding fake evidence to UFO researchers"
+  },
+  {
+   "key": "doty",
+   "type": "person",
+   "name": "Richard C. Doty",
+   "aliases": [
+    "Richard Doty",
+    "Doty"
+   ],
+   "description": "Air Force officer who gave fabricated MJ-12 information to UFO researchers"
+  },
+  {
+   "key": "bennewitz",
+   "type": "person",
+   "name": "Paul Bennewitz",
+   "aliases": [
+    "Bennewitz"
+   ],
+   "description": "Entrepreneur-government contractor turned UFO researcher targeted by disinformation"
+  },
+  {
+   "key": "pratt",
+   "type": "person",
+   "name": "Bob Pratt",
+   "aliases": [
+    "Pratt"
+   ],
+   "description": "National Enquirer reporter who collaborated with Moore on The Aquarius Project"
+  },
+  {
+   "key": "friedman",
+   "type": "person",
+   "name": "Stanton T. Friedman",
+   "aliases": [
+    "Friedman",
+    "Stanton Friedman"
+   ],
+   "description": "Ufologist who believed the MJ-12 documents authentic but exposed some as hoaxes"
+  },
+  {
+   "key": "shandera",
+   "type": "person",
+   "name": "Jaime Shandera",
+   "aliases": [
+    "Shandera"
+   ],
+   "description": "Recipient of the 1984 anonymous roll of film containing MJ-12 documents"
+  },
+  {
+   "key": "gersten",
+   "type": "person",
+   "name": "Peter Gersten",
+   "aliases": [
+    "Gersten",
+    "Gerstein"
+   ]
+  },
+  {
+   "key": "howe",
+   "type": "person",
+   "name": "Linda Moulton Howe",
+   "aliases": [
+    "Howe"
+   ]
+  },
+  {
+   "key": "berliner",
+   "type": "person",
+   "name": "Don Berliner"
+  },
+  {
+   "key": "cooper",
+   "type": "person",
+   "name": "Timothy S. Cooper",
+   "aliases": [
+    "Tim Cooper",
+    "Cooper"
+   ]
+  },
+  {
+   "key": "forrestal",
+   "type": "person",
+   "name": "James Forrestal",
+   "aliases": [
+    "Defense Secretary James Forrestal"
+   ]
+  },
+  {
+   "key": "bush",
+   "type": "person",
+   "name": "Vannevar Bush",
+   "aliases": [
+    "Dr. Vannevar Bush"
+   ]
+  },
+  {
+   "key": "ike",
+   "type": "person",
+   "name": "Dwight D. Eisenhower",
+   "aliases": [
+    "President-Elect Eisenhower",
+    "President Eisenhower",
+    "Eisenhower"
+   ]
+  },
+  {
+   "key": "klass",
+   "type": "person",
+   "name": "Philip J. Klass",
+   "aliases": [
+    "Phil Klass",
+    "Klass"
+   ]
+  },
+  {
+   "key": "deuley",
+   "type": "person",
+   "name": "Tom Deuley"
+  },
+  {
+   "key": "cutler",
+   "type": "person",
+   "name": "Robert Cutler",
+   "aliases": [
+    "Cutler"
+   ]
+  },
+  {
+   "key": "twining",
+   "type": "person",
+   "name": "Nathan F. Twining",
+   "aliases": [
+    "General Nathan F. Twining",
+    "Gen. Nathan Twining",
+    "Nathan Twining"
+   ]
+  },
+  {
+   "key": "goldberg",
+   "type": "person",
+   "name": "Robert Goldberg"
+  },
+  {
+   "key": "sparks",
+   "type": "person",
+   "name": "Brad Sparks"
+  },
+  {
+   "key": "pflock",
+   "type": "person",
+   "name": "Karl Pflock",
+   "aliases": [
+    "Pflock"
+   ]
+  },
+  {
+   "key": "stringfield",
+   "type": "person",
+   "name": "Leonard Stringfield"
+  },
+  {
+   "key": "monroe",
+   "type": "person",
+   "name": "Marilyn Monroe"
+  },
+  {
+   "key": "good",
+   "type": "person",
+   "name": "Timothy Good",
+   "aliases": [
+    "Good"
+   ]
+  },
+  {
+   "key": "koppel",
+   "type": "person",
+   "name": "Ted Koppel"
+  },
+  {
+   "key": "lear",
+   "type": "person",
+   "name": "John Lear",
+   "aliases": [
+    "Lear"
+   ]
+  },
+  {
+   "key": "strieber",
+   "type": "person",
+   "name": "Whitley Strieber"
+  },
+  {
+   "key": "sagan",
+   "type": "person",
+   "name": "Carl Sagan"
+  },
+  {
+   "key": "olmsted",
+   "type": "person",
+   "name": "Kathryn S. Olmsted"
+  },
+  {
+   "key": "marshall",
+   "type": "person",
+   "name": "George Marshall",
+   "aliases": [
+    "Gen. George Marshall",
+    "Marshall"
+   ]
+  },
+  {
+   "key": "dewey",
+   "type": "person",
+   "name": "Thomas Dewey"
+  },
+  {
+   "key": "hillenkoetter",
+   "type": "person",
+   "name": "Roscoe Hillenkoetter",
+   "aliases": [
+    "Admiral Roscoe Hillenkoetter"
+   ]
+  },
+  {
+   "key": "roosevelt",
+   "type": "person",
+   "name": "Roosevelt"
+  },
+  {
+   "key": "dunning",
+   "type": "person",
+   "name": "Brian Dunning"
+  },
+  {
+   "key": "best",
+   "type": "person",
+   "name": "Emma Best"
+  },
+  {
+   "key": "nickell",
+   "type": "person",
+   "name": "Joe Nickell"
+  },
+  {
+   "key": "fischer",
+   "type": "person",
+   "name": "John F. Fischer"
+  },
+  {
+   "key": "karr",
+   "type": "person",
+   "name": "Barry Karr"
+  },
+  {
+   "key": "genoni",
+   "type": "person",
+   "name": "Tom Genoni"
+  },
+  {
+   "key": "peebles",
+   "type": "person",
+   "name": "Curtis Peebles"
+  },
+  {
+   "key": "f_leak",
+   "type": "feature",
+   "name": "document-leak"
+  },
+  {
+   "key": "f_hoax",
+   "type": "feature",
+   "name": "hoax-alleged"
+  },
+  {
+   "key": "f_conf",
+   "type": "feature",
+   "name": "hoax-confessed"
+  },
+  {
+   "key": "f_cover",
+   "type": "feature",
+   "name": "alleged-cover-up"
+  },
+  {
+   "key": "f_crash",
+   "type": "feature",
+   "name": "crash-retrieval-claim"
+  },
+  {
+   "key": "f_off",
+   "type": "feature",
+   "name": "official-investigation"
+  },
+  {
+   "key": "f_base",
+   "type": "feature",
+   "name": "military-base-proximity"
+  },
+  {
+   "key": "f_animal",
+   "type": "feature",
+   "name": "other:cattle mutilations"
+  },
+  {
+   "key": "x_hoax",
+   "type": "explanation",
+   "name": "hoax"
+  },
+  {
+   "key": "x_disinfo",
+   "type": "explanation",
+   "name": "other:government disinformation campaign"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1984",
+   "quote": "Majestic 12, also known as Majic-12, and MJ-12 for short, is a purported organization that appeared in fake documents first circulated by ufologists in 1984"
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "an alleged secret committee of scientists, military leaders, and government officials, formed in 1947 by an executive order by U.S. President Harry S. Truman to facilitate recovery and investigation of alien spacecraft"
+  },
+  {
+   "s": "case",
+   "p": "also_known_as",
+   "v": "Majic-12; MJ-12",
+   "quote": "Majestic 12, also known as Majic-12, and MJ-12 for short, is a purported organization that appeared in fake documents first circulated by ufologists in 1984"
+  },
+  {
+   "s": "case",
+   "p": "description",
+   "v": "purported organization that appeared in fake documents first circulated by ufologists in 1984",
+   "quote": "Majestic 12, also known as Majic-12, and MJ-12 for short, is a purported organization that appeared in fake documents first circulated by ufologists in 1984"
+  },
+  {
+   "s": "case",
+   "p": "purported_formation_year",
+   "v": "1947",
+   "quote": "an alleged secret committee of scientists, military leaders, and government officials, formed in 1947 by an executive order by U.S. President Harry S. Truman to facilitate recovery and investigation of alien spacecraft"
+  },
+  {
+   "s": "case",
+   "p": "purported_purpose",
+   "v": "facilitate recovery and investigation of alien spacecraft",
+   "quote": "an alleged secret committee of scientists, military leaders, and government officials, formed in 1947 by an executive order by U.S. President Harry S. Truman to facilitate recovery and investigation of alien spacecraft"
+  },
+  {
+   "s": "case",
+   "p": "purported_membership",
+   "v": "secret committee of scientists, military leaders, and government officials",
+   "quote": "an alleged secret committee of scientists, military leaders, and government officials, formed in 1947 by an executive order by U.S. President Harry S. Truman to facilitate recovery and investigation of alien spacecraft"
+  },
+  {
+   "s": "case",
+   "p": "origin",
+   "v": "entered UFO culture in the early 1980s as part of a deception campaign against amateur researchers who linked unexplained livestock deaths to UFO reports",
+   "quote": "\"MJ-12\" first entered UFO culture in the early 1980s as part of a deception campaign against amateur researchers who linked unexplained livestock deaths to UFO reports."
+  },
+  {
+   "s": "case",
+   "p": "earliest_reference",
+   "v": "1981 document used in disinformation targeting Paul Bennewitz",
+   "quote": "The earliest known reference to \"MJ Twelve\" comes from a 1981 document used in disinformation targeting Paul Bennewitz."
+  },
+  {
+   "s": "case",
+   "p": "confession_year",
+   "v": "1989",
+   "quote": "Starting in 1989, elements in the deception campaign confessed to fabricating MJ-12 lore to deceive UFO researches."
+  },
+  {
+   "s": "case",
+   "p": "official_denial",
+   "v": "White House and National Security Council spokesmen denied the existence of any organization called Majestic 12, summer 1987",
+   "quote": "As early as the summer of 1987, spokesmen from the White House and National Security Council denied the existence of any organization called Majestic 12, MJ-12 or Majic-12."
+  },
+  {
+   "s": "case",
+   "p": "popular_culture",
+   "v": "appeared in television, film, video games, and literature",
+   "quote": "the name \"Majestic 12\" remains popular among some UFO conspiracy theorists and the concept has appeared in popular culture including television, film, video games, and literature"
+  },
+  {
+   "s": "case",
+   "p": "recipients_connection",
+   "v": "All individuals who received the fake documents were connected to Bill Moore",
+   "quote": "Majestic 12 was the purported organization behind faked government documents delivered anonymously to multiple ufologists in the 1980s. All individuals who received the fake documents were connected to Bill Moore."
+  },
+  {
+   "s": "case",
+   "p": "purported_member_count",
+   "v": "12",
+   "quote": "The documents purported to reveal a secret committee of 12, supposedly formed in 1947 by an executive order by U.S. President Harry S. Truman"
+  },
+  {
+   "s": "roswell",
+   "p": "related_case",
+   "o": "case",
+   "quote": "The concept of \"Majestic 12\" emerged during a period in the 1980s when ufologists believed there had been a cover-up of the Roswell incident and speculated some secretive upper tier of the U.S. government was responsible."
+  },
+  {
+   "s": "roswell",
+   "p": "date_start",
+   "v": "1947-07",
+   "quote": "explain how the crash of an alien spacecraft at Roswell in July 1947 had been concealed, how the recovered alien technology could be exploited, and how the U.S. should engage with extraterrestrial life in the future"
+  },
+  {
+   "s": "roswell",
+   "p": "claim_in_mj12_documents",
+   "v": "crash of an alien spacecraft at Roswell in July 1947 had been concealed",
+   "quote": "explain how the crash of an alien spacecraft at Roswell in July 1947 had been concealed, how the recovered alien technology could be exploited, and how the U.S. should engage with extraterrestrial life in the future"
+  },
+  {
+   "s": "guerrero",
+   "p": "related_case",
+   "o": "case",
+   "quote": "In addition to the Roswell incident, the \"Eisenhower Briefing Document\" also mentioned a second crash in 1950."
+  },
+  {
+   "s": "guerrero",
+   "p": "date_start",
+   "v": "1950",
+   "quote": "In addition to the Roswell incident, the \"Eisenhower Briefing Document\" also mentioned a second crash in 1950."
+  },
+  {
+   "s": "guerrero",
+   "p": "country",
+   "v": "Mexico",
+   "quote": "This second alleged crash was in Mexico, near the towns of El Indio and Guerrero along the Mexico–US border."
+  },
+  {
+   "s": "guerrero",
+   "p": "investigation_result",
+   "v": "no evidence for a reported UFO crash",
+   "quote": "Tom Deuley investigated the Guerrero claim for MUFON, but found no evidence for a reported UFO crash."
+  },
+  {
+   "s": "bennewitz_affair",
+   "p": "related_case",
+   "o": "case",
+   "quote": "The earliest known reference to \"MJ Twelve\" comes from a 1981 document used in disinformation targeting Paul Bennewitz."
+  },
+  {
+   "s": "bennewitz_affair",
+   "p": "date_start",
+   "v": "1981",
+   "quote": "The earliest known reference to \"MJ Twelve\" comes from a 1981 document used in disinformation targeting Paul Bennewitz."
+  },
+  {
+   "s": "bennewitz_affair",
+   "p": "outcome",
+   "v": "By 1988 Bennewitz was accusing his wife of being in control of the extraterrestrials and required psychiatric hospitalization",
+   "quote": "By 1988, Bennewitz was accusing his wife of being in control of the extraterrestrials and he  required psychiatric hospitalization."
+  },
+  {
+   "s": "roswell_nm",
+   "p": "occurred_at",
+   "o": "roswell",
+   "quote": "explain how the crash of an alien spacecraft at Roswell in July 1947 had been concealed, how the recovered alien technology could be exploited, and how the U.S. should engage with extraterrestrial life in the future"
+  },
+  {
+   "s": "roswell_nm",
+   "p": "related_place",
+   "o": "case",
+   "quote": "explain how the crash of an alien spacecraft at Roswell in July 1947 had been concealed, how the recovered alien technology could be exploited, and how the U.S. should engage with extraterrestrial life in the future"
+  },
+  {
+   "s": "nm",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The package bore no additional information other than a New Mexico postmark."
+  },
+  {
+   "s": "nm",
+   "p": "detail",
+   "v": "postmark on the anonymous package sent to Shandera",
+   "quote": "The package bore no additional information other than a New Mexico postmark."
+  },
+  {
+   "s": "abq",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On March 20, 1983, Gerstein related Doty's claims to cattle mutiliation documentarian Linda Moulton Howe. Howe arranged to visit Doty in Albuquerque on April 9."
+  },
+  {
+   "s": "abq",
+   "p": "event",
+   "v": "Howe visited Doty there on April 9, 1983",
+   "quote": "On March 20, 1983, Gerstein related Doty's claims to cattle mutiliation documentarian Linda Moulton Howe. Howe arranged to visit Doty in Albuquerque on April 9."
+  },
+  {
+   "s": "kirtland",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Doty later said that he gave fabricated information to UFO researchers while working at Kirtland Air Force Base in the 1980s."
+  },
+  {
+   "s": "area51",
+   "p": "related_place",
+   "o": "case",
+   "quote": "It featured the first public mention of Nevada's Area 51 as a site associated with aliens."
+  },
+  {
+   "s": "area51",
+   "p": "first_public_mention",
+   "v": "UFO Coverup? Live, October 14, 1988, as a site associated with aliens",
+   "quote": "It featured the first public mention of Nevada's Area 51 as a site associated with aliens."
+  },
+  {
+   "s": "area51",
+   "p": "located_in",
+   "o": "nevada",
+   "quote": "It featured the first public mention of Nevada's Area 51 as a site associated with aliens."
+  },
+  {
+   "s": "nevada",
+   "p": "related_place",
+   "o": "case",
+   "quote": "It featured the first public mention of Nevada's Area 51 as a site associated with aliens."
+  },
+  {
+   "s": "mexico",
+   "p": "occurred_at",
+   "o": "guerrero",
+   "quote": "This second alleged crash was in Mexico, near the towns of El Indio and Guerrero along the Mexico–US border."
+  },
+  {
+   "s": "mexico",
+   "p": "related_place",
+   "o": "case",
+   "quote": "This second alleged crash was in Mexico, near the towns of El Indio and Guerrero along the Mexico–US border."
+  },
+  {
+   "s": "elindio",
+   "p": "near",
+   "o": "guerrero",
+   "quote": "This second alleged crash was in Mexico, near the towns of El Indio and Guerrero along the Mexico–US border."
+  },
+  {
+   "s": "guerrero_town",
+   "p": "near",
+   "o": "guerrero",
+   "quote": "This second alleged crash was in Mexico, near the towns of El Indio and Guerrero along the Mexico–US border."
+  },
+  {
+   "s": "guerrero_town",
+   "p": "located_in",
+   "o": "mexico",
+   "quote": "This second alleged crash was in Mexico, near the towns of El Indio and Guerrero along the Mexico–US border."
+  },
+  {
+   "s": "border",
+   "p": "near",
+   "o": "guerrero",
+   "quote": "This second alleged crash was in Mexico, near the towns of El Indio and Guerrero along the Mexico–US border."
+  },
+  {
+   "s": "dallas",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On September 15, 1988, a special agent at the United States Air Force Office of Special Investigations (OSI) contacted the Dallas branch of the FBI after receiving the Majestic 12 document from an individual at an unnamed school who claimed to have received it in the mail."
+  },
+  {
+   "s": "dallas",
+   "p": "detail",
+   "v": "FBI branch contacted by OSI special agent on September 15, 1988",
+   "quote": "On September 15, 1988, a special agent at the United States Air Force Office of Special Investigations (OSI) contacted the Dallas branch of the FBI after receiving the Majestic 12 document from an individual at an unnamed school who claimed to have received it in the mail."
+  },
+  {
+   "s": "zeta",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Doty told Howe  that the MJ-12 story was true, and showed Howe unspecified documents purporting to prove the existence of small, gray humanoid aliens originating from the Zeta Reticuli star system."
+  },
+  {
+   "s": "zeta",
+   "p": "claim",
+   "v": "purported origin of small, gray humanoid aliens",
+   "quote": "Doty told Howe  that the MJ-12 story was true, and showed Howe unspecified documents purporting to prove the existence of small, gray humanoid aliens originating from the Zeta Reticuli star system."
+  },
+  {
+   "s": "fbi",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The FBI then began its own investigation of the supposed \"secret\" document and quickly formed doubts as to its authenticity."
+  },
+  {
+   "s": "fbi",
+   "p": "conclusion",
+   "v": "declared the documents \"completely bogus\"",
+   "quote": "The Federal Bureau of Investigation (FBI) declared the documents to be \"completely bogus\", and many ufologists consider them to be an elaborate hoax."
+  },
+  {
+   "s": "fbi",
+   "p": "investigation_closed",
+   "v": "Director instructed the Dallas office to close their investigation",
+   "quote": "The Director of the FBI subsequently instructed the Dallas office to close their investigation."
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "KPIX-TV contacted the Air Force, which noted many style and formatting errors; Moore admitted that he had typed and stamped the document as a facsimile."
+  },
+  {
+   "s": "usaf",
+   "p": "finding",
+   "v": "noted many style and formatting errors in the \"MJ Twelve\" memo",
+   "quote": "KPIX-TV contacted the Air Force, which noted many style and formatting errors; Moore admitted that he had typed and stamped the document as a facsimile."
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "bennewitz_affair",
+   "quote": "Bennewitz was contacted by Air Force officials including Richard C. Doty.  Collectively, they mislead Bennewitz."
+  },
+  {
+   "s": "osi",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On September 15, 1988, a special agent at the United States Air Force Office of Special Investigations (OSI) contacted the Dallas branch of the FBI after receiving the Majestic 12 document from an individual at an unnamed school who claimed to have received it in the mail."
+  },
+  {
+   "s": "osi",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "On September 15, 1988, a special agent at the United States Air Force Office of Special Investigations (OSI) contacted the Dallas branch of the FBI after receiving the Majestic 12 document from an individual at an unnamed school who claimed to have received it in the mail."
+  },
+  {
+   "s": "osi",
+   "p": "statement",
+   "v": "no such committee had ever been authorized or formed (November 30, 1988)",
+   "quote": "After receiving information from the OSI on November 30 of that year that no such committee had ever been authorized or formed, the FBI declared that the document was \"completely bogus\"."
+  },
+  {
+   "s": "kpix",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "That same year, Moore, Friedman, and Jaime Shandera began work on a KPIX-TV UFO documentary, and Moore shared the original \"MJ Twelve\" memo mentioning Bennewitz."
+  },
+  {
+   "s": "enquirer",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The name \"Majestic 12\" had been prefigured in the UFO community when Bill Moore asked National Enquirer reporter Bob Pratt in 1982 to collaborate on a novel initially called MAJIK-12 and eventually changed by Moore to The Aquarius Project."
+  },
+  {
+   "s": "nara",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Shandera and his ufologist colleagues Stanton T. Friedman and Bill Moore say they later received a series of anonymous messages that led them to find what has been called the \"Cutler/Twining memo\" in 1985 while searching declassified files in the National Archives."
+  },
+  {
+   "s": "nara",
+   "p": "statement",
+   "v": "receives many inquiries about the supposed Cutler memorandum; the document poses problems",
+   "quote": "The National Archives noted they receive many inquiries about a supposed \"memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954."
+  },
+  {
+   "s": "mufon",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "At a 1989 Mutual UFO Network conference, Moore confessed that he had intentionally fed fake evidence of extraterrestrials to UFO researchers, including Bennewitz."
+  },
+  {
+   "s": "mufon",
+   "p": "investigated_by",
+   "o": "guerrero",
+   "quote": "Tom Deuley investigated the Guerrero claim for MUFON, but found no evidence for a reported UFO crash."
+  },
+  {
+   "s": "cia",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Later, a Cooper-provided MJ12-stamped document purported to link Marilyn Monroe's death to her supposed knowledge of UFOs. The CIA concluded the document was fraudent."
+  },
+  {
+   "s": "cia",
+   "p": "conclusion",
+   "v": "the Cooper-provided Marilyn Monroe document was fraudulent",
+   "quote": "Later, a Cooper-provided MJ12-stamped document purported to link Marilyn Monroe's death to her supposed knowledge of UFOs. The CIA concluded the document was fraudent."
+  },
+  {
+   "s": "nsc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "As early as the summer of 1987, spokesmen from the White House and National Security Council denied the existence of any organization called Majestic 12, MJ-12 or Majic-12."
+  },
+  {
+   "s": "nsc",
+   "p": "detail",
+   "v": "no meeting on July 16 [1954], contrary to the Cutler/Twining memo",
+   "quote": "Contrary to memo, there was no meeting of the National Security Council on July 16."
+  },
+  {
+   "s": "wh",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "As early as the summer of 1987, spokesmen from the White House and National Security Council denied the existence of any organization called Majestic 12, MJ-12 or Majic-12."
+  },
+  {
+   "s": "abc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On June 24, 1987, Friedman appeared on the ABC network news program Nightline opposite Klass, where he discussed the MJ-12 with anchor Ted Koppel."
+  },
+  {
+   "s": "paranet",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On December 29, 1987, supposed government UFO insider John Lear posted a statement to ParaNet, an early bulletin board system dedicated to the paranormal, claiming knowledge of MJ-12."
+  },
+  {
+   "s": "paranet",
+   "p": "description",
+   "v": "early bulletin board system dedicated to the paranormal",
+   "quote": "On December 29, 1987, supposed government UFO insider John Lear posted a statement to ParaNet, an early bulletin board system dedicated to the paranormal, claiming knowledge of MJ-12."
+  },
+  {
+   "s": "muckrock",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 2017,  MuckRock contributor Emma Best similarly suggested that the papers were \"government sponsored, or at least tolerated, disinformation\" because the declassified FBI file on Majestic 12 does not mention any further investigation to find or prosecute the forger responsible for it."
+  },
+  {
+   "s": "si",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Philip J. Klass, The MJ-12 Crashed Saucer Documents, Skeptical Inquirer, vol XII, #2, Winter 1987–88, 137–46. Reprinted (sans figures) as chapter 7 of The UFO Invasion."
+  },
+  {
+   "s": "iur",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Joe Nickell and John F. Fischer, The Crashed Saucer Forgeries, International UFO Reporter, March 1990, 4–12."
+  },
+  {
+   "s": "csicop",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Also reprinted in The Outer Edge: *Classic Investigations of the Paranormal, edited by Joe Nickell, Barry Karr, and Tom Genoni, CSICOP, 1996."
+  },
+  {
+   "s": "usgov",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The concept of \"Majestic 12\" emerged during a period in the 1980s when ufologists believed there had been a cover-up of the Roswell incident and speculated some secretive upper tier of the U.S. government was responsible."
+  },
+  {
+   "s": "magic",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Many MJ-12 documents were found to be forged adaptations of documents about Operation Magic, a 1940s-era cryptanalysis effort to break Axis codes and decrypt intercepts of their messages."
+  },
+  {
+   "s": "magic",
+   "p": "description",
+   "v": "1940s-era cryptanalysis effort to break Axis codes and decrypt intercepts of their messages",
+   "quote": "Many MJ-12 documents were found to be forged adaptations of documents about Operation Magic, a 1940s-era cryptanalysis effort to break Axis codes and decrypt intercepts of their messages."
+  },
+  {
+   "s": "docs",
+   "p": "key_document",
+   "o": "case",
+   "quote": "By the mid-80s, manufactured papers called the \"MJ-12 documents\" were anonymously and mysteriously provided to UFO researchers."
+  },
+  {
+   "s": "docs",
+   "p": "batches",
+   "v": "1984 roll of film to Shandera; 1985 memo planted in the National Archives; 1994 roll of film to Berliner; over 100 documents to Tim Cooper",
+   "quote": "a 1984 roll of film sent to Jaime Shandera, a 1985, a memo planted in the National Archives found after an anonymous tip, a 1994 roll of film sent to Don Berliner, and over 100 documents given to Tim Cooper"
+  },
+  {
+   "s": "docs",
+   "p": "form",
+   "v": "existed only as copies of photographs of documents",
+   "quote": "The various purported memos existed only as copies of photographs of documents."
+  },
+  {
+   "s": "docs",
+   "p": "assessment",
+   "v": "largely revealed to be forgeries, sometimes drawn from actual 1940s-era historical documents unrelated to UFOs",
+   "quote": "The documents were largely revealed to be forgeries, sometimes drawn from actual 1940s-era historical documents unrelated to UFOs."
+  },
+  {
+   "s": "docs",
+   "p": "date_format",
+   "v": "idiosyncratic date format not found in government documents of the time but widely used in Moore's personal notes",
+   "quote": "Researchers noted that the idiosyncratic date format was not found in government documents from the time they were purported to originate, but was widely used in Moore's personal notes."
+  },
+  {
+   "s": "docs",
+   "p": "signatures",
+   "v": "Some signatures appear to be photocopied from other documents",
+   "quote": "Some signatures appear to be photocopied from other documents."
+  },
+  {
+   "s": "docs",
+   "p": "source_material",
+   "v": "forged adaptations of documents about Operation Magic",
+   "quote": "Many MJ-12 documents were found to be forged adaptations of documents about Operation Magic, a 1940s-era cryptanalysis effort to break Axis codes and decrypt intercepts of their messages."
+  },
+  {
+   "s": "docs",
+   "p": "compared_to",
+   "o": "magic",
+   "quote": "Many MJ-12 documents were found to be forged adaptations of documents about Operation Magic, a 1940s-era cryptanalysis effort to break Axis codes and decrypt intercepts of their messages."
+  },
+  {
+   "s": "memo81",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The earliest known reference to \"MJ Twelve\" comes from a 1981 document used in disinformation targeting Paul Bennewitz."
+  },
+  {
+   "s": "memo81",
+   "p": "key_document",
+   "o": "bennewitz_affair",
+   "quote": "The earliest known reference to \"MJ Twelve\" comes from a 1981 document used in disinformation targeting Paul Bennewitz."
+  },
+  {
+   "s": "memo81",
+   "p": "date",
+   "v": "1981",
+   "quote": "The earliest known reference to \"MJ Twelve\" comes from a 1981 document used in disinformation targeting Paul Bennewitz."
+  },
+  {
+   "s": "memo81",
+   "p": "provenance",
+   "v": "Moore admitted that he had typed and stamped the document as a facsimile",
+   "quote": "KPIX-TV contacted the Air Force, which noted many style and formatting errors; Moore admitted that he had typed and stamped the document as a facsimile."
+  },
+  {
+   "s": "tfmemo",
+   "p": "key_document",
+   "o": "case",
+   "quote": "When developed, the roll of film was found to contain an image of a \"Truman-Forestall memo\", a \"Top Secret\" memorandum from President Truman to Defense Secretary James Forrestal, dated September 24, 1947, authorizing him and Dr. Vannevar Bush to proceed with Operation Majestic-12"
+  },
+  {
+   "s": "tfmemo",
+   "p": "date",
+   "v": "1947-09-24",
+   "quote": "When developed, the roll of film was found to contain an image of a \"Truman-Forestall memo\", a \"Top Secret\" memorandum from President Truman to Defense Secretary James Forrestal, dated September 24, 1947, authorizing him and Dr. Vannevar Bush to proceed with Operation Majestic-12"
+  },
+  {
+   "s": "tfmemo",
+   "p": "classification_marking",
+   "v": "Top Secret",
+   "quote": "When developed, the roll of film was found to contain an image of a \"Truman-Forestall memo\", a \"Top Secret\" memorandum from President Truman to Defense Secretary James Forrestal, dated September 24, 1947, authorizing him and Dr. Vannevar Bush to proceed with Operation Majestic-12"
+  },
+  {
+   "s": "tfmemo",
+   "p": "signature",
+   "v": "Truman signature identical to one from an October 1, 1947 letter to Vannevar Bush",
+   "quote": "For example, a signature from President Harry Truman is identical to one from an October 1, 1947 letter to Vannevar Bush."
+  },
+  {
+   "s": "tfmemo",
+   "p": "part_of",
+   "o": "docs",
+   "quote": "When developed, the roll of film was found to contain an image of a \"Truman-Forestall memo\", a \"Top Secret\" memorandum from President Truman to Defense Secretary James Forrestal, dated September 24, 1947, authorizing him and Dr. Vannevar Bush to proceed with Operation Majestic-12"
+  },
+  {
+   "s": "ebd",
+   "p": "key_document",
+   "o": "case",
+   "quote": "the Eisenhower Briefing Document, a seven page \"Top Secret/Eyes Only\" Majestic-12 document used to brief President-Elect Eisenhower, dated November 18, 1952"
+  },
+  {
+   "s": "ebd",
+   "p": "date",
+   "v": "1952-11-18",
+   "quote": "the Eisenhower Briefing Document, a seven page \"Top Secret/Eyes Only\" Majestic-12 document used to brief President-Elect Eisenhower, dated November 18, 1952"
+  },
+  {
+   "s": "ebd",
+   "p": "length",
+   "v": "seven page",
+   "quote": "the Eisenhower Briefing Document, a seven page \"Top Secret/Eyes Only\" Majestic-12 document used to brief President-Elect Eisenhower, dated November 18, 1952"
+  },
+  {
+   "s": "ebd",
+   "p": "classification_marking",
+   "v": "Top Secret/Eyes Only",
+   "quote": "the Eisenhower Briefing Document, a seven page \"Top Secret/Eyes Only\" Majestic-12 document used to brief President-Elect Eisenhower, dated November 18, 1952"
+  },
+  {
+   "s": "ebd",
+   "p": "content",
+   "v": "mentioned a second crash in 1950 in addition to the Roswell incident",
+   "quote": "In addition to the Roswell incident, the \"Eisenhower Briefing Document\" also mentioned a second crash in 1950."
+  },
+  {
+   "s": "ebd",
+   "p": "content",
+   "v": "listed \"designated members\" of Majestic 12",
+   "quote": "The following individuals were described in the Eisenhower Briefing Document as \"designated members\" of Majestic 12."
+  },
+  {
+   "s": "ebd",
+   "p": "part_of",
+   "o": "docs",
+   "quote": "the Eisenhower Briefing Document, a seven page \"Top Secret/Eyes Only\" Majestic-12 document used to brief President-Elect Eisenhower, dated November 18, 1952"
+  },
+  {
+   "s": "ebd",
+   "p": "key_document",
+   "o": "guerrero",
+   "quote": "In addition to the Roswell incident, the \"Eisenhower Briefing Document\" also mentioned a second crash in 1950."
+  },
+  {
+   "s": "ebd",
+   "p": "key_document",
+   "o": "roswell",
+   "quote": "In addition to the Roswell incident, the \"Eisenhower Briefing Document\" also mentioned a second crash in 1950."
+  },
+  {
+   "s": "ctmemo",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Purporting to be written by President Eisenhower's assistant Robert Cutler to General Nathan F. Twining and containing a reference to Majestic 12, the memo is widely held to be a forgery, likely planted as part of a hoax."
+  },
+  {
+   "s": "ctmemo",
+   "p": "date",
+   "v": "1954-07-14",
+   "quote": "The National Archives noted they receive many inquiries about a supposed \"memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954."
+  },
+  {
+   "s": "ctmemo",
+   "p": "found",
+   "v": "1985, in declassified files in the National Archives",
+   "quote": "Shandera and his ufologist colleagues Stanton T. Friedman and Bill Moore say they later received a series of anonymous messages that led them to find what has been called the \"Cutler/Twining memo\" in 1985 while searching declassified files in the National Archives."
+  },
+  {
+   "s": "ctmemo",
+   "p": "assessment",
+   "v": "widely held to be a forgery, likely planted as part of a hoax",
+   "quote": "Purporting to be written by President Eisenhower's assistant Robert Cutler to General Nathan F. Twining and containing a reference to Majestic 12, the memo is widely held to be a forgery, likely planted as part of a hoax."
+  },
+  {
+   "s": "ctmemo",
+   "p": "classification_marking",
+   "v": "\"Top Secret Restricted Information\", not in use until the Nixon administration",
+   "quote": "Its \"Top Secret Restricted Information\" marking was not in use until the Nixon administration, long after the document's supposed date of authorship."
+  },
+  {
+   "s": "ctmemo",
+   "p": "paper",
+   "v": "dictation onionskin",
+   "quote": "The document was made of \"dictation onionskin\", while authentic documents are on paper often accompanied by watermark."
+  },
+  {
+   "s": "ctmemo",
+   "p": "provenance_problem",
+   "v": "found amongst unrelated documents",
+   "quote": "It was found amongst unrelated documents."
+  },
+  {
+   "s": "ctmemo",
+   "p": "part_of",
+   "o": "docs",
+   "quote": "a 1984 roll of film sent to Jaime Shandera, a 1985, a memo planted in the National Archives found after an anonymous tip, a 1994 roll of film sent to Don Berliner, and over 100 documents given to Tim Cooper"
+  },
+  {
+   "s": "som",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In 1994, a document called the MJ-12 \"Special Operations Manual\" was anonymously provided to Don Berliner. It is also widely considered to be a fake and \"a continuation of the MJ-12 myth\"."
+  },
+  {
+   "s": "som",
+   "p": "date_provided",
+   "v": "1994",
+   "quote": "In 1994, a document called the MJ-12 \"Special Operations Manual\" was anonymously provided to Don Berliner. It is also widely considered to be a fake and \"a continuation of the MJ-12 myth\"."
+  },
+  {
+   "s": "som",
+   "p": "assessment",
+   "v": "widely considered to be a fake and \"a continuation of the MJ-12 myth\"",
+   "quote": "In 1994, a document called the MJ-12 \"Special Operations Manual\" was anonymously provided to Don Berliner. It is also widely considered to be a fake and \"a continuation of the MJ-12 myth\"."
+  },
+  {
+   "s": "som",
+   "p": "part_of",
+   "o": "docs",
+   "quote": "a 1984 roll of film sent to Jaime Shandera, a 1985, a memo planted in the National Archives found after an anonymous tip, a 1994 roll of film sent to Don Berliner, and over 100 documents given to Tim Cooper"
+  },
+  {
+   "s": "monroedoc",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Later, a Cooper-provided MJ12-stamped document purported to link Marilyn Monroe's death to her supposed knowledge of UFOs. The CIA concluded the document was fraudent."
+  },
+  {
+   "s": "monroedoc",
+   "p": "assessment",
+   "v": "CIA concluded the document was fraudulent",
+   "quote": "Later, a Cooper-provided MJ12-stamped document purported to link Marilyn Monroe's death to her supposed knowledge of UFOs. The CIA concluded the document was fraudent."
+  },
+  {
+   "s": "hillmemo",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Friedman noted that  one supposed memo from Admiral Roscoe Hillenkoetter to President Truman, dated February 17, 1948, was actually the emulation of a letter from Marshall to Roosevelt."
+  },
+  {
+   "s": "hillmemo",
+   "p": "date",
+   "v": "1948-02-17",
+   "quote": "Friedman noted that  one supposed memo from Admiral Roscoe Hillenkoetter to President Truman, dated February 17, 1948, was actually the emulation of a letter from Marshall to Roosevelt."
+  },
+  {
+   "s": "hillmemo",
+   "p": "assessment",
+   "v": "emulation of a letter from Marshall to Roosevelt",
+   "quote": "Friedman noted that  one supposed memo from Admiral Roscoe Hillenkoetter to President Truman, dated February 17, 1948, was actually the emulation of a letter from Marshall to Roosevelt."
+  },
+  {
+   "s": "marshall_letter",
+   "p": "key_document",
+   "o": "case",
+   "quote": "had cribbed much of Gen. George Marshall’s 1944 letter\nto Thomas Dewey disclosing the Pearl Harbor \"Magic\" intercepts, with names and dates changed and \"magic\" becoming \"majic\""
+  },
+  {
+   "s": "marshall_letter",
+   "p": "date",
+   "v": "1944",
+   "quote": "had cribbed much of Gen. George Marshall’s 1944 letter\nto Thomas Dewey disclosing the Pearl Harbor \"Magic\" intercepts, with names and dates changed and \"magic\" becoming \"majic\""
+  },
+  {
+   "s": "marshall_letter",
+   "p": "content",
+   "v": "disclosed the Pearl Harbor \"Magic\" intercepts",
+   "quote": "had cribbed much of Gen. George Marshall’s 1944 letter\nto Thomas Dewey disclosing the Pearl Harbor \"Magic\" intercepts, with names and dates changed and \"magic\" becoming \"majic\""
+  },
+  {
+   "s": "marshall_fdr",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Friedman noted that  one supposed memo from Admiral Roscoe Hillenkoetter to President Truman, dated February 17, 1948, was actually the emulation of a letter from Marshall to Roosevelt."
+  },
+  {
+   "s": "truman_letter",
+   "p": "key_document",
+   "o": "case",
+   "quote": "For example, a signature from President Harry Truman is identical to one from an October 1, 1947 letter to Vannevar Bush."
+  },
+  {
+   "s": "truman_letter",
+   "p": "date",
+   "v": "1947-10-01",
+   "quote": "For example, a signature from President Harry Truman is identical to one from an October 1, 1947 letter to Vannevar Bush."
+  },
+  {
+   "s": "fbifile",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In 2017,  MuckRock contributor Emma Best similarly suggested that the papers were \"government sponsored, or at least tolerated, disinformation\" because the declassified FBI file on Majestic 12 does not mention any further investigation to find or prosecute the forger responsible for it."
+  },
+  {
+   "s": "fbifile",
+   "p": "content",
+   "v": "does not mention any further investigation to find or prosecute the forger",
+   "quote": "In 2017,  MuckRock contributor Emma Best similarly suggested that the papers were \"government sponsored, or at least tolerated, disinformation\" because the declassified FBI file on Majestic 12 does not mention any further investigation to find or prosecute the forger responsible for it."
+  },
+  {
+   "s": "learstmt",
+   "p": "key_document",
+   "o": "case",
+   "quote": "On December 29, 1987, supposed government UFO insider John Lear posted a statement to ParaNet, an early bulletin board system dedicated to the paranormal, claiming knowledge of MJ-12."
+  },
+  {
+   "s": "learstmt",
+   "p": "date",
+   "v": "1987-12-29",
+   "quote": "On December 29, 1987, supposed government UFO insider John Lear posted a statement to ParaNet, an early bulletin board system dedicated to the paranormal, claiming knowledge of MJ-12."
+  },
+  {
+   "s": "prattsens",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Moore, Bill; Pratt, Bob (2007) [9 July 1982]. \"Pratt Sensitive\" (PDF) (Transcript of tape-recorded conversation)."
+  },
+  {
+   "s": "prattsens",
+   "p": "date",
+   "v": "1982-07-09",
+   "quote": "Moore, Bill; Pratt, Bob (2007) [9 July 1982]. \"Pratt Sensitive\" (PDF) (Transcript of tape-recorded conversation)."
+  },
+  {
+   "s": "w_roswell",
+   "p": "depicted_in",
+   "o": "roswell",
+   "quote": "After the publication of Moore's book The Roswell Incident, Richard C. Doty and other individuals presenting themselves as Air Force Intelligence Officers approached Moore."
+  },
+  {
+   "s": "w_aquarius",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 1982, Bob Pratt worked with Doty and Moore on The Aquarius Project, an unpublished science fiction manuscript about the purported organization."
+  },
+  {
+   "s": "w_aquarius",
+   "p": "description",
+   "v": "unpublished science fiction manuscript about the purported organization",
+   "quote": "In 1982, Bob Pratt worked with Doty and Moore on The Aquarius Project, an unpublished science fiction manuscript about the purported organization."
+  },
+  {
+   "s": "w_aquarius",
+   "p": "original_title",
+   "v": "MAJIK-12",
+   "quote": "The name \"Majestic 12\" had been prefigured in the UFO community when Bill Moore asked National Enquirer reporter Bob Pratt in 1982 to collaborate on a novel initially called MAJIK-12 and eventually changed by Moore to The Aquarius Project."
+  },
+  {
+   "s": "w_aquarius",
+   "p": "year",
+   "v": "1982",
+   "quote": "In 1982, Bob Pratt worked with Doty and Moore on The Aquarius Project, an unpublished science fiction manuscript about the purported organization."
+  },
+  {
+   "s": "w_kpix",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "That same year, Moore, Friedman, and Jaime Shandera began work on a KPIX-TV UFO documentary, and Moore shared the original \"MJ Twelve\" memo mentioning Bennewitz."
+  },
+  {
+   "s": "kpix",
+   "p": "published",
+   "o": "w_kpix",
+   "quote": "That same year, Moore, Friedman, and Jaime Shandera began work on a KPIX-TV UFO documentary, and Moore shared the original \"MJ Twelve\" memo mentioning Bennewitz."
+  },
+  {
+   "s": "w_ats",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In his 1987 book Above Top Secret: The Worldwide U.F.O. Cover-up, Good was involved in the initial publication of the purported Majestic 12 documents; later, according to skeptic Phil Klass, Good questioned the authenticity of at least some of the documents."
+  },
+  {
+   "s": "w_ats",
+   "p": "year",
+   "v": "1987",
+   "quote": "In his 1987 book Above Top Secret: The Worldwide U.F.O. Cover-up, Good was involved in the initial publication of the purported Majestic 12 documents; later, according to skeptic Phil Klass, Good questioned the authenticity of at least some of the documents."
+  },
+  {
+   "s": "w_ats",
+   "p": "cia_assessment",
+   "v": "cited as one of the sources contributing to \"the idea that CIA has secretly concealed its research into UFOs\"",
+   "quote": "In 2007, the CIA cited Above Top Secret as one of the sources contributing to \"the idea that CIA has secretly concealed its research into UFOs\"."
+  },
+  {
+   "s": "w_nightline",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "On June 24, 1987, Friedman appeared on the ABC network news program Nightline opposite Klass, where he discussed the MJ-12 with anchor Ted Koppel."
+  },
+  {
+   "s": "w_nightline",
+   "p": "broadcast_date",
+   "v": "1987-06-24",
+   "quote": "On June 24, 1987, Friedman appeared on the ABC network news program Nightline opposite Klass, where he discussed the MJ-12 with anchor Ted Koppel."
+  },
+  {
+   "s": "abc",
+   "p": "published",
+   "o": "w_nightline",
+   "quote": "On June 24, 1987, Friedman appeared on the ABC network news program Nightline opposite Klass, where he discussed the MJ-12 with anchor Ted Koppel."
+  },
+  {
+   "s": "w_live",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "On October 14, 1988, Doty pseudonymously appeared on the syndicated television broadcast UFO Coverup? Live, which introduced many Americans to the Majestic 12 hoax."
+  },
+  {
+   "s": "w_live",
+   "p": "broadcast_date",
+   "v": "1988-10-14",
+   "quote": "On October 14, 1988, Doty pseudonymously appeared on the syndicated television broadcast UFO Coverup? Live, which introduced many Americans to the Majestic 12 hoax."
+  },
+  {
+   "s": "w_live",
+   "p": "detail",
+   "v": "Doty claimed a captured grey alien was fond of strawberry ice cream",
+   "quote": "The subject was met with laughter mid-broadcast when Doty claimed a captured grey alien was fond of strawberry ice cream."
+  },
+  {
+   "s": "w_majestic",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 1989, horror novelist-turned-\"alien abductee\" Whitley Strieber authored the book Majestic inspired by the MJ-12 lore."
+  },
+  {
+   "s": "w_majestic",
+   "p": "year",
+   "v": "1989",
+   "quote": "In 1989, horror novelist-turned-\"alien abductee\" Whitley Strieber authored the book Majestic inspired by the MJ-12 lore."
+  },
+  {
+   "s": "w_mirage_book",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In the 2010 book Mirage Men and the 2013 documentary of the same name, Richard Doty admitted to being part of an organized effort to deceive UFOs researchers including Paul Bennewitz and Linda Moulton Howe."
+  },
+  {
+   "s": "w_mirage_book",
+   "p": "year",
+   "v": "2010",
+   "quote": "In the 2010 book Mirage Men and the 2013 documentary of the same name, Richard Doty admitted to being part of an organized effort to deceive UFOs researchers including Paul Bennewitz and Linda Moulton Howe."
+  },
+  {
+   "s": "w_mirage_doc",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In the 2010 book Mirage Men and the 2013 documentary of the same name, Richard Doty admitted to being part of an organized effort to deceive UFOs researchers including Paul Bennewitz and Linda Moulton Howe."
+  },
+  {
+   "s": "w_mirage_doc",
+   "p": "year",
+   "v": "2013",
+   "quote": "In the 2010 book Mirage Men and the 2013 documentary of the same name, Richard Doty admitted to being part of an organized effort to deceive UFOs researchers including Paul Bennewitz and Linda Moulton Howe."
+  },
+  {
+   "s": "w_amagic",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Both  letters had previously been printed in the 1983 book The American Magic: Codes, Ciphers and the Defeat of Japan."
+  },
+  {
+   "s": "w_amagic",
+   "p": "year",
+   "v": "1983",
+   "quote": "Both  letters had previously been printed in the 1983 book The American Magic: Codes, Ciphers and the Defeat of Japan."
+  },
+  {
+   "s": "w_skeptoid",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Scientific skeptic author Brian Dunning investigated the history of the subject, and reported his findings in the 2016 Skeptoid podcast episode \"The Secret History of Majestic 12\"."
+  },
+  {
+   "s": "w_skeptoid",
+   "p": "year",
+   "v": "2016",
+   "quote": "Scientific skeptic author Brian Dunning investigated the history of the subject, and reported his findings in the 2016 Skeptoid podcast episode \"The Secret History of Majestic 12\"."
+  },
+  {
+   "s": "w_tsm",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Stanton T. Friedman, TOP SECRET/MAJIC, 1997, Marlowe & Co., ISBN 1-56924-741-2"
+  },
+  {
+   "s": "w_tsm",
+   "p": "year",
+   "v": "1997",
+   "quote": "Stanton T. Friedman, TOP SECRET/MAJIC, 1997, Marlowe & Co., ISBN 1-56924-741-2"
+  },
+  {
+   "s": "w_k1",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Philip J. Klass, The MJ-12 Crashed Saucer Documents, Skeptical Inquirer, vol XII, #2, Winter 1987–88, 137–46. Reprinted (sans figures) as chapter 7 of The UFO Invasion."
+  },
+  {
+   "s": "w_k2",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Philip J. Klass, The MJ-12 Papers – part 2, Skeptical Inquirer, vol XII, #3, Spring 1988, 279–89."
+  },
+  {
+   "s": "w_k3",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Philip J. Klass, MJ-12 Papers \"Authenticated\"?, Skeptical Inquirer, vol 13, #3, Spring 1989, 305–09. Reprinted as chapter 8 of The UFO Invasion."
+  },
+  {
+   "s": "w_k4",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Philip J. Klass, New Evidence of MJ-12 Hoax, Skeptical Inquirer, vol 14, #2, Winter 1990, 135–40. Reprinted as chapter 9 of The UFO Invasion."
+  },
+  {
+   "s": "w_inv",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Philip J. Klass, The MJ-12 Crashed Saucer Documents, Skeptical Inquirer, vol XII, #2, Winter 1987–88, 137–46. Reprinted (sans figures) as chapter 7 of The UFO Invasion."
+  },
+  {
+   "s": "w_outer",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Also reprinted in The Outer Edge: *Classic Investigations of the Paranormal, edited by Joe Nickell, Barry Karr, and Tom Genoni, CSICOP, 1996."
+  },
+  {
+   "s": "w_csf",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Joe Nickell and John F. Fischer, The Crashed Saucer Forgeries, International UFO Reporter, March 1990, 4–12."
+  },
+  {
+   "s": "w_wts",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Peebles, Curtis (1994). Watch the Skies!: A Chronicle of the Flying Saucer Myth."
+  },
+  {
+   "s": "w_dhw",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Carl Sagan, The Demon-Haunted World: Science as a Candle in the Dark, 1995, Random House, ISBN 0-394-53512-X, p. 90."
+  },
+  {
+   "s": "w_pflock",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Pflock, Karl (2001). Roswell: Inconvenient Facts and the Will to Believe."
+  },
+  {
+   "s": "w_pflock",
+   "p": "depicted_in",
+   "o": "roswell",
+   "quote": "Pflock, Karl (2001). Roswell: Inconvenient Facts and the Will to Believe."
+  },
+  {
+   "s": "w_olm",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Kathryn S. Olmsted, Real Enemies: Conspiracy Theories and American Democracy, World War I to 9/11."
+  },
+  {
+   "s": "si",
+   "p": "published",
+   "o": "w_k1",
+   "quote": "Philip J. Klass, The MJ-12 Crashed Saucer Documents, Skeptical Inquirer, vol XII, #2, Winter 1987–88, 137–46. Reprinted (sans figures) as chapter 7 of The UFO Invasion."
+  },
+  {
+   "s": "si",
+   "p": "published",
+   "o": "w_k2",
+   "quote": "Philip J. Klass, The MJ-12 Papers – part 2, Skeptical Inquirer, vol XII, #3, Spring 1988, 279–89."
+  },
+  {
+   "s": "si",
+   "p": "published",
+   "o": "w_k3",
+   "quote": "Philip J. Klass, MJ-12 Papers \"Authenticated\"?, Skeptical Inquirer, vol 13, #3, Spring 1989, 305–09. Reprinted as chapter 8 of The UFO Invasion."
+  },
+  {
+   "s": "si",
+   "p": "published",
+   "o": "w_k4",
+   "quote": "Philip J. Klass, New Evidence of MJ-12 Hoax, Skeptical Inquirer, vol 14, #2, Winter 1990, 135–40. Reprinted as chapter 9 of The UFO Invasion."
+  },
+  {
+   "s": "iur",
+   "p": "published",
+   "o": "w_csf",
+   "quote": "Joe Nickell and John F. Fischer, The Crashed Saucer Forgeries, International UFO Reporter, March 1990, 4–12."
+  },
+  {
+   "s": "csicop",
+   "p": "published",
+   "o": "w_outer",
+   "quote": "Also reprinted in The Outer Edge: *Classic Investigations of the Paranormal, edited by Joe Nickell, Barry Karr, and Tom Genoni, CSICOP, 1996."
+  },
+  {
+   "s": "truman",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "an alleged secret committee of scientists, military leaders, and government officials, formed in 1947 by an executive order by U.S. President Harry S. Truman to facilitate recovery and investigation of alien spacecraft"
+  },
+  {
+   "s": "truman",
+   "p": "title",
+   "v": "U.S. President",
+   "quote": "an alleged secret committee of scientists, military leaders, and government officials, formed in 1947 by an executive order by U.S. President Harry S. Truman to facilitate recovery and investigation of alien spacecraft"
+  },
+  {
+   "s": "truman",
+   "p": "purported_action",
+   "v": "formed the committee in 1947 by executive order",
+   "quote": "an alleged secret committee of scientists, military leaders, and government officials, formed in 1947 by an executive order by U.S. President Harry S. Truman to facilitate recovery and investigation of alien spacecraft"
+  },
+  {
+   "s": "truman",
+   "p": "authored",
+   "o": "truman_letter",
+   "quote": "Klass noted that the Truman signature was \"a pasted-on photocopy of a genuine signature—including accidental scratch marks—from a memo that Truman wrote to Vannevar Bush on October 1, 1947\"."
+  },
+  {
+   "s": "moore",
+   "p": "proponent",
+   "o": "case",
+   "quote": "Majestic 12 was the purported organization behind faked government documents delivered anonymously to multiple ufologists in the 1980s. All individuals who received the fake documents were connected to Bill Moore."
+  },
+  {
+   "s": "moore",
+   "p": "authored",
+   "o": "w_roswell",
+   "quote": "After the publication of Moore's book The Roswell Incident, Richard C. Doty and other individuals presenting themselves as Air Force Intelligence Officers approached Moore."
+  },
+  {
+   "s": "moore",
+   "p": "authored",
+   "o": "w_aquarius",
+   "quote": "The name \"Majestic 12\" had been prefigured in the UFO community when Bill Moore asked National Enquirer reporter Bob Pratt in 1982 to collaborate on a novel initially called MAJIK-12 and eventually changed by Moore to The Aquarius Project."
+  },
+  {
+   "s": "moore",
+   "p": "authored",
+   "o": "memo81",
+   "quote": "KPIX-TV contacted the Air Force, which noted many style and formatting errors; Moore admitted that he had typed and stamped the document as a facsimile."
+  },
+  {
+   "s": "moore",
+   "p": "authored",
+   "o": "prattsens",
+   "quote": "Moore, Bill; Pratt, Bob (2007) [9 July 1982]. \"Pratt Sensitive\" (PDF) (Transcript of tape-recorded conversation)."
+  },
+  {
+   "s": "moore",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "He cited ufologist Bill Moore's suspicion that, rather than a hoax perpetrated by the UFO community, the papers were actually part of a disinformation campaign of the US government meant to deflect attention from secret Air Force projects."
+  },
+  {
+   "s": "moore",
+   "p": "activity",
+   "v": "kept notes on other ufologists and intentionally spread misinformation within the UFO community",
+   "quote": "They used the unfulfilled promise of hard evidence of extraterrestrial retrievals to recruit Moore, who kept notes on other ufologists and intentionally spread misinformation within the UFO community."
+  },
+  {
+   "s": "moore",
+   "p": "statement",
+   "v": "goal was to \"get as much of the story out with as little fiction as possible\"",
+   "quote": "During a phone call about the manuscript, Moore explained to Pratt that his goal was to \"get as much of the story out with as little fiction as possible.\""
+  },
+  {
+   "s": "moore",
+   "p": "statement",
+   "v": "had initially planned to do a nonfiction book but lacked evidence",
+   "quote": "Moore had initially planned to do a nonfiction book but lacked evidence."
+  },
+  {
+   "s": "moore",
+   "p": "admission",
+   "v": "admitted that he had typed and stamped the \"MJ Twelve\" memo as a facsimile",
+   "quote": "KPIX-TV contacted the Air Force, which noted many style and formatting errors; Moore admitted that he had typed and stamped the document as a facsimile."
+  },
+  {
+   "s": "moore",
+   "p": "confession",
+   "v": "at a 1989 Mutual UFO Network conference confessed he had intentionally fed fake evidence of extraterrestrials to UFO researchers, including Bennewitz",
+   "quote": "At a 1989 Mutual UFO Network conference, Moore confessed that he had intentionally fed fake evidence of extraterrestrials to UFO researchers, including Bennewitz."
+  },
+  {
+   "s": "moore",
+   "p": "accusation",
+   "v": "accused of taking part in an elaborate hoax",
+   "quote": "Moore was accused of taking part in an elaborate hoax, while other ufologists and debunkers such as Philip J. Klass were accused of being \"disinformation agents\""
+  },
+  {
+   "s": "moore",
+   "p": "statement",
+   "v": "confided he was contemplating creating and releasing some hoax Top Secret documents",
+   "quote": "a conversation reported by Brad Sparks in which Moore confided that he was contemplating creating and releasing some hoax Top Secret documents"
+  },
+  {
+   "s": "moore",
+   "p": "later_claim",
+   "v": "suspected the papers were part of a US government disinformation campaign to deflect attention from secret Air Force projects",
+   "quote": "He cited ufologist Bill Moore's suspicion that, rather than a hoax perpetrated by the UFO community, the papers were actually part of a disinformation campaign of the US government meant to deflect attention from secret Air Force projects."
+  },
+  {
+   "s": "moore",
+   "p": "reaction",
+   "v": "Roswell conspiracy proponents turned on Moore",
+   "quote": "Roswell conspiracy proponents turned on Moore, but not the broader conspiracy theory."
+  },
+  {
+   "s": "moore",
+   "p": "other_involved",
+   "o": "bennewitz_affair",
+   "quote": "At a 1989 Mutual UFO Network conference, Moore confessed that he had intentionally fed fake evidence of extraterrestrials to UFO researchers, including Bennewitz."
+  },
+  {
+   "s": "moore",
+   "p": "commentator",
+   "o": "roswell",
+   "quote": "After the publication of Moore's book The Roswell Incident, Richard C. Doty and other individuals presenting themselves as Air Force Intelligence Officers approached Moore."
+  },
+  {
+   "s": "doty",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "After the publication of Moore's book The Roswell Incident, Richard C. Doty and other individuals presenting themselves as Air Force Intelligence Officers approached Moore."
+  },
+  {
+   "s": "doty",
+   "p": "employed_by",
+   "o": "usaf",
+   "quote": "Bennewitz was contacted by Air Force officials including Richard C. Doty.  Collectively, they mislead Bennewitz."
+  },
+  {
+   "s": "doty",
+   "p": "stationed_at",
+   "o": "kirtland",
+   "quote": "Doty later said that he gave fabricated information to UFO researchers while working at Kirtland Air Force Base in the 1980s."
+  },
+  {
+   "s": "doty",
+   "p": "official_involved",
+   "o": "bennewitz_affair",
+   "quote": "Bennewitz was contacted by Air Force officials including Richard C. Doty.  Collectively, they mislead Bennewitz."
+  },
+  {
+   "s": "doty",
+   "p": "presented_as",
+   "v": "Air Force Intelligence Officer",
+   "quote": "After the publication of Moore's book The Roswell Incident, Richard C. Doty and other individuals presenting themselves as Air Force Intelligence Officers approached Moore."
+  },
+  {
+   "s": "doty",
+   "p": "statement",
+   "v": "told Gersten of a top-level government group called \"MJ-12\" studying UFOs and retrieving alien craft that U.S. radar caused to crash",
+   "quote": "Doty told Gersten of a top-level government called \"MJ-12\" he claimed has been studying UFOs and retrieving alien craft that U. S. radar caused to crash."
+  },
+  {
+   "s": "doty",
+   "p": "statement",
+   "v": "entities, alive and dead, have been retrieved at alien craft crash sites",
+   "quote": "Doty claimed entities, alive and dead, have been retrieved at alien craft crash sites."
+  },
+  {
+   "s": "doty",
+   "p": "statement",
+   "v": "government and ETs made an agreement allowing animal mutilations and human abductions in exchange for alien advanced technologies",
+   "quote": "According to Doty, the government and ETs have made an agreement whereby the aliens could conduct animal mutilations and human abductions in exchange for teaching U.S. experts about alien advanced technologies."
+  },
+  {
+   "s": "doty",
+   "p": "statement",
+   "v": "told Howe the MJ-12 story was true and showed documents purporting to prove small, gray humanoid aliens from Zeta Reticuli",
+   "quote": "Doty told Howe  that the MJ-12 story was true, and showed Howe unspecified documents purporting to prove the existence of small, gray humanoid aliens originating from the Zeta Reticuli star system."
+  },
+  {
+   "s": "doty",
+   "p": "promise",
+   "v": "promised Howe film footage of UFOs and an interview with an alien being; no footage ever materialized",
+   "quote": "Doty reportedly promised to supply Howe with film footage of UFOs and an interview with an alien being, although no footage ever materialized."
+  },
+  {
+   "s": "doty",
+   "p": "statement",
+   "v": "a captured grey alien was fond of strawberry ice cream",
+   "quote": "The subject was met with laughter mid-broadcast when Doty claimed a captured grey alien was fond of strawberry ice cream."
+  },
+  {
+   "s": "doty",
+   "p": "later_claim",
+   "v": "gave fabricated information to UFO researchers while working at Kirtland Air Force Base in the 1980s",
+   "quote": "Doty later said that he gave fabricated information to UFO researchers while working at Kirtland Air Force Base in the 1980s."
+  },
+  {
+   "s": "doty",
+   "p": "admission",
+   "v": "admitted to being part of an organized effort to deceive UFO researchers including Paul Bennewitz and Linda Moulton Howe",
+   "quote": "In the 2010 book Mirage Men and the 2013 documentary of the same name, Richard Doty admitted to being part of an organized effort to deceive UFOs researchers including Paul Bennewitz and Linda Moulton Howe."
+  },
+  {
+   "s": "doty",
+   "p": "appearance",
+   "v": "appeared pseudonymously on UFO Coverup? Live, October 14, 1988",
+   "quote": "On October 14, 1988, Doty pseudonymously appeared on the syndicated television broadcast UFO Coverup? Live, which introduced many Americans to the Majestic 12 hoax."
+  },
+  {
+   "s": "doty",
+   "p": "colleague_of",
+   "o": "moore",
+   "quote": "In 1982, Bob Pratt worked with Doty and Moore on The Aquarius Project, an unpublished science fiction manuscript about the purported organization."
+  },
+  {
+   "s": "bennewitz",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "The earliest known reference to \"MJ Twelve\" comes from a 1981 document used in disinformation targeting Paul Bennewitz."
+  },
+  {
+   "s": "bennewitz",
+   "p": "witness",
+   "o": "bennewitz_affair",
+   "quote": "Bennewitz was contacted by Air Force officials including Richard C. Doty.  Collectively, they mislead Bennewitz."
+  },
+  {
+   "s": "bennewitz",
+   "p": "occupation",
+   "v": "entrepreneur-government contractor turned UFO researcher",
+   "quote": "Bennewitz was a enterpreneur-government contractor turned UFO researcher who came to believe craft from US airbases were linked to unexplained livestock deaths, or \"cattle mutilations\"."
+  },
+  {
+   "s": "bennewitz",
+   "p": "belief",
+   "v": "craft from US airbases were linked to unexplained livestock deaths, or \"cattle mutilations\"",
+   "quote": "Bennewitz was a enterpreneur-government contractor turned UFO researcher who came to believe craft from US airbases were linked to unexplained livestock deaths, or \"cattle mutilations\"."
+  },
+  {
+   "s": "bennewitz",
+   "p": "outcome",
+   "v": "by 1988 was accusing his wife of being in control of the extraterrestrials and required psychiatric hospitalization",
+   "quote": "By 1988, Bennewitz was accusing his wife of being in control of the extraterrestrials and he  required psychiatric hospitalization."
+  },
+  {
+   "s": "pratt",
+   "p": "journalist",
+   "o": "case",
+   "quote": "The name \"Majestic 12\" had been prefigured in the UFO community when Bill Moore asked National Enquirer reporter Bob Pratt in 1982 to collaborate on a novel initially called MAJIK-12 and eventually changed by Moore to The Aquarius Project."
+  },
+  {
+   "s": "pratt",
+   "p": "employed_by",
+   "o": "enquirer",
+   "quote": "The name \"Majestic 12\" had been prefigured in the UFO community when Bill Moore asked National Enquirer reporter Bob Pratt in 1982 to collaborate on a novel initially called MAJIK-12 and eventually changed by Moore to The Aquarius Project."
+  },
+  {
+   "s": "pratt",
+   "p": "authored",
+   "o": "w_aquarius",
+   "quote": "In 1982, Bob Pratt worked with Doty and Moore on The Aquarius Project, an unpublished science fiction manuscript about the purported organization."
+  },
+  {
+   "s": "pratt",
+   "p": "authored",
+   "o": "prattsens",
+   "quote": "Moore, Bill; Pratt, Bob (2007) [9 July 1982]. \"Pratt Sensitive\" (PDF) (Transcript of tape-recorded conversation)."
+  },
+  {
+   "s": "pratt",
+   "p": "occupation",
+   "v": "National Enquirer reporter",
+   "quote": "The name \"Majestic 12\" had been prefigured in the UFO community when Bill Moore asked National Enquirer reporter Bob Pratt in 1982 to collaborate on a novel initially called MAJIK-12 and eventually changed by Moore to The Aquarius Project."
+  },
+  {
+   "s": "pratt",
+   "p": "opinion",
+   "v": "suspicious of the authenticity of the Majestic 12 documents",
+   "quote": "Because of this, Pratt was suspicious of the authenticity of the Majestic 12 documents."
+  },
+  {
+   "s": "pratt",
+   "p": "colleague_of",
+   "o": "moore",
+   "quote": "In 1982, Bob Pratt worked with Doty and Moore on The Aquarius Project, an unpublished science fiction manuscript about the purported organization."
+  },
+  {
+   "s": "friedman",
+   "p": "proponent",
+   "o": "case",
+   "quote": "Ufologists Linda Moulton Howe and Stanton T. Friedman believed the MJ-12 documents to be authentic, though Friedman was the first to provide evidence that some of the documents are clearly hoaxes."
+  },
+  {
+   "s": "friedman",
+   "p": "colleague_of",
+   "o": "moore",
+   "quote": "Shandera and his ufologist colleagues Stanton T. Friedman and Bill Moore say they later received a series of anonymous messages that led them to find what has been called the \"Cutler/Twining memo\" in 1985 while searching declassified files in the National Archives."
+  },
+  {
+   "s": "friedman",
+   "p": "authored",
+   "o": "w_tsm",
+   "quote": "Stanton T. Friedman, TOP SECRET/MAJIC, 1997, Marlowe & Co., ISBN 1-56924-741-2"
+  },
+  {
+   "s": "friedman",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Friedman examined the documents and argued that the United States government has conspired to cover up knowledge of a crashed extraterrestrial spacecraft."
+  },
+  {
+   "s": "friedman",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "Ufologists Linda Moulton Howe and Stanton T. Friedman believed the MJ-12 documents to be authentic, though Friedman was the first to provide evidence that some of the documents are clearly hoaxes."
+  },
+  {
+   "s": "friedman",
+   "p": "statement",
+   "v": "argued the United States government has conspired to cover up knowledge of a crashed extraterrestrial spacecraft",
+   "quote": "Friedman examined the documents and argued that the United States government has conspired to cover up knowledge of a crashed extraterrestrial spacecraft."
+  },
+  {
+   "s": "friedman",
+   "p": "finding",
+   "v": "first to provide evidence that some of the documents are clearly hoaxes",
+   "quote": "Ufologists Linda Moulton Howe and Stanton T. Friedman believed the MJ-12 documents to be authentic, though Friedman was the first to provide evidence that some of the documents are clearly hoaxes."
+  },
+  {
+   "s": "friedman",
+   "p": "finding",
+   "v": "Hillenkoetter memo to Truman dated February 17, 1948 was the emulation of a letter from Marshall to Roosevelt",
+   "quote": "Friedman noted that  one supposed memo from Admiral Roscoe Hillenkoetter to President Truman, dated February 17, 1948, was actually the emulation of a letter from Marshall to Roosevelt."
+  },
+  {
+   "s": "friedman",
+   "p": "later_claim",
+   "v": "in 2009 argued that the papers from Cooper were fictions",
+   "quote": "In 2009, Friedman argued that the papers from Cooper were fictions, and  Cooper himself reported losing all confidence in the papers he'd passed on."
+  },
+  {
+   "s": "friedman",
+   "p": "appearance",
+   "v": "appeared on Nightline opposite Klass on June 24, 1987",
+   "quote": "On June 24, 1987, Friedman appeared on the ABC network news program Nightline opposite Klass, where he discussed the MJ-12 with anchor Ted Koppel."
+  },
+  {
+   "s": "friedman",
+   "p": "disputed",
+   "o": "hillmemo",
+   "quote": "Friedman noted that  one supposed memo from Admiral Roscoe Hillenkoetter to President Truman, dated February 17, 1948, was actually the emulation of a letter from Marshall to Roosevelt."
+  },
+  {
+   "s": "shandera",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "On December 11, 1984, Shandera received an anonymous package containing an  undeveloped roll of film just after a phone call from Moore."
+  },
+  {
+   "s": "shandera",
+   "p": "colleague_of",
+   "o": "friedman",
+   "quote": "Shandera and his ufologist colleagues Stanton T. Friedman and Bill Moore say they later received a series of anonymous messages that led them to find what has been called the \"Cutler/Twining memo\" in 1985 while searching declassified files in the National Archives."
+  },
+  {
+   "s": "shandera",
+   "p": "colleague_of",
+   "o": "moore",
+   "quote": "Shandera and his ufologist colleagues Stanton T. Friedman and Bill Moore say they later received a series of anonymous messages that led them to find what has been called the \"Cutler/Twining memo\" in 1985 while searching declassified files in the National Archives."
+  },
+  {
+   "s": "shandera",
+   "p": "received",
+   "v": "anonymous package with an undeveloped roll of film on December 11, 1984, just after a phone call from Moore",
+   "quote": "On December 11, 1984, Shandera received an anonymous package containing an  undeveloped roll of film just after a phone call from Moore."
+  },
+  {
+   "s": "shandera",
+   "p": "package_detail",
+   "v": "undeveloped roll of 35 mm film in a brown paper package dropped through his mail slot",
+   "quote": "The documents were found on an undeveloped roll of 35 mm film in a brown paper package that had been dropped through Shandera's mail slot."
+  },
+  {
+   "s": "shandera",
+   "p": "package_detail",
+   "v": "New Mexico postmark",
+   "quote": "The package bore no additional information other than a New Mexico postmark."
+  },
+  {
+   "s": "gersten",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "On January 10-11, 1983,  Doty and Moore met with attorney and UFO researcher Peter Gersten."
+  },
+  {
+   "s": "gersten",
+   "p": "occupation",
+   "v": "attorney and UFO researcher",
+   "quote": "On January 10-11, 1983,  Doty and Moore met with attorney and UFO researcher Peter Gersten."
+  },
+  {
+   "s": "gersten",
+   "p": "meeting",
+   "v": "met with Doty and Moore on January 10-11, 1983",
+   "quote": "On January 10-11, 1983,  Doty and Moore met with attorney and UFO researcher Peter Gersten."
+  },
+  {
+   "s": "gersten",
+   "p": "action",
+   "v": "related Doty's claims to Linda Moulton Howe on March 20, 1983",
+   "quote": "On March 20, 1983, Gerstein related Doty's claims to cattle mutiliation documentarian Linda Moulton Howe. Howe arranged to visit Doty in Albuquerque on April 9."
+  },
+  {
+   "s": "howe",
+   "p": "proponent",
+   "o": "case",
+   "quote": "Ufologists Linda Moulton Howe and Stanton T. Friedman believed the MJ-12 documents to be authentic, though Friedman was the first to provide evidence that some of the documents are clearly hoaxes."
+  },
+  {
+   "s": "howe",
+   "p": "occupation",
+   "v": "cattle mutilation documentarian",
+   "quote": "On March 20, 1983, Gerstein related Doty's claims to cattle mutiliation documentarian Linda Moulton Howe. Howe arranged to visit Doty in Albuquerque on April 9."
+  },
+  {
+   "s": "howe",
+   "p": "meeting",
+   "v": "visited Doty in Albuquerque on April 9 [1983]",
+   "quote": "On March 20, 1983, Gerstein related Doty's claims to cattle mutiliation documentarian Linda Moulton Howe. Howe arranged to visit Doty in Albuquerque on April 9."
+  },
+  {
+   "s": "howe",
+   "p": "belief",
+   "v": "believed the MJ-12 documents to be authentic",
+   "quote": "Ufologists Linda Moulton Howe and Stanton T. Friedman believed the MJ-12 documents to be authentic, though Friedman was the first to provide evidence that some of the documents are clearly hoaxes."
+  },
+  {
+   "s": "doty",
+   "p": "interviewed",
+   "o": "howe",
+   "quote": "Doty told Howe  that the MJ-12 story was true, and showed Howe unspecified documents purporting to prove the existence of small, gray humanoid aliens originating from the Zeta Reticuli star system."
+  },
+  {
+   "s": "berliner",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "In 1994, a document called the MJ-12 \"Special Operations Manual\" was anonymously provided to Don Berliner. It is also widely considered to be a fake and \"a continuation of the MJ-12 myth\"."
+  },
+  {
+   "s": "berliner",
+   "p": "received",
+   "v": "1994 roll of film; MJ-12 \"Special Operations Manual\" anonymously provided",
+   "quote": "a 1984 roll of film sent to Jaime Shandera, a 1985, a memo planted in the National Archives found after an anonymous tip, a 1994 roll of film sent to Don Berliner, and over 100 documents given to Tim Cooper"
+  },
+  {
+   "s": "cooper",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "UFO researcher Timothy S. Cooper claimed that he began receiving MJ12 documents from sources starting in 1992."
+  },
+  {
+   "s": "cooper",
+   "p": "occupation",
+   "v": "UFO researcher",
+   "quote": "UFO researcher Timothy S. Cooper claimed that he began receiving MJ12 documents from sources starting in 1992."
+  },
+  {
+   "s": "cooper",
+   "p": "statement",
+   "v": "claimed he began receiving MJ12 documents from sources starting in 1992",
+   "quote": "UFO researcher Timothy S. Cooper claimed that he began receiving MJ12 documents from sources starting in 1992."
+  },
+  {
+   "s": "cooper",
+   "p": "received",
+   "v": "over 100 documents",
+   "quote": "a 1984 roll of film sent to Jaime Shandera, a 1985, a memo planted in the National Archives found after an anonymous tip, a 1994 roll of film sent to Don Berliner, and over 100 documents given to Tim Cooper"
+  },
+  {
+   "s": "cooper",
+   "p": "later_claim",
+   "v": "reported losing all confidence in the papers he'd passed on",
+   "quote": "In 2009, Friedman argued that the papers from Cooper were fictions, and  Cooper himself reported losing all confidence in the papers he'd passed on."
+  },
+  {
+   "s": "cooper",
+   "p": "suspicion",
+   "v": "Pflock suspected him of authoring bogus documents",
+   "quote": "Pflock writes he personally suspected Cooper of authoring bogus documents and sharing them with established UFO researchers."
+  },
+  {
+   "s": "forrestal",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "When developed, the roll of film was found to contain an image of a \"Truman-Forestall memo\", a \"Top Secret\" memorandum from President Truman to Defense Secretary James Forrestal, dated September 24, 1947, authorizing him and Dr. Vannevar Bush to proceed with Operation Majestic-12"
+  },
+  {
+   "s": "forrestal",
+   "p": "title",
+   "v": "Defense Secretary",
+   "quote": "When developed, the roll of film was found to contain an image of a \"Truman-Forestall memo\", a \"Top Secret\" memorandum from President Truman to Defense Secretary James Forrestal, dated September 24, 1947, authorizing him and Dr. Vannevar Bush to proceed with Operation Majestic-12"
+  },
+  {
+   "s": "forrestal",
+   "p": "purported_role",
+   "v": "authorized with Vannevar Bush to proceed with Operation Majestic-12",
+   "quote": "When developed, the roll of film was found to contain an image of a \"Truman-Forestall memo\", a \"Top Secret\" memorandum from President Truman to Defense Secretary James Forrestal, dated September 24, 1947, authorizing him and Dr. Vannevar Bush to proceed with Operation Majestic-12"
+  },
+  {
+   "s": "bush",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "When developed, the roll of film was found to contain an image of a \"Truman-Forestall memo\", a \"Top Secret\" memorandum from President Truman to Defense Secretary James Forrestal, dated September 24, 1947, authorizing him and Dr. Vannevar Bush to proceed with Operation Majestic-12"
+  },
+  {
+   "s": "bush",
+   "p": "purported_role",
+   "v": "authorized with Forrestal to proceed with Operation Majestic-12",
+   "quote": "When developed, the roll of film was found to contain an image of a \"Truman-Forestall memo\", a \"Top Secret\" memorandum from President Truman to Defense Secretary James Forrestal, dated September 24, 1947, authorizing him and Dr. Vannevar Bush to proceed with Operation Majestic-12"
+  },
+  {
+   "s": "bush",
+   "p": "detail",
+   "v": "recipient of an October 1, 1947 letter from Truman",
+   "quote": "For example, a signature from President Harry Truman is identical to one from an October 1, 1947 letter to Vannevar Bush."
+  },
+  {
+   "s": "ike",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "the Eisenhower Briefing Document, a seven page \"Top Secret/Eyes Only\" Majestic-12 document used to brief President-Elect Eisenhower, dated November 18, 1952"
+  },
+  {
+   "s": "ike",
+   "p": "title",
+   "v": "President-Elect (November 1952)",
+   "quote": "the Eisenhower Briefing Document, a seven page \"Top Secret/Eyes Only\" Majestic-12 document used to brief President-Elect Eisenhower, dated November 18, 1952"
+  },
+  {
+   "s": "klass",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Klass's investigation of the MJ-12 documents found that Robert Cutler was actually out of the country on the date he supposedly wrote the \"Cutler/Twining memo\"."
+  },
+  {
+   "s": "klass",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Klass's investigation of the MJ-12 documents found that Robert Cutler was actually out of the country on the date he supposedly wrote the \"Cutler/Twining memo\"."
+  },
+  {
+   "s": "klass",
+   "p": "authored",
+   "o": "w_k1",
+   "quote": "Philip J. Klass, The MJ-12 Crashed Saucer Documents, Skeptical Inquirer, vol XII, #2, Winter 1987–88, 137–46. Reprinted (sans figures) as chapter 7 of The UFO Invasion."
+  },
+  {
+   "s": "klass",
+   "p": "authored",
+   "o": "w_k2",
+   "quote": "Philip J. Klass, The MJ-12 Papers – part 2, Skeptical Inquirer, vol XII, #3, Spring 1988, 279–89."
+  },
+  {
+   "s": "klass",
+   "p": "authored",
+   "o": "w_k3",
+   "quote": "Philip J. Klass, MJ-12 Papers \"Authenticated\"?, Skeptical Inquirer, vol 13, #3, Spring 1989, 305–09. Reprinted as chapter 8 of The UFO Invasion."
+  },
+  {
+   "s": "klass",
+   "p": "authored",
+   "o": "w_k4",
+   "quote": "Philip J. Klass, New Evidence of MJ-12 Hoax, Skeptical Inquirer, vol 14, #2, Winter 1990, 135–40. Reprinted as chapter 9 of The UFO Invasion."
+  },
+  {
+   "s": "klass",
+   "p": "finding",
+   "v": "Truman signature was a pasted-on photocopy of a genuine signature from a memo to Vannevar Bush of October 1, 1947",
+   "quote": "Klass noted that the Truman signature was \"a pasted-on photocopy of a genuine signature—including accidental scratch marks—from a memo that Truman wrote to Vannevar Bush on October 1, 1947\"."
+  },
+  {
+   "s": "klass",
+   "p": "finding",
+   "v": "Robert Cutler was out of the country on the date he supposedly wrote the Cutler/Twining memo",
+   "quote": "Klass's investigation of the MJ-12 documents found that Robert Cutler was actually out of the country on the date he supposedly wrote the \"Cutler/Twining memo\"."
+  },
+  {
+   "s": "klass",
+   "p": "statement",
+   "v": "dismissed disinformation-campaign theories as \"ridiculous\"; flaws could never fool Soviet or Chinese intelligence",
+   "quote": "Klass dismissed theories that the documents were part of a disinformation campaign as \"ridiculous\", saying they contained numerous flaws that could never fool Soviet or Chinese intelligence."
+  },
+  {
+   "s": "klass",
+   "p": "accusation",
+   "v": "accused of being a \"disinformation agent\"",
+   "quote": "Moore was accused of taking part in an elaborate hoax, while other ufologists and debunkers such as Philip J. Klass were accused of being \"disinformation agents\""
+  },
+  {
+   "s": "klass",
+   "p": "occupation",
+   "v": "skeptic; debunker",
+   "quote": "In his 1987 book Above Top Secret: The Worldwide U.F.O. Cover-up, Good was involved in the initial publication of the purported Majestic 12 documents; later, according to skeptic Phil Klass, Good questioned the authenticity of at least some of the documents."
+  },
+  {
+   "s": "klass",
+   "p": "disputed",
+   "o": "ctmemo",
+   "quote": "Klass's investigation of the MJ-12 documents found that Robert Cutler was actually out of the country on the date he supposedly wrote the \"Cutler/Twining memo\"."
+  },
+  {
+   "s": "klass",
+   "p": "disputed",
+   "o": "tfmemo",
+   "quote": "Klass noted that the Truman signature was \"a pasted-on photocopy of a genuine signature—including accidental scratch marks—from a memo that Truman wrote to Vannevar Bush on October 1, 1947\"."
+  },
+  {
+   "s": "deuley",
+   "p": "investigator",
+   "o": "guerrero",
+   "quote": "Tom Deuley investigated the Guerrero claim for MUFON, but found no evidence for a reported UFO crash."
+  },
+  {
+   "s": "deuley",
+   "p": "member_of",
+   "o": "mufon",
+   "quote": "Tom Deuley investigated the Guerrero claim for MUFON, but found no evidence for a reported UFO crash."
+  },
+  {
+   "s": "deuley",
+   "p": "finding",
+   "v": "found no evidence for a reported UFO crash",
+   "quote": "Tom Deuley investigated the Guerrero claim for MUFON, but found no evidence for a reported UFO crash."
+  },
+  {
+   "s": "deuley",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Tom Deuley investigated the Guerrero claim for MUFON, but found no evidence for a reported UFO crash."
+  },
+  {
+   "s": "cutler",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Purporting to be written by President Eisenhower's assistant Robert Cutler to General Nathan F. Twining and containing a reference to Majestic 12, the memo is widely held to be a forgery, likely planted as part of a hoax."
+  },
+  {
+   "s": "cutler",
+   "p": "title",
+   "v": "President Eisenhower's assistant",
+   "quote": "Purporting to be written by President Eisenhower's assistant Robert Cutler to General Nathan F. Twining and containing a reference to Majestic 12, the memo is widely held to be a forgery, likely planted as part of a hoax."
+  },
+  {
+   "s": "cutler",
+   "p": "whereabouts",
+   "v": "visiting overseas military installations on the day he supposedly issued the memorandum",
+   "quote": "Furthermore, Cutler was \"visiting overseas military installations on the day he supposedly issued this memorandum\"."
+  },
+  {
+   "s": "cutler",
+   "p": "colleague_of",
+   "o": "ike",
+   "quote": "Purporting to be written by President Eisenhower's assistant Robert Cutler to General Nathan F. Twining and containing a reference to Majestic 12, the memo is widely held to be a forgery, likely planted as part of a hoax."
+  },
+  {
+   "s": "twining",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Purporting to be written by President Eisenhower's assistant Robert Cutler to General Nathan F. Twining and containing a reference to Majestic 12, the memo is widely held to be a forgery, likely planted as part of a hoax."
+  },
+  {
+   "s": "twining",
+   "p": "rank",
+   "v": "General",
+   "quote": "Purporting to be written by President Eisenhower's assistant Robert Cutler to General Nathan F. Twining and containing a reference to Majestic 12, the memo is widely held to be a forgery, likely planted as part of a hoax."
+  },
+  {
+   "s": "goldberg",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Historian Robert Goldberg wrote that the ufologists came to believe the story despite the documents being \"obviously planted to bolster the legitimacy of the briefing papers\"."
+  },
+  {
+   "s": "goldberg",
+   "p": "occupation",
+   "v": "Historian",
+   "quote": "Historian Robert Goldberg wrote that the ufologists came to believe the story despite the documents being \"obviously planted to bolster the legitimacy of the briefing papers\"."
+  },
+  {
+   "s": "goldberg",
+   "p": "statement",
+   "v": "documents were \"obviously planted to bolster the legitimacy of the briefing papers\"",
+   "quote": "Historian Robert Goldberg wrote that the ufologists came to believe the story despite the documents being \"obviously planted to bolster the legitimacy of the briefing papers\"."
+  },
+  {
+   "s": "sparks",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "a conversation reported by Brad Sparks in which Moore confided that he was contemplating creating and releasing some hoax Top Secret documents"
+  },
+  {
+   "s": "sparks",
+   "p": "statement",
+   "v": "reported a conversation in which Moore confided he was contemplating creating and releasing hoax Top Secret documents",
+   "quote": "a conversation reported by Brad Sparks in which Moore confided that he was contemplating creating and releasing some hoax Top Secret documents"
+  },
+  {
+   "s": "pflock",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Pflock writes he personally suspected Cooper of authoring bogus documents and sharing them with established UFO researchers."
+  },
+  {
+   "s": "pflock",
+   "p": "authored",
+   "o": "w_pflock",
+   "quote": "Pflock, Karl (2001). Roswell: Inconvenient Facts and the Will to Believe."
+  },
+  {
+   "s": "pflock",
+   "p": "statement",
+   "v": "personally suspected Cooper of authoring bogus documents and sharing them with established UFO researchers",
+   "quote": "Pflock writes he personally suspected Cooper of authoring bogus documents and sharing them with established UFO researchers."
+  },
+  {
+   "s": "pflock",
+   "p": "statement",
+   "v": "Cooper had previously given UFO stories to Leonard Stringfield",
+   "quote": "Pflock claims that Cooper had previously been given UFO stories to crash retrieval researcher Leonard Stringfield."
+  },
+  {
+   "s": "stringfield",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Pflock claims that Cooper had previously been given UFO stories to crash retrieval researcher Leonard Stringfield."
+  },
+  {
+   "s": "stringfield",
+   "p": "occupation",
+   "v": "crash retrieval researcher",
+   "quote": "Pflock claims that Cooper had previously been given UFO stories to crash retrieval researcher Leonard Stringfield."
+  },
+  {
+   "s": "monroe",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Later, a Cooper-provided MJ12-stamped document purported to link Marilyn Monroe's death to her supposed knowledge of UFOs. The CIA concluded the document was fraudent."
+  },
+  {
+   "s": "monroe",
+   "p": "claim",
+   "v": "document purported to link her death to her supposed knowledge of UFOs",
+   "quote": "Later, a Cooper-provided MJ12-stamped document purported to link Marilyn Monroe's death to her supposed knowledge of UFOs. The CIA concluded the document was fraudent."
+  },
+  {
+   "s": "good",
+   "p": "proponent",
+   "o": "case",
+   "quote": "On May 31, 1987, it was widely reported that British ufologist Timothy Good claimed to be in possession of 1950s-era UFO documents."
+  },
+  {
+   "s": "good",
+   "p": "authored",
+   "o": "w_ats",
+   "quote": "In his 1987 book Above Top Secret: The Worldwide U.F.O. Cover-up, Good was involved in the initial publication of the purported Majestic 12 documents; later, according to skeptic Phil Klass, Good questioned the authenticity of at least some of the documents."
+  },
+  {
+   "s": "good",
+   "p": "occupation",
+   "v": "British ufologist",
+   "quote": "On May 31, 1987, it was widely reported that British ufologist Timothy Good claimed to be in possession of 1950s-era UFO documents."
+  },
+  {
+   "s": "good",
+   "p": "statement",
+   "v": "claimed on May 31, 1987 to be in possession of 1950s-era UFO documents",
+   "quote": "On May 31, 1987, it was widely reported that British ufologist Timothy Good claimed to be in possession of 1950s-era UFO documents."
+  },
+  {
+   "s": "good",
+   "p": "later_claim",
+   "v": "questioned the authenticity of at least some of the documents",
+   "quote": "In his 1987 book Above Top Secret: The Worldwide U.F.O. Cover-up, Good was involved in the initial publication of the purported Majestic 12 documents; later, according to skeptic Phil Klass, Good questioned the authenticity of at least some of the documents."
+  },
+  {
+   "s": "koppel",
+   "p": "journalist",
+   "o": "case",
+   "quote": "On June 24, 1987, Friedman appeared on the ABC network news program Nightline opposite Klass, where he discussed the MJ-12 with anchor Ted Koppel."
+  },
+  {
+   "s": "koppel",
+   "p": "occupation",
+   "v": "Nightline anchor",
+   "quote": "On June 24, 1987, Friedman appeared on the ABC network news program Nightline opposite Klass, where he discussed the MJ-12 with anchor Ted Koppel."
+  },
+  {
+   "s": "koppel",
+   "p": "interviewed",
+   "o": "friedman",
+   "quote": "On June 24, 1987, Friedman appeared on the ABC network news program Nightline opposite Klass, where he discussed the MJ-12 with anchor Ted Koppel."
+  },
+  {
+   "s": "lear",
+   "p": "proponent",
+   "o": "case",
+   "quote": "On December 29, 1987, supposed government UFO insider John Lear posted a statement to ParaNet, an early bulletin board system dedicated to the paranormal, claiming knowledge of MJ-12."
+  },
+  {
+   "s": "lear",
+   "p": "authored",
+   "o": "learstmt",
+   "quote": "On December 29, 1987, supposed government UFO insider John Lear posted a statement to ParaNet, an early bulletin board system dedicated to the paranormal, claiming knowledge of MJ-12."
+  },
+  {
+   "s": "lear",
+   "p": "description",
+   "v": "supposed government UFO insider",
+   "quote": "On December 29, 1987, supposed government UFO insider John Lear posted a statement to ParaNet, an early bulletin board system dedicated to the paranormal, claiming knowledge of MJ-12."
+  },
+  {
+   "s": "lear",
+   "p": "characterization",
+   "v": "\"probably the most influential source\" of UFO conspiracy theories in the late 1980s",
+   "quote": "Lear was later characterized as  \"probably the most influential source\" of UFO conspiracy theories in the late 1980s."
+  },
+  {
+   "s": "strieber",
+   "p": "commentator",
+   "o": "case",
+   "quote": "In 1989, horror novelist-turned-\"alien abductee\" Whitley Strieber authored the book Majestic inspired by the MJ-12 lore."
+  },
+  {
+   "s": "strieber",
+   "p": "authored",
+   "o": "w_majestic",
+   "quote": "In 1989, horror novelist-turned-\"alien abductee\" Whitley Strieber authored the book Majestic inspired by the MJ-12 lore."
+  },
+  {
+   "s": "strieber",
+   "p": "occupation",
+   "v": "horror novelist-turned-\"alien abductee\"",
+   "quote": "In 1989, horror novelist-turned-\"alien abductee\" Whitley Strieber authored the book Majestic inspired by the MJ-12 lore."
+  },
+  {
+   "s": "sagan",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Carl Sagan criticized the complete lack of provenance of documents \"miraculously dropped on a doorstep like something out of a fairy story, perhaps 'The Elves and the Shoemaker'.\""
+  },
+  {
+   "s": "sagan",
+   "p": "authored",
+   "o": "w_dhw",
+   "quote": "Carl Sagan, The Demon-Haunted World: Science as a Candle in the Dark, 1995, Random House, ISBN 0-394-53512-X, p. 90."
+  },
+  {
+   "s": "sagan",
+   "p": "statement",
+   "v": "criticized the complete lack of provenance of documents \"miraculously dropped on a doorstep like something out of a fairy story\"",
+   "quote": "Carl Sagan criticized the complete lack of provenance of documents \"miraculously dropped on a doorstep like something out of a fairy story, perhaps 'The Elves and the Shoemaker'.\""
+  },
+  {
+   "s": "olmsted",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Kathryn S. Olmsted, a historian of conspiracy theories, notes that \"other researchers denounced the MJ-12 documents as fakes."
+  },
+  {
+   "s": "olmsted",
+   "p": "authored",
+   "o": "w_olm",
+   "quote": "Kathryn S. Olmsted, Real Enemies: Conspiracy Theories and American Democracy, World War I to 9/11."
+  },
+  {
+   "s": "olmsted",
+   "p": "occupation",
+   "v": "historian of conspiracy theories",
+   "quote": "Kathryn S. Olmsted, a historian of conspiracy theories, notes that \"other researchers denounced the MJ-12 documents as fakes."
+  },
+  {
+   "s": "olmsted",
+   "p": "statement",
+   "v": "forgers had cribbed much of Gen. George Marshall's 1944 letter to Thomas Dewey, with \"magic\" becoming \"majic\"",
+   "quote": "had cribbed much of Gen. George Marshall’s 1944 letter\nto Thomas Dewey disclosing the Pearl Harbor \"Magic\" intercepts, with names and dates changed and \"magic\" becoming \"majic\""
+  },
+  {
+   "s": "marshall",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "had cribbed much of Gen. George Marshall’s 1944 letter\nto Thomas Dewey disclosing the Pearl Harbor \"Magic\" intercepts, with names and dates changed and \"magic\" becoming \"majic\""
+  },
+  {
+   "s": "marshall",
+   "p": "rank",
+   "v": "General",
+   "quote": "had cribbed much of Gen. George Marshall’s 1944 letter\nto Thomas Dewey disclosing the Pearl Harbor \"Magic\" intercepts, with names and dates changed and \"magic\" becoming \"majic\""
+  },
+  {
+   "s": "marshall",
+   "p": "authored",
+   "o": "marshall_letter",
+   "quote": "had cribbed much of Gen. George Marshall’s 1944 letter\nto Thomas Dewey disclosing the Pearl Harbor \"Magic\" intercepts, with names and dates changed and \"magic\" becoming \"majic\""
+  },
+  {
+   "s": "marshall",
+   "p": "authored",
+   "o": "marshall_fdr",
+   "quote": "Friedman noted that  one supposed memo from Admiral Roscoe Hillenkoetter to President Truman, dated February 17, 1948, was actually the emulation of a letter from Marshall to Roosevelt."
+  },
+  {
+   "s": "dewey",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "had cribbed much of Gen. George Marshall’s 1944 letter\nto Thomas Dewey disclosing the Pearl Harbor \"Magic\" intercepts, with names and dates changed and \"magic\" becoming \"majic\""
+  },
+  {
+   "s": "dewey",
+   "p": "detail",
+   "v": "recipient of Marshall's 1944 letter",
+   "quote": "had cribbed much of Gen. George Marshall’s 1944 letter\nto Thomas Dewey disclosing the Pearl Harbor \"Magic\" intercepts, with names and dates changed and \"magic\" becoming \"majic\""
+  },
+  {
+   "s": "hillenkoetter",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Friedman noted that  one supposed memo from Admiral Roscoe Hillenkoetter to President Truman, dated February 17, 1948, was actually the emulation of a letter from Marshall to Roosevelt."
+  },
+  {
+   "s": "hillenkoetter",
+   "p": "rank",
+   "v": "Admiral",
+   "quote": "Friedman noted that  one supposed memo from Admiral Roscoe Hillenkoetter to President Truman, dated February 17, 1948, was actually the emulation of a letter from Marshall to Roosevelt."
+  },
+  {
+   "s": "hillenkoetter",
+   "p": "purported_role",
+   "v": "supposed author of a February 17, 1948 memo to President Truman",
+   "quote": "Friedman noted that  one supposed memo from Admiral Roscoe Hillenkoetter to President Truman, dated February 17, 1948, was actually the emulation of a letter from Marshall to Roosevelt."
+  },
+  {
+   "s": "roosevelt",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Friedman noted that  one supposed memo from Admiral Roscoe Hillenkoetter to President Truman, dated February 17, 1948, was actually the emulation of a letter from Marshall to Roosevelt."
+  },
+  {
+   "s": "roosevelt",
+   "p": "detail",
+   "v": "recipient of a letter from Marshall",
+   "quote": "Friedman noted that  one supposed memo from Admiral Roscoe Hillenkoetter to President Truman, dated February 17, 1948, was actually the emulation of a letter from Marshall to Roosevelt."
+  },
+  {
+   "s": "dunning",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Scientific skeptic author Brian Dunning investigated the history of the subject, and reported his findings in the 2016 Skeptoid podcast episode \"The Secret History of Majestic 12\"."
+  },
+  {
+   "s": "dunning",
+   "p": "authored",
+   "o": "w_skeptoid",
+   "quote": "Scientific skeptic author Brian Dunning investigated the history of the subject, and reported his findings in the 2016 Skeptoid podcast episode \"The Secret History of Majestic 12\"."
+  },
+  {
+   "s": "dunning",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Scientific skeptic author Brian Dunning investigated the history of the subject, and reported his findings in the 2016 Skeptoid podcast episode \"The Secret History of Majestic 12\"."
+  },
+  {
+   "s": "dunning",
+   "p": "occupation",
+   "v": "Scientific skeptic author",
+   "quote": "Scientific skeptic author Brian Dunning investigated the history of the subject, and reported his findings in the 2016 Skeptoid podcast episode \"The Secret History of Majestic 12\"."
+  },
+  {
+   "s": "best",
+   "p": "commentator",
+   "o": "case",
+   "quote": "In 2017,  MuckRock contributor Emma Best similarly suggested that the papers were \"government sponsored, or at least tolerated, disinformation\" because the declassified FBI file on Majestic 12 does not mention any further investigation to find or prosecute the forger responsible for it."
+  },
+  {
+   "s": "best",
+   "p": "member_of",
+   "o": "muckrock",
+   "quote": "In 2017,  MuckRock contributor Emma Best similarly suggested that the papers were \"government sponsored, or at least tolerated, disinformation\" because the declassified FBI file on Majestic 12 does not mention any further investigation to find or prosecute the forger responsible for it."
+  },
+  {
+   "s": "best",
+   "p": "occupation",
+   "v": "MuckRock contributor",
+   "quote": "In 2017,  MuckRock contributor Emma Best similarly suggested that the papers were \"government sponsored, or at least tolerated, disinformation\" because the declassified FBI file on Majestic 12 does not mention any further investigation to find or prosecute the forger responsible for it."
+  },
+  {
+   "s": "best",
+   "p": "statement",
+   "v": "papers were \"government sponsored, or at least tolerated, disinformation\"",
+   "quote": "In 2017,  MuckRock contributor Emma Best similarly suggested that the papers were \"government sponsored, or at least tolerated, disinformation\" because the declassified FBI file on Majestic 12 does not mention any further investigation to find or prosecute the forger responsible for it."
+  },
+  {
+   "s": "nickell",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Joe Nickell and John F. Fischer, The Crashed Saucer Forgeries, International UFO Reporter, March 1990, 4–12."
+  },
+  {
+   "s": "nickell",
+   "p": "authored",
+   "o": "w_csf",
+   "quote": "Joe Nickell and John F. Fischer, The Crashed Saucer Forgeries, International UFO Reporter, March 1990, 4–12."
+  },
+  {
+   "s": "fischer",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Joe Nickell and John F. Fischer, The Crashed Saucer Forgeries, International UFO Reporter, March 1990, 4–12."
+  },
+  {
+   "s": "fischer",
+   "p": "authored",
+   "o": "w_csf",
+   "quote": "Joe Nickell and John F. Fischer, The Crashed Saucer Forgeries, International UFO Reporter, March 1990, 4–12."
+  },
+  {
+   "s": "karr",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Also reprinted in The Outer Edge: *Classic Investigations of the Paranormal, edited by Joe Nickell, Barry Karr, and Tom Genoni, CSICOP, 1996."
+  },
+  {
+   "s": "genoni",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Also reprinted in The Outer Edge: *Classic Investigations of the Paranormal, edited by Joe Nickell, Barry Karr, and Tom Genoni, CSICOP, 1996."
+  },
+  {
+   "s": "peebles",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Peebles, Curtis (1994). Watch the Skies!: A Chronicle of the Flying Saucer Myth."
+  },
+  {
+   "s": "peebles",
+   "p": "authored",
+   "o": "w_wts",
+   "quote": "Peebles, Curtis (1994). Watch the Skies!: A Chronicle of the Flying Saucer Myth."
+  },
+  {
+   "s": "f_leak",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "By the mid-80s, manufactured papers called the \"MJ-12 documents\" were anonymously and mysteriously provided to UFO researchers."
+  },
+  {
+   "s": "f_hoax",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Federal Bureau of Investigation (FBI) declared the documents to be \"completely bogus\", and many ufologists consider them to be an elaborate hoax."
+  },
+  {
+   "s": "f_hoax",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Purporting to be written by President Eisenhower's assistant Robert Cutler to General Nathan F. Twining and containing a reference to Majestic 12, the memo is widely held to be a forgery, likely planted as part of a hoax."
+  },
+  {
+   "s": "f_conf",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "At a 1989 Mutual UFO Network conference, Moore confessed that he had intentionally fed fake evidence of extraterrestrials to UFO researchers, including Bennewitz."
+  },
+  {
+   "s": "f_conf",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Starting in 1989, elements in the deception campaign confessed to fabricating MJ-12 lore to deceive UFO researches."
+  },
+  {
+   "s": "f_cover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The concept of \"Majestic 12\" emerged during a period in the 1980s when ufologists believed there had been a cover-up of the Roswell incident and speculated some secretive upper tier of the U.S. government was responsible."
+  },
+  {
+   "s": "f_cover",
+   "p": "has_feature",
+   "o": "roswell",
+   "quote": "explain how the crash of an alien spacecraft at Roswell in July 1947 had been concealed, how the recovered alien technology could be exploited, and how the U.S. should engage with extraterrestrial life in the future"
+  },
+  {
+   "s": "f_crash",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "an alleged secret committee of scientists, military leaders, and government officials, formed in 1947 by an executive order by U.S. President Harry S. Truman to facilitate recovery and investigation of alien spacecraft"
+  },
+  {
+   "s": "f_crash",
+   "p": "has_feature",
+   "o": "roswell",
+   "quote": "explain how the crash of an alien spacecraft at Roswell in July 1947 had been concealed, how the recovered alien technology could be exploited, and how the U.S. should engage with extraterrestrial life in the future"
+  },
+  {
+   "s": "f_crash",
+   "p": "has_feature",
+   "o": "guerrero",
+   "quote": "This second alleged crash was in Mexico, near the towns of El Indio and Guerrero along the Mexico–US border."
+  },
+  {
+   "s": "f_off",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The FBI then began its own investigation of the supposed \"secret\" document and quickly formed doubts as to its authenticity."
+  },
+  {
+   "s": "f_hoax",
+   "p": "has_feature",
+   "o": "bennewitz_affair",
+   "quote": "Bennewitz was contacted by Air Force officials including Richard C. Doty.  Collectively, they mislead Bennewitz."
+  },
+  {
+   "s": "f_conf",
+   "p": "has_feature",
+   "o": "bennewitz_affair",
+   "quote": "In the 2010 book Mirage Men and the 2013 documentary of the same name, Richard Doty admitted to being part of an organized effort to deceive UFOs researchers including Paul Bennewitz and Linda Moulton Howe."
+  },
+  {
+   "s": "f_base",
+   "p": "has_feature",
+   "o": "bennewitz_affair",
+   "quote": "Bennewitz was a enterpreneur-government contractor turned UFO researcher who came to believe craft from US airbases were linked to unexplained livestock deaths, or \"cattle mutilations\"."
+  },
+  {
+   "s": "f_animal",
+   "p": "has_feature",
+   "o": "bennewitz_affair",
+   "quote": "Bennewitz was a enterpreneur-government contractor turned UFO researcher who came to believe craft from US airbases were linked to unexplained livestock deaths, or \"cattle mutilations\"."
+  },
+  {
+   "s": "case",
+   "p": "rumor",
+   "v": "captured entities alive and dead; agreement between government and ETs permitting animal mutilations and human abductions",
+   "quote": "According to Doty, the government and ETs have made an agreement whereby the aliens could conduct animal mutilations and human abductions in exchange for teaching U.S. experts about alien advanced technologies."
+  },
+  {
+   "s": "x_hoax",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The Federal Bureau of Investigation (FBI) declared the documents to be \"completely bogus\", and many ufologists consider them to be an elaborate hoax."
+  },
+  {
+   "s": "klass",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "Klass noted that the Truman signature was \"a pasted-on photocopy of a genuine signature—including accidental scratch marks—from a memo that Truman wrote to Vannevar Bush on October 1, 1947\"."
+  },
+  {
+   "s": "goldberg",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "Historian Robert Goldberg wrote that the ufologists came to believe the story despite the documents being \"obviously planted to bolster the legitimacy of the briefing papers\"."
+  },
+  {
+   "s": "pflock",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "Pflock writes he personally suspected Cooper of authoring bogus documents and sharing them with established UFO researchers."
+  },
+  {
+   "s": "friedman",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "Ufologists Linda Moulton Howe and Stanton T. Friedman believed the MJ-12 documents to be authentic, though Friedman was the first to provide evidence that some of the documents are clearly hoaxes."
+  },
+  {
+   "s": "olmsted",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "Kathryn S. Olmsted, a historian of conspiracy theories, notes that \"other researchers denounced the MJ-12 documents as fakes."
+  },
+  {
+   "s": "sagan",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "Carl Sagan criticized the complete lack of provenance of documents \"miraculously dropped on a doorstep like something out of a fairy story, perhaps 'The Elves and the Shoemaker'.\""
+  },
+  {
+   "s": "fbi",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "After receiving information from the OSI on November 30 of that year that no such committee had ever been authorized or formed, the FBI declared that the document was \"completely bogus\"."
+  },
+  {
+   "s": "cia",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "Later, a Cooper-provided MJ12-stamped document purported to link Marilyn Monroe's death to her supposed knowledge of UFOs. The CIA concluded the document was fraudent."
+  },
+  {
+   "s": "x_disinfo",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "He cited ufologist Bill Moore's suspicion that, rather than a hoax perpetrated by the UFO community, the papers were actually part of a disinformation campaign of the US government meant to deflect attention from secret Air Force projects."
+  },
+  {
+   "s": "moore",
+   "p": "proposed",
+   "o": "x_disinfo",
+   "quote": "He cited ufologist Bill Moore's suspicion that, rather than a hoax perpetrated by the UFO community, the papers were actually part of a disinformation campaign of the US government meant to deflect attention from secret Air Force projects."
+  },
+  {
+   "s": "best",
+   "p": "proposed",
+   "o": "x_disinfo",
+   "quote": "In 2017,  MuckRock contributor Emma Best similarly suggested that the papers were \"government sponsored, or at least tolerated, disinformation\" because the declassified FBI file on Majestic 12 does not mention any further investigation to find or prosecute the forger responsible for it."
+  },
+  {
+   "s": "klass",
+   "p": "disputed",
+   "o": "x_disinfo",
+   "quote": "Klass dismissed theories that the documents were part of a disinformation campaign as \"ridiculous\", saying they contained numerous flaws that could never fool Soviet or Chinese intelligence."
+  }
+ ]
+}

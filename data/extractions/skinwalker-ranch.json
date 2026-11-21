@@ -1,0 +1,1699 @@
+{
+ "slug": "skinwalker-ranch",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Skinwalker Ranch",
+   "description": "Utah ranch of approximately 512 acres reputed to be the site of paranormal and UFO-related activities.",
+   "aliases": [
+    "Sherman Ranch",
+    "UFO ranch",
+    "Skinwalker"
+   ]
+  },
+  {
+   "key": "basin70s",
+   "type": "case",
+   "name": "1970s Uintah Basin UFO reports",
+   "description": "UFO reports in the Uintah Basin publicized in the 1970s",
+   "aliases": [
+    "UFO reports in the Uintah Basin"
+   ]
+  },
+  {
+   "key": "ballard",
+   "type": "place",
+   "name": "Ballard, Utah",
+   "description": "Town the ranch lies southeast of"
+  },
+  {
+   "key": "basin",
+   "type": "place",
+   "name": "Uintah Basin",
+   "description": "Region of Utah with publicized UFO reports",
+   "aliases": [
+    "Utah's Uintah Basin"
+   ]
+  },
+  {
+   "key": "county",
+   "type": "place",
+   "name": "Uintah County, Utah",
+   "description": "County in whose west the ranch is located"
+  },
+  {
+   "key": "reservation",
+   "type": "place",
+   "name": "Uintah and Ouray Indian Reservation",
+   "description": "Reservation bordering the ranch"
+  },
+  {
+   "key": "utah",
+   "type": "place",
+   "name": "Utah",
+   "description": "US state"
+  },
+  {
+   "key": "slc",
+   "type": "place",
+   "name": "Salt Lake City, Utah",
+   "description": "City of the Deseret News and base of Adamantium Real Estate"
+  },
+  {
+   "key": "lehi",
+   "type": "place",
+   "name": "Lehi, Utah",
+   "description": "Location of the Hutchings Museum Institute"
+  },
+  {
+   "key": "delaware",
+   "type": "place",
+   "name": "Delaware",
+   "description": "State where Adamantium Real Estate, LLC is registered"
+  },
+  {
+   "key": "deseret",
+   "type": "organization",
+   "name": "Deseret News",
+   "description": "Salt Lake City newspaper where claims about the ranch first appeared in 1996"
+  },
+  {
+   "key": "mercury",
+   "type": "organization",
+   "name": "Las Vegas Mercury",
+   "description": "Alternative weekly that ran George Knapp's articles"
+  },
+  {
+   "key": "nids",
+   "type": "organization",
+   "name": "National Institute for Discovery Science",
+   "description": "Organisation founded by Robert Bigelow that monitored the ranch",
+   "aliases": [
+    "NIDSci"
+   ]
+  },
+  {
+   "key": "army",
+   "type": "organization",
+   "name": "United States Army",
+   "description": "Service from which John B. Alexander retired as colonel",
+   "aliases": [
+    "US Army"
+   ]
+  },
+  {
+   "key": "dia",
+   "type": "organization",
+   "name": "Defense Intelligence Agency",
+   "description": "Agency of official James Lacatski"
+  },
+  {
+   "key": "dod",
+   "type": "organization",
+   "name": "United States Department of Defense",
+   "description": "Department whose budget received a $22 million line to study unidentified aerial phenomena",
+   "aliases": [
+    "Department of Defense"
+   ]
+  },
+  {
+   "key": "adam",
+   "type": "organization",
+   "name": "Adamantium Real Estate LLC",
+   "description": "Delaware LLC based in Salt Lake City that bought the ranch in 2016",
+   "aliases": [
+    "Adamantium Real Estate, LLC"
+   ]
+  },
+  {
+   "key": "hutchings",
+   "type": "organization",
+   "name": "Hutchings Museum Institute",
+   "description": "Museum institute in Lehi, Utah, partnered with Fugal"
+  },
+  {
+   "key": "jse",
+   "type": "organization",
+   "name": "Journal of Scientific Exploration",
+   "description": "Journal in which Barry Greenwood wrote"
+  },
+  {
+   "key": "prog",
+   "type": "program",
+   "name": "Department of Defense $22 million unidentified aerial phenomena study",
+   "description": "Research program funded by a $22 million budget line and led by James Lacatski",
+   "aliases": [
+    "$22 million research program"
+   ]
+  },
+  {
+   "key": "knapp",
+   "type": "person",
+   "name": "George Knapp",
+   "description": "Investigative journalist and co-author of Hunt for the Skinwalker",
+   "aliases": [
+    "Knapp"
+   ]
+  },
+  {
+   "key": "kelleher",
+   "type": "person",
+   "name": "Colm A. Kelleher",
+   "description": "Co-author of Hunt for the Skinwalker",
+   "aliases": [
+    "Colm Kelleher",
+    "Kelleher"
+   ]
+  },
+  {
+   "key": "alexander",
+   "type": "person",
+   "name": "John B. Alexander",
+   "description": "Retired US Army colonel involved in the NIDSci effort",
+   "aliases": [
+    "Colonel John B. Alexander"
+   ]
+  },
+  {
+   "key": "bigelow",
+   "type": "person",
+   "name": "Robert Bigelow",
+   "description": "Founder of NIDSci; owned the ranch 1996–2016",
+   "aliases": [
+    "Bigelow"
+   ]
+  },
+  {
+   "key": "tsherman",
+   "type": "person",
+   "name": "Terry Sherman",
+   "description": "Former ranch owner, later caretaker"
+  },
+  {
+   "key": "gsherman",
+   "type": "person",
+   "name": "Gwen Sherman",
+   "description": "Co-owner of the ranch 1994–1996"
+  },
+  {
+   "key": "lacatski",
+   "type": "person",
+   "name": "James Lacatski",
+   "description": "Defense Intelligence Agency official who led the $22 million research program",
+   "aliases": [
+    "Lacatski"
+   ]
+  },
+  {
+   "key": "reid",
+   "type": "person",
+   "name": "Harry Reid",
+   "description": "Friend of Bigelow who helped insert the budget line",
+   "aliases": [
+    "Reid"
+   ]
+  },
+  {
+   "key": "stevens",
+   "type": "person",
+   "name": "Ted Stevens",
+   "description": "Described as a UFO experiencer; agreed with Reid on funding"
+  },
+  {
+   "key": "sheaffer",
+   "type": "person",
+   "name": "Robert Sheaffer",
+   "description": "Skeptical author",
+   "aliases": [
+    "Sheaffer"
+   ]
+  },
+  {
+   "key": "randi",
+   "type": "person",
+   "name": "James Randi",
+   "description": "Skeptic who awarded Bigelow a Pigasus Award"
+  },
+  {
+   "key": "mack",
+   "type": "person",
+   "name": "John E. Mack",
+   "description": "Investigator whose work Bigelow supported"
+  },
+  {
+   "key": "hopkins",
+   "type": "person",
+   "name": "Budd Hopkins",
+   "description": "Investigator whose work Bigelow supported"
+  },
+  {
+   "key": "greenwood",
+   "type": "person",
+   "name": "Barry Greenwood",
+   "description": "Ufologist who criticized the research program"
+  },
+  {
+   "key": "locke",
+   "type": "person",
+   "name": "Benton M Locke",
+   "description": "Owner of the ranch before 1934"
+  },
+  {
+   "key": "bryant",
+   "type": "person",
+   "name": "Ona Ora Bryant",
+   "description": "Owner of the ranch before 1934"
+  },
+  {
+   "key": "kmyers",
+   "type": "person",
+   "name": "Kenneth Myers",
+   "description": "Owner of the ranch 1934–1994"
+  },
+  {
+   "key": "emyers",
+   "type": "person",
+   "name": "Edith Myers",
+   "description": "Owner of the ranch 1934–1994"
+  },
+  {
+   "key": "fugal",
+   "type": "person",
+   "name": "Brandon Fugal",
+   "description": "Real estate developer and tech investor; owner since 2016",
+   "aliases": [
+    "Fugal"
+   ]
+  },
+  {
+   "key": "salisbury",
+   "type": "person",
+   "name": "Frank B. Salisbury",
+   "description": "Co-author of The Utah UFO Display"
+  },
+  {
+   "key": "hicks",
+   "type": "person",
+   "name": "Joseph Junior Hicks",
+   "description": "Co-author of The Utah UFO Display"
+  },
+  {
+   "key": "hunt",
+   "type": "work",
+   "name": "Hunt for the Skinwalker",
+   "description": "2005 book by Kelleher and Knapp",
+   "aliases": [
+    "Hunt for the Skinwalker: Science Confronts the Unexplained at a Remote Ranch in Utah"
+   ]
+  },
+  {
+   "key": "display",
+   "type": "work",
+   "name": "The Utah UFO Display",
+   "description": "2023 book on UFO sightings in Utah's Uintah Basin",
+   "aliases": [
+    "The Utah UFO Display: A Scientist Brings Reason and Logic to Over 400 UFO Sightings in Utah's Uintah Basin"
+   ]
+  },
+  {
+   "key": "knapparticles",
+   "type": "document",
+   "name": "Las Vegas Mercury series of articles by George Knapp",
+   "description": "Early articles detailing the family's claims"
+  },
+  {
+   "key": "pigasus",
+   "type": "document",
+   "name": "Pigasus Award",
+   "description": "Tongue-in-cheek award given by James Randi to Bigelow in 1996"
+  },
+  {
+   "key": "craft",
+   "type": "craft",
+   "name": "unidentified flying objects or orbs reported at Skinwalker Ranch",
+   "description": "Objects/orbs among the incidents described by Kelleher and Knapp",
+   "aliases": [
+    "glowing orbs"
+   ]
+  },
+  {
+   "key": "f_sphere",
+   "type": "feature",
+   "name": "shape-sphere",
+   "description": "feature"
+  },
+  {
+   "key": "f_lights",
+   "type": "feature",
+   "name": "lights-only",
+   "description": "feature"
+  },
+  {
+   "key": "f_traces",
+   "type": "feature",
+   "name": "physical-traces",
+   "description": "feature"
+  },
+  {
+   "key": "f_emi",
+   "type": "feature",
+   "name": "electromagnetic-interference",
+   "description": "feature"
+  },
+  {
+   "key": "f_hoax",
+   "type": "feature",
+   "name": "hoax-alleged",
+   "description": "feature"
+  },
+  {
+   "key": "f_off",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "feature"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "feature"
+  },
+  {
+   "key": "f_mut",
+   "type": "feature",
+   "name": "other:cattle-mutilation",
+   "description": "feature"
+  },
+  {
+   "key": "f_creature",
+   "type": "feature",
+   "name": "other:creature-sightings",
+   "description": "feature"
+  },
+  {
+   "key": "f_polt",
+   "type": "feature",
+   "name": "other:poltergeist-activity",
+   "description": "feature"
+  },
+  {
+   "key": "f_crop",
+   "type": "feature",
+   "name": "other:crop-circles",
+   "description": "feature"
+  },
+  {
+   "key": "x_hoax",
+   "type": "explanation",
+   "name": "hoax",
+   "description": "Sherman family invented the story"
+  },
+  {
+   "key": "x_illus",
+   "type": "explanation",
+   "name": "misperception",
+   "description": "Phenomena \"almost certainly illusory\""
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "former_name",
+   "v": "Sherman Ranch",
+   "quote": "Skinwalker Ranch, previously known as Sherman Ranch, is a property of approximately 512 acres (207 ha), located southeast of Ballard, Utah, that is reputed to be the site of paranormal and UFO-related activities."
+  },
+  {
+   "s": "case",
+   "p": "size",
+   "v": "approximately 512 acres (207 ha)",
+   "quote": "Skinwalker Ranch, previously known as Sherman Ranch, is a property of approximately 512 acres (207 ha), located southeast of Ballard, Utah, that is reputed to be the site of paranormal and UFO-related activities."
+  },
+  {
+   "s": "case",
+   "p": "reputation",
+   "v": "reputed to be the site of paranormal and UFO-related activities",
+   "quote": "Skinwalker Ranch, previously known as Sherman Ranch, is a property of approximately 512 acres (207 ha), located southeast of Ballard, Utah, that is reputed to be the site of paranormal and UFO-related activities."
+  },
+  {
+   "s": "case",
+   "p": "name_origin",
+   "v": "the skin-walker, known and originated from Navajo legend",
+   "quote": "Its name is taken from the skin-walker, known and originated from Navajo legend."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "The ranch, located in west Uintah County, Utah, bordering the Uintah and Ouray Indian Reservation, was popularly dubbed the UFO ranch due to its ostensible 50-year history of odd events said to have taken place there."
+  },
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1996",
+   "quote": "Claims about the ranch first appeared in 1996 in the Salt Lake City, Utah, Deseret News, and later in the alternative weekly Las Vegas Mercury as a series of articles by investigative journalist George Knapp."
+  },
+  {
+   "s": "case",
+   "p": "first_publicized",
+   "v": "1996",
+   "quote": "Claims about the ranch first appeared in 1996 in the Salt Lake City, Utah, Deseret News, and later in the alternative weekly Las Vegas Mercury as a series of articles by investigative journalist George Knapp."
+  },
+  {
+   "s": "case",
+   "p": "nickname",
+   "v": "UFO ranch",
+   "quote": "The ranch, located in west Uintah County, Utah, bordering the Uintah and Ouray Indian Reservation, was popularly dubbed the UFO ranch due to its ostensible 50-year history of odd events said to have taken place there."
+  },
+  {
+   "s": "case",
+   "p": "history_claimed",
+   "v": "ostensible 50-year history of odd events",
+   "quote": "The ranch, located in west Uintah County, Utah, bordering the Uintah and Ouray Indian Reservation, was popularly dubbed the UFO ranch due to its ostensible 50-year history of odd events said to have taken place there."
+  },
+  {
+   "s": "case",
+   "p": "incident_count",
+   "v": "close to 100",
+   "quote": "According to Kelleher and Knapp, they saw or investigated evidence of close to 100 incidents that include vanishing and mutilated cattle, sightings of unidentified flying objects or orbs, large animals with piercing red eyes that they say were unscathed when struck by bullets, and invisible objects emitting destructive magnetic fields."
+  },
+  {
+   "s": "case",
+   "p": "reported_phenomena",
+   "v": "vanishing and mutilated cattle",
+   "quote": "According to Kelleher and Knapp, they saw or investigated evidence of close to 100 incidents that include vanishing and mutilated cattle, sightings of unidentified flying objects or orbs, large animals with piercing red eyes that they say were unscathed when struck by bullets, and invisible objects emitting destructive magnetic fields."
+  },
+  {
+   "s": "case",
+   "p": "reported_phenomena",
+   "v": "sightings of unidentified flying objects or orbs",
+   "quote": "According to Kelleher and Knapp, they saw or investigated evidence of close to 100 incidents that include vanishing and mutilated cattle, sightings of unidentified flying objects or orbs, large animals with piercing red eyes that they say were unscathed when struck by bullets, and invisible objects emitting destructive magnetic fields."
+  },
+  {
+   "s": "case",
+   "p": "reported_phenomena",
+   "v": "large animals with piercing red eyes said to be unscathed when struck by bullets",
+   "quote": "According to Kelleher and Knapp, they saw or investigated evidence of close to 100 incidents that include vanishing and mutilated cattle, sightings of unidentified flying objects or orbs, large animals with piercing red eyes that they say were unscathed when struck by bullets, and invisible objects emitting destructive magnetic fields."
+  },
+  {
+   "s": "case",
+   "p": "reported_phenomena",
+   "v": "invisible objects emitting destructive magnetic fields",
+   "quote": "According to Kelleher and Knapp, they saw or investigated evidence of close to 100 incidents that include vanishing and mutilated cattle, sightings of unidentified flying objects or orbs, large animals with piercing red eyes that they say were unscathed when struck by bullets, and invisible objects emitting destructive magnetic fields."
+  },
+  {
+   "s": "case",
+   "p": "reported_phenomena",
+   "v": "strange lights and unusual impressions made in grass and soil",
+   "quote": "When Robert Bigelow, founder of the NIDSci, purchased the ranch for $200,000 in 1996, this was reportedly the result of his having been convinced by the stories of mutilations, that included tales of strange lights and unusual impressions made in grass and soil told by the family of former ranch owner Terry Sherman."
+  },
+  {
+   "s": "case",
+   "p": "reported_phenomena",
+   "v": "UFOs, Bigfoot-like creatures, crop circles, glowing orbs and poltergeist activity",
+   "quote": "In 2005, Colm Kelleher and co-author George Knapp published a book, Hunt for the Skinwalker, in which they describe the ranch being acquired by Bigelow to study anecdotal sightings of UFOs, Bigfoot-like creatures, crop circles, glowing orbs and poltergeist activity reported by its former owners."
+  },
+  {
+   "s": "case",
+   "p": "early_claims",
+   "v": "a family allegedly experienced inexplicable and frightening events after they purchased and occupied the property",
+   "quote": "These early stories detailed the claims of a family that allegedly experienced inexplicable and frightening events after they purchased and occupied the property."
+  },
+  {
+   "s": "case",
+   "p": "investigators_admission",
+   "v": "\"difficulty obtaining evidence consistent with scientific publication\"",
+   "quote": "However, the investigators admitted to \"difficulty obtaining evidence consistent with scientific publication\"."
+  },
+  {
+   "s": "case",
+   "p": "folklore",
+   "v": "Cattle mutilations have been part of the folklore of the surrounding area for decades",
+   "quote": "Cattle mutilations have been part of the folklore of the surrounding area for decades."
+  },
+  {
+   "s": "case",
+   "p": "purchase_price_1996",
+   "v": "$200,000",
+   "quote": "When Robert Bigelow, founder of the NIDSci, purchased the ranch for $200,000 in 1996, this was reportedly the result of his having been convinced by the stories of mutilations, that included tales of strange lights and unusual impressions made in grass and soil told by the family of former ranch owner Terry Sherman."
+  },
+  {
+   "s": "case",
+   "p": "sale_price_2016",
+   "v": "around $500,000",
+   "quote": "In 2016, Bigelow sold Skinwalker Ranch to Adamantium Real Estate LLC for around $500,000."
+  },
+  {
+   "s": "case",
+   "p": "previous_owners_statement",
+   "v": "previous owners, who had lived there for 60 years, say that no supernatural events of any kind had happened there",
+   "quote": "In 2020, skeptical author Robert Sheaffer found the phenomena at Skinwalker to be \"almost certainly illusory\", given that NIDSci found no proof after several years of monitoring, and that the previous owners of the property, who had lived there for 60 years, say that no supernatural events of any kind had happened there."
+  },
+  {
+   "s": "case",
+   "p": "security",
+   "v": "roads leading to the ranch were blocked, the perimeter was guarded by cameras and barbed wire, and signs were posted",
+   "quote": "After this purchase, roads leading to the ranch were blocked, the perimeter was guarded by cameras and barbed wire, and signs were posted that aimed to prevent people from approaching the ranch."
+  },
+  {
+   "s": "case",
+   "p": "trademark_filed",
+   "v": "2017-02-15",
+   "quote": "Adamantium Real Estate, LLC, a Delaware limited liability company based in Salt Lake City, Utah, filed a U.S. Trademark application for the service mark \"Skinwalker Ranch\" on February 15, 2017, and it was approved and registered on April 14, 2020"
+  },
+  {
+   "s": "case",
+   "p": "trademark_registered",
+   "v": "2020-04-14",
+   "quote": "Adamantium Real Estate, LLC, a Delaware limited liability company based in Salt Lake City, Utah, filed a U.S. Trademark application for the service mark \"Skinwalker Ranch\" on February 15, 2017, and it was approved and registered on April 14, 2020"
+  },
+  {
+   "s": "case",
+   "p": "additional_trademark_filed",
+   "v": "2021-06-21",
+   "quote": "An additional trademark filing to expand use on \"cups and mugs, shirts and short-sleeved shirts, sports caps and hats\" was filed by Adamantium Real Estate, LLC on June 21, 2021, and was approved and registered on July 12, 2022."
+  },
+  {
+   "s": "case",
+   "p": "additional_trademark_registered",
+   "v": "2022-07-12",
+   "quote": "An additional trademark filing to expand use on \"cups and mugs, shirts and short-sleeved shirts, sports caps and hats\" was filed by Adamantium Real Estate, LLC on June 21, 2021, and was approved and registered on July 12, 2022."
+  },
+  {
+   "s": "case",
+   "p": "ownership",
+   "v": "pre 1934 — Benton M Locke and Ona Ora Bryant",
+   "quote": "pre 1934 — Benton M Locke and Ona Ora Bryant"
+  },
+  {
+   "s": "case",
+   "p": "ownership",
+   "v": "1934–1994 — Kenneth and Edith Myers",
+   "quote": "1934–1994 — Kenneth and Edith Myers"
+  },
+  {
+   "s": "case",
+   "p": "ownership",
+   "v": "1994–1996 — Terry and Gwen Sherman",
+   "quote": "1994–1996 — Terry and Gwen Sherman"
+  },
+  {
+   "s": "case",
+   "p": "ownership",
+   "v": "1996–2016 — Robert Bigelow",
+   "quote": "1996–2016 — Robert Bigelow"
+  },
+  {
+   "s": "case",
+   "p": "ownership",
+   "v": "2016–present — Brandon Fugal, via Adamantium Real Estate LLC",
+   "quote": "2016–present — Brandon Fugal, via Adamantium Real Estate LLC"
+  },
+  {
+   "s": "case",
+   "p": "criticism",
+   "v": "\"always in the business of selling belief and hope\"",
+   "quote": "He emphasized the lack of any documentary evidence from the ranch after many decades of exploration and characterized Skinwalker as \"always in the business of selling belief and hope\"."
+  },
+  {
+   "s": "case",
+   "p": "criticism",
+   "v": "lack of any documentary evidence from the ranch after many decades of exploration",
+   "quote": "He emphasized the lack of any documentary evidence from the ranch after many decades of exploration and characterized Skinwalker as \"always in the business of selling belief and hope\"."
+  },
+  {
+   "s": "basin70s",
+   "p": "related_case",
+   "o": "case",
+   "quote": "UFO reports in the Uintah Basin were publicized in the 1970s."
+  },
+  {
+   "s": "basin70s",
+   "p": "date_start",
+   "v": "1970s",
+   "quote": "UFO reports in the Uintah Basin were publicized in the 1970s."
+  },
+  {
+   "s": "basin",
+   "p": "occurred_at",
+   "o": "basin70s",
+   "quote": "UFO reports in the Uintah Basin were publicized in the 1970s."
+  },
+  {
+   "s": "ballard",
+   "p": "near",
+   "o": "case",
+   "quote": "Skinwalker Ranch, previously known as Sherman Ranch, is a property of approximately 512 acres (207 ha), located southeast of Ballard, Utah, that is reputed to be the site of paranormal and UFO-related activities."
+  },
+  {
+   "s": "ballard",
+   "p": "direction_of_ranch",
+   "v": "southeast",
+   "quote": "Skinwalker Ranch, previously known as Sherman Ranch, is a property of approximately 512 acres (207 ha), located southeast of Ballard, Utah, that is reputed to be the site of paranormal and UFO-related activities."
+  },
+  {
+   "s": "basin",
+   "p": "related_place",
+   "o": "case",
+   "quote": "UFO reports in the Uintah Basin were publicized in the 1970s."
+  },
+  {
+   "s": "basin",
+   "p": "located_in",
+   "o": "utah",
+   "quote": "Frank B. Salisbury, Joseph Junior Hicks (2023), The Utah UFO Display: A Scientist Brings Reason and Logic to Over 400 UFO Sightings in Utah's Uintah Basin, Cedar Fort Publishing & Media"
+  },
+  {
+   "s": "county",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The ranch, located in west Uintah County, Utah, bordering the Uintah and Ouray Indian Reservation, was popularly dubbed the UFO ranch due to its ostensible 50-year history of odd events said to have taken place there."
+  },
+  {
+   "s": "reservation",
+   "p": "near",
+   "o": "case",
+   "quote": "The ranch, located in west Uintah County, Utah, bordering the Uintah and Ouray Indian Reservation, was popularly dubbed the UFO ranch due to its ostensible 50-year history of odd events said to have taken place there."
+  },
+  {
+   "s": "utah",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The ranch, located in west Uintah County, Utah, bordering the Uintah and Ouray Indian Reservation, was popularly dubbed the UFO ranch due to its ostensible 50-year history of odd events said to have taken place there."
+  },
+  {
+   "s": "county",
+   "p": "located_in",
+   "o": "utah",
+   "quote": "The ranch, located in west Uintah County, Utah, bordering the Uintah and Ouray Indian Reservation, was popularly dubbed the UFO ranch due to its ostensible 50-year history of odd events said to have taken place there."
+  },
+  {
+   "s": "slc",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Claims about the ranch first appeared in 1996 in the Salt Lake City, Utah, Deseret News, and later in the alternative weekly Las Vegas Mercury as a series of articles by investigative journalist George Knapp."
+  },
+  {
+   "s": "slc",
+   "p": "located_in",
+   "o": "utah",
+   "quote": "Claims about the ranch first appeared in 1996 in the Salt Lake City, Utah, Deseret News, and later in the alternative weekly Las Vegas Mercury as a series of articles by investigative journalist George Knapp."
+  },
+  {
+   "s": "lehi",
+   "p": "related_place",
+   "o": "case",
+   "quote": "In 2022, Fugal announced a partnership with the Hutchings Museum Institute in Lehi, Utah, designed to \"better understand the environment and historical significance\" of the ranch."
+  },
+  {
+   "s": "lehi",
+   "p": "located_in",
+   "o": "utah",
+   "quote": "In 2022, Fugal announced a partnership with the Hutchings Museum Institute in Lehi, Utah, designed to \"better understand the environment and historical significance\" of the ranch."
+  },
+  {
+   "s": "delaware",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Adamantium Real Estate, LLC, a Delaware limited liability company based in Salt Lake City, Utah, filed a U.S. Trademark application for the service mark \"Skinwalker Ranch\" on February 15, 2017, and it was approved and registered on April 14, 2020"
+  },
+  {
+   "s": "deseret",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Claims about the ranch first appeared in 1996 in the Salt Lake City, Utah, Deseret News, and later in the alternative weekly Las Vegas Mercury as a series of articles by investigative journalist George Knapp."
+  },
+  {
+   "s": "deseret",
+   "p": "located_in",
+   "o": "slc",
+   "quote": "Claims about the ranch first appeared in 1996 in the Salt Lake City, Utah, Deseret News, and later in the alternative weekly Las Vegas Mercury as a series of articles by investigative journalist George Knapp."
+  },
+  {
+   "s": "deseret",
+   "p": "first_report_year",
+   "v": "1996",
+   "quote": "Claims about the ranch first appeared in 1996 in the Salt Lake City, Utah, Deseret News, and later in the alternative weekly Las Vegas Mercury as a series of articles by investigative journalist George Knapp."
+  },
+  {
+   "s": "mercury",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Claims about the ranch first appeared in 1996 in the Salt Lake City, Utah, Deseret News, and later in the alternative weekly Las Vegas Mercury as a series of articles by investigative journalist George Knapp."
+  },
+  {
+   "s": "mercury",
+   "p": "published",
+   "o": "knapparticles",
+   "quote": "Claims about the ranch first appeared in 1996 in the Salt Lake City, Utah, Deseret News, and later in the alternative weekly Las Vegas Mercury as a series of articles by investigative journalist George Knapp."
+  },
+  {
+   "s": "mercury",
+   "p": "description",
+   "v": "alternative weekly",
+   "quote": "Claims about the ranch first appeared in 1996 in the Salt Lake City, Utah, Deseret News, and later in the alternative weekly Las Vegas Mercury as a series of articles by investigative journalist George Knapp."
+  },
+  {
+   "s": "knapparticles",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Claims about the ranch first appeared in 1996 in the Salt Lake City, Utah, Deseret News, and later in the alternative weekly Las Vegas Mercury as a series of articles by investigative journalist George Knapp."
+  },
+  {
+   "s": "knapp",
+   "p": "authored",
+   "o": "knapparticles",
+   "quote": "Claims about the ranch first appeared in 1996 in the Salt Lake City, Utah, Deseret News, and later in the alternative weekly Las Vegas Mercury as a series of articles by investigative journalist George Knapp."
+  },
+  {
+   "s": "knapparticles",
+   "p": "content",
+   "v": "detailed the claims of a family that allegedly experienced inexplicable and frightening events",
+   "quote": "These early stories detailed the claims of a family that allegedly experienced inexplicable and frightening events after they purchased and occupied the property."
+  },
+  {
+   "s": "knapp",
+   "p": "journalist",
+   "o": "case",
+   "quote": "Claims about the ranch first appeared in 1996 in the Salt Lake City, Utah, Deseret News, and later in the alternative weekly Las Vegas Mercury as a series of articles by investigative journalist George Knapp."
+  },
+  {
+   "s": "knapp",
+   "p": "occupation",
+   "v": "investigative journalist",
+   "quote": "Claims about the ranch first appeared in 1996 in the Salt Lake City, Utah, Deseret News, and later in the alternative weekly Las Vegas Mercury as a series of articles by investigative journalist George Knapp."
+  },
+  {
+   "s": "knapp",
+   "p": "authored",
+   "o": "hunt",
+   "quote": "In 2005, Colm Kelleher and co-author George Knapp published a book, Hunt for the Skinwalker, in which they describe the ranch being acquired by Bigelow to study anecdotal sightings of UFOs, Bigfoot-like creatures, crop circles, glowing orbs and poltergeist activity reported by its former owners."
+  },
+  {
+   "s": "knapp",
+   "p": "colleague_of",
+   "o": "kelleher",
+   "quote": "In 2005, Colm Kelleher and co-author George Knapp published a book, Hunt for the Skinwalker, in which they describe the ranch being acquired by Bigelow to study anecdotal sightings of UFOs, Bigfoot-like creatures, crop circles, glowing orbs and poltergeist activity reported by its former owners."
+  },
+  {
+   "s": "knapp",
+   "p": "investigator",
+   "o": "case",
+   "quote": "According to Kelleher and Knapp, they saw or investigated evidence of close to 100 incidents that include vanishing and mutilated cattle, sightings of unidentified flying objects or orbs, large animals with piercing red eyes that they say were unscathed when struck by bullets, and invisible objects emitting destructive magnetic fields."
+  },
+  {
+   "s": "kelleher",
+   "p": "investigator",
+   "o": "case",
+   "quote": "According to Kelleher and Knapp, they saw or investigated evidence of close to 100 incidents that include vanishing and mutilated cattle, sightings of unidentified flying objects or orbs, large animals with piercing red eyes that they say were unscathed when struck by bullets, and invisible objects emitting destructive magnetic fields."
+  },
+  {
+   "s": "kelleher",
+   "p": "authored",
+   "o": "hunt",
+   "quote": "In 2005, Colm Kelleher and co-author George Knapp published a book, Hunt for the Skinwalker, in which they describe the ranch being acquired by Bigelow to study anecdotal sightings of UFOs, Bigfoot-like creatures, crop circles, glowing orbs and poltergeist activity reported by its former owners."
+  },
+  {
+   "s": "knapp",
+   "p": "statement",
+   "v": "saw or investigated evidence of close to 100 incidents",
+   "quote": "According to Kelleher and Knapp, they saw or investigated evidence of close to 100 incidents that include vanishing and mutilated cattle, sightings of unidentified flying objects or orbs, large animals with piercing red eyes that they say were unscathed when struck by bullets, and invisible objects emitting destructive magnetic fields."
+  },
+  {
+   "s": "kelleher",
+   "p": "statement",
+   "v": "saw or investigated evidence of close to 100 incidents",
+   "quote": "According to Kelleher and Knapp, they saw or investigated evidence of close to 100 incidents that include vanishing and mutilated cattle, sightings of unidentified flying objects or orbs, large animals with piercing red eyes that they say were unscathed when struck by bullets, and invisible objects emitting destructive magnetic fields."
+  },
+  {
+   "s": "knapp",
+   "p": "described",
+   "o": "craft",
+   "quote": "According to Kelleher and Knapp, they saw or investigated evidence of close to 100 incidents that include vanishing and mutilated cattle, sightings of unidentified flying objects or orbs, large animals with piercing red eyes that they say were unscathed when struck by bullets, and invisible objects emitting destructive magnetic fields."
+  },
+  {
+   "s": "kelleher",
+   "p": "described",
+   "o": "craft",
+   "quote": "According to Kelleher and Knapp, they saw or investigated evidence of close to 100 incidents that include vanishing and mutilated cattle, sightings of unidentified flying objects or orbs, large animals with piercing red eyes that they say were unscathed when struck by bullets, and invisible objects emitting destructive magnetic fields."
+  },
+  {
+   "s": "hunt",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 2005, Colm Kelleher and co-author George Knapp published a book, Hunt for the Skinwalker, in which they describe the ranch being acquired by Bigelow to study anecdotal sightings of UFOs, Bigfoot-like creatures, crop circles, glowing orbs and poltergeist activity reported by its former owners."
+  },
+  {
+   "s": "hunt",
+   "p": "year",
+   "v": "2005",
+   "quote": "In 2005, Colm Kelleher and co-author George Knapp published a book, Hunt for the Skinwalker, in which they describe the ranch being acquired by Bigelow to study anecdotal sightings of UFOs, Bigfoot-like creatures, crop circles, glowing orbs and poltergeist activity reported by its former owners."
+  },
+  {
+   "s": "hunt",
+   "p": "publisher",
+   "v": "Simon and Schuster",
+   "quote": "Colm A. Kelleher, George Knapp (2005), Hunt for the Skinwalker: Science Confronts the Unexplained at a Remote Ranch in Utah, Simon and Schuster"
+  },
+  {
+   "s": "hunt",
+   "p": "full_title",
+   "v": "Hunt for the Skinwalker: Science Confronts the Unexplained at a Remote Ranch in Utah",
+   "quote": "Colm A. Kelleher, George Knapp (2005), Hunt for the Skinwalker: Science Confronts the Unexplained at a Remote Ranch in Utah, Simon and Schuster"
+  },
+  {
+   "s": "hunt",
+   "p": "content",
+   "v": "describe the ranch being acquired by Bigelow to study anecdotal sightings of UFOs, Bigfoot-like creatures, crop circles, glowing orbs and poltergeist activity reported by its former owners",
+   "quote": "In 2005, Colm Kelleher and co-author George Knapp published a book, Hunt for the Skinwalker, in which they describe the ranch being acquired by Bigelow to study anecdotal sightings of UFOs, Bigfoot-like creatures, crop circles, glowing orbs and poltergeist activity reported by its former owners."
+  },
+  {
+   "s": "hunt",
+   "p": "read_by",
+   "v": "Defense Intelligence Agency official James Lacatski",
+   "quote": "Kelleher and Knapp's book was read by Defense Intelligence Agency official James Lacatski, who contacted Bigelow and obtained permission to visit the ranch."
+  },
+  {
+   "s": "alexander",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Among those involved were retired US Army Colonel John B. Alexander, who characterized the National Institute for Discovery Science (NIDSci) effort as an attempt to get hard data using a \"standard scientific approach\"."
+  },
+  {
+   "s": "alexander",
+   "p": "member_of",
+   "o": "army",
+   "quote": "Among those involved were retired US Army Colonel John B. Alexander, who characterized the National Institute for Discovery Science (NIDSci) effort as an attempt to get hard data using a \"standard scientific approach\"."
+  },
+  {
+   "s": "alexander",
+   "p": "rank",
+   "v": "Colonel (retired)",
+   "quote": "Among those involved were retired US Army Colonel John B. Alexander, who characterized the National Institute for Discovery Science (NIDSci) effort as an attempt to get hard data using a \"standard scientific approach\"."
+  },
+  {
+   "s": "alexander",
+   "p": "statement",
+   "v": "characterized the NIDSci effort as an attempt to get hard data using a \"standard scientific approach\"",
+   "quote": "Among those involved were retired US Army Colonel John B. Alexander, who characterized the National Institute for Discovery Science (NIDSci) effort as an attempt to get hard data using a \"standard scientific approach\"."
+  },
+  {
+   "s": "alexander",
+   "p": "member_of",
+   "o": "nids",
+   "quote": "Among those involved were retired US Army Colonel John B. Alexander, who characterized the National Institute for Discovery Science (NIDSci) effort as an attempt to get hard data using a \"standard scientific approach\"."
+  },
+  {
+   "s": "army",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Among those involved were retired US Army Colonel John B. Alexander, who characterized the National Institute for Discovery Science (NIDSci) effort as an attempt to get hard data using a \"standard scientific approach\"."
+  },
+  {
+   "s": "nids",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "Among those involved were retired US Army Colonel John B. Alexander, who characterized the National Institute for Discovery Science (NIDSci) effort as an attempt to get hard data using a \"standard scientific approach\"."
+  },
+  {
+   "s": "nids",
+   "p": "result",
+   "v": "found no proof after several years of monitoring",
+   "quote": "In 2020, skeptical author Robert Sheaffer found the phenomena at Skinwalker to be \"almost certainly illusory\", given that NIDSci found no proof after several years of monitoring, and that the previous owners of the property, who had lived there for 60 years, say that no supernatural events of any kind had happened there."
+  },
+  {
+   "s": "bigelow",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "When Robert Bigelow, founder of the NIDSci, purchased the ranch for $200,000 in 1996, this was reportedly the result of his having been convinced by the stories of mutilations, that included tales of strange lights and unusual impressions made in grass and soil told by the family of former ranch owner Terry Sherman."
+  },
+  {
+   "s": "bigelow",
+   "p": "owned",
+   "o": "case",
+   "quote": "1996–2016 — Robert Bigelow"
+  },
+  {
+   "s": "bigelow",
+   "p": "member_of",
+   "o": "nids",
+   "quote": "When Robert Bigelow, founder of the NIDSci, purchased the ranch for $200,000 in 1996, this was reportedly the result of his having been convinced by the stories of mutilations, that included tales of strange lights and unusual impressions made in grass and soil told by the family of former ranch owner Terry Sherman."
+  },
+  {
+   "s": "bigelow",
+   "p": "role",
+   "v": "founder of the NIDSci",
+   "quote": "When Robert Bigelow, founder of the NIDSci, purchased the ranch for $200,000 in 1996, this was reportedly the result of his having been convinced by the stories of mutilations, that included tales of strange lights and unusual impressions made in grass and soil told by the family of former ranch owner Terry Sherman."
+  },
+  {
+   "s": "bigelow",
+   "p": "purchase",
+   "v": "purchased the ranch for $200,000 in 1996",
+   "quote": "When Robert Bigelow, founder of the NIDSci, purchased the ranch for $200,000 in 1996, this was reportedly the result of his having been convinced by the stories of mutilations, that included tales of strange lights and unusual impressions made in grass and soil told by the family of former ranch owner Terry Sherman."
+  },
+  {
+   "s": "bigelow",
+   "p": "motive",
+   "v": "convinced by the stories of mutilations",
+   "quote": "When Robert Bigelow, founder of the NIDSci, purchased the ranch for $200,000 in 1996, this was reportedly the result of his having been convinced by the stories of mutilations, that included tales of strange lights and unusual impressions made in grass and soil told by the family of former ranch owner Terry Sherman."
+  },
+  {
+   "s": "bigelow",
+   "p": "ownership_period",
+   "v": "1996–2016",
+   "quote": "1996–2016 — Robert Bigelow"
+  },
+  {
+   "s": "bigelow",
+   "p": "sale",
+   "v": "sold Skinwalker Ranch to Adamantium Real Estate LLC for around $500,000 in 2016",
+   "quote": "In 2016, Bigelow sold Skinwalker Ranch to Adamantium Real Estate LLC for around $500,000."
+  },
+  {
+   "s": "bigelow",
+   "p": "award",
+   "v": "tongue-in-cheek Pigasus Award, 1996",
+   "quote": "In 1996, skeptic James Randi awarded Bigelow a tongue-in-cheek Pigasus Award for funding the purchase of the ranch and for supporting John E. Mack's and Budd Hopkins' investigations."
+  },
+  {
+   "s": "bigelow",
+   "p": "award_category",
+   "v": "\"the funding organization that supported the most useless study of a supernatural, paranormal or occult [claim]\"",
+   "quote": "The award category designated Bigelow as \"the funding organization that supported the most useless study of a supernatural, paranormal or occult [claim]\"."
+  },
+  {
+   "s": "bigelow",
+   "p": "described_as",
+   "v": "\"the gullible Bigelow\"",
+   "quote": "Sheaffer considers the explanation reliant upon the fewest assumptions to be that the Sherman family invented the story \"prior to selling it to the gullible Bigelow\", with many of the more extraordinary claims originating solely from Terry Sherman, who worked as a caretaker after the ranch was sold to Bigelow."
+  },
+  {
+   "s": "bigelow",
+   "p": "colleague_of",
+   "o": "reid",
+   "quote": "Lacatski had a supernatural experience there, which Bigelow relayed to his friend Harry Reid."
+  },
+  {
+   "s": "bigelow",
+   "p": "action",
+   "v": "relayed Lacatski's supernatural experience to his friend Harry Reid",
+   "quote": "Lacatski had a supernatural experience there, which Bigelow relayed to his friend Harry Reid."
+  },
+  {
+   "s": "bigelow",
+   "p": "colleague_of",
+   "o": "mack",
+   "quote": "In 1996, skeptic James Randi awarded Bigelow a tongue-in-cheek Pigasus Award for funding the purchase of the ranch and for supporting John E. Mack's and Budd Hopkins' investigations."
+  },
+  {
+   "s": "bigelow",
+   "p": "colleague_of",
+   "o": "hopkins",
+   "quote": "In 1996, skeptic James Randi awarded Bigelow a tongue-in-cheek Pigasus Award for funding the purchase of the ranch and for supporting John E. Mack's and Budd Hopkins' investigations."
+  },
+  {
+   "s": "tsherman",
+   "p": "witness",
+   "o": "case",
+   "quote": "When Robert Bigelow, founder of the NIDSci, purchased the ranch for $200,000 in 1996, this was reportedly the result of his having been convinced by the stories of mutilations, that included tales of strange lights and unusual impressions made in grass and soil told by the family of former ranch owner Terry Sherman."
+  },
+  {
+   "s": "tsherman",
+   "p": "owned",
+   "o": "case",
+   "quote": "1994–1996 — Terry and Gwen Sherman"
+  },
+  {
+   "s": "gsherman",
+   "p": "owned",
+   "o": "case",
+   "quote": "1994–1996 — Terry and Gwen Sherman"
+  },
+  {
+   "s": "gsherman",
+   "p": "witness",
+   "o": "case",
+   "quote": "1994–1996 — Terry and Gwen Sherman"
+  },
+  {
+   "s": "tsherman",
+   "p": "relative_of",
+   "o": "gsherman",
+   "quote": "1994–1996 — Terry and Gwen Sherman"
+  },
+  {
+   "s": "tsherman",
+   "p": "ownership_period",
+   "v": "1994–1996",
+   "quote": "1994–1996 — Terry and Gwen Sherman"
+  },
+  {
+   "s": "gsherman",
+   "p": "ownership_period",
+   "v": "1994–1996",
+   "quote": "1994–1996 — Terry and Gwen Sherman"
+  },
+  {
+   "s": "tsherman",
+   "p": "statement",
+   "v": "family told tales of strange lights and unusual impressions made in grass and soil",
+   "quote": "When Robert Bigelow, founder of the NIDSci, purchased the ranch for $200,000 in 1996, this was reportedly the result of his having been convinced by the stories of mutilations, that included tales of strange lights and unusual impressions made in grass and soil told by the family of former ranch owner Terry Sherman."
+  },
+  {
+   "s": "tsherman",
+   "p": "later_role",
+   "v": "worked as a caretaker after the ranch was sold to Bigelow",
+   "quote": "Sheaffer considers the explanation reliant upon the fewest assumptions to be that the Sherman family invented the story \"prior to selling it to the gullible Bigelow\", with many of the more extraordinary claims originating solely from Terry Sherman, who worked as a caretaker after the ranch was sold to Bigelow."
+  },
+  {
+   "s": "tsherman",
+   "p": "criticism",
+   "v": "many of the more extraordinary claims originating solely from Terry Sherman",
+   "quote": "Sheaffer considers the explanation reliant upon the fewest assumptions to be that the Sherman family invented the story \"prior to selling it to the gullible Bigelow\", with many of the more extraordinary claims originating solely from Terry Sherman, who worked as a caretaker after the ranch was sold to Bigelow."
+  },
+  {
+   "s": "tsherman",
+   "p": "employed_by",
+   "o": "bigelow",
+   "quote": "Sheaffer considers the explanation reliant upon the fewest assumptions to be that the Sherman family invented the story \"prior to selling it to the gullible Bigelow\", with many of the more extraordinary claims originating solely from Terry Sherman, who worked as a caretaker after the ranch was sold to Bigelow."
+  },
+  {
+   "s": "lacatski",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Kelleher and Knapp's book was read by Defense Intelligence Agency official James Lacatski, who contacted Bigelow and obtained permission to visit the ranch."
+  },
+  {
+   "s": "lacatski",
+   "p": "employed_by",
+   "o": "dia",
+   "quote": "Kelleher and Knapp's book was read by Defense Intelligence Agency official James Lacatski, who contacted Bigelow and obtained permission to visit the ranch."
+  },
+  {
+   "s": "dia",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Kelleher and Knapp's book was read by Defense Intelligence Agency official James Lacatski, who contacted Bigelow and obtained permission to visit the ranch."
+  },
+  {
+   "s": "lacatski",
+   "p": "occupation",
+   "v": "Defense Intelligence Agency official",
+   "quote": "Kelleher and Knapp's book was read by Defense Intelligence Agency official James Lacatski, who contacted Bigelow and obtained permission to visit the ranch."
+  },
+  {
+   "s": "lacatski",
+   "p": "action",
+   "v": "contacted Bigelow and obtained permission to visit the ranch",
+   "quote": "Kelleher and Knapp's book was read by Defense Intelligence Agency official James Lacatski, who contacted Bigelow and obtained permission to visit the ranch."
+  },
+  {
+   "s": "lacatski",
+   "p": "statement",
+   "v": "had a supernatural experience there",
+   "quote": "Lacatski had a supernatural experience there, which Bigelow relayed to his friend Harry Reid."
+  },
+  {
+   "s": "lacatski",
+   "p": "witness",
+   "o": "case",
+   "quote": "Lacatski had a supernatural experience there, which Bigelow relayed to his friend Harry Reid."
+  },
+  {
+   "s": "lacatski",
+   "p": "commanded",
+   "o": "prog",
+   "quote": "In 2023, ufologist Barry Greenwood, writing in the Journal of Scientific Exploration, criticized the $22 million research program led by James Lacatski."
+  },
+  {
+   "s": "reid",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Reid and Ted Stevens, a UFO experiencer, quickly agreed that the ranch deserved attention and inserted a line into the Department of Defense budget appropriating $22 million to study unidentified aerial phenomena."
+  },
+  {
+   "s": "stevens",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Reid and Ted Stevens, a UFO experiencer, quickly agreed that the ranch deserved attention and inserted a line into the Department of Defense budget appropriating $22 million to study unidentified aerial phenomena."
+  },
+  {
+   "s": "reid",
+   "p": "colleague_of",
+   "o": "stevens",
+   "quote": "Reid and Ted Stevens, a UFO experiencer, quickly agreed that the ranch deserved attention and inserted a line into the Department of Defense budget appropriating $22 million to study unidentified aerial phenomena."
+  },
+  {
+   "s": "reid",
+   "p": "action",
+   "v": "inserted a line into the Department of Defense budget appropriating $22 million to study unidentified aerial phenomena",
+   "quote": "Reid and Ted Stevens, a UFO experiencer, quickly agreed that the ranch deserved attention and inserted a line into the Department of Defense budget appropriating $22 million to study unidentified aerial phenomena."
+  },
+  {
+   "s": "stevens",
+   "p": "action",
+   "v": "inserted a line into the Department of Defense budget appropriating $22 million to study unidentified aerial phenomena",
+   "quote": "Reid and Ted Stevens, a UFO experiencer, quickly agreed that the ranch deserved attention and inserted a line into the Department of Defense budget appropriating $22 million to study unidentified aerial phenomena."
+  },
+  {
+   "s": "stevens",
+   "p": "described_as",
+   "v": "a UFO experiencer",
+   "quote": "Reid and Ted Stevens, a UFO experiencer, quickly agreed that the ranch deserved attention and inserted a line into the Department of Defense budget appropriating $22 million to study unidentified aerial phenomena."
+  },
+  {
+   "s": "dod",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Reid and Ted Stevens, a UFO experiencer, quickly agreed that the ranch deserved attention and inserted a line into the Department of Defense budget appropriating $22 million to study unidentified aerial phenomena."
+  },
+  {
+   "s": "prog",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "Reid and Ted Stevens, a UFO experiencer, quickly agreed that the ranch deserved attention and inserted a line into the Department of Defense budget appropriating $22 million to study unidentified aerial phenomena."
+  },
+  {
+   "s": "prog",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "Reid and Ted Stevens, a UFO experiencer, quickly agreed that the ranch deserved attention and inserted a line into the Department of Defense budget appropriating $22 million to study unidentified aerial phenomena."
+  },
+  {
+   "s": "prog",
+   "p": "budget",
+   "v": "$22 million",
+   "quote": "Reid and Ted Stevens, a UFO experiencer, quickly agreed that the ranch deserved attention and inserted a line into the Department of Defense budget appropriating $22 million to study unidentified aerial phenomena."
+  },
+  {
+   "s": "prog",
+   "p": "purpose",
+   "v": "to study unidentified aerial phenomena",
+   "quote": "Reid and Ted Stevens, a UFO experiencer, quickly agreed that the ranch deserved attention and inserted a line into the Department of Defense budget appropriating $22 million to study unidentified aerial phenomena."
+  },
+  {
+   "s": "sheaffer",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "In 2020, skeptical author Robert Sheaffer found the phenomena at Skinwalker to be \"almost certainly illusory\", given that NIDSci found no proof after several years of monitoring, and that the previous owners of the property, who had lived there for 60 years, say that no supernatural events of any kind had happened there."
+  },
+  {
+   "s": "sheaffer",
+   "p": "occupation",
+   "v": "skeptical author",
+   "quote": "In 2020, skeptical author Robert Sheaffer found the phenomena at Skinwalker to be \"almost certainly illusory\", given that NIDSci found no proof after several years of monitoring, and that the previous owners of the property, who had lived there for 60 years, say that no supernatural events of any kind had happened there."
+  },
+  {
+   "s": "sheaffer",
+   "p": "statement",
+   "v": "found the phenomena at Skinwalker to be \"almost certainly illusory\"",
+   "quote": "In 2020, skeptical author Robert Sheaffer found the phenomena at Skinwalker to be \"almost certainly illusory\", given that NIDSci found no proof after several years of monitoring, and that the previous owners of the property, who had lived there for 60 years, say that no supernatural events of any kind had happened there."
+  },
+  {
+   "s": "sheaffer",
+   "p": "statement_year",
+   "v": "2020",
+   "quote": "In 2020, skeptical author Robert Sheaffer found the phenomena at Skinwalker to be \"almost certainly illusory\", given that NIDSci found no proof after several years of monitoring, and that the previous owners of the property, who had lived there for 60 years, say that no supernatural events of any kind had happened there."
+  },
+  {
+   "s": "sheaffer",
+   "p": "statement",
+   "v": "the Sherman family invented the story \"prior to selling it to the gullible Bigelow\"",
+   "quote": "Sheaffer considers the explanation reliant upon the fewest assumptions to be that the Sherman family invented the story \"prior to selling it to the gullible Bigelow\", with many of the more extraordinary claims originating solely from Terry Sherman, who worked as a caretaker after the ranch was sold to Bigelow."
+  },
+  {
+   "s": "sheaffer",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "Sheaffer considers the explanation reliant upon the fewest assumptions to be that the Sherman family invented the story \"prior to selling it to the gullible Bigelow\", with many of the more extraordinary claims originating solely from Terry Sherman, who worked as a caretaker after the ranch was sold to Bigelow."
+  },
+  {
+   "s": "x_hoax",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Sheaffer considers the explanation reliant upon the fewest assumptions to be that the Sherman family invented the story \"prior to selling it to the gullible Bigelow\", with many of the more extraordinary claims originating solely from Terry Sherman, who worked as a caretaker after the ranch was sold to Bigelow."
+  },
+  {
+   "s": "sheaffer",
+   "p": "proposed",
+   "o": "x_illus",
+   "quote": "In 2020, skeptical author Robert Sheaffer found the phenomena at Skinwalker to be \"almost certainly illusory\", given that NIDSci found no proof after several years of monitoring, and that the previous owners of the property, who had lived there for 60 years, say that no supernatural events of any kind had happened there."
+  },
+  {
+   "s": "x_illus",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "In 2020, skeptical author Robert Sheaffer found the phenomena at Skinwalker to be \"almost certainly illusory\", given that NIDSci found no proof after several years of monitoring, and that the previous owners of the property, who had lived there for 60 years, say that no supernatural events of any kind had happened there."
+  },
+  {
+   "s": "randi",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "In 1996, skeptic James Randi awarded Bigelow a tongue-in-cheek Pigasus Award for funding the purchase of the ranch and for supporting John E. Mack's and Budd Hopkins' investigations."
+  },
+  {
+   "s": "randi",
+   "p": "occupation",
+   "v": "skeptic",
+   "quote": "In 1996, skeptic James Randi awarded Bigelow a tongue-in-cheek Pigasus Award for funding the purchase of the ranch and for supporting John E. Mack's and Budd Hopkins' investigations."
+  },
+  {
+   "s": "randi",
+   "p": "authored",
+   "o": "pigasus",
+   "quote": "In 1996, skeptic James Randi awarded Bigelow a tongue-in-cheek Pigasus Award for funding the purchase of the ranch and for supporting John E. Mack's and Budd Hopkins' investigations."
+  },
+  {
+   "s": "pigasus",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In 1996, skeptic James Randi awarded Bigelow a tongue-in-cheek Pigasus Award for funding the purchase of the ranch and for supporting John E. Mack's and Budd Hopkins' investigations."
+  },
+  {
+   "s": "pigasus",
+   "p": "year",
+   "v": "1996",
+   "quote": "In 1996, skeptic James Randi awarded Bigelow a tongue-in-cheek Pigasus Award for funding the purchase of the ranch and for supporting John E. Mack's and Budd Hopkins' investigations."
+  },
+  {
+   "s": "pigasus",
+   "p": "recipient",
+   "v": "Robert Bigelow",
+   "quote": "In 1996, skeptic James Randi awarded Bigelow a tongue-in-cheek Pigasus Award for funding the purchase of the ranch and for supporting John E. Mack's and Budd Hopkins' investigations."
+  },
+  {
+   "s": "pigasus",
+   "p": "reason",
+   "v": "funding the purchase of the ranch and supporting John E. Mack's and Budd Hopkins' investigations",
+   "quote": "In 1996, skeptic James Randi awarded Bigelow a tongue-in-cheek Pigasus Award for funding the purchase of the ranch and for supporting John E. Mack's and Budd Hopkins' investigations."
+  },
+  {
+   "s": "pigasus",
+   "p": "category",
+   "v": "\"the funding organization that supported the most useless study of a supernatural, paranormal or occult [claim]\"",
+   "quote": "The award category designated Bigelow as \"the funding organization that supported the most useless study of a supernatural, paranormal or occult [claim]\"."
+  },
+  {
+   "s": "mack",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "In 1996, skeptic James Randi awarded Bigelow a tongue-in-cheek Pigasus Award for funding the purchase of the ranch and for supporting John E. Mack's and Budd Hopkins' investigations."
+  },
+  {
+   "s": "hopkins",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "In 1996, skeptic James Randi awarded Bigelow a tongue-in-cheek Pigasus Award for funding the purchase of the ranch and for supporting John E. Mack's and Budd Hopkins' investigations."
+  },
+  {
+   "s": "mack",
+   "p": "funding",
+   "v": "investigations supported by Bigelow",
+   "quote": "In 1996, skeptic James Randi awarded Bigelow a tongue-in-cheek Pigasus Award for funding the purchase of the ranch and for supporting John E. Mack's and Budd Hopkins' investigations."
+  },
+  {
+   "s": "hopkins",
+   "p": "funding",
+   "v": "investigations supported by Bigelow",
+   "quote": "In 1996, skeptic James Randi awarded Bigelow a tongue-in-cheek Pigasus Award for funding the purchase of the ranch and for supporting John E. Mack's and Budd Hopkins' investigations."
+  },
+  {
+   "s": "greenwood",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "In 2023, ufologist Barry Greenwood, writing in the Journal of Scientific Exploration, criticized the $22 million research program led by James Lacatski."
+  },
+  {
+   "s": "greenwood",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "In 2023, ufologist Barry Greenwood, writing in the Journal of Scientific Exploration, criticized the $22 million research program led by James Lacatski."
+  },
+  {
+   "s": "greenwood",
+   "p": "disputed",
+   "o": "prog",
+   "quote": "In 2023, ufologist Barry Greenwood, writing in the Journal of Scientific Exploration, criticized the $22 million research program led by James Lacatski."
+  },
+  {
+   "s": "jse",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 2023, ufologist Barry Greenwood, writing in the Journal of Scientific Exploration, criticized the $22 million research program led by James Lacatski."
+  },
+  {
+   "s": "greenwood",
+   "p": "statement_year",
+   "v": "2023",
+   "quote": "In 2023, ufologist Barry Greenwood, writing in the Journal of Scientific Exploration, criticized the $22 million research program led by James Lacatski."
+  },
+  {
+   "s": "greenwood",
+   "p": "statement",
+   "v": "emphasized the lack of any documentary evidence from the ranch after many decades of exploration",
+   "quote": "He emphasized the lack of any documentary evidence from the ranch after many decades of exploration and characterized Skinwalker as \"always in the business of selling belief and hope\"."
+  },
+  {
+   "s": "greenwood",
+   "p": "statement",
+   "v": "characterized Skinwalker as \"always in the business of selling belief and hope\"",
+   "quote": "He emphasized the lack of any documentary evidence from the ranch after many decades of exploration and characterized Skinwalker as \"always in the business of selling belief and hope\"."
+  },
+  {
+   "s": "locke",
+   "p": "owned",
+   "o": "case",
+   "quote": "pre 1934 — Benton M Locke and Ona Ora Bryant"
+  },
+  {
+   "s": "locke",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "pre 1934 — Benton M Locke and Ona Ora Bryant"
+  },
+  {
+   "s": "locke",
+   "p": "ownership_period",
+   "v": "pre 1934",
+   "quote": "pre 1934 — Benton M Locke and Ona Ora Bryant"
+  },
+  {
+   "s": "bryant",
+   "p": "owned",
+   "o": "case",
+   "quote": "pre 1934 — Benton M Locke and Ona Ora Bryant"
+  },
+  {
+   "s": "bryant",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "pre 1934 — Benton M Locke and Ona Ora Bryant"
+  },
+  {
+   "s": "bryant",
+   "p": "ownership_period",
+   "v": "pre 1934",
+   "quote": "pre 1934 — Benton M Locke and Ona Ora Bryant"
+  },
+  {
+   "s": "kmyers",
+   "p": "owned",
+   "o": "case",
+   "quote": "1934–1994 — Kenneth and Edith Myers"
+  },
+  {
+   "s": "kmyers",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "1934–1994 — Kenneth and Edith Myers"
+  },
+  {
+   "s": "kmyers",
+   "p": "ownership_period",
+   "v": "1934–1994",
+   "quote": "1934–1994 — Kenneth and Edith Myers"
+  },
+  {
+   "s": "emyers",
+   "p": "owned",
+   "o": "case",
+   "quote": "1934–1994 — Kenneth and Edith Myers"
+  },
+  {
+   "s": "emyers",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "1934–1994 — Kenneth and Edith Myers"
+  },
+  {
+   "s": "emyers",
+   "p": "ownership_period",
+   "v": "1934–1994",
+   "quote": "1934–1994 — Kenneth and Edith Myers"
+  },
+  {
+   "s": "locke",
+   "p": "colleague_of",
+   "o": "bryant",
+   "quote": "pre 1934 — Benton M Locke and Ona Ora Bryant"
+  },
+  {
+   "s": "kmyers",
+   "p": "relative_of",
+   "o": "emyers",
+   "quote": "1934–1994 — Kenneth and Edith Myers"
+  },
+  {
+   "s": "fugal",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "2016–present — Brandon Fugal, via Adamantium Real Estate LLC"
+  },
+  {
+   "s": "fugal",
+   "p": "owned",
+   "o": "case",
+   "quote": "2016–present — Brandon Fugal, via Adamantium Real Estate LLC"
+  },
+  {
+   "s": "fugal",
+   "p": "owned",
+   "o": "adam",
+   "quote": "2016–present — Brandon Fugal, via Adamantium Real Estate LLC"
+  },
+  {
+   "s": "fugal",
+   "p": "occupation",
+   "v": "real estate developer and tech investor",
+   "quote": "In March 2020, Brandon Fugal, a real estate developer and tech investor, announced ownership of the ranch."
+  },
+  {
+   "s": "fugal",
+   "p": "announced_ownership",
+   "v": "March 2020",
+   "quote": "In March 2020, Brandon Fugal, a real estate developer and tech investor, announced ownership of the ranch."
+  },
+  {
+   "s": "fugal",
+   "p": "ownership_period",
+   "v": "2016–present",
+   "quote": "2016–present — Brandon Fugal, via Adamantium Real Estate LLC"
+  },
+  {
+   "s": "fugal",
+   "p": "action",
+   "v": "announced a partnership with the Hutchings Museum Institute in 2022",
+   "quote": "In 2022, Fugal announced a partnership with the Hutchings Museum Institute in Lehi, Utah, designed to \"better understand the environment and historical significance\" of the ranch."
+  },
+  {
+   "s": "adam",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 2016, Bigelow sold Skinwalker Ranch to Adamantium Real Estate LLC for around $500,000."
+  },
+  {
+   "s": "adam",
+   "p": "owned",
+   "o": "case",
+   "quote": "In 2016, Bigelow sold Skinwalker Ranch to Adamantium Real Estate LLC for around $500,000."
+  },
+  {
+   "s": "adam",
+   "p": "located_in",
+   "o": "slc",
+   "quote": "Adamantium Real Estate, LLC, a Delaware limited liability company based in Salt Lake City, Utah, filed a U.S. Trademark application for the service mark \"Skinwalker Ranch\" on February 15, 2017, and it was approved and registered on April 14, 2020"
+  },
+  {
+   "s": "adam",
+   "p": "description",
+   "v": "a Delaware limited liability company based in Salt Lake City, Utah",
+   "quote": "Adamantium Real Estate, LLC, a Delaware limited liability company based in Salt Lake City, Utah, filed a U.S. Trademark application for the service mark \"Skinwalker Ranch\" on February 15, 2017, and it was approved and registered on April 14, 2020"
+  },
+  {
+   "s": "adam",
+   "p": "purchase",
+   "v": "bought Skinwalker Ranch from Bigelow in 2016 for around $500,000",
+   "quote": "In 2016, Bigelow sold Skinwalker Ranch to Adamantium Real Estate LLC for around $500,000."
+  },
+  {
+   "s": "adam",
+   "p": "trademark",
+   "v": "service mark \"Skinwalker Ranch\" filed February 15, 2017; registered April 14, 2020",
+   "quote": "Adamantium Real Estate, LLC, a Delaware limited liability company based in Salt Lake City, Utah, filed a U.S. Trademark application for the service mark \"Skinwalker Ranch\" on February 15, 2017, and it was approved and registered on April 14, 2020"
+  },
+  {
+   "s": "adam",
+   "p": "trademark",
+   "v": "additional filing June 21, 2021 for \"cups and mugs, shirts and short-sleeved shirts, sports caps and hats\"; registered July 12, 2022",
+   "quote": "An additional trademark filing to expand use on \"cups and mugs, shirts and short-sleeved shirts, sports caps and hats\" was filed by Adamantium Real Estate, LLC on June 21, 2021, and was approved and registered on July 12, 2022."
+  },
+  {
+   "s": "hutchings",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 2022, Fugal announced a partnership with the Hutchings Museum Institute in Lehi, Utah, designed to \"better understand the environment and historical significance\" of the ranch."
+  },
+  {
+   "s": "hutchings",
+   "p": "located_in",
+   "o": "lehi",
+   "quote": "In 2022, Fugal announced a partnership with the Hutchings Museum Institute in Lehi, Utah, designed to \"better understand the environment and historical significance\" of the ranch."
+  },
+  {
+   "s": "hutchings",
+   "p": "partnership_purpose",
+   "v": "\"better understand the environment and historical significance\" of the ranch",
+   "quote": "In 2022, Fugal announced a partnership with the Hutchings Museum Institute in Lehi, Utah, designed to \"better understand the environment and historical significance\" of the ranch."
+  },
+  {
+   "s": "hutchings",
+   "p": "activity",
+   "v": "3D scans of various sites across the ranch",
+   "quote": "Hutchings Museum Institute – 3D scans of various sites across the ranch"
+  },
+  {
+   "s": "display",
+   "p": "depicted_in",
+   "o": "basin70s",
+   "quote": "Frank B. Salisbury, Joseph Junior Hicks (2023), The Utah UFO Display: A Scientist Brings Reason and Logic to Over 400 UFO Sightings in Utah's Uintah Basin, Cedar Fort Publishing & Media"
+  },
+  {
+   "s": "display",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Frank B. Salisbury, Joseph Junior Hicks (2023), The Utah UFO Display: A Scientist Brings Reason and Logic to Over 400 UFO Sightings in Utah's Uintah Basin, Cedar Fort Publishing & Media"
+  },
+  {
+   "s": "salisbury",
+   "p": "authored",
+   "o": "display",
+   "quote": "Frank B. Salisbury, Joseph Junior Hicks (2023), The Utah UFO Display: A Scientist Brings Reason and Logic to Over 400 UFO Sightings in Utah's Uintah Basin, Cedar Fort Publishing & Media"
+  },
+  {
+   "s": "hicks",
+   "p": "authored",
+   "o": "display",
+   "quote": "Frank B. Salisbury, Joseph Junior Hicks (2023), The Utah UFO Display: A Scientist Brings Reason and Logic to Over 400 UFO Sightings in Utah's Uintah Basin, Cedar Fort Publishing & Media"
+  },
+  {
+   "s": "salisbury",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Frank B. Salisbury, Joseph Junior Hicks (2023), The Utah UFO Display: A Scientist Brings Reason and Logic to Over 400 UFO Sightings in Utah's Uintah Basin, Cedar Fort Publishing & Media"
+  },
+  {
+   "s": "hicks",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Frank B. Salisbury, Joseph Junior Hicks (2023), The Utah UFO Display: A Scientist Brings Reason and Logic to Over 400 UFO Sightings in Utah's Uintah Basin, Cedar Fort Publishing & Media"
+  },
+  {
+   "s": "salisbury",
+   "p": "colleague_of",
+   "o": "hicks",
+   "quote": "Frank B. Salisbury, Joseph Junior Hicks (2023), The Utah UFO Display: A Scientist Brings Reason and Logic to Over 400 UFO Sightings in Utah's Uintah Basin, Cedar Fort Publishing & Media"
+  },
+  {
+   "s": "display",
+   "p": "year",
+   "v": "2023",
+   "quote": "Frank B. Salisbury, Joseph Junior Hicks (2023), The Utah UFO Display: A Scientist Brings Reason and Logic to Over 400 UFO Sightings in Utah's Uintah Basin, Cedar Fort Publishing & Media"
+  },
+  {
+   "s": "display",
+   "p": "publisher",
+   "v": "Cedar Fort Publishing & Media",
+   "quote": "Frank B. Salisbury, Joseph Junior Hicks (2023), The Utah UFO Display: A Scientist Brings Reason and Logic to Over 400 UFO Sightings in Utah's Uintah Basin, Cedar Fort Publishing & Media"
+  },
+  {
+   "s": "display",
+   "p": "sighting_count",
+   "v": "Over 400 UFO Sightings in Utah's Uintah Basin",
+   "quote": "Frank B. Salisbury, Joseph Junior Hicks (2023), The Utah UFO Display: A Scientist Brings Reason and Logic to Over 400 UFO Sightings in Utah's Uintah Basin, Cedar Fort Publishing & Media"
+  },
+  {
+   "s": "craft",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "According to Kelleher and Knapp, they saw or investigated evidence of close to 100 incidents that include vanishing and mutilated cattle, sightings of unidentified flying objects or orbs, large animals with piercing red eyes that they say were unscathed when struck by bullets, and invisible objects emitting destructive magnetic fields."
+  },
+  {
+   "s": "craft",
+   "p": "shape",
+   "v": "orbs",
+   "quote": "According to Kelleher and Knapp, they saw or investigated evidence of close to 100 incidents that include vanishing and mutilated cattle, sightings of unidentified flying objects or orbs, large animals with piercing red eyes that they say were unscathed when struck by bullets, and invisible objects emitting destructive magnetic fields."
+  },
+  {
+   "s": "craft",
+   "p": "description",
+   "v": "glowing orbs",
+   "quote": "In 2005, Colm Kelleher and co-author George Knapp published a book, Hunt for the Skinwalker, in which they describe the ranch being acquired by Bigelow to study anecdotal sightings of UFOs, Bigfoot-like creatures, crop circles, glowing orbs and poltergeist activity reported by its former owners."
+  },
+  {
+   "s": "f_sphere",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to Kelleher and Knapp, they saw or investigated evidence of close to 100 incidents that include vanishing and mutilated cattle, sightings of unidentified flying objects or orbs, large animals with piercing red eyes that they say were unscathed when struck by bullets, and invisible objects emitting destructive magnetic fields."
+  },
+  {
+   "s": "f_lights",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "When Robert Bigelow, founder of the NIDSci, purchased the ranch for $200,000 in 1996, this was reportedly the result of his having been convinced by the stories of mutilations, that included tales of strange lights and unusual impressions made in grass and soil told by the family of former ranch owner Terry Sherman."
+  },
+  {
+   "s": "f_traces",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "When Robert Bigelow, founder of the NIDSci, purchased the ranch for $200,000 in 1996, this was reportedly the result of his having been convinced by the stories of mutilations, that included tales of strange lights and unusual impressions made in grass and soil told by the family of former ranch owner Terry Sherman."
+  },
+  {
+   "s": "f_emi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to Kelleher and Knapp, they saw or investigated evidence of close to 100 incidents that include vanishing and mutilated cattle, sightings of unidentified flying objects or orbs, large animals with piercing red eyes that they say were unscathed when struck by bullets, and invisible objects emitting destructive magnetic fields."
+  },
+  {
+   "s": "f_hoax",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Sheaffer considers the explanation reliant upon the fewest assumptions to be that the Sherman family invented the story \"prior to selling it to the gullible Bigelow\", with many of the more extraordinary claims originating solely from Terry Sherman, who worked as a caretaker after the ranch was sold to Bigelow."
+  },
+  {
+   "s": "f_off",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Reid and Ted Stevens, a UFO experiencer, quickly agreed that the ranch deserved attention and inserted a line into the Department of Defense budget appropriating $22 million to study unidentified aerial phenomena."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "These early stories detailed the claims of a family that allegedly experienced inexplicable and frightening events after they purchased and occupied the property."
+  },
+  {
+   "s": "f_mut",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to Kelleher and Knapp, they saw or investigated evidence of close to 100 incidents that include vanishing and mutilated cattle, sightings of unidentified flying objects or orbs, large animals with piercing red eyes that they say were unscathed when struck by bullets, and invisible objects emitting destructive magnetic fields."
+  },
+  {
+   "s": "f_creature",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to Kelleher and Knapp, they saw or investigated evidence of close to 100 incidents that include vanishing and mutilated cattle, sightings of unidentified flying objects or orbs, large animals with piercing red eyes that they say were unscathed when struck by bullets, and invisible objects emitting destructive magnetic fields."
+  },
+  {
+   "s": "f_polt",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In 2005, Colm Kelleher and co-author George Knapp published a book, Hunt for the Skinwalker, in which they describe the ranch being acquired by Bigelow to study anecdotal sightings of UFOs, Bigfoot-like creatures, crop circles, glowing orbs and poltergeist activity reported by its former owners."
+  },
+  {
+   "s": "f_crop",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In 2005, Colm Kelleher and co-author George Knapp published a book, Hunt for the Skinwalker, in which they describe the ranch being acquired by Bigelow to study anecdotal sightings of UFOs, Bigfoot-like creatures, crop circles, glowing orbs and poltergeist activity reported by its former owners."
+  }
+ ]
+}
