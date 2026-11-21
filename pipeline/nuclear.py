@@ -40,11 +40,13 @@ def main():
             parts.append(f"first power {first}")
         if last and status in ("inactive", "decommissioned"):
             parts.append(f"last shut down {last}")
-        out.append({"n": name, "k": "power", "c": cc, "lat": round(sum(float(r["Latitude"]) for r in rs) / len(rs), 3),
+        yr = lambda v: int(v[:4]) if v and v[:4].isdigit() else None
+        reactors = [[yr(r["ConstructionStartAt"]), yr(r["OperationalFrom"]), yr(r["OperationalTo"]), STATUS[r["Status"]]] for r in rs]
+        out.append({"r": reactors, "n": name, "k": "power", "c": cc, "lat": round(sum(float(r["Latitude"]) for r in rs) / len(rs), 3),
                     "lon": round(sum(float(r["Longitude"]) for r in rs) / len(rs), 3), "s": status, "d": "; ".join(parts) + "."})
     hand = json.loads((ROOT / "data/nuclear_weapons_sites.json").read_text())["sites"]
-    for n, k, c, lat, lon, s, d in hand:
-        out.append({"n": n, "k": k, "c": c, "lat": lat, "lon": lon, "s": s, "d": d + ".", "hand": True})
+    for n, k, c, lat, lon, s, d, years in hand:
+        out.append({"n": n, "k": k, "c": c, "lat": lat, "lon": lon, "s": s, "d": d + ".", "hand": True, "t": years})
     (ROOT / "ui/nuclear.json").write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")))
     print(len(out), "sites;", dict(Counter(o["k"] for o in out)), dict(Counter(o["s"] for o in out)))
 

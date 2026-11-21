@@ -224,9 +224,9 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     <section id="nukesec" hidden>
       <h2>Nuclear sites</h2>
       <div id="nukekinds"></div>
-      <div class="sub2">Status</div>
+      <div class="sub2" id="nukeyear">Status</div>
       <div id="nukestatus"></div>
-      <p class="note">Power stations: GeoNuclearData (WNA and IAEA figures, March 2024). Weapons and test sites: hand-entered, approximate, status as generally reported.</p>
+      <p class="note">Sites appear from the year they were started, and their status follows the last year in the range you are viewing. Power stations: GeoNuclearData (WNA and IAEA figures, March 2024). Weapons and test sites: hand-entered, approximate, status as generally reported.</p>
     </section>
     <section>
       <h2>Network: shared names</h2>
@@ -343,7 +343,36 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     ["inactive", "Shut down or no longer used"], ["decommissioned", "Decommissioned"], ["cancelled", "Cancelled"]];
   const nkLabel = Object.fromEntries(NK), nsLabel = Object.fromEntries(NS);
   const nukeOn = { k: new Set(NK.map((x) => x[0])), s: new Set(NS.map((x) => x[0])) };
-  const nukeVis = (n) => nukeOn.k.has(n.k) && nukeOn.s.has(n.s);
+  const nukeVis = (n) => n.cur && nukeOn.k.has(n.k) && nukeOn.s.has(n.cur);
+  const NOW = 2024, PRI = ["active", "construction", "suspended", "planned", "inactive", "decommissioned", "cancelled"];
+  // Status of a site in a given year, from its construction, start-up and shutdown years. From 2024 on it is the dataset's own status.
+  function nukeStatus(n, Y) {
+    if (Y >= NOW) return n.s;
+    if (n.t) {
+      const [from, to, decom] = n.t;
+      if (from == null || Y < from) return null;
+      if (to == null || Y <= to) return "active";
+      return decom != null && Y >= decom ? "decommissioned" : "inactive";
+    }
+    let best = null;
+    for (const [cs, op, sd] of n.r) {
+      let st = null;
+      if (op != null && Y >= op) st = sd != null && Y > sd ? "inactive" : "active";
+      else if (cs != null && Y >= cs) st = "construction";
+      if (st && (best === null || PRI.indexOf(st) < PRI.indexOf(best))) best = st;
+    }
+    return best;
+  }
+  let nukeYear = null;
+  function updateNukes() {
+    if (nukeYear === S.y1) return;
+    nukeYear = S.y1;
+    for (const n of NUKES) n.cur = nukeStatus(n, nukeYear);
+    for (const [b, field, id] of nukeBtns) b.querySelector(".ct").textContent = fmt(NUKES.filter((n) => n.cur && (field === "k" ? n.k : n.cur) === id).length);
+    const el = document.getElementById("nukeyear");
+    if (el) el.textContent = nukeYear >= NOW ? "Status today" : "Status in " + nukeYear;
+  }
+  const nukeBtns = [];
   // One glyph per site: shape says what it is, fill says its status.
   function nukeGlyph(g, kind, status, x, y, r, col, bg) {
     g.beginPath();
@@ -404,6 +433,8 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     if (redrawTimeline) drawTimeline(); else markTimeline();
     $("range").textContent = S.y0 === S.y1 ? String(S.y0) : `${S.y0 === Y0 ? "≤" + Y0 : S.y0} – ${S.y1}`;
     updateReadout();
+    updateNukes();
+    if (S.sel && S.sel.kind === "nuke") render();
     drawMap();
     scheduleNet();
   }
@@ -446,7 +477,8 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     $("nukesec").hidden = false;
     const mk = (box, list, set, field, iconArgs) => list.forEach(([id, label]) => {
       const icon = nukeIcon(...iconArgs(id)); nukeIcons.push(icon);
-      const b = h("button", { class: "nk", "aria-pressed": "true" }, icon, h("span", { class: "nm" }, label), h("span", { class: "ct" }, fmt(NUKES.filter((n) => n[field] === id).length)));
+      const b = h("button", { class: "nk", "aria-pressed": "true" }, icon, h("span", { class: "nm" }, label), h("span", { class: "ct" }));
+      nukeBtns.push([b, field, id]);
       b.addEventListener("click", () => { set.has(id) ? set.delete(id) : set.add(id); b.setAttribute("aria-pressed", String(set.has(id))); drawMap(); });
       box.append(b);
     });
@@ -510,7 +542,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
       const sx = n.p[0] * k + x, sy = n.p[1] * k + y;
       if (sx < -8 || sx > W + 8 || sy < -8 || sy > H + 8) continue;
       const big = (S.sel && S.sel.kind === "nuke" && S.sel.site === n) || (hover && hover.nuke === n);
-      nukeGlyph(ctx, n.k, n.s, sx, sy, big ? nr + 2 : nr, C.nuke, C.bg);
+      nukeGlyph(ctx, n.k, n.cur, sx, sy, big ? nr + 2 : nr, C.nuke, C.bg);
       if (big) { ctx.font = "500 11px Inter, system-ui, sans-serif"; ctx.textBaseline = "middle"; ctx.lineJoin = "round"; ctx.lineWidth = 3.5; ctx.strokeStyle = C.bg; ctx.strokeText(n.n, sx + 11, sy); ctx.fillStyle = C.fg; ctx.fillText(n.n, sx + 11, sy); }
     }
     // strings between linked case files
@@ -608,7 +640,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
       hover = hit;
       if (!hit) tip.hidden = true;
       else if (hit.case) showTip(mx, my, h("div", {}, h("b", {}, hit.case.name), h("span", {}, [hit.case.date, hit.case.country].filter(Boolean).join(" · ") || "case file")));
-      else if (hit.nuke) showTip(mx, my, h("div", {}, h("b", {}, hit.nuke.n), h("span", {}, `${nkLabel[hit.nuke.k].replace(/s$/, "")} · ${nsLabel[hit.nuke.s].toLowerCase()}`)));
+      else if (hit.nuke) showTip(mx, my, h("div", {}, h("b", {}, hit.nuke.n), h("span", {}, `${nkLabel[hit.nuke.k].replace(/s$/, "")} · ${nsLabel[hit.nuke.cur].toLowerCase()}${nukeYear >= NOW ? "" : " in " + nukeYear}`)));
       else { const i = hit.rep; showTip(mx, my, h("div", {}, h("b", {}, R.datasets[rDs[i]].name), h("span", {}, `${rM[i] ? MON[rM[i]] + " " : ""}${R.y[i]} · ${R.shapes[rSh[i]]} · click to read`))); }
       if ((was && (was.case || was.nuke)) !== (hit && (hit.case || hit.nuke))) drawMap();
     });
@@ -940,7 +972,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     }
     if (s.kind === "nuke") {
       const n = s.site;
-      put(back(), h("span", { class: "tag" }, nkLabel[n.k].replace(/s$/, "")), h("span", { class: "tag" }, nsLabel[n.s]), h("h2", {}, n.n),
+      put(back(), h("span", { class: "tag" }, nkLabel[n.k].replace(/s$/, "")), h("span", { class: "tag" }, n.cur ? nsLabel[n.cur] + (nukeYear >= NOW ? "" : " in " + nukeYear) : "Not yet started in " + nukeYear), h("h2", {}, n.n),
         h("p", { class: "meta" }, `${n.c} · ${n.lat.toFixed(2)}, ${n.lon.toFixed(2)}`), h("p", {}, n.d),
         h("p", { class: "meta" }, n.hand ? "Hand-entered: location approximate, status as generally reported and not checked against a primary source." : "From GeoNuclearData (WNA and IAEA figures), last updated March 2024."),
         h("h3", {}, "Sighting reports within 100 km"),
