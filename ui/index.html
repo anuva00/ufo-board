@@ -1,259 +1,259 @@
 <meta charset="utf-8">
 <title>UFO Evidence Board</title>
 <meta name="claude:viewport-fit-sides" content="cover">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&family=IBM+Plex+Sans:wght@400;500;600&family=Patrick+Hand&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600&display=swap">
 <style>
-/* Layout: a cork board fills the screen; a filing-cabinet-grey case file sits
-   beside it (below it on phones). Cards are cases, sticky notes are the things
-   two or more cases share, red string is the one loud element. */
+/* Layout: an instrument console. Filters on the left rail, the map or 3D
+   network in the middle, the case file on the right, and a timeline with a
+   year brush along the bottom that filters everything above it. */
 :root {
-  --bg: #e6e9e4;          /* toolbar and page: government office grey-green */
-  --panel: #f2f4f0;
-  --fg: #1c221f;
-  --muted: #5b655f;
-  --line: #c5ccc5;
-  --cork: #b88958;
-  --cork-speck: #9c6f43;
-  --cork-light: #cfa272;
-  --card: #f7f3e6;
-  --card-ink: #1f1d19;
-  --card-rule: #b9cbdc;
-  --string: #b31f2a;
-  --pin: #d62b36;
-  --note-ink: #262118;
-  --n-person: #f6e27c;
-  --n-place: #f3a8b9;
-  --n-org: #9fcbee;
-  --n-doc: #b4dc9f;
-  --n-case: #efe9db;
-  --n-feature: #f5b877;
-  --n-expl: #d0c5e8;
-  --shadow: rgba(40, 24, 8, .38);
-  --display: "Courier Prime", "Courier New", Courier, monospace;
-  --hand: "Patrick Hand", "Comic Sans MS", "Segoe Print", cursive;
-  --body: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  color-scheme: dark;
+  --bg: #0e1217; --panel: #151a21; --raise: #1c232c; --line: #28313c;
+  --fg: #e7ecf2; --fg2: #aab4c1; --muted: #788494;
+  --sea: #0b0f14; --land: #1a2029; --border: #323c49; --dim: #2b333d;
+  --link: #e2578f;
+  --c0: #3987e5; --c1: #d95926; --c2: #199e70;          /* who collected the report */
+  --t-person: #3987e5; --t-org: #d95926; --t-place: #199e70; --t-doc: #c98500;
+  --t-case: #e66767; --t-feature: #0ca30c; --t-expl: #9085e9;
+  --display: "Space Grotesk", "Inter", system-ui, sans-serif;
+  --body: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
 }
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --bg: #161a18; --panel: #1d2220; --fg: #e3e8e2; --muted: #98a39c; --line: #353d38;
-    --cork: #6b4c31; --cork-speck: #523822; --cork-light: #7d5b3c;
-    --card: #ddd6c2; --card-ink: #1f1d19; --card-rule: #9fb3c6;
-    --string: #d3404a; --pin: #e2444e; --note-ink: #262118;
-    --n-person: #dccb6a; --n-place: #d993a4; --n-org: #8ab4d6; --n-doc: #9cc289;
-    --n-case: #d2ccbd; --n-feature: #d9a268; --n-expl: #b6abd0;
-    --shadow: rgba(0, 0, 0, .55);
-    color-scheme: dark;
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    color-scheme: light;
+    --bg: #f1f3f5; --panel: #ffffff; --raise: #f4f6f8; --line: #dde1e6;
+    --fg: #12161b; --fg2: #444e5a; --muted: #6a7482;
+    --sea: #e9edf1; --land: #fbfcfd; --border: #c0c7cf; --dim: #d3d8de;
+    --link: #c2376f;
+    --c0: #2a78d6; --c1: #eb6834; --c2: #1baf7a;
+    --t-person: #2a78d6; --t-org: #eb6834; --t-place: #1baf7a; --t-doc: #eda100;
+    --t-case: #e34948; --t-feature: #008300; --t-expl: #6250d6;
   }
 }
-:root[data-theme="dark"] {
-  --bg: #161a18; --panel: #1d2220; --fg: #e3e8e2; --muted: #98a39c; --line: #353d38;
-  --cork: #6b4c31; --cork-speck: #523822; --cork-light: #7d5b3c;
-  --card: #ddd6c2; --card-ink: #1f1d19; --card-rule: #9fb3c6;
-  --string: #d3404a; --pin: #e2444e; --note-ink: #262118;
-  --n-person: #dccb6a; --n-place: #d993a4; --n-org: #8ab4d6; --n-doc: #9cc289;
-  --n-case: #d2ccbd; --n-feature: #d9a268; --n-expl: #b6abd0;
-  --shadow: rgba(0, 0, 0, .55);
-  color-scheme: dark;
+:root[data-theme="light"] {
+  color-scheme: light;
+  --bg: #f1f3f5; --panel: #ffffff; --raise: #f4f6f8; --line: #dde1e6;
+  --fg: #12161b; --fg2: #444e5a; --muted: #6a7482;
+  --sea: #e9edf1; --land: #fbfcfd; --border: #c0c7cf; --dim: #d3d8de;
+  --link: #c2376f;
+  --c0: #2a78d6; --c1: #eb6834; --c2: #1baf7a;
+  --t-person: #2a78d6; --t-org: #eb6834; --t-place: #1baf7a; --t-doc: #eda100;
+  --t-case: #e34948; --t-feature: #008300; --t-expl: #6250d6;
 }
 
+[hidden] { display: none !important; }
 html, body { height: 100%; }
-body {
-  margin: 0;
-  background: var(--bg); color: var(--fg);
-  font: 14px/1.45 var(--body);
-  display: flex; flex-direction: column; overflow: hidden;
-}
+body { margin: 0; background: var(--bg); color: var(--fg); font: 13px/1.45 var(--body); font-variant-numeric: tabular-nums; }
 button, input { font: inherit; color: inherit; }
-:focus-visible { outline: 2px solid var(--string); outline-offset: 2px; }
+button { cursor: pointer; }
+:focus-visible { outline: 2px solid var(--link); outline-offset: 1px; }
+a { color: inherit; text-decoration-color: var(--link); text-underline-offset: 2px; }
 
-/* ---------- toolbar ---------- */
-.bar {
-  display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px;
-  padding-block: 8px;
-  padding-left: max(16px, env(safe-area-inset-left, 0px));
-  padding-right: max(16px, env(safe-area-inset-right, 0px));
-  border-bottom: 1px solid var(--line);
+.app {
+  display: grid; height: 100%;
+  grid-template-columns: 236px minmax(0, 1fr) 404px;
+  grid-template-rows: auto minmax(0, 1fr) 176px;
+  grid-template-areas: "top top top" "rail stage panel" "rail time panel";
 }
-.bar h1 { font: 700 17px/1.1 var(--display); margin: 0; letter-spacing: .02em; white-space: nowrap; }
-.bar h1 small { display: block; font: 400 11px/1.3 var(--body); color: var(--muted); letter-spacing: 0; }
-.search { position: relative; flex: 1 1 180px; min-width: 0; max-width: 300px; }
-.search input {
-  width: 100%; padding: 6px 10px; border: 1px solid var(--line); border-radius: 3px;
-  background: var(--panel);
+.top {
+  grid-area: top; display: flex; flex-wrap: wrap; align-items: center; gap: 8px 22px;
+  padding-block: 8px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  border-bottom: 1px solid var(--line); background: var(--panel);
 }
-.results {
-  position: absolute; z-index: 30; left: 0; right: 0; top: calc(100% + 4px);
-  background: var(--panel); border: 1px solid var(--line); border-radius: 3px;
-  box-shadow: 0 8px 20px var(--shadow); max-height: 300px; overflow: auto;
-}
-.results button {
-  display: flex; gap: 8px; align-items: baseline; width: 100%; text-align: left;
-  padding: 6px 10px; border: 0; background: none; cursor: pointer;
-}
-.results button:hover, .results button:focus-visible { background: var(--bg); }
-.results .kind { color: var(--muted); font-size: 11px; margin-left: auto; white-space: nowrap; }
-.chips { display: flex; flex-wrap: wrap; gap: 6px; }
-.chip {
-  display: inline-flex; align-items: center; gap: 6px; cursor: pointer;
-  padding: 3px 9px 3px 6px; border: 1px solid var(--line); border-radius: 3px;
-  background: var(--panel); font-size: 12px; user-select: none;
-}
-.chip i { width: 11px; height: 11px; background: var(--sw); box-shadow: 0 1px 1px var(--shadow); }
-.chip[aria-pressed="false"] { opacity: .5; background: none; }
+.top h1 { font: 600 16px/1 var(--display); letter-spacing: .04em; margin: 0; white-space: nowrap; }
+.kpis { display: flex; flex-wrap: wrap; gap: 4px 20px; flex: 1 1 auto; min-width: 0; }
+.kpi b { display: block; font: 600 15px/1.15 var(--display); }
+.kpi span { font-size: 10.5px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+.search { position: relative; flex: 0 1 260px; min-width: 150px; }
+.search input { width: 100%; box-sizing: border-box; padding: 6px 10px; border: 1px solid var(--line); border-radius: 4px; background: var(--bg); }
+.results { position: absolute; z-index: 40; left: 0; right: 0; top: calc(100% + 4px); max-height: 320px; overflow: auto;
+  background: var(--panel); border: 1px solid var(--border); border-radius: 4px; box-shadow: 0 10px 28px rgba(0, 0, 0, .35); }
+.results button { display: flex; gap: 8px; width: 100%; text-align: left; padding: 6px 10px; border: 0; background: none; }
+.results button:hover, .results button:focus-visible { background: var(--raise); }
+.results .kind { margin-left: auto; color: var(--muted); font-size: 11px; white-space: nowrap; }
+
+/* ---------- left rail ---------- */
+.rail { grid-area: rail; overflow-y: auto; border-right: 1px solid var(--line); background: var(--panel); padding: 12px 12px 20px; }
+.rail h2, .panel h3, .time h2 { font: 600 10.5px/1.3 var(--body); letter-spacing: .09em; text-transform: uppercase; color: var(--muted); margin: 0 0 8px; }
+.rail section + section { margin-top: 18px; padding-top: 14px; border-top: 1px solid var(--line); }
+.src { display: grid; grid-template-columns: 14px minmax(0, 1fr) auto; gap: 2px 8px; align-items: center; width: 100%; text-align: left;
+  padding: 5px 4px; border: 0; border-radius: 4px; background: none; }
+.src:hover { background: var(--raise); }
+.src i { width: 10px; height: 10px; border-radius: 2px; background: var(--sw); }
+.src[aria-pressed="false"] i { background: none; box-shadow: inset 0 0 0 1.5px var(--muted); }
+.src[aria-pressed="false"] .nm, .src[aria-pressed="false"] .ct { color: var(--muted); }
+.src .nm { min-width: 0; overflow-wrap: anywhere; }
+.src .ct { color: var(--fg2); }
+.src small { grid-column: 2 / 4; color: var(--muted); font-size: 11px; line-height: 1.3; }
+.legend { display: flex; flex-wrap: wrap; gap: 4px 12px; margin: 0 0 8px; font-size: 11.5px; color: var(--fg2); }
+.legend i { display: inline-block; width: 9px; height: 9px; border-radius: 2px; background: var(--sw); margin-right: 5px; }
+.bar { display: grid; grid-template-columns: 70px minmax(0, 1fr) 48px; gap: 8px; align-items: center; width: 100%; padding: 2px 4px; border: 0; border-radius: 4px; background: none; text-align: left; }
+.bar:hover { background: var(--raise); }
+.bar .track { height: 8px; }
+.bar .fill { display: block; height: 100%; min-width: 1px; border-radius: 0 3px 3px 0; background: var(--muted); }
+.bar[aria-pressed="true"] .fill { background: var(--fg); }
+.bar[aria-pressed="true"] .nm { font-weight: 600; }
+.bar .ct { text-align: right; color: var(--fg2); }
+.chips { display: flex; flex-wrap: wrap; gap: 5px; }
+.chip { display: inline-flex; align-items: center; gap: 5px; padding: 2px 8px 2px 6px; border: 1px solid var(--line); border-radius: 999px; background: none; font-size: 11.5px; }
+.chip i { width: 8px; height: 8px; border-radius: 50%; background: var(--sw); }
+.chip[aria-pressed="false"] { color: var(--muted); }
 .chip[aria-pressed="false"] i { background: none; box-shadow: inset 0 0 0 1.5px var(--muted); }
-.rarity { display: flex; align-items: center; gap: 8px; font-size: 12px; color: var(--muted); }
-.rarity input { width: 110px; accent-color: var(--string); }
-.rarity b { color: var(--fg); font-weight: 600; font-variant-numeric: tabular-nums; }
+.rarity { display: block; margin-top: 10px; font-size: 12px; color: var(--fg2); }
+.rarity input { width: 100%; accent-color: var(--link); margin-top: 4px; }
+.note { color: var(--muted); font-size: 11px; margin: 8px 0 0; }
 
-/* ---------- main split ---------- */
-.main { flex: 1; min-height: 0; display: flex; }
-.board {
-  position: relative; flex: 1; min-width: 0; overflow: hidden; touch-action: none; cursor: grab;
-  background-color: var(--cork);
-  background-image:
-    radial-gradient(var(--cork-speck) 1px, transparent 1.6px),
-    radial-gradient(var(--cork-light) 1px, transparent 1.8px),
-    radial-gradient(var(--cork-speck) .8px, transparent 1.3px);
-  background-size: 23px 19px, 31px 37px, 13px 17px;
-  background-position: 0 0, 11px 7px, 5px 13px;
-  box-shadow: inset 0 0 60px var(--shadow);
-}
-.board:active { cursor: grabbing; }
-.world { position: absolute; left: 0; top: 0; transform-origin: 0 0; }
-.world svg { position: absolute; left: 0; top: 0; width: 1px; height: 1px; overflow: visible; }
-.string { fill: none; stroke: var(--string); stroke-linecap: round; pointer-events: none; }
-.hit { fill: none; stroke: transparent; stroke-width: 12; cursor: pointer; }
-.has-sel .string:not(.on) { opacity: .1; }
-.string.on { stroke-width: 2.6; }
+/* ---------- stage ---------- */
+.stage { grid-area: stage; position: relative; min-width: 0; min-height: 0; overflow: hidden; background: var(--sea); }
+.tabs { position: absolute; z-index: 20; left: 12px; top: 10px; display: flex; border: 1px solid var(--border); border-radius: 5px; overflow: hidden; background: var(--panel); }
+.tabs button { padding: 5px 13px; border: 0; background: none; color: var(--fg2); font-weight: 500; }
+.tabs button[aria-selected="true"] { background: var(--fg); color: var(--bg); }
+.mapctl { position: absolute; z-index: 20; right: 12px; top: 10px; display: flex; gap: 4px; }
+.mapctl button { padding: 5px 9px; border: 1px solid var(--border); border-radius: 5px; background: var(--panel); color: var(--fg2); }
+.readout { position: absolute; z-index: 20; left: 12px; bottom: 10px; padding: 4px 9px; border: 1px solid var(--line); border-radius: 5px; background: var(--panel); color: var(--fg2); font-size: 11.5px; max-width: calc(100% - 24px); }
+#map, #net { position: absolute; inset: 0; }
+#map canvas { display: block; width: 100%; height: 100%; cursor: crosshair; }
+.netlabels { position: absolute; inset: 0; pointer-events: none; overflow: hidden; }
+.netlabels span { position: absolute; left: 0; top: 0; max-width: 150px; margin: 7px 0 0 7px; font: 500 10.5px/1.2 var(--body); color: var(--fg); text-shadow: 0 0 3px var(--sea), 0 0 3px var(--sea); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.netlabels span.off { opacity: .25; }
+.scene-tooltip { font: 12px var(--body) !important; }
+.tip { position: absolute; z-index: 30; pointer-events: none; max-width: 280px; padding: 6px 9px; border: 1px solid var(--border); border-radius: 5px; background: var(--panel); box-shadow: 0 8px 22px rgba(0, 0, 0, .35); font-size: 12px; }
+.tip b { display: block; }
+.tip span { color: var(--fg2); }
 
-.node {
-  position: absolute; left: 0; top: 0; cursor: pointer; border: 0; text-align: left;
-  transform: translate(var(--x), var(--y)) translate(-50%, -50%) rotate(var(--r));
-  box-shadow: 1px 3px 6px var(--shadow);
-}
-.node::before {             /* the pushpin */
-  content: ""; position: absolute; left: 50%; top: 3px; width: 9px; height: 9px; margin-left: -4.5px;
-  border-radius: 50%; background: var(--pin);
-  box-shadow: inset -1.5px -1.5px 2px rgba(0, 0, 0, .35), 1px 2px 2px var(--shadow);
-}
-.case {
-  width: 158px; padding: 16px 10px 8px; background: var(--card); color: var(--card-ink);
-  border-top: 3px solid var(--string);
-  background-image: repeating-linear-gradient(transparent 0 17px, var(--card-rule) 17px 18px);
-  background-position: 0 22px;
-}
-.case b { display: block; font: 700 13px/18px var(--display); overflow-wrap: anywhere; }
-.case span { display: block; font: 400 11px/18px var(--display); opacity: .75; }
-.note {
-  width: 108px; min-height: 58px; padding: 15px 8px 7px; background: var(--sw); color: var(--note-ink);
-  font: 400 15px/1.12 var(--hand); overflow-wrap: anywhere;
-}
-.note em {
-  position: absolute; right: 4px; bottom: 2px; font: 600 10px/1 var(--body); font-style: normal; opacity: .6;
-}
-.has-sel .node:not(.on) { opacity: .22; }
-.node.sel { outline: 2.5px solid var(--string); outline-offset: 3px; z-index: 5; }
-.node:hover { z-index: 6; }
-
-.zoom { position: absolute; left: 12px; bottom: 12px; display: flex; gap: 4px; z-index: 10; }
-.zoom button {
-  min-width: 32px; height: 32px; padding: 0 9px; border: 1px solid var(--line); border-radius: 3px;
-  background: var(--panel); cursor: pointer; font-weight: 600;
-}
-.caveat {
-  position: absolute; right: 12px; bottom: 12px; z-index: 10; max-width: min(360px, 60%);
-  background: var(--panel); border: 1px solid var(--line); border-radius: 3px;
-  padding: 5px 9px; font-size: 11px; color: var(--muted);
-}
+/* ---------- timeline ---------- */
+.time { grid-area: time; position: relative; min-width: 0; border-top: 1px solid var(--line); background: var(--panel); padding: 8px 12px 4px; display: flex; flex-direction: column; }
+.time header { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 12px; }
+.time h2 { margin: 0; }
+.time .range { font: 600 14px/1 var(--display); }
+.time button { padding: 2px 9px; border: 1px solid var(--border); border-radius: 4px; background: none; color: var(--fg2); font-size: 11.5px; }
+.time .legend { margin: 0 0 0 auto; }
+.time svg { flex: 1; min-height: 0; width: 100%; display: block; }
+.time .axis text { fill: var(--muted); font-size: 10px; }
+.time .axis line, .time .axis path { stroke: var(--line); }
+.time .grid { stroke: var(--line); stroke-dasharray: 2 3; }
+.time .seg.out { opacity: .28; }
+.time .casedot { fill: var(--fg); stroke: var(--panel); stroke-width: 1; }
+.time .selection { fill: var(--fg); fill-opacity: .07; stroke: var(--fg2); stroke-opacity: .6; }
 
 /* ---------- case file panel ---------- */
-.panel {
-  flex: 0 0 390px; min-width: 0; overflow-y: auto; background: var(--panel);
-  border-left: 1px solid var(--line);
-  padding: 14px 16px 28px;
-  padding-right: max(16px, env(safe-area-inset-right, 0px));
-}
-.panel h2 { font: 700 18px/1.2 var(--display); margin: 0 0 4px; text-wrap: balance; }
-.panel h3 {
-  font: 600 11px/1.3 var(--body); text-transform: uppercase; letter-spacing: .08em; color: var(--muted);
-  margin: 20px 0 8px; padding-bottom: 4px; border-bottom: 1px solid var(--line);
-}
+.panel { grid-area: panel; overflow-y: auto; border-left: 1px solid var(--line); background: var(--panel); padding: 14px 16px 28px; padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.panel h2 { font: 600 17px/1.25 var(--display); margin: 0 0 4px; text-wrap: balance; overflow-wrap: anywhere; }
+.panel h3 { margin: 20px 0 8px; padding-bottom: 5px; border-bottom: 1px solid var(--line); }
 .panel p { margin: 6px 0; }
-.meta { color: var(--muted); font-size: 12.5px; }
-.back { border: 0; background: none; padding: 0; margin: 0 0 10px; color: var(--muted); cursor: pointer; font-size: 12px; }
+.meta { color: var(--fg2); font-size: 12px; }
+.empty { color: var(--muted); }
+.back { border: 0; background: none; padding: 0; margin: 0 0 10px; color: var(--muted); font-size: 12px; }
 .back:hover { color: var(--fg); }
-.tag {
-  display: inline-block; padding: 1px 7px; border-radius: 2px; font-size: 11px; font-weight: 500;
-  background: var(--sw, var(--bg)); color: var(--note-ink); margin: 0 4px 4px 0;
-}
-.tag.plain { background: var(--bg); color: var(--fg); border: 1px solid var(--line); }
-.rows { display: flex; flex-direction: column; gap: 2px; }
-.row {
-  display: flex; gap: 8px; align-items: baseline; width: 100%; text-align: left;
-  padding: 5px 6px; border: 0; border-radius: 3px; background: none; cursor: pointer;
-}
-.row:hover { background: var(--bg); }
-.row .sw { flex: 0 0 9px; height: 9px; background: var(--sw); align-self: center; }
+.tag { display: inline-flex; align-items: center; gap: 5px; padding: 1px 7px; border: 1px solid var(--line); border-radius: 3px; font-size: 11px; color: var(--fg2); margin: 0 4px 4px 0; }
+.tag i { width: 8px; height: 8px; border-radius: 50%; background: var(--sw); }
+.rows { display: flex; flex-direction: column; gap: 1px; }
+.row { display: flex; gap: 8px; align-items: baseline; width: 100%; text-align: left; padding: 4px 6px; border: 0; border-radius: 4px; background: none; }
+.row:hover { background: var(--raise); }
+.row .sw { flex: 0 0 8px; height: 8px; border-radius: 50%; background: var(--sw); align-self: center; }
 .row .nm { flex: 1; min-width: 0; overflow-wrap: anywhere; }
-.row .ct { color: var(--muted); font-size: 11.5px; white-space: nowrap; font-variant-numeric: tabular-nums; }
-.row.solo .nm { color: var(--muted); }
-.lead { display: block; width: 100%; text-align: left; padding: 8px 6px; border: 0; border-bottom: 1px solid var(--line); background: none; cursor: pointer; }
-.lead:hover { background: var(--bg); }
-.lead .pair { font: 700 13px/1.3 var(--display); }
-.lead .via { color: var(--muted); font-size: 12px; margin-top: 2px; }
+.row .ct { color: var(--muted); font-size: 11.5px; white-space: nowrap; }
+.row.solo .nm { color: var(--fg2); }
+.lead { display: grid; grid-template-columns: minmax(0, 1fr) 44px; gap: 2px 10px; width: 100%; text-align: left; padding: 8px 6px; border: 0; border-bottom: 1px solid var(--line); background: none; }
+.lead:hover { background: var(--raise); }
+.lead .pair { font-weight: 600; overflow-wrap: anywhere; }
+.lead .via { grid-column: 1; color: var(--fg2); font-size: 12px; }
+.lead .score { grid-row: 1 / 3; grid-column: 2; align-self: center; text-align: right; font: 600 13px var(--display); color: var(--fg2); }
+.lead .score small { display: block; height: 3px; margin-top: 3px; border-radius: 2px; background: var(--link); margin-left: auto; }
+.srcdoc { display: block; padding: 7px 9px; margin: 0 0 6px; border: 1px solid var(--line); border-radius: 5px; background: var(--raise); }
+.srcdoc b { display: block; font-weight: 600; overflow-wrap: anywhere; }
+.srcdoc span { color: var(--fg2); font-size: 12px; }
 .ev { margin: 8px 0 12px; }
 .ev .claim { font-size: 12.5px; }
 .ev .claim i { color: var(--muted); font-style: normal; }
-.ev blockquote {
-  margin: 4px 0 0; padding: 6px 10px; border-left: 3px solid var(--string);
-  background: var(--bg); font: 400 12.5px/1.45 var(--display);
-}
-.ev a, .panel a { color: inherit; text-decoration-color: var(--string); text-underline-offset: 2px; }
-.sub { font: 700 13.5px/1.3 var(--display); margin: 14px 0 2px; }
+.ev blockquote { margin: 4px 0 0; padding: 6px 10px; border-left: 2px solid var(--link); background: var(--raise); font-size: 12.5px; color: var(--fg2); overflow-wrap: anywhere; }
+.ev cite { display: block; margin-top: 3px; font-style: normal; font-size: 11px; color: var(--muted); }
+.sub { font-weight: 600; margin: 14px 0 2px; }
+.rep { padding: 8px 0; border-bottom: 1px solid var(--line); }
+.rep .hd { display: flex; flex-wrap: wrap; gap: 4px 8px; align-items: baseline; }
+.rep .hd b { font-weight: 600; }
+.rep .hd span { color: var(--fg2); font-size: 12px; }
+.rep p { color: var(--fg2); margin: 3px 0 0; overflow-wrap: anywhere; }
 details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
-.empty { color: var(--muted); }
+.linkbtn { border: 0; background: none; padding: 0; color: var(--fg2); text-decoration: underline; text-decoration-color: var(--link); text-underline-offset: 2px; }
 
-@media (max-width: 760px) {
-  .main { flex-direction: column; }
-  .panel {
-    flex: 0 0 44%; border-left: 0; border-top: 1px solid var(--line);
-    padding-left: max(16px, env(safe-area-inset-left, 0px));
-  }
-  .bar h1 small { display: none; }
-  .chips { flex-wrap: nowrap; overflow-x: auto; flex: 1 1 100%; min-width: 0; }
-  .chip { white-space: nowrap; }
-  .caveat { display: none; }
-  .search { max-width: none; }
+@media (max-width: 1080px) {
+  .app { grid-template-columns: 200px minmax(0, 1fr) 320px; }
+}
+@media (max-width: 860px) {
+  html, body { height: auto; }
+  .app { display: flex; flex-direction: column; height: auto; }
+  .top { order: 0; } .stage { order: 1; height: 58vh; min-height: 320px; } .time { order: 2; height: 170px; } .panel { order: 3; max-height: none; } .rail { order: 4; }
+  .rail, .panel { border: 0; border-top: 1px solid var(--line); padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+  .time .legend { display: none; }
+  .mapctl { top: 48px; left: 12px; right: auto; }
+  .search { flex: 1 1 100%; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 </style>
 
-<header class="bar">
-  <h1>UFO EVIDENCE BOARD<small id="counts">loading the files…</small></h1>
-  <div class="search">
-    <input id="q" type="search" placeholder="Find a case, person, place…" autocomplete="off" aria-label="Search the board">
-    <div class="results" id="results" hidden></div>
-  </div>
-  <div class="chips" id="chips" role="group" aria-label="Kinds of note to show"></div>
-  <label class="rarity" for="maxdf">Shared by 2 to <b id="maxdfv">5</b> cases
-    <input id="maxdf" type="range" min="2" max="10" value="5">
-  </label>
-</header>
-
-<div class="main">
-  <div class="board" id="board">
-    <div class="world" id="world"><svg id="strings" aria-hidden="true"></svg></div>
-    <div class="zoom">
-      <button id="zin" aria-label="Zoom in">+</button>
-      <button id="zout" aria-label="Zoom out">−</button>
-      <button id="zfit">Fit</button>
+<div class="app">
+  <header class="top">
+    <h1>UFO EVIDENCE BOARD</h1>
+    <div class="kpis" id="kpis"><div class="kpi"><b>Loading…</b><span>reading the files</span></div></div>
+    <div class="search">
+      <input id="q" type="search" placeholder="Find a case, person, place, programme…" autocomplete="off" aria-label="Search case files and names">
+      <div class="results" id="results" hidden></div>
     </div>
-    <div class="caveat">A string means two sources mention the same thing. It is a lead to check, not a finding.</div>
-  </div>
+  </header>
+
+  <aside class="rail" aria-label="Filters">
+    <section>
+      <h2>Sighting reports by source</h2>
+      <div class="legend" id="clslegend"></div>
+      <div id="sources"></div>
+    </section>
+    <section>
+      <h2>Reported shape</h2>
+      <div id="shapes"></div>
+      <p class="note">Shape comes from the reporter's own category where the dataset has one, otherwise from keywords in the summary. Blue Book titles carry no description.</p>
+    </section>
+    <section>
+      <h2>Network: shared names</h2>
+      <div class="chips" id="chips" role="group" aria-label="Kinds of shared thing to show in the network"></div>
+      <label class="rarity" for="maxdf">Shared by 2 to <b id="maxdfv">3</b> case files
+        <input id="maxdf" type="range" min="2" max="10" value="3">
+      </label>
+      <p class="note">Rarer links are more telling: a name in two files outweighs one in thirty.</p>
+    </section>
+  </aside>
+
+  <main class="stage" id="stage">
+    <div id="map"><canvas id="mapcanvas" aria-label="World map of sighting reports and case files"></canvas></div>
+    <div id="net" hidden><div id="netgraph"></div><div class="netlabels" id="netlabels"></div></div>
+    <div class="tabs" role="tablist">
+      <button role="tab" id="tab-map" aria-selected="true">Map</button>
+      <button role="tab" id="tab-net" aria-selected="false">3D network</button>
+    </div>
+    <div class="mapctl" id="mapctl">
+      <button data-z="world">World</button><button data-z="na">N. America</button><button data-z="eu">Europe</button>
+      <button data-z="in" aria-label="Zoom in">+</button><button data-z="out" aria-label="Zoom out">−</button>
+    </div>
+    <div class="readout" id="readout"></div>
+    <div class="tip" id="tip" hidden></div>
+  </main>
+
+  <footer class="time">
+    <header>
+      <h2>Reports per year</h2>
+      <span class="range" id="range"></span>
+      <button id="play">Play</button>
+      <button id="allyears">All years</button>
+      <div class="legend" id="timelegend"></div>
+    </header>
+    <svg id="timeline" role="img" aria-label="Reports per year, with a brush to choose the years shown"></svg>
+  </footer>
+
   <aside class="panel" id="panel" aria-live="polite"></aside>
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/3d-force-graph@1.79.0/dist/3d-force-graph.min.js"></script>
 <script>
 (async function () {
   const $ = (id) => document.getElementById(id);
@@ -263,301 +263,639 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     for (const [k, v] of Object.entries(attrs || {})) {
       if (k === "class") el.className = v;
       else if (k === "on") for (const [ev, fn] of Object.entries(v)) el.addEventListener(ev, fn);
-      else if (k === "style") el.setAttribute("style", v);
       else if (v !== null && v !== undefined && v !== false) el.setAttribute(k, v);
     }
     for (const kid of kids.flat(Infinity)) if (kid !== null && kid !== undefined && kid !== false) el.append(kid);
     return el;
   }
-
   const put = (...kids) => panel.append(...kids.flat(Infinity).filter((k) => k !== null && k !== undefined && k !== false));
-  let data;
+  const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const fmt = (n) => n.toLocaleString("en-US");
+  const MON = ["", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+
+  let D, R, GEO;
   try {
-    data = await (await fetch("data.json")).json();
+    [D, R, GEO] = await Promise.all(["data.json", "reports.json", "geo.json"].map((f) => fetch(f).then((r) => { if (!r.ok) throw new Error(f); return r.json(); })));
   } catch (err) {
-    panel.replaceChildren(h("h2", {}, "The files did not load"), h("p", { class: "empty" }, "data.json could not be read. Reload the page to try again."));
+    panel.replaceChildren(h("h2", {}, "The data did not load"), h("p", { class: "empty" }, "One of the data files could not be read. Reload the page to try again."));
+    $("kpis").replaceChildren(h("div", { class: "kpi" }, h("b", {}, "No data"), h("span", {}, "reload to retry")));
     return;
   }
 
-  // ---------- indexes ----------
-  const GROUPS = [
-    { id: "person", label: "People", types: ["person"], color: "--n-person", on: true },
-    { id: "place", label: "Places", types: ["place"], color: "--n-place", on: true },
-    { id: "org", label: "Organisations", types: ["organization", "program"], color: "--n-org", on: true },
-    { id: "doc", label: "Documents & media", types: ["document", "work"], color: "--n-doc", on: true },
-    { id: "case", label: "Other incidents", types: ["case"], color: "--n-case", on: true },
-    { id: "feature", label: "Features", types: ["feature"], color: "--n-feature", on: false },
-    { id: "expl", label: "Explanations", types: ["explanation"], color: "--n-expl", on: false },
-  ];
-  const groupOf = {};
-  GROUPS.forEach((g) => g.types.forEach((t) => (groupOf[t] = g)));
-  const LOCAL = { craft: "Reported object", vehicle: "Vehicle" };
-  const cases = new Map(data.cases.map((c) => [c.id, c]));
-  const ents = new Map(data.entities.map((e) => [e.id, e]));
+  // ================= data =================
+  const N = R.n, Y0 = 1940, Y1 = Math.max(...R.y);
+  const CLASS = [{ name: "Civilian hotline", v: "--c0" }, { name: "US government", v: "--c1" }, { name: "Other governments", v: "--c2" }];
+  const CLS_OF = { nuforc: 0, bluebook: 1, faa: 1, geipan: 2, moduk: 2 };
+  const dsCls = R.datasets.map((d) => CLS_OF[d.id]);
+  const rDs = Uint8Array.from(R.ds), rY = Uint16Array.from(R.y, (y) => Math.max(y, Y0)), rM = Uint8Array.from(R.m), rSh = Uint8Array.from(R.sh);
+  const rCls = Uint8Array.from(R.ds, (d) => dsCls[d]);
+  const rPx = new Float32Array(N), rPy = new Float32Array(N);
+  const cases = new Map(D.cases.map((c) => [c.id, c]));
+  const ents = new Map(D.entities.map((e) => [e.id, e]));
   const linksByCase = new Map(), linksByEnt = new Map(), linkOf = new Map();
-  for (const l of data.links) {
+  for (const l of D.links) {
     (linksByCase.get(l.c) || linksByCase.set(l.c, []).get(l.c)).push(l);
     (linksByEnt.get(l.e) || linksByEnt.set(l.e, []).get(l.e)).push(l);
     linkOf.set(l.e + ":" + l.c, l);
   }
-  const N = data.n_cases;
-  const sw = (e) => `--sw: var(${(groupOf[e.type] || { color: "--n-case" }).color})`;
+  const pairsByCase = new Map();
+  for (const p of D.pairs) for (const c of [p.a, p.b]) (pairsByCase.get(c) || pairsByCase.set(c, []).get(c)).push(p);
+  const pairOf = (a, b) => (pairsByCase.get(a) || []).find((p) => p.a === Math.min(a, b) && p.b === Math.max(a, b));
+  const yearOf = (c) => { const m = /^(\d{4})/.exec(c.date || ""); return m ? +m[1] : null; };
+  for (const c of D.cases) c.year = yearOf(c);
+  const GROUPS = [
+    { id: "person", label: "People", types: ["person"], v: "--t-person", on: true },
+    { id: "org", label: "Organisations", types: ["organization", "program"], v: "--t-org", on: true },
+    { id: "place", label: "Places", types: ["place"], v: "--t-place", on: true },
+    { id: "doc", label: "Documents & media", types: ["document", "work"], v: "--t-doc", on: true },
+    { id: "case", label: "Other incidents", types: ["case"], v: "--t-case", on: true },
+    { id: "feature", label: "Features", types: ["feature"], v: "--t-feature", on: false },
+    { id: "expl", label: "Explanations", types: ["explanation"], v: "--t-expl", on: false },
+  ];
+  const groupOf = {};
+  GROUPS.forEach((g) => g.types.forEach((t) => (groupOf[t] = g)));
+  const LOCAL = { craft: "Reported object", vehicle: "Vehicle or sensor" };
+  const groupLabel = (e) => (e.case != null || e.type === "case" ? "Other incidents" : (groupOf[e.type] || { label: LOCAL[e.type] || e.type }).label);
+  const sw = (e) => `--sw: var(${(groupOf[e.type] || { v: "--muted" }).v})`;
   const human = (p) => p.replace(/_/g, " ");
-  const year = (c) => (c.date ? String(c.date).slice(0, 4) : "");
-  const maxShared = Math.max(2, ...data.entities.filter((e) => e.case == null && groupOf[e.type]).map((e) => e.df));
-  $("maxdf").max = maxShared;
-  $("maxdf").value = Math.min(3, maxShared);
-  $("counts").textContent = `${N} cases · ${data.n_claims.toLocaleString()} quoted claims`;
+  const nDocs = D.cases.filter((c) => c.kind === "document").length;
+  const govReports = R.datasets.filter((d) => d.gov).reduce((n, d) => n + d.n, 0);
 
-  // ---------- state ----------
-  const state = { groups: new Set(GROUPS.filter((g) => g.on).map((g) => g.id)), maxDf: +$("maxdf").value, sel: null };
-  const pos = new Map();      // node id -> {x, y, fx, fy} kept across filter changes
-  const els = new Map();      // node id -> element
-  let nodes = [], strings = [], sim = null;
-  const world = $("world"), board = $("board"), svg = d3.select("#strings");
-  const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
-  const tilt = (id, max) => (((id * 2654435761) >>> 0) % 1000 / 1000 - 0.5) * 2 * max;
-
-  // ---------- graph ----------
-  function visibleEntity(e) {
-    const g = groupOf[e.type];
-    return g && e.case == null && e.df >= 2 && e.df <= state.maxDf && state.groups.has(g.id);
+  // ================= state =================
+  const S = { view: "map", y0: Y0, y1: Y1, ds: new Set(R.datasets.map((_, i) => i)), shape: null,
+    groups: new Set(GROUPS.filter((g) => g.on).map((g) => g.id)), maxDf: 3, sel: null };
+  let vis = [new Int32Array(0), new Int32Array(0), new Int32Array(0)], nVis = 0, nVisMapped = 0;
+  let onCases = new Set(), selCases = new Set(), onNet = new Set(), nearSet = null;
+  const C = {};
+  function readColors() {
+    const css = getComputedStyle(document.documentElement);
+    for (const k of ["bg", "panel", "fg", "fg2", "muted", "sea", "land", "border", "line", "dim", "link", "c0", "c1", "c2"]) C[k] = css.getPropertyValue("--" + k).trim();
+    C.cls = [C.c0, C.c1, C.c2];
+    C.type = {};
+    for (const g of GROUPS) for (const t of g.types) C.type[t] = css.getPropertyValue(g.v).trim();
+    C.dark = css.getPropertyValue("color-scheme").includes("dark");
   }
-  function build() {
-    const next = [];
-    for (const c of data.cases) next.push({ id: "c" + c.id, kind: "case", ref: c, r: 96 });
-    for (const e of data.entities) if (visibleEntity(e)) next.push({ id: "e" + e.id, kind: "ent", ref: e, r: 66 });
-    const have = new Set(next.map((n) => n.id));
-    const strs = [], seen = new Set();
-    for (const l of data.links) {
-      const e = ents.get(l.e);
-      if (e.case != null) {                        // one case naming another: card-to-card string
-        if (e.case === l.c) continue;
-        const a = Math.min(e.case, l.c), b = Math.max(e.case, l.c), key = `d${a}-${b}`;
-        if (seen.has(key)) continue;
-        seen.add(key);
-        strs.push({ id: key, source: "c" + a, target: "c" + b, w: 1, direct: [a, b] });
-      } else if (have.has("e" + l.e)) {
-        strs.push({ id: `s${l.e}-${l.c}`, source: "c" + l.c, target: "e" + l.e, w: e.w, link: l });
-      }
-    }
-    for (const n of next) {
-      const p = pos.get(n.id);
-      if (p) Object.assign(n, p);
-      else if (n.kind === "ent") {                 // new note: start between the cases it joins
-        const cs = (linksByEnt.get(n.ref.id) || []).map((l) => pos.get("c" + l.c)).filter(Boolean);
-        if (cs.length) { n.x = d3.mean(cs, (p) => p.x) + tilt(n.ref.id, 30); n.y = d3.mean(cs, (p) => p.y) + tilt(n.ref.id + 7, 30); }
-      }
-    }
-    nodes = next; strings = strs;
-    draw();
-    layout();
-  }
+  readColors();
 
-  function draw() {
-    const keep = new Set(nodes.map((n) => n.id));
-    for (const [id, el] of els) if (!keep.has(id)) { el.remove(); els.delete(id); }
-    for (const n of nodes) {
-      if (els.has(n.id)) continue;
-      let el;
-      if (n.kind === "case") {
-        const c = n.ref;
-        el = h("button", { class: "node case", style: `--r: ${tilt(c.id, 2.2).toFixed(2)}deg` },
-          h("b", {}, c.name), h("span", {}, [year(c), c.country].filter(Boolean).join(" · ") || "date not stated"));
-      } else {
-        const e = n.ref;
-        el = h("button", { class: "node note", style: `${sw(e)}; --r: ${tilt(e.id, 4).toFixed(2)}deg`, title: `${e.name} — in ${e.df} cases` },
-          e.name.length > 46 ? e.name.slice(0, 44) + "…" : e.name, h("em", {}, "×" + e.df));
-      }
-      el.addEventListener("click", () => select(n.kind === "case" ? { kind: "case", id: n.ref.id } : { kind: "ent", id: n.ref.id }));
-      world.append(el);
-      els.set(n.id, el);
-      n.h = el.offsetHeight;
-      d3.select(el).call(d3.drag()
-        .on("start", () => { if (sim && !reduced) sim.alphaTarget(0.15).restart(); })
-        .on("drag", (ev) => { const k = d3.zoomTransform(board).k; n.fx = (n.fx ?? n.x) + ev.dx / k; n.fy = (n.fy ?? n.y) + ev.dy / k; if (reduced) { n.x = n.fx; n.y = n.fy; tick(); } })
-        .on("end", () => { if (sim) sim.alphaTarget(0); remember(); }));   // stays pinned where you drop it
-    }
-    for (const n of nodes) n.h = n.h || els.get(n.id).offsetHeight;
-    const g = svg.selectAll("g.s").data(strings, (d) => d.id);
-    g.exit().remove();
-    const enter = g.enter().append("g").attr("class", "s");
-    enter.append("path").attr("class", "string").attr("stroke-width", (d) => 1 + 1.3 * d.w).attr("opacity", (d) => 0.45 + 0.5 * d.w);
-    enter.append("path").attr("class", "hit").on("click", (ev, d) => {
-      ev.stopPropagation();
-      select(d.direct ? { kind: "pair", a: d.direct[0], b: d.direct[1] } : { kind: "string", e: d.link.e, c: d.link.c });
-    });
-    paint();
-  }
+  // ================= header =================
+  $("kpis").replaceChildren(...[
+    [fmt(N), "sighting reports"], [fmt(govReports), "from government files"], [fmt(D.cases.length - nDocs), "deep case files"],
+    [fmt(nDocs), "hearings & reports"], [fmt(D.n_claims), "quoted claims"],
+  ].map(([n, l]) => h("div", { class: "kpi" }, h("b", {}, n), h("span", {}, l))));
 
-  function tick() {
-    for (const n of nodes) {
-      const el = els.get(n.id);
-      el.style.setProperty("--x", n.x.toFixed(1) + "px");
-      el.style.setProperty("--y", n.y.toFixed(1) + "px");
+  // ================= filters =================
+  const tlCounts = new Uint32Array((Y1 - Y0 + 1) * 3);
+  function applyFilters(redrawTimeline) {
+    const lists = [[], [], []], dsCount = new Uint32Array(R.datasets.length), shCount = new Uint32Array(R.shapes.length);
+    if (redrawTimeline) tlCounts.fill(0);
+    nVis = 0; nVisMapped = 0;
+    for (let i = 0; i < N; i++) {
+      const y = rY[i], inYear = y >= S.y0 && y <= S.y1, dsOn = S.ds.has(rDs[i]), shOn = S.shape === null || rSh[i] === S.shape;
+      if (redrawTimeline && dsOn && shOn) tlCounts[(y - Y0) * 3 + rCls[i]]++;
+      if (!inYear) continue;
+      if (shOn) dsCount[rDs[i]]++;
+      if (dsOn) shCount[rSh[i]]++;
+      if (dsOn && shOn) { nVis++; if (rPx[i] === rPx[i]) { nVisMapped++; lists[rCls[i]].push(i); } }
     }
-    svg.selectAll("g.s").each(function (d) {
-      const a = d.source, b = d.target;
-      const ax = a.x, ay = a.y - a.h / 2 + 8, bx = b.x, by = b.y - b.h / 2 + 8;
-      const sag = Math.min(34, Math.hypot(bx - ax, by - ay) * 0.1);
-      const path = `M${ax.toFixed(1)},${ay.toFixed(1)}Q${((ax + bx) / 2).toFixed(1)},${((ay + by) / 2 + sag).toFixed(1)} ${bx.toFixed(1)},${by.toFixed(1)}`;
-      for (const p of this.children) p.setAttribute("d", path);
-    });
+    vis = lists.map((l) => Int32Array.from(l));
+    renderSources(dsCount); renderShapes(shCount);
+    if (redrawTimeline) drawTimeline(); else markTimeline();
+    $("range").textContent = S.y0 === S.y1 ? String(S.y0) : `${S.y0 === Y0 ? "≤" + Y0 : S.y0} – ${S.y1}`;
+    updateReadout();
+    drawMap();
+    scheduleNet();
   }
-  function remember() { for (const n of nodes) pos.set(n.id, { x: n.x, y: n.y, fx: n.fx, fy: n.fy }); }
-
-  let fitted = false;
-  function layout() {
-    if (sim) sim.stop();
-    sim = d3.forceSimulation(nodes)
-      .force("link", d3.forceLink(strings).id((d) => d.id).distance((l) => (l.direct ? 260 : 150)).strength((l) => (l.direct ? 0.15 : 0.5)))
-      .force("charge", d3.forceManyBody().strength((d) => (d.kind === "case" ? -900 : -350)).distanceMax(900))
-      .force("collide", d3.forceCollide((d) => d.r).strength(0.9))
-      .force("x", d3.forceX(0).strength(0.035)).force("y", d3.forceY(0).strength(0.05))
-      .stop();
-    const first = !fitted;
-    if (first || reduced) {
-      sim.tick(first ? 320 : 160);
-      tick(); remember();
-      if (first) { fit(false); fitted = true; }
-    } else {
-      sim.alpha(0.6).on("tick", tick).on("end", remember).restart();
-    }
+  function updateReadout() {
+    const nc = D.cases.filter((c) => c.kind === "case" && inRange(c)).length;
+    $("readout").textContent = S.view === "map"
+      ? `${fmt(nVis)} reports in view of filters · ${fmt(nVisMapped)} mapped · ${nc} case files`
+      : `${netCount.cases} case files · ${netCount.ents} shared names · drag to rotate, scroll to zoom`;
   }
+  const inRange = (c) => c.year == null || (Math.max(c.year, Y0) >= S.y0 && c.year <= S.y1);
 
-  // ---------- pan and zoom ----------
-  const zoom = d3.zoom().scaleExtent([0.12, 2.5]).on("zoom", (ev) => {
-    world.style.transform = `translate(${ev.transform.x}px, ${ev.transform.y}px) scale(${ev.transform.k})`;
+  $("clslegend").replaceChildren(...CLASS.map((c) => h("span", {}, h("i", { style: `--sw: var(${c.v})` }), c.name)));
+  $("timelegend").replaceChildren(...CLASS.map((c) => h("span", {}, h("i", { style: `--sw: var(${c.v})` }), c.name)), h("span", {}, "● case file"));
+  const srcBtns = R.datasets.map((d, i) => {
+    const b = h("button", { class: "src", "aria-pressed": "true", style: `--sw: var(${CLASS[dsCls[i]].v})`, title: d.who },
+      h("i"), h("span", { class: "nm" }, d.name), h("span", { class: "ct" }), h("small", {}, d.who));
+    b.addEventListener("click", () => { S.ds.has(i) ? S.ds.delete(i) : S.ds.add(i); b.setAttribute("aria-pressed", String(S.ds.has(i))); applyFilters(true); });
+    return b;
   });
-  d3.select(board).call(zoom).on("dblclick.zoom", null);
-  board.addEventListener("click", (ev) => { if (ev.target === board || ev.target === world) select(null); });
-  function frame(list, animate = true, maxK = 1.1) {
-    if (!list.length) return;
-    const pad = 110, w = board.clientWidth, hgt = board.clientHeight;
-    const x0 = d3.min(list, (n) => n.x) - pad, x1 = d3.max(list, (n) => n.x) + pad;
-    const y0 = d3.min(list, (n) => n.y) - pad, y1 = d3.max(list, (n) => n.y) + pad;
-    const k = Math.max(0.12, Math.min(maxK, w / (x1 - x0), hgt / (y1 - y0)));
-    const t = d3.zoomIdentity.translate(w / 2 - k * (x0 + x1) / 2, hgt / 2 - k * (y0 + y1) / 2).scale(k);
-    (animate && !reduced ? d3.select(board).transition().duration(450) : d3.select(board)).call(zoom.transform, t);
+  $("sources").replaceChildren(...srcBtns);
+  function renderSources(counts) { srcBtns.forEach((b, i) => (b.querySelector(".ct").textContent = fmt(counts[i]))); }
+  const shapeBtns = R.shapes.map((s, i) => {
+    const b = h("button", { class: "bar", "aria-pressed": "false" }, h("span", { class: "nm" }, s), h("span", { class: "track" }, h("span", { class: "fill" })), h("span", { class: "ct" }));
+    b.addEventListener("click", () => { S.shape = S.shape === i ? null : i; shapeBtns.forEach((x, j) => x.setAttribute("aria-pressed", String(S.shape === j))); applyFilters(true); });
+    return b;
+  });
+  $("shapes").replaceChildren(...shapeBtns);
+  function renderShapes(counts) {
+    const max = Math.max(1, ...counts);
+    shapeBtns.forEach((b, i) => { b.querySelector(".fill").style.width = (100 * counts[i] / max).toFixed(1) + "%"; b.querySelector(".ct").textContent = fmt(counts[i]); });
   }
-  const fit = (animate = true) => frame(nodes, animate, 1);
-  $("zfit").onclick = () => fit();
-  $("zin").onclick = () => d3.select(board).transition().duration(reduced ? 0 : 200).call(zoom.scaleBy, 1.4);
-  $("zout").onclick = () => d3.select(board).transition().duration(reduced ? 0 : 200).call(zoom.scaleBy, 1 / 1.4);
+  for (const g of GROUPS) {
+    const n = D.entities.filter((e) => g.types.includes(e.type) && e.case == null && e.df >= 2).length;
+    const b = h("button", { class: "chip", "aria-pressed": String(S.groups.has(g.id)), style: `--sw: var(${g.v})` }, h("i"), `${g.label} ${n}`);
+    b.addEventListener("click", () => { S.groups.has(g.id) ? S.groups.delete(g.id) : S.groups.add(g.id); b.setAttribute("aria-pressed", String(S.groups.has(g.id))); scheduleNet(); });
+    $("chips").append(b);
+  }
+  $("maxdf").max = Math.min(30, Math.max(2, ...D.entities.filter((e) => e.case == null).map((e) => e.df)));
+  $("maxdf").addEventListener("input", (ev) => { S.maxDf = +ev.target.value; $("maxdfv").textContent = S.maxDf; scheduleNet(); });
 
-  // ---------- selection ----------
-  function paint() {
-    const s = state.sel, on = new Set(), sel = new Set(), onStr = new Set();
+  // ================= map =================
+  const canvas = $("mapcanvas"), ctx = canvas.getContext("2d"), stage = $("stage");
+  let W = 0, H = 0, dpr = 1, T = d3.zoomIdentity, proj, landPath, borderPath, statePath, spherePath, hover = null;
+  const mapped = D.cases.filter((c) => c.kind === "case" && c.lat != null);
+  function setupProjection() {
+    W = stage.clientWidth; H = stage.clientHeight; dpr = Math.min(2, window.devicePixelRatio || 1);
+    canvas.width = Math.round(W * dpr); canvas.height = Math.round(H * dpr);
+    proj = d3.geoNaturalEarth1().fitExtent([[10, 44], [W - 10, H - 34]], { type: "Sphere" });
+    const path = d3.geoPath(proj);
+    spherePath = new Path2D(path({ type: "Sphere" })); landPath = new Path2D(path(GEO.land));
+    borderPath = new Path2D(path(GEO.borders)); statePath = new Path2D(path(GEO.states));
+    for (let i = 0; i < N; i++) {
+      if (R.lat[i] == null) { rPx[i] = NaN; continue; }
+      const p = proj([R.lon[i], R.lat[i]]); rPx[i] = p[0]; rPy[i] = p[1];
+    }
+    for (const c of mapped) c.p = proj([c.lon, c.lat]);
+  }
+  function drawMap() {
+    if (S.view !== "map" || !W) return;
+    const { k, x, y } = T;
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    ctx.fillStyle = C.bg; ctx.fillRect(0, 0, W, H);
+    ctx.save(); ctx.translate(x, y); ctx.scale(k, k);
+    ctx.fillStyle = C.sea; ctx.fill(spherePath);
+    ctx.fillStyle = C.land; ctx.fill(landPath);
+    ctx.strokeStyle = C.border; ctx.lineWidth = 0.7 / k; ctx.stroke(borderPath);
+    if (k > 2) { ctx.globalAlpha = 0.6; ctx.stroke(statePath); ctx.globalAlpha = 1; }
+    ctx.restore();
+    const r = Math.max(0.75, Math.min(2.2, 0.75 + 0.28 * Math.log2(k))), s = 2 * r;
+    ctx.globalAlpha = C.dark ? 0.5 : 0.6;
+    for (let c = 0; c < 3; c++) {
+      ctx.fillStyle = C.cls[c];
+      const idx = vis[c];
+      for (let j = 0; j < idx.length; j++) {
+        const i = idx[j], sx = rPx[i] * k + x;
+        if (sx < -3 || sx > W + 3) continue;
+        const sy = rPy[i] * k + y;
+        if (sy < -3 || sy > H + 3) continue;
+        ctx.fillRect(sx - r, sy - r, s, s);
+      }
+    }
+    ctx.globalAlpha = 1;
+    if (nearSet) {                                   // bulk reports filed near the selected case
+      ctx.strokeStyle = C.fg; ctx.lineWidth = 1;
+      for (const i of nearSet) if (rPx[i] === rPx[i]) { ctx.beginPath(); ctx.arc(rPx[i] * k + x, rPy[i] * k + y, r + 2.5, 0, 6.2832); ctx.stroke(); }
+    }
+    // strings between linked case files
+    ctx.strokeStyle = C.link; ctx.lineCap = "round";
+    for (const [a, b, w] of arcs()) {
+      const ax = a.p[0] * k + x, ay = a.p[1] * k + y, bx = b.p[0] * k + x, by = b.p[1] * k + y;
+      const mx = (ax + bx) / 2 - (by - ay) * 0.18, my = (ay + by) / 2 + (bx - ax) * 0.18 - Math.hypot(bx - ax, by - ay) * 0.08;
+      ctx.globalAlpha = 0.35 + 0.6 * w; ctx.lineWidth = 1 + 1.6 * w;
+      ctx.beginPath(); ctx.moveTo(ax, ay); ctx.quadraticCurveTo(mx, my, bx, by); ctx.stroke();
+    }
+    ctx.globalAlpha = 1;
+    ctx.font = `500 11px ${getComputedStyle(document.body).fontFamily}`; ctx.textBaseline = "middle";
+    const labels = [];
+    for (const c of mapped) {
+      if (!inRange(c)) continue;
+      const sx = c.p[0] * k + x, sy = c.p[1] * k + y;
+      if (sx < -20 || sx > W + 20 || sy < -20 || sy > H + 20) continue;
+      const sel = selCases.has(c.id), on = onCases.has(c.id), dim = (onCases.size || selCases.size) && !on && !sel;
+      ctx.globalAlpha = dim ? 0.35 : 1;
+      ctx.beginPath(); ctx.arc(sx, sy, sel ? 7 : 4.6, 0, 6.2832);
+      ctx.fillStyle = C.bg; ctx.fill();
+      ctx.lineWidth = sel ? 2.6 : 1.7; ctx.strokeStyle = sel || on ? C.link : C.fg; ctx.stroke();
+      ctx.beginPath(); ctx.arc(sx, sy, 1.5, 0, 6.2832); ctx.fillStyle = sel || on ? C.link : C.fg; ctx.fill();
+      if (sel || on || k >= 3.2 || (hover && hover.case === c)) labels.push([c, sx, sy]);
+    }
+    ctx.globalAlpha = 1; ctx.lineJoin = "round";
+    labels.sort((a, b) => (selCases.has(b[0].id) - selCases.has(a[0].id)) || (onCases.has(b[0].id) - onCases.has(a[0].id)));
+    const placed = [];
+    for (const [c, sx, sy] of labels) {
+      const text = c.name.length > 34 ? c.name.slice(0, 32) + "…" : c.name;
+      const box = [sx + 8, sy - 8, sx + 12 + ctx.measureText(text).width, sy + 8];
+      if (placed.some((b) => box[0] < b[2] && box[2] > b[0] && box[1] < b[3] && box[3] > b[1])) continue;   // skip a label that would cover another
+      placed.push(box);
+      ctx.lineWidth = 3.5; ctx.strokeStyle = C.bg; ctx.strokeText(text, sx + 10, sy);
+      ctx.fillStyle = C.fg; ctx.fillText(text, sx + 10, sy);
+    }
+  }
+  function arcs() {
+    const s = S.sel, out = [];
+    if (!s) return out;
+    if (s.kind === "case") {
+      const a = cases.get(s.id);
+      if (a.p) for (const p of (pairsByCase.get(s.id) || []).slice(0, 14)) {
+        const b = cases.get(p.a === s.id ? p.b : p.a);
+        if (b.p && inRange(b)) out.push([a, b, Math.min(1, p.score / 12)]);
+      }
+    } else if (s.kind === "pair") {
+      const a = cases.get(s.a), b = cases.get(s.b), p = pairOf(s.a, s.b);
+      if (a.p && b.p) out.push([a, b, p ? Math.min(1, p.score / 12) : 0.5]);
+    } else if (s.kind === "ent" || s.kind === "string") {
+      const cs = (linksByEnt.get(s.kind === "ent" ? s.id : s.e) || []).map((l) => cases.get(l.c)).filter((c) => c.p).sort((a, b) => (a.year || 0) - (b.year || 0));
+      for (let i = 1; i < cs.length; i++) out.push([cs[i - 1], cs[i], 0.6]);
+    }
+    return out;
+  }
+  function pick(mx, my) {
+    const { k, x, y } = T;
+    let best = null, bd = 100;
+    for (const c of mapped) {
+      if (!inRange(c)) continue;
+      const dx = c.p[0] * k + x - mx, dy = c.p[1] * k + y - my, d = dx * dx + dy * dy;
+      if (d < bd) { bd = d; best = c; }
+    }
+    if (best) return { case: best };
+    let bi = -1; bd = 36;
+    for (let c = 0; c < 3; c++) for (let j = 0, idx = vis[c]; j < idx.length; j++) {
+      const i = idx[j], dx = rPx[i] * k + x - mx, dy = rPy[i] * k + y - my, d = dx * dx + dy * dy;
+      if (d < bd) { bd = d; bi = i; }
+    }
+    return bi >= 0 ? { rep: bi } : null;
+  }
+  const tip = $("tip");
+  function showTip(mx, my, node) {
+    tip.replaceChildren(node); tip.hidden = false;
+    const tw = tip.offsetWidth, th = tip.offsetHeight, sw_ = stage.clientWidth;
+    tip.style.left = Math.max(6, Math.min(sw_ - tw - 6, mx + 14)) + "px";
+    tip.style.top = Math.max(6, my - th - 10 < 6 ? my + 16 : my - th - 10) + "px";
+  }
+  let moveQueued = false, lastMove = null;
+  canvas.addEventListener("pointermove", (ev) => {
+    lastMove = ev;
+    if (moveQueued) return;
+    moveQueued = true;
+    requestAnimationFrame(() => {
+      moveQueued = false;
+      const rect = canvas.getBoundingClientRect(), mx = lastMove.clientX - rect.left, my = lastMove.clientY - rect.top;
+      const hit = pick(mx, my), was = hover;
+      hover = hit;
+      if (!hit) tip.hidden = true;
+      else if (hit.case) showTip(mx, my, h("div", {}, h("b", {}, hit.case.name), h("span", {}, [hit.case.date, hit.case.country].filter(Boolean).join(" · ") || "case file")));
+      else { const i = hit.rep; showTip(mx, my, h("div", {}, h("b", {}, R.datasets[rDs[i]].name), h("span", {}, `${rM[i] ? MON[rM[i]] + " " : ""}${R.y[i]} · ${R.shapes[rSh[i]]} · click to read`))); }
+      if ((was && was.case) !== (hit && hit.case)) drawMap();
+    });
+  });
+  canvas.addEventListener("pointerleave", () => { tip.hidden = true; if (hover) { hover = null; drawMap(); } });
+  canvas.addEventListener("click", (ev) => {
+    const rect = canvas.getBoundingClientRect(), mx = ev.clientX - rect.left, my = ev.clientY - rect.top, hit = pick(mx, my);
+    if (!hit) return select(null);
+    if (hit.case) return select({ kind: "case", id: hit.case.id });
+    const { k, x, y } = T, found = [];
+    for (let c = 0; c < 3; c++) for (let j = 0, idx = vis[c]; j < idx.length; j++) {
+      const i = idx[j], dx = rPx[i] * k + x - mx, dy = rPy[i] * k + y - my;
+      if (dx * dx + dy * dy <= 64) found.push(i);
+    }
+    found.sort((a, b) => b - a);
+    select({ kind: "reports", idx: found.slice(0, 80), total: found.length, title: "Reports at this spot" });
+  });
+  const zoom = d3.zoom().scaleExtent([1, 80]).on("zoom", (ev) => { T = ev.transform; tip.hidden = true; drawMap(); });
+  d3.select(canvas).call(zoom).on("dblclick.zoom", null);
+  const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  function zoomBox(lon0, lat0, lon1, lat1, animate = true) {
+    const a = proj([lon0, lat1]), b = proj([lon1, lat0]);
+    const k = Math.min(80, 0.92 * Math.min(W / Math.abs(b[0] - a[0]), H / Math.abs(b[1] - a[1])));
+    const t = d3.zoomIdentity.translate(W / 2 - k * (a[0] + b[0]) / 2, H / 2 - k * (a[1] + b[1]) / 2).scale(k);
+    (animate && !reduced ? d3.select(canvas).transition().duration(600) : d3.select(canvas)).call(zoom.transform, t);
+  }
+  function zoomToCases(list) {
+    const pts = list.filter((c) => c.p);
+    if (!pts.length) return;
+    const lon = d3.extent(pts, (c) => c.lon), lat = d3.extent(pts, (c) => c.lat), pad = pts.length === 1 ? 6 : Math.max(4, (lon[1] - lon[0]) * 0.25);
+    zoomBox(lon[0] - pad, Math.max(-85, lat[0] - pad * 0.6), lon[1] + pad, Math.min(85, lat[1] + pad * 0.6));
+  }
+  $("mapctl").addEventListener("click", (ev) => {
+    const z = ev.target.dataset.z;
+    if (z === "world") d3.select(canvas).transition().duration(reduced ? 0 : 500).call(zoom.transform, d3.zoomIdentity);
+    else if (z === "na") zoomBox(-128, 23, -64, 52);
+    else if (z === "eu") zoomBox(-12, 36, 24, 60);
+    else if (z) d3.select(canvas).transition().duration(reduced ? 0 : 200).call(zoom.scaleBy, z === "in" ? 1.6 : 1 / 1.6);
+  });
+
+  // ================= timeline =================
+  const tl = d3.select("#timeline"), years = d3.range(Y0, Y1 + 1);
+  let tx, brush, brushing = false;
+  const casesByYear = d3.group(D.cases.filter((c) => c.kind === "case" && c.year), (c) => Math.max(c.year, Y0));
+  function drawTimeline() {
+    const node = tl.node(), w = node.clientWidth, hgt = node.clientHeight, m = { l: 40, r: 8, t: 14, b: 16 };
+    if (!w || !hgt) return;
+    tl.attr("viewBox", `0 0 ${w} ${hgt}`).selectAll("*").remove();
+    tx = d3.scaleBand().domain(years).range([m.l, w - m.r]).paddingInner(0.2);
+    const totals = years.map((y, i) => tlCounts[i * 3] + tlCounts[i * 3 + 1] + tlCounts[i * 3 + 2]);
+    const ty = d3.scaleSqrt().domain([0, Math.max(10, d3.max(totals))]).range([hgt - m.b, m.t + 6]);
+    const ticks = ty.ticks(3).filter((t) => t > 0);
+    tl.append("g").selectAll("line").data(ticks).join("line").attr("class", "grid").attr("x1", m.l).attr("x2", w - m.r).attr("y1", ty).attr("y2", ty);
+    const ax = tl.append("g").attr("class", "axis");
+    ax.selectAll("text.y").data(ticks).join("text").attr("x", m.l - 5).attr("y", ty).attr("dy", "0.32em").attr("text-anchor", "end").text(d3.format("~s"));
+    ax.selectAll("text.x").data(years.filter((y) => y % 10 === 0)).join("text").attr("x", (y) => tx(y) + tx.bandwidth() / 2).attr("y", hgt - 4).attr("text-anchor", "middle").text((y) => y);
+    ax.append("line").attr("x1", m.l).attr("x2", w - m.r).attr("y1", hgt - m.b + 0.5).attr("y2", hgt - m.b + 0.5);
+    const segs = [];
+    years.forEach((y, i) => {
+      const total = totals[i];
+      if (!total) return;
+      let base = ty(0);
+      const full = base - ty(total);
+      for (let c = 0; c < 3; c++) {
+        const n = tlCounts[i * 3 + c];
+        if (!n) continue;
+        const hh = full * n / total;
+        segs.push({ y, c, n, total, x: tx(y), top: base - hh, h: Math.max(0.5, hh - (hh > 3 ? 1 : 0)) });
+        base -= hh;
+      }
+    });
+    tl.append("g").selectAll("rect").data(segs).join("rect").attr("class", "seg").attr("x", (d) => d.x).attr("y", (d) => d.top)
+      .attr("width", tx.bandwidth()).attr("height", (d) => d.h).attr("fill", (d) => C.cls[d.c]);
+    tl.append("g").selectAll("circle").data([...casesByYear]).join("circle").attr("class", "casedot")
+      .attr("cx", ([y]) => tx(y) + tx.bandwidth() / 2).attr("cy", m.t - 4).attr("r", ([, l]) => Math.min(5, 2 + 0.7 * l.length));
+    brush = d3.brushX().extent([[m.l, 2], [w - m.r, hgt - m.b]]).on("brush end", (ev) => {
+      if (!ev.sourceEvent) return;
+      if (!ev.selection) { setYears(Y0, Y1); return; }
+      const step = tx.step(), a = Math.round((ev.selection[0] - m.l) / step), b = Math.round((ev.selection[1] - m.l) / step) - 1;
+      brushing = true; setYears(Y0 + Math.max(0, a), Y0 + Math.max(a, Math.min(years.length - 1, b))); brushing = false;
+      if (ev.type === "end") moveBrush();
+    });
+    const g = tl.append("g").attr("class", "brush").call(brush);
+    g.select(".overlay").on("mousemove.tip", (ev) => {
+      const [px] = d3.pointer(ev, node), i = Math.max(0, Math.min(years.length - 1, Math.floor((px - m.l) / tx.step()))), y = years[i];
+      const names = (casesByYear.get(y) || []).map((c) => c.name);
+      const rect = stage.getBoundingClientRect(), tr = node.getBoundingClientRect();
+      showTip(tr.left - rect.left + px, tr.top - rect.top - 4, h("div", {}, h("b", {}, `${y === Y0 ? "≤ " : ""}${y}: ${fmt(totals[i])} reports`),
+        h("span", {}, CLASS.map((c, k) => `${c.name} ${fmt(tlCounts[i * 3 + k])}`).join(" · ")),
+        names.length ? h("span", {}, h("br"), "Case files: " + names.slice(0, 4).join("; ") + (names.length > 4 ? ` +${names.length - 4}` : "")) : null));
+    }).on("mouseleave.tip", () => (tip.hidden = true));
+    moveBrush(); markTimeline();
+  }
+  function moveBrush() {
+    if (!brush) return;
+    const full = S.y0 === Y0 && S.y1 === Y1;
+    tl.select(".brush").call(brush.move, full ? null : [tx(S.y0), tx(S.y1) + tx.step()]);
+  }
+  function markTimeline() { tl.selectAll(".seg").classed("out", (d) => d.y < S.y0 || d.y > S.y1); }
+  function setYears(a, b) {
+    if (a === S.y0 && b === S.y1) return;
+    S.y0 = a; S.y1 = b;
+    applyFilters(false);
+    if (!brushing) moveBrush();
+  }
+  let timer = null;
+  function stopPlay() { clearInterval(timer); timer = null; $("play").textContent = "Play"; }
+  $("play").addEventListener("click", () => {
+    if (timer) return stopPlay();
+    const span = S.y0 === Y0 && S.y1 === Y1 ? 4 : S.y1 - S.y0;
+    if (S.y1 >= Y1) setYears(1947, 1947 + span);
+    $("play").textContent = "Pause";
+    timer = setInterval(() => { if (S.y1 >= Y1) return stopPlay(); setYears(S.y0 + 1, S.y1 + 1); }, 520);
+  });
+  $("allyears").addEventListener("click", () => { stopPlay(); setYears(Y0, Y1); });
+
+  // ================= 3D network =================
+  let ticks = 0, G = null, netTimer = null, netNodes = [], netLabelEls = new Map(), netCount = { cases: 0, ents: 0 }, netFail = false;
+  function netData() {
+    const cs = D.cases.filter((c) => c.kind === "document" || inRange(c)), cset = new Set(cs.map((c) => c.id));
+    const old = new Map(netNodes.map((n) => [n.id, n]));
+    const keep = (n) => { const o = old.get(n.id); return o ? Object.assign(n, { x: o.x, y: o.y, z: o.z }) : n; };
+    const nodes = cs.map((c) => keep({ id: "c" + c.id, kind: c.kind === "document" ? "doc" : "case", ref: c })), links = [], seen = new Set();
+    let nEnt = 0;
+    for (const e of D.entities) {
+      const ls = (linksByEnt.get(e.id) || []).filter((l) => cset.has(l.c));
+      if (e.case != null) {
+        if (!cset.has(e.case)) continue;
+        for (const l of ls) if (l.c !== e.case) {
+          const a = Math.min(l.c, e.case), b = Math.max(l.c, e.case), key = a + "-" + b;
+          if (!seen.has(key)) { seen.add(key); links.push({ source: "c" + a, target: "c" + b, w: 1, direct: true }); }
+        }
+        continue;
+      }
+      const g = groupOf[e.type];
+      if (!g || !S.groups.has(g.id) || e.df < 2 || e.df > S.maxDf || ls.length < 2) continue;
+      nodes.push(keep({ id: "e" + e.id, kind: "ent", ref: e })); nEnt++;
+      for (const l of ls) links.push({ source: "c" + l.c, target: "e" + e.id, w: e.w });
+    }
+    netCount = { cases: cs.length, ents: nEnt };
+    netNodes = nodes;
+    return { nodes, links };
+  }
+  const nid = (x) => (typeof x === "object" ? x.id : x);
+  const netColor = (n) => (onNet.size && !onNet.has(n.id) ? C.dim : n.kind === "ent" ? C.type[n.ref.type] || C.muted : n.kind === "doc" ? C.fg2 : C.fg);
+  const linkOn = (l) => onNet.size && onNet.has(nid(l.source)) && onNet.has(nid(l.target));
+  function initNet() {
+    const el = $("netgraph");
+    if (typeof ForceGraph3D === "undefined") { netFail = true; el.replaceChildren(h("p", { class: "empty", style: "padding: 60px 16px" }, "The 3D library did not load, so the network view is unavailable. The map and the case files still work.")); return; }
+    try {
+      G = ForceGraph3D()(el).backgroundColor(C.sea).showNavInfo(false).width(stage.clientWidth).height(stage.clientHeight)
+        .nodeRelSize(4).nodeVal((n) => (n.kind === "ent" ? 0.6 + n.ref.w : n.kind === "doc" ? 9 : 5)).nodeOpacity(0.95).nodeResolution(10)
+        .nodeColor(netColor)
+        .nodeLabel((n) => (n.kind === "ent" ? `${esc(n.ref.name)}<br><span style="opacity:.7">${esc(groupLabel(n.ref))} · in ${n.ref.df} case files</span>` : esc(n.ref.name)))
+        .linkColor((l) => (linkOn(l) ? C.link : onNet.size ? C.dim : C.muted)).linkOpacity(0.5).linkWidth((l) => (linkOn(l) ? 0.9 : 0))
+        .onNodeClick((n) => select(n.kind === "ent" ? { kind: "ent", id: n.ref.id } : { kind: "case", id: n.ref.id }, true))
+        .onBackgroundClick(() => select(null));
+      G.d3Force("charge").strength(-70);
+      G.d3Force("link").distance((l) => (l.direct ? 70 : 34));
+      G.cooldownTime(9000);
+      let fitted = false;
+      G.onEngineTick(() => { if (!fitted && ++ticks > 90) { fitted = true; G.zoomToFit(reduced ? 0 : 700, 70); } });
+      requestAnimationFrame(netLabelLoop);
+    } catch (err) {
+      G = null; netFail = true;
+      el.replaceChildren(h("p", { class: "empty", style: "padding: 60px 16px" }, "This browser could not start 3D graphics, so the network view is unavailable. The map and the case files still work."));
+    }
+  }
+  function refreshNet() {
+    if (S.view !== "net" || netFail) return;
+    if (!G) initNet();
+    if (!G) return;
+    G.graphData(netData());
+    const box = $("netlabels"), want = new Set();
+    for (const n of netNodes) if (n.kind !== "ent") {
+      want.add(n.id);
+      if (!netLabelEls.has(n.id)) { const s = h("span", {}, n.ref.name.length > 30 ? n.ref.name.slice(0, 28) + "…" : n.ref.name); box.append(s); netLabelEls.set(n.id, s); }
+    }
+    for (const [id, el] of netLabelEls) if (!want.has(id)) { el.remove(); netLabelEls.delete(id); }
+    updateReadout();
+  }
+  function scheduleNet() { if (S.view !== "net") return; clearTimeout(netTimer); netTimer = setTimeout(refreshNet, 250); }
+  function netLabelLoop() {
+    if (G && S.view === "net") {
+      const placed = [], order = netNodes.filter((n) => n.kind !== "ent" && n.x != null).sort((a, b) => onNet.has(b.id) - onNet.has(a.id));
+      for (const n of order) {
+        const el = netLabelEls.get(n.id);
+        if (!el) continue;
+        const p = G.graph2ScreenCoords(n.x, n.y, n.z), box = [p.x, p.y, p.x + 150, p.y + 16];
+        const clash = placed.some((b) => box[0] < b[2] && box[2] > b[0] && box[1] < b[3] && box[3] > b[1]);
+        el.hidden = clash;
+        if (clash) continue;
+        placed.push(box);
+        el.style.transform = `translate(${p.x.toFixed(1)}px, ${p.y.toFixed(1)}px)`;
+        el.classList.toggle("off", onNet.size > 0 && !onNet.has(n.id));
+      }
+    }
+    requestAnimationFrame(netLabelLoop);
+  }
+  function repaintNet() { if (G) G.nodeColor(G.nodeColor()).linkColor(G.linkColor()).linkWidth(G.linkWidth()); }
+  function flyTo(id) {
+    const n = netNodes.find((x) => x.id === id);
+    if (!G || !n || n.x == null) return;
+    const d = Math.hypot(n.x, n.y, n.z) || 1, r = 1 + 170 / d;
+    G.cameraPosition({ x: n.x * r, y: n.y * r, z: n.z * r }, n, reduced ? 0 : 900);
+  }
+  function setView(v) {
+    S.view = v;
+    $("tab-map").setAttribute("aria-selected", String(v === "map")); $("tab-net").setAttribute("aria-selected", String(v === "net"));
+    $("map").hidden = v !== "map"; $("net").hidden = v !== "net"; $("mapctl").hidden = v !== "map"; tip.hidden = true;
+    if (v === "net") refreshNet(); else drawMap();
+    updateReadout();
+  }
+  $("tab-map").addEventListener("click", () => setView("map"));
+  $("tab-net").addEventListener("click", () => setView("net"));
+
+  // ================= selection =================
+  function select(s, move = false) {
+    S.sel = s;
+    onCases = new Set(); selCases = new Set(); onNet = new Set(); nearSet = null;
     if (s) {
-      const str = (pred) => strings.forEach((d) => { if (pred(d)) { onStr.add(d.id); on.add(d.source.id ?? d.source); on.add(d.target.id ?? d.target); } });
       if (s.kind === "case") {
-        sel.add("c" + s.id); on.add("c" + s.id);
-        const mine = new Set((linksByCase.get(s.id) || []).map((l) => "e" + l.e));
-        str((d) => (d.direct ? d.direct.includes(s.id) : mine.has(d.target.id ?? d.target)));
+        selCases.add(s.id); onNet.add("c" + s.id);
+        for (const l of linksByCase.get(s.id) || []) {
+          const e = ents.get(l.e);
+          if (e.case != null && e.case !== s.id) { onCases.add(e.case); onNet.add("c" + e.case); }
+          else if (e.df > 1) { onNet.add("e" + l.e); for (const m of linksByEnt.get(l.e) || []) onNet.add("c" + m.c); }
+        }
+        for (const p of (pairsByCase.get(s.id) || []).slice(0, 14)) onCases.add(p.a === s.id ? p.b : p.a);
+        const c = cases.get(s.id);
+        if (c.near && c.near.length) nearSet = c.near;
       } else if (s.kind === "ent" || s.kind === "string") {
         const id = s.kind === "ent" ? s.id : s.e;
-        sel.add("e" + id); on.add("e" + id);
-        (linksByEnt.get(id) || []).forEach((l) => on.add("c" + l.c));
-        str((d) => !d.direct && d.link.e === id && (s.kind === "ent" || d.link.c === s.c));
-        if (s.kind === "string") { on.clear(); on.add("e" + id); on.add("c" + s.c); }
+        onNet.add("e" + id);
+        for (const l of linksByEnt.get(id) || []) if (s.kind === "ent" || l.c === s.c) { onCases.add(l.c); onNet.add("c" + l.c); }
       } else if (s.kind === "pair") {
-        sel.add("c" + s.a); sel.add("c" + s.b); on.add("c" + s.a); on.add("c" + s.b);
-        const p = pairOf(s.a, s.b), shared = new Set(p ? p.shared : []);
-        str((d) => (d.direct ? d.direct[0] === Math.min(s.a, s.b) && d.direct[1] === Math.max(s.a, s.b)
-          : shared.has(d.link.e) && (d.link.c === s.a || d.link.c === s.b)));
-      }
+        selCases.add(s.a); selCases.add(s.b); onNet.add("c" + s.a); onNet.add("c" + s.b);
+        const p = pairOf(s.a, s.b);
+        for (const id of p ? p.shared : []) onNet.add("e" + id);
+      } else if (s.kind === "reports") nearSet = s.idx;
     }
-    world.classList.toggle("has-sel", !!s);
-    for (const [id, el] of els) { el.classList.toggle("on", on.has(id)); el.classList.toggle("sel", sel.has(id)); }
-    svg.selectAll("g.s").select(".string").classed("on", (d) => onStr.has(d.id));
-    return on;
-  }
-  const pairOf = (a, b) => data.pairs.find((p) => p.a === Math.min(a, b) && p.b === Math.max(a, b));
-  function select(s, move = false) {
-    state.sel = s;
-    const on = paint();
-    render();
-    if (move && s) frame(nodes.filter((n) => on.has(n.id)));
+    render(); drawMap(); repaintNet();
     panel.scrollTop = 0;
+    if (move && s) {
+      if (S.view === "map") zoomToCases(s.kind === "pair" ? [cases.get(s.a), cases.get(s.b)] : s.kind === "case" ? [cases.get(s.id)] : [...onCases].map((id) => cases.get(id)));
+      else flyTo(s.kind === "ent" ? "e" + s.id : s.kind === "case" ? "c" + s.id : s.kind === "pair" ? "c" + s.a : null);
+    }
   }
 
-  // ---------- case file panel ----------
-  const srcLink = (c) => h("a", { href: c.url, target: "_blank", rel: "noopener" }, "source");
+  // ================= panel =================
+  const chunks = new Map();
+  const chunk = (n) => chunks.get(n) || chunks.set(n, fetch(`rep/${n}.json`).then((r) => r.json())).get(n);
+  function refUrl(ds, ref) {
+    if (!ref) return null;
+    if (ds === "bluebook" || ds === "faa") return "https://catalog.archives.gov/id/" + encodeURIComponent(ref);
+    if (ds === "geipan") return "https://www.geipan.fr/fr/cas/" + encodeURIComponent(ref);
+    return /^https:\/\//.test(ref) ? ref : null;
+  }
+  function reportList(idx) {
+    const box = h("div", {}, h("p", { class: "empty" }, "Reading the reports…"));
+    Promise.all([...new Set(idx.map((i) => Math.floor(i / R.chunk)))].map((n) => chunk(n).then((d) => [n, d]))).then((loaded) => {
+      const by = new Map(loaded);
+      box.replaceChildren(...idx.map((i) => {
+        const [place, sum, ref, day] = by.get(Math.floor(i / R.chunk))[i % R.chunk], ds = R.datasets[rDs[i]], url = refUrl(ds.id, ref);
+        const date = [day || null, rM[i] ? MON[rM[i]] : null, R.y[i]].filter(Boolean).join(" ");
+        return h("div", { class: "rep" },
+          h("div", { class: "hd" }, h("span", { class: "tag", style: `--sw: var(${CLASS[dsCls[rDs[i]]].v})` }, h("i"), ds.name), h("b", {}, date), h("span", {}, place || "place not stated"),
+            R.shapes[rSh[i]] !== "unknown" ? h("span", {}, R.shapes[rSh[i]]) : null),
+          sum ? h("p", {}, sum) : h("p", { class: "empty" }, "No description in the catalogue record; the scanned file is at the link."),
+          url ? h("a", { href: url, target: "_blank", rel: "noopener" }, ds.gov ? "Open the government record" : "Open the record") : null);
+      }));
+    }).catch(() => box.replaceChildren(h("p", { class: "empty" }, "The report details could not be read. Try again.")));
+    return box;
+  }
+  const srcTag = (c, i) => { const s = c.sources[i] || c.sources[0]; return h("cite", {}, h("a", { href: s.url, target: "_blank", rel: "noopener" }, `${s.publisher}${s.date ? ", " + s.date : ""}`), ` · ${s.kind}`); };
   function evidence(l, limit = 3) {
     const c = cases.get(l.c);
     const item = (ev) => h("div", { class: "ev" },
-      h("div", { class: "claim" }, ev.s, h("i", {}, ` · ${human(ev.p)} · `), ev.tocase ? "this case" : ev.o),
-      h("blockquote", {}, "“" + ev.q + "” ", srcLink(c)));
+      h("div", { class: "claim" }, ev.s, h("i", {}, ` · ${human(ev.p)} · `), ev.tocase ? "this file" : ev.o),
+      h("blockquote", {}, "“" + ev.q + "”", srcTag(c, ev.src)));
     const out = l.ev.slice(0, limit).map(item);
     if (l.ev.length > limit) out.push(h("details", {}, h("summary", {}, `${l.ev.length - limit} more quotes`), l.ev.slice(limit).map(item)));
-    if (!l.ev.length) out.push(h("p", { class: "empty" }, "This is the case itself; it has no quote about itself."));
     return out;
   }
   const entRow = (e, extra) => h("button", { class: "row" + (e.df < 2 ? " solo" : ""), on: { click: () => select({ kind: "ent", id: e.id }, true) } },
-    h("span", { class: "sw", style: sw(e) }), h("span", { class: "nm" }, e.name),
-    h("span", { class: "ct" }, extra || (e.df > 1 ? `${e.df} cases` : "only here")));
+    h("span", { class: "sw", style: sw(e) }), h("span", { class: "nm" }, e.name), h("span", { class: "ct" }, extra || (e.df > 1 ? `${e.df} files` : "only here")));
   const caseRow = (c, extra) => h("button", { class: "row", on: { click: () => select({ kind: "case", id: c.id }, true) } },
-    h("span", { class: "nm" }, c.name), h("span", { class: "ct" }, extra || year(c)));
+    h("span", { class: "nm" }, c.name), h("span", { class: "ct" }, extra || (c.kind === "document" ? "document" : c.year || "")));
+  const maxScore = D.pairs.length ? D.pairs[0].score : 1;
   function leadButton(p, from) {
     const a = cases.get(p.a), b = cases.get(p.b);
     const names = p.shared.filter((id) => ents.get(id).case == null).slice(0, 4).map((id) => ents.get(id).name);
     return h("button", { class: "lead", on: { click: () => select({ kind: "pair", a: p.a, b: p.b }, true) } },
-      h("div", { class: "pair" }, from ? (from === p.a ? b.name : a.name) : `${a.name}  ↔  ${b.name}`),
-      h("div", { class: "via" }, (p.direct ? "One names the other. " : "") + (names.length ? "Both mention: " + names.join(", ") + (p.shared.length > 4 ? ` and ${p.shared.length - 4} more` : "") : "")));
+      h("div", { class: "pair" }, from ? (from === p.a ? b.name : a.name) : `${a.name} ↔ ${b.name}`),
+      h("div", { class: "score", title: "Link score: sum of the rarity of everything the two files share" }, p.score.toFixed(1), h("small", { style: `width: ${Math.max(8, 100 * p.score / maxScore)}%` })),
+      h("div", { class: "via" }, (p.direct ? "One names the other. " : "") + (names.length ? "Both mention " + names.join(", ") + (p.shared.length > 4 ? ` and ${p.shared.length - 4} more` : "") : "")));
   }
+  let leadMode = "cases";
   const back = () => h("button", { class: "back", on: { click: () => select(null) } }, "← All leads");
 
   function render() {
-    const s = state.sel;
+    const s = S.sel;
     panel.replaceChildren();
     if (!s) {
+      const isDoc = (id) => cases.get(id).kind === "document";
+      const modes = [["all", "All"], ["cases", "Case to case"], ["docs", "Via a hearing or report"]];
+      const keep = (p) => leadMode === "all" || (leadMode === "cases" ? !isDoc(p.a) && !isDoc(p.b) : isDoc(p.a) !== isDoc(p.b));
       put(h("h2", {}, "Strongest leads"),
-        h("p", { class: "meta" }, "Pairs of cases ranked by what they share. A name found in only two cases counts for far more than one found in thirty."),
-        data.pairs.length ? data.pairs.slice(0, 40).map((p) => leadButton(p)) : h("p", { class: "empty" }, "No two cases share anything yet."));
+        h("p", { class: "meta" }, "Pairs of case files ranked by what they share. A lead is a reason to look, not a finding: it means two sources name the same thing."),
+        h("div", { class: "chips", style: "margin: 8px 0 4px" }, modes.map(([id, label]) => h("button", { class: "chip", "aria-pressed": String(leadMode === id), on: { click: () => { leadMode = id; render(); } } }, label))),
+        D.pairs.filter(keep).slice(0, 60).map((p) => leadButton(p)));
+      return;
+    }
+    if (s.kind === "reports") {
+      put(back(), h("h2", {}, s.title), h("p", { class: "meta" }, s.total > s.idx.length ? `Showing ${s.idx.length} of ${fmt(s.total)} reports, newest first.` : `${s.idx.length} report${s.idx.length === 1 ? "" : "s"}, newest first.`), reportList(s.idx));
       return;
     }
     if (s.kind === "case") {
       const c = cases.get(s.id), links = linksByCase.get(c.id) || [];
-      put(back(), h("h2", {}, c.name),
-        h("p", { class: "meta" }, [c.date, c.country].filter(Boolean).join(" · "), " · ", h("a", { href: c.url, target: "_blank", rel: "noopener" }, "Wikipedia, this revision")),
-        c.description ? h("p", {}, c.description) : null);
-      const leads = data.pairs.filter((p) => p.a === c.id || p.b === c.id).slice(0, 12);
-      put(h("h3", {}, "Leads from this case"), leads.length ? leads.map((p) => leadButton(p, c.id)) : h("p", { class: "empty" }, "Nothing here is shared with another case yet."));
+      put(back(), h("span", { class: "tag" }, c.kind === "document" ? "Hearing or report" : "Case file"), h("h2", {}, c.name),
+        h("p", { class: "meta" }, [c.date, c.country].filter(Boolean).join(" · ")), c.description ? h("p", {}, c.description) : null,
+        h("h3", {}, `Sources (${c.sources.length})`),
+        c.sources.map((x) => h("a", { class: "srcdoc", href: x.url, target: "_blank", rel: "noopener" }, h("b", {}, x.title), h("span", {}, `${x.publisher} · ${x.kind}${x.date ? " · " + x.date : ""}`))));
+      if (c.near_n) put(h("h3", {}, "In the bulk reports"), h("p", {}, `${fmt(c.near_n)} report${c.near_n === 1 ? " was" : "s were"} filed within 150 km in the same or an adjacent month. They are ringed on the map. `,
+        h("button", { class: "linkbtn", on: { click: () => select({ kind: "reports", idx: c.near, total: c.near_n, title: `Reports near ${c.name}` }) } }, "Read them")));
+      const leads = (pairsByCase.get(c.id) || []).slice(0, 12);
+      put(h("h3", {}, "Leads from this file"), leads.length ? leads.map((p) => leadButton(p, c.id)) : h("p", { class: "empty" }, "Nothing here is shared with another file yet."));
       const byGroup = new Map();
       for (const l of links) {
         const e = ents.get(l.e);
         if (e.case === c.id) continue;
-        const label = e.case != null || e.type === "case" ? "Other incidents" : (groupOf[e.type] || { label: LOCAL[e.type] || e.type }).label;
+        const label = groupLabel(e);
         (byGroup.get(label) || byGroup.set(label, []).get(label)).push(e);
       }
       for (const [label, list] of byGroup) {
         list.sort((x, y) => (y.df > 1) - (x.df > 1) || x.df - y.df || x.name.localeCompare(y.name));
-        put(h("h3", {}, `${label} (${list.length})`), h("div", { class: "rows" }, list.map((e) => entRow(e))));
+        const rows = list.map((e) => entRow(e));
+        put(h("h3", {}, `${label} (${list.length})`), h("div", { class: "rows" }, rows.slice(0, 40)), rows.length > 40 ? h("details", {}, h("summary", {}, `${rows.length - 40} more`), h("div", { class: "rows" }, rows.slice(40))) : null);
       }
       return;
     }
     if (s.kind === "ent" || s.kind === "string") {
       const e = ents.get(s.kind === "ent" ? s.id : s.e);
       const links = (linksByEnt.get(e.id) || []).filter((l) => s.kind === "ent" || l.c === s.c);
-      const g = groupOf[e.type] || { label: LOCAL[e.type] || e.type };
-      put(back(), h("span", { class: "tag", style: sw(e) }, g.label), h("h2", {}, e.name),
-        h("p", { class: "meta" }, e.df > 1 ? `Mentioned in ${e.df} of ${N} cases.` : "Mentioned in one case only.",
-          s.kind === "string" ? [" ", h("button", { class: "back", on: { click: () => select({ kind: "ent", id: e.id }, true) } }, `Show all ${e.df}`)] : null));
-      for (const l of links) {
-        const c = cases.get(l.c);
-        put(h("div", { class: "sub" }, caseRow(c)),
-          l.roles.length ? h("div", {}, l.roles.map((r) => h("span", { class: "tag plain" }, human(r)))) : null, evidence(l, s.kind === "string" ? 8 : 3));
-      }
+      put(back(), h("span", { class: "tag", style: sw(e) }, h("i"), groupLabel(e)), h("h2", {}, e.name),
+        h("p", { class: "meta" }, e.df > 1 ? `Named in ${e.df} of ${D.n_cases} case files.` : "Named in one case file only."));
+      for (const l of links) put(h("div", { class: "sub" }, caseRow(cases.get(l.c))),
+        l.roles.length ? h("div", {}, l.roles.map((r) => h("span", { class: "tag" }, human(r)))) : null, evidence(l, 3));
       return;
     }
     if (s.kind === "pair") {
       const a = cases.get(s.a), b = cases.get(s.b), p = pairOf(s.a, s.b);
-      put(back(), h("h2", {}, `${a.name}  ↔  ${b.name}`),
-        h("p", { class: "meta" }, p ? (p.shared.length === 1 ? "One thing in common." : `${p.shared.length} things in common, rarest first.`) : "Nothing in common on file."),
+      put(back(), h("h2", {}, `${a.name} ↔ ${b.name}`),
+        h("p", { class: "meta" }, p ? `Link score ${p.score.toFixed(1)} from ${p.shared.length} shared thing${p.shared.length === 1 ? "" : "s"}, rarest first.` : "Nothing in common on file."),
         h("div", { class: "rows" }, caseRow(a), caseRow(b)));
-      for (const id of p ? p.shared : []) {
+      let direct = false;
+      for (const id of p ? p.shared.slice(0, 60) : []) {
         const e = ents.get(id);
-        put(h("h3", {}, e.case != null ? "One case names the other" : `${e.name} · in ${e.df} cases`));
+        if (e.case != null) { if (direct) continue; direct = true; }
+        put(h("h3", {}, e.case != null ? "One file names the other" : `${e.name} · in ${e.df} files`));
         if (e.case == null) put(h("div", { class: "rows" }, entRow(e, "open")));
         for (const cid of [s.a, s.b]) {
           const l = linkOf.get(id + ":" + cid);
@@ -567,41 +905,36 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     }
   }
 
-  // ---------- toolbar ----------
-  for (const g of GROUPS) {
-    const n = data.entities.filter((e) => g.types.includes(e.type) && e.case == null && e.df >= 2).length;
-    const b = h("button", { class: "chip", "aria-pressed": String(state.groups.has(g.id)), style: `--sw: var(${g.color})`, id: "chip-" + g.id },
-      h("i"), `${g.label} ${n}`);
-    b.addEventListener("click", () => {
-      state.groups.has(g.id) ? state.groups.delete(g.id) : state.groups.add(g.id);
-      b.setAttribute("aria-pressed", String(state.groups.has(g.id)));
-      remember(); build();
-    });
-    $("chips").append(b);
-  }
-  $("maxdfv").textContent = state.maxDf;
-  $("maxdf").addEventListener("input", (ev) => { state.maxDf = +ev.target.value; $("maxdfv").textContent = state.maxDf; remember(); build(); });
-
+  // ================= search =================
   const q = $("q"), results = $("results");
-  function search() {
+  q.addEventListener("input", () => {
     const term = q.value.trim().toLowerCase();
     results.replaceChildren();
     if (term.length < 2) { results.hidden = true; return; }
     const hits = [];
-    for (const c of data.cases) if (c.name.toLowerCase().includes(term)) hits.push({ label: c.name, kind: "case", sel: { kind: "case", id: c.id }, rank: 0 });
-    for (const e of data.entities) if (e.case == null && e.name.toLowerCase().includes(term))
-      hits.push({ label: e.name, kind: `${(groupOf[e.type] || { label: LOCAL[e.type] || e.type }).label} · ${e.df} case${e.df > 1 ? "s" : ""}`, sel: { kind: "ent", id: e.id }, rank: 1 - e.df / 1000 });
+    for (const c of D.cases) if (c.name.toLowerCase().includes(term)) hits.push({ label: c.name, kind: c.kind === "document" ? "document" : "case file", sel: { kind: "case", id: c.id }, rank: 0 });
+    for (const e of D.entities) if (e.case == null && e.name.toLowerCase().includes(term))
+      hits.push({ label: e.name, kind: `${groupLabel(e)} · ${e.df} file${e.df > 1 ? "s" : ""}`, sel: { kind: "ent", id: e.id }, rank: 1 - e.df / 1000 });
     hits.sort((x, y) => x.rank - y.rank);
-    for (const hit of hits.slice(0, 12))
-      results.append(h("button", { on: { click: () => { results.hidden = true; q.value = ""; select(hit.sel, true); } } }, h("span", {}, hit.label), h("span", { class: "kind" }, hit.kind)));
+    for (const hit of hits.slice(0, 14)) results.append(h("button", { on: { click: () => { results.hidden = true; q.value = ""; select(hit.sel, true); } } }, h("span", {}, hit.label), h("span", { class: "kind" }, hit.kind)));
     if (!hits.length) results.append(h("button", { disabled: "" }, "Nothing on file matches"));
     results.hidden = false;
-  }
-  q.addEventListener("input", search);
+  });
   q.addEventListener("keydown", (ev) => { if (ev.key === "Enter") results.querySelector("button:not([disabled])")?.click(); if (ev.key === "Escape") results.hidden = true; });
   document.addEventListener("click", (ev) => { if (!ev.target.closest(".search")) results.hidden = true; });
 
-  build();
+  // ================= boot =================
+  function layout() {
+    setupProjection();
+    if (G) G.width(stage.clientWidth).height(stage.clientHeight);
+    applyFilters(true);
+  }
+  let rs = null;
+  new ResizeObserver(() => { clearTimeout(rs); rs = setTimeout(layout, 120); }).observe(stage);
+  const retheme = () => { readColors(); if (G) G.backgroundColor(C.sea); drawTimeline(); drawMap(); repaintNet(); };
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", retheme);
+  new MutationObserver(retheme).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+  layout();
   render();
 })();
 </script>

@@ -38,6 +38,19 @@ DOCS = [
     ("aaro-western-united-states-case-resolution", "AARO Case Resolution of 'Western United States'", "case resolution", "All-domain Anomaly Resolution Office", None, None, ("nara", 493468580, 499915952)),
     ("ornl-metallic-specimen-analysis", "ORNL Analysis of a Metallic Specimen", "government report", "Oak Ridge National Laboratory for AARO", None, None, ("nara", 493468580, 499915944)),
 ]
+# Short display names for documents that are their own case file.
+SHORT = {
+    "hearing-2023-07-26-house-oversight-uap": "House Oversight UAP hearing, July 2023",
+    "hearing-2024-11-13-house-oversight-uap": "House Oversight UAP hearing, November 2024",
+    "hearing-2025-09-09-house-oversight-uap": "House Oversight UAP hearing, September 2025",
+    "hearing-2023-04-19-senate-armed-services-aaro": "Senate Armed Services AARO hearing, April 2023",
+    "aaro-historical-record-report-vol-1": "AARO Historical Record Report, Volume 1",
+    "odni-preliminary-assessment-2021": "ODNI Preliminary Assessment, 2021",
+    "odni-annual-report-2022": "ODNI Annual Report on UAP, 2022",
+    "aaro-annual-report-fy2023": "AARO Annual Report on UAP, FY2023",
+    "aaro-annual-report-fy2024": "AARO Annual Report on UAP, FY2024",
+    "ornl-metallic-specimen-analysis": "ORNL Analysis of a Metallic Specimen"
+}
 _series = {}
 
 
@@ -91,7 +104,7 @@ def main():
             doc = {"slug": s, "title": title if len(parts) == 1 else f"{title} (part {i} of {len(parts)})", "url": url,
                    "revision_id": None, "fetched_at": NOW, "license": PD, "lat": None, "lon": None,
                    "kind": kind, "publisher": publisher, "date": date,
-                   "case_slug": case_slug or slug, "case_name": None if case_slug else title,
+                   "case_slug": case_slug or slug, "case_name": None if case_slug else SHORT.get(slug, title),
                    "case_kind": "case" if (case_slug or kind == "case resolution") else "document",
                    "text": part}
             (SRC / f"{s}.json").write_text(json.dumps(doc, ensure_ascii=False, indent=1))

@@ -1,46 +1,61 @@
 # UFO evidence board
 
-A knowledge graph of well-documented UFO cases with an evidence-board
-interface: cases are pinned cards, the people, places, organisations and
-details they share are sticky notes, and red string joins them. Every string
-leads back to a verbatim quote in a stored source.
+A dashboard for exploring UFO/UAP records in two layers:
 
-A string means two sources mention the same thing. It is a lead to check, not
-a finding.
+- **Wide layer:** about 97,000 individual sighting reports from five datasets
+  (NUFORC, US Air Force Project Blue Book case files at the National Archives,
+  French GEIPAN, UK Ministry of Defence, US FAA), normalised to date, place,
+  coordinates, shape and summary. No language model is involved.
+- **Deep layer:** case files and government documents (Wikipedia articles,
+  congressional hearing transcripts, AARO and ODNI reports) read by extraction
+  agents into entities and claims. Every claim carries a verbatim quote that
+  the loader checks against the stored source text.
+
+The dashboard (`ui/index.html`) shows a world map, a timeline with a year
+brush, a 3D network of names shared between case files, and the quotes and
+sources behind every link.
+
+A link means two sources mention the same thing. It is a lead to check, not a
+finding.
 
 ## Pipeline
 
 | Step | Command | What it does |
 |---|---|---|
-| Collect | `python3 pipeline/fetch.py` | Fetches the source text for each case in `data/cases.json` into `data/sources/` (currently English Wikipedia, pinned to a revision) |
-| Extract | one agent per case, following `pipeline/EXTRACT.md` | Writes `data/extractions/<slug>.json`: entities and quoted claims |
-| Load | `python3 pipeline/load.py` | Validates every extraction and builds `data/ufo.db` (SQLite). A claim whose quote is not found verbatim in the source is rejected |
-| Resolve | `python3 pipeline/resolve.py` | Merges entities that are the same real-world thing across cases. Weak matches go to `data/merge_candidates.txt`; confirmed ones go in `data/merges.json` |
-| Score and export | `python3 pipeline/export.py` | Ranks links by rarity and writes `ui/data.json` |
-| Browse | serve `ui/` (for example `python3 -m http.server -d ui`) | The board |
+| Collect cases | `python3 pipeline/fetch.py` | Wikipedia text for each case in `data/cases.json`, pinned to a revision |
+| Collect archives | `python3 pipeline/fetch_nara.py` | Record descriptions and extracted text from the US National Archives UAP collection |
+| Collect documents | `python3 pipeline/add_sources.py` | Hearing transcripts (govinfo) and agency reports as source files, split into parts |
+| Extract | one agent per source, following `pipeline/EXTRACT.md` | `data/extractions/<slug>.json`: entities and quoted claims |
+| Load | `python3 pipeline/load.py` | Validates every extraction and builds `data/ufo.db`; a claim whose quote is not found verbatim is rejected |
+| Resolve | `python3 pipeline/resolve.py` | Merges entities that are the same thing across sources; reviewed decisions live in `data/merges.json` |
+| Bulk layer | `python3 pipeline/reports.py` | Builds `ui/reports.json` and `ui/rep/*.json` from `data/raw/` |
+| Export | `cd pipeline && python3 export.py` | Scores links and writes `ui/data.json` |
+| Map outlines | `node pipeline/build_geo.js` | Builds `ui/geo.json` from the world-atlas and us-atlas npm packages |
 
-`data/ufo.db` is rebuilt from the JSON files, so it is not committed.
-
-## Data model
-
-Facts are claims, not columns: `subject -> predicate -> object or value`, each
-with the quote that supports it and its character offset in the source. Any new
-kind of detail (the colour of a witness's car) fits without changing the schema.
-See `pipeline/schema.sql`.
+`data/raw/` (downloads) and `data/ufo.db` are rebuilt by the scripts and are
+not committed. Other raw inputs: the NUFORC snapshot from
+`planetsig/ufo-reports` on GitHub, the GEIPAN case export from geipan.fr, and
+the yearly UK MoD report PDFs from gov.uk.
 
 ## Scoring
 
-A thing shared by `df` of `N` cases has weight `ln(N/df) / ln(N/2)`: 1.0 when
-only two cases share it, 0 when every case does. A pair of cases scores the sum
-of the weights of everything they share, plus 1 if one names the other.
+A thing shared by `df` of `N` case files has weight `ln(N/df) / ln(N/2)`: 1.0
+when only two files share it, 0 when every file does. A pair of files scores
+the sum of the weights of everything they share, plus 1 if one names the other.
 
 ## Known limits
 
-- One source per case so far, and it is a tertiary one. Links reflect what
-  Wikipedia editors chose to mention.
-- Extraction is done by language-model agents. Quotes are machine-verified;
-  the reading of each quote (who was a witness, who was a sceptic) is not.
-- Name matching is conservative. The same person spelled two ways stays
-  split until confirmed in `data/merges.json`.
+- Coordinates are town-level at best. Reports whose place could not be matched
+  to a town are counted in the timeline but not mapped (about half of the Blue
+  Book files and half of the UK MoD reports).
+- The NUFORC snapshot ends in 2014; there is no bulk civilian data after that.
+- Extraction is done by language-model agents. Quotes are machine-verified; the
+  reading of each quote (who was a witness, who was a sceptic) is not.
+- Name matching is conservative and only partly reviewed.
+- Some sites refuse automated access from cloud servers (war.gov, aaro.mil,
+  dni.gov, YouTube), so the PURSUE release files and video transcripts are not
+  included. AARO and ODNI documents come from the National Archives copies.
 
-Source text is from Wikipedia contributors, CC BY-SA 4.0.
+Wikipedia text is CC BY-SA 4.0. US government documents are public domain.
+GEIPAN data is published by CNES; UK MoD reports are under the Open Government
+Licence. NUFORC reports are the property of the National UFO Reporting Center.

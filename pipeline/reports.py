@@ -68,7 +68,7 @@ def shape_from_text(text):
 
 
 def clean(text, n=260):
-    t = html.unescape(html.unescape(text or "")).replace("&#44", ",")
+    t = html.unescape(html.unescape(text or "")).replace("&#44", ",").replace("\ufffd", "")
     t = re.sub(r"\s+", " ", t).strip()
     return t if len(t) <= n else t[: n - 1].rsplit(" ", 1)[0] + "…"
 
