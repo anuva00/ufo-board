@@ -1,0 +1,1640 @@
+{
+ "slug": "marfa-lights",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Marfa lights",
+   "description": "Lights regularly observed near Marfa, Texas, attributed by scientists to automobile headlights distorted by warm desert air.",
+   "aliases": [
+    "Marfa Lights",
+    "MLs",
+    "Classic Marfa Lights",
+    "lights of Marfa"
+   ]
+  },
+  {
+   "key": "marfa",
+   "type": "place",
+   "name": "Marfa, Texas",
+   "description": "Town in Texas near which the lights are observed",
+   "aliases": [
+    "Marfa"
+   ]
+  },
+  {
+   "key": "texas",
+   "type": "place",
+   "name": "Texas",
+   "description": "US state"
+  },
+  {
+   "key": "usa",
+   "type": "place",
+   "name": "United States",
+   "description": "Country"
+  },
+  {
+   "key": "craft",
+   "type": "craft",
+   "name": "Marfa lights (orbs of light)",
+   "description": "Distant spots or orbs of light seen south-southwest of the viewing area"
+  },
+  {
+   "key": "brueske",
+   "type": "person",
+   "name": "Judith Brueske",
+   "description": "Writer cited on the best place to view the lights"
+  },
+  {
+   "key": "us90",
+   "type": "place",
+   "name": "U.S. Route 90",
+   "description": "Highway east of Marfa beside which the viewing area lies",
+   "aliases": [
+    "Highway 90"
+   ]
+  },
+  {
+   "key": "us67",
+   "type": "place",
+   "name": "U.S. Highway 67",
+   "description": "Highway between Marfa and Presidio whose traffic was correlated with the lights",
+   "aliases": [
+    "Highway 67",
+    "U.S. 67"
+   ]
+  },
+  {
+   "key": "presidio",
+   "type": "place",
+   "name": "Presidio, Texas",
+   "description": "Town south of Marfa at the other end of U.S. 67",
+   "aliases": [
+    "Presidio"
+   ]
+  },
+  {
+   "key": "rwagers",
+   "type": "person",
+   "name": "Robert Wagers",
+   "description": "Co-definer of \"Classic Marfa Lights\""
+  },
+  {
+   "key": "jwagers",
+   "type": "person",
+   "name": "Judy Wagers",
+   "description": "Co-definer of \"Classic Marfa Lights\""
+  },
+  {
+   "key": "mlvc",
+   "type": "place",
+   "name": "Marfa Lights Viewing Center",
+   "description": "Roadside viewing area on U.S. Route 90 about nine miles east of Marfa",
+   "aliases": [
+    "MLVC",
+    "Marfa Lights View Park",
+    "View Park",
+    "view park",
+    "Marfa lights viewing station",
+    "Marfa lights viewing location"
+   ]
+  },
+  {
+   "key": "bbtc",
+   "type": "organization",
+   "name": "Big Bend Telephone Company",
+   "description": "Company whose tower marks the left margin of the viewing area"
+  },
+  {
+   "key": "chinati",
+   "type": "place",
+   "name": "Chinati Peak",
+   "description": "Peak marking the right margin of the viewing area"
+  },
+  {
+   "key": "bunnell",
+   "type": "person",
+   "name": "James Bunnell",
+   "description": "Researcher who catalogued Marfa lights sightings and ran monitoring stations",
+   "aliases": [
+    "Bunnell"
+   ]
+  },
+  {
+   "key": "mitchell",
+   "type": "place",
+   "name": "Mitchell Flat",
+   "description": "Area where the Marfa lights are monitored"
+  },
+  {
+   "key": "strange",
+   "type": "work",
+   "name": "Strange Lights in West Texas",
+   "description": "2015 book by James Bunnell"
+  },
+  {
+   "key": "ellison",
+   "type": "person",
+   "name": "Robert Reed Ellison",
+   "description": "Young cowhand who made the first recorded sighting in 1883"
+  },
+  {
+   "key": "paisano",
+   "type": "place",
+   "name": "Paisano Pass",
+   "description": "Pass where Ellison saw a flickering light in 1883"
+  },
+  {
+   "key": "joeh",
+   "type": "person",
+   "name": "Joe Humphreys",
+   "description": "Reported seeing the lights in 1885"
+  },
+  {
+   "key": "anneh",
+   "type": "person",
+   "name": "Anne Humphreys",
+   "description": "Reported seeing the lights in 1885"
+  },
+  {
+   "key": "coronet",
+   "type": "organization",
+   "name": "Coronet",
+   "description": "Magazine that published the first account of the lights",
+   "aliases": [
+    "Coronet magazine"
+   ]
+  },
+  {
+   "key": "miles",
+   "type": "person",
+   "name": "Elton Miles",
+   "description": "Author of Tales of the Big Bend"
+  },
+  {
+   "key": "tales",
+   "type": "work",
+   "name": "Tales of the Big Bend",
+   "description": "1976 book with stories and a photograph of the Marfa lights"
+  },
+  {
+   "key": "photo",
+   "type": "document",
+   "name": "Photograph of the Marfa lights by a local rancher",
+   "description": "Photograph included in Tales of the Big Bend"
+  },
+  {
+   "key": "dunning",
+   "type": "person",
+   "name": "Brian Dunning",
+   "description": "Skeptic who attributes the lights to a mirage from temperature gradients",
+   "aliases": [
+    "Dunning"
+   ]
+  },
+  {
+   "key": "x_temperature_inversion",
+   "type": "explanation",
+   "name": "temperature-inversion",
+   "description": "temperature-inversion"
+  },
+  {
+   "key": "maaf",
+   "type": "place",
+   "name": "Marfa Army Airfield",
+   "description": "Former airfield at the site of the View Park",
+   "aliases": [
+    "Marfa AAF"
+   ]
+  },
+  {
+   "key": "sps",
+   "type": "organization",
+   "name": "Society of Physics Students",
+   "description": "Student group whose 2004 study attributed the lights to headlights on U.S. 67"
+  },
+  {
+   "key": "utd",
+   "type": "organization",
+   "name": "University of Texas at Dallas",
+   "description": "University whose Society of Physics Students group studied the lights"
+  },
+  {
+   "key": "x_other_automobile_headlights",
+   "type": "explanation",
+   "name": "other:automobile headlights",
+   "description": "other:automobile headlights"
+  },
+  {
+   "key": "txstate",
+   "type": "organization",
+   "name": "Texas State University",
+   "description": "University whose scientists made spectroscopic observations in May 2008"
+  },
+  {
+   "key": "x_other_small_fires",
+   "type": "explanation",
+   "name": "other:small fires",
+   "description": "other:small fires"
+  },
+  {
+   "key": "f_lights_only",
+   "type": "feature",
+   "name": "lights-only",
+   "description": "lights-only"
+  },
+  {
+   "key": "f_shape_sphere",
+   "type": "feature",
+   "name": "shape-sphere",
+   "description": "shape-sphere"
+  },
+  {
+   "key": "f_photograph",
+   "type": "feature",
+   "name": "photograph",
+   "description": "photograph"
+  },
+  {
+   "key": "f_film_or_video",
+   "type": "feature",
+   "name": "film-or-video",
+   "description": "film-or-video"
+  },
+  {
+   "key": "f_multiple_witnesses",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "multiple-witnesses"
+  },
+  {
+   "key": "f_military_base_proximity",
+   "type": "feature",
+   "name": "military-base-proximity",
+   "description": "military-base-proximity"
+  },
+  {
+   "key": "unsolved",
+   "type": "work",
+   "name": "Unsolved Mysteries",
+   "description": "Television show that featured the lights"
+  },
+  {
+   "key": "koth",
+   "type": "work",
+   "name": "King of the Hill",
+   "description": "Television series with an episode featuring the lights",
+   "aliases": [
+    "Of Mice and Little Green Men"
+   ]
+  },
+  {
+   "key": "soweird",
+   "type": "work",
+   "name": "So Weird",
+   "description": "Disney Channel Original Series with an episode featuring the lights"
+  },
+  {
+   "key": "disney",
+   "type": "organization",
+   "name": "Disney Channel",
+   "description": "Television channel of So Weird"
+  },
+  {
+   "key": "morrell",
+   "type": "person",
+   "name": "David Morrell",
+   "description": "Author of The Shimmer"
+  },
+  {
+   "key": "shimmer",
+   "type": "work",
+   "name": "The Shimmer",
+   "description": "2009 book inspired by the lights"
+  },
+  {
+   "key": "stones",
+   "type": "organization",
+   "name": "The Rolling Stones",
+   "description": "Band whose song \"No Spare Parts\" mentions the lights"
+  },
+  {
+   "key": "nospare",
+   "type": "work",
+   "name": "No Spare Parts",
+   "description": "Rolling Stones song mentioning the \"lights of Marfa\""
+  },
+  {
+   "key": "somegirls",
+   "type": "work",
+   "name": "Some Girls",
+   "description": "1978 Rolling Stones album, re-released 2011"
+  },
+  {
+   "key": "cauthen",
+   "type": "person",
+   "name": "Paul Cauthen",
+   "description": "Country music artist who wrote the song \"Marfa Lights\""
+  },
+  {
+   "key": "cauthensong",
+   "type": "work",
+   "name": "Marfa Lights (Paul Cauthen song)",
+   "description": "Love song inspired by the lights",
+   "aliases": [
+    "Marfa Lights"
+   ]
+  },
+  {
+   "key": "mygospel",
+   "type": "work",
+   "name": "My Gospel",
+   "description": "2016 album by Paul Cauthen"
+  },
+  {
+   "key": "simpsons",
+   "type": "work",
+   "name": "The Simpsons",
+   "description": "Television series; 2019 episode \"Mad About the Toy\" visits Marfa",
+   "aliases": [
+    "Simpsons",
+    "Mad About the Toy"
+   ]
+  },
+  {
+   "key": "uniontrade",
+   "type": "organization",
+   "name": "The Union Trade",
+   "description": "Band with a song called \"Marfa Lights\""
+  },
+  {
+   "key": "utsong",
+   "type": "work",
+   "name": "Marfa Lights (The Union Trade song)",
+   "description": "Song on A Place Of Long Years",
+   "aliases": [
+    "Marfa Lights"
+   ]
+  },
+  {
+   "key": "longyears",
+   "type": "work",
+   "name": "A Place Of Long Years",
+   "description": "2015 album by The Union Trade"
+  },
+  {
+   "key": "mcguire",
+   "type": "person",
+   "name": "Mark McGuire",
+   "description": "Musician with a song called \"The Marfa Lights\""
+  },
+  {
+   "key": "mmsong",
+   "type": "work",
+   "name": "The Marfa Lights (Mark McGuire song)",
+   "description": "Song on A Pocket Full of Rain",
+   "aliases": [
+    "The Marfa Lights"
+   ]
+  },
+  {
+   "key": "pocket",
+   "type": "work",
+   "name": "A Pocket Full of Rain",
+   "description": "2009 album by Mark McGuire"
+  },
+  {
+   "key": "ypg",
+   "type": "work",
+   "name": "A Young Person's Guide to Mark McGuire",
+   "description": "2011 compilation by Mark McGuire"
+  },
+  {
+   "key": "mego",
+   "type": "organization",
+   "name": "Editions Mego",
+   "description": "Label of the 2011 Mark McGuire compilation"
+  },
+  {
+   "key": "examining",
+   "type": "work",
+   "name": "The Marfa Lights: Examining the Photographic Evidence (2003–2007)",
+   "description": "Study of photographic evidence of the Marfa lights"
+  },
+  {
+   "key": "borraz",
+   "type": "person",
+   "name": "Manuel Borraz Aymerich",
+   "description": "Author of a work about the Marfa lights"
+  },
+  {
+   "key": "olmos",
+   "type": "person",
+   "name": "Juan Ballester Olmos",
+   "description": "Author of a work about the Marfa lights"
+  },
+  {
+   "key": "darack",
+   "type": "work",
+   "name": "Unlocking the Atmospheric Secrets of the Marfa Mystery Lights",
+   "description": "2008 Weatherwise article"
+  },
+  {
+   "key": "darackp",
+   "type": "person",
+   "name": "Ed Darack",
+   "description": "Author of a work about the Marfa lights"
+  },
+  {
+   "key": "lindee",
+   "type": "work",
+   "name": "Ghosts Lights of Texas",
+   "description": "1992 Skeptical Inquirer article"
+  },
+  {
+   "key": "lindeep",
+   "type": "person",
+   "name": "Herbert Lindee",
+   "description": "Author of a work about the Marfa lights"
+  },
+  {
+   "key": "stacy",
+   "type": "work",
+   "name": "The Marfa Lights, A Viewer's Guide",
+   "description": "1989 guide"
+  },
+  {
+   "key": "stacyp",
+   "type": "person",
+   "name": "Dennis Stacy",
+   "description": "Author of a work about the Marfa lights"
+  },
+  {
+   "key": "stephan",
+   "type": "work",
+   "name": "Quantitative intensity and location measurements of an intense long-duration luminous object near Marfa, Texas",
+   "description": "2011 paper in Journal of Atmospheric and Solar-Terrestrial Physics"
+  },
+  {
+   "key": "stephanp",
+   "type": "person",
+   "name": "Karl D. Stephan",
+   "description": "Author of a work about the Marfa lights"
+  },
+  {
+   "key": "klier",
+   "type": "person",
+   "name": "John Klier",
+   "description": "Author of a work about the Marfa lights"
+  },
+  {
+   "key": "komala",
+   "type": "person",
+   "name": "Laurence Komala-Noor",
+   "description": "Author of a work about the Marfa lights"
+  },
+  {
+   "key": "stipp",
+   "type": "work",
+   "name": "Marfa, Texas, Finds a Flickering Fame in Mystery Lights",
+   "description": "1984 Wall Street Journal article"
+  },
+  {
+   "key": "stippp",
+   "type": "person",
+   "name": "David Stipp",
+   "description": "Author of a work about the Marfa lights"
+  },
+  {
+   "key": "truth",
+   "type": "work",
+   "name": "The Truth Is Out There",
+   "description": "Texas Monthly article"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "The Marfa lights are an optical phenomenon regularly observed near Marfa, Texas, in the United States."
+  },
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1883",
+   "quote": "The first historical record of the Marfa lights was in 1883"
+  },
+  {
+   "s": "case",
+   "p": "description",
+   "v": "optical phenomenon regularly observed",
+   "quote": "The Marfa lights are an optical phenomenon regularly observed near Marfa, Texas, in the United States."
+  },
+  {
+   "s": "case",
+   "p": "tourism",
+   "v": "community has publicized the viewing area to encourage tourism",
+   "quote": "They are most often seen from a viewing area nearby, which the community has publicized to encourage tourism."
+  },
+  {
+   "s": "case",
+   "p": "conclusion",
+   "v": "scientists observing 2000 to 2008 concluded the lights were automobile headlights distorted by warm desert air",
+   "quote": "Scientists observing the lights over the period 2000 to 2008 concluded that the lights were the results of automobile headlights being distorted by warm desert air."
+  },
+  {
+   "s": "marfa",
+   "p": "near",
+   "o": "case",
+   "quote": "The Marfa lights are an optical phenomenon regularly observed near Marfa, Texas, in the United States."
+  },
+  {
+   "s": "marfa",
+   "p": "elevation",
+   "v": "4,688 ft above sea level",
+   "quote": "Marfa is at an elevation of 4,688"
+  },
+  {
+   "s": "marfa",
+   "p": "temperature_range",
+   "v": "differences of 40-50 °F between daily high and low temperatures are quite common",
+   "quote": "between daily high and low temperatures are quite common"
+  },
+  {
+   "s": "marfa",
+   "p": "located_in",
+   "o": "texas",
+   "quote": "The Marfa lights are an optical phenomenon regularly observed near Marfa, Texas, in the United States."
+  },
+  {
+   "s": "texas",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Marfa lights are an optical phenomenon regularly observed near Marfa, Texas, in the United States."
+  },
+  {
+   "s": "usa",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Marfa lights are an optical phenomenon regularly observed near Marfa, Texas, in the United States."
+  },
+  {
+   "s": "craft",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "The lights are most often reported as distant spots of brightness, distinguishable from ranch lights and automobile headlights on Highway 67 (between Marfa and Presidio, to the south) primarily by their aberrant movements."
+  },
+  {
+   "s": "craft",
+   "p": "appearance",
+   "v": "distant spots of brightness",
+   "quote": "The lights are most often reported as distant spots of brightness, distinguishable from ranch lights and automobile headlights on Highway 67 (between Marfa and Presidio, to the south) primarily by their aberrant movements."
+  },
+  {
+   "s": "craft",
+   "p": "movement",
+   "v": "aberrant movements",
+   "quote": "The lights are most often reported as distant spots of brightness, distinguishable from ranch lights and automobile headlights on Highway 67 (between Marfa and Presidio, to the south) primarily by their aberrant movements."
+  },
+  {
+   "s": "craft",
+   "p": "shape",
+   "v": "orbs of light",
+   "quote": "James Bunnell describes Marfa lights as \"orbs of light\", which change in intensity and color, which can move or remain stationary, splitting or merging."
+  },
+  {
+   "s": "craft",
+   "p": "behavior",
+   "v": "change in intensity and color; move or remain stationary; splitting or merging",
+   "quote": "James Bunnell describes Marfa lights as \"orbs of light\", which change in intensity and color, which can move or remain stationary, splitting or merging."
+  },
+  {
+   "s": "craft",
+   "p": "color",
+   "v": "usually yellow-orange",
+   "quote": "He describes the lights as being usually yellow-orange, but also occasionally other hues including green, blue, and red."
+  },
+  {
+   "s": "craft",
+   "p": "color",
+   "v": "occasionally green, blue, and red",
+   "quote": "He describes the lights as being usually yellow-orange, but also occasionally other hues including green, blue, and red."
+  },
+  {
+   "s": "craft",
+   "p": "altitude",
+   "v": "above desert vegetation but below mesas in the background",
+   "quote": "He states that they usually fly above desert vegetation but below mesas in the background."
+  },
+  {
+   "s": "craft",
+   "p": "direction",
+   "v": "south-southwest of the Marfa Lights Viewing Center",
+   "quote": "Robert and Judy Wagers define \"Classic Marfa Lights\" as being seen south-southwest of the Marfa Lights Viewing Center (MLVC)."
+  },
+  {
+   "s": "brueske",
+   "p": "commentator",
+   "o": "case",
+   "quote": "According to Judith Brueske, the best place from which to view the lights is a widened shoulder on Highway 90 about nine miles east of Marfa."
+  },
+  {
+   "s": "brueske",
+   "p": "statement",
+   "v": "best viewing place is a widened shoulder on Highway 90 about nine miles east of Marfa",
+   "quote": "According to Judith Brueske, the best place from which to view the lights is a widened shoulder on Highway 90 about nine miles east of Marfa."
+  },
+  {
+   "s": "us90",
+   "p": "related_place",
+   "o": "case",
+   "quote": "According to Judith Brueske, the best place from which to view the lights is a widened shoulder on Highway 90 about nine miles east of Marfa."
+  },
+  {
+   "s": "us90",
+   "p": "located_in",
+   "o": "marfa",
+   "quote": "Skeptic Brian Dunning notes that the designated \"View Park\" for the lights, a roadside park on the south side of U.S. Route 90 about 9 miles (14 km) east of Marfa, is at the site of Marfa Army Airfield, where tens of thousands of personnel were stationed between 1942 and 1947, training American and Allied pilots."
+  },
+  {
+   "s": "us67",
+   "p": "near",
+   "o": "case",
+   "quote": "U.S. Highway 67 is visible from the Marfa lights viewing location."
+  },
+  {
+   "s": "us67",
+   "p": "route",
+   "v": "between Marfa and Presidio, to the south",
+   "quote": "The lights are most often reported as distant spots of brightness, distinguishable from ranch lights and automobile headlights on Highway 67 (between Marfa and Presidio, to the south) primarily by their aberrant movements."
+  },
+  {
+   "s": "presidio",
+   "p": "related_place",
+   "o": "case",
+   "quote": "could be reliably attributed to automobile headlights traveling along U.S. 67 between Marfa and Presidio, Texas."
+  },
+  {
+   "s": "us67",
+   "p": "located_in",
+   "o": "texas",
+   "quote": "could be reliably attributed to automobile headlights traveling along U.S. 67 between Marfa and Presidio, Texas."
+  },
+  {
+   "s": "rwagers",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Robert and Judy Wagers define \"Classic Marfa Lights\" as being seen south-southwest of the Marfa Lights Viewing Center (MLVC)."
+  },
+  {
+   "s": "rwagers",
+   "p": "statement",
+   "v": "viewing area runs from the Big Bend Telephone Company tower (left margin) to Chinati Peak (right margin) as viewed from the MLVC",
+   "quote": "They define the left margin of the viewing area as being aligned along the Big Bend Telephone Company tower as viewed from the MLVC, and the right margin as Chinati Peak as viewed from the MLVC."
+  },
+  {
+   "s": "jwagers",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Robert and Judy Wagers define \"Classic Marfa Lights\" as being seen south-southwest of the Marfa Lights Viewing Center (MLVC)."
+  },
+  {
+   "s": "jwagers",
+   "p": "statement",
+   "v": "viewing area runs from the Big Bend Telephone Company tower (left margin) to Chinati Peak (right margin) as viewed from the MLVC",
+   "quote": "They define the left margin of the viewing area as being aligned along the Big Bend Telephone Company tower as viewed from the MLVC, and the right margin as Chinati Peak as viewed from the MLVC."
+  },
+  {
+   "s": "rwagers",
+   "p": "relative_of",
+   "o": "jwagers",
+   "quote": "Robert and Judy Wagers define \"Classic Marfa Lights\" as being seen south-southwest of the Marfa Lights Viewing Center (MLVC)."
+  },
+  {
+   "s": "mlvc",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Robert and Judy Wagers define \"Classic Marfa Lights\" as being seen south-southwest of the Marfa Lights Viewing Center (MLVC)."
+  },
+  {
+   "s": "mlvc",
+   "p": "location",
+   "v": "roadside park on the south side of U.S. Route 90 about 9 miles (14 km) east of Marfa",
+   "quote": "Skeptic Brian Dunning notes that the designated \"View Park\" for the lights, a roadside park on the south side of U.S. Route 90 about 9 miles (14 km) east of Marfa, is at the site of Marfa Army Airfield, where tens of thousands of personnel were stationed between 1942 and 1947, training American and Allied pilots."
+  },
+  {
+   "s": "mlvc",
+   "p": "located_in",
+   "o": "marfa",
+   "quote": "Referring to the Marfa Lights View Park east of Marfa"
+  },
+  {
+   "s": "bbtc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "They define the left margin of the viewing area as being aligned along the Big Bend Telephone Company tower as viewed from the MLVC, and the right margin as Chinati Peak as viewed from the MLVC."
+  },
+  {
+   "s": "chinati",
+   "p": "near",
+   "o": "case",
+   "quote": "They define the left margin of the viewing area as being aligned along the Big Bend Telephone Company tower as viewed from the MLVC, and the right margin as Chinati Peak as viewed from the MLVC."
+  },
+  {
+   "s": "bunnell",
+   "p": "investigator",
+   "o": "case",
+   "quote": "James Bunnell describes Marfa lights as \"orbs of light\", which change in intensity and color, which can move or remain stationary, splitting or merging."
+  },
+  {
+   "s": "bunnell",
+   "p": "described",
+   "o": "craft",
+   "quote": "James Bunnell describes Marfa lights as \"orbs of light\", which change in intensity and color, which can move or remain stationary, splitting or merging."
+  },
+  {
+   "s": "bunnell",
+   "p": "statement",
+   "v": "lists 34 Marfa lights sightings from 1945 through 2008",
+   "quote": "Bunnell lists 34 Marfa lights sightings from 1945 through 2008."
+  },
+  {
+   "s": "case",
+   "p": "sighting_count",
+   "v": "34 sightings from 1945 through 2008",
+   "quote": "Bunnell lists 34 Marfa lights sightings from 1945 through 2008."
+  },
+  {
+   "s": "case",
+   "p": "monitoring",
+   "v": "monitoring stations put in place starting in 2003",
+   "quote": "Monitoring stations were put in place starting in 2003."
+  },
+  {
+   "s": "bunnell",
+   "p": "statement",
+   "v": "an average of 9.5 MLs on 5.25 nights per year",
+   "quote": "He has identified \"an average of 9.5 MLs on 5.25 nights per year\", but believes that the monitoring stations may only be finding half of the Marfa lights in Mitchell Flat."
+  },
+  {
+   "s": "bunnell",
+   "p": "statement",
+   "v": "monitoring stations may only be finding half of the Marfa lights in Mitchell Flat",
+   "quote": "He has identified \"an average of 9.5 MLs on 5.25 nights per year\", but believes that the monitoring stations may only be finding half of the Marfa lights in Mitchell Flat."
+  },
+  {
+   "s": "mitchell",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "He has identified \"an average of 9.5 MLs on 5.25 nights per year\", but believes that the monitoring stations may only be finding half of the Marfa lights in Mitchell Flat."
+  },
+  {
+   "s": "strange",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "James Bunnell, Strange Lights in West Texas. Lacey Publishing Company, Benbrook, TX, 2015"
+  },
+  {
+   "s": "bunnell",
+   "p": "authored",
+   "o": "strange",
+   "quote": "James Bunnell, Strange Lights in West Texas. Lacey Publishing Company, Benbrook, TX, 2015"
+  },
+  {
+   "s": "strange",
+   "p": "year",
+   "v": "2015",
+   "quote": "James Bunnell, Strange Lights in West Texas. Lacey Publishing Company, Benbrook, TX, 2015"
+  },
+  {
+   "s": "ellison",
+   "p": "witness",
+   "o": "case",
+   "quote": "The first historical record of the Marfa lights was in 1883 when a young cowhand, Robert Reed Ellison, saw a flickering light while he was driving cattle through Paisano Pass and wondered if it was the campfire of the Apache."
+  },
+  {
+   "s": "ellison",
+   "p": "occupation",
+   "v": "cowhand",
+   "quote": "The first historical record of the Marfa lights was in 1883 when a young cowhand, Robert Reed Ellison, saw a flickering light while he was driving cattle through Paisano Pass and wondered if it was the campfire of the Apache."
+  },
+  {
+   "s": "ellison",
+   "p": "sighting_year",
+   "v": "1883",
+   "quote": "The first historical record of the Marfa lights was in 1883 when a young cowhand, Robert Reed Ellison, saw a flickering light while he was driving cattle through Paisano Pass and wondered if it was the campfire of the Apache."
+  },
+  {
+   "s": "ellison",
+   "p": "statement",
+   "v": "saw a flickering light while driving cattle and wondered if it was the campfire of the Apache",
+   "quote": "The first historical record of the Marfa lights was in 1883 when a young cowhand, Robert Reed Ellison, saw a flickering light while he was driving cattle through Paisano Pass and wondered if it was the campfire of the Apache."
+  },
+  {
+   "s": "case",
+   "p": "other_witnesses",
+   "v": "other settlers often saw the lights but found no ashes or other evidence of a campsite",
+   "quote": "Other settlers told him they often saw the lights, but that when they investigated they found no ashes or other evidence of a campsite."
+  },
+  {
+   "s": "paisano",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The first historical record of the Marfa lights was in 1883 when a young cowhand, Robert Reed Ellison, saw a flickering light while he was driving cattle through Paisano Pass and wondered if it was the campfire of the Apache."
+  },
+  {
+   "s": "joeh",
+   "p": "witness",
+   "o": "case",
+   "quote": "Joe and Anne Humphreys next reported seeing the lights in 1885."
+  },
+  {
+   "s": "joeh",
+   "p": "sighting_year",
+   "v": "1885",
+   "quote": "Joe and Anne Humphreys next reported seeing the lights in 1885."
+  },
+  {
+   "s": "anneh",
+   "p": "witness",
+   "o": "case",
+   "quote": "Joe and Anne Humphreys next reported seeing the lights in 1885."
+  },
+  {
+   "s": "anneh",
+   "p": "sighting_year",
+   "v": "1885",
+   "quote": "Joe and Anne Humphreys next reported seeing the lights in 1885."
+  },
+  {
+   "s": "joeh",
+   "p": "relative_of",
+   "o": "anneh",
+   "quote": "Joe and Anne Humphreys next reported seeing the lights in 1885."
+  },
+  {
+   "s": "coronet",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The first published account of the lights appeared in the July 1957 issue of Coronet magazine."
+  },
+  {
+   "s": "coronet",
+   "p": "first_published_account",
+   "v": "July 1957 issue",
+   "quote": "The first published account of the lights appeared in the July 1957 issue of Coronet magazine."
+  },
+  {
+   "s": "miles",
+   "p": "commentator",
+   "o": "case",
+   "quote": "In 1976 Elton Miles's Tales of the Big Bend included stories dating to the 19th century and a photograph of the Marfa lights by a local rancher."
+  },
+  {
+   "s": "miles",
+   "p": "authored",
+   "o": "tales",
+   "quote": "In 1976 Elton Miles's Tales of the Big Bend included stories dating to the 19th century and a photograph of the Marfa lights by a local rancher."
+  },
+  {
+   "s": "tales",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 1976 Elton Miles's Tales of the Big Bend included stories dating to the 19th century and a photograph of the Marfa lights by a local rancher."
+  },
+  {
+   "s": "tales",
+   "p": "year",
+   "v": "1976",
+   "quote": "In 1976 Elton Miles's Tales of the Big Bend included stories dating to the 19th century and a photograph of the Marfa lights by a local rancher."
+  },
+  {
+   "s": "tales",
+   "p": "publisher_details",
+   "v": "Texas A&M University Press, 1976, pp. 149-167",
+   "quote": "Elton Miles, Tales of the Big Bend, Texas A&M University Press, 1976, pp. 149–167"
+  },
+  {
+   "s": "photo",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In 1976 Elton Miles's Tales of the Big Bend included stories dating to the 19th century and a photograph of the Marfa lights by a local rancher."
+  },
+  {
+   "s": "photo",
+   "p": "part_of",
+   "o": "tales",
+   "quote": "In 1976 Elton Miles's Tales of the Big Bend included stories dating to the 19th century and a photograph of the Marfa lights by a local rancher."
+  },
+  {
+   "s": "dunning",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Skeptic Brian Dunning notes that the designated \"View Park\" for the lights, a roadside park on the south side of U.S. Route 90 about 9 miles (14 km) east of Marfa, is at the site of Marfa Army Airfield, where tens of thousands of personnel were stationed between 1942 and 1947, training American and Allied pilots."
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "unlikely that unusual phenomena would remain unobserved and unmentioned at a constantly patrolled airfield",
+   "quote": "Since Marfa AAF and its satellite fields are each constantly patrolled by sentries, they consider it unlikely that any unusual phenomena would remain unobserved and unmentioned."
+  },
+  {
+   "s": "dunning",
+   "p": "statement",
+   "v": "likeliest explanation is a mirage caused by sharp temperature gradients between cold and warm layers of air",
+   "quote": "According to Dunning, the likeliest explanation is that the lights are a sort of mirage caused by sharp temperature gradients between cold and warm layers of air."
+  },
+  {
+   "s": "x_temperature_inversion",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "According to Dunning, the likeliest explanation is that the lights are a sort of mirage caused by sharp temperature gradients between cold and warm layers of air."
+  },
+  {
+   "s": "x_temperature_inversion",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Scientists observing the lights over the period 2000 to 2008 concluded that the lights were the results of automobile headlights being distorted by warm desert air."
+  },
+  {
+   "s": "dunning",
+   "p": "proposed",
+   "o": "x_temperature_inversion",
+   "quote": "According to Dunning, the likeliest explanation is that the lights are a sort of mirage caused by sharp temperature gradients between cold and warm layers of air."
+  },
+  {
+   "s": "maaf",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Skeptic Brian Dunning notes that the designated \"View Park\" for the lights, a roadside park on the south side of U.S. Route 90 about 9 miles (14 km) east of Marfa, is at the site of Marfa Army Airfield, where tens of thousands of personnel were stationed between 1942 and 1947, training American and Allied pilots."
+  },
+  {
+   "s": "maaf",
+   "p": "personnel",
+   "v": "tens of thousands of personnel stationed between 1942 and 1947, training American and Allied pilots",
+   "quote": "Skeptic Brian Dunning notes that the designated \"View Park\" for the lights, a roadside park on the south side of U.S. Route 90 about 9 miles (14 km) east of Marfa, is at the site of Marfa Army Airfield, where tens of thousands of personnel were stationed between 1942 and 1947, training American and Allied pilots."
+  },
+  {
+   "s": "maaf",
+   "p": "later_use",
+   "v": "regional airport with daily airline service",
+   "quote": "This massive field was then used for years as a regional airport, with daily airline service."
+  },
+  {
+   "s": "maaf",
+   "p": "security",
+   "v": "constantly patrolled by sentries",
+   "quote": "Since Marfa AAF and its satellite fields are each constantly patrolled by sentries, they consider it unlikely that any unusual phenomena would remain unobserved and unmentioned."
+  },
+  {
+   "s": "mlvc",
+   "p": "located_in",
+   "o": "maaf",
+   "quote": "Skeptic Brian Dunning notes that the designated \"View Park\" for the lights, a roadside park on the south side of U.S. Route 90 about 9 miles (14 km) east of Marfa, is at the site of Marfa Army Airfield, where tens of thousands of personnel were stationed between 1942 and 1947, training American and Allied pilots."
+  },
+  {
+   "s": "sps",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "In May 2004 a group from the Society of Physics Students at the University of Texas at Dallas spent four days investigating and recording lights observed southwest of the view park using traffic volume-monitoring equipment, video cameras, binoculars, and chase cars."
+  },
+  {
+   "s": "utd",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In May 2004 a group from the Society of Physics Students at the University of Texas at Dallas spent four days investigating and recording lights observed southwest of the view park using traffic volume-monitoring equipment, video cameras, binoculars, and chase cars."
+  },
+  {
+   "s": "sps",
+   "p": "part_of",
+   "o": "utd",
+   "quote": "In May 2004 a group from the Society of Physics Students at the University of Texas at Dallas spent four days investigating and recording lights observed southwest of the view park using traffic volume-monitoring equipment, video cameras, binoculars, and chase cars."
+  },
+  {
+   "s": "sps",
+   "p": "investigation_date",
+   "v": "2004-05",
+   "quote": "In May 2004 a group from the Society of Physics Students at the University of Texas at Dallas spent four days investigating and recording lights observed southwest of the view park using traffic volume-monitoring equipment, video cameras, binoculars, and chase cars."
+  },
+  {
+   "s": "sps",
+   "p": "duration",
+   "v": "four days",
+   "quote": "In May 2004 a group from the Society of Physics Students at the University of Texas at Dallas spent four days investigating and recording lights observed southwest of the view park using traffic volume-monitoring equipment, video cameras, binoculars, and chase cars."
+  },
+  {
+   "s": "sps",
+   "p": "equipment",
+   "v": "traffic volume-monitoring equipment, video cameras, binoculars, and chase cars",
+   "quote": "In May 2004 a group from the Society of Physics Students at the University of Texas at Dallas spent four days investigating and recording lights observed southwest of the view park using traffic volume-monitoring equipment, video cameras, binoculars, and chase cars."
+  },
+  {
+   "s": "sps",
+   "p": "finding",
+   "v": "frequency of lights correlates with frequency of vehicle traffic on U.S. 67",
+   "quote": "The frequency of lights southwest of the view park correlates with the frequency of vehicle traffic on U.S. 67."
+  },
+  {
+   "s": "sps",
+   "p": "finding",
+   "v": "motion of lights was in a straight line corresponding to U.S. 67",
+   "quote": "The motion of the observed lights was in a straight line, corresponding to U.S. 67."
+  },
+  {
+   "s": "sps",
+   "p": "finding",
+   "v": "flashed headlights of a parked vehicle on U.S. 67 appeared to be a Marfa light",
+   "quote": "When the group parked a vehicle on U.S. 67 and flashed its headlights, this was visible at the view park and appeared to be a Marfa light."
+  },
+  {
+   "s": "sps",
+   "p": "finding",
+   "v": "a passing car appeared as one Marfa light passing another",
+   "quote": "A car passing the parked vehicle appeared as one Marfa light passing another at the view park."
+  },
+  {
+   "s": "sps",
+   "p": "conclusion",
+   "v": "all lights observed over four nights attributable to automobile headlights on U.S. 67",
+   "quote": "They came to the conclusion that all the lights observed over a four-night period southwest of the view park could be reliably attributed to automobile headlights traveling along U.S. 67 between Marfa and Presidio, Texas."
+  },
+  {
+   "s": "x_other_automobile_headlights",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "They came to the conclusion that all the lights observed over a four-night period southwest of the view park could be reliably attributed to automobile headlights traveling along U.S. 67 between Marfa and Presidio, Texas."
+  },
+  {
+   "s": "x_other_automobile_headlights",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Scientists observing the lights over the period 2000 to 2008 concluded that the lights were the results of automobile headlights being distorted by warm desert air."
+  },
+  {
+   "s": "sps",
+   "p": "proposed",
+   "o": "x_other_automobile_headlights",
+   "quote": "They came to the conclusion that all the lights observed over a four-night period southwest of the view park could be reliably attributed to automobile headlights traveling along U.S. 67 between Marfa and Presidio, Texas."
+  },
+  {
+   "s": "txstate",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "For 20 nights in May 2008, scientists from Texas State University used spectroscopy equipment to observe lights from the Marfa lights viewing station."
+  },
+  {
+   "s": "txstate",
+   "p": "investigation_date",
+   "v": "2008-05",
+   "quote": "For 20 nights in May 2008, scientists from Texas State University used spectroscopy equipment to observe lights from the Marfa lights viewing station."
+  },
+  {
+   "s": "txstate",
+   "p": "duration",
+   "v": "20 nights",
+   "quote": "For 20 nights in May 2008, scientists from Texas State University used spectroscopy equipment to observe lights from the Marfa lights viewing station."
+  },
+  {
+   "s": "txstate",
+   "p": "equipment",
+   "v": "spectroscopy equipment",
+   "quote": "For 20 nights in May 2008, scientists from Texas State University used spectroscopy equipment to observe lights from the Marfa lights viewing station."
+  },
+  {
+   "s": "txstate",
+   "p": "finding",
+   "v": "lights easily explained as automobile headlights or small fires",
+   "quote": "They recorded a number of lights that \"could have been mistaken for lights of unknown origin\", but in each case the movements of the lights and the data from their equipment could be easily explained as automobile headlights or small fires."
+  },
+  {
+   "s": "txstate",
+   "p": "conclusion",
+   "v": "more research necessary because \"genuine\" Marfa lights are rarely observed",
+   "quote": "They concluded that due to the rarity of observation of \"genuine\" Marfa lights, those with odd behaviour not explainable as car lights, more research was necessary to determine their nature."
+  },
+  {
+   "s": "txstate",
+   "p": "proposed",
+   "o": "x_other_automobile_headlights",
+   "quote": "They recorded a number of lights that \"could have been mistaken for lights of unknown origin\", but in each case the movements of the lights and the data from their equipment could be easily explained as automobile headlights or small fires."
+  },
+  {
+   "s": "x_other_small_fires",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "They recorded a number of lights that \"could have been mistaken for lights of unknown origin\", but in each case the movements of the lights and the data from their equipment could be easily explained as automobile headlights or small fires."
+  },
+  {
+   "s": "f_lights_only",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The lights are most often reported as distant spots of brightness, distinguishable from ranch lights and automobile headlights on Highway 67 (between Marfa and Presidio, to the south) primarily by their aberrant movements."
+  },
+  {
+   "s": "f_shape_sphere",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "James Bunnell describes Marfa lights as \"orbs of light\", which change in intensity and color, which can move or remain stationary, splitting or merging."
+  },
+  {
+   "s": "f_photograph",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In 1976 Elton Miles's Tales of the Big Bend included stories dating to the 19th century and a photograph of the Marfa lights by a local rancher."
+  },
+  {
+   "s": "f_film_or_video",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In May 2004 a group from the Society of Physics Students at the University of Texas at Dallas spent four days investigating and recording lights observed southwest of the view park using traffic volume-monitoring equipment, video cameras, binoculars, and chase cars."
+  },
+  {
+   "s": "f_multiple_witnesses",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Other settlers told him they often saw the lights, but that when they investigated they found no ashes or other evidence of a campsite."
+  },
+  {
+   "s": "f_military_base_proximity",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Skeptic Brian Dunning notes that the designated \"View Park\" for the lights, a roadside park on the south side of U.S. Route 90 about 9 miles (14 km) east of Marfa, is at the site of Marfa Army Airfield, where tens of thousands of personnel were stationed between 1942 and 1947, training American and Allied pilots."
+  },
+  {
+   "s": "unsolved",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The lights have been featured and mentioned in various media, including the television show Unsolved Mysteries and an episode of King of the Hill (\"Of Mice and Little Green Men\") and in an episode of the Disney Channel Original Series So Weird."
+  },
+  {
+   "s": "koth",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The lights have been featured and mentioned in various media, including the television show Unsolved Mysteries and an episode of King of the Hill (\"Of Mice and Little Green Men\") and in an episode of the Disney Channel Original Series So Weird."
+  },
+  {
+   "s": "koth",
+   "p": "episode",
+   "v": "Of Mice and Little Green Men",
+   "quote": "The lights have been featured and mentioned in various media, including the television show Unsolved Mysteries and an episode of King of the Hill (\"Of Mice and Little Green Men\") and in an episode of the Disney Channel Original Series So Weird."
+  },
+  {
+   "s": "soweird",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The lights have been featured and mentioned in various media, including the television show Unsolved Mysteries and an episode of King of the Hill (\"Of Mice and Little Green Men\") and in an episode of the Disney Channel Original Series So Weird."
+  },
+  {
+   "s": "disney",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The lights have been featured and mentioned in various media, including the television show Unsolved Mysteries and an episode of King of the Hill (\"Of Mice and Little Green Men\") and in an episode of the Disney Channel Original Series So Weird."
+  },
+  {
+   "s": "disney",
+   "p": "published",
+   "o": "soweird",
+   "quote": "The lights have been featured and mentioned in various media, including the television show Unsolved Mysteries and an episode of King of the Hill (\"Of Mice and Little Green Men\") and in an episode of the Disney Channel Original Series So Weird."
+  },
+  {
+   "s": "morrell",
+   "p": "commentator",
+   "o": "case",
+   "quote": "A book by David Morrell, 2009's The Shimmer, was inspired by the lights."
+  },
+  {
+   "s": "morrell",
+   "p": "authored",
+   "o": "shimmer",
+   "quote": "A book by David Morrell, 2009's The Shimmer, was inspired by the lights."
+  },
+  {
+   "s": "shimmer",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "A book by David Morrell, 2009's The Shimmer, was inspired by the lights."
+  },
+  {
+   "s": "shimmer",
+   "p": "year",
+   "v": "2009",
+   "quote": "A book by David Morrell, 2009's The Shimmer, was inspired by the lights."
+  },
+  {
+   "s": "stones",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Rolling Stones mention the \"lights of Marfa\" in the song \"No Spare Parts\" from the 2011 re-release of their 1978 album Some Girls."
+  },
+  {
+   "s": "stones",
+   "p": "authored",
+   "o": "nospare",
+   "quote": "The Rolling Stones mention the \"lights of Marfa\" in the song \"No Spare Parts\" from the 2011 re-release of their 1978 album Some Girls."
+  },
+  {
+   "s": "nospare",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The Rolling Stones mention the \"lights of Marfa\" in the song \"No Spare Parts\" from the 2011 re-release of their 1978 album Some Girls."
+  },
+  {
+   "s": "nospare",
+   "p": "part_of",
+   "o": "somegirls",
+   "quote": "The Rolling Stones mention the \"lights of Marfa\" in the song \"No Spare Parts\" from the 2011 re-release of their 1978 album Some Girls."
+  },
+  {
+   "s": "somegirls",
+   "p": "year",
+   "v": "1978 album; 2011 re-release",
+   "quote": "The Rolling Stones mention the \"lights of Marfa\" in the song \"No Spare Parts\" from the 2011 re-release of their 1978 album Some Girls."
+  },
+  {
+   "s": "somegirls",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The Rolling Stones mention the \"lights of Marfa\" in the song \"No Spare Parts\" from the 2011 re-release of their 1978 album Some Girls."
+  },
+  {
+   "s": "cauthen",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Country music artist Paul Cauthen wrote \"Marfa Lights,\" a love song inspired by the lights, for his 2016 album \"My Gospel.\""
+  },
+  {
+   "s": "cauthen",
+   "p": "occupation",
+   "v": "country music artist",
+   "quote": "Country music artist Paul Cauthen wrote \"Marfa Lights,\" a love song inspired by the lights, for his 2016 album \"My Gospel.\""
+  },
+  {
+   "s": "cauthen",
+   "p": "authored",
+   "o": "cauthensong",
+   "quote": "Country music artist Paul Cauthen wrote \"Marfa Lights,\" a love song inspired by the lights, for his 2016 album \"My Gospel.\""
+  },
+  {
+   "s": "cauthensong",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Country music artist Paul Cauthen wrote \"Marfa Lights,\" a love song inspired by the lights, for his 2016 album \"My Gospel.\""
+  },
+  {
+   "s": "cauthensong",
+   "p": "part_of",
+   "o": "mygospel",
+   "quote": "Country music artist Paul Cauthen wrote \"Marfa Lights,\" a love song inspired by the lights, for his 2016 album \"My Gospel.\""
+  },
+  {
+   "s": "mygospel",
+   "p": "year",
+   "v": "2016",
+   "quote": "Country music artist Paul Cauthen wrote \"Marfa Lights,\" a love song inspired by the lights, for his 2016 album \"My Gospel.\""
+  },
+  {
+   "s": "mygospel",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Country music artist Paul Cauthen wrote \"Marfa Lights,\" a love song inspired by the lights, for his 2016 album \"My Gospel.\""
+  },
+  {
+   "s": "simpsons",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In the 2019 Simpsons episode \"Mad About the Toy\", the family visits Marfa."
+  },
+  {
+   "s": "simpsons",
+   "p": "episode",
+   "v": "Mad About the Toy (2019)",
+   "quote": "In the 2019 Simpsons episode \"Mad About the Toy\", the family visits Marfa."
+  },
+  {
+   "s": "simpsons",
+   "p": "plot",
+   "v": "Lisa tries to explain the lights but is prevented by Marge",
+   "quote": "Lisa tries to explain the lights but is prevented by Marge."
+  },
+  {
+   "s": "uniontrade",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Union Trade had a song called \"Marfa Lights\" on their 2015 album \"A Place Of Long Years\"."
+  },
+  {
+   "s": "uniontrade",
+   "p": "authored",
+   "o": "utsong",
+   "quote": "The Union Trade had a song called \"Marfa Lights\" on their 2015 album \"A Place Of Long Years\"."
+  },
+  {
+   "s": "utsong",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The Union Trade had a song called \"Marfa Lights\" on their 2015 album \"A Place Of Long Years\"."
+  },
+  {
+   "s": "utsong",
+   "p": "part_of",
+   "o": "longyears",
+   "quote": "The Union Trade had a song called \"Marfa Lights\" on their 2015 album \"A Place Of Long Years\"."
+  },
+  {
+   "s": "longyears",
+   "p": "year",
+   "v": "2015",
+   "quote": "The Union Trade had a song called \"Marfa Lights\" on their 2015 album \"A Place Of Long Years\"."
+  },
+  {
+   "s": "longyears",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The Union Trade had a song called \"Marfa Lights\" on their 2015 album \"A Place Of Long Years\"."
+  },
+  {
+   "s": "mcguire",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Mark McGuire included a song called \"The Marfa Lights\" on his 2009 album A Pocket Full of Rain, and later compiled in his 2011 compilation A Young Person's Guide to Mark McGuire for Editions Mego"
+  },
+  {
+   "s": "mcguire",
+   "p": "authored",
+   "o": "mmsong",
+   "quote": "Mark McGuire included a song called \"The Marfa Lights\" on his 2009 album A Pocket Full of Rain, and later compiled in his 2011 compilation A Young Person's Guide to Mark McGuire for Editions Mego"
+  },
+  {
+   "s": "mmsong",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Mark McGuire included a song called \"The Marfa Lights\" on his 2009 album A Pocket Full of Rain, and later compiled in his 2011 compilation A Young Person's Guide to Mark McGuire for Editions Mego"
+  },
+  {
+   "s": "mmsong",
+   "p": "part_of",
+   "o": "pocket",
+   "quote": "Mark McGuire included a song called \"The Marfa Lights\" on his 2009 album A Pocket Full of Rain, and later compiled in his 2011 compilation A Young Person's Guide to Mark McGuire for Editions Mego"
+  },
+  {
+   "s": "mmsong",
+   "p": "part_of",
+   "o": "ypg",
+   "quote": "Mark McGuire included a song called \"The Marfa Lights\" on his 2009 album A Pocket Full of Rain, and later compiled in his 2011 compilation A Young Person's Guide to Mark McGuire for Editions Mego"
+  },
+  {
+   "s": "pocket",
+   "p": "year",
+   "v": "2009",
+   "quote": "Mark McGuire included a song called \"The Marfa Lights\" on his 2009 album A Pocket Full of Rain, and later compiled in his 2011 compilation A Young Person's Guide to Mark McGuire for Editions Mego"
+  },
+  {
+   "s": "pocket",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Mark McGuire included a song called \"The Marfa Lights\" on his 2009 album A Pocket Full of Rain, and later compiled in his 2011 compilation A Young Person's Guide to Mark McGuire for Editions Mego"
+  },
+  {
+   "s": "ypg",
+   "p": "year",
+   "v": "2011",
+   "quote": "Mark McGuire included a song called \"The Marfa Lights\" on his 2009 album A Pocket Full of Rain, and later compiled in his 2011 compilation A Young Person's Guide to Mark McGuire for Editions Mego"
+  },
+  {
+   "s": "ypg",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Mark McGuire included a song called \"The Marfa Lights\" on his 2009 album A Pocket Full of Rain, and later compiled in his 2011 compilation A Young Person's Guide to Mark McGuire for Editions Mego"
+  },
+  {
+   "s": "mego",
+   "p": "published",
+   "o": "ypg",
+   "quote": "Mark McGuire included a song called \"The Marfa Lights\" on his 2009 album A Pocket Full of Rain, and later compiled in his 2011 compilation A Young Person's Guide to Mark McGuire for Editions Mego"
+  },
+  {
+   "s": "mego",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Mark McGuire included a song called \"The Marfa Lights\" on his 2009 album A Pocket Full of Rain, and later compiled in his 2011 compilation A Young Person's Guide to Mark McGuire for Editions Mego"
+  },
+  {
+   "s": "examining",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Borraz Aymerich, Manuel; Olmos, Juan Ballester. The Marfa Lights: Examining the Photographic Evidence (2003–2007). Academia."
+  },
+  {
+   "s": "borraz",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Borraz Aymerich, Manuel; Olmos, Juan Ballester. The Marfa Lights: Examining the Photographic Evidence (2003–2007). Academia."
+  },
+  {
+   "s": "borraz",
+   "p": "authored",
+   "o": "examining",
+   "quote": "Borraz Aymerich, Manuel; Olmos, Juan Ballester. The Marfa Lights: Examining the Photographic Evidence (2003–2007). Academia."
+  },
+  {
+   "s": "olmos",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Borraz Aymerich, Manuel; Olmos, Juan Ballester. The Marfa Lights: Examining the Photographic Evidence (2003–2007). Academia."
+  },
+  {
+   "s": "olmos",
+   "p": "authored",
+   "o": "examining",
+   "quote": "Borraz Aymerich, Manuel; Olmos, Juan Ballester. The Marfa Lights: Examining the Photographic Evidence (2003–2007). Academia."
+  },
+  {
+   "s": "darack",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Darack, Ed (2008). \"Unlocking the Atmospheric Secrets of the Marfa Mystery Lights\". Weatherwise. 61 (3): 36–43."
+  },
+  {
+   "s": "darackp",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Darack, Ed (2008). \"Unlocking the Atmospheric Secrets of the Marfa Mystery Lights\". Weatherwise. 61 (3): 36–43."
+  },
+  {
+   "s": "darackp",
+   "p": "authored",
+   "o": "darack",
+   "quote": "Darack, Ed (2008). \"Unlocking the Atmospheric Secrets of the Marfa Mystery Lights\". Weatherwise. 61 (3): 36–43."
+  },
+  {
+   "s": "darack",
+   "p": "year",
+   "v": "2008",
+   "quote": "Darack, Ed (2008). \"Unlocking the Atmospheric Secrets of the Marfa Mystery Lights\". Weatherwise. 61 (3): 36–43."
+  },
+  {
+   "s": "darack",
+   "p": "published_in",
+   "v": "Weatherwise",
+   "quote": "Darack, Ed (2008). \"Unlocking the Atmospheric Secrets of the Marfa Mystery Lights\". Weatherwise. 61 (3): 36–43."
+  },
+  {
+   "s": "lindee",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Herbert Lindee, \"Ghosts Lights of Texas,\" Skeptical Inquirer, Vol. 166, No. 4, Summer 1992, pp. 400–406"
+  },
+  {
+   "s": "lindeep",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Herbert Lindee, \"Ghosts Lights of Texas,\" Skeptical Inquirer, Vol. 166, No. 4, Summer 1992, pp. 400–406"
+  },
+  {
+   "s": "lindeep",
+   "p": "authored",
+   "o": "lindee",
+   "quote": "Herbert Lindee, \"Ghosts Lights of Texas,\" Skeptical Inquirer, Vol. 166, No. 4, Summer 1992, pp. 400–406"
+  },
+  {
+   "s": "lindee",
+   "p": "year",
+   "v": "1992",
+   "quote": "Herbert Lindee, \"Ghosts Lights of Texas,\" Skeptical Inquirer, Vol. 166, No. 4, Summer 1992, pp. 400–406"
+  },
+  {
+   "s": "lindee",
+   "p": "published_in",
+   "v": "Skeptical Inquirer",
+   "quote": "Herbert Lindee, \"Ghosts Lights of Texas,\" Skeptical Inquirer, Vol. 166, No. 4, Summer 1992, pp. 400–406"
+  },
+  {
+   "s": "stacy",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Dennis Stacy, \"The Marfa Lights, A Viewer's Guide,\" Seale & Stacy, San Antonio, TX  1989"
+  },
+  {
+   "s": "stacyp",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Dennis Stacy, \"The Marfa Lights, A Viewer's Guide,\" Seale & Stacy, San Antonio, TX  1989"
+  },
+  {
+   "s": "stacyp",
+   "p": "authored",
+   "o": "stacy",
+   "quote": "Dennis Stacy, \"The Marfa Lights, A Viewer's Guide,\" Seale & Stacy, San Antonio, TX  1989"
+  },
+  {
+   "s": "stacy",
+   "p": "year",
+   "v": "1989",
+   "quote": "Dennis Stacy, \"The Marfa Lights, A Viewer's Guide,\" Seale & Stacy, San Antonio, TX  1989"
+  },
+  {
+   "s": "stephan",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Stephan, Karl D.; Bunnell, James; Klier, John; Komala-Noor, Laurence (2011). \"Quantitative intensity and location measurements of an intense long-duration luminous object near Marfa, Texas\". Journal of Atmospheric and Solar-Terrestrial Physics."
+  },
+  {
+   "s": "stephanp",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Stephan, Karl D.; Bunnell, James; Klier, John; Komala-Noor, Laurence (2011). \"Quantitative intensity and location measurements of an intense long-duration luminous object near Marfa, Texas\". Journal of Atmospheric and Solar-Terrestrial Physics."
+  },
+  {
+   "s": "stephanp",
+   "p": "authored",
+   "o": "stephan",
+   "quote": "Stephan, Karl D.; Bunnell, James; Klier, John; Komala-Noor, Laurence (2011). \"Quantitative intensity and location measurements of an intense long-duration luminous object near Marfa, Texas\". Journal of Atmospheric and Solar-Terrestrial Physics."
+  },
+  {
+   "s": "bunnell",
+   "p": "authored",
+   "o": "stephan",
+   "quote": "Stephan, Karl D.; Bunnell, James; Klier, John; Komala-Noor, Laurence (2011). \"Quantitative intensity and location measurements of an intense long-duration luminous object near Marfa, Texas\". Journal of Atmospheric and Solar-Terrestrial Physics."
+  },
+  {
+   "s": "klier",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Stephan, Karl D.; Bunnell, James; Klier, John; Komala-Noor, Laurence (2011). \"Quantitative intensity and location measurements of an intense long-duration luminous object near Marfa, Texas\". Journal of Atmospheric and Solar-Terrestrial Physics."
+  },
+  {
+   "s": "klier",
+   "p": "authored",
+   "o": "stephan",
+   "quote": "Stephan, Karl D.; Bunnell, James; Klier, John; Komala-Noor, Laurence (2011). \"Quantitative intensity and location measurements of an intense long-duration luminous object near Marfa, Texas\". Journal of Atmospheric and Solar-Terrestrial Physics."
+  },
+  {
+   "s": "komala",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Stephan, Karl D.; Bunnell, James; Klier, John; Komala-Noor, Laurence (2011). \"Quantitative intensity and location measurements of an intense long-duration luminous object near Marfa, Texas\". Journal of Atmospheric and Solar-Terrestrial Physics."
+  },
+  {
+   "s": "komala",
+   "p": "authored",
+   "o": "stephan",
+   "quote": "Stephan, Karl D.; Bunnell, James; Klier, John; Komala-Noor, Laurence (2011). \"Quantitative intensity and location measurements of an intense long-duration luminous object near Marfa, Texas\". Journal of Atmospheric and Solar-Terrestrial Physics."
+  },
+  {
+   "s": "stephan",
+   "p": "year",
+   "v": "2011",
+   "quote": "Stephan, Karl D.; Bunnell, James; Klier, John; Komala-Noor, Laurence (2011). \"Quantitative intensity and location measurements of an intense long-duration luminous object near Marfa, Texas\". Journal of Atmospheric and Solar-Terrestrial Physics."
+  },
+  {
+   "s": "stephan",
+   "p": "published_in",
+   "v": "Journal of Atmospheric and Solar-Terrestrial Physics",
+   "quote": "Stephan, Karl D.; Bunnell, James; Klier, John; Komala-Noor, Laurence (2011). \"Quantitative intensity and location measurements of an intense long-duration luminous object near Marfa, Texas\". Journal of Atmospheric and Solar-Terrestrial Physics."
+  },
+  {
+   "s": "stipp",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "David Stipp, \"Marfa, Texas, Finds a Flickering Fame in Mystery Lights,\" Wall Street Journal, March 21, 1984, p. A1."
+  },
+  {
+   "s": "stippp",
+   "p": "commentator",
+   "o": "case",
+   "quote": "David Stipp, \"Marfa, Texas, Finds a Flickering Fame in Mystery Lights,\" Wall Street Journal, March 21, 1984, p. A1."
+  },
+  {
+   "s": "stippp",
+   "p": "authored",
+   "o": "stipp",
+   "quote": "David Stipp, \"Marfa, Texas, Finds a Flickering Fame in Mystery Lights,\" Wall Street Journal, March 21, 1984, p. A1."
+  },
+  {
+   "s": "stipp",
+   "p": "date",
+   "v": "1984-03-21",
+   "quote": "David Stipp, \"Marfa, Texas, Finds a Flickering Fame in Mystery Lights,\" Wall Street Journal, March 21, 1984, p. A1."
+  },
+  {
+   "s": "stipp",
+   "p": "published_in",
+   "v": "Wall Street Journal",
+   "quote": "David Stipp, \"Marfa, Texas, Finds a Flickering Fame in Mystery Lights,\" Wall Street Journal, March 21, 1984, p. A1."
+  },
+  {
+   "s": "truth",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Texas Monthly article \"The Truth Is Out There\""
+  },
+  {
+   "s": "truth",
+   "p": "published_in",
+   "v": "Texas Monthly",
+   "quote": "Texas Monthly article \"The Truth Is Out There\""
+  }
+ ]
+}

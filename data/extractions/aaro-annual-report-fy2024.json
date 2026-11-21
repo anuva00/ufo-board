@@ -1,0 +1,2518 @@
+{
+ "slug": "aaro-annual-report-fy2024",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Fiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena",
+   "description": "Department of Defense / AARO annual report to Congress covering UAP reports from May 1, 2023 to June 1, 2024.",
+   "aliases": [
+    "AARO Annual Report on UAP, FY2024",
+    "consolidated annual report"
+   ]
+  },
+  {
+   "key": "aaro",
+   "type": "organization",
+   "name": "All-domain Anomaly Resolution Office",
+   "description": "Department of Defense office that received and analysed the UAP reports and drafted the report.",
+   "aliases": [
+    "AARO",
+    "ALL-DOMAIN ANOMALY RESOLUTION OFFICE",
+    "All-domain Anomaly Resolution"
+   ]
+  },
+  {
+   "key": "dod",
+   "type": "organization",
+   "name": "United States Department of Defense",
+   "description": "Department that provided the report.",
+   "aliases": [
+    "Department of Defense",
+    "DoD",
+    "the Department"
+   ]
+  },
+  {
+   "key": "website",
+   "type": "document",
+   "name": "AARO website (www.aaro.mil)",
+   "description": "AARO's public-facing website, launched October 31, 2023, hosting a secure reporting mechanism, case resolutions and declassified UAP data.",
+   "aliases": [
+    "www.aaro.mil",
+    "AARO's website"
+   ]
+  },
+  {
+   "key": "statute",
+   "type": "document",
+   "name": "50 U.S.C. § 3373",
+   "description": "United States Code section establishing the annual UAP reporting requirement.",
+   "aliases": [
+    "50 U.S. Code [U.S.C.] 3373(k)",
+    "50 U.S.C. § 3373(k)(1)(A)",
+    "50 U.S.C. § 3373(k)(1)(B)"
+   ]
+  },
+  {
+   "key": "statute_b",
+   "type": "document",
+   "name": "50 U.S.C. § 3373b",
+   "description": "United States Code section establishing the mechanism for authorized reporting."
+  },
+  {
+   "key": "statute_3733",
+   "type": "document",
+   "name": "50 U.S.C. § 3733",
+   "description": "Code section cited (as written) for AARO's partner engagement programme and science plan.",
+   "aliases": [
+    "50 U.S.C. § 3733(d)",
+    "50 U.S.C. § 3733(g)"
+   ]
+  },
+  {
+   "key": "iaa23",
+   "type": "document",
+   "name": "Intelligence Authorization Act for Fiscal Year 2023",
+   "description": "Act whose enactment starts the clock for the annual reports.",
+   "aliases": [
+    "FY 2023 Intelligence Authorization Act"
+   ]
+  },
+  {
+   "key": "congress",
+   "type": "organization",
+   "name": "United States Congress",
+   "description": "Recipient of the report and of any notification of breakthrough foreign capability.",
+   "aliases": [
+    "Congress",
+    "appropriate congressional committees",
+    "congressional oversight committees"
+   ]
+  },
+  {
+   "key": "usdis",
+   "type": "organization",
+   "name": "Under Secretary of Defense for Intelligence and Security",
+   "description": "Organisation AARO coordinated with in drafting the report."
+  },
+  {
+   "key": "odni",
+   "type": "organization",
+   "name": "Office of the Director of National Intelligence",
+   "description": "Parent office of the NIM-MIL and National Intelligence Council listed as coordinating bodies.",
+   "aliases": [
+    "ODNI"
+   ]
+  },
+  {
+   "key": "nimmil",
+   "type": "organization",
+   "name": "ODNI National Intelligence Manager for Military Integration",
+   "description": "Organisation AARO coordinated with in drafting the report.",
+   "aliases": [
+    "NIM-MIL",
+    "ODNI's National Intelligence Manager for Military Integration"
+   ]
+  },
+  {
+   "key": "nic",
+   "type": "organization",
+   "name": "National Intelligence Council",
+   "description": "Organisation AARO coordinated with in drafting the report.",
+   "aliases": [
+    "ODNI's National Intelligence Council"
+   ]
+  },
+  {
+   "key": "army",
+   "type": "organization",
+   "name": "United States Army",
+   "description": "Organisation AARO coordinated with in drafting the report.",
+   "aliases": [
+    "U.S. Army"
+   ]
+  },
+  {
+   "key": "navy",
+   "type": "organization",
+   "name": "United States Navy",
+   "description": "Organisation AARO coordinated with in drafting the report.",
+   "aliases": [
+    "U.S. Navy",
+    "USN"
+   ]
+  },
+  {
+   "key": "usmc",
+   "type": "organization",
+   "name": "United States Marine Corps",
+   "description": "Organisation AARO coordinated with in drafting the report.",
+   "aliases": [
+    "U.S. Marine Corps",
+    "USMC"
+   ]
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "description": "Organisation AARO coordinated with in drafting the report.",
+   "aliases": [
+    "U.S. Air Force",
+    "USAF"
+   ]
+  },
+  {
+   "key": "ussf",
+   "type": "organization",
+   "name": "United States Space Force",
+   "description": "Organisation AARO coordinated with in drafting the report.",
+   "aliases": [
+    "U.S. Space Force",
+    "USSF"
+   ]
+  },
+  {
+   "key": "afrl",
+   "type": "organization",
+   "name": "Air Force Research Laboratory",
+   "description": "Organisation AARO coordinated with in drafting the report.",
+   "aliases": [
+    "AFRL"
+   ]
+  },
+  {
+   "key": "dia",
+   "type": "organization",
+   "name": "Defense Intelligence Agency",
+   "description": "Organisation AARO coordinated with in drafting the report.",
+   "aliases": [
+    "DIA"
+   ]
+  },
+  {
+   "key": "js",
+   "type": "organization",
+   "name": "Joint Staff",
+   "description": "Organisation AARO coordinated with in drafting the report.",
+   "aliases": [
+    "DoD Joint Staff",
+    "JS"
+   ]
+  },
+  {
+   "key": "doe",
+   "type": "organization",
+   "name": "United States Department of Energy",
+   "description": "Organisation AARO coordinated with in drafting the report.",
+   "aliases": [
+    "Department of Energy",
+    "DoE"
+   ]
+  },
+  {
+   "key": "fbi",
+   "type": "organization",
+   "name": "Federal Bureau of Investigation",
+   "description": "Organisation AARO coordinated with in drafting the report.",
+   "aliases": [
+    "FBI"
+   ]
+  },
+  {
+   "key": "msic",
+   "type": "organization",
+   "name": "Missile and Space Intelligence Center",
+   "description": "Organisation AARO coordinated with in drafting the report.",
+   "aliases": [
+    "MSIC"
+   ]
+  },
+  {
+   "key": "nasa",
+   "type": "organization",
+   "name": "National Aeronautics and Space Administration",
+   "description": "Organisation AARO coordinated with in drafting the report.",
+   "aliases": [
+    "NASA"
+   ]
+  },
+  {
+   "key": "nasic",
+   "type": "organization",
+   "name": "National Air and Space Intelligence Center",
+   "description": "Organisation AARO coordinated with in drafting the report.",
+   "aliases": [
+    "NASIC"
+   ]
+  },
+  {
+   "key": "nga",
+   "type": "organization",
+   "name": "National Geospatial-Intelligence Agency",
+   "description": "Organisation AARO coordinated with in drafting the report.",
+   "aliases": [
+    "NGA"
+   ]
+  },
+  {
+   "key": "ngic",
+   "type": "organization",
+   "name": "National Ground Intelligence Center",
+   "description": "Organisation AARO coordinated with in drafting the report.",
+   "aliases": [
+    "NGIC"
+   ]
+  },
+  {
+   "key": "noaa",
+   "type": "organization",
+   "name": "National Oceanic and Atmospheric Administration",
+   "description": "Organisation AARO coordinated with in drafting the report.",
+   "aliases": [
+    "National Oceanographic and Atmospheric Administration"
+   ]
+  },
+  {
+   "key": "nro",
+   "type": "organization",
+   "name": "National Reconnaissance Office",
+   "description": "Organisation AARO coordinated with in drafting the report.",
+   "aliases": [
+    "NRO"
+   ]
+  },
+  {
+   "key": "nsa",
+   "type": "organization",
+   "name": "National Security Agency",
+   "description": "Organisation AARO coordinated with in drafting the report.",
+   "aliases": [
+    "NSA"
+   ]
+  },
+  {
+   "key": "ncis",
+   "type": "organization",
+   "name": "Naval Criminal Investigative Service",
+   "description": "Organisation AARO coordinated with in drafting the report.",
+   "aliases": [
+    "NCIS"
+   ]
+  },
+  {
+   "key": "nrc",
+   "type": "organization",
+   "name": "Nuclear Regulatory Commission",
+   "description": "Regulator whose Chairman reported UAS incidents near nuclear sites to AARO; also a coordinating body."
+  },
+  {
+   "key": "asd_hd",
+   "type": "organization",
+   "name": "Office of the Assistant Secretary of Defense for Homeland Defense and Hemispheric Affairs",
+   "description": "Organisation AARO coordinated with in drafting the report."
+  },
+  {
+   "key": "atsd_pa",
+   "type": "organization",
+   "name": "Office of the Assistant to the Secretary of Defense for Public Affairs",
+   "description": "Organisation AARO coordinated with in drafting the report."
+  },
+  {
+   "key": "dasd_nm",
+   "type": "organization",
+   "name": "Office of the Deputy Assistant Secretary of Defense for Nuclear Matters",
+   "description": "Organisation AARO coordinated with in drafting the report."
+  },
+  {
+   "key": "ogc",
+   "type": "organization",
+   "name": "Office of the General Counsel of the Department of Defense",
+   "description": "Organisation AARO coordinated with in drafting the report.",
+   "aliases": [
+    "Office of the General Counsel of the DoD"
+   ]
+  },
+  {
+   "key": "oni",
+   "type": "organization",
+   "name": "Office of Naval Intelligence",
+   "description": "Organisation AARO coordinated with in drafting the report."
+  },
+  {
+   "key": "nmic",
+   "type": "organization",
+   "name": "National Maritime Intelligence Center",
+   "description": "Organisation AARO coordinated with in drafting the report."
+  },
+  {
+   "key": "pdasd_ncb",
+   "type": "organization",
+   "name": "Office of the Principal Deputy Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs",
+   "description": "Organisation AARO coordinated with in drafting the report."
+  },
+  {
+   "key": "ic",
+   "type": "organization",
+   "name": "United States Intelligence Community",
+   "description": "Community AARO coordinates with on attribution and analysis.",
+   "aliases": [
+    "Intelligence Community",
+    "IC"
+   ]
+  },
+  {
+   "key": "faa",
+   "type": "organization",
+   "name": "Federal Aviation Administration",
+   "description": "Aviation regulator that supplied 392 civil and commercial aviation UAP reports.",
+   "aliases": [
+    "FAA"
+   ]
+  },
+  {
+   "key": "spacecom",
+   "type": "organization",
+   "name": "United States Space Command",
+   "description": "Combatant command whose astrographic area of responsibility begins at 100 kilometers.",
+   "aliases": [
+    "U.S. Space Command",
+    "USSPACECOM"
+   ]
+  },
+  {
+   "key": "nnsa_admin",
+   "type": "organization",
+   "name": "Administrator for Nuclear Security",
+   "description": "Official consulted on UAP incidents near nuclear weapons facilities; co-reported 18 UAS incidents."
+  },
+  {
+   "key": "secdef",
+   "type": "organization",
+   "name": "United States Secretary of Defense",
+   "description": "Official who with the DNI designated AARO's partner organisations.",
+   "aliases": [
+    "SecDef"
+   ]
+  },
+  {
+   "key": "dni",
+   "type": "organization",
+   "name": "Director of National Intelligence",
+   "description": "Official who with the Secretary of Defense designated AARO's partner organisations.",
+   "aliases": [
+    "DNI"
+   ]
+  },
+  {
+   "key": "ornl",
+   "type": "organization",
+   "name": "Oak Ridge National Laboratory",
+   "description": "National laboratory that analysed a material claimed to be from a UAP.",
+   "aliases": [
+    "ORNL"
+   ]
+  },
+  {
+   "key": "gtri",
+   "type": "organization",
+   "name": "Georgia Tech Research Institute",
+   "description": "Institute that developed the GREMLIN sensor architecture.",
+   "aliases": [
+    "GTRI"
+   ]
+  },
+  {
+   "key": "mitll",
+   "type": "organization",
+   "name": "Massachusetts Institute of Technology Lincoln Laboratory",
+   "description": "Laboratory building prototype radar data processing systems for AARO.",
+   "aliases": [
+    "Massachusetts Institute of Technology - Lincoln Laboratory"
+   ]
+  },
+  {
+   "key": "nws",
+   "type": "organization",
+   "name": "National Weather Service",
+   "description": "Weather agency whose radar systems are to be used by prototype data processing systems."
+  },
+  {
+   "key": "nsf",
+   "type": "organization",
+   "name": "National Science Foundation",
+   "description": "Sponsor of workshops in which AARO S&T participated."
+  },
+  {
+   "key": "ostp",
+   "type": "organization",
+   "name": "Office of Science and Technology Policy",
+   "description": "White House office AARO S&T works with on whole-of-government coordination."
+  },
+  {
+   "key": "dhs",
+   "type": "organization",
+   "name": "United States Department of Homeland Security",
+   "description": "Department that interviewees claimed housed KONA BLUE.",
+   "aliases": [
+    "Department of Homeland Security"
+   ]
+  },
+  {
+   "key": "fvey",
+   "type": "organization",
+   "name": "Five Eyes",
+   "description": "Intelligence coalition named in the glossary definition of UAP incursion.",
+   "aliases": [
+    "FVEY"
+   ]
+  },
+  {
+   "key": "x",
+   "type": "organization",
+   "name": "X",
+   "description": "Social media platform on which AARO has an account."
+  },
+  {
+   "key": "gremlin",
+   "type": "program",
+   "name": "GREMLIN",
+   "description": "Prototype sensor system/architecture for detecting, tracking and characterising UAP.",
+   "aliases": [
+    "GREMLIN sensor architecture",
+    "GREMLIN sensor suite"
+   ]
+  },
+  {
+   "key": "hrr1",
+   "type": "document",
+   "name": "AARO Historical Record Report Volume 1",
+   "description": "AARO's unclassified historical record report, released to the public in March 2024.",
+   "aliases": [
+    "Historical Record Report Volume I"
+   ]
+  },
+  {
+   "key": "konablue",
+   "type": "program",
+   "name": "KONA BLUE",
+   "description": "Prospective, never-approved Special Access Program whose historical documents AARO posted."
+  },
+  {
+   "key": "kb_docs",
+   "type": "document",
+   "name": "KONA BLUE historical documents",
+   "description": "Historical documents relating to KONA BLUE posted by AARO."
+  },
+  {
+   "key": "genadmin",
+   "type": "document",
+   "name": "Joint Staff UAP GENADMIN message (May 2023)",
+   "description": "Joint Staff message directing UAP reporting within 96 hours; approved for public release in spring 2024.",
+   "aliases": [
+    "UAP GENADMIN message",
+    "GENADMIN guidance on UAP reporting and materiel disposition"
+   ]
+  },
+  {
+   "key": "ornl_report",
+   "type": "document",
+   "name": "AARO and Oak Ridge National Laboratory materials analysis report of an alleged UAP",
+   "description": "Report on the analysis of a material claimed to be from a UAP, posted on AARO's website."
+  },
+  {
+   "key": "starlink",
+   "type": "program",
+   "name": "Starlink",
+   "description": "Satellite constellation to which AARO increasingly resolves cases.",
+   "aliases": [
+    "Starlink satellite constellation"
+   ]
+  },
+  {
+   "key": "inc_starlink",
+   "type": "case",
+   "name": "Commercial pilot sighting of flashing lights resolved to a Starlink launch (2023–2024 reporting period)",
+   "description": "A commercial pilot's report of white flashing lights at night, which AARO correlated with a Starlink launch from Cape Canaveral."
+  },
+  {
+   "key": "craft_starlink",
+   "type": "craft",
+   "name": "white flashing lights reported by a commercial pilot",
+   "description": "Lights in the night sky assessed as Starlink satellites."
+  },
+  {
+   "key": "canaveral",
+   "type": "place",
+   "name": "Cape Canaveral, Florida",
+   "description": "Launch site of the Starlink satellites correlated with the sighting."
+  },
+  {
+   "key": "x_sat",
+   "type": "explanation",
+   "name": "satellite-or-rocket",
+   "description": "Satellites, satellite launches or satellite flares."
+  },
+  {
+   "key": "f_lights",
+   "type": "feature",
+   "name": "lights-only",
+   "description": "Only lights reported."
+  },
+  {
+   "key": "f_pilot",
+   "type": "feature",
+   "name": "pilot-witnesses",
+   "description": "Pilot or aircrew witnesses."
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Investigated by an official body."
+  },
+  {
+   "key": "inc_ny",
+   "type": "case",
+   "name": "Commercial aircrew near miss with a cylindrical object over the Atlantic Ocean off New York (2023–2024 reporting period)",
+   "description": "FAA-reported near miss between a commercial aircrew and a 'cylindrical object'; the only FAA report mentioning a flight safety issue."
+  },
+  {
+   "key": "craft_ny",
+   "type": "craft",
+   "name": "cylindrical object reported by a commercial aircrew off New York",
+   "description": "Object involved in a reported near miss."
+  },
+  {
+   "key": "atlantic",
+   "type": "place",
+   "name": "Atlantic Ocean",
+   "description": "Ocean over which the near miss occurred."
+  },
+  {
+   "key": "newyork",
+   "type": "place",
+   "name": "New York",
+   "description": "State off whose coast the near miss occurred."
+  },
+  {
+   "key": "f_cyl",
+   "type": "feature",
+   "name": "shape-cylinder",
+   "description": "Cylindrical object."
+  },
+  {
+   "key": "f_nearmiss",
+   "type": "feature",
+   "name": "other:near-miss-with-aircraft",
+   "description": "Reported near miss / flight safety hazard to an aircraft."
+  },
+  {
+   "key": "inc_cook",
+   "type": "case",
+   "name": "2023 D.C. Cook Nuclear Power Plant UAS incident",
+   "description": "Crashed unmanned aerial system recovered by plant security on August 3, 2023."
+  },
+  {
+   "key": "cook",
+   "type": "place",
+   "name": "D.C. Cook Nuclear Power Plant",
+   "description": "Nuclear power plant whose security recovered a crashed UAS."
+  },
+  {
+   "key": "berrien",
+   "type": "place",
+   "name": "Berrien County, Michigan",
+   "description": "County whose local law enforcement was given the crashed UAS."
+  },
+  {
+   "key": "berrien_lle",
+   "type": "organization",
+   "name": "Berrien County, Michigan, local law enforcement",
+   "description": "Local law enforcement given the crashed UAS.",
+   "aliases": [
+    "LLE"
+   ]
+  },
+  {
+   "key": "cook_sec",
+   "type": "organization",
+   "name": "D.C. Cook Nuclear Power Plant security",
+   "description": "On-site security that recovered the crashed UAS."
+  },
+  {
+   "key": "craft_cook",
+   "type": "craft",
+   "name": "crashed UAS recovered at D.C. Cook Nuclear Power Plant",
+   "description": "Unmanned aerial system recovered by plant security."
+  },
+  {
+   "key": "f_nuke",
+   "type": "feature",
+   "name": "nuclear-site-proximity",
+   "description": "Near nuclear infrastructure."
+  },
+  {
+   "key": "f_debris",
+   "type": "feature",
+   "name": "debris-or-material",
+   "description": "Physical object or material recovered."
+  },
+  {
+   "key": "x_uas",
+   "type": "explanation",
+   "name": "other:unmanned-aerial-system",
+   "description": "Unmanned aerial system (drone)."
+  },
+  {
+   "key": "inc_bwxt",
+   "type": "case",
+   "name": "2023 BWXT Fuel Cycle Facility, Lynchburg UAS flyovers",
+   "description": "UAS flyovers observed on six consecutive nights, October 10-15, 2023."
+  },
+  {
+   "key": "bwxt",
+   "type": "organization",
+   "name": "BWXT",
+   "description": "Company (formerly Babcock and Wilson Nuclear Energy, as written) operating the Fuel Cycle Facility in Lynchburg.",
+   "aliases": [
+    "USPER BWXT",
+    "USPER Babcock and Wilson Nuclear Energy",
+    "Babcock and Wilson Nuclear Energy"
+   ]
+  },
+  {
+   "key": "bwxt_fac",
+   "type": "place",
+   "name": "BWXT Fuel Cycle Facility, Lynchburg, Virginia",
+   "description": "Nuclear fuel facility over which UAS flyovers were observed."
+  },
+  {
+   "key": "lynchburg",
+   "type": "place",
+   "name": "Lynchburg, Virginia",
+   "description": "City where the Fuel Cycle Facility is located."
+  },
+  {
+   "key": "craft_bwxt",
+   "type": "craft",
+   "name": "UAS observed over the BWXT Fuel Cycle Facility",
+   "description": "Single unmanned aerial system seen on each of six nights."
+  },
+  {
+   "key": "inc_eas",
+   "type": "case",
+   "name": "2023–2024 East Asian Seas UAP reports",
+   "description": "100 reports from U.S. military assets operating over the East Asian Seas during the reporting period."
+  },
+  {
+   "key": "eas",
+   "type": "place",
+   "name": "East Asian Seas",
+   "description": "Region over which U.S. military assets provided 100 reports."
+  },
+  {
+   "key": "x_balloon",
+   "type": "explanation",
+   "name": "balloon",
+   "description": "Balloons of various types."
+  },
+  {
+   "key": "f_mil",
+   "type": "feature",
+   "name": "military-witnesses",
+   "description": "Reported by military personnel or assets."
+  },
+  {
+   "key": "inc_me",
+   "type": "case",
+   "name": "2023–2024 Middle East UAP reports",
+   "description": "57 reports from U.S. military assets deployed to the Middle East during the reporting period."
+  },
+  {
+   "key": "me",
+   "type": "place",
+   "name": "Middle East",
+   "description": "Region where deployed U.S. military assets provided 57 reports."
+  },
+  {
+   "key": "inc_material",
+   "type": "case",
+   "name": "Material claimed to be from a UAP analysed by Oak Ridge National Laboratory",
+   "description": "A material claimed to be from a UAP, analysed by ORNL for AARO."
+  },
+  {
+   "key": "x_bird",
+   "type": "explanation",
+   "name": "bird-or-animal",
+   "description": "Birds."
+  },
+  {
+   "key": "x_aircraft",
+   "type": "explanation",
+   "name": "conventional-aircraft",
+   "description": "Aircraft."
+  },
+  {
+   "key": "x_camera",
+   "type": "explanation",
+   "name": "camera-artifact",
+   "description": "Sensor artifacts."
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "title",
+   "v": "Fiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena",
+   "quote": "Fiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena"
+  },
+  {
+   "s": "case",
+   "p": "information_cut_off",
+   "v": "2024-06-01",
+   "quote": "Information Cut Off: June 1, 2024"
+  },
+  {
+   "s": "case",
+   "p": "classification",
+   "v": "UNCLASSIFIED",
+   "quote": "UNCLASSIFIED Table of Contents"
+  },
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "2023-05-01",
+   "quote": "This report covers unidentified anomalous phenomena (UAP) reports from May 1, 2023 to June 1, 2024 and all UAP reports from any previous time periods that were not included in an earlier report."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "2024-06-01",
+   "quote": "This report covers unidentified anomalous phenomena (UAP) reports from May 1, 2023 to June 1, 2024 and all UAP reports from any previous time periods that were not included in an earlier report."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "The number of reported incidents of UAP over restricted air space of the United States during the one-year period;"
+  },
+  {
+   "s": "case",
+   "p": "legal_basis",
+   "v": "50 U.S.C. 3373(k)",
+   "quote": "This report is provided by the Department of Defense (DoD) in response to a requirement established in 50 U.S. Code [U.S.C.] 3373(k)."
+  },
+  {
+   "s": "case",
+   "p": "reports_received",
+   "v": "757",
+   "quote": "The All-domain Anomaly Resolution Office (AARO) received 757 UAP reports during this period; 485 of these reports featured UAP incidents that occurred during the reporting period."
+  },
+  {
+   "s": "case",
+   "p": "reports_of_incidents_in_reporting_period",
+   "v": "485",
+   "quote": "The All-domain Anomaly Resolution Office (AARO) received 757 UAP reports during this period; 485 of these reports featured UAP incidents that occurred during the reporting period."
+  },
+  {
+   "s": "case",
+   "p": "reports_of_incidents_2021_to_2022",
+   "v": "272",
+   "quote": "The remaining 272 reports featured UAP incidents that occurred between 2021 and 2022 but were not reported to AARO until this reporting period"
+  },
+  {
+   "s": "case",
+   "p": "total_reports_to_date",
+   "v": "1652 as of October 24, 2024",
+   "quote": "As of October 24, 2024, there are 1652 reports in total."
+  },
+  {
+   "s": "case",
+   "p": "cases_resolved",
+   "v": "118 (executive summary), all to prosaic objects",
+   "quote": "AARO resolved 118 cases during the reporting period, all of which resolved to prosaic objects such as various types of balloons, birds, and unmanned aerial systems (UAS)."
+  },
+  {
+   "s": "case",
+   "p": "cases_resolved",
+   "v": "49 (Overview of Reports section and Figure 1), all to prosaic objects",
+   "quote": "AARO resolved 49 cases during the reporting period, all of which resolved to prosaic objects such as various types of balloons, birds, and UAS (see Figure 2)."
+  },
+  {
+   "s": "case",
+   "p": "cases_queued_for_closure",
+   "v": "174 as of May 31, 2024, pending final review and Director's approval",
+   "quote": "As of May 31, 2024, AARO has an additional 174 cases queued for closure, pending a final review and Director's approval."
+  },
+  {
+   "s": "case",
+   "p": "cases_queued_for_closure_outcome",
+   "v": "all 174 finalized as resolved to prosaic objects including balloons, birds, UAS, satellites, and aircraft",
+   "quote": "As of the publishing date of this report, all 174 cases have been finalized as resolved to prosaic objects including balloons, birds, UAS, satellites, and aircraft."
+  },
+  {
+   "s": "case",
+   "p": "cases_recommended_for_closure",
+   "v": "243 as of June 1, 2024, pending peer review",
+   "quote": "An additional 243 cases were recommended for closure as of June 1, 2024, pending peer review."
+  },
+  {
+   "s": "case",
+   "p": "cases_meriting_further_analysis",
+   "v": "21",
+   "quote": "AARO determined 21 cases merit further analysis by its IC and science and technology (S&T) partners."
+  },
+  {
+   "s": "case",
+   "p": "cases_in_active_archive",
+   "v": "444",
+   "quote": "The remaining 444 cases lacked sufficient data to facilitate analysis and were placed in the Active Archive"
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "no evidence of extraterrestrial beings, activity, or technology",
+   "quote": "to date, AARO has discovered no evidence of extraterrestrial beings, activity, or technology."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "no reports indicated observers suffered adverse health effects",
+   "quote": "None of the reports AARO received during the reporting period indicated that observers suffered any adverse health effects."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "no physiological impacts or adverse health effects reported",
+   "quote": "AARO received no reports suggesting any observers of UAP suffered any physiological impacts or adverse health effects."
+  },
+  {
+   "s": "case",
+   "p": "flight_safety_reports_from_military_aircrews",
+   "v": "2",
+   "quote": "U.S. military aircrews provided two reports that identified flight safety concerns, and three reports described pilots being trailed or shadowed by UAP."
+  },
+  {
+   "s": "case",
+   "p": "reports_of_pilots_trailed_or_shadowed_by_uap",
+   "v": "3",
+   "quote": "U.S. military aircrews provided two reports that identified flight safety concerns, and three reports described pilots being trailed or shadowed by UAP."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "no indication or confirmation that these activities are attributable to foreign adversaries",
+   "quote": "To date, AARO has no indication or confirmation that these activities are attributable to foreign adversaries."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "no resolved case substantiated advanced foreign adversarial capabilities or breakthrough aerospace technologies",
+   "quote": "None of these resolved cases substantiated advanced foreign adversarial capabilities or breakthrough aerospace technologies."
+  },
+  {
+   "s": "case",
+   "p": "limitation",
+   "v": "case resolution constrained by a lack of timely and actionable sensor data",
+   "quote": "AARO's ability to resolve cases remains constrained by a lack of timely and actionable sensor data."
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "majority of case holdings remain unresolved due to a lack of data",
+   "quote": "The majority of AARO's case holdings remain unresolved due to a lack of data needed to further analysis."
+  },
+  {
+   "s": "case",
+   "p": "air_domain_reports",
+   "v": "708",
+   "quote": "Of these reports, 708 occurred in the air domain, 49 occurred in the space domain, and none occurred in the maritime or transmedium domains (see Figure 1)."
+  },
+  {
+   "s": "case",
+   "p": "space_domain_reports",
+   "v": "49",
+   "quote": "Of these reports, 708 occurred in the air domain, 49 occurred in the space domain, and none occurred in the maritime or transmedium domains (see Figure 1)."
+  },
+  {
+   "s": "case",
+   "p": "maritime_domain_reports",
+   "v": "0",
+   "quote": "Of these reports, 708 occurred in the air domain, 49 occurred in the space domain, and none occurred in the maritime or transmedium domains (see Figure 1)."
+  },
+  {
+   "s": "case",
+   "p": "transmedium_domain_reports",
+   "v": "0",
+   "quote": "Of these reports, 708 occurred in the air domain, 49 occurred in the space domain, and none occurred in the maritime or transmedium domains (see Figure 1)."
+  },
+  {
+   "s": "case",
+   "p": "space_domain_report_sources",
+   "v": "none from space-based sensors; all from military or commercial pilots or ground observers reporting UAP at estimated altitudes of 100 kilometers or higher",
+   "quote": "reports originated from military or commercial pilots or ground observers who reported UAP located at altitudes estimated at 100 kilometers or higher"
+  },
+  {
+   "s": "case",
+   "p": "closed_case_object_types",
+   "v": "Balloon(s) 70%, UAS 16%, Bird(s) 8%, Satellite(s) 4%, Aircraft 2% (figure labels, order as read)",
+   "quote": "Figure 2: AARO's Closed Cases by Identified Object Type from May 1, 2023 - June 1, 2024"
+  },
+  {
+   "s": "case",
+   "p": "balloon_share_of_closed_cases",
+   "v": "70%",
+   "quote": "Balloon(s) 70%"
+  },
+  {
+   "s": "case",
+   "p": "uas_share_of_closed_cases",
+   "v": "16%",
+   "quote": "UAS 16%"
+  },
+  {
+   "s": "case",
+   "p": "reported_morphologies",
+   "v": "unidentified lights and round/spherical/orb-shaped objects made up the bulk of cases with distinct visual characteristics",
+   "quote": "Unidentified lights and round/spherical/orb-shaped objects made up the bulk of cases in which reports provided distinct visual characteristics (see Figure 3)."
+  },
+  {
+   "s": "case",
+   "p": "morphology_share_lights",
+   "v": "65%",
+   "quote": "Lights 65%"
+  },
+  {
+   "s": "case",
+   "p": "morphology_share_orb_sphere_round",
+   "v": "22%",
+   "quote": "Orb/Sphere/Round 22%"
+  },
+  {
+   "s": "case",
+   "p": "morphology_share_cylinder",
+   "v": "4%",
+   "quote": "Cylinder 4%"
+  },
+  {
+   "s": "case",
+   "p": "morphology_share_other",
+   "v": "4%",
+   "quote": "Other 4%"
+  },
+  {
+   "s": "case",
+   "p": "morphology_categories",
+   "v": "Triangle, Square/Polygon, Disk, Cylinder, Orb/Sphere/Round, Other, Lights",
+   "quote": "Figure 3: UAP Characterization by Reported Morphology from May 1, 2023 - June 1, 2024"
+  },
+  {
+   "s": "case",
+   "p": "other_morphology_description",
+   "v": "green fire ball",
+   "quote": "include unique descriptions such as \"green fire ball,\" \"a jelly fish with [multicolored] flashing lights,\" and a \"silver rocket approximately six feet long.\""
+  },
+  {
+   "s": "case",
+   "p": "other_morphology_description",
+   "v": "a jelly fish with [multicolored] flashing lights",
+   "quote": "include unique descriptions such as \"green fire ball,\" \"a jelly fish with [multicolored] flashing lights,\" and a \"silver rocket approximately six feet long.\""
+  },
+  {
+   "s": "case",
+   "p": "other_morphology_description",
+   "v": "silver rocket approximately six feet long",
+   "quote": "include unique descriptions such as \"green fire ball,\" \"a jelly fish with [multicolored] flashing lights,\" and a \"silver rocket approximately six feet long.\""
+  },
+  {
+   "s": "case",
+   "p": "reports_without_morphology_information",
+   "v": "170 (22.4% of total)",
+   "quote": "170 reports during the reporting period (22.4% of total) which contained insufficient or no information to enable a morphological characterization."
+  },
+  {
+   "s": "case",
+   "p": "reported_altitudes",
+   "v": "no new trends regarding operating altitudes",
+   "quote": "AARO observed no new trends regarding operating altitudes of reported UAP"
+  },
+  {
+   "s": "case",
+   "p": "altitude_note",
+   "v": "boundary to space shown in feet (320,000) instead of kilometers",
+   "quote": "*Note that the table has been updated to reflect the boundary to space in feet (320,000) instead of kilometers (100,000)."
+  },
+  {
+   "s": "case",
+   "p": "geographic_trend",
+   "v": "continued collection bias toward locations near U.S. military assets and sensors",
+   "quote": "AARO notes a continued geographic collection bias based on locations near U.S. military assets and sensors operating globally"
+  },
+  {
+   "s": "case",
+   "p": "reports_from_us_military_operating_areas",
+   "v": "81",
+   "quote": "During this reporting period, 81 reports originated from U.S. military operating areas."
+  },
+  {
+   "s": "case",
+   "p": "prosaic_trend",
+   "v": "birds commonly misidentified as UAP due to sensor artifacts from compression and pixilation",
+   "quote": "birds are commonly misidentified as UAP due to sensor artifacts resulting from compression and pixilation that often renders the object as an amorphous blob or orb."
+  },
+  {
+   "s": "case",
+   "p": "prosaic_trend",
+   "v": "full-motion video commonly displays birds as flickering objects, indicative of flapping wings",
+   "quote": "commonly display birds as \"flickering\" objects. This phenomena captured by FMV is indicative of flapping wings."
+  },
+  {
+   "s": "case",
+   "p": "prosaic_trend",
+   "v": "electro-optical/infrared sensor glare can distort the object's true shape",
+   "quote": "Electro-optical/infrared sensor glare can also cause distorted pixilation of the object's true shape."
+  },
+  {
+   "s": "case",
+   "p": "national_technical_collection",
+   "v": "no UAP reports collected through national GEOINT, SIGINT, or MASINT platforms",
+   "quote": "AARO did not receive any UAP reports collected through national GEOINT, SIGINT, or MASINT platforms."
+  },
+  {
+   "s": "case",
+   "p": "capture_or_exploitation",
+   "v": "AARO possesses no data to indicate the capture or exploitation of UAP",
+   "quote": "G. AARO Possesses No Data to Indicate the Capture or Exploitation of UAP"
+  },
+  {
+   "s": "case",
+   "p": "nuclear_related_reports",
+   "v": "18, all categorized as UAS",
+   "quote": "AARO received a total of 18 reports from the Administrator for Nuclear Security and Chairman of the Nuclear Regulatory Commission regarding incidents near U.S. nuclear infrastructure, weapons, and launch sites."
+  },
+  {
+   "s": "case",
+   "p": "nuclear_related_reports_categorization",
+   "v": "all categorized as UAS",
+   "quote": "of the Nuclear Regulatory Commission categorized all of these incidents as UAS."
+  },
+  {
+   "s": "case",
+   "p": "nuclear_uas_flight_durations",
+   "v": "ten under five minutes",
+   "quote": "Ten of the reported UAS flew over protected areas for a duration less than five minutes."
+  },
+  {
+   "s": "case",
+   "p": "nuclear_uas_flight_durations",
+   "v": "two longer: 53 minutes and 1 hour and 57 minutes",
+   "quote": "Two instances involved longer flight times of 53 minutes and 1 hour and 57 minutes respectively."
+  },
+  {
+   "s": "case",
+   "p": "nuclear_uas_flight_durations",
+   "v": "unknown for six cases",
+   "quote": "Flight duration is unknown for the remaining six cases."
+  },
+  {
+   "s": "case",
+   "p": "nuclear_uas_counts",
+   "v": "sixteen cases involved one UAS; two cases involved two UAS",
+   "quote": "Sixteen cases involved only one UAS, while the remaining two cases each reported two UAS involved in the event."
+  },
+  {
+   "s": "case",
+   "p": "nuclear_uas_detail",
+   "v": "in one instance the UAS entered and departed the protected area twice",
+   "quote": "In one instance, the UAS entered and departed the protected area twice."
+  },
+  {
+   "s": "case",
+   "p": "nuclear_uas_detail",
+   "v": "on-site security observed UAS in at least half of the cases",
+   "quote": "On-site security observed UAS in at least half of the UAS cases."
+  },
+  {
+   "s": "case",
+   "p": "definition_uap",
+   "v": "sources of anomalous detections in one or more domain not attributable to known actors and demonstrating behaviors not readily understood by sensors or observers",
+   "quote": "Unidentified Anomalous Phenomena (UAP): Sources of anomalous detections in one or more domain (i.e., airborne, maritime, spaceborne, and/or transmedium) that are not attributable to known actors"
+  },
+  {
+   "s": "case",
+   "p": "definition_active_archive",
+   "v": "cases lacking sufficient data are held for pattern of life and trend analysis or reexamined if more data becomes available",
+   "quote": "Active Archive: Cases lacking sufficient data to facilitate analysis are placed in an archive where they will be held for pattern of life and for trend analysis or reexamined if additional data becomes available."
+  },
+  {
+   "s": "case",
+   "p": "definition_spaceborne_uap",
+   "v": "anomalous detections above the Karman Line (100 kilometers above mean sea level)",
+   "quote": "Spaceborne UAP: Sources of anomalous detections above the Karman Line (i.e., 100 kilometers above Earth's mean sea level)."
+  },
+  {
+   "s": "case",
+   "p": "definition_transmedium_uap",
+   "v": "anomalous detections that transit more than one domain",
+   "quote": "Transmedium UAP: Sources of anomalous detections that transit more than one domain."
+  },
+  {
+   "s": "case",
+   "p": "definition_uap_incursion",
+   "v": "UAP incident in, on, or near U.S. military installations, operating areas, training areas, special use airspace and other national security areas of interest",
+   "quote": "UAP Incursion: Any UAP incident in, on, or near U.S. military installations, operating areas, training areas, special use airspace, proximity operations, and/or other national security areas of interest."
+  },
+  {
+   "s": "case",
+   "p": "definition_uap_engagement",
+   "v": "bringing UAP under kinetic or non-kinetic fire",
+   "quote": "UAP Engagement: Bringing UAP under kinetic or non-kinetic fire, to deny, disrupt, or destroy the phenomenon and/or its object(s)."
+  },
+  {
+   "s": "aaro",
+   "p": "authored",
+   "o": "case",
+   "quote": "AARO drafted this report in coordination with:"
+  },
+  {
+   "s": "aaro",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "AARO drafted this report in coordination with:"
+  },
+  {
+   "s": "aaro",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The All-domain Anomaly Resolution Office (AARO) received 757 UAP reports during this period; 485 of these reports featured UAP incidents that occurred during the reporting period."
+  },
+  {
+   "s": "dod",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "This report is provided by the Department of Defense (DoD) in response to a requirement established in 50 U.S. Code [U.S.C.] 3373(k)."
+  },
+  {
+   "s": "aaro",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "THE DEPARTMENT OF DEFENSE ALL-DOMAIN ANOMALY RESOLUTION OFFICE"
+  },
+  {
+   "s": "dod",
+   "p": "statement",
+   "v": "health-related effects may manifest at any time after an event; any reported health implications will be documented and reported",
+   "quote": "The DoD acknowledges that health-related effects may manifest at any time after an event occurs, therefore any reported health implications related to UAP will be documented and reported if they emerge."
+  },
+  {
+   "s": "aaro",
+   "p": "director_role",
+   "v": "unnamed Director approves case closures",
+   "quote": "pending a final review and Director's approval"
+  },
+  {
+   "s": "aaro",
+   "p": "director_role",
+   "v": "unnamed Director briefed congressional oversight committees and the media on the Historical Record Report",
+   "quote": "AARO's Director briefed congressional oversight committees and the media to explain the report's findings at the appropriate levels of classification."
+  },
+  {
+   "s": "aaro",
+   "p": "commitment",
+   "v": "will notify Congress immediately if any case indicates a breakthrough foreign adversarial aerospace capability",
+   "quote": "AARO will provide immediate notification to Congress should AARO identify that any cases indicate or involve a breakthrough foreign adversarial aerospace capability."
+  },
+  {
+   "s": "aaro",
+   "p": "activity",
+   "v": "expanding engagement with foreign partners to share information and best practices",
+   "quote": "AARO is also expanding engagement with foreign partners to share information and collaborate on best practices for resolving UAP cases."
+  },
+  {
+   "s": "aaro",
+   "p": "authority",
+   "v": "authorized by law to receive all UAP-related information at all levels of classification",
+   "quote": "AARO is authorized by law to receive all UAP related information including any classified national security information involving military intelligence or intelligence related activities at all levels of classification"
+  },
+  {
+   "s": "aaro",
+   "p": "activity",
+   "v": "working with mission partners to formalize a process in the event UAP materiel is captured",
+   "quote": "AARO is working with mission partners to formalize a process in the event UAP materiel is captured, drawing on current USG capabilities and operating procedures."
+  },
+  {
+   "s": "aaro",
+   "p": "activity",
+   "v": "initiated USG working groups on UAP in the space and maritime domains",
+   "quote": "AARO also initiated USG working groups to address UAP in the space and maritime domains."
+  },
+  {
+   "s": "aaro",
+   "p": "activity",
+   "v": "developing a science and technology plan",
+   "quote": "AARO is developing an S&T plan that discusses how AARO is approaching the UAP problem set in a scientifically and technically rigorous manner"
+  },
+  {
+   "s": "aaro",
+   "p": "activity",
+   "v": "published educational reports on sensor artifacts including parallax effect and Starlink flaring",
+   "quote": "published a number of educational reports identifying key artifacts that arise from sensors (to include parallax effect and Starlink flaring)"
+  },
+  {
+   "s": "aaro",
+   "p": "activity",
+   "v": "reengaged on its X account in April 2024",
+   "quote": "In April 2024, AARO reengaged on its X account to share information and updates with the UAP community of interest on social media."
+  },
+  {
+   "s": "aaro",
+   "p": "activity",
+   "v": "launched an \"R-space\" page for the cleared community in March 2024 with monthly updates up to the TS/SCI level",
+   "quote": "In March 2024, AARO launched an \"R-space\" page for the cleared community and provides monthly updates on its work and findings up to the TS/SCI level"
+  },
+  {
+   "s": "aaro",
+   "p": "divisions",
+   "v": "Analytic Division; Operations Division; Science and Technology Division; Strategic Communications Division",
+   "quote": "D. Strategic Communications Division"
+  },
+  {
+   "s": "aaro",
+   "p": "activity",
+   "v": "investigating whether other unresolved cases may be attributed to Starlink and other mega-constellations",
+   "quote": "AARO is investigating if other unresolved cases may be attributed to the expansion of the Starlink and other mega-constellations in low earth orbit."
+  },
+  {
+   "s": "website",
+   "p": "key_document",
+   "o": "case",
+   "quote": "On October 31, 2023, AARO launched the www.aaro.mil website, featuring a secure reporting mechanism"
+  },
+  {
+   "s": "aaro",
+   "p": "published",
+   "o": "website",
+   "quote": "On October 31, 2023, AARO launched the www.aaro.mil website, featuring a secure reporting mechanism"
+  },
+  {
+   "s": "website",
+   "p": "launch_date",
+   "v": "2023-10-31",
+   "quote": "On October 31, 2023, AARO launched the www.aaro.mil website, featuring a secure reporting mechanism"
+  },
+  {
+   "s": "website",
+   "p": "reporting_mechanism",
+   "v": "secure reporting for current or former USG employees, service members or contractors claiming direct knowledge of purported USG UAP programs dating back to 1945",
+   "quote": "members, or contractors, who claim to have direct knowledge of purported USG programs or activities related to UAP, dating back to 1945, to contact AARO and submit a report."
+  },
+  {
+   "s": "website",
+   "p": "content",
+   "v": "declassified UAP data and footage, case resolutions, UAP analytic trends",
+   "quote": "AARO updates its public-facing website, www.aaro.mil, with declassified UAP data and footage, case resolutions, UAP analytic trends, and other information about its mission."
+  },
+  {
+   "s": "statute",
+   "p": "key_document",
+   "o": "case",
+   "quote": "This consolidated annual report is provided by the DoD in response to a requirement established in 50 U.S.C. § 3373(k)(1)(A)"
+  },
+  {
+   "s": "statute",
+   "p": "requirement",
+   "v": "Director of the Office to submit a UAP report to the appropriate congressional committees within 180 days of enactment of the FY 2023 Intelligence Authorization Act and annually for four years",
+   "quote": "\"Not later than 180 days after the enactment of the FY 2023 Intelligence Authorization Act and annually thereafter for four years, the Director of the Office shall submit a report on UAP to the appropriate congressional committees.\""
+  },
+  {
+   "s": "statute_b",
+   "p": "key_document",
+   "o": "case",
+   "quote": "A summary of the reports received using the mechanism for authorized reporting established under 50 U.S.C. § 3373b."
+  },
+  {
+   "s": "statute_3733",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In accordance with 50 U.S.C. § 3733(d), AARO executes a strategic partner engagement program conducting outreach and liaison activities."
+  },
+  {
+   "s": "iaa23",
+   "p": "key_document",
+   "o": "case",
+   "quote": "\"Not later than 180 days after the enactment of the FY 2023 Intelligence Authorization Act and annually thereafter for four years"
+  },
+  {
+   "s": "congress",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the Director of the Office shall submit a report on UAP to the appropriate congressional committees."
+  },
+  {
+   "s": "usdis",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Under Secretary of Defense for Intelligence"
+  },
+  {
+   "s": "odni",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "ODNI's National Intelligence Council"
+  },
+  {
+   "s": "nimmil",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Military Integration (NIM-MIL)"
+  },
+  {
+   "s": "nimmil",
+   "p": "part_of",
+   "o": "odni",
+   "quote": "ODNI's National Intelligence Manager for"
+  },
+  {
+   "s": "nimmil",
+   "p": "activity",
+   "v": "with AARO, strengthening targeted IC collection to mitigate reporting bias and increase reporting quality",
+   "quote": "AARO and NIM-MIL are strengthening targeted IC collection to mitigate reporting bias, increase reporting quality, and develop more comprehensive domain awareness."
+  },
+  {
+   "s": "nic",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "ODNI's National Intelligence Council"
+  },
+  {
+   "s": "nic",
+   "p": "part_of",
+   "o": "odni",
+   "quote": "ODNI's National Intelligence Council"
+  },
+  {
+   "s": "army",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "U.S. Army"
+  },
+  {
+   "s": "navy",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "U.S. Navy (USN)"
+  },
+  {
+   "s": "usmc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "U.S. Marine Corps (USMC)"
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "U.S. Air Force (USAF)"
+  },
+  {
+   "s": "usaf",
+   "p": "relationship_with_aaro",
+   "v": "continues to deepen and expand in collection, analysis, exploitation, and resolution",
+   "quote": "The relationship between AARO and USAF, including the National Air and Space Intelligence Center and the Air Force Research Laboratory, continues to deepen and expand"
+  },
+  {
+   "s": "ussf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "U.S. Space Force (USSF)"
+  },
+  {
+   "s": "afrl",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Air Force Research Laboratory (AFRL)"
+  },
+  {
+   "s": "afrl",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "The relationship between AARO and USAF, including the National Air and Space Intelligence Center and the Air Force Research Laboratory"
+  },
+  {
+   "s": "afrl",
+   "p": "role",
+   "v": "research on air- and space-borne sensing technology and assessments of propulsion, stealth and other emerging capabilities",
+   "quote": "The Air Force Research Laboratory provides research on air- and space-borne sensing technology and more general assessments of propulsion, stealth, and other emerging capabilities"
+  },
+  {
+   "s": "dia",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Defense Intelligence Agency (DIA)"
+  },
+  {
+   "s": "js",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "DoD Joint Staff (JS)"
+  },
+  {
+   "s": "js",
+   "p": "action",
+   "v": "in May 2023 issued a UAP GENADMIN message directing Combatant Commands and Services to report all UAP incidents, incursions and engagements within 96 hours",
+   "quote": "In May 2023, the Joint Staff (JS) issued a UAP GENADMIN message directing Combatant Commands and Services to report all UAP incidents, incursions, and engagements"
+  },
+  {
+   "s": "js",
+   "p": "reporting_deadline",
+   "v": "no later than 96 hours after the event",
+   "quote": "elements, no later than 96 hours after the event."
+  },
+  {
+   "s": "doe",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Department of Energy (DoE)"
+  },
+  {
+   "s": "fbi",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Federal Bureau of Investigation (FBI)"
+  },
+  {
+   "s": "msic",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Missile and Space Intelligence Center (MSIC)"
+  },
+  {
+   "s": "nasa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "National Aeronautics and Space"
+  },
+  {
+   "s": "nasa",
+   "p": "role",
+   "v": "focal point for academic research and open source data analysis on UAP topics",
+   "quote": "NASA is the focal point for academic research and open source data analysis on UAP topics."
+  },
+  {
+   "s": "nasic",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "National Air and Space Intelligence Center"
+  },
+  {
+   "s": "nasic",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "The relationship between AARO and USAF, including the National Air and Space Intelligence Center and the Air Force Research Laboratory"
+  },
+  {
+   "s": "nga",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "National Geospatial-Intelligence Agency"
+  },
+  {
+   "s": "ngic",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "National Ground Intelligence Center (NGIC)"
+  },
+  {
+   "s": "noaa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "National Oceanographic and Atmospheric"
+  },
+  {
+   "s": "nro",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "National Reconnaissance Office (NRO)"
+  },
+  {
+   "s": "nsa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "National Security Agency (NSA)"
+  },
+  {
+   "s": "ncis",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Naval Criminal Investigative Service (NCIS)"
+  },
+  {
+   "s": "nrc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Nuclear Regulatory Commission Office of the Assistant Secretary of Defense"
+  },
+  {
+   "s": "asd_hd",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Office of the Assistant Secretary of Defense"
+  },
+  {
+   "s": "atsd_pa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Office of the Assistant to the Secretary of"
+  },
+  {
+   "s": "dasd_nm",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Defense for Nuclear Matters"
+  },
+  {
+   "s": "ogc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Office of the General Counsel of the DoD"
+  },
+  {
+   "s": "oni",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Office of Naval Intelligence/National"
+  },
+  {
+   "s": "nmic",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Maritime Intelligence Center"
+  },
+  {
+   "s": "pdasd_ncb",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs"
+  },
+  {
+   "s": "ic",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "AARO continues to coordinate with the Intelligence Community (IC) to identify whether these activities may be the result of foreign adversarial activities."
+  },
+  {
+   "s": "ic",
+   "p": "role",
+   "v": "applies GEOINT tradecraft and analytic methodologies to full-motion video collected by U.S. military aircrews",
+   "quote": "AARO relies on its IC partners to apply GEOINT tradecraft and analytic methodologies to full-motion video collected by U.S. military aircrews"
+  },
+  {
+   "s": "faa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Of the 757 reports 392 were from the FAA, which consisted of all of the FAA's UAP reports since 2021."
+  },
+  {
+   "s": "faa",
+   "p": "reports_provided",
+   "v": "392, all of the FAA's UAP reports since 2021",
+   "quote": "Of the 757 reports 392 were from the FAA, which consisted of all of the FAA's UAP reports since 2021."
+  },
+  {
+   "s": "faa",
+   "p": "reporting_logs",
+   "v": "civil and commercial aviation UAP reporting logs covering all incidents reported to the FAA since June 2021",
+   "quote": "These logs contained information on all UAP incidents reported to the FAA since June 2021."
+  },
+  {
+   "s": "faa",
+   "p": "reporting_frequency",
+   "v": "weekly",
+   "quote": "AARO consistently receives UAP reports from the FAA on a weekly basis"
+  },
+  {
+   "s": "spacecom",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "consistent with U.S. Space Command's"
+  },
+  {
+   "s": "spacecom",
+   "p": "area_of_responsibility",
+   "v": "astrographic area of responsibility at altitudes of 100 kilometers or higher",
+   "quote": "(USSPACECOM) astrographic area of responsibility."
+  },
+  {
+   "s": "nnsa_admin",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "AARO received a total of 18 reports from the Administrator for Nuclear Security and Chairman of the Nuclear Regulatory Commission"
+  },
+  {
+   "s": "nrc",
+   "p": "reports_provided",
+   "v": "18 jointly with the Administrator for Nuclear Security, all categorized as UAS",
+   "quote": "AARO received a total of 18 reports from the Administrator for Nuclear Security and Chairman of the Nuclear Regulatory Commission"
+  },
+  {
+   "s": "secdef",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "As designated by the SecDef and the DNI, AARO has partnered with the following organizations"
+  },
+  {
+   "s": "dni",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "As designated by the SecDef and the DNI, AARO has partnered with the following organizations"
+  },
+  {
+   "s": "ornl",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Oak Ridge National Laboratory (ORNL) provided analysis for a material claimed to be from a UAP."
+  },
+  {
+   "s": "ornl",
+   "p": "role",
+   "v": "will continue to assist with any future physics-relevant case analysis",
+   "quote": "ORNL will continue to assist with any future physics-relevant case analysis."
+  },
+  {
+   "s": "gtri",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Georgia Tech Research Institute (GTRI) developed the GREMLIN sensor architecture"
+  },
+  {
+   "s": "gtri",
+   "p": "role",
+   "v": "will continue to support sensor architecture analysis, development, and operations",
+   "quote": "GTRI will continue to support sensor architecture analysis, development, and operations."
+  },
+  {
+   "s": "mitll",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Massachusetts Institute of Technology - Lincoln Laboratory is building prototype data processing systems"
+  },
+  {
+   "s": "mitll",
+   "p": "role",
+   "v": "building prototype data processing systems for FAA and National Weather Service radar to detect and track objects currently filtered out",
+   "quote": "data processing systems that can operate on FAA and National Weather Service radar systems to determine the viability in detecting and tracking objects that are currently filtered out of the data."
+  },
+  {
+   "s": "nws",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "data processing systems that can operate on FAA and National Weather Service radar systems"
+  },
+  {
+   "s": "nsf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "including participating in National Science Foundation sponsored workshops"
+  },
+  {
+   "s": "ostp",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "working with entities like the Office of Science and Technology Policy to explore ways to improve whole-of-government coordination activities."
+  },
+  {
+   "s": "dhs",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "claimed that it was a sensitive Department of Homeland Security compartment to cover up the retrieval and exploitation of \"non-human biologics.\""
+  },
+  {
+   "s": "fvey",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "national defense equities of military allies and intelligence coalitions (e.g., Five Eyes (FVEY))."
+  },
+  {
+   "s": "x",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In April 2024, AARO reengaged on its X account"
+  },
+  {
+   "s": "gremlin",
+   "p": "key_document",
+   "o": "case",
+   "quote": "AARO has begun collections using a prototype sensor system, GREMLIN, for detecting, tracking, and characterizing UAP."
+  },
+  {
+   "s": "gtri",
+   "p": "authored",
+   "o": "gremlin",
+   "quote": "Georgia Tech Research Institute (GTRI) developed the GREMLIN sensor architecture"
+  },
+  {
+   "s": "aaro",
+   "p": "owned",
+   "o": "gremlin",
+   "quote": "AARO has begun collections using a prototype sensor system, GREMLIN, for detecting, tracking, and characterizing UAP."
+  },
+  {
+   "s": "gremlin",
+   "p": "test_event",
+   "v": "demonstrated functionality and collected data during a test event in March 2024",
+   "quote": "GREMLIN demonstrated functionality and successfully collected data during a test event in March of 2024."
+  },
+  {
+   "s": "gremlin",
+   "p": "next_step",
+   "v": "90-day pattern of life collection at a site of national security",
+   "quote": "The next step for GREMLIN is a 90-day pattern of life collection at a site of national security."
+  },
+  {
+   "s": "gremlin",
+   "p": "deployment",
+   "v": "to be deployed in 1Q FY 2025 to support pattern-of-life analysis",
+   "quote": "which will be deployed in 1Q FY 2025 to support pattern-of-life analysis."
+  },
+  {
+   "s": "gremlin",
+   "p": "description",
+   "v": "sensor suite with several sensing modalities to detect, track, characterize and identify UAP in areas of interest",
+   "quote": "Figure 6: The GREMLIN sensor suite contains several sensing modalities to detect, track, characterize and identify UAP in areas of interest."
+  },
+  {
+   "s": "gremlin",
+   "p": "components",
+   "v": "long-range EO/IR, ADS-B, SATCOM, 2D search radar, 3D radar, RF spectrum monitor, cellular, GPS (figure labels)",
+   "quote": "Long-range EO/IR ADS-B SATCOM 2D Search"
+  },
+  {
+   "s": "hrr1",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In March 2024, AARO released its unclassified Historical Record Report Volume I to the public via its website"
+  },
+  {
+   "s": "aaro",
+   "p": "authored",
+   "o": "hrr1",
+   "quote": "In March 2024, AARO released its unclassified Historical Record Report Volume I to the public via its website"
+  },
+  {
+   "s": "hrr1",
+   "p": "release_date",
+   "v": "2024-03",
+   "quote": "In March 2024, AARO released its unclassified Historical Record Report Volume I to the public via its website"
+  },
+  {
+   "s": "konablue",
+   "p": "key_document",
+   "o": "case",
+   "quote": "AARO also posted historical documents relating to KONA BLUE, a Prospective and not approved Special Access Program that was brought to AARO's attention by interviewees"
+  },
+  {
+   "s": "konablue",
+   "p": "status",
+   "v": "Prospective and not approved Special Access Program",
+   "quote": "AARO also posted historical documents relating to KONA BLUE, a Prospective and not approved Special Access Program that was brought to AARO's attention by interviewees"
+  },
+  {
+   "s": "konablue",
+   "p": "claim_by_interviewees",
+   "v": "a sensitive Department of Homeland Security compartment to cover up the retrieval and exploitation of \"non-human biologics\"",
+   "quote": "claimed that it was a sensitive Department of Homeland Security compartment to cover up the retrieval and exploitation of \"non-human biologics.\""
+  },
+  {
+   "s": "konablue",
+   "p": "part_of",
+   "o": "dhs",
+   "quote": "claimed that it was a sensitive Department of Homeland Security compartment to cover up the retrieval and exploitation of \"non-human biologics.\""
+  },
+  {
+   "s": "kb_docs",
+   "p": "key_document",
+   "o": "case",
+   "quote": "AARO also posted historical documents relating to KONA BLUE, a Prospective and not approved Special Access Program that was brought to AARO's attention by interviewees"
+  },
+  {
+   "s": "aaro",
+   "p": "published",
+   "o": "kb_docs",
+   "quote": "AARO also posted historical documents relating to KONA BLUE, a Prospective and not approved Special Access Program that was brought to AARO's attention by interviewees"
+  },
+  {
+   "s": "genadmin",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In May 2023, the Joint Staff (JS) issued a UAP GENADMIN message"
+  },
+  {
+   "s": "js",
+   "p": "authored",
+   "o": "genadmin",
+   "quote": "In May 2023, the Joint Staff (JS) issued a UAP GENADMIN message"
+  },
+  {
+   "s": "genadmin",
+   "p": "date",
+   "v": "2023-05",
+   "quote": "In May 2023, the Joint Staff (JS) issued a UAP GENADMIN message"
+  },
+  {
+   "s": "genadmin",
+   "p": "public_release",
+   "v": "reviewed and approved for public release in spring 2024",
+   "quote": "In spring of 2024, the Department reviewed and approved its GENADMIN guidance on UAP reporting and materiel disposition for public release"
+  },
+  {
+   "s": "ornl_report",
+   "p": "key_document",
+   "o": "case",
+   "quote": "AARO S&T, in coordination with ORNL, wrote a report from the materials analysis of an alleged UAP and posted the analysis on AARO's website."
+  },
+  {
+   "s": "aaro",
+   "p": "authored",
+   "o": "ornl_report",
+   "quote": "AARO S&T, in coordination with ORNL, wrote a report from the materials analysis of an alleged UAP and posted the analysis on AARO's website."
+  },
+  {
+   "s": "ornl",
+   "p": "authored",
+   "o": "ornl_report",
+   "quote": "AARO S&T, in coordination with ORNL, wrote a report from the materials analysis of an alleged UAP and posted the analysis on AARO's website."
+  },
+  {
+   "s": "ornl_report",
+   "p": "future_effort",
+   "v": "publishing requested supplemental data that further supports the report assessment",
+   "quote": "Future efforts include publishing requested supplemental data that further supports the report assessment."
+  },
+  {
+   "s": "starlink",
+   "p": "key_document",
+   "o": "case",
+   "quote": "AARO increasingly receives cases that it is able to resolve to the Starlink satellite constellation."
+  },
+  {
+   "s": "inc_starlink",
+   "p": "related_case",
+   "o": "case",
+   "quote": "For example, a commercial pilot reported white flashing lights in the night sky."
+  },
+  {
+   "s": "inc_starlink",
+   "p": "witness_count",
+   "v": "1",
+   "quote": "For example, a commercial pilot reported white flashing lights in the night sky."
+  },
+  {
+   "s": "inc_starlink",
+   "p": "witness_description",
+   "v": "a commercial pilot",
+   "quote": "For example, a commercial pilot reported white flashing lights in the night sky."
+  },
+  {
+   "s": "inc_starlink",
+   "p": "time_of_day",
+   "v": "night",
+   "quote": "For example, a commercial pilot reported white flashing lights in the night sky."
+  },
+  {
+   "s": "inc_starlink",
+   "p": "color",
+   "v": "white",
+   "quote": "For example, a commercial pilot reported white flashing lights in the night sky."
+  },
+  {
+   "s": "inc_starlink",
+   "p": "description",
+   "v": "white flashing lights in the night sky",
+   "quote": "For example, a commercial pilot reported white flashing lights in the night sky."
+  },
+  {
+   "s": "inc_starlink",
+   "p": "data_recorded",
+   "v": "no altitude or speed reported; no data or imagery recorded",
+   "quote": "The pilot did not report an altitude or speed, and no data or imagery was recorded."
+  },
+  {
+   "s": "inc_starlink",
+   "p": "assessment",
+   "v": "correlated with a Starlink satellite launch the same evening about one hour before the sighting",
+   "quote": "AARO assessed that this sighting of flashing lights correlated with a Starlink satellite launch from Cape Canaveral, Florida, the same evening about one hour prior to the sighting."
+  },
+  {
+   "s": "inc_starlink",
+   "p": "assessment",
+   "v": "sighting occurred in the known orbital path of the satellites",
+   "quote": "This sighting occurred in the known orbital path of the satellites."
+  },
+  {
+   "s": "aaro",
+   "p": "investigated_by",
+   "o": "inc_starlink",
+   "quote": "AARO assessed that this sighting of flashing lights correlated with a Starlink satellite launch from Cape Canaveral, Florida, the same evening about one hour prior to the sighting."
+  },
+  {
+   "s": "starlink",
+   "p": "identified_as",
+   "o": "inc_starlink",
+   "quote": "AARO assessed that this sighting of flashing lights correlated with a Starlink satellite launch from Cape Canaveral, Florida, the same evening about one hour prior to the sighting."
+  },
+  {
+   "s": "craft_starlink",
+   "p": "reported_object",
+   "o": "inc_starlink",
+   "quote": "For example, a commercial pilot reported white flashing lights in the night sky."
+  },
+  {
+   "s": "craft_starlink",
+   "p": "color",
+   "v": "white",
+   "quote": "For example, a commercial pilot reported white flashing lights in the night sky."
+  },
+  {
+   "s": "craft_starlink",
+   "p": "identified_as",
+   "o": "starlink",
+   "quote": "AARO assessed that this sighting of flashing lights correlated with a Starlink satellite launch from Cape Canaveral, Florida, the same evening about one hour prior to the sighting."
+  },
+  {
+   "s": "canaveral",
+   "p": "related_place",
+   "o": "inc_starlink",
+   "quote": "AARO assessed that this sighting of flashing lights correlated with a Starlink satellite launch from Cape Canaveral, Florida, the same evening about one hour prior to the sighting."
+  },
+  {
+   "s": "x_sat",
+   "p": "explained_as",
+   "o": "inc_starlink",
+   "quote": "AARO assessed that this sighting of flashing lights correlated with a Starlink satellite launch from Cape Canaveral, Florida, the same evening about one hour prior to the sighting."
+  },
+  {
+   "s": "aaro",
+   "p": "proposed",
+   "o": "x_sat",
+   "quote": "AARO assessed that this sighting of flashing lights correlated with a Starlink satellite launch from Cape Canaveral, Florida, the same evening about one hour prior to the sighting."
+  },
+  {
+   "s": "f_lights",
+   "p": "has_feature",
+   "o": "inc_starlink",
+   "quote": "For example, a commercial pilot reported white flashing lights in the night sky."
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "inc_starlink",
+   "quote": "For example, a commercial pilot reported white flashing lights in the night sky."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "inc_starlink",
+   "quote": "AARO assessed that this sighting of flashing lights correlated with a Starlink satellite launch from Cape Canaveral, Florida, the same evening about one hour prior to the sighting."
+  },
+  {
+   "s": "inc_ny",
+   "p": "related_case",
+   "o": "case",
+   "quote": "In this instance, a commercial aircrew reported a near miss with a \"cylindrical object\" while over the Atlantic Ocean off the coast of New York."
+  },
+  {
+   "s": "inc_ny",
+   "p": "description",
+   "v": "commercial aircrew reported a near miss with a cylindrical object",
+   "quote": "In this instance, a commercial aircrew reported a near miss with a \"cylindrical object\" while over the Atlantic Ocean off the coast of New York."
+  },
+  {
+   "s": "inc_ny",
+   "p": "witness_description",
+   "v": "a commercial aircrew",
+   "quote": "In this instance, a commercial aircrew reported a near miss with a \"cylindrical object\" while over the Atlantic Ocean off the coast of New York."
+  },
+  {
+   "s": "inc_ny",
+   "p": "flight_safety",
+   "v": "the only one of 392 FAA reports to mention a possible flight safety issue",
+   "quote": "Of the 392 FAA reports received during the reporting period, only one report mentioned a possible flight safety issue during the event."
+  },
+  {
+   "s": "inc_ny",
+   "p": "status",
+   "v": "unresolved; AARO continues research and analysis",
+   "quote": "AARO continues its research into, and analysis of, this case."
+  },
+  {
+   "s": "aaro",
+   "p": "investigated_by",
+   "o": "inc_ny",
+   "quote": "AARO continues its research into, and analysis of, this case."
+  },
+  {
+   "s": "faa",
+   "p": "involved_org",
+   "o": "inc_ny",
+   "quote": "Of the 392 FAA reports received during the reporting period, only one report mentioned a possible flight safety issue during the event."
+  },
+  {
+   "s": "craft_ny",
+   "p": "reported_object",
+   "o": "inc_ny",
+   "quote": "In this instance, a commercial aircrew reported a near miss with a \"cylindrical object\" while over the Atlantic Ocean off the coast of New York."
+  },
+  {
+   "s": "craft_ny",
+   "p": "shape",
+   "v": "cylindrical",
+   "quote": "In this instance, a commercial aircrew reported a near miss with a \"cylindrical object\" while over the Atlantic Ocean off the coast of New York."
+  },
+  {
+   "s": "atlantic",
+   "p": "occurred_at",
+   "o": "inc_ny",
+   "quote": "In this instance, a commercial aircrew reported a near miss with a \"cylindrical object\" while over the Atlantic Ocean off the coast of New York."
+  },
+  {
+   "s": "newyork",
+   "p": "near",
+   "o": "inc_ny",
+   "quote": "In this instance, a commercial aircrew reported a near miss with a \"cylindrical object\" while over the Atlantic Ocean off the coast of New York."
+  },
+  {
+   "s": "f_cyl",
+   "p": "has_feature",
+   "o": "inc_ny",
+   "quote": "In this instance, a commercial aircrew reported a near miss with a \"cylindrical object\" while over the Atlantic Ocean off the coast of New York."
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "inc_ny",
+   "quote": "In this instance, a commercial aircrew reported a near miss with a \"cylindrical object\" while over the Atlantic Ocean off the coast of New York."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "inc_ny",
+   "quote": "AARO continues its research into, and analysis of, this case."
+  },
+  {
+   "s": "f_nearmiss",
+   "p": "has_feature",
+   "o": "inc_ny",
+   "quote": "In this instance, a commercial aircrew reported a near miss with a \"cylindrical object\" while over the Atlantic Ocean off the coast of New York."
+  },
+  {
+   "s": "inc_cook",
+   "p": "related_case",
+   "o": "case",
+   "quote": "On August 3, 2023, the D.C. Cook Nuclear Power Plant security recovered a crashed UAS that was given to Berrien County, Michigan, local law enforcement (LLE)."
+  },
+  {
+   "s": "inc_cook",
+   "p": "date_start",
+   "v": "2023-08-03",
+   "quote": "On August 3, 2023, the D.C. Cook Nuclear Power Plant security recovered a crashed UAS that was given to Berrien County, Michigan, local law enforcement (LLE)."
+  },
+  {
+   "s": "inc_cook",
+   "p": "description",
+   "v": "plant security recovered a crashed UAS and gave it to local law enforcement",
+   "quote": "On August 3, 2023, the D.C. Cook Nuclear Power Plant security recovered a crashed UAS that was given to Berrien County, Michigan, local law enforcement (LLE)."
+  },
+  {
+   "s": "inc_cook",
+   "p": "status",
+   "v": "AARO has no further information about the crashed UAS",
+   "quote": "AARO has no further information about the crashed UAS."
+  },
+  {
+   "s": "cook",
+   "p": "occurred_at",
+   "o": "inc_cook",
+   "quote": "On August 3, 2023, the D.C. Cook Nuclear Power Plant security recovered a crashed UAS that was given to Berrien County, Michigan, local law enforcement (LLE)."
+  },
+  {
+   "s": "berrien",
+   "p": "related_place",
+   "o": "inc_cook",
+   "quote": "On August 3, 2023, the D.C. Cook Nuclear Power Plant security recovered a crashed UAS that was given to Berrien County, Michigan, local law enforcement (LLE)."
+  },
+  {
+   "s": "berrien_lle",
+   "p": "involved_org",
+   "o": "inc_cook",
+   "quote": "On August 3, 2023, the D.C. Cook Nuclear Power Plant security recovered a crashed UAS that was given to Berrien County, Michigan, local law enforcement (LLE)."
+  },
+  {
+   "s": "berrien_lle",
+   "p": "located_in",
+   "o": "berrien",
+   "quote": "On August 3, 2023, the D.C. Cook Nuclear Power Plant security recovered a crashed UAS that was given to Berrien County, Michigan, local law enforcement (LLE)."
+  },
+  {
+   "s": "cook_sec",
+   "p": "involved_org",
+   "o": "inc_cook",
+   "quote": "On August 3, 2023, the D.C. Cook Nuclear Power Plant security recovered a crashed UAS that was given to Berrien County, Michigan, local law enforcement (LLE)."
+  },
+  {
+   "s": "cook_sec",
+   "p": "part_of",
+   "o": "cook",
+   "quote": "On August 3, 2023, the D.C. Cook Nuclear Power Plant security recovered a crashed UAS that was given to Berrien County, Michigan, local law enforcement (LLE)."
+  },
+  {
+   "s": "craft_cook",
+   "p": "reported_object",
+   "o": "inc_cook",
+   "quote": "On August 3, 2023, the D.C. Cook Nuclear Power Plant security recovered a crashed UAS that was given to Berrien County, Michigan, local law enforcement (LLE)."
+  },
+  {
+   "s": "f_nuke",
+   "p": "has_feature",
+   "o": "inc_cook",
+   "quote": "On August 3, 2023, the D.C. Cook Nuclear Power Plant security recovered a crashed UAS that was given to Berrien County, Michigan, local law enforcement (LLE)."
+  },
+  {
+   "s": "f_debris",
+   "p": "has_feature",
+   "o": "inc_cook",
+   "quote": "On August 3, 2023, the D.C. Cook Nuclear Power Plant security recovered a crashed UAS that was given to Berrien County, Michigan, local law enforcement (LLE)."
+  },
+  {
+   "s": "x_uas",
+   "p": "explained_as",
+   "o": "inc_cook",
+   "quote": "On August 3, 2023, the D.C. Cook Nuclear Power Plant security recovered a crashed UAS that was given to Berrien County, Michigan, local law enforcement (LLE)."
+  },
+  {
+   "s": "nrc",
+   "p": "involved_org",
+   "o": "inc_cook",
+   "quote": "Chairman of the Nuclear Regulatory Commission regarding incidents near U.S. nuclear infrastructure, weapons, and launch sites."
+  },
+  {
+   "s": "inc_bwxt",
+   "p": "related_case",
+   "o": "case",
+   "quote": "During October 10-15, 2023, USPER BWXT (formerly known as USPER Babcock and Wilson Nuclear Energy) Fuel Cycle Facility in Lynchburg, Virginia, observed UAS flyovers for six consecutive nights."
+  },
+  {
+   "s": "inc_bwxt",
+   "p": "date_start",
+   "v": "2023-10-10",
+   "quote": "During October 10-15, 2023, USPER BWXT (formerly known as USPER Babcock and Wilson Nuclear Energy) Fuel Cycle Facility in Lynchburg, Virginia, observed UAS flyovers for six consecutive nights."
+  },
+  {
+   "s": "inc_bwxt",
+   "p": "date_end",
+   "v": "2023-10-15",
+   "quote": "During October 10-15, 2023, USPER BWXT (formerly known as USPER Babcock and Wilson Nuclear Energy) Fuel Cycle Facility in Lynchburg, Virginia, observed UAS flyovers for six consecutive nights."
+  },
+  {
+   "s": "inc_bwxt",
+   "p": "duration",
+   "v": "six consecutive nights",
+   "quote": "During October 10-15, 2023, USPER BWXT (formerly known as USPER Babcock and Wilson Nuclear Energy) Fuel Cycle Facility in Lynchburg, Virginia, observed UAS flyovers for six consecutive nights."
+  },
+  {
+   "s": "inc_bwxt",
+   "p": "time_of_day",
+   "v": "night",
+   "quote": "During October 10-15, 2023, USPER BWXT (formerly known as USPER Babcock and Wilson Nuclear Energy) Fuel Cycle Facility in Lynchburg, Virginia, observed UAS flyovers for six consecutive nights."
+  },
+  {
+   "s": "inc_bwxt",
+   "p": "object_count",
+   "v": "one UAS in each occurrence",
+   "quote": "Only one UAS system was spotted in each occurrence, and there is no data on estimated flight duration for each occurrence."
+  },
+  {
+   "s": "inc_bwxt",
+   "p": "flight_duration",
+   "v": "no data on estimated flight duration",
+   "quote": "Only one UAS system was spotted in each occurrence, and there is no data on estimated flight duration for each occurrence."
+  },
+  {
+   "s": "bwxt",
+   "p": "involved_org",
+   "o": "inc_bwxt",
+   "quote": "During October 10-15, 2023, USPER BWXT (formerly known as USPER Babcock and Wilson Nuclear Energy) Fuel Cycle Facility in Lynchburg, Virginia, observed UAS flyovers for six consecutive nights."
+  },
+  {
+   "s": "bwxt",
+   "p": "former_name",
+   "v": "Babcock and Wilson Nuclear Energy",
+   "quote": "During October 10-15, 2023, USPER BWXT (formerly known as USPER Babcock and Wilson Nuclear Energy) Fuel Cycle Facility in Lynchburg, Virginia, observed UAS flyovers for six consecutive nights."
+  },
+  {
+   "s": "bwxt_fac",
+   "p": "occurred_at",
+   "o": "inc_bwxt",
+   "quote": "During October 10-15, 2023, USPER BWXT (formerly known as USPER Babcock and Wilson Nuclear Energy) Fuel Cycle Facility in Lynchburg, Virginia, observed UAS flyovers for six consecutive nights."
+  },
+  {
+   "s": "bwxt",
+   "p": "owned",
+   "o": "bwxt_fac",
+   "quote": "During October 10-15, 2023, USPER BWXT (formerly known as USPER Babcock and Wilson Nuclear Energy) Fuel Cycle Facility in Lynchburg, Virginia, observed UAS flyovers for six consecutive nights."
+  },
+  {
+   "s": "lynchburg",
+   "p": "occurred_at",
+   "o": "inc_bwxt",
+   "quote": "During October 10-15, 2023, USPER BWXT (formerly known as USPER Babcock and Wilson Nuclear Energy) Fuel Cycle Facility in Lynchburg, Virginia, observed UAS flyovers for six consecutive nights."
+  },
+  {
+   "s": "bwxt_fac",
+   "p": "located_in",
+   "o": "lynchburg",
+   "quote": "During October 10-15, 2023, USPER BWXT (formerly known as USPER Babcock and Wilson Nuclear Energy) Fuel Cycle Facility in Lynchburg, Virginia, observed UAS flyovers for six consecutive nights."
+  },
+  {
+   "s": "craft_bwxt",
+   "p": "reported_object",
+   "o": "inc_bwxt",
+   "quote": "During October 10-15, 2023, USPER BWXT (formerly known as USPER Babcock and Wilson Nuclear Energy) Fuel Cycle Facility in Lynchburg, Virginia, observed UAS flyovers for six consecutive nights."
+  },
+  {
+   "s": "craft_bwxt",
+   "p": "count",
+   "v": "one per occurrence",
+   "quote": "Only one UAS system was spotted in each occurrence, and there is no data on estimated flight duration for each occurrence."
+  },
+  {
+   "s": "f_nuke",
+   "p": "has_feature",
+   "o": "inc_bwxt",
+   "quote": "During October 10-15, 2023, USPER BWXT (formerly known as USPER Babcock and Wilson Nuclear Energy) Fuel Cycle Facility in Lynchburg, Virginia, observed UAS flyovers for six consecutive nights."
+  },
+  {
+   "s": "x_uas",
+   "p": "explained_as",
+   "o": "inc_bwxt",
+   "quote": "During October 10-15, 2023, USPER BWXT (formerly known as USPER Babcock and Wilson Nuclear Energy) Fuel Cycle Facility in Lynchburg, Virginia, observed UAS flyovers for six consecutive nights."
+  },
+  {
+   "s": "nrc",
+   "p": "involved_org",
+   "o": "inc_bwxt",
+   "quote": "Chairman of the Nuclear Regulatory Commission regarding incidents near U.S. nuclear infrastructure, weapons, and launch sites."
+  },
+  {
+   "s": "nnsa_admin",
+   "p": "proposed",
+   "o": "x_uas",
+   "quote": "The Administrator for Nuclear Security and Chairman of the Nuclear Regulatory Commission categorized all of these incidents as UAS."
+  },
+  {
+   "s": "inc_eas",
+   "p": "related_case",
+   "o": "case",
+   "quote": "U.S. military assets operating over the East Asian Seas provided 100 reports, and AARO resolved 40 of these cases as balloons or UAS."
+  },
+  {
+   "s": "inc_eas",
+   "p": "report_count",
+   "v": "100",
+   "quote": "U.S. military assets operating over the East Asian Seas provided 100 reports, and AARO resolved 40 of these cases as balloons or UAS."
+  },
+  {
+   "s": "inc_eas",
+   "p": "resolved_count",
+   "v": "40, as balloons or UAS",
+   "quote": "U.S. military assets operating over the East Asian Seas provided 100 reports, and AARO resolved 40 of these cases as balloons or UAS."
+  },
+  {
+   "s": "inc_eas",
+   "p": "status",
+   "v": "remaining cases placed in Active Archive due to insufficient information",
+   "quote": "AARO placed the remaining cases in Active Archive due to insufficient information to facilitate analysis."
+  },
+  {
+   "s": "aaro",
+   "p": "investigated_by",
+   "o": "inc_eas",
+   "quote": "U.S. military assets operating over the East Asian Seas provided 100 reports, and AARO resolved 40 of these cases as balloons or UAS."
+  },
+  {
+   "s": "eas",
+   "p": "occurred_at",
+   "o": "inc_eas",
+   "quote": "U.S. military assets operating over the East Asian Seas provided 100 reports, and AARO resolved 40 of these cases as balloons or UAS."
+  },
+  {
+   "s": "x_balloon",
+   "p": "explained_as",
+   "o": "inc_eas",
+   "quote": "U.S. military assets operating over the East Asian Seas provided 100 reports, and AARO resolved 40 of these cases as balloons or UAS."
+  },
+  {
+   "s": "x_uas",
+   "p": "explained_as",
+   "o": "inc_eas",
+   "quote": "U.S. military assets operating over the East Asian Seas provided 100 reports, and AARO resolved 40 of these cases as balloons or UAS."
+  },
+  {
+   "s": "aaro",
+   "p": "proposed",
+   "o": "x_balloon",
+   "quote": "AARO resolved 118 cases during the reporting period, all of which resolved to prosaic objects such as various types of balloons, birds, and unmanned aerial systems (UAS)."
+  },
+  {
+   "s": "aaro",
+   "p": "proposed",
+   "o": "x_uas",
+   "quote": "AARO resolved 118 cases during the reporting period, all of which resolved to prosaic objects such as various types of balloons, birds, and unmanned aerial systems (UAS)."
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "inc_eas",
+   "quote": "U.S. military assets operating over the East Asian Seas provided 100 reports, and AARO resolved 40 of these cases as balloons or UAS."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "inc_eas",
+   "quote": "U.S. military assets operating over the East Asian Seas provided 100 reports, and AARO resolved 40 of these cases as balloons or UAS."
+  },
+  {
+   "s": "inc_me",
+   "p": "related_case",
+   "o": "case",
+   "quote": "U.S. military assets deployed to the Middle East provided 57 reports, and AARO resolved 13 of these cases as balloons, UAS, or satellites."
+  },
+  {
+   "s": "inc_me",
+   "p": "report_count",
+   "v": "57",
+   "quote": "U.S. military assets deployed to the Middle East provided 57 reports, and AARO resolved 13 of these cases as balloons, UAS, or satellites."
+  },
+  {
+   "s": "inc_me",
+   "p": "resolved_count",
+   "v": "13, as balloons, UAS, or satellites",
+   "quote": "U.S. military assets deployed to the Middle East provided 57 reports, and AARO resolved 13 of these cases as balloons, UAS, or satellites."
+  },
+  {
+   "s": "inc_me",
+   "p": "preliminary_assessment",
+   "v": "two cases possible satellite flares",
+   "quote": "AARO reached a preliminary assessment on two of the Middle East cases as possible satellite flares and is working with IC and S&T partners to finalize these assessments through the use of advanced modeling."
+  },
+  {
+   "s": "inc_me",
+   "p": "status",
+   "v": "remaining 42 cases placed in Active Archive due to insufficient information",
+   "quote": "AARO placed the remaining 42 cases in Active Archive due to insufficient information to facilitate analysis."
+  },
+  {
+   "s": "aaro",
+   "p": "investigated_by",
+   "o": "inc_me",
+   "quote": "U.S. military assets deployed to the Middle East provided 57 reports, and AARO resolved 13 of these cases as balloons, UAS, or satellites."
+  },
+  {
+   "s": "ic",
+   "p": "investigated_by",
+   "o": "inc_me",
+   "quote": "AARO reached a preliminary assessment on two of the Middle East cases as possible satellite flares and is working with IC and S&T partners to finalize these assessments through the use of advanced modeling."
+  },
+  {
+   "s": "me",
+   "p": "occurred_at",
+   "o": "inc_me",
+   "quote": "U.S. military assets deployed to the Middle East provided 57 reports, and AARO resolved 13 of these cases as balloons, UAS, or satellites."
+  },
+  {
+   "s": "x_balloon",
+   "p": "explained_as",
+   "o": "inc_me",
+   "quote": "U.S. military assets deployed to the Middle East provided 57 reports, and AARO resolved 13 of these cases as balloons, UAS, or satellites."
+  },
+  {
+   "s": "x_uas",
+   "p": "explained_as",
+   "o": "inc_me",
+   "quote": "U.S. military assets deployed to the Middle East provided 57 reports, and AARO resolved 13 of these cases as balloons, UAS, or satellites."
+  },
+  {
+   "s": "x_sat",
+   "p": "explained_as",
+   "o": "inc_me",
+   "quote": "U.S. military assets deployed to the Middle East provided 57 reports, and AARO resolved 13 of these cases as balloons, UAS, or satellites."
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "inc_me",
+   "quote": "U.S. military assets deployed to the Middle East provided 57 reports, and AARO resolved 13 of these cases as balloons, UAS, or satellites."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "inc_me",
+   "quote": "U.S. military assets deployed to the Middle East provided 57 reports, and AARO resolved 13 of these cases as balloons, UAS, or satellites."
+  },
+  {
+   "s": "inc_material",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Oak Ridge National Laboratory (ORNL) provided analysis for a material claimed to be from a UAP."
+  },
+  {
+   "s": "ornl",
+   "p": "investigated_by",
+   "o": "inc_material",
+   "quote": "Oak Ridge National Laboratory (ORNL) provided analysis for a material claimed to be from a UAP."
+  },
+  {
+   "s": "aaro",
+   "p": "investigated_by",
+   "o": "inc_material",
+   "quote": "AARO S&T, in coordination with ORNL, wrote a report from the materials analysis of an alleged UAP and posted the analysis on AARO's website."
+  },
+  {
+   "s": "ornl_report",
+   "p": "key_document",
+   "o": "inc_material",
+   "quote": "AARO S&T, in coordination with ORNL, wrote a report from the materials analysis of an alleged UAP and posted the analysis on AARO's website."
+  },
+  {
+   "s": "f_debris",
+   "p": "has_feature",
+   "o": "inc_material",
+   "quote": "Oak Ridge National Laboratory (ORNL) provided analysis for a material claimed to be from a UAP."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "inc_material",
+   "quote": "Oak Ridge National Laboratory (ORNL) provided analysis for a material claimed to be from a UAP."
+  },
+  {
+   "s": "aaro",
+   "p": "proposed",
+   "o": "x_bird",
+   "quote": "AARO resolved 118 cases during the reporting period, all of which resolved to prosaic objects such as various types of balloons, birds, and unmanned aerial systems (UAS)."
+  },
+  {
+   "s": "aaro",
+   "p": "proposed",
+   "o": "x_aircraft",
+   "quote": "These cases also resolved to prosaic objects including balloons, birds, UAS, satellites, and aircraft."
+  },
+  {
+   "s": "aaro",
+   "p": "proposed",
+   "o": "x_camera",
+   "quote": "leading observers to perceive and report these sensor artifacts as anomalous phenomena."
+  }
+ ]
+}

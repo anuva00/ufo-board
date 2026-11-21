@@ -1,0 +1,999 @@
+{
+ "slug": "solway-firth-spaceman",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Solway Firth Spaceman",
+   "description": "Figure seen in the background of a photograph taken by Jim Templeton on Burgh Marsh on 23 May 1964.",
+   "aliases": [
+    "Solway Spaceman",
+    "Cumberland Spaceman"
+   ]
+  },
+  {
+   "key": "templeton",
+   "type": "person",
+   "name": "Jim Templeton",
+   "description": "Fireman, photographer and local historian from Carlisle who took the photograph.",
+   "aliases": [
+    "Templeton"
+   ]
+  },
+  {
+   "key": "photo",
+   "type": "document",
+   "name": "Solway Firth Spaceman photograph",
+   "description": "Photograph of Templeton's daughter showing an anomalous background figure; the middle of three pictures.",
+   "aliases": [
+    "Templeton photo"
+   ]
+  },
+  {
+   "key": "figure",
+   "type": "craft",
+   "name": "Solway Firth Spaceman figure",
+   "description": "Background figure in the photograph, described as wearing a space suit.",
+   "aliases": [
+    "spaceman"
+   ]
+  },
+  {
+   "key": "burgh",
+   "type": "place",
+   "name": "Burgh Marsh",
+   "description": "Marsh near Burgh by Sands where the photograph was taken."
+  },
+  {
+   "key": "burghsands",
+   "type": "place",
+   "name": "Burgh by Sands, England",
+   "description": "Village near Burgh Marsh.",
+   "aliases": [
+    "Burgh by Sands"
+   ]
+  },
+  {
+   "key": "solway",
+   "type": "place",
+   "name": "Solway Firth",
+   "description": "Firth overlooked by Burgh Marsh."
+  },
+  {
+   "key": "cumberland",
+   "type": "place",
+   "name": "Cumberland",
+   "description": "English county of Burgh Marsh."
+  },
+  {
+   "key": "england",
+   "type": "place",
+   "name": "England",
+   "description": "Country of the event."
+  },
+  {
+   "key": "carlisle",
+   "type": "place",
+   "name": "Carlisle, England",
+   "description": "Templeton's home city, where he took the picture to the police.",
+   "aliases": [
+    "Carlisle"
+   ]
+  },
+  {
+   "key": "carlislepolice",
+   "type": "organization",
+   "name": "Carlisle police",
+   "description": "Police in Carlisle who examined the picture.",
+   "aliases": [
+    "the police in Carlisle"
+   ]
+  },
+  {
+   "key": "clarke",
+   "type": "person",
+   "name": "David Clarke",
+   "description": "Journalist and author who in 2014 proposed that the figure was Templeton's wife.",
+   "aliases": [
+    "Clarke"
+   ]
+  },
+  {
+   "key": "bbc",
+   "type": "organization",
+   "name": "BBC",
+   "description": "Broadcaster that interviewed Clarke in 2014.",
+   "aliases": [
+    "BBC"
+   ]
+  },
+  {
+   "key": "looknorth",
+   "type": "work",
+   "name": "BBC Look North",
+   "description": "BBC programme in which Templeton was interviewed.",
+   "aliases": [
+    "Look North"
+   ]
+  },
+  {
+   "key": "annie",
+   "type": "person",
+   "name": "Annie Templeton",
+   "description": "Jim Templeton's wife, present that day; proposed as the identity of the figure.",
+   "aliases": [
+    "Annie"
+   ]
+  },
+  {
+   "key": "elizabeth",
+   "type": "person",
+   "name": "Elizabeth Dobson",
+   "description": "Templeton's daughter, the five-year-old subject of the photographs.",
+   "aliases": [
+    "Elizabeth",
+    "Elizabeth Templeton"
+   ]
+  },
+  {
+   "key": "thomas",
+   "type": "person",
+   "name": "Thomas",
+   "description": "Templeton's grandson, taking over as custodian of his image library."
+  },
+  {
+   "key": "kodak",
+   "type": "organization",
+   "name": "Kodak",
+   "description": "Company that developed the photographs and whose analysts confirmed the photograph was genuine."
+  },
+  {
+   "key": "dailymail",
+   "type": "organization",
+   "name": "Daily Mail",
+   "description": "Newspaper to which Templeton wrote in 2002."
+  },
+  {
+   "key": "letter02",
+   "type": "document",
+   "name": "Jim Templeton's 2002 letter to the Daily Mail",
+   "description": "Letter in which Templeton recounted taking the photograph."
+  },
+  {
+   "key": "cumbnews",
+   "type": "organization",
+   "name": "Cumberland News",
+   "description": "Local newspaper that picked up the story."
+  },
+  {
+   "key": "dumfries",
+   "type": "organization",
+   "name": "Dumfries Courier",
+   "description": "Scottish newspaper that interviewed Templeton in 1996 and 2011."
+  },
+  {
+   "key": "mod",
+   "type": "organization",
+   "name": "Ministry of Defence",
+   "description": "British ministry whose official said the photo was of no interest.",
+   "aliases": [
+    "British Ministry of Defence"
+   ]
+  },
+  {
+   "key": "woomera_inc",
+   "type": "case",
+   "name": "Woomera Test Range Blue Streak launch incident",
+   "description": "Blue Streak missile launch at Woomera that Templeton said was aborted because figures of two large men were seen on the firing range."
+  },
+  {
+   "key": "woomera",
+   "type": "place",
+   "name": "Woomera Test Range",
+   "description": "Test range in South Australia."
+  },
+  {
+   "key": "sa",
+   "type": "place",
+   "name": "South Australia",
+   "description": "Australian state of the Woomera Test Range."
+  },
+  {
+   "key": "bluestreak",
+   "type": "vehicle",
+   "name": "Blue Streak missile",
+   "description": "Missile whose launch at Woomera was said to have been aborted.",
+   "aliases": [
+    "Blue Streak"
+   ]
+  },
+  {
+   "key": "video",
+   "type": "work",
+   "name": "The Solway Firth Spaceman Mystery - NEW Evidence!!! We Deconstruct This Fascinating Photo Riddle",
+   "description": "2023 item by Very Nearly Interesting listed under external links."
+  },
+  {
+   "key": "vni",
+   "type": "organization",
+   "name": "Very Nearly Interesting",
+   "description": "Publisher of the 2023 item on the photograph."
+  },
+  {
+   "key": "f_photograph",
+   "type": "feature",
+   "name": "photograph",
+   "description": "feature"
+  },
+  {
+   "key": "f_occupants-reported",
+   "type": "feature",
+   "name": "occupants-reported",
+   "description": "feature"
+  },
+  {
+   "key": "f_men-in-black",
+   "type": "feature",
+   "name": "men-in-black",
+   "description": "feature"
+  },
+  {
+   "key": "f_child-witnesses",
+   "type": "feature",
+   "name": "child-witnesses",
+   "description": "feature"
+  },
+  {
+   "key": "f_official-investigation",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "feature"
+  },
+  {
+   "key": "x_misperception",
+   "type": "explanation",
+   "name": "misperception",
+   "description": "explanation"
+  },
+  {
+   "key": "x_camera-artifact",
+   "type": "explanation",
+   "name": "camera-artifact",
+   "description": "explanation"
+  },
+  {
+   "key": "x_other_Templeton's_wife_in_frame",
+   "type": "explanation",
+   "name": "other:Templeton's wife in frame",
+   "description": "explanation"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "also_known_as",
+   "v": "Solway Spaceman",
+   "quote": "The Solway Firth Spaceman (also known as the Solway Spaceman or the Cumberland Spaceman) is a figure seen in a photograph taken on 23 May 1964 by fireman, photographer and local historian Jim Templeton (13 February 1920 – 27 November 2011)."
+  },
+  {
+   "s": "case",
+   "p": "also_known_as",
+   "v": "Cumberland Spaceman",
+   "quote": "The Solway Firth Spaceman (also known as the Solway Spaceman or the Cumberland Spaceman) is a figure seen in a photograph taken on 23 May 1964 by fireman, photographer and local historian Jim Templeton (13 February 1920 – 27 November 2011)."
+  },
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1964-05-23",
+   "quote": "The Solway Firth Spaceman (also known as the Solway Spaceman or the Cumberland Spaceman) is a figure seen in a photograph taken on 23 May 1964 by fireman, photographer and local historian Jim Templeton (13 February 1920 – 27 November 2011)."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1964-05-23",
+   "quote": "On 23 May 1964, Jim Templeton, a firefighter from Carlisle, took three photographs of his five-year-old daughter while on a day trip to Burgh Marsh."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "England",
+   "quote": "The picture was taken on Burgh Marsh, situated near Burgh by Sands, overlooking the Solway Firth in Cumberland, England."
+  },
+  {
+   "s": "case",
+   "p": "publicity",
+   "v": "reproduced widely in contemporary newspapers and gained the interest of ufologists and paranormal investigators",
+   "quote": "The image was reproduced widely in contemporary newspapers and gained the interest of ufologists and paranormal investigators."
+  },
+  {
+   "s": "case",
+   "p": "others_present",
+   "v": "a couple of elderly women sitting in a car at the far end of the marsh",
+   "quote": "Templeton said the only other people in the area that day were a couple of elderly women sitting in a car at the far end of the marsh."
+  },
+  {
+   "s": "case",
+   "p": "police_finding",
+   "v": "police in Carlisle examined the picture and stated there was nothing suspicious about it",
+   "quote": "Templeton stated, \"I took the picture to the police in Carlisle who, after many doubts, examined it and stated there was nothing suspicious about it."
+  },
+  {
+   "s": "case",
+   "p": "visitors",
+   "v": "two men who said they were from the government and refused to show their identification",
+   "quote": "Templeton said that after the photograph was published, he was visited by two men who said they were from the government who refused to show their identification."
+  },
+  {
+   "s": "case",
+   "p": "visitors",
+   "v": "the men said they were only identified by number",
+   "quote": "The men \"said they worked for the government and that they were only identified by number.\""
+  },
+  {
+   "s": "case",
+   "p": "visitors",
+   "v": "the men became angry and drove away, leaving Templeton to walk home",
+   "quote": "After taking the men to the site where the photos were taken, Templeton said that when he explained he had not seen the figure at the time, the men became angry and drove away, leaving him to walk home."
+  },
+  {
+   "s": "case",
+   "p": "analysis",
+   "v": "when using photo software to darken the image and straighten the horizon, the figure increasingly appears to be a regular person viewed from behind",
+   "quote": "It has been argued that, when using photo software to darken the image and straighten the horizon, the figure increasingly appears to be a regular person viewed from behind."
+  },
+  {
+   "s": "case",
+   "p": "official_response",
+   "v": "a British Ministry of Defence official said that the Templeton photo was of no interest to them",
+   "quote": "Responding to a request from ufologists to know if the photo was of interest to the authorities, a British Ministry of Defence official said that the Templeton photo was of no interest to them."
+  },
+  {
+   "s": "templeton",
+   "p": "witness",
+   "o": "case",
+   "quote": "The Solway Firth Spaceman (also known as the Solway Spaceman or the Cumberland Spaceman) is a figure seen in a photograph taken on 23 May 1964 by fireman, photographer and local historian Jim Templeton (13 February 1920 – 27 November 2011)."
+  },
+  {
+   "s": "templeton",
+   "p": "occupation",
+   "v": "fireman, photographer and local historian",
+   "quote": "The Solway Firth Spaceman (also known as the Solway Spaceman or the Cumberland Spaceman) is a figure seen in a photograph taken on 23 May 1964 by fireman, photographer and local historian Jim Templeton (13 February 1920 – 27 November 2011)."
+  },
+  {
+   "s": "templeton",
+   "p": "occupation",
+   "v": "firefighter",
+   "quote": "On 23 May 1964, Jim Templeton, a firefighter from Carlisle, took three photographs of his five-year-old daughter while on a day trip to Burgh Marsh."
+  },
+  {
+   "s": "templeton",
+   "p": "birth_date",
+   "v": "1920-02-13",
+   "quote": "The Solway Firth Spaceman (also known as the Solway Spaceman or the Cumberland Spaceman) is a figure seen in a photograph taken on 23 May 1964 by fireman, photographer and local historian Jim Templeton (13 February 1920 – 27 November 2011)."
+  },
+  {
+   "s": "templeton",
+   "p": "death_date",
+   "v": "2011-11-27",
+   "quote": "The Solway Firth Spaceman (also known as the Solway Spaceman or the Cumberland Spaceman) is a figure seen in a photograph taken on 23 May 1964 by fireman, photographer and local historian Jim Templeton (13 February 1920 – 27 November 2011)."
+  },
+  {
+   "s": "templeton",
+   "p": "residence",
+   "v": "Carlisle",
+   "quote": "On 23 May 1964, Jim Templeton, a firefighter from Carlisle, took three photographs of his five-year-old daughter while on a day trip to Burgh Marsh."
+  },
+  {
+   "s": "templeton",
+   "p": "authored",
+   "o": "photo",
+   "quote": "The Solway Firth Spaceman (also known as the Solway Spaceman or the Cumberland Spaceman) is a figure seen in a photograph taken on 23 May 1964 by fireman, photographer and local historian Jim Templeton (13 February 1920 – 27 November 2011)."
+  },
+  {
+   "s": "templeton",
+   "p": "statement",
+   "v": "the photograph shows a background figure wearing a space suit; he did not see it present when the photograph was taken",
+   "quote": "Templeton claimed the photograph shows a background figure wearing a space suit and insisted that he did not see it present when the photograph was taken."
+  },
+  {
+   "s": "templeton",
+   "p": "statement",
+   "v": "I took three pictures of my daughter Elizabeth in a similar pose – and was shocked when the middle picture came back from Kodak displaying what looks like a spaceman in the background.",
+   "quote": "In a letter to the Daily Mail in 2002, Templeton stated, \"I took three pictures of my daughter Elizabeth in a similar pose – and was shocked when the middle picture came back from Kodak displaying what looks like a spaceman in the background.\""
+  },
+  {
+   "s": "templeton",
+   "p": "statement",
+   "v": "did not see the figure until after his photographs were developed",
+   "quote": "Templeton insists that he did not see the figure until after his photographs were developed, and analysts at Kodak confirmed that the photograph was genuine."
+  },
+  {
+   "s": "templeton",
+   "p": "statement",
+   "v": "the only other people in the area that day were a couple of elderly women sitting in a car at the far end of the marsh",
+   "quote": "Templeton said the only other people in the area that day were a couple of elderly women sitting in a car at the far end of the marsh."
+  },
+  {
+   "s": "templeton",
+   "p": "statement",
+   "v": "I took the picture to the police in Carlisle who, after many doubts, examined it and stated there was nothing suspicious about it.",
+   "quote": "Templeton stated, \"I took the picture to the police in Carlisle who, after many doubts, examined it and stated there was nothing suspicious about it."
+  },
+  {
+   "s": "templeton",
+   "p": "statement",
+   "v": "The picture is certainly not a fake, and I am as bemused as anyone else as to how this figure appeared in the background.",
+   "quote": "The picture is certainly not a fake, and I am as bemused as anyone else as to how this figure appeared in the background."
+  },
+  {
+   "s": "templeton",
+   "p": "statement",
+   "v": "I have had many thousands of letters from all over the world with various ideas or possibilities – most of which make little sense to me.",
+   "quote": "Over the four decades the photo has been in the public domain, I have had many thousands of letters from all over the world with various ideas or possibilities – most of which make little sense to me.\""
+  },
+  {
+   "s": "templeton",
+   "p": "statement",
+   "v": "he was visited by two men who said they were from the government who refused to show their identification",
+   "quote": "Templeton said that after the photograph was published, he was visited by two men who said they were from the government who refused to show their identification."
+  },
+  {
+   "s": "templeton",
+   "p": "statement",
+   "v": "It all looks like a leg pull to me. I'm sure the men were not security agents.",
+   "quote": "In September 1964, Templeton dismissed the two men as frauds, saying: \"It all looks like a leg pull to me. I'm sure the men were not security agents.\""
+  },
+  {
+   "s": "templeton",
+   "p": "later_claim",
+   "v": "a Blue Streak missile launch at the Woomera Test Range had been aborted because the figures of two large men were seen on the firing range",
+   "quote": "In a BBC Look North interview and a letter to the Daily Mail, Templeton also said that a Blue Streak missile launch at the Woomera Test Range in South Australia had been aborted because the figures of two large men were seen on the firing range."
+  },
+  {
+   "s": "templeton",
+   "p": "later_claim",
+   "v": "technicians later saw his photograph in an Australian newspaper and found the figures to be exactly the same",
+   "quote": "He alleged that technicians later saw his photograph in an Australian newspaper and found the figures to be exactly the same."
+  },
+  {
+   "s": "templeton",
+   "p": "age",
+   "v": "91 (in 2011)",
+   "quote": "In a 2011 interview in the Dumfries Courier shortly before his death, Templeton, then 91, said that Elizabeth and grandson Thomas were taking over as custodians of his 20,000-image historical library."
+  },
+  {
+   "s": "templeton",
+   "p": "collection",
+   "v": "20,000-image historical library",
+   "quote": "In a 2011 interview in the Dumfries Courier shortly before his death, Templeton, then 91, said that Elizabeth and grandson Thomas were taking over as custodians of his 20,000-image historical library."
+  },
+  {
+   "s": "photo",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The Solway Firth Spaceman (also known as the Solway Spaceman or the Cumberland Spaceman) is a figure seen in a photograph taken on 23 May 1964 by fireman, photographer and local historian Jim Templeton (13 February 1920 – 27 November 2011)."
+  },
+  {
+   "s": "photo",
+   "p": "date",
+   "v": "1964-05-23",
+   "quote": "The Solway Firth Spaceman (also known as the Solway Spaceman or the Cumberland Spaceman) is a figure seen in a photograph taken on 23 May 1964 by fireman, photographer and local historian Jim Templeton (13 February 1920 – 27 November 2011)."
+  },
+  {
+   "s": "photo",
+   "p": "sequence",
+   "v": "the middle of three pictures",
+   "quote": "In a letter to the Daily Mail in 2002, Templeton stated, \"I took three pictures of my daughter Elizabeth in a similar pose – and was shocked when the middle picture came back from Kodak displaying what looks like a spaceman in the background.\""
+  },
+  {
+   "s": "photo",
+   "p": "authenticity",
+   "v": "analysts at Kodak confirmed that the photograph was genuine",
+   "quote": "Templeton insists that he did not see the figure until after his photographs were developed, and analysts at Kodak confirmed that the photograph was genuine."
+  },
+  {
+   "s": "photo",
+   "p": "photo_count",
+   "v": "three",
+   "quote": "On 23 May 1964, Jim Templeton, a firefighter from Carlisle, took three photographs of his five-year-old daughter while on a day trip to Burgh Marsh."
+  },
+  {
+   "s": "figure",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Templeton claimed the photograph shows a background figure wearing a space suit and insisted that he did not see it present when the photograph was taken."
+  },
+  {
+   "s": "figure",
+   "p": "description",
+   "v": "a background figure wearing a space suit",
+   "quote": "Templeton claimed the photograph shows a background figure wearing a space suit and insisted that he did not see it present when the photograph was taken."
+  },
+  {
+   "s": "figure",
+   "p": "color",
+   "v": "white",
+   "quote": "Journalist David Clarke posited an explanation for the anomalous figure in a 2014 BBC interview, concluding that Templeton's wife had entered the frame unbeknownst to him, her back towards the camera and her blue dress appearing white due to overexposure."
+  },
+  {
+   "s": "figure",
+   "p": "description",
+   "v": "darker area around the figure's head",
+   "quote": "She also had dark bobbed hair, arguably matching the darker area around the figure's head."
+  },
+  {
+   "s": "templeton",
+   "p": "described",
+   "o": "figure",
+   "quote": "Templeton claimed the photograph shows a background figure wearing a space suit and insisted that he did not see it present when the photograph was taken."
+  },
+  {
+   "s": "burgh",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The picture was taken on Burgh Marsh, situated near Burgh by Sands, overlooking the Solway Firth in Cumberland, England."
+  },
+  {
+   "s": "burgh",
+   "p": "near",
+   "o": "burghsands",
+   "quote": "The picture was taken on Burgh Marsh, situated near Burgh by Sands, overlooking the Solway Firth in Cumberland, England."
+  },
+  {
+   "s": "burgh",
+   "p": "located_in",
+   "o": "cumberland",
+   "quote": "The picture was taken on Burgh Marsh, situated near Burgh by Sands, overlooking the Solway Firth in Cumberland, England."
+  },
+  {
+   "s": "burghsands",
+   "p": "near",
+   "o": "case",
+   "quote": "The picture was taken on Burgh Marsh, situated near Burgh by Sands, overlooking the Solway Firth in Cumberland, England."
+  },
+  {
+   "s": "solway",
+   "p": "near",
+   "o": "case",
+   "quote": "The picture was taken on Burgh Marsh, situated near Burgh by Sands, overlooking the Solway Firth in Cumberland, England."
+  },
+  {
+   "s": "cumberland",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The picture was taken on Burgh Marsh, situated near Burgh by Sands, overlooking the Solway Firth in Cumberland, England."
+  },
+  {
+   "s": "cumberland",
+   "p": "located_in",
+   "o": "england",
+   "quote": "The picture was taken on Burgh Marsh, situated near Burgh by Sands, overlooking the Solway Firth in Cumberland, England."
+  },
+  {
+   "s": "england",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The picture was taken on Burgh Marsh, situated near Burgh by Sands, overlooking the Solway Firth in Cumberland, England."
+  },
+  {
+   "s": "carlisle",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On 23 May 1964, Jim Templeton, a firefighter from Carlisle, took three photographs of his five-year-old daughter while on a day trip to Burgh Marsh."
+  },
+  {
+   "s": "carlislepolice",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "Templeton stated, \"I took the picture to the police in Carlisle who, after many doubts, examined it and stated there was nothing suspicious about it."
+  },
+  {
+   "s": "carlislepolice",
+   "p": "located_in",
+   "o": "carlisle",
+   "quote": "Templeton stated, \"I took the picture to the police in Carlisle who, after many doubts, examined it and stated there was nothing suspicious about it."
+  },
+  {
+   "s": "clarke",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Journalist David Clarke posited an explanation for the anomalous figure in a 2014 BBC interview, concluding that Templeton's wife had entered the frame unbeknownst to him, her back towards the camera and her blue dress appearing white due to overexposure."
+  },
+  {
+   "s": "clarke",
+   "p": "occupation",
+   "v": "Journalist",
+   "quote": "Journalist David Clarke posited an explanation for the anomalous figure in a 2014 BBC interview, concluding that Templeton's wife had entered the frame unbeknownst to him, her back towards the camera and her blue dress appearing white due to overexposure."
+  },
+  {
+   "s": "clarke",
+   "p": "occupation",
+   "v": "author",
+   "quote": "According to author David Clarke in 2014, the figure speculated to be a spaceman is most likely Templeton's wife, Annie, who was present at the time and seen on another photograph taken that day."
+  },
+  {
+   "s": "clarke",
+   "p": "statement",
+   "v": "I think for some reason his wife walked into the shot and he didn't see her because with that particular make of camera you could only see 70% of what was in the shot through the viewfinder",
+   "quote": "Clarke said, \"I think for some reason his wife walked into the shot and he didn't see her because with that particular make of camera you could only see 70% of what was in the shot through the viewfinder\"."
+  },
+  {
+   "s": "clarke",
+   "p": "statement",
+   "v": "People will still be talking about it in another 50 years.",
+   "quote": "Clarke believed the image would stimulate discussion in the future, saying: \"People will still be talking about it in another 50 years.\""
+  },
+  {
+   "s": "clarke",
+   "p": "statement",
+   "v": "the figure speculated to be a spaceman is most likely Templeton's wife, Annie",
+   "quote": "According to author David Clarke in 2014, the figure speculated to be a spaceman is most likely Templeton's wife, Annie, who was present at the time and seen on another photograph taken that day."
+  },
+  {
+   "s": "bbc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Journalist David Clarke posited an explanation for the anomalous figure in a 2014 BBC interview, concluding that Templeton's wife had entered the frame unbeknownst to him, her back towards the camera and her blue dress appearing white due to overexposure."
+  },
+  {
+   "s": "bbc",
+   "p": "interviewed",
+   "o": "clarke",
+   "quote": "Journalist David Clarke posited an explanation for the anomalous figure in a 2014 BBC interview, concluding that Templeton's wife had entered the frame unbeknownst to him, her back towards the camera and her blue dress appearing white due to overexposure."
+  },
+  {
+   "s": "looknorth",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In a BBC Look North interview and a letter to the Daily Mail, Templeton also said that a Blue Streak missile launch at the Woomera Test Range in South Australia had been aborted because the figures of two large men were seen on the firing range."
+  },
+  {
+   "s": "looknorth",
+   "p": "interviewed",
+   "o": "templeton",
+   "quote": "In a BBC Look North interview and a letter to the Daily Mail, Templeton also said that a Blue Streak missile launch at the Woomera Test Range in South Australia had been aborted because the figures of two large men were seen on the firing range."
+  },
+  {
+   "s": "looknorth",
+   "p": "part_of",
+   "o": "bbc",
+   "quote": "In a BBC Look North interview and a letter to the Daily Mail, Templeton also said that a Blue Streak missile launch at the Woomera Test Range in South Australia had been aborted because the figures of two large men were seen on the firing range."
+  },
+  {
+   "s": "annie",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "According to author David Clarke in 2014, the figure speculated to be a spaceman is most likely Templeton's wife, Annie, who was present at the time and seen on another photograph taken that day."
+  },
+  {
+   "s": "annie",
+   "p": "relative_of",
+   "o": "templeton",
+   "quote": "According to author David Clarke in 2014, the figure speculated to be a spaceman is most likely Templeton's wife, Annie, who was present at the time and seen on another photograph taken that day."
+  },
+  {
+   "s": "annie",
+   "p": "clothing",
+   "v": "pale blue dress",
+   "quote": "Annie Templeton was wearing a pale blue dress on the day in question, which was partially overexposed as white in another photo."
+  },
+  {
+   "s": "annie",
+   "p": "hair",
+   "v": "dark bobbed hair",
+   "quote": "She also had dark bobbed hair, arguably matching the darker area around the figure's head."
+  },
+  {
+   "s": "annie",
+   "p": "presence",
+   "v": "present at the time and seen on another photograph taken that day",
+   "quote": "According to author David Clarke in 2014, the figure speculated to be a spaceman is most likely Templeton's wife, Annie, who was present at the time and seen on another photograph taken that day."
+  },
+  {
+   "s": "figure",
+   "p": "identified_as",
+   "o": "annie",
+   "quote": "According to author David Clarke in 2014, the figure speculated to be a spaceman is most likely Templeton's wife, Annie, who was present at the time and seen on another photograph taken that day."
+  },
+  {
+   "s": "elizabeth",
+   "p": "witness",
+   "o": "case",
+   "quote": "On 23 May 1964, Jim Templeton, a firefighter from Carlisle, took three photographs of his five-year-old daughter while on a day trip to Burgh Marsh."
+  },
+  {
+   "s": "elizabeth",
+   "p": "relative_of",
+   "o": "templeton",
+   "quote": "In 1996, Templeton and his now adult daughter Elizabeth Dobson were interviewed by a reporter from the Scottish newspaper Dumfries Courier, with Elizabeth commenting: \"We got a lot of hassle from people like you, but I was really young and can't remember much."
+  },
+  {
+   "s": "elizabeth",
+   "p": "age",
+   "v": "five",
+   "quote": "On 23 May 1964, Jim Templeton, a firefighter from Carlisle, took three photographs of his five-year-old daughter while on a day trip to Burgh Marsh."
+  },
+  {
+   "s": "elizabeth",
+   "p": "statement",
+   "v": "We got a lot of hassle from people like you, but I was really young and can't remember much.",
+   "quote": "In 1996, Templeton and his now adult daughter Elizabeth Dobson were interviewed by a reporter from the Scottish newspaper Dumfries Courier, with Elizabeth commenting: \"We got a lot of hassle from people like you, but I was really young and can't remember much."
+  },
+  {
+   "s": "elizabeth",
+   "p": "statement",
+   "v": "I think it was somebody from another planet. It is pretty selfish of us to think that we are the only intelligent form of life.",
+   "quote": "I think it was somebody from another planet. It is pretty selfish of us to think that we are the only intelligent form of life.\""
+  },
+  {
+   "s": "elizabeth",
+   "p": "role",
+   "v": "taking over as custodian of Templeton's 20,000-image historical library",
+   "quote": "In a 2011 interview in the Dumfries Courier shortly before his death, Templeton, then 91, said that Elizabeth and grandson Thomas were taking over as custodians of his 20,000-image historical library."
+  },
+  {
+   "s": "thomas",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "In a 2011 interview in the Dumfries Courier shortly before his death, Templeton, then 91, said that Elizabeth and grandson Thomas were taking over as custodians of his 20,000-image historical library."
+  },
+  {
+   "s": "thomas",
+   "p": "relative_of",
+   "o": "templeton",
+   "quote": "In a 2011 interview in the Dumfries Courier shortly before his death, Templeton, then 91, said that Elizabeth and grandson Thomas were taking over as custodians of his 20,000-image historical library."
+  },
+  {
+   "s": "kodak",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In a letter to the Daily Mail in 2002, Templeton stated, \"I took three pictures of my daughter Elizabeth in a similar pose – and was shocked when the middle picture came back from Kodak displaying what looks like a spaceman in the background.\""
+  },
+  {
+   "s": "kodak",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "Templeton insists that he did not see the figure until after his photographs were developed, and analysts at Kodak confirmed that the photograph was genuine."
+  },
+  {
+   "s": "dailymail",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In a letter to the Daily Mail in 2002, Templeton stated, \"I took three pictures of my daughter Elizabeth in a similar pose – and was shocked when the middle picture came back from Kodak displaying what looks like a spaceman in the background.\""
+  },
+  {
+   "s": "letter02",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In a letter to the Daily Mail in 2002, Templeton stated, \"I took three pictures of my daughter Elizabeth in a similar pose – and was shocked when the middle picture came back from Kodak displaying what looks like a spaceman in the background.\""
+  },
+  {
+   "s": "templeton",
+   "p": "authored",
+   "o": "letter02",
+   "quote": "In a letter to the Daily Mail in 2002, Templeton stated, \"I took three pictures of my daughter Elizabeth in a similar pose – and was shocked when the middle picture came back from Kodak displaying what looks like a spaceman in the background.\""
+  },
+  {
+   "s": "letter02",
+   "p": "date",
+   "v": "2002",
+   "quote": "In a letter to the Daily Mail in 2002, Templeton stated, \"I took three pictures of my daughter Elizabeth in a similar pose – and was shocked when the middle picture came back from Kodak displaying what looks like a spaceman in the background.\""
+  },
+  {
+   "s": "dailymail",
+   "p": "published",
+   "o": "letter02",
+   "quote": "In a letter to the Daily Mail in 2002, Templeton stated, \"I took three pictures of my daughter Elizabeth in a similar pose – and was shocked when the middle picture came back from Kodak displaying what looks like a spaceman in the background.\""
+  },
+  {
+   "s": "cumbnews",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The local newspaper, the Cumberland News, picked up the story and within hours it was all over the world."
+  },
+  {
+   "s": "cumbnews",
+   "p": "action",
+   "v": "picked up the story and within hours it was all over the world",
+   "quote": "The local newspaper, the Cumberland News, picked up the story and within hours it was all over the world."
+  },
+  {
+   "s": "dumfries",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 1996, Templeton and his now adult daughter Elizabeth Dobson were interviewed by a reporter from the Scottish newspaper Dumfries Courier, with Elizabeth commenting: \"We got a lot of hassle from people like you, but I was really young and can't remember much."
+  },
+  {
+   "s": "dumfries",
+   "p": "interviewed",
+   "o": "templeton",
+   "quote": "In 1996, Templeton and his now adult daughter Elizabeth Dobson were interviewed by a reporter from the Scottish newspaper Dumfries Courier, with Elizabeth commenting: \"We got a lot of hassle from people like you, but I was really young and can't remember much."
+  },
+  {
+   "s": "dumfries",
+   "p": "interviewed",
+   "o": "elizabeth",
+   "quote": "In 1996, Templeton and his now adult daughter Elizabeth Dobson were interviewed by a reporter from the Scottish newspaper Dumfries Courier, with Elizabeth commenting: \"We got a lot of hassle from people like you, but I was really young and can't remember much."
+  },
+  {
+   "s": "dumfries",
+   "p": "interview_year",
+   "v": "1996",
+   "quote": "In 1996, Templeton and his now adult daughter Elizabeth Dobson were interviewed by a reporter from the Scottish newspaper Dumfries Courier, with Elizabeth commenting: \"We got a lot of hassle from people like you, but I was really young and can't remember much."
+  },
+  {
+   "s": "dumfries",
+   "p": "interview_year",
+   "v": "2011",
+   "quote": "In a 2011 interview in the Dumfries Courier shortly before his death, Templeton, then 91, said that Elizabeth and grandson Thomas were taking over as custodians of his 20,000-image historical library."
+  },
+  {
+   "s": "dumfries",
+   "p": "description",
+   "v": "Scottish newspaper",
+   "quote": "In 1996, Templeton and his now adult daughter Elizabeth Dobson were interviewed by a reporter from the Scottish newspaper Dumfries Courier, with Elizabeth commenting: \"We got a lot of hassle from people like you, but I was really young and can't remember much."
+  },
+  {
+   "s": "mod",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Responding to a request from ufologists to know if the photo was of interest to the authorities, a British Ministry of Defence official said that the Templeton photo was of no interest to them."
+  },
+  {
+   "s": "woomera_inc",
+   "p": "related_case",
+   "o": "case",
+   "quote": "In a BBC Look North interview and a letter to the Daily Mail, Templeton also said that a Blue Streak missile launch at the Woomera Test Range in South Australia had been aborted because the figures of two large men were seen on the firing range."
+  },
+  {
+   "s": "woomera",
+   "p": "occurred_at",
+   "o": "woomera_inc",
+   "quote": "In a BBC Look North interview and a letter to the Daily Mail, Templeton also said that a Blue Streak missile launch at the Woomera Test Range in South Australia had been aborted because the figures of two large men were seen on the firing range."
+  },
+  {
+   "s": "bluestreak",
+   "p": "involved_vehicle",
+   "o": "woomera_inc",
+   "quote": "In a BBC Look North interview and a letter to the Daily Mail, Templeton also said that a Blue Streak missile launch at the Woomera Test Range in South Australia had been aborted because the figures of two large men were seen on the firing range."
+  },
+  {
+   "s": "woomera_inc",
+   "p": "claim",
+   "v": "launch aborted because the figures of two large men were seen on the firing range",
+   "quote": "In a BBC Look North interview and a letter to the Daily Mail, Templeton also said that a Blue Streak missile launch at the Woomera Test Range in South Australia had been aborted because the figures of two large men were seen on the firing range."
+  },
+  {
+   "s": "woomera_inc",
+   "p": "claim",
+   "v": "technicians later saw Templeton's photograph in an Australian newspaper and found the figures to be exactly the same",
+   "quote": "He alleged that technicians later saw his photograph in an Australian newspaper and found the figures to be exactly the same."
+  },
+  {
+   "s": "woomera_inc",
+   "p": "country",
+   "v": "Australia",
+   "quote": "In a BBC Look North interview and a letter to the Daily Mail, Templeton also said that a Blue Streak missile launch at the Woomera Test Range in South Australia had been aborted because the figures of two large men were seen on the firing range."
+  },
+  {
+   "s": "woomera",
+   "p": "related_place",
+   "o": "case",
+   "quote": "In a BBC Look North interview and a letter to the Daily Mail, Templeton also said that a Blue Streak missile launch at the Woomera Test Range in South Australia had been aborted because the figures of two large men were seen on the firing range."
+  },
+  {
+   "s": "woomera",
+   "p": "located_in",
+   "o": "sa",
+   "quote": "In a BBC Look North interview and a letter to the Daily Mail, Templeton also said that a Blue Streak missile launch at the Woomera Test Range in South Australia had been aborted because the figures of two large men were seen on the firing range."
+  },
+  {
+   "s": "sa",
+   "p": "related_place",
+   "o": "case",
+   "quote": "In a BBC Look North interview and a letter to the Daily Mail, Templeton also said that a Blue Streak missile launch at the Woomera Test Range in South Australia had been aborted because the figures of two large men were seen on the firing range."
+  },
+  {
+   "s": "bluestreak",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "In a BBC Look North interview and a letter to the Daily Mail, Templeton also said that a Blue Streak missile launch at the Woomera Test Range in South Australia had been aborted because the figures of two large men were seen on the firing range."
+  },
+  {
+   "s": "video",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The Solway Firth Spaceman Mystery - NEW Evidence!!! We Deconstruct This Fascinating Photo Riddle.. Very Nearly Interesting. June 16, 2023."
+  },
+  {
+   "s": "video",
+   "p": "date",
+   "v": "2023-06-16",
+   "quote": "The Solway Firth Spaceman Mystery - NEW Evidence!!! We Deconstruct This Fascinating Photo Riddle.. Very Nearly Interesting. June 16, 2023."
+  },
+  {
+   "s": "vni",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Solway Firth Spaceman Mystery - NEW Evidence!!! We Deconstruct This Fascinating Photo Riddle.. Very Nearly Interesting. June 16, 2023."
+  },
+  {
+   "s": "vni",
+   "p": "published",
+   "o": "video",
+   "quote": "The Solway Firth Spaceman Mystery - NEW Evidence!!! We Deconstruct This Fascinating Photo Riddle.. Very Nearly Interesting. June 16, 2023."
+  },
+  {
+   "s": "f_photograph",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Solway Firth Spaceman (also known as the Solway Spaceman or the Cumberland Spaceman) is a figure seen in a photograph taken on 23 May 1964 by fireman, photographer and local historian Jim Templeton (13 February 1920 – 27 November 2011)."
+  },
+  {
+   "s": "f_occupants-reported",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Templeton claimed the photograph shows a background figure wearing a space suit and insisted that he did not see it present when the photograph was taken."
+  },
+  {
+   "s": "f_men-in-black",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Templeton said that after the photograph was published, he was visited by two men who said they were from the government who refused to show their identification."
+  },
+  {
+   "s": "f_child-witnesses",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "On 23 May 1964, Jim Templeton, a firefighter from Carlisle, took three photographs of his five-year-old daughter while on a day trip to Burgh Marsh."
+  },
+  {
+   "s": "f_official-investigation",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Templeton stated, \"I took the picture to the police in Carlisle who, after many doubts, examined it and stated there was nothing suspicious about it."
+  },
+  {
+   "s": "x_misperception",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Journalist David Clarke posited an explanation for the anomalous figure in a 2014 BBC interview, concluding that Templeton's wife had entered the frame unbeknownst to him, her back towards the camera and her blue dress appearing white due to overexposure."
+  },
+  {
+   "s": "clarke",
+   "p": "proposed",
+   "o": "x_misperception",
+   "quote": "Journalist David Clarke posited an explanation for the anomalous figure in a 2014 BBC interview, concluding that Templeton's wife had entered the frame unbeknownst to him, her back towards the camera and her blue dress appearing white due to overexposure."
+  },
+  {
+   "s": "x_camera-artifact",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Journalist David Clarke posited an explanation for the anomalous figure in a 2014 BBC interview, concluding that Templeton's wife had entered the frame unbeknownst to him, her back towards the camera and her blue dress appearing white due to overexposure."
+  },
+  {
+   "s": "clarke",
+   "p": "proposed",
+   "o": "x_camera-artifact",
+   "quote": "Journalist David Clarke posited an explanation for the anomalous figure in a 2014 BBC interview, concluding that Templeton's wife had entered the frame unbeknownst to him, her back towards the camera and her blue dress appearing white due to overexposure."
+  },
+  {
+   "s": "x_other_Templeton's_wife_in_frame",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "According to author David Clarke in 2014, the figure speculated to be a spaceman is most likely Templeton's wife, Annie, who was present at the time and seen on another photograph taken that day."
+  },
+  {
+   "s": "clarke",
+   "p": "proposed",
+   "o": "x_other_Templeton's_wife_in_frame",
+   "quote": "According to author David Clarke in 2014, the figure speculated to be a spaceman is most likely Templeton's wife, Annie, who was present at the time and seen on another photograph taken that day."
+  },
+  {
+   "s": "case",
+   "p": "rumor",
+   "v": "Templeton dismissed the two visiting men as frauds: \"It all looks like a leg pull to me\"",
+   "quote": "In September 1964, Templeton dismissed the two men as frauds, saying: \"It all looks like a leg pull to me. I'm sure the men were not security agents.\""
+  }
+ ]
+}

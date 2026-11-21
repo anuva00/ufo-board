@@ -1,0 +1,2507 @@
+{
+ "slug": "condon-committee",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Condon Committee",
+   "description": "University of Colorado UFO Project, a USAF-funded 1966-1968 study of unidentified flying objects directed by physicist Edward Condon.",
+   "aliases": [
+    "University of Colorado UFO Project",
+    "Colorado project",
+    "Colorado Study",
+    "the Committee"
+   ]
+  },
+  {
+   "key": "f_off",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "USAF-funded official study"
+  },
+  {
+   "key": "f_hear",
+   "type": "feature",
+   "name": "congressional-hearing",
+   "description": "Congressional hearings before and about the project"
+  },
+  {
+   "key": "f_cover",
+   "type": "feature",
+   "name": "alleged-cover-up",
+   "description": "Cover-up charges against Blue Book; fears of Air Force control; CIA diversion question"
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "description": "Funder of the project",
+   "aliases": [
+    "U.S. Air Force",
+    "the Air Force"
+   ]
+  },
+  {
+   "key": "cu",
+   "type": "organization",
+   "name": "University of Colorado",
+   "description": "University that hosted the UFO study"
+  },
+  {
+   "key": "nicap",
+   "type": "organization",
+   "name": "National Investigations Committee On Aerial Phenomena",
+   "description": "Civilian UFO group that shared files and later severed ties",
+   "aliases": [
+    "NICAP",
+    "National Investigations Committee on Aerial Phenomena"
+   ]
+  },
+  {
+   "key": "apro",
+   "type": "organization",
+   "name": "Aerial Phenomena Research Organization",
+   "description": "Civilian UFO research group that helped the committee",
+   "aliases": [
+    "APRO"
+   ]
+  },
+  {
+   "key": "ewn",
+   "type": "organization",
+   "name": "Early Warning Network",
+   "description": "NICAP network whose members kept reporting sightings"
+  },
+  {
+   "key": "afsab",
+   "type": "organization",
+   "name": "Air Force Scientific Advisory Board",
+   "description": "USAF board that formed the O'Brien Committee",
+   "aliases": [
+    "AFSAB"
+   ]
+  },
+  {
+   "key": "obc",
+   "type": "organization",
+   "name": "O'Brien Committee",
+   "description": "AFSAB committee that in February 1966 recommended university UFO studies"
+  },
+  {
+   "key": "nw",
+   "type": "organization",
+   "name": "Northwestern University",
+   "description": "Hynek's campus, suggested for the study"
+  },
+  {
+   "key": "ua",
+   "type": "organization",
+   "name": "University of Arizona",
+   "description": "McDonald's campus, suggested for the study"
+  },
+  {
+   "key": "harvard",
+   "type": "organization",
+   "name": "Harvard University",
+   "description": "University that declined to participate in the UFO study"
+  },
+  {
+   "key": "ucb",
+   "type": "organization",
+   "name": "University of California, Berkeley",
+   "description": "University that declined to participate in the UFO study"
+  },
+  {
+   "key": "mit",
+   "type": "organization",
+   "name": "Massachusetts Institute of Technology",
+   "description": "University that declined to participate in the UFO study",
+   "aliases": [
+    "M.I.T."
+   ]
+  },
+  {
+   "key": "unc",
+   "type": "organization",
+   "name": "University of North Carolina at Chapel Hill",
+   "description": "University that declined to participate in the UFO study"
+  },
+  {
+   "key": "ncar",
+   "type": "organization",
+   "name": "National Center for Atmospheric Research",
+   "description": "Research centre directed by Walter Orr Roberts"
+  },
+  {
+   "key": "huac",
+   "type": "organization",
+   "name": "House Unamerican Activities Committee",
+   "description": "Congressional committee Condon had encounters with in the 1940s and 1950s",
+   "aliases": [
+    "House Un-American Activities Committee"
+   ]
+  },
+  {
+   "key": "dpost",
+   "type": "organization",
+   "name": "Denver Post",
+   "description": "Newspaper Low spoke to",
+   "aliases": [
+    "The Denver Post"
+   ]
+  },
+  {
+   "key": "nation",
+   "type": "organization",
+   "name": "The Nation",
+   "description": "Magazine that commented on the project announcement"
+  },
+  {
+   "key": "look",
+   "type": "organization",
+   "name": "Look",
+   "description": "Magazine that published \"Flying Saucer Fiasco\" in May 1968",
+   "aliases": [
+    "Look magazine"
+   ]
+  },
+  {
+   "key": "indres",
+   "type": "organization",
+   "name": "Industrial Research",
+   "description": "Journal that reprinted the Low memo"
+  },
+  {
+   "key": "scires",
+   "type": "organization",
+   "name": "Scientific Research",
+   "description": "Journal that interviewed Saunders and Levine and published Baker in April 1969"
+  },
+  {
+   "key": "aaas",
+   "type": "organization",
+   "name": "American Association for the Advancement of Science",
+   "description": "Scientific society whose journal Science covered the controversy",
+   "aliases": [
+    "AAAS"
+   ]
+  },
+  {
+   "key": "science",
+   "type": "organization",
+   "name": "Science",
+   "description": "Official journal of the AAAS",
+   "aliases": [
+    "Science (journal)"
+   ]
+  },
+  {
+   "key": "gao",
+   "type": "organization",
+   "name": "General Accounting Office",
+   "description": "Agency asked by Roush to investigate the study; declined",
+   "aliases": [
+    "GAO"
+   ]
+  },
+  {
+   "key": "cia",
+   "type": "organization",
+   "name": "Central Intelligence Agency",
+   "description": "Agency whose motives were questioned in UFO's? Yes!",
+   "aliases": [
+    "CIA"
+   ]
+  },
+  {
+   "key": "nyt",
+   "type": "organization",
+   "name": "The New York Times",
+   "description": "Newspaper that covered the report; its science editor introduced the published version",
+   "aliases": [
+    "New York Times"
+   ]
+  },
+  {
+   "key": "nas",
+   "type": "organization",
+   "name": "National Academy of Sciences",
+   "description": "Body asked by the Air Force to assess the committee independently"
+  },
+  {
+   "key": "naspanel",
+   "type": "organization",
+   "name": "National Academy of Sciences panel on the Condon Report",
+   "description": "Panel chaired by Gerald M. Clemence that reviewed the Report for six weeks"
+  },
+  {
+   "key": "yale",
+   "type": "organization",
+   "name": "Yale University",
+   "description": "University of astronomer Gerald M. Clemence",
+   "aliases": [
+    "Yale"
+   ]
+  },
+  {
+   "key": "nature",
+   "type": "organization",
+   "name": "Nature",
+   "description": "Journal that reviewed the Condon Report on March 8, 1969"
+  },
+  {
+   "key": "phystoday",
+   "type": "organization",
+   "name": "Physics Today",
+   "description": "Magazine that published Rothberg in December 1969"
+  },
+  {
+   "key": "ajp",
+   "type": "organization",
+   "name": "American Journal of Physics",
+   "description": "Journal that published Thornton Page on the report in 1969"
+  },
+  {
+   "key": "aiaa",
+   "type": "organization",
+   "name": "American Institute of Aeronautics and Astronautics",
+   "description": "Institute that assessed the report in November 1970"
+  },
+  {
+   "key": "usmc",
+   "type": "organization",
+   "name": "United States Marine Corps",
+   "description": "Keyhoe's former service",
+   "aliases": [
+    "USMC"
+   ]
+  },
+  {
+   "key": "congress",
+   "type": "organization",
+   "name": "United States Congress",
+   "description": "Held a UFO hearing on April 5, 1966",
+   "aliases": [
+    "Congressional"
+   ]
+  },
+  {
+   "key": "bluebook",
+   "type": "program",
+   "name": "Project Blue Book",
+   "description": "USAF UFO study whose files the committee examined; closed 1969",
+   "aliases": [
+    "Blue Book"
+   ]
+  },
+  {
+   "key": "sign",
+   "type": "case",
+   "name": "Project Sign",
+   "description": "First USAF UFO study, begun 1947"
+  },
+  {
+   "key": "grudge",
+   "type": "program",
+   "name": "Project Grudge",
+   "description": "USAF UFO study that succeeded Project Sign"
+  },
+  {
+   "key": "robertson",
+   "type": "case",
+   "name": "Robertson Panel",
+   "description": "Panel that suggested UFOs be debunked to reduce public interest"
+  },
+  {
+   "key": "laken",
+   "type": "case",
+   "name": "Lakenheath-Bentwaters incident",
+   "description": "1956 incident covered as Case 2 in Section IV, Chapter 2 of the Condon Report",
+   "aliases": [
+    "1956 Lakenheath-Bentwaters incident"
+   ]
+  },
+  {
+   "key": "magnet",
+   "type": "program",
+   "name": "Project Magnet",
+   "description": "Canadian project, 1950-54, listed under See also",
+   "aliases": [
+    "Project Magnet (Canada)"
+   ]
+  },
+  {
+   "key": "report",
+   "type": "document",
+   "name": "Condon Report",
+   "description": "Final Report of the committee, formally Scientific Study of Unidentified Flying Objects",
+   "aliases": [
+    "Scientific Study of Unidentified Flying Objects",
+    "Final Report of the Scientific Study of Unidentified Flying Objects",
+    "Final Report",
+    "the Report"
+   ]
+  },
+  {
+   "key": "memo",
+   "type": "document",
+   "name": "Low memo",
+   "description": "Memo by Robert J. Low of August 9, 1966, to two University of Colorado administrators",
+   "aliases": [
+    "Low's memo",
+    "trick memo"
+   ]
+  },
+  {
+   "key": "hletter",
+   "type": "document",
+   "name": "Letter from J. Allen Hynek to the Air Force Scientific Advisory Board",
+   "description": "Letter suggesting a panel re-examine Blue Book"
+  },
+  {
+   "key": "fiasco",
+   "type": "work",
+   "name": "Flying Saucer Fiasco",
+   "description": "Article by John G. Fuller in the May 1968 issue of Look"
+  },
+  {
+   "key": "ufoyes",
+   "type": "work",
+   "name": "UFO's? Yes! Where the Condon Committee Went Wrong",
+   "description": "1968 book by David R. Saunders and R. Roger Harkins rebutting the committee",
+   "aliases": [
+    "UFO's? Yes!"
+   ]
+  },
+  {
+   "key": "craigbook",
+   "type": "work",
+   "name": "UFOs: An Insider's View of the Official Quest for Evidence",
+   "description": "1995 book by Roy Craig"
+  },
+  {
+   "key": "hynekbook",
+   "type": "work",
+   "name": "The UFO Experience: A Scientific Inquiry",
+   "description": "1972 book by J. Allen Hynek"
+  },
+  {
+   "key": "sturbook",
+   "type": "work",
+   "name": "The UFO Enigma: A New Review of the Physical Evidence",
+   "description": "1999 book by Peter A. Sturrock"
+  },
+  {
+   "key": "condon",
+   "type": "person",
+   "name": "Edward U. Condon",
+   "description": "Physicist, director of the project",
+   "aliases": [
+    "Edward Condon",
+    "Dr. Condon",
+    "Condon"
+   ]
+  },
+  {
+   "key": "hynek",
+   "type": "person",
+   "name": "J. Allen Hynek",
+   "description": "Astronomer and Blue Book consultant; principal critic of the Report",
+   "aliases": [
+    "Hynek"
+   ]
+  },
+  {
+   "key": "obrien",
+   "type": "person",
+   "name": "Brian O'Brien",
+   "description": "Chair of the AFSAB committee of February 1966"
+  },
+  {
+   "key": "brown",
+   "type": "person",
+   "name": "Harold Brown",
+   "description": "Air Force Secretary who testified at the April 5, 1966 Congressional UFO hearing"
+  },
+  {
+   "key": "mcdonald",
+   "type": "person",
+   "name": "James E. McDonald",
+   "description": "Atmospheric physicist and critic who uncovered the Low memo",
+   "aliases": [
+    "McDonald"
+   ]
+  },
+  {
+   "key": "menzel",
+   "type": "person",
+   "name": "Donald Menzel",
+   "description": "Astronomer, anti-UFO, suggested for the study and suggested Condon",
+   "aliases": [
+    "Menzel"
+   ]
+  },
+  {
+   "key": "roberts",
+   "type": "person",
+   "name": "Walter Orr Roberts",
+   "description": "Director of the National Center for Atmospheric Research who suggested Condon"
+  },
+  {
+   "key": "low",
+   "type": "person",
+   "name": "Robert J. Low",
+   "description": "Assistant dean and project coordinator, author of the Low memo",
+   "aliases": [
+    "Low"
+   ]
+  },
+  {
+   "key": "cook",
+   "type": "person",
+   "name": "Stuart W. Cook",
+   "description": "Principal or co-principal investigator of the project"
+  },
+  {
+   "key": "roach",
+   "type": "person",
+   "name": "Franklin E. Roach",
+   "description": "Principal or co-principal investigator of the project"
+  },
+  {
+   "key": "scott",
+   "type": "person",
+   "name": "William A. Scott",
+   "description": "Principal or co-principal investigator of the project"
+  },
+  {
+   "key": "saunders",
+   "type": "person",
+   "name": "David R. Saunders",
+   "description": "Principal or co-principal investigator, later terminated; co-author of UFO's? Yes!",
+   "aliases": [
+    "David Saunders",
+    "Saunders"
+   ]
+  },
+  {
+   "key": "hartmann",
+   "type": "person",
+   "name": "William K. Hartmann",
+   "description": "Committee member, astronomer"
+  },
+  {
+   "key": "wertheimer",
+   "type": "person",
+   "name": "Michael Wertheimer",
+   "description": "Committee member, psychologist"
+  },
+  {
+   "key": "culbertson",
+   "type": "person",
+   "name": "Dan Culbertson",
+   "description": "Committee member, psychologist"
+  },
+  {
+   "key": "wadsworth",
+   "type": "person",
+   "name": "James Wadsworth",
+   "description": "Committee member, graduate student"
+  },
+  {
+   "key": "craig",
+   "type": "person",
+   "name": "Roy Craig",
+   "description": "Committee member, chemist"
+  },
+  {
+   "key": "levine",
+   "type": "person",
+   "name": "Norman Levine",
+   "description": "Committee member, electrical engineer"
+  },
+  {
+   "key": "ayer",
+   "type": "person",
+   "name": "Frederick Ayer",
+   "description": "Committee member, physicist"
+  },
+  {
+   "key": "keyhoe",
+   "type": "person",
+   "name": "Donald Keyhoe",
+   "description": "Retired USMC Major of NICAP who briefed the panel and later circulated the Low memo",
+   "aliases": [
+    "Major Donald Keyhoe",
+    "Keyhoe"
+   ]
+  },
+  {
+   "key": "hall",
+   "type": "person",
+   "name": "Richard H. Hall",
+   "description": "NICAP member who briefed the panel in November 1966"
+  },
+  {
+   "key": "kaplan",
+   "type": "person",
+   "name": "Joseph Kaplan",
+   "description": "Made a 1954 suggestion about diffraction-grating cameras for UFOs"
+  },
+  {
+   "key": "fuller",
+   "type": "person",
+   "name": "John G. Fuller",
+   "description": "Journalist, author of \"Flying Saucer Fiasco\" in Look",
+   "aliases": [
+    "Fuller"
+   ]
+  },
+  {
+   "key": "roush",
+   "type": "person",
+   "name": "J. Edward Roush",
+   "description": "Congressional Representative who questioned the project and held a hearing"
+  },
+  {
+   "key": "sullivan",
+   "type": "person",
+   "name": "Walter Sullivan",
+   "description": "New York Times science editor who wrote the introduction to the published Report"
+  },
+  {
+   "key": "clemence",
+   "type": "person",
+   "name": "Gerald M. Clemence",
+   "description": "Yale astronomer who chaired the National Academy of Sciences panel"
+  },
+  {
+   "key": "baker",
+   "type": "person",
+   "name": "Robert L. M. Baker, Jr.",
+   "description": "Wrote on the Report in Scientific Research, April 14, 1969"
+  },
+  {
+   "key": "rothberg",
+   "type": "person",
+   "name": "Gerald Rothberg",
+   "description": "Committee consultant who wrote in Physics Today, December 1969"
+  },
+  {
+   "key": "page",
+   "type": "person",
+   "name": "Thornton Page",
+   "description": "Astronomer and former Robertson Panel member who criticised the report",
+   "aliases": [
+    "Page"
+   ]
+  },
+  {
+   "key": "sturrock",
+   "type": "person",
+   "name": "Peter A. Sturrock",
+   "description": "Astrophysicist and principal critic of the Report",
+   "aliases": [
+    "Sturrock"
+   ]
+  },
+  {
+   "key": "gillmor",
+   "type": "person",
+   "name": "Daniel S. Gillmor",
+   "description": "Editor of the Final Report"
+  },
+  {
+   "key": "harkins",
+   "type": "person",
+   "name": "R. Roger Harkins",
+   "description": "Co-author of UFO's? Yes!"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1966",
+   "quote": "The Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United States Air Force from 1966 to 1968 at the University of Colorado to study unidentified flying objects under the direction of physicist Edward Condon."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1968",
+   "quote": "The Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United States Air Force from 1966 to 1968 at the University of Colorado to study unidentified flying objects under the direction of physicist Edward Condon."
+  },
+  {
+   "s": "case",
+   "p": "formal_name",
+   "v": "University of Colorado UFO Project",
+   "quote": "The Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United States Air Force from 1966 to 1968 at the University of Colorado to study unidentified flying objects under the direction of physicist Edward Condon."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "the U.S. Air Force conducted formal studies of UFOs, a subject of considerable public and some governmental interest"
+  },
+  {
+   "s": "case",
+   "p": "date_agreed",
+   "v": "1966-10-06",
+   "quote": "On October 6, 1966, the University of Colorado agreed to undertake the UFO study"
+  },
+  {
+   "s": "case",
+   "p": "funding",
+   "v": "$313,000 initially",
+   "quote": "Colorado's decision to accept the Air Force's offer of $313,000 for the project"
+  },
+  {
+   "s": "case",
+   "p": "funding",
+   "v": "later rose above $500,000",
+   "quote": "Total funding later rose above $500,000."
+  },
+  {
+   "s": "case",
+   "p": "staff_size",
+   "v": "over a dozen",
+   "quote": "an undertaking scheduled to last more than a year with a staff of over a dozen"
+  },
+  {
+   "s": "case",
+   "p": "files_examined",
+   "v": "hundreds of UFO files from Project Blue Book, NICAP and APRO",
+   "quote": "After examining hundreds of UFO files from the Air Force's Project Blue Book and from the civilian UFO groups"
+  },
+  {
+   "s": "case",
+   "p": "conclusion",
+   "v": "study of UFOs unlikely to yield major scientific discoveries",
+   "quote": "the Committee produced a Final Report that said the study of UFOs was unlikely to yield major scientific discoveries"
+  },
+  {
+   "s": "case",
+   "p": "reception",
+   "v": "mixed reception from scientists and academic journals",
+   "quote": "The report's conclusions received a mixed reception from scientists and academic journals."
+  },
+  {
+   "s": "case",
+   "p": "influence",
+   "v": "decisive factor in low academic interest in UFOs since",
+   "quote": "The report has been cited as a decisive factor in the generally low level of interest in UFO activity among academics since that time."
+  },
+  {
+   "s": "case",
+   "p": "public_response",
+   "v": "generally positive",
+   "quote": "Public response to the Committee's announcement was generally positive."
+  },
+  {
+   "s": "case",
+   "p": "working_problems",
+   "v": "moved slowly, hampered by disagreements about funds and methodology",
+   "quote": "The committee moved slowly, hampered by disagreements about the use of funds and methodology."
+  },
+  {
+   "s": "case",
+   "p": "working_problems",
+   "v": "staff lacked expertise",
+   "quote": "By hiring people with no prior position on UFOs, the committee staff lacked expertise and subject matter expertise."
+  },
+  {
+   "s": "case",
+   "p": "working_problems",
+   "v": "members usually worked without coordination",
+   "quote": "As they began their analyses, committee members usually worked without coordination with one another."
+  },
+  {
+   "s": "case",
+   "p": "proposed_method",
+   "v": "stereo cameras with diffraction gratings to study spectrum of light emitted by UFOs",
+   "quote": "One committee member suggested filming UFOs using stereo cameras mounted with diffraction gratings in order to study the spectrum of light emitted by UFOs."
+  },
+  {
+   "s": "case",
+   "p": "hypothesis_considered",
+   "v": "extraterrestrial hypothesis (ETH)",
+   "quote": "Individuals embraced diverse approaches, especially with respect to the extraterrestrial hypothesis (ETH)."
+  },
+  {
+   "s": "case",
+   "p": "report_delivered",
+   "v": "1968-11",
+   "quote": "The committee delivered its report to the Air Force in November 1968, which released it in January 1969."
+  },
+  {
+   "s": "case",
+   "p": "report_released",
+   "v": "1969-01",
+   "quote": "The committee delivered its report to the Air Force in November 1968, which released it in January 1969."
+  },
+  {
+   "s": "case",
+   "p": "background",
+   "v": "wave of UFO reports in 1965",
+   "quote": "Following a wave of UFO reports in 1965, astronomer and Blue Book consultant J. Allen Hynek wrote a letter"
+  },
+  {
+   "s": "case",
+   "p": "background",
+   "v": "Air Force sought one or more universities after 5 April 1966 Congressional hearing",
+   "quote": "Shortly after the hearing, the Air Force announced it was seeking one or more universities to undertake a study of UFOs."
+  },
+  {
+   "s": "case",
+   "p": "background",
+   "v": "no other government agency willing to take on UFO studies",
+   "quote": "UFOs had become so controversial that no other government agency was willing to take on further UFO studies."
+  },
+  {
+   "s": "case",
+   "p": "criticism",
+   "v": "case summaries inaccurate or misleading, enigmatic reports buried",
+   "quote": "Critics charged that Condon's case summaries were inaccurate or misleading with enigmatic reports \"buried\" among the confirmed cases."
+  },
+  {
+   "s": "f_off",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United States Air Force from 1966 to 1968 at the University of Colorado to study unidentified flying objects under the direction of physicist Edward Condon."
+  },
+  {
+   "s": "f_hear",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "He held a hearing dominated by critics of the project."
+  },
+  {
+   "s": "f_hear",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "At a Congressional UFO hearing on April 5, 1966, Air Force Secretary Harold Brown defended the Air Force's UFO studies"
+  },
+  {
+   "s": "f_cover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "were suggesting that Blue Book was conducting shoddy, unsupported research or perpetrating a cover up"
+  },
+  {
+   "s": "f_cover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "privately expressed fears that the Air Force would be controlling things from behind the scenes"
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United States Air Force from 1966 to 1968 at the University of Colorado to study unidentified flying objects under the direction of physicist Edward Condon."
+  },
+  {
+   "s": "usaf",
+   "p": "funded",
+   "o": "case",
+   "quote": "The Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United States Air Force from 1966 to 1968 at the University of Colorado to study unidentified flying objects under the direction of physicist Edward Condon."
+  },
+  {
+   "s": "usaf",
+   "p": "position",
+   "v": "did not want to continue UFO studies but feared cover-up charges",
+   "quote": "The Air Force did not want to continue its studies but did not want a cessation of studies to provoke additional cover-up charges."
+  },
+  {
+   "s": "usaf",
+   "p": "announcement",
+   "v": "selection of Condon and University of Colorado announced October 1966",
+   "quote": "The Air Force announced its selection of Condon and the University of Colorado in October 1966."
+  },
+  {
+   "s": "cu",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On October 6, 1966, the University of Colorado agreed to undertake the UFO study"
+  },
+  {
+   "s": "cu",
+   "p": "acceptance",
+   "v": "accepted by narrowest of margins, largely because difficult to say no to the Air Force",
+   "quote": "Low told the Denver Post that the project had met the university's acceptance threshold by the narrowest of margins and was accepted largely because it was difficult to say no to the Air Force."
+  },
+  {
+   "s": "nicap",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "from the civilian UFO groups National Investigations Committee On Aerial Phenomena (NICAP) and Aerial Phenomena Research Organization (APRO)"
+  },
+  {
+   "s": "nicap",
+   "p": "cooperation",
+   "v": "agreed to share research files and improve collection of UFO reports",
+   "quote": "They agreed to share NICAP's research files and to improve the collection of UFO reports."
+  },
+  {
+   "s": "nicap",
+   "p": "severed_ties",
+   "v": "1968-04-30",
+   "quote": "In response to the memo, on April 30, 1968, NICAP severed its ties with the committee and Keyhoe circulated copies of Low's memo."
+  },
+  {
+   "s": "nicap",
+   "p": "member_resignation",
+   "v": "one member resigned in protest after Condon lecture",
+   "quote": "One NICAP member resigned from NICAP in protest and Saunders confronted Condon"
+  },
+  {
+   "s": "apro",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The committee also secured help from APRO, another civilian UFO research group."
+  },
+  {
+   "s": "ewn",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Despite the withdrawal of NICAP from the project, members of its Early Warning Network continued to report sightings to the investigators, as did journalists."
+  },
+  {
+   "s": "ewn",
+   "p": "part_of",
+   "o": "nicap",
+   "quote": "Despite the withdrawal of NICAP from the project, members of its Early Warning Network continued to report sightings to the investigators, as did journalists."
+  },
+  {
+   "s": "afsab",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "wrote a letter to the Air Force Scientific Advisory Board (AFSAB) suggesting that a panel convene to re-examine Blue Book"
+  },
+  {
+   "s": "afsab",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "wrote a letter to the Air Force Scientific Advisory Board (AFSAB) suggesting that a panel convene to re-examine Blue Book"
+  },
+  {
+   "s": "obc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The AFSAB agreed and the committee it formed, chaired by Brian O'Brien, convened for one day in February, 1966, and suggested UFO studies could be undertaken \"in more detail and depth than had been possible to date\""
+  },
+  {
+   "s": "obc",
+   "p": "part_of",
+   "o": "afsab",
+   "quote": "The AFSAB agreed and the committee it formed, chaired by Brian O'Brien, convened for one day in February, 1966, and suggested UFO studies could be undertaken \"in more detail and depth than had been possible to date\""
+  },
+  {
+   "s": "obc",
+   "p": "date_convened",
+   "v": "1966-02",
+   "quote": "The AFSAB agreed and the committee it formed, chaired by Brian O'Brien, convened for one day in February, 1966, and suggested UFO studies could be undertaken \"in more detail and depth than had been possible to date\""
+  },
+  {
+   "s": "obc",
+   "p": "duration",
+   "v": "one day",
+   "quote": "The AFSAB agreed and the committee it formed, chaired by Brian O'Brien, convened for one day in February, 1966, and suggested UFO studies could be undertaken \"in more detail and depth than had been possible to date\""
+  },
+  {
+   "s": "obc",
+   "p": "recommendation",
+   "v": "USAF should work with a few selected universities to provide scientific teams",
+   "quote": "the U.S. Air Force should work \"with a few selected universities to provide scientific teams\" to study UFOs"
+  },
+  {
+   "s": "obc",
+   "p": "recommendation",
+   "v": "about 100 well-documented sightings studied annually, about 10 man-days each",
+   "quote": "The committee suggested that about 100 well-documented UFO sightings should be studied annually, with about 10 man-days devoted to each case."
+  },
+  {
+   "s": "nw",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Both Hynek and James E. McDonald suggested their own campuses, Northwestern University and the University of Arizona, and others suggested astronomer Donald Menzel."
+  },
+  {
+   "s": "ua",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Both Hynek and James E. McDonald suggested their own campuses, Northwestern University and the University of Arizona, and others suggested astronomer Donald Menzel."
+  },
+  {
+   "s": "harvard",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Several universities declined to participate, including Harvard University, the University of California, Berkeley, the Massachusetts Institute of Technology and the University of North Carolina at Chapel Hill."
+  },
+  {
+   "s": "harvard",
+   "p": "declined_to_participate",
+   "v": "yes",
+   "quote": "Several universities declined to participate, including Harvard University, the University of California, Berkeley, the Massachusetts Institute of Technology and the University of North Carolina at Chapel Hill."
+  },
+  {
+   "s": "ucb",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Several universities declined to participate, including Harvard University, the University of California, Berkeley, the Massachusetts Institute of Technology and the University of North Carolina at Chapel Hill."
+  },
+  {
+   "s": "ucb",
+   "p": "declined_to_participate",
+   "v": "yes",
+   "quote": "Several universities declined to participate, including Harvard University, the University of California, Berkeley, the Massachusetts Institute of Technology and the University of North Carolina at Chapel Hill."
+  },
+  {
+   "s": "mit",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Several universities declined to participate, including Harvard University, the University of California, Berkeley, the Massachusetts Institute of Technology and the University of North Carolina at Chapel Hill."
+  },
+  {
+   "s": "mit",
+   "p": "declined_to_participate",
+   "v": "yes",
+   "quote": "Several universities declined to participate, including Harvard University, the University of California, Berkeley, the Massachusetts Institute of Technology and the University of North Carolina at Chapel Hill."
+  },
+  {
+   "s": "unc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Several universities declined to participate, including Harvard University, the University of California, Berkeley, the Massachusetts Institute of Technology and the University of North Carolina at Chapel Hill."
+  },
+  {
+   "s": "unc",
+   "p": "declined_to_participate",
+   "v": "yes",
+   "quote": "Several universities declined to participate, including Harvard University, the University of California, Berkeley, the Massachusetts Institute of Technology and the University of North Carolina at Chapel Hill."
+  },
+  {
+   "s": "ncar",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Walter Orr Roberts, director of the National Center for Atmospheric Research, and Menzel suggested physicist Edward Condon of the University of Colorado."
+  },
+  {
+   "s": "huac",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Condon's tenacious encounters with the House Unamerican Activities Committee and other government Loyalty Boards in the 1940s and 1950s made him \"almost legendary\" among fellow scientists."
+  },
+  {
+   "s": "dpost",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Low told the Denver Post that the project had met the university's acceptance threshold by the narrowest of margins"
+  },
+  {
+   "s": "nation",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "When the project was announced, The Nation, commented: \"If Dr. Condon and his associates come up with anything less than the little green men from Mars, they will be crucified.\""
+  },
+  {
+   "s": "nation",
+   "p": "statement",
+   "v": "If Dr. Condon and his associates come up with anything less than the little green men from Mars, they will be crucified.",
+   "quote": "When the project was announced, The Nation, commented: \"If Dr. Condon and his associates come up with anything less than the little green men from Mars, they will be crucified.\""
+  },
+  {
+   "s": "look",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Press coverage included an article, \"Flying Saucer Fiasco\" by John G. Fuller in the May 1968 issue of Look, that presented interviews with Saunders and Levine, and detailed the controversy and described the project as a \"$500,000 trick.\""
+  },
+  {
+   "s": "indres",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Industrial Research reprinted Low's memo, while Scientific Research interviewed Saunders and Levine, who reported that they were considering a libel suit against Condon for terminating them for alleged \"incompetence.\""
+  },
+  {
+   "s": "scires",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Industrial Research reprinted Low's memo, while Scientific Research interviewed Saunders and Levine, who reported that they were considering a libel suit against Condon for terminating them for alleged \"incompetence.\""
+  },
+  {
+   "s": "aaas",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "When the American Association for the Advancement of Science covered the committee controversy in an issue of its official journal Science, Condon first promised to grant an interview, but then declined."
+  },
+  {
+   "s": "science",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "When the American Association for the Advancement of Science covered the committee controversy in an issue of its official journal Science, Condon first promised to grant an interview, but then declined."
+  },
+  {
+   "s": "science",
+   "p": "part_of",
+   "o": "aaas",
+   "quote": "Science, the official publication of the American Association for the Advancement of Science, said \"The Colorado Study is unquestionably the most thorough and sophisticated investigation of the nebulous UFO phenomenon ever conducted.\""
+  },
+  {
+   "s": "science",
+   "p": "statement",
+   "v": "The Colorado Study is unquestionably the most thorough and sophisticated investigation of the nebulous UFO phenomenon ever conducted.",
+   "quote": "Science, the official publication of the American Association for the Advancement of Science, said \"The Colorado Study is unquestionably the most thorough and sophisticated investigation of the nebulous UFO phenomenon ever conducted.\""
+  },
+  {
+   "s": "gao",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "He asked the General Accounting Office to investigate the study, which the GAO declined to do."
+  },
+  {
+   "s": "gao",
+   "p": "declined_to_investigate",
+   "v": "yes",
+   "quote": "He asked the General Accounting Office to investigate the study, which the GAO declined to do."
+  },
+  {
+   "s": "cia",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Called UFO's? Yes! and written by Saunders, it questioned whether the CIA wanted to divert public attention from UFOs."
+  },
+  {
+   "s": "nyt",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On January 8, 1969, the New York Times headlined its coverage: \"U.F.O. Finding: No Visits From Afar.\""
+  },
+  {
+   "s": "nyt",
+   "p": "headline",
+   "v": "U.F.O. Finding: No Visits From Afar (8 January 1969)",
+   "quote": "On January 8, 1969, the New York Times headlined its coverage: \"U.F.O. Finding: No Visits From Afar.\""
+  },
+  {
+   "s": "nyt",
+   "p": "statement",
+   "v": "final report has uncovered no evidence that they are intelligently guided spacecraft from beyond the earth",
+   "quote": "The article said the project's final report on U.F.O.s \"has uncovered no evidence that they are intelligently guided spacecraft from beyond the earth.\""
+  },
+  {
+   "s": "nas",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Even before its completion, the Air Force had asked the National Academy of Sciences to \"provide an independent assessment of the scope, the methodology, and the findings\" of the committee."
+  },
+  {
+   "s": "naspanel",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "A panel chaired by Yale astronomer Gerald M. Clemence studied the Report for six weeks and concluded that \"on the basis of present knowledge the least likely explanation of UFOs is the hypothesis of extraterrestrial visitations by intelligent beings\""
+  },
+  {
+   "s": "naspanel",
+   "p": "part_of",
+   "o": "nas",
+   "quote": "A panel chaired by Yale astronomer Gerald M. Clemence studied the Report for six weeks and concluded that \"on the basis of present knowledge the least likely explanation of UFOs is the hypothesis of extraterrestrial visitations by intelligent beings\""
+  },
+  {
+   "s": "naspanel",
+   "p": "review_duration",
+   "v": "six weeks",
+   "quote": "A panel chaired by Yale astronomer Gerald M. Clemence studied the Report for six weeks and concluded that \"on the basis of present knowledge the least likely explanation of UFOs is the hypothesis of extraterrestrial visitations by intelligent beings\""
+  },
+  {
+   "s": "naspanel",
+   "p": "conclusion",
+   "v": "least likely explanation of UFOs is extraterrestrial visitations by intelligent beings",
+   "quote": "A panel chaired by Yale astronomer Gerald M. Clemence studied the Report for six weeks and concluded that \"on the basis of present knowledge the least likely explanation of UFOs is the hypothesis of extraterrestrial visitations by intelligent beings\""
+  },
+  {
+   "s": "naspanel",
+   "p": "conclusion",
+   "v": "no high priority in UFO investigations is warranted",
+   "quote": "\"no high priority in UFO investigations is warranted by data of the past two decades.\""
+  },
+  {
+   "s": "yale",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "A panel chaired by Yale astronomer Gerald M. Clemence studied the Report for six weeks and concluded that \"on the basis of present knowledge the least likely explanation of UFOs is the hypothesis of extraterrestrial visitations by intelligent beings\""
+  },
+  {
+   "s": "nature",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The March 8, 1969 issue of Nature offered a generally positive review for the Condon Report, but wondered why so much effort had been expended on such a subject"
+  },
+  {
+   "s": "nature",
+   "p": "review_date",
+   "v": "1969-03-08",
+   "quote": "The March 8, 1969 issue of Nature offered a generally positive review for the Condon Report, but wondered why so much effort had been expended on such a subject"
+  },
+  {
+   "s": "nature",
+   "p": "statement",
+   "v": "a monumental achievement, but one of perhaps misapplied ingenuity",
+   "quote": "\"The Colorado project is a monumental achievement, but one of perhaps misapplied ingenuity."
+  },
+  {
+   "s": "nature",
+   "p": "statement",
+   "v": "like taking a sledgehammer to crack a nut",
+   "quote": "it is more like taking a sledgehammer to crack a nut, except that the nuts will be quite immune to its impact.\""
+  },
+  {
+   "s": "phystoday",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In the December 1969 issue of Physics Today, committee consultant Gerald Rothberg wrote that he had thoroughly investigated about 100 UFO cases, three or four of which left him puzzled."
+  },
+  {
+   "s": "ajp",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In a 1969 issue of the American Journal of Physics, astronomer Thornton Page (who thought the phenomenon had a sociological basis) wrote of the report"
+  },
+  {
+   "s": "aiaa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In November 1970, the American Institute of Aeronautics and Astronautics generally agreed with Condon's suggestion that little of value had been uncovered by scientific UFO studies"
+  },
+  {
+   "s": "aiaa",
+   "p": "assessment_date",
+   "v": "1970-11",
+   "quote": "In November 1970, the American Institute of Aeronautics and Astronautics generally agreed with Condon's suggestion that little of value had been uncovered by scientific UFO studies"
+  },
+  {
+   "s": "aiaa",
+   "p": "statement",
+   "v": "did not find a basis in the report for Condon's prediction that nothing of scientific value will come of further studies",
+   "quote": "\"did not find a basis in the report for [Condon's] prediction that nothing of scientific value will come of further studies.\""
+  },
+  {
+   "s": "usmc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In November 1966, retired USMC Major Donald Keyhoe and Richard H. Hall, both of NICAP, briefed the panel."
+  },
+  {
+   "s": "congress",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "At a Congressional UFO hearing on April 5, 1966, Air Force Secretary Harold Brown defended the Air Force's UFO studies and repeated the O'Brien Committee's call for more studies."
+  },
+  {
+   "s": "bluebook",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "After examining hundreds of UFO files from the Air Force's Project Blue Book"
+  },
+  {
+   "s": "bluebook",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "Beginning in 1947 with Project Sign, which then became Project Grudge and finally Project Blue Book, the U.S. Air Force conducted formal studies of UFOs"
+  },
+  {
+   "s": "bluebook",
+   "p": "criticism",
+   "v": "increasing criticism in the 1960s",
+   "quote": "Blue Book had come under increasing criticism in the 1960s."
+  },
+  {
+   "s": "bluebook",
+   "p": "criticism",
+   "v": "accused of shoddy, unsupported research or a cover up",
+   "quote": "were suggesting that Blue Book was conducting shoddy, unsupported research or perpetrating a cover up"
+  },
+  {
+   "s": "bluebook",
+   "p": "established",
+   "v": "1952-03",
+   "quote": "In response to the Report's findings, the Air Force closed Project Blue Book, established in March 1952, on December 17, 1969."
+  },
+  {
+   "s": "bluebook",
+   "p": "closed",
+   "v": "1969-12-17",
+   "quote": "In response to the Report's findings, the Air Force closed Project Blue Book, established in March 1952, on December 17, 1969."
+  },
+  {
+   "s": "sign",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Beginning in 1947 with Project Sign, which then became Project Grudge and finally Project Blue Book, the U.S. Air Force conducted formal studies of UFOs"
+  },
+  {
+   "s": "sign",
+   "p": "date_start",
+   "v": "1947",
+   "quote": "Beginning in 1947 with Project Sign, which then became Project Grudge and finally Project Blue Book, the U.S. Air Force conducted formal studies of UFOs"
+  },
+  {
+   "s": "sign",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "Beginning in 1947 with Project Sign, which then became Project Grudge and finally Project Blue Book, the U.S. Air Force conducted formal studies of UFOs"
+  },
+  {
+   "s": "grudge",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Beginning in 1947 with Project Sign, which then became Project Grudge and finally Project Blue Book, the U.S. Air Force conducted formal studies of UFOs"
+  },
+  {
+   "s": "grudge",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "Beginning in 1947 with Project Sign, which then became Project Grudge and finally Project Blue Book, the U.S. Air Force conducted formal studies of UFOs"
+  },
+  {
+   "s": "robertson",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Page had been a member of the Robertson Panel which suggested UFOs should be debunked to reduce public interest."
+  },
+  {
+   "s": "robertson",
+   "p": "recommendation",
+   "v": "UFOs should be debunked to reduce public interest",
+   "quote": "Page had been a member of the Robertson Panel which suggested UFOs should be debunked to reduce public interest."
+  },
+  {
+   "s": "laken",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Notably in Case 2 in Section IV, Chapter 2 the report said of the 1956 Lakenheath-Bentwaters incident: \"In conclusion, although conventional or natural explanations certainly cannot be ruled out, the probability of such seems low in this case and the probability that at least one genuine UFO was involved appears to be fairly high.\""
+  },
+  {
+   "s": "laken",
+   "p": "date_start",
+   "v": "1956",
+   "quote": "Notably in Case 2 in Section IV, Chapter 2 the report said of the 1956 Lakenheath-Bentwaters incident: \"In conclusion, although conventional or natural explanations certainly cannot be ruled out, the probability of such seems low in this case and the probability that at least one genuine UFO was involved appears to be fairly high.\""
+  },
+  {
+   "s": "laken",
+   "p": "condon_report_case_number",
+   "v": "Case 2 in Section IV, Chapter 2",
+   "quote": "Notably in Case 2 in Section IV, Chapter 2 the report said of the 1956 Lakenheath-Bentwaters incident: \"In conclusion, although conventional or natural explanations certainly cannot be ruled out, the probability of such seems low in this case and the probability that at least one genuine UFO was involved appears to be fairly high.\""
+  },
+  {
+   "s": "laken",
+   "p": "condon_report_conclusion",
+   "v": "probability that at least one genuine UFO was involved appears to be fairly high",
+   "quote": "Notably in Case 2 in Section IV, Chapter 2 the report said of the 1956 Lakenheath-Bentwaters incident: \"In conclusion, although conventional or natural explanations certainly cannot be ruled out, the probability of such seems low in this case and the probability that at least one genuine UFO was involved appears to be fairly high.\""
+  },
+  {
+   "s": "magnet",
+   "p": "related_program",
+   "o": "case",
+   "quote": "Project Magnet (Canada), 1950–54"
+  },
+  {
+   "s": "magnet",
+   "p": "country",
+   "v": "Canada",
+   "quote": "Project Magnet (Canada), 1950–54"
+  },
+  {
+   "s": "magnet",
+   "p": "years",
+   "v": "1950-54",
+   "quote": "Project Magnet (Canada), 1950–54"
+  },
+  {
+   "s": "report",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The result of its work, formally titled Scientific Study of Unidentified Flying Objects, and known as the Condon Report, appeared in 1968."
+  },
+  {
+   "s": "report",
+   "p": "formal_title",
+   "v": "Scientific Study of Unidentified Flying Objects",
+   "quote": "The result of its work, formally titled Scientific Study of Unidentified Flying Objects, and known as the Condon Report, appeared in 1968."
+  },
+  {
+   "s": "report",
+   "p": "year",
+   "v": "1968",
+   "quote": "The result of its work, formally titled Scientific Study of Unidentified Flying Objects, and known as the Condon Report, appeared in 1968."
+  },
+  {
+   "s": "report",
+   "p": "length",
+   "v": "1,485 pages hardcover; 965 pages paperback",
+   "quote": "The Report, 1,485 pages in hardcover and 965 pages in paperback, divided UFO cases into five categories: old UFO reports from before the committee convened, new reports, photographic cases, radar/visual cases, and UFOs reported by astronauts."
+  },
+  {
+   "s": "report",
+   "p": "case_categories",
+   "v": "old UFO reports, new reports, photographic cases, radar/visual cases, UFOs reported by astronauts",
+   "quote": "The Report, 1,485 pages in hardcover and 965 pages in paperback, divided UFO cases into five categories: old UFO reports from before the committee convened, new reports, photographic cases, radar/visual cases, and UFOs reported by astronauts."
+  },
+  {
+   "s": "report",
+   "p": "case_study_count",
+   "v": "59",
+   "quote": "The Report detailed 59 case studies, though for legal reasons their locations were changed."
+  },
+  {
+   "s": "report",
+   "p": "locations_changed",
+   "v": "for legal reasons",
+   "quote": "The Report detailed 59 case studies, though for legal reasons their locations were changed."
+  },
+  {
+   "s": "report",
+   "p": "contents",
+   "v": "six chapters on field studies of physical evidence such as electromagnetic effects, visual and radar images",
+   "quote": "Six chapters covered field studies of such physical evidence as electromagnetic effects, and visual and radar images."
+  },
+  {
+   "s": "report",
+   "p": "contents",
+   "v": "one chapter on observations of U.S. astronauts",
+   "quote": "One treated the observations of U.S. astronauts."
+  },
+  {
+   "s": "report",
+   "p": "conclusion",
+   "v": "nothing from 21 years of UFO study has added to scientific knowledge",
+   "quote": "\"Our general conclusion is that nothing has come from the study of UFOs in the past 21 years that has added to scientific knowledge."
+  },
+  {
+   "s": "report",
+   "p": "conclusion",
+   "v": "further extensive study of UFOs probably cannot be justified",
+   "quote": "leads us to conclude that further extensive study of UFOs probably cannot be justified in the expectation that science will be advanced thereby.\""
+  },
+  {
+   "s": "report",
+   "p": "recommendation",
+   "v": "against creation of a government program to investigate UFO reports",
+   "quote": "He also recommended against the creation of a government program to investigate UFO reports."
+  },
+  {
+   "s": "report",
+   "p": "noted_gaps",
+   "v": "atmospheric optics, radio wave propagation, atmospheric electricity",
+   "quote": "the Report noted that there were gaps in scientific knowledge in the fields of \"atmospheric optics, including radio wave propagation, and of atmospheric electricity\""
+  },
+  {
+   "s": "report",
+   "p": "media_reception",
+   "v": "almost universal praise from the news media",
+   "quote": "The Report earned a mixed reception from scientists and academic journals, while receiving \"almost universal praise from the news media\"."
+  },
+  {
+   "s": "report",
+   "p": "criticism",
+   "v": "a rather unorganized compilation of independent articles on disparate subjects, a minority of which dealt with UFOs",
+   "quote": "One described the Report as \"a rather unorganized compilation of independent articles on disparate subjects, a minority of which dealt with UFOs.\""
+  },
+  {
+   "s": "report",
+   "p": "publication",
+   "v": "paperback edition, Bantam Books, 1968",
+   "quote": "paperback edition, Bantam Books, 1968"
+  },
+  {
+   "s": "report",
+   "p": "unexplained_fraction",
+   "v": "more than a quarter of cases examined, per Hynek",
+   "quote": "the committee had been unable to furnish adequate explanations for more than a quarter of the cases examined.\""
+  },
+  {
+   "s": "memo",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In July 1967, James E. McDonald, a confirmed believer in the validity of UFO sightings, learned from a committee member about a memo Low had written on August 9, 1966, in which he reassured two University of Colorado administrators that they could expect the study to demonstrate that UFO observations had no basis in reality."
+  },
+  {
+   "s": "memo",
+   "p": "date",
+   "v": "1966-08-09",
+   "quote": "In July 1967, James E. McDonald, a confirmed believer in the validity of UFO sightings, learned from a committee member about a memo Low had written on August 9, 1966, in which he reassured two University of Colorado administrators that they could expect the study to demonstrate that UFO observations had no basis in reality."
+  },
+  {
+   "s": "memo",
+   "p": "recipients",
+   "v": "two University of Colorado administrators",
+   "quote": "In July 1967, James E. McDonald, a confirmed believer in the validity of UFO sightings, learned from a committee member about a memo Low had written on August 9, 1966, in which he reassured two University of Colorado administrators that they could expect the study to demonstrate that UFO observations had no basis in reality."
+  },
+  {
+   "s": "memo",
+   "p": "text",
+   "v": "study would be conducted almost entirely by non-believers who could add an impressive body of evidence that there is no reality to the observations",
+   "quote": "\"Our study would be conducted almost entirely by non-believers who, though they couldn't possibly prove a negative result, could and probably would add an impressive body of thick evidence that there is no reality to the observations."
+  },
+  {
+   "s": "memo",
+   "p": "text",
+   "v": "The trick would be to describe the project so that to the public it would appear a totally objective study",
+   "quote": "The trick would be, I think, to describe the project so that, to the public, it would appear a totally objective study but, to the scientific community, would present the image of a group of non-believers trying their best to be objective but having an almost zero expectation of finding a saucer.\""
+  },
+  {
+   "s": "memo",
+   "p": "found_in",
+   "v": "project's open files",
+   "quote": "McDonald, after locating a copy of the memo in the project's open files, wrote to Condon, quoting a few lines from it."
+  },
+  {
+   "s": "memo",
+   "p": "later_assessment",
+   "v": "some later critics saw little reason to make much of it",
+   "quote": "Some later critics of the committee's work saw little reason to make much of the trick memo."
+  },
+  {
+   "s": "hletter",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Following a wave of UFO reports in 1965, astronomer and Blue Book consultant J. Allen Hynek wrote a letter to the Air Force Scientific Advisory Board (AFSAB) suggesting that a panel convene to re-examine Blue Book."
+  },
+  {
+   "s": "fiasco",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Press coverage included an article, \"Flying Saucer Fiasco\" by John G. Fuller in the May 1968 issue of Look, that presented interviews with Saunders and Levine, and detailed the controversy and described the project as a \"$500,000 trick.\""
+  },
+  {
+   "s": "fiasco",
+   "p": "date",
+   "v": "1968-05",
+   "quote": "Press coverage included an article, \"Flying Saucer Fiasco\" by John G. Fuller in the May 1968 issue of Look, that presented interviews with Saunders and Levine, and detailed the controversy and described the project as a \"$500,000 trick.\""
+  },
+  {
+   "s": "fiasco",
+   "p": "description_of_project",
+   "v": "$500,000 trick",
+   "quote": "Press coverage included an article, \"Flying Saucer Fiasco\" by John G. Fuller in the May 1968 issue of Look, that presented interviews with Saunders and Levine, and detailed the controversy and described the project as a \"$500,000 trick.\""
+  },
+  {
+   "s": "look",
+   "p": "published",
+   "o": "fiasco",
+   "quote": "Press coverage included an article, \"Flying Saucer Fiasco\" by John G. Fuller in the May 1968 issue of Look, that presented interviews with Saunders and Levine, and detailed the controversy and described the project as a \"$500,000 trick.\""
+  },
+  {
+   "s": "ufoyes",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "David R. Saunders and R. Roger Harkins, UFO's? Yes! Where the Condon Committee Went Wrong, World Publishing, 1968"
+  },
+  {
+   "s": "ufoyes",
+   "p": "year",
+   "v": "1968",
+   "quote": "David R. Saunders and R. Roger Harkins, UFO's? Yes! Where the Condon Committee Went Wrong, World Publishing, 1968"
+  },
+  {
+   "s": "ufoyes",
+   "p": "content",
+   "v": "questioned whether the CIA wanted to divert public attention from UFOs",
+   "quote": "Called UFO's? Yes! and written by Saunders, it questioned whether the CIA wanted to divert public attention from UFOs."
+  },
+  {
+   "s": "ufoyes",
+   "p": "content",
+   "v": "used three cases to make the case for extraterrestrial activity",
+   "quote": "It used three cases to make the case for extraterrestrial activity."
+  },
+  {
+   "s": "ufoyes",
+   "p": "timing",
+   "v": "rushed into print in advance of the committee's Final Report",
+   "quote": "rushed their own refutation into print in advance of the committee's Final Report"
+  },
+  {
+   "s": "craigbook",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Roy Craig, UFOs: An Insider's View of the Official Quest for Evidence (University of North Texas Press, 1995)"
+  },
+  {
+   "s": "craigbook",
+   "p": "year",
+   "v": "1995",
+   "quote": "Roy Craig, UFOs: An Insider's View of the Official Quest for Evidence (University of North Texas Press, 1995)"
+  },
+  {
+   "s": "hynekbook",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "J. Allen Hynek, The UFO Experience: A Scientific Inquiry, Ballantine Books, 1972"
+  },
+  {
+   "s": "hynekbook",
+   "p": "year",
+   "v": "1972",
+   "quote": "J. Allen Hynek, The UFO Experience: A Scientific Inquiry, Ballantine Books, 1972"
+  },
+  {
+   "s": "sturbook",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Peter A. Sturrock, The UFO Enigma: A New Review of the Physical Evidence, Warner Books, 1999"
+  },
+  {
+   "s": "sturbook",
+   "p": "year",
+   "v": "1999",
+   "quote": "Peter A. Sturrock, The UFO Enigma: A New Review of the Physical Evidence, Warner Books, 1999"
+  },
+  {
+   "s": "condon",
+   "p": "investigator",
+   "o": "case",
+   "quote": "The Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United States Air Force from 1966 to 1968 at the University of Colorado to study unidentified flying objects under the direction of physicist Edward Condon."
+  },
+  {
+   "s": "condon",
+   "p": "occupation",
+   "v": "physicist",
+   "quote": "The Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United States Air Force from 1966 to 1968 at the University of Colorado to study unidentified flying objects under the direction of physicist Edward Condon."
+  },
+  {
+   "s": "condon",
+   "p": "role",
+   "v": "director",
+   "quote": "with Condon as director, Low as coordinator"
+  },
+  {
+   "s": "condon",
+   "p": "role",
+   "v": "Scientific Director",
+   "quote": "Edward U. Condon, Scientific Director, Daniel S. Gillmor, Editor"
+  },
+  {
+   "s": "condon",
+   "p": "employed_by",
+   "o": "cu",
+   "quote": "Walter Orr Roberts, director of the National Center for Atmospheric Research, and Menzel suggested physicist Edward Condon of the University of Colorado."
+  },
+  {
+   "s": "condon",
+   "p": "authored",
+   "o": "report",
+   "quote": "Final Report of the Scientific Study of Unidentified Flying Objects, Edward U. Condon, Scientific Director"
+  },
+  {
+   "s": "condon",
+   "p": "agreed_to_consider",
+   "v": "summer of 1966",
+   "quote": "In the summer of 1966, Condon agreed to consider the Air Force's offer."
+  },
+  {
+   "s": "condon",
+   "p": "reputation",
+   "v": "among the best known and most distinguished scientists of his time",
+   "quote": "He was among the best known and most distinguished scientists of his time."
+  },
+  {
+   "s": "condon",
+   "p": "reputation",
+   "v": "almost legendary among fellow scientists",
+   "quote": "Condon's tenacious encounters with the House Unamerican Activities Committee and other government Loyalty Boards in the 1940s and 1950s made him \"almost legendary\" among fellow scientists."
+  },
+  {
+   "s": "condon",
+   "p": "statement",
+   "v": "$313,000 a rather modest budget",
+   "quote": "Condon dismissed this suggestion, noting that $313,000 was a rather modest budget"
+  },
+  {
+   "s": "condon",
+   "p": "statement",
+   "v": "government should not study UFOs because the subject was nonsense; 'but I'm not supposed to reach that conclusion for another year' (lecture, late January 1967)",
+   "quote": "In late January 1967, Condon stated in a lecture that he thought the government should not study UFOs because the subject was 'nonsense', adding, \"but I'm not supposed to reach that conclusion for another year.\""
+  },
+  {
+   "s": "condon",
+   "p": "statement",
+   "v": "Look article contained falsehoods and misrepresentations",
+   "quote": "Condon responded that the article contained \"falsehoods and misrepresentations.\""
+  },
+  {
+   "s": "condon",
+   "p": "statement",
+   "v": "calling his methods unscientific was itself libelous; threatened to sue Saunders and Levine",
+   "quote": "Condon said that calling his methods \"unscientific\" was itself libelous, and in turn threatened to sue Saunders and Levine."
+  },
+  {
+   "s": "condon",
+   "p": "resigned_from_aaas",
+   "v": "in protest when Science article published without his input",
+   "quote": "He resigned from the AAAS in protest when the article was published without his input."
+  },
+  {
+   "s": "condon",
+   "p": "member_of",
+   "o": "aaas",
+   "quote": "He resigned from the AAAS in protest when the article was published without his input."
+  },
+  {
+   "s": "condon",
+   "p": "report_contribution",
+   "v": "6 pages of conclusions and recommendations, 43-page summary, 50-page history",
+   "quote": "Condon authored 6 pages of \"conclusions and recommendations,\" a 43-page \"summary,\" and a 50-page history of UFO phenomena and research over the preceding twenty years."
+  },
+  {
+   "s": "condon",
+   "p": "statement",
+   "v": "recommendation against further research 'may not be true for all time'",
+   "quote": "that each scientist must evaluate the record for himself, and that the Report's recommendation against further research \"may not be true for all time.\""
+  },
+  {
+   "s": "condon",
+   "p": "statement",
+   "v": "agencies and foundations ought to consider UFO research proposals on an open-minded, unprejudiced basis",
+   "quote": "He advised that government agencies and private foundations \"ought to be willing to consider UFO research proposals...on an open-minded, unprejudiced basis....[E]ach individual case ought to be carefully considered on its own merits.\""
+  },
+  {
+   "s": "condon",
+   "p": "statement",
+   "v": "memo showed how completely Low misunderstood the project",
+   "quote": "showed how completely Low misunderstood the project when he wrote the memo"
+  },
+  {
+   "s": "condon",
+   "p": "knowledge_of_memo",
+   "v": "had not known of the Low memo for eighteen months",
+   "quote": "Condon had not known of the Low memo for eighteen months and it did not reflect his views"
+  },
+  {
+   "s": "condon",
+   "p": "terminated",
+   "v": "Saunders and Levine, for alleged incompetence",
+   "quote": "Industrial Research reprinted Low's memo, while Scientific Research interviewed Saunders and Levine, who reported that they were considering a libel suit against Condon for terminating them for alleged \"incompetence.\""
+  },
+  {
+   "s": "hynek",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Following a wave of UFO reports in 1965, astronomer and Blue Book consultant J. Allen Hynek wrote a letter to the Air Force Scientific Advisory Board (AFSAB) suggesting that a panel convene to re-examine Blue Book."
+  },
+  {
+   "s": "hynek",
+   "p": "occupation",
+   "v": "astronomer",
+   "quote": "Following a wave of UFO reports in 1965, astronomer and Blue Book consultant J. Allen Hynek wrote a letter to the Air Force Scientific Advisory Board (AFSAB) suggesting that a panel convene to re-examine Blue Book."
+  },
+  {
+   "s": "hynek",
+   "p": "member_of",
+   "o": "bluebook",
+   "quote": "Following a wave of UFO reports in 1965, astronomer and Blue Book consultant J. Allen Hynek wrote a letter to the Air Force Scientific Advisory Board (AFSAB) suggesting that a panel convene to re-examine Blue Book."
+  },
+  {
+   "s": "hynek",
+   "p": "authored",
+   "o": "hletter",
+   "quote": "Following a wave of UFO reports in 1965, astronomer and Blue Book consultant J. Allen Hynek wrote a letter to the Air Force Scientific Advisory Board (AFSAB) suggesting that a panel convene to re-examine Blue Book."
+  },
+  {
+   "s": "hynek",
+   "p": "employed_by",
+   "o": "nw",
+   "quote": "Both Hynek and James E. McDonald suggested their own campuses, Northwestern University and the University of Arizona, and others suggested astronomer Donald Menzel."
+  },
+  {
+   "s": "hynek",
+   "p": "authored",
+   "o": "hynekbook",
+   "quote": "J. Allen Hynek, The UFO Experience: A Scientific Inquiry, Ballantine Books, 1972"
+  },
+  {
+   "s": "hynek",
+   "p": "association",
+   "v": "long association with the Air Force",
+   "quote": "Hynek had a long association with the Air Force, McDonald was pro-UFO and Menzel anti-UFO."
+  },
+  {
+   "s": "hynek",
+   "p": "statement",
+   "v": "called for a civilian panel of physical and social scientists to examine the UFO problem",
+   "quote": "Hynek repeated his call for \"a civilian panel of physical and social scientists\" to \"examine the UFO problem critically for the express purpose of determining whether a major problem exists.\""
+  },
+  {
+   "s": "hynek",
+   "p": "statement",
+   "v": "Condon's perspective towards UFOs was basically negative",
+   "quote": "Hynek characterized Condon's perspective towards UFOs as \"basically negative\", but he also assumed that Condon's opinions would change"
+  },
+  {
+   "s": "hynek",
+   "p": "statement",
+   "v": "Low wanted his university to get the contract",
+   "quote": "Hynek wrote that Low \"wanted his university to get the contract...and to convince the university administration that they should take it.\""
+  },
+  {
+   "s": "hynek",
+   "p": "statement",
+   "v": "Report voluminous, rambling, poorly organized; less than half addressed UFO reports",
+   "quote": "Hynek described the Report as \"a voluminous, rambling, poorly organized\" and wrote that \"less than half...was addressed to the investigation of UFO reports.\""
+  },
+  {
+   "s": "hynek",
+   "p": "statement",
+   "v": "The Condon Report settled nothing.",
+   "quote": "Astronomer J. Allen Hynek wrote that \"The Condon Report settled nothing.\""
+  },
+  {
+   "s": "hynek",
+   "p": "statement",
+   "v": "Condon's introduction singularly slanted",
+   "quote": "He called Condon's introduction \"singularly slanted\""
+  },
+  {
+   "s": "hynek",
+   "p": "statement",
+   "v": "Condon did not understand the nature and scope of the problem",
+   "quote": "Hynek contended that \"Condon did not understand the nature and scope of the problem\" he was studying and objected to the idea that only extraterrestrial life could explain UFO activity."
+  },
+  {
+   "s": "hynek",
+   "p": "statement",
+   "v": "Report did not try to establish whether UFOs constituted a problem for the scientist",
+   "quote": "the Report \"did not try to establish whether UFOs really constituted a problem for the scientist, whether physical or social.\""
+  },
+  {
+   "s": "hynek",
+   "p": "disputed",
+   "o": "report",
+   "quote": "Astronomer J. Allen Hynek wrote that \"The Condon Report settled nothing.\""
+  },
+  {
+   "s": "obrien",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "The AFSAB agreed and the committee it formed, chaired by Brian O'Brien, convened for one day in February, 1966, and suggested UFO studies could be undertaken \"in more detail and depth than had been possible to date\""
+  },
+  {
+   "s": "obrien",
+   "p": "commanded",
+   "o": "obc",
+   "quote": "The AFSAB agreed and the committee it formed, chaired by Brian O'Brien, convened for one day in February, 1966, and suggested UFO studies could be undertaken \"in more detail and depth than had been possible to date\""
+  },
+  {
+   "s": "brown",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "At a Congressional UFO hearing on April 5, 1966, Air Force Secretary Harold Brown defended the Air Force's UFO studies and repeated the O'Brien Committee's call for more studies."
+  },
+  {
+   "s": "brown",
+   "p": "occupation",
+   "v": "Air Force Secretary",
+   "quote": "At a Congressional UFO hearing on April 5, 1966, Air Force Secretary Harold Brown defended the Air Force's UFO studies and repeated the O'Brien Committee's call for more studies."
+  },
+  {
+   "s": "brown",
+   "p": "employed_by",
+   "o": "usaf",
+   "quote": "At a Congressional UFO hearing on April 5, 1966, Air Force Secretary Harold Brown defended the Air Force's UFO studies and repeated the O'Brien Committee's call for more studies."
+  },
+  {
+   "s": "brown",
+   "p": "testified",
+   "v": "Congressional UFO hearing, 1966-04-05",
+   "quote": "At a Congressional UFO hearing on April 5, 1966, Air Force Secretary Harold Brown defended the Air Force's UFO studies and repeated the O'Brien Committee's call for more studies."
+  },
+  {
+   "s": "mcdonald",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "In July 1967, James E. McDonald, a confirmed believer in the validity of UFO sightings, learned from a committee member about a memo Low had written on August 9, 1966, in which he reassured two University of Colorado administrators that they could expect the study to demonstrate that UFO observations had no basis in reality."
+  },
+  {
+   "s": "mcdonald",
+   "p": "occupation",
+   "v": "atmospheric physicist",
+   "quote": "such as atmospheric physicist James E. McDonald"
+  },
+  {
+   "s": "mcdonald",
+   "p": "employed_by",
+   "o": "ua",
+   "quote": "Both Hynek and James E. McDonald suggested their own campuses, Northwestern University and the University of Arizona, and others suggested astronomer Donald Menzel."
+  },
+  {
+   "s": "mcdonald",
+   "p": "stance",
+   "v": "pro-UFO; confirmed believer in the validity of UFO sightings",
+   "quote": "In July 1967, James E. McDonald, a confirmed believer in the validity of UFO sightings, learned from a committee member about a memo Low had written on August 9, 1966, in which he reassured two University of Colorado administrators that they could expect the study to demonstrate that UFO observations had no basis in reality."
+  },
+  {
+   "s": "mcdonald",
+   "p": "learned_of_memo",
+   "v": "1967-07",
+   "quote": "In July 1967, James E. McDonald, a confirmed believer in the validity of UFO sightings, learned from a committee member about a memo Low had written on August 9, 1966, in which he reassured two University of Colorado administrators that they could expect the study to demonstrate that UFO observations had no basis in reality."
+  },
+  {
+   "s": "mcdonald",
+   "p": "action",
+   "v": "wrote to Condon quoting lines from the memo",
+   "quote": "McDonald, after locating a copy of the memo in the project's open files, wrote to Condon, quoting a few lines from it."
+  },
+  {
+   "s": "mcdonald",
+   "p": "statement",
+   "v": "Report inadequate; examined only a tiny fraction of the most puzzling reports; argumentation wholly unsatisfactory (December 1969)",
+   "quote": "In December 1969, physicist James E. McDonald called the Report \"inadequate\" and said \"it represents an examination of only a tiny fraction of the most puzzling UFO reports of the past two decades, and that its level of scientific argumentation is wholly unsatisfactory.\""
+  },
+  {
+   "s": "mcdonald",
+   "p": "disputed",
+   "o": "report",
+   "quote": "In December 1969, physicist James E. McDonald called the Report \"inadequate\" and said \"it represents an examination of only a tiny fraction of the most puzzling UFO reports of the past two decades, and that its level of scientific argumentation is wholly unsatisfactory.\""
+  },
+  {
+   "s": "menzel",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Both Hynek and James E. McDonald suggested their own campuses, Northwestern University and the University of Arizona, and others suggested astronomer Donald Menzel."
+  },
+  {
+   "s": "menzel",
+   "p": "occupation",
+   "v": "astronomer",
+   "quote": "Both Hynek and James E. McDonald suggested their own campuses, Northwestern University and the University of Arizona, and others suggested astronomer Donald Menzel."
+  },
+  {
+   "s": "menzel",
+   "p": "stance",
+   "v": "anti-UFO",
+   "quote": "Hynek had a long association with the Air Force, McDonald was pro-UFO and Menzel anti-UFO."
+  },
+  {
+   "s": "menzel",
+   "p": "suggested",
+   "o": "condon",
+   "quote": "Walter Orr Roberts, director of the National Center for Atmospheric Research, and Menzel suggested physicist Edward Condon of the University of Colorado."
+  },
+  {
+   "s": "roberts",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Walter Orr Roberts, director of the National Center for Atmospheric Research, and Menzel suggested physicist Edward Condon of the University of Colorado."
+  },
+  {
+   "s": "roberts",
+   "p": "employed_by",
+   "o": "ncar",
+   "quote": "Walter Orr Roberts, director of the National Center for Atmospheric Research, and Menzel suggested physicist Edward Condon of the University of Colorado."
+  },
+  {
+   "s": "roberts",
+   "p": "occupation",
+   "v": "director of the National Center for Atmospheric Research",
+   "quote": "Walter Orr Roberts, director of the National Center for Atmospheric Research, and Menzel suggested physicist Edward Condon of the University of Colorado."
+  },
+  {
+   "s": "roberts",
+   "p": "suggested",
+   "o": "condon",
+   "quote": "Walter Orr Roberts, director of the National Center for Atmospheric Research, and Menzel suggested physicist Edward Condon of the University of Colorado."
+  },
+  {
+   "s": "low",
+   "p": "investigator",
+   "o": "case",
+   "quote": "On Condon's behalf, Robert J. Low, an assistant dean of the university's graduate program, explored faculty reaction to the proposed project and found it mixed and wary."
+  },
+  {
+   "s": "low",
+   "p": "occupation",
+   "v": "assistant dean of the university's graduate program",
+   "quote": "On Condon's behalf, Robert J. Low, an assistant dean of the university's graduate program, explored faculty reaction to the proposed project and found it mixed and wary."
+  },
+  {
+   "s": "low",
+   "p": "employed_by",
+   "o": "cu",
+   "quote": "On Condon's behalf, Robert J. Low, an assistant dean of the university's graduate program, explored faculty reaction to the proposed project and found it mixed and wary."
+  },
+  {
+   "s": "low",
+   "p": "role",
+   "v": "coordinator",
+   "quote": "with Condon as director, Low as coordinator"
+  },
+  {
+   "s": "low",
+   "p": "authored",
+   "o": "memo",
+   "quote": "In July 1967, James E. McDonald, a confirmed believer in the validity of UFO sightings, learned from a committee member about a memo Low had written on August 9, 1966, in which he reassured two University of Colorado administrators that they could expect the study to demonstrate that UFO observations had no basis in reality."
+  },
+  {
+   "s": "low",
+   "p": "resigned",
+   "v": "1968-05",
+   "quote": "Low resigned from the project in May 1968."
+  },
+  {
+   "s": "cook",
+   "p": "investigator",
+   "o": "case",
+   "quote": "On October 6, 1966, the University of Colorado agreed to undertake the UFO study, with Condon as director, Low as coordinator, and Stuart W. Cook, Franklin E. Roach, David R. Saunders and William A. Scott as principal or co-principal investigators."
+  },
+  {
+   "s": "cook",
+   "p": "role",
+   "v": "principal or co-principal investigator",
+   "quote": "On October 6, 1966, the University of Colorado agreed to undertake the UFO study, with Condon as director, Low as coordinator, and Stuart W. Cook, Franklin E. Roach, David R. Saunders and William A. Scott as principal or co-principal investigators."
+  },
+  {
+   "s": "roach",
+   "p": "investigator",
+   "o": "case",
+   "quote": "On October 6, 1966, the University of Colorado agreed to undertake the UFO study, with Condon as director, Low as coordinator, and Stuart W. Cook, Franklin E. Roach, David R. Saunders and William A. Scott as principal or co-principal investigators."
+  },
+  {
+   "s": "roach",
+   "p": "role",
+   "v": "principal or co-principal investigator",
+   "quote": "On October 6, 1966, the University of Colorado agreed to undertake the UFO study, with Condon as director, Low as coordinator, and Stuart W. Cook, Franklin E. Roach, David R. Saunders and William A. Scott as principal or co-principal investigators."
+  },
+  {
+   "s": "scott",
+   "p": "investigator",
+   "o": "case",
+   "quote": "On October 6, 1966, the University of Colorado agreed to undertake the UFO study, with Condon as director, Low as coordinator, and Stuart W. Cook, Franklin E. Roach, David R. Saunders and William A. Scott as principal or co-principal investigators."
+  },
+  {
+   "s": "scott",
+   "p": "role",
+   "v": "principal or co-principal investigator",
+   "quote": "On October 6, 1966, the University of Colorado agreed to undertake the UFO study, with Condon as director, Low as coordinator, and Stuart W. Cook, Franklin E. Roach, David R. Saunders and William A. Scott as principal or co-principal investigators."
+  },
+  {
+   "s": "saunders",
+   "p": "investigator",
+   "o": "case",
+   "quote": "On October 6, 1966, the University of Colorado agreed to undertake the UFO study, with Condon as director, Low as coordinator, and Stuart W. Cook, Franklin E. Roach, David R. Saunders and William A. Scott as principal or co-principal investigators."
+  },
+  {
+   "s": "saunders",
+   "p": "role",
+   "v": "principal or co-principal investigator",
+   "quote": "On October 6, 1966, the University of Colorado agreed to undertake the UFO study, with Condon as director, Low as coordinator, and Stuart W. Cook, Franklin E. Roach, David R. Saunders and William A. Scott as principal or co-principal investigators."
+  },
+  {
+   "s": "saunders",
+   "p": "action",
+   "v": "confronted Condon over concern that NICAP's withdrawal would eliminate case files and produce damaging publicity",
+   "quote": "Saunders confronted Condon to express his concern that NICAP's withdrawal would eliminate a valuable source of case files and produce damaging publicity."
+  },
+  {
+   "s": "saunders",
+   "p": "terminated",
+   "v": "for alleged incompetence; considered libel suit against Condon",
+   "quote": "Industrial Research reprinted Low's memo, while Scientific Research interviewed Saunders and Levine, who reported that they were considering a libel suit against Condon for terminating them for alleged \"incompetence.\""
+  },
+  {
+   "s": "saunders",
+   "p": "statement",
+   "v": "Condon used an unscientific approach",
+   "quote": "They said that Condon had used an \"unscientific approach\" in directing the committee."
+  },
+  {
+   "s": "saunders",
+   "p": "statement",
+   "v": "to present Low as a plotter or conspirator is unfair and hardly accurate",
+   "quote": "Committee member David Saunders wrote that \"to present Low as a plotter or conspirator is unfair and hardly accurate.\""
+  },
+  {
+   "s": "saunders",
+   "p": "authored",
+   "o": "ufoyes",
+   "quote": "David R. Saunders and R. Roger Harkins, UFO's? Yes! Where the Condon Committee Went Wrong, World Publishing, 1968"
+  },
+  {
+   "s": "saunders",
+   "p": "disputed",
+   "o": "report",
+   "quote": "David R. Saunders and R. Roger Harkins, UFO's? Yes! Where the Condon Committee Went Wrong, World Publishing, 1968"
+  },
+  {
+   "s": "hartmann",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Other committee members included astronomer William K. Hartmann; psychologists Michael Wertheimer, Dan Culbertson and graduate student James Wadsworth; chemist Roy Craig; electrical engineer Norman Levine and physicist Frederick Ayer."
+  },
+  {
+   "s": "hartmann",
+   "p": "occupation",
+   "v": "astronomer",
+   "quote": "Other committee members included astronomer William K. Hartmann; psychologists Michael Wertheimer, Dan Culbertson and graduate student James Wadsworth; chemist Roy Craig; electrical engineer Norman Levine and physicist Frederick Ayer."
+  },
+  {
+   "s": "wertheimer",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Other committee members included astronomer William K. Hartmann; psychologists Michael Wertheimer, Dan Culbertson and graduate student James Wadsworth; chemist Roy Craig; electrical engineer Norman Levine and physicist Frederick Ayer."
+  },
+  {
+   "s": "wertheimer",
+   "p": "occupation",
+   "v": "psychologist",
+   "quote": "Other committee members included astronomer William K. Hartmann; psychologists Michael Wertheimer, Dan Culbertson and graduate student James Wadsworth; chemist Roy Craig; electrical engineer Norman Levine and physicist Frederick Ayer."
+  },
+  {
+   "s": "culbertson",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Other committee members included astronomer William K. Hartmann; psychologists Michael Wertheimer, Dan Culbertson and graduate student James Wadsworth; chemist Roy Craig; electrical engineer Norman Levine and physicist Frederick Ayer."
+  },
+  {
+   "s": "culbertson",
+   "p": "occupation",
+   "v": "psychologist",
+   "quote": "Other committee members included astronomer William K. Hartmann; psychologists Michael Wertheimer, Dan Culbertson and graduate student James Wadsworth; chemist Roy Craig; electrical engineer Norman Levine and physicist Frederick Ayer."
+  },
+  {
+   "s": "wadsworth",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Other committee members included astronomer William K. Hartmann; psychologists Michael Wertheimer, Dan Culbertson and graduate student James Wadsworth; chemist Roy Craig; electrical engineer Norman Levine and physicist Frederick Ayer."
+  },
+  {
+   "s": "wadsworth",
+   "p": "occupation",
+   "v": "graduate student",
+   "quote": "Other committee members included astronomer William K. Hartmann; psychologists Michael Wertheimer, Dan Culbertson and graduate student James Wadsworth; chemist Roy Craig; electrical engineer Norman Levine and physicist Frederick Ayer."
+  },
+  {
+   "s": "craig",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Other committee members included astronomer William K. Hartmann; psychologists Michael Wertheimer, Dan Culbertson and graduate student James Wadsworth; chemist Roy Craig; electrical engineer Norman Levine and physicist Frederick Ayer."
+  },
+  {
+   "s": "craig",
+   "p": "occupation",
+   "v": "chemist",
+   "quote": "Other committee members included astronomer William K. Hartmann; psychologists Michael Wertheimer, Dan Culbertson and graduate student James Wadsworth; chemist Roy Craig; electrical engineer Norman Levine and physicist Frederick Ayer."
+  },
+  {
+   "s": "levine",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Other committee members included astronomer William K. Hartmann; psychologists Michael Wertheimer, Dan Culbertson and graduate student James Wadsworth; chemist Roy Craig; electrical engineer Norman Levine and physicist Frederick Ayer."
+  },
+  {
+   "s": "levine",
+   "p": "occupation",
+   "v": "electrical engineer",
+   "quote": "Other committee members included astronomer William K. Hartmann; psychologists Michael Wertheimer, Dan Culbertson and graduate student James Wadsworth; chemist Roy Craig; electrical engineer Norman Levine and physicist Frederick Ayer."
+  },
+  {
+   "s": "ayer",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Other committee members included astronomer William K. Hartmann; psychologists Michael Wertheimer, Dan Culbertson and graduate student James Wadsworth; chemist Roy Craig; electrical engineer Norman Levine and physicist Frederick Ayer."
+  },
+  {
+   "s": "ayer",
+   "p": "occupation",
+   "v": "physicist",
+   "quote": "Other committee members included astronomer William K. Hartmann; psychologists Michael Wertheimer, Dan Culbertson and graduate student James Wadsworth; chemist Roy Craig; electrical engineer Norman Levine and physicist Frederick Ayer."
+  },
+  {
+   "s": "craig",
+   "p": "statement",
+   "v": "memo did not trouble him because Condon had not known of it for eighteen months and it did not reflect his views",
+   "quote": "Project investigator Roy Craig later wrote that the memo did not trouble him because Condon had not known of the Low memo for eighteen months and it did not reflect his views."
+  },
+  {
+   "s": "craig",
+   "p": "statement",
+   "v": "described the three cases in UFO's? Yes! as utter nonsense, highly suspect, and unexplained but very weak",
+   "quote": "Project investigator Roy Craig later described each of the cases as \"utter nonsense,\" \"highly suspect,\" and unexplained but very weak."
+  },
+  {
+   "s": "craig",
+   "p": "authored",
+   "o": "craigbook",
+   "quote": "Roy Craig, UFOs: An Insider's View of the Official Quest for Evidence (University of North Texas Press, 1995)"
+  },
+  {
+   "s": "levine",
+   "p": "terminated",
+   "v": "for alleged incompetence; considered libel suit against Condon",
+   "quote": "Industrial Research reprinted Low's memo, while Scientific Research interviewed Saunders and Levine, who reported that they were considering a libel suit against Condon for terminating them for alleged \"incompetence.\""
+  },
+  {
+   "s": "levine",
+   "p": "statement",
+   "v": "Condon used an unscientific approach",
+   "quote": "They said that Condon had used an \"unscientific approach\" in directing the committee."
+  },
+  {
+   "s": "levine",
+   "p": "interviewed_by",
+   "v": "John G. Fuller for Look; Scientific Research",
+   "quote": "Press coverage included an article, \"Flying Saucer Fiasco\" by John G. Fuller in the May 1968 issue of Look, that presented interviews with Saunders and Levine, and detailed the controversy and described the project as a \"$500,000 trick.\""
+  },
+  {
+   "s": "keyhoe",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "In November 1966, retired USMC Major Donald Keyhoe and Richard H. Hall, both of NICAP, briefed the panel."
+  },
+  {
+   "s": "keyhoe",
+   "p": "rank",
+   "v": "Major (retired)",
+   "quote": "In November 1966, retired USMC Major Donald Keyhoe and Richard H. Hall, both of NICAP, briefed the panel."
+  },
+  {
+   "s": "keyhoe",
+   "p": "member_of",
+   "o": "nicap",
+   "quote": "In November 1966, retired USMC Major Donald Keyhoe and Richard H. Hall, both of NICAP, briefed the panel."
+  },
+  {
+   "s": "keyhoe",
+   "p": "member_of",
+   "o": "usmc",
+   "quote": "In November 1966, retired USMC Major Donald Keyhoe and Richard H. Hall, both of NICAP, briefed the panel."
+  },
+  {
+   "s": "keyhoe",
+   "p": "briefed_panel",
+   "v": "1966-11",
+   "quote": "In November 1966, retired USMC Major Donald Keyhoe and Richard H. Hall, both of NICAP, briefed the panel."
+  },
+  {
+   "s": "keyhoe",
+   "p": "stance",
+   "v": "publicly supportive, privately feared Air Force control",
+   "quote": "NICAP's Donald Keyhoe was publicly supportive, but privately expressed fears that the Air Force would be controlling things from behind the scenes."
+  },
+  {
+   "s": "keyhoe",
+   "p": "action",
+   "v": "circulated copies of Low's memo",
+   "quote": "NICAP severed its ties with the committee and Keyhoe circulated copies of Low's memo"
+  },
+  {
+   "s": "hall",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "In November 1966, retired USMC Major Donald Keyhoe and Richard H. Hall, both of NICAP, briefed the panel."
+  },
+  {
+   "s": "hall",
+   "p": "member_of",
+   "o": "nicap",
+   "quote": "In November 1966, retired USMC Major Donald Keyhoe and Richard H. Hall, both of NICAP, briefed the panel."
+  },
+  {
+   "s": "hall",
+   "p": "briefed_panel",
+   "v": "1966-11",
+   "quote": "In November 1966, retired USMC Major Donald Keyhoe and Richard H. Hall, both of NICAP, briefed the panel."
+  },
+  {
+   "s": "kaplan",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "This had been attempted some fifteen years earlier following a specific suggestion regarding UFOs made by Joseph Kaplan in 1954, but was quickly judged impractical after a number of such cameras were distributed to Air Force bases."
+  },
+  {
+   "s": "kaplan",
+   "p": "suggestion",
+   "v": "diffraction-grating cameras for UFOs, 1954; judged impractical after cameras distributed to Air Force bases",
+   "quote": "This had been attempted some fifteen years earlier following a specific suggestion regarding UFOs made by Joseph Kaplan in 1954, but was quickly judged impractical after a number of such cameras were distributed to Air Force bases."
+  },
+  {
+   "s": "fuller",
+   "p": "journalist",
+   "o": "case",
+   "quote": "Press coverage included an article, \"Flying Saucer Fiasco\" by John G. Fuller in the May 1968 issue of Look, that presented interviews with Saunders and Levine, and detailed the controversy and described the project as a \"$500,000 trick.\""
+  },
+  {
+   "s": "fuller",
+   "p": "authored",
+   "o": "fiasco",
+   "quote": "Press coverage included an article, \"Flying Saucer Fiasco\" by John G. Fuller in the May 1968 issue of Look, that presented interviews with Saunders and Levine, and detailed the controversy and described the project as a \"$500,000 trick.\""
+  },
+  {
+   "s": "fuller",
+   "p": "occupation",
+   "v": "journalist",
+   "quote": "Fuller was a journalist identified with those who found UFO sightings credible, the author of a 1966 work on a sighting."
+  },
+  {
+   "s": "fuller",
+   "p": "stance",
+   "v": "identified with those who found UFO sightings credible",
+   "quote": "Fuller was a journalist identified with those who found UFO sightings credible, the author of a 1966 work on a sighting."
+  },
+  {
+   "s": "fuller",
+   "p": "other_work",
+   "v": "author of a 1966 work on a sighting",
+   "quote": "Fuller was a journalist identified with those who found UFO sightings credible, the author of a 1966 work on a sighting."
+  },
+  {
+   "s": "fuller",
+   "p": "interviewed",
+   "o": "saunders",
+   "quote": "Press coverage included an article, \"Flying Saucer Fiasco\" by John G. Fuller in the May 1968 issue of Look, that presented interviews with Saunders and Levine, and detailed the controversy and described the project as a \"$500,000 trick.\""
+  },
+  {
+   "s": "fuller",
+   "p": "interviewed",
+   "o": "levine",
+   "quote": "Press coverage included an article, \"Flying Saucer Fiasco\" by John G. Fuller in the May 1968 issue of Look, that presented interviews with Saunders and Levine, and detailed the controversy and described the project as a \"$500,000 trick.\""
+  },
+  {
+   "s": "roush",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Congressional Representative J. Edward Roush said the Look article raised \"grave doubts as to the scientific profundity and objectivity of the project.\""
+  },
+  {
+   "s": "roush",
+   "p": "occupation",
+   "v": "Congressional Representative",
+   "quote": "Congressional Representative J. Edward Roush said the Look article raised \"grave doubts as to the scientific profundity and objectivity of the project.\""
+  },
+  {
+   "s": "roush",
+   "p": "member_of",
+   "o": "congress",
+   "quote": "Congressional Representative J. Edward Roush said the Look article raised \"grave doubts as to the scientific profundity and objectivity of the project.\""
+  },
+  {
+   "s": "roush",
+   "p": "statement",
+   "v": "Look article raised grave doubts as to the scientific profundity and objectivity of the project",
+   "quote": "Congressional Representative J. Edward Roush said the Look article raised \"grave doubts as to the scientific profundity and objectivity of the project.\""
+  },
+  {
+   "s": "roush",
+   "p": "action",
+   "v": "asked the General Accounting Office to investigate the study",
+   "quote": "He asked the General Accounting Office to investigate the study, which the GAO declined to do."
+  },
+  {
+   "s": "roush",
+   "p": "action",
+   "v": "held a hearing dominated by critics of the project",
+   "quote": "He held a hearing dominated by critics of the project."
+  },
+  {
+   "s": "roush",
+   "p": "member_of",
+   "o": "nicap",
+   "quote": "Roush later joined the board of NICAP."
+  },
+  {
+   "s": "sullivan",
+   "p": "commentator",
+   "o": "case",
+   "quote": "New York Times science editor Walter Sullivan, in his introduction to the published version of the Report, said the series \"reads like a modern, real-life collection of Sherlock Holmes episodes."
+  },
+  {
+   "s": "sullivan",
+   "p": "occupation",
+   "v": "science editor",
+   "quote": "New York Times science editor Walter Sullivan, in his introduction to the published version of the Report, said the series \"reads like a modern, real-life collection of Sherlock Holmes episodes."
+  },
+  {
+   "s": "sullivan",
+   "p": "employed_by",
+   "o": "nyt",
+   "quote": "New York Times science editor Walter Sullivan, in his introduction to the published version of the Report, said the series \"reads like a modern, real-life collection of Sherlock Holmes episodes."
+  },
+  {
+   "s": "sullivan",
+   "p": "statement",
+   "v": "reads like a modern, real-life collection of Sherlock Holmes episodes",
+   "quote": "New York Times science editor Walter Sullivan, in his introduction to the published version of the Report, said the series \"reads like a modern, real-life collection of Sherlock Holmes episodes."
+  },
+  {
+   "s": "sullivan",
+   "p": "statement",
+   "v": "cases range from the eerily perplexing to the preposterously naive",
+   "quote": "The cases range from the eerily perplexing to the preposterously naive."
+  },
+  {
+   "s": "clemence",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "A panel chaired by Yale astronomer Gerald M. Clemence studied the Report for six weeks and concluded that \"on the basis of present knowledge the least likely explanation of UFOs is the hypothesis of extraterrestrial visitations by intelligent beings\""
+  },
+  {
+   "s": "clemence",
+   "p": "occupation",
+   "v": "astronomer",
+   "quote": "A panel chaired by Yale astronomer Gerald M. Clemence studied the Report for six weeks and concluded that \"on the basis of present knowledge the least likely explanation of UFOs is the hypothesis of extraterrestrial visitations by intelligent beings\""
+  },
+  {
+   "s": "clemence",
+   "p": "employed_by",
+   "o": "yale",
+   "quote": "A panel chaired by Yale astronomer Gerald M. Clemence studied the Report for six weeks and concluded that \"on the basis of present knowledge the least likely explanation of UFOs is the hypothesis of extraterrestrial visitations by intelligent beings\""
+  },
+  {
+   "s": "clemence",
+   "p": "commanded",
+   "o": "naspanel",
+   "quote": "A panel chaired by Yale astronomer Gerald M. Clemence studied the Report for six weeks and concluded that \"on the basis of present knowledge the least likely explanation of UFOs is the hypothesis of extraterrestrial visitations by intelligent beings\""
+  },
+  {
+   "s": "baker",
+   "p": "commentator",
+   "o": "case",
+   "quote": "In the April 14, 1969 issue of Scientific Research, Robert L. M. Baker, Jr. wrote that the Condon Committee's Report \"seems to justify scientific investigation along many general and specialized frontiers.\""
+  },
+  {
+   "s": "baker",
+   "p": "statement",
+   "v": "Report seems to justify scientific investigation along many general and specialized frontiers (1969-04-14)",
+   "quote": "In the April 14, 1969 issue of Scientific Research, Robert L. M. Baker, Jr. wrote that the Condon Committee's Report \"seems to justify scientific investigation along many general and specialized frontiers.\""
+  },
+  {
+   "s": "rothberg",
+   "p": "investigator",
+   "o": "case",
+   "quote": "In the December 1969 issue of Physics Today, committee consultant Gerald Rothberg wrote that he had thoroughly investigated about 100 UFO cases, three or four of which left him puzzled."
+  },
+  {
+   "s": "rothberg",
+   "p": "role",
+   "v": "committee consultant",
+   "quote": "In the December 1969 issue of Physics Today, committee consultant Gerald Rothberg wrote that he had thoroughly investigated about 100 UFO cases, three or four of which left him puzzled."
+  },
+  {
+   "s": "rothberg",
+   "p": "statement",
+   "v": "thoroughly investigated about 100 UFO cases, three or four of which left him puzzled",
+   "quote": "In the December 1969 issue of Physics Today, committee consultant Gerald Rothberg wrote that he had thoroughly investigated about 100 UFO cases, three or four of which left him puzzled."
+  },
+  {
+   "s": "rothberg",
+   "p": "statement",
+   "v": "residue of unexplained reports indicated a legitimate scientific controversy",
+   "quote": "He thought that this \"residue of unexplained reports [indicated a] legitimate scientific controversy.\""
+  },
+  {
+   "s": "page",
+   "p": "commentator",
+   "o": "case",
+   "quote": "In a 1969 issue of the American Journal of Physics, astronomer Thornton Page (who thought the phenomenon had a sociological basis) wrote of the report"
+  },
+  {
+   "s": "page",
+   "p": "occupation",
+   "v": "astronomer",
+   "quote": "In a 1969 issue of the American Journal of Physics, astronomer Thornton Page (who thought the phenomenon had a sociological basis) wrote of the report"
+  },
+  {
+   "s": "page",
+   "p": "view",
+   "v": "phenomenon had a sociological basis",
+   "quote": "In a 1969 issue of the American Journal of Physics, astronomer Thornton Page (who thought the phenomenon had a sociological basis) wrote of the report"
+  },
+  {
+   "s": "page",
+   "p": "member_of",
+   "o": "robertson",
+   "quote": "Page had been a member of the Robertson Panel which suggested UFOs should be debunked to reduce public interest."
+  },
+  {
+   "s": "page",
+   "p": "statement",
+   "v": "laymen can point out the logical flaw in Condon's conclusion based on a statistically small (and selected) sample",
+   "quote": "\"Intelligent laymen can (and do) point out the logical flaw in Condon's conclusion based on a statistically small (and selected) sample."
+  },
+  {
+   "s": "page",
+   "p": "statement",
+   "v": "authorities compound their felony by recommending that no further observational data be collected",
+   "quote": "it is ignored by the 'authorities,' who then compound their 'felony' by recommending that no further observational data be collected.\""
+  },
+  {
+   "s": "sturrock",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Astrophysicist Peter A. Sturrock wrote that \"critical reviews...came from scientists who had actually carried out research in the UFO area, while the laudatory reviews came from scientists who had not carried out such research.\""
+  },
+  {
+   "s": "sturrock",
+   "p": "occupation",
+   "v": "astrophysicist",
+   "quote": "Astrophysicist Peter A. Sturrock wrote that \"critical reviews...came from scientists who had actually carried out research in the UFO area, while the laudatory reviews came from scientists who had not carried out such research.\""
+  },
+  {
+   "s": "sturrock",
+   "p": "statement",
+   "v": "critical reviews came from scientists who had carried out UFO research, laudatory reviews from those who had not",
+   "quote": "Astrophysicist Peter A. Sturrock wrote that \"critical reviews...came from scientists who had actually carried out research in the UFO area, while the laudatory reviews came from scientists who had not carried out such research.\""
+  },
+  {
+   "s": "sturrock",
+   "p": "statement",
+   "v": "noted a case in which an allegedly supersonic UFO did not produce a sonic boom",
+   "quote": "As an example, Sturrock noted a case in which an allegedly supersonic UFO did not produce a sonic boom."
+  },
+  {
+   "s": "sturrock",
+   "p": "statement",
+   "v": "should not assume a more advanced civilization could not travel supersonically without a sonic boom",
+   "quote": "\"we should not assume that a more advanced civilization could not find some way at traveling with supersonic speeds without producing a sonic boom.\""
+  },
+  {
+   "s": "sturrock",
+   "p": "authored",
+   "o": "sturbook",
+   "quote": "Peter A. Sturrock, The UFO Enigma: A New Review of the Physical Evidence, Warner Books, 1999"
+  },
+  {
+   "s": "case",
+   "p": "critic_assessment",
+   "v": "the most influential public document concerning the scientific status of this UFO problem",
+   "quote": "According to a principal critic of the Report, it is \"the most influential public document concerning the scientific status of this UFO problem."
+  },
+  {
+   "s": "gillmor",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Final Report of the Scientific Study of Unidentified Flying Objects, Edward U. Condon, Scientific Director, Daniel S. Gillmor, Editor"
+  },
+  {
+   "s": "gillmor",
+   "p": "role",
+   "v": "Editor of the Final Report",
+   "quote": "Final Report of the Scientific Study of Unidentified Flying Objects, Edward U. Condon, Scientific Director, Daniel S. Gillmor, Editor"
+  },
+  {
+   "s": "gillmor",
+   "p": "edited",
+   "o": "report",
+   "quote": "Final Report of the Scientific Study of Unidentified Flying Objects, Edward U. Condon, Scientific Director, Daniel S. Gillmor, Editor"
+  },
+  {
+   "s": "harkins",
+   "p": "commentator",
+   "o": "case",
+   "quote": "David R. Saunders and R. Roger Harkins, UFO's? Yes! Where the Condon Committee Went Wrong, World Publishing, 1968"
+  },
+  {
+   "s": "harkins",
+   "p": "authored",
+   "o": "ufoyes",
+   "quote": "David R. Saunders and R. Roger Harkins, UFO's? Yes! Where the Condon Committee Went Wrong, World Publishing, 1968"
+  }
+ ]
+}

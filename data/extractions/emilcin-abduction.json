@@ -1,0 +1,773 @@
+{
+ "slug": "emilcin-abduction",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Emilcin Abduction",
+   "description": "Supposed alien abduction of Polish farmer Jan Wolski at Emilcin, Poland, on 10 May 1978.",
+   "aliases": [
+    "Emilcin abduction",
+    "Emilcin incident"
+   ]
+  },
+  {
+   "key": "wolski",
+   "type": "person",
+   "name": "Jan Wolski",
+   "description": "Polish farmer who reported being taken aboard a craft at Emilcin in 1978."
+  },
+  {
+   "key": "cart",
+   "type": "vehicle",
+   "name": "Jan Wolski's horse-drawn cart",
+   "description": "Horse-drawn cart Wolski was driving when approached by the beings."
+  },
+  {
+   "key": "craft",
+   "type": "craft",
+   "name": "White bus-length craft at Emilcin",
+   "description": "Completely white craft Wolski said hovered over a clearing and which he was taken aboard."
+  },
+  {
+   "key": "emilcin",
+   "type": "place",
+   "name": "Emilcin, Poland",
+   "description": "Polish village where the abduction was alleged to have occurred.",
+   "aliases": [
+    "Emilcin"
+   ]
+  },
+  {
+   "key": "poland",
+   "type": "place",
+   "name": "Poland",
+   "description": "Country of the incident."
+  },
+  {
+   "key": "memorial",
+   "type": "document",
+   "name": "Emilcin UFO memorial",
+   "description": "Monument erected in Emilcin in 2005 commemorating the reported abduction.",
+   "aliases": [
+    "monument"
+   ]
+  },
+  {
+   "key": "recording",
+   "type": "document",
+   "name": "July 1978 audio interview with Jan Wolski",
+   "description": "Audio recording of Wolski's interview with Pomorski and Adamczyk."
+  },
+  {
+   "key": "pomorski",
+   "type": "person",
+   "name": "Henryk Pomorski",
+   "description": "Interviewed Wolski in July 1978."
+  },
+  {
+   "key": "adamczyk",
+   "type": "person",
+   "name": "Krystyna Adamczyk",
+   "description": "Interviewed Wolski in July 1978."
+  },
+  {
+   "key": "przybysze",
+   "type": "work",
+   "name": "Przybysze",
+   "description": "1978 short comic book about the event.",
+   "aliases": [
+    "The Visitors"
+   ]
+  },
+  {
+   "key": "kurta",
+   "type": "person",
+   "name": "Henryk Kurta",
+   "description": "Writer of the comic book Przybysze."
+  },
+  {
+   "key": "rosinski",
+   "type": "person",
+   "name": "Grzegorz Rosiński",
+   "description": "Illustrator of the comic book Przybysze."
+  },
+  {
+   "key": "projektufo",
+   "type": "work",
+   "name": "Project UFO",
+   "description": "2025 Polish Netflix series reported to be inspired by the Emilcin abduction.",
+   "aliases": [
+    "Projekt UFO"
+   ]
+  },
+  {
+   "key": "netflix",
+   "type": "organization",
+   "name": "Netflix",
+   "description": "Streaming service of the series Project UFO."
+  },
+  {
+   "key": "fourthkind",
+   "type": "work",
+   "name": "The Emilcin Incident: A Polish Encounter of the Fourth Kind",
+   "description": "External-link item about the incident."
+  },
+  {
+   "key": "f_abduction-claim",
+   "type": "feature",
+   "name": "abduction-claim",
+   "description": "feature"
+  },
+  {
+   "key": "f_occupants-reported",
+   "type": "feature",
+   "name": "occupants-reported",
+   "description": "feature"
+  },
+  {
+   "key": "f_hovering",
+   "type": "feature",
+   "name": "hovering",
+   "description": "feature"
+  },
+  {
+   "key": "f_sound-reported",
+   "type": "feature",
+   "name": "sound-reported",
+   "description": "feature"
+  },
+  {
+   "key": "f_physical-traces",
+   "type": "feature",
+   "name": "physical-traces",
+   "description": "feature"
+  },
+  {
+   "key": "f_landing-reported",
+   "type": "feature",
+   "name": "landing-reported",
+   "description": "feature"
+  },
+  {
+   "key": "f_child-witnesses",
+   "type": "feature",
+   "name": "child-witnesses",
+   "description": "feature"
+  },
+  {
+   "key": "f_animal-reaction",
+   "type": "feature",
+   "name": "animal-reaction",
+   "description": "feature"
+  },
+  {
+   "key": "f_shape-other",
+   "type": "feature",
+   "name": "shape-other",
+   "description": "feature"
+  },
+  {
+   "key": "f_other_medical_examination_aboard_craft",
+   "type": "feature",
+   "name": "other:medical examination aboard craft",
+   "description": "feature"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1978-05-10",
+   "quote": "Jan Wolski (; 29 May 1907 – 8 January 1990) was a Polish farmer who reported that, early on 10 May 1978, while driving a horse-drawn cart, he was approached by two beings he described as \"short, green-faced humanoid entities\" approximately 5 feet (1.5 m) tall."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1978-05-10",
+   "quote": "The inscription in Polish reads: \"On 10 May 1978 in Emilcin a UFO object landed. The truth will astonish us in the future.\""
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "early",
+   "quote": "Jan Wolski (; 29 May 1907 – 8 January 1990) was a Polish farmer who reported that, early on 10 May 1978, while driving a horse-drawn cart, he was approached by two beings he described as \"short, green-faced humanoid entities\" approximately 5 feet (1.5 m) tall."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "Poland",
+   "quote": "A monument was later erected in Emilcin, Poland, at the site where the abduction was alleged to have occurred."
+  },
+  {
+   "s": "case",
+   "p": "media_attention",
+   "v": "received little media attention at the time",
+   "quote": "The incident received little media attention at the time."
+  },
+  {
+   "s": "case",
+   "p": "aftermath",
+   "v": "Wolski's sons called on neighbours and together they went to investigate the site",
+   "quote": "He told his sons, who then called on neighbours, and together they went to investigate the site."
+  },
+  {
+   "s": "case",
+   "p": "trace_description",
+   "v": "grass where the craft had been was \"trodden down, covered with dew, and had paths coming in all directions\"",
+   "quote": "According to accounts, the grass where the craft had been was \"trodden down, covered with dew, and had paths coming in all directions\"."
+  },
+  {
+   "s": "case",
+   "p": "trace_description",
+   "v": "Wolski's sons claimed footprints, allegedly left by the beings, were visible",
+   "quote": "His sons claimed that footprints, allegedly left by the beings, were visible, though they did not specify whether they were larger or smaller than human footprints."
+  },
+  {
+   "s": "case",
+   "p": "other_witness",
+   "v": "a six-year-old boy claimed to have seen a bus-shaped craft hovering over a barn before ascending into the sky and disappearing",
+   "quote": "A six-year-old boy also claimed to have seen a bus-shaped craft hovering over a barn before ascending into the sky and disappearing."
+  },
+  {
+   "s": "case",
+   "p": "occupant_count",
+   "v": "two beings on the cart, two additional beings near the craft",
+   "quote": "Wolski claimed that he was taken aboard the craft, accompanied by two additional beings he encountered near it."
+  },
+  {
+   "s": "case",
+   "p": "occupant_description",
+   "v": "short, green-faced humanoid entities",
+   "quote": "Jan Wolski (; 29 May 1907 – 8 January 1990) was a Polish farmer who reported that, early on 10 May 1978, while driving a horse-drawn cart, he was approached by two beings he described as \"short, green-faced humanoid entities\" approximately 5 feet (1.5 m) tall."
+  },
+  {
+   "s": "case",
+   "p": "occupant_height",
+   "v": "approximately 5 feet (1.5 m)",
+   "quote": "Jan Wolski (; 29 May 1907 – 8 January 1990) was a Polish farmer who reported that, early on 10 May 1978, while driving a horse-drawn cart, he was approached by two beings he described as \"short, green-faced humanoid entities\" approximately 5 feet (1.5 m) tall."
+  },
+  {
+   "s": "case",
+   "p": "occupant_description",
+   "v": "slanted eyes and prominent cheekbones",
+   "quote": "He initially assumed they were foreigners due to their \"slanted eyes and prominent cheekbones\"."
+  },
+  {
+   "s": "case",
+   "p": "occupant_behavior",
+   "v": "jumped onto his cart, sat beside him, and spoke in an unfamiliar language",
+   "quote": "According to Wolski, the beings jumped onto his cart, sat beside him, and spoke in an unfamiliar language."
+  },
+  {
+   "s": "case",
+   "p": "occupant_clothing_color",
+   "v": "black with a greyish tint",
+   "quote": "Wolski stated that the interior of the craft was black with a greyish tint, matching the beings' clothing, and had no lights or windows, with illumination coming only from the open doorway."
+  },
+  {
+   "s": "case",
+   "p": "occupant_behavior",
+   "v": "ate something and offered him a similar item resembling an icicle",
+   "quote": "He claimed the beings ate something and offered him a similar item, described as resembling an icicle, which he declined."
+  },
+  {
+   "s": "case",
+   "p": "occupant_behavior",
+   "v": "gestured for him to undress",
+   "quote": "He reported that they gestured for him to undress, after which he observed eight to ten single-person benches arranged around the interior."
+  },
+  {
+   "s": "case",
+   "p": "occupant_behavior",
+   "v": "bowed to Wolski in return",
+   "quote": "He was then led to the door, bowed to the beings, and was bowed to in return. The door closed, the craft ascended, and then departed."
+  },
+  {
+   "s": "wolski",
+   "p": "witness",
+   "o": "case",
+   "quote": "The Emilcin abduction was a supposed alien abduction of Polish farmer Jan Wolski in May 1978."
+  },
+  {
+   "s": "wolski",
+   "p": "occupation",
+   "v": "farmer",
+   "quote": "The Emilcin abduction was a supposed alien abduction of Polish farmer Jan Wolski in May 1978."
+  },
+  {
+   "s": "wolski",
+   "p": "nationality",
+   "v": "Polish",
+   "quote": "The Emilcin abduction was a supposed alien abduction of Polish farmer Jan Wolski in May 1978."
+  },
+  {
+   "s": "wolski",
+   "p": "birth_date",
+   "v": "1907-05-29",
+   "quote": "Jan Wolski (; 29 May 1907 – 8 January 1990) was a Polish farmer who reported that, early on 10 May 1978, while driving a horse-drawn cart, he was approached by two beings he described as \"short, green-faced humanoid entities\" approximately 5 feet (1.5 m) tall."
+  },
+  {
+   "s": "wolski",
+   "p": "death_date",
+   "v": "1990-01-08",
+   "quote": "Jan Wolski (; 29 May 1907 – 8 January 1990) was a Polish farmer who reported that, early on 10 May 1978, while driving a horse-drawn cart, he was approached by two beings he described as \"short, green-faced humanoid entities\" approximately 5 feet (1.5 m) tall."
+  },
+  {
+   "s": "wolski",
+   "p": "activity",
+   "v": "driving a horse-drawn cart",
+   "quote": "Jan Wolski (; 29 May 1907 – 8 January 1990) was a Polish farmer who reported that, early on 10 May 1978, while driving a horse-drawn cart, he was approached by two beings he described as \"short, green-faced humanoid entities\" approximately 5 feet (1.5 m) tall."
+  },
+  {
+   "s": "wolski",
+   "p": "statement",
+   "v": "According to Wolski, the beings jumped onto his cart, sat beside him, and spoke in an unfamiliar language",
+   "quote": "According to Wolski, the beings jumped onto his cart, sat beside him, and spoke in an unfamiliar language."
+  },
+  {
+   "s": "wolski",
+   "p": "statement",
+   "v": "He initially assumed they were foreigners due to their \"slanted eyes and prominent cheekbones\"",
+   "quote": "He initially assumed they were foreigners due to their \"slanted eyes and prominent cheekbones\"."
+  },
+  {
+   "s": "wolski",
+   "p": "statement",
+   "v": "Wolski stated that he drove with the beings to a clearing where a large object was hovering",
+   "quote": "Wolski stated that he drove with the beings to a clearing where a large object was hovering."
+  },
+  {
+   "s": "wolski",
+   "p": "statement",
+   "v": "Wolski claimed that he was taken aboard the craft, accompanied by two additional beings he encountered near it",
+   "quote": "Wolski claimed that he was taken aboard the craft, accompanied by two additional beings he encountered near it."
+  },
+  {
+   "s": "wolski",
+   "p": "statement",
+   "v": "He reported that they gestured for him to undress, after which he observed eight to ten single-person benches arranged around the interior",
+   "quote": "He reported that they gestured for him to undress, after which he observed eight to ten single-person benches arranged around the interior."
+  },
+  {
+   "s": "wolski",
+   "p": "statement",
+   "v": "He also described seeing rooks near the doorway, moving their legs and wings but apparently immobilized",
+   "quote": "He also described seeing rooks near the doorway, moving their legs and wings but apparently immobilized."
+  },
+  {
+   "s": "wolski",
+   "p": "statement",
+   "v": "According to his account, he was examined with a device resembling two dishes or \"saucers\"",
+   "quote": "According to his account, he was examined with a device resembling two dishes or \"saucers\"."
+  },
+  {
+   "s": "wolski",
+   "p": "statement",
+   "v": "He claimed the beings ate something and offered him a similar item, described as resembling an icicle, which he declined",
+   "quote": "He claimed the beings ate something and offered him a similar item, described as resembling an icicle, which he declined."
+  },
+  {
+   "s": "wolski",
+   "p": "statement",
+   "v": "He was then led to the door, bowed to the beings, and was bowed to in return. The door closed, the craft ascended, and then departed",
+   "quote": "He was then led to the door, bowed to the beings, and was bowed to in return. The door closed, the craft ascended, and then departed."
+  },
+  {
+   "s": "wolski",
+   "p": "action",
+   "v": "returned home and informed his family, urging them to come and see the hovering craft",
+   "quote": "Wolski returned home and informed his family about the incident, urging them to come and see the hovering craft."
+  },
+  {
+   "s": "wolski",
+   "p": "action",
+   "v": "told his sons, who then called on neighbours",
+   "quote": "He told his sons, who then called on neighbours, and together they went to investigate the site."
+  },
+  {
+   "s": "wolski",
+   "p": "described",
+   "o": "craft",
+   "quote": "Wolski described the object as a completely white unidentified flying craft, approximately 14.75 feet (4.5 m) to 16.5 feet (5.0 m) in height and \"as long as a bus\", hovering about 16 feet (4.9 m) above the ground."
+  },
+  {
+   "s": "cart",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "Jan Wolski (; 29 May 1907 – 8 January 1990) was a Polish farmer who reported that, early on 10 May 1978, while driving a horse-drawn cart, he was approached by two beings he described as \"short, green-faced humanoid entities\" approximately 5 feet (1.5 m) tall."
+  },
+  {
+   "s": "wolski",
+   "p": "piloted",
+   "o": "cart",
+   "quote": "Jan Wolski (; 29 May 1907 – 8 January 1990) was a Polish farmer who reported that, early on 10 May 1978, while driving a horse-drawn cart, he was approached by two beings he described as \"short, green-faced humanoid entities\" approximately 5 feet (1.5 m) tall."
+  },
+  {
+   "s": "cart",
+   "p": "vehicle_type",
+   "v": "horse-drawn cart",
+   "quote": "Jan Wolski (; 29 May 1907 – 8 January 1990) was a Polish farmer who reported that, early on 10 May 1978, while driving a horse-drawn cart, he was approached by two beings he described as \"short, green-faced humanoid entities\" approximately 5 feet (1.5 m) tall."
+  },
+  {
+   "s": "craft",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Wolski described the object as a completely white unidentified flying craft, approximately 14.75 feet (4.5 m) to 16.5 feet (5.0 m) in height and \"as long as a bus\", hovering about 16 feet (4.9 m) above the ground."
+  },
+  {
+   "s": "craft",
+   "p": "color",
+   "v": "completely white",
+   "quote": "Wolski described the object as a completely white unidentified flying craft, approximately 14.75 feet (4.5 m) to 16.5 feet (5.0 m) in height and \"as long as a bus\", hovering about 16 feet (4.9 m) above the ground."
+  },
+  {
+   "s": "craft",
+   "p": "height",
+   "v": "approximately 14.75 feet (4.5 m) to 16.5 feet (5.0 m)",
+   "quote": "Wolski described the object as a completely white unidentified flying craft, approximately 14.75 feet (4.5 m) to 16.5 feet (5.0 m) in height and \"as long as a bus\", hovering about 16 feet (4.9 m) above the ground."
+  },
+  {
+   "s": "craft",
+   "p": "length",
+   "v": "as long as a bus",
+   "quote": "Wolski described the object as a completely white unidentified flying craft, approximately 14.75 feet (4.5 m) to 16.5 feet (5.0 m) in height and \"as long as a bus\", hovering about 16 feet (4.9 m) above the ground."
+  },
+  {
+   "s": "craft",
+   "p": "altitude",
+   "v": "about 16 feet (4.9 m) above the ground",
+   "quote": "Wolski described the object as a completely white unidentified flying craft, approximately 14.75 feet (4.5 m) to 16.5 feet (5.0 m) in height and \"as long as a bus\", hovering about 16 feet (4.9 m) above the ground."
+  },
+  {
+   "s": "craft",
+   "p": "external_features",
+   "v": "no notable external features such as lights or joints",
+   "quote": "He reported no notable external features such as lights or joints."
+  },
+  {
+   "s": "craft",
+   "p": "protrusions",
+   "v": "four black, drill-like protrusions",
+   "quote": "He stated that the craft had four black, drill-like protrusions that produced a humming sound."
+  },
+  {
+   "s": "craft",
+   "p": "sound",
+   "v": "humming",
+   "quote": "He stated that the craft had four black, drill-like protrusions that produced a humming sound."
+  },
+  {
+   "s": "craft",
+   "p": "access",
+   "v": "elevator-like platform extended from the craft to the ground",
+   "quote": "An elevator-like platform extended from the craft to the ground."
+  },
+  {
+   "s": "craft",
+   "p": "interior",
+   "v": "eight to ten single-person benches arranged around the interior",
+   "quote": "He reported that they gestured for him to undress, after which he observed eight to ten single-person benches arranged around the interior."
+  },
+  {
+   "s": "craft",
+   "p": "interior_color",
+   "v": "black with a greyish tint",
+   "quote": "Wolski stated that the interior of the craft was black with a greyish tint, matching the beings' clothing, and had no lights or windows, with illumination coming only from the open doorway."
+  },
+  {
+   "s": "craft",
+   "p": "interior",
+   "v": "no lights or windows, with illumination coming only from the open doorway",
+   "quote": "Wolski stated that the interior of the craft was black with a greyish tint, matching the beings' clothing, and had no lights or windows, with illumination coming only from the open doorway."
+  },
+  {
+   "s": "craft",
+   "p": "interior",
+   "v": "rooks near the doorway, moving their legs and wings but apparently immobilized",
+   "quote": "He also described seeing rooks near the doorway, moving their legs and wings but apparently immobilized."
+  },
+  {
+   "s": "craft",
+   "p": "shape",
+   "v": "bus-shaped",
+   "quote": "A six-year-old boy also claimed to have seen a bus-shaped craft hovering over a barn before ascending into the sky and disappearing."
+  },
+  {
+   "s": "craft",
+   "p": "departure",
+   "v": "the door closed, the craft ascended, and then departed",
+   "quote": "He was then led to the door, bowed to the beings, and was bowed to in return. The door closed, the craft ascended, and then departed."
+  },
+  {
+   "s": "craft",
+   "p": "location",
+   "v": "hovering in a clearing",
+   "quote": "Wolski stated that he drove with the beings to a clearing where a large object was hovering."
+  },
+  {
+   "s": "emilcin",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "A monument was later erected in Emilcin, Poland, at the site where the abduction was alleged to have occurred."
+  },
+  {
+   "s": "emilcin",
+   "p": "located_in",
+   "o": "poland",
+   "quote": "A monument was later erected in Emilcin, Poland, at the site where the abduction was alleged to have occurred."
+  },
+  {
+   "s": "emilcin",
+   "p": "coordinates",
+   "v": "51°8′2.63″N 22°2′16.16″E",
+   "quote": "In 2005, a memorial was erected in Emilcin at coordinates 51°8′2.63″N 22°2′16.16″E to commemorate the reported alien abduction of Jan Wolski."
+  },
+  {
+   "s": "poland",
+   "p": "related_place",
+   "o": "case",
+   "quote": "A monument was later erected in Emilcin, Poland, at the site where the abduction was alleged to have occurred."
+  },
+  {
+   "s": "memorial",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In 2005, a memorial was erected in Emilcin at coordinates 51°8′2.63″N 22°2′16.16″E to commemorate the reported alien abduction of Jan Wolski."
+  },
+  {
+   "s": "memorial",
+   "p": "date",
+   "v": "2005",
+   "quote": "In 2005, a memorial was erected in Emilcin at coordinates 51°8′2.63″N 22°2′16.16″E to commemorate the reported alien abduction of Jan Wolski."
+  },
+  {
+   "s": "memorial",
+   "p": "located_in",
+   "o": "emilcin",
+   "quote": "In 2005, a memorial was erected in Emilcin at coordinates 51°8′2.63″N 22°2′16.16″E to commemorate the reported alien abduction of Jan Wolski."
+  },
+  {
+   "s": "memorial",
+   "p": "inscription",
+   "v": "On 10 May 1978 in Emilcin a UFO object landed. The truth will astonish us in the future.",
+   "quote": "The inscription in Polish reads: \"On 10 May 1978 in Emilcin a UFO object landed. The truth will astonish us in the future.\""
+  },
+  {
+   "s": "memorial",
+   "p": "location",
+   "v": "at the site where the abduction was alleged to have occurred",
+   "quote": "A monument was later erected in Emilcin, Poland, at the site where the abduction was alleged to have occurred."
+  },
+  {
+   "s": "recording",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The audio recording of the interview remained in a private archive for many years before being released to the public."
+  },
+  {
+   "s": "recording",
+   "p": "date",
+   "v": "1978-07",
+   "quote": "Two months after the incident, in July 1978, Wolski described his recollections in an interview with Henryk Pomorski and Krystyna Adamczyk."
+  },
+  {
+   "s": "recording",
+   "p": "history",
+   "v": "remained in a private archive for many years before being released to the public",
+   "quote": "The audio recording of the interview remained in a private archive for many years before being released to the public."
+  },
+  {
+   "s": "pomorski",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Two months after the incident, in July 1978, Wolski described his recollections in an interview with Henryk Pomorski and Krystyna Adamczyk."
+  },
+  {
+   "s": "pomorski",
+   "p": "interviewed",
+   "o": "wolski",
+   "quote": "Two months after the incident, in July 1978, Wolski described his recollections in an interview with Henryk Pomorski and Krystyna Adamczyk."
+  },
+  {
+   "s": "adamczyk",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Two months after the incident, in July 1978, Wolski described his recollections in an interview with Henryk Pomorski and Krystyna Adamczyk."
+  },
+  {
+   "s": "adamczyk",
+   "p": "interviewed",
+   "o": "wolski",
+   "quote": "Two months after the incident, in July 1978, Wolski described his recollections in an interview with Henryk Pomorski and Krystyna Adamczyk."
+  },
+  {
+   "s": "adamczyk",
+   "p": "colleague_of",
+   "o": "pomorski",
+   "quote": "Two months after the incident, in July 1978, Wolski described his recollections in an interview with Henryk Pomorski and Krystyna Adamczyk."
+  },
+  {
+   "s": "przybysze",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "In 1978, a short comic book about the event, titled Przybysze (English: The Visitors), written by Henryk Kurta and illustrated by Grzegorz Rosiński, was published."
+  },
+  {
+   "s": "przybysze",
+   "p": "year",
+   "v": "1978",
+   "quote": "In 1978, a short comic book about the event, titled Przybysze (English: The Visitors), written by Henryk Kurta and illustrated by Grzegorz Rosiński, was published."
+  },
+  {
+   "s": "przybysze",
+   "p": "format",
+   "v": "short comic book",
+   "quote": "In 1978, a short comic book about the event, titled Przybysze (English: The Visitors), written by Henryk Kurta and illustrated by Grzegorz Rosiński, was published."
+  },
+  {
+   "s": "przybysze",
+   "p": "english_title",
+   "v": "The Visitors",
+   "quote": "In 1978, a short comic book about the event, titled Przybysze (English: The Visitors), written by Henryk Kurta and illustrated by Grzegorz Rosiński, was published."
+  },
+  {
+   "s": "kurta",
+   "p": "commentator",
+   "o": "case",
+   "quote": "In 1978, a short comic book about the event, titled Przybysze (English: The Visitors), written by Henryk Kurta and illustrated by Grzegorz Rosiński, was published."
+  },
+  {
+   "s": "kurta",
+   "p": "authored",
+   "o": "przybysze",
+   "quote": "In 1978, a short comic book about the event, titled Przybysze (English: The Visitors), written by Henryk Kurta and illustrated by Grzegorz Rosiński, was published."
+  },
+  {
+   "s": "rosinski",
+   "p": "commentator",
+   "o": "case",
+   "quote": "In 1978, a short comic book about the event, titled Przybysze (English: The Visitors), written by Henryk Kurta and illustrated by Grzegorz Rosiński, was published."
+  },
+  {
+   "s": "rosinski",
+   "p": "authored",
+   "o": "przybysze",
+   "quote": "In 1978, a short comic book about the event, titled Przybysze (English: The Visitors), written by Henryk Kurta and illustrated by Grzegorz Rosiński, was published."
+  },
+  {
+   "s": "rosinski",
+   "p": "role",
+   "v": "illustrator",
+   "quote": "In 1978, a short comic book about the event, titled Przybysze (English: The Visitors), written by Henryk Kurta and illustrated by Grzegorz Rosiński, was published."
+  },
+  {
+   "s": "kurta",
+   "p": "role",
+   "v": "writer",
+   "quote": "In 1978, a short comic book about the event, titled Przybysze (English: The Visitors), written by Henryk Kurta and illustrated by Grzegorz Rosiński, was published."
+  },
+  {
+   "s": "projektufo",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The 2025 Polish Netflix series Project UFO (Polish: Projekt UFO) is reported to be inspired by the Emilcin abduction."
+  },
+  {
+   "s": "projektufo",
+   "p": "year",
+   "v": "2025",
+   "quote": "The 2025 Polish Netflix series Project UFO (Polish: Projekt UFO) is reported to be inspired by the Emilcin abduction."
+  },
+  {
+   "s": "projektufo",
+   "p": "format",
+   "v": "Polish Netflix series",
+   "quote": "The 2025 Polish Netflix series Project UFO (Polish: Projekt UFO) is reported to be inspired by the Emilcin abduction."
+  },
+  {
+   "s": "netflix",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The 2025 Polish Netflix series Project UFO (Polish: Projekt UFO) is reported to be inspired by the Emilcin abduction."
+  },
+  {
+   "s": "netflix",
+   "p": "published",
+   "o": "projektufo",
+   "quote": "The 2025 Polish Netflix series Project UFO (Polish: Projekt UFO) is reported to be inspired by the Emilcin abduction."
+  },
+  {
+   "s": "fourthkind",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The Emilcin Incident: A Polish Encounter of the Fourth Kind"
+  },
+  {
+   "s": "case",
+   "p": "media",
+   "v": "subject of several books and short television documentaries in Poland",
+   "quote": "The Emilcin incident has been the subject of several books and short television documentaries in Poland."
+  },
+  {
+   "s": "f_abduction-claim",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Emilcin abduction was a supposed alien abduction of Polish farmer Jan Wolski in May 1978."
+  },
+  {
+   "s": "f_occupants-reported",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Jan Wolski (; 29 May 1907 – 8 January 1990) was a Polish farmer who reported that, early on 10 May 1978, while driving a horse-drawn cart, he was approached by two beings he described as \"short, green-faced humanoid entities\" approximately 5 feet (1.5 m) tall."
+  },
+  {
+   "s": "f_hovering",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Wolski stated that he drove with the beings to a clearing where a large object was hovering."
+  },
+  {
+   "s": "f_sound-reported",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "He stated that the craft had four black, drill-like protrusions that produced a humming sound."
+  },
+  {
+   "s": "f_physical-traces",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to accounts, the grass where the craft had been was \"trodden down, covered with dew, and had paths coming in all directions\"."
+  },
+  {
+   "s": "f_landing-reported",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The inscription in Polish reads: \"On 10 May 1978 in Emilcin a UFO object landed. The truth will astonish us in the future.\""
+  },
+  {
+   "s": "f_child-witnesses",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "A six-year-old boy also claimed to have seen a bus-shaped craft hovering over a barn before ascending into the sky and disappearing."
+  },
+  {
+   "s": "f_animal-reaction",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "He also described seeing rooks near the doorway, moving their legs and wings but apparently immobilized."
+  },
+  {
+   "s": "f_shape-other",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "A six-year-old boy also claimed to have seen a bus-shaped craft hovering over a barn before ascending into the sky and disappearing."
+  },
+  {
+   "s": "f_other_medical_examination_aboard_craft",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to his account, he was examined with a device resembling two dishes or \"saucers\"."
+  }
+ ]
+}

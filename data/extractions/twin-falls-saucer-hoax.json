@@ -1,0 +1,1407 @@
+{
+ "slug": "twin-falls-saucer-hoax",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Twin Falls saucer hoax",
+   "description": "A 30-inch 'flying disc' found in a Twin Falls, Idaho yard on July 11, 1947, which the FBI and Army declared a hoax by local teenagers.",
+   "aliases": [
+    "Twin Falls hoax",
+    "Twin Falls disc"
+   ]
+  },
+  {
+   "key": "twinfalls",
+   "type": "place",
+   "name": "Twin Falls, Idaho",
+   "description": "City where the disc was found",
+   "aliases": [
+    "Twin Falls"
+   ]
+  },
+  {
+   "key": "idaho",
+   "type": "place",
+   "name": "Idaho",
+   "description": "US state"
+  },
+  {
+   "key": "usa",
+   "type": "place",
+   "name": "United States",
+   "description": "Country"
+  },
+  {
+   "key": "fbi",
+   "type": "organization",
+   "name": "Federal Bureau of Investigation",
+   "description": "US federal agency that took possession of the disc",
+   "aliases": [
+    "FBI"
+   ]
+  },
+  {
+   "key": "army",
+   "type": "organization",
+   "name": "United States Army",
+   "description": "Military service that took possession of and investigated the disc",
+   "aliases": [
+    "Army",
+    "military intelligence"
+   ]
+  },
+  {
+   "key": "arnold",
+   "type": "person",
+   "name": "Kenneth Arnold",
+   "description": "Civilian pilot who reported 'flying discs' on June 24, 1947"
+  },
+  {
+   "key": "arnoldcase",
+   "type": "case",
+   "name": "Kenneth Arnold UFO sighting",
+   "description": "June 24, 1947 sighting of 'flying discs' by Kenneth Arnold"
+  },
+  {
+   "key": "timesnews",
+   "type": "organization",
+   "name": "Twin Falls Times-News",
+   "description": "Twin Falls newspaper",
+   "aliases": [
+    "Times-News"
+   ]
+  },
+  {
+   "key": "galena",
+   "type": "place",
+   "name": "Galena Summit",
+   "description": "Location of a reported July 1947 disc sighting"
+  },
+  {
+   "key": "galenacase",
+   "type": "case",
+   "name": "1947 Galena Summit sighting",
+   "description": "Forest ranger and companion reported eight to ten discs in V formation over Galena Summit"
+  },
+  {
+   "key": "nicholson",
+   "type": "person",
+   "name": "Walter Nicholson",
+   "description": "One of the Galena Summit witnesses"
+  },
+  {
+   "key": "meuser",
+   "type": "person",
+   "name": "J. F. Meuser",
+   "description": "Reported a ball of fire near Malta, Idaho",
+   "aliases": [
+    "Mr. J. F. Meuser"
+   ]
+  },
+  {
+   "key": "mrsmeuser",
+   "type": "person",
+   "name": "Mrs. J. F. Meuser",
+   "description": "Reported a ball of fire near Malta, Idaho, with her husband"
+  },
+  {
+   "key": "malta",
+   "type": "place",
+   "name": "Malta, Idaho",
+   "description": "Town near the Meuser sighting"
+  },
+  {
+   "key": "maltacase",
+   "type": "case",
+   "name": "1947 Malta, Idaho sighting",
+   "description": "Mr. and Mrs. J. F. Meuser reported a big ball of fire while driving near Malta, Idaho"
+  },
+  {
+   "key": "tiffany",
+   "type": "person",
+   "name": "B. G. Tiffany",
+   "description": "Railway foreman who reported nine discs over Hollister, Idaho"
+  },
+  {
+   "key": "hollister",
+   "type": "place",
+   "name": "Hollister, Idaho",
+   "description": "Town over which Tiffany's crew reported discs"
+  },
+  {
+   "key": "hollistercase",
+   "type": "case",
+   "name": "1947 Hollister, Idaho sighting",
+   "description": "Railway crew reported a fleet of nine discs in V formation over Hollister"
+  },
+  {
+   "key": "dempsey",
+   "type": "person",
+   "name": "R. L. Dempsey",
+   "description": "Twin Falls resident who reported two discs over the city"
+  },
+  {
+   "key": "dempseycase",
+   "type": "case",
+   "name": "1947 Twin Falls sighting (July 4)",
+   "description": "R. L. Dempsey reported two discs over Twin Falls"
+  },
+  {
+   "key": "richfield",
+   "type": "place",
+   "name": "Richfield, Idaho",
+   "description": "Town whose residents reported a single disc"
+  },
+  {
+   "key": "richfieldcase",
+   "type": "case",
+   "name": "1947 Richfield, Idaho sighting",
+   "description": "Three Richfield residents reported a single disc"
+  },
+  {
+   "key": "picniccase",
+   "type": "case",
+   "name": "1947 Twin Falls picnickers sighting",
+   "description": "60 picnickers reportedly saw 35 discs over Twin Falls on July 5"
+  },
+  {
+   "key": "boyscase",
+   "type": "case",
+   "name": "1947 Twin Falls region sighting (July 7)",
+   "description": "Three 14- to 15-year-old boys named as witnesses of a lone disc"
+  },
+  {
+   "key": "roswellcase",
+   "type": "case",
+   "name": "Roswell incident",
+   "description": "July 1947 reported recovery of a 'flying disc' by Army personnel at Roswell"
+  },
+  {
+   "key": "roswell",
+   "type": "place",
+   "name": "Roswell",
+   "description": "Location of the Army's reported disc recovery"
+  },
+  {
+   "key": "up",
+   "type": "organization",
+   "name": "United Press",
+   "description": "News agency"
+  },
+  {
+   "key": "nhollywood",
+   "type": "place",
+   "name": "North Hollywood",
+   "description": "Location of an alleged hoax saucer recovery"
+  },
+  {
+   "key": "nhcase",
+   "type": "case",
+   "name": "1947 North Hollywood saucer hoax",
+   "description": "Hoax saucer allegedly recovered in North Hollywood, reported July 10"
+  },
+  {
+   "key": "ftdouglas",
+   "type": "place",
+   "name": "Fort Douglas",
+   "description": "Army post from which officers flew in to investigate"
+  },
+  {
+   "key": "easterbrook",
+   "type": "person",
+   "name": "Easterbrook",
+   "description": "Woman reported to have heard a \"thud\" around 2.30am",
+   "aliases": [
+    "Mrs Easterbrook"
+   ]
+  },
+  {
+   "key": "thompson",
+   "type": "person",
+   "name": "Thompson",
+   "description": "Woman in whose yard the boys reportedly planted the disc",
+   "aliases": [
+    "Mrs Thompson"
+   ]
+  },
+  {
+   "key": "slc",
+   "type": "place",
+   "name": "Salt Lake City",
+   "description": "City whose newspaper reported the boys' confession"
+  },
+  {
+   "key": "banister",
+   "type": "person",
+   "name": "Guy Banister",
+   "description": "FBI Special Agent In Charge who reported the object had been turned over to the Army"
+  },
+  {
+   "key": "deseret",
+   "type": "organization",
+   "name": "Deseret News",
+   "description": "Newspaper that described the disc"
+  },
+  {
+   "key": "indrecord",
+   "type": "organization",
+   "name": "The Independent Record",
+   "description": "Newspaper that described the disc"
+  },
+  {
+   "key": "maurycase",
+   "type": "case",
+   "name": "Maury Island incident",
+   "description": "Reports of recovered disc debris at Maury Island, Washington",
+   "aliases": [
+    "Maury Island"
+   ]
+  },
+  {
+   "key": "maury",
+   "type": "place",
+   "name": "Maury Island, Washington",
+   "description": "Location of reported disc debris"
+  },
+  {
+   "key": "azteccase",
+   "type": "case",
+   "name": "Aztec crashed saucer hoax",
+   "description": "1949 'crashed disc' story",
+   "aliases": [
+    "Aztec, New Mexico UFO hoax"
+   ]
+  },
+  {
+   "key": "aztec",
+   "type": "place",
+   "name": "Aztec, New Mexico",
+   "description": "Location of the 1949 crashed disc story"
+  },
+  {
+   "key": "garrison",
+   "type": "person",
+   "name": "Jim Garrison",
+   "description": "New Orleans District Attorney who accused Banister of involvement in the JFK assassination"
+  },
+  {
+   "key": "neworleans",
+   "type": "place",
+   "name": "New Orleans",
+   "description": "City where Jim Garrison was District Attorney"
+  },
+  {
+   "key": "jfk",
+   "type": "work",
+   "name": "JFK",
+   "description": "1991 film dramatizing Garrison's accusations"
+  },
+  {
+   "key": "thomas",
+   "type": "person",
+   "name": "Kenn Thomas",
+   "description": "Fringe conspiracy theorist"
+  },
+  {
+   "key": "redfern",
+   "type": "person",
+   "name": "Nick Redfern",
+   "description": "Fringe conspiracy theorist"
+  },
+  {
+   "key": "lavenda",
+   "type": "person",
+   "name": "Peter Lavenda",
+   "description": "Fringe conspiracy theorist"
+  },
+  {
+   "key": "disc",
+   "type": "craft",
+   "name": "Twin Falls disc",
+   "description": "30-inch disc with radio tubes, coils and wires under a Plexiglas dome"
+  },
+  {
+   "key": "photos",
+   "type": "document",
+   "name": "photographs of the Twin Falls disc",
+   "description": "Photographs confiscated, then publicly released"
+  },
+  {
+   "key": "f_shape_disc",
+   "type": "feature",
+   "name": "shape-disc",
+   "description": "shape-disc"
+  },
+  {
+   "key": "f_debris_or_material",
+   "type": "feature",
+   "name": "debris-or-material",
+   "description": "debris-or-material"
+  },
+  {
+   "key": "f_official_investigation",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "official-investigation"
+  },
+  {
+   "key": "x_hoax",
+   "type": "explanation",
+   "name": "hoax",
+   "description": "hoax"
+  },
+  {
+   "key": "f_hoax_confessed",
+   "type": "feature",
+   "name": "hoax-confessed",
+   "description": "hoax-confessed"
+  },
+  {
+   "key": "f_sound_reported",
+   "type": "feature",
+   "name": "sound-reported",
+   "description": "sound-reported"
+  },
+  {
+   "key": "f_multiple_witnesses",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "multiple-witnesses"
+  },
+  {
+   "key": "f_shape_sphere",
+   "type": "feature",
+   "name": "shape-sphere",
+   "description": "shape-sphere"
+  },
+  {
+   "key": "f_silent",
+   "type": "feature",
+   "name": "silent",
+   "description": "silent"
+  },
+  {
+   "key": "f_mass_sighting",
+   "type": "feature",
+   "name": "mass-sighting",
+   "description": "mass-sighting"
+  },
+  {
+   "key": "f_child_witnesses",
+   "type": "feature",
+   "name": "child-witnesses",
+   "description": "child-witnesses"
+  },
+  {
+   "key": "x_balloon",
+   "type": "explanation",
+   "name": "balloon",
+   "description": "balloon"
+  },
+  {
+   "key": "f_photograph",
+   "type": "feature",
+   "name": "photograph",
+   "description": "photograph"
+  },
+  {
+   "key": "f_crash_retrieval_claim",
+   "type": "feature",
+   "name": "crash-retrieval-claim",
+   "description": "crash-retrieval-claim"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1947-07-11",
+   "quote": "The Twin Falls saucer hoax was a purported flying disc discovered in Twin Falls, Idaho, United States, on July 11, 1947."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "The Twin Falls saucer hoax was a purported flying disc discovered in Twin Falls, Idaho, United States, on July 11, 1947."
+  },
+  {
+   "s": "twinfalls",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Twin Falls saucer hoax was a purported flying disc discovered in Twin Falls, Idaho, United States, on July 11, 1947."
+  },
+  {
+   "s": "twinfalls",
+   "p": "located_in",
+   "o": "idaho",
+   "quote": "The Twin Falls saucer hoax was a purported flying disc discovered in Twin Falls, Idaho, United States, on July 11, 1947."
+  },
+  {
+   "s": "idaho",
+   "p": "located_in",
+   "o": "usa",
+   "quote": "The Twin Falls saucer hoax was a purported flying disc discovered in Twin Falls, Idaho, United States, on July 11, 1947."
+  },
+  {
+   "s": "idaho",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Twin Falls saucer hoax was a purported flying disc discovered in Twin Falls, Idaho, United States, on July 11, 1947."
+  },
+  {
+   "s": "usa",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Twin Falls saucer hoax was a purported flying disc discovered in Twin Falls, Idaho, United States, on July 11, 1947."
+  },
+  {
+   "s": "disc",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "The Twin Falls saucer hoax was a purported flying disc discovered in Twin Falls, Idaho, United States, on July 11, 1947."
+  },
+  {
+   "s": "disc",
+   "p": "size",
+   "v": "30 in (76 cm) diameter",
+   "quote": "Amid a nationwide wave of alleged \"flying disc\" sightings, residents of Twin Falls reported recovering a 30 in (76 cm)-diameter \"disc\"."
+  },
+  {
+   "s": "f_shape_disc",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Amid a nationwide wave of alleged \"flying disc\" sightings, residents of Twin Falls reported recovering a 30 in (76 cm)-diameter \"disc\"."
+  },
+  {
+   "s": "f_debris_or_material",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Amid a nationwide wave of alleged \"flying disc\" sightings, residents of Twin Falls reported recovering a 30 in (76 cm)-diameter \"disc\"."
+  },
+  {
+   "s": "fbi",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "FBI and Army officials took possession of the disc and quickly proclaimed the object to be a hoax."
+  },
+  {
+   "s": "army",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "FBI and Army officials took possession of the disc and quickly proclaimed the object to be a hoax."
+  },
+  {
+   "s": "f_official_investigation",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "FBI and Army officials took possession of the disc and quickly proclaimed the object to be a hoax."
+  },
+  {
+   "s": "x_hoax",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "FBI and Army officials took possession of the disc and quickly proclaimed the object to be a hoax."
+  },
+  {
+   "s": "fbi",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "FBI and Army officials took possession of the disc and quickly proclaimed the object to be a hoax."
+  },
+  {
+   "s": "army",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "FBI and Army officials took possession of the disc and quickly proclaimed the object to be a hoax."
+  },
+  {
+   "s": "f_hoax_confessed",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Press reported that local teenagers admitted to perpetrating the hoax."
+  },
+  {
+   "s": "arnoldcase",
+   "p": "related_case",
+   "o": "case",
+   "quote": "On June 24, 1947, civilian pilot Kenneth Arnold reported a sighting of 'flying discs'."
+  },
+  {
+   "s": "arnold",
+   "p": "witness",
+   "o": "arnoldcase",
+   "quote": "On June 24, 1947, civilian pilot Kenneth Arnold reported a sighting of 'flying discs'."
+  },
+  {
+   "s": "arnold",
+   "p": "occupation",
+   "v": "civilian pilot",
+   "quote": "On June 24, 1947, civilian pilot Kenneth Arnold reported a sighting of 'flying discs'."
+  },
+  {
+   "s": "arnoldcase",
+   "p": "date_start",
+   "v": "1947-06-24",
+   "quote": "On June 24, 1947, civilian pilot Kenneth Arnold reported a sighting of 'flying discs'."
+  },
+  {
+   "s": "case",
+   "p": "context",
+   "v": "by June 27, 1947, disc sightings were being reported nation-wide",
+   "quote": "By June 27, disc sightings were being reported nation-wide."
+  },
+  {
+   "s": "timesnews",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On July 1, Twin Falls Times-News declared that \"flying saucers have invaded\" the Twin Falls region after a forest ranger and his companion reported seeing eight to ten \"discs\" flying in a V-shaped formation over Galena Summit."
+  },
+  {
+   "s": "timesnews",
+   "p": "located_in",
+   "o": "twinfalls",
+   "quote": "On July 1, Twin Falls Times-News declared that \"flying saucers have invaded\" the Twin Falls region after a forest ranger and his companion reported seeing eight to ten \"discs\" flying in a V-shaped formation over Galena Summit."
+  },
+  {
+   "s": "timesnews",
+   "p": "statement",
+   "v": "flying saucers have invaded",
+   "quote": "On July 1, Twin Falls Times-News declared that \"flying saucers have invaded\" the Twin Falls region after a forest ranger and his companion reported seeing eight to ten \"discs\" flying in a V-shaped formation over Galena Summit."
+  },
+  {
+   "s": "galenacase",
+   "p": "related_case",
+   "o": "case",
+   "quote": "On July 1, Twin Falls Times-News declared that \"flying saucers have invaded\" the Twin Falls region after a forest ranger and his companion reported seeing eight to ten \"discs\" flying in a V-shaped formation over Galena Summit."
+  },
+  {
+   "s": "galena",
+   "p": "occurred_at",
+   "o": "galenacase",
+   "quote": "On July 1, Twin Falls Times-News declared that \"flying saucers have invaded\" the Twin Falls region after a forest ranger and his companion reported seeing eight to ten \"discs\" flying in a V-shaped formation over Galena Summit."
+  },
+  {
+   "s": "galenacase",
+   "p": "report_date",
+   "v": "1947-07-01",
+   "quote": "On July 1, Twin Falls Times-News declared that \"flying saucers have invaded\" the Twin Falls region after a forest ranger and his companion reported seeing eight to ten \"discs\" flying in a V-shaped formation over Galena Summit."
+  },
+  {
+   "s": "galenacase",
+   "p": "object_count",
+   "v": "eight to ten discs",
+   "quote": "On July 1, Twin Falls Times-News declared that \"flying saucers have invaded\" the Twin Falls region after a forest ranger and his companion reported seeing eight to ten \"discs\" flying in a V-shaped formation over Galena Summit."
+  },
+  {
+   "s": "galenacase",
+   "p": "formation",
+   "v": "V-shaped formation",
+   "quote": "On July 1, Twin Falls Times-News declared that \"flying saucers have invaded\" the Twin Falls region after a forest ranger and his companion reported seeing eight to ten \"discs\" flying in a V-shaped formation over Galena Summit."
+  },
+  {
+   "s": "galenacase",
+   "p": "witness_count",
+   "v": "2",
+   "quote": "On July 1, Twin Falls Times-News declared that \"flying saucers have invaded\" the Twin Falls region after a forest ranger and his companion reported seeing eight to ten \"discs\" flying in a V-shaped formation over Galena Summit."
+  },
+  {
+   "s": "galenacase",
+   "p": "witnesses",
+   "v": "a forest ranger and his companion",
+   "quote": "On July 1, Twin Falls Times-News declared that \"flying saucers have invaded\" the Twin Falls region after a forest ranger and his companion reported seeing eight to ten \"discs\" flying in a V-shaped formation over Galena Summit."
+  },
+  {
+   "s": "galenacase",
+   "p": "sound",
+   "v": "buzzing noise overhead",
+   "quote": "The two men were marking timber about three miles south of Galena Summit when they reportedly heard a buzzing noise overhead and saw shining objects above them."
+  },
+  {
+   "s": "galenacase",
+   "p": "location_detail",
+   "v": "about three miles south of Galena Summit",
+   "quote": "The two men were marking timber about three miles south of Galena Summit when they reportedly heard a buzzing noise overhead and saw shining objects above them."
+  },
+  {
+   "s": "galenacase",
+   "p": "object_description",
+   "v": "shining objects",
+   "quote": "The two men were marking timber about three miles south of Galena Summit when they reportedly heard a buzzing noise overhead and saw shining objects above them."
+  },
+  {
+   "s": "f_sound_reported",
+   "p": "has_feature",
+   "o": "galenacase",
+   "quote": "The two men were marking timber about three miles south of Galena Summit when they reportedly heard a buzzing noise overhead and saw shining objects above them."
+  },
+  {
+   "s": "f_multiple_witnesses",
+   "p": "has_feature",
+   "o": "galenacase",
+   "quote": "The two men were marking timber about three miles south of Galena Summit when they reportedly heard a buzzing noise overhead and saw shining objects above them."
+  },
+  {
+   "s": "nicholson",
+   "p": "witness",
+   "o": "galenacase",
+   "quote": "One of the witnesses, Walter Nicholson, was quoted as saying \"it wasn't anything like an airplane\"."
+  },
+  {
+   "s": "nicholson",
+   "p": "statement",
+   "v": "it wasn't anything like an airplane",
+   "quote": "One of the witnesses, Walter Nicholson, was quoted as saying \"it wasn't anything like an airplane\"."
+  },
+  {
+   "s": "maltacase",
+   "p": "related_case",
+   "o": "case",
+   "quote": "The following day, on July 2, press reported on a second sighting."
+  },
+  {
+   "s": "maltacase",
+   "p": "report_date",
+   "v": "1947-07-02",
+   "quote": "The following day, on July 2, press reported on a second sighting."
+  },
+  {
+   "s": "meuser",
+   "p": "witness",
+   "o": "maltacase",
+   "quote": "Mr. and Mrs. J. F. Meuser were reportedly driving near Malta, Idaho, when they spotted a lone \"big ball of fire\" about the size of the moon, only \"much brighter\"."
+  },
+  {
+   "s": "mrsmeuser",
+   "p": "witness",
+   "o": "maltacase",
+   "quote": "Mr. and Mrs. J. F. Meuser were reportedly driving near Malta, Idaho, when they spotted a lone \"big ball of fire\" about the size of the moon, only \"much brighter\"."
+  },
+  {
+   "s": "meuser",
+   "p": "relative_of",
+   "o": "mrsmeuser",
+   "quote": "Mr. and Mrs. J. F. Meuser were reportedly driving near Malta, Idaho, when they spotted a lone \"big ball of fire\" about the size of the moon, only \"much brighter\"."
+  },
+  {
+   "s": "malta",
+   "p": "near",
+   "o": "maltacase",
+   "quote": "Mr. and Mrs. J. F. Meuser were reportedly driving near Malta, Idaho, when they spotted a lone \"big ball of fire\" about the size of the moon, only \"much brighter\"."
+  },
+  {
+   "s": "maltacase",
+   "p": "object_description",
+   "v": "a lone big ball of fire",
+   "quote": "Mr. and Mrs. J. F. Meuser were reportedly driving near Malta, Idaho, when they spotted a lone \"big ball of fire\" about the size of the moon, only \"much brighter\"."
+  },
+  {
+   "s": "maltacase",
+   "p": "size",
+   "v": "about the size of the moon",
+   "quote": "Mr. and Mrs. J. F. Meuser were reportedly driving near Malta, Idaho, when they spotted a lone \"big ball of fire\" about the size of the moon, only \"much brighter\"."
+  },
+  {
+   "s": "maltacase",
+   "p": "brightness",
+   "v": "much brighter than the moon",
+   "quote": "Mr. and Mrs. J. F. Meuser were reportedly driving near Malta, Idaho, when they spotted a lone \"big ball of fire\" about the size of the moon, only \"much brighter\"."
+  },
+  {
+   "s": "f_shape_sphere",
+   "p": "has_feature",
+   "o": "maltacase",
+   "quote": "Mr. and Mrs. J. F. Meuser were reportedly driving near Malta, Idaho, when they spotted a lone \"big ball of fire\" about the size of the moon, only \"much brighter\"."
+  },
+  {
+   "s": "hollistercase",
+   "p": "related_case",
+   "o": "case",
+   "quote": "A third sighting was reported on July 3; railway foreman B. G. Tiffany contacted the Times-News with a story of him and his crew having seen a fleet of nine discs noiselessly flying in a V-shaped formation over Hollister, Idaho, a month prior."
+  },
+  {
+   "s": "tiffany",
+   "p": "witness",
+   "o": "hollistercase",
+   "quote": "A third sighting was reported on July 3; railway foreman B. G. Tiffany contacted the Times-News with a story of him and his crew having seen a fleet of nine discs noiselessly flying in a V-shaped formation over Hollister, Idaho, a month prior."
+  },
+  {
+   "s": "tiffany",
+   "p": "occupation",
+   "v": "railway foreman",
+   "quote": "A third sighting was reported on July 3; railway foreman B. G. Tiffany contacted the Times-News with a story of him and his crew having seen a fleet of nine discs noiselessly flying in a V-shaped formation over Hollister, Idaho, a month prior."
+  },
+  {
+   "s": "hollister",
+   "p": "occurred_at",
+   "o": "hollistercase",
+   "quote": "A third sighting was reported on July 3; railway foreman B. G. Tiffany contacted the Times-News with a story of him and his crew having seen a fleet of nine discs noiselessly flying in a V-shaped formation over Hollister, Idaho, a month prior."
+  },
+  {
+   "s": "hollistercase",
+   "p": "report_date",
+   "v": "1947-07-03",
+   "quote": "A third sighting was reported on July 3; railway foreman B. G. Tiffany contacted the Times-News with a story of him and his crew having seen a fleet of nine discs noiselessly flying in a V-shaped formation over Hollister, Idaho, a month prior."
+  },
+  {
+   "s": "hollistercase",
+   "p": "object_count",
+   "v": "nine discs",
+   "quote": "A third sighting was reported on July 3; railway foreman B. G. Tiffany contacted the Times-News with a story of him and his crew having seen a fleet of nine discs noiselessly flying in a V-shaped formation over Hollister, Idaho, a month prior."
+  },
+  {
+   "s": "hollistercase",
+   "p": "formation",
+   "v": "V-shaped formation",
+   "quote": "A third sighting was reported on July 3; railway foreman B. G. Tiffany contacted the Times-News with a story of him and his crew having seen a fleet of nine discs noiselessly flying in a V-shaped formation over Hollister, Idaho, a month prior."
+  },
+  {
+   "s": "hollistercase",
+   "p": "date_note",
+   "v": "a month prior to July 3, 1947",
+   "quote": "A third sighting was reported on July 3; railway foreman B. G. Tiffany contacted the Times-News with a story of him and his crew having seen a fleet of nine discs noiselessly flying in a V-shaped formation over Hollister, Idaho, a month prior."
+  },
+  {
+   "s": "f_silent",
+   "p": "has_feature",
+   "o": "hollistercase",
+   "quote": "A third sighting was reported on July 3; railway foreman B. G. Tiffany contacted the Times-News with a story of him and his crew having seen a fleet of nine discs noiselessly flying in a V-shaped formation over Hollister, Idaho, a month prior."
+  },
+  {
+   "s": "f_multiple_witnesses",
+   "p": "has_feature",
+   "o": "hollistercase",
+   "quote": "A third sighting was reported on July 3; railway foreman B. G. Tiffany contacted the Times-News with a story of him and his crew having seen a fleet of nine discs noiselessly flying in a V-shaped formation over Hollister, Idaho, a month prior."
+  },
+  {
+   "s": "f_shape_disc",
+   "p": "has_feature",
+   "o": "hollistercase",
+   "quote": "A third sighting was reported on July 3; railway foreman B. G. Tiffany contacted the Times-News with a story of him and his crew having seen a fleet of nine discs noiselessly flying in a V-shaped formation over Hollister, Idaho, a month prior."
+  },
+  {
+   "s": "timesnews",
+   "p": "involved_org",
+   "o": "hollistercase",
+   "quote": "A third sighting was reported on July 3; railway foreman B. G. Tiffany contacted the Times-News with a story of him and his crew having seen a fleet of nine discs noiselessly flying in a V-shaped formation over Hollister, Idaho, a month prior."
+  },
+  {
+   "s": "dempseycase",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Twin Falls resident R. L. Dempsey reported seeing two discs over the city."
+  },
+  {
+   "s": "dempsey",
+   "p": "witness",
+   "o": "dempseycase",
+   "quote": "Twin Falls resident R. L. Dempsey reported seeing two discs over the city."
+  },
+  {
+   "s": "twinfalls",
+   "p": "occurred_at",
+   "o": "dempseycase",
+   "quote": "Twin Falls resident R. L. Dempsey reported seeing two discs over the city."
+  },
+  {
+   "s": "dempseycase",
+   "p": "object_count",
+   "v": "two discs",
+   "quote": "Twin Falls resident R. L. Dempsey reported seeing two discs over the city."
+  },
+  {
+   "s": "dempseycase",
+   "p": "report_date",
+   "v": "1947-07-04",
+   "quote": "Two additional sightings were reported on July 4."
+  },
+  {
+   "s": "richfieldcase",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Three residents of Richfield, Idaho, reported having seen a single disc."
+  },
+  {
+   "s": "richfield",
+   "p": "related_place",
+   "o": "richfieldcase",
+   "quote": "Three residents of Richfield, Idaho, reported having seen a single disc."
+  },
+  {
+   "s": "richfieldcase",
+   "p": "witness_count",
+   "v": "3",
+   "quote": "Three residents of Richfield, Idaho, reported having seen a single disc."
+  },
+  {
+   "s": "richfieldcase",
+   "p": "object_count",
+   "v": "a single disc",
+   "quote": "Three residents of Richfield, Idaho, reported having seen a single disc."
+  },
+  {
+   "s": "richfieldcase",
+   "p": "report_date",
+   "v": "1947-07-04",
+   "quote": "Two additional sightings were reported on July 4."
+  },
+  {
+   "s": "picniccase",
+   "p": "related_case",
+   "o": "case",
+   "quote": "On July 5, a group of 60 picnickers reportedly witnessed 35 discs in the skies over Twin Falls, making it the \"largest number of the mystery devices reported anywhere in the nation\", according to local press."
+  },
+  {
+   "s": "twinfalls",
+   "p": "occurred_at",
+   "o": "picniccase",
+   "quote": "On July 5, a group of 60 picnickers reportedly witnessed 35 discs in the skies over Twin Falls, making it the \"largest number of the mystery devices reported anywhere in the nation\", according to local press."
+  },
+  {
+   "s": "picniccase",
+   "p": "date_start",
+   "v": "1947-07-05",
+   "quote": "On July 5, a group of 60 picnickers reportedly witnessed 35 discs in the skies over Twin Falls, making it the \"largest number of the mystery devices reported anywhere in the nation\", according to local press."
+  },
+  {
+   "s": "picniccase",
+   "p": "witness_count",
+   "v": "60",
+   "quote": "On July 5, a group of 60 picnickers reportedly witnessed 35 discs in the skies over Twin Falls, making it the \"largest number of the mystery devices reported anywhere in the nation\", according to local press."
+  },
+  {
+   "s": "picniccase",
+   "p": "object_count",
+   "v": "35 discs",
+   "quote": "On July 5, a group of 60 picnickers reportedly witnessed 35 discs in the skies over Twin Falls, making it the \"largest number of the mystery devices reported anywhere in the nation\", according to local press."
+  },
+  {
+   "s": "picniccase",
+   "p": "press_description",
+   "v": "largest number of the mystery devices reported anywhere in the nation",
+   "quote": "On July 5, a group of 60 picnickers reportedly witnessed 35 discs in the skies over Twin Falls, making it the \"largest number of the mystery devices reported anywhere in the nation\", according to local press."
+  },
+  {
+   "s": "f_mass_sighting",
+   "p": "has_feature",
+   "o": "picniccase",
+   "quote": "On July 5, a group of 60 picnickers reportedly witnessed 35 discs in the skies over Twin Falls, making it the \"largest number of the mystery devices reported anywhere in the nation\", according to local press."
+  },
+  {
+   "s": "boyscase",
+   "p": "related_case",
+   "o": "case",
+   "quote": "On July 7, additional sightings were reported, with one report naming three 14- to 15-year-old boys as witnesses of a lone disc that was \"the size of a motor scooter wheel\"."
+  },
+  {
+   "s": "boyscase",
+   "p": "report_date",
+   "v": "1947-07-07",
+   "quote": "On July 7, additional sightings were reported, with one report naming three 14- to 15-year-old boys as witnesses of a lone disc that was \"the size of a motor scooter wheel\"."
+  },
+  {
+   "s": "boyscase",
+   "p": "witness_count",
+   "v": "3",
+   "quote": "On July 7, additional sightings were reported, with one report naming three 14- to 15-year-old boys as witnesses of a lone disc that was \"the size of a motor scooter wheel\"."
+  },
+  {
+   "s": "boyscase",
+   "p": "witnesses",
+   "v": "three 14- to 15-year-old boys",
+   "quote": "On July 7, additional sightings were reported, with one report naming three 14- to 15-year-old boys as witnesses of a lone disc that was \"the size of a motor scooter wheel\"."
+  },
+  {
+   "s": "boyscase",
+   "p": "size",
+   "v": "the size of a motor scooter wheel",
+   "quote": "On July 7, additional sightings were reported, with one report naming three 14- to 15-year-old boys as witnesses of a lone disc that was \"the size of a motor scooter wheel\"."
+  },
+  {
+   "s": "f_child_witnesses",
+   "p": "has_feature",
+   "o": "boyscase",
+   "quote": "On July 7, additional sightings were reported, with one report naming three 14- to 15-year-old boys as witnesses of a lone disc that was \"the size of a motor scooter wheel\"."
+  },
+  {
+   "s": "roswellcase",
+   "p": "related_case",
+   "o": "case",
+   "quote": "On July 8, it had been reported that Army personnel at Roswell had recovered a 'flying disc'; the following day, it was reported that the Roswell debris was an ordinary weather balloon."
+  },
+  {
+   "s": "roswell",
+   "p": "occurred_at",
+   "o": "roswellcase",
+   "quote": "On July 8, it had been reported that Army personnel at Roswell had recovered a 'flying disc'; the following day, it was reported that the Roswell debris was an ordinary weather balloon."
+  },
+  {
+   "s": "army",
+   "p": "involved_org",
+   "o": "roswellcase",
+   "quote": "On July 8, it had been reported that Army personnel at Roswell had recovered a 'flying disc'; the following day, it was reported that the Roswell debris was an ordinary weather balloon."
+  },
+  {
+   "s": "roswellcase",
+   "p": "report_date",
+   "v": "1947-07-08",
+   "quote": "On July 8, it had been reported that Army personnel at Roswell had recovered a 'flying disc'; the following day, it was reported that the Roswell debris was an ordinary weather balloon."
+  },
+  {
+   "s": "x_balloon",
+   "p": "explained_as",
+   "o": "roswellcase",
+   "quote": "On July 8, it had been reported that Army personnel at Roswell had recovered a 'flying disc'; the following day, it was reported that the Roswell debris was an ordinary weather balloon."
+  },
+  {
+   "s": "f_debris_or_material",
+   "p": "has_feature",
+   "o": "roswellcase",
+   "quote": "On July 8, it had been reported that Army personnel at Roswell had recovered a 'flying disc'; the following day, it was reported that the Roswell debris was an ordinary weather balloon."
+  },
+  {
+   "s": "case",
+   "p": "context",
+   "v": "not the first story of a recovered disc",
+   "quote": "The Twin Falls disc was not the first story of a recovered disc."
+  },
+  {
+   "s": "nhcase",
+   "p": "related_case",
+   "o": "case",
+   "quote": "On July 10, United Press reported on a hoax saucer allegedly recovered in North Hollywood."
+  },
+  {
+   "s": "up",
+   "p": "involved_org",
+   "o": "nhcase",
+   "quote": "On July 10, United Press reported on a hoax saucer allegedly recovered in North Hollywood."
+  },
+  {
+   "s": "nhollywood",
+   "p": "occurred_at",
+   "o": "nhcase",
+   "quote": "On July 10, United Press reported on a hoax saucer allegedly recovered in North Hollywood."
+  },
+  {
+   "s": "nhcase",
+   "p": "report_date",
+   "v": "1947-07-10",
+   "quote": "On July 10, United Press reported on a hoax saucer allegedly recovered in North Hollywood."
+  },
+  {
+   "s": "x_hoax",
+   "p": "explained_as",
+   "o": "nhcase",
+   "quote": "On July 10, United Press reported on a hoax saucer allegedly recovered in North Hollywood."
+  },
+  {
+   "s": "disc",
+   "p": "found_at",
+   "v": "the yard of a Twin Falls home",
+   "quote": "On July 11, the press reported the recovery of a 30-inch (76 cm) disc from the yard of a Twin Falls home."
+  },
+  {
+   "s": "f_sound_reported",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Residents reported hearing a \"thud\" around 2:30 am but dismissed the noise as a truck."
+  },
+  {
+   "s": "case",
+   "p": "sound",
+   "v": "a \"thud\" around 2:30 am, dismissed as a truck",
+   "quote": "Residents reported hearing a \"thud\" around 2:30 am but dismissed the noise as a truck."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "2:30 am",
+   "quote": "Residents reported hearing a \"thud\" around 2:30 am but dismissed the noise as a truck."
+  },
+  {
+   "s": "case",
+   "p": "discovery",
+   "v": "a next-door neighbor discovered the disc at 8:20 am and contacted police",
+   "quote": "At 8:20 am, a next-door neighbor reportedly discovered a \"disc\" and contacted police."
+  },
+  {
+   "s": "case",
+   "p": "police_action",
+   "v": "local police arrived and took possession of the object",
+   "quote": "Local police arrived and took possession of the object."
+  },
+  {
+   "s": "army",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The matter was referred to both FBI and military intelligence."
+  },
+  {
+   "s": "fbi",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The matter was referred to both FBI and military intelligence."
+  },
+  {
+   "s": "ftdouglas",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Multiple officers from Fort Douglas (two lieutenant colonels, two first lieutenants, and a civilian) flew in to investigate."
+  },
+  {
+   "s": "case",
+   "p": "investigators",
+   "v": "two lieutenant colonels, two first lieutenants, and a civilian from Fort Douglas",
+   "quote": "Multiple officers from Fort Douglas (two lieutenant colonels, two first lieutenants, and a civilian) flew in to investigate."
+  },
+  {
+   "s": "case",
+   "p": "secrecy",
+   "v": "authorities clamped down a lid of secrecy pending the outcome of further investigation",
+   "quote": "Authorities \"clamped down a lid of secrecy pending the outcome of further investigation\"."
+  },
+  {
+   "s": "photos",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Local press featured a piece on Army \"cloak and dagger\" during the disc investigation, mentioning that photographs of the object were confiscated."
+  },
+  {
+   "s": "photos",
+   "p": "status",
+   "v": "confiscated during the investigation",
+   "quote": "Local press featured a piece on Army \"cloak and dagger\" during the disc investigation, mentioning that photographs of the object were confiscated."
+  },
+  {
+   "s": "f_photograph",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Local press featured a piece on Army \"cloak and dagger\" during the disc investigation, mentioning that photographs of the object were confiscated."
+  },
+  {
+   "s": "easterbrook",
+   "p": "witness",
+   "o": "case",
+   "quote": "On July 11 a Twin Falls newspaper reported the claim that Mrs Easterbrook heard a \"thud around 2.30am\" and her neighbour \"heard something during the early hours Friday morning but thought it was a truck\"."
+  },
+  {
+   "s": "easterbrook",
+   "p": "statement",
+   "v": "heard a thud around 2.30am",
+   "quote": "On July 11 a Twin Falls newspaper reported the claim that Mrs Easterbrook heard a \"thud around 2.30am\" and her neighbour \"heard something during the early hours Friday morning but thought it was a truck\"."
+  },
+  {
+   "s": "thompson",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "The next day a Salt Lake City newspaper reported: \"Officials stated the boys confessed to planting the disc in the yard of Mrs Thompson at 10:30pm Thursday night\"."
+  },
+  {
+   "s": "slc",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The next day a Salt Lake City newspaper reported: \"Officials stated the boys confessed to planting the disc in the yard of Mrs Thompson at 10:30pm Thursday night\"."
+  },
+  {
+   "s": "case",
+   "p": "confession",
+   "v": "officials stated the boys confessed to planting the disc in the yard of Mrs Thompson at 10:30pm Thursday night",
+   "quote": "The next day a Salt Lake City newspaper reported: \"Officials stated the boys confessed to planting the disc in the yard of Mrs Thompson at 10:30pm Thursday night\"."
+  },
+  {
+   "s": "banister",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "That same day, the FBI Special Agent In Charge Guy Banister reported the object had been turned over to the Army."
+  },
+  {
+   "s": "banister",
+   "p": "employed_by",
+   "o": "fbi",
+   "quote": "That same day, the FBI Special Agent In Charge Guy Banister reported the object had been turned over to the Army."
+  },
+  {
+   "s": "banister",
+   "p": "rank",
+   "v": "FBI Special Agent In Charge",
+   "quote": "That same day, the FBI Special Agent In Charge Guy Banister reported the object had been turned over to the Army."
+  },
+  {
+   "s": "banister",
+   "p": "statement",
+   "v": "the object had been turned over to the Army",
+   "quote": "That same day, the FBI Special Agent In Charge Guy Banister reported the object had been turned over to the Army."
+  },
+  {
+   "s": "case",
+   "p": "hoax_reported_date",
+   "v": "1947-07-12",
+   "quote": "On July 12, it was reported nationally that the Twin Falls disc was a hoax."
+  },
+  {
+   "s": "case",
+   "p": "perpetrators",
+   "v": "four teenagers confessed to creating the disc",
+   "quote": "Press reported that four teenagers had confessed to creating the disc."
+  },
+  {
+   "s": "photos",
+   "p": "status",
+   "v": "publicly released after the hoax was reported",
+   "quote": "Photos of the object were then publicly released."
+  },
+  {
+   "s": "disc",
+   "p": "contents",
+   "v": "radio tubes, electric coils, and wires underneath a Plexiglas dome",
+   "quote": "The object was described as containing radio tubes, electric coils, and wires underneath a Plexiglas dome."
+  },
+  {
+   "s": "deseret",
+   "p": "described",
+   "o": "disc",
+   "quote": "\"The disc is described as being thirty inches in diameter and resembling the base of an old-fashioned chandelier."
+  },
+  {
+   "s": "deseret",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "According to Deseret News:"
+  },
+  {
+   "s": "disc",
+   "p": "resemblance",
+   "v": "the base of an old-fashioned chandelier",
+   "quote": "\"The disc is described as being thirty inches in diameter and resembling the base of an old-fashioned chandelier."
+  },
+  {
+   "s": "disc",
+   "p": "construction",
+   "v": "dome-like bubble of plexiglass on one side and steel dome-like bubble on the other",
+   "quote": "It has a dome-like bubble, made of plexiglass, on one side and steel dome-like bubble on the other."
+  },
+  {
+   "s": "disc",
+   "p": "contents",
+   "v": "three silver painted radio tubes with wires attached to what appears to be an electro-magnetic coil on the outside",
+   "quote": "Inside the plastic dome are three silver painted radio tubes with wires attached to what appears to be an electro-magnetic coil on the outside."
+  },
+  {
+   "s": "indrecord",
+   "p": "described",
+   "o": "disc",
+   "quote": "The Independent Record further described it, stating:"
+  },
+  {
+   "s": "indrecord",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Independent Record further described it, stating:"
+  },
+  {
+   "s": "disc",
+   "p": "construction",
+   "v": "metal dome on one side and a plastic dome about 14 inches high on the opposite side, anchored by what appeared to be stove bolts",
+   "quote": "with a metal dome on one side and a plastic dome about 14 inches high on the opposite side, anchored in place by what appeared to be stove bolts."
+  },
+  {
+   "s": "disc",
+   "p": "color",
+   "v": "gold painted on one side and silver (either stainless steel, aluminum, or tin) on the other",
+   "quote": "The gadget is gold painted on one side and silver (either stainless steel, aluminum, or tin) on the other."
+  },
+  {
+   "s": "disc",
+   "p": "manufacture",
+   "v": "appeared to have been turned out by machine",
+   "quote": "It appeared to have been turned out by machine."
+  },
+  {
+   "s": "case",
+   "p": "reputation",
+   "v": "coup de grâce of press coverage on the 1947 flying disc craze",
+   "quote": "The Twin Falls hoax, with its nationally published image showing a bemused army officer holding a disc-like object of mundane construction, has been called the \"coup de grâce of press coverage\" on the 1947 flying disc craze."
+  },
+  {
+   "s": "photos",
+   "p": "content",
+   "v": "a bemused army officer holding a disc-like object of mundane construction",
+   "quote": "The Twin Falls hoax, with its nationally published image showing a bemused army officer holding a disc-like object of mundane construction, has been called the \"coup de grâce of press coverage\" on the 1947 flying disc craze."
+  },
+  {
+   "s": "case",
+   "p": "aftermath",
+   "v": "press accounts rapidly fell off in the days following the story",
+   "quote": "In the days following the story, \"press accounts rapidly fell off\"."
+  },
+  {
+   "s": "maurycase",
+   "p": "related_case",
+   "o": "case",
+   "quote": "On July 28, 1947, just weeks after the Twin Falls hoax, there were reports of recovered disc debris at Maury Island, Washington."
+  },
+  {
+   "s": "maury",
+   "p": "occurred_at",
+   "o": "maurycase",
+   "quote": "On July 28, 1947, just weeks after the Twin Falls hoax, there were reports of recovered disc debris at Maury Island, Washington."
+  },
+  {
+   "s": "maurycase",
+   "p": "report_date",
+   "v": "1947-07-28",
+   "quote": "On July 28, 1947, just weeks after the Twin Falls hoax, there were reports of recovered disc debris at Maury Island, Washington."
+  },
+  {
+   "s": "f_debris_or_material",
+   "p": "has_feature",
+   "o": "maurycase",
+   "quote": "On July 28, 1947, just weeks after the Twin Falls hoax, there were reports of recovered disc debris at Maury Island, Washington."
+  },
+  {
+   "s": "azteccase",
+   "p": "related_case",
+   "o": "case",
+   "quote": "In 1949, another 'crashed disc' story circulated as part of the Aztec, New Mexico UFO hoax."
+  },
+  {
+   "s": "aztec",
+   "p": "occurred_at",
+   "o": "azteccase",
+   "quote": "In 1949, another 'crashed disc' story circulated as part of the Aztec, New Mexico UFO hoax."
+  },
+  {
+   "s": "azteccase",
+   "p": "date_start",
+   "v": "1949",
+   "quote": "In 1949, another 'crashed disc' story circulated as part of the Aztec, New Mexico UFO hoax."
+  },
+  {
+   "s": "f_crash_retrieval_claim",
+   "p": "has_feature",
+   "o": "azteccase",
+   "quote": "In 1949, another 'crashed disc' story circulated as part of the Aztec, New Mexico UFO hoax."
+  },
+  {
+   "s": "x_hoax",
+   "p": "explained_as",
+   "o": "azteccase",
+   "quote": "In 1949, another 'crashed disc' story circulated as part of the Aztec, New Mexico UFO hoax."
+  },
+  {
+   "s": "banister",
+   "p": "official_involved",
+   "o": "maurycase",
+   "quote": "In the late 1960s, Guy Banister, the FBI official who had overseen both the Twin Falls and Maury Island cases, was posthumously accused of involvement in the JFK assassination by New Orleans District Attorney Jim Garrison, as dramatized in the 1991 film JFK."
+  },
+  {
+   "s": "fbi",
+   "p": "investigated_by",
+   "o": "maurycase",
+   "quote": "In the late 1960s, Guy Banister, the FBI official who had overseen both the Twin Falls and Maury Island cases, was posthumously accused of involvement in the JFK assassination by New Orleans District Attorney Jim Garrison, as dramatized in the 1991 film JFK."
+  },
+  {
+   "s": "banister",
+   "p": "later_accusation",
+   "v": "posthumously accused in the late 1960s of involvement in the JFK assassination by Jim Garrison",
+   "quote": "In the late 1960s, Guy Banister, the FBI official who had overseen both the Twin Falls and Maury Island cases, was posthumously accused of involvement in the JFK assassination by New Orleans District Attorney Jim Garrison, as dramatized in the 1991 film JFK."
+  },
+  {
+   "s": "garrison",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "In the late 1960s, Guy Banister, the FBI official who had overseen both the Twin Falls and Maury Island cases, was posthumously accused of involvement in the JFK assassination by New Orleans District Attorney Jim Garrison, as dramatized in the 1991 film JFK."
+  },
+  {
+   "s": "garrison",
+   "p": "occupation",
+   "v": "New Orleans District Attorney",
+   "quote": "In the late 1960s, Guy Banister, the FBI official who had overseen both the Twin Falls and Maury Island cases, was posthumously accused of involvement in the JFK assassination by New Orleans District Attorney Jim Garrison, as dramatized in the 1991 film JFK."
+  },
+  {
+   "s": "garrison",
+   "p": "located_in",
+   "o": "neworleans",
+   "quote": "In the late 1960s, Guy Banister, the FBI official who had overseen both the Twin Falls and Maury Island cases, was posthumously accused of involvement in the JFK assassination by New Orleans District Attorney Jim Garrison, as dramatized in the 1991 film JFK."
+  },
+  {
+   "s": "neworleans",
+   "p": "related_place",
+   "o": "case",
+   "quote": "In the late 1960s, Guy Banister, the FBI official who had overseen both the Twin Falls and Maury Island cases, was posthumously accused of involvement in the JFK assassination by New Orleans District Attorney Jim Garrison, as dramatized in the 1991 film JFK."
+  },
+  {
+   "s": "banister",
+   "p": "depicted_in",
+   "o": "jfk",
+   "quote": "In the late 1960s, Guy Banister, the FBI official who had overseen both the Twin Falls and Maury Island cases, was posthumously accused of involvement in the JFK assassination by New Orleans District Attorney Jim Garrison, as dramatized in the 1991 film JFK."
+  },
+  {
+   "s": "jfk",
+   "p": "mentioned_by",
+   "o": "case",
+   "quote": "In the late 1960s, Guy Banister, the FBI official who had overseen both the Twin Falls and Maury Island cases, was posthumously accused of involvement in the JFK assassination by New Orleans District Attorney Jim Garrison, as dramatized in the 1991 film JFK."
+  },
+  {
+   "s": "jfk",
+   "p": "year",
+   "v": "1991",
+   "quote": "In the late 1960s, Guy Banister, the FBI official who had overseen both the Twin Falls and Maury Island cases, was posthumously accused of involvement in the JFK assassination by New Orleans District Attorney Jim Garrison, as dramatized in the 1991 film JFK."
+  },
+  {
+   "s": "thomas",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Fringe conspiracy theorists including Kenn Thomas, Nick Redfern, and Peter Lavenda would cite the two cases in connection with both UFO conspiracy theories and JFK assassination conspiracy theories."
+  },
+  {
+   "s": "thomas",
+   "p": "commentator",
+   "o": "maurycase",
+   "quote": "Fringe conspiracy theorists including Kenn Thomas, Nick Redfern, and Peter Lavenda would cite the two cases in connection with both UFO conspiracy theories and JFK assassination conspiracy theories."
+  },
+  {
+   "s": "thomas",
+   "p": "description",
+   "v": "fringe conspiracy theorist",
+   "quote": "Fringe conspiracy theorists including Kenn Thomas, Nick Redfern, and Peter Lavenda would cite the two cases in connection with both UFO conspiracy theories and JFK assassination conspiracy theories."
+  },
+  {
+   "s": "redfern",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Fringe conspiracy theorists including Kenn Thomas, Nick Redfern, and Peter Lavenda would cite the two cases in connection with both UFO conspiracy theories and JFK assassination conspiracy theories."
+  },
+  {
+   "s": "redfern",
+   "p": "commentator",
+   "o": "maurycase",
+   "quote": "Fringe conspiracy theorists including Kenn Thomas, Nick Redfern, and Peter Lavenda would cite the two cases in connection with both UFO conspiracy theories and JFK assassination conspiracy theories."
+  },
+  {
+   "s": "redfern",
+   "p": "description",
+   "v": "fringe conspiracy theorist",
+   "quote": "Fringe conspiracy theorists including Kenn Thomas, Nick Redfern, and Peter Lavenda would cite the two cases in connection with both UFO conspiracy theories and JFK assassination conspiracy theories."
+  },
+  {
+   "s": "lavenda",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Fringe conspiracy theorists including Kenn Thomas, Nick Redfern, and Peter Lavenda would cite the two cases in connection with both UFO conspiracy theories and JFK assassination conspiracy theories."
+  },
+  {
+   "s": "lavenda",
+   "p": "commentator",
+   "o": "maurycase",
+   "quote": "Fringe conspiracy theorists including Kenn Thomas, Nick Redfern, and Peter Lavenda would cite the two cases in connection with both UFO conspiracy theories and JFK assassination conspiracy theories."
+  },
+  {
+   "s": "lavenda",
+   "p": "description",
+   "v": "fringe conspiracy theorist",
+   "quote": "Fringe conspiracy theorists including Kenn Thomas, Nick Redfern, and Peter Lavenda would cite the two cases in connection with both UFO conspiracy theories and JFK assassination conspiracy theories."
+  }
+ ]
+}

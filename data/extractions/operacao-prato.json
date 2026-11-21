@@ -1,0 +1,569 @@
+{
+ "slug": "operacao-prato",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Operação Prato",
+   "description": "Brazilian Air Force investigation in 1977-1978 of alleged UFO sightings on the island of Colares.",
+   "aliases": [
+    "Operation Saucer",
+    "Operation Plate"
+   ]
+  },
+  {
+   "key": "colares77",
+   "type": "case",
+   "name": "1977 Colares UFO sightings",
+   "description": "Numerous UFO sightings reported in 1977 on the island of Colares, Pará, attributed by residents to lights called Chupa Chupa.",
+   "aliases": [
+    "Chupa Chupa"
+   ]
+  },
+  {
+   "key": "fab",
+   "type": "organization",
+   "name": "Brazilian Air Force",
+   "description": "Brazilian military air arm that carried out the investigation.",
+   "aliases": [
+    "the Air Force"
+   ]
+  },
+  {
+   "key": "colares",
+   "type": "place",
+   "name": "Colares, Brazil",
+   "description": "Island in Pará, Brazil, where the sightings were reported.",
+   "aliases": [
+    "Colares",
+    "island of Colares"
+   ]
+  },
+  {
+   "key": "para",
+   "type": "place",
+   "name": "Pará",
+   "description": "Brazilian state containing Colares."
+  },
+  {
+   "key": "brazil",
+   "type": "place",
+   "name": "Brazil",
+   "description": "Country of the events."
+  },
+  {
+   "key": "lights",
+   "type": "craft",
+   "name": "Chupa Chupa lights",
+   "description": "Lights in the sky reported over Colares in 1977, named Chupa Chupa by residents.",
+   "aliases": [
+    "Chupa Chupa",
+    "Sucker-Sucker"
+   ]
+  },
+  {
+   "key": "soeiro",
+   "type": "person",
+   "name": "José Ildone Favacho Soeiro",
+   "description": "Mayor who requested help from the Air Force.",
+   "aliases": [
+    "Mayor José Ildone Favacho Soeiro"
+   ]
+  },
+  {
+   "key": "hollanda",
+   "type": "person",
+   "name": "Uyrangê Bolivar Soares Nogueira de Hollanda Lima",
+   "description": "Brazilian Air Force captain who commanded the operation.",
+   "aliases": [
+    "Captain Uyrangê",
+    "Captain Uyrangê Bolivar Soares Nogueira de Hollanda Lima"
+   ]
+  },
+  {
+   "key": "photos",
+   "type": "document",
+   "name": "Operação Prato photographs of lights",
+   "description": "Several pictures of lights recorded during late 1977."
+  },
+  {
+   "key": "docs",
+   "type": "document",
+   "name": "Operação Prato official documents",
+   "description": "Official documents of the operation, obtainable from the Brazilian National Archives."
+  },
+  {
+   "key": "arquivo",
+   "type": "organization",
+   "name": "Brazilian National Archives",
+   "description": "National archive holding the official documents.",
+   "aliases": [
+    "Arquivo Nacional"
+   ]
+  },
+  {
+   "key": "interview",
+   "type": "document",
+   "name": "1997 interview with Uyrangê Hollanda",
+   "description": "Interview the operation's commander gave to ufologists Gevaerd and Petit in 1997."
+  },
+  {
+   "key": "gevaerd",
+   "type": "person",
+   "name": "Ademar José Gevaerd",
+   "description": "Ufologist who interviewed Captain Uyrangê in 1997."
+  },
+  {
+   "key": "petit",
+   "type": "person",
+   "name": "Marco Antônio Petit",
+   "description": "Ufologist who interviewed Captain Uyrangê in 1997."
+  },
+  {
+   "key": "vallee",
+   "type": "person",
+   "name": "Jacques Vallée",
+   "description": "Ufologist who commented on deaths and injuries attributed to the lights."
+  },
+  {
+   "key": "varginha",
+   "type": "case",
+   "name": "Varginha UFO incident",
+   "description": "Another Brazilian UFO case listed under See also."
+  },
+  {
+   "key": "f_lights-only",
+   "type": "feature",
+   "name": "lights-only",
+   "description": "feature"
+  },
+  {
+   "key": "f_physiological-effects",
+   "type": "feature",
+   "name": "physiological-effects",
+   "description": "feature"
+  },
+  {
+   "key": "f_photograph",
+   "type": "feature",
+   "name": "photograph",
+   "description": "feature"
+  },
+  {
+   "key": "f_official-investigation",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "feature"
+  },
+  {
+   "key": "f_multiple-witnesses",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "feature"
+  },
+  {
+   "key": "f_death-or-disappearance",
+   "type": "feature",
+   "name": "death-or-disappearance",
+   "description": "feature"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "also_known_as",
+   "v": "Operation Saucer",
+   "quote": "Operation Saucer (Portuguese: Operação Prato; literally, Operation Plate) was an investigation carried out between 1977 and 1978 by the Brazilian Air Force following alleged UFO sightings on the island of Colares."
+  },
+  {
+   "s": "case",
+   "p": "literal_meaning",
+   "v": "Operation Plate",
+   "quote": "Operation Saucer (Portuguese: Operação Prato; literally, Operation Plate) was an investigation carried out between 1977 and 1978 by the Brazilian Air Force following alleged UFO sightings on the island of Colares."
+  },
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1977",
+   "quote": "Operation Saucer (Portuguese: Operação Prato; literally, Operation Plate) was an investigation carried out between 1977 and 1978 by the Brazilian Air Force following alleged UFO sightings on the island of Colares."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1978",
+   "quote": "Operation Saucer (Portuguese: Operação Prato; literally, Operation Plate) was an investigation carried out between 1977 and 1978 by the Brazilian Air Force following alleged UFO sightings on the island of Colares."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "Brazil",
+   "quote": "In 1977, numerous UFOs were reported on the Brazilian island Colares, Pará."
+  },
+  {
+   "s": "case",
+   "p": "duration",
+   "v": "approximately four months",
+   "quote": "After approximately four months, the operation was closed after finding no unusual phenomena."
+  },
+  {
+   "s": "case",
+   "p": "conclusion",
+   "v": "closed after finding no unusual phenomena",
+   "quote": "The investigation was closed after finding no unusual phenomena."
+  },
+  {
+   "s": "case",
+   "p": "conclusion",
+   "v": "the military remained skeptical",
+   "quote": "During late 1977, several pictures of lights were recorded but the military remained skeptical."
+  },
+  {
+   "s": "colares77",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Operation Saucer (Portuguese: Operação Prato; literally, Operation Plate) was an investigation carried out between 1977 and 1978 by the Brazilian Air Force following alleged UFO sightings on the island of Colares."
+  },
+  {
+   "s": "colares77",
+   "p": "date_start",
+   "v": "1977",
+   "quote": "In 1977, numerous UFOs were reported on the Brazilian island Colares, Pará."
+  },
+  {
+   "s": "colares77",
+   "p": "country",
+   "v": "Brazil",
+   "quote": "In 1977, numerous UFOs were reported on the Brazilian island Colares, Pará."
+  },
+  {
+   "s": "colares77",
+   "p": "statement",
+   "v": "Local residents claimed that scars on their bodies were caused by the lights in the sky",
+   "quote": "Local residents claimed that scars on their bodies were caused by the lights in the sky, and named the lights \"Chupa Chupa\" (literally Sucker-Sucker, local name for a \"Lollipop\")."
+  },
+  {
+   "s": "colares77",
+   "p": "residents_response",
+   "v": "organized night vigils, lit fires, and ignited fireworks",
+   "quote": "Believing it would keep the lights away, residents of Colares organized night vigils, lit fires, and ignited fireworks."
+  },
+  {
+   "s": "colares77",
+   "p": "claim",
+   "v": "a number of individuals were reportedly killed as a result of the \"lights\" fired upon them by the UFOs",
+   "quote": "According to ufologist Jacques Vallée, a number of individuals were reportedly killed as a result of the \"lights\" fired upon them by the UFOs, and injuries were consistent with radiation effects from microwaves."
+  },
+  {
+   "s": "colares77",
+   "p": "claim",
+   "v": "injuries were consistent with radiation effects from microwaves",
+   "quote": "According to ufologist Jacques Vallée, a number of individuals were reportedly killed as a result of the \"lights\" fired upon them by the UFOs, and injuries were consistent with radiation effects from microwaves."
+  },
+  {
+   "s": "colares77",
+   "p": "claim",
+   "v": "lights from UFOs sucked blood from 400 people",
+   "quote": "Other ufologists claimed that the lights from UFOs sucked blood from 400 people."
+  },
+  {
+   "s": "colares77",
+   "p": "alleged_victim_count",
+   "v": "400",
+   "quote": "Other ufologists claimed that the lights from UFOs sucked blood from 400 people."
+  },
+  {
+   "s": "fab",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "Operation Saucer (Portuguese: Operação Prato; literally, Operation Plate) was an investigation carried out between 1977 and 1978 by the Brazilian Air Force following alleged UFO sightings on the island of Colares."
+  },
+  {
+   "s": "fab",
+   "p": "investigated_by",
+   "o": "colares77",
+   "quote": "Operation Saucer (Portuguese: Operação Prato; literally, Operation Plate) was an investigation carried out between 1977 and 1978 by the Brazilian Air Force following alleged UFO sightings on the island of Colares."
+  },
+  {
+   "s": "fab",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Mayor José Ildone Favacho Soeiro requested help from the Air Force."
+  },
+  {
+   "s": "colares",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Operation Saucer (Portuguese: Operação Prato; literally, Operation Plate) was an investigation carried out between 1977 and 1978 by the Brazilian Air Force following alleged UFO sightings on the island of Colares."
+  },
+  {
+   "s": "colares",
+   "p": "occurred_at",
+   "o": "colares77",
+   "quote": "In 1977, numerous UFOs were reported on the Brazilian island Colares, Pará."
+  },
+  {
+   "s": "colares",
+   "p": "located_in",
+   "o": "para",
+   "quote": "In 1977, numerous UFOs were reported on the Brazilian island Colares, Pará."
+  },
+  {
+   "s": "colares",
+   "p": "place_type",
+   "v": "island",
+   "quote": "In 1977, numerous UFOs were reported on the Brazilian island Colares, Pará."
+  },
+  {
+   "s": "para",
+   "p": "related_place",
+   "o": "case",
+   "quote": "In 1977, numerous UFOs were reported on the Brazilian island Colares, Pará."
+  },
+  {
+   "s": "para",
+   "p": "located_in",
+   "o": "brazil",
+   "quote": "In 1977, numerous UFOs were reported on the Brazilian island Colares, Pará."
+  },
+  {
+   "s": "brazil",
+   "p": "related_place",
+   "o": "case",
+   "quote": "In 1977, numerous UFOs were reported on the Brazilian island Colares, Pará."
+  },
+  {
+   "s": "lights",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "Local residents claimed that scars on their bodies were caused by the lights in the sky, and named the lights \"Chupa Chupa\" (literally Sucker-Sucker, local name for a \"Lollipop\")."
+  },
+  {
+   "s": "lights",
+   "p": "reported_object",
+   "o": "colares77",
+   "quote": "Local residents claimed that scars on their bodies were caused by the lights in the sky, and named the lights \"Chupa Chupa\" (literally Sucker-Sucker, local name for a \"Lollipop\")."
+  },
+  {
+   "s": "lights",
+   "p": "local_name",
+   "v": "Chupa Chupa",
+   "quote": "Local residents claimed that scars on their bodies were caused by the lights in the sky, and named the lights \"Chupa Chupa\" (literally Sucker-Sucker, local name for a \"Lollipop\")."
+  },
+  {
+   "s": "lights",
+   "p": "name_meaning",
+   "v": "Sucker-Sucker, local name for a \"Lollipop\"",
+   "quote": "Local residents claimed that scars on their bodies were caused by the lights in the sky, and named the lights \"Chupa Chupa\" (literally Sucker-Sucker, local name for a \"Lollipop\")."
+  },
+  {
+   "s": "lights",
+   "p": "description",
+   "v": "lights in the sky",
+   "quote": "Local residents claimed that scars on their bodies were caused by the lights in the sky, and named the lights \"Chupa Chupa\" (literally Sucker-Sucker, local name for a \"Lollipop\")."
+  },
+  {
+   "s": "soeiro",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Mayor José Ildone Favacho Soeiro requested help from the Air Force."
+  },
+  {
+   "s": "soeiro",
+   "p": "occupation",
+   "v": "Mayor",
+   "quote": "Mayor José Ildone Favacho Soeiro requested help from the Air Force."
+  },
+  {
+   "s": "soeiro",
+   "p": "action",
+   "v": "requested help from the Air Force",
+   "quote": "Mayor José Ildone Favacho Soeiro requested help from the Air Force."
+  },
+  {
+   "s": "hollanda",
+   "p": "investigator",
+   "o": "case",
+   "quote": "The operation was commanded by Captain Uyrangê Bolivar Soares Nogueira de Hollanda Lima."
+  },
+  {
+   "s": "hollanda",
+   "p": "commanded",
+   "o": "case",
+   "quote": "The operation was commanded by Captain Uyrangê Bolivar Soares Nogueira de Hollanda Lima."
+  },
+  {
+   "s": "hollanda",
+   "p": "rank",
+   "v": "Captain",
+   "quote": "The operation was commanded by Captain Uyrangê Bolivar Soares Nogueira de Hollanda Lima."
+  },
+  {
+   "s": "hollanda",
+   "p": "member_of",
+   "o": "fab",
+   "quote": "The operation was commanded by Captain Uyrangê Bolivar Soares Nogueira de Hollanda Lima."
+  },
+  {
+   "s": "hollanda",
+   "p": "death",
+   "v": "found dead in his home three months after the 1997 interview, \"after he seemingly hung himself using the belt of his bathrobe\"",
+   "quote": "Three months after the interview, he was found dead in his home \"after he seemingly hung himself using the belt of his bathrobe\", attracting the interest of conspiracy theorists."
+  },
+  {
+   "s": "hollanda",
+   "p": "later_claim",
+   "v": "recounted his experiences living alongside his men in a 1997 interview",
+   "quote": "In 1997, two decades after the operation, Captain Uyrangê gave an interview to Ufologists Ademar José Gevaerd and Marco Antônio Petit where he recounted his experiences living alongside his men."
+  },
+  {
+   "s": "photos",
+   "p": "key_document",
+   "o": "case",
+   "quote": "During late 1977, several pictures of lights were recorded but the military remained skeptical."
+  },
+  {
+   "s": "photos",
+   "p": "date",
+   "v": "late 1977",
+   "quote": "During late 1977, several pictures of lights were recorded but the military remained skeptical."
+  },
+  {
+   "s": "docs",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The official documents can be obtained from the Brazilian National Archives (Arquivo Nacional)."
+  },
+  {
+   "s": "arquivo",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The official documents can be obtained from the Brazilian National Archives (Arquivo Nacional)."
+  },
+  {
+   "s": "arquivo",
+   "p": "owned",
+   "o": "docs",
+   "quote": "The official documents can be obtained from the Brazilian National Archives (Arquivo Nacional)."
+  },
+  {
+   "s": "interview",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In 1997, two decades after the operation, Captain Uyrangê gave an interview to Ufologists Ademar José Gevaerd and Marco Antônio Petit where he recounted his experiences living alongside his men."
+  },
+  {
+   "s": "interview",
+   "p": "date",
+   "v": "1997",
+   "quote": "In 1997, two decades after the operation, Captain Uyrangê gave an interview to Ufologists Ademar José Gevaerd and Marco Antônio Petit where he recounted his experiences living alongside his men."
+  },
+  {
+   "s": "gevaerd",
+   "p": "investigator",
+   "o": "case",
+   "quote": "In 1997, two decades after the operation, Captain Uyrangê gave an interview to Ufologists Ademar José Gevaerd and Marco Antônio Petit where he recounted his experiences living alongside his men."
+  },
+  {
+   "s": "gevaerd",
+   "p": "interviewed",
+   "o": "hollanda",
+   "quote": "In 1997, two decades after the operation, Captain Uyrangê gave an interview to Ufologists Ademar José Gevaerd and Marco Antônio Petit where he recounted his experiences living alongside his men."
+  },
+  {
+   "s": "gevaerd",
+   "p": "occupation",
+   "v": "Ufologist",
+   "quote": "In 1997, two decades after the operation, Captain Uyrangê gave an interview to Ufologists Ademar José Gevaerd and Marco Antônio Petit where he recounted his experiences living alongside his men."
+  },
+  {
+   "s": "petit",
+   "p": "investigator",
+   "o": "case",
+   "quote": "In 1997, two decades after the operation, Captain Uyrangê gave an interview to Ufologists Ademar José Gevaerd and Marco Antônio Petit where he recounted his experiences living alongside his men."
+  },
+  {
+   "s": "petit",
+   "p": "interviewed",
+   "o": "hollanda",
+   "quote": "In 1997, two decades after the operation, Captain Uyrangê gave an interview to Ufologists Ademar José Gevaerd and Marco Antônio Petit where he recounted his experiences living alongside his men."
+  },
+  {
+   "s": "petit",
+   "p": "occupation",
+   "v": "Ufologist",
+   "quote": "In 1997, two decades after the operation, Captain Uyrangê gave an interview to Ufologists Ademar José Gevaerd and Marco Antônio Petit where he recounted his experiences living alongside his men."
+  },
+  {
+   "s": "petit",
+   "p": "colleague_of",
+   "o": "gevaerd",
+   "quote": "In 1997, two decades after the operation, Captain Uyrangê gave an interview to Ufologists Ademar José Gevaerd and Marco Antônio Petit where he recounted his experiences living alongside his men."
+  },
+  {
+   "s": "vallee",
+   "p": "commentator",
+   "o": "case",
+   "quote": "According to ufologist Jacques Vallée, a number of individuals were reportedly killed as a result of the \"lights\" fired upon them by the UFOs, and injuries were consistent with radiation effects from microwaves."
+  },
+  {
+   "s": "vallee",
+   "p": "occupation",
+   "v": "ufologist",
+   "quote": "According to ufologist Jacques Vallée, a number of individuals were reportedly killed as a result of the \"lights\" fired upon them by the UFOs, and injuries were consistent with radiation effects from microwaves."
+  },
+  {
+   "s": "vallee",
+   "p": "statement",
+   "v": "a number of individuals were reportedly killed as a result of the \"lights\" fired upon them by the UFOs, and injuries were consistent with radiation effects from microwaves",
+   "quote": "According to ufologist Jacques Vallée, a number of individuals were reportedly killed as a result of the \"lights\" fired upon them by the UFOs, and injuries were consistent with radiation effects from microwaves."
+  },
+  {
+   "s": "varginha",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Varginha UFO incident"
+  },
+  {
+   "s": "f_lights-only",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Local residents claimed that scars on their bodies were caused by the lights in the sky, and named the lights \"Chupa Chupa\" (literally Sucker-Sucker, local name for a \"Lollipop\")."
+  },
+  {
+   "s": "f_physiological-effects",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Local residents claimed that scars on their bodies were caused by the lights in the sky, and named the lights \"Chupa Chupa\" (literally Sucker-Sucker, local name for a \"Lollipop\")."
+  },
+  {
+   "s": "f_photograph",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "During late 1977, several pictures of lights were recorded but the military remained skeptical."
+  },
+  {
+   "s": "f_official-investigation",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Operation Saucer (Portuguese: Operação Prato; literally, Operation Plate) was an investigation carried out between 1977 and 1978 by the Brazilian Air Force following alleged UFO sightings on the island of Colares."
+  },
+  {
+   "s": "f_multiple-witnesses",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In 1977, numerous UFOs were reported on the Brazilian island Colares, Pará."
+  },
+  {
+   "s": "f_death-or-disappearance",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "According to ufologist Jacques Vallée, a number of individuals were reportedly killed as a result of the \"lights\" fired upon them by the UFOs, and injuries were consistent with radiation effects from microwaves."
+  },
+  {
+   "s": "case",
+   "p": "rumor",
+   "v": "conspiracy theorists took interest in the commander's death three months after his 1997 interview",
+   "quote": "Three months after the interview, he was found dead in his home \"after he seemingly hung himself using the belt of his bathrobe\", attracting the interest of conspiracy theorists."
+  }
+ ]
+}

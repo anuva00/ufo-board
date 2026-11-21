@@ -1,0 +1,1131 @@
+{
+ "slug": "project-sign",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Project Sign",
+   "description": "Official United States Air Force study of UFOs active for most of 1948, precursor to Project Grudge.",
+   "aliases": [
+    "Project Saucer",
+    "Project SAUCER",
+    "Sign"
+   ]
+  },
+  {
+   "key": "sign",
+   "type": "program",
+   "name": "Project Sign",
+   "description": "Official USAF UFO study of 1948 (the subject of this article).",
+   "aliases": [
+    "Project Saucer",
+    "Project SAUCER"
+   ]
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "description": "US military branch that undertook Project Sign.",
+   "aliases": [
+    "USAF",
+    "U.S. Air Force",
+    "Air Force"
+   ]
+  },
+  {
+   "key": "usgov",
+   "type": "organization",
+   "name": "United States government",
+   "description": "Government for which the study was conducted.",
+   "aliases": [
+    "U.S. government"
+   ]
+  },
+  {
+   "key": "grudge",
+   "type": "program",
+   "name": "Project Grudge",
+   "description": "Successor USAF UFO study that followed Project Sign."
+  },
+  {
+   "key": "twining",
+   "type": "person",
+   "name": "Nathan Farragut Twining",
+   "description": "Air Force general, head of the Air Technical Service Command, who established the project.",
+   "aliases": [
+    "General Nathan Farragut Twining"
+   ]
+  },
+  {
+   "key": "atsc",
+   "type": "organization",
+   "name": "Air Technical Service Command",
+   "description": "Command headed by Twining."
+  },
+  {
+   "key": "twletter",
+   "type": "document",
+   "name": "Twining letter",
+   "description": "Letter listed under external links as 'the Twining letter'."
+  },
+  {
+   "key": "amc",
+   "type": "organization",
+   "name": "Air Materiel Command",
+   "description": "Command whose Intelligence Division prepared the paper released in 1949.",
+   "aliases": [
+    "Intelligence Division of the Air Materiel Command"
+   ]
+  },
+  {
+   "key": "wpafb",
+   "type": "place",
+   "name": "Wright-Patterson Air Force Base",
+   "description": "Ohio air base where the Air Materiel Command's Intelligence Division was located.",
+   "aliases": [
+    "Wright-Patterson Field",
+    "Wright-Patterson Field, Ohio"
+   ]
+  },
+  {
+   "key": "ohio",
+   "type": "place",
+   "name": "Ohio",
+   "description": "US state of Wright-Patterson Field."
+  },
+  {
+   "key": "paper49",
+   "type": "document",
+   "name": "Air Materiel Command Intelligence Division paper released April 27, 1949",
+   "description": "Paper publicly released by the U.S. Air Force on April 27, 1949."
+  },
+  {
+   "key": "rep49",
+   "type": "document",
+   "name": "Project Sign - Report of February 1949",
+   "description": "Report listed under external links."
+  },
+  {
+   "key": "ruppelt",
+   "type": "person",
+   "name": "Edward J. Ruppelt",
+   "description": "Retired Air Force captain, author of The Report on Unidentified Flying Objects, later director of Project Blue Book.",
+   "aliases": [
+    "Captain Edward J. Ruppelt",
+    "Ruppelt"
+   ]
+  },
+  {
+   "key": "reportbook",
+   "type": "work",
+   "name": "The Report on Unidentified Flying Objects",
+   "description": "1956 book by Edward J. Ruppelt in which Project Sign was first asserted."
+  },
+  {
+   "key": "bluebook",
+   "type": "program",
+   "name": "Project Blue Book",
+   "description": "USAF UFO project later directed by Ruppelt."
+  },
+  {
+   "key": "estimate",
+   "type": "document",
+   "name": "Estimate of the Situation",
+   "description": "Alleged Top Secret Project Sign document said by Ruppelt to have concluded UFOs were real.",
+   "aliases": [
+    "Top Secret Estimate of the Situation"
+   ]
+  },
+  {
+   "key": "popmech",
+   "type": "organization",
+   "name": "Popular Mechanics",
+   "description": "Magazine that called the Estimate 'probably more mythological than real'."
+  },
+  {
+   "key": "rivers",
+   "type": "person",
+   "name": "L. Mendel Rivers",
+   "description": "Asserted in a 1966 congressional hearing that no such Estimate had ever existed."
+  },
+  {
+   "key": "hearing66",
+   "type": "document",
+   "name": "Hearing of the Eighty-ninth Congress, Second Session, January 18, 1966",
+   "description": "Congressional hearing at which Rivers denied the Estimate existed."
+  },
+  {
+   "key": "congress",
+   "type": "organization",
+   "name": "United States Congress",
+   "description": "US legislature; its Eighty-ninth Congress held the 1966 hearing.",
+   "aliases": [
+    "Eighty-ninth Congress"
+   ]
+  },
+  {
+   "key": "caldwell_inv",
+   "type": "case",
+   "name": "Caldwell investigation",
+   "description": "May 1949 Project Sign investigation of whether Jonathan Edward Caldwell's disk-rotor aircraft could explain flying saucer reports."
+  },
+  {
+   "key": "letter49",
+   "type": "document",
+   "name": "May 1949 letter from an aeronautical company shareholder",
+   "description": "Letter to Project Sign officers suggesting the company's aircraft resembled flying saucers."
+  },
+  {
+   "key": "caldwell",
+   "type": "person",
+   "name": "Jonathan Edward Caldwell",
+   "description": "Inventor of a disk-rotor aircraft.",
+   "aliases": [
+    "Caldwell"
+   ]
+  },
+  {
+   "key": "diskrotor",
+   "type": "vehicle",
+   "name": "Caldwell disk-rotor aircraft",
+   "description": "Disk-rotor aircraft prototypes by Jonathan Edward Caldwell whose damaged remains were found at Glen Burnie.",
+   "aliases": [
+    "disk-rotor",
+    "Caldwell's disk-rotor"
+   ]
+  },
+  {
+   "key": "drphotos",
+   "type": "document",
+   "name": "Photographs of the broken Caldwell disk-rotor machine",
+   "description": "Photographs that continue to appear in UFO books."
+  },
+  {
+   "key": "mdpolice",
+   "type": "organization",
+   "name": "Maryland Police",
+   "description": "Police who accompanied the Project Sign team to Glen Burnie."
+  },
+  {
+   "key": "glenburnie",
+   "type": "place",
+   "name": "Glen Burnie, Maryland",
+   "description": "Site of the abandoned farm where the disk-rotor remains were found."
+  },
+  {
+   "key": "maryland",
+   "type": "place",
+   "name": "Maryland",
+   "description": "US state of Glen Burnie."
+  },
+  {
+   "key": "baltimore",
+   "type": "place",
+   "name": "Baltimore, Maryland",
+   "description": "City near Glen Burnie.",
+   "aliases": [
+    "Baltimore"
+   ]
+  },
+  {
+   "key": "arnold",
+   "type": "case",
+   "name": "Kenneth Arnold UFO sighting",
+   "description": "Kenneth Arnold's report of seeing UFOs over Mount Rainier."
+  },
+  {
+   "key": "karnold",
+   "type": "person",
+   "name": "Kenneth Arnold",
+   "description": "Reported seeing UFOs over Mount Rainier."
+  },
+  {
+   "key": "rainier",
+   "type": "place",
+   "name": "Mount Rainier",
+   "description": "Mountain over which Kenneth Arnold reported UFOs."
+  },
+  {
+   "key": "roswell",
+   "type": "case",
+   "name": "Roswell incident",
+   "description": "Incident that occurred shortly after the Arnold sighting.",
+   "aliases": [
+    "Roswell Incident"
+   ]
+  },
+  {
+   "key": "nazis",
+   "type": "organization",
+   "name": "Nazis",
+   "description": "Claimed in some works to have built working flying saucers late in the war."
+  },
+  {
+   "key": "avrocar",
+   "type": "vehicle",
+   "name": "Avrocar",
+   "description": "Disk-shaped aircraft lumped together with the Caldwell disk-rotor in later claims."
+  },
+  {
+   "key": "sack",
+   "type": "vehicle",
+   "name": "Sack AS-6",
+   "description": "Disk-shaped aircraft lumped together with the Caldwell disk-rotor in later claims."
+  },
+  {
+   "key": "v173",
+   "type": "vehicle",
+   "name": "Vought V-173",
+   "description": "Disk-shaped aircraft lumped together with the Caldwell disk-rotor in later claims."
+  },
+  {
+   "key": "magnet",
+   "type": "program",
+   "name": "Project Magnet",
+   "description": "Programme listed under See also."
+  },
+  {
+   "key": "dolan",
+   "type": "person",
+   "name": "Richard M. Dolan",
+   "description": "Author of UFOs and the National Security State.",
+   "aliases": [
+    "Dolan, Richard M."
+   ]
+  },
+  {
+   "key": "dolanbook",
+   "type": "work",
+   "name": "UFOs and the National Security State: Chronology of a Cover-up 1941–1973",
+   "description": "2002 book by Richard M. Dolan listed as further reading."
+  },
+  {
+   "key": "peebles",
+   "type": "person",
+   "name": "Curtis Peebles",
+   "description": "Author of Watch the Skies!.",
+   "aliases": [
+    "Peebles, Curtis"
+   ]
+  },
+  {
+   "key": "peeblesbook",
+   "type": "work",
+   "name": "Watch the Skies! - A Chronicle of the Flying Saucer Myth",
+   "description": "1994 book by Curtis Peebles listed as further reading."
+  },
+  {
+   "key": "f_official-investigation",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "feature"
+  },
+  {
+   "key": "f_alleged-cover-up",
+   "type": "feature",
+   "name": "alleged-cover-up",
+   "description": "feature"
+  },
+  {
+   "key": "f_shape-disc",
+   "type": "feature",
+   "name": "shape-disc",
+   "description": "feature"
+  },
+  {
+   "key": "f_crash-retrieval-claim",
+   "type": "feature",
+   "name": "crash-retrieval-claim",
+   "description": "feature"
+  },
+  {
+   "key": "x_other_experimental_disk-rotor_aircraft",
+   "type": "explanation",
+   "name": "other:experimental disk-rotor aircraft",
+   "description": "explanation"
+  },
+  {
+   "key": "x_conventional-aircraft",
+   "type": "explanation",
+   "name": "conventional-aircraft",
+   "description": "explanation"
+  },
+  {
+   "key": "x_misperception",
+   "type": "explanation",
+   "name": "misperception",
+   "description": "explanation"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "also_known_as",
+   "v": "Project Saucer",
+   "quote": "Project Sign or Project Saucer was an official U.S. government study of unidentified flying objects (UFOs) undertaken by the United States Air Force (USAF) and active for most of 1948."
+  },
+  {
+   "s": "case",
+   "p": "initial_name",
+   "v": "Project SAUCER",
+   "quote": "The project was established in 1948 by Air Force General Nathan Farragut Twining, head of the Air Technical Service Command, and was initially named Project SAUCER."
+  },
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1948",
+   "quote": "The project was established in 1948 by Air Force General Nathan Farragut Twining, head of the Air Technical Service Command, and was initially named Project SAUCER."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1948",
+   "quote": "Project Sign or Project Saucer was an official U.S. government study of unidentified flying objects (UFOs) undertaken by the United States Air Force (USAF) and active for most of 1948."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "Project Sign or Project Saucer was an official U.S. government study of unidentified flying objects (UFOs) undertaken by the United States Air Force (USAF) and active for most of 1948."
+  },
+  {
+   "s": "case",
+   "p": "duration",
+   "v": "active for most of 1948",
+   "quote": "Project Sign or Project Saucer was an official U.S. government study of unidentified flying objects (UFOs) undertaken by the United States Air Force (USAF) and active for most of 1948."
+  },
+  {
+   "s": "case",
+   "p": "goal",
+   "v": "to collect, evaluate, and distribute within the government all information relating to UFO sightings",
+   "quote": "The goal of the project was to collect, evaluate, and distribute within the government all information relating to UFO sightings, on the premise that they might represent a national security concern."
+  },
+  {
+   "s": "case",
+   "p": "premise",
+   "v": "UFO sightings might represent a national security concern",
+   "quote": "The goal of the project was to collect, evaluate, and distribute within the government all information relating to UFO sightings, on the premise that they might represent a national security concern."
+  },
+  {
+   "s": "case",
+   "p": "conclusion",
+   "v": "UFO reports could be exploited by a foreign power to induce panic in the population and were therefore a military issue",
+   "quote": "Project Sign was followed by Project Grudge after a conclusion was reached that UFO reports could be exploited by a foreign power to induce panic in the population and were therefore a military issue in the post-World War II, Cold War climate."
+  },
+  {
+   "s": "case",
+   "p": "first_asserted",
+   "v": "in the 1956 book The Report on Unidentified Flying Objects",
+   "quote": "Project Sign was first asserted in the 1956 book The Report on Unidentified Flying Objects by retired Air Force Captain Edward J. Ruppelt, who later directed Project Blue Book."
+  },
+  {
+   "s": "sign",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "Project Sign or Project Saucer was an official U.S. government study of unidentified flying objects (UFOs) undertaken by the United States Air Force (USAF) and active for most of 1948."
+  },
+  {
+   "s": "sign",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "Project Sign or Project Saucer was an official U.S. government study of unidentified flying objects (UFOs) undertaken by the United States Air Force (USAF) and active for most of 1948."
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Project Sign or Project Saucer was an official U.S. government study of unidentified flying objects (UFOs) undertaken by the United States Air Force (USAF) and active for most of 1948."
+  },
+  {
+   "s": "usaf",
+   "p": "action",
+   "v": "publicly released a paper on April 27, 1949",
+   "quote": "On April 27, 1949, the U.S. Air Force publicly released a paper prepared by the Intelligence Division of the Air Materiel Command at Wright-Patterson Field, Ohio."
+  },
+  {
+   "s": "usaf",
+   "p": "action",
+   "v": "canvassed for reports of flying saucers",
+   "quote": "The Air Force had canvassed for reports of flying saucers, and the shareholder apparently felt that inventor Jonathan Edward Caldwell's disk-rotor might explain them."
+  },
+  {
+   "s": "usgov",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Project Sign or Project Saucer was an official U.S. government study of unidentified flying objects (UFOs) undertaken by the United States Air Force (USAF) and active for most of 1948."
+  },
+  {
+   "s": "grudge",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "It was the precursor to Project Grudge."
+  },
+  {
+   "s": "grudge",
+   "p": "relation",
+   "v": "followed Project Sign",
+   "quote": "Project Sign was followed by Project Grudge after a conclusion was reached that UFO reports could be exploited by a foreign power to induce panic in the population and were therefore a military issue in the post-World War II, Cold War climate."
+  },
+  {
+   "s": "grudge",
+   "p": "conclusion",
+   "v": "UFO reports were the result of misidentifications of various conventional objects, a mild form of mass-hysteria and war nerves, individuals who fabricate such reports to perpetuate a hoax or to seek publicity, and psychopathological persons",
+   "quote": "Project Grudge came to the conclusion (page vi) that UFO reports were the result of \"A. Misidentifications of various conventional objects, B. A mild form of mass-hysteria and war nerves, C. Individuals who fabricate such reports to perpetuate a hoax or to seek publicity, and D. Psychopathological persons.\""
+  },
+  {
+   "s": "grudge",
+   "p": "conclusion_page",
+   "v": "page vi",
+   "quote": "Project Grudge came to the conclusion (page vi) that UFO reports were the result of \"A. Misidentifications of various conventional objects, B. A mild form of mass-hysteria and war nerves, C. Individuals who fabricate such reports to perpetuate a hoax or to seek publicity, and D. Psychopathological persons.\""
+  },
+  {
+   "s": "twining",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "The project was established in 1948 by Air Force General Nathan Farragut Twining, head of the Air Technical Service Command, and was initially named Project SAUCER."
+  },
+  {
+   "s": "twining",
+   "p": "rank",
+   "v": "General",
+   "quote": "The project was established in 1948 by Air Force General Nathan Farragut Twining, head of the Air Technical Service Command, and was initially named Project SAUCER."
+  },
+  {
+   "s": "twining",
+   "p": "position",
+   "v": "head of the Air Technical Service Command",
+   "quote": "The project was established in 1948 by Air Force General Nathan Farragut Twining, head of the Air Technical Service Command, and was initially named Project SAUCER."
+  },
+  {
+   "s": "twining",
+   "p": "commanded",
+   "o": "atsc",
+   "quote": "The project was established in 1948 by Air Force General Nathan Farragut Twining, head of the Air Technical Service Command, and was initially named Project SAUCER."
+  },
+  {
+   "s": "twining",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "The project was established in 1948 by Air Force General Nathan Farragut Twining, head of the Air Technical Service Command, and was initially named Project SAUCER."
+  },
+  {
+   "s": "twining",
+   "p": "action",
+   "v": "established the project in 1948",
+   "quote": "The project was established in 1948 by Air Force General Nathan Farragut Twining, head of the Air Technical Service Command, and was initially named Project SAUCER."
+  },
+  {
+   "s": "atsc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The project was established in 1948 by Air Force General Nathan Farragut Twining, head of the Air Technical Service Command, and was initially named Project SAUCER."
+  },
+  {
+   "s": "twletter",
+   "p": "key_document",
+   "o": "case",
+   "quote": "the Twining letter"
+  },
+  {
+   "s": "amc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On April 27, 1949, the U.S. Air Force publicly released a paper prepared by the Intelligence Division of the Air Materiel Command at Wright-Patterson Field, Ohio."
+  },
+  {
+   "s": "amc",
+   "p": "authored",
+   "o": "paper49",
+   "quote": "On April 27, 1949, the U.S. Air Force publicly released a paper prepared by the Intelligence Division of the Air Materiel Command at Wright-Patterson Field, Ohio."
+  },
+  {
+   "s": "amc",
+   "p": "stationed_at",
+   "o": "wpafb",
+   "quote": "On April 27, 1949, the U.S. Air Force publicly released a paper prepared by the Intelligence Division of the Air Materiel Command at Wright-Patterson Field, Ohio."
+  },
+  {
+   "s": "wpafb",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On April 27, 1949, the U.S. Air Force publicly released a paper prepared by the Intelligence Division of the Air Materiel Command at Wright-Patterson Field, Ohio."
+  },
+  {
+   "s": "wpafb",
+   "p": "located_in",
+   "o": "ohio",
+   "quote": "On April 27, 1949, the U.S. Air Force publicly released a paper prepared by the Intelligence Division of the Air Materiel Command at Wright-Patterson Field, Ohio."
+  },
+  {
+   "s": "ohio",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On April 27, 1949, the U.S. Air Force publicly released a paper prepared by the Intelligence Division of the Air Materiel Command at Wright-Patterson Field, Ohio."
+  },
+  {
+   "s": "paper49",
+   "p": "key_document",
+   "o": "case",
+   "quote": "On April 27, 1949, the U.S. Air Force publicly released a paper prepared by the Intelligence Division of the Air Materiel Command at Wright-Patterson Field, Ohio."
+  },
+  {
+   "s": "paper49",
+   "p": "release_date",
+   "v": "1949-04-27",
+   "quote": "On April 27, 1949, the U.S. Air Force publicly released a paper prepared by the Intelligence Division of the Air Materiel Command at Wright-Patterson Field, Ohio."
+  },
+  {
+   "s": "paper49",
+   "p": "statement",
+   "v": "while some UFOs appeared to represent actual aircraft, there was not enough data to determine their origin",
+   "quote": "The paper stated that while some UFOs appeared to represent actual aircraft, there was not enough data to determine their origin."
+  },
+  {
+   "s": "paper49",
+   "p": "statement",
+   "v": "Almost all cases were explained by ordinary causes",
+   "quote": "Almost all cases were explained by ordinary causes, but the report recommended a continuation of the investigation of all sightings."
+  },
+  {
+   "s": "paper49",
+   "p": "recommendation",
+   "v": "a continuation of the investigation of all sightings",
+   "quote": "Almost all cases were explained by ordinary causes, but the report recommended a continuation of the investigation of all sightings."
+  },
+  {
+   "s": "rep49",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Project Sign - Report of February 1949"
+  },
+  {
+   "s": "rep49",
+   "p": "date",
+   "v": "1949-02",
+   "quote": "Project Sign - Report of February 1949"
+  },
+  {
+   "s": "ruppelt",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Project Sign was first asserted in the 1956 book The Report on Unidentified Flying Objects by retired Air Force Captain Edward J. Ruppelt, who later directed Project Blue Book."
+  },
+  {
+   "s": "ruppelt",
+   "p": "rank",
+   "v": "Captain",
+   "quote": "Project Sign was first asserted in the 1956 book The Report on Unidentified Flying Objects by retired Air Force Captain Edward J. Ruppelt, who later directed Project Blue Book."
+  },
+  {
+   "s": "ruppelt",
+   "p": "status",
+   "v": "retired",
+   "quote": "Project Sign was first asserted in the 1956 book The Report on Unidentified Flying Objects by retired Air Force Captain Edward J. Ruppelt, who later directed Project Blue Book."
+  },
+  {
+   "s": "ruppelt",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "Project Sign was first asserted in the 1956 book The Report on Unidentified Flying Objects by retired Air Force Captain Edward J. Ruppelt, who later directed Project Blue Book."
+  },
+  {
+   "s": "ruppelt",
+   "p": "authored",
+   "o": "reportbook",
+   "quote": "Project Sign was first asserted in the 1956 book The Report on Unidentified Flying Objects by retired Air Force Captain Edward J. Ruppelt, who later directed Project Blue Book."
+  },
+  {
+   "s": "ruppelt",
+   "p": "commanded",
+   "o": "bluebook",
+   "quote": "Project Sign was first asserted in the 1956 book The Report on Unidentified Flying Objects by retired Air Force Captain Edward J. Ruppelt, who later directed Project Blue Book."
+  },
+  {
+   "s": "ruppelt",
+   "p": "later_claim",
+   "v": "Sign had produced a \"Top Secret Estimate of the Situation\" which \"concluded UFOs were real\"",
+   "quote": "In this publication, he also claimed that Sign had produced a \"Top Secret Estimate of the Situation\" which \"concluded UFOs were real\"."
+  },
+  {
+   "s": "reportbook",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Project Sign was first asserted in the 1956 book The Report on Unidentified Flying Objects by retired Air Force Captain Edward J. Ruppelt, who later directed Project Blue Book."
+  },
+  {
+   "s": "reportbook",
+   "p": "year",
+   "v": "1956",
+   "quote": "Project Sign was first asserted in the 1956 book The Report on Unidentified Flying Objects by retired Air Force Captain Edward J. Ruppelt, who later directed Project Blue Book."
+  },
+  {
+   "s": "bluebook",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "Project Sign was first asserted in the 1956 book The Report on Unidentified Flying Objects by retired Air Force Captain Edward J. Ruppelt, who later directed Project Blue Book."
+  },
+  {
+   "s": "estimate",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In this publication, he also claimed that Sign had produced a \"Top Secret Estimate of the Situation\" which \"concluded UFOs were real\"."
+  },
+  {
+   "s": "estimate",
+   "p": "classification",
+   "v": "Top Secret",
+   "quote": "In this publication, he also claimed that Sign had produced a \"Top Secret Estimate of the Situation\" which \"concluded UFOs were real\"."
+  },
+  {
+   "s": "estimate",
+   "p": "alleged_conclusion",
+   "v": "concluded UFOs were real",
+   "quote": "In this publication, he also claimed that Sign had produced a \"Top Secret Estimate of the Situation\" which \"concluded UFOs were real\"."
+  },
+  {
+   "s": "estimate",
+   "p": "status",
+   "v": "No copy of this document or any other corroboration of Ruppelt's claim has been produced",
+   "quote": "No copy of this document or any other corroboration of Ruppelt's claim has been produced, and Popular Mechanics called the report \"probably more mythological than real\"."
+  },
+  {
+   "s": "popmech",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "No copy of this document or any other corroboration of Ruppelt's claim has been produced, and Popular Mechanics called the report \"probably more mythological than real\"."
+  },
+  {
+   "s": "popmech",
+   "p": "disputed",
+   "o": "estimate",
+   "quote": "No copy of this document or any other corroboration of Ruppelt's claim has been produced, and Popular Mechanics called the report \"probably more mythological than real\"."
+  },
+  {
+   "s": "popmech",
+   "p": "statement",
+   "v": "probably more mythological than real",
+   "quote": "No copy of this document or any other corroboration of Ruppelt's claim has been produced, and Popular Mechanics called the report \"probably more mythological than real\"."
+  },
+  {
+   "s": "rivers",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "On January 18, 1966, in a Hearing of the Eighty-ninth Congress, Second Session, L. Mendel Rivers asserted no such Estimate had ever existed."
+  },
+  {
+   "s": "rivers",
+   "p": "disputed",
+   "o": "estimate",
+   "quote": "On January 18, 1966, in a Hearing of the Eighty-ninth Congress, Second Session, L. Mendel Rivers asserted no such Estimate had ever existed."
+  },
+  {
+   "s": "rivers",
+   "p": "statement",
+   "v": "no such Estimate had ever existed",
+   "quote": "On January 18, 1966, in a Hearing of the Eighty-ninth Congress, Second Session, L. Mendel Rivers asserted no such Estimate had ever existed."
+  },
+  {
+   "s": "hearing66",
+   "p": "key_document",
+   "o": "case",
+   "quote": "On January 18, 1966, in a Hearing of the Eighty-ninth Congress, Second Session, L. Mendel Rivers asserted no such Estimate had ever existed."
+  },
+  {
+   "s": "hearing66",
+   "p": "date",
+   "v": "1966-01-18",
+   "quote": "On January 18, 1966, in a Hearing of the Eighty-ninth Congress, Second Session, L. Mendel Rivers asserted no such Estimate had ever existed."
+  },
+  {
+   "s": "congress",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On January 18, 1966, in a Hearing of the Eighty-ninth Congress, Second Session, L. Mendel Rivers asserted no such Estimate had ever existed."
+  },
+  {
+   "s": "caldwell_inv",
+   "p": "related_case",
+   "o": "case",
+   "quote": "In May 1949, officers of Project Sign received a letter from the shareholder of an aeronautical company, who explained that the enterprise had been building aircraft similar to the \"flying saucers\" which were then a popular topic in the press."
+  },
+  {
+   "s": "caldwell_inv",
+   "p": "date_start",
+   "v": "1949-05",
+   "quote": "In May 1949, officers of Project Sign received a letter from the shareholder of an aeronautical company, who explained that the enterprise had been building aircraft similar to the \"flying saucers\" which were then a popular topic in the press."
+  },
+  {
+   "s": "sign",
+   "p": "investigated_by",
+   "o": "caldwell_inv",
+   "quote": "In May 1949, officers of Project Sign received a letter from the shareholder of an aeronautical company, who explained that the enterprise had been building aircraft similar to the \"flying saucers\" which were then a popular topic in the press."
+  },
+  {
+   "s": "caldwell_inv",
+   "p": "origin",
+   "v": "letter from the shareholder of an aeronautical company, who explained that the enterprise had been building aircraft similar to the \"flying saucers\"",
+   "quote": "In May 1949, officers of Project Sign received a letter from the shareholder of an aeronautical company, who explained that the enterprise had been building aircraft similar to the \"flying saucers\" which were then a popular topic in the press."
+  },
+  {
+   "s": "caldwell_inv",
+   "p": "conclusion",
+   "v": "the prototypes could not be responsible for the \"flying saucer\" reports",
+   "quote": "The team reported that the prototypes could not be responsible for the \"flying saucer\" reports that were being received from all around the country."
+  },
+  {
+   "s": "caldwell_inv",
+   "p": "detail",
+   "v": "the team tracked down one of the former test pilots of the machine who told them the story of the attempted flight in 1937–8",
+   "quote": "They also tracked down one of the former test pilots of the machine who told them the story of the attempted flight in 1937–8."
+  },
+  {
+   "s": "letter49",
+   "p": "key_document",
+   "o": "caldwell_inv",
+   "quote": "In May 1949, officers of Project Sign received a letter from the shareholder of an aeronautical company, who explained that the enterprise had been building aircraft similar to the \"flying saucers\" which were then a popular topic in the press."
+  },
+  {
+   "s": "letter49",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In May 1949, officers of Project Sign received a letter from the shareholder of an aeronautical company, who explained that the enterprise had been building aircraft similar to the \"flying saucers\" which were then a popular topic in the press."
+  },
+  {
+   "s": "letter49",
+   "p": "date",
+   "v": "1949-05",
+   "quote": "In May 1949, officers of Project Sign received a letter from the shareholder of an aeronautical company, who explained that the enterprise had been building aircraft similar to the \"flying saucers\" which were then a popular topic in the press."
+  },
+  {
+   "s": "caldwell",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "The Air Force had canvassed for reports of flying saucers, and the shareholder apparently felt that inventor Jonathan Edward Caldwell's disk-rotor might explain them."
+  },
+  {
+   "s": "caldwell",
+   "p": "other_involved",
+   "o": "caldwell_inv",
+   "quote": "The Air Force had canvassed for reports of flying saucers, and the shareholder apparently felt that inventor Jonathan Edward Caldwell's disk-rotor might explain them."
+  },
+  {
+   "s": "caldwell",
+   "p": "occupation",
+   "v": "inventor",
+   "quote": "The Air Force had canvassed for reports of flying saucers, and the shareholder apparently felt that inventor Jonathan Edward Caldwell's disk-rotor might explain them."
+  },
+  {
+   "s": "caldwell",
+   "p": "owned",
+   "o": "diskrotor",
+   "quote": "The Air Force had canvassed for reports of flying saucers, and the shareholder apparently felt that inventor Jonathan Edward Caldwell's disk-rotor might explain them."
+  },
+  {
+   "s": "diskrotor",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "Tracking down the leads, the team, accompanied by the Maryland Police, visited an abandoned farm in Glen Burnie, Maryland (outside Baltimore), where the damaged remains of Caldwell's disk-rotor aircraft were discovered."
+  },
+  {
+   "s": "diskrotor",
+   "p": "involved_vehicle",
+   "o": "caldwell_inv",
+   "quote": "Tracking down the leads, the team, accompanied by the Maryland Police, visited an abandoned farm in Glen Burnie, Maryland (outside Baltimore), where the damaged remains of Caldwell's disk-rotor aircraft were discovered."
+  },
+  {
+   "s": "diskrotor",
+   "p": "condition",
+   "v": "damaged remains",
+   "quote": "Tracking down the leads, the team, accompanied by the Maryland Police, visited an abandoned farm in Glen Burnie, Maryland (outside Baltimore), where the damaged remains of Caldwell's disk-rotor aircraft were discovered."
+  },
+  {
+   "s": "diskrotor",
+   "p": "attempted_flight",
+   "v": "1937–8",
+   "quote": "They also tracked down one of the former test pilots of the machine who told them the story of the attempted flight in 1937–8."
+  },
+  {
+   "s": "diskrotor",
+   "p": "later_depiction",
+   "v": "often described as \"crashed\" flying saucers in earlier works",
+   "quote": "They were often described as \"crashed\" flying saucers in earlier works, claiming it was one more example of the USAF being in possession of such vehicles."
+  },
+  {
+   "s": "diskrotor",
+   "p": "later_depiction",
+   "v": "connected to claims that the Nazis had built working flying saucers late in the war",
+   "quote": "More recently, they have been connected to claims that the Nazis had built working flying saucers late in the war, lumped together with other disk-shaped aircraft like the Avrocar, Sack AS-6, and Vought V-173, in an effort to demonstrate that such aircraft were both possible and well-researched."
+  },
+  {
+   "s": "drphotos",
+   "p": "key_document",
+   "o": "caldwell_inv",
+   "quote": "Photographs of the broken disk-rotor machine continue to appear in UFOs books to this day."
+  },
+  {
+   "s": "drphotos",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Photographs of the broken disk-rotor machine continue to appear in UFOs books to this day."
+  },
+  {
+   "s": "mdpolice",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Tracking down the leads, the team, accompanied by the Maryland Police, visited an abandoned farm in Glen Burnie, Maryland (outside Baltimore), where the damaged remains of Caldwell's disk-rotor aircraft were discovered."
+  },
+  {
+   "s": "mdpolice",
+   "p": "involved_org",
+   "o": "caldwell_inv",
+   "quote": "Tracking down the leads, the team, accompanied by the Maryland Police, visited an abandoned farm in Glen Burnie, Maryland (outside Baltimore), where the damaged remains of Caldwell's disk-rotor aircraft were discovered."
+  },
+  {
+   "s": "glenburnie",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Tracking down the leads, the team, accompanied by the Maryland Police, visited an abandoned farm in Glen Burnie, Maryland (outside Baltimore), where the damaged remains of Caldwell's disk-rotor aircraft were discovered."
+  },
+  {
+   "s": "glenburnie",
+   "p": "occurred_at",
+   "o": "caldwell_inv",
+   "quote": "Tracking down the leads, the team, accompanied by the Maryland Police, visited an abandoned farm in Glen Burnie, Maryland (outside Baltimore), where the damaged remains of Caldwell's disk-rotor aircraft were discovered."
+  },
+  {
+   "s": "glenburnie",
+   "p": "located_in",
+   "o": "maryland",
+   "quote": "Tracking down the leads, the team, accompanied by the Maryland Police, visited an abandoned farm in Glen Burnie, Maryland (outside Baltimore), where the damaged remains of Caldwell's disk-rotor aircraft were discovered."
+  },
+  {
+   "s": "glenburnie",
+   "p": "near",
+   "o": "baltimore",
+   "quote": "Tracking down the leads, the team, accompanied by the Maryland Police, visited an abandoned farm in Glen Burnie, Maryland (outside Baltimore), where the damaged remains of Caldwell's disk-rotor aircraft were discovered."
+  },
+  {
+   "s": "glenburnie",
+   "p": "site",
+   "v": "an abandoned farm",
+   "quote": "Tracking down the leads, the team, accompanied by the Maryland Police, visited an abandoned farm in Glen Burnie, Maryland (outside Baltimore), where the damaged remains of Caldwell's disk-rotor aircraft were discovered."
+  },
+  {
+   "s": "maryland",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Tracking down the leads, the team, accompanied by the Maryland Police, visited an abandoned farm in Glen Burnie, Maryland (outside Baltimore), where the damaged remains of Caldwell's disk-rotor aircraft were discovered."
+  },
+  {
+   "s": "baltimore",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Tracking down the leads, the team, accompanied by the Maryland Police, visited an abandoned farm in Glen Burnie, Maryland (outside Baltimore), where the damaged remains of Caldwell's disk-rotor aircraft were discovered."
+  },
+  {
+   "s": "arnold",
+   "p": "related_case",
+   "o": "case",
+   "quote": "This was during the UFO craze following Kenneth Arnold's report of seeing UFOs over Mount Rainier and the Roswell Incident that occurred shortly thereafter."
+  },
+  {
+   "s": "karnold",
+   "p": "witness",
+   "o": "arnold",
+   "quote": "This was during the UFO craze following Kenneth Arnold's report of seeing UFOs over Mount Rainier and the Roswell Incident that occurred shortly thereafter."
+  },
+  {
+   "s": "karnold",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "This was during the UFO craze following Kenneth Arnold's report of seeing UFOs over Mount Rainier and the Roswell Incident that occurred shortly thereafter."
+  },
+  {
+   "s": "rainier",
+   "p": "occurred_at",
+   "o": "arnold",
+   "quote": "This was during the UFO craze following Kenneth Arnold's report of seeing UFOs over Mount Rainier and the Roswell Incident that occurred shortly thereafter."
+  },
+  {
+   "s": "rainier",
+   "p": "related_place",
+   "o": "case",
+   "quote": "This was during the UFO craze following Kenneth Arnold's report of seeing UFOs over Mount Rainier and the Roswell Incident that occurred shortly thereafter."
+  },
+  {
+   "s": "roswell",
+   "p": "related_case",
+   "o": "case",
+   "quote": "This was during the UFO craze following Kenneth Arnold's report of seeing UFOs over Mount Rainier and the Roswell Incident that occurred shortly thereafter."
+  },
+  {
+   "s": "nazis",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "More recently, they have been connected to claims that the Nazis had built working flying saucers late in the war, lumped together with other disk-shaped aircraft like the Avrocar, Sack AS-6, and Vought V-173, in an effort to demonstrate that such aircraft were both possible and well-researched."
+  },
+  {
+   "s": "nazis",
+   "p": "rumor",
+   "v": "claims that the Nazis had built working flying saucers late in the war",
+   "quote": "More recently, they have been connected to claims that the Nazis had built working flying saucers late in the war, lumped together with other disk-shaped aircraft like the Avrocar, Sack AS-6, and Vought V-173, in an effort to demonstrate that such aircraft were both possible and well-researched."
+  },
+  {
+   "s": "avrocar",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "More recently, they have been connected to claims that the Nazis had built working flying saucers late in the war, lumped together with other disk-shaped aircraft like the Avrocar, Sack AS-6, and Vought V-173, in an effort to demonstrate that such aircraft were both possible and well-researched."
+  },
+  {
+   "s": "avrocar",
+   "p": "compared_to",
+   "o": "diskrotor",
+   "quote": "More recently, they have been connected to claims that the Nazis had built working flying saucers late in the war, lumped together with other disk-shaped aircraft like the Avrocar, Sack AS-6, and Vought V-173, in an effort to demonstrate that such aircraft were both possible and well-researched."
+  },
+  {
+   "s": "avrocar",
+   "p": "shape",
+   "v": "disk-shaped",
+   "quote": "More recently, they have been connected to claims that the Nazis had built working flying saucers late in the war, lumped together with other disk-shaped aircraft like the Avrocar, Sack AS-6, and Vought V-173, in an effort to demonstrate that such aircraft were both possible and well-researched."
+  },
+  {
+   "s": "sack",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "More recently, they have been connected to claims that the Nazis had built working flying saucers late in the war, lumped together with other disk-shaped aircraft like the Avrocar, Sack AS-6, and Vought V-173, in an effort to demonstrate that such aircraft were both possible and well-researched."
+  },
+  {
+   "s": "sack",
+   "p": "compared_to",
+   "o": "diskrotor",
+   "quote": "More recently, they have been connected to claims that the Nazis had built working flying saucers late in the war, lumped together with other disk-shaped aircraft like the Avrocar, Sack AS-6, and Vought V-173, in an effort to demonstrate that such aircraft were both possible and well-researched."
+  },
+  {
+   "s": "sack",
+   "p": "shape",
+   "v": "disk-shaped",
+   "quote": "More recently, they have been connected to claims that the Nazis had built working flying saucers late in the war, lumped together with other disk-shaped aircraft like the Avrocar, Sack AS-6, and Vought V-173, in an effort to demonstrate that such aircraft were both possible and well-researched."
+  },
+  {
+   "s": "v173",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "More recently, they have been connected to claims that the Nazis had built working flying saucers late in the war, lumped together with other disk-shaped aircraft like the Avrocar, Sack AS-6, and Vought V-173, in an effort to demonstrate that such aircraft were both possible and well-researched."
+  },
+  {
+   "s": "v173",
+   "p": "compared_to",
+   "o": "diskrotor",
+   "quote": "More recently, they have been connected to claims that the Nazis had built working flying saucers late in the war, lumped together with other disk-shaped aircraft like the Avrocar, Sack AS-6, and Vought V-173, in an effort to demonstrate that such aircraft were both possible and well-researched."
+  },
+  {
+   "s": "v173",
+   "p": "shape",
+   "v": "disk-shaped",
+   "quote": "More recently, they have been connected to claims that the Nazis had built working flying saucers late in the war, lumped together with other disk-shaped aircraft like the Avrocar, Sack AS-6, and Vought V-173, in an effort to demonstrate that such aircraft were both possible and well-researched."
+  },
+  {
+   "s": "magnet",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "Project Magnet"
+  },
+  {
+   "s": "dolan",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Dolan, Richard M. (2002) UFOs and the National Security State: Chronology of a Cover-up 1941–1973."
+  },
+  {
+   "s": "dolan",
+   "p": "authored",
+   "o": "dolanbook",
+   "quote": "Dolan, Richard M. (2002) UFOs and the National Security State: Chronology of a Cover-up 1941–1973."
+  },
+  {
+   "s": "dolanbook",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Dolan, Richard M. (2002) UFOs and the National Security State: Chronology of a Cover-up 1941–1973."
+  },
+  {
+   "s": "dolanbook",
+   "p": "year",
+   "v": "2002",
+   "quote": "Dolan, Richard M. (2002) UFOs and the National Security State: Chronology of a Cover-up 1941–1973."
+  },
+  {
+   "s": "peebles",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Peebles, Curtis (1994). Watch the Skies! - A Chronicle of the Flying Saucer Myth."
+  },
+  {
+   "s": "peebles",
+   "p": "authored",
+   "o": "peeblesbook",
+   "quote": "Peebles, Curtis (1994). Watch the Skies! - A Chronicle of the Flying Saucer Myth."
+  },
+  {
+   "s": "peeblesbook",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Peebles, Curtis (1994). Watch the Skies! - A Chronicle of the Flying Saucer Myth."
+  },
+  {
+   "s": "peeblesbook",
+   "p": "year",
+   "v": "1994",
+   "quote": "Peebles, Curtis (1994). Watch the Skies! - A Chronicle of the Flying Saucer Myth."
+  },
+  {
+   "s": "f_official-investigation",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Project Sign or Project Saucer was an official U.S. government study of unidentified flying objects (UFOs) undertaken by the United States Air Force (USAF) and active for most of 1948."
+  },
+  {
+   "s": "f_alleged-cover-up",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "They were often described as \"crashed\" flying saucers in earlier works, claiming it was one more example of the USAF being in possession of such vehicles."
+  },
+  {
+   "s": "f_shape-disc",
+   "p": "has_feature",
+   "o": "caldwell_inv",
+   "quote": "In May 1949, officers of Project Sign received a letter from the shareholder of an aeronautical company, who explained that the enterprise had been building aircraft similar to the \"flying saucers\" which were then a popular topic in the press."
+  },
+  {
+   "s": "f_crash-retrieval-claim",
+   "p": "has_feature",
+   "o": "caldwell_inv",
+   "quote": "They were often described as \"crashed\" flying saucers in earlier works, claiming it was one more example of the USAF being in possession of such vehicles."
+  },
+  {
+   "s": "x_other_experimental_disk-rotor_aircraft",
+   "p": "explained_as",
+   "o": "caldwell_inv",
+   "quote": "The Air Force had canvassed for reports of flying saucers, and the shareholder apparently felt that inventor Jonathan Edward Caldwell's disk-rotor might explain them."
+  },
+  {
+   "s": "x_other_experimental_disk-rotor_aircraft",
+   "p": "outcome",
+   "v": "the team reported that the prototypes could not be responsible",
+   "quote": "The team reported that the prototypes could not be responsible for the \"flying saucer\" reports that were being received from all around the country."
+  },
+  {
+   "s": "x_conventional-aircraft",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "The paper stated that while some UFOs appeared to represent actual aircraft, there was not enough data to determine their origin."
+  },
+  {
+   "s": "x_misperception",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Almost all cases were explained by ordinary causes, but the report recommended a continuation of the investigation of all sightings."
+  }
+ ]
+}

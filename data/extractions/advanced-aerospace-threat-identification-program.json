@@ -1,0 +1,2450 @@
+{
+ "slug": "advanced-aerospace-threat-identification-program",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Advanced Aerospace Threat Identification Program",
+   "description": "Unpublicized US government programme (2007-2012) to study UFOs/UAP, begun in the Defense Intelligence Agency.",
+   "aliases": [
+    "AATIP"
+   ]
+  },
+  {
+   "key": "usgov",
+   "type": "organization",
+   "name": "United States Government",
+   "description": "Funder of AATIP",
+   "aliases": [
+    "U.S. government",
+    "US government"
+   ]
+  },
+  {
+   "key": "dia",
+   "type": "organization",
+   "name": "Defense Intelligence Agency",
+   "description": "US agency in which the programme began",
+   "aliases": [
+    "DIA",
+    "U.S. Defense Intelligence Agency"
+   ]
+  },
+  {
+   "key": "dod",
+   "type": "organization",
+   "name": "United States Department of Defense",
+   "description": "US defence department; funded research under AATIP",
+   "aliases": [
+    "Department of Defense",
+    "Defense Department",
+    "Pentagon",
+    "DoD"
+   ]
+  },
+  {
+   "key": "uaptf",
+   "type": "program",
+   "name": "Unidentified Aerial Phenomenon Task Force",
+   "description": "Similar military programme acknowledged in June 2020; successor to AATIP",
+   "aliases": [
+    "UAPTF"
+   ]
+  },
+  {
+   "key": "ssci",
+   "type": "organization",
+   "name": "Senate Select Committee on Intelligence",
+   "description": "US Senate committee at whose June 2020 hearing the UAPTF was made public",
+   "aliases": [
+    "Senate Intelligence Committee"
+   ]
+  },
+  {
+   "key": "aawsap",
+   "type": "program",
+   "name": "Advanced Aerospace Weapon Systems Applications Program",
+   "description": "Name under which the programme was initiated by Harry Reid",
+   "aliases": [
+    "AAWSAP"
+   ]
+  },
+  {
+   "key": "reid",
+   "type": "person",
+   "name": "Harry Reid",
+   "description": "US Senate Majority Leader from Nevada who initiated the programme",
+   "aliases": [
+    "Senator Reid",
+    "Mr. Reid"
+   ]
+  },
+  {
+   "key": "nevada",
+   "type": "place",
+   "name": "Nevada",
+   "description": "US state; Reid's home state and location of Area 51"
+  },
+  {
+   "key": "bigelow",
+   "type": "person",
+   "name": "Robert Bigelow",
+   "description": "Nevada billionaire and governmental contractor, friend of Reid, who urged the programme"
+  },
+  {
+   "key": "stevens",
+   "type": "person",
+   "name": "Ted Stevens",
+   "description": "Late US senator (R-Alaska) who supported the programme"
+  },
+  {
+   "key": "inouye",
+   "type": "person",
+   "name": "Daniel Inouye",
+   "description": "Late US senator (D-Hawaii) who supported the programme"
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "description": "US military branch operating the Area 51 facility"
+  },
+  {
+   "key": "area51",
+   "type": "place",
+   "name": "Area 51",
+   "description": "United States Air Force facility in Nevada"
+  },
+  {
+   "key": "roswell",
+   "type": "case",
+   "name": "Roswell incident",
+   "description": "1947 Roswell UFO incident",
+   "aliases": [
+    "1947 Roswell UFO incident"
+   ]
+  },
+  {
+   "key": "reidletter",
+   "type": "document",
+   "name": "2009 letter by Harry Reid",
+   "description": "Letter in which Reid says AATIP made much progress and recommends a special access program"
+  },
+  {
+   "key": "klas",
+   "type": "organization",
+   "name": "KLAS-TV",
+   "description": "Television station whose investigative journalists published the Reid letter"
+  },
+  {
+   "key": "knapp",
+   "type": "person",
+   "name": "George Knapp",
+   "description": "KLAS-TV investigative journalist"
+  },
+  {
+   "key": "adams",
+   "type": "person",
+   "name": "Matt Adams",
+   "description": "KLAS-TV investigative journalist"
+  },
+  {
+   "key": "baass",
+   "type": "organization",
+   "name": "Bigelow Aerospace Advanced Space Studies",
+   "description": "Contractor awarded the AATIP contract",
+   "aliases": [
+    "BAASS"
+   ]
+  },
+  {
+   "key": "tenmonth",
+   "type": "document",
+   "name": "Ten Month Report",
+   "description": "494-page BAASS report documenting alleged worldwide UFO sightings over several decades"
+  },
+  {
+   "key": "pentvid",
+   "type": "case",
+   "name": "Pentagon UFO videos",
+   "description": "Three videos made by naval aviators, released from the programme",
+   "aliases": [
+    "several short videos",
+    "the three videos"
+   ]
+  },
+  {
+   "key": "elizondo",
+   "type": "person",
+   "name": "Luis Elizondo",
+   "description": "Former official who campaigned to release the videos; described by a Pentagon spokeswoman as director of AATIP",
+   "aliases": [
+    "Lue"
+   ]
+  },
+  {
+   "key": "ttsa",
+   "type": "organization",
+   "name": "To The Stars Academy of Arts & Science",
+   "description": "Aerospace, science, paranormal and entertainment company Elizondo helped found",
+   "aliases": [
+    "To the Stars Academy for Arts and Science",
+    "To the Stars Academy for Arts and Sciences",
+    "To the Stars",
+    "To the Stars Academy"
+   ]
+  },
+  {
+   "key": "navy",
+   "type": "organization",
+   "name": "United States Navy",
+   "description": "US military branch that confirmed the videos' authenticity and briefed Congress",
+   "aliases": [
+    "the Navy",
+    "US Navy"
+   ]
+  },
+  {
+   "key": "gough",
+   "type": "person",
+   "name": "Susan Gough",
+   "description": "Pentagon spokeswoman"
+  },
+  {
+   "key": "cia",
+   "type": "organization",
+   "name": "Central Intelligence Agency",
+   "description": "US intelligence agency whose officials Elizondo said supported the programme",
+   "aliases": [
+    "CIA"
+   ]
+  },
+  {
+   "key": "list38",
+   "type": "document",
+   "name": "List of 38 research titles pursued by AATIP",
+   "description": "List released by the DIA on January 16, 2019 in response to a FOIA request"
+  },
+  {
+   "key": "aftergood",
+   "type": "person",
+   "name": "Steven Aftergood",
+   "description": "Director of the Federation of American Scientists' Project on Government Secrecy; filed the FOIA request"
+  },
+  {
+   "key": "fas",
+   "type": "organization",
+   "name": "Federation of American Scientists",
+   "description": "Organisation whose Project on Government Secrecy is directed by Aftergood"
+  },
+  {
+   "key": "pogs",
+   "type": "organization",
+   "name": "Project on Government Secrecy",
+   "description": "Federation of American Scientists project directed by Steven Aftergood"
+  },
+  {
+   "key": "p_worm",
+   "type": "document",
+   "name": "Traversable Wormholes, Stargates, and Negative Energy",
+   "description": "AATIP research paper led by Eric W. Davis",
+   "aliases": [
+    "Traversable Wormholes, Stargates and Negative Energy"
+   ]
+  },
+  {
+   "key": "davis",
+   "type": "person",
+   "name": "Eric W. Davis",
+   "description": "Researcher at EarthTech International who led an AATIP research topic"
+  },
+  {
+   "key": "earthtech",
+   "type": "organization",
+   "name": "EarthTech International Inc",
+   "description": "Company founded by Harold E. Puthoff"
+  },
+  {
+   "key": "puthoff",
+   "type": "person",
+   "name": "Harold E. Puthoff",
+   "description": "Founder of EarthTech International, formerly involved in Project Stargate, co-founder of To the Stars"
+  },
+  {
+   "key": "p_vac",
+   "type": "document",
+   "name": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
+   "description": "AATIP reference document by Harold E. Puthoff"
+  },
+  {
+   "key": "stargate",
+   "type": "program",
+   "name": "Project Stargate",
+   "description": "Programme in which Harold E. Puthoff was formerly involved"
+  },
+  {
+   "key": "p_cloak",
+   "type": "document",
+   "name": "Invisibility Cloaking: Theory and Experiments",
+   "description": "AATIP research paper headed by Ulf Leonhardt",
+   "aliases": [
+    "Invisibility Cloaking"
+   ]
+  },
+  {
+   "key": "leonhardt",
+   "type": "person",
+   "name": "Ulf Leonhardt",
+   "description": "German scientist, professor at the Weizmann Institute of Science"
+  },
+  {
+   "key": "weizmann",
+   "type": "organization",
+   "name": "Weizmann Institute of Science",
+   "description": "Institute in Israel"
+  },
+  {
+   "key": "israel",
+   "type": "place",
+   "name": "Israel",
+   "description": "Country of the Weizmann Institute of Science"
+  },
+  {
+   "key": "p_warp",
+   "type": "document",
+   "name": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+   "description": "AATIP research paper attributed to Richard Obousy"
+  },
+  {
+   "key": "obousy",
+   "type": "person",
+   "name": "Richard Obousy",
+   "description": "Theoretical physicist, director of Icarus Interstellar",
+   "aliases": [
+    "Richard K. Obousy"
+   ]
+  },
+  {
+   "key": "icarus",
+   "type": "organization",
+   "name": "Icarus Interstellar",
+   "description": "Nonprofit directed by Richard Obousy"
+  },
+  {
+   "key": "popmech",
+   "type": "organization",
+   "name": "Popular Mechanics",
+   "description": "Magazine that released one of the AATIP papers on February 14, 2020"
+  },
+  {
+   "key": "p_clin",
+   "type": "document",
+   "name": "Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues",
+   "description": "AATIP paper by Kit Green on injuries from claimed UAP encounters"
+  },
+  {
+   "key": "green",
+   "type": "person",
+   "name": "Christopher \"Kit\" Green",
+   "description": "Former CIA agent, forensic clinician and neuroscientist who wrote an AATIP paper",
+   "aliases": [
+    "Kit Green",
+    "Christopher Green"
+   ]
+  },
+  {
+   "key": "congress",
+   "type": "organization",
+   "name": "United States Congress",
+   "description": "US legislature; members received briefings",
+   "aliases": [
+    "Congress"
+   ]
+  },
+  {
+   "key": "warner",
+   "type": "person",
+   "name": "Mark Warner",
+   "description": "US senator, vice chairman of the Senate Intelligence Committee"
+  },
+  {
+   "key": "stapp",
+   "type": "person",
+   "name": "Richard Stapp",
+   "description": "Brigadier General, Director of the DoD Special Access Program Central Office"
+  },
+  {
+   "key": "sapco",
+   "type": "organization",
+   "name": "DoD Special Access Program Central Office",
+   "description": "Department of Defense office directed by Richard Stapp"
+  },
+  {
+   "key": "trump",
+   "type": "person",
+   "name": "Donald Trump",
+   "description": "US President briefed on the issue"
+  },
+  {
+   "key": "west",
+   "type": "person",
+   "name": "Mick West",
+   "description": "Science writer and skeptical investigator"
+  },
+  {
+   "key": "radford",
+   "type": "person",
+   "name": "Benjamin Radford",
+   "description": "Researcher who pointed to mundane explanations"
+  },
+  {
+   "key": "sheaffer",
+   "type": "person",
+   "name": "Robert Sheaffer",
+   "description": "Researcher who pointed to mundane explanations"
+  },
+  {
+   "key": "x_aircraft",
+   "type": "explanation",
+   "name": "conventional-aircraft",
+   "description": "Misidentification of distant jets"
+  },
+  {
+   "key": "x_contrail",
+   "type": "explanation",
+   "name": "other:contrails",
+   "description": "Ordinary contrails"
+  },
+  {
+   "key": "x_misp",
+   "type": "explanation",
+   "name": "misperception",
+   "description": "Misidentification / human perceptual traits"
+  },
+  {
+   "key": "golub",
+   "type": "person",
+   "name": "Leon Golub",
+   "description": "Astrophysicist"
+  },
+  {
+   "key": "x_cam",
+   "type": "explanation",
+   "name": "camera-artifact",
+   "description": "Bugs in imaging/display systems or an instrumental glitch"
+  },
+  {
+   "key": "x_atmo",
+   "type": "explanation",
+   "name": "other:atmospheric effects and reflections",
+   "description": "Atmospheric effects and reflections"
+  },
+  {
+   "key": "x_psy",
+   "type": "explanation",
+   "name": "psychological",
+   "description": "Neurological overload from multiple inputs during high-speed flight"
+  },
+  {
+   "key": "lincoln",
+   "type": "person",
+   "name": "Don Lincoln",
+   "description": "Physicist"
+  },
+  {
+   "key": "nyt",
+   "type": "organization",
+   "name": "The New York Times",
+   "description": "Newspaper that reported on AATIP on 16 December 2017",
+   "aliases": [
+    "New York Times",
+    "the Times"
+   ]
+  },
+  {
+   "key": "wapo",
+   "type": "organization",
+   "name": "The Washington Post",
+   "description": "Newspaper that reported on AATIP on 16 December 2017"
+  },
+  {
+   "key": "politico",
+   "type": "organization",
+   "name": "Politico",
+   "description": "News outlet that reported on AATIP on 16 December 2017"
+  },
+  {
+   "key": "huffpost",
+   "type": "organization",
+   "name": "The Huffington Post",
+   "description": "News outlet that quoted Elizondo in late October 2017"
+  },
+  {
+   "key": "oberg",
+   "type": "person",
+   "name": "James Oberg",
+   "description": "Space writer and UFO debunker"
+  },
+  {
+   "key": "seager",
+   "type": "person",
+   "name": "Sara Seager",
+   "description": "Scientific specialist on the atmospheres of extrasolar planets"
+  },
+  {
+   "key": "princeton",
+   "type": "case",
+   "name": "USS Princeton aerial object incident",
+   "description": "Incident in which US fighter jets filmed aerial objects maneuvering in inexplicable ways"
+  },
+  {
+   "key": "f_video_p",
+   "type": "feature",
+   "name": "film-or-video",
+   "description": "Footage / videos"
+  },
+  {
+   "key": "f_maneuver",
+   "type": "feature",
+   "name": "high-speed-maneuvers",
+   "description": "Objects maneuvering in inexplicable ways"
+  },
+  {
+   "key": "f_pursuit",
+   "type": "feature",
+   "name": "pilot-witnesses",
+   "description": "Military pilots / aviators as witnesses"
+  },
+  {
+   "key": "f_mil",
+   "type": "feature",
+   "name": "military-witnesses",
+   "description": "Military personnel as witnesses"
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Official government investigation"
+  },
+  {
+   "key": "f_hearing",
+   "type": "feature",
+   "name": "congressional-hearing",
+   "description": "Congressional hearings"
+  },
+  {
+   "key": "f_crash",
+   "type": "feature",
+   "name": "crash-retrieval-claim",
+   "description": "Claims of retrieved craft or materials"
+  },
+  {
+   "key": "f_leak",
+   "type": "feature",
+   "name": "document-leak",
+   "description": "Documents released via FOIA or leaked"
+  },
+  {
+   "key": "mellon",
+   "type": "person",
+   "name": "Christopher Mellon",
+   "description": "Associate of Elizondo in To the Stars Academy"
+  },
+  {
+   "key": "white",
+   "type": "person",
+   "name": "Dana White",
+   "description": "Pentagon spokeswoman"
+  },
+  {
+   "key": "sherwood",
+   "type": "person",
+   "name": "Christopher Sherwood",
+   "description": "Pentagon spokesman"
+  },
+  {
+   "key": "nypost",
+   "type": "organization",
+   "name": "New York Post",
+   "description": "Newspaper to which Sherwood confirmed the programme's UAP research"
+  },
+  {
+   "key": "east2014",
+   "type": "case",
+   "name": "2014 East Coast United States Navy sightings",
+   "description": "US Navy pilots' encounters with unexplained objects off the US East Coast, summer 2014 to March 2015"
+  },
+  {
+   "key": "eastcoast",
+   "type": "place",
+   "name": "East Coast of the United States",
+   "description": "Region off which Navy pilots encountered unexplained objects"
+  },
+  {
+   "key": "intercept",
+   "type": "organization",
+   "name": "The Intercept",
+   "description": "News outlet that published an email excerpt questioning Elizondo's position"
+  },
+  {
+   "key": "ousdi",
+   "type": "organization",
+   "name": "Office of Under Secretary of Defense for Intelligence",
+   "description": "Defense office where Elizondo worked",
+   "aliases": [
+    "OUSDI",
+    "Under Secretary of Defense for Intelligence",
+    "USDI"
+   ]
+  },
+  {
+   "key": "osd",
+   "type": "organization",
+   "name": "Office of the Secretary of Defense",
+   "description": "Office out of which To the Stars said Elizondo ran the programme",
+   "aliases": [
+    "Office for the Secretary of Defense",
+    "OSD"
+   ]
+  },
+  {
+   "key": "mcmillan",
+   "type": "person",
+   "name": "Tim McMillan",
+   "description": "UFO investigative writer and retired police lieutenant"
+  },
+  {
+   "key": "pm_article",
+   "type": "work",
+   "name": "February 2020 Popular Mechanics article by Tim McMillan",
+   "description": "Article on BAASS's AATIP contract"
+  },
+  {
+   "key": "p_towe",
+   "type": "document",
+   "name": "Biomaterials",
+   "description": "AATIP reference document by Bruce Towe"
+  },
+  {
+   "key": "towe",
+   "type": "person",
+   "name": "Bruce Towe",
+   "description": "Author of an AATIP reference document"
+  },
+  {
+   "key": "p_shvets",
+   "type": "document",
+   "name": "Metamaterials for Aerospace Applications",
+   "description": "AATIP reference document by G. Shvets"
+  },
+  {
+   "key": "shvets",
+   "type": "person",
+   "name": "G. Shvets",
+   "description": "Author of an AATIP reference document"
+  },
+  {
+   "key": "p_hufnagel",
+   "type": "document",
+   "name": "Metallic Glasses: Status and Prospects for Aerospace Applications",
+   "description": "AATIP reference document by T. Hufnagel"
+  },
+  {
+   "key": "hufnagel",
+   "type": "person",
+   "name": "T. Hufnagel",
+   "description": "Author of an AATIP reference document"
+  },
+  {
+   "key": "p_tsoi",
+   "type": "document",
+   "name": "Metallic Spintronics",
+   "description": "AATIP reference document by M. Tsoi"
+  },
+  {
+   "key": "tsoi",
+   "type": "person",
+   "name": "M. Tsoi",
+   "description": "Author of an AATIP reference document"
+  },
+  {
+   "key": "p_williams",
+   "type": "document",
+   "name": "Materials for Advanced Aerospace Platforms",
+   "description": "AATIP reference document by J. Williams"
+  },
+  {
+   "key": "williams",
+   "type": "person",
+   "name": "J. Williams",
+   "description": "Author of an AATIP reference document"
+  },
+  {
+   "key": "p_culbreth",
+   "type": "document",
+   "name": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities",
+   "description": "AATIP reference document by W. Culbreth"
+  },
+  {
+   "key": "culbreth",
+   "type": "person",
+   "name": "W. Culbreth",
+   "description": "Author of an AATIP reference document"
+  },
+  {
+   "key": "p_winterberg",
+   "type": "document",
+   "name": "Negative Mass Propulsion",
+   "description": "AATIP reference document by F. Winterberg"
+  },
+  {
+   "key": "winterberg",
+   "type": "person",
+   "name": "F. Winterberg",
+   "description": "Author of an AATIP reference document"
+  },
+  {
+   "key": "p_albertine",
+   "type": "document",
+   "name": "State of the Art and Evolution of High Energy Laser Weapons",
+   "description": "AATIP reference document by J. Albertine"
+  },
+  {
+   "key": "albertine",
+   "type": "person",
+   "name": "J. Albertine",
+   "description": "Author of an AATIP reference document"
+  },
+  {
+   "key": "w60",
+   "type": "work",
+   "name": "60 Minutes segment featuring Luis Elizondo",
+   "description": "May 2020 television segment"
+  },
+  {
+   "key": "wfox",
+   "type": "work",
+   "name": "Fox News interview with Christopher Mellon",
+   "description": "March 23, 2018 interview"
+  },
+  {
+   "key": "wmsnbc",
+   "type": "work",
+   "name": "MSNBC interview with Luis Elizondo",
+   "description": "December 26, 2017 interview"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "2007",
+   "quote": "The program began in 2007, with funding of $22 million over the five years until the available appropriations were ended in 2012."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "2012",
+   "quote": "According to the Department of Defense, the AATIP ended in 2012 after five years"
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "The Advanced Aerospace Threat Identification Program (AATIP) was an unclassified but unpublicized investigatory effort funded by the United States Government to study unidentified flying objects (UFOs) or unexplained aerial phenomena (UAP)."
+  },
+  {
+   "s": "case",
+   "p": "classification",
+   "v": "unclassified but unpublicized",
+   "quote": "The Advanced Aerospace Threat Identification Program (AATIP) was an unclassified but unpublicized investigatory effort funded by the United States Government to study unidentified flying objects (UFOs) or unexplained aerial phenomena (UAP)."
+  },
+  {
+   "s": "case",
+   "p": "purpose",
+   "v": "study unidentified flying objects (UFOs) or unexplained aerial phenomena (UAP)",
+   "quote": "The Advanced Aerospace Threat Identification Program (AATIP) was an unclassified but unpublicized investigatory effort funded by the United States Government to study unidentified flying objects (UFOs) or unexplained aerial phenomena (UAP)."
+  },
+  {
+   "s": "case",
+   "p": "made_public_date",
+   "v": "2017-12-16",
+   "quote": "The program was first made public on December 16, 2017."
+  },
+  {
+   "s": "case",
+   "p": "funding",
+   "v": "$22 million over five years",
+   "quote": "The program began in 2007, with funding of $22 million over the five years until the available appropriations were ended in 2012."
+  },
+  {
+   "s": "case",
+   "p": "duration",
+   "v": "five years",
+   "quote": "was budgeted $22 million over its five years of operation"
+  },
+  {
+   "s": "case",
+   "p": "status_note",
+   "v": "reporting suggested US government UFO investigation programmes continued after 2012",
+   "quote": "however reporting suggested that U.S. government programs to investigate UFOs continued"
+  },
+  {
+   "s": "case",
+   "p": "status_note",
+   "v": "exact status and alleged termination remained unclear after 2017 acknowledgement",
+   "quote": "after acknowledgement of the program in 2017 the exact status of AATIP and its alleged termination remained unclear"
+  },
+  {
+   "s": "case",
+   "p": "studies_published_count",
+   "v": "38",
+   "quote": "The program also funded and published 38 studies."
+  },
+  {
+   "s": "case",
+   "p": "study_topics",
+   "v": "advanced, exotic, and theoretical aerospace topics",
+   "quote": "Those theoretical studies cover a range of advanced, exotic, and theoretical aerospace topics"
+  },
+  {
+   "s": "case",
+   "p": "released_material",
+   "v": "several short videos of military jets encountering something they could not identify",
+   "quote": "Among the information that has been released by the program are \"several short videos of military jets encountering something they couldn't identify\"."
+  },
+  {
+   "s": "case",
+   "p": "broader_public_attention_date",
+   "v": "2017-12-16",
+   "quote": "AATIP came to a broader public attention on 16 December 2017 – in three news stories – in The Washington Post, Politico and The New York Times"
+  },
+  {
+   "s": "case",
+   "p": "news_story_count",
+   "v": "3",
+   "quote": "AATIP came to a broader public attention on 16 December 2017 – in three news stories"
+  },
+  {
+   "s": "case",
+   "p": "congressional_hearings",
+   "v": "materials studied were the subject of classified congressional hearings",
+   "quote": "The materials studied by AATIP have been the subject of classified congressional hearings aimed at understanding and identifying the potential threat to the safety and security of aviators."
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "anonymous former congressional staff member: \"we really couldn't find anything of substance\"",
+   "quote": "Politico published a statement by an anonymous former congressional staff member that, \"After a while[,] the consensus was [that] we really couldn't find anything of substance,\""
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "anonymous former congressional staffer: \"They produced reams of paperwork ... We only did it for a couple of years.\"",
+   "quote": "\"They produced reams of paperwork. After all of that there was really nothing there that we could find. It all pretty much dissolved from that reason alone – and the interest level was losing steam. We only did it for a couple of years.\""
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "former BAASS contractor: monthly reports and annual program updates about UAP or anomalous phenomena were sent to the Pentagon",
+   "quote": "According to one former BAASS contractor, the BAASS report was only a sample of the materials provided to the Defense Intelligence Agency as \"monthly reports were being sent to the Pentagon, in addition to annual program updates, that were all about UAP or anomalous phenomena.”"
+  },
+  {
+   "s": "case",
+   "p": "rumor",
+   "v": "rumors that the program only focused on theoretical physics",
+   "quote": "dispelling rumors that the program only focused on theoretical physics"
+  },
+  {
+   "s": "case",
+   "p": "reference_document_count",
+   "v": "38",
+   "quote": "Of the 38 reference documents, several have been publicly released via FOIA requests or leaked"
+  },
+  {
+   "s": "usgov",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Advanced Aerospace Threat Identification Program (AATIP) was an unclassified but unpublicized investigatory effort funded by the United States Government to study unidentified flying objects (UFOs) or unexplained aerial phenomena (UAP)."
+  },
+  {
+   "s": "dia",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The program began in the U.S. Defense Intelligence Agency."
+  },
+  {
+   "s": "case",
+   "p": "part_of",
+   "o": "dia",
+   "quote": "the program began in the DIA in 2007 and was budgeted $22 million over its five years of operation"
+  },
+  {
+   "s": "dod",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Department of Defense funded research under its Advanced Aerospace Threat Identification Program."
+  },
+  {
+   "s": "dod",
+   "p": "statement",
+   "v": "AATIP was terminated in 2012",
+   "quote": "While the Defense Department stated that AATIP was terminated in 2012"
+  },
+  {
+   "s": "uaptf",
+   "p": "related_program",
+   "o": "case",
+   "quote": "This was confirmed in June 2020 with the acknowledgement of a similar military program, the unclassified but previously unreported Unidentified Aerial Phenomenon Task Force."
+  },
+  {
+   "s": "uaptf",
+   "p": "acknowledged_date",
+   "v": "2020-06",
+   "quote": "The unclassified, but previously unacknowledged, program was made public during a June 2020 hearing of the Senate Select Committee on Intelligence."
+  },
+  {
+   "s": "uaptf",
+   "p": "classification",
+   "v": "unclassified but previously unreported",
+   "quote": "the unclassified but previously unreported Unidentified Aerial Phenomenon Task Force"
+  },
+  {
+   "s": "uaptf",
+   "p": "activity",
+   "v": "giving classified briefings to congressional committees and aerospace executives for over a decade",
+   "quote": "The program has been giving classified briefings to congressional committees and aerospace executives for over a decade."
+  },
+  {
+   "s": "dod",
+   "p": "acknowledged",
+   "o": "uaptf",
+   "quote": "In 2020, the Pentagon acknowledged the existence of a program similar to the AATIP called the Unidentified Aerial Phenomenon Task Force (UAPTF)."
+  },
+  {
+   "s": "ssci",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The unclassified, but previously unacknowledged, program was made public during a June 2020 hearing of the Senate Select Committee on Intelligence."
+  },
+  {
+   "s": "aawsap",
+   "p": "related_program",
+   "o": "case",
+   "quote": "Initiated by then Senate Majority Leader Harry Reid (D-Nevada) as the Advanced Aerospace Weapon Systems Applications Program (AAWSAP) to study unexplained aerial phenomena (UAP)"
+  },
+  {
+   "s": "reid",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Initiated by then Senate Majority Leader Harry Reid (D-Nevada) as the Advanced Aerospace Weapon Systems Applications Program (AAWSAP) to study unexplained aerial phenomena (UAP)"
+  },
+  {
+   "s": "reid",
+   "p": "occupation",
+   "v": "Senate Majority Leader (D-Nevada)",
+   "quote": "Initiated by then Senate Majority Leader Harry Reid (D-Nevada)"
+  },
+  {
+   "s": "reid",
+   "p": "statement",
+   "v": "\"I think it's one of the good things I did in my congressional service. I've done something that no one has done before.\"",
+   "quote": "Reid expressed pride in his accomplishment, and was quoted as saying \"I think it's one of the good things I did in my congressional service. I've done something that no one has done before.\""
+  },
+  {
+   "s": "reid",
+   "p": "statement",
+   "v": "\"I'm interested in science, and in helping the American public understand what the hell is going on\"",
+   "quote": "Reid explained the reasoning behind his sponsorship of the program by saying \"I’m interested in science, and in helping the American public understand what the hell is going on\""
+  },
+  {
+   "s": "reid",
+   "p": "statement",
+   "v": "\"hundreds and hundreds of papers\" available; \"Most all of it, 80 percent at least, is public\"",
+   "quote": "stated that \"hundreds and hundreds of papers\" have been available since the program was completed and that \"Most all of it, 80 percent at least, is public\""
+  },
+  {
+   "s": "reid",
+   "p": "statement",
+   "v": "\"I wanted it public, it was made public, and you guys have not even looked at it.\"",
+   "quote": "adding \"I wanted it public, it was made public, and you guys have not even looked at it.\""
+  },
+  {
+   "s": "reid",
+   "p": "statement",
+   "v": "\"It is extremely important that information about the discovery of physical materials or retrieved craft come out.\"",
+   "quote": "Former Senator Reid stated in reference to the successor program, “It is extremely important that information about the discovery of physical materials or retrieved craft come out.”"
+  },
+  {
+   "s": "reid",
+   "p": "statement",
+   "v": "June 2019: happy to do the story \"as long as we are not talking about little green men. If you want to talk about science, I'm all in.\"",
+   "quote": "And I said I am happy to do that story, as long as we are not talking about little green men. If you want to talk about science, I'm all in. And that is how I looked at this.\""
+  },
+  {
+   "s": "reid",
+   "p": "belief",
+   "v": "believed crashes of objects of unknown origin may have occurred and retrieved materials should be studied; did not say crashes had occurred",
+   "quote": "\"believed that crashes of objects of unknown origin may have occurred and that retrieved materials should be studied; he did not say that crashes had occurred and that retrieved materials had been studied secretly for decades.\""
+  },
+  {
+   "s": "nevada",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The United States Air Force facility known as “Area 51” is located in Reid's home state of Nevada."
+  },
+  {
+   "s": "bigelow",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "at the urging of Reid's friend, Nevada billionaire and governmental contractor Robert Bigelow"
+  },
+  {
+   "s": "bigelow",
+   "p": "occupation",
+   "v": "Nevada billionaire and governmental contractor",
+   "quote": "at the urging of Reid's friend, Nevada billionaire and governmental contractor Robert Bigelow"
+  },
+  {
+   "s": "bigelow",
+   "p": "colleague_of",
+   "o": "reid",
+   "quote": "\"Robert Bigelow, a billionaire entrepreneur and longtime friend of Mr. Reid, received most of the money allocated for the Pentagon program.\""
+  },
+  {
+   "s": "bigelow",
+   "p": "funding_received",
+   "v": "received most of the money allocated for the Pentagon program",
+   "quote": "\"Robert Bigelow, a billionaire entrepreneur and longtime friend of Mr. Reid, received most of the money allocated for the Pentagon program.\""
+  },
+  {
+   "s": "stevens",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "with support from the late senators Ted Stevens (R-Alaska) and Daniel Inouye (D-Hawaii)"
+  },
+  {
+   "s": "stevens",
+   "p": "occupation",
+   "v": "Senator (R-Alaska)",
+   "quote": "with support from the late senators Ted Stevens (R-Alaska) and Daniel Inouye (D-Hawaii)"
+  },
+  {
+   "s": "inouye",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "with support from the late senators Ted Stevens (R-Alaska) and Daniel Inouye (D-Hawaii)"
+  },
+  {
+   "s": "inouye",
+   "p": "occupation",
+   "v": "Senator (D-Hawaii)",
+   "quote": "with support from the late senators Ted Stevens (R-Alaska) and Daniel Inouye (D-Hawaii)"
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The United States Air Force facility known as “Area 51” is located in Reid's home state of Nevada."
+  },
+  {
+   "s": "area51",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The United States Air Force facility known as “Area 51” is located in Reid's home state of Nevada."
+  },
+  {
+   "s": "area51",
+   "p": "located_in",
+   "o": "nevada",
+   "quote": "The United States Air Force facility known as “Area 51” is located in Reid's home state of Nevada."
+  },
+  {
+   "s": "area51",
+   "p": "rumor",
+   "v": "rumored in the 1970s by ufologists and conspiracy theorists to be the US government storage location for crashed alien craft",
+   "quote": "“Area 51” was rumored by ufologists and conspiracy theorists to be the US government's storage location for the crashed alien craft for study"
+  },
+  {
+   "s": "roswell",
+   "p": "related_case",
+   "o": "case",
+   "quote": "In the 1970s, after  revived interest in the \"1947 Roswell UFO incident\", “Area 51” was rumored by ufologists and conspiracy theorists"
+  },
+  {
+   "s": "roswell",
+   "p": "date_start",
+   "v": "1947",
+   "quote": "after  revived interest in the \"1947 Roswell UFO incident\""
+  },
+  {
+   "s": "reidletter",
+   "p": "key_document",
+   "o": "case",
+   "quote": "A 2009 letter by Reid was published by KLAS-TV investigative journalists George Knapp and Matt Adams, where the Senator states that AATIP has made \"much progress\" and recommends the creation of a special access program for specific parts of AATIP."
+  },
+  {
+   "s": "reid",
+   "p": "authored",
+   "o": "reidletter",
+   "quote": "A 2009 letter by Reid was published by KLAS-TV investigative journalists George Knapp and Matt Adams, where the Senator states that AATIP has made \"much progress\" and recommends the creation of a special access program for specific parts of AATIP."
+  },
+  {
+   "s": "reidletter",
+   "p": "date",
+   "v": "2009",
+   "quote": "A 2009 letter by Reid was published by KLAS-TV investigative journalists George Knapp and Matt Adams, where the Senator states that AATIP has made \"much progress\" and recommends the creation of a special access program for specific parts of AATIP."
+  },
+  {
+   "s": "reidletter",
+   "p": "content",
+   "v": "states AATIP has made \"much progress\" and recommends the creation of a special access program for specific parts of AATIP",
+   "quote": "A 2009 letter by Reid was published by KLAS-TV investigative journalists George Knapp and Matt Adams, where the Senator states that AATIP has made \"much progress\" and recommends the creation of a special access program for specific parts of AATIP."
+  },
+  {
+   "s": "klas",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "A 2009 letter by Reid was published by KLAS-TV investigative journalists George Knapp and Matt Adams, where the Senator states that AATIP has made \"much progress\" and recommends the creation of a special access program for specific parts of AATIP."
+  },
+  {
+   "s": "knapp",
+   "p": "journalist",
+   "o": "case",
+   "quote": "A 2009 letter by Reid was published by KLAS-TV investigative journalists George Knapp and Matt Adams, where the Senator states that AATIP has made \"much progress\" and recommends the creation of a special access program for specific parts of AATIP."
+  },
+  {
+   "s": "knapp",
+   "p": "employed_by",
+   "o": "klas",
+   "quote": "A 2009 letter by Reid was published by KLAS-TV investigative journalists George Knapp and Matt Adams, where the Senator states that AATIP has made \"much progress\" and recommends the creation of a special access program for specific parts of AATIP."
+  },
+  {
+   "s": "knapp",
+   "p": "published",
+   "o": "reidletter",
+   "quote": "A 2009 letter by Reid was published by KLAS-TV investigative journalists George Knapp and Matt Adams, where the Senator states that AATIP has made \"much progress\" and recommends the creation of a special access program for specific parts of AATIP."
+  },
+  {
+   "s": "adams",
+   "p": "journalist",
+   "o": "case",
+   "quote": "A 2009 letter by Reid was published by KLAS-TV investigative journalists George Knapp and Matt Adams, where the Senator states that AATIP has made \"much progress\" and recommends the creation of a special access program for specific parts of AATIP."
+  },
+  {
+   "s": "adams",
+   "p": "employed_by",
+   "o": "klas",
+   "quote": "A 2009 letter by Reid was published by KLAS-TV investigative journalists George Knapp and Matt Adams, where the Senator states that AATIP has made \"much progress\" and recommends the creation of a special access program for specific parts of AATIP."
+  },
+  {
+   "s": "adams",
+   "p": "published",
+   "o": "reidletter",
+   "quote": "A 2009 letter by Reid was published by KLAS-TV investigative journalists George Knapp and Matt Adams, where the Senator states that AATIP has made \"much progress\" and recommends the creation of a special access program for specific parts of AATIP."
+  },
+  {
+   "s": "baass",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "AATIP, through a contract awarded to Bigelow Aerospace Advanced Space Studies (BAASS), has generated a 494-page report that documents alleged worldwide UFO sightings over several decades."
+  },
+  {
+   "s": "baass",
+   "p": "contract",
+   "v": "contracted under the auspices of AATIP to study UFO reports and purported paranormal phenomena",
+   "quote": "Bigelow Aerospace Advanced Space Studies (BAASS) was contracted under the auspices of the AATIP program to study UFO reports and purported paranormal phenomena"
+  },
+  {
+   "s": "tenmonth",
+   "p": "key_document",
+   "o": "case",
+   "quote": "AATIP, through a contract awarded to Bigelow Aerospace Advanced Space Studies (BAASS), has generated a 494-page report that documents alleged worldwide UFO sightings over several decades."
+  },
+  {
+   "s": "baass",
+   "p": "authored",
+   "o": "tenmonth",
+   "quote": "AATIP, through a contract awarded to Bigelow Aerospace Advanced Space Studies (BAASS), has generated a 494-page report that documents alleged worldwide UFO sightings over several decades."
+  },
+  {
+   "s": "tenmonth",
+   "p": "page_count",
+   "v": "494",
+   "quote": "AATIP, through a contract awarded to Bigelow Aerospace Advanced Space Studies (BAASS), has generated a 494-page report that documents alleged worldwide UFO sightings over several decades."
+  },
+  {
+   "s": "tenmonth",
+   "p": "release_status",
+   "v": "has not been released to the public",
+   "quote": "This \"Ten Month Report\" has not been released to the public but focuses on reports, plans and extensive analysis of unexplained aerial phenomena."
+  },
+  {
+   "s": "tenmonth",
+   "p": "content",
+   "v": "reports, plans and extensive analysis of unexplained aerial phenomena",
+   "quote": "This \"Ten Month Report\" has not been released to the public but focuses on reports, plans and extensive analysis of unexplained aerial phenomena."
+  },
+  {
+   "s": "pentvid",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Among the information that has been released by the program are \"several short videos of military jets encountering something they couldn't identify\"."
+  },
+  {
+   "s": "pentvid",
+   "p": "video_count",
+   "v": "3",
+   "quote": "confirmed that the three videos were made by naval aviators"
+  },
+  {
+   "s": "elizondo",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "In the Politico story Pentagon spokeswoman Dana White claimed that Elizondo had been the director of AATIP."
+  },
+  {
+   "s": "elizondo",
+   "p": "proponent",
+   "o": "pentvid",
+   "quote": "The release of those videos were part of a campaign by Luis Elizondo, then working for To The Stars Academy of Arts & Science, who said that he wanted to shed light on the program."
+  },
+  {
+   "s": "elizondo",
+   "p": "role_claimed",
+   "v": "director of AATIP",
+   "quote": "In the Politico story Pentagon spokeswoman Dana White claimed that Elizondo had been the director of AATIP."
+  },
+  {
+   "s": "elizondo",
+   "p": "statement",
+   "v": "wanted to shed light on the program",
+   "quote": "The release of those videos were part of a campaign by Luis Elizondo, then working for To The Stars Academy of Arts & Science, who said that he wanted to shed light on the program."
+  },
+  {
+   "s": "elizondo",
+   "p": "later_claim",
+   "v": "the program continued with support from Navy and CIA officials after government funding ended in 2012 and after his resignation",
+   "quote": "Elizondo claimed that, while the effort's government funding ended in 2012, the program continued with support from Navy and CIA officials even after his resignation."
+  },
+  {
+   "s": "elizondo",
+   "p": "claim_confirmed",
+   "v": "Reports in 2020 confirmed Elizondo's statement",
+   "quote": "Reports in 2020 confirmed Elizondo's statement, along with reporting the existence of the U.S. government's successor to AATIP."
+  },
+  {
+   "s": "elizondo",
+   "p": "resignation_date",
+   "v": "2017-10-04",
+   "quote": "up until the time he resigned effective 10/4/2017"
+  },
+  {
+   "s": "elizondo",
+   "p": "role_disputed",
+   "v": "Pentagon spokesperson: Elizondo had no responsibilities with regard to AATIP while he worked for OUSDI",
+   "quote": "“Elizondo had no responsibilities with regard to the AATIP program while he worked for OUSDI [the Office of Under Secretary of Defense for Intelligence], up until the time he resigned effective 10/4/2017.”"
+  },
+  {
+   "s": "elizondo",
+   "p": "role_claimed",
+   "v": "To the Stars: took the program over in 2010 as Director and ran it out of the Office for the Secretary of Defense",
+   "quote": "when Lue took it over in 2010 as Director, he ran it out of the Office for the Secretary of Defense (OSD) under the Under Secretary of Defense for Intelligence (USDI)"
+  },
+  {
+   "s": "elizondo",
+   "p": "media_quote",
+   "v": "quoted in The Huffington Post in late October 2017, program not named",
+   "quote": "Although the program was not named specifically, Elizondo was quoted in The Huffington Post in late October 2017."
+  },
+  {
+   "s": "elizondo",
+   "p": "role",
+   "v": "responsible for the public release of footage taken by US fighter jets",
+   "quote": "The Washington Post story reported that Elizondo was responsible for the public release of footage taken by US fighter jets"
+  },
+  {
+   "s": "ttsa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The release of those videos were part of a campaign by Luis Elizondo, then working for To The Stars Academy of Arts & Science, who said that he wanted to shed light on the program."
+  },
+  {
+   "s": "elizondo",
+   "p": "employed_by",
+   "o": "ttsa",
+   "quote": "The release of those videos were part of a campaign by Luis Elizondo, then working for To The Stars Academy of Arts & Science, who said that he wanted to shed light on the program."
+  },
+  {
+   "s": "elizondo",
+   "p": "founded",
+   "o": "ttsa",
+   "quote": "Several days earlier, Elizondo announced his involvement in founding an aerospace, science, paranormal and entertainment company called To the Stars Academy for Arts and Science."
+  },
+  {
+   "s": "ttsa",
+   "p": "description",
+   "v": "aerospace, science, paranormal and entertainment company",
+   "quote": "an aerospace, science, paranormal and entertainment company called To the Stars Academy for Arts and Science"
+  },
+  {
+   "s": "ttsa",
+   "p": "statement",
+   "v": "disputed Pentagon account with an email saying Elizondo took over the program in 2010 as Director",
+   "quote": "To the Stars has attempted to dispute this with an email: “The program was initially run out of the Defense Intelligence Agency but when Lue took it over in 2010 as Director"
+  },
+  {
+   "s": "navy",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Navy confirmed the authenticity of the videos stating only that they depict what they consider to be \"unidentified aerial phenomena\"."
+  },
+  {
+   "s": "navy",
+   "p": "involved_org",
+   "o": "pentvid",
+   "quote": "The Navy confirmed the authenticity of the videos stating only that they depict what they consider to be \"unidentified aerial phenomena\"."
+  },
+  {
+   "s": "navy",
+   "p": "statement",
+   "v": "provided briefings by senior naval intelligence officials and testimony from \"aviators who reported hazards to aviation safety\"",
+   "quote": "they have provided a series of briefings by senior naval intelligence officials as well as testimony from \"aviators who reported hazards to aviation safety\""
+  },
+  {
+   "s": "gough",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Susan Gough, a Pentagon spokeswoman, confirmed that the three videos were made by naval aviators and that they are \"part of a larger issue of an increased number of training range incursions by unidentified aerial phenomena in recent years.”"
+  },
+  {
+   "s": "gough",
+   "p": "official_involved",
+   "o": "pentvid",
+   "quote": "Susan Gough, a Pentagon spokeswoman, confirmed that the three videos were made by naval aviators and that they are \"part of a larger issue of an increased number of training range incursions by unidentified aerial phenomena in recent years.”"
+  },
+  {
+   "s": "gough",
+   "p": "employed_by",
+   "o": "dod",
+   "quote": "Susan Gough, a Pentagon spokeswoman, confirmed that the three videos were made by naval aviators and that they are \"part of a larger issue of an increased number of training range incursions by unidentified aerial phenomena in recent years.”"
+  },
+  {
+   "s": "gough",
+   "p": "occupation",
+   "v": "Pentagon spokeswoman",
+   "quote": "Susan Gough, a Pentagon spokeswoman, confirmed that the three videos were made by naval aviators and that they are \"part of a larger issue of an increased number of training range incursions by unidentified aerial phenomena in recent years.”"
+  },
+  {
+   "s": "gough",
+   "p": "statement",
+   "v": "the three videos were made by naval aviators and are \"part of a larger issue of an increased number of training range incursions by unidentified aerial phenomena in recent years\"",
+   "quote": "Susan Gough, a Pentagon spokeswoman, confirmed that the three videos were made by naval aviators and that they are \"part of a larger issue of an increased number of training range incursions by unidentified aerial phenomena in recent years.”"
+  },
+  {
+   "s": "cia",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the program continued with support from Navy and CIA officials even after his resignation"
+  },
+  {
+   "s": "list38",
+   "p": "key_document",
+   "o": "case",
+   "quote": "On January 16, 2019, the DIA released a list of 38 research titles pursued by the program in response to a Freedom of Information Act (FOIA) request by Steven Aftergood, director of the Federation of American Scientists’ Project on Government Secrecy."
+  },
+  {
+   "s": "dia",
+   "p": "published",
+   "o": "list38",
+   "quote": "On January 16, 2019, the DIA released a list of 38 research titles pursued by the program in response to a Freedom of Information Act (FOIA) request by Steven Aftergood, director of the Federation of American Scientists’ Project on Government Secrecy."
+  },
+  {
+   "s": "list38",
+   "p": "release_date",
+   "v": "2019-01-16",
+   "quote": "On January 16, 2019, the DIA released a list of 38 research titles pursued by the program in response to a Freedom of Information Act (FOIA) request by Steven Aftergood, director of the Federation of American Scientists’ Project on Government Secrecy."
+  },
+  {
+   "s": "list38",
+   "p": "title_count",
+   "v": "38",
+   "quote": "On January 16, 2019, the DIA released a list of 38 research titles pursued by the program in response to a Freedom of Information Act (FOIA) request by Steven Aftergood, director of the Federation of American Scientists’ Project on Government Secrecy."
+  },
+  {
+   "s": "aftergood",
+   "p": "commentator",
+   "o": "case",
+   "quote": "On January 16, 2019, the DIA released a list of 38 research titles pursued by the program in response to a Freedom of Information Act (FOIA) request by Steven Aftergood, director of the Federation of American Scientists’ Project on Government Secrecy."
+  },
+  {
+   "s": "aftergood",
+   "p": "employed_by",
+   "o": "fas",
+   "quote": "On January 16, 2019, the DIA released a list of 38 research titles pursued by the program in response to a Freedom of Information Act (FOIA) request by Steven Aftergood, director of the Federation of American Scientists’ Project on Government Secrecy."
+  },
+  {
+   "s": "aftergood",
+   "p": "commanded",
+   "o": "pogs",
+   "quote": "On January 16, 2019, the DIA released a list of 38 research titles pursued by the program in response to a Freedom of Information Act (FOIA) request by Steven Aftergood, director of the Federation of American Scientists’ Project on Government Secrecy."
+  },
+  {
+   "s": "aftergood",
+   "p": "occupation",
+   "v": "director of the Federation of American Scientists' Project on Government Secrecy",
+   "quote": "On January 16, 2019, the DIA released a list of 38 research titles pursued by the program in response to a Freedom of Information Act (FOIA) request by Steven Aftergood, director of the Federation of American Scientists’ Project on Government Secrecy."
+  },
+  {
+   "s": "aftergood",
+   "p": "statement",
+   "v": "the AAWSAP contract \"sounds like it was a good deal for the contractor. But it would be hard to argue that either the military or the public got their money's worth.\"",
+   "quote": "the AAWSAP contract \"sounds like it was a good deal for the contractor. But it would be hard to argue that either the military or the public got their money’s worth.\""
+  },
+  {
+   "s": "fas",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On January 16, 2019, the DIA released a list of 38 research titles pursued by the program in response to a Freedom of Information Act (FOIA) request by Steven Aftergood, director of the Federation of American Scientists’ Project on Government Secrecy."
+  },
+  {
+   "s": "pogs",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On January 16, 2019, the DIA released a list of 38 research titles pursued by the program in response to a Freedom of Information Act (FOIA) request by Steven Aftergood, director of the Federation of American Scientists’ Project on Government Secrecy."
+  },
+  {
+   "s": "pogs",
+   "p": "part_of",
+   "o": "fas",
+   "quote": "On January 16, 2019, the DIA released a list of 38 research titles pursued by the program in response to a Freedom of Information Act (FOIA) request by Steven Aftergood, director of the Federation of American Scientists’ Project on Government Secrecy."
+  },
+  {
+   "s": "p_worm",
+   "p": "key_document",
+   "o": "case",
+   "quote": "One such research topic, “Traversable Wormholes, Stargates, and Negative Energy,” was led by Eric W. Davis of EarthTech International Inc, which was founded by Harold E. Puthoff, who was formerly involved in Project Stargate."
+  },
+  {
+   "s": "davis",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "One such research topic, “Traversable Wormholes, Stargates, and Negative Energy,” was led by Eric W. Davis of EarthTech International Inc, which was founded by Harold E. Puthoff, who was formerly involved in Project Stargate."
+  },
+  {
+   "s": "davis",
+   "p": "authored",
+   "o": "p_worm",
+   "quote": "One such research topic, “Traversable Wormholes, Stargates, and Negative Energy,” was led by Eric W. Davis of EarthTech International Inc, which was founded by Harold E. Puthoff, who was formerly involved in Project Stargate."
+  },
+  {
+   "s": "davis",
+   "p": "employed_by",
+   "o": "earthtech",
+   "quote": "One such research topic, “Traversable Wormholes, Stargates, and Negative Energy,” was led by Eric W. Davis of EarthTech International Inc, which was founded by Harold E. Puthoff, who was formerly involved in Project Stargate."
+  },
+  {
+   "s": "davis",
+   "p": "authored",
+   "o": "p_worm",
+   "quote": "\"Traversable Wormholes, Stargates and Negative Energy\" ― Eric W. Davis"
+  },
+  {
+   "s": "davis",
+   "p": "later_claim",
+   "v": "an \"off-world vehicle\" might be in the possession of the US government",
+   "quote": "News reports also repeated a claim made by Eric W. Davis, a former employee of Harold E. Puthoff (co-founder of UFO-promoting company To the Stars) that an \"off-world vehicle\" might be in the possession of the US government."
+  },
+  {
+   "s": "davis",
+   "p": "colleague_of",
+   "o": "puthoff",
+   "quote": "News reports also repeated a claim made by Eric W. Davis, a former employee of Harold E. Puthoff (co-founder of UFO-promoting company To the Stars) that an \"off-world vehicle\" might be in the possession of the US government."
+  },
+  {
+   "s": "earthtech",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "One such research topic, “Traversable Wormholes, Stargates, and Negative Energy,” was led by Eric W. Davis of EarthTech International Inc, which was founded by Harold E. Puthoff, who was formerly involved in Project Stargate."
+  },
+  {
+   "s": "puthoff",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "One such research topic, “Traversable Wormholes, Stargates, and Negative Energy,” was led by Eric W. Davis of EarthTech International Inc, which was founded by Harold E. Puthoff, who was formerly involved in Project Stargate."
+  },
+  {
+   "s": "puthoff",
+   "p": "founded",
+   "o": "earthtech",
+   "quote": "One such research topic, “Traversable Wormholes, Stargates, and Negative Energy,” was led by Eric W. Davis of EarthTech International Inc, which was founded by Harold E. Puthoff, who was formerly involved in Project Stargate."
+  },
+  {
+   "s": "puthoff",
+   "p": "member_of",
+   "o": "stargate",
+   "quote": "One such research topic, “Traversable Wormholes, Stargates, and Negative Energy,” was led by Eric W. Davis of EarthTech International Inc, which was founded by Harold E. Puthoff, who was formerly involved in Project Stargate."
+  },
+  {
+   "s": "puthoff",
+   "p": "founded",
+   "o": "ttsa",
+   "quote": "News reports also repeated a claim made by Eric W. Davis, a former employee of Harold E. Puthoff (co-founder of UFO-promoting company To the Stars) that an \"off-world vehicle\" might be in the possession of the US government."
+  },
+  {
+   "s": "p_vac",
+   "p": "key_document",
+   "o": "case",
+   "quote": "\"Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering\" Archived June 6, 2023, at the Wayback Machine ― Harold E. Puthoff"
+  },
+  {
+   "s": "puthoff",
+   "p": "authored",
+   "o": "p_vac",
+   "quote": "\"Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering\" Archived June 6, 2023, at the Wayback Machine ― Harold E. Puthoff"
+  },
+  {
+   "s": "stargate",
+   "p": "related_program",
+   "o": "case",
+   "quote": "One such research topic, “Traversable Wormholes, Stargates, and Negative Energy,” was led by Eric W. Davis of EarthTech International Inc, which was founded by Harold E. Puthoff, who was formerly involved in Project Stargate."
+  },
+  {
+   "s": "p_cloak",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Another project called “Invisibility Cloaking” was headed by German scientist Ulf Leonhardt, a professor at the Weizmann Institute of Science in Israel."
+  },
+  {
+   "s": "leonhardt",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Another project called “Invisibility Cloaking” was headed by German scientist Ulf Leonhardt, a professor at the Weizmann Institute of Science in Israel."
+  },
+  {
+   "s": "leonhardt",
+   "p": "authored",
+   "o": "p_cloak",
+   "quote": "\"Invisibility Cloaking: Theory and Experiments\" ― Ulf Leonhardt"
+  },
+  {
+   "s": "leonhardt",
+   "p": "employed_by",
+   "o": "weizmann",
+   "quote": "Another project called “Invisibility Cloaking” was headed by German scientist Ulf Leonhardt, a professor at the Weizmann Institute of Science in Israel."
+  },
+  {
+   "s": "leonhardt",
+   "p": "occupation",
+   "v": "professor",
+   "quote": "Another project called “Invisibility Cloaking” was headed by German scientist Ulf Leonhardt, a professor at the Weizmann Institute of Science in Israel."
+  },
+  {
+   "s": "leonhardt",
+   "p": "nationality",
+   "v": "German",
+   "quote": "Another project called “Invisibility Cloaking” was headed by German scientist Ulf Leonhardt, a professor at the Weizmann Institute of Science in Israel."
+  },
+  {
+   "s": "weizmann",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Another project called “Invisibility Cloaking” was headed by German scientist Ulf Leonhardt, a professor at the Weizmann Institute of Science in Israel."
+  },
+  {
+   "s": "weizmann",
+   "p": "located_in",
+   "o": "israel",
+   "quote": "Another project called “Invisibility Cloaking” was headed by German scientist Ulf Leonhardt, a professor at the Weizmann Institute of Science in Israel."
+  },
+  {
+   "s": "israel",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Another project called “Invisibility Cloaking” was headed by German scientist Ulf Leonhardt, a professor at the Weizmann Institute of Science in Israel."
+  },
+  {
+   "s": "p_warp",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Yet another title, “Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions,” was attributed to theoretical physicist Richard Obousy, director of the nonprofit Icarus Interstellar."
+  },
+  {
+   "s": "obousy",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "Yet another title, “Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions,” was attributed to theoretical physicist Richard Obousy, director of the nonprofit Icarus Interstellar."
+  },
+  {
+   "s": "obousy",
+   "p": "authored",
+   "o": "p_warp",
+   "quote": "Yet another title, “Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions,” was attributed to theoretical physicist Richard Obousy, director of the nonprofit Icarus Interstellar."
+  },
+  {
+   "s": "obousy",
+   "p": "commanded",
+   "o": "icarus",
+   "quote": "Yet another title, “Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions,” was attributed to theoretical physicist Richard Obousy, director of the nonprofit Icarus Interstellar."
+  },
+  {
+   "s": "obousy",
+   "p": "occupation",
+   "v": "theoretical physicist",
+   "quote": "Yet another title, “Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions,” was attributed to theoretical physicist Richard Obousy, director of the nonprofit Icarus Interstellar."
+  },
+  {
+   "s": "davis",
+   "p": "authored",
+   "o": "p_warp",
+   "quote": "\"Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions\" Archived March 18, 2023, at the Wayback Machine ― Richard K. Obousy, Eric W. Davis"
+  },
+  {
+   "s": "icarus",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Yet another title, “Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions,” was attributed to theoretical physicist Richard Obousy, director of the nonprofit Icarus Interstellar."
+  },
+  {
+   "s": "popmech",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "One of those papers was released to the public by Popular Mechanics on February 14, 2020."
+  },
+  {
+   "s": "p_clin",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The paper in question, titled \"Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues\", was written by Christopher “Kit” Green, formerly a CIA agent, forensic clinician and neuroscientist"
+  },
+  {
+   "s": "popmech",
+   "p": "published",
+   "o": "p_clin",
+   "quote": "One of those papers was released to the public by Popular Mechanics on February 14, 2020."
+  },
+  {
+   "s": "p_clin",
+   "p": "release_date",
+   "v": "2020-02-14",
+   "quote": "One of those papers was released to the public by Popular Mechanics on February 14, 2020."
+  },
+  {
+   "s": "p_clin",
+   "p": "content",
+   "v": "focused on forensically assessing accounts of injuries that could have resulted from claimed encounters with UAP",
+   "quote": "who described it as \"focused on forensically assessing accounts of injuries that could have resulted from claimed encounters with UAP\""
+  },
+  {
+   "s": "green",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "The paper in question, titled \"Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues\", was written by Christopher “Kit” Green, formerly a CIA agent, forensic clinician and neuroscientist"
+  },
+  {
+   "s": "green",
+   "p": "authored",
+   "o": "p_clin",
+   "quote": "The paper in question, titled \"Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues\", was written by Christopher “Kit” Green, formerly a CIA agent, forensic clinician and neuroscientist"
+  },
+  {
+   "s": "green",
+   "p": "employed_by",
+   "o": "cia",
+   "quote": "The paper in question, titled \"Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues\", was written by Christopher “Kit” Green, formerly a CIA agent, forensic clinician and neuroscientist"
+  },
+  {
+   "s": "green",
+   "p": "occupation",
+   "v": "formerly a CIA agent, forensic clinician and neuroscientist",
+   "quote": "The paper in question, titled \"Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues\", was written by Christopher “Kit” Green, formerly a CIA agent, forensic clinician and neuroscientist"
+  },
+  {
+   "s": "congress",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "in response to inquiries by members of Congress, they have provided a series of briefings by senior naval intelligence officials"
+  },
+  {
+   "s": "warner",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Senator Mark Warner, the vice chairman of the Senate Intelligence Committee, who participated in one of those briefings, released a statement requesting further research into \"unexplained interference in the air\" that could pose safety concerns for naval pilots."
+  },
+  {
+   "s": "warner",
+   "p": "member_of",
+   "o": "ssci",
+   "quote": "Senator Mark Warner, the vice chairman of the Senate Intelligence Committee, who participated in one of those briefings, released a statement requesting further research into \"unexplained interference in the air\" that could pose safety concerns for naval pilots."
+  },
+  {
+   "s": "warner",
+   "p": "occupation",
+   "v": "Senator; vice chairman of the Senate Intelligence Committee",
+   "quote": "Senator Mark Warner, the vice chairman of the Senate Intelligence Committee, who participated in one of those briefings, released a statement requesting further research into \"unexplained interference in the air\" that could pose safety concerns for naval pilots."
+  },
+  {
+   "s": "warner",
+   "p": "statement",
+   "v": "requested further research into \"unexplained interference in the air\" that could pose safety concerns for naval pilots",
+   "quote": "Senator Mark Warner, the vice chairman of the Senate Intelligence Committee, who participated in one of those briefings, released a statement requesting further research into \"unexplained interference in the air\" that could pose safety concerns for naval pilots."
+  },
+  {
+   "s": "stapp",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "According to Popular Mechanics, Senate Intelligence Committee Brigadier General Richard Stapp, Director of the DoD Special Access Program Central Office, testified the mysterious objects being encountered by the military were not related to secret U.S. technology."
+  },
+  {
+   "s": "stapp",
+   "p": "commanded",
+   "o": "sapco",
+   "quote": "According to Popular Mechanics, Senate Intelligence Committee Brigadier General Richard Stapp, Director of the DoD Special Access Program Central Office, testified the mysterious objects being encountered by the military were not related to secret U.S. technology."
+  },
+  {
+   "s": "stapp",
+   "p": "rank",
+   "v": "Brigadier General",
+   "quote": "According to Popular Mechanics, Senate Intelligence Committee Brigadier General Richard Stapp, Director of the DoD Special Access Program Central Office, testified the mysterious objects being encountered by the military were not related to secret U.S. technology."
+  },
+  {
+   "s": "stapp",
+   "p": "statement",
+   "v": "testified the mysterious objects being encountered by the military were not related to secret U.S. technology",
+   "quote": "According to Popular Mechanics, Senate Intelligence Committee Brigadier General Richard Stapp, Director of the DoD Special Access Program Central Office, testified the mysterious objects being encountered by the military were not related to secret U.S. technology."
+  },
+  {
+   "s": "sapco",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "According to Popular Mechanics, Senate Intelligence Committee Brigadier General Richard Stapp, Director of the DoD Special Access Program Central Office, testified the mysterious objects being encountered by the military were not related to secret U.S. technology."
+  },
+  {
+   "s": "sapco",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "According to Popular Mechanics, Senate Intelligence Committee Brigadier General Richard Stapp, Director of the DoD Special Access Program Central Office, testified the mysterious objects being encountered by the military were not related to secret U.S. technology."
+  },
+  {
+   "s": "trump",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "President Donald Trump has also been briefed on the issue and has stated \"I did have one very brief meeting on it. But people are saying they're seeing UFOs. Do I believe it? Not particularly.\""
+  },
+  {
+   "s": "trump",
+   "p": "occupation",
+   "v": "President",
+   "quote": "President Donald Trump has also been briefed on the issue and has stated \"I did have one very brief meeting on it. But people are saying they're seeing UFOs. Do I believe it? Not particularly.\""
+  },
+  {
+   "s": "trump",
+   "p": "statement",
+   "v": "\"I did have one very brief meeting on it. But people are saying they're seeing UFOs. Do I believe it? Not particularly.\"",
+   "quote": "President Donald Trump has also been briefed on the issue and has stated \"I did have one very brief meeting on it. But people are saying they're seeing UFOs. Do I believe it? Not particularly.\""
+  },
+  {
+   "s": "trump",
+   "p": "statement",
+   "v": "said he had a short briefing on AATIP and is skeptical of Navy sightings of UFOs",
+   "quote": "Nonetheless, president Donald Trump, who said he had a short briefing on AATIP, said he is skeptical of Navy sightings of UFOs."
+  },
+  {
+   "s": "west",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Mick West, a science writer and skeptical investigator, suggests the public availability and confirmation of rigorous empirical studies by AATIP could change the entire UFO dynamic: “It would be fantastic if there was some good evidence of something new to science. So far there isn’t”."
+  },
+  {
+   "s": "west",
+   "p": "occupation",
+   "v": "science writer and skeptical investigator",
+   "quote": "Mick West, a science writer and skeptical investigator, suggests the public availability and confirmation of rigorous empirical studies by AATIP could change the entire UFO dynamic: “It would be fantastic if there was some good evidence of something new to science. So far there isn’t”."
+  },
+  {
+   "s": "west",
+   "p": "statement",
+   "v": "\"It would be fantastic if there was some good evidence of something new to science. So far there isn't\"",
+   "quote": "Mick West, a science writer and skeptical investigator, suggests the public availability and confirmation of rigorous empirical studies by AATIP could change the entire UFO dynamic: “It would be fantastic if there was some good evidence of something new to science. So far there isn’t”."
+  },
+  {
+   "s": "radford",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Several researchers including Benjamin Radford and Robert Sheaffer have pointed out that mundane explanations such as the misidentification of distant jets or ordinary contrails are probably behind the incidents reported."
+  },
+  {
+   "s": "sheaffer",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Several researchers including Benjamin Radford and Robert Sheaffer have pointed out that mundane explanations such as the misidentification of distant jets or ordinary contrails are probably behind the incidents reported."
+  },
+  {
+   "s": "x_aircraft",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Several researchers including Benjamin Radford and Robert Sheaffer have pointed out that mundane explanations such as the misidentification of distant jets or ordinary contrails are probably behind the incidents reported."
+  },
+  {
+   "s": "radford",
+   "p": "proposed",
+   "o": "x_aircraft",
+   "quote": "Several researchers including Benjamin Radford and Robert Sheaffer have pointed out that mundane explanations such as the misidentification of distant jets or ordinary contrails are probably behind the incidents reported."
+  },
+  {
+   "s": "sheaffer",
+   "p": "proposed",
+   "o": "x_aircraft",
+   "quote": "Several researchers including Benjamin Radford and Robert Sheaffer have pointed out that mundane explanations such as the misidentification of distant jets or ordinary contrails are probably behind the incidents reported."
+  },
+  {
+   "s": "x_contrail",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Several researchers including Benjamin Radford and Robert Sheaffer have pointed out that mundane explanations such as the misidentification of distant jets or ordinary contrails are probably behind the incidents reported."
+  },
+  {
+   "s": "radford",
+   "p": "proposed",
+   "o": "x_contrail",
+   "quote": "Several researchers including Benjamin Radford and Robert Sheaffer have pointed out that mundane explanations such as the misidentification of distant jets or ordinary contrails are probably behind the incidents reported."
+  },
+  {
+   "s": "sheaffer",
+   "p": "proposed",
+   "o": "x_contrail",
+   "quote": "Several researchers including Benjamin Radford and Robert Sheaffer have pointed out that mundane explanations such as the misidentification of distant jets or ordinary contrails are probably behind the incidents reported."
+  },
+  {
+   "s": "x_misp",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Several researchers including Benjamin Radford and Robert Sheaffer have pointed out that mundane explanations such as the misidentification of distant jets or ordinary contrails are probably behind the incidents reported."
+  },
+  {
+   "s": "radford",
+   "p": "proposed",
+   "o": "x_misp",
+   "quote": "Several researchers including Benjamin Radford and Robert Sheaffer have pointed out that mundane explanations such as the misidentification of distant jets or ordinary contrails are probably behind the incidents reported."
+  },
+  {
+   "s": "sheaffer",
+   "p": "proposed",
+   "o": "x_misp",
+   "quote": "Several researchers including Benjamin Radford and Robert Sheaffer have pointed out that mundane explanations such as the misidentification of distant jets or ordinary contrails are probably behind the incidents reported."
+  },
+  {
+   "s": "golub",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Astrophysicist Leon Golub has stated that those reports have a number of possible explanations such as \"bugs in the code for the imaging and display systems, atmospheric effects and reflections, neurological overload from multiple inputs during high-speed flight.\""
+  },
+  {
+   "s": "golub",
+   "p": "occupation",
+   "v": "astrophysicist",
+   "quote": "Astrophysicist Leon Golub has stated that those reports have a number of possible explanations such as \"bugs in the code for the imaging and display systems, atmospheric effects and reflections, neurological overload from multiple inputs during high-speed flight.\""
+  },
+  {
+   "s": "golub",
+   "p": "statement",
+   "v": "possible explanations such as \"bugs in the code for the imaging and display systems, atmospheric effects and reflections, neurological overload from multiple inputs during high-speed flight\"",
+   "quote": "Astrophysicist Leon Golub has stated that those reports have a number of possible explanations such as \"bugs in the code for the imaging and display systems, atmospheric effects and reflections, neurological overload from multiple inputs during high-speed flight.\""
+  },
+  {
+   "s": "x_cam",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Astrophysicist Leon Golub has stated that those reports have a number of possible explanations such as \"bugs in the code for the imaging and display systems, atmospheric effects and reflections, neurological overload from multiple inputs during high-speed flight.\""
+  },
+  {
+   "s": "golub",
+   "p": "proposed",
+   "o": "x_cam",
+   "quote": "Astrophysicist Leon Golub has stated that those reports have a number of possible explanations such as \"bugs in the code for the imaging and display systems, atmospheric effects and reflections, neurological overload from multiple inputs during high-speed flight.\""
+  },
+  {
+   "s": "x_atmo",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Astrophysicist Leon Golub has stated that those reports have a number of possible explanations such as \"bugs in the code for the imaging and display systems, atmospheric effects and reflections, neurological overload from multiple inputs during high-speed flight.\""
+  },
+  {
+   "s": "golub",
+   "p": "proposed",
+   "o": "x_atmo",
+   "quote": "Astrophysicist Leon Golub has stated that those reports have a number of possible explanations such as \"bugs in the code for the imaging and display systems, atmospheric effects and reflections, neurological overload from multiple inputs during high-speed flight.\""
+  },
+  {
+   "s": "x_psy",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Astrophysicist Leon Golub has stated that those reports have a number of possible explanations such as \"bugs in the code for the imaging and display systems, atmospheric effects and reflections, neurological overload from multiple inputs during high-speed flight.\""
+  },
+  {
+   "s": "golub",
+   "p": "proposed",
+   "o": "x_psy",
+   "quote": "Astrophysicist Leon Golub has stated that those reports have a number of possible explanations such as \"bugs in the code for the imaging and display systems, atmospheric effects and reflections, neurological overload from multiple inputs during high-speed flight.\""
+  },
+  {
+   "s": "lincoln",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "In a similar vein, physicist Don Lincoln pointed out that while the pilots of those reports may have thought they saw what they believed to be an \"unidentified flying object\""
+  },
+  {
+   "s": "lincoln",
+   "p": "occupation",
+   "v": "physicist",
+   "quote": "In a similar vein, physicist Don Lincoln pointed out"
+  },
+  {
+   "s": "lincoln",
+   "p": "statement",
+   "v": "\"what these pilots were seeing is something with a more ordinary explanation, whether it be an instrumental glitch or some other unexplained artifact.\"",
+   "quote": "he proposed that \"what these pilots were seeing is something with a more ordinary explanation, whether it be an instrumental glitch or some other unexplained artifact.\""
+  },
+  {
+   "s": "lincoln",
+   "p": "proposed",
+   "o": "x_cam",
+   "quote": "he proposed that \"what these pilots were seeing is something with a more ordinary explanation, whether it be an instrumental glitch or some other unexplained artifact.\""
+  },
+  {
+   "s": "nyt",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "AATIP came to a broader public attention on 16 December 2017 – in three news stories – in The Washington Post, Politico and The New York Times"
+  },
+  {
+   "s": "nyt",
+   "p": "report",
+   "v": "26 May 2019: US Navy pilots fully briefed AATIP about encounters with unexplained objects",
+   "quote": "On 26 May 2019, The New York Times reported that US Navy pilots fully briefed AATIP about encounters they had with unexplained objects"
+  },
+  {
+   "s": "wapo",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "AATIP came to a broader public attention on 16 December 2017 – in three news stories – in The Washington Post, Politico and The New York Times"
+  },
+  {
+   "s": "wapo",
+   "p": "report",
+   "v": "conducted several interviews with Elizondo and Christopher Mellon",
+   "quote": "The newspaper also stated that it had conducted several interviews with Elizondo and Christopher Mellon"
+  },
+  {
+   "s": "politico",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "AATIP came to a broader public attention on 16 December 2017 – in three news stories – in The Washington Post, Politico and The New York Times"
+  },
+  {
+   "s": "huffpost",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Although the program was not named specifically, Elizondo was quoted in The Huffington Post in late October 2017."
+  },
+  {
+   "s": "oberg",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "The story in the Times included doubts about alien visitation expressed by James Oberg, a space writer and UFO debunker, and Sara Seager, a scientific specialist on the atmospheres of extrasolar planets."
+  },
+  {
+   "s": "oberg",
+   "p": "occupation",
+   "v": "space writer and UFO debunker",
+   "quote": "The story in the Times included doubts about alien visitation expressed by James Oberg, a space writer and UFO debunker, and Sara Seager, a scientific specialist on the atmospheres of extrasolar planets."
+  },
+  {
+   "s": "oberg",
+   "p": "statement",
+   "v": "\"There are plenty of prosaic events and human perceptual traits that can account for these stories\"",
+   "quote": "Oberg said \"There are plenty of prosaic events and human perceptual traits that can account for these stories\", although he welcomed further research."
+  },
+  {
+   "s": "oberg",
+   "p": "proposed",
+   "o": "x_misp",
+   "quote": "Oberg said \"There are plenty of prosaic events and human perceptual traits that can account for these stories\", although he welcomed further research."
+  },
+  {
+   "s": "seager",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "The story in the Times included doubts about alien visitation expressed by James Oberg, a space writer and UFO debunker, and Sara Seager, a scientific specialist on the atmospheres of extrasolar planets."
+  },
+  {
+   "s": "seager",
+   "p": "occupation",
+   "v": "scientific specialist on the atmospheres of extrasolar planets",
+   "quote": "The story in the Times included doubts about alien visitation expressed by James Oberg, a space writer and UFO debunker, and Sara Seager, a scientific specialist on the atmospheres of extrasolar planets."
+  },
+  {
+   "s": "princeton",
+   "p": "related_case",
+   "o": "case",
+   "quote": "The Washington Post story reported that Elizondo was responsible for the public release of footage taken by US fighter jets that appears to show aerial objects maneuvering in inexplicable ways in the USS Princeton aerial object incident."
+  },
+  {
+   "s": "princeton",
+   "p": "description",
+   "v": "footage taken by US fighter jets appears to show aerial objects maneuvering in inexplicable ways",
+   "quote": "The Washington Post story reported that Elizondo was responsible for the public release of footage taken by US fighter jets that appears to show aerial objects maneuvering in inexplicable ways in the USS Princeton aerial object incident."
+  },
+  {
+   "s": "f_video_p",
+   "p": "has_feature",
+   "o": "princeton",
+   "quote": "The Washington Post story reported that Elizondo was responsible for the public release of footage taken by US fighter jets that appears to show aerial objects maneuvering in inexplicable ways in the USS Princeton aerial object incident."
+  },
+  {
+   "s": "f_video_p",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Among the information that has been released by the program are \"several short videos of military jets encountering something they couldn't identify\"."
+  },
+  {
+   "s": "f_maneuver",
+   "p": "has_feature",
+   "o": "princeton",
+   "quote": "The Washington Post story reported that Elizondo was responsible for the public release of footage taken by US fighter jets that appears to show aerial objects maneuvering in inexplicable ways in the USS Princeton aerial object incident."
+  },
+  {
+   "s": "f_pursuit",
+   "p": "has_feature",
+   "o": "princeton",
+   "quote": "The Washington Post story reported that Elizondo was responsible for the public release of footage taken by US fighter jets that appears to show aerial objects maneuvering in inexplicable ways in the USS Princeton aerial object incident."
+  },
+  {
+   "s": "f_pursuit",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "confirmed that the three videos were made by naval aviators"
+  },
+  {
+   "s": "f_pursuit",
+   "p": "has_feature",
+   "o": "east2014",
+   "quote": "US Navy pilots fully briefed AATIP about encounters they had with unexplained objects"
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "testified the mysterious objects being encountered by the military were not related to secret U.S. technology"
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "east2014",
+   "quote": "US Navy pilots fully briefed AATIP about encounters they had with unexplained objects"
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Advanced Aerospace Threat Identification Program (AATIP) was an unclassified but unpublicized investigatory effort funded by the United States Government to study unidentified flying objects (UFOs) or unexplained aerial phenomena (UAP)."
+  },
+  {
+   "s": "f_hearing",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The materials studied by AATIP have been the subject of classified congressional hearings aimed at understanding and identifying the potential threat to the safety and security of aviators."
+  },
+  {
+   "s": "f_crash",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "News reports also repeated a claim made by Eric W. Davis, a former employee of Harold E. Puthoff (co-founder of UFO-promoting company To the Stars) that an \"off-world vehicle\" might be in the possession of the US government."
+  },
+  {
+   "s": "f_leak",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Of the 38 reference documents, several have been publicly released via FOIA requests or leaked"
+  },
+  {
+   "s": "mellon",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "The newspaper also stated that it had conducted several interviews with Elizondo and Christopher Mellon, who is associated with Elizondo in the private venture named \"To the Stars Academy for Arts and Sciences\"."
+  },
+  {
+   "s": "mellon",
+   "p": "member_of",
+   "o": "ttsa",
+   "quote": "The newspaper also stated that it had conducted several interviews with Elizondo and Christopher Mellon, who is associated with Elizondo in the private venture named \"To the Stars Academy for Arts and Sciences\"."
+  },
+  {
+   "s": "mellon",
+   "p": "colleague_of",
+   "o": "elizondo",
+   "quote": "The newspaper also stated that it had conducted several interviews with Elizondo and Christopher Mellon, who is associated with Elizondo in the private venture named \"To the Stars Academy for Arts and Sciences\"."
+  },
+  {
+   "s": "wapo",
+   "p": "interviewed",
+   "o": "mellon",
+   "quote": "The newspaper also stated that it had conducted several interviews with Elizondo and Christopher Mellon, who is associated with Elizondo in the private venture named \"To the Stars Academy for Arts and Sciences\"."
+  },
+  {
+   "s": "wapo",
+   "p": "interviewed",
+   "o": "elizondo",
+   "quote": "The newspaper also stated that it had conducted several interviews with Elizondo and Christopher Mellon, who is associated with Elizondo in the private venture named \"To the Stars Academy for Arts and Sciences\"."
+  },
+  {
+   "s": "white",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "In the Politico story Pentagon spokeswoman Dana White claimed that Elizondo had been the director of AATIP."
+  },
+  {
+   "s": "white",
+   "p": "employed_by",
+   "o": "dod",
+   "quote": "In the Politico story Pentagon spokeswoman Dana White claimed that Elizondo had been the director of AATIP."
+  },
+  {
+   "s": "white",
+   "p": "occupation",
+   "v": "Pentagon spokeswoman",
+   "quote": "In the Politico story Pentagon spokeswoman Dana White claimed that Elizondo had been the director of AATIP."
+  },
+  {
+   "s": "white",
+   "p": "statement",
+   "v": "claimed that Elizondo had been the director of AATIP",
+   "quote": "In the Politico story Pentagon spokeswoman Dana White claimed that Elizondo had been the director of AATIP."
+  },
+  {
+   "s": "sherwood",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "On 22 May 2019, Pentagon spokesman Christopher Sherwood finally confirmed to the New York Post that the program \"did pursue research and investigation into unidentified aerial phenomena,\""
+  },
+  {
+   "s": "sherwood",
+   "p": "employed_by",
+   "o": "dod",
+   "quote": "On 22 May 2019, Pentagon spokesman Christopher Sherwood finally confirmed to the New York Post that the program \"did pursue research and investigation into unidentified aerial phenomena,\""
+  },
+  {
+   "s": "sherwood",
+   "p": "occupation",
+   "v": "Pentagon spokesman",
+   "quote": "On 22 May 2019, Pentagon spokesman Christopher Sherwood finally confirmed to the New York Post that the program \"did pursue research and investigation into unidentified aerial phenomena,\""
+  },
+  {
+   "s": "sherwood",
+   "p": "statement",
+   "v": "the program \"did pursue research and investigation into unidentified aerial phenomena\"",
+   "quote": "On 22 May 2019, Pentagon spokesman Christopher Sherwood finally confirmed to the New York Post that the program \"did pursue research and investigation into unidentified aerial phenomena,\""
+  },
+  {
+   "s": "sherwood",
+   "p": "statement",
+   "v": "\"Elizondo had no responsibilities with regard to the AATIP program while he worked for OUSDI\"",
+   "quote": "However, he added: “Elizondo had no responsibilities with regard to the AATIP program while he worked for OUSDI"
+  },
+  {
+   "s": "nypost",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On 22 May 2019, Pentagon spokesman Christopher Sherwood finally confirmed to the New York Post that the program \"did pursue research and investigation into unidentified aerial phenomena,\""
+  },
+  {
+   "s": "east2014",
+   "p": "related_case",
+   "o": "case",
+   "quote": "On 26 May 2019, The New York Times reported that US Navy pilots fully briefed AATIP about encounters they had with unexplained objects during the summer of 2014 to March 2015 while flying at high altitudes off the East Coast of the United States."
+  },
+  {
+   "s": "east2014",
+   "p": "date_start",
+   "v": "2014",
+   "quote": "On 26 May 2019, The New York Times reported that US Navy pilots fully briefed AATIP about encounters they had with unexplained objects during the summer of 2014 to March 2015 while flying at high altitudes off the East Coast of the United States."
+  },
+  {
+   "s": "east2014",
+   "p": "date_end",
+   "v": "2015-03",
+   "quote": "On 26 May 2019, The New York Times reported that US Navy pilots fully briefed AATIP about encounters they had with unexplained objects during the summer of 2014 to March 2015 while flying at high altitudes off the East Coast of the United States."
+  },
+  {
+   "s": "east2014",
+   "p": "altitude",
+   "v": "high altitudes",
+   "quote": "On 26 May 2019, The New York Times reported that US Navy pilots fully briefed AATIP about encounters they had with unexplained objects during the summer of 2014 to March 2015 while flying at high altitudes off the East Coast of the United States."
+  },
+  {
+   "s": "navy",
+   "p": "involved_org",
+   "o": "east2014",
+   "quote": "On 26 May 2019, The New York Times reported that US Navy pilots fully briefed AATIP about encounters they had with unexplained objects during the summer of 2014 to March 2015 while flying at high altitudes off the East Coast of the United States."
+  },
+  {
+   "s": "eastcoast",
+   "p": "occurred_at",
+   "o": "east2014",
+   "quote": "On 26 May 2019, The New York Times reported that US Navy pilots fully briefed AATIP about encounters they had with unexplained objects during the summer of 2014 to March 2015 while flying at high altitudes off the East Coast of the United States."
+  },
+  {
+   "s": "eastcoast",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On 26 May 2019, The New York Times reported that US Navy pilots fully briefed AATIP about encounters they had with unexplained objects during the summer of 2014 to March 2015 while flying at high altitudes off the East Coast of the United States."
+  },
+  {
+   "s": "intercept",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On 1 June 2019, The Intercept published an article with an excerpt from an email obtained via FOIA request."
+  },
+  {
+   "s": "intercept",
+   "p": "report",
+   "v": "1 June 2019 article; excerpt called into question Elizondo's position at AATIP",
+   "quote": "The excerpt called into question Elizondo's position at AATIP."
+  },
+  {
+   "s": "ousdi",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "“Elizondo had no responsibilities with regard to the AATIP program while he worked for OUSDI [the Office of Under Secretary of Defense for Intelligence], up until the time he resigned effective 10/4/2017.”"
+  },
+  {
+   "s": "elizondo",
+   "p": "employed_by",
+   "o": "ousdi",
+   "quote": "“Elizondo had no responsibilities with regard to the AATIP program while he worked for OUSDI [the Office of Under Secretary of Defense for Intelligence], up until the time he resigned effective 10/4/2017.”"
+  },
+  {
+   "s": "osd",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "he ran it out of the Office for the Secretary of Defense (OSD) under the Under Secretary of Defense for Intelligence (USDI)"
+  },
+  {
+   "s": "mcmillan",
+   "p": "journalist",
+   "o": "case",
+   "quote": "A February 2020 Popular Mechanics article by UFO investigative writer and retired police lieutenant Tim McMillan said that Bigelow Aerospace Advanced Space Studies (BAASS) was contracted under the auspices of the AATIP program to study UFO reports and purported paranormal phenomena."
+  },
+  {
+   "s": "mcmillan",
+   "p": "occupation",
+   "v": "UFO investigative writer and retired police lieutenant",
+   "quote": "A February 2020 Popular Mechanics article by UFO investigative writer and retired police lieutenant Tim McMillan said that Bigelow Aerospace Advanced Space Studies (BAASS) was contracted under the auspices of the AATIP program to study UFO reports and purported paranormal phenomena."
+  },
+  {
+   "s": "pm_article",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "A February 2020 Popular Mechanics article by UFO investigative writer and retired police lieutenant Tim McMillan said that Bigelow Aerospace Advanced Space Studies (BAASS) was contracted under the auspices of the AATIP program to study UFO reports and purported paranormal phenomena."
+  },
+  {
+   "s": "mcmillan",
+   "p": "authored",
+   "o": "pm_article",
+   "quote": "A February 2020 Popular Mechanics article by UFO investigative writer and retired police lieutenant Tim McMillan said that Bigelow Aerospace Advanced Space Studies (BAASS) was contracted under the auspices of the AATIP program to study UFO reports and purported paranormal phenomena."
+  },
+  {
+   "s": "popmech",
+   "p": "published",
+   "o": "pm_article",
+   "quote": "A February 2020 Popular Mechanics article by UFO investigative writer and retired police lieutenant Tim McMillan said that Bigelow Aerospace Advanced Space Studies (BAASS) was contracted under the auspices of the AATIP program to study UFO reports and purported paranormal phenomena."
+  },
+  {
+   "s": "p_towe",
+   "p": "key_document",
+   "o": "case",
+   "quote": "\"Biomaterials\" ― Bruce Towe"
+  },
+  {
+   "s": "towe",
+   "p": "authored",
+   "o": "p_towe",
+   "quote": "\"Biomaterials\" ― Bruce Towe"
+  },
+  {
+   "s": "towe",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "\"Biomaterials\" ― Bruce Towe"
+  },
+  {
+   "s": "p_shvets",
+   "p": "key_document",
+   "o": "case",
+   "quote": "\"Metamaterials for Aerospace Applications\" ― G. Shvets"
+  },
+  {
+   "s": "shvets",
+   "p": "authored",
+   "o": "p_shvets",
+   "quote": "\"Metamaterials for Aerospace Applications\" ― G. Shvets"
+  },
+  {
+   "s": "shvets",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "\"Metamaterials for Aerospace Applications\" ― G. Shvets"
+  },
+  {
+   "s": "p_hufnagel",
+   "p": "key_document",
+   "o": "case",
+   "quote": "\"Metallic Glasses: Status and Prospects for Aerospace Applications\" ― T. Hufnagel"
+  },
+  {
+   "s": "hufnagel",
+   "p": "authored",
+   "o": "p_hufnagel",
+   "quote": "\"Metallic Glasses: Status and Prospects for Aerospace Applications\" ― T. Hufnagel"
+  },
+  {
+   "s": "hufnagel",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "\"Metallic Glasses: Status and Prospects for Aerospace Applications\" ― T. Hufnagel"
+  },
+  {
+   "s": "p_tsoi",
+   "p": "key_document",
+   "o": "case",
+   "quote": "\"Metallic Spintronics\" ― M. Tsoi"
+  },
+  {
+   "s": "tsoi",
+   "p": "authored",
+   "o": "p_tsoi",
+   "quote": "\"Metallic Spintronics\" ― M. Tsoi"
+  },
+  {
+   "s": "tsoi",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "\"Metallic Spintronics\" ― M. Tsoi"
+  },
+  {
+   "s": "p_williams",
+   "p": "key_document",
+   "o": "case",
+   "quote": "\"Materials for Advanced Aerospace Platforms\" ― J. Williams"
+  },
+  {
+   "s": "williams",
+   "p": "authored",
+   "o": "p_williams",
+   "quote": "\"Materials for Advanced Aerospace Platforms\" ― J. Williams"
+  },
+  {
+   "s": "williams",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "\"Materials for Advanced Aerospace Platforms\" ― J. Williams"
+  },
+  {
+   "s": "p_culbreth",
+   "p": "key_document",
+   "o": "case",
+   "quote": "\"Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities\" ― W. Culbreth"
+  },
+  {
+   "s": "culbreth",
+   "p": "authored",
+   "o": "p_culbreth",
+   "quote": "\"Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities\" ― W. Culbreth"
+  },
+  {
+   "s": "culbreth",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "\"Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities\" ― W. Culbreth"
+  },
+  {
+   "s": "p_winterberg",
+   "p": "key_document",
+   "o": "case",
+   "quote": "\"Negative Mass Propulsion\" ― F. Winterberg"
+  },
+  {
+   "s": "winterberg",
+   "p": "authored",
+   "o": "p_winterberg",
+   "quote": "\"Negative Mass Propulsion\" ― F. Winterberg"
+  },
+  {
+   "s": "winterberg",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "\"Negative Mass Propulsion\" ― F. Winterberg"
+  },
+  {
+   "s": "p_albertine",
+   "p": "key_document",
+   "o": "case",
+   "quote": "\"State of the Art and Evolution of High Energy Laser Weapons\" ― J. Albertine"
+  },
+  {
+   "s": "albertine",
+   "p": "authored",
+   "o": "p_albertine",
+   "quote": "\"State of the Art and Evolution of High Energy Laser Weapons\" ― J. Albertine"
+  },
+  {
+   "s": "albertine",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "\"State of the Art and Evolution of High Energy Laser Weapons\" ― J. Albertine"
+  },
+  {
+   "s": "green",
+   "p": "authored",
+   "o": "p_clin",
+   "quote": "\"Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues\" ― Kit Green"
+  },
+  {
+   "s": "w60",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "60 Minutes segment featuring Luis Elizondo – May 2020."
+  },
+  {
+   "s": "w60",
+   "p": "date",
+   "v": "2020-05",
+   "quote": "60 Minutes segment featuring Luis Elizondo – May 2020."
+  },
+  {
+   "s": "wfox",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Fox News interview with Christopher Mellon – March 23, 2018."
+  },
+  {
+   "s": "wfox",
+   "p": "date",
+   "v": "2018-03-23",
+   "quote": "Fox News interview with Christopher Mellon – March 23, 2018."
+  },
+  {
+   "s": "wmsnbc",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "MSNBC interview with Luis Elizondo – December 26, 2017."
+  },
+  {
+   "s": "wmsnbc",
+   "p": "date",
+   "v": "2017-12-26",
+   "quote": "MSNBC interview with Luis Elizondo – December 26, 2017."
+  }
+ ]
+}
