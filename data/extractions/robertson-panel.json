@@ -1,0 +1,3447 @@
+{
+ "slug": "robertson-panel",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Robertson Panel",
+   "description": "Scientific committee headed by Howard P. Robertson that met in January 1953 to review Air Force UFO reports for the CIA.",
+   "aliases": [
+    "Scientific Advisory Panel on UFOs",
+    "the Robertson panel",
+    "Panel of Scientific Consultants",
+    "the Panel"
+   ]
+  },
+  {
+   "key": "wash",
+   "type": "case",
+   "name": "1952 Washington, D.C., UFO incident",
+   "description": "Radar and visual UFO reports over Washington, D.C. on the weekends of July 19-20 and 26-27, 1952.",
+   "aliases": [
+    "incidents over Washington DC in July",
+    "the Washington reports"
+   ]
+  },
+  {
+   "key": "flap52",
+   "type": "case",
+   "name": "1952 UFO flap",
+   "description": "The 1952 wave of UFO reports received by Project Blue Book.",
+   "aliases": [
+    "A massive build-up of sightings over the United States in 1952"
+   ]
+  },
+  {
+   "key": "mariana",
+   "type": "case",
+   "name": "Mariana UFO film",
+   "description": "UFO film shown to the panel, referred to as the Great Falls case.",
+   "aliases": [
+    "Mariana UFO Incident",
+    "Mariana UFO Incident footage",
+    "Great Falls case",
+    "Great Falls sighting"
+   ]
+  },
+  {
+   "key": "utah",
+   "type": "case",
+   "name": "1952 Utah UFO Film",
+   "description": "UFO film taken by Delbert C. Newhouse, referred to as the Tremonton sighting.",
+   "aliases": [
+    "Tremonton sighting",
+    "Tremonton, Utah film",
+    "Tremonton film"
+   ]
+  },
+  {
+   "key": "losalamos",
+   "type": "case",
+   "name": "1952 Los Alamos and Oak Ridge sightings",
+   "description": "UFO sightings reported at Los Alamos and Oak Ridge when background radiation count had risen inexplicably."
+  },
+  {
+   "key": "mj12",
+   "type": "case",
+   "name": "Majestic 12",
+   "description": "Listed in the article's See also section."
+  },
+  {
+   "key": "robertson",
+   "type": "person",
+   "name": "Howard P. Robertson",
+   "description": "Physicist and CIA consultant who headed the panel.",
+   "aliases": [
+    "H.P. Robertson",
+    "Robertson",
+    "the Chairman"
+   ]
+  },
+  {
+   "key": "durant",
+   "type": "person",
+   "name": "Frederick C. Durant",
+   "description": "CIA officer and missile expert, secretary to the panel and author of the Durant Report.",
+   "aliases": [
+    "F C Durant",
+    "Fred Durant",
+    "Durant",
+    "FCD"
+   ]
+  },
+  {
+   "key": "haines",
+   "type": "person",
+   "name": "Gerald Haines",
+   "description": "CIA historian.",
+   "aliases": [
+    "Haines"
+   ]
+  },
+  {
+   "key": "ruppelt",
+   "type": "person",
+   "name": "Edward Ruppelt",
+   "description": "Head of Project Blue Book at the time of the panel.",
+   "aliases": [
+    "Captain (later Major) Edward Ruppelt",
+    "Ruppelt"
+   ]
+  },
+  {
+   "key": "landry",
+   "type": "person",
+   "name": "Landry",
+   "description": "Brigadier General, Truman's military aide.",
+   "aliases": [
+    "Brigadier General Landry"
+   ]
+  },
+  {
+   "key": "truman",
+   "type": "person",
+   "name": "Truman",
+   "description": "US President in 1952.",
+   "aliases": [
+    "the President"
+   ]
+  },
+  {
+   "key": "clark",
+   "type": "person",
+   "name": "Ralph L Clark",
+   "description": "Acting Assistant Director for Scientific Intelligence, CIA.",
+   "aliases": [
+    "Ralph Clark",
+    "Clark",
+    "RLC"
+   ]
+  },
+  {
+   "key": "smith",
+   "type": "person",
+   "name": "Walter Bedell Smith",
+   "description": "Director of Central Intelligence in 1952.",
+   "aliases": [
+    "General Walter Bedell Smith"
+   ]
+  },
+  {
+   "key": "reber",
+   "type": "person",
+   "name": "James Reber",
+   "description": "CIA assistant director for Intelligence Co-ordination.",
+   "aliases": [
+    "Reber"
+   ]
+  },
+  {
+   "key": "chadwell",
+   "type": "person",
+   "name": "Chadwell",
+   "description": "CIA Assistant Director.",
+   "aliases": [
+    "CIA Assistant Director Chadwell"
+   ]
+  },
+  {
+   "key": "bush",
+   "type": "person",
+   "name": "Vannevar Bush",
+   "description": "Head of the Joint Research and Development Board.",
+   "aliases": [
+    "Dr Vannevar Bush"
+   ]
+  },
+  {
+   "key": "alvarez",
+   "type": "person",
+   "name": "Luis Alvarez",
+   "description": "Physicist and radar expert, panel member."
+  },
+  {
+   "key": "goudsmit",
+   "type": "person",
+   "name": "Samuel Abraham Goudsmit",
+   "description": "Brookhaven nuclear physicist, panel member."
+  },
+  {
+   "key": "page",
+   "type": "person",
+   "name": "Thornton Leigh Page",
+   "description": "Astrophysicist and radar expert, panel member.",
+   "aliases": [
+    "Thornton Page"
+   ]
+  },
+  {
+   "key": "berkner",
+   "type": "person",
+   "name": "Lloyd Berkner",
+   "description": "Physicist, panel member.",
+   "aliases": [
+    "Berkner"
+   ]
+  },
+  {
+   "key": "hynek",
+   "type": "person",
+   "name": "J. Allen Hynek",
+   "description": "Astronomer and consultant to Blue Book who presented to the panel.",
+   "aliases": [
+    "Hynek"
+   ]
+  },
+  {
+   "key": "newhouse",
+   "type": "person",
+   "name": "Delbert C. Newhouse",
+   "description": "Naval photographer who took the 1952 Utah UFO film.",
+   "aliases": [
+    "Chief Warrant Officer Delbert C. Newhouse"
+   ]
+  },
+  {
+   "key": "neasham",
+   "type": "person",
+   "name": "R.S. Neasham",
+   "description": "Navy photograph and film analyst.",
+   "aliases": [
+    "Lieutenant R.S. Neasham"
+   ]
+  },
+  {
+   "key": "woo",
+   "type": "person",
+   "name": "Harry Woo",
+   "description": "Navy photograph and film analyst.",
+   "aliases": [
+    "Lieutenant Harry Woo"
+   ]
+  },
+  {
+   "key": "fournet",
+   "type": "person",
+   "name": "Dewey J. Fournet",
+   "description": "Air Force Major who coordinated UFO affairs for the Pentagon and spoke to the panel.",
+   "aliases": [
+    "Major Dewey J. Fournet",
+    "Fournet",
+    "Mr. Fournet"
+   ]
+  },
+  {
+   "key": "strong",
+   "type": "person",
+   "name": "Philip Strong",
+   "description": "OSI officer who briefed the Office of National Estimates."
+  },
+  {
+   "key": "swords",
+   "type": "person",
+   "name": "Swords",
+   "description": "Author cited on the impact of the panel's report."
+  },
+  {
+   "key": "iac",
+   "type": "organization",
+   "name": "Intelligence Advisory Committee",
+   "description": "Committee to which the CIA review recommended the panel.",
+   "aliases": [
+    "IAC"
+   ]
+  },
+  {
+   "key": "cia",
+   "type": "organization",
+   "name": "Central Intelligence Agency",
+   "description": "US intelligence agency that sponsored the panel.",
+   "aliases": [
+    "CIA",
+    "the Agency"
+   ]
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "description": "US military branch investigating UFO reports.",
+   "aliases": [
+    "U.S. Air Force",
+    "USAF",
+    "the Air Force",
+    "Air Force"
+   ]
+  },
+  {
+   "key": "nsc",
+   "type": "organization",
+   "name": "National Security Council",
+   "description": "US National Security Council.",
+   "aliases": [
+    "NSC"
+   ]
+  },
+  {
+   "key": "osi",
+   "type": "organization",
+   "name": "Office of Scientific Intelligence",
+   "description": "CIA office that instructed Robertson to assemble the panel.",
+   "aliases": [
+    "OSI",
+    "O/SI"
+   ]
+  },
+  {
+   "key": "dems",
+   "type": "organization",
+   "name": "Democratic Party",
+   "description": "US political party whose convention the President attended on July 26, 1952."
+  },
+  {
+   "key": "csc",
+   "type": "organization",
+   "name": "Civilian Saucer Committee",
+   "description": "Civilian UFO group in California watched by the Air Force."
+  },
+  {
+   "key": "psb",
+   "type": "organization",
+   "name": "Psychological Strategy Board",
+   "description": "Board the CIA was to cooperate with on psychological warfare questions.",
+   "aliases": [
+    "psychological strategy board",
+    "Psychological Board"
+   ]
+  },
+  {
+   "key": "dod",
+   "type": "organization",
+   "name": "United States Department of Defense",
+   "description": "US Defense Department.",
+   "aliases": [
+    "Defence Department",
+    "Department of Defense",
+    "Defense Department"
+   ]
+  },
+  {
+   "key": "rdb",
+   "type": "organization",
+   "name": "Research and Development Board",
+   "description": "Board of the Department of Defense.",
+   "aliases": [
+    "Research and Development Board of the Department of Defense"
+   ]
+  },
+  {
+   "key": "jrdb",
+   "type": "organization",
+   "name": "Joint Research and Development Board",
+   "description": "Board headed by Vannevar Bush."
+  },
+  {
+   "key": "battelle",
+   "type": "organization",
+   "name": "Battelle Memorial Institute",
+   "description": "Institute commissioned by the Air Force to study UFO reports.",
+   "aliases": [
+    "Battelle"
+   ]
+  },
+  {
+   "key": "weg",
+   "type": "organization",
+   "name": "Defense Department Weapons Evaluation Group",
+   "description": "Group directed by Robertson."
+  },
+  {
+   "key": "brookhaven",
+   "type": "organization",
+   "name": "Brookhaven National Laboratories",
+   "description": "Laboratory where Goudsmit worked."
+  },
+  {
+   "key": "jhoro",
+   "type": "organization",
+   "name": "Johns Hopkins Operations Research Office",
+   "description": "Office of which Thornton Page was deputy director."
+  },
+  {
+   "key": "navy",
+   "type": "organization",
+   "name": "United States Navy",
+   "description": "US Navy.",
+   "aliases": [
+    "Navy",
+    "USN"
+   ]
+  },
+  {
+   "key": "pil",
+   "type": "organization",
+   "name": "USN Photo Interpretation Laboratory",
+   "description": "Navy laboratory that analysed the two UFO films.",
+   "aliases": [
+    "P.I.L.",
+    "Photo Interpretation Laboratory"
+   ]
+  },
+  {
+   "key": "atic",
+   "type": "organization",
+   "name": "Air Technical Intelligence Center",
+   "description": "Air Force intelligence centre that presented evidence to the panel.",
+   "aliases": [
+    "ATIC"
+   ]
+  },
+  {
+   "key": "a2",
+   "type": "organization",
+   "name": "A-2",
+   "description": "Organisation whose personnel briefed the CIA on November 25, 1952."
+  },
+  {
+   "key": "cfsi",
+   "type": "organization",
+   "name": "Civilian Flying Saucer Investigators",
+   "description": "Civilian UFO group in Los Angeles."
+  },
+  {
+   "key": "apro",
+   "type": "organization",
+   "name": "Aerial Phenomena Research Organization",
+   "description": "Civilian UFO group in Wisconsin."
+  },
+  {
+   "key": "fcda",
+   "type": "organization",
+   "name": "Federal Civil Defense Administration",
+   "description": "Agency whose Director received the panel's report."
+  },
+  {
+   "key": "nsrb",
+   "type": "organization",
+   "name": "National Security Resources Board",
+   "description": "Board whose Chairman received the panel's report."
+  },
+  {
+   "key": "one",
+   "type": "organization",
+   "name": "Office of National Estimates",
+   "description": "Office briefed on the panel's findings."
+  },
+  {
+   "key": "nicap",
+   "type": "organization",
+   "name": "National Investigations Committee on Aerial Phenomena",
+   "description": "Civilian UFO research group.",
+   "aliases": [
+    "NICAP"
+   ]
+  },
+  {
+   "key": "satrev",
+   "type": "organization",
+   "name": "Saturday Review",
+   "description": "Publication that printed a nearly full-length version of the report in 1966."
+  },
+  {
+   "key": "dc",
+   "type": "place",
+   "name": "Washington, D.C.",
+   "description": "US capital, site of the July 1952 reports.",
+   "aliases": [
+    "Washington DC",
+    "Washington"
+   ]
+  },
+  {
+   "key": "dca",
+   "type": "place",
+   "name": "Washington National Airport",
+   "description": "Airport whose radar tracked blips in July 1952."
+  },
+  {
+   "key": "andrews",
+   "type": "place",
+   "name": "Andrews Air Force Base",
+   "description": "Air base whose radar tracked blips in July 1952."
+  },
+  {
+   "key": "whitehouse",
+   "type": "place",
+   "name": "White House",
+   "description": "US presidential residence and office."
+  },
+  {
+   "key": "kansas",
+   "type": "place",
+   "name": "Kansas",
+   "description": "US state where the President was on July 27 and 28, 1952."
+  },
+  {
+   "key": "california",
+   "type": "place",
+   "name": "California",
+   "description": "US state."
+  },
+  {
+   "key": "la",
+   "type": "place",
+   "name": "Los Angeles, California",
+   "description": "City of the Civilian Flying Saucer Investigators.",
+   "aliases": [
+    "Los Angeles"
+   ]
+  },
+  {
+   "key": "wisconsin",
+   "type": "place",
+   "name": "Wisconsin",
+   "description": "US state of the Aerial Phenomena Research Organization."
+  },
+  {
+   "key": "losalamos_pl",
+   "type": "place",
+   "name": "Los Alamos",
+   "description": "Site of reported UFO sightings."
+  },
+  {
+   "key": "oakridge",
+   "type": "place",
+   "name": "Oak Ridge",
+   "description": "Site of reported UFO sightings."
+  },
+  {
+   "key": "us",
+   "type": "place",
+   "name": "United States",
+   "description": "Country.",
+   "aliases": [
+    "U.S."
+   ]
+  },
+  {
+   "key": "russia",
+   "type": "place",
+   "name": "Russia",
+   "description": "Country considered as a potential adversary.",
+   "aliases": [
+    "Soviet"
+   ]
+  },
+  {
+   "key": "tremonton",
+   "type": "place",
+   "name": "Tremonton, Utah",
+   "description": "Location of the 1952 Utah UFO film.",
+   "aliases": [
+    "Tremonton"
+   ]
+  },
+  {
+   "key": "greatfalls",
+   "type": "place",
+   "name": "Great Falls",
+   "description": "Location of the Mariana film sighting."
+  },
+  {
+   "key": "pentagon",
+   "type": "place",
+   "name": "The Pentagon",
+   "description": "US defence headquarters.",
+   "aliases": [
+    "the Pentagon"
+   ]
+  },
+  {
+   "key": "bluebook",
+   "type": "program",
+   "name": "Project Blue Book",
+   "description": "US Air Force UFO investigation project.",
+   "aliases": [
+    "Blue Book",
+    "USAF Blue Book project",
+    "BLUEBOOK"
+   ]
+  },
+  {
+   "key": "sign",
+   "type": "program",
+   "name": "Project Sign",
+   "description": "Earlier Air Force UFO project."
+  },
+  {
+   "key": "grudge",
+   "type": "program",
+   "name": "Project Grudge",
+   "description": "Earlier Air Force UFO project."
+  },
+  {
+   "key": "ciastudy",
+   "type": "program",
+   "name": "CIA special study group on UFO reports (1952)",
+   "description": "CIA review of the Air Force UFO investigation that led to the Robertson Panel.",
+   "aliases": [
+    "CIA review",
+    "CIA study",
+    "special study group"
+   ]
+  },
+  {
+   "key": "battstudy",
+   "type": "program",
+   "name": "Battelle Memorial Institute study of UFO reports",
+   "description": "Statistical study of Air Force UFO reports commissioned from Battelle.",
+   "aliases": [
+    "Battelle study"
+   ]
+  },
+  {
+   "key": "bushgroup",
+   "type": "program",
+   "name": "Study group under Vannevar Bush",
+   "description": "Study group referenced in a Canadian government document as operating as early as 1950."
+  },
+  {
+   "key": "aatip",
+   "type": "program",
+   "name": "Advanced Aerospace Threat Identification Program",
+   "description": "Listed in the article's See also section.",
+   "aliases": [
+    "Advanced Aviation Threat Identification Program"
+   ]
+  },
+  {
+   "key": "report",
+   "type": "document",
+   "name": "Robertson Panel report",
+   "description": "The panel's report, originally classified Secret.",
+   "aliases": [
+    "Report of scientific advisory Panel on UFOs",
+    "Panel Report"
+   ]
+  },
+  {
+   "key": "durantrep",
+   "type": "document",
+   "name": "Durant Report",
+   "description": "Internal CIA report by Durant containing the panel's report and summarising its activities."
+  },
+  {
+   "key": "clarkmemo",
+   "type": "document",
+   "name": "Ralph Clark memo of July 29, 1952",
+   "description": "Memo to the deputy director of Intelligence, earliest written record of the CIA study."
+  },
+  {
+   "key": "aug19",
+   "type": "document",
+   "name": "Internal CIA paper dated August 19, 1952",
+   "description": "CIA analyst's paper on theories of UFOs and their national security implications."
+  },
+  {
+   "key": "sep11",
+   "type": "document",
+   "name": "Memorandum to the Director of Central Intelligence of September 11, 1952",
+   "description": "Memorandum formalising concerns about psychological warfare and air defence overload."
+  },
+  {
+   "key": "rebermemo",
+   "type": "document",
+   "name": "James Reber memorandum of October 13, 1952",
+   "description": "Memorandum to the Deputy Director Intelligence."
+  },
+  {
+   "key": "chadmemo",
+   "type": "document",
+   "name": "Chadwell memorandum of December 2, 1952",
+   "description": "Memorandum containing draft recommendations for the NSC."
+  },
+  {
+   "key": "iacmin",
+   "type": "document",
+   "name": "IAC minutes of December 4, 1952",
+   "description": "Minutes of the Intelligence Advisory Committee meeting."
+  },
+  {
+   "key": "sr14",
+   "type": "document",
+   "name": "Blue Book Special Report 14",
+   "description": "Report culminating the Battelle study."
+  },
+  {
+   "key": "canadoc",
+   "type": "document",
+   "name": "Canadian government document",
+   "description": "Document referencing a study group under Vannevar Bush."
+  },
+  {
+   "key": "nscid",
+   "type": "document",
+   "name": "Proposed NSCID on UFOs",
+   "description": "National Security Council intelligence directive the CIA was to draft.",
+   "aliases": [
+    "NSCID"
+   ]
+  },
+  {
+   "key": "gullfilm",
+   "type": "document",
+   "name": "Motion picture film of seagulls",
+   "description": "Film requested by Thornton Page and viewed by the panel."
+  },
+  {
+   "key": "janap",
+   "type": "document",
+   "name": "Joint-Army-Navy-Air Force Publication 147",
+   "description": "Military regulation of December 1953 on reporting of UFO sightings.",
+   "aliases": [
+    "JANAP 146"
+   ]
+  },
+  {
+   "key": "afr",
+   "type": "document",
+   "name": "Air Force Regulation 200-2",
+   "description": "Air Force regulation revised in 1954.",
+   "aliases": [
+    "AFR 200-2"
+   ]
+  },
+  {
+   "key": "ruppeltbook",
+   "type": "work",
+   "name": "The Report On Unidentified Flying Objects",
+   "description": "Ruppelt's 1956 book."
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation"
+  },
+  {
+   "key": "f_radar",
+   "type": "feature",
+   "name": "radar-contact"
+  },
+  {
+   "key": "f_pursuit",
+   "type": "feature",
+   "name": "aircraft-pursuit"
+  },
+  {
+   "key": "f_film",
+   "type": "feature",
+   "name": "film-or-video"
+  },
+  {
+   "key": "f_milwit",
+   "type": "feature",
+   "name": "military-witnesses"
+  },
+  {
+   "key": "f_radiation",
+   "type": "feature",
+   "name": "radiation-reading"
+  },
+  {
+   "key": "f_nuclear",
+   "type": "feature",
+   "name": "nuclear-site-proximity"
+  },
+  {
+   "key": "f_milbase",
+   "type": "feature",
+   "name": "military-base-proximity"
+  },
+  {
+   "key": "f_lights",
+   "type": "feature",
+   "name": "lights-only"
+  },
+  {
+   "key": "f_coverup",
+   "type": "feature",
+   "name": "other:secrecy over CIA sponsorship"
+  },
+  {
+   "key": "x_misp",
+   "type": "explanation",
+   "name": "misperception"
+  },
+  {
+   "key": "x_bird",
+   "type": "explanation",
+   "name": "bird-or-animal"
+  },
+  {
+   "key": "x_aircraft",
+   "type": "explanation",
+   "name": "conventional-aircraft"
+  },
+  {
+   "key": "x_balloon",
+   "type": "explanation",
+   "name": "balloon"
+  },
+  {
+   "key": "x_reflection",
+   "type": "explanation",
+   "name": "other:reflections of sunlight"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1953-01-14",
+   "quote": "The Robertson Panel first met formally on January 14, 1953, under the direction of Howard P. Robertson."
+  },
+  {
+   "s": "case",
+   "p": "date_end",
+   "v": "1953-01-17",
+   "quote": "Durant records that the panel reconvened on the Saturday morning:"
+  },
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1953-01",
+   "quote": "The Robertson Panel was a scientific committee which met in January 1953 headed by Howard P. Robertson."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "The Panel arose from a recommendation to the Intelligence Advisory Committee (IAC) in December 1952 from a Central Intelligence Agency (CIA) review of the U.S. Air Force investigation into unidentified flying objects, Project Blue Book."
+  },
+  {
+   "s": "case",
+   "p": "type_of_body",
+   "v": "scientific committee",
+   "quote": "The Robertson Panel was a scientific committee which met in January 1953 headed by Howard P. Robertson."
+  },
+  {
+   "s": "case",
+   "p": "duration",
+   "v": "four consecutive days of formal meetings",
+   "quote": "The Panel had four consecutive days of formal meetings."
+  },
+  {
+   "s": "case",
+   "p": "total_meeting_time",
+   "v": "12 hours",
+   "quote": "In total, they met for 12 hours and reviewed 23 cases out of 2,331 Air Force UFO cases on record (or about 1%), although Ruppelt wrote that the Panel studied their best cases."
+  },
+  {
+   "s": "case",
+   "p": "cases_reviewed",
+   "v": "23",
+   "quote": "In total, they met for 12 hours and reviewed 23 cases out of 2,331 Air Force UFO cases on record (or about 1%), although Ruppelt wrote that the Panel studied their best cases."
+  },
+  {
+   "s": "case",
+   "p": "cases_on_record",
+   "v": "2,331",
+   "quote": "In total, they met for 12 hours and reviewed 23 cases out of 2,331 Air Force UFO cases on record (or about 1%), although Ruppelt wrote that the Panel studied their best cases."
+  },
+  {
+   "s": "case",
+   "p": "share_of_cases_reviewed",
+   "v": "about 1%",
+   "quote": "In total, they met for 12 hours and reviewed 23 cases out of 2,331 Air Force UFO cases on record (or about 1%), although Ruppelt wrote that the Panel studied their best cases."
+  },
+  {
+   "s": "case",
+   "p": "origin",
+   "v": "recommendation to the Intelligence Advisory Committee in December 1952 from a CIA review of Project Blue Book",
+   "quote": "The Panel arose from a recommendation to the Intelligence Advisory Committee (IAC) in December 1952 from a Central Intelligence Agency (CIA) review of the U.S. Air Force investigation into unidentified flying objects, Project Blue Book."
+  },
+  {
+   "s": "case",
+   "p": "origin",
+   "v": "outcome of recommendation (a) of the IAC decision of December 4, 1952",
+   "quote": "From the IAC minutes of December 4 and the earlier CIA documents it appears clear that the Robertson Panel was the outcome of recommendation (a) of the IAC decision"
+  },
+  {
+   "s": "case",
+   "p": "classification",
+   "v": "report originally classified Secret",
+   "quote": "The panel was briefed on U.S. military activities and intelligence; hence the report was originally classified Secret."
+  },
+  {
+   "s": "case",
+   "p": "conclusion",
+   "v": "UFOs were not a direct threat to national security but could pose an indirect threat by overwhelming military communications",
+   "quote": "Later declassified, the Robertson Panel's report concluded that UFOs were not a direct threat to national security, but could pose an indirect threat by overwhelming standard military communications due to public interest in the subject."
+  },
+  {
+   "s": "case",
+   "p": "conclusion",
+   "v": "most UFO reports could be explained as misidentification of mundane aerial objects",
+   "quote": "Most UFO reports, they concluded, could be explained as misidentification of mundane aerial objects, and the remaining minority could, in all likelihood, be similarly explained with further study."
+  },
+  {
+   "s": "case",
+   "p": "conclusion",
+   "v": "no evidence of a direct threat to national security in the objects sighted (unanimous)",
+   "quote": "The Panel concluded unanimously that there was no evidence of a direct threat to national security in the objects sighted"
+  },
+  {
+   "s": "case",
+   "p": "conclusion",
+   "v": "no evidence that related the objects sighted to space travelers",
+   "quote": "they did not find was any evidence that related the objects sighted to space travelers."
+  },
+  {
+   "s": "case",
+   "p": "conclusion",
+   "v": "nothing of scientific value in UFO reports",
+   "quote": "Whilst concluding there was nothing of scientific value in UFO reports and that there was no evidence of a direct threat to national security, the panel noted:"
+  },
+  {
+   "s": "case",
+   "p": "conclusion",
+   "v": "no residuum of cases attributable to foreign artifacts capable of hostile acts; no need for revision of current scientific concepts",
+   "quote": "We firmly believe that there is no residuum of cases which indicates Phenomena which are attributable to foreign artifacts capable of hostile acts, and that there is no evidence that the phenomena indicates a need for the revision of current scientific concepts."
+  },
+  {
+   "s": "case",
+   "p": "conclusion",
+   "v": "continued emphasis on reporting results in a threat to the orderly functioning of the protective organs of the body politic",
+   "quote": "That the continued emphasis on the reporting of these phenomena does, in these parlous times, result in a threat to the orderly functioning of the protective organs of the body politic."
+  },
+  {
+   "s": "case",
+   "p": "related_danger",
+   "v": "misidentification of actual enemy artifacts by defense personnel",
+   "quote": "Misidentification of actual enemy artifacts by defense personnel."
+  },
+  {
+   "s": "case",
+   "p": "related_danger",
+   "v": "overloading of emergency reporting channels with false information",
+   "quote": "Overloading of emergency reporting channels with \"false\" information (\"noise to signal ratio\" analogy"
+  },
+  {
+   "s": "case",
+   "p": "related_danger",
+   "v": "subjectivity of public to mass hysteria and vulnerability to enemy psychological warfare",
+   "quote": "Subjectivity of public to mass hysteria and greater vulnerability to possible enemy psychological warfare."
+  },
+  {
+   "s": "case",
+   "p": "related_danger",
+   "v": "clogging of channels of communication by irrelevant reports; false alarms leading to ignoring real indications of hostile action",
+   "quote": "We cite as examples the clogging of channels of communication by irrelevant reports, the danger of being led by continued false alarms to ignore real indications of hostile action"
+  },
+  {
+   "s": "case",
+   "p": "recommendation",
+   "v": "public education campaign to reduce public interest; civilian UFO groups should be monitored",
+   "quote": "The Robertson Panel recommended that a public education campaign should be undertaken in order to reduce public interest in the subject, minimising the risk of swamping Air Defence systems with reports at critical times, and that civilian UFO groups should be monitored."
+  },
+  {
+   "s": "case",
+   "p": "recommendation",
+   "v": "debunking education through mass media such as television, motion pictures and popular articles",
+   "quote": "This education could be accomplished by mass media such as television, motion pictures, and popular articles."
+  },
+  {
+   "s": "case",
+   "p": "recommendation",
+   "v": "strip UFOs of the special status and aura of mystery they have acquired",
+   "quote": "That the national security agencies take immediate steps to strip the Unidentified Flying Objects of the special status they have been given and the aura of mystery they have unfortunately acquired;"
+  },
+  {
+   "s": "case",
+   "p": "recommendation",
+   "v": "policies on intelligence, training and public education to recognise true indications of hostile intent",
+   "quote": "That the national security agencies institute policies on intelligence, training, and public education designed to prepare the material defenses and the morale of the country to recognize most promptly and to react most effectively to true indications of hostile intent or action."
+  },
+  {
+   "s": "case",
+   "p": "recommendation",
+   "v": "integrated program to reassure the public of the total lack of evidence of inimical forces behind the phenomenon",
+   "quote": "We suggest that these aims may be achieved by an integrated program designed to reassure the public of the total lack of evidence of Inimical forces behind the phenomenon"
+  },
+  {
+   "s": "case",
+   "p": "recommendation",
+   "v": "civilian UFO organizations should be watched because of their potential influence on mass thinking",
+   "quote": "It was believed that such organizations should be watched because of their potentially great influence on mass thinking if widespread sightings should occur."
+  },
+  {
+   "s": "case",
+   "p": "recommendation",
+   "v": "further tests on the Tremonton film with pillow balloons and ornithologists",
+   "quote": "The Panel believed strongly that the data available on this sighting was sufficient for positive identification if further data is obtained by photographing polyethylene \"pillow\" balloons released near the site under similar weather conditions, checking bird flight and reflection characteristics with competent ornithologists"
+  },
+  {
+   "s": "case",
+   "p": "stated_aim",
+   "v": "reduce the current gullibility of the public and susceptibility to hostile propaganda",
+   "quote": "Such a program should tend to reduce the current gullibility of the public and consequently their susceptibility to clever hostile propaganda."
+  },
+  {
+   "s": "case",
+   "p": "stated_aim",
+   "v": "debunking aim: reduction in public interest in flying saucers",
+   "quote": "aim would result in reduction in public interest in \"flying saucers\" which today evokes a strong psychological reaction."
+  },
+  {
+   "s": "case",
+   "p": "focus_of_recommendations",
+   "v": "educational or debunking aspects",
+   "quote": "The formal recommendations of the panel focused mainly on the educational or \"debunking\" aspects of their conclusions:"
+  },
+  {
+   "s": "case",
+   "p": "task",
+   "v": "evaluate any possible threat to national security posed by Unidentified Flying Objects",
+   "quote": "Pursuant to the request of the Assistant Director for Scientific Intelligence, the undersigned Panel of Scientific Consultants has met to evaluate any possible threat to national security posed by Unidentified Flying Objects"
+  },
+  {
+   "s": "case",
+   "p": "task",
+   "v": "reduce public concern and show that UFO reports could be explained by conventional reasoning (per Thornton Page)",
+   "quote": "H.P. Robertson told us in the first private (no outsiders) session that our job was to reduce public concern, and show that UFO reports could be explained by conventional reasoning."
+  },
+  {
+   "s": "case",
+   "p": "informal_meeting",
+   "v": "panel members met informally prior to the main meetings, with no outsiders",
+   "quote": "Thornton Page later stated that the panel members met informally prior to the main panel meetings, with 'no outsiders'."
+  },
+  {
+   "s": "case",
+   "p": "panel_attitude",
+   "v": "all members skeptical of UFO reports, to varying degrees",
+   "quote": "All were then skeptical of UFO reports, though to varying degrees."
+  },
+  {
+   "s": "case",
+   "p": "member_background",
+   "v": "respected scientists who had worked on other classified military projects or studies",
+   "quote": "Other panel members were respected scientists who had worked on other classified military projects or studies."
+  },
+  {
+   "s": "case",
+   "p": "first_day",
+   "v": "viewed two motion pictures of UFOs: Mariana footage and 1952 Utah UFO Film",
+   "quote": "On the first day, the panel viewed two motion pictures of UFOs: the Mariana UFO Incident footage and 1952 Utah UFO Film (the latter was taken by naval photographer Chief Warrant Officer Delbert C. Newhouse)."
+  },
+  {
+   "s": "case",
+   "p": "second_day",
+   "v": "Ruppelt finished his presentation; Hynek discussed the Battelle study",
+   "quote": "On the second day, Ruppelt finished his presentation."
+  },
+  {
+   "s": "case",
+   "p": "second_day",
+   "v": "watched a motion picture film of seagulls",
+   "quote": "The panel then watched a motion picture film of seagulls, which Thornton Page had requested as the panel felt that the Tremonton, Utah film most probably showed birds."
+  },
+  {
+   "s": "case",
+   "p": "third_day",
+   "v": "Major Dewey J. Fournet spoke to the panel",
+   "quote": "On the third day, Air Force Major Dewey J. Fournet spoke to the panel."
+  },
+  {
+   "s": "case",
+   "p": "third_day",
+   "v": "meeting adjourned at 1715 after agreeing the Chairman should draft a report",
+   "quote": "it was agreed that the Chairman should draft a report of the Panel to AD/SI that evening for review by the Panel the next morning. The meeting adjourned at 1715"
+  },
+  {
+   "s": "case",
+   "p": "fourth_day",
+   "v": "seventh session opened at 0945 on Saturday with a rough draft of the Panel Report",
+   "quote": "At 0945 the Chairman opened the seventh session and submitted a rough draft of the Panel Report to the members."
+  },
+  {
+   "s": "case",
+   "p": "fourth_day",
+   "v": "two and one-half hours of discussion and revision of the draft",
+   "quote": "The next two and one-half hours were consumed in discussion and revision of the draft."
+  },
+  {
+   "s": "case",
+   "p": "fourth_day",
+   "v": "AD/SI joined at 1100 and reported the Director of Intelligence, USAF, reacted favourably to the draft",
+   "quote": "At 1100 the AD/SI joined the meeting and reported that he had shown and discussed a copy of the initial rough draft to the Director of Intelligence, USAF, whose reaction was favorable"
+  },
+  {
+   "s": "case",
+   "p": "fourth_day",
+   "v": "final meeting that afternoon to finalise the report",
+   "quote": "The final meeting of the panel took place that afternoon to finalise the report."
+  },
+  {
+   "s": "case",
+   "p": "view_of_fournet_cases",
+   "v": "could not accept any of his cases because they were raw, unevaluated reports",
+   "quote": "However, the Panel could not accept any of the cases cited by him because they were raw, unevaluated reports."
+  },
+  {
+   "s": "case",
+   "p": "view_of_fournet_cases",
+   "v": "terrestrial explanations suggested in some cases; in others sighting time so short as to suggest visual impressions",
+   "quote": "Terrestrial explanations of the sightings were suggested in some cases and in others the time of sighting was so short as to cause suspicion of visual impressions"
+  },
+  {
+   "s": "case",
+   "p": "view_of_pil_analysis",
+   "v": "could not accept the conclusions reached",
+   "quote": "While the Panel Members were impressed by the evident enthusiasm, industry and extent of effort of the P.I.L. team, they could not accept the conclusions reached."
+  },
+  {
+   "s": "case",
+   "p": "observation",
+   "v": "general absence of Russian propaganda on the subject might indicate a Russian official policy",
+   "quote": "The Panel noted that the general absence of Russian propaganda based on a subject with so many obvious possibilities for exploitation might indicate a possible Russian official policy."
+  },
+  {
+   "s": "case",
+   "p": "observation",
+   "v": "possible use of civilian UFO groups for subversive purposes should be kept in mind",
+   "quote": "The apparent irresponsibility and the possible use of such groups for subversive purposes should be kept in mind."
+  },
+  {
+   "s": "case",
+   "p": "report_recipients",
+   "v": "IAC, Secretary of Defense, Director of the Federal Civil Defense Administration, Chairman of the National Security Resources Board",
+   "quote": "The Scientific Advisory Panel on UFOs (the Robertson panel) submitted its report to the IAC, the Secretary of Defense, the Director of the Federal Civil Defense Administration, and the Chairman of the National Security Resources Board."
+  },
+  {
+   "s": "case",
+   "p": "aftermath",
+   "v": "CIA abandoned efforts to draft an NSCID on UFOs",
+   "quote": "Following the Robertson panel findings, the Agency abandoned efforts to draft an NSCID on UFOs."
+  },
+  {
+   "s": "case",
+   "p": "aftermath",
+   "v": "CIA officials said no further consideration appeared warranted but continued to monitor sightings",
+   "quote": "CIA officials said no further consideration of the subject appeared warranted, although they continued to monitor sightings in the interest of national security."
+  },
+  {
+   "s": "case",
+   "p": "aftermath",
+   "v": "special military regulations introduced to regulate reporting of UFO sightings",
+   "quote": "In the years following the Robertson Panel a series of special military regulations were introduced to regulate reporting of UFO sightings."
+  },
+  {
+   "s": "case",
+   "p": "aftermath",
+   "v": "report significantly reduced concern over UFOs within the military and intelligence communities",
+   "quote": "According to Swords, the Robertson Panel's report had a significant impact throughout the U.S. Government, significantly reducing the level of concern over the UFO phenomena within the military and intelligence communities that had developed during 1952."
+  },
+  {
+   "s": "case",
+   "p": "secrecy",
+   "v": "any mention of CIA sponsorship of the panel was forbidden",
+   "quote": "CIA officials wanted knowledge of any Agency interest in the subject of flying saucers carefully restricted, noting not only that the Robertson panel report was classified but also that any mention of CIA sponsorship of the panel was forbidden"
+  },
+  {
+   "s": "case",
+   "p": "public_disclosure",
+   "v": "existence first revealed in Ruppelt's 1956 book, without names of members",
+   "quote": "Captain (later Major) Edward Ruppelt, then head of Project Blue Book, first revealed the existence of the secret panel in his 1956 book, but without revealing names of panel members."
+  },
+  {
+   "s": "case",
+   "p": "public_disclosure",
+   "v": "1958: Air Force released three summary paragraphs and names of members",
+   "quote": "The Air Force released three summary paragraphs and the names of the panel's members."
+  },
+  {
+   "s": "case",
+   "p": "public_disclosure",
+   "v": "1966: nearly full-length version of the report printed in the Saturday Review",
+   "quote": "In 1966 a nearly full-length version of the report was printed in the science column of the Saturday Review."
+  },
+  {
+   "s": "case",
+   "p": "criticism",
+   "v": "ufologists say the study was relatively perfunctory and its conclusions largely predetermined by the earlier CIA review",
+   "quote": "In particular that the panel's study of the phenomena was relatively perfunctory and its conclusions largely predetermined by the earlier CIA review of the UFO situation."
+  },
+  {
+   "s": "case",
+   "p": "criticism",
+   "v": "a number of criticisms have been leveled by ufologists",
+   "quote": "A number of criticisms have been leveled at the Robertson panel by ufologists."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Panel arose from a recommendation to the Intelligence Advisory Committee (IAC) in December 1952 from a Central Intelligence Agency (CIA) review of the U.S. Air Force investigation into unidentified flying objects, Project Blue Book."
+  },
+  {
+   "s": "f_coverup",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "CIA officials wanted knowledge of any Agency interest in the subject of flying saucers carefully restricted, noting not only that the Robertson panel report was classified but also that any mention of CIA sponsorship of the panel was forbidden"
+  },
+  {
+   "s": "x_misp",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Most UFO reports, they concluded, could be explained as misidentification of mundane aerial objects, and the remaining minority could, in all likelihood, be similarly explained with further study."
+  },
+  {
+   "s": "wash",
+   "p": "related_case",
+   "o": "case",
+   "quote": "The CIA review itself was in response to widespread reports of unidentified flying objects, especially in the Washington, D.C. area during the summer of 1952."
+  },
+  {
+   "s": "wash",
+   "p": "part_of",
+   "o": "flap52",
+   "quote": "This wave included widely reported incidents over Washington DC in July, over the weekends of July 19-20 and 26-27."
+  },
+  {
+   "s": "wash",
+   "p": "date_start",
+   "v": "1952-07-19",
+   "quote": "This wave included widely reported incidents over Washington DC in July, over the weekends of July 19-20 and 26-27."
+  },
+  {
+   "s": "wash",
+   "p": "date_end",
+   "v": "1952-07-27",
+   "quote": "This wave included widely reported incidents over Washington DC in July, over the weekends of July 19-20 and 26-27."
+  },
+  {
+   "s": "wash",
+   "p": "dates",
+   "v": "weekends of July 19-20 and 26-27",
+   "quote": "This wave included widely reported incidents over Washington DC in July, over the weekends of July 19-20 and 26-27."
+  },
+  {
+   "s": "wash",
+   "p": "radar_detail",
+   "v": "radar scopes tracked mysterious blips on July 19 and 20",
+   "quote": "On July 19 and 20, radar scopes at Washington National Airport and Andrews Air Force Base tracked mysterious blips."
+  },
+  {
+   "s": "wash",
+   "p": "radar_detail",
+   "v": "blips reappeared on July 27",
+   "quote": "On July 27, the blips reappeared."
+  },
+  {
+   "s": "wash",
+   "p": "intercept_result",
+   "v": "interceptor aircraft found nothing",
+   "quote": "The Air Force scrambled interceptor aircraft to investigate, but they found nothing."
+  },
+  {
+   "s": "wash",
+   "p": "press_reaction",
+   "v": "caused headlines across the country",
+   "quote": "The incidents, however, caused headlines across the country."
+  },
+  {
+   "s": "wash",
+   "p": "white_house_interest",
+   "v": "The White House wanted to know what was happening",
+   "quote": "The White House wanted to know what was happening"
+  },
+  {
+   "s": "dc",
+   "p": "occurred_at",
+   "o": "wash",
+   "quote": "This wave included widely reported incidents over Washington DC in July, over the weekends of July 19-20 and 26-27."
+  },
+  {
+   "s": "dca",
+   "p": "occurred_at",
+   "o": "wash",
+   "quote": "On July 19 and 20, radar scopes at Washington National Airport and Andrews Air Force Base tracked mysterious blips."
+  },
+  {
+   "s": "andrews",
+   "p": "occurred_at",
+   "o": "wash",
+   "quote": "On July 19 and 20, radar scopes at Washington National Airport and Andrews Air Force Base tracked mysterious blips."
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "wash",
+   "quote": "The Air Force scrambled interceptor aircraft to investigate, but they found nothing."
+  },
+  {
+   "s": "f_radar",
+   "p": "has_feature",
+   "o": "wash",
+   "quote": "On July 19 and 20, radar scopes at Washington National Airport and Andrews Air Force Base tracked mysterious blips."
+  },
+  {
+   "s": "f_pursuit",
+   "p": "has_feature",
+   "o": "wash",
+   "quote": "The Air Force scrambled interceptor aircraft to investigate, but they found nothing."
+  },
+  {
+   "s": "f_milbase",
+   "p": "has_feature",
+   "o": "wash",
+   "quote": "On July 19 and 20, radar scopes at Washington National Airport and Andrews Air Force Base tracked mysterious blips."
+  },
+  {
+   "s": "ruppelt",
+   "p": "investigator",
+   "o": "wash",
+   "quote": "The reference to White House interest is consistent with a telephone call Captain (later Major) Edward Ruppelt, Blue Book Project Director at the time, received from Brigadier General Landry, Truman's military aide, on July 28, inquiring as to the causes of the Washington reports of the previous days."
+  },
+  {
+   "s": "landry",
+   "p": "official_involved",
+   "o": "wash",
+   "quote": "The reference to White House interest is consistent with a telephone call Captain (later Major) Edward Ruppelt, Blue Book Project Director at the time, received from Brigadier General Landry, Truman's military aide, on July 28, inquiring as to the causes of the Washington reports of the previous days."
+  },
+  {
+   "s": "whitehouse",
+   "p": "related_place",
+   "o": "wash",
+   "quote": "The White House wanted to know what was happening"
+  },
+  {
+   "s": "flap52",
+   "p": "related_case",
+   "o": "case",
+   "quote": "In 1952 there was a significant increase in the number of UFO reports received by the USAF Blue Book project, tasked with investigating such reports at the time."
+  },
+  {
+   "s": "flap52",
+   "p": "date_start",
+   "v": "1952",
+   "quote": "In 1952 there was a significant increase in the number of UFO reports received by the USAF Blue Book project, tasked with investigating such reports at the time."
+  },
+  {
+   "s": "flap52",
+   "p": "description",
+   "v": "significant increase in the number of UFO reports received by Blue Book",
+   "quote": "In 1952 there was a significant increase in the number of UFO reports received by the USAF Blue Book project, tasked with investigating such reports at the time."
+  },
+  {
+   "s": "flap52",
+   "p": "description",
+   "v": "massive build-up of sightings over the United States, especially in July, alarmed the Truman administration",
+   "quote": "CIA historian Gerald Haines noted \"A massive build-up of sightings over the United States in 1952, especially in July, alarmed the Truman administration."
+  },
+  {
+   "s": "bluebook",
+   "p": "investigated_by",
+   "o": "flap52",
+   "quote": "In 1952 there was a significant increase in the number of UFO reports received by the USAF Blue Book project, tasked with investigating such reports at the time."
+  },
+  {
+   "s": "us",
+   "p": "occurred_at",
+   "o": "flap52",
+   "quote": "CIA historian Gerald Haines noted \"A massive build-up of sightings over the United States in 1952, especially in July, alarmed the Truman administration."
+  },
+  {
+   "s": "mariana",
+   "p": "related_case",
+   "o": "case",
+   "quote": "On the first day, the panel viewed two motion pictures of UFOs: the Mariana UFO Incident footage and 1952 Utah UFO Film (the latter was taken by naval photographer Chief Warrant Officer Delbert C. Newhouse)."
+  },
+  {
+   "s": "greatfalls",
+   "p": "occurred_at",
+   "o": "mariana",
+   "quote": "Objects in the Great Falls case were believed to have probably been aircraft, and the bright lights such reflections."
+  },
+  {
+   "s": "f_film",
+   "p": "has_feature",
+   "o": "mariana",
+   "quote": "On the first day, the panel viewed two motion pictures of UFOs: the Mariana UFO Incident footage and 1952 Utah UFO Film (the latter was taken by naval photographer Chief Warrant Officer Delbert C. Newhouse)."
+  },
+  {
+   "s": "f_lights",
+   "p": "has_feature",
+   "o": "mariana",
+   "quote": "Objects in the Great Falls case were believed to have probably been aircraft, and the bright lights such reflections."
+  },
+  {
+   "s": "x_aircraft",
+   "p": "explained_as",
+   "o": "mariana",
+   "quote": "Objects in the Great Falls case were believed to have probably been aircraft, and the bright lights such reflections."
+  },
+  {
+   "s": "x_reflection",
+   "p": "explained_as",
+   "o": "mariana",
+   "quote": "The objects in the Great Falls sighting are strongly suspected of being reflections of aircraft known to have been in the area."
+  },
+  {
+   "s": "mariana",
+   "p": "panel_view",
+   "v": "objects believed to have probably been aircraft, and the bright lights such reflections",
+   "quote": "Objects in the Great Falls case were believed to have probably been aircraft, and the bright lights such reflections."
+  },
+  {
+   "s": "mariana",
+   "p": "panel_view",
+   "v": "strongly suspected of being reflections of aircraft known to have been in the area",
+   "quote": "The objects in the Great Falls sighting are strongly suspected of being reflections of aircraft known to have been in the area."
+  },
+  {
+   "s": "mariana",
+   "p": "navy_analysis",
+   "v": "objects were not any known aircraft, creature or weather phenomena",
+   "quote": "Two Navy photograph and film analysts (Lieutenants R.S. Neasham and Harry Woo) then reported their conclusion that, based on more than 1,000 man hours of analysis, the two films depicted objects that were not any known aircraft, creature or weather phenomena."
+  },
+  {
+   "s": "pil",
+   "p": "investigated_by",
+   "o": "mariana",
+   "quote": "Two Navy photograph and film analysts (Lieutenants R.S. Neasham and Harry Woo) then reported their conclusion that, based on more than 1,000 man hours of analysis, the two films depicted objects that were not any known aircraft, creature or weather phenomena."
+  },
+  {
+   "s": "neasham",
+   "p": "investigator",
+   "o": "mariana",
+   "quote": "Two Navy photograph and film analysts (Lieutenants R.S. Neasham and Harry Woo) then reported their conclusion that, based on more than 1,000 man hours of analysis, the two films depicted objects that were not any known aircraft, creature or weather phenomena."
+  },
+  {
+   "s": "woo",
+   "p": "investigator",
+   "o": "mariana",
+   "quote": "Two Navy photograph and film analysts (Lieutenants R.S. Neasham and Harry Woo) then reported their conclusion that, based on more than 1,000 man hours of analysis, the two films depicted objects that were not any known aircraft, creature or weather phenomena."
+  },
+  {
+   "s": "utah",
+   "p": "related_case",
+   "o": "case",
+   "quote": "On the first day, the panel viewed two motion pictures of UFOs: the Mariana UFO Incident footage and 1952 Utah UFO Film (the latter was taken by naval photographer Chief Warrant Officer Delbert C. Newhouse)."
+  },
+  {
+   "s": "utah",
+   "p": "date_start",
+   "v": "1952",
+   "quote": "On the first day, the panel viewed two motion pictures of UFOs: the Mariana UFO Incident footage and 1952 Utah UFO Film (the latter was taken by naval photographer Chief Warrant Officer Delbert C. Newhouse)."
+  },
+  {
+   "s": "newhouse",
+   "p": "witness",
+   "o": "utah",
+   "quote": "On the first day, the panel viewed two motion pictures of UFOs: the Mariana UFO Incident footage and 1952 Utah UFO Film (the latter was taken by naval photographer Chief Warrant Officer Delbert C. Newhouse)."
+  },
+  {
+   "s": "tremonton",
+   "p": "occurred_at",
+   "o": "utah",
+   "quote": "The panel then watched a motion picture film of seagulls, which Thornton Page had requested as the panel felt that the Tremonton, Utah film most probably showed birds."
+  },
+  {
+   "s": "f_film",
+   "p": "has_feature",
+   "o": "utah",
+   "quote": "On the first day, the panel viewed two motion pictures of UFOs: the Mariana UFO Incident footage and 1952 Utah UFO Film (the latter was taken by naval photographer Chief Warrant Officer Delbert C. Newhouse)."
+  },
+  {
+   "s": "f_milwit",
+   "p": "has_feature",
+   "o": "utah",
+   "quote": "On the first day, the panel viewed two motion pictures of UFOs: the Mariana UFO Incident footage and 1952 Utah UFO Film (the latter was taken by naval photographer Chief Warrant Officer Delbert C. Newhouse)."
+  },
+  {
+   "s": "f_lights",
+   "p": "has_feature",
+   "o": "utah",
+   "quote": "The intensity change in the Tremonton lights was too great for acceptance of the P.I.L. hypothesis that the apparent motion and changing intensity of the lights indicated extremely high speed in small orbital paths."
+  },
+  {
+   "s": "x_bird",
+   "p": "explained_as",
+   "o": "utah",
+   "quote": "The panel then watched a motion picture film of seagulls, which Thornton Page had requested as the panel felt that the Tremonton, Utah film most probably showed birds."
+  },
+  {
+   "s": "x_reflection",
+   "p": "explained_as",
+   "o": "utah",
+   "quote": "A semi-spherical object can readily produce a reflection of sunlight without \"blinking\" through 60\" of arc travel."
+  },
+  {
+   "s": "pil",
+   "p": "investigated_by",
+   "o": "utah",
+   "quote": "The Panel studied these films, the case history, ATIC's interpretation, and received a briefing by representatives of the USN Photo Interpretation Laboratory on their analysis of the film."
+  },
+  {
+   "s": "neasham",
+   "p": "investigator",
+   "o": "utah",
+   "quote": "Two Navy photograph and film analysts (Lieutenants R.S. Neasham and Harry Woo) then reported their conclusion that, based on more than 1,000 man hours of analysis, the two films depicted objects that were not any known aircraft, creature or weather phenomena."
+  },
+  {
+   "s": "woo",
+   "p": "investigator",
+   "o": "utah",
+   "quote": "Two Navy photograph and film analysts (Lieutenants R.S. Neasham and Harry Woo) then reported their conclusion that, based on more than 1,000 man hours of analysis, the two films depicted objects that were not any known aircraft, creature or weather phenomena."
+  },
+  {
+   "s": "atic",
+   "p": "investigated_by",
+   "o": "utah",
+   "quote": "The Panel studied these films, the case history, ATIC's interpretation, and received a briefing by representatives of the USN Photo Interpretation Laboratory on their analysis of the film."
+  },
+  {
+   "s": "utah",
+   "p": "compared_to",
+   "o": "mariana",
+   "quote": "There was no valid reason for the attempt to relate the objects in the Tremonton sighting to those in the Great Falls sighting."
+  },
+  {
+   "s": "utah",
+   "p": "navy_analysis",
+   "v": "objects were not any known aircraft, creature or weather phenomena",
+   "quote": "Two Navy photograph and film analysts (Lieutenants R.S. Neasham and Harry Woo) then reported their conclusion that, based on more than 1,000 man hours of analysis, the two films depicted objects that were not any known aircraft, creature or weather phenomena."
+  },
+  {
+   "s": "utah",
+   "p": "navy_analysis",
+   "v": "objects were not birds, balloons or aircraft; not reflections; self-luminous",
+   "quote": "It was the opinion of the P.I.L. representatives that the objects sighted were not birds, balloons or aircraft, were \"not reflections because there was no blinking while passing through 60 degrees of arc\" and were, therefore, \"self-luminous.\""
+  },
+  {
+   "s": "utah",
+   "p": "navy_analysis",
+   "v": "apparent motion and changing intensity indicated extremely high speed in small orbital paths",
+   "quote": "The intensity change in the Tremonton lights was too great for acceptance of the P.I.L. hypothesis that the apparent motion and changing intensity of the lights indicated extremely high speed in small orbital paths."
+  },
+  {
+   "s": "utah",
+   "p": "analysis_effort",
+   "v": "approximately 1000 man hours",
+   "quote": "This team had expended (at Air Force request) approximately 1000 man hours of professional and sub-professional time in the preparation of graph plots of individual frames of the film, showing apparent and relative motion of objects and variation in their light intensity."
+  },
+  {
+   "s": "utah",
+   "p": "analysis_effort",
+   "v": "more than 1,000 man hours",
+   "quote": "Two Navy photograph and film analysts (Lieutenants R.S. Neasham and Harry Woo) then reported their conclusion that, based on more than 1,000 man hours of analysis, the two films depicted objects that were not any known aircraft, creature or weather phenomena."
+  },
+  {
+   "s": "utah",
+   "p": "shape",
+   "v": "circular",
+   "quote": "P.I.L. description of the objects sighted as \"circular, bluish-white\" in color would be expected in cases of specular reflections of sunlight from convex surfaces where the brilliance of the reflection would obscure other portions of the object."
+  },
+  {
+   "s": "utah",
+   "p": "color",
+   "v": "bluish-white",
+   "quote": "P.I.L. description of the objects sighted as \"circular, bluish-white\" in color would be expected in cases of specular reflections of sunlight from convex surfaces where the brilliance of the reflection would obscure other portions of the object."
+  },
+  {
+   "s": "utah",
+   "p": "arc_travelled",
+   "v": "60 degrees of arc without blinking",
+   "quote": "It was the opinion of the P.I.L. representatives that the objects sighted were not birds, balloons or aircraft, were \"not reflections because there was no blinking while passing through 60 degrees of arc\" and were, therefore, \"self-luminous.\""
+  },
+  {
+   "s": "utah",
+   "p": "film_stock",
+   "v": "Kodachrome",
+   "quote": "No data had been obtained on the sensitivity of Kodachrome film to light of various intensities using the same camera type at the same lens openings."
+  },
+  {
+   "s": "utah",
+   "p": "panel_view",
+   "v": "film most probably showed birds",
+   "quote": "The panel then watched a motion picture film of seagulls, which Thornton Page had requested as the panel felt that the Tremonton, Utah film most probably showed birds."
+  },
+  {
+   "s": "utah",
+   "p": "panel_view",
+   "v": "motions, sizes and brightnesses strongly suggest birds",
+   "quote": "the apparent motions, sizes and brightnesses of the objects were considered strongly to suggest birds, particularly after the Panel viewed a short film showing high reflectivity of seagulls in bright sunlight."
+  },
+  {
+   "s": "utah",
+   "p": "panel_view",
+   "v": "a semi-spherical object can reflect sunlight without blinking through 60 degrees of arc",
+   "quote": "A semi-spherical object can readily produce a reflection of sunlight without \"blinking\" through 60\" of arc travel."
+  },
+  {
+   "s": "utah",
+   "p": "panel_view",
+   "v": "no valid reason to relate the Tremonton objects to those in the Great Falls sighting",
+   "quote": "There was no valid reason for the attempt to relate the objects in the Tremonton sighting to those in the Great Falls sighting."
+  },
+  {
+   "s": "utah",
+   "p": "panel_view",
+   "v": "intensity change too great for the P.I.L. high-speed hypothesis",
+   "quote": "The intensity change in the Tremonton lights was too great for acceptance of the P.I.L. hypothesis that the apparent motion and changing intensity of the lights indicated extremely high speed in small orbital paths."
+  },
+  {
+   "s": "utah",
+   "p": "panel_criticism",
+   "v": "lack of guidance of investigators by those familiar with UFO reports",
+   "quote": "Apparent lack of guidance of investigators by those familiar with U.F.O. reports and explanations."
+  },
+  {
+   "s": "utah",
+   "p": "panel_criticism",
+   "v": "light intensity analysis made from duplicate rather than original film",
+   "quote": "Analysis of light intensity of objects made from duplicate rather than original film."
+  },
+  {
+   "s": "utah",
+   "p": "panel_criticism",
+   "v": "original film had a much lighter background and objects appeared much less bright",
+   "quote": "The original film was noted to have a much lighter background (affecting relative brightness of object) and the objects appeared much less bright."
+  },
+  {
+   "s": "utah",
+   "p": "panel_criticism",
+   "v": "method of obtaining light intensity data appeared faulty",
+   "quote": "Method of obtaining data of light intensity appeared faulty because of unsuitability of equipment and questionable assumptions in making averages of readings."
+  },
+  {
+   "s": "utah",
+   "p": "panel_criticism",
+   "v": "no data on sensitivity of Kodachrome film with same camera type and lens openings",
+   "quote": "No data had been obtained on the sensitivity of Kodachrome film to light of various intensities using the same camera type at the same lens openings."
+  },
+  {
+   "s": "utah",
+   "p": "panel_criticism",
+   "v": "hand jitter frequencies not removed from the single pass plots",
+   "quote": "Hand \"jitter\" frequencies (obtainable from early part of Tremonton film) were not removed from the plots of the \"single pass plots\" at the end of the film."
+  },
+  {
+   "s": "utah",
+   "p": "panel_view",
+   "v": "data sufficient for positive identification if further tests made with pillow balloons and ornithologists",
+   "quote": "The Panel believed strongly that the data available on this sighting was sufficient for positive identification if further data is obtained by photographing polyethylene \"pillow\" balloons released near the site under similar weather conditions, checking bird flight and reflection characteristics with competent ornithologists"
+  },
+  {
+   "s": "utah",
+   "p": "panel_view",
+   "v": "tests would probably lead to creditable explanations of value in an educational or training program",
+   "quote": "It was concluded that the results of such tests would probably lead to creditable explanations of value in an educational or training program."
+  },
+  {
+   "s": "x_balloon",
+   "p": "explained_as",
+   "o": "utah",
+   "quote": "The Panel believed strongly that the data available on this sighting was sufficient for positive identification if further data is obtained by photographing polyethylene \"pillow\" balloons released near the site under similar weather conditions, checking bird flight and reflection characteristics with competent ornithologists"
+  },
+  {
+   "s": "losalamos",
+   "p": "related_case",
+   "o": "case",
+   "quote": "As early as August 15, CIA analysts, despite their overall skeptical conclusions had noted, \"Sightings of UFOs reported at Los Alamos and Oak Ridge, at a time when the background radiation count had risen inexplicably."
+  },
+  {
+   "s": "losalamos_pl",
+   "p": "occurred_at",
+   "o": "losalamos",
+   "quote": "As early as August 15, CIA analysts, despite their overall skeptical conclusions had noted, \"Sightings of UFOs reported at Los Alamos and Oak Ridge, at a time when the background radiation count had risen inexplicably."
+  },
+  {
+   "s": "oakridge",
+   "p": "occurred_at",
+   "o": "losalamos",
+   "quote": "As early as August 15, CIA analysts, despite their overall skeptical conclusions had noted, \"Sightings of UFOs reported at Los Alamos and Oak Ridge, at a time when the background radiation count had risen inexplicably."
+  },
+  {
+   "s": "f_radiation",
+   "p": "has_feature",
+   "o": "losalamos",
+   "quote": "As early as August 15, CIA analysts, despite their overall skeptical conclusions had noted, \"Sightings of UFOs reported at Los Alamos and Oak Ridge, at a time when the background radiation count had risen inexplicably."
+  },
+  {
+   "s": "f_nuclear",
+   "p": "has_feature",
+   "o": "losalamos",
+   "quote": "As early as August 15, CIA analysts, despite their overall skeptical conclusions had noted, \"Sightings of UFOs reported at Los Alamos and Oak Ridge, at a time when the background radiation count had risen inexplicably."
+  },
+  {
+   "s": "cia",
+   "p": "involved_org",
+   "o": "losalamos",
+   "quote": "As early as August 15, CIA analysts, despite their overall skeptical conclusions had noted, \"Sightings of UFOs reported at Los Alamos and Oak Ridge, at a time when the background radiation count had risen inexplicably."
+  },
+  {
+   "s": "losalamos",
+   "p": "detail",
+   "v": "background radiation count had risen inexplicably at the time of the sightings",
+   "quote": "As early as August 15, CIA analysts, despite their overall skeptical conclusions had noted, \"Sightings of UFOs reported at Los Alamos and Oak Ridge, at a time when the background radiation count had risen inexplicably."
+  },
+  {
+   "s": "losalamos",
+   "p": "cia_comment",
+   "v": "left with numbers of incredible reports from credible observers",
+   "quote": "we still are left with numbers of incredible reports from credible observers."
+  },
+  {
+   "s": "losalamos",
+   "p": "date_noted",
+   "v": "1952-08-15",
+   "quote": "As early as August 15, CIA analysts, despite their overall skeptical conclusions had noted, \"Sightings of UFOs reported at Los Alamos and Oak Ridge, at a time when the background radiation count had risen inexplicably."
+  },
+  {
+   "s": "mj12",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Majestic 12"
+  },
+  {
+   "s": "robertson",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "The Robertson Panel was a scientific committee which met in January 1953 headed by Howard P. Robertson."
+  },
+  {
+   "s": "robertson",
+   "p": "role",
+   "v": "head of the panel",
+   "quote": "The Robertson Panel was a scientific committee which met in January 1953 headed by Howard P. Robertson."
+  },
+  {
+   "s": "robertson",
+   "p": "role",
+   "v": "Chairman; drafted the panel report",
+   "quote": "it was agreed that the Chairman should draft a report of the Panel to AD/SI that evening for review by the Panel the next morning. The meeting adjourned at 1715"
+  },
+  {
+   "s": "robertson",
+   "p": "occupation",
+   "v": "physicist",
+   "quote": "He was a physicist, a CIA consultant, and the director of the Defense Department Weapons Evaluation Group."
+  },
+  {
+   "s": "robertson",
+   "p": "occupation",
+   "v": "CIA consultant",
+   "quote": "He was a physicist, a CIA consultant, and the director of the Defense Department Weapons Evaluation Group."
+  },
+  {
+   "s": "robertson",
+   "p": "position",
+   "v": "director of the Defense Department Weapons Evaluation Group",
+   "quote": "He was a physicist, a CIA consultant, and the director of the Defense Department Weapons Evaluation Group."
+  },
+  {
+   "s": "robertson",
+   "p": "employed_by",
+   "o": "weg",
+   "quote": "He was a physicist, a CIA consultant, and the director of the Defense Department Weapons Evaluation Group."
+  },
+  {
+   "s": "robertson",
+   "p": "employed_by",
+   "o": "cia",
+   "quote": "He was a physicist, a CIA consultant, and the director of the Defense Department Weapons Evaluation Group."
+  },
+  {
+   "s": "robertson",
+   "p": "action",
+   "v": "instructed by OSI to assemble a group of prominent scientists to review the Air Force's UFO files",
+   "quote": "He was instructed by OSI to assemble a group of prominent scientists to review the Air Force's UFO files."
+  },
+  {
+   "s": "robertson",
+   "p": "action",
+   "v": "personally reviewed Air Force files and procedures",
+   "quote": "In preparation for this, Robertson first personally reviewed Air Force files and procedures."
+  },
+  {
+   "s": "robertson",
+   "p": "action",
+   "v": "hoped to draw on Battelle's statistical results",
+   "quote": "Robertson hoped to draw on their statistical results, but Battelle insisted that they needed much more time to conduct a proper study."
+  },
+  {
+   "s": "robertson",
+   "p": "statement",
+   "v": "told members their job was to reduce public concern and show UFO reports could be explained by conventional reasoning",
+   "quote": "H.P. Robertson told us in the first private (no outsiders) session that our job was to reduce public concern, and show that UFO reports could be explained by conventional reasoning."
+  },
+  {
+   "s": "robertson",
+   "p": "action",
+   "v": "opened the seventh session at 0945 and submitted a rough draft of the Panel Report",
+   "quote": "At 0945 the Chairman opened the seventh session and submitted a rough draft of the Panel Report to the members."
+  },
+  {
+   "s": "robertson",
+   "p": "authored",
+   "o": "report",
+   "quote": "At 0945 the Chairman opened the seventh session and submitted a rough draft of the Panel Report to the members."
+  },
+  {
+   "s": "durant",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "The Robertson Panel's report was contained within a larger internal CIA report by F C Durant, a CIA officer who served as Secretary to the Panel, which summarises the activities of the panel and its conclusions."
+  },
+  {
+   "s": "durant",
+   "p": "occupation",
+   "v": "CIA officer",
+   "quote": "The Robertson Panel's report was contained within a larger internal CIA report by F C Durant, a CIA officer who served as Secretary to the Panel, which summarises the activities of the panel and its conclusions."
+  },
+  {
+   "s": "durant",
+   "p": "role",
+   "v": "Secretary to the Panel",
+   "quote": "The Robertson Panel's report was contained within a larger internal CIA report by F C Durant, a CIA officer who served as Secretary to the Panel, which summarises the activities of the panel and its conclusions."
+  },
+  {
+   "s": "durant",
+   "p": "occupation",
+   "v": "missile expert",
+   "quote": "Frederick C. Durant, CIA officer, secretary to the panel and missile expert;"
+  },
+  {
+   "s": "durant",
+   "p": "employed_by",
+   "o": "cia",
+   "quote": "The Robertson Panel's report was contained within a larger internal CIA report by F C Durant, a CIA officer who served as Secretary to the Panel, which summarises the activities of the panel and its conclusions."
+  },
+  {
+   "s": "durant",
+   "p": "member_of",
+   "o": "osi",
+   "quote": "Philip Strong and Fred Durant from OSI also briefed the Office of National Estimates on the findings."
+  },
+  {
+   "s": "durant",
+   "p": "authored",
+   "o": "durantrep",
+   "quote": "The Robertson Panel's report was contained within a larger internal CIA report by F C Durant, a CIA officer who served as Secretary to the Panel, which summarises the activities of the panel and its conclusions."
+  },
+  {
+   "s": "durant",
+   "p": "action",
+   "v": "kept notes of the meetings, later submitted as a memo to the NSC",
+   "quote": "Most of what is known about the actual proceedings of the meetings comes from notes kept by Durant which were later submitted as a memo to the NSC and commonly referred to as the Durant Report."
+  },
+  {
+   "s": "durant",
+   "p": "action",
+   "v": "apparently met Clark on July 28, 1952 on this subject",
+   "quote": "The Ralph L Clark memo of July 29 contains a footnote reference to a meeting, \"OSI:FCD:RLC mtw (28July52)\" which appears to indicate a July 28, 1952 meeting between F C Durant and Clark on this subject."
+  },
+  {
+   "s": "durant",
+   "p": "action",
+   "v": "briefed the Office of National Estimates on the findings",
+   "quote": "Philip Strong and Fred Durant from OSI also briefed the Office of National Estimates on the findings."
+  },
+  {
+   "s": "durant",
+   "p": "colleague_of",
+   "o": "clark",
+   "quote": "The Ralph L Clark memo of July 29 contains a footnote reference to a meeting, \"OSI:FCD:RLC mtw (28July52)\" which appears to indicate a July 28, 1952 meeting between F C Durant and Clark on this subject."
+  },
+  {
+   "s": "durant",
+   "p": "colleague_of",
+   "o": "strong",
+   "quote": "Philip Strong and Fred Durant from OSI also briefed the Office of National Estimates on the findings."
+  },
+  {
+   "s": "durant",
+   "p": "statement",
+   "v": "The Panel concluded unanimously that there was no evidence of a direct threat to national security in the objects sighted",
+   "quote": "The Panel concluded unanimously that there was no evidence of a direct threat to national security in the objects sighted"
+  },
+  {
+   "s": "haines",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Historian Gerald Haines notes  that:"
+  },
+  {
+   "s": "haines",
+   "p": "occupation",
+   "v": "CIA historian",
+   "quote": "CIA historian Gerald Haines noted \"A massive build-up of sightings over the United States in 1952, especially in July, alarmed the Truman administration."
+  },
+  {
+   "s": "haines",
+   "p": "occupation",
+   "v": "historian",
+   "quote": "Historian Gerald Haines notes  that:"
+  },
+  {
+   "s": "haines",
+   "p": "employed_by",
+   "o": "cia",
+   "quote": "CIA historian Gerald Haines noted \"A massive build-up of sightings over the United States in 1952, especially in July, alarmed the Truman administration."
+  },
+  {
+   "s": "haines",
+   "p": "commentator",
+   "o": "wash",
+   "quote": "CIA historian Gerald Haines noted \"A massive build-up of sightings over the United States in 1952, especially in July, alarmed the Truman administration."
+  },
+  {
+   "s": "haines",
+   "p": "statement",
+   "v": "a massive build-up of sightings in 1952, especially in July, alarmed the Truman administration",
+   "quote": "CIA historian Gerald Haines noted \"A massive build-up of sightings over the United States in 1952, especially in July, alarmed the Truman administration."
+  },
+  {
+   "s": "haines",
+   "p": "statement",
+   "v": "following the panel findings, the Agency abandoned efforts to draft an NSCID on UFOs",
+   "quote": "Following the Robertson panel findings, the Agency abandoned efforts to draft an NSCID on UFOs."
+  },
+  {
+   "s": "ruppelt",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Ruppelt then began a summary of Air Force efforts regarding UFO studies."
+  },
+  {
+   "s": "ruppelt",
+   "p": "rank",
+   "v": "Captain (later Major)",
+   "quote": "Captain (later Major) Edward Ruppelt, then head of Project Blue Book, first revealed the existence of the secret panel in his 1956 book, but without revealing names of panel members."
+  },
+  {
+   "s": "ruppelt",
+   "p": "position",
+   "v": "Blue Book Project Director",
+   "quote": "The reference to White House interest is consistent with a telephone call Captain (later Major) Edward Ruppelt, Blue Book Project Director at the time, received from Brigadier General Landry, Truman's military aide, on July 28, inquiring as to the causes of the Washington reports of the previous days."
+  },
+  {
+   "s": "ruppelt",
+   "p": "position",
+   "v": "head of Project Blue Book",
+   "quote": "Captain (later Major) Edward Ruppelt, then head of Project Blue Book, first revealed the existence of the secret panel in his 1956 book, but without revealing names of panel members."
+  },
+  {
+   "s": "ruppelt",
+   "p": "member_of",
+   "o": "bluebook",
+   "quote": "Captain (later Major) Edward Ruppelt, then head of Project Blue Book, first revealed the existence of the secret panel in his 1956 book, but without revealing names of panel members."
+  },
+  {
+   "s": "ruppelt",
+   "p": "authored",
+   "o": "ruppeltbook",
+   "quote": "Ruppelt's 1956 book The Report On Unidentified Flying Objects contained the first publicly released information about the Robertson Panel, with a summary of their proceedings and conclusions."
+  },
+  {
+   "s": "ruppelt",
+   "p": "action",
+   "v": "received a telephone call from Brigadier General Landry on July 28 about the Washington reports",
+   "quote": "The reference to White House interest is consistent with a telephone call Captain (later Major) Edward Ruppelt, Blue Book Project Director at the time, received from Brigadier General Landry, Truman's military aide, on July 28, inquiring as to the causes of the Washington reports of the previous days."
+  },
+  {
+   "s": "ruppelt",
+   "p": "action",
+   "v": "gave the panel a summary of Air Force efforts regarding UFO studies",
+   "quote": "Ruppelt then began a summary of Air Force efforts regarding UFO studies."
+  },
+  {
+   "s": "ruppelt",
+   "p": "action",
+   "v": "finished his presentation on the second day",
+   "quote": "On the second day, Ruppelt finished his presentation."
+  },
+  {
+   "s": "ruppelt",
+   "p": "statement",
+   "v": "wrote that the Panel studied their best cases",
+   "quote": "In total, they met for 12 hours and reviewed 23 cases out of 2,331 Air Force UFO cases on record (or about 1%), although Ruppelt wrote that the Panel studied their best cases."
+  },
+  {
+   "s": "ruppelt",
+   "p": "action",
+   "v": "first revealed the existence of the secret panel in his 1956 book",
+   "quote": "Captain (later Major) Edward Ruppelt, then head of Project Blue Book, first revealed the existence of the secret panel in his 1956 book, but without revealing names of panel members."
+  },
+  {
+   "s": "landry",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "The reference to White House interest is consistent with a telephone call Captain (later Major) Edward Ruppelt, Blue Book Project Director at the time, received from Brigadier General Landry, Truman's military aide, on July 28, inquiring as to the causes of the Washington reports of the previous days."
+  },
+  {
+   "s": "landry",
+   "p": "rank",
+   "v": "Brigadier General",
+   "quote": "The reference to White House interest is consistent with a telephone call Captain (later Major) Edward Ruppelt, Blue Book Project Director at the time, received from Brigadier General Landry, Truman's military aide, on July 28, inquiring as to the causes of the Washington reports of the previous days."
+  },
+  {
+   "s": "landry",
+   "p": "position",
+   "v": "Truman's military aide",
+   "quote": "The reference to White House interest is consistent with a telephone call Captain (later Major) Edward Ruppelt, Blue Book Project Director at the time, received from Brigadier General Landry, Truman's military aide, on July 28, inquiring as to the causes of the Washington reports of the previous days."
+  },
+  {
+   "s": "landry",
+   "p": "action",
+   "v": "telephoned Ruppelt on July 28 inquiring as to the causes of the Washington reports",
+   "quote": "The reference to White House interest is consistent with a telephone call Captain (later Major) Edward Ruppelt, Blue Book Project Director at the time, received from Brigadier General Landry, Truman's military aide, on July 28, inquiring as to the causes of the Washington reports of the previous days."
+  },
+  {
+   "s": "truman",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "The reference to White House interest is consistent with a telephone call Captain (later Major) Edward Ruppelt, Blue Book Project Director at the time, received from Brigadier General Landry, Truman's military aide, on July 28, inquiring as to the causes of the Washington reports of the previous days."
+  },
+  {
+   "s": "truman",
+   "p": "whereabouts",
+   "v": "in Kansas on July 27 and 28, resting after the Democratic Party convention on the 26th",
+   "quote": "No NSC meetings were held on the relevant dates  and the President was in Kansas on July 27 and 28, resting after attending the Democratic Party convention on the 26th."
+  },
+  {
+   "s": "truman",
+   "p": "administration_reaction",
+   "v": "Truman administration alarmed by the 1952 build-up of sightings",
+   "quote": "CIA historian Gerald Haines noted \"A massive build-up of sightings over the United States in 1952, especially in July, alarmed the Truman administration."
+  },
+  {
+   "s": "clark",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "This is the earliest written record of the CIA study which led to the Robertson Panel."
+  },
+  {
+   "s": "clark",
+   "p": "position",
+   "v": "Acting Assistant Director for Scientific Intelligence",
+   "quote": "In a July 29, 1952 memo to the deputy director of Intelligence, Acting Assistant Director for Scientific Intelligence Ralph Clark commented"
+  },
+  {
+   "s": "clark",
+   "p": "authored",
+   "o": "clarkmemo",
+   "quote": "In a July 29, 1952 memo to the deputy director of Intelligence, Acting Assistant Director for Scientific Intelligence Ralph Clark commented"
+  },
+  {
+   "s": "clark",
+   "p": "member_of",
+   "o": "osi",
+   "quote": "The Ralph L Clark memo of July 29 contains a footnote reference to a meeting, \"OSI:FCD:RLC mtw (28July52)\" which appears to indicate a July 28, 1952 meeting between F C Durant and Clark on this subject."
+  },
+  {
+   "s": "clark",
+   "p": "statement",
+   "v": "a number of radar and visual sightings of unidentified aerial objects have been reported in the past several weeks",
+   "quote": "In the past several weeks a number of radar and visual sightings of unidentified aerial objects have been reported."
+  },
+  {
+   "s": "clark",
+   "p": "statement",
+   "v": "a special study group has been formed to review this subject",
+   "quote": "Although this office has maintained a continuing review of such reported sightings during the past three years, a special study group has been formed to review this subject to date."
+  },
+  {
+   "s": "clark",
+   "p": "statement",
+   "v": "a report should be ready about 15 August",
+   "quote": "D/CI will participate in the study with D/SI and a report should be ready about 15 August."
+  },
+  {
+   "s": "smith",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "These twin concerns - potential for psychological warfare and overloading of air defence systems, were formalised in a memorandum to the Director of Central Intelligence, General Walter Bedell Smith on September 11, 1952."
+  },
+  {
+   "s": "smith",
+   "p": "rank",
+   "v": "General",
+   "quote": "These twin concerns - potential for psychological warfare and overloading of air defence systems, were formalised in a memorandum to the Director of Central Intelligence, General Walter Bedell Smith on September 11, 1952."
+  },
+  {
+   "s": "smith",
+   "p": "position",
+   "v": "Director of Central Intelligence",
+   "quote": "These twin concerns - potential for psychological warfare and overloading of air defence systems, were formalised in a memorandum to the Director of Central Intelligence, General Walter Bedell Smith on September 11, 1952."
+  },
+  {
+   "s": "smith",
+   "p": "employed_by",
+   "o": "cia",
+   "quote": "These twin concerns - potential for psychological warfare and overloading of air defence systems, were formalised in a memorandum to the Director of Central Intelligence, General Walter Bedell Smith on September 11, 1952."
+  },
+  {
+   "s": "reber",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "On October 13, 1952, however, a memorandum from the assistant director for Intelligence Co-ordination, James Reber to the Deputy Director Intelligence argued that fundamental research into the question of positive identification was the responsibility of the Defence Department"
+  },
+  {
+   "s": "reber",
+   "p": "position",
+   "v": "assistant director for Intelligence Co-ordination",
+   "quote": "On October 13, 1952, however, a memorandum from the assistant director for Intelligence Co-ordination, James Reber to the Deputy Director Intelligence argued that fundamental research into the question of positive identification was the responsibility of the Defence Department"
+  },
+  {
+   "s": "reber",
+   "p": "authored",
+   "o": "rebermemo",
+   "quote": "On October 13, 1952, however, a memorandum from the assistant director for Intelligence Co-ordination, James Reber to the Deputy Director Intelligence argued that fundamental research into the question of positive identification was the responsibility of the Defence Department"
+  },
+  {
+   "s": "reber",
+   "p": "statement",
+   "v": "fundamental research into positive identification was the responsibility of the Defence Department",
+   "quote": "On October 13, 1952, however, a memorandum from the assistant director for Intelligence Co-ordination, James Reber to the Deputy Director Intelligence argued that fundamental research into the question of positive identification was the responsibility of the Defence Department"
+  },
+  {
+   "s": "reber",
+   "p": "statement",
+   "v": "far too early for psychological warfare planners to plan how the United States might use Flying Saucers against the enemy",
+   "quote": "is far too early in view of the present state of our knowledge regarding Flying Saucers for psychological warfare planners to start planning how the United States might use U.S. Flying Saucers against the enemy"
+  },
+  {
+   "s": "reber",
+   "p": "statement",
+   "v": "after the National Estimate on Flying Saucers there will be the time and basis for a public policy to reduce or restrain mass hysteria",
+   "quote": "intelligence has submitted the National Estimate on Flying Saucers there will be the time and basis for a public policy to reduce or restrain mass hysteria."
+  },
+  {
+   "s": "chadwell",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "On December 2, 1952 CIA Assistant Director Chadwell noted, \"Recent reports reaching CIA indicated that further action was desirable and another briefing by the cognizant A-2 and ATIC personnel was held on November 25."
+  },
+  {
+   "s": "chadwell",
+   "p": "position",
+   "v": "CIA Assistant Director",
+   "quote": "On December 2, 1952 CIA Assistant Director Chadwell noted, \"Recent reports reaching CIA indicated that further action was desirable and another briefing by the cognizant A-2 and ATIC personnel was held on November 25."
+  },
+  {
+   "s": "chadwell",
+   "p": "employed_by",
+   "o": "cia",
+   "quote": "On December 2, 1952 CIA Assistant Director Chadwell noted, \"Recent reports reaching CIA indicated that further action was desirable and another briefing by the cognizant A-2 and ATIC personnel was held on November 25."
+  },
+  {
+   "s": "chadwell",
+   "p": "authored",
+   "o": "chadmemo",
+   "quote": "Chadwell's December 2 memorandum contained the draft of recommendations for the NSC, which were:"
+  },
+  {
+   "s": "chadwell",
+   "p": "statement",
+   "v": "the reports of incidents convince us that there is something going on that must have immediate attention",
+   "quote": "At this time, the reports of incidents convince us that there is something going on that must have immediate attention."
+  },
+  {
+   "s": "chadwell",
+   "p": "statement",
+   "v": "sightings near major U.S. defense installations are not attributable to natural phenomena or known types of aerial vehicles",
+   "quote": "Sightings of unexplained objects at great altitudes and traveling at high speeds in the vicinity of major U.S. defense installations are of such nature that they are not attributable to natural phenomena or known types of aerial vehicles"
+  },
+  {
+   "s": "bush",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "the study group referenced in a Canadian government document as operating as early as 1950 under the chairmanship of Dr Vannevar Bush, then head of the Joint Research and Development Board, to discover the 'modus operandi' of UFOs are unclear."
+  },
+  {
+   "s": "bush",
+   "p": "position",
+   "v": "head of the Joint Research and Development Board",
+   "quote": "the study group referenced in a Canadian government document as operating as early as 1950 under the chairmanship of Dr Vannevar Bush, then head of the Joint Research and Development Board, to discover the 'modus operandi' of UFOs are unclear."
+  },
+  {
+   "s": "bush",
+   "p": "employed_by",
+   "o": "jrdb",
+   "quote": "the study group referenced in a Canadian government document as operating as early as 1950 under the chairmanship of Dr Vannevar Bush, then head of the Joint Research and Development Board, to discover the 'modus operandi' of UFOs are unclear."
+  },
+  {
+   "s": "bush",
+   "p": "commanded",
+   "o": "bushgroup",
+   "quote": "the study group referenced in a Canadian government document as operating as early as 1950 under the chairmanship of Dr Vannevar Bush, then head of the Joint Research and Development Board, to discover the 'modus operandi' of UFOs are unclear."
+  },
+  {
+   "s": "alvarez",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Luis Alvarez, physicist, radar expert (and later, a Nobel Prize recipient);"
+  },
+  {
+   "s": "alvarez",
+   "p": "occupation",
+   "v": "physicist",
+   "quote": "Luis Alvarez, physicist, radar expert (and later, a Nobel Prize recipient);"
+  },
+  {
+   "s": "alvarez",
+   "p": "occupation",
+   "v": "radar expert",
+   "quote": "Luis Alvarez, physicist, radar expert (and later, a Nobel Prize recipient);"
+  },
+  {
+   "s": "alvarez",
+   "p": "honour",
+   "v": "later a Nobel Prize recipient",
+   "quote": "Luis Alvarez, physicist, radar expert (and later, a Nobel Prize recipient);"
+  },
+  {
+   "s": "alvarez",
+   "p": "role",
+   "v": "panel member",
+   "quote": "Luis Alvarez, physicist, radar expert (and later, a Nobel Prize recipient);"
+  },
+  {
+   "s": "goudsmit",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Samuel Abraham Goudsmit, Brookhaven National Laboratories nuclear physicist;"
+  },
+  {
+   "s": "goudsmit",
+   "p": "occupation",
+   "v": "nuclear physicist",
+   "quote": "Samuel Abraham Goudsmit, Brookhaven National Laboratories nuclear physicist;"
+  },
+  {
+   "s": "goudsmit",
+   "p": "employed_by",
+   "o": "brookhaven",
+   "quote": "Samuel Abraham Goudsmit, Brookhaven National Laboratories nuclear physicist;"
+  },
+  {
+   "s": "goudsmit",
+   "p": "role",
+   "v": "panel member",
+   "quote": "Samuel Abraham Goudsmit, Brookhaven National Laboratories nuclear physicist;"
+  },
+  {
+   "s": "page",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Thornton Leigh Page, astrophysicist, radar expert, deputy director of Johns Hopkins Operations Research Office;"
+  },
+  {
+   "s": "page",
+   "p": "occupation",
+   "v": "astrophysicist",
+   "quote": "Thornton Leigh Page, astrophysicist, radar expert, deputy director of Johns Hopkins Operations Research Office;"
+  },
+  {
+   "s": "page",
+   "p": "occupation",
+   "v": "radar expert",
+   "quote": "Thornton Leigh Page, astrophysicist, radar expert, deputy director of Johns Hopkins Operations Research Office;"
+  },
+  {
+   "s": "page",
+   "p": "position",
+   "v": "deputy director of Johns Hopkins Operations Research Office",
+   "quote": "Thornton Leigh Page, astrophysicist, radar expert, deputy director of Johns Hopkins Operations Research Office;"
+  },
+  {
+   "s": "page",
+   "p": "employed_by",
+   "o": "jhoro",
+   "quote": "Thornton Leigh Page, astrophysicist, radar expert, deputy director of Johns Hopkins Operations Research Office;"
+  },
+  {
+   "s": "page",
+   "p": "later_claim",
+   "v": "panel members met informally prior to the main meetings with no outsiders",
+   "quote": "Thornton Page later stated that the panel members met informally prior to the main panel meetings, with 'no outsiders'."
+  },
+  {
+   "s": "page",
+   "p": "later_claim",
+   "v": "Robertson told us our job was to reduce public concern and show that UFO reports could be explained by conventional reasoning",
+   "quote": "H.P. Robertson told us in the first private (no outsiders) session that our job was to reduce public concern, and show that UFO reports could be explained by conventional reasoning."
+  },
+  {
+   "s": "page",
+   "p": "action",
+   "v": "requested a motion picture film of seagulls",
+   "quote": "The panel then watched a motion picture film of seagulls, which Thornton Page had requested as the panel felt that the Tremonton, Utah film most probably showed birds."
+  },
+  {
+   "s": "berkner",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Lloyd Berkner, physicist;"
+  },
+  {
+   "s": "berkner",
+   "p": "occupation",
+   "v": "physicist",
+   "quote": "Lloyd Berkner, physicist;"
+  },
+  {
+   "s": "berkner",
+   "p": "action",
+   "v": "attended the panel meetings for the first time on the afternoon of the third day, Friday, January 16",
+   "quote": "Lloyd Berkner attended the panel meetings for the first time in the afternoon of the third day, Friday, January 16."
+  },
+  {
+   "s": "berkner",
+   "p": "action",
+   "v": "reviewed and approved the rough draft of the Panel Report",
+   "quote": "This draft had been reviewed and approved earlier by Berkner."
+  },
+  {
+   "s": "berkner",
+   "p": "analogy",
+   "v": "noise to signal ratio",
+   "quote": "(\"noise to signal ratio\" analogy—Berkner)"
+  },
+  {
+   "s": "hynek",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "J. Allen Hynek, astronomer and consultant to Blue Book presented to the panel, but was not a full member."
+  },
+  {
+   "s": "hynek",
+   "p": "occupation",
+   "v": "astronomer",
+   "quote": "J. Allen Hynek, astronomer and consultant to Blue Book presented to the panel, but was not a full member."
+  },
+  {
+   "s": "hynek",
+   "p": "role",
+   "v": "consultant to Blue Book; presented to the panel but was not a full member",
+   "quote": "J. Allen Hynek, astronomer and consultant to Blue Book presented to the panel, but was not a full member."
+  },
+  {
+   "s": "hynek",
+   "p": "member_of",
+   "o": "bluebook",
+   "quote": "J. Allen Hynek, astronomer and consultant to Blue Book presented to the panel, but was not a full member."
+  },
+  {
+   "s": "hynek",
+   "p": "action",
+   "v": "discussed the Battelle study on the second day",
+   "quote": "Hynek then discussed the Battelle study, and the panel discussed with Air Force personnel the problems inherent in monitoring UFO sightings."
+  },
+  {
+   "s": "hynek",
+   "p": "later_view",
+   "v": "opinions changed in later years; became the scientifically respectable voice of Ufology",
+   "quote": "Hynek's opinions changed in later years, so much that he became, to ufologists, the scientifically respectable voice of Ufology."
+  },
+  {
+   "s": "hynek",
+   "p": "statement",
+   "v": "the Robertson Panel made the subject of UFOs scientifically unrespectable",
+   "quote": "made the subject of UFOs scientifically unrespectable, and for nearly 20 years not enough attention was paid to the subject to acquire the kind of data needed even to decide the nature of the UFO phenomenon."
+  },
+  {
+   "s": "newhouse",
+   "p": "rank",
+   "v": "Chief Warrant Officer",
+   "quote": "On the first day, the panel viewed two motion pictures of UFOs: the Mariana UFO Incident footage and 1952 Utah UFO Film (the latter was taken by naval photographer Chief Warrant Officer Delbert C. Newhouse)."
+  },
+  {
+   "s": "newhouse",
+   "p": "occupation",
+   "v": "naval photographer",
+   "quote": "On the first day, the panel viewed two motion pictures of UFOs: the Mariana UFO Incident footage and 1952 Utah UFO Film (the latter was taken by naval photographer Chief Warrant Officer Delbert C. Newhouse)."
+  },
+  {
+   "s": "newhouse",
+   "p": "member_of",
+   "o": "navy",
+   "quote": "On the first day, the panel viewed two motion pictures of UFOs: the Mariana UFO Incident footage and 1952 Utah UFO Film (the latter was taken by naval photographer Chief Warrant Officer Delbert C. Newhouse)."
+  },
+  {
+   "s": "neasham",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Two Navy photograph and film analysts (Lieutenants R.S. Neasham and Harry Woo) then reported their conclusion that, based on more than 1,000 man hours of analysis, the two films depicted objects that were not any known aircraft, creature or weather phenomena."
+  },
+  {
+   "s": "neasham",
+   "p": "rank",
+   "v": "Lieutenant",
+   "quote": "Two Navy photograph and film analysts (Lieutenants R.S. Neasham and Harry Woo) then reported their conclusion that, based on more than 1,000 man hours of analysis, the two films depicted objects that were not any known aircraft, creature or weather phenomena."
+  },
+  {
+   "s": "neasham",
+   "p": "occupation",
+   "v": "Navy photograph and film analyst",
+   "quote": "Two Navy photograph and film analysts (Lieutenants R.S. Neasham and Harry Woo) then reported their conclusion that, based on more than 1,000 man hours of analysis, the two films depicted objects that were not any known aircraft, creature or weather phenomena."
+  },
+  {
+   "s": "neasham",
+   "p": "member_of",
+   "o": "navy",
+   "quote": "Two Navy photograph and film analysts (Lieutenants R.S. Neasham and Harry Woo) then reported their conclusion that, based on more than 1,000 man hours of analysis, the two films depicted objects that were not any known aircraft, creature or weather phenomena."
+  },
+  {
+   "s": "neasham",
+   "p": "colleague_of",
+   "o": "woo",
+   "quote": "Two Navy photograph and film analysts (Lieutenants R.S. Neasham and Harry Woo) then reported their conclusion that, based on more than 1,000 man hours of analysis, the two films depicted objects that were not any known aircraft, creature or weather phenomena."
+  },
+  {
+   "s": "neasham",
+   "p": "statement",
+   "v": "the two films depicted objects that were not any known aircraft, creature or weather phenomena",
+   "quote": "Two Navy photograph and film analysts (Lieutenants R.S. Neasham and Harry Woo) then reported their conclusion that, based on more than 1,000 man hours of analysis, the two films depicted objects that were not any known aircraft, creature or weather phenomena."
+  },
+  {
+   "s": "woo",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Two Navy photograph and film analysts (Lieutenants R.S. Neasham and Harry Woo) then reported their conclusion that, based on more than 1,000 man hours of analysis, the two films depicted objects that were not any known aircraft, creature or weather phenomena."
+  },
+  {
+   "s": "woo",
+   "p": "rank",
+   "v": "Lieutenant",
+   "quote": "Two Navy photograph and film analysts (Lieutenants R.S. Neasham and Harry Woo) then reported their conclusion that, based on more than 1,000 man hours of analysis, the two films depicted objects that were not any known aircraft, creature or weather phenomena."
+  },
+  {
+   "s": "woo",
+   "p": "occupation",
+   "v": "Navy photograph and film analyst",
+   "quote": "Two Navy photograph and film analysts (Lieutenants R.S. Neasham and Harry Woo) then reported their conclusion that, based on more than 1,000 man hours of analysis, the two films depicted objects that were not any known aircraft, creature or weather phenomena."
+  },
+  {
+   "s": "woo",
+   "p": "member_of",
+   "o": "navy",
+   "quote": "Two Navy photograph and film analysts (Lieutenants R.S. Neasham and Harry Woo) then reported their conclusion that, based on more than 1,000 man hours of analysis, the two films depicted objects that were not any known aircraft, creature or weather phenomena."
+  },
+  {
+   "s": "woo",
+   "p": "statement",
+   "v": "the two films depicted objects that were not any known aircraft, creature or weather phenomena",
+   "quote": "Two Navy photograph and film analysts (Lieutenants R.S. Neasham and Harry Woo) then reported their conclusion that, based on more than 1,000 man hours of analysis, the two films depicted objects that were not any known aircraft, creature or weather phenomena."
+  },
+  {
+   "s": "fournet",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "On the third day, Air Force Major Dewey J. Fournet spoke to the panel."
+  },
+  {
+   "s": "fournet",
+   "p": "proponent",
+   "o": "case",
+   "quote": "Fournet supported the extraterrestrial hypothesis as the best explanation for some puzzling UFO reports."
+  },
+  {
+   "s": "fournet",
+   "p": "rank",
+   "v": "Major",
+   "quote": "On the third day, Air Force Major Dewey J. Fournet spoke to the panel."
+  },
+  {
+   "s": "fournet",
+   "p": "member_of",
+   "o": "usaf",
+   "quote": "On the third day, Air Force Major Dewey J. Fournet spoke to the panel."
+  },
+  {
+   "s": "fournet",
+   "p": "role",
+   "v": "coordinated UFO affairs for the Pentagon for over a year",
+   "quote": "For over a year he had coordinated UFO affairs for the Pentagon."
+  },
+  {
+   "s": "fournet",
+   "p": "stationed_at",
+   "o": "pentagon",
+   "quote": "For over a year he had coordinated UFO affairs for the Pentagon."
+  },
+  {
+   "s": "fournet",
+   "p": "position",
+   "v": "supported the extraterrestrial hypothesis as the best explanation for some puzzling UFO reports",
+   "quote": "Fournet supported the extraterrestrial hypothesis as the best explanation for some puzzling UFO reports."
+  },
+  {
+   "s": "fournet",
+   "p": "statement",
+   "v": "eliminated each of the known and probable causes of sightings leaving extra-terrestrial as the only one remaining in many cases",
+   "quote": "Mr. Fournet, in his presentation, showed how he had eliminated each of the known and probable causes of sightings leaving him \"extra-terrestrial\" as the only one remaining in many cases."
+  },
+  {
+   "s": "fournet",
+   "p": "occupation",
+   "v": "aeronautical engineer and technical intelligence officer",
+   "quote": "Fournet's background as an aeronautical engineer and technical intelligence officer (Project Officer, BLUEBOOK for 15 months) could not be slighted."
+  },
+  {
+   "s": "fournet",
+   "p": "position",
+   "v": "Project Officer, BLUEBOOK for 15 months",
+   "quote": "Fournet's background as an aeronautical engineer and technical intelligence officer (Project Officer, BLUEBOOK for 15 months) could not be slighted."
+  },
+  {
+   "s": "fournet",
+   "p": "member_of",
+   "o": "bluebook",
+   "quote": "Fournet's background as an aeronautical engineer and technical intelligence officer (Project Officer, BLUEBOOK for 15 months) could not be slighted."
+  },
+  {
+   "s": "strong",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Philip Strong and Fred Durant from OSI also briefed the Office of National Estimates on the findings."
+  },
+  {
+   "s": "strong",
+   "p": "member_of",
+   "o": "osi",
+   "quote": "Philip Strong and Fred Durant from OSI also briefed the Office of National Estimates on the findings."
+  },
+  {
+   "s": "strong",
+   "p": "action",
+   "v": "briefed the Office of National Estimates on the findings",
+   "quote": "Philip Strong and Fred Durant from OSI also briefed the Office of National Estimates on the findings."
+  },
+  {
+   "s": "swords",
+   "p": "commentator",
+   "o": "case",
+   "quote": "According to Swords, the Robertson Panel's report had a significant impact throughout the U.S. Government, significantly reducing the level of concern over the UFO phenomena within the military and intelligence communities that had developed during 1952."
+  },
+  {
+   "s": "swords",
+   "p": "statement",
+   "v": "the report had a significant impact throughout the U.S. Government, significantly reducing the level of concern over UFOs",
+   "quote": "According to Swords, the Robertson Panel's report had a significant impact throughout the U.S. Government, significantly reducing the level of concern over the UFO phenomena within the military and intelligence communities that had developed during 1952."
+  },
+  {
+   "s": "iac",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Panel arose from a recommendation to the Intelligence Advisory Committee (IAC) in December 1952 from a Central Intelligence Agency (CIA) review of the U.S. Air Force investigation into unidentified flying objects, Project Blue Book."
+  },
+  {
+   "s": "iac",
+   "p": "decision",
+   "v": "December 4, 1952: DCI to enlist selected scientists to review and appraise the available evidence",
+   "quote": "Enlist the services of selected scientists to review and appraise the available evidence in the light of pertinent scientific theories."
+  },
+  {
+   "s": "iac",
+   "p": "decision",
+   "v": "DCI to draft and circulate a proposed NSCID",
+   "quote": "Draft and circulate to the IAC a proposed NSCID, which would signify the IAC concerning the subject and authorize coordination with appropriate non-IAC departments and agencies."
+  },
+  {
+   "s": "iac",
+   "p": "decision_date",
+   "v": "1952-12-04",
+   "quote": "On December 4, 1952, the Intelligence Advisory Committee agreed:"
+  },
+  {
+   "s": "cia",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Panel arose from a recommendation to the Intelligence Advisory Committee (IAC) in December 1952 from a Central Intelligence Agency (CIA) review of the U.S. Air Force investigation into unidentified flying objects, Project Blue Book."
+  },
+  {
+   "s": "cia",
+   "p": "analysts_view",
+   "v": "broadly skeptical; favoured misidentifications of conventional objects or natural phenomena",
+   "quote": "The CIA analysts were broadly skeptical concerning the possibility that some UFO reports may represent extraterrestrial objects or objects of terrestrial (either American or Russian) manufacture, favouring the hypothesis that currently unidentified reports were misidentifications of conventional objects or natural phenomena."
+  },
+  {
+   "s": "cia",
+   "p": "policy",
+   "v": "wanted knowledge of any Agency interest in flying saucers carefully restricted",
+   "quote": "CIA officials wanted knowledge of any Agency interest in the subject of flying saucers carefully restricted, noting not only that the Robertson panel report was classified but also that any mention of CIA sponsorship of the panel was forbidden"
+  },
+  {
+   "s": "cia",
+   "p": "review_history",
+   "v": "office maintained a continuing review of reported sightings during the past three years",
+   "quote": "Although this office has maintained a continuing review of such reported sightings during the past three years, a special study group has been formed to review this subject to date."
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Panel arose from a recommendation to the Intelligence Advisory Committee (IAC) in December 1952 from a Central Intelligence Agency (CIA) review of the U.S. Air Force investigation into unidentified flying objects, Project Blue Book."
+  },
+  {
+   "s": "usaf",
+   "p": "action",
+   "v": "investigated a number of civilian groups that had sprung up to follow the subject",
+   "quote": "Air Force is aware of this and had investigated a number of the civilian groups that have sprung up to follow the subject."
+  },
+  {
+   "s": "usaf",
+   "p": "action",
+   "v": "commissioned the Battelle Memorial Institute to study all UFO reports",
+   "quote": "The Air Force had recently commissioned the Battelle Memorial Institute to scientifically study all of the UFO reports collected by Project Sign, Project Grudge and Project Blue Book."
+  },
+  {
+   "s": "usaf",
+   "p": "action",
+   "v": "released three summary paragraphs and the names of the panel's members",
+   "quote": "The Air Force released three summary paragraphs and the names of the panel's members."
+  },
+  {
+   "s": "usaf",
+   "p": "cases_on_record",
+   "v": "2,331",
+   "quote": "In total, they met for 12 hours and reviewed 23 cases out of 2,331 Air Force UFO cases on record (or about 1%), although Ruppelt wrote that the Panel studied their best cases."
+  },
+  {
+   "s": "nsc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Most of what is known about the actual proceedings of the meetings comes from notes kept by Durant which were later submitted as a memo to the NSC and commonly referred to as the Durant Report."
+  },
+  {
+   "s": "nsc",
+   "p": "detail",
+   "v": "no NSC meetings were held on the relevant dates",
+   "quote": "No NSC meetings were held on the relevant dates  and the President was in Kansas on July 27 and 28, resting after attending the Democratic Party convention on the 26th."
+  },
+  {
+   "s": "nsc",
+   "p": "disputed_claim",
+   "v": "claim that the study was initiated by a Presidential request to the NSC appears incorrect",
+   "quote": "A claim that the study was initiated by a Presidential request to the National Security Council (NSC) appears to be incorrect."
+  },
+  {
+   "s": "osi",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "He was instructed by OSI to assemble a group of prominent scientists to review the Air Force's UFO files."
+  },
+  {
+   "s": "osi",
+   "p": "part_of",
+   "o": "cia",
+   "quote": "Philip Strong and Fred Durant from OSI also briefed the Office of National Estimates on the findings."
+  },
+  {
+   "s": "osi",
+   "p": "opinion",
+   "v": "evidence of direct threat wholly lacking but related dangers might exist",
+   "quote": "The Panel Members were in agreement with O/SI opinion that, although evidence of any direct threat from these sightings was wholly lacking, related dangers might well exist resulting from:"
+  },
+  {
+   "s": "dems",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "No NSC meetings were held on the relevant dates  and the President was in Kansas on July 27 and 28, resting after attending the Democratic Party convention on the 26th."
+  },
+  {
+   "s": "dems",
+   "p": "convention_date",
+   "v": "July 26 (1952)",
+   "quote": "No NSC meetings were held on the relevant dates  and the President was in Kansas on July 27 and 28, resting after attending the Democratic Party convention on the 26th."
+  },
+  {
+   "s": "csc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "One - the Civilian Saucer Committee in California has substantial funds, strongly influences the editorial policy of a number of newspapers and has leaders whose connections may be questionable."
+  },
+  {
+   "s": "csc",
+   "p": "located_in",
+   "o": "california",
+   "quote": "One - the Civilian Saucer Committee in California has substantial funds, strongly influences the editorial policy of a number of newspapers and has leaders whose connections may be questionable."
+  },
+  {
+   "s": "csc",
+   "p": "description",
+   "v": "has substantial funds, strongly influences the editorial policy of a number of newspapers, leaders whose connections may be questionable",
+   "quote": "One - the Civilian Saucer Committee in California has substantial funds, strongly influences the editorial policy of a number of newspapers and has leaders whose connections may be questionable."
+  },
+  {
+   "s": "csc",
+   "p": "surveillance",
+   "v": "Air Force watching it because of its power to touch off mass hysteria and panic",
+   "quote": "Air Force is watching this organization because of its power to touch off mass hysteria and panic."
+  },
+  {
+   "s": "psb",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "CIA, under its assigned responsibilities, and in cooperation with the psychological strategy board immediately investigate possible offensive or defensive utilization of the phenomena for psychological warfare purposes both for and against the United States"
+  },
+  {
+   "s": "dod",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On October 13, 1952, however, a memorandum from the assistant director for Intelligence Co-ordination, James Reber to the Deputy Director Intelligence argued that fundamental research into the question of positive identification was the responsibility of the Defence Department"
+  },
+  {
+   "s": "rdb",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "This effort shall be coordinated with the military services and the Research and Development Board of the Department of Defense, with the Psychological Board and other Governmental agencies as appropriate."
+  },
+  {
+   "s": "rdb",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "This effort shall be coordinated with the military services and the Research and Development Board of the Department of Defense, with the Psychological Board and other Governmental agencies as appropriate."
+  },
+  {
+   "s": "jrdb",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the study group referenced in a Canadian government document as operating as early as 1950 under the chairmanship of Dr Vannevar Bush, then head of the Joint Research and Development Board, to discover the 'modus operandi' of UFOs are unclear."
+  },
+  {
+   "s": "battelle",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Air Force had recently commissioned the Battelle Memorial Institute to scientifically study all of the UFO reports collected by Project Sign, Project Grudge and Project Blue Book."
+  },
+  {
+   "s": "battelle",
+   "p": "position",
+   "v": "insisted they needed much more time to conduct a proper study",
+   "quote": "Robertson hoped to draw on their statistical results, but Battelle insisted that they needed much more time to conduct a proper study."
+  },
+  {
+   "s": "weg",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "He was a physicist, a CIA consultant, and the director of the Defense Department Weapons Evaluation Group."
+  },
+  {
+   "s": "weg",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "He was a physicist, a CIA consultant, and the director of the Defense Department Weapons Evaluation Group."
+  },
+  {
+   "s": "brookhaven",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Samuel Abraham Goudsmit, Brookhaven National Laboratories nuclear physicist;"
+  },
+  {
+   "s": "jhoro",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Thornton Leigh Page, astrophysicist, radar expert, deputy director of Johns Hopkins Operations Research Office;"
+  },
+  {
+   "s": "navy",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Two Navy photograph and film analysts (Lieutenants R.S. Neasham and Harry Woo) then reported their conclusion that, based on more than 1,000 man hours of analysis, the two films depicted objects that were not any known aircraft, creature or weather phenomena."
+  },
+  {
+   "s": "pil",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Panel studied these films, the case history, ATIC's interpretation, and received a briefing by representatives of the USN Photo Interpretation Laboratory on their analysis of the film."
+  },
+  {
+   "s": "pil",
+   "p": "part_of",
+   "o": "navy",
+   "quote": "The Panel studied these films, the case history, ATIC's interpretation, and received a briefing by representatives of the USN Photo Interpretation Laboratory on their analysis of the film."
+  },
+  {
+   "s": "pil",
+   "p": "analysis_effort",
+   "v": "approximately 1000 man hours of professional and sub-professional time",
+   "quote": "This team had expended (at Air Force request) approximately 1000 man hours of professional and sub-professional time in the preparation of graph plots of individual frames of the film, showing apparent and relative motion of objects and variation in their light intensity."
+  },
+  {
+   "s": "pil",
+   "p": "conclusion",
+   "v": "objects were not birds, balloons or aircraft, not reflections, and therefore self-luminous",
+   "quote": "It was the opinion of the P.I.L. representatives that the objects sighted were not birds, balloons or aircraft, were \"not reflections because there was no blinking while passing through 60 degrees of arc\" and were, therefore, \"self-luminous.\""
+  },
+  {
+   "s": "atic",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Panel has received the evidence as presented by cognizant intelligence agencies, primarily the Air Technical Intelligence Center, and has reviewed a selection of the best documented incidents."
+  },
+  {
+   "s": "atic",
+   "p": "action",
+   "v": "briefed CIA with A-2 personnel on November 25, 1952",
+   "quote": "On December 2, 1952 CIA Assistant Director Chadwell noted, \"Recent reports reaching CIA indicated that further action was desirable and another briefing by the cognizant A-2 and ATIC personnel was held on November 25."
+  },
+  {
+   "s": "a2",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On December 2, 1952 CIA Assistant Director Chadwell noted, \"Recent reports reaching CIA indicated that further action was desirable and another briefing by the cognizant A-2 and ATIC personnel was held on November 25."
+  },
+  {
+   "s": "cfsi",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Panel took cognizance of the existence of such groups as the \"Civilian Flying Saucer Investigators\" (Los Angeles) and the \"Aerial Phenomena Research Organization (Wisconsin)."
+  },
+  {
+   "s": "cfsi",
+   "p": "located_in",
+   "o": "la",
+   "quote": "The Panel took cognizance of the existence of such groups as the \"Civilian Flying Saucer Investigators\" (Los Angeles) and the \"Aerial Phenomena Research Organization (Wisconsin)."
+  },
+  {
+   "s": "apro",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Panel took cognizance of the existence of such groups as the \"Civilian Flying Saucer Investigators\" (Los Angeles) and the \"Aerial Phenomena Research Organization (Wisconsin)."
+  },
+  {
+   "s": "apro",
+   "p": "located_in",
+   "o": "wisconsin",
+   "quote": "The Panel took cognizance of the existence of such groups as the \"Civilian Flying Saucer Investigators\" (Los Angeles) and the \"Aerial Phenomena Research Organization (Wisconsin)."
+  },
+  {
+   "s": "fcda",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Scientific Advisory Panel on UFOs (the Robertson panel) submitted its report to the IAC, the Secretary of Defense, the Director of the Federal Civil Defense Administration, and the Chairman of the National Security Resources Board."
+  },
+  {
+   "s": "nsrb",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Scientific Advisory Panel on UFOs (the Robertson panel) submitted its report to the IAC, the Secretary of Defense, the Director of the Federal Civil Defense Administration, and the Chairman of the National Security Resources Board."
+  },
+  {
+   "s": "one",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Philip Strong and Fred Durant from OSI also briefed the Office of National Estimates on the findings."
+  },
+  {
+   "s": "nicap",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 1958, the National Investigations Committee on Aerial Phenomena (NICAP), a civilian UFO research group, requested that the Air Force release the panel's report."
+  },
+  {
+   "s": "nicap",
+   "p": "description",
+   "v": "civilian UFO research group",
+   "quote": "In 1958, the National Investigations Committee on Aerial Phenomena (NICAP), a civilian UFO research group, requested that the Air Force release the panel's report."
+  },
+  {
+   "s": "nicap",
+   "p": "action",
+   "v": "in 1958 requested that the Air Force release the panel's report",
+   "quote": "In 1958, the National Investigations Committee on Aerial Phenomena (NICAP), a civilian UFO research group, requested that the Air Force release the panel's report."
+  },
+  {
+   "s": "satrev",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In 1966 a nearly full-length version of the report was printed in the science column of the Saturday Review."
+  },
+  {
+   "s": "satrev",
+   "p": "published",
+   "o": "report",
+   "quote": "In 1966 a nearly full-length version of the report was printed in the science column of the Saturday Review."
+  },
+  {
+   "s": "satrev",
+   "p": "publication_year",
+   "v": "1966",
+   "quote": "In 1966 a nearly full-length version of the report was printed in the science column of the Saturday Review."
+  },
+  {
+   "s": "dc",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The CIA review itself was in response to widespread reports of unidentified flying objects, especially in the Washington, D.C. area during the summer of 1952."
+  },
+  {
+   "s": "dca",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On July 19 and 20, radar scopes at Washington National Airport and Andrews Air Force Base tracked mysterious blips."
+  },
+  {
+   "s": "andrews",
+   "p": "related_place",
+   "o": "case",
+   "quote": "On July 19 and 20, radar scopes at Washington National Airport and Andrews Air Force Base tracked mysterious blips."
+  },
+  {
+   "s": "whitehouse",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The White House wanted to know what was happening"
+  },
+  {
+   "s": "kansas",
+   "p": "related_place",
+   "o": "case",
+   "quote": "No NSC meetings were held on the relevant dates  and the President was in Kansas on July 27 and 28, resting after attending the Democratic Party convention on the 26th."
+  },
+  {
+   "s": "california",
+   "p": "related_place",
+   "o": "case",
+   "quote": "One - the Civilian Saucer Committee in California has substantial funds, strongly influences the editorial policy of a number of newspapers and has leaders whose connections may be questionable."
+  },
+  {
+   "s": "la",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Panel took cognizance of the existence of such groups as the \"Civilian Flying Saucer Investigators\" (Los Angeles) and the \"Aerial Phenomena Research Organization (Wisconsin)."
+  },
+  {
+   "s": "wisconsin",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The Panel took cognizance of the existence of such groups as the \"Civilian Flying Saucer Investigators\" (Los Angeles) and the \"Aerial Phenomena Research Organization (Wisconsin)."
+  },
+  {
+   "s": "losalamos_pl",
+   "p": "related_place",
+   "o": "case",
+   "quote": "As early as August 15, CIA analysts, despite their overall skeptical conclusions had noted, \"Sightings of UFOs reported at Los Alamos and Oak Ridge, at a time when the background radiation count had risen inexplicably."
+  },
+  {
+   "s": "oakridge",
+   "p": "related_place",
+   "o": "case",
+   "quote": "As early as August 15, CIA analysts, despite their overall skeptical conclusions had noted, \"Sightings of UFOs reported at Los Alamos and Oak Ridge, at a time when the background radiation count had risen inexplicably."
+  },
+  {
+   "s": "us",
+   "p": "related_place",
+   "o": "case",
+   "quote": "CIA historian Gerald Haines noted \"A massive build-up of sightings over the United States in 1952, especially in July, alarmed the Truman administration."
+  },
+  {
+   "s": "russia",
+   "p": "related_place",
+   "o": "case",
+   "quote": "We give Russia the capability of delivering an air attack against us, yet at any given moment now, there may be a dozen official unidentified sightings plus many unofficial."
+  },
+  {
+   "s": "russia",
+   "p": "cia_concern",
+   "v": "watch for Russian efforts to capitalize upon American credulity",
+   "quote": "Perhaps we, from an intelligence point of view, should watch for any indication of Russian efforts to capitalize upon this present American credulity."
+  },
+  {
+   "s": "russia",
+   "p": "press_coverage",
+   "v": "absence of coverage of the subject in the Soviet press",
+   "quote": "The analyst went on to note the absence of coverage of the subject in the Soviet press, which it was felt could only represent a policy position"
+  },
+  {
+   "s": "tremonton",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The panel then watched a motion picture film of seagulls, which Thornton Page had requested as the panel felt that the Tremonton, Utah film most probably showed birds."
+  },
+  {
+   "s": "greatfalls",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Objects in the Great Falls case were believed to have probably been aircraft, and the bright lights such reflections."
+  },
+  {
+   "s": "pentagon",
+   "p": "related_place",
+   "o": "case",
+   "quote": "For over a year he had coordinated UFO affairs for the Pentagon."
+  },
+  {
+   "s": "bluebook",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The Panel arose from a recommendation to the Intelligence Advisory Committee (IAC) in December 1952 from a Central Intelligence Agency (CIA) review of the U.S. Air Force investigation into unidentified flying objects, Project Blue Book."
+  },
+  {
+   "s": "bluebook",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "In 1952 there was a significant increase in the number of UFO reports received by the USAF Blue Book project, tasked with investigating such reports at the time."
+  },
+  {
+   "s": "bluebook",
+   "p": "panel_suggestions",
+   "v": "range of suggestions regarding improved techniques and resources for Blue Book",
+   "quote": "In addition to a range of suggestions regarding improved techniques and resources for Blue Book the Panel concluded that a public education campaign should be undertaken"
+  },
+  {
+   "s": "sign",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Air Force had recently commissioned the Battelle Memorial Institute to scientifically study all of the UFO reports collected by Project Sign, Project Grudge and Project Blue Book."
+  },
+  {
+   "s": "sign",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "The Air Force had recently commissioned the Battelle Memorial Institute to scientifically study all of the UFO reports collected by Project Sign, Project Grudge and Project Blue Book."
+  },
+  {
+   "s": "grudge",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Air Force had recently commissioned the Battelle Memorial Institute to scientifically study all of the UFO reports collected by Project Sign, Project Grudge and Project Blue Book."
+  },
+  {
+   "s": "grudge",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "The Air Force had recently commissioned the Battelle Memorial Institute to scientifically study all of the UFO reports collected by Project Sign, Project Grudge and Project Blue Book."
+  },
+  {
+   "s": "ciastudy",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "This is the earliest written record of the CIA study which led to the Robertson Panel."
+  },
+  {
+   "s": "ciastudy",
+   "p": "part_of",
+   "o": "cia",
+   "quote": "This is the earliest written record of the CIA study which led to the Robertson Panel."
+  },
+  {
+   "s": "ciastudy",
+   "p": "trigger",
+   "v": "widespread UFO reports, especially in the Washington, D.C. area in summer 1952",
+   "quote": "The CIA review itself was in response to widespread reports of unidentified flying objects, especially in the Washington, D.C. area during the summer of 1952."
+  },
+  {
+   "s": "ciastudy",
+   "p": "decision_date",
+   "v": "around July 28, 1952",
+   "quote": "The decision to initiate the CIA study appears therefore to have been taken around July 28, although D/CI (Director of Central Intelligence) involvement in the study and Haines' reference to White House interest suggests that the FCD:RLC meeting was not itself the formal decision point."
+  },
+  {
+   "s": "ciastudy",
+   "p": "expected_report_date",
+   "v": "about 15 August",
+   "quote": "D/CI will participate in the study with D/SI and a report should be ready about 15 August."
+  },
+  {
+   "s": "ciastudy",
+   "p": "origin",
+   "v": "precise origins unclear; claim of Presidential request to NSC appears incorrect",
+   "quote": "A claim that the study was initiated by a Presidential request to the National Security Council (NSC) appears to be incorrect."
+  },
+  {
+   "s": "ciastudy",
+   "p": "analysts_view",
+   "v": "broadly skeptical of extraterrestrial or American/Russian manufacture",
+   "quote": "The CIA analysts were broadly skeptical concerning the possibility that some UFO reports may represent extraterrestrial objects or objects of terrestrial (either American or Russian) manufacture, favouring the hypothesis that currently unidentified reports were misidentifications of conventional objects or natural phenomena."
+  },
+  {
+   "s": "battstudy",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Hynek then discussed the Battelle study, and the panel discussed with Air Force personnel the problems inherent in monitoring UFO sightings."
+  },
+  {
+   "s": "battstudy",
+   "p": "part_of",
+   "o": "battelle",
+   "quote": "The Air Force had recently commissioned the Battelle Memorial Institute to scientifically study all of the UFO reports collected by Project Sign, Project Grudge and Project Blue Book."
+  },
+  {
+   "s": "battstudy",
+   "p": "scope",
+   "v": "all of the UFO reports collected by Project Sign, Project Grudge and Project Blue Book",
+   "quote": "The Air Force had recently commissioned the Battelle Memorial Institute to scientifically study all of the UFO reports collected by Project Sign, Project Grudge and Project Blue Book."
+  },
+  {
+   "s": "battstudy",
+   "p": "finding",
+   "v": "statistically significant difference between unknowns and UFO reports that could be identified",
+   "quote": "The inter-relationships between these wider aspects of the CIA's recommendations and the Battelle Memorial Institute's study, culminating in Blue Book Special Report 14, which identified a statistically significant difference between 'unknowns' and UFO reports that could subsequently be identified"
+  },
+  {
+   "s": "bushgroup",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "the study group referenced in a Canadian government document as operating as early as 1950 under the chairmanship of Dr Vannevar Bush, then head of the Joint Research and Development Board, to discover the 'modus operandi' of UFOs are unclear."
+  },
+  {
+   "s": "bushgroup",
+   "p": "date_start",
+   "v": "1950",
+   "quote": "the study group referenced in a Canadian government document as operating as early as 1950 under the chairmanship of Dr Vannevar Bush, then head of the Joint Research and Development Board, to discover the 'modus operandi' of UFOs are unclear."
+  },
+  {
+   "s": "bushgroup",
+   "p": "purpose",
+   "v": "to discover the modus operandi of UFOs",
+   "quote": "the study group referenced in a Canadian government document as operating as early as 1950 under the chairmanship of Dr Vannevar Bush, then head of the Joint Research and Development Board, to discover the 'modus operandi' of UFOs are unclear."
+  },
+  {
+   "s": "aatip",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Advanced Aviation Threat Identification Program"
+  },
+  {
+   "s": "report",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The panel was briefed on U.S. military activities and intelligence; hence the report was originally classified Secret."
+  },
+  {
+   "s": "report",
+   "p": "classification",
+   "v": "originally classified Secret; later declassified",
+   "quote": "Later declassified, the Robertson Panel's report concluded that UFOs were not a direct threat to national security, but could pose an indirect threat by overwhelming standard military communications due to public interest in the subject."
+  },
+  {
+   "s": "report",
+   "p": "part_of",
+   "o": "durantrep",
+   "quote": "The Robertson Panel's report was contained within a larger internal CIA report by F C Durant, a CIA officer who served as Secretary to the Panel, which summarises the activities of the panel and its conclusions."
+  },
+  {
+   "s": "report",
+   "p": "addressed_to",
+   "v": "AD/SI",
+   "quote": "it was agreed that the Chairman should draft a report of the Panel to AD/SI that evening for review by the Panel the next morning. The meeting adjourned at 1715"
+  },
+  {
+   "s": "report",
+   "p": "release",
+   "v": "1958: three summary paragraphs and member names released",
+   "quote": "The Air Force released three summary paragraphs and the names of the panel's members."
+  },
+  {
+   "s": "durantrep",
+   "p": "key_document",
+   "o": "case",
+   "quote": "This wider document is commonly referred to as the Durant Report."
+  },
+  {
+   "s": "durantrep",
+   "p": "description",
+   "v": "larger internal CIA report summarising the activities of the panel and its conclusions",
+   "quote": "The Robertson Panel's report was contained within a larger internal CIA report by F C Durant, a CIA officer who served as Secretary to the Panel, which summarises the activities of the panel and its conclusions."
+  },
+  {
+   "s": "durantrep",
+   "p": "description",
+   "v": "notes kept by Durant, later submitted as a memo to the NSC",
+   "quote": "Most of what is known about the actual proceedings of the meetings comes from notes kept by Durant which were later submitted as a memo to the NSC and commonly referred to as the Durant Report."
+  },
+  {
+   "s": "clarkmemo",
+   "p": "key_document",
+   "o": "case",
+   "quote": "This is the earliest written record of the CIA study which led to the Robertson Panel."
+  },
+  {
+   "s": "clarkmemo",
+   "p": "date",
+   "v": "1952-07-29",
+   "quote": "In a July 29, 1952 memo to the deputy director of Intelligence, Acting Assistant Director for Scientific Intelligence Ralph Clark commented"
+  },
+  {
+   "s": "clarkmemo",
+   "p": "addressee",
+   "v": "deputy director of Intelligence",
+   "quote": "In a July 29, 1952 memo to the deputy director of Intelligence, Acting Assistant Director for Scientific Intelligence Ralph Clark commented"
+  },
+  {
+   "s": "clarkmemo",
+   "p": "footnote",
+   "v": "OSI:FCD:RLC mtw (28July52)",
+   "quote": "The Ralph L Clark memo of July 29 contains a footnote reference to a meeting, \"OSI:FCD:RLC mtw (28July52)\" which appears to indicate a July 28, 1952 meeting between F C Durant and Clark on this subject."
+  },
+  {
+   "s": "aug19",
+   "p": "key_document",
+   "o": "case",
+   "quote": "In an internal CIA paper dated August 19,1952 the analyst notes:"
+  },
+  {
+   "s": "aug19",
+   "p": "date",
+   "v": "1952-08-19",
+   "quote": "In an internal CIA paper dated August 19,1952 the analyst notes:"
+  },
+  {
+   "s": "cia",
+   "p": "authored",
+   "o": "aug19",
+   "quote": "In an internal CIA paper dated August 19,1952 the analyst notes:"
+  },
+  {
+   "s": "aug19",
+   "p": "statement",
+   "v": "evidence so strongly against US development, Russian development and space ships that they warrant no more than speculative consideration",
+   "quote": "on three of the main theories in explanation of these phenomena, - a US development, a Russian development, and space ships - the evidence either of fact or of logic is so strongly against them that they warrant at present no more than speculative consideration."
+  },
+  {
+   "s": "aug19",
+   "p": "statement",
+   "v": "a fair proportion of our population is mentally conditioned to acceptance of the incredible",
+   "quote": "This whole affair has demonstrated that there is a fair proportion of our population which is mentally conditioned to acceptance of the incredible."
+  },
+  {
+   "s": "aug19",
+   "p": "statement",
+   "v": "at any given moment there may be a dozen official unidentified sightings plus many unofficial",
+   "quote": "We give Russia the capability of delivering an air attack against us, yet at any given moment now, there may be a dozen official unidentified sightings plus many unofficial."
+  },
+  {
+   "s": "aug19",
+   "p": "statement",
+   "v": "At the moment of attack, how will we, on an instant basis, distinguish hardware from phantom?",
+   "quote": "At the moment of attack, how will we, on an instant basis, distinguish hardware from phantom?"
+  },
+  {
+   "s": "sep11",
+   "p": "key_document",
+   "o": "case",
+   "quote": "These twin concerns - potential for psychological warfare and overloading of air defence systems, were formalised in a memorandum to the Director of Central Intelligence, General Walter Bedell Smith on September 11, 1952."
+  },
+  {
+   "s": "sep11",
+   "p": "date",
+   "v": "1952-09-11",
+   "quote": "These twin concerns - potential for psychological warfare and overloading of air defence systems, were formalised in a memorandum to the Director of Central Intelligence, General Walter Bedell Smith on September 11, 1952."
+  },
+  {
+   "s": "sep11",
+   "p": "statement",
+   "v": "Air Force study adequate case-by-case but not addressing rapid positive identification",
+   "quote": "This memorandum noted that although the Air Force study was adequate on a case-by-case basis it was not addressing the more fundamental question of enabling rapid positive identification of reports"
+  },
+  {
+   "s": "sep11",
+   "p": "statement",
+   "v": "consultant panel stated solutions would probably be found on the margins or just beyond the frontiers of our present phenomena",
+   "quote": "Our consultant panel stated that these solutions would probably be found on the margins or just beyond the frontiers of our present phenomena"
+  },
+  {
+   "s": "sep11",
+   "p": "recommendation",
+   "v": "DCI advise the NSC of the security implications inherent in the flying saucer problem",
+   "quote": "The Director of Central Intelligence advise the National Security Council of the security implications inherent in the flying saucer problem"
+  },
+  {
+   "s": "sep11",
+   "p": "recommendation",
+   "v": "CIA with the psychological strategy board investigate use of the phenomena for psychological warfare",
+   "quote": "CIA, under its assigned responsibilities, and in cooperation with the psychological strategy board immediately investigate possible offensive or defensive utilization of the phenomena for psychological warfare purposes both for and against the United States"
+  },
+  {
+   "s": "sep11",
+   "p": "recommendation",
+   "v": "CIA develop a policy of public information which will minimize the risk of panic",
+   "quote": "On the basis of these programs of research, CIA develop and recommend for adoption by the National Security Council a policy of public information which will minimize the risk of panic."
+  },
+  {
+   "s": "rebermemo",
+   "p": "key_document",
+   "o": "case",
+   "quote": "On October 13, 1952, however, a memorandum from the assistant director for Intelligence Co-ordination, James Reber to the Deputy Director Intelligence argued that fundamental research into the question of positive identification was the responsibility of the Defence Department"
+  },
+  {
+   "s": "rebermemo",
+   "p": "date",
+   "v": "1952-10-13",
+   "quote": "On October 13, 1952, however, a memorandum from the assistant director for Intelligence Co-ordination, James Reber to the Deputy Director Intelligence argued that fundamental research into the question of positive identification was the responsibility of the Defence Department"
+  },
+  {
+   "s": "chadmemo",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Chadwell's December 2 memorandum contained the draft of recommendations for the NSC, which were:"
+  },
+  {
+   "s": "chadmemo",
+   "p": "date",
+   "v": "1952-12-02",
+   "quote": "On December 2, 1952 CIA Assistant Director Chadwell noted, \"Recent reports reaching CIA indicated that further action was desirable and another briefing by the cognizant A-2 and ATIC personnel was held on November 25."
+  },
+  {
+   "s": "chadmemo",
+   "p": "recommendation",
+   "v": "DCI shall formulate and carry out a program of intelligence and research to solve instant positive identification of UFOs",
+   "quote": "The Director of Central Intelligence shall formulate and carry out a program of intelligence and research activities as required to solve the problem of instant positive identification of unidentified flying objects."
+  },
+  {
+   "s": "chadmemo",
+   "p": "recommendation",
+   "v": "effort to be coordinated with the military services, the Research and Development Board and the Psychological Board",
+   "quote": "This effort shall be coordinated with the military services and the Research and Development Board of the Department of Defense, with the Psychological Board and other Governmental agencies as appropriate."
+  },
+  {
+   "s": "iacmin",
+   "p": "key_document",
+   "o": "case",
+   "quote": "From the IAC minutes of December 4 and the earlier CIA documents it appears clear that the Robertson Panel was the outcome of recommendation (a) of the IAC decision"
+  },
+  {
+   "s": "iacmin",
+   "p": "date",
+   "v": "1952-12-04",
+   "quote": "From the IAC minutes of December 4 and the earlier CIA documents it appears clear that the Robertson Panel was the outcome of recommendation (a) of the IAC decision"
+  },
+  {
+   "s": "iac",
+   "p": "authored",
+   "o": "iacmin",
+   "quote": "From the IAC minutes of December 4 and the earlier CIA documents it appears clear that the Robertson Panel was the outcome of recommendation (a) of the IAC decision"
+  },
+  {
+   "s": "sr14",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The inter-relationships between these wider aspects of the CIA's recommendations and the Battelle Memorial Institute's study, culminating in Blue Book Special Report 14, which identified a statistically significant difference between 'unknowns' and UFO reports that could subsequently be identified"
+  },
+  {
+   "s": "sr14",
+   "p": "part_of",
+   "o": "battstudy",
+   "quote": "The inter-relationships between these wider aspects of the CIA's recommendations and the Battelle Memorial Institute's study, culminating in Blue Book Special Report 14, which identified a statistically significant difference between 'unknowns' and UFO reports that could subsequently be identified"
+  },
+  {
+   "s": "canadoc",
+   "p": "key_document",
+   "o": "case",
+   "quote": "the study group referenced in a Canadian government document as operating as early as 1950 under the chairmanship of Dr Vannevar Bush, then head of the Joint Research and Development Board, to discover the 'modus operandi' of UFOs are unclear."
+  },
+  {
+   "s": "nscid",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Draft and circulate to the IAC a proposed NSCID, which would signify the IAC concerning the subject and authorize coordination with appropriate non-IAC departments and agencies."
+  },
+  {
+   "s": "nscid",
+   "p": "fate",
+   "v": "the Agency abandoned efforts to draft it following the panel findings",
+   "quote": "Following the Robertson panel findings, the Agency abandoned efforts to draft an NSCID on UFOs."
+  },
+  {
+   "s": "gullfilm",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The panel then watched a motion picture film of seagulls, which Thornton Page had requested as the panel felt that the Tremonton, Utah film most probably showed birds."
+  },
+  {
+   "s": "gullfilm",
+   "p": "content",
+   "v": "short film showing high reflectivity of seagulls in bright sunlight",
+   "quote": "the apparent motions, sizes and brightnesses of the objects were considered strongly to suggest birds, particularly after the Panel viewed a short film showing high reflectivity of seagulls in bright sunlight."
+  },
+  {
+   "s": "janap",
+   "p": "key_document",
+   "o": "case",
+   "quote": "These were Joint-Army-Navy-Air Force Publication 147 (JANAP 146) of December 1953 and a 1954 revision of Air Force Regulation 200-2 (AFR 200-2) which introduced significant penalties on military, and some civilian personnel, for unauthorized release of information relating to UFO sightings."
+  },
+  {
+   "s": "janap",
+   "p": "date",
+   "v": "1953-12",
+   "quote": "These were Joint-Army-Navy-Air Force Publication 147 (JANAP 146) of December 1953 and a 1954 revision of Air Force Regulation 200-2 (AFR 200-2) which introduced significant penalties on military, and some civilian personnel, for unauthorized release of information relating to UFO sightings."
+  },
+  {
+   "s": "afr",
+   "p": "key_document",
+   "o": "case",
+   "quote": "These were Joint-Army-Navy-Air Force Publication 147 (JANAP 146) of December 1953 and a 1954 revision of Air Force Regulation 200-2 (AFR 200-2) which introduced significant penalties on military, and some civilian personnel, for unauthorized release of information relating to UFO sightings."
+  },
+  {
+   "s": "afr",
+   "p": "revision_year",
+   "v": "1954",
+   "quote": "These were Joint-Army-Navy-Air Force Publication 147 (JANAP 146) of December 1953 and a 1954 revision of Air Force Regulation 200-2 (AFR 200-2) which introduced significant penalties on military, and some civilian personnel, for unauthorized release of information relating to UFO sightings."
+  },
+  {
+   "s": "afr",
+   "p": "effect",
+   "v": "significant penalties on military, and some civilian personnel, for unauthorized release of information relating to UFO sightings",
+   "quote": "These were Joint-Army-Navy-Air Force Publication 147 (JANAP 146) of December 1953 and a 1954 revision of Air Force Regulation 200-2 (AFR 200-2) which introduced significant penalties on military, and some civilian personnel, for unauthorized release of information relating to UFO sightings."
+  },
+  {
+   "s": "afr",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "These were Joint-Army-Navy-Air Force Publication 147 (JANAP 146) of December 1953 and a 1954 revision of Air Force Regulation 200-2 (AFR 200-2) which introduced significant penalties on military, and some civilian personnel, for unauthorized release of information relating to UFO sightings."
+  },
+  {
+   "s": "ruppeltbook",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Ruppelt's 1956 book The Report On Unidentified Flying Objects contained the first publicly released information about the Robertson Panel, with a summary of their proceedings and conclusions."
+  },
+  {
+   "s": "ruppeltbook",
+   "p": "publication_year",
+   "v": "1956",
+   "quote": "Ruppelt's 1956 book The Report On Unidentified Flying Objects contained the first publicly released information about the Robertson Panel, with a summary of their proceedings and conclusions."
+  },
+  {
+   "s": "ruppeltbook",
+   "p": "detail",
+   "v": "did not include the names of the Panel members, nor any institutional or governmental affiliations",
+   "quote": "Ruppelt's book did not include the names of the Panel members, nor any institutional or governmental affiliations."
+  },
+  {
+   "s": "cia",
+   "p": "proposed",
+   "o": "x_misp",
+   "quote": "The CIA analysts were broadly skeptical concerning the possibility that some UFO reports may represent extraterrestrial objects or objects of terrestrial (either American or Russian) manufacture, favouring the hypothesis that currently unidentified reports were misidentifications of conventional objects or natural phenomena."
+  }
+ ]
+}
