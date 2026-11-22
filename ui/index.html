@@ -217,7 +217,9 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
       <h2>Sighting reports by source</h2>
       <div class="legend" id="clslegend"></div>
       <div id="sources"></div>
-      <label class="wit"><input type="checkbox" id="wit3"> <span>Only reports stating 3 or more witnesses <b id="wit3n"></b></span></label>
+      <label class="rarity" for="wmin">Witnesses: <b id="wminv">any number, stated or not</b>
+        <input id="wmin" type="range" min="1" max="10" value="1">
+      </label>
       <p class="note" id="witnote"></p>
     </section>
     <section>
@@ -251,6 +253,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     </div>
     <div class="mapctl" id="mapctl">
       <button data-z="world">World</button><button data-z="na">N. America</button><button data-z="eu">Europe</button>
+      <button id="osm" aria-pressed="false" disabled title="Checking whether map tiles can load here">Street map</button>
       <button data-z="in" aria-label="Zoom in">+</button><button data-z="out" aria-label="Zoom out">−</button>
     </div>
     <div class="readout" id="readout"></div>
@@ -397,7 +400,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     return c;
   }
   const nukeIcons = [];
-  const S = { view: "map", y0: Y0, y1: Y1, ds: new Set(R.datasets.map((_, i) => i)), shape: null, wit3: false,
+  const S = { view: "map", y0: Y0, y1: Y1, ds: new Set(R.datasets.map((_, i) => i)), shape: null, wmin: 1,
     groups: new Set(GROUPS.filter((g) => g.on).map((g) => g.id)), maxDf: 3, sel: null };
   let vis = [new Int32Array(0), new Int32Array(0), new Int32Array(0)], nVis = 0, nVisMapped = 0;
   let onCases = new Set(), selCases = new Set(), onNet = new Set(), nearSet = null;
@@ -425,7 +428,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     if (redrawTimeline) tlCounts.fill(0);
     nVis = 0; nVisMapped = 0;
     for (let i = 0; i < N; i++) {
-      const y = rY[i], inYear = y >= S.y0 && y <= S.y1, dsOn = S.ds.has(rDs[i]), shOn = (S.shape === null || rSh[i] === S.shape) && (!S.wit3 || rW[i] >= 3);
+      const y = rY[i], inYear = y >= S.y0 && y <= S.y1, dsOn = S.ds.has(rDs[i]), shOn = (S.shape === null || rSh[i] === S.shape) && (S.wmin <= 1 || rW[i] >= S.wmin);
       if (redrawTimeline && dsOn && shOn) tlCounts[(y - Y0) * 3 + rCls[i]]++;
       if (!inYear) continue;
       if (shOn) dsCount[rDs[i]]++;
@@ -445,7 +448,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
   function updateReadout() {
     const nc = D.cases.filter((c) => c.kind === "case" && inRange(c)).length;
     $("readout").textContent = S.view === "map"
-      ? `${fmt(nVis)} reports in view of filters · ${fmt(nVisMapped)} mapped · ${nc} case files`
+      ? `${fmt(nVis)} reports in view of filters · ${fmt(nVisMapped)} mapped · ${nc} case files${S.osm ? " · map © OpenStreetMap contributors" : ""}`
       : `${netCount.cases} case files · ${netCount.ents} shared names · drag to rotate, scroll to zoom`;
   }
   const inRange = (c) => c.year == null || (Math.max(c.year, Y0) >= S.y0 && c.year <= S.y1);
@@ -461,10 +464,14 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
   });
   $("sources").replaceChildren(...srcBtns);
   {
-    const known = rW.reduce((n, w) => n + (w > 0), 0), three = rW.reduce((n, w) => n + (w >= 3), 0);
-    $("wit3n").textContent = `(${fmt(three)})`;
-    $("witnote").textContent = `Only ${fmt(known)} of ${fmt(N)} reports say how many people saw the object, so this hides almost everything. The count is read from the wording of NUFORC and UK summaries, and from the number of testimonies on file for GEIPAN. Blue Book and FAA records carry no count. Case files are not filtered.`;
-    $("wit3").addEventListener("change", (ev) => { S.wit3 = ev.target.checked; applyFilters(true); });
+    const known = rW.reduce((n, w) => n + (w > 0), 0);
+    $("witnote").textContent = `Only ${fmt(known)} of ${fmt(N)} reports say how many people saw the object, so moving the slider past 1 hides every report that does not say. The count is read from the wording of NUFORC and UK summaries, and from the number of testimonies on file for GEIPAN. Blue Book and FAA records carry no count. Case files are not filtered.`;
+    $("wmin").addEventListener("input", (ev) => {
+      S.wmin = +ev.target.value;
+      const n = S.wmin <= 1 ? 0 : rW.reduce((a, w) => a + (w >= S.wmin), 0);
+      $("wminv").textContent = S.wmin <= 1 ? "any number, stated or not" : `${S.wmin} or more stated (${fmt(n)} reports)`;
+      applyFilters(true);
+    });
   }
   function renderSources(counts) { srcBtns.forEach((b, i) => (b.querySelector(".ct").textContent = fmt(counts[i]))); }
   const shapeBtns = R.shapes.map((s, i) => {
@@ -501,17 +508,18 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
 
   // ================= map =================
   const canvas = $("mapcanvas"), ctx = canvas.getContext("2d"), stage = $("stage");
-  let W = 0, H = 0, dpr = 1, T = d3.zoomIdentity, proj, landPath, borderPath, statePath, spherePath, hover = null;
+  let W = 0, H = 0, dpr = 1, T = d3.zoomIdentity, proj, landPath, borderPath, statePath, hover = null;
   const mapped = D.cases.filter((c) => c.kind === "case" && c.lat != null);
   function setupProjection() {
     W = stage.clientWidth; H = stage.clientHeight; dpr = Math.min(2, window.devicePixelRatio || 1);
     canvas.width = Math.round(W * dpr); canvas.height = Math.round(H * dpr);
-    proj = d3.geoNaturalEarth1().fitExtent([[10, 44], [W - 10, H - 34]], { type: "Sphere" });
+    // Web Mercator, the projection map tiles use; the whole world is W pixels wide at zoom 1.
+    proj = d3.geoMercator().scale(W / (2 * Math.PI)).center([0, 0]).translate([W / 2, H / 2 + W * 0.09]);
     const path = d3.geoPath(proj);
-    spherePath = new Path2D(path({ type: "Sphere" })); landPath = new Path2D(path(GEO.land));
+    landPath = new Path2D(path(GEO.land));
     borderPath = new Path2D(path(GEO.borders)); statePath = new Path2D(path(GEO.states));
     for (let i = 0; i < N; i++) {
-      if (R.lat[i] == null) { rPx[i] = NaN; continue; }
+      if (R.lat[i] == null || Math.abs(R.lat[i]) > 85) { rPx[i] = NaN; continue; }
       const p = proj([R.lon[i], R.lat[i]]); rPx[i] = p[0]; rPy[i] = p[1];
     }
     for (const c of mapped) c.p = proj([c.lon, c.lat]);
@@ -522,12 +530,14 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     const { k, x, y } = T;
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
     ctx.fillStyle = C.bg; ctx.fillRect(0, 0, W, H);
-    ctx.save(); ctx.translate(x, y); ctx.scale(k, k);
-    ctx.fillStyle = C.sea; ctx.fill(spherePath);
-    ctx.fillStyle = C.land; ctx.fill(landPath);
-    ctx.strokeStyle = C.border; ctx.lineWidth = 0.7 / k; ctx.stroke(borderPath);
-    if (k > 2) { ctx.globalAlpha = 0.6; ctx.stroke(statePath); ctx.globalAlpha = 1; }
-    ctx.restore();
+    ctx.fillStyle = C.sea; ctx.fillRect(0, 0, W, H);
+    if (!(S.osm && drawTiles(k, x, y))) {
+      ctx.save(); ctx.translate(x, y); ctx.scale(k, k);
+      ctx.fillStyle = C.land; ctx.fill(landPath);
+      ctx.strokeStyle = C.border; ctx.lineWidth = 0.7 / k; ctx.stroke(borderPath);
+      if (k > 2) { ctx.globalAlpha = 0.6; ctx.stroke(statePath); ctx.globalAlpha = 1; }
+      ctx.restore();
+    }
     const r = Math.max(0.75, Math.min(2.2, 0.75 + 0.28 * Math.log2(k))), s = 2 * r;
     ctx.globalAlpha = C.dark ? 0.5 : 0.6;
     for (let c = 0; c < 3; c++) {
@@ -589,6 +599,36 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
       ctx.lineWidth = 3.5; ctx.strokeStyle = C.bg; ctx.strokeText(text, sx + 10, sy);
       ctx.fillStyle = C.fg; ctx.fillText(text, sx + 10, sy);
     }
+  }
+  // OpenStreetMap raster tiles, drawn under the data. Returns false until the tiles for this view have arrived.
+  const tiles = new Map();
+  let tileRedraw = false;
+  function tile(z, tx, ty) {
+    const key = z + "/" + tx + "/" + ty;
+    let t = tiles.get(key);
+    if (!t) {
+      t = new Image(); t.referrerPolicy = "strict-origin-when-cross-origin";
+      t.onload = () => { t.ok = true; if (!tileRedraw) { tileRedraw = true; requestAnimationFrame(() => { tileRedraw = false; drawMap(); }); } };
+      t.src = `https://tile.openstreetmap.org/${key}.png`;
+      tiles.set(key, t);
+      if (tiles.size > 500) tiles.delete(tiles.keys().next().value);
+    }
+    return t;
+  }
+  function drawTiles(k, x, y) {
+    const world = W * k, z = Math.max(0, Math.min(18, Math.round(Math.log2(world / 256)))), n = 2 ** z, ts = world / n;
+    const x0 = proj([-180, 0])[0] * k + x, y0 = proj([0, 85.0511])[1] * k + y;
+    const a = Math.max(0, Math.floor(-x0 / ts)), b = Math.min(n - 1, Math.floor((W - x0) / ts));
+    const c = Math.max(0, Math.floor(-y0 / ts)), d = Math.min(n - 1, Math.floor((H - y0) / ts));
+    let drawn = 0, wanted = 0;
+    ctx.globalAlpha = C.dark ? 0.5 : 0.9;
+    for (let tx = a; tx <= b; tx++) for (let ty = c; ty <= d; ty++) {
+      wanted++;
+      const t = tile(z, tx, ty);
+      if (t.ok) { ctx.drawImage(t, Math.round(x0 + tx * ts), Math.round(y0 + ty * ts), Math.ceil(ts) + 1, Math.ceil(ts) + 1); drawn++; }
+    }
+    ctx.globalAlpha = 1;
+    return wanted > 0 && drawn >= wanted * 0.5;
   }
   function arcs() {
     const s = S.sel, out = [];
@@ -669,12 +709,12 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     found.sort((a, b) => b - a);
     select({ kind: "reports", idx: found.slice(0, 80), total: found.length, title: "Reports at this spot" });
   });
-  const zoom = d3.zoom().scaleExtent([1, 80]).on("zoom", (ev) => { T = ev.transform; tip.hidden = true; drawMap(); });
+  const zoom = d3.zoom().scaleExtent([1, 900]).on("zoom", (ev) => { T = ev.transform; tip.hidden = true; drawMap(); });
   d3.select(canvas).call(zoom).on("dblclick.zoom", null);
   const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
   function zoomBox(lon0, lat0, lon1, lat1, animate = true) {
     const a = proj([lon0, lat1]), b = proj([lon1, lat0]);
-    const k = Math.min(80, 0.92 * Math.min(W / Math.abs(b[0] - a[0]), H / Math.abs(b[1] - a[1])));
+    const k = Math.min(900, 0.92 * Math.min(W / Math.abs(b[0] - a[0]), H / Math.abs(b[1] - a[1])));
     const t = d3.zoomIdentity.translate(W / 2 - k * (a[0] + b[0]) / 2, H / 2 - k * (a[1] + b[1]) / 2).scale(k);
     (animate && !reduced ? d3.select(canvas).transition().duration(600) : d3.select(canvas)).call(zoom.transform, t);
   }
@@ -691,6 +731,17 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     else if (z === "eu") zoomBox(-12, 36, 24, 60);
     else if (z) d3.select(canvas).transition().duration(reduced ? 0 : 200).call(zoom.scaleBy, z === "in" ? 1.6 : 1 / 1.6);
   });
+
+  // Street map: only where the page is allowed to load OpenStreetMap tiles (not inside the claude.ai viewer).
+  S.osm = false;
+  {
+    const btn = $("osm"), probe = new Image();
+    const set = (on) => { S.osm = on; btn.setAttribute("aria-pressed", String(on)); btn.style.background = on ? "var(--fg)" : ""; btn.style.color = on ? "var(--bg)" : ""; updateReadout(); drawMap(); };
+    probe.onload = () => { btn.disabled = false; btn.title = "Show OpenStreetMap under the data"; set(true); };
+    probe.onerror = () => { btn.title = "Map tiles are blocked in this viewer. They work in the copy you run yourself."; btn.style.opacity = "0.5"; };
+    probe.src = "https://tile.openstreetmap.org/0/0/0.png";
+    btn.addEventListener("click", () => set(!S.osm));
+  }
 
   // ================= timeline =================
   const tl = d3.select("#timeline"), years = d3.range(Y0, Y1 + 1);

@@ -86,3 +86,18 @@ The container is a small nginx server holding the dashboard and its data
 built, so the running dashboard needs no internet access apart from web fonts,
 which fall back to system fonts. The data pipeline is not in the image; it is
 run separately with Python when the data needs rebuilding.
+
+## YouTube transcripts
+
+YouTube refuses transcript requests from cloud servers, so transcripts are
+fetched from a home connection:
+
+```bash
+docker compose run --rm transcripts
+```
+
+This saves one file per video of the American Alchemy channel to
+`data/youtube/` (pass another channel URL to `pipeline/fetch_youtube.py` to
+change it). `python3 pipeline/add_transcripts.py` then turns them into source
+files for extraction. The transcripts are the channel's copyrighted content;
+keep the repository private if you commit them.
