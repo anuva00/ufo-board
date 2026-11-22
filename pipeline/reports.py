@@ -67,6 +67,28 @@ def shape_from_text(text):
     return "unknown"
 
 
+NUMWORD = {"two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "seven": 7, "eight": 8, "nine": 9, "ten": 10, "eleven": 11, "twelve": 12,
+           "couple": 2, "both": 2, "several": 3, "many": 3, "multiple": 3, "numerous": 3, "dozen": 12, "dozens": 24, "hundreds": 99, "thousands": 99}
+WHO = r"(?:other\s+|more\s+|independent\s+|separate\s+|adult\s+)?(?:witness(?:es)?|people|persons|observers|of us|adults|friends|family members|officers|police officers|pilots|neighbou?rs|co-?workers|students|children|kids|men|women|residents|motorists|drivers|passengers|crew members|airmen|soldiers|callers|reports from)"
+W_NUM = re.compile(r"\b(\d{1,4}|" + "|".join(NUMWORD) + r")\s+(?:of\s+)?" + WHO + r"\b", re.I)
+W_PAIR = re.compile(r"\b(?:my|me and my|i and my)\s+(?:wife|husband|friend|son|daughter|brother|sister|mother|father|mom|dad|girlfriend|boyfriend|partner|fiance|neighbou?r|cousin|co-?worker)\b|\b(?:wife|husband|friend|son|daughter|brother|sister|girlfriend|boyfriend) and (?:i|me)\b", re.I)
+
+
+def witnesses(text):
+    """Number of witnesses a summary states, or 0 when it does not say.
+    Vague words ("several", "many") count as 3; "my wife and I" as 2."""
+    best = 0
+    for m in W_NUM.finditer(text or ""):
+        v = m[1].lower()
+        n = int(v) if v.isdigit() else NUMWORD[v]
+        if re.search(r"of us|other|more", m[0], re.I) and not re.search(r"of us", m[0], re.I):
+            n += 1                                   # "two other people" includes the reporter
+        best = max(best, min(n, 99))
+    if not best and W_PAIR.search(text or ""):
+        best = 2
+    return best
+
+
 def clean(text, n=260):
     t = html.unescape(html.unescape(text or "")).replace("&#44", ",").replace("\ufffd", "")
     t = re.sub(r"\s+", " ", t).strip()
@@ -255,7 +277,8 @@ def load_nuforc():
             place = ", ".join(x for x in (r[1].title(), r[2].upper(), r[3].upper() if r[3] not in ("us", "") else "") if x)
             rows.append({"ds": "nuforc", "y": int(m[3]), "m": int(m[1]), "d": int(m[2]), "lat": lat, "lon": lon,
                          "city": r[1], "state": r[2], "country": r[3], "place": place,
-                         "shape": NUFORC_SHAPE.get(r[4].strip().lower(), "unknown"), "sum": clean(r[7]), "ref": ""})
+                         "shape": NUFORC_SHAPE.get(r[4].strip().lower(), "unknown"), "sum": clean(r[7]), "ref": "",
+                         "w": witnesses(clean(r[7], 2000))})
     return rows
 
 
@@ -298,6 +321,13 @@ def load_geipan():
     it = ws.iter_rows(values_only=True)
     hdr = list(next(it))
     rows = []
+    tem = Counter()                                  # testimonies on file per case: a lower bound on witnesses
+    tpath = RAW / "geipan/tem.xlsx"
+    if tpath.exists():
+        tw = openpyxl.load_workbook(tpath, read_only=True).active
+        for i, v in enumerate(tw.iter_rows(values_only=True)):
+            if i and v[0]:
+                tem[re.sub(r"\s+T\d+\s*$", "", str(v[0])).strip()] += 1
     for vals in it:
         r = dict(zip(hdr, vals))
         dm = re.match(r"(\d\d|--)/(\d\d|--)/(\d{4})", str(r.get("Observation date") or ""))
@@ -314,7 +344,7 @@ def load_geipan():
                      "lat": lat, "lon": lon, "place": ", ".join(x for x in (title, str(r.get("Department") or "")) if x), "country": "FR",
                      "shape": shape_from_text(text), "cls": str(r.get("Classification") or "")[:2],
                      "sum": clean(f"[GEIPAN class {r.get('Classification')}] " + str(r.get("Identification") or r.get("Détails") or "")),
-                     "ref": str(r["ID Etude de Cas"])})
+                     "ref": str(r["ID Etude de Cas"]), "w": min(99, tem.get(str(r.get("Titre du Cas") or "").strip(), 0))})
     return rows
 
 
@@ -342,7 +372,7 @@ def load_moduk(gaz):
                         occ = cells[4] if cells[4] and "where" not in cells[4].lower() else ""
                         rows.append({"ds": "moduk", "y": year, "m": mon, "d": day, "lat": pos[0] if pos else None, "lon": pos[1] if pos else None,
                                      "place": ", ".join(x for x in (town, area) if x and x.lower() != "not given"), "country": "GB",
-                                     "shape": shape_from_text(cells[-1]), "sum": clean((f"[{occ}] " if occ else "") + cells[-1]),
+                                     "shape": shape_from_text(cells[-1]), "w": witnesses(cells[-1]), "sum": clean((f"[{occ}] " if occ else "") + cells[-1]),
                                      "ref": urls.get(str(year), "")})
     print("  moduk:", dict(stats))
     return rows
@@ -415,11 +445,13 @@ def main():
     mapped = Counter(r["ds"] for r in rows if r["lat"] is not None)
     for d in DATASETS:
         d["n"], d["mapped"] = counts[d["id"]], mapped[d["id"]]
-        print(f"  {d['id']:9s} {d['n']:6d} reports, {d['mapped']:6d} mapped")
+        d["w_known"] = sum(1 for r in rows if r["ds"] == d["id"] and r.get("w", 0) > 0)
+        d["w3"] = sum(1 for r in rows if r["ds"] == d["id"] and r.get("w", 0) >= 3)
+        print(f"  {d['id']:9s} {d['n']:6d} reports, {d['mapped']:6d} mapped, witnesses stated {d['w_known']:6d}, 3 or more {d['w3']:6d}")
     cols = {"ds": [DS[r["ds"]] for r in rows], "y": [r["y"] for r in rows], "m": [r["m"] for r in rows],
             "lat": [None if r["lat"] is None else round(r["lat"], 2) for r in rows],
             "lon": [None if r["lon"] is None else round(r["lon"], 2) for r in rows],
-            "sh": [SH[r["shape"]] for r in rows]}
+            "sh": [SH[r["shape"]] for r in rows], "w": [r.get("w", 0) for r in rows]}
     UI.mkdir(exist_ok=True)
     (UI / "reports.json").write_text(json.dumps({"datasets": DATASETS, "shapes": SHAPES, "chunk": CHUNK, "n": len(rows), **cols}, separators=(",", ":")))
     rep = UI / "rep"

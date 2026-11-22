@@ -107,6 +107,8 @@ a { color: inherit; text-decoration-color: var(--link); text-underline-offset: 2
 .nk[aria-pressed="false"] { color: var(--muted); }
 .nk[aria-pressed="false"] svg { opacity: .35; }
 .rail h2 + .sub2, .sub2 { font-size: 11px; color: var(--muted); margin: 10px 0 4px; letter-spacing: .04em; }
+.wit { display: flex; gap: 8px; align-items: flex-start; margin: 10px 4px 0; cursor: pointer; }
+.wit input { accent-color: var(--link); margin: 2px 0 0; }
 .rarity { display: block; margin-top: 10px; font-size: 12px; color: var(--fg2); }
 .rarity input { width: 100%; accent-color: var(--link); margin-top: 4px; }
 .note { color: var(--muted); font-size: 11px; margin: 8px 0 0; }
@@ -215,6 +217,8 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
       <h2>Sighting reports by source</h2>
       <div class="legend" id="clslegend"></div>
       <div id="sources"></div>
+      <label class="wit"><input type="checkbox" id="wit3"> <span>Only reports stating 3 or more witnesses <b id="wit3n"></b></span></label>
+      <p class="note" id="witnote"></p>
     </section>
     <section>
       <h2>Reported shape</h2>
@@ -303,7 +307,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
   const CLASS = [{ name: "Civilian hotline", v: "--c0" }, { name: "US government", v: "--c1" }, { name: "Other governments", v: "--c2" }];
   const CLS_OF = { nuforc: 0, bluebook: 1, faa: 1, geipan: 2, moduk: 2 };
   const dsCls = R.datasets.map((d) => CLS_OF[d.id]);
-  const rDs = Uint8Array.from(R.ds), rY = Uint16Array.from(R.y, (y) => Math.max(y, Y0)), rM = Uint8Array.from(R.m), rSh = Uint8Array.from(R.sh);
+  const rDs = Uint8Array.from(R.ds), rY = Uint16Array.from(R.y, (y) => Math.max(y, Y0)), rM = Uint8Array.from(R.m), rSh = Uint8Array.from(R.sh), rW = Uint8Array.from(R.w || new Array(R.n).fill(0));
   const rCls = Uint8Array.from(R.ds, (d) => dsCls[d]);
   const rPx = new Float32Array(N), rPy = new Float32Array(N);
   const cases = new Map(D.cases.map((c) => [c.id, c]));
@@ -393,7 +397,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     return c;
   }
   const nukeIcons = [];
-  const S = { view: "map", y0: Y0, y1: Y1, ds: new Set(R.datasets.map((_, i) => i)), shape: null,
+  const S = { view: "map", y0: Y0, y1: Y1, ds: new Set(R.datasets.map((_, i) => i)), shape: null, wit3: false,
     groups: new Set(GROUPS.filter((g) => g.on).map((g) => g.id)), maxDf: 3, sel: null };
   let vis = [new Int32Array(0), new Int32Array(0), new Int32Array(0)], nVis = 0, nVisMapped = 0;
   let onCases = new Set(), selCases = new Set(), onNet = new Set(), nearSet = null;
@@ -421,7 +425,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     if (redrawTimeline) tlCounts.fill(0);
     nVis = 0; nVisMapped = 0;
     for (let i = 0; i < N; i++) {
-      const y = rY[i], inYear = y >= S.y0 && y <= S.y1, dsOn = S.ds.has(rDs[i]), shOn = S.shape === null || rSh[i] === S.shape;
+      const y = rY[i], inYear = y >= S.y0 && y <= S.y1, dsOn = S.ds.has(rDs[i]), shOn = (S.shape === null || rSh[i] === S.shape) && (!S.wit3 || rW[i] >= 3);
       if (redrawTimeline && dsOn && shOn) tlCounts[(y - Y0) * 3 + rCls[i]]++;
       if (!inYear) continue;
       if (shOn) dsCount[rDs[i]]++;
@@ -456,6 +460,12 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     return b;
   });
   $("sources").replaceChildren(...srcBtns);
+  {
+    const known = rW.reduce((n, w) => n + (w > 0), 0), three = rW.reduce((n, w) => n + (w >= 3), 0);
+    $("wit3n").textContent = `(${fmt(three)})`;
+    $("witnote").textContent = `Only ${fmt(known)} of ${fmt(N)} reports say how many people saw the object, so this hides almost everything. The count is read from the wording of NUFORC and UK summaries, and from the number of testimonies on file for GEIPAN. Blue Book and FAA records carry no count. Case files are not filtered.`;
+    $("wit3").addEventListener("change", (ev) => { S.wit3 = ev.target.checked; applyFilters(true); });
+  }
   function renderSources(counts) { srcBtns.forEach((b, i) => (b.querySelector(".ct").textContent = fmt(counts[i]))); }
   const shapeBtns = R.shapes.map((s, i) => {
     const b = h("button", { class: "bar", "aria-pressed": "false" }, h("span", { class: "nm" }, s), h("span", { class: "track" }, h("span", { class: "fill" })), h("span", { class: "ct" }));
@@ -920,7 +930,8 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
         const date = [day || null, rM[i] ? MON[rM[i]] : null, R.y[i]].filter(Boolean).join(" ");
         return h("div", { class: "rep" },
           h("div", { class: "hd" }, h("span", { class: "tag", style: `--sw: var(${CLASS[dsCls[rDs[i]]].v})` }, h("i"), ds.name), h("b", {}, date), h("span", {}, place || "place not stated"),
-            R.shapes[rSh[i]] !== "unknown" ? h("span", {}, R.shapes[rSh[i]]) : null),
+            R.shapes[rSh[i]] !== "unknown" ? h("span", {}, R.shapes[rSh[i]]) : null,
+            rW[i] ? h("span", {}, rW[i] >= 99 ? "100+ witnesses" : `${rW[i]} witness${rW[i] === 1 ? "" : "es"} stated`) : null),
           sum ? h("p", {}, sum) : h("p", { class: "empty" }, "No description in the catalogue record; the scanned file is at the link."),
           url ? h("a", { href: url, target: "_blank", rel: "noopener" }, ds.gov ? "Open the government record" : "Open the record") : null);
       }));
