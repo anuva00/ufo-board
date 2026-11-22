@@ -1,0 +1,2190 @@
+{
+ "slug": "united-states-ufo-files",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "United States UFO files",
+   "description": "Collection of declassified US government UFO/UAP records released through the PURSUE website beginning May 8, 2026.",
+   "aliases": [
+    "Presidential Unsealing and Reporting System for UAP Encounters",
+    "PURSUE",
+    "UFO files",
+    "UAP files"
+   ]
+  },
+  {
+   "key": "trump",
+   "type": "person",
+   "name": "Donald Trump",
+   "description": "US President whose administration released the files"
+  },
+  {
+   "key": "obama",
+   "type": "person",
+   "name": "Barack Obama",
+   "description": "Stated disbelief in anomalous explanations for UFOs"
+  },
+  {
+   "key": "clinton",
+   "type": "person",
+   "name": "Bill Clinton",
+   "description": "Stated disbelief in anomalous explanations for UFOs"
+  },
+  {
+   "key": "truth",
+   "type": "organization",
+   "name": "Truth Social",
+   "description": "Social media platform on which Trump posted about the release"
+  },
+  {
+   "key": "pentvid",
+   "type": "case",
+   "name": "Pentagon UFO videos",
+   "description": "Videos whose public disclosure preceded the release"
+  },
+  {
+   "key": "aaro",
+   "type": "organization",
+   "name": "All-domain Anomaly Resolution Office",
+   "description": "Department of Defense office created by Congress in 2022 to investigate anomalous incidents",
+   "aliases": [
+    "AARO"
+   ]
+  },
+  {
+   "key": "congress",
+   "type": "organization",
+   "name": "United States Congress",
+   "description": "US legislature; members pressed for disclosure and created AARO",
+   "aliases": [
+    "Congress",
+    "U.S. Congress"
+   ]
+  },
+  {
+   "key": "dod",
+   "type": "organization",
+   "name": "United States Department of Defense",
+   "description": "Department that launched PURSUE and released the files",
+   "aliases": [
+    "Department of Defense",
+    "Pentagon",
+    "DOD",
+    "U.S. Department of Defense",
+    "Department of War"
+   ]
+  },
+  {
+   "key": "nyt",
+   "type": "organization",
+   "name": "The New York Times",
+   "description": "Newspaper that disclosed the Pentagon UFO videos in 2017 and described the released images",
+   "aliases": [
+    "New York Times"
+   ]
+  },
+  {
+   "key": "wapo",
+   "type": "organization",
+   "name": "The Washington Post",
+   "description": "Newspaper quoted on the background"
+  },
+  {
+   "key": "milcom",
+   "type": "organization",
+   "name": "Military.com",
+   "description": "News outlet that reported on the creation of AARO"
+  },
+  {
+   "key": "nasa",
+   "type": "organization",
+   "name": "NASA",
+   "description": "US space agency; conducted a 2022 inquiry and contributed files"
+  },
+  {
+   "key": "doe",
+   "type": "organization",
+   "name": "United States Department of Energy",
+   "description": "Federal department involved in the transparency initiative",
+   "aliases": [
+    "Department of Energy"
+   ]
+  },
+  {
+   "key": "odni",
+   "type": "organization",
+   "name": "Office of the Director of National Intelligence",
+   "description": "Federal office involved in the transparency initiative"
+  },
+  {
+   "key": "fbi",
+   "type": "organization",
+   "name": "Federal Bureau of Investigation",
+   "description": "Federal agency involved; source of files",
+   "aliases": [
+    "FBI"
+   ]
+  },
+  {
+   "key": "cia",
+   "type": "organization",
+   "name": "Central Intelligence Agency",
+   "description": "Intelligence agency that was a source of files",
+   "aliases": [
+    "CIA"
+   ]
+  },
+  {
+   "key": "state",
+   "type": "organization",
+   "name": "United States Department of State",
+   "description": "Source of files in the fifth release",
+   "aliases": [
+    "State Department"
+   ]
+  },
+  {
+   "key": "potus",
+   "type": "organization",
+   "name": "Office of the President",
+   "description": "Source of files in the fifth release",
+   "aliases": [
+    "office of the President"
+   ]
+  },
+  {
+   "key": "luna",
+   "type": "person",
+   "name": "Anna Paulina Luna",
+   "description": "Republican member of Congress who pressed for disclosure"
+  },
+  {
+   "key": "burchett",
+   "type": "person",
+   "name": "Tim Burchett",
+   "description": "Republican member of Congress, supporter of the disclosure movement"
+  },
+  {
+   "key": "xcom",
+   "type": "organization",
+   "name": "X",
+   "description": "Social media platform, formerly Twitter",
+   "aliases": [
+    "Twitter"
+   ]
+  },
+  {
+   "key": "ap",
+   "type": "organization",
+   "name": "Associated Press",
+   "description": "News agency that reported on Luna's demand"
+  },
+  {
+   "key": "hegseth",
+   "type": "person",
+   "name": "Pete Hegseth",
+   "description": "Secretary of Defense"
+  },
+  {
+   "key": "gabbard",
+   "type": "person",
+   "name": "Tulsi Gabbard",
+   "description": "Director of National Intelligence"
+  },
+  {
+   "key": "newsci",
+   "type": "organization",
+   "name": "New Scientist",
+   "description": "Magazine that said the Moon-mission images had already been explained"
+  },
+  {
+   "key": "moon",
+   "type": "place",
+   "name": "Moon",
+   "description": "Destination of US crewed missions whose images and transcripts were released"
+  },
+  {
+   "key": "x_cam",
+   "type": "explanation",
+   "name": "camera-artifact",
+   "description": "Camera or film defects / optical artefacts"
+  },
+  {
+   "key": "x_micro",
+   "type": "explanation",
+   "name": "other:micrometeoroid impacts",
+   "description": "Micrometeoroid impacts on the Moon or the spacecraft"
+  },
+  {
+   "key": "x_debris",
+   "type": "explanation",
+   "name": "other:debris",
+   "description": "Bits of floating debris"
+  },
+  {
+   "key": "x_balloon",
+   "type": "explanation",
+   "name": "balloon",
+   "description": "Balloons"
+  },
+  {
+   "key": "x_misp",
+   "type": "explanation",
+   "name": "misperception",
+   "description": "Unreliable eyewitness accounts"
+  },
+  {
+   "key": "aldrin",
+   "type": "person",
+   "name": "Buzz Aldrin",
+   "description": "American astronaut aboard Apollo 11 whose descriptions appear in released transcripts"
+  },
+  {
+   "key": "apollo11",
+   "type": "program",
+   "name": "Apollo 11",
+   "description": "US crewed space mission / spacecraft",
+   "aliases": [
+    "Apollo 11 spacecraft"
+   ]
+  },
+  {
+   "key": "transcripts",
+   "type": "document",
+   "name": "Apollo mission transcripts",
+   "description": "NASA transcripts of astronauts among the released documents"
+  },
+  {
+   "key": "apollo17",
+   "type": "program",
+   "name": "Apollo 17",
+   "description": "US crewed space mission",
+   "aliases": [
+    "Apollo 17 flight"
+   ]
+  },
+  {
+   "key": "a17photo",
+   "type": "document",
+   "name": "Apollo 17 photograph of three dots",
+   "description": "Photograph showing three dots in a triangular formation in the lunar sky"
+  },
+  {
+   "key": "apollo12",
+   "type": "program",
+   "name": "Apollo 12",
+   "description": "US crewed space mission",
+   "aliases": [
+    "Apollo 12 space mission"
+   ]
+  },
+  {
+   "key": "greene",
+   "type": "person",
+   "name": "Marjorie Taylor Greene",
+   "description": "Former member of the US House of Representatives who commented on the release"
+  },
+  {
+   "key": "house",
+   "type": "organization",
+   "name": "United States House of Representatives",
+   "description": "Lower chamber of the US Congress"
+  },
+  {
+   "key": "ign",
+   "type": "organization",
+   "name": "IGN",
+   "description": "Media outlet that reported fan reaction"
+  },
+  {
+   "key": "whitehouse",
+   "type": "person",
+   "name": "David Whitehouse",
+   "description": "Astrophysicist and former BBC science journalist"
+  },
+  {
+   "key": "bbc",
+   "type": "organization",
+   "name": "BBC",
+   "description": "Broadcaster for which David Whitehouse was a science journalist"
+  },
+  {
+   "key": "narlock",
+   "type": "person",
+   "name": "Michael Narlock",
+   "description": "Astronomer at the Cranbrook Institute of Science"
+  },
+  {
+   "key": "cranbrook",
+   "type": "organization",
+   "name": "Cranbrook Institute of Science",
+   "description": "Institute employing Michael Narlock"
+  },
+  {
+   "key": "shostak",
+   "type": "person",
+   "name": "Seth Shostak",
+   "description": "Senior astronomer at the SETI Institute"
+  },
+  {
+   "key": "seti",
+   "type": "organization",
+   "name": "SETI Institute",
+   "description": "Institute employing Seth Shostak"
+  },
+  {
+   "key": "cbs",
+   "type": "organization",
+   "name": "CBS News",
+   "description": "News organisation that asked Shostak to react"
+  },
+  {
+   "key": "kirkpatrick",
+   "type": "person",
+   "name": "Sean M. Kirkpatrick",
+   "description": "Physicist and former director of AARO"
+  },
+  {
+   "key": "greenstreet",
+   "type": "person",
+   "name": "Steven Greenstreet",
+   "description": "New York Post video editor"
+  },
+  {
+   "key": "nypost",
+   "type": "organization",
+   "name": "New York Post",
+   "description": "Newspaper employing Steven Greenstreet"
+  },
+  {
+   "key": "colavito",
+   "type": "person",
+   "name": "Jason Colavito",
+   "description": "Writer"
+  },
+  {
+   "key": "west",
+   "type": "person",
+   "name": "Mick West",
+   "description": "Writer"
+  },
+  {
+   "key": "stone",
+   "type": "person",
+   "name": "Perry Stone",
+   "description": "Evangelist pastor"
+  },
+  {
+   "key": "parnell",
+   "type": "person",
+   "name": "Sean Parnell",
+   "description": "Chief Pentagon spokesperson"
+  },
+  {
+   "key": "iran22",
+   "type": "case",
+   "name": "2022 Iran UFO formation video",
+   "description": "Video of four UFOs in formation near Iran in 2022, captured by US military infrared systems"
+  },
+  {
+   "key": "iran",
+   "type": "place",
+   "name": "Iran",
+   "description": "Country near which four UFOs were filmed in 2022"
+  },
+  {
+   "key": "c_iran",
+   "type": "craft",
+   "name": "four UFOs in formation near Iran",
+   "description": "Objects in the 2022 infrared video"
+  },
+  {
+   "key": "f_video",
+   "type": "feature",
+   "name": "film-or-video",
+   "description": "Videos"
+  },
+  {
+   "key": "f_photo",
+   "type": "feature",
+   "name": "photograph",
+   "description": "Photographs"
+  },
+  {
+   "key": "kosloski",
+   "type": "person",
+   "name": "Jon Kosloski",
+   "description": "Director of AARO",
+   "aliases": [
+    "Dr. Jon Kosloski"
+   ]
+  },
+  {
+   "key": "kreport",
+   "type": "document",
+   "name": "Report dated June 5, 2026 by Jon Kosloski",
+   "description": "AARO director's report detailing an orange \"mother orb\" launching smaller red orbs"
+  },
+  {
+   "key": "c_orb",
+   "type": "craft",
+   "name": "orange \"mother orb\"",
+   "description": "Orange orb seen launching smaller red orbs"
+  },
+  {
+   "key": "c_cigar",
+   "type": "craft",
+   "name": "\"cigar-shaped\" object at a restricted government test facility",
+   "description": "Object claimed by witnesses in the initial tranche"
+  },
+  {
+   "key": "c_leorb",
+   "type": "craft",
+   "name": "orbs launching other orbs",
+   "description": "Orbs in land law enforcement reports and video"
+  },
+  {
+   "key": "f_cyl",
+   "type": "feature",
+   "name": "shape-cylinder",
+   "description": "Cigar-shaped object"
+  },
+  {
+   "key": "f_sphere",
+   "type": "feature",
+   "name": "shape-sphere",
+   "description": "Orbs"
+  },
+  {
+   "key": "f_police",
+   "type": "feature",
+   "name": "police-witnesses",
+   "description": "Law enforcement reports"
+  },
+  {
+   "key": "f_disc",
+   "type": "feature",
+   "name": "shape-disc",
+   "description": "Discs"
+  },
+  {
+   "key": "f_base",
+   "type": "feature",
+   "name": "military-base-proximity",
+   "description": "Sightings near military facilities and restricted airspace"
+  },
+  {
+   "key": "f_mil",
+   "type": "feature",
+   "name": "military-witnesses",
+   "description": "Military personnel as witnesses"
+  },
+  {
+   "key": "f_pilot",
+   "type": "feature",
+   "name": "pilot-witnesses",
+   "description": "Pilot accounts"
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "Official investigations"
+  },
+  {
+   "key": "f_hearing",
+   "type": "feature",
+   "name": "congressional-hearing",
+   "description": "Congressional hearings"
+  },
+  {
+   "key": "f_cover",
+   "type": "feature",
+   "name": "alleged-cover-up",
+   "description": "Allegations of government concealment"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "Several witnesses"
+  },
+  {
+   "key": "nm49",
+   "type": "case",
+   "name": "1949 New Mexico UFO sightings",
+   "description": "1949 UFO sightings in New Mexico associated with green fireballs",
+   "aliases": [
+    "1949 UFO sightings in New Mexico"
+   ]
+  },
+  {
+   "key": "newmexico",
+   "type": "place",
+   "name": "New Mexico",
+   "description": "US state of the 1949 sightings"
+  },
+  {
+   "key": "chey22",
+   "type": "case",
+   "name": "2022 Cheyenne Mountain Complex sighting",
+   "description": "Five US soldiers reported a white potato-shaped object over Cheyenne Mountain Complex"
+  },
+  {
+   "key": "cheyenne",
+   "type": "place",
+   "name": "Cheyenne Mountain Complex",
+   "description": "Military facility in Colorado Springs"
+  },
+  {
+   "key": "cosprings",
+   "type": "place",
+   "name": "Colorado Springs, Colorado",
+   "description": "City of the Cheyenne Mountain Complex",
+   "aliases": [
+    "Colorado Springs"
+   ]
+  },
+  {
+   "key": "c_potato",
+   "type": "craft",
+   "name": "white potato-shaped object over Cheyenne Mountain Complex",
+   "description": "Object reported by five US soldiers in 2022"
+  },
+  {
+   "key": "f_other",
+   "type": "feature",
+   "name": "shape-other",
+   "description": "Potato-shaped object"
+  },
+  {
+   "key": "ciaconf",
+   "type": "document",
+   "name": "1992 CIA confession",
+   "description": "CIA statement that it could not reveal the true cause of UFO sightings and that Project Blue Book gave false explanations"
+  },
+  {
+   "key": "bluebook",
+   "type": "program",
+   "name": "Project Blue Book",
+   "description": "Programme said by the CIA to have given the public false explanations"
+  },
+  {
+   "key": "roswell",
+   "type": "case",
+   "name": "Roswell incident",
+   "description": "1947 incident on which reports and an eyewitness account were released"
+  },
+  {
+   "key": "haut",
+   "type": "person",
+   "name": "Walter Haut",
+   "description": "Author of a 2002 eyewitness account of the Roswell incident"
+  },
+  {
+   "key": "hautdoc",
+   "type": "document",
+   "name": "Walter Haut's 2002 eyewitness account",
+   "description": "Eyewitness account of the Roswell incident included in the seventh release"
+  },
+  {
+   "key": "trem52",
+   "type": "case",
+   "name": "1952 Tremonton, Utah sighting",
+   "description": "Film made in July 1952 at Tremonton, Utah"
+  },
+  {
+   "key": "tremonton",
+   "type": "place",
+   "name": "Tremonton, Utah",
+   "description": "Town where the July 1952 film was made"
+  },
+  {
+   "key": "tremfilm",
+   "type": "document",
+   "name": "Film made in July 1952 at Tremonton, Utah",
+   "description": "Film a copy of which was in the sixth release"
+  },
+  {
+   "key": "robertson",
+   "type": "case",
+   "name": "Robertson Panel",
+   "description": "Panel that examined the Tremonton film in 1953"
+  },
+  {
+   "key": "x_bird",
+   "type": "explanation",
+   "name": "bird-or-animal",
+   "description": "A group of birds"
+  },
+  {
+   "key": "aatip",
+   "type": "case",
+   "name": "Advanced Aerospace Threat Identification Program",
+   "description": "US programme to study UFOs (2007-2012)"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "2026-05-08",
+   "quote": "released by the administration of Donald Trump beginning on May 8, 2026"
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "The United States UFO files, officially known as the Presidential Unsealing and Reporting System for UAP Encounters (PURSUE), also referred to as the UFO files or the UAP files, are a collection of declassified United States government records concerning UFOs"
+  },
+  {
+   "s": "case",
+   "p": "official_name",
+   "v": "Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)",
+   "quote": "The United States UFO files, officially known as the Presidential Unsealing and Reporting System for UAP Encounters (PURSUE), also referred to as the UFO files or the UAP files, are a collection of declassified United States government records concerning UFOs"
+  },
+  {
+   "s": "case",
+   "p": "publication_method",
+   "v": "published through PURSUE, a government website created to release reviewed UAP-related material",
+   "quote": "The files were published through the Presidential Unsealing and Reporting System for UAP Encounters (PURSUE), a government website created to release reviewed UAP-related material to the public."
+  },
+  {
+   "s": "case",
+   "p": "first_release_contents",
+   "v": "reports, photographs, videos, witness accounts, military records, astronaut transcripts, and other historical materials",
+   "quote": "The first release included reports, photographs, videos, witness accounts, military records, astronaut transcripts, and other historical materials connected to unresolved sightings and investigations dating from 1944 and 1945 to recent years."
+  },
+  {
+   "s": "case",
+   "p": "records_date_range",
+   "v": "1944 and 1945 to recent years",
+   "quote": "connected to unresolved sightings and investigations dating from 1944 and 1945 to recent years"
+  },
+  {
+   "s": "case",
+   "p": "finding",
+   "v": "first release did not confirm the existence of extraterrestrial life",
+   "quote": "The first release of records did not confirm the existence of extraterrestrial life."
+  },
+  {
+   "s": "case",
+   "p": "release_date",
+   "v": "second release 2026-05-22",
+   "quote": "The second release of files was on May 22, 2026."
+  },
+  {
+   "s": "case",
+   "p": "release_date",
+   "v": "third release 2026-06-12; fourth 2026-07-10; fifth 2026-08-07",
+   "quote": "The third release was on June 12 of that same year, the fourth on July 10, and the fifth on August 7."
+  },
+  {
+   "s": "case",
+   "p": "release_date",
+   "v": "fifth release 2026-08-08 (per section text)",
+   "quote": "The fifth release was on August 8, 2026."
+  },
+  {
+   "s": "case",
+   "p": "release_date",
+   "v": "sixth release 2026-09-18",
+   "quote": "The sixth release was on September 18, 2026."
+  },
+  {
+   "s": "case",
+   "p": "release_date",
+   "v": "seventh release 2026-10-23",
+   "quote": "The seventh release was on October 23, 2026."
+  },
+  {
+   "s": "case",
+   "p": "release_date",
+   "v": "eighth release 2026-11-20",
+   "quote": "The eighth release was on November 20, 2026."
+  },
+  {
+   "s": "case",
+   "p": "release_process",
+   "v": "rolling disclosure process with additional materials to be posted as reviewed and declassified",
+   "quote": "Officials described it as the beginning of a rolling disclosure process, with additional materials to be posted as they were reviewed and declassified."
+  },
+  {
+   "s": "case",
+   "p": "first_release_file_count",
+   "v": "more than 160 files",
+   "quote": "The first tranche of documents included more than 160 files containing military reports, witness interviews, pilot accounts, government memos, photographs, and videos connected to UAP sightings dating back decades."
+  },
+  {
+   "s": "case",
+   "p": "first_release_video_count",
+   "v": "20",
+   "quote": "included both documents and 20 videos, showing what the New York Times described as \"murky still images that show what could be anything\""
+  },
+  {
+   "s": "case",
+   "p": "first_release_contents",
+   "v": "Apollo mission photos, NASA transcripts of astronauts discussing lunar UFOs, witnesses claiming \"cigar-shaped\" object at a restricted government test facility, law enforcement reports of \"orbs launching other orbs\"",
+   "quote": "Included in the initial tranche of videos and material are Apollo mission photos, NASA transcripts of astronauts discussing lunar UFOs, witnesses claiming \"cigar-shaped\" object at a restricted government test facility, and land law enforcement reports of \"orbs launching other orbs\"."
+  },
+  {
+   "s": "case",
+   "p": "first_release_contents",
+   "v": "sightings of glowing or metallic objects near military training zones and restricted airspace across America",
+   "quote": "Other documents in the UAP files also described sightings of glowing or metallic objects near military training zones and restricted airspace across America."
+  },
+  {
+   "s": "case",
+   "p": "first_release_contents",
+   "v": "2024 and 2025 reports from drone pilots and service members describing objects moving in ways they could not explain",
+   "quote": "Some recent 2024 and 2025 reports included accounts from drone pilots and service members who described objects moving in ways they could not explain."
+  },
+  {
+   "s": "case",
+   "p": "first_release_contents",
+   "v": "still images from US crewed space missions to the Moon",
+   "quote": "Several still images from U.S. crewed space missions to the Moon were also included"
+  },
+  {
+   "s": "case",
+   "p": "status_note",
+   "v": "many initially released cases remain unresolved due to limited data or unclear imagery",
+   "quote": "Many of the initially released cases remain unresolved due to limited data or unclear imagery, and The Pentagon noted that several photos and videos had not yet been fully analyzed."
+  },
+  {
+   "s": "case",
+   "p": "public_reception",
+   "v": "mixed",
+   "quote": "Reception to the initial May 8 release of UFO records was mixed, with calls for further evidence, previously unseen materials, and evidence of alien life to be released, if available."
+  },
+  {
+   "s": "case",
+   "p": "scientist_reception",
+   "v": "mixed",
+   "quote": "The reaction from scientists to the initial tranche of the May 2026 disclosure content was mixed."
+  },
+  {
+   "s": "case",
+   "p": "second_release_contents",
+   "v": "222 new documents, including about 51 audio recordings and over 40 videos requested by lawmakers",
+   "quote": "The new release of materials includes 222 new documents, including about 51 audio recordings and over 40 videos requested by lawmakers; one of the videos showed a UFO being shot down."
+  },
+  {
+   "s": "case",
+   "p": "second_release_contents",
+   "v": "one of the videos showed a UFO being shot down",
+   "quote": "one of the videos showed a UFO being shot down"
+  },
+  {
+   "s": "case",
+   "p": "second_release_contents",
+   "v": "testimonies from civilians and military members",
+   "quote": "It also included testimonies from civilians and military members."
+  },
+  {
+   "s": "case",
+   "p": "third_release_contents",
+   "v": "53 documents, 10 images, 6 videos, and 3 audio recordings",
+   "quote": "it included 53 documents, 10 images, 6 videos, and 3 audio recordings from the CIA, the FBI, NASA, and the Pentagon"
+  },
+  {
+   "s": "case",
+   "p": "third_release_contents",
+   "v": "209 sightings of \"green orbs,\" \"discs,\" and \"fireballs\" reported close to a military facility",
+   "quote": "The Pentagon said the archive includes 209 sightings of \"green orbs,\" “discs,\" and \"fireballs\" reported close to a military facility."
+  },
+  {
+   "s": "case",
+   "p": "unresolved_share",
+   "v": "40% of reported phenomena lack reasonable explanation and remain unresolved",
+   "quote": "The report also said that 40% of reported phenomena lack reasonable explanation and remain unresolved."
+  },
+  {
+   "s": "case",
+   "p": "fourth_release_contents",
+   "v": "40 files: 14 documents, 19 videos, 4 audio files and 3 images",
+   "quote": "A total of 40 files were included: 14 documents, 19 videos, 4 audio files and 3 images"
+  },
+  {
+   "s": "case",
+   "p": "statement",
+   "v": "a military aviator said an object was \"unlike anything I've ever seen before in my 28 years of service\"",
+   "quote": "A military aviator said he saw an object and stated that it was \"unlike anything I've ever seen before in my 28 years of service.\""
+  },
+  {
+   "s": "case",
+   "p": "fifth_release_contents",
+   "v": "41 files, from 1950 to 2026",
+   "quote": "It contains 41 files from the Pentagon, the FBI, the CIA, the State Department, and the office of the President, from 1950 to 2026."
+  },
+  {
+   "s": "case",
+   "p": "fifth_release_contents",
+   "v": "bulk of the files are grainy videos; includes eight FBI witness forms",
+   "quote": "The bulk of the files are grainy videos as in previous releases. It includes eight FBI witness forms."
+  },
+  {
+   "s": "case",
+   "p": "sixth_release_contents",
+   "v": "55 PDF files, 15 video files, and one audio file",
+   "quote": "It contains 55 PDF files, 15 video files, and one audio file."
+  },
+  {
+   "s": "case",
+   "p": "sixth_release_contents",
+   "v": "videos are mostly grainy images recorded by military cameras",
+   "quote": "The videos are mostly grainy images recorded by military cameras."
+  },
+  {
+   "s": "case",
+   "p": "seventh_release_contents",
+   "v": "28 PDF files",
+   "quote": "The seventh release was on October 23, 2026. It contains 28 PDF files."
+  },
+  {
+   "s": "case",
+   "p": "background",
+   "v": "belief that the US Government is concealing information on non-human intelligence is a long-running conspiracy theory",
+   "quote": "Belief that the U.S. Government is concealing information related to non-human intelligence, aliens or extraterrestrials visiting Earth is a long-running conspiracy theory."
+  },
+  {
+   "s": "case",
+   "p": "media_reaction",
+   "v": "some UFO fans expressed confusion at the inclusion of computer-generated imagery; others said material had circulated for decades",
+   "quote": "with some expressing confusion at the inclusion of computer-generated imagery and others claiming the release included material that had been circulating in paranormal books and media for decades"
+  },
+  {
+   "s": "case",
+   "p": "religious_reaction",
+   "v": "multiple Christian pastors claimed US intelligence officials told them to prepare churches following the release",
+   "quote": "Multiple Christian pastors claimed that U.S. intelligence officials have held a series of meetings with them and told them to prepare churches to hold the Christian community together following the release of the files."
+  },
+  {
+   "s": "trump",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "released by the administration of Donald Trump beginning on May 8, 2026"
+  },
+  {
+   "s": "trump",
+   "p": "occupation",
+   "v": "President of the United States",
+   "quote": "In February 2026, U.S. President Donald Trump ordered federal agencies to identify and declassify to the public files connected to UFOs, UAPs, and extraterrestrials."
+  },
+  {
+   "s": "trump",
+   "p": "action",
+   "v": "February 2026: ordered federal agencies to identify and declassify files connected to UFOs, UAPs, and extraterrestrials",
+   "quote": "In February 2026, U.S. President Donald Trump ordered federal agencies to identify and declassify to the public files connected to UFOs, UAPs, and extraterrestrials."
+  },
+  {
+   "s": "trump",
+   "p": "statement",
+   "v": "encouraged the public to \"have fun and enjoy!\" in a Truth Social post",
+   "quote": "The release was followed closely by a Truth Social post by president of the United States Donald Trump in which he encouraged the public to \"have fun and enjoy!\"."
+  },
+  {
+   "s": "trump",
+   "p": "statement",
+   "v": "stated disbelief in any anomalous explanation for UFOs and denied US government secrecy on the topic",
+   "quote": "Donald Trump, Barack Obama, and Bill Clinton have all stated their disbelief in any anomalous explanation for UFOs and denied the existence of any U.S. government secrecy surrounding the topic."
+  },
+  {
+   "s": "obama",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Donald Trump, Barack Obama, and Bill Clinton have all stated their disbelief in any anomalous explanation for UFOs and denied the existence of any U.S. government secrecy surrounding the topic."
+  },
+  {
+   "s": "obama",
+   "p": "statement",
+   "v": "stated disbelief in any anomalous explanation for UFOs and denied US government secrecy on the topic",
+   "quote": "Donald Trump, Barack Obama, and Bill Clinton have all stated their disbelief in any anomalous explanation for UFOs and denied the existence of any U.S. government secrecy surrounding the topic."
+  },
+  {
+   "s": "clinton",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Donald Trump, Barack Obama, and Bill Clinton have all stated their disbelief in any anomalous explanation for UFOs and denied the existence of any U.S. government secrecy surrounding the topic."
+  },
+  {
+   "s": "clinton",
+   "p": "statement",
+   "v": "stated disbelief in any anomalous explanation for UFOs and denied US government secrecy on the topic",
+   "quote": "Donald Trump, Barack Obama, and Bill Clinton have all stated their disbelief in any anomalous explanation for UFOs and denied the existence of any U.S. government secrecy surrounding the topic."
+  },
+  {
+   "s": "truth",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The release was followed closely by a Truth Social post by president of the United States Donald Trump in which he encouraged the public to \"have fun and enjoy!\"."
+  },
+  {
+   "s": "pentvid",
+   "p": "related_case",
+   "o": "case",
+   "quote": "including the public disclosure of the Pentagon UFO videos, the creation of the All-domain Anomaly Resolution Office (AARO), congressional hearings, and pressure from members of Congress who argued that the government should disclose more information about UFOs and alleged extraterrestrial matters"
+  },
+  {
+   "s": "pentvid",
+   "p": "disclosure",
+   "v": "disclosed beginning in 2017 by the New York Times and other outlets",
+   "quote": "Beginning in 2017, the New York Times and other outlets disclosed the Pentagon UFO videos and secret government programs to investigate \"unusual, seemingly inexplicable phenomena\", as The Washington Post described them."
+  },
+  {
+   "s": "aaro",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "including the public disclosure of the Pentagon UFO videos, the creation of the All-domain Anomaly Resolution Office (AARO), congressional hearings, and pressure from members of Congress who argued that the government should disclose more information about UFOs and alleged extraterrestrial matters"
+  },
+  {
+   "s": "aaro",
+   "p": "created",
+   "v": "2022",
+   "quote": "Congress had previously created the All-domain Anomaly Resolution Office in 2022 to \"investigate anomalous incidents observed across air, maritime, space and other domains\", reported Military.com."
+  },
+  {
+   "s": "aaro",
+   "p": "purpose",
+   "v": "investigate anomalous incidents observed across air, maritime, space and other domains",
+   "quote": "Congress had previously created the All-domain Anomaly Resolution Office in 2022 to \"investigate anomalous incidents observed across air, maritime, space and other domains\", reported Military.com."
+  },
+  {
+   "s": "aaro",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "The DOD's All-domain Anomaly Resolution Office identified the law enforcement orb video as \"among the most compelling\"."
+  },
+  {
+   "s": "aaro",
+   "p": "statement",
+   "v": "identified the law enforcement orb video as \"among the most compelling\"",
+   "quote": "The DOD's All-domain Anomaly Resolution Office identified the law enforcement orb video as \"among the most compelling\"."
+  },
+  {
+   "s": "congress",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "including the public disclosure of the Pentagon UFO videos, the creation of the All-domain Anomaly Resolution Office (AARO), congressional hearings, and pressure from members of Congress who argued that the government should disclose more information about UFOs and alleged extraterrestrial matters"
+  },
+  {
+   "s": "dod",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The Department of Defense of the United States on May 8, 2026, launched the Presidential Unsealing and Reporting System for UAP Encounters (PURSUE) to release military data related to the UFO phenomena."
+  },
+  {
+   "s": "dod",
+   "p": "statement",
+   "v": "released materials are unresolved cases for which the government could not make a definitive determination",
+   "quote": "The Pentagon described the released materials as unresolved cases for which the government could not make a definitive determination based on available evidence"
+  },
+  {
+   "s": "dod",
+   "p": "statement",
+   "v": "\"The materials archived here are unresolved cases, meaning the government is unable to make a definitive determination on the nature of the observed phenomena.\"",
+   "quote": "\"The materials archived here are unresolved cases, meaning the government is unable to make a definitive determination on the nature of the observed phenomena.\""
+  },
+  {
+   "s": "dod",
+   "p": "statement",
+   "v": "2024: officially disclaimed having information on extraterrestrial life or recovered alien technology",
+   "quote": "in 2024, the U.S. Department of Defense officially disclaimed it had any information pertaining to the existence of extraterrestrial life or that it had recovered technology belonging to space aliens"
+  },
+  {
+   "s": "dod",
+   "p": "statement",
+   "v": "documents do not provide confirmed evidence of extraterrestrial life; \"the public can draw their own conclusions\"",
+   "quote": "the Pentagon and Trump said that the documents do not provide confirmed evidence of extraterrestrial life and that \"the public can draw their own conclusions\""
+  },
+  {
+   "s": "dod",
+   "p": "statement",
+   "v": "already working on a fifth batch of files",
+   "quote": "The Pentagon said they are already working on a fifth batch of files."
+  },
+  {
+   "s": "nyt",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Beginning in 2017, the New York Times and other outlets disclosed the Pentagon UFO videos"
+  },
+  {
+   "s": "nyt",
+   "p": "statement",
+   "v": "described \"murky still images that show what could be anything\"",
+   "quote": "showing what the New York Times described as \"murky still images that show what could be anything\""
+  },
+  {
+   "s": "nyt",
+   "p": "published",
+   "o": "pentvid",
+   "quote": "Beginning in 2017, the New York Times and other outlets disclosed the Pentagon UFO videos"
+  },
+  {
+   "s": "wapo",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "U.S. government agencies have released videos of aircraft, which, according to The Washington Post, \"appeared to defy the laws of physics\"."
+  },
+  {
+   "s": "milcom",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "to \"investigate anomalous incidents observed across air, maritime, space and other domains\", reported Military.com"
+  },
+  {
+   "s": "nasa",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The release was presented as part of a broader transparency initiative involving the Department of Energy, United States Department of Defense, the Office of the Director of National Intelligence, NASA, the FBI, and other federal agencies."
+  },
+  {
+   "s": "nasa",
+   "p": "finding",
+   "v": "2022 inquiry into the potential of space aliens visiting Earth found no evidence",
+   "quote": "In 2022, NASA conducted an inquiry into the potential of space aliens visiting Earth and found no evidence to support such a notion."
+  },
+  {
+   "s": "doe",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The release was presented as part of a broader transparency initiative involving the Department of Energy, United States Department of Defense, the Office of the Director of National Intelligence, NASA, the FBI, and other federal agencies."
+  },
+  {
+   "s": "odni",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The release was presented as part of a broader transparency initiative involving the Department of Energy, United States Department of Defense, the Office of the Director of National Intelligence, NASA, the FBI, and other federal agencies."
+  },
+  {
+   "s": "fbi",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The release was presented as part of a broader transparency initiative involving the Department of Energy, United States Department of Defense, the Office of the Director of National Intelligence, NASA, the FBI, and other federal agencies."
+  },
+  {
+   "s": "cia",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "it included 53 documents, 10 images, 6 videos, and 3 audio recordings from the CIA, the FBI, NASA, and the Pentagon"
+  },
+  {
+   "s": "state",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "It contains 41 files from the Pentagon, the FBI, the CIA, the State Department, and the office of the President, from 1950 to 2026."
+  },
+  {
+   "s": "potus",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "It contains 41 files from the Pentagon, the FBI, the CIA, the State Department, and the office of the President, from 1950 to 2026."
+  },
+  {
+   "s": "luna",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "The move followed agitation by several Republican members of the U.S. Congress, such as Anna Paulina Luna and Tim Burchett, who claimed the U.S. government was withholding secrets about space aliens."
+  },
+  {
+   "s": "luna",
+   "p": "member_of",
+   "o": "congress",
+   "quote": "The move followed agitation by several Republican members of the U.S. Congress, such as Anna Paulina Luna and Tim Burchett, who claimed the U.S. government was withholding secrets about space aliens."
+  },
+  {
+   "s": "luna",
+   "p": "statement",
+   "v": "claimed the US government was withholding secrets about space aliens",
+   "quote": "The move followed agitation by several Republican members of the U.S. Congress, such as Anna Paulina Luna and Tim Burchett, who claimed the U.S. government was withholding secrets about space aliens."
+  },
+  {
+   "s": "luna",
+   "p": "action",
+   "v": "demanded Hegseth send her videos of UFOs by a deadline; the deadline \"came and went, and no videos were produced\"",
+   "quote": "The month following Trump's directive, Luna demanded Secretary of Defense Pete Hegseth send her some videos of UFOs by a deadline she established; according to the Associated Press, Luna's demand \"came and went, and no videos were produced\"."
+  },
+  {
+   "s": "burchett",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "The move followed agitation by several Republican members of the U.S. Congress, such as Anna Paulina Luna and Tim Burchett, who claimed the U.S. government was withholding secrets about space aliens."
+  },
+  {
+   "s": "burchett",
+   "p": "member_of",
+   "o": "congress",
+   "quote": "The move followed agitation by several Republican members of the U.S. Congress, such as Anna Paulina Luna and Tim Burchett, who claimed the U.S. government was withholding secrets about space aliens."
+  },
+  {
+   "s": "burchett",
+   "p": "proponent",
+   "o": "case",
+   "quote": "Tim Burchett, a supporter of the disclosure movement, said in an X (formerly Twitter) post"
+  },
+  {
+   "s": "burchett",
+   "p": "statement",
+   "v": "claimed the US government was withholding secrets about space aliens",
+   "quote": "The move followed agitation by several Republican members of the U.S. Congress, such as Anna Paulina Luna and Tim Burchett, who claimed the U.S. government was withholding secrets about space aliens."
+  },
+  {
+   "s": "burchett",
+   "p": "statement",
+   "v": "\"The 1st drop will be big, but in comparison to what is coming, they will be a drop in the bucket.\"",
+   "quote": "Tim Burchett, a supporter of the disclosure movement, said in an X (formerly Twitter) post that \"The 1st drop will be big, but in comparison to what is coming, they will be a drop in the bucket.\""
+  },
+  {
+   "s": "burchett",
+   "p": "statement",
+   "v": "\"I would say 'Holy Crap' is coming.\"",
+   "quote": "Burchett also said that \"I would say ‘Holy Crap’ is coming.\""
+  },
+  {
+   "s": "xcom",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Tim Burchett, a supporter of the disclosure movement, said in an X (formerly Twitter) post"
+  },
+  {
+   "s": "ap",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The month following Trump's directive, Luna demanded Secretary of Defense Pete Hegseth send her some videos of UFOs by a deadline she established; according to the Associated Press, Luna's demand \"came and went, and no videos were produced\"."
+  },
+  {
+   "s": "hegseth",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Defense Secretary Pete Hegseth said the goal was to provide \"maximum transparency\" regarding the government's knowledge of unexplained aerial phenomena."
+  },
+  {
+   "s": "hegseth",
+   "p": "occupation",
+   "v": "Secretary of Defense",
+   "quote": "The month following Trump's directive, Luna demanded Secretary of Defense Pete Hegseth send her some videos of UFOs by a deadline she established; according to the Associated Press, Luna's demand \"came and went, and no videos were produced\"."
+  },
+  {
+   "s": "hegseth",
+   "p": "commanded",
+   "o": "dod",
+   "quote": "The month following Trump's directive, Luna demanded Secretary of Defense Pete Hegseth send her some videos of UFOs by a deadline she established; according to the Associated Press, Luna's demand \"came and went, and no videos were produced\"."
+  },
+  {
+   "s": "hegseth",
+   "p": "statement",
+   "v": "the goal was to provide \"maximum transparency\"",
+   "quote": "Defense Secretary Pete Hegseth said the goal was to provide \"maximum transparency\" regarding the government's knowledge of unexplained aerial phenomena."
+  },
+  {
+   "s": "hegseth",
+   "p": "statement",
+   "v": "\"The Department of War is in lockstep with President Trump to bring unprecedented transparency regarding our government's understanding of Unidentified Anomalous Phenomena (UAP).\"",
+   "quote": "Pete Hegseth said that \"The Department of War is in lockstep with President Trump to bring unprecedented transparency regarding our government's understanding of Unidentified Anomalous Phenomena (UAP).\""
+  },
+  {
+   "s": "hegseth",
+   "p": "statement",
+   "v": "the files \"long fueled justified speculation\"; the administration wanted Americans to \"see it for themselves\"",
+   "quote": "He also said that the files \"long fueled justified speculation\" and said the administration wanted Americans to \"see it for themselves.\""
+  },
+  {
+   "s": "gabbard",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Director of National Intelligence Tulsi Gabbard described a \"comprehensive\" multi-agency declassification program being underway."
+  },
+  {
+   "s": "gabbard",
+   "p": "occupation",
+   "v": "Director of National Intelligence",
+   "quote": "Director of National Intelligence Tulsi Gabbard described a \"comprehensive\" multi-agency declassification program being underway."
+  },
+  {
+   "s": "gabbard",
+   "p": "statement",
+   "v": "described a \"comprehensive\" multi-agency declassification program being underway",
+   "quote": "Director of National Intelligence Tulsi Gabbard described a \"comprehensive\" multi-agency declassification program being underway."
+  },
+  {
+   "s": "newsci",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Several still images from U.S. crewed space missions to the Moon were also included, which, according to New Scientist, had \"already been investigated and explained as micrometeoroid impacts on the Moon or the spacecraft, bits of floating debris, and camera or film defects\"."
+  },
+  {
+   "s": "moon",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Several still images from U.S. crewed space missions to the Moon were also included, which, according to New Scientist, had \"already been investigated and explained as micrometeoroid impacts on the Moon or the spacecraft, bits of floating debris, and camera or film defects\"."
+  },
+  {
+   "s": "x_cam",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Several still images from U.S. crewed space missions to the Moon were also included, which, according to New Scientist, had \"already been investigated and explained as micrometeoroid impacts on the Moon or the spacecraft, bits of floating debris, and camera or film defects\"."
+  },
+  {
+   "s": "newsci",
+   "p": "proposed",
+   "o": "x_cam",
+   "quote": "Several still images from U.S. crewed space missions to the Moon were also included, which, according to New Scientist, had \"already been investigated and explained as micrometeoroid impacts on the Moon or the spacecraft, bits of floating debris, and camera or film defects\"."
+  },
+  {
+   "s": "x_micro",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Several still images from U.S. crewed space missions to the Moon were also included, which, according to New Scientist, had \"already been investigated and explained as micrometeoroid impacts on the Moon or the spacecraft, bits of floating debris, and camera or film defects\"."
+  },
+  {
+   "s": "newsci",
+   "p": "proposed",
+   "o": "x_micro",
+   "quote": "Several still images from U.S. crewed space missions to the Moon were also included, which, according to New Scientist, had \"already been investigated and explained as micrometeoroid impacts on the Moon or the spacecraft, bits of floating debris, and camera or film defects\"."
+  },
+  {
+   "s": "x_debris",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Several still images from U.S. crewed space missions to the Moon were also included, which, according to New Scientist, had \"already been investigated and explained as micrometeoroid impacts on the Moon or the spacecraft, bits of floating debris, and camera or film defects\"."
+  },
+  {
+   "s": "newsci",
+   "p": "proposed",
+   "o": "x_debris",
+   "quote": "Several still images from U.S. crewed space missions to the Moon were also included, which, according to New Scientist, had \"already been investigated and explained as micrometeoroid impacts on the Moon or the spacecraft, bits of floating debris, and camera or film defects\"."
+  },
+  {
+   "s": "x_balloon",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "while some scientists and skeptics said many of the files were ambiguous, previously public, or potentially explainable as camera artifacts, balloons, debris, or unreliable eyewitness accounts"
+  },
+  {
+   "s": "x_cam",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "while some scientists and skeptics said many of the files were ambiguous, previously public, or potentially explainable as camera artifacts, balloons, debris, or unreliable eyewitness accounts"
+  },
+  {
+   "s": "x_debris",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "while some scientists and skeptics said many of the files were ambiguous, previously public, or potentially explainable as camera artifacts, balloons, debris, or unreliable eyewitness accounts"
+  },
+  {
+   "s": "x_misp",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "while some scientists and skeptics said many of the files were ambiguous, previously public, or potentially explainable as camera artifacts, balloons, debris, or unreliable eyewitness accounts"
+  },
+  {
+   "s": "aldrin",
+   "p": "witness",
+   "o": "case",
+   "quote": "Buzz Aldrin, an American astronaut who was onboard the Apollo 11 spacecraft, described sightings of unusual lights and objects seen during space missions, with some being reported to have been on the Moon in the 1960s and 1970s."
+  },
+  {
+   "s": "aldrin",
+   "p": "occupation",
+   "v": "American astronaut",
+   "quote": "Buzz Aldrin, an American astronaut who was onboard the Apollo 11 spacecraft, described sightings of unusual lights and objects seen during space missions, with some being reported to have been on the Moon in the 1960s and 1970s."
+  },
+  {
+   "s": "aldrin",
+   "p": "statement",
+   "v": "described sightings of unusual lights and objects seen during space missions",
+   "quote": "Buzz Aldrin, an American astronaut who was onboard the Apollo 11 spacecraft, described sightings of unusual lights and objects seen during space missions, with some being reported to have been on the Moon in the 1960s and 1970s."
+  },
+  {
+   "s": "apollo11",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Buzz Aldrin, an American astronaut who was onboard the Apollo 11 spacecraft, described sightings of unusual lights and objects seen during space missions, with some being reported to have been on the Moon in the 1960s and 1970s."
+  },
+  {
+   "s": "aldrin",
+   "p": "member_of",
+   "o": "apollo11",
+   "quote": "Buzz Aldrin, an American astronaut who was onboard the Apollo 11 spacecraft, described sightings of unusual lights and objects seen during space missions, with some being reported to have been on the Moon in the 1960s and 1970s."
+  },
+  {
+   "s": "transcripts",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Among the documents released were Apollo mission transcripts."
+  },
+  {
+   "s": "apollo17",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On the Apollo 17 flight, a photograph showed \"three 'dots' in a triangular formation in the lower right quadrant of the lunar sky\"."
+  },
+  {
+   "s": "a17photo",
+   "p": "key_document",
+   "o": "case",
+   "quote": "On the Apollo 17 flight, a photograph showed \"three 'dots' in a triangular formation in the lower right quadrant of the lunar sky\"."
+  },
+  {
+   "s": "a17photo",
+   "p": "content",
+   "v": "three 'dots' in a triangular formation in the lower right quadrant of the lunar sky",
+   "quote": "On the Apollo 17 flight, a photograph showed \"three 'dots' in a triangular formation in the lower right quadrant of the lunar sky\"."
+  },
+  {
+   "s": "a17photo",
+   "p": "object_count",
+   "v": "3",
+   "quote": "On the Apollo 17 flight, a photograph showed \"three 'dots' in a triangular formation in the lower right quadrant of the lunar sky\"."
+  },
+  {
+   "s": "apollo12",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "It was reported that \"green fireballs\" or \"green orbs\" were flying around during a Apollo 12 space mission."
+  },
+  {
+   "s": "apollo12",
+   "p": "report",
+   "v": "\"green fireballs\" or \"green orbs\" were flying around during the mission",
+   "quote": "It was reported that \"green fireballs\" or \"green orbs\" were flying around during a Apollo 12 space mission."
+  },
+  {
+   "s": "apollo12",
+   "p": "color",
+   "v": "green",
+   "quote": "It was reported that \"green fireballs\" or \"green orbs\" were flying around during a Apollo 12 space mission."
+  },
+  {
+   "s": "greene",
+   "p": "commentator",
+   "o": "case",
+   "quote": "On social media, Marjorie Taylor Greene, former member of the United States House of Representatives, posted of the May 8 group that \"unless they roll out live aliens and test demo UFOs or actually admit what we know this really is, then I have way better things to do on this Friday\"."
+  },
+  {
+   "s": "greene",
+   "p": "member_of",
+   "o": "house",
+   "quote": "On social media, Marjorie Taylor Greene, former member of the United States House of Representatives, posted of the May 8 group that \"unless they roll out live aliens and test demo UFOs or actually admit what we know this really is, then I have way better things to do on this Friday\"."
+  },
+  {
+   "s": "greene",
+   "p": "occupation",
+   "v": "former member of the United States House of Representatives",
+   "quote": "On social media, Marjorie Taylor Greene, former member of the United States House of Representatives, posted of the May 8 group that \"unless they roll out live aliens and test demo UFOs or actually admit what we know this really is, then I have way better things to do on this Friday\"."
+  },
+  {
+   "s": "greene",
+   "p": "statement",
+   "v": "\"unless they roll out live aliens and test demo UFOs or actually admit what we know this really is, then I have way better things to do on this Friday\"",
+   "quote": "On social media, Marjorie Taylor Greene, former member of the United States House of Representatives, posted of the May 8 group that \"unless they roll out live aliens and test demo UFOs or actually admit what we know this really is, then I have way better things to do on this Friday\"."
+  },
+  {
+   "s": "house",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On social media, Marjorie Taylor Greene, former member of the United States House of Representatives, posted of the May 8 group that \"unless they roll out live aliens and test demo UFOs or actually admit what we know this really is, then I have way better things to do on this Friday\"."
+  },
+  {
+   "s": "ign",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "According to IGN, many UFO fans had a mixed reaction on social media to the release of the initial files"
+  },
+  {
+   "s": "whitehouse",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "David Whitehouse, an astrophysicist and former science journalist for the BBC, in a post to social media explained he had reviewed the materials and concluded that \"some are optical artefacts, others fuzzy blobs, and some light smears. Some obviously balloons."
+  },
+  {
+   "s": "whitehouse",
+   "p": "employed_by",
+   "o": "bbc",
+   "quote": "David Whitehouse, an astrophysicist and former science journalist for the BBC, in a post to social media explained he had reviewed the materials and concluded that \"some are optical artefacts, others fuzzy blobs, and some light smears. Some obviously balloons."
+  },
+  {
+   "s": "whitehouse",
+   "p": "occupation",
+   "v": "astrophysicist and former science journalist for the BBC",
+   "quote": "David Whitehouse, an astrophysicist and former science journalist for the BBC, in a post to social media explained he had reviewed the materials and concluded that \"some are optical artefacts, others fuzzy blobs, and some light smears. Some obviously balloons."
+  },
+  {
+   "s": "whitehouse",
+   "p": "statement",
+   "v": "\"some are optical artefacts, others fuzzy blobs, and some light smears. Some obviously balloons.\"",
+   "quote": "David Whitehouse, an astrophysicist and former science journalist for the BBC, in a post to social media explained he had reviewed the materials and concluded that \"some are optical artefacts, others fuzzy blobs, and some light smears. Some obviously balloons."
+  },
+  {
+   "s": "whitehouse",
+   "p": "statement",
+   "v": "\"No hint, no evidence whatsoever of anything artificial and alien\"",
+   "quote": "Some obviously balloons. No hint, no evidence whatsoever of anything artificial and alien\"."
+  },
+  {
+   "s": "whitehouse",
+   "p": "proposed",
+   "o": "x_cam",
+   "quote": "David Whitehouse, an astrophysicist and former science journalist for the BBC, in a post to social media explained he had reviewed the materials and concluded that \"some are optical artefacts, others fuzzy blobs, and some light smears. Some obviously balloons."
+  },
+  {
+   "s": "whitehouse",
+   "p": "proposed",
+   "o": "x_balloon",
+   "quote": "David Whitehouse, an astrophysicist and former science journalist for the BBC, in a post to social media explained he had reviewed the materials and concluded that \"some are optical artefacts, others fuzzy blobs, and some light smears. Some obviously balloons."
+  },
+  {
+   "s": "bbc",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "David Whitehouse, an astrophysicist and former science journalist for the BBC, in a post to social media explained he had reviewed the materials and concluded that \"some are optical artefacts, others fuzzy blobs, and some light smears. Some obviously balloons."
+  },
+  {
+   "s": "narlock",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Michael Narlock, an astronomer at the Cranbrook Institute of Science, said of the documents that they largely contained transcripts of eyewitness accounts, which were \"notoriously unreliable\" while the videos lacked sufficient context to assess."
+  },
+  {
+   "s": "narlock",
+   "p": "employed_by",
+   "o": "cranbrook",
+   "quote": "Michael Narlock, an astronomer at the Cranbrook Institute of Science, said of the documents that they largely contained transcripts of eyewitness accounts, which were \"notoriously unreliable\" while the videos lacked sufficient context to assess."
+  },
+  {
+   "s": "narlock",
+   "p": "occupation",
+   "v": "astronomer",
+   "quote": "Michael Narlock, an astronomer at the Cranbrook Institute of Science, said of the documents that they largely contained transcripts of eyewitness accounts, which were \"notoriously unreliable\" while the videos lacked sufficient context to assess."
+  },
+  {
+   "s": "narlock",
+   "p": "statement",
+   "v": "documents largely contained transcripts of eyewitness accounts, which were \"notoriously unreliable\", while the videos lacked sufficient context to assess",
+   "quote": "Michael Narlock, an astronomer at the Cranbrook Institute of Science, said of the documents that they largely contained transcripts of eyewitness accounts, which were \"notoriously unreliable\" while the videos lacked sufficient context to assess."
+  },
+  {
+   "s": "narlock",
+   "p": "proposed",
+   "o": "x_misp",
+   "quote": "Michael Narlock, an astronomer at the Cranbrook Institute of Science, said of the documents that they largely contained transcripts of eyewitness accounts, which were \"notoriously unreliable\" while the videos lacked sufficient context to assess."
+  },
+  {
+   "s": "cranbrook",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Michael Narlock, an astronomer at the Cranbrook Institute of Science, said of the documents that they largely contained transcripts of eyewitness accounts, which were \"notoriously unreliable\" while the videos lacked sufficient context to assess."
+  },
+  {
+   "s": "shostak",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Seth Shostak, senior astronomer at the SETI Institute, asked by CBS News to react to the release, affirmed his view that \"there is no compelling evidence for extraterrestrial life thus far\"."
+  },
+  {
+   "s": "shostak",
+   "p": "employed_by",
+   "o": "seti",
+   "quote": "Seth Shostak, senior astronomer at the SETI Institute, asked by CBS News to react to the release, affirmed his view that \"there is no compelling evidence for extraterrestrial life thus far\"."
+  },
+  {
+   "s": "shostak",
+   "p": "occupation",
+   "v": "senior astronomer",
+   "quote": "Seth Shostak, senior astronomer at the SETI Institute, asked by CBS News to react to the release, affirmed his view that \"there is no compelling evidence for extraterrestrial life thus far\"."
+  },
+  {
+   "s": "shostak",
+   "p": "statement",
+   "v": "\"there is no compelling evidence for extraterrestrial life thus far\"",
+   "quote": "Seth Shostak, senior astronomer at the SETI Institute, asked by CBS News to react to the release, affirmed his view that \"there is no compelling evidence for extraterrestrial life thus far\"."
+  },
+  {
+   "s": "seti",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Seth Shostak, senior astronomer at the SETI Institute, asked by CBS News to react to the release, affirmed his view that \"there is no compelling evidence for extraterrestrial life thus far\"."
+  },
+  {
+   "s": "cbs",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Seth Shostak, senior astronomer at the SETI Institute, asked by CBS News to react to the release, affirmed his view that \"there is no compelling evidence for extraterrestrial life thus far\"."
+  },
+  {
+   "s": "cbs",
+   "p": "interviewed",
+   "o": "shostak",
+   "quote": "Seth Shostak, senior astronomer at the SETI Institute, asked by CBS News to react to the release, affirmed his view that \"there is no compelling evidence for extraterrestrial life thus far\"."
+  },
+  {
+   "s": "kirkpatrick",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Sean M. Kirkpatrick, a physicist and the former director of the U.S. Department of Defense's All-domain Anomaly Resolution Office, stated there was nothing unexpected in the release."
+  },
+  {
+   "s": "kirkpatrick",
+   "p": "commanded",
+   "o": "aaro",
+   "quote": "Sean M. Kirkpatrick, a physicist and the former director of the U.S. Department of Defense's All-domain Anomaly Resolution Office, stated there was nothing unexpected in the release."
+  },
+  {
+   "s": "kirkpatrick",
+   "p": "occupation",
+   "v": "physicist; former director of the All-domain Anomaly Resolution Office",
+   "quote": "Sean M. Kirkpatrick, a physicist and the former director of the U.S. Department of Defense's All-domain Anomaly Resolution Office, stated there was nothing unexpected in the release."
+  },
+  {
+   "s": "kirkpatrick",
+   "p": "statement",
+   "v": "there was nothing unexpected in the release",
+   "quote": "Sean M. Kirkpatrick, a physicist and the former director of the U.S. Department of Defense's All-domain Anomaly Resolution Office, stated there was nothing unexpected in the release."
+  },
+  {
+   "s": "greenstreet",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "New York Post video editor Steven Greenstreet said some of the contents from the first round release of UFO files had been in the public record for years already and claimed they were discredited as possible camera artifacts while disputing any value of the releases."
+  },
+  {
+   "s": "greenstreet",
+   "p": "employed_by",
+   "o": "nypost",
+   "quote": "New York Post video editor Steven Greenstreet said some of the contents from the first round release of UFO files had been in the public record for years already and claimed they were discredited as possible camera artifacts while disputing any value of the releases."
+  },
+  {
+   "s": "greenstreet",
+   "p": "occupation",
+   "v": "video editor",
+   "quote": "New York Post video editor Steven Greenstreet said some of the contents from the first round release of UFO files had been in the public record for years already and claimed they were discredited as possible camera artifacts while disputing any value of the releases."
+  },
+  {
+   "s": "greenstreet",
+   "p": "statement",
+   "v": "some contents had been in the public record for years and were discredited as possible camera artifacts",
+   "quote": "New York Post video editor Steven Greenstreet said some of the contents from the first round release of UFO files had been in the public record for years already and claimed they were discredited as possible camera artifacts while disputing any value of the releases."
+  },
+  {
+   "s": "greenstreet",
+   "p": "proposed",
+   "o": "x_cam",
+   "quote": "New York Post video editor Steven Greenstreet said some of the contents from the first round release of UFO files had been in the public record for years already and claimed they were discredited as possible camera artifacts while disputing any value of the releases."
+  },
+  {
+   "s": "nypost",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "New York Post video editor Steven Greenstreet said some of the contents from the first round release of UFO files had been in the public record for years already and claimed they were discredited as possible camera artifacts while disputing any value of the releases."
+  },
+  {
+   "s": "colavito",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Writer Jason Colavito said that \"most of the UFO material released ... had been made public decades ago.\""
+  },
+  {
+   "s": "colavito",
+   "p": "occupation",
+   "v": "writer",
+   "quote": "Writer Jason Colavito said that \"most of the UFO material released ... had been made public decades ago.\""
+  },
+  {
+   "s": "colavito",
+   "p": "statement",
+   "v": "\"most of the UFO material released ... had been made public decades ago.\"",
+   "quote": "Writer Jason Colavito said that \"most of the UFO material released ... had been made public decades ago.\""
+  },
+  {
+   "s": "west",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Writer Mick West stated there was \"nothing really interesting\" in the first release."
+  },
+  {
+   "s": "west",
+   "p": "occupation",
+   "v": "writer",
+   "quote": "Writer Mick West stated there was \"nothing really interesting\" in the first release."
+  },
+  {
+   "s": "west",
+   "p": "statement",
+   "v": "there was \"nothing really interesting\" in the first release",
+   "quote": "Writer Mick West stated there was \"nothing really interesting\" in the first release."
+  },
+  {
+   "s": "stone",
+   "p": "commentator",
+   "o": "case",
+   "quote": "Two days before the first batch of files was released, evangelist pastor Perry Stone said that the UFO files could include reports of extraterrestrial aircraft and could even include video footage."
+  },
+  {
+   "s": "stone",
+   "p": "occupation",
+   "v": "evangelist pastor",
+   "quote": "Two days before the first batch of files was released, evangelist pastor Perry Stone said that the UFO files could include reports of extraterrestrial aircraft and could even include video footage."
+  },
+  {
+   "s": "stone",
+   "p": "statement",
+   "v": "the UFO files could include reports of extraterrestrial aircraft and could even include video footage",
+   "quote": "Two days before the first batch of files was released, evangelist pastor Perry Stone said that the UFO files could include reports of extraterrestrial aircraft and could even include video footage."
+  },
+  {
+   "s": "stone",
+   "p": "statement",
+   "v": "the UFO files \"could shatter Christian faith\"",
+   "quote": "Stone also warned that the UFO files \"could shatter Christian faith.\""
+  },
+  {
+   "s": "parnell",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Chief Pentagon spokesperson Sean Parnell announced on May 18, 2026, in a social media post that more documents are \"actively being processed for publication\" and says that there will be \"more to come very soon.\""
+  },
+  {
+   "s": "parnell",
+   "p": "employed_by",
+   "o": "dod",
+   "quote": "Chief Pentagon spokesperson Sean Parnell announced on May 18, 2026, in a social media post that more documents are \"actively being processed for publication\" and says that there will be \"more to come very soon.\""
+  },
+  {
+   "s": "parnell",
+   "p": "occupation",
+   "v": "Chief Pentagon spokesperson",
+   "quote": "Chief Pentagon spokesperson Sean Parnell announced on May 18, 2026, in a social media post that more documents are \"actively being processed for publication\" and says that there will be \"more to come very soon.\""
+  },
+  {
+   "s": "parnell",
+   "p": "statement",
+   "v": "May 18, 2026: more documents are \"actively being processed for publication\"; \"more to come very soon\"",
+   "quote": "Chief Pentagon spokesperson Sean Parnell announced on May 18, 2026, in a social media post that more documents are \"actively being processed for publication\" and says that there will be \"more to come very soon.\""
+  },
+  {
+   "s": "iran22",
+   "p": "related_case",
+   "o": "case",
+   "quote": "A notable video from the 222 files showed a video of four UFOs in formation near Iran in 2022."
+  },
+  {
+   "s": "iran22",
+   "p": "date_start",
+   "v": "2022",
+   "quote": "A notable video from the 222 files showed a video of four UFOs in formation near Iran in 2022."
+  },
+  {
+   "s": "iran",
+   "p": "near",
+   "o": "iran22",
+   "quote": "A notable video from the 222 files showed a video of four UFOs in formation near Iran in 2022."
+  },
+  {
+   "s": "iran",
+   "p": "related_place",
+   "o": "case",
+   "quote": "A notable video from the 222 files showed a video of four UFOs in formation near Iran in 2022."
+  },
+  {
+   "s": "c_iran",
+   "p": "reported_object",
+   "o": "iran22",
+   "quote": "A notable video from the 222 files showed a video of four UFOs in formation near Iran in 2022."
+  },
+  {
+   "s": "c_iran",
+   "p": "count",
+   "v": "4",
+   "quote": "A notable video from the 222 files showed a video of four UFOs in formation near Iran in 2022."
+  },
+  {
+   "s": "c_iran",
+   "p": "formation",
+   "v": "in formation",
+   "quote": "A notable video from the 222 files showed a video of four UFOs in formation near Iran in 2022."
+  },
+  {
+   "s": "iran22",
+   "p": "recording",
+   "v": "reportedly captured by US military infrared systems",
+   "quote": "The video was reportedly captured by U.S. military infrared systems."
+  },
+  {
+   "s": "iran22",
+   "p": "identification",
+   "v": "officials did not identify the objects publicly",
+   "quote": "Officials did not identify the objects publicly."
+  },
+  {
+   "s": "f_video",
+   "p": "has_feature",
+   "o": "iran22",
+   "quote": "A notable video from the 222 files showed a video of four UFOs in formation near Iran in 2022."
+  },
+  {
+   "s": "f_video",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The first release included reports, photographs, videos, witness accounts, military records, astronaut transcripts, and other historical materials"
+  },
+  {
+   "s": "f_photo",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The first release included reports, photographs, videos, witness accounts, military records, astronaut transcripts, and other historical materials"
+  },
+  {
+   "s": "kosloski",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "The third batch also included a report dated June 5, 2026, by Dr. Jon Kosloski, who is the director of AARO, that detailed an orange \"mother orb\" that was seen launching smaller red orbs."
+  },
+  {
+   "s": "kosloski",
+   "p": "commanded",
+   "o": "aaro",
+   "quote": "The third batch also included a report dated June 5, 2026, by Dr. Jon Kosloski, who is the director of AARO, that detailed an orange \"mother orb\" that was seen launching smaller red orbs."
+  },
+  {
+   "s": "kosloski",
+   "p": "occupation",
+   "v": "director of AARO",
+   "quote": "The third batch also included a report dated June 5, 2026, by Dr. Jon Kosloski, who is the director of AARO, that detailed an orange \"mother orb\" that was seen launching smaller red orbs."
+  },
+  {
+   "s": "kreport",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The third batch also included a report dated June 5, 2026, by Dr. Jon Kosloski, who is the director of AARO, that detailed an orange \"mother orb\" that was seen launching smaller red orbs."
+  },
+  {
+   "s": "kosloski",
+   "p": "authored",
+   "o": "kreport",
+   "quote": "The third batch also included a report dated June 5, 2026, by Dr. Jon Kosloski, who is the director of AARO, that detailed an orange \"mother orb\" that was seen launching smaller red orbs."
+  },
+  {
+   "s": "kreport",
+   "p": "date",
+   "v": "2026-06-05",
+   "quote": "The third batch also included a report dated June 5, 2026, by Dr. Jon Kosloski, who is the director of AARO, that detailed an orange \"mother orb\" that was seen launching smaller red orbs."
+  },
+  {
+   "s": "kreport",
+   "p": "finding",
+   "v": "40% of reported phenomena lack reasonable explanation and remain unresolved",
+   "quote": "The report also said that 40% of reported phenomena lack reasonable explanation and remain unresolved."
+  },
+  {
+   "s": "c_orb",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "The third batch also included a report dated June 5, 2026, by Dr. Jon Kosloski, who is the director of AARO, that detailed an orange \"mother orb\" that was seen launching smaller red orbs."
+  },
+  {
+   "s": "c_orb",
+   "p": "color",
+   "v": "orange",
+   "quote": "The third batch also included a report dated June 5, 2026, by Dr. Jon Kosloski, who is the director of AARO, that detailed an orange \"mother orb\" that was seen launching smaller red orbs."
+  },
+  {
+   "s": "c_orb",
+   "p": "behavior",
+   "v": "seen launching smaller red orbs",
+   "quote": "The third batch also included a report dated June 5, 2026, by Dr. Jon Kosloski, who is the director of AARO, that detailed an orange \"mother orb\" that was seen launching smaller red orbs."
+  },
+  {
+   "s": "c_orb",
+   "p": "secondary_object_color",
+   "v": "red",
+   "quote": "The third batch also included a report dated June 5, 2026, by Dr. Jon Kosloski, who is the director of AARO, that detailed an orange \"mother orb\" that was seen launching smaller red orbs."
+  },
+  {
+   "s": "kosloski",
+   "p": "described",
+   "o": "c_orb",
+   "quote": "The third batch also included a report dated June 5, 2026, by Dr. Jon Kosloski, who is the director of AARO, that detailed an orange \"mother orb\" that was seen launching smaller red orbs."
+  },
+  {
+   "s": "c_cigar",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "witnesses claiming \"cigar-shaped\" object at a restricted government test facility, and land law enforcement reports of \"orbs launching other orbs\""
+  },
+  {
+   "s": "c_cigar",
+   "p": "shape",
+   "v": "cigar-shaped",
+   "quote": "witnesses claiming \"cigar-shaped\" object at a restricted government test facility, and land law enforcement reports of \"orbs launching other orbs\""
+  },
+  {
+   "s": "c_leorb",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "witnesses claiming \"cigar-shaped\" object at a restricted government test facility, and land law enforcement reports of \"orbs launching other orbs\""
+  },
+  {
+   "s": "c_leorb",
+   "p": "shape",
+   "v": "orbs",
+   "quote": "witnesses claiming \"cigar-shaped\" object at a restricted government test facility, and land law enforcement reports of \"orbs launching other orbs\""
+  },
+  {
+   "s": "f_cyl",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "witnesses claiming \"cigar-shaped\" object at a restricted government test facility, and land law enforcement reports of \"orbs launching other orbs\""
+  },
+  {
+   "s": "f_sphere",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "witnesses claiming \"cigar-shaped\" object at a restricted government test facility, and land law enforcement reports of \"orbs launching other orbs\""
+  },
+  {
+   "s": "f_police",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "witnesses claiming \"cigar-shaped\" object at a restricted government test facility, and land law enforcement reports of \"orbs launching other orbs\""
+  },
+  {
+   "s": "f_disc",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Pentagon said the archive includes 209 sightings of \"green orbs,\" “discs,\" and \"fireballs\" reported close to a military facility."
+  },
+  {
+   "s": "f_base",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The Pentagon said the archive includes 209 sightings of \"green orbs,\" “discs,\" and \"fireballs\" reported close to a military facility."
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Many of the records focused on unexplained aerial objects observed by military personnel, astronauts, and drone operators."
+  },
+  {
+   "s": "f_pilot",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "A military aviator said he saw an object and stated that it was \"unlike anything I've ever seen before in my 28 years of service.\""
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The current and forthcoming disclosures of UFO-related information were in response to years-long Pentagon and Congressional investigations"
+  },
+  {
+   "s": "f_hearing",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Congressional hearings in the past decade included testimony from government, military, and intelligence witness of UFO events"
+  },
+  {
+   "s": "f_cover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "who claimed the U.S. government was withholding secrets about space aliens"
+  },
+  {
+   "s": "nm49",
+   "p": "related_case",
+   "o": "case",
+   "quote": "The \"green orb\" also called the green fireballs also raised questions about the 1949 UFO sightings in New Mexico."
+  },
+  {
+   "s": "nm49",
+   "p": "date_start",
+   "v": "1949",
+   "quote": "The \"green orb\" also called the green fireballs also raised questions about the 1949 UFO sightings in New Mexico."
+  },
+  {
+   "s": "nm49",
+   "p": "color",
+   "v": "green",
+   "quote": "The \"green orb\" also called the green fireballs also raised questions about the 1949 UFO sightings in New Mexico."
+  },
+  {
+   "s": "newmexico",
+   "p": "occurred_at",
+   "o": "nm49",
+   "quote": "The \"green orb\" also called the green fireballs also raised questions about the 1949 UFO sightings in New Mexico."
+  },
+  {
+   "s": "newmexico",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The \"green orb\" also called the green fireballs also raised questions about the 1949 UFO sightings in New Mexico."
+  },
+  {
+   "s": "chey22",
+   "p": "related_case",
+   "o": "case",
+   "quote": "There is also a 2022 report of five US soldiers who reported seeing a white potato-shaped object over Cheyenne Mountain Complex in Colorado Springs."
+  },
+  {
+   "s": "chey22",
+   "p": "date_start",
+   "v": "2022",
+   "quote": "There is also a 2022 report of five US soldiers who reported seeing a white potato-shaped object over Cheyenne Mountain Complex in Colorado Springs."
+  },
+  {
+   "s": "chey22",
+   "p": "witness_count",
+   "v": "5",
+   "quote": "There is also a 2022 report of five US soldiers who reported seeing a white potato-shaped object over Cheyenne Mountain Complex in Colorado Springs."
+  },
+  {
+   "s": "cheyenne",
+   "p": "occurred_at",
+   "o": "chey22",
+   "quote": "There is also a 2022 report of five US soldiers who reported seeing a white potato-shaped object over Cheyenne Mountain Complex in Colorado Springs."
+  },
+  {
+   "s": "cheyenne",
+   "p": "related_place",
+   "o": "case",
+   "quote": "There is also a 2022 report of five US soldiers who reported seeing a white potato-shaped object over Cheyenne Mountain Complex in Colorado Springs."
+  },
+  {
+   "s": "cheyenne",
+   "p": "located_in",
+   "o": "cosprings",
+   "quote": "There is also a 2022 report of five US soldiers who reported seeing a white potato-shaped object over Cheyenne Mountain Complex in Colorado Springs."
+  },
+  {
+   "s": "cosprings",
+   "p": "near",
+   "o": "chey22",
+   "quote": "There is also a 2022 report of five US soldiers who reported seeing a white potato-shaped object over Cheyenne Mountain Complex in Colorado Springs."
+  },
+  {
+   "s": "c_potato",
+   "p": "reported_object",
+   "o": "chey22",
+   "quote": "There is also a 2022 report of five US soldiers who reported seeing a white potato-shaped object over Cheyenne Mountain Complex in Colorado Springs."
+  },
+  {
+   "s": "c_potato",
+   "p": "color",
+   "v": "white",
+   "quote": "There is also a 2022 report of five US soldiers who reported seeing a white potato-shaped object over Cheyenne Mountain Complex in Colorado Springs."
+  },
+  {
+   "s": "c_potato",
+   "p": "shape",
+   "v": "potato-shaped",
+   "quote": "There is also a 2022 report of five US soldiers who reported seeing a white potato-shaped object over Cheyenne Mountain Complex in Colorado Springs."
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "chey22",
+   "quote": "There is also a 2022 report of five US soldiers who reported seeing a white potato-shaped object over Cheyenne Mountain Complex in Colorado Springs."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "chey22",
+   "quote": "There is also a 2022 report of five US soldiers who reported seeing a white potato-shaped object over Cheyenne Mountain Complex in Colorado Springs."
+  },
+  {
+   "s": "f_base",
+   "p": "has_feature",
+   "o": "chey22",
+   "quote": "There is also a 2022 report of five US soldiers who reported seeing a white potato-shaped object over Cheyenne Mountain Complex in Colorado Springs."
+  },
+  {
+   "s": "f_other",
+   "p": "has_feature",
+   "o": "chey22",
+   "quote": "There is also a 2022 report of five US soldiers who reported seeing a white potato-shaped object over Cheyenne Mountain Complex in Colorado Springs."
+  },
+  {
+   "s": "ciaconf",
+   "p": "key_document",
+   "o": "case",
+   "quote": "There is also a confession from the CIA in 1992 that they could not reveal to letter writers the true cause of UFO sightings going back to the 1950s, and that Project Blue Book had given the public false explanations."
+  },
+  {
+   "s": "cia",
+   "p": "authored",
+   "o": "ciaconf",
+   "quote": "There is also a confession from the CIA in 1992 that they could not reveal to letter writers the true cause of UFO sightings going back to the 1950s, and that Project Blue Book had given the public false explanations."
+  },
+  {
+   "s": "ciaconf",
+   "p": "date",
+   "v": "1992",
+   "quote": "There is also a confession from the CIA in 1992 that they could not reveal to letter writers the true cause of UFO sightings going back to the 1950s, and that Project Blue Book had given the public false explanations."
+  },
+  {
+   "s": "ciaconf",
+   "p": "content",
+   "v": "could not reveal to letter writers the true cause of UFO sightings going back to the 1950s; Project Blue Book had given the public false explanations",
+   "quote": "There is also a confession from the CIA in 1992 that they could not reveal to letter writers the true cause of UFO sightings going back to the 1950s, and that Project Blue Book had given the public false explanations."
+  },
+  {
+   "s": "bluebook",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "There is also a confession from the CIA in 1992 that they could not reveal to letter writers the true cause of UFO sightings going back to the 1950s, and that Project Blue Book had given the public false explanations."
+  },
+  {
+   "s": "f_cover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "There is also a confession from the CIA in 1992 that they could not reveal to letter writers the true cause of UFO sightings going back to the 1950s, and that Project Blue Book had given the public false explanations."
+  },
+  {
+   "s": "roswell",
+   "p": "related_case",
+   "o": "case",
+   "quote": "There are also reports dating back to the Roswell incident of June 4 – July 10, 1947."
+  },
+  {
+   "s": "roswell",
+   "p": "date_start",
+   "v": "1947-06-04",
+   "quote": "There are also reports dating back to the Roswell incident of June 4 – July 10, 1947."
+  },
+  {
+   "s": "roswell",
+   "p": "date_end",
+   "v": "1947-07-10",
+   "quote": "There are also reports dating back to the Roswell incident of June 4 – July 10, 1947."
+  },
+  {
+   "s": "haut",
+   "p": "witness",
+   "o": "roswell",
+   "quote": "It includes Walter Haut's 2002 eyewitness account of the Roswell incident in 1947."
+  },
+  {
+   "s": "hautdoc",
+   "p": "key_document",
+   "o": "case",
+   "quote": "It includes Walter Haut's 2002 eyewitness account of the Roswell incident in 1947."
+  },
+  {
+   "s": "hautdoc",
+   "p": "key_document",
+   "o": "roswell",
+   "quote": "It includes Walter Haut's 2002 eyewitness account of the Roswell incident in 1947."
+  },
+  {
+   "s": "haut",
+   "p": "authored",
+   "o": "hautdoc",
+   "quote": "It includes Walter Haut's 2002 eyewitness account of the Roswell incident in 1947."
+  },
+  {
+   "s": "hautdoc",
+   "p": "date",
+   "v": "2002",
+   "quote": "It includes Walter Haut's 2002 eyewitness account of the Roswell incident in 1947."
+  },
+  {
+   "s": "trem52",
+   "p": "related_case",
+   "o": "case",
+   "quote": "One of the videos is a copy of a film made in July 1952 at Tremonton, Utah."
+  },
+  {
+   "s": "trem52",
+   "p": "date_start",
+   "v": "1952-07",
+   "quote": "One of the videos is a copy of a film made in July 1952 at Tremonton, Utah."
+  },
+  {
+   "s": "tremonton",
+   "p": "occurred_at",
+   "o": "trem52",
+   "quote": "One of the videos is a copy of a film made in July 1952 at Tremonton, Utah."
+  },
+  {
+   "s": "tremonton",
+   "p": "related_place",
+   "o": "case",
+   "quote": "One of the videos is a copy of a film made in July 1952 at Tremonton, Utah."
+  },
+  {
+   "s": "tremfilm",
+   "p": "key_document",
+   "o": "trem52",
+   "quote": "One of the videos is a copy of a film made in July 1952 at Tremonton, Utah."
+  },
+  {
+   "s": "tremfilm",
+   "p": "key_document",
+   "o": "case",
+   "quote": "One of the videos is a copy of a film made in July 1952 at Tremonton, Utah."
+  },
+  {
+   "s": "f_video",
+   "p": "has_feature",
+   "o": "trem52",
+   "quote": "One of the videos is a copy of a film made in July 1952 at Tremonton, Utah."
+  },
+  {
+   "s": "robertson",
+   "p": "related_case",
+   "o": "case",
+   "quote": "The Robertson Panel examined it in 1953 and determined that it most likely showed a group of birds."
+  },
+  {
+   "s": "robertson",
+   "p": "investigated_by",
+   "o": "trem52",
+   "quote": "The Robertson Panel examined it in 1953 and determined that it most likely showed a group of birds."
+  },
+  {
+   "s": "robertson",
+   "p": "date_start",
+   "v": "1953",
+   "quote": "The Robertson Panel examined it in 1953 and determined that it most likely showed a group of birds."
+  },
+  {
+   "s": "x_bird",
+   "p": "explained_as",
+   "o": "trem52",
+   "quote": "The Robertson Panel examined it in 1953 and determined that it most likely showed a group of birds."
+  },
+  {
+   "s": "robertson",
+   "p": "proposed",
+   "o": "x_bird",
+   "quote": "The Robertson Panel examined it in 1953 and determined that it most likely showed a group of birds."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "trem52",
+   "quote": "The Robertson Panel examined it in 1953 and determined that it most likely showed a group of birds."
+  },
+  {
+   "s": "aatip",
+   "p": "related_case",
+   "o": "case",
+   "quote": "Advanced Aerospace Threat Identification Program – U.S. program to study UFOs (2007–2012)"
+  },
+  {
+   "s": "aatip",
+   "p": "date_start",
+   "v": "2007",
+   "quote": "Advanced Aerospace Threat Identification Program – U.S. program to study UFOs (2007–2012)"
+  },
+  {
+   "s": "aatip",
+   "p": "date_end",
+   "v": "2012",
+   "quote": "Advanced Aerospace Threat Identification Program – U.S. program to study UFOs (2007–2012)"
+  }
+ ]
+}

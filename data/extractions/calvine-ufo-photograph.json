@@ -1,0 +1,2145 @@
+{
+ "slug": "calvine-ufo-photograph",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "Calvine UFO photograph",
+   "aliases": [
+    "Calvine UFO",
+    "Calvine Sighting",
+    "Calvine sighting",
+    "Calvine incident",
+    "Calvine case"
+   ],
+   "description": "Reported sighting and photographing of a diamond-shaped UFO by two men near Calvine, Perthshire, Scotland on 4 August 1990; one surviving print was found in 2022."
+  },
+  {
+   "key": "craft",
+   "type": "craft",
+   "name": "Diamond-shaped craft seen above Calvine on 4 August 1990",
+   "aliases": [
+    "Calvine UFO"
+   ],
+   "description": "Large diamond-shaped object that hovered and then ascended vertically."
+  },
+  {
+   "key": "harrier",
+   "type": "vehicle",
+   "name": "Harrier jet seen during the Calvine sighting",
+   "aliases": [
+    "Harrier"
+   ],
+   "description": "Jet identified by the MOD as a Harrier that made several low-level passes."
+  },
+  {
+   "key": "platform",
+   "type": "vehicle",
+   "name": "Classified U.S. black project platform",
+   "description": "Top Secret platform a Defence Intelligence officer claimed the witnesses photographed."
+  },
+  {
+   "key": "clarke",
+   "type": "person",
+   "name": "David Clarke",
+   "aliases": [
+    "Clarke"
+   ],
+   "description": "Investigative journalist who led the research team and discovered the surviving photograph."
+  },
+  {
+   "key": "pope",
+   "type": "person",
+   "name": "Nick Pope",
+   "aliases": [
+    "Pope"
+   ],
+   "description": "Former Ministry of Defence UFO desk officer who first reported the Calvine photographs."
+  },
+  {
+   "key": "kirkpatrick",
+   "type": "person",
+   "name": "Sean Kirkpatrick",
+   "description": "Former director of the All-domain Anomaly Resolution Office."
+  },
+  {
+   "key": "adams",
+   "type": "person",
+   "name": "Vinnie Adams",
+   "description": "Member of Clarke's research team."
+  },
+  {
+   "key": "illsley",
+   "type": "person",
+   "name": "Matthew Illsley",
+   "description": "Member of Clarke's research team."
+  },
+  {
+   "key": "stevens",
+   "type": "person",
+   "name": "Giles Stevens",
+   "description": "Member of Clarke's research team."
+  },
+  {
+   "key": "wilson",
+   "type": "person",
+   "name": "Straiph Wilson",
+   "description": "Scottish ufologist who searched for the witnesses in 2020."
+  },
+  {
+   "key": "lindsay",
+   "type": "person",
+   "name": "Craig Lindsay",
+   "aliases": [
+    "Lindsay"
+   ],
+   "description": "Retired RAF Press Officer who kept the surviving print for over 32 years."
+  },
+  {
+   "key": "robinson",
+   "type": "person",
+   "name": "Andrew Robinson",
+   "aliases": [
+    "Robinson"
+   ],
+   "description": "Photographic specialist at Sheffield Hallam University who analysed the photograph."
+  },
+  {
+   "key": "russell",
+   "type": "person",
+   "name": "Kevin Russell",
+   "description": "Name in the handwritten credit on the reverse of the photograph; believed by Lindsay to be a witness."
+  },
+  {
+   "key": "fox",
+   "type": "person",
+   "name": "James Fox",
+   "aliases": [
+    "Fox"
+   ],
+   "description": "American film-maker of the documentary The Program."
+  },
+  {
+   "key": "record",
+   "type": "organization",
+   "name": "Daily Record",
+   "description": "Glasgow-based tabloid newspaper to which the sighting was reported."
+  },
+  {
+   "key": "mod",
+   "type": "organization",
+   "name": "Ministry of Defence",
+   "aliases": [
+    "MOD",
+    "MoD",
+    "the Ministry"
+   ],
+   "description": "UK ministry that received and analysed the photographs."
+  },
+  {
+   "key": "tna",
+   "type": "organization",
+   "name": "The National Archives",
+   "aliases": [
+    "National Archive",
+    "National Archives",
+    "UK National Archives",
+    "TNA"
+   ],
+   "description": "UK archive that released MOD UFO files."
+  },
+  {
+   "key": "mail",
+   "type": "organization",
+   "name": "Daily Mail",
+   "description": "British-based tabloid that published the photograph on 13 August 2022."
+  },
+  {
+   "key": "secas2",
+   "type": "organization",
+   "name": "Sec(AS)2",
+   "aliases": [
+    "the UFO desk"
+   ],
+   "description": "MOD section known as 'the UFO desk'."
+  },
+  {
+   "key": "secas",
+   "type": "organization",
+   "name": "MoD Secretariat Air Staff",
+   "description": "Source of a September 1990 government briefing on the sighting."
+  },
+  {
+   "key": "aaro",
+   "type": "organization",
+   "name": "All-domain Anomaly Resolution Office",
+   "description": "US Department of Defense office formerly directed by Sean Kirkpatrick."
+  },
+  {
+   "key": "dod",
+   "type": "organization",
+   "name": "United States Department of Defense",
+   "description": "Parent department of AARO."
+  },
+  {
+   "key": "di55",
+   "type": "organization",
+   "name": "DI55",
+   "description": "DSTI branch dealing with missiles and air defence that investigated the images."
+  },
+  {
+   "key": "dsti",
+   "type": "organization",
+   "name": "Directorate of Scientific and Technical Intelligence",
+   "aliases": [
+    "DSTI"
+   ],
+   "description": "Parent directorate of DI55."
+  },
+  {
+   "key": "raf",
+   "type": "organization",
+   "name": "Royal Air Force",
+   "aliases": [
+    "RAF"
+   ],
+   "description": "UK air force; a RAF photo analyst agency investigated the images."
+  },
+  {
+   "key": "di",
+   "type": "organization",
+   "name": "Defence Intelligence",
+   "description": "Organisation of the officer who claimed the object was a US black project platform."
+  },
+  {
+   "key": "ch5",
+   "type": "organization",
+   "name": "Channel 5",
+   "description": "Broadcaster of the documentary series Conspiracy."
+  },
+  {
+   "key": "huffpost",
+   "type": "organization",
+   "name": "HuffPost",
+   "description": "Media outlet that republished the reconstructed image."
+  },
+  {
+   "key": "shu",
+   "type": "organization",
+   "name": "Sheffield Hallam University",
+   "description": "University whose Special Collection holds the print."
+  },
+  {
+   "key": "guardian",
+   "type": "organization",
+   "name": "The Guardian",
+   "description": "Newspaper that published a February 2025 story with a Pope interview."
+  },
+  {
+   "key": "appletv",
+   "type": "organization",
+   "name": "Apple TV",
+   "description": "Platform on which The Program was released."
+  },
+  {
+   "key": "amazon",
+   "type": "organization",
+   "name": "Amazon Prime",
+   "description": "Platform on which The Program was released."
+  },
+  {
+   "key": "calvine",
+   "type": "place",
+   "name": "Calvine, Scotland",
+   "aliases": [
+    "Calvine"
+   ],
+   "description": "Hamlet in Perthshire near which the sighting occurred."
+  },
+  {
+   "key": "perthshire",
+   "type": "place",
+   "name": "Perthshire",
+   "description": "County of Calvine."
+  },
+  {
+   "key": "scotland",
+   "type": "place",
+   "name": "Scotland",
+   "description": "Country of the sighting."
+  },
+  {
+   "key": "uk",
+   "type": "place",
+   "name": "United Kingdom",
+   "aliases": [
+    "U.K.",
+    "UK"
+   ],
+   "description": "Country of the sighting."
+  },
+  {
+   "key": "usa",
+   "type": "place",
+   "name": "United States",
+   "aliases": [
+    "U.S.",
+    "US"
+   ],
+   "description": "Country said to own the experimental craft."
+  },
+  {
+   "key": "glasgow",
+   "type": "place",
+   "name": "Glasgow, Scotland",
+   "aliases": [
+    "Glasgow"
+   ],
+   "description": "City of the Daily Record."
+  },
+  {
+   "key": "machrihanish",
+   "type": "place",
+   "name": "RAF Machrihanish",
+   "description": "Base from which the platform was said to have been flown."
+  },
+  {
+   "key": "pitreavie",
+   "type": "place",
+   "name": "RAF Pitreavie Castle",
+   "aliases": [
+    "Pitreavie MHQ"
+   ],
+   "description": "RAF maritime headquarters where Lindsay was Press Officer."
+  },
+  {
+   "key": "pitlochry",
+   "type": "place",
+   "name": "Pitlochry, Scotland",
+   "aliases": [
+    "Pitlochry"
+   ],
+   "description": "Town where a witness worked in a hotel."
+  },
+  {
+   "key": "london",
+   "type": "place",
+   "name": "London, England",
+   "aliases": [
+    "London"
+   ],
+   "description": "Location of the MOD to which Lindsay faxed his report."
+  },
+  {
+   "key": "sheffield",
+   "type": "place",
+   "name": "Sheffield, England",
+   "aliases": [
+    "Sheffield"
+   ],
+   "description": "City where Fox interviewed Clarke and Robinson."
+  },
+  {
+   "key": "teampan",
+   "type": "place",
+   "name": "An Teampan",
+   "description": "Hillside above Calvine identified as the most likely location of the sighting."
+  },
+  {
+   "key": "photo",
+   "type": "document",
+   "name": "Calvine photograph",
+   "aliases": [
+    "original Calvine photograph",
+    "the Calvine photograph"
+   ],
+   "description": "The only surviving original print of the Calvine sighting, kept by Craig Lindsay."
+  },
+  {
+   "key": "negatives",
+   "type": "document",
+   "name": "Original Calvine negatives and prints",
+   "aliases": [
+    "Calvine photographs"
+   ],
+   "description": "Six photographs and negatives handed to the Daily Record and passed to the MOD, which subsequently disappeared."
+  },
+  {
+   "key": "defe24",
+   "type": "document",
+   "name": "DEFE 24/1940/1",
+   "aliases": [
+    "TNA DEFE 24/1940/1"
+   ],
+   "description": "National Archives file with a Secretariat Air Staff briefing and handwritten summary of the sighting."
+  },
+  {
+   "key": "defe31",
+   "type": "document",
+   "name": "DEFE 31/180/1",
+   "description": "DI55 records containing photocopies of Vu-Foils of the photographs."
+  },
+  {
+   "key": "vufoils",
+   "type": "document",
+   "name": "Photocopies of Vu-Foils of the Calvine photographs",
+   "description": "Two poor-quality photocopies of Vu-Foils made from cropped versions of the original photographs."
+  },
+  {
+   "key": "summary",
+   "type": "document",
+   "name": "Handwritten summary of the Calvine incident",
+   "description": "September 1990 handwritten summary by a Sec(AS)2 officer."
+  },
+  {
+   "key": "briefing",
+   "type": "document",
+   "name": "MoD Secretariat Air Staff briefing on the Calvine sighting",
+   "description": "September 1990 government briefing."
+  },
+  {
+   "key": "lindsay_report",
+   "type": "document",
+   "name": "Craig Lindsay's faxed report on the Calvine sighting",
+   "description": "Short report typed by Lindsay and faxed to the MOD in London."
+  },
+  {
+   "key": "robinson_report",
+   "type": "document",
+   "name": "Andrew Robinson's analysis report on the Calvine photograph",
+   "description": "Detailed analysis report; extended version published online in 2024."
+  },
+  {
+   "key": "poster",
+   "type": "document",
+   "name": "Poster-sized version of a Calvine photograph",
+   "description": "Enlargement on Pope's office wall until removed by his Head of Division."
+  },
+  {
+   "key": "recon",
+   "type": "document",
+   "name": "Reconstructed Calvine image",
+   "description": "Recreation made by Pope with a graphic artist for the 2015 documentary."
+  },
+  {
+   "key": "modfiles",
+   "type": "document",
+   "name": "Ministry of Defence UFO files",
+   "aliases": [
+    "MoD's UFO reports",
+    "UFO files",
+    "Calvine files"
+   ],
+   "description": "MOD UFO reports released by The National Archives from 2008."
+  },
+  {
+   "key": "open_skies",
+   "type": "work",
+   "name": "Open Skies, Closed Minds",
+   "description": "Nick Pope's 1996 book."
+  },
+  {
+   "key": "ufo_files",
+   "type": "work",
+   "name": "The UFO Files",
+   "description": "Clarke's book on UFO sightings in the MoD archives."
+  },
+  {
+   "key": "conspiracy",
+   "type": "work",
+   "name": "Conspiracy",
+   "aliases": [
+    "Alien Cover-Up"
+   ],
+   "description": "Channel 5 documentary series; episode six, \"Alien Cover-Up\", featured the incident."
+  },
+  {
+   "key": "program_doc",
+   "type": "work",
+   "name": "The Program",
+   "description": "2024 documentary by James Fox."
+  },
+  {
+   "key": "disclosure",
+   "type": "work",
+   "name": "The Disclosure Team",
+   "description": "UFO podcast on which Clarke and his team held a Q&A."
+  },
+  {
+   "key": "aurora",
+   "type": "program",
+   "name": "Aurora project",
+   "aliases": [
+    "Aurora"
+   ],
+   "description": "Alleged project Pope speculated might be linked to the incident."
+  },
+  {
+   "key": "opengov",
+   "type": "program",
+   "name": "'open government' initiative",
+   "description": "Initiative under which the MoD UFO reports were released."
+  },
+  {
+   "key": "zamora",
+   "type": "case",
+   "name": "Lonnie Zamora incident",
+   "aliases": [
+    "Socorro, New Mexico (1964)"
+   ],
+   "description": "UFO case at Socorro, New Mexico (1964) featured in The Program."
+  },
+  {
+   "key": "colares",
+   "type": "case",
+   "name": "Operação Prato",
+   "aliases": [
+    "Colares, Brazil (1977)"
+   ],
+   "description": "UFO case at Colares, Brazil (1977) featured in The Program."
+  },
+  {
+   "key": "voronezh",
+   "type": "case",
+   "name": "Voronezh UFO incident",
+   "aliases": [
+    "Voronezh, Soviet Union (1989)"
+   ],
+   "description": "UFO case at Voronezh, Soviet Union (1989) featured in The Program."
+  },
+  {
+   "key": "f_photo",
+   "type": "feature",
+   "name": "photograph",
+   "description": "feature"
+  },
+  {
+   "key": "f_shape",
+   "type": "feature",
+   "name": "shape-other",
+   "description": "feature"
+  },
+  {
+   "key": "f_hover",
+   "type": "feature",
+   "name": "hovering",
+   "description": "feature"
+  },
+  {
+   "key": "f_silent",
+   "type": "feature",
+   "name": "silent",
+   "description": "feature"
+  },
+  {
+   "key": "f_sound",
+   "type": "feature",
+   "name": "sound-reported",
+   "description": "feature"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "feature"
+  },
+  {
+   "key": "f_pursuit",
+   "type": "feature",
+   "name": "aircraft-pursuit",
+   "description": "feature"
+  },
+  {
+   "key": "f_official",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "feature"
+  },
+  {
+   "key": "f_cover",
+   "type": "feature",
+   "name": "alleged-cover-up",
+   "description": "feature"
+  },
+  {
+   "key": "f_hoax",
+   "type": "feature",
+   "name": "hoax-alleged",
+   "description": "feature"
+  },
+  {
+   "key": "f_speed",
+   "type": "feature",
+   "name": "high-speed-maneuvers",
+   "description": "feature"
+  },
+  {
+   "key": "f_missing",
+   "type": "feature",
+   "name": "other:evidence went missing",
+   "description": "feature"
+  },
+  {
+   "key": "x_secret",
+   "type": "explanation",
+   "name": "secret-aircraft",
+   "description": "explanation"
+  },
+  {
+   "key": "x_hoax",
+   "type": "explanation",
+   "name": "hoax",
+   "description": "explanation"
+  },
+  {
+   "key": "x_reflect",
+   "type": "explanation",
+   "name": "other:reflection in a lake",
+   "description": "explanation"
+  }
+ ],
+ "claims": [
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1990-08",
+   "quote": "The Calvine UFO (also known as the Calvine Sighting) was a reported sighting of an unidentified flying object (UFO) near the hamlet of Calvine in Perthshire, Scotland in August 1990."
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United Kingdom",
+   "quote": "The Calvine UFO (also known as the Calvine Sighting) was a reported sighting of an unidentified flying object (UFO) near the hamlet of Calvine in Perthshire, Scotland in August 1990."
+  },
+  {
+   "s": "case",
+   "p": "alias",
+   "v": "Calvine Sighting",
+   "quote": "The Calvine UFO (also known as the Calvine Sighting) was a reported sighting of an unidentified flying object (UFO) near the hamlet of Calvine in Perthshire, Scotland in August 1990."
+  },
+  {
+   "s": "calvine",
+   "p": "near",
+   "o": "case",
+   "quote": "The Calvine UFO (also known as the Calvine Sighting) was a reported sighting of an unidentified flying object (UFO) near the hamlet of Calvine in Perthshire, Scotland in August 1990."
+  },
+  {
+   "s": "calvine",
+   "p": "located_in",
+   "o": "perthshire",
+   "quote": "The Calvine UFO (also known as the Calvine Sighting) was a reported sighting of an unidentified flying object (UFO) near the hamlet of Calvine in Perthshire, Scotland in August 1990."
+  },
+  {
+   "s": "perthshire",
+   "p": "located_in",
+   "o": "scotland",
+   "quote": "The Calvine UFO (also known as the Calvine Sighting) was a reported sighting of an unidentified flying object (UFO) near the hamlet of Calvine in Perthshire, Scotland in August 1990."
+  },
+  {
+   "s": "perthshire",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Calvine UFO (also known as the Calvine Sighting) was a reported sighting of an unidentified flying object (UFO) near the hamlet of Calvine in Perthshire, Scotland in August 1990."
+  },
+  {
+   "s": "scotland",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "The Calvine UFO (also known as the Calvine Sighting) was a reported sighting of an unidentified flying object (UFO) near the hamlet of Calvine in Perthshire, Scotland in August 1990."
+  },
+  {
+   "s": "record",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The sighting was originally reported to the Daily Record, a Glasgow-based tabloid newspaper, by two men who claimed that they witnessed an unknown diamond-shaped craft while walking on the moors above Calvine on the evening of 4 August 1990."
+  },
+  {
+   "s": "record",
+   "p": "located_in",
+   "o": "glasgow",
+   "quote": "The sighting was originally reported to the Daily Record, a Glasgow-based tabloid newspaper, by two men who claimed that they witnessed an unknown diamond-shaped craft while walking on the moors above Calvine on the evening of 4 August 1990."
+  },
+  {
+   "s": "glasgow",
+   "p": "related_place",
+   "o": "case",
+   "quote": "The sighting was originally reported to the Daily Record, a Glasgow-based tabloid newspaper, by two men who claimed that they witnessed an unknown diamond-shaped craft while walking on the moors above Calvine on the evening of 4 August 1990."
+  },
+  {
+   "s": "record",
+   "p": "description",
+   "v": "a Glasgow-based tabloid newspaper",
+   "quote": "The sighting was originally reported to the Daily Record, a Glasgow-based tabloid newspaper, by two men who claimed that they witnessed an unknown diamond-shaped craft while walking on the moors above Calvine on the evening of 4 August 1990."
+  },
+  {
+   "s": "case",
+   "p": "date_start",
+   "v": "1990-08-04",
+   "quote": "The sighting was originally reported to the Daily Record, a Glasgow-based tabloid newspaper, by two men who claimed that they witnessed an unknown diamond-shaped craft while walking on the moors above Calvine on the evening of 4 August 1990."
+  },
+  {
+   "s": "case",
+   "p": "time_of_day",
+   "v": "evening",
+   "quote": "The sighting was originally reported to the Daily Record, a Glasgow-based tabloid newspaper, by two men who claimed that they witnessed an unknown diamond-shaped craft while walking on the moors above Calvine on the evening of 4 August 1990."
+  },
+  {
+   "s": "case",
+   "p": "witness_count",
+   "v": "2",
+   "quote": "The sighting was originally reported to the Daily Record, a Glasgow-based tabloid newspaper, by two men who claimed that they witnessed an unknown diamond-shaped craft while walking on the moors above Calvine on the evening of 4 August 1990."
+  },
+  {
+   "s": "case",
+   "p": "witnesses",
+   "v": "two men walking on the moors above Calvine",
+   "quote": "The sighting was originally reported to the Daily Record, a Glasgow-based tabloid newspaper, by two men who claimed that they witnessed an unknown diamond-shaped craft while walking on the moors above Calvine on the evening of 4 August 1990."
+  },
+  {
+   "s": "craft",
+   "p": "reported_object",
+   "o": "case",
+   "quote": "The sighting was originally reported to the Daily Record, a Glasgow-based tabloid newspaper, by two men who claimed that they witnessed an unknown diamond-shaped craft while walking on the moors above Calvine on the evening of 4 August 1990."
+  },
+  {
+   "s": "craft",
+   "p": "shape",
+   "v": "diamond-shaped",
+   "quote": "The sighting was originally reported to the Daily Record, a Glasgow-based tabloid newspaper, by two men who claimed that they witnessed an unknown diamond-shaped craft while walking on the moors above Calvine on the evening of 4 August 1990."
+  },
+  {
+   "s": "f_shape",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The sighting was originally reported to the Daily Record, a Glasgow-based tabloid newspaper, by two men who claimed that they witnessed an unknown diamond-shaped craft while walking on the moors above Calvine on the evening of 4 August 1990."
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The sighting was originally reported to the Daily Record, a Glasgow-based tabloid newspaper, by two men who claimed that they witnessed an unknown diamond-shaped craft while walking on the moors above Calvine on the evening of 4 August 1990."
+  },
+  {
+   "s": "f_photo",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "They reported seeking shelter under some nearby trees from where they watched the craft, taking photographs while it hovered silently above before ascending vertically and disappearing from view."
+  },
+  {
+   "s": "f_hover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "They reported seeking shelter under some nearby trees from where they watched the craft, taking photographs while it hovered silently above before ascending vertically and disappearing from view."
+  },
+  {
+   "s": "f_silent",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "They reported seeking shelter under some nearby trees from where they watched the craft, taking photographs while it hovered silently above before ascending vertically and disappearing from view."
+  },
+  {
+   "s": "craft",
+   "p": "behavior",
+   "v": "hovered silently above before ascending vertically and disappearing from view",
+   "quote": "They reported seeking shelter under some nearby trees from where they watched the craft, taking photographs while it hovered silently above before ascending vertically and disappearing from view."
+  },
+  {
+   "s": "craft",
+   "p": "sound",
+   "v": "silent",
+   "quote": "They reported seeking shelter under some nearby trees from where they watched the craft, taking photographs while it hovered silently above before ascending vertically and disappearing from view."
+  },
+  {
+   "s": "case",
+   "p": "witness_action",
+   "v": "sought shelter under some nearby trees and took photographs",
+   "quote": "They reported seeking shelter under some nearby trees from where they watched the craft, taking photographs while it hovered silently above before ascending vertically and disappearing from view."
+  },
+  {
+   "s": "negatives",
+   "p": "key_document",
+   "o": "case",
+   "quote": "The two witnesses later told their story to the Daily Record and handed over their prints and original negatives, which were later passed on to the Ministry of Defence (MOD). The original negatives and prints subsequently disappeared and the story was never published by the Daily Record."
+  },
+  {
+   "s": "mod",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The two witnesses later told their story to the Daily Record and handed over their prints and original negatives, which were later passed on to the Ministry of Defence (MOD). The original negatives and prints subsequently disappeared and the story was never published by the Daily Record."
+  },
+  {
+   "s": "negatives",
+   "p": "chain_of_custody",
+   "v": "handed to the Daily Record, later passed on to the Ministry of Defence",
+   "quote": "The two witnesses later told their story to the Daily Record and handed over their prints and original negatives, which were later passed on to the Ministry of Defence (MOD). The original negatives and prints subsequently disappeared and the story was never published by the Daily Record."
+  },
+  {
+   "s": "negatives",
+   "p": "fate",
+   "v": "subsequently disappeared",
+   "quote": "The two witnesses later told their story to the Daily Record and handed over their prints and original negatives, which were later passed on to the Ministry of Defence (MOD). The original negatives and prints subsequently disappeared and the story was never published by the Daily Record."
+  },
+  {
+   "s": "record",
+   "p": "publication",
+   "v": "the story was never published by the Daily Record",
+   "quote": "The two witnesses later told their story to the Daily Record and handed over their prints and original negatives, which were later passed on to the Ministry of Defence (MOD). The original negatives and prints subsequently disappeared and the story was never published by the Daily Record."
+  },
+  {
+   "s": "f_missing",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The two witnesses later told their story to the Daily Record and handed over their prints and original negatives, which were later passed on to the Ministry of Defence (MOD). The original negatives and prints subsequently disappeared and the story was never published by the Daily Record."
+  },
+  {
+   "s": "clarke",
+   "p": "investigator",
+   "o": "case",
+   "quote": "The identity of the witnesses remains unknown despite efforts to locate them by a team of researchers led by investigative journalist David Clarke."
+  },
+  {
+   "s": "clarke",
+   "p": "occupation",
+   "v": "investigative journalist",
+   "quote": "The identity of the witnesses remains unknown despite efforts to locate them by a team of researchers led by investigative journalist David Clarke."
+  },
+  {
+   "s": "case",
+   "p": "witness_identity",
+   "v": "remains unknown",
+   "quote": "The identity of the witnesses remains unknown despite efforts to locate them by a team of researchers led by investigative journalist David Clarke."
+  },
+  {
+   "s": "tna",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Partial documentation included in Ministry of Defence documents released by The National Archives in 2009 helped provide further insight into the sighting and attracted more attention."
+  },
+  {
+   "s": "modfiles",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Partial documentation included in Ministry of Defence documents released by The National Archives in 2009 helped provide further insight into the sighting and attracted more attention."
+  },
+  {
+   "s": "tna",
+   "p": "published",
+   "o": "modfiles",
+   "quote": "Partial documentation included in Ministry of Defence documents released by The National Archives in 2009 helped provide further insight into the sighting and attracted more attention."
+  },
+  {
+   "s": "modfiles",
+   "p": "release_year",
+   "v": "2009",
+   "quote": "Partial documentation included in Ministry of Defence documents released by The National Archives in 2009 helped provide further insight into the sighting and attracted more attention."
+  },
+  {
+   "s": "photo",
+   "p": "key_document",
+   "o": "case",
+   "quote": "This ultimately led to the discovery of an original photographic image of the UFO by Clarke, which was subsequently published in the British-based tabloid newspaper the Daily Mail on Saturday 13 August 2022, with an online release the night before."
+  },
+  {
+   "s": "mail",
+   "p": "published",
+   "o": "photo",
+   "quote": "This ultimately led to the discovery of an original photographic image of the UFO by Clarke, which was subsequently published in the British-based tabloid newspaper the Daily Mail on Saturday 13 August 2022, with an online release the night before."
+  },
+  {
+   "s": "mail",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "This ultimately led to the discovery of an original photographic image of the UFO by Clarke, which was subsequently published in the British-based tabloid newspaper the Daily Mail on Saturday 13 August 2022, with an online release the night before."
+  },
+  {
+   "s": "photo",
+   "p": "published_date",
+   "v": "2022-08-13",
+   "quote": "This ultimately led to the discovery of an original photographic image of the UFO by Clarke, which was subsequently published in the British-based tabloid newspaper the Daily Mail on Saturday 13 August 2022, with an online release the night before."
+  },
+  {
+   "s": "mail",
+   "p": "description",
+   "v": "British-based tabloid newspaper",
+   "quote": "This ultimately led to the discovery of an original photographic image of the UFO by Clarke, which was subsequently published in the British-based tabloid newspaper the Daily Mail on Saturday 13 August 2022, with an online release the night before."
+  },
+  {
+   "s": "uk",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "This ultimately led to the discovery of an original photographic image of the UFO by Clarke, which was subsequently published in the British-based tabloid newspaper the Daily Mail on Saturday 13 August 2022, with an online release the night before."
+  },
+  {
+   "s": "photo",
+   "p": "headline_2022",
+   "v": "the best UFO picture ever",
+   "quote": "with news outlets leading their coverage with often sensational headlines describing the Calvine photograph as \"the best UFO picture ever\" (2022), the \"best ever photo evidence\" (2023), the \"World's clearest UFO photo\" (2024), and \"the best UFO photograph ever seen\" (2025)."
+  },
+  {
+   "s": "photo",
+   "p": "headline_2023",
+   "v": "best ever photo evidence",
+   "quote": "with news outlets leading their coverage with often sensational headlines describing the Calvine photograph as \"the best UFO picture ever\" (2022), the \"best ever photo evidence\" (2023), the \"World's clearest UFO photo\" (2024), and \"the best UFO photograph ever seen\" (2025)."
+  },
+  {
+   "s": "photo",
+   "p": "headline_2024",
+   "v": "World's clearest UFO photo",
+   "quote": "with news outlets leading their coverage with often sensational headlines describing the Calvine photograph as \"the best UFO picture ever\" (2022), the \"best ever photo evidence\" (2023), the \"World's clearest UFO photo\" (2024), and \"the best UFO photograph ever seen\" (2025)."
+  },
+  {
+   "s": "photo",
+   "p": "headline_2025",
+   "v": "the best UFO photograph ever seen",
+   "quote": "with news outlets leading their coverage with often sensational headlines describing the Calvine photograph as \"the best UFO picture ever\" (2022), the \"best ever photo evidence\" (2023), the \"World's clearest UFO photo\" (2024), and \"the best UFO photograph ever seen\" (2025)."
+  },
+  {
+   "s": "pope",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "The existence of the Calvine photographs was first reported by former Ministry of Defence desk officer Nick Pope in his 1996 book Open Skies, Closed Minds based on his experiences logging UFO sightings reported to the MOD while assigned to Sec(AS)2 on what was known as ‘the UFO desk’, from 1991 to 1994."
+  },
+  {
+   "s": "pope",
+   "p": "authored",
+   "o": "open_skies",
+   "quote": "The existence of the Calvine photographs was first reported by former Ministry of Defence desk officer Nick Pope in his 1996 book Open Skies, Closed Minds based on his experiences logging UFO sightings reported to the MOD while assigned to Sec(AS)2 on what was known as ‘the UFO desk’, from 1991 to 1994."
+  },
+  {
+   "s": "open_skies",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The existence of the Calvine photographs was first reported by former Ministry of Defence desk officer Nick Pope in his 1996 book Open Skies, Closed Minds based on his experiences logging UFO sightings reported to the MOD while assigned to Sec(AS)2 on what was known as ‘the UFO desk’, from 1991 to 1994."
+  },
+  {
+   "s": "pope",
+   "p": "employed_by",
+   "o": "mod",
+   "quote": "The existence of the Calvine photographs was first reported by former Ministry of Defence desk officer Nick Pope in his 1996 book Open Skies, Closed Minds based on his experiences logging UFO sightings reported to the MOD while assigned to Sec(AS)2 on what was known as ‘the UFO desk’, from 1991 to 1994."
+  },
+  {
+   "s": "pope",
+   "p": "member_of",
+   "o": "secas2",
+   "quote": "The existence of the Calvine photographs was first reported by former Ministry of Defence desk officer Nick Pope in his 1996 book Open Skies, Closed Minds based on his experiences logging UFO sightings reported to the MOD while assigned to Sec(AS)2 on what was known as ‘the UFO desk’, from 1991 to 1994."
+  },
+  {
+   "s": "secas2",
+   "p": "part_of",
+   "o": "mod",
+   "quote": "The existence of the Calvine photographs was first reported by former Ministry of Defence desk officer Nick Pope in his 1996 book Open Skies, Closed Minds based on his experiences logging UFO sightings reported to the MOD while assigned to Sec(AS)2 on what was known as ‘the UFO desk’, from 1991 to 1994."
+  },
+  {
+   "s": "secas2",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "The existence of the Calvine photographs was first reported by former Ministry of Defence desk officer Nick Pope in his 1996 book Open Skies, Closed Minds based on his experiences logging UFO sightings reported to the MOD while assigned to Sec(AS)2 on what was known as ‘the UFO desk’, from 1991 to 1994."
+  },
+  {
+   "s": "open_skies",
+   "p": "year",
+   "v": "1996",
+   "quote": "The existence of the Calvine photographs was first reported by former Ministry of Defence desk officer Nick Pope in his 1996 book Open Skies, Closed Minds based on his experiences logging UFO sightings reported to the MOD while assigned to Sec(AS)2 on what was known as ‘the UFO desk’, from 1991 to 1994."
+  },
+  {
+   "s": "pope",
+   "p": "occupation",
+   "v": "former Ministry of Defence desk officer",
+   "quote": "The existence of the Calvine photographs was first reported by former Ministry of Defence desk officer Nick Pope in his 1996 book Open Skies, Closed Minds based on his experiences logging UFO sightings reported to the MOD while assigned to Sec(AS)2 on what was known as ‘the UFO desk’, from 1991 to 1994."
+  },
+  {
+   "s": "pope",
+   "p": "ufo_desk_tenure",
+   "v": "1991 to 1994",
+   "quote": "The existence of the Calvine photographs was first reported by former Ministry of Defence desk officer Nick Pope in his 1996 book Open Skies, Closed Minds based on his experiences logging UFO sightings reported to the MOD while assigned to Sec(AS)2 on what was known as ‘the UFO desk’, from 1991 to 1994."
+  },
+  {
+   "s": "secas2",
+   "p": "nickname",
+   "v": "the UFO desk",
+   "quote": "The existence of the Calvine photographs was first reported by former Ministry of Defence desk officer Nick Pope in his 1996 book Open Skies, Closed Minds based on his experiences logging UFO sightings reported to the MOD while assigned to Sec(AS)2 on what was known as ‘the UFO desk’, from 1991 to 1994."
+  },
+  {
+   "s": "pope",
+   "p": "statement",
+   "v": "one of the most intriguing in the Ministry of Defence's files",
+   "quote": "In the book, Pope briefly describes the Calvine sighting, which took place a year before he arrived at Sec(AS)2, as \"one of the most intriguing in the Ministry of Defence's files\". He explains how two men out walking above Calvine became aware of a low humming sound and turned to see a large diamond-shaped object in the sky."
+  },
+  {
+   "s": "pope",
+   "p": "arrival",
+   "v": "the sighting took place a year before he arrived at Sec(AS)2",
+   "quote": "In the book, Pope briefly describes the Calvine sighting, which took place a year before he arrived at Sec(AS)2, as \"one of the most intriguing in the Ministry of Defence's files\". He explains how two men out walking above Calvine became aware of a low humming sound and turned to see a large diamond-shaped object in the sky."
+  },
+  {
+   "s": "f_sound",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "In the book, Pope briefly describes the Calvine sighting, which took place a year before he arrived at Sec(AS)2, as \"one of the most intriguing in the Ministry of Defence's files\". He explains how two men out walking above Calvine became aware of a low humming sound and turned to see a large diamond-shaped object in the sky."
+  },
+  {
+   "s": "craft",
+   "p": "sound",
+   "v": "low humming sound",
+   "quote": "In the book, Pope briefly describes the Calvine sighting, which took place a year before he arrived at Sec(AS)2, as \"one of the most intriguing in the Ministry of Defence's files\". He explains how two men out walking above Calvine became aware of a low humming sound and turned to see a large diamond-shaped object in the sky."
+  },
+  {
+   "s": "craft",
+   "p": "size",
+   "v": "large",
+   "quote": "In the book, Pope briefly describes the Calvine sighting, which took place a year before he arrived at Sec(AS)2, as \"one of the most intriguing in the Ministry of Defence's files\". He explains how two men out walking above Calvine became aware of a low humming sound and turned to see a large diamond-shaped object in the sky."
+  },
+  {
+   "s": "pope",
+   "p": "described",
+   "o": "craft",
+   "quote": "In the book, Pope briefly describes the Calvine sighting, which took place a year before he arrived at Sec(AS)2, as \"one of the most intriguing in the Ministry of Defence's files\". He explains how two men out walking above Calvine became aware of a low humming sound and turned to see a large diamond-shaped object in the sky."
+  },
+  {
+   "s": "case",
+   "p": "duration",
+   "v": "about ten minutes",
+   "quote": "The object hovered for about ten minutes, during which time one of the men captured six photographs, before flying off vertically at great speed."
+  },
+  {
+   "s": "negatives",
+   "p": "count",
+   "v": "six photographs",
+   "quote": "The object hovered for about ten minutes, during which time one of the men captured six photographs, before flying off vertically at great speed."
+  },
+  {
+   "s": "craft",
+   "p": "departure",
+   "v": "flew off vertically at great speed",
+   "quote": "The object hovered for about ten minutes, during which time one of the men captured six photographs, before flying off vertically at great speed."
+  },
+  {
+   "s": "f_speed",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The object hovered for about ten minutes, during which time one of the men captured six photographs, before flying off vertically at great speed."
+  },
+  {
+   "s": "harrier",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "During the sighting a jet, identified by the MOD as a"
+  },
+  {
+   "s": "harrier",
+   "p": "behavior",
+   "v": "made several low-level passes \"as if the pilot had seen the object as well and was homing in for a closer look\"",
+   "quote": "Harrier, made several low-level passes \"as if the pilot had seen the object as well and was homing in for a closer look\"."
+  },
+  {
+   "s": "f_pursuit",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Harrier, made several low-level passes \"as if the pilot had seen the object as well and was homing in for a closer look\"."
+  },
+  {
+   "s": "harrier",
+   "p": "type",
+   "v": "Harrier",
+   "quote": "Harrier, made several low-level passes \"as if the pilot had seen the object as well and was homing in for a closer look\"."
+  },
+  {
+   "s": "mod",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "Pope explained that expert analysis undertaken by the MOD had concluded the photos were \"not fakes\" and the sighting was marked as \"object unexplained, case closed, no further action\"."
+  },
+  {
+   "s": "f_official",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Pope explained that expert analysis undertaken by the MOD had concluded the photos were \"not fakes\" and the sighting was marked as \"object unexplained, case closed, no further action\"."
+  },
+  {
+   "s": "mod",
+   "p": "conclusion",
+   "v": "the photos were \"not fakes\"",
+   "quote": "Pope explained that expert analysis undertaken by the MOD had concluded the photos were \"not fakes\" and the sighting was marked as \"object unexplained, case closed, no further action\"."
+  },
+  {
+   "s": "case",
+   "p": "official_status",
+   "v": "object unexplained, case closed, no further action",
+   "quote": "Pope explained that expert analysis undertaken by the MOD had concluded the photos were \"not fakes\" and the sighting was marked as \"object unexplained, case closed, no further action\"."
+  },
+  {
+   "s": "poster",
+   "p": "key_document",
+   "o": "case",
+   "quote": "He also explained that there had been a poster-sized version of one of the original photographs on his office wall until it was removed by his Head of Division."
+  },
+  {
+   "s": "poster",
+   "p": "fate",
+   "v": "on Pope's office wall until it was removed by his Head of Division",
+   "quote": "He also explained that there had been a poster-sized version of one of the original photographs on his office wall until it was removed by his Head of Division."
+  },
+  {
+   "s": "clarke",
+   "p": "interviewed",
+   "o": "pope",
+   "quote": "In an April 2001 interview with David Clarke, Pope claimed that MOD analysts allegedly determined the object to be a \"solid craft\", at least the size of a Harrier or Hawk fighter jet."
+  },
+  {
+   "s": "pope",
+   "p": "later_claim",
+   "v": "MOD analysts allegedly determined the object to be a \"solid craft\", at least the size of a Harrier or Hawk fighter jet",
+   "quote": "In an April 2001 interview with David Clarke, Pope claimed that MOD analysts allegedly determined the object to be a \"solid craft\", at least the size of a Harrier or Hawk fighter jet."
+  },
+  {
+   "s": "craft",
+   "p": "size",
+   "v": "at least the size of a Harrier or Hawk fighter jet",
+   "quote": "In an April 2001 interview with David Clarke, Pope claimed that MOD analysts allegedly determined the object to be a \"solid craft\", at least the size of a Harrier or Hawk fighter jet."
+  },
+  {
+   "s": "pope",
+   "p": "interview_date",
+   "v": "2001-04",
+   "quote": "In an April 2001 interview with David Clarke, Pope claimed that MOD analysts allegedly determined the object to be a \"solid craft\", at least the size of a Harrier or Hawk fighter jet."
+  },
+  {
+   "s": "pope",
+   "p": "statement",
+   "v": "the MOD reportedly concluded there were no indications the images were a hoax, that \"this was for real, that it was a good one\"",
+   "quote": "According to him, the MOD reportedly concluded that there were no indications the images were a hoax, that \"this was for real, that it was a good one\"."
+  },
+  {
+   "s": "kirkpatrick",
+   "p": "skeptic",
+   "o": "case",
+   "quote": "Sean Kirkpatrick, former director of the United States Department of Defense's All-domain Anomaly Resolution Office, has been quoted as concluding that it is a reflection in the lake and the photo has been doctored:"
+  },
+  {
+   "s": "kirkpatrick",
+   "p": "employed_by",
+   "o": "aaro",
+   "quote": "Sean Kirkpatrick, former director of the United States Department of Defense's All-domain Anomaly Resolution Office, has been quoted as concluding that it is a reflection in the lake and the photo has been doctored:"
+  },
+  {
+   "s": "aaro",
+   "p": "part_of",
+   "o": "dod",
+   "quote": "Sean Kirkpatrick, former director of the United States Department of Defense's All-domain Anomaly Resolution Office, has been quoted as concluding that it is a reflection in the lake and the photo has been doctored:"
+  },
+  {
+   "s": "aaro",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Sean Kirkpatrick, former director of the United States Department of Defense's All-domain Anomaly Resolution Office, has been quoted as concluding that it is a reflection in the lake and the photo has been doctored:"
+  },
+  {
+   "s": "kirkpatrick",
+   "p": "occupation",
+   "v": "former director of the All-domain Anomaly Resolution Office",
+   "quote": "Sean Kirkpatrick, former director of the United States Department of Defense's All-domain Anomaly Resolution Office, has been quoted as concluding that it is a reflection in the lake and the photo has been doctored:"
+  },
+  {
+   "s": "kirkpatrick",
+   "p": "proposed",
+   "o": "x_reflect",
+   "quote": "Sean Kirkpatrick, former director of the United States Department of Defense's All-domain Anomaly Resolution Office, has been quoted as concluding that it is a reflection in the lake and the photo has been doctored:"
+  },
+  {
+   "s": "x_reflect",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Sean Kirkpatrick, former director of the United States Department of Defense's All-domain Anomaly Resolution Office, has been quoted as concluding that it is a reflection in the lake and the photo has been doctored:"
+  },
+  {
+   "s": "kirkpatrick",
+   "p": "proposed",
+   "o": "x_hoax",
+   "quote": "Sean Kirkpatrick, former director of the United States Department of Defense's All-domain Anomaly Resolution Office, has been quoted as concluding that it is a reflection in the lake and the photo has been doctored:"
+  },
+  {
+   "s": "f_hoax",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "Sean Kirkpatrick, former director of the United States Department of Defense's All-domain Anomaly Resolution Office, has been quoted as concluding that it is a reflection in the lake and the photo has been doctored:"
+  },
+  {
+   "s": "kirkpatrick",
+   "p": "statement",
+   "v": "If you look carefully towards the right side and in the raw image, the top and bottom are reflections of each other.",
+   "quote": "\"If you look carefully towards the right side and in the raw image, the top and bottom are reflections of each other."
+  },
+  {
+   "s": "x_hoax",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Others, who assert that the photo is a hoax, claim that the supposed UFO could merely be something akin to \"a cardboard bauble attached to a string and hung from a tree branch\"."
+  },
+  {
+   "s": "x_hoax",
+   "p": "detail",
+   "v": "a cardboard bauble attached to a string and hung from a tree branch",
+   "quote": "Others, who assert that the photo is a hoax, claim that the supposed UFO could merely be something akin to \"a cardboard bauble attached to a string and hung from a tree branch\"."
+  },
+  {
+   "s": "modfiles",
+   "p": "release_began",
+   "v": "2008",
+   "quote": "Despite Pope's description of the Calvine sighting in Open Skies, Closed Minds, it gained little public attention until 2008, when the National Archive began to release the MoD's UFO reports as part of the 'open government' initiative."
+  },
+  {
+   "s": "opengov",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Despite Pope's description of the Calvine sighting in Open Skies, Closed Minds, it gained little public attention until 2008, when the National Archive began to release the MoD's UFO reports as part of the 'open government' initiative."
+  },
+  {
+   "s": "case",
+   "p": "public_attention",
+   "v": "gained little public attention until 2008",
+   "quote": "Despite Pope's description of the Calvine sighting in Open Skies, Closed Minds, it gained little public attention until 2008, when the National Archive began to release the MoD's UFO reports as part of the 'open government' initiative."
+  },
+  {
+   "s": "clarke",
+   "p": "role",
+   "v": "invited to supervise the release and publication of the UFO files",
+   "quote": "Clarke, who was known for his investigation of UFO reports, was invited to supervise the release and publication of the UFO files."
+  },
+  {
+   "s": "defe24",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Among the released documents were materials related to the Calvine sighting, including a government briefing from the MoD Secretariat Air Staff, and a handwritten summary of the sighting from a Sec(AS)2 officer both dated September 1990 (DEFE 24/1940/1 – pages 113–116)."
+  },
+  {
+   "s": "briefing",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Among the released documents were materials related to the Calvine sighting, including a government briefing from the MoD Secretariat Air Staff, and a handwritten summary of the sighting from a Sec(AS)2 officer both dated September 1990 (DEFE 24/1940/1 – pages 113–116)."
+  },
+  {
+   "s": "summary",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Among the released documents were materials related to the Calvine sighting, including a government briefing from the MoD Secretariat Air Staff, and a handwritten summary of the sighting from a Sec(AS)2 officer both dated September 1990 (DEFE 24/1940/1 – pages 113–116)."
+  },
+  {
+   "s": "briefing",
+   "p": "part_of",
+   "o": "defe24",
+   "quote": "Among the released documents were materials related to the Calvine sighting, including a government briefing from the MoD Secretariat Air Staff, and a handwritten summary of the sighting from a Sec(AS)2 officer both dated September 1990 (DEFE 24/1940/1 – pages 113–116)."
+  },
+  {
+   "s": "summary",
+   "p": "part_of",
+   "o": "defe24",
+   "quote": "Among the released documents were materials related to the Calvine sighting, including a government briefing from the MoD Secretariat Air Staff, and a handwritten summary of the sighting from a Sec(AS)2 officer both dated September 1990 (DEFE 24/1940/1 – pages 113–116)."
+  },
+  {
+   "s": "secas",
+   "p": "authored",
+   "o": "briefing",
+   "quote": "Among the released documents were materials related to the Calvine sighting, including a government briefing from the MoD Secretariat Air Staff, and a handwritten summary of the sighting from a Sec(AS)2 officer both dated September 1990 (DEFE 24/1940/1 – pages 113–116)."
+  },
+  {
+   "s": "secas",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Among the released documents were materials related to the Calvine sighting, including a government briefing from the MoD Secretariat Air Staff, and a handwritten summary of the sighting from a Sec(AS)2 officer both dated September 1990 (DEFE 24/1940/1 – pages 113–116)."
+  },
+  {
+   "s": "secas2",
+   "p": "authored",
+   "o": "summary",
+   "quote": "Among the released documents were materials related to the Calvine sighting, including a government briefing from the MoD Secretariat Air Staff, and a handwritten summary of the sighting from a Sec(AS)2 officer both dated September 1990 (DEFE 24/1940/1 – pages 113–116)."
+  },
+  {
+   "s": "briefing",
+   "p": "date",
+   "v": "1990-09",
+   "quote": "Among the released documents were materials related to the Calvine sighting, including a government briefing from the MoD Secretariat Air Staff, and a handwritten summary of the sighting from a Sec(AS)2 officer both dated September 1990 (DEFE 24/1940/1 – pages 113–116)."
+  },
+  {
+   "s": "summary",
+   "p": "date",
+   "v": "1990-09",
+   "quote": "Among the released documents were materials related to the Calvine sighting, including a government briefing from the MoD Secretariat Air Staff, and a handwritten summary of the sighting from a Sec(AS)2 officer both dated September 1990 (DEFE 24/1940/1 – pages 113–116)."
+  },
+  {
+   "s": "defe24",
+   "p": "pages",
+   "v": "113-116",
+   "quote": "Among the released documents were materials related to the Calvine sighting, including a government briefing from the MoD Secretariat Air Staff, and a handwritten summary of the sighting from a Sec(AS)2 officer both dated September 1990 (DEFE 24/1940/1 – pages 113–116)."
+  },
+  {
+   "s": "vufoils",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Additionally, two poor-quality photocopies of Vu-Foils (images on transparent plastic) made from cropped versions of the original photographs were included in records assembled by DI55, a branch of the Directorate of Scientific and Technical Intelligence (DSTI) that dealt with missiles and air defence."
+  },
+  {
+   "s": "di55",
+   "p": "part_of",
+   "o": "dsti",
+   "quote": "Additionally, two poor-quality photocopies of Vu-Foils (images on transparent plastic) made from cropped versions of the original photographs were included in records assembled by DI55, a branch of the Directorate of Scientific and Technical Intelligence (DSTI) that dealt with missiles and air defence."
+  },
+  {
+   "s": "di55",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Additionally, two poor-quality photocopies of Vu-Foils (images on transparent plastic) made from cropped versions of the original photographs were included in records assembled by DI55, a branch of the Directorate of Scientific and Technical Intelligence (DSTI) that dealt with missiles and air defence."
+  },
+  {
+   "s": "dsti",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Additionally, two poor-quality photocopies of Vu-Foils (images on transparent plastic) made from cropped versions of the original photographs were included in records assembled by DI55, a branch of the Directorate of Scientific and Technical Intelligence (DSTI) that dealt with missiles and air defence."
+  },
+  {
+   "s": "vufoils",
+   "p": "count",
+   "v": "2",
+   "quote": "Additionally, two poor-quality photocopies of Vu-Foils (images on transparent plastic) made from cropped versions of the original photographs were included in records assembled by DI55, a branch of the Directorate of Scientific and Technical Intelligence (DSTI) that dealt with missiles and air defence."
+  },
+  {
+   "s": "vufoils",
+   "p": "quality",
+   "v": "poor-quality photocopies made from cropped versions of the original photographs",
+   "quote": "Additionally, two poor-quality photocopies of Vu-Foils (images on transparent plastic) made from cropped versions of the original photographs were included in records assembled by DI55, a branch of the Directorate of Scientific and Technical Intelligence (DSTI) that dealt with missiles and air defence."
+  },
+  {
+   "s": "di55",
+   "p": "description",
+   "v": "branch of DSTI that dealt with missiles and air defence",
+   "quote": "Additionally, two poor-quality photocopies of Vu-Foils (images on transparent plastic) made from cropped versions of the original photographs were included in records assembled by DI55, a branch of the Directorate of Scientific and Technical Intelligence (DSTI) that dealt with missiles and air defence."
+  },
+  {
+   "s": "defe31",
+   "p": "key_document",
+   "o": "case",
+   "quote": "(DEFE 31/180/1 – pages 36–7). These files revealed the images were the subject of an investigation by DI55 and a RAF photo analyst agency."
+  },
+  {
+   "s": "vufoils",
+   "p": "part_of",
+   "o": "defe31",
+   "quote": "(DEFE 31/180/1 – pages 36–7). These files revealed the images were the subject of an investigation by DI55 and a RAF photo analyst agency."
+  },
+  {
+   "s": "defe31",
+   "p": "pages",
+   "v": "36-7",
+   "quote": "(DEFE 31/180/1 – pages 36–7). These files revealed the images were the subject of an investigation by DI55 and a RAF photo analyst agency."
+  },
+  {
+   "s": "di55",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "(DEFE 31/180/1 – pages 36–7). These files revealed the images were the subject of an investigation by DI55 and a RAF photo analyst agency."
+  },
+  {
+   "s": "raf",
+   "p": "investigated_by",
+   "o": "case",
+   "quote": "(DEFE 31/180/1 – pages 36–7). These files revealed the images were the subject of an investigation by DI55 and a RAF photo analyst agency."
+  },
+  {
+   "s": "raf",
+   "p": "detail",
+   "v": "a RAF photo analyst agency investigated the images",
+   "quote": "(DEFE 31/180/1 – pages 36–7). These files revealed the images were the subject of an investigation by DI55 and a RAF photo analyst agency."
+  },
+  {
+   "s": "clarke",
+   "p": "authored",
+   "o": "ufo_files",
+   "quote": "Clarke later wrote The UFO Files, which explored various UFO sightings documented in the MoD archives, including the Calvine incident."
+  },
+  {
+   "s": "ufo_files",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Clarke later wrote The UFO Files, which explored various UFO sightings documented in the MoD archives, including the Calvine incident."
+  },
+  {
+   "s": "modfiles",
+   "p": "publicised",
+   "v": "released documents on the Calvine UFO were publicised through Clarke's blog",
+   "quote": "The released documents on the Calvine UFO were publicised through Clarke's blog."
+  },
+  {
+   "s": "conspiracy",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The release of information from the National Archives, along with publicity from Clarke and Pope, led to increasing public interest in the case, especially within the U.K. and in 2015, the incident was featured in the sixth episode of the Channel 5 documentary series Conspiracy."
+  },
+  {
+   "s": "ch5",
+   "p": "published",
+   "o": "conspiracy",
+   "quote": "The release of information from the National Archives, along with publicity from Clarke and Pope, led to increasing public interest in the case, especially within the U.K. and in 2015, the incident was featured in the sixth episode of the Channel 5 documentary series Conspiracy."
+  },
+  {
+   "s": "ch5",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "The release of information from the National Archives, along with publicity from Clarke and Pope, led to increasing public interest in the case, especially within the U.K. and in 2015, the incident was featured in the sixth episode of the Channel 5 documentary series Conspiracy."
+  },
+  {
+   "s": "conspiracy",
+   "p": "year",
+   "v": "2015",
+   "quote": "The release of information from the National Archives, along with publicity from Clarke and Pope, led to increasing public interest in the case, especially within the U.K. and in 2015, the incident was featured in the sixth episode of the Channel 5 documentary series Conspiracy."
+  },
+  {
+   "s": "conspiracy",
+   "p": "episode",
+   "v": "sixth episode",
+   "quote": "The release of information from the National Archives, along with publicity from Clarke and Pope, led to increasing public interest in the case, especially within the U.K. and in 2015, the incident was featured in the sixth episode of the Channel 5 documentary series Conspiracy."
+  },
+  {
+   "s": "conspiracy",
+   "p": "episode_title",
+   "v": "Alien Cover-Up",
+   "quote": "The episode, titled \"Alien Cover-Up\", included interviews with Clarke and Pope and featured a reconstruction of the sighting filmed on the moors above Calvine."
+  },
+  {
+   "s": "conspiracy",
+   "p": "content",
+   "v": "interviews with Clarke and Pope and a reconstruction of the sighting filmed on the moors above Calvine",
+   "quote": "The episode, titled \"Alien Cover-Up\", included interviews with Clarke and Pope and featured a reconstruction of the sighting filmed on the moors above Calvine."
+  },
+  {
+   "s": "f_cover",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "The episode, titled \"Alien Cover-Up\", included interviews with Clarke and Pope and featured a reconstruction of the sighting filmed on the moors above Calvine."
+  },
+  {
+   "s": "recon",
+   "p": "key_document",
+   "o": "case",
+   "quote": "For the programme Pope worked with a graphic artist to recreate the Calvine photograph based on his recollection of the image and the photocopies from the UK National Archives."
+  },
+  {
+   "s": "pope",
+   "p": "authored",
+   "o": "recon",
+   "quote": "For the programme Pope worked with a graphic artist to recreate the Calvine photograph based on his recollection of the image and the photocopies from the UK National Archives."
+  },
+  {
+   "s": "recon",
+   "p": "basis",
+   "v": "Pope's recollection of the image and the photocopies from the UK National Archives",
+   "quote": "For the programme Pope worked with a graphic artist to recreate the Calvine photograph based on his recollection of the image and the photocopies from the UK National Archives."
+  },
+  {
+   "s": "huffpost",
+   "p": "published",
+   "o": "recon",
+   "quote": "This reconstructed image was later republished in various media outlets, including HuffPost, being mistaken by some for a genuine image of the sighting."
+  },
+  {
+   "s": "huffpost",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "This reconstructed image was later republished in various media outlets, including HuffPost, being mistaken by some for a genuine image of the sighting."
+  },
+  {
+   "s": "recon",
+   "p": "note",
+   "v": "mistaken by some for a genuine image of the sighting",
+   "quote": "This reconstructed image was later republished in various media outlets, including HuffPost, being mistaken by some for a genuine image of the sighting."
+  },
+  {
+   "s": "aurora",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Pope has since discussed the incident, speculating on potential links to the alleged Aurora project."
+  },
+  {
+   "s": "pope",
+   "p": "proposed",
+   "o": "x_secret",
+   "quote": "Pope has since discussed the incident, speculating on potential links to the alleged Aurora project."
+  },
+  {
+   "s": "pope",
+   "p": "statement",
+   "v": "speculated on potential links to the alleged Aurora project",
+   "quote": "Pope has since discussed the incident, speculating on potential links to the alleged Aurora project."
+  },
+  {
+   "s": "clarke",
+   "p": "renewed_investigation",
+   "v": "2018",
+   "quote": "In 2018, Clarke renewed his investigation into the sighting, seeking to locate both the missing photographs and the witnesses."
+  },
+  {
+   "s": "di",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "His interest was sparked by a Defence Intelligence officer's claim that the witnesses had photographed a classified U.S. black project platform that to this day remains Top Secret."
+  },
+  {
+   "s": "platform",
+   "p": "involved_vehicle",
+   "o": "case",
+   "quote": "His interest was sparked by a Defence Intelligence officer's claim that the witnesses had photographed a classified U.S. black project platform that to this day remains Top Secret."
+  },
+  {
+   "s": "x_secret",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "His interest was sparked by a Defence Intelligence officer's claim that the witnesses had photographed a classified U.S. black project platform that to this day remains Top Secret."
+  },
+  {
+   "s": "usa",
+   "p": "related_place",
+   "o": "case",
+   "quote": "His interest was sparked by a Defence Intelligence officer's claim that the witnesses had photographed a classified U.S. black project platform that to this day remains Top Secret."
+  },
+  {
+   "s": "platform",
+   "p": "classification",
+   "v": "Top Secret",
+   "quote": "His interest was sparked by a Defence Intelligence officer's claim that the witnesses had photographed a classified U.S. black project platform that to this day remains Top Secret."
+  },
+  {
+   "s": "di",
+   "p": "officer_claim",
+   "v": "the witnesses had photographed a classified U.S. black project platform that to this day remains Top Secret",
+   "quote": "His interest was sparked by a Defence Intelligence officer's claim that the witnesses had photographed a classified U.S. black project platform that to this day remains Top Secret."
+  },
+  {
+   "s": "machrihanish",
+   "p": "related_place",
+   "o": "case",
+   "quote": "This source suggested the platform had been flown from RAF Machrihanish, escorted by U.K. and U.S. aircraft, and the photos had been carefully kept out of the public domain."
+  },
+  {
+   "s": "platform",
+   "p": "flown_from",
+   "v": "RAF Machrihanish, escorted by U.K. and U.S. aircraft",
+   "quote": "This source suggested the platform had been flown from RAF Machrihanish, escorted by U.K. and U.S. aircraft, and the photos had been carefully kept out of the public domain."
+  },
+  {
+   "s": "negatives",
+   "p": "suppression_claim",
+   "v": "the photos had been carefully kept out of the public domain",
+   "quote": "This source suggested the platform had been flown from RAF Machrihanish, escorted by U.K. and U.S. aircraft, and the photos had been carefully kept out of the public domain."
+  },
+  {
+   "s": "adams",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Clarke and a small team of researchers, including Vinnie Adams, Matthew Illsley, and Giles Stevens, worked to uncover further details of the Calvine sighting undertaking interviews with former MoD staff; conducting public searches; and publishing updates throughout 2020 and 2021."
+  },
+  {
+   "s": "adams",
+   "p": "colleague_of",
+   "o": "clarke",
+   "quote": "Clarke and a small team of researchers, including Vinnie Adams, Matthew Illsley, and Giles Stevens, worked to uncover further details of the Calvine sighting undertaking interviews with former MoD staff; conducting public searches; and publishing updates throughout 2020 and 2021."
+  },
+  {
+   "s": "illsley",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Clarke and a small team of researchers, including Vinnie Adams, Matthew Illsley, and Giles Stevens, worked to uncover further details of the Calvine sighting undertaking interviews with former MoD staff; conducting public searches; and publishing updates throughout 2020 and 2021."
+  },
+  {
+   "s": "illsley",
+   "p": "colleague_of",
+   "o": "clarke",
+   "quote": "Clarke and a small team of researchers, including Vinnie Adams, Matthew Illsley, and Giles Stevens, worked to uncover further details of the Calvine sighting undertaking interviews with former MoD staff; conducting public searches; and publishing updates throughout 2020 and 2021."
+  },
+  {
+   "s": "stevens",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Clarke and a small team of researchers, including Vinnie Adams, Matthew Illsley, and Giles Stevens, worked to uncover further details of the Calvine sighting undertaking interviews with former MoD staff; conducting public searches; and publishing updates throughout 2020 and 2021."
+  },
+  {
+   "s": "stevens",
+   "p": "colleague_of",
+   "o": "clarke",
+   "quote": "Clarke and a small team of researchers, including Vinnie Adams, Matthew Illsley, and Giles Stevens, worked to uncover further details of the Calvine sighting undertaking interviews with former MoD staff; conducting public searches; and publishing updates throughout 2020 and 2021."
+  },
+  {
+   "s": "clarke",
+   "p": "research_activity",
+   "v": "interviews with former MoD staff, public searches, and updates throughout 2020 and 2021",
+   "quote": "Clarke and a small team of researchers, including Vinnie Adams, Matthew Illsley, and Giles Stevens, worked to uncover further details of the Calvine sighting undertaking interviews with former MoD staff; conducting public searches; and publishing updates throughout 2020 and 2021."
+  },
+  {
+   "s": "wilson",
+   "p": "investigator",
+   "o": "case",
+   "quote": "In 2020, the Scottish ufologist Straiph Wilson launched a search via a local newspaper for the witnesses; however, no one came forward."
+  },
+  {
+   "s": "wilson",
+   "p": "occupation",
+   "v": "Scottish ufologist",
+   "quote": "In 2020, the Scottish ufologist Straiph Wilson launched a search via a local newspaper for the witnesses; however, no one came forward."
+  },
+  {
+   "s": "wilson",
+   "p": "search",
+   "v": "launched a search via a local newspaper for the witnesses in 2020; no one came forward",
+   "quote": "In 2020, the Scottish ufologist Straiph Wilson launched a search via a local newspaper for the witnesses; however, no one came forward."
+  },
+  {
+   "s": "pitreavie",
+   "p": "related_place",
+   "o": "case",
+   "quote": "A handwritten summary of the Calvine incident released by the MOD in 2009 (TNA DEFE 24/1940/1 – page 113) briefly mentioned that a report of the sighting had been passed to \"RAF Press Officer, Pitreavie MHQ\", however the name and phone number of the person concerned had been redacted."
+  },
+  {
+   "s": "summary",
+   "p": "content",
+   "v": "a report of the sighting had been passed to \"RAF Press Officer, Pitreavie MHQ\"; name and phone number redacted",
+   "quote": "A handwritten summary of the Calvine incident released by the MOD in 2009 (TNA DEFE 24/1940/1 – page 113) briefly mentioned that a report of the sighting had been passed to \"RAF Press Officer, Pitreavie MHQ\", however the name and phone number of the person concerned had been redacted."
+  },
+  {
+   "s": "summary",
+   "p": "release_year",
+   "v": "2009",
+   "quote": "A handwritten summary of the Calvine incident released by the MOD in 2009 (TNA DEFE 24/1940/1 – page 113) briefly mentioned that a report of the sighting had been passed to \"RAF Press Officer, Pitreavie MHQ\", however the name and phone number of the person concerned had been redacted."
+  },
+  {
+   "s": "lindsay",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Clarke was able to track down the person in the post at the time; retired RAF Press Officer Craig Lindsay, who he first contacted in August 2021."
+  },
+  {
+   "s": "lindsay",
+   "p": "member_of",
+   "o": "raf",
+   "quote": "Clarke was able to track down the person in the post at the time; retired RAF Press Officer Craig Lindsay, who he first contacted in August 2021."
+  },
+  {
+   "s": "lindsay",
+   "p": "occupation",
+   "v": "retired RAF Press Officer",
+   "quote": "Clarke was able to track down the person in the post at the time; retired RAF Press Officer Craig Lindsay, who he first contacted in August 2021."
+  },
+  {
+   "s": "lindsay",
+   "p": "first_contacted",
+   "v": "2021-08",
+   "quote": "Clarke was able to track down the person in the post at the time; retired RAF Press Officer Craig Lindsay, who he first contacted in August 2021."
+  },
+  {
+   "s": "clarke",
+   "p": "interviewed",
+   "o": "lindsay",
+   "quote": "Clarke was able to track down the person in the post at the time; retired RAF Press Officer Craig Lindsay, who he first contacted in August 2021."
+  },
+  {
+   "s": "lindsay",
+   "p": "stationed_at",
+   "o": "pitreavie",
+   "quote": "Clarke was able to track down the person in the post at the time; retired RAF Press Officer Craig Lindsay, who he first contacted in August 2021."
+  },
+  {
+   "s": "lindsay",
+   "p": "statement",
+   "v": "I've been waiting for someone to call me about this for 30 years!",
+   "quote": "In their first phone call Lindsay told Clarke: “I’ve been waiting for someone to call me about this for 30 years!\""
+  },
+  {
+   "s": "lindsay",
+   "p": "owned",
+   "o": "photo",
+   "quote": "Over the course of a number of interviews, Lindsay revealed that the Daily Record had provided him with a print of one of the images along with contact details for one of the witnesses."
+  },
+  {
+   "s": "photo",
+   "p": "provenance",
+   "v": "provided to Lindsay by the Daily Record along with contact details for one of the witnesses",
+   "quote": "Over the course of a number of interviews, Lindsay revealed that the Daily Record had provided him with a print of one of the images along with contact details for one of the witnesses."
+  },
+  {
+   "s": "pitlochry",
+   "p": "related_place",
+   "o": "case",
+   "quote": "Lindsay had phoned the witness, who turned out to be working in a hotel in Pitlochry, and interviewed them over the phone."
+  },
+  {
+   "s": "lindsay",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Lindsay had phoned the witness, who turned out to be working in a hotel in Pitlochry, and interviewed them over the phone."
+  },
+  {
+   "s": "case",
+   "p": "witness_detail",
+   "v": "one witness was working in a hotel in Pitlochry and was interviewed by phone by Lindsay",
+   "quote": "Lindsay had phoned the witness, who turned out to be working in a hotel in Pitlochry, and interviewed them over the phone."
+  },
+  {
+   "s": "lindsay_report",
+   "p": "key_document",
+   "o": "case",
+   "quote": "He then typed up a short report of his findings which he faxed, along with a photocopy of the image provided by the Daily Record, to the MOD in London at which point he was told to 'leave it to London'."
+  },
+  {
+   "s": "lindsay",
+   "p": "authored",
+   "o": "lindsay_report",
+   "quote": "He then typed up a short report of his findings which he faxed, along with a photocopy of the image provided by the Daily Record, to the MOD in London at which point he was told to 'leave it to London'."
+  },
+  {
+   "s": "london",
+   "p": "related_place",
+   "o": "case",
+   "quote": "He then typed up a short report of his findings which he faxed, along with a photocopy of the image provided by the Daily Record, to the MOD in London at which point he was told to 'leave it to London'."
+  },
+  {
+   "s": "mod",
+   "p": "located_in",
+   "o": "london",
+   "quote": "He then typed up a short report of his findings which he faxed, along with a photocopy of the image provided by the Daily Record, to the MOD in London at which point he was told to 'leave it to London'."
+  },
+  {
+   "s": "lindsay",
+   "p": "instruction_received",
+   "v": "told to 'leave it to London'",
+   "quote": "He then typed up a short report of his findings which he faxed, along with a photocopy of the image provided by the Daily Record, to the MOD in London at which point he was told to 'leave it to London'."
+  },
+  {
+   "s": "lindsay",
+   "p": "action",
+   "v": "in October 2021 emailed Clarke a copy of a photocopy of the original photograph but said he couldn't find the print itself",
+   "quote": "In October 2021 Lindsay emailed Clarke a copy of a photocopy of the original photograph sent to him by the Daily Record but told him he couldn't find the print itself."
+  },
+  {
+   "s": "photo",
+   "p": "kept_for",
+   "v": "over 32 years",
+   "quote": "The following May, Clarke travelled to Calvine to interview Lindsay in person at which time he revealed the original photograph along with its envelope and the photocopies he had faxed to the MOD, all of which he had safely kept in his possession for over 32 years."
+  },
+  {
+   "s": "photo",
+   "p": "revealed",
+   "v": "May 2022, with its envelope and the photocopies faxed to the MOD",
+   "quote": "The following May, Clarke travelled to Calvine to interview Lindsay in person at which time he revealed the original photograph along with its envelope and the photocopies he had faxed to the MOD, all of which he had safely kept in his possession for over 32 years."
+  },
+  {
+   "s": "lindsay",
+   "p": "action",
+   "v": "would not allow Clarke to handle the print as he didn't want to reveal a name written on its rear; agreed to be photographed with it",
+   "quote": "Lindsay would not allow Clarke to handle the print as he didn't want to reveal a name written on its rear however agreed to be photographed with it."
+  },
+  {
+   "s": "photo",
+   "p": "status",
+   "v": "the only surviving photograph of the Calvine sighting",
+   "quote": "the only surviving photograph of the Calvine sighting had been reproduced since Lindsay acquired it in 1990"
+  },
+  {
+   "s": "photo",
+   "p": "acquired_by_lindsay",
+   "v": "1990",
+   "quote": "the only surviving photograph of the Calvine sighting had been reproduced since Lindsay acquired it in 1990"
+  },
+  {
+   "s": "adams",
+   "p": "interviewed",
+   "o": "lindsay",
+   "quote": "On 27 June 2022, Clarke and Vinnie Adams interviewed Lindsay at RAF Pitreavie Castle at which point he agreed to donate the print and other items to Sheffield Hallam University's Special Collection and handed them over to Clarke."
+  },
+  {
+   "s": "shu",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "On 27 June 2022, Clarke and Vinnie Adams interviewed Lindsay at RAF Pitreavie Castle at which point he agreed to donate the print and other items to Sheffield Hallam University's Special Collection and handed them over to Clarke."
+  },
+  {
+   "s": "shu",
+   "p": "owned",
+   "o": "photo",
+   "quote": "On 27 June 2022, Clarke and Vinnie Adams interviewed Lindsay at RAF Pitreavie Castle at which point he agreed to donate the print and other items to Sheffield Hallam University's Special Collection and handed them over to Clarke."
+  },
+  {
+   "s": "photo",
+   "p": "donated",
+   "v": "2022-06-27, to Sheffield Hallam University's Special Collection",
+   "quote": "On 27 June 2022, Clarke and Vinnie Adams interviewed Lindsay at RAF Pitreavie Castle at which point he agreed to donate the print and other items to Sheffield Hallam University's Special Collection and handed them over to Clarke."
+  },
+  {
+   "s": "lindsay",
+   "p": "interview_location",
+   "v": "RAF Pitreavie Castle",
+   "quote": "On 27 June 2022, Clarke and Vinnie Adams interviewed Lindsay at RAF Pitreavie Castle at which point he agreed to donate the print and other items to Sheffield Hallam University's Special Collection and handed them over to Clarke."
+  },
+  {
+   "s": "robinson",
+   "p": "investigator",
+   "o": "case",
+   "quote": "Upon his return Clarke immediately took the image to a photographic specialist at the university, Andrew Robinson, who produced high-resolution digital copies and conducted an in-depth analysis of the original image and other materials resulting in a detailed report, prior to the materials being added to the university's collection."
+  },
+  {
+   "s": "robinson",
+   "p": "employed_by",
+   "o": "shu",
+   "quote": "Upon his return Clarke immediately took the image to a photographic specialist at the university, Andrew Robinson, who produced high-resolution digital copies and conducted an in-depth analysis of the original image and other materials resulting in a detailed report, prior to the materials being added to the university's collection."
+  },
+  {
+   "s": "robinson",
+   "p": "authored",
+   "o": "robinson_report",
+   "quote": "Upon his return Clarke immediately took the image to a photographic specialist at the university, Andrew Robinson, who produced high-resolution digital copies and conducted an in-depth analysis of the original image and other materials resulting in a detailed report, prior to the materials being added to the university's collection."
+  },
+  {
+   "s": "robinson_report",
+   "p": "key_document",
+   "o": "case",
+   "quote": "Upon his return Clarke immediately took the image to a photographic specialist at the university, Andrew Robinson, who produced high-resolution digital copies and conducted an in-depth analysis of the original image and other materials resulting in a detailed report, prior to the materials being added to the university's collection."
+  },
+  {
+   "s": "robinson",
+   "p": "occupation",
+   "v": "photographic specialist at the university",
+   "quote": "Upon his return Clarke immediately took the image to a photographic specialist at the university, Andrew Robinson, who produced high-resolution digital copies and conducted an in-depth analysis of the original image and other materials resulting in a detailed report, prior to the materials being added to the university's collection."
+  },
+  {
+   "s": "robinson",
+   "p": "work",
+   "v": "produced high-resolution digital copies and conducted an in-depth analysis of the original image",
+   "quote": "Upon his return Clarke immediately took the image to a photographic specialist at the university, Andrew Robinson, who produced high-resolution digital copies and conducted an in-depth analysis of the original image and other materials resulting in a detailed report, prior to the materials being added to the university's collection."
+  },
+  {
+   "s": "robinson_report",
+   "p": "extended_report",
+   "v": "extended report with additional information and analysis published online in 2024",
+   "quote": "An extended report including additional information and analysis was published online in 2024."
+  },
+  {
+   "s": "robinson",
+   "p": "statement",
+   "v": "as far as can be determined the image itself is a genuine photograph of a scene before the camera",
+   "quote": "Robinson's analysis concludes that the photograph is genuine and that \"as far as can be determined the image itself is a genuine photograph of a scene before the camera\". Whilst not ruling out the possibility of staging in front of the camera, as has been suggested by some commentators, he finds no evidence of this."
+  },
+  {
+   "s": "robinson_report",
+   "p": "conclusion",
+   "v": "the photograph is genuine",
+   "quote": "Robinson's analysis concludes that the photograph is genuine and that \"as far as can be determined the image itself is a genuine photograph of a scene before the camera\". Whilst not ruling out the possibility of staging in front of the camera, as has been suggested by some commentators, he finds no evidence of this."
+  },
+  {
+   "s": "robinson",
+   "p": "statement",
+   "v": "does not rule out staging in front of the camera but finds no evidence of this",
+   "quote": "Robinson's analysis concludes that the photograph is genuine and that \"as far as can be determined the image itself is a genuine photograph of a scene before the camera\". Whilst not ruling out the possibility of staging in front of the camera, as has been suggested by some commentators, he finds no evidence of this."
+  },
+  {
+   "s": "robinson",
+   "p": "disputed",
+   "o": "x_hoax",
+   "quote": "Robinson's analysis concludes that the photograph is genuine and that \"as far as can be determined the image itself is a genuine photograph of a scene before the camera\". Whilst not ruling out the possibility of staging in front of the camera, as has been suggested by some commentators, he finds no evidence of this."
+  },
+  {
+   "s": "photo",
+   "p": "first_public",
+   "v": "via a post on David Clarke's website, with Lindsay's eyewitness account and Robinson's analysis",
+   "quote": "The photograph, Lindsay's eyewitness account, and the results of Robinson's analysis were first made public via a post on David Clarke's website."
+  },
+  {
+   "s": "case",
+   "p": "public_debate",
+   "v": "hoax; evidence of alien life; or a secret military aircraft",
+   "quote": "prompting much speculation and debate on social media between those who believed this to be a hoax; evidence of alien life; or a secret military aircraft"
+  },
+  {
+   "s": "f_hoax",
+   "p": "has_feature",
+   "o": "case",
+   "quote": "prompting much speculation and debate on social media between those who believed this to be a hoax; evidence of alien life; or a secret military aircraft"
+  },
+  {
+   "s": "disclosure",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "Clarke and his research team later discussed their discovery in an online Q&A on the UFO podcast 'The Disclosure Team'. Clarke was told by a Ministry of Defence officer that people at the Ministry knew the object was \"an experimental craft belonging to the US.\""
+  },
+  {
+   "s": "mod",
+   "p": "officer_statement",
+   "v": "people at the Ministry knew the object was \"an experimental craft belonging to the US.\"",
+   "quote": "Clarke and his research team later discussed their discovery in an online Q&A on the UFO podcast 'The Disclosure Team'. Clarke was told by a Ministry of Defence officer that people at the Ministry knew the object was \"an experimental craft belonging to the US.\""
+  },
+  {
+   "s": "x_secret",
+   "p": "explained_as",
+   "o": "case",
+   "quote": "Clarke and his research team later discussed their discovery in an online Q&A on the UFO podcast 'The Disclosure Team'. Clarke was told by a Ministry of Defence officer that people at the Ministry knew the object was \"an experimental craft belonging to the US.\""
+  },
+  {
+   "s": "craft",
+   "p": "alleged_identity",
+   "v": "an experimental craft belonging to the US",
+   "quote": "Clarke and his research team later discussed their discovery in an online Q&A on the UFO podcast 'The Disclosure Team'. Clarke was told by a Ministry of Defence officer that people at the Ministry knew the object was \"an experimental craft belonging to the US.\""
+  },
+  {
+   "s": "russell",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "On the reverse of the original Calvine photograph, in red chinagraph (used by photographers at the time to mark up contact sheets) is a handwritten credit which reads \"Copyright Kevin Russell c/o the Daily Record, Glasgow\"."
+  },
+  {
+   "s": "photo",
+   "p": "credit",
+   "v": "Copyright Kevin Russell c/o the Daily Record, Glasgow",
+   "quote": "On the reverse of the original Calvine photograph, in red chinagraph (used by photographers at the time to mark up contact sheets) is a handwritten credit which reads \"Copyright Kevin Russell c/o the Daily Record, Glasgow\"."
+  },
+  {
+   "s": "photo",
+   "p": "credit_medium",
+   "v": "handwritten in red chinagraph on the reverse",
+   "quote": "On the reverse of the original Calvine photograph, in red chinagraph (used by photographers at the time to mark up contact sheets) is a handwritten credit which reads \"Copyright Kevin Russell c/o the Daily Record, Glasgow\"."
+  },
+  {
+   "s": "russell",
+   "p": "identification",
+   "v": "Lindsay believed it to be the name of one of the witnesses",
+   "quote": "On the reverse of the original Calvine photograph, in red chinagraph (used by photographers at the time to mark up contact sheets) is a handwritten credit which reads \"Copyright Kevin Russell c/o the Daily Record, Glasgow\". This was present when Lindsay received the print from the Daily Record and he believed it to be the name of one of the witnesses."
+  },
+  {
+   "s": "record",
+   "p": "statement",
+   "v": "no-one by that name had ever worked there as a staff or freelance photographer",
+   "quote": "Clarke contacted the Daily Record and was told that no-one by that name had ever worked there as a staff or freelance photographer and they had no knowledge as to why the name might be on the rear of the image."
+  },
+  {
+   "s": "russell",
+   "p": "search",
+   "v": "more than 400 people by that name contacted worldwide",
+   "quote": "Clarke's team then carried out an intensive search contacting more than 400 people by that name worldwide in an attempt to track down a Kevin Russell who might have worked in a hotel in Pitlochry at the time of the sighting."
+  },
+  {
+   "s": "russell",
+   "p": "occupation",
+   "v": "someone of that name worked as a kitchen porter at a hotel in Pitlochry in the summer of 1990",
+   "quote": "A photograph of someone known by that name, who worked as a kitchen porter at a hotel in Pitlochry in the summer of 1990 was provided by a former co-worker and first published in the Daily Record in March 2023."
+  },
+  {
+   "s": "russell",
+   "p": "photo_published",
+   "v": "first published in the Daily Record in March 2023",
+   "quote": "A photograph of someone known by that name, who worked as a kitchen porter at a hotel in Pitlochry in the summer of 1990 was provided by a former co-worker and first published in the Daily Record in March 2023."
+  },
+  {
+   "s": "russell",
+   "p": "statement",
+   "v": "when tracked down in 2024 he denied any knowledge of the UFO",
+   "quote": "However, when the person identified was finally tracked down in 2024 he denied any knowledge of the UFO. In an interview for The Guardian story published in February 2025, Nick Pope, who had access to the Calvine files during his time at the MoD, acknowledges he is aware of the name Kevin Russell; however, he refused to comment on this or any of the names that have been linked to the story."
+  },
+  {
+   "s": "guardian",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "In an interview for The Guardian story published in February 2025, Nick Pope, who had access to the Calvine files during his time at the MoD, acknowledges he is aware of the name Kevin Russell; however, he refused to comment on this or any of the names that have been linked to the story."
+  },
+  {
+   "s": "guardian",
+   "p": "interviewed",
+   "o": "pope",
+   "quote": "In an interview for The Guardian story published in February 2025, Nick Pope, who had access to the Calvine files during his time at the MoD, acknowledges he is aware of the name Kevin Russell; however, he refused to comment on this or any of the names that have been linked to the story."
+  },
+  {
+   "s": "pope",
+   "p": "statement",
+   "v": "aware of the name Kevin Russell but refused to comment on this or any of the names linked to the story",
+   "quote": "In an interview for The Guardian story published in February 2025, Nick Pope, who had access to the Calvine files during his time at the MoD, acknowledges he is aware of the name Kevin Russell; however, he refused to comment on this or any of the names that have been linked to the story."
+  },
+  {
+   "s": "guardian",
+   "p": "story_date",
+   "v": "2025-02",
+   "quote": "In an interview for The Guardian story published in February 2025, Nick Pope, who had access to the Calvine files during his time at the MoD, acknowledges he is aware of the name Kevin Russell; however, he refused to comment on this or any of the names that have been linked to the story."
+  },
+  {
+   "s": "pope",
+   "p": "statement",
+   "v": "at the very least... a fairly robust conversation was held",
+   "quote": "He explains the fact that the photographer has not come forward by suggesting that “at the very least... a fairly robust conversation was held”"
+  },
+  {
+   "s": "pope",
+   "p": "statement",
+   "v": "suggestions that the witnesses might have been disappeared or \"assassinated by the deep state\" are \"pure nonsense\"",
+   "quote": "Pope goes on to dismiss conspiratorial suggestions that the witnesses might have been disappeared or \"assassinated by the deep state\" as \"pure nonsense\""
+  },
+  {
+   "s": "case",
+   "p": "rumor",
+   "v": "the witnesses might have been disappeared or \"assassinated by the deep state\"",
+   "quote": "Pope goes on to dismiss conspiratorial suggestions that the witnesses might have been disappeared or \"assassinated by the deep state\" as \"pure nonsense\""
+  },
+  {
+   "s": "case",
+   "p": "witness_search",
+   "v": "no one has come forward and Clarke's team could not identify anyone else named Kevin Russell who might have been a witness",
+   "quote": "Despite widespread coverage of the search in the media, no one has yet come forward and Clarke's research team were unable to identify anyone else by the name Kevin Russell who might have been one of the witnesses."
+  },
+  {
+   "s": "program_doc",
+   "p": "depicted_in",
+   "o": "case",
+   "quote": "The Program is a documentary by American film-maker James Fox released on Apple TV and Amazon Prime on 16 December 2024."
+  },
+  {
+   "s": "fox",
+   "p": "authored",
+   "o": "program_doc",
+   "quote": "The Program is a documentary by American film-maker James Fox released on Apple TV and Amazon Prime on 16 December 2024."
+  },
+  {
+   "s": "fox",
+   "p": "commentator",
+   "o": "case",
+   "quote": "The Program is a documentary by American film-maker James Fox released on Apple TV and Amazon Prime on 16 December 2024."
+  },
+  {
+   "s": "appletv",
+   "p": "published",
+   "o": "program_doc",
+   "quote": "The Program is a documentary by American film-maker James Fox released on Apple TV and Amazon Prime on 16 December 2024."
+  },
+  {
+   "s": "amazon",
+   "p": "published",
+   "o": "program_doc",
+   "quote": "The Program is a documentary by American film-maker James Fox released on Apple TV and Amazon Prime on 16 December 2024."
+  },
+  {
+   "s": "program_doc",
+   "p": "release_date",
+   "v": "2024-12-16",
+   "quote": "The Program is a documentary by American film-maker James Fox released on Apple TV and Amazon Prime on 16 December 2024."
+  },
+  {
+   "s": "fox",
+   "p": "occupation",
+   "v": "American film-maker",
+   "quote": "The Program is a documentary by American film-maker James Fox released on Apple TV and Amazon Prime on 16 December 2024."
+  },
+  {
+   "s": "zamora",
+   "p": "related_case",
+   "o": "case",
+   "quote": "The Calvine UFO is featured as one of a number of famous UFO cases including Socorro, New Mexico (1964), Colares, Brazil (1977), and Voronezh, Soviet Union (1989) and the Calvine photograph briefly appears in the trailer for the film."
+  },
+  {
+   "s": "zamora",
+   "p": "date_start",
+   "v": "1964",
+   "quote": "The Calvine UFO is featured as one of a number of famous UFO cases including Socorro, New Mexico (1964), Colares, Brazil (1977), and Voronezh, Soviet Union (1989) and the Calvine photograph briefly appears in the trailer for the film."
+  },
+  {
+   "s": "program_doc",
+   "p": "depicted_in",
+   "o": "zamora",
+   "quote": "The Calvine UFO is featured as one of a number of famous UFO cases including Socorro, New Mexico (1964), Colares, Brazil (1977), and Voronezh, Soviet Union (1989) and the Calvine photograph briefly appears in the trailer for the film."
+  },
+  {
+   "s": "colares",
+   "p": "related_case",
+   "o": "case",
+   "quote": "The Calvine UFO is featured as one of a number of famous UFO cases including Socorro, New Mexico (1964), Colares, Brazil (1977), and Voronezh, Soviet Union (1989) and the Calvine photograph briefly appears in the trailer for the film."
+  },
+  {
+   "s": "colares",
+   "p": "date_start",
+   "v": "1977",
+   "quote": "The Calvine UFO is featured as one of a number of famous UFO cases including Socorro, New Mexico (1964), Colares, Brazil (1977), and Voronezh, Soviet Union (1989) and the Calvine photograph briefly appears in the trailer for the film."
+  },
+  {
+   "s": "program_doc",
+   "p": "depicted_in",
+   "o": "colares",
+   "quote": "The Calvine UFO is featured as one of a number of famous UFO cases including Socorro, New Mexico (1964), Colares, Brazil (1977), and Voronezh, Soviet Union (1989) and the Calvine photograph briefly appears in the trailer for the film."
+  },
+  {
+   "s": "voronezh",
+   "p": "related_case",
+   "o": "case",
+   "quote": "The Calvine UFO is featured as one of a number of famous UFO cases including Socorro, New Mexico (1964), Colares, Brazil (1977), and Voronezh, Soviet Union (1989) and the Calvine photograph briefly appears in the trailer for the film."
+  },
+  {
+   "s": "voronezh",
+   "p": "date_start",
+   "v": "1989",
+   "quote": "The Calvine UFO is featured as one of a number of famous UFO cases including Socorro, New Mexico (1964), Colares, Brazil (1977), and Voronezh, Soviet Union (1989) and the Calvine photograph briefly appears in the trailer for the film."
+  },
+  {
+   "s": "program_doc",
+   "p": "depicted_in",
+   "o": "voronezh",
+   "quote": "The Calvine UFO is featured as one of a number of famous UFO cases including Socorro, New Mexico (1964), Colares, Brazil (1977), and Voronezh, Soviet Union (1989) and the Calvine photograph briefly appears in the trailer for the film."
+  },
+  {
+   "s": "fox",
+   "p": "statement",
+   "v": "the most compelling photographic case in (UFO) history",
+   "quote": "The film explores the U.S. congressional effort to uncover government knowledge about UFOs and UAPs and includes an in-depth review of the Calvine case which Fox considers \"the most compelling photographic case in (UFO) history\"."
+  },
+  {
+   "s": "program_doc",
+   "p": "subject",
+   "v": "the U.S. congressional effort to uncover government knowledge about UFOs and UAPs",
+   "quote": "The film explores the U.S. congressional effort to uncover government knowledge about UFOs and UAPs and includes an in-depth review of the Calvine case which Fox considers \"the most compelling photographic case in (UFO) history\"."
+  },
+  {
+   "s": "fox",
+   "p": "interviewed",
+   "o": "clarke",
+   "quote": "For the documentary, Fox travelled to the U.K. to interview David Clarke and Robinson in Sheffield where he was able to view the original Calvine photograph, before traveling to Scotland to undertake the first ever on-camera interview with Lindsay and to visit Calvine."
+  },
+  {
+   "s": "fox",
+   "p": "interviewed",
+   "o": "robinson",
+   "quote": "For the documentary, Fox travelled to the U.K. to interview David Clarke and Robinson in Sheffield where he was able to view the original Calvine photograph, before traveling to Scotland to undertake the first ever on-camera interview with Lindsay and to visit Calvine."
+  },
+  {
+   "s": "fox",
+   "p": "interviewed",
+   "o": "lindsay",
+   "quote": "For the documentary, Fox travelled to the U.K. to interview David Clarke and Robinson in Sheffield where he was able to view the original Calvine photograph, before traveling to Scotland to undertake the first ever on-camera interview with Lindsay and to visit Calvine."
+  },
+  {
+   "s": "sheffield",
+   "p": "related_place",
+   "o": "case",
+   "quote": "For the documentary, Fox travelled to the U.K. to interview David Clarke and Robinson in Sheffield where he was able to view the original Calvine photograph, before traveling to Scotland to undertake the first ever on-camera interview with Lindsay and to visit Calvine."
+  },
+  {
+   "s": "lindsay",
+   "p": "first_on_camera_interview",
+   "v": "with James Fox for The Program",
+   "quote": "For the documentary, Fox travelled to the U.K. to interview David Clarke and Robinson in Sheffield where he was able to view the original Calvine photograph, before traveling to Scotland to undertake the first ever on-camera interview with Lindsay and to visit Calvine."
+  },
+  {
+   "s": "teampan",
+   "p": "occurred_at",
+   "o": "case",
+   "quote": "Filming took place at An Teampan, the hillside above Calvine that Clarke's team had identified as the most likely location for the sighting."
+  },
+  {
+   "s": "teampan",
+   "p": "description",
+   "v": "hillside above Calvine identified by Clarke's team as the most likely location for the sighting",
+   "quote": "Filming took place at An Teampan, the hillside above Calvine that Clarke's team had identified as the most likely location for the sighting."
+  },
+  {
+   "s": "pope",
+   "p": "occupation",
+   "v": "UFO desk officer between 1991 and 1994",
+   "quote": "Pope also provides a detailed account of his knowledge of the sighting from his time as the UFO desk officer between 1991 and 1994."
+  }
+ ]
+}

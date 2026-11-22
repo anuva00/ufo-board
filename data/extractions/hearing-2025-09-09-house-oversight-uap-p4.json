@@ -1,0 +1,862 @@
+{
+ "slug": "hearing-2025-09-09-house-oversight-uap-p4",
+ "entities": [
+  {
+   "key": "case",
+   "type": "case",
+   "name": "House Oversight hearing: Restoring Public Trust Through UAP Transparency and Whistleblower Protection",
+   "description": "House Oversight task force hearing on UAP transparency and whistleblower protection; this part is the final questions and closing remarks."
+  },
+  {
+   "key": "vand_inc",
+   "type": "case",
+   "name": "Vandenberg base UAP incidents",
+   "description": "Encounters on Nuccetelli's base around a critical launch: two football-field-sized square objects and a 30-foot object",
+   "aliases": [
+    "the event that happened on your base"
+   ]
+  },
+  {
+   "key": "ne_inc",
+   "type": "case",
+   "name": "1960s New England base incursion incident",
+   "description": "Weeks of objects flying low over a base in New England in the 1960s, with fighters scrambled"
+  },
+  {
+   "key": "russia_inc",
+   "type": "case",
+   "name": "Russia missile incident",
+   "description": "Event recounted by Knapp in which missiles were shut down or turned on in Russia"
+  },
+  {
+   "key": "nuccetelli",
+   "type": "person",
+   "name": "Nuccetelli",
+   "description": "Hearing witness who described UAP encounters at his base",
+   "aliases": [
+    "Mr. Nuccetelli"
+   ]
+  },
+  {
+   "key": "knapp",
+   "type": "person",
+   "name": "Knapp",
+   "description": "Hearing witness who testified about Russian missile incidents and the stigma on UAP research",
+   "aliases": [
+    "Mr. Knapp"
+   ]
+  },
+  {
+   "key": "spielberger",
+   "type": "person",
+   "name": "Spielberger",
+   "description": "Hearing witness asked whether his organization would endorse the whistleblower bill",
+   "aliases": [
+    "Mr. Spielberger"
+   ]
+  },
+  {
+   "key": "borland",
+   "type": "person",
+   "name": "Borland",
+   "description": "Hearing witness and whistleblower said to be facing retribution",
+   "aliases": [
+    "Mr. Borland"
+   ]
+  },
+  {
+   "key": "luna",
+   "type": "person",
+   "name": "Luna",
+   "description": "Chairwoman of the Task Force; represents Pinellas County, Florida",
+   "aliases": [
+    "Mrs. Luna",
+    "Representative Luna",
+    "Chairlady"
+   ]
+  },
+  {
+   "key": "burlison",
+   "type": "person",
+   "name": "Burlison",
+   "description": "Member who questioned Nuccetelli and called for action",
+   "aliases": [
+    "Mr. Burlison",
+    "Representative Burlison"
+   ]
+  },
+  {
+   "key": "burchett",
+   "type": "person",
+   "name": "Tim Burchett",
+   "description": "Member; author of the whistleblower protection bill",
+   "aliases": [
+    "Mr. Burchett",
+    "Representative Burchett"
+   ]
+  },
+  {
+   "key": "crockett",
+   "type": "person",
+   "name": "Crockett",
+   "description": "Ranking Member of the Task Force",
+   "aliases": [
+    "Ms. Crockett",
+    "Representative Crockett",
+    "Ranking Member Crockett"
+   ]
+  },
+  {
+   "key": "biggs",
+   "type": "person",
+   "name": "Biggs",
+   "description": "Representative who told Luna the sightings are not isolated",
+   "aliases": [
+    "Representative Biggs"
+   ]
+  },
+  {
+   "key": "sheehan",
+   "type": "person",
+   "name": "Danny Sheehan",
+   "description": "Person named by Burlison as having poured time into seeking answers"
+  },
+  {
+   "key": "maussan",
+   "type": "person",
+   "name": "Maussan",
+   "description": "Person present at the hearing, named by Burlison as seeking answers"
+  },
+  {
+   "key": "squares",
+   "type": "craft",
+   "name": "two square objects at Nuccetelli's base",
+   "description": "Two square objects at least as large as a football field"
+  },
+  {
+   "key": "obj30",
+   "type": "craft",
+   "name": "object about 30 feet in diameter seen by Nuccetelli",
+   "description": "Object Nuccetelli himself saw"
+  },
+  {
+   "key": "ne_objs",
+   "type": "craft",
+   "name": "objects over a New England base in the 1960s",
+   "description": "Objects coming over the base at low altitude that flew off when fighters were scrambled"
+  },
+  {
+   "key": "fighters",
+   "type": "vehicle",
+   "name": "fighters",
+   "description": "Fighters scrambled against the New England objects"
+  },
+  {
+   "key": "usaf",
+   "type": "organization",
+   "name": "United States Air Force",
+   "description": "Service whose police officers guarded the launch",
+   "aliases": [
+    "Air Force"
+   ]
+  },
+  {
+   "key": "af_police",
+   "type": "organization",
+   "name": "Air Force police",
+   "description": "500 Air Force police officers guarding the launch",
+   "aliases": [
+    "Air Force police officers",
+    "base security police"
+   ]
+  },
+  {
+   "key": "aaro",
+   "type": "organization",
+   "name": "All-domain Anomaly Resolution Office",
+   "description": "Office to which Nuccetelli turned in his documentation",
+   "aliases": [
+    "AARO"
+   ]
+  },
+  {
+   "key": "fbi",
+   "type": "organization",
+   "name": "Federal Bureau of Investigation",
+   "description": "Agency to which Nuccetelli turned in his documentation",
+   "aliases": [
+    "FBI",
+    "the FBI"
+   ]
+  },
+  {
+   "key": "taskforce",
+   "type": "organization",
+   "name": "Task Force",
+   "description": "House Oversight task force holding the hearing",
+   "aliases": [
+    "the Task Force"
+   ]
+  },
+  {
+   "key": "russia",
+   "type": "place",
+   "name": "Russia",
+   "description": "Country where missiles were shut down or turned on; also said to be working on the technology"
+  },
+  {
+   "key": "new_england",
+   "type": "place",
+   "name": "New England",
+   "description": "Region of the 1960s base incursion"
+  },
+  {
+   "key": "pinellas",
+   "type": "place",
+   "name": "Pinellas County, Florida",
+   "description": "County Luna represents",
+   "aliases": [
+    "Pinellas County"
+   ]
+  },
+  {
+   "key": "tampa",
+   "type": "place",
+   "name": "Tampa Bay",
+   "description": "Area Luna represents"
+  },
+  {
+   "key": "florida",
+   "type": "place",
+   "name": "Florida",
+   "description": "State with many sightings, per Luna"
+  },
+  {
+   "key": "alaska",
+   "type": "place",
+   "name": "Alaska",
+   "description": "State whose Representative says sightings are not isolated"
+  },
+  {
+   "key": "burchett_bill",
+   "type": "document",
+   "name": "Whistleblower Protection Act",
+   "description": "Tim Burchett's whistleblower protection bill",
+   "aliases": [
+    "Tim Burchett's Whistleblower Act",
+    "Whistleblower Act"
+   ]
+  },
+  {
+   "key": "uapda",
+   "type": "document",
+   "name": "UAP Disclosure Act",
+   "description": "Bill Burlison urges be passed"
+  },
+  {
+   "key": "nuc_docs",
+   "type": "document",
+   "name": "Nuccetelli's documentation of the original event",
+   "description": "Police-blotter documentation Nuccetelli kept and turned in to AARO and the FBI",
+   "aliases": [
+    "police blotter"
+   ]
+  },
+  {
+   "key": "letter",
+   "type": "document",
+   "name": "Letter supporting the Whistleblower Protection Act",
+   "description": "Letter Luna says she will sign on to"
+  },
+  {
+   "key": "f_multi",
+   "type": "feature",
+   "name": "multiple-witnesses",
+   "description": "feature"
+  },
+  {
+   "key": "f_mil",
+   "type": "feature",
+   "name": "military-witnesses",
+   "description": "feature"
+  },
+  {
+   "key": "f_base",
+   "type": "feature",
+   "name": "military-base-proximity",
+   "description": "feature"
+  },
+  {
+   "key": "f_other",
+   "type": "feature",
+   "name": "shape-other",
+   "description": "feature"
+  },
+  {
+   "key": "f_invest",
+   "type": "feature",
+   "name": "official-investigation",
+   "description": "feature"
+  },
+  {
+   "key": "f_pursuit",
+   "type": "feature",
+   "name": "aircraft-pursuit",
+   "description": "feature"
+  },
+  {
+   "key": "f_police",
+   "type": "feature",
+   "name": "police-witnesses",
+   "description": "feature"
+  },
+  {
+   "key": "f_nuke",
+   "type": "feature",
+   "name": "nuclear-site-proximity",
+   "description": "feature"
+  }
+ ],
+ "claims": [
+  {
+   "s": "vand_inc",
+   "p": "related_case",
+   "o": "case",
+   "quote": "it has got to remind you of the event that happened on your base?"
+  },
+  {
+   "s": "ne_inc",
+   "p": "related_case",
+   "o": "case",
+   "quote": "I believe in the 1960s we had a similar incursion in New England, and same thing happened."
+  },
+  {
+   "s": "russia_inc",
+   "p": "related_case",
+   "o": "case",
+   "quote": "when you heard the testimony of Mr. Knapp talking about that these missiles were shut down or turned on in Russia"
+  },
+  {
+   "s": "nuccetelli",
+   "p": "witness",
+   "o": "case",
+   "quote": "Mr. Nuccetelli. Absolutely. There are many, many accounts of incursions of this type taking place."
+  },
+  {
+   "s": "knapp",
+   "p": "witness",
+   "o": "case",
+   "quote": "when you heard the testimony of Mr. Knapp talking about that these missiles were shut down or turned on in Russia"
+  },
+  {
+   "s": "spielberger",
+   "p": "witness",
+   "o": "case",
+   "quote": "Mr. Spielberger, if you could actually review and see if your organization would endorse the Whistleblower Protection Act"
+  },
+  {
+   "s": "borland",
+   "p": "witness",
+   "o": "case",
+   "quote": "people like Mr. Borland are not facing retribution in the way that they have been"
+  },
+  {
+   "s": "borland",
+   "p": "treatment",
+   "v": "facing retribution",
+   "quote": "people like Mr. Borland are not facing retribution in the way that they have been"
+  },
+  {
+   "s": "luna",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Mrs. Luna. Thank you. I would now like to recognize myself for some closing remarks."
+  },
+  {
+   "s": "burlison",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Mrs. Luna. Thank you. I would now like to recognize Representative Burlison."
+  },
+  {
+   "s": "burchett",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "Mrs. Luna. I would like to now recognize Representative Burchett for closing remarks."
+  },
+  {
+   "s": "crockett",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "I now yield to Ranking Member Crockett for closing remarks."
+  },
+  {
+   "s": "crockett",
+   "p": "role",
+   "v": "Ranking Member",
+   "quote": "I now yield to Ranking Member Crockett for closing remarks."
+  },
+  {
+   "s": "biggs",
+   "p": "official_involved",
+   "o": "case",
+   "quote": "I was also told by Representative Biggs, as well as, you know, our great Representative from Alaska, that these are not isolated instances."
+  },
+  {
+   "s": "sheehan",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "I can only imagine how frustrated Mr. Knapp is or Danny Sheehan is and the amount of time that you guys have poured into this to try to get answers"
+  },
+  {
+   "s": "maussan",
+   "p": "other_involved",
+   "o": "case",
+   "quote": "I mean, Maussan is back there. He has been pouring to try to get answers into this."
+  },
+  {
+   "s": "nuccetelli",
+   "p": "witness",
+   "o": "vand_inc",
+   "quote": "The object I saw was about 30 feet in diameter"
+  },
+  {
+   "s": "nuccetelli",
+   "p": "investigator",
+   "o": "vand_inc",
+   "quote": "we were responding and investigating in real time as they occurred"
+  },
+  {
+   "s": "knapp",
+   "p": "commentator",
+   "o": "russia_inc",
+   "quote": "when you heard the testimony of Mr. Knapp talking about that these missiles were shut down or turned on in Russia"
+  },
+  {
+   "s": "nuccetelli",
+   "p": "commentator",
+   "o": "ne_inc",
+   "quote": "I believe in the 1960s we had a similar incursion in New England, and same thing happened."
+  },
+  {
+   "s": "knapp",
+   "p": "statement",
+   "v": "Russians and Chinese might have a head start; here our best scientists and engineers are not working on it because they have been told it is nonsense",
+   "quote": "Here, we do not have our best scientists and engineers working on it because they've been told it is nonsense."
+  },
+  {
+   "s": "knapp",
+   "p": "statement",
+   "v": "The stigma is very real",
+   "quote": "The stigma is very real for people like that."
+  },
+  {
+   "s": "nuccetelli",
+   "p": "statement",
+   "v": "There are many accounts of incursions of this type",
+   "quote": "There are many, many accounts of incursions of this type taking place."
+  },
+  {
+   "s": "nuccetelli",
+   "p": "statement",
+   "v": "The historical record shows a pattern of installations being visited by these craft",
+   "quote": "So, the historical record has laid out that there's a pattern, that our installations are visited by these craft."
+  },
+  {
+   "s": "nuccetelli",
+   "p": "statement",
+   "v": "We do not know how to respond or how to protect the installation",
+   "quote": "And we do not know how to respond. We do not know how to protect the installation. So that is why we are here."
+  },
+  {
+   "s": "nuccetelli",
+   "p": "statement",
+   "v": "Believed the other witnesses: people he worked with for years and deployed with",
+   "quote": "Yes, these are people I have worked with for years, deployed with."
+  },
+  {
+   "s": "nuccetelli",
+   "p": "statement",
+   "v": "There would be 40, 60, 100 people on duty during these encounters",
+   "quote": "You know, there would be 40, 60, 100 people on duty during these encounters."
+  },
+  {
+   "s": "nuccetelli",
+   "p": "statement",
+   "v": "The encounters played out while they were on duty, responding and investigating in real time",
+   "quote": "these encounters were playing out while we were on duty, and we were responding and investigating in real time as they occurred"
+  },
+  {
+   "s": "nuccetelli",
+   "p": "statement",
+   "v": "Had the thing showed up they could not have prevented it",
+   "quote": "But had this thing showed up, we would not have been able to do anything to prevent it showing up."
+  },
+  {
+   "s": "nuccetelli",
+   "p": "statement",
+   "v": "Maintained the documentation from the original event and turned it in to AARO and the FBI",
+   "quote": "That is the documentation that I maintained from the original event and turned into AARO and the FBI."
+  },
+  {
+   "s": "nuccetelli",
+   "p": "statement",
+   "v": "Was not the only person who saw it",
+   "quote": "And to confirm, you were not the only person that saw this? Mr. Nuccetelli. Correct."
+  },
+  {
+   "s": "burlison",
+   "p": "statement",
+   "v": "It is time to pass Tim Burchett's Whistleblower Act and the UAP Disclosure Act",
+   "quote": "It is time that we pass Tim Burchett's Whistleblower Act. It is time that we pass the UAP Disclosure Act."
+  },
+  {
+   "s": "burlison",
+   "p": "statement",
+   "v": "The committee is extremely frustrated too and will be scrappy despite lacking direct authority",
+   "quote": "We may not have the direct authority, but I can assure you, Representative Luna is about as scrappy as it gets."
+  },
+  {
+   "s": "luna",
+   "p": "statement",
+   "v": "There are many sightings and reports in Pinellas County, Tampa Bay and Florida as a whole",
+   "quote": "Pinellas County, Tampa Bay, and Florida as a whole, there is many sightings, many questions, people reporting this"
+  },
+  {
+   "s": "luna",
+   "p": "statement",
+   "v": "Was told by Representative Biggs and the Representative from Alaska that these are not isolated instances",
+   "quote": "I was also told by Representative Biggs, as well as, you know, our great Representative from Alaska, that these are not isolated instances."
+  },
+  {
+   "s": "luna",
+   "p": "statement",
+   "v": "Will sign on to a letter supporting Burchett's whistleblower bill",
+   "quote": "I can tell you that I will be signing on to a letter, as well as I am sure many other members of this Task Force."
+  },
+  {
+   "s": "crockett",
+   "p": "statement",
+   "v": "Courage is contagious; the American people rely on public servants to speak up",
+   "quote": "I truly believe that courage is contagious."
+  },
+  {
+   "s": "burchett",
+   "p": "statement",
+   "v": "This is a tough issue and members catch hell for it",
+   "quote": "This is a tough issue. We all catch hell for it."
+  },
+  {
+   "s": "squares",
+   "p": "reported_object",
+   "o": "vand_inc",
+   "quote": "The two square objects were at least as large as a football field."
+  },
+  {
+   "s": "squares",
+   "p": "shape",
+   "v": "square",
+   "quote": "The two square objects were at least as large as a football field."
+  },
+  {
+   "s": "squares",
+   "p": "count",
+   "v": "two",
+   "quote": "The two square objects were at least as large as a football field."
+  },
+  {
+   "s": "squares",
+   "p": "size",
+   "v": "at least as large as a football field",
+   "quote": "The two square objects were at least as large as a football field."
+  },
+  {
+   "s": "squares",
+   "p": "size",
+   "v": "second encounter: much larger than a football field, like flying buildings",
+   "quote": "The second encounter, they think it was much larger than a football field. We are talking like flying buildings."
+  },
+  {
+   "s": "obj30",
+   "p": "reported_object",
+   "o": "vand_inc",
+   "quote": "The object I saw was about 30 feet in diameter"
+  },
+  {
+   "s": "obj30",
+   "p": "size",
+   "v": "about 30 feet in diameter",
+   "quote": "The object I saw was about 30 feet in diameter"
+  },
+  {
+   "s": "nuccetelli",
+   "p": "described",
+   "o": "obj30",
+   "quote": "The object I saw was about 30 feet in diameter"
+  },
+  {
+   "s": "nuccetelli",
+   "p": "described",
+   "o": "squares",
+   "quote": "The two square objects were at least as large as a football field."
+  },
+  {
+   "s": "vand_inc",
+   "p": "people_on_duty",
+   "v": "40, 60, 100",
+   "quote": "there would be 40, 60, 100 people on duty during these encounters"
+  },
+  {
+   "s": "vand_inc",
+   "p": "launch_security",
+   "v": "500 Air Force police officers guarding the launch",
+   "quote": "For that particular launch, we had 500 Air Force police officers guarding the launch, 500 people. It was that critical."
+  },
+  {
+   "s": "vand_inc",
+   "p": "launch_importance",
+   "v": "described as the most important in 25 years",
+   "quote": "because they said it is the most important in 25 years, the research that you were conducting"
+  },
+  {
+   "s": "vand_inc",
+   "p": "police_blotter",
+   "v": "reports of it in a police blotter in the area",
+   "quote": "I think I was also told that there was also reports of this in a police blotter in the area."
+  },
+  {
+   "s": "ne_objs",
+   "p": "reported_object",
+   "o": "ne_inc",
+   "quote": "There were these objects coming over the base at low altitude, 200 feet over the base security police"
+  },
+  {
+   "s": "ne_objs",
+   "p": "altitude",
+   "v": "200 feet over the base security police",
+   "quote": "There were these objects coming over the base at low altitude, 200 feet over the base security police"
+  },
+  {
+   "s": "ne_objs",
+   "p": "behavior",
+   "v": "would fly off when fighters were scrambled",
+   "quote": "they were scrambling fighters, and then the objects would just fly off"
+  },
+  {
+   "s": "fighters",
+   "p": "involved_vehicle",
+   "o": "ne_inc",
+   "quote": "they were scrambling fighters, and then the objects would just fly off"
+  },
+  {
+   "s": "ne_inc",
+   "p": "date_start",
+   "v": "1960s",
+   "quote": "I believe in the 1960s we had a similar incursion in New England"
+  },
+  {
+   "s": "ne_inc",
+   "p": "duration",
+   "v": "weeks",
+   "quote": "And that went on for weeks."
+  },
+  {
+   "s": "russia_inc",
+   "p": "effect",
+   "v": "missiles were shut down or turned on",
+   "quote": "these missiles were shut down or turned on in Russia"
+  },
+  {
+   "s": "usaf",
+   "p": "involved_org",
+   "o": "vand_inc",
+   "quote": "we had 500 Air Force police officers guarding the launch"
+  },
+  {
+   "s": "af_police",
+   "p": "involved_org",
+   "o": "vand_inc",
+   "quote": "we had 500 Air Force police officers guarding the launch"
+  },
+  {
+   "s": "af_police",
+   "p": "part_of",
+   "o": "usaf",
+   "quote": "we had 500 Air Force police officers guarding the launch"
+  },
+  {
+   "s": "aaro",
+   "p": "involved_org",
+   "o": "vand_inc",
+   "quote": "That is the documentation that I maintained from the original event and turned into AARO and the FBI."
+  },
+  {
+   "s": "fbi",
+   "p": "involved_org",
+   "o": "vand_inc",
+   "quote": "That is the documentation that I maintained from the original event and turned into AARO and the FBI."
+  },
+  {
+   "s": "taskforce",
+   "p": "involved_org",
+   "o": "case",
+   "quote": "Mrs. Luna. Without objection, the Task Force stands adjourned."
+  },
+  {
+   "s": "luna",
+   "p": "member_of",
+   "o": "taskforce",
+   "quote": "as well as I am sure many other members of this Task Force"
+  },
+  {
+   "s": "russia",
+   "p": "occurred_at",
+   "o": "russia_inc",
+   "quote": "these missiles were shut down or turned on in Russia"
+  },
+  {
+   "s": "new_england",
+   "p": "occurred_at",
+   "o": "ne_inc",
+   "quote": "I believe in the 1960s we had a similar incursion in New England"
+  },
+  {
+   "s": "pinellas",
+   "p": "related_place",
+   "o": "case",
+   "quote": "where I represent in Pinellas County, Tampa Bay, and Florida as a whole, there is many sightings"
+  },
+  {
+   "s": "tampa",
+   "p": "related_place",
+   "o": "case",
+   "quote": "where I represent in Pinellas County, Tampa Bay, and Florida as a whole, there is many sightings"
+  },
+  {
+   "s": "florida",
+   "p": "related_place",
+   "o": "case",
+   "quote": "where I represent in Pinellas County, Tampa Bay, and Florida as a whole, there is many sightings"
+  },
+  {
+   "s": "pinellas",
+   "p": "located_in",
+   "o": "florida",
+   "quote": "Pinellas County, Tampa Bay, and Florida as a whole"
+  },
+  {
+   "s": "alaska",
+   "p": "related_place",
+   "o": "case",
+   "quote": "our great Representative from Alaska, that these are not isolated instances"
+  },
+  {
+   "s": "burchett_bill",
+   "p": "key_document",
+   "o": "case",
+   "quote": "endorse the Whistleblower Protection Act that Representative Burchett has"
+  },
+  {
+   "s": "burchett",
+   "p": "authored",
+   "o": "burchett_bill",
+   "quote": "It is time that we pass Tim Burchett's Whistleblower Act."
+  },
+  {
+   "s": "uapda",
+   "p": "key_document",
+   "o": "case",
+   "quote": "It is time that we pass the UAP Disclosure Act."
+  },
+  {
+   "s": "nuc_docs",
+   "p": "key_document",
+   "o": "vand_inc",
+   "quote": "That is the documentation that I maintained from the original event and turned into AARO and the FBI."
+  },
+  {
+   "s": "nuccetelli",
+   "p": "owned",
+   "o": "nuc_docs",
+   "quote": "That is the documentation that I maintained from the original event and turned into AARO and the FBI."
+  },
+  {
+   "s": "letter",
+   "p": "key_document",
+   "o": "case",
+   "quote": "I can tell you that I will be signing on to a letter"
+  },
+  {
+   "s": "f_multi",
+   "p": "has_feature",
+   "o": "vand_inc",
+   "quote": "And to confirm, you were not the only person that saw this? Mr. Nuccetelli. Correct."
+  },
+  {
+   "s": "f_mil",
+   "p": "has_feature",
+   "o": "vand_inc",
+   "quote": "these encounters were playing out while we were on duty"
+  },
+  {
+   "s": "f_base",
+   "p": "has_feature",
+   "o": "vand_inc",
+   "quote": "it has got to remind you of the event that happened on your base?"
+  },
+  {
+   "s": "f_other",
+   "p": "has_feature",
+   "o": "vand_inc",
+   "quote": "The two square objects were at least as large as a football field."
+  },
+  {
+   "s": "f_invest",
+   "p": "has_feature",
+   "o": "vand_inc",
+   "quote": "we were responding and investigating in real time as they occurred"
+  },
+  {
+   "s": "f_base",
+   "p": "has_feature",
+   "o": "ne_inc",
+   "quote": "There were these objects coming over the base at low altitude"
+  },
+  {
+   "s": "f_pursuit",
+   "p": "has_feature",
+   "o": "ne_inc",
+   "quote": "they were scrambling fighters, and then the objects would just fly off"
+  },
+  {
+   "s": "f_police",
+   "p": "has_feature",
+   "o": "ne_inc",
+   "quote": "200 feet over the base security police"
+  },
+  {
+   "s": "f_nuke",
+   "p": "has_feature",
+   "o": "russia_inc",
+   "quote": "these missiles were shut down or turned on in Russia"
+  },
+  {
+   "s": "case",
+   "p": "adjourned",
+   "v": "12:38 p.m.",
+   "quote": "[Whereupon, at 12:38 p.m., the Task Force was adjourned.]"
+  },
+  {
+   "s": "case",
+   "p": "country",
+   "v": "United States",
+   "quote": "The American people are relying on amazing public servants like you to speak up on their behalf"
+  },
+  {
+   "s": "case",
+   "p": "record_period",
+   "v": "Members have five legislative days to submit materials and additional written questions",
+   "quote": "all Members have five legislative days within to submit materials and additional written questions for the witnesses"
+  }
+ ]
+}

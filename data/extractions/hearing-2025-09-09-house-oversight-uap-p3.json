@@ -1050,12 +1050,6 @@
    "description": "feature"
   },
   {
-   "key": "f_emi",
-   "type": "feature",
-   "name": "electromagnetic-interference",
-   "description": "feature"
-  },
-  {
    "key": "x_inversion",
    "type": "explanation",
    "name": "temperature-inversion",
@@ -1066,6 +1060,12 @@
    "type": "explanation",
    "name": "military-test-or-exercise",
    "description": "Explanation (special test of security mechanisms) given for missile silo shutdowns"
+  },
+  {
+   "key": "us_nuke_inc",
+   "type": "case",
+   "name": "United States nuclear weapons facility missile shutdown incidents",
+   "description": "Incidents at U.S. nuclear weapons facilities, per Knapp, in which ten missile silos were taken down"
   }
  ],
  "claims": [
@@ -3140,12 +3140,6 @@
    "quote": "People like Bob Salas, who had worked at a nuclear ICBM base, who saw UFOs flying over the base"
   },
   {
-   "s": "f_emi",
-   "p": "has_feature",
-   "o": "salas_inc",
-   "quote": "who saw UFOs flying over the base, and these missile silos were taken down"
-  },
-  {
    "s": "f_video",
    "p": "has_feature",
    "o": "hellfire_inc",
@@ -3200,15 +3194,45 @@
    "quote": "the people that paved the way for us in, you know, the first Congressional hearing"
   },
   {
-   "s": "case",
-   "p": "rumor",
+   "s": "us_nuke_inc",
+   "p": "official_explanation",
    "v": "Ten missile silos taken down at U.S. nuclear weapons facilities, officially explained as a special test of security mechanisms or EMPs",
    "quote": "you take down ten missile silos during tense times and you do not have a better explanation for it than it was a special test of security mechanisms or using EMPs"
   },
   {
+   "s": "us_nuke_inc",
+   "p": "related_case",
+   "o": "case",
+   "quote": "we had many similar incidents at our nuclear weapons facilities here that have all been sort of swept under the rug"
+  },
+  {
+   "s": "f_nuke",
+   "p": "has_feature",
+   "o": "us_nuke_inc",
+   "quote": "we had many similar incidents at our nuclear weapons facilities here"
+  },
+  {
+   "s": "f_cover",
+   "p": "has_feature",
+   "o": "us_nuke_inc",
+   "quote": "we had many similar incidents at our nuclear weapons facilities here that have all been sort of swept under the rug"
+  },
+  {
+   "s": "us_nuke_inc",
+   "p": "effect",
+   "v": "ten missile silos taken down during tense times",
+   "quote": "it is pretty scary when you take down ten missile silos during tense times"
+  },
+  {
+   "s": "knapp",
+   "p": "commentator",
+   "o": "us_nuke_inc",
+   "quote": "we had many similar incidents at our nuclear weapons facilities here that have all been sort of swept under the rug"
+  },
+  {
    "s": "x_test",
    "p": "explained_as",
-   "o": "salas_inc",
+   "o": "us_nuke_inc",
    "quote": "you do not have a better explanation for it than it was a special test of security mechanisms or using EMPs"
   },
   {
