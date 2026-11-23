@@ -16,7 +16,8 @@ Environment:
   CHECK_HOURS   6            how often to look for new videos
   PAUSE_SECONDS 8            wait between caption downloads, to stay under YouTube's limits
 """
-import gzip, hashlib, json, os, re, sqlite3, subprocess, threading, time, traceback, unicodedata, urllib.parse, urllib.request
+import gzip, hashlib, json, os, re, sqlite3, subprocess, sys, threading, time, traceback, unicodedata, urllib.parse, urllib.request
+import archive
 from http import HTTPStatus
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
@@ -71,7 +72,7 @@ def normalise_url(url):
         url = "https://" + url
     u = urllib.parse.urlparse(url)
     if u.hostname not in YT_HOSTS:
-        raise ValueError("Only YouTube links are supported so far.")
+        raise ValueError("Paste a YouTube link, or a National Archives catalogue link (catalog.archives.gov/id/…).")
     q = urllib.parse.parse_qs(u.query)
     if u.hostname == "youtu.be" or u.path == "/watch" or u.path.startswith("/shorts/"):
         vid = u.path.strip("/") if u.hostname == "youtu.be" else (q.get("v", [""])[0] or u.path.split("/")[-1])
@@ -152,11 +153,33 @@ def toks(s):
     return re.findall(r"[a-z0-9]+", s)
 
 
+GENERIC_TYPES = {"document", "work"}
+# A key made only of these words names nothing in particular ("the police report", "UFO report", "air base").
+GENERIC_WORDS = set("""the a an of on in at to and for by with from ufo ufos uap uaps report reports police air base office memo letter
+video videos film photo photos photograph photographs document documents file files program programme project committee panel book article
+interview statement study hearing team force field station desk telex model object objects craft case incident sighting sightings
+department division unit group center centre agency service bureau news radio television tv show series episode magazine journal paper
+army navy military government national federal state city county local new old first second third north south east west""".split())
+
+
 def keys_for(e):
-    """Word sequences that count as a mention of entity e."""
-    out = set()
-    for raw in [e["name"], *e.get("al", [])]:
-        text = re.sub(r"\(.*?\)", "", raw)
+    """(word sequence, how it was made) pairs that count as a mention of entity e.
+    'name' keys come from the entity's own name and beat 'alias' and 'short'
+    keys when two entities would claim the same words."""
+    out = {}
+    def add(k, how, acronym=False):
+        if sum(len(w) for w in k) < 5 and not acronym:
+            return                                       # "A-2", "UK": too short to trust
+        if not any(len(w) >= 3 and w.isalpha() for w in k) or all(w in GENERIC_WORDS or w.isdigit() for w in k):
+            return
+        prev = out.get(k)
+        if prev is None or ["name", "alias", "short"].index(how) < ["name", "alias", "short"].index(prev[0]):
+            out[k] = (how, acronym)
+    names = [(e["name"], "name")] + [(a, "alias") for a in e.get("al", [])]
+    for raw, how in names:
+        text = re.sub(r"\(.*?\)", "", raw).strip()
+        if how == "alias" and not re.search(r"\b[A-Z][a-z]|\b[A-Z]{3,}\b|\d", text):
+            continue                                     # generic lower-case aliases ("the model", "police report")
         t = toks(text)
         if t and t[0] == "the":
             t = t[1:]
@@ -164,17 +187,17 @@ def keys_for(e):
             t = [w for w in t if w not in TITLES]
             core = [w for w in t if len(w) > 1]
             if len(core) >= 2:
-                out.add(tuple(core))
-                out.add((core[0], core[-1]))
+                add(tuple(core), how)
+                add((core[0], core[-1]), how)
             continue
         if len(t) >= 2:
-            out.add(tuple(t))
-        elif len(t) == 1 and raw.strip().isupper() and len(t[0]) >= 3:   # acronyms: AARO, NASA, MUFON
-            out.add(tuple(t))
-        if e["type"] == "case" or e.get("case") is not None:
+            add(tuple(t), how)
+        elif (len(t) == 1 and text.isupper() and 3 <= len(t[0]) <= 6 and e["type"] not in GENERIC_TYPES):
+            add(tuple(t), how, acronym=True)             # AARO, NASA, MUFON: only where written in capitals
+        if how == "name" and (e["type"] == "case" or e.get("case") is not None):
             short = [w for w in t if w not in STRIP and not re.fullmatch(r"(19|20)\d\d", w)]
             if len(short) >= 2 or (len(short) == 1 and len(short[0]) >= 5 and short[0] not in SKIP_SINGLE):
-                out.add(tuple(short))
+                add(tuple(short), "short")
     return out
 
 
@@ -184,37 +207,67 @@ class Matcher:
         for e in entities:
             if e["type"] not in MATCH_TYPES and e.get("case") is None:
                 continue
-            for k in keys_for(e):
+            for k, (how, acronym) in keys_for(e).items():
+                rank = (["name", "alias", "short"].index(how), PRIORITY.get(e["type"], 9), -e.get("df", 0))
                 cur = best.get(k)
-                rank = (PRIORITY.get(e["type"], 9), -e.get("df", 0))
                 if cur is None or rank < cur[0]:
-                    best[k] = (rank, e["id"])
+                    best[k] = (rank, e["id"], acronym)
         self.keys = {k: v[1] for k, v in best.items()}
+        self.acronyms = {k for k, v in best.items() if v[2]}
         self.maxlen = max((len(k) for k in self.keys), default=1)
 
     def find(self, segments):
-        """{entity id: [count, first time, [(time, snippet), ...]]} for a list of (start, text) captions."""
-        words, at = [], []
+        """{entity id: [count, first time, [(time, snippet), ...]]} for a list of (start, text) segments."""
+        words, orig, at, shouting = [], [], [], []
         for i, (_, text) in enumerate(segments):
-            for w in toks(text):
+            letters = re.findall(r"[A-Za-z]", text)
+            caps = len(letters) > 12 and sum(c.isupper() for c in letters) > 0.6 * len(letters)
+            for raw in re.findall(r"[A-Za-z0-9'’]+", unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode()):
+                w = re.sub(r"['’]", "", raw).lower()
+                if not w:
+                    continue
                 words.append(w)
+                orig.append(raw)
                 at.append(i)
+                shouting.append(caps)
         hits = {}
         i = 0
         while i < len(words):
             for n in range(min(self.maxlen, len(words) - i), 0, -1):
-                eid = self.keys.get(tuple(words[i:i + n]))
-                if eid is not None:
-                    seg = at[i]
-                    h = hits.setdefault(eid, [0, segments[seg][0], []])
-                    h[0] += 1
-                    if len(h[2]) < 3 and (not h[2] or segments[seg][0] - h[2][-1][0] > 60):
-                        snip = " ".join(segments[j][1] for j in range(max(0, seg - 1), min(len(segments), seg + 2)))
-                        h[2].append((segments[seg][0], re.sub(r"\s+", " ", snip).strip()[:240]))
-                    i += n - 1
-                    break
+                k = tuple(words[i:i + n])
+                eid = self.keys.get(k)
+                if eid is None:
+                    continue
+                if k in self.acronyms and (not orig[i].isupper() or shouting[i]):
+                    continue                             # "far" is not FAR; an all-capitals line proves nothing
+                seg = at[i]
+                h = hits.setdefault(eid, [0, segments[seg][0], []])
+                h[0] += 1
+                if len(h[2]) < 3 and (not h[2] or segments[seg][0] - h[2][-1][0] > 60):
+                    snip = " ".join(segments[j][1] for j in range(max(0, seg - 1), min(len(segments), seg + 2)))
+                    h[2].append((segments[seg][0], re.sub(r"\s+", " ", snip).strip()[:240]))
+                i += n - 1
+                break
             i += 1
         return hits
+
+
+NUMWORD = {"two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "seven": 7, "eight": 8, "nine": 9, "ten": 10, "eleven": 11, "twelve": 12,
+           "couple": 2, "both": 2, "several": 3, "many": 3, "multiple": 3, "numerous": 3, "dozen": 12, "dozens": 24, "hundreds": 99}
+W_NUM = re.compile(r"\b(\d{1,4}|" + "|".join(NUMWORD) + r")\s+(?:of\s+)?(?:other\s+|more\s+|adult\s+)?(?:witness(?:es)?|people|persons|observers|"
+                   r"of us|adults|officers|pilots|airmen|soldiers|personnel|men|women|residents|crew members|passengers)\b", re.I)
+
+
+def witnesses_in(text):
+    """Largest number of witnesses a text states, or 0 (same rule as the bulk reports)."""
+    best = 0
+    for m in W_NUM.finditer(text or ""):
+        v = m[1].lower()
+        n = int(v) if v.isdigit() else NUMWORD[v]
+        if re.search(r"\b(other|more)\b", m[0], re.I):
+            n += 1
+        best = max(best, min(n, 99))
+    return best
 
 
 MATCHER = None
@@ -233,6 +286,7 @@ def load_matcher():
             match_episode(vid)
         with LOCK, db() as con:
             con.execute("INSERT OR REPLACE INTO meta VALUES ('data_hash', ?)", (digest,))
+        threading.Thread(target=archive.rematch_all, daemon=True).start()
         if vids:
             print(f"re-matched {len(vids)} transcripts against the updated board", flush=True)
 
@@ -396,6 +450,30 @@ class Handler(SimpleHTTPRequestHandler):
             ms = [{"e": r["eid"], "n": r["n"], "t": r["t"], "s": json.loads(r["snips"])}
                   for r in con.execute("SELECT * FROM mention WHERE vid = ? ORDER BY n DESC", (m[1],))]
             return self.send_json({**dict(e), "mentions": ms})
+        if u.path == "/api/archive":
+            return self.send_json(archive.summary())
+        if u.path == "/api/archive/search":
+            return self.send_json(archive.search(urllib.parse.parse_qs(u.query).get("q", [""])[0]))
+        if u.path == "/api/archive/fields":
+            return self.send_json(archive.all_fields())
+        if u.path == "/api/archive/mentions":
+            return self.send_json(archive.mentions())
+        m = re.fullmatch(r"/api/archive/files/(\d+)", u.path)
+        if m:
+            d = archive.file_detail(int(m[1]))
+            return self.send_json(d) if d else self.send_json({"error": "That file is not in the archive yet."}, 404)
+        m = re.fullmatch(r"/api/archive/image/(\d+)/(\d+)\.jpg", u.path)
+        if m:
+            data = archive.page_jpeg(int(m[1]), int(m[2]))
+            if not data:
+                return self.send_json({"error": "That page image is not stored on the NAS."}, 404)
+            self.send_response(200)
+            self.send_header("Content-Type", "image/jpeg")
+            self.send_header("Content-Length", str(len(data)))
+            self.send_header("Cache-Control", "max-age=86400")
+            self.end_headers()
+            self.wfile.write(data)
+            return
         if u.path == "/api/mentions":
             out = {}
             for r in con.execute("SELECT eid, vid, n, t, snips FROM mention ORDER BY n DESC"):
@@ -408,8 +486,21 @@ class Handler(SimpleHTTPRequestHandler):
         u = urllib.parse.urlparse(self.path)
         if u.path == "/api/sources":
             try:
-                url, kind = normalise_url(str(self.body().get("url", "")))
-            except (ValueError, json.JSONDecodeError) as e:
+                raw = self.body()
+            except json.JSONDecodeError:
+                return self.send_json({"error": "Send a JSON body with a url."}, 400)
+            m = re.search(r"catalog\.archives\.gov/id/(\d+)", str(raw.get("url", ""))) or (re.fullmatch(r"\d{4,12}", str(raw.get("naid", ""))) and re.match(r"(\d+)", str(raw["naid"])))
+            if m:
+                try:
+                    title = archive.add_source(int(m[1]))
+                except FileExistsError as e:
+                    return self.send_json({"error": str(e)}, 409)
+                except Exception as e:
+                    return self.send_json({"error": f"Could not add that catalogue record: {e}"}, 400)
+                return self.send_json({"ok": True, "kind": "archive", "title": title}, 201)
+            try:
+                url, kind = normalise_url(str(raw.get("url", "")))
+            except ValueError as e:
                 return self.send_json({"error": str(e)}, 400)
             with LOCK, db() as con:
                 if con.execute("SELECT 1 FROM source WHERE url = ?", (url,)).fetchone():
@@ -417,6 +508,10 @@ class Handler(SimpleHTTPRequestHandler):
                 con.execute("INSERT INTO source (url, name, kind, added, force) VALUES (?,?,?,?,1)", (url, None, kind, time.time()))
             WAKE.set()
             return self.send_json({"ok": True, "url": url, "kind": kind}, 201)
+        m = re.fullmatch(r"/api/archive/(\d+)/pause", u.path)
+        if m:
+            archive.set_paused(int(m[1]), bool(self.body().get("paused")))
+            return self.send_json({"ok": True})
         m = re.fullmatch(r"/api/sources/(\d+)/check", u.path)
         if m:
             with LOCK, db() as con:
@@ -428,6 +523,10 @@ class Handler(SimpleHTTPRequestHandler):
         return self.send_json({"error": "Not found."}, 404)
 
     def do_DELETE(self):
+        m = re.fullmatch(r"/api/archive/(\d+)", urllib.parse.urlparse(self.path).path)
+        if m:
+            archive.remove_source(int(m[1]))
+            return self.send_json({"ok": True})
         m = re.fullmatch(r"/api/sources/(\d+)", urllib.parse.urlparse(self.path).path)
         if not m:
             return self.send_json({"error": "Not found."}, 404)
@@ -444,8 +543,10 @@ class Handler(SimpleHTTPRequestHandler):
 
 def main():
     setup()
+    archive.init(sys.modules[__name__])
     load_matcher()
     threading.Thread(target=worker, daemon=True).start()
+    archive.run()
     print(f"UFO Evidence Board on port {PORT}; data in {DATA}", flush=True)
     ThreadingHTTPServer(("", PORT), Handler).serve_forever()
 

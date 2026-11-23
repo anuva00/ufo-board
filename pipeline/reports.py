@@ -451,7 +451,9 @@ def main():
     cols = {"ds": [DS[r["ds"]] for r in rows], "y": [r["y"] for r in rows], "m": [r["m"] for r in rows],
             "lat": [None if r["lat"] is None else round(r["lat"], 2) for r in rows],
             "lon": [None if r["lon"] is None else round(r["lon"], 2) for r in rows],
-            "sh": [SH[r["shape"]] for r in rows], "w": [r.get("w", 0) for r in rows]}
+            "sh": [SH[r["shape"]] for r in rows], "w": [r.get("w", 0) for r in rows],
+            # National Archives id of each Blue Book file, so the NAS can attach what it read from the scans
+            "nara": [int(r["ref"]) if r["ds"] == "bluebook" and r["ref"].isdigit() else 0 for r in rows]}
     UI.mkdir(exist_ok=True)
     (UI / "reports.json").write_text(json.dumps({"datasets": DATASETS, "shapes": SHAPES, "chunk": CHUNK, "n": len(rows), **cols}, separators=(",", ":")))
     rep = UI / "rep"

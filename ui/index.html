@@ -154,6 +154,19 @@ a { color: inherit; text-decoration-color: var(--link); text-underline-offset: 2
 .st { display: inline-flex; align-items: center; gap: 5px; white-space: nowrap; color: var(--fg2); }
 .st i { width: 8px; height: 8px; border-radius: 50%; background: var(--sw); }
 .tblwrap { overflow-x: auto; }
+.arch { margin-top: 26px; padding-top: 4px; border-top: 1px solid var(--line); }
+.hits { display: flex; flex-direction: column; }
+.hit { display: block; width: 100%; text-align: left; padding: 7px 8px; border: 0; border-bottom: 1px solid var(--line); background: none; }
+.hit:hover { background: var(--raise); }
+.hit b { font-weight: 600; }
+.hit span { display: block; color: var(--fg2); font-size: 12px; margin-top: 2px; overflow-wrap: anywhere; }
+.hit mark { background: none; color: var(--fg); font-weight: 600; text-decoration: underline; text-decoration-color: var(--link); }
+.fields { display: grid; grid-template-columns: max-content minmax(0, 1fr); gap: 3px 12px; margin: 8px 0; font-size: 12.5px; }
+.fields dt { color: var(--muted); }
+.fields dd { margin: 0; }
+.ocr { white-space: pre-wrap; font: 11.5px/1.45 ui-monospace, "SF Mono", Menlo, Consolas, monospace; color: var(--fg2); background: var(--raise); padding: 8px 10px; border-radius: 4px; max-height: 420px; overflow: auto; margin: 6px 0 10px; }
+.pg summary { padding: 4px 0; }
+.chip .n { color: var(--muted); }
 #map canvas { display: block; width: 100%; height: 100%; cursor: crosshair; }
 .netlabels { position: absolute; inset: 0; pointer-events: none; overflow: hidden; }
 .netlabels span { position: absolute; left: 0; top: 0; max-width: 150px; margin: 7px 0 0 7px; font: 500 10.5px/1.2 var(--body); color: var(--fg); text-shadow: 0 0 3px var(--sea), 0 0 3px var(--sea); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
@@ -253,6 +266,11 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
       </label>
       <p class="note" id="witnote"></p>
     </section>
+    <section id="conclsec" hidden>
+      <h2>Air Force conclusion</h2>
+      <div class="chips" id="concl" role="group" aria-label="Air Force conclusion"></div>
+      <p class="note" id="conclnote"></p>
+    </section>
     <section>
       <h2>Reported shape</h2>
       <div id="shapes"></div>
@@ -346,6 +364,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
   const CLS_OF = { nuforc: 0, bluebook: 1, faa: 1, geipan: 2, moduk: 2 };
   const dsCls = R.datasets.map((d) => CLS_OF[d.id]);
   const rDs = Uint8Array.from(R.ds), rY = Uint16Array.from(R.y, (y) => Math.max(y, Y0)), rM = Uint8Array.from(R.m), rSh = Uint8Array.from(R.sh), rW = Uint8Array.from(R.w || new Array(R.n).fill(0));
+  const rNara = Int32Array.from(R.nara || new Array(R.n).fill(0)), rConcl = new Uint8Array(R.n);   // conclusion index read from the scans, 0 = unknown
   const rCls = Uint8Array.from(R.ds, (d) => dsCls[d]);
   const rPx = new Float32Array(N), rPy = new Float32Array(N);
   const cases = new Map(D.cases.map((c) => [c.id, c]));
@@ -435,7 +454,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     return c;
   }
   const nukeIcons = [];
-  const S = { view: "map", y0: Y0, y1: Y1, ds: new Set(R.datasets.map((_, i) => i)), shape: null, wmin: 1,
+  const S = { view: "map", y0: Y0, y1: Y1, ds: new Set(R.datasets.map((_, i) => i)), shape: null, wmin: 1, concl: 0,
     groups: new Set(GROUPS.filter((g) => g.on).map((g) => g.id)), maxDf: 3, sel: null };
   let vis = [new Int32Array(0), new Int32Array(0), new Int32Array(0)], nVis = 0, nVisMapped = 0;
   let onCases = new Set(), selCases = new Set(), onNet = new Set(), nearSet = null;
@@ -463,7 +482,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     if (redrawTimeline) tlCounts.fill(0);
     nVis = 0; nVisMapped = 0;
     for (let i = 0; i < N; i++) {
-      const y = rY[i], inYear = y >= S.y0 && y <= S.y1, dsOn = S.ds.has(rDs[i]), shOn = (S.shape === null || rSh[i] === S.shape) && (S.wmin <= 1 || rW[i] >= S.wmin);
+      const y = rY[i], inYear = y >= S.y0 && y <= S.y1, dsOn = S.ds.has(rDs[i]), shOn = (S.shape === null || rSh[i] === S.shape) && (S.wmin <= 1 || rW[i] >= S.wmin) && (!S.concl || rConcl[i] === S.concl);
       if (redrawTimeline && dsOn && shOn) tlCounts[(y - Y0) * 3 + rCls[i]]++;
       if (!inYear) continue;
       if (shOn) dsCount[rDs[i]]++;
@@ -963,14 +982,40 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
   const api = (path, opt) => fetch("api/" + path, opt).then((r) => r.json().then((j) => { if (!r.ok) throw new Error(j.error || r.statusText); return j; }));
   const hms = (t) => { t = Math.floor(t || 0); const hh = Math.floor(t / 3600), mm = Math.floor(t / 60) % 60, ss = t % 60; return (hh ? hh + ":" + String(mm).padStart(2, "0") : mm) + ":" + String(ss).padStart(2, "0"); };
   const ytAt = (vid, t) => `https://www.youtube.com/watch?v=${vid}&t=${Math.floor(t || 0)}s`;
+  const ARCH = { summary: null, fields: {}, mentions: {}, doneSeen: -1, concls: [""] };
   async function loadApi() {
     try {
-      const [health, sources, episodes, mentions] = await Promise.all([api("health"), api("sources"), api("episodes"), api("mentions")]);
+      const [health, sources, episodes, mentions, arch] = await Promise.all([api("health"), api("sources"), api("episodes"), api("mentions"), api("archive")]);
       Object.assign(API, { ok: true, health, sources, episodes, mentions });
       API.epById = new Map(episodes.map((e) => [e.vid, e])); API.srcById = new Map(sources.map((x) => [x.id, x]));
+      ARCH.summary = arch;
+      const done = arch.sources.reduce((n, x) => n + x.files_done, 0);
+      if (done !== ARCH.doneSeen) {                   // new files read since last time: refresh fields and names
+        ARCH.doneSeen = done;
+        [ARCH.fields, ARCH.mentions] = await Promise.all([api("archive/fields"), api("archive/mentions")]);
+        applyConclusions();
+      }
     } catch (err) { API.ok = false; }
     if (S.view === "src") renderSources();
     if (S.sel && (S.sel.kind === "ent" || S.sel.kind === "case" || S.sel.kind === "episode")) render();
+  }
+  // Attach each Blue Book report on the map to the conclusion read from its scanned record card.
+  function applyConclusions() {
+    const counts = new Map();
+    for (const f of Object.values(ARCH.fields)) if (f.conclusion) counts.set(f.conclusion, (counts.get(f.conclusion) || 0) + 1);
+    ARCH.concls = ["", ...[...counts.keys()].sort((a, b) => counts.get(b) - counts.get(a))];
+    const idx = new Map(ARCH.concls.map((c, i) => [c, i]));
+    for (let i = 0; i < N; i++) { const f = rNara[i] && ARCH.fields[rNara[i]]; rConcl[i] = f && f.conclusion ? idx.get(f.conclusion) : 0; }
+    const read = Object.keys(ARCH.fields).length;
+    $("conclsec").hidden = !read;
+    if (S.concl >= ARCH.concls.length) S.concl = 0;
+    $("concl").replaceChildren(...ARCH.concls.slice(1).map((c, k) => {
+      const b = h("button", { class: "chip", "aria-pressed": String(S.concl === k + 1) }, c, h("span", { class: "n" }, " " + fmt(counts.get(c))));
+      b.addEventListener("click", () => { S.concl = S.concl === k + 1 ? 0 : k + 1; applyConclusions(); applyFilters(true); });
+      return b;
+    }));
+    $("conclnote").textContent = `Read by OCR from the Air Force record card in ${fmt(read)} scanned Blue Book files on the NAS, so some are misread. Choosing one shows only Blue Book reports with that conclusion.`;
+    if (S.concl) applyFilters(true);
   }
   let pollTimer = null;
   function poll() { clearTimeout(pollTimer); loadApi().then(() => { if (API.ok) pollTimer = setTimeout(poll, S.view === "src" ? 8000 : 60000); }); }
@@ -1028,8 +1073,89 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
       rows.length ? h("h3", {}, "Subscribed") : null, rows,
       API.episodes.length ? h("h3", {}, `Videos${SV.source != null ? " · " + (API.srcById.get(SV.source)?.name || "") : ""} (${fmt(eps.length)})`) : null,
       API.episodes.length ? fbar : null, API.episodes.length ? table : null,
-      eps.length > 400 ? h("p", { class: "note" }, `Showing the first 400 of ${fmt(eps.length)}. Filter to narrow the list.`) : null].flat().filter(Boolean));
+      eps.length > 400 ? h("p", { class: "note" }, `Showing the first 400 of ${fmt(eps.length)}. Filter to narrow the list.`) : null, archiveSection()].flat().filter(Boolean));
     if (keepFocus === "epq") { const el = $("epq"); el.focus(); el.setSelectionRange(el.value.length, el.value.length); }
+  }
+  const gb = (b) => (b >= 1e9 ? (b / 1e9).toFixed(1) + " GB" : Math.round(b / 1e6) + " MB");
+  function archiveSection() {
+    const a = ARCH.summary;
+    if (!a) return null;
+    const out = [h("div", { class: "arch" }, h("h3", {}, "Archives"),
+      h("p", { class: "meta" }, `Scanned government files, downloaded and read on the NAS with OCR. ${a.activity}. ${a.workers} pages read at once; ${a.keep_images ? `page images kept (${gb(a.disk_bytes)} so far)` : "page images deleted after reading"}.`))];
+    for (const p of a.presets) if (!a.sources.some((x) => x.naid === p.naid))
+      out.push(h("div", { class: "srow" }, h("div", { class: "nm" }, p.title),
+        h("div", { class: "acts" }, h("button", { on: { click: async () => {
+          try { await api("sources", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ naid: String(p.naid) }) }); SV.msg = "Added. The NAS is listing the files; reading starts once the list is complete."; SV.err = false; }
+          catch (err) { SV.msg = err.message; SV.err = true; }
+          poll(); } } }, "Download and read")),
+        h("div", { class: "sub3" }, "10,622 case files, about 116,500 page scans (around 90 GB of images). Expect a day or two of downloading and reading.")));
+    for (const x of a.sources) {
+      const seg = (n, v) => (n ? h("i", { style: `width: ${(100 * n / Math.max(1, x.pages)).toFixed(2)}%; background: var(${v})` }) : null);
+      const top = Object.entries(x.conclusions).sort((p, q) => q[1] - p[1]).slice(0, 5).map(([k, n]) => `${k} ${fmt(n)}`).join(", ");
+      const r = h("div", { class: "srow" }, h("div", { class: "nm" }, x.title),
+        h("div", { class: "acts" },
+          h("button", { on: { click: async () => { await api(`archive/${x.naid}/pause`, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ paused: !x.paused }) }); poll(); } } }, x.paused ? "Resume" : "Pause"),
+          h("button", { on: { click: async (ev) => {
+            if (r.dataset.confirm !== "1") { r.dataset.confirm = "1"; ev.target.textContent = "Delete everything? Click again"; return; }
+            await api(`archive/${x.naid}`, { method: "DELETE" }); SV.msg = "Removed, with its images and text."; poll(); } } }, "Remove")),
+        h("div", { class: "sub3" }, x.listed ? `${fmt(x.files_done)} of ${fmt(x.files)} files · ${fmt(x.pages_done)} of ${fmt(x.pages)} pages read${x.files_failed ? ` · ${fmt(x.files_failed)} to retry` : ""}${x.paused ? " · paused" : ""}` : `Listing the catalogue: ${fmt(x.files)} files found so far`,
+          top ? h("span", {}, " · conclusions read: " + top) : null, x.last_error ? h("span", { style: "color: var(--link)" }, " · " + x.last_error) : null),
+        h("div", { class: "prog", "aria-hidden": "true" }, seg(x.pages_done, "--c2")));
+      out.push(r);
+    }
+    if (a.sources.length) {
+      const res = h("div", { class: "hits" });
+      const form = h("form", { class: "addsrc" }, h("input", { id: "archq", type: "search", placeholder: "Search the text of every scanned page", "aria-label": "Search scanned pages", value: SV.aq || "" }), h("button", { type: "submit" }, "Search"));
+      const run = async () => {
+        SV.aq = $("archq").value;
+        if (!SV.aq.trim()) { res.replaceChildren(); return; }
+        res.replaceChildren(h("p", { class: "empty" }, "Searching…"));
+        try {
+          const hits = await api("archive/search?q=" + encodeURIComponent(SV.aq));
+          SV.ahits = hits;
+          res.replaceChildren(...(hits.length ? hits.map(hitRow) : [h("p", { class: "empty" }, "No scanned page contains that. OCR misreads words, so try a shorter or differently spelled term.")]));
+        } catch (err) { res.replaceChildren(h("p", { class: "empty" }, err.message)); }
+      };
+      form.addEventListener("submit", (ev) => { ev.preventDefault(); run(); });
+      if (SV.ahits) res.replaceChildren(...SV.ahits.map(hitRow));
+      out.push(h("h3", {}, "Search the scans"), form, res);
+    }
+    return out;
+  }
+  function hitRow(x) {
+    const parts = x.snip.split(/\[\[|\]\]/).map((t, i) => (i % 2 ? h("mark", {}, t) : t));
+    return h("button", { class: "hit", on: { click: () => select({ kind: "archfile", naid: x.naid, page: x.n }) } }, h("b", {}, x.title), " · page " + x.n, h("span", {}, parts));
+  }
+  async function archivePanel(naid, page) {
+    const box = h("div", {}, h("p", { class: "empty" }, "Reading the file…"));
+    put(back(), h("span", { class: "tag" }, "Scanned file"), box);
+    try {
+      const d = await api("archive/files/" + naid);
+      if (!(S.sel && S.sel.kind === "archfile" && S.sel.naid === naid)) return;
+      const f = d.fields || {}, label = { conclusion: "Conclusion", qualifier: "Qualifier", source: "Source", observation: "Type of observation", objects: "Number of objects", duration: "Length of observation", witnesses: "Witnesses stated" };
+      const rows = Object.keys(label).filter((k) => f[k] != null).flatMap((k) => [h("dt", {}, label[k]), h("dd", {}, String(f[k]))]);
+      const names = d.mentions.map((m) => [ents.get(m.eid), m]).filter(([e]) => e).sort((a, b) => b[0].w - a[0].w);
+      box.replaceChildren(...[h("h2", {}, d.title),
+        h("p", { class: "meta" }, `${d.pages} pages · ${d.status === "done" ? "read" : d.status}`),
+        h("a", { class: "srcdoc", href: d.catalog_url, target: "_blank", rel: "noopener" }, h("b", {}, "Open in the National Archives catalogue"), h("span", {}, "The original scans, page by page")),
+        h("h3", {}, "From the Air Force record card"),
+        rows.length ? h("dl", { class: "fields" }, rows) : h("p", { class: "empty" }, "No record card was recognised in this file."),
+        rows.length ? h("p", { class: "note" }, `Read by OCR from page ${f.card_page}${f.conclusion_word ? `; the conclusion word as read was “${f.conclusion_word}”` : ""}. Check it against the scan.`) : null,
+        names.length ? [h("h3", {}, `Names from the board (${names.length})`), h("div", { class: "rows" }, names.map(([e, m]) => h("button", { class: "row", on: { click: () => select(e.case != null ? { kind: "case", id: e.case } : { kind: "ent", id: e.id }, true) } },
+          h("span", { class: "sw", style: sw(e) }), h("span", { class: "nm" }, e.name), h("span", { class: "ct" }, `${m.n}× · p. ${m.page}`))))] : null,
+        h("h3", {}, "Pages"),
+        d.pages_list.map((p) => h("details", { class: "pg", open: p.n === page ? "" : null },
+          h("summary", {}, `Page ${p.n}${p.conf != null ? ` · OCR confidence ${Math.round(p.conf)}%` : " · not read yet"}`),
+          p.image ? h("a", { href: `api/archive/image/${naid}/${p.n}.jpg`, target: "_blank", rel: "noopener" }, "View the scan") : h("a", { href: p.url, target: "_blank", rel: "noopener" }, "Download the scan (JPEG 2000)"),
+          p.text ? h("div", { class: "ocr" }, p.text) : null))].flat(Infinity).filter(Boolean));
+    } catch (err) { box.replaceChildren(h("p", { class: "empty" }, "This file has not been downloaded to the NAS yet.")); }
+  }
+  function archiveMentions(eid) {
+    const list = ARCH.mentions[eid];
+    if (!list || !list.length) return null;
+    return [h("h3", {}, `In scanned files (${list.length})`), h("div", { class: "rows" }, list.slice(0, 40).map(([naid, n, page, snip, title]) =>
+      h("button", { class: "row", title: snip, on: { click: () => select({ kind: "archfile", naid, page }) } }, h("span", { class: "nm" }, title), h("span", { class: "ct" }, `${n}× · p. ${page}`)))),
+      list.length > 40 ? h("p", { class: "note" }, `${list.length - 40} more files.`) : null];
   }
   function ev_btn(row, text) { const b = row.querySelectorAll(".acts button")[1]; b.textContent = text; setTimeout(() => { if (row.isConnected) { b.textContent = "Remove"; row.dataset.confirm = ""; } }, 4000); }
   function videoMentions(eid) {
@@ -1131,7 +1257,9 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
           h("div", { class: "hd" }, h("span", { class: "tag", style: `--sw: var(${CLASS[dsCls[rDs[i]]].v})` }, h("i"), ds.name), h("b", {}, date), h("span", {}, place || "place not stated"),
             R.shapes[rSh[i]] !== "unknown" ? h("span", {}, R.shapes[rSh[i]]) : null,
             rW[i] ? h("span", {}, rW[i] >= 99 ? "100+ witnesses" : `${rW[i]} witness${rW[i] === 1 ? "" : "es"} stated`) : null),
-          sum ? h("p", {}, sum) : h("p", { class: "empty" }, "No description in the catalogue record; the scanned file is at the link."),
+          sum ? h("p", {}, sum) : (rNara[i] && ARCH.fields[rNara[i]] ? null : h("p", { class: "empty" }, "No description in the catalogue record; the scanned file is at the link.")),
+          rNara[i] && ARCH.fields[rNara[i]] ? h("p", {}, ARCH.fields[rNara[i]].conclusion ? `Air Force conclusion, as read from the scan: ${ARCH.fields[rNara[i]].conclusion}${ARCH.fields[rNara[i]].qualifier ? " (" + ARCH.fields[rNara[i]].qualifier + ")" : ""}. ` : "Scanned and read on the NAS. ",
+            h("button", { class: "linkbtn", on: { click: () => select({ kind: "archfile", naid: rNara[i], page: null }) } }, "Read the scanned file")) : null,
           url ? h("a", { href: url, target: "_blank", rel: "noopener" }, ds.gov ? "Open the government record" : "Open the record") : null);
       }));
     }).catch(() => box.replaceChildren(h("p", { class: "empty" }, "The report details could not be read. Try again.")));
@@ -1181,6 +1309,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
       return;
     }
     if (s.kind === "episode") { episodePanel(s.vid); if (S.view === "src") renderSources(); return; }
+    if (s.kind === "archfile") { archivePanel(s.naid, s.page); return; }
     if (s.kind === "nuke") {
       const n = s.site;
       put(back(), h("span", { class: "tag" }, nkLabel[n.k].replace(/s$/, "")), h("span", { class: "tag" }, n.cur ? nsLabel[n.cur] + (nukeYear >= NOW ? "" : " in " + nukeYear) : "Not yet started in " + nukeYear), h("h2", {}, n.n),
@@ -1215,7 +1344,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
         put(h("h3", {}, `${label} (${list.length})`), h("div", { class: "rows" }, rows.slice(0, 40)), rows.length > 40 ? h("details", {}, h("summary", {}, `${rows.length - 40} more`), h("div", { class: "rows" }, rows.slice(40))) : null);
       }
       const self = D.entities.find((x) => x.case === c.id);
-      if (self) put(videoMentions(self.id));
+      if (self) put(videoMentions(self.id), archiveMentions(self.id));
       return;
     }
     if (s.kind === "ent" || s.kind === "string") {
@@ -1223,7 +1352,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
       const links = (linksByEnt.get(e.id) || []).filter((l) => s.kind === "ent" || l.c === s.c);
       put(back(), h("span", { class: "tag", style: sw(e) }, h("i"), groupLabel(e)), h("h2", {}, e.name),
         h("p", { class: "meta" }, e.df > 1 ? `Named in ${e.df} of ${D.n_cases} case files.` : "Named in one case file only."));
-      put(videoMentions(e.id));
+      put(videoMentions(e.id), archiveMentions(e.id));
       for (const l of links) put(h("div", { class: "sub" }, caseRow(cases.get(l.c))),
         l.roles.length ? h("div", {}, l.roles.map((r) => h("span", { class: "tag" }, human(r)))) : null, evidence(l, 3));
       return;

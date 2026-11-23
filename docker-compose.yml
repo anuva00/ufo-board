@@ -9,4 +9,6 @@ services:
     environment:
       CHECK_HOURS: "6"     # how often to look for new videos
       PAUSE_SECONDS: "8"   # wait between caption downloads
+      OCR_WORKERS: "3"     # scanned pages read at once; the DXP4800 Pro can take 3 or 4
+      KEEP_IMAGES: "1"     # keep page scans after reading (about 90 GB for all of Blue Book); 0 deletes them
     restart: unless-stopped

@@ -100,3 +100,32 @@ Limits: auto-captions mishear names, and a surname said on its own is not
 counted, so mentions are undercounted. Transcripts stay in `nas-data` and are
 not committed. Anyone on the local network can add or remove sources.
 
+### Archives: downloading and reading scanned files
+
+In the Sources tab, "Download and read" on *Project Blue Book case files*
+starts the NAS on the whole series: 10,622 case files, about 116,500 page
+scans. You can also paste any National Archives catalogue link
+(`catalog.archives.gov/id/…`) for a series or file unit into the Subscribe box.
+
+For each file the NAS:
+
+1. downloads every page scan from the National Archives catalogue;
+2. reads it with Tesseract OCR, in two passes (plain, and a high-contrast
+   pass that recovers the faint typing on Air Force record cards), keeping
+   the better one;
+3. reads the main fields off the Air Force record card ("Project 10073
+   Record"): conclusion, source, type of observation, number of objects,
+   length of observation, witnesses mentioned;
+4. indexes all the text for full-text search, and finds the names the board
+   knows.
+
+The dashboard then shows an "Air Force conclusion" filter for Blue Book
+reports, the conclusion on each Blue Book report, a page for each scanned
+file (fields, names, OCR text, scan), "In scanned files" on people and
+cases, and a search box over every scanned page.
+
+Expect about a day of downloading and one to two days of reading for all of
+Blue Book, around 90 GB if `KEEP_IMAGES` is 1. Pause and resume from the
+tab; work already done is kept. Record-card fields are read by OCR from
+typewritten forms and will sometimes be wrong; each file's page shows the
+word as read so it can be checked against the scan.
