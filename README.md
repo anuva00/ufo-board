@@ -28,6 +28,7 @@ finding.
 | Extract | one agent per source, following `pipeline/EXTRACT.md` | `data/extractions/<slug>.json`: entities and quoted claims |
 | Load | `python3 pipeline/load.py` | Validates every extraction and builds `data/ufo.db`; a claim whose quote is not found verbatim is rejected |
 | Resolve | `python3 pipeline/resolve.py` | Merges entities that are the same thing across sources; reviewed decisions live in `data/merges.json` |
+| Extra bulk sources | `python3 pipeline/fetch_extra.py` | Downloads the Larry Hatch *U* records (UAPDrop, CC BY 4.0), Transport Canada CADORS "CIRVIS/UFO" reports (OGL-Canada) and the PURSUE document index (uapinsight.com, CC BY 4.0) |
 | Bulk layer | `python3 pipeline/reports.py` | Builds `ui/reports.json` and `ui/rep/*.json` from `data/raw/` |
 | Export | `cd pipeline && python3 export.py` | Scores links and writes `ui/data.json` |
 | Nuclear sites | `python3 pipeline/nuclear.py` | Builds `ui/nuclear.json`: power stations from GeoNuclearData, weapons and test sites from the hand-entered `data/nuclear_weapons_sites.json` |
@@ -51,7 +52,11 @@ the sum of the weights of everything they share, plus 1 if one names the other.
   but not mapped: about 2,100 of the 10,276 Blue Book files (titles that give
   only a country, a state or an illegible place) and a third of the UK MoD
   reports. Another 346 Blue Book files have no legible date and are left out.
-- The NUFORC snapshot ends in 2014; there is no bulk civilian data after that.
+- The NUFORC snapshot ends in mid-2014, and NUFORC's terms forbid scraping or
+  redistributing their data, so it cannot simply be refreshed. From 2015 the
+  bulk layer has only a few hundred reports a year (GEIPAN, CADORS, FAA,
+  PURSUE) against about 7,000 a year before; the timeline marks the cut-off.
+  Newer NUFORC data has to be requested from NUFORC directly.
 - Extraction is done by language-model agents. Quotes are machine-verified; the
   reading of each quote (who was a witness, who was a sceptic) is not.
 - Name matching is conservative and only partly reviewed.

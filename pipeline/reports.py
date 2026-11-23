@@ -28,7 +28,17 @@ DATASETS = [
      "url": "https://www.gov.uk/government/publications/ufo-reports-in-the-uk", "gov": True},
     {"id": "faa", "name": "FAA pilot and controller reports", "who": "US Federal Aviation Administration, National Archives RG 615",
      "url": "https://catalog.archives.gov/id/493468575", "gov": True},
+    {"id": "hatch", "name": "Larry Hatch *U* database", "who": "Researcher's catalogue of reports from books, periodicals and files, mostly 1940s to 1990s; via the UAPDrop open dataset (CC BY 4.0)",
+     "url": "https://www.uapdrop.com/data.html", "gov": False},
+    {"id": "cadors", "name": "Transport Canada CADORS reports", "who": "Pilot and air-traffic-control reports filed as 'CIRVIS/UFO' in Canada's civil aviation occurrence system, 2000 onwards (Open Government Licence – Canada)",
+     "url": "https://open.canada.ca/data/en/dataset/a348c1d1-2392-4595-b5e2-c6a244a7e87f", "gov": True},
+    {"id": "pursue", "name": "PURSUE release incidents", "who": "Incidents described in the 2026 US government PURSUE release documents; dates, places and summaries are machine-read by uapinsight.com (CC BY 4.0)",
+     "url": "https://uapinsight.com/pursue/data", "gov": True},
 ]
+# which colour group each dataset is drawn in on the dashboard: 0 civilian, 1 US government, 2 other governments
+CLASS = {"nuforc": 0, "hatch": 0, "bluebook": 1, "faa": 1, "pursue": 1, "geipan": 2, "moduk": 2, "cadors": 2}
+for d in DATASETS:
+    d["cls"] = CLASS[d["id"]]
 DS = {d["id"]: i for i, d in enumerate(DATASETS)}
 SHAPES = ["light", "disc", "triangle", "sphere", "cylinder", "oval", "fireball", "formation", "boomerang", "other", "unknown"]
 SH = {s: i for i, s in enumerate(SHAPES)}
@@ -434,11 +444,123 @@ def load_faa():
     return rows
 
 
+def load_hatch():
+    rows = []
+    for r in csv.DictReader(open(RAW / "uapdrop/sightings.csv", encoding="utf8", errors="replace")):
+        if r["source_key"] != "hatch":
+            continue                                 # UAPDrop's Blue Book and GEIPAN rows duplicate our own copies
+        m = re.match(r"(\d{4})-(\d\d)-(\d\d)", r["observed_at"] or "")
+        if not m:
+            continue
+        try:
+            lat, lon = float(r["latitude"]), float(r["longitude"])
+        except ValueError:
+            lat = lon = None
+        text = r["summary"] or ""
+        cite = r["source_url"].strip()
+        rows.append({"ds": "hatch", "y": int(m[1]), "m": int(m[2]), "d": int(m[3]), "lat": lat, "lon": lon,
+                     "place": r["location_name"].title() if r["location_name"].isupper() else r["location_name"], "country": r["country_code"],
+                     "shape": shape_from_text(text), "w": witnesses(text),
+                     "sum": clean(text + (f" — Source cited by Hatch: {cite}" if cite else ""), 420), "ref": "https://www.uapdrop.com/data.html"})
+    return rows
+
+
+CADORS_COORD = re.compile(r"(\d{2})(\d{2}(?:\.\d+)?)\s*N[\s/,]*(\d{2,3})(\d{2}(?:\.\d+)?)\s*W", re.I)
+
+
+def load_cadors(gaz):
+    import airportsdata
+    icao = airportsdata.load("ICAO")
+    ids = {r["cadorsnumber"] for r in csv.DictReader(open(RAW / "cadors/occurrence_events.csv", encoding="utf8", errors="replace"))
+           if "CIRVIS/UFO" in (r["event_name_enm"] or "")}
+    rows, stats = [], Counter()
+    for r in csv.DictReader(open(RAW / "cadors/occurrence_information.csv", encoding="utf8", errors="replace")):
+        if r["cadorsnumber"] not in ids:
+            continue
+        m = re.match(r"(\d{4})-(\d\d)-(\d\d)", r["occurrencedate"] or "")
+        if not m:
+            continue
+        loc, aero = (r["occurrencelocation"] or "").strip(), (r["aerodromelocation"] or "").strip()
+        lat = lon = None
+        c = CADORS_COORD.search(loc)
+        c2 = re.search(r"\b(\d{2})(\d{2})\s*/\s*(\d{3})(\d{2})\b", loc)          # "5423/11958"
+        c3 = re.search(r"\b(\d{2})\s*N\s*/?\s*(\d{2,3})\s*W\b", loc, re.I)       # "58N 111W"
+        if c:
+            lat, lon = int(c[1]) + float(c[2]) / 60, -(int(c[3]) + float(c[4]) / 60)
+        elif c2:
+            lat, lon = int(c2[1]) + int(c2[2]) / 60, -(int(c2[3]) + int(c2[4]) / 60)
+        elif c3:
+            lat, lon = float(c3[1]), -float(c3[2])
+        else:
+            a = re.search(r"\(([A-Z0-9]{4})\)", loc) or re.search(r"\(([A-Z0-9]{4})\)", aero)
+            if a and a[1] in icao:
+                lat, lon = icao[a[1]]["lat"], icao[a[1]]["lon"]
+            elif loc:
+                pos = gaz.city(re.split(r"[,(]", loc)[0].strip(), "CA")
+                if pos:
+                    lat, lon = pos
+        stats["mapped" if lat is not None else "not mapped"] += 1
+        where = "; ".join(x for x in (f"location given as “{loc}”" if loc else "", f"aerodrome {aero}" if aero else "") if x)
+        rows.append({"ds": "cadors", "y": int(m[1]), "m": int(m[2]), "d": int(m[3]), "lat": lat, "lon": lon,
+                     "place": loc if loc and not CADORS_COORD.search(loc) else (aero or r["subdivision_enm"] or ""), "country": "CA",
+                     "shape": "unknown", "w": 0,
+                     "sum": clean(f"CADORS {r['cadorsnumber']}: filed under 'Weather balloon, meteor, rocket, CIRVIS/UFO'"
+                                  f"{', ' + r['occurrencetime'] if r['occurrencetime'] else ''}. {where}. The open data has no narrative; "
+                                  f"search the CADORS number on Transport Canada's CADORS site for the full report.", 420),
+                     "ref": "https://open.canada.ca/data/en/dataset/a348c1d1-2392-4595-b5e2-c6a244a7e87f"})
+    print("  cadors:", dict(stats))
+    return rows
+
+
+MONTH_WORD = re.compile(r"(January|February|March|April|May|June|July|August|September|October|November|December)", re.I)
+PURSUE_SHAPE = {"disc": "disc", "disk": "disc", "triangle": "triangle", "sphere": "sphere", "orb": "sphere", "cylinder": "cylinder",
+                "tic-tac": "oval", "tic_tac": "oval", "oval": "oval", "light": "light", "lights": "light", "fireball": "fireball",
+                "cube": "other", "diamond": "other", "rectangle": "other", "cigar": "cylinder", "boomerang": "boomerang", "chevron": "boomerang"}
+
+
+def load_pursue(gaz):
+    rows, stats = [], Counter()
+    for r in csv.DictReader(open(RAW / "pursue/documents.csv", encoding="utf8", errors="replace")):
+        if r["record_verdict"] == "not_incident":
+            continue
+        d = (r["incident_date"] or "").strip()
+        y = m = day = 0
+        a = re.match(r"(\d{1,2})/(\d{1,2})/(\d{2,4})$", d)
+        if a:
+            y = int(a[3]) + (0 if len(a[3]) == 4 else (1900 if int(a[3]) > 30 else 2000))
+            m, day = int(a[1]), int(a[2])
+        else:
+            yy = re.search(r"\b(19[4-9]\d|20[0-2]\d)\b", d)
+            if yy:
+                y = int(yy[1])
+                mw = MONTH_WORD.search(d)
+                m = MONTHS[mw[1].lower()] if mw else 0
+        if not y:
+            stats["no date"] += 1
+            continue
+        where = re.sub(r",?\s*(U\.S\.A?\.?|USA)\s*$", "", r["incident_location"] or "").strip()
+        lat, lon, country = gaz.locate(where) if where not in ("", "N/A") else (None, None, "")
+        stats["mapped" if lat is not None else "not mapped"] += 1
+        shape = PURSUE_SHAPE.get((r["uap_shape"] or "").lower().split("|")[0].strip(), "unknown")
+        rows.append({"ds": "pursue", "y": y, "m": m, "d": day, "lat": lat, "lon": lon,
+                     "place": r["incident_location"] if r["incident_location"] != "N/A" else "", "country": country or "US",
+                     "shape": shape, "w": 0,
+                     "sum": clean(f"{r['title']}. {r['summary']} (Machine-written summary by uapinsight.com; check the original.)", 520),
+                     "ref": r["original_url"] or r["uapinsight_url"]})
+    print("  pursue:", dict(stats))
+    return rows
+
+
 def main():
     print("loading datasets")
     nuforc = load_nuforc()
     gaz = Gazetteer(nuforc)
     rows = nuforc + load_bluebook(gaz) + load_geipan() + load_moduk(gaz) + load_faa()
+    for name, fn in (("hatch", load_hatch), ("cadors", lambda: load_cadors(gaz)), ("pursue", lambda: load_pursue(gaz))):
+        try:
+            rows += fn()
+        except FileNotFoundError:
+            print(f"  {name}: not downloaded (run pipeline/fetch_extra.py)")
     rows = [r for r in rows if 1900 <= r["y"] <= 2026]
     rows.sort(key=lambda r: (r["y"], r["m"], r["d"], r["ds"]))
     counts = Counter(r["ds"] for r in rows)

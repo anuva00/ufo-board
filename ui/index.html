@@ -188,6 +188,8 @@ a { color: inherit; text-decoration-color: var(--link); text-underline-offset: 2
 .time .axis line, .time .axis path { stroke: var(--line); }
 .time .grid { stroke: var(--line); stroke-dasharray: 2 3; }
 .time .seg.out { opacity: .28; }
+.time .gapline { stroke: var(--fg2); stroke-dasharray: 3 3; }
+.time .gaptext { fill: var(--fg2); font-size: 10.5px; }
 .time .casedot { fill: var(--fg); stroke: var(--panel); stroke-width: 1; }
 .time .selection { fill: var(--fg); fill-opacity: .07; stroke: var(--fg2); stroke-opacity: .6; }
 
@@ -360,9 +362,9 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
   // ================= data =================
   const NUKES = await fetch("nuclear.json").then((r) => (r.ok ? r.json() : [])).catch(() => []);
   const N = R.n, Y0 = 1940, Y1 = Math.max(...R.y);
-  const CLASS = [{ name: "Civilian hotline", v: "--c0" }, { name: "US government", v: "--c1" }, { name: "Other governments", v: "--c2" }];
+  const CLASS = [{ name: "Civilian reports", v: "--c0" }, { name: "US government", v: "--c1" }, { name: "Other governments", v: "--c2" }];
   const CLS_OF = { nuforc: 0, bluebook: 1, faa: 1, geipan: 2, moduk: 2 };
-  const dsCls = R.datasets.map((d) => CLS_OF[d.id]);
+  const dsCls = R.datasets.map((d) => (d.cls != null ? d.cls : CLS_OF[d.id]));
   const rDs = Uint8Array.from(R.ds), rY = Uint16Array.from(R.y, (y) => Math.max(y, Y0)), rM = Uint8Array.from(R.m), rSh = Uint8Array.from(R.sh), rW = Uint8Array.from(R.w || new Array(R.n).fill(0));
   const rNara = Int32Array.from(R.nara || new Array(R.n).fill(0)), rConcl = new Uint8Array(R.n);   // conclusion index read from the scans, 0 = unknown
   const rCls = Uint8Array.from(R.ds, (d) => dsCls[d]);
@@ -830,6 +832,11 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     });
     tl.append("g").selectAll("rect").data(segs).join("rect").attr("class", "seg").attr("x", (d) => d.x).attr("y", (d) => d.top)
       .attr("width", tx.bandwidth()).attr("height", (d) => d.h).attr("fill", (d) => C.cls[d.c]);
+    if (S.ds.has(R.datasets.findIndex((d) => d.id === "nuforc")) && tx(2014) != null) {   // where our NUFORC copy stops: a gap in the data, not in sightings
+      const gx = tx(2014) + tx.bandwidth() + tx.step() * tx.paddingInner() / 2;
+      tl.append("line").attr("class", "gapline").attr("x1", gx).attr("x2", gx).attr("y1", m.t + 2).attr("y2", hgt - m.b);
+      tl.append("text").attr("class", "gaptext").attr("x", gx - 4).attr("y", m.t + 12).attr("text-anchor", "end").text("NUFORC copy ends mid-2014");
+    }
     tl.append("g").selectAll("circle").data([...casesByYear]).join("circle").attr("class", "casedot")
       .attr("cx", ([y]) => tx(y) + tx.bandwidth() / 2).attr("cy", m.t - 4).attr("r", ([, l]) => Math.min(5, 2 + 0.7 * l.length));
     brush = d3.brushX().extent([[m.l, 2], [w - m.r, hgt - m.b]]).on("brush end", (ev) => {
