@@ -115,10 +115,12 @@ a { color: inherit; text-decoration-color: var(--link); text-underline-offset: 2
 
 /* ---------- stage ---------- */
 .stage { grid-area: stage; position: relative; min-width: 0; min-height: 0; overflow: hidden; background: var(--sea); }
-.tabs { position: absolute; z-index: 20; left: 12px; top: 10px; display: flex; border: 1px solid var(--border); border-radius: 5px; overflow: hidden; background: var(--panel); }
+.stagebar { position: absolute; z-index: 20; left: 12px; right: 12px; top: 10px; display: flex; flex-wrap: wrap; gap: 8px; justify-content: space-between; align-items: flex-start; pointer-events: none; }
+.stagebar > * { pointer-events: auto; }
+.tabs { flex: 0 0 auto; display: flex; border: 1px solid var(--border); border-radius: 5px; overflow: hidden; background: var(--panel); }
 .tabs button { padding: 5px 13px; border: 0; background: none; color: var(--fg2); font-weight: 500; }
 .tabs button[aria-selected="true"] { background: var(--fg); color: var(--bg); }
-.mapctl { position: absolute; z-index: 20; right: 12px; top: 10px; display: flex; gap: 4px; }
+.mapctl { flex-wrap: wrap; justify-content: flex-end; display: flex; gap: 4px; }
 .mapctl button { padding: 5px 9px; border: 1px solid var(--border); border-radius: 5px; background: var(--panel); color: var(--fg2); }
 .readout { position: absolute; z-index: 20; left: 12px; bottom: 10px; padding: 4px 9px; border: 1px solid var(--line); border-radius: 5px; background: var(--panel); color: var(--fg2); font-size: 11.5px; max-width: calc(100% - 24px); }
 #map, #net { position: absolute; inset: 0; }
@@ -226,7 +228,6 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
   .top { order: 0; } .stage { order: 1; height: 58vh; min-height: 320px; } .time { order: 2; height: 170px; } .panel { order: 3; max-height: none; } .rail { order: 4; }
   .rail, .panel { border: 0; border-top: 1px solid var(--line); padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
   .time .legend { display: none; }
-  .mapctl { top: 48px; left: 12px; right: auto; }
   .search { flex: 1 1 100%; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
@@ -278,6 +279,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
     <div id="map"><canvas id="mapcanvas" aria-label="World map of sighting reports and case files"></canvas></div>
     <div id="net" hidden><div id="netgraph"></div><div class="netlabels" id="netlabels"></div></div>
     <div id="srcview" hidden><div class="sv" id="sv"></div></div>
+    <div class="stagebar">
     <div class="tabs" role="tablist">
       <button role="tab" id="tab-map" aria-selected="true">Map</button>
       <button role="tab" id="tab-net" aria-selected="false">3D network</button>
@@ -287,6 +289,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
       <button data-z="world">World</button><button data-z="na">N. America</button><button data-z="eu">Europe</button>
       <button id="osm" aria-pressed="false" disabled title="Checking whether map tiles can load here">Street map</button>
       <button data-z="in" aria-label="Zoom in">+</button><button data-z="out" aria-label="Zoom out">−</button>
+    </div>
     </div>
     <div class="readout" id="readout"></div>
     <div class="tip" id="tip" hidden></div>
