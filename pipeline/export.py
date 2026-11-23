@@ -104,6 +104,11 @@ def main():
     case_of_canon = {c: s for s, c in own.items()}
 
     canon = {r["id"]: dict(r) for r in db.execute("SELECT id, type, name FROM canonical")}
+    # Other names each thing goes by (raw names and aliases), for matching it in video transcripts.
+    also = defaultdict(set)
+    for r in db.execute("SELECT canonical_id, name FROM entity UNION SELECT e.canonical_id, a.alias FROM alias a JOIN entity e ON e.id = a.entity_id"):
+        if r[0] is not None and r[1] and r[1].strip() and r[1].strip() != canon[r[0]]["name"]:
+            also[r[0]].add(r[1].strip())
     member = defaultdict(lambda: defaultdict(list))      # canonical entity -> case file -> evidence
     rows = db.execute("""
         SELECT c.source_id, c.predicate, c.value, c.quote,
@@ -127,7 +132,10 @@ def main():
         df = len(per_case)
         shareable = c["type"] not in LOCAL_ONLY
         w = round(math.log(N / df) / math.log(N / 2), 3) if shareable and df >= 2 and N > 2 else 0.0
-        entities.append({"id": cid, "type": c["type"], "name": c["name"], "df": df, "w": max(w, 0.0), "case": case_of_canon.get(cid)})
+        ent = {"id": cid, "type": c["type"], "name": c["name"], "df": df, "w": max(w, 0.0), "case": case_of_canon.get(cid)}
+        if also.get(cid):
+            ent["al"] = sorted(also[cid], key=len)[:8]
+        entities.append(ent)
         for case, evs in per_case.items():
             roles = sorted({ev["p"] for ev in evs if ev["tocase"]})
             links.append({"e": cid, "c": case, "roles": roles, "ev": evs})

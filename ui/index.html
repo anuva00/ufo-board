@@ -122,6 +122,36 @@ a { color: inherit; text-decoration-color: var(--link); text-underline-offset: 2
 .mapctl button { padding: 5px 9px; border: 1px solid var(--border); border-radius: 5px; background: var(--panel); color: var(--fg2); }
 .readout { position: absolute; z-index: 20; left: 12px; bottom: 10px; padding: 4px 9px; border: 1px solid var(--line); border-radius: 5px; background: var(--panel); color: var(--fg2); font-size: 11.5px; max-width: calc(100% - 24px); }
 #map, #net { position: absolute; inset: 0; }
+#srcview { position: absolute; inset: 0; overflow-y: auto; background: var(--bg); padding: 58px 20px 24px; }
+.sv { max-width: 980px; }
+.sv h2 { font: 600 18px/1.2 var(--display); margin: 0 0 4px; }
+.sv h3 { font: 600 10.5px/1.3 var(--body); letter-spacing: .09em; text-transform: uppercase; color: var(--muted); margin: 22px 0 8px; }
+.addsrc { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 6px; }
+.addsrc input { flex: 1 1 320px; min-width: 0; padding: 8px 10px; border: 1px solid var(--border); border-radius: 5px; background: var(--panel); }
+.addsrc button, .srow button, .epf button { padding: 6px 12px; border: 1px solid var(--border); border-radius: 5px; background: var(--panel); color: var(--fg2); }
+.addsrc button { background: var(--fg); color: var(--bg); border-color: var(--fg); font-weight: 600; }
+.svmsg { min-height: 1.4em; font-size: 12.5px; color: var(--fg2); }
+.svmsg.err { color: var(--link); }
+.srow { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 6px 14px; align-items: center; padding: 10px 12px; border: 1px solid var(--line); border-radius: 6px; background: var(--panel); margin-bottom: 8px; }
+.srow[aria-current="true"] { border-color: var(--fg2); }
+.srow .nm { font-weight: 600; overflow-wrap: anywhere; cursor: pointer; }
+.srow .sub3 { grid-column: 1; color: var(--fg2); font-size: 12px; overflow-wrap: anywhere; }
+.srow .acts { grid-row: 1 / 3; grid-column: 2; display: flex; gap: 6px; }
+.prog { grid-column: 1 / 3; display: flex; height: 6px; border-radius: 3px; overflow: hidden; background: var(--line); }
+.prog i { display: block; height: 100%; }
+.epf { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px; }
+.epf button[aria-pressed="true"] { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+.epf input { flex: 1 1 200px; min-width: 0; padding: 5px 9px; border: 1px solid var(--border); border-radius: 5px; background: var(--panel); }
+.eptab { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+.eptab th { text-align: left; font-weight: 500; color: var(--muted); padding: 6px 8px; border-bottom: 1px solid var(--line); white-space: nowrap; }
+.eptab td { padding: 6px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.eptab tr.ep { cursor: pointer; }
+.eptab tr.ep:hover td { background: var(--raise); }
+.eptab tr.ep[aria-current="true"] td { background: var(--raise); }
+.eptab td.num { text-align: right; white-space: nowrap; color: var(--fg2); }
+.st { display: inline-flex; align-items: center; gap: 5px; white-space: nowrap; color: var(--fg2); }
+.st i { width: 8px; height: 8px; border-radius: 50%; background: var(--sw); }
+.tblwrap { overflow-x: auto; }
 #map canvas { display: block; width: 100%; height: 100%; cursor: crosshair; }
 .netlabels { position: absolute; inset: 0; pointer-events: none; overflow: hidden; }
 .netlabels span { position: absolute; left: 0; top: 0; max-width: 150px; margin: 7px 0 0 7px; font: 500 10.5px/1.2 var(--body); color: var(--fg); text-shadow: 0 0 3px var(--sea), 0 0 3px var(--sea); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
@@ -247,9 +277,11 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
   <main class="stage" id="stage">
     <div id="map"><canvas id="mapcanvas" aria-label="World map of sighting reports and case files"></canvas></div>
     <div id="net" hidden><div id="netgraph"></div><div class="netlabels" id="netlabels"></div></div>
+    <div id="srcview" hidden><div class="sv" id="sv"></div></div>
     <div class="tabs" role="tablist">
       <button role="tab" id="tab-map" aria-selected="true">Map</button>
       <button role="tab" id="tab-net" aria-selected="false">3D network</button>
+      <button role="tab" id="tab-src" aria-selected="false">Sources</button>
     </div>
     <div class="mapctl" id="mapctl">
       <button data-z="world">World</button><button data-z="na">N. America</button><button data-z="eu">Europe</button>
@@ -911,13 +943,126 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
   }
   function setView(v) {
     S.view = v;
-    $("tab-map").setAttribute("aria-selected", String(v === "map")); $("tab-net").setAttribute("aria-selected", String(v === "net"));
-    $("map").hidden = v !== "map"; $("net").hidden = v !== "net"; $("mapctl").hidden = v !== "map"; tip.hidden = true;
-    if (v === "net") refreshNet(); else drawMap();
+    for (const t of ["map", "net", "src"]) $("tab-" + t).setAttribute("aria-selected", String(v === t));
+    $("map").hidden = v !== "map"; $("net").hidden = v !== "net"; $("srcview").hidden = v !== "src";
+    $("mapctl").hidden = v !== "map"; $("readout").hidden = v === "src"; tip.hidden = true;
+    if (v === "net") refreshNet(); else if (v === "map") drawMap(); else renderSources();
     updateReadout();
   }
   $("tab-map").addEventListener("click", () => setView("map"));
   $("tab-net").addEventListener("click", () => setView("net"));
+  $("tab-src").addEventListener("click", () => setView("src"));
+
+  // ================= sources (served by the NAS copy) =================
+  const API = { ok: false, sources: [], episodes: [], mentions: {}, health: {}, epById: new Map(), srcById: new Map() };
+  const SV = { source: null, filter: "all", q: "", msg: "", err: false };
+  const EP_ST = { done: ["Transcript saved", "--c2"], waiting: ["Waiting", "--muted"], none: ["No captions", "--c1"], failed: ["Failed, will retry", "--link"] };
+  const api = (path, opt) => fetch("api/" + path, opt).then((r) => r.json().then((j) => { if (!r.ok) throw new Error(j.error || r.statusText); return j; }));
+  const hms = (t) => { t = Math.floor(t || 0); const hh = Math.floor(t / 3600), mm = Math.floor(t / 60) % 60, ss = t % 60; return (hh ? hh + ":" + String(mm).padStart(2, "0") : mm) + ":" + String(ss).padStart(2, "0"); };
+  const ytAt = (vid, t) => `https://www.youtube.com/watch?v=${vid}&t=${Math.floor(t || 0)}s`;
+  async function loadApi() {
+    try {
+      const [health, sources, episodes, mentions] = await Promise.all([api("health"), api("sources"), api("episodes"), api("mentions")]);
+      Object.assign(API, { ok: true, health, sources, episodes, mentions });
+      API.epById = new Map(episodes.map((e) => [e.vid, e])); API.srcById = new Map(sources.map((x) => [x.id, x]));
+    } catch (err) { API.ok = false; }
+    if (S.view === "src") renderSources();
+    if (S.sel && (S.sel.kind === "ent" || S.sel.kind === "case" || S.sel.kind === "episode")) render();
+  }
+  let pollTimer = null;
+  function poll() { clearTimeout(pollTimer); loadApi().then(() => { if (API.ok) pollTimer = setTimeout(poll, S.view === "src" ? 8000 : 60000); }); }
+  function renderSources() {
+    const sv = $("sv"), keepFocus = document.activeElement && document.activeElement.id;
+    if (!API.ok) {
+      sv.replaceChildren(h("h2", {}, "Sources"), h("p", { class: "meta", style: "max-width: 62ch" },
+        "Sources run on the copy of the board on your NAS. There you can subscribe to YouTube channels: the NAS checks them every few hours, saves the captions YouTube already has for each video, and links every name the board knows to the moments it is mentioned. This published page cannot fetch videos, so the tab is empty here."));
+      return;
+    }
+    const tot = { done: 0, waiting: 0, none: 0, failed: 0, total: 0 };
+    for (const x of API.sources) for (const k in tot) tot[k] += x.counts[k] || 0;
+    const head = [h("h2", {}, "Sources"),
+      h("p", { class: "meta" }, `${API.sources.length} subscribed · ${fmt(tot.done)} transcripts saved · ${fmt(tot.waiting)} waiting · checks every ${API.health.check_hours} hours · ${API.health.activity || ""}`),
+      API.health.paused ? h("p", { class: "svmsg err" }, API.health.paused) : null];
+    const form = h("form", { class: "addsrc" },
+      h("input", { id: "srcurl", type: "url", placeholder: "Paste a YouTube channel, playlist or video link", "aria-label": "YouTube link to subscribe to", required: "" }),
+      h("button", { type: "submit" }, "Subscribe"));
+    form.addEventListener("submit", async (ev) => {
+      ev.preventDefault();
+      const url = $("srcurl").value.trim();
+      try { await api("sources", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ url }) }); SV.msg = "Subscribed. The NAS is listing the videos now; transcripts follow a few seconds apart."; SV.err = false; $("srcurl").value = ""; }
+      catch (err) { SV.msg = err.message; SV.err = true; }
+      poll();
+    });
+    const rows = API.sources.map((x) => {
+      const c = x.counts, seg = (n, v) => (n ? h("i", { style: `width: ${(100 * n / Math.max(1, c.total)).toFixed(2)}%; background: var(${v})` }) : null);
+      const checked = x.last_checked ? new Date(x.last_checked * 1000).toLocaleString() : "not yet";
+      const r = h("div", { class: "srow", "aria-current": String(SV.source === x.id) },
+        h("div", { class: "nm", on: { click: () => { SV.source = SV.source === x.id ? null : x.id; renderSources(); } } }, x.name || x.url),
+        h("div", { class: "acts" },
+          h("button", { on: { click: async () => { await api(`sources/${x.id}/check`, { method: "POST" }); SV.msg = "Checking now."; SV.err = false; poll(); } } }, "Check now"),
+          h("button", { on: { click: async () => {
+            if (r.dataset.confirm !== "1") { r.dataset.confirm = "1"; ev_btn(r, "Remove? Click again"); return; }
+            await api(`sources/${x.id}`, { method: "DELETE" }); if (SV.source === x.id) SV.source = null; SV.msg = "Removed, with its transcripts."; poll(); } } }, "Remove")),
+        h("div", { class: "sub3" }, `${x.kind} · ${fmt(c.total)} videos: ${fmt(c.done)} saved, ${fmt(c.waiting)} waiting, ${fmt(c.none)} without captions${c.failed ? `, ${fmt(c.failed)} failed` : ""} · last checked ${checked}`,
+          x.last_error ? h("span", { style: "color: var(--link)" }, " · " + x.last_error) : null),
+        h("div", { class: "prog", "aria-hidden": "true" }, seg(c.done, "--c2"), seg(c.none, "--c1"), seg(c.failed, "--link")));
+      return r;
+    });
+    const filters = [["all", "All"], ["done", "Transcript saved"], ["waiting", "Waiting"], ["none", "No captions"], ["failed", "Failed"]];
+    const fbar = h("div", { class: "epf" }, filters.map(([id, label]) => h("button", { "aria-pressed": String(SV.filter === id), on: { click: () => { SV.filter = id; renderSources(); } } }, label)),
+      h("input", { id: "epq", type: "search", placeholder: "Filter by title", value: SV.q, "aria-label": "Filter episodes by title", on: { input: (ev) => { SV.q = ev.target.value; renderSources(); } } }));
+    const q = SV.q.toLowerCase();
+    const eps = API.episodes.filter((e) => (SV.source == null || e.source_id === SV.source) && (SV.filter === "all" || e.status === SV.filter) && (!q || e.title.toLowerCase().includes(q)));
+    const sel = S.sel && S.sel.kind === "episode" ? S.sel.vid : null;
+    const table = h("div", { class: "tblwrap" }, h("table", { class: "eptab" },
+      h("thead", {}, h("tr", {}, h("th", {}, "Video"), h("th", {}, "Status"), h("th", { class: "num" }, "Length"), h("th", { class: "num" }, "Names"), h("th", { class: "num" }, "Mentions"))),
+      h("tbody", {}, eps.slice(0, 400).map((e) => h("tr", { class: "ep", "aria-current": String(sel === e.vid), tabindex: "0",
+        on: { click: () => select({ kind: "episode", vid: e.vid }), keydown: (ev) => { if (ev.key === "Enter") select({ kind: "episode", vid: e.vid }); } } },
+        h("td", {}, e.title), h("td", {}, h("span", { class: "st", style: `--sw: var(${EP_ST[e.status][1]})` }, h("i"), EP_ST[e.status][0])),
+        h("td", { class: "num" }, e.duration ? hms(e.duration) : ""), h("td", { class: "num" }, e.status === "done" ? fmt(e.names) : ""), h("td", { class: "num" }, e.status === "done" ? fmt(e.mentions) : ""))))));
+    sv.replaceChildren(...[...head, form, h("p", { class: `svmsg${SV.err ? " err" : ""}` }, SV.msg),
+      h("p", { class: "note", style: "max-width: 70ch" }, "Only the captions YouTube already has are saved; videos without captions are listed but not transcribed. Names are matched by their exact wording, so a misheard caption (\u201cGrush\u201d for Grusch) is missed, and a surname said on its own is not counted. Anyone on your network can add or remove sources."),
+      rows.length ? h("h3", {}, "Subscribed") : null, rows,
+      API.episodes.length ? h("h3", {}, `Videos${SV.source != null ? " · " + (API.srcById.get(SV.source)?.name || "") : ""} (${fmt(eps.length)})`) : null,
+      API.episodes.length ? fbar : null, API.episodes.length ? table : null,
+      eps.length > 400 ? h("p", { class: "note" }, `Showing the first 400 of ${fmt(eps.length)}. Filter to narrow the list.`) : null].flat().filter(Boolean));
+    if (keepFocus === "epq") { const el = $("epq"); el.focus(); el.setSelectionRange(el.value.length, el.value.length); }
+  }
+  function ev_btn(row, text) { const b = row.querySelectorAll(".acts button")[1]; b.textContent = text; setTimeout(() => { if (row.isConnected) { b.textContent = "Remove"; row.dataset.confirm = ""; } }, 4000); }
+  function videoMentions(eid) {
+    const list = (API.mentions[eid] || []).filter((m) => API.epById.has(m[0]));
+    if (!list.length) return null;
+    const total = list.reduce((n, m) => n + m[1], 0);
+    return [h("h3", {}, `In subscribed videos (${list.length})`), h("p", { class: "meta" }, `Said ${fmt(total)} time${total === 1 ? "" : "s"} across ${list.length} video${list.length === 1 ? "" : "s"}. Times link to the moment in the video.`),
+      list.slice(0, 30).map(([vid, n, t, snip]) => h("div", { class: "ev" },
+        h("div", { class: "claim" }, h("button", { class: "linkbtn", on: { click: () => select({ kind: "episode", vid }) } }, API.epById.get(vid).title), h("i", {}, ` · ${n}×`)),
+        snip ? h("blockquote", {}, "“" + snip + "”", h("cite", {}, h("a", { href: ytAt(vid, t), target: "_blank", rel: "noopener" }, `at ${hms(t)}`), " · auto-captions")) : null)),
+      list.length > 30 ? h("p", { class: "note" }, `${list.length - 30} more videos.`) : null];
+  }
+  async function episodePanel(vid) {
+    const e = API.epById.get(vid);
+    put(back(), h("span", { class: "tag" }, "Video"), h("h2", {}, e ? e.title : vid),
+      h("p", { class: "meta" }, [API.srcById.get(e?.source_id)?.name, e?.duration ? hms(e.duration) : null, e ? EP_ST[e.status][0] : null].filter(Boolean).join(" · ")),
+      h("a", { class: "srcdoc", href: `https://www.youtube.com/watch?v=${vid}`, target: "_blank", rel: "noopener" }, h("b", {}, "Watch on YouTube"), h("span", {}, "Opens in a new tab")));
+    if (!e || e.status !== "done") { put(h("p", { class: "empty" }, e?.error || "The transcript has not been saved yet.")); return; }
+    const box = h("div", {}, h("p", { class: "empty" }, "Reading the matches…"));
+    put(box);
+    try {
+      const d = await api("episodes/" + vid);
+      if (!(S.sel && S.sel.kind === "episode" && S.sel.vid === vid)) return;
+      const groups = new Map();
+      for (const m of d.mentions) { const en = ents.get(m.e); if (!en) continue; const g = groupLabel(en); (groups.get(g) || groups.set(g, []).get(g)).push([en, m]); }
+      if (!groups.size) { box.replaceChildren(h("p", { class: "empty" }, "No names from the board were found in this transcript.")); return; }
+      const out = [h("p", { class: "meta" }, `${d.mentions.length} names from the board, rarest first. Click a name to see it on the board; a time opens the video there.`)];
+      for (const [g, list] of groups) {
+        list.sort((a, b) => b[0].w - a[0].w || b[1].n - a[1].n);
+        out.push(h("h3", {}, `${g} (${list.length})`), h("div", { class: "rows" }, list.map(([en, m]) => h("div", { class: "row", style: "cursor: default" },
+          h("span", { class: "sw", style: sw(en) }), h("button", { class: "nm linkbtn", style: "text-align: left", on: { click: () => select(en.case != null ? { kind: "case", id: en.case } : { kind: "ent", id: en.id }, true) } }, en.name),
+          h("span", { class: "ct" }, `${m.n}× · `, h("a", { href: ytAt(vid, m.t), target: "_blank", rel: "noopener" }, hms(m.t)))))));
+      }
+      box.replaceChildren(...out);
+    } catch (err) { box.replaceChildren(h("p", { class: "empty" }, "The matches could not be read: " + err.message)); }
+  }
 
   // ================= selection =================
   function select(s, move = false) {
@@ -1032,6 +1177,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
       put(back(), h("h2", {}, s.title), h("p", { class: "meta" }, s.total > s.idx.length ? `Showing ${s.idx.length} of ${fmt(s.total)} reports, newest first.` : `${s.idx.length} report${s.idx.length === 1 ? "" : "s"}, newest first.`), reportList(s.idx));
       return;
     }
+    if (s.kind === "episode") { episodePanel(s.vid); if (S.view === "src") renderSources(); return; }
     if (s.kind === "nuke") {
       const n = s.site;
       put(back(), h("span", { class: "tag" }, nkLabel[n.k].replace(/s$/, "")), h("span", { class: "tag" }, n.cur ? nsLabel[n.cur] + (nukeYear >= NOW ? "" : " in " + nukeYear) : "Not yet started in " + nukeYear), h("h2", {}, n.n),
@@ -1065,6 +1211,8 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
         const rows = list.map((e) => entRow(e));
         put(h("h3", {}, `${label} (${list.length})`), h("div", { class: "rows" }, rows.slice(0, 40)), rows.length > 40 ? h("details", {}, h("summary", {}, `${rows.length - 40} more`), h("div", { class: "rows" }, rows.slice(40))) : null);
       }
+      const self = D.entities.find((x) => x.case === c.id);
+      if (self) put(videoMentions(self.id));
       return;
     }
     if (s.kind === "ent" || s.kind === "string") {
@@ -1072,6 +1220,7 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
       const links = (linksByEnt.get(e.id) || []).filter((l) => s.kind === "ent" || l.c === s.c);
       put(back(), h("span", { class: "tag", style: sw(e) }, h("i"), groupLabel(e)), h("h2", {}, e.name),
         h("p", { class: "meta" }, e.df > 1 ? `Named in ${e.df} of ${D.n_cases} case files.` : "Named in one case file only."));
+      put(videoMentions(e.id));
       for (const l of links) put(h("div", { class: "sub" }, caseRow(cases.get(l.c))),
         l.roles.length ? h("div", {}, l.roles.map((r) => h("span", { class: "tag" }, human(r)))) : null, evidence(l, 3));
       return;
@@ -1126,5 +1275,6 @@ details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
   new MutationObserver(retheme).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
   layout();
   render();
+  poll();
 })();
 </script>

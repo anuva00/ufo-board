@@ -63,9 +63,7 @@ Wikipedia text is CC BY-SA 4.0. US government documents are public domain.
 GEIPAN data is published by CNES; UK MoD reports are under the Open Government
 Licence. NUFORC reports are the property of the National UFO Reporting Center.
 
-## Run it with Docker
-
-On any machine with Docker (including a NAS):
+## Run it on a NAS with Docker
 
 ```bash
 git clone https://github.com/anuva00/ufo-board.git
@@ -73,31 +71,32 @@ cd ufo-board
 docker compose up -d --build
 ```
 
-Then open `http://<address-of-the-machine>:8080`. To use another port, change
-the left-hand number in `docker-compose.yml`. To update later:
+Then open `http://<address-of-the-NAS>:8080`. To use another port, change
+the left-hand number in `docker-compose.yml`. To update later, run
+`git pull` and `docker compose up -d --build` again; rebuilding also picks up
+the latest yt-dlp, which YouTube changes often make necessary.
 
-```bash
-git pull
-docker compose up -d --build
-```
+The container serves the dashboard and a small Python service
+(`server/app.py`). State is kept in `./nas-data` next to the compose file, so
+it survives rebuilds.
 
-The container is a small nginx server holding the dashboard and its data
-(`ui/`). The two JavaScript libraries are downloaded once while the image is
-built, so the running dashboard needs no internet access apart from web fonts,
-which fall back to system fonts. The data pipeline is not in the image; it is
-run separately with Python when the data needs rebuilding.
+### Sources: following YouTube channels
 
-## YouTube transcripts
+The Sources tab lists subscribed YouTube channels, playlists or single
+videos. Paste a link and the NAS:
 
-YouTube refuses transcript requests from cloud servers, so transcripts are
-fetched from a home connection:
+1. lists the videos (yt-dlp), and checks again every `CHECK_HOURS` (6);
+2. saves the captions YouTube already has for each video, a few seconds
+   apart (youtube-transcript-api). No transcription model and no paid
+   service are used; videos without captions are listed but skipped;
+3. finds every name the board knows in each transcript, by exact wording
+   after lower-casing, and shows them on the video and in each person's,
+   programme's and case's panel, with a link to the moment in the video.
 
-```bash
-docker compose run --rm transcripts
-```
+If YouTube starts refusing requests from the connection, the service pauses
+for six hours and says so in the tab. "Check now" retries straight away.
 
-This saves one file per video of the American Alchemy channel to
-`data/youtube/` (pass another channel URL to `pipeline/fetch_youtube.py` to
-change it). `python3 pipeline/add_transcripts.py` then turns them into source
-files for extraction. The transcripts are the channel's copyrighted content;
-keep the repository private if you commit them.
+Limits: auto-captions mishear names, and a surname said on its own is not
+counted, so mentions are undercounted. Transcripts stay in `nas-data` and are
+not committed. Anyone on the local network can add or remove sources.
+
